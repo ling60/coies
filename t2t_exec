@@ -1,0 +1,35 @@
+#!/bin/bash
+PROBLEM=aaer_generate_problem
+MODEL=transformer
+
+HPARAMS=transformer_base_single_gpu
+
+PROJECT=$HOME/projects/gan-accounting/python
+T2T=$PROJECT/t2t_models
+DATA_DIR=$PROJECT/data/t2t
+TMP_DIR=$DATA_DIR/tmp
+TRAIN_DIR=$DATA_DIR/train/$PROBLEM/$MODEL-$HPARAMS
+
+mkdir -p $DATA_DIR $TMP_DIR $TRAIN_DIR
+
+# t2t-trainer --t2t_usr_dir=$T2T --registry_help
+
+# Generate data
+# t2t-datagen \
+  # --data_dir=$DATA_DIR \
+  # --tmp_dir=$TMP_DIR \
+  # --problem=$PROBLEM \
+  # --t2t_usr_dir=$T2T
+
+# Train
+# *  If you run out of memory, add --hparams='batch_size=1024'.
+t2t-trainer \
+  --data_dir=$DATA_DIR \
+  --problems=$PROBLEM \
+  --model=$MODEL \
+  --hparams_set=$HPARAMS \
+  --hparams='batch_size=1024'\
+  --hparams='learning_rate_warmup_steps =16000'\
+  --output_dir=$TRAIN_DIR \
+  --t2t_usr_dir=$T2T
+  
