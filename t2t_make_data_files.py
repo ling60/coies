@@ -72,6 +72,5 @@ def make_eval_files(source_file_list, tagged=False):
 
 test_file_source = ft.get_source_file_by_example_file(const.TEST_FILE)
 # make_eval_files([test_file_source])
-# make_t2t_volcab_file()
 make_t2t_training_files()
 make_vocal_file()
