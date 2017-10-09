@@ -66,6 +66,43 @@ flags.DEFINE_string("schedule", "train_and_evaluate",
                     "Must be train_and_evaluate for decoding.")
 
 
+def _decode_input_tensor_to_features_dict(feature_map, hparams):
+    """Convert the interactive input format (see above) to a dictionary.
+
+  Args:
+    feature_map: a dictionary with keys `problem_choice` and `input` containing
+      Tensors.
+    hparams: model hyperparameters
+
+  Returns:
+    a features dictionary, as expected by the decoder.
+  """
+    inputs = tf.convert_to_tensor(feature_map["inputs"])
+    input_is_image = False
+
+    def input_fn(problem_choice, x=inputs):  # pylint: disable=missing-docstring
+        p_hparams = hparams.problems[problem_choice]
+        # Add a third empty dimension dimension
+        x = tf.expand_dims(x, axis=[2])
+        x = tf.to_int32(x)
+        return (tf.constant(p_hparams.input_space_id), tf.constant(
+            p_hparams.target_space_id), x)
+
+    input_space_id, target_space_id, x = decoding.input_fn_builder.cond_on_index(
+        input_fn, feature_map["problem_choice"], len(hparams.problems) - 1)
+
+    features = {}
+    features["problem_choice"] = feature_map["problem_choice"]
+    features["input_space_id"] = input_space_id
+    features["target_space_id"] = target_space_id
+    features["decode_length"] = (decoding.IMAGE_DECODE_LENGTH
+                                 if input_is_image else tf.shape(x)[1] + 50)
+    features["inputs"] = tf.expand_dims(x, axis=3)
+    # features["targets"] = tf.expand_dims(x, axis=3)
+    # y = tf.constant([4, 466,   7, 320,   3,   1,   0,   0])
+    return features
+
+
 def decode_from_file(estimator, filename, decode_hp, decode_to_file=None):
     """Compute predictions on entries in filename and write them out."""
     if not decode_hp.batch_size:
@@ -80,7 +117,23 @@ def decode_from_file(estimator, filename, decode_hp, decode_to_file=None):
     problem_name = FLAGS.problems.split("-")[problem_id]
     tf.logging.info("Performing decoding from a file.")
     sorted_inputs, sorted_keys = decoding._get_sorted_inputs(filename, decode_hp.shards)
+    # print(sorted_inputs)
     num_decode_batches = (len(sorted_inputs) - 1) // decode_hp.batch_size + 1
+
+    def input_fn1():
+        encoded_inputs = []
+        for ngram in sorted_inputs:
+            encoded_inputs.append(inputs_vocab.encode(ngram))
+        x = tf.convert_to_tensor(encoded_inputs)
+        x = tf.expand_dims(x, axis=[2])
+        x = tf.to_int32(x)
+        features = {"inputs": x}
+        p_hparams = hparams.problems[problem_id]
+        features["problem_choice"] = np.array(problem_id).astype(np.int32)
+        features["input_space_id"] = tf.constant(p_hparams.input_space_id)
+        features["target_space_id"] = tf.constant(p_hparams.target_space_id)
+        features["decode_length"] = tf.shape(x)[1] + 50
+        return features
 
     def input_fn():
         input_gen = decoding._decode_batch_input_fn(
@@ -88,26 +141,28 @@ def decode_from_file(estimator, filename, decode_hp, decode_to_file=None):
             decode_hp.batch_size, decode_hp.max_input_size)
         gen_fn = decoding.make_input_fn_from_generator(input_gen)
         example = gen_fn()
-        return decoding._decode_input_tensor_to_features_dict(example, hparams)
-
+        # return decoding._decode_input_tensor_to_features_dict(example, hparams)
+        return _decode_input_tensor_to_features_dict(example, hparams)
 
     decodes = []
-    result_iter = estimator.predict(input_fn)
+    # result_iter = estimator.predict(input_fn)
+    result_iter = estimator.evaluate(input_fn)
     for result in result_iter:
+        print(result)
         if decode_hp.return_beams:
             beam_decodes = []
             output_beams = np.split(result["outputs"], decode_hp.beam_size, axis=0)
             for k, beam in enumerate(output_beams):
                 tf.logging.info("BEAM %d:" % k)
                 decoded_outputs, _ = decoding.log_decode_results(result["inputs"], beam,
-                                                        problem_name, None,
-                                                        inputs_vocab, targets_vocab)
+                                                                 problem_name, None,
+                                                                 inputs_vocab, targets_vocab)
                 beam_decodes.append(decoded_outputs)
             decodes.append("\t".join(beam_decodes))
         else:
             decoded_outputs, _ = decoding.log_decode_results(result["inputs"],
-                                                    result["outputs"], problem_name,
-                                                    None, inputs_vocab, targets_vocab)
+                                                             result["outputs"], problem_name,
+                                                             None, inputs_vocab, targets_vocab)
             decodes.append(decoded_outputs)
 
     # Reversing the decoded inputs and outputs because they were reversed in
@@ -142,7 +197,9 @@ def main(_):
 
     hparams = trainer_utils.create_hparams(
         FLAGS.hparams_set, data_dir, passed_hparams=FLAGS.hparams)
-    hparams = trainer_utils.add_problem_hparams(hparams, FLAGS.problems)
+
+    trainer_utils.add_problem_hparams(hparams, FLAGS.problems)
+
     estimator, _ = trainer_utils.create_experiment_components(
         data_dir=data_dir,
         model_name=FLAGS.model,
@@ -155,7 +212,7 @@ def main(_):
         decoding.decode_interactively(estimator, decode_hp)
     elif FLAGS.decode_from_file:
         decode_from_file(estimator, FLAGS.decode_from_file, decode_hp,
-                                  FLAGS.decode_to_file)
+                         FLAGS.decode_to_file)
     else:
         decoding.decode_from_dataset(estimator,
                                      FLAGS.problems.split("-"), decode_hp,
