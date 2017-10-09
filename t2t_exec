@@ -36,7 +36,7 @@ mkdir -p $DATA_DIR $TMP_DIR $TRAIN_DIR
 DECODE_FILE=$DATA_DIR/aaer_source_eval
 DECODE_OUTPUT=$DECODE_FILE.result
 touch $DECODE_OUTPUT
-t2t-decoder \
+python3 t2t-decoder-1.py \
   --data_dir=$DATA_DIR \
   --problems=$PROBLEM \
   --model=$MODEL \
@@ -45,5 +45,3 @@ t2t-decoder \
   --decode_from_file=$DECODE_FILE \
   --decode_to_file=$DECODE_OUTPUT \
   --t2t_usr_dir=$T2T
-  
-  
