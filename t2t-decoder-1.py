@@ -41,6 +41,8 @@ from tensor2tensor.utils import decoding
 from tensor2tensor.utils import trainer_utils
 from tensor2tensor.utils import usr_dir
 
+from t2t_models import my_hooks
+
 import tensorflow as tf
 
 import numpy as np
@@ -98,7 +100,7 @@ def _decode_input_tensor_to_features_dict(feature_map, hparams):
     features["decode_length"] = (decoding.IMAGE_DECODE_LENGTH
                                  if input_is_image else tf.shape(x)[1] + 50)
     features["inputs"] = tf.expand_dims(x, axis=3)
-    # features["targets"] = tf.expand_dims(x, axis=3)
+    features["targets"] = tf.expand_dims(x, axis=3)
     # y = tf.constant([4, 466,   7, 320,   3,   1,   0,   0])
     return features
 
@@ -128,6 +130,7 @@ def decode_from_file(estimator, filename, decode_hp, decode_to_file=None):
         x = tf.expand_dims(x, axis=[2])
         x = tf.to_int32(x)
         features = {"inputs": x}
+        # features["targets"] = tf.expand_dims(x, axis=[3])
         p_hparams = hparams.problems[problem_id]
         features["problem_choice"] = np.array(problem_id).astype(np.int32)
         features["input_space_id"] = tf.constant(p_hparams.input_space_id)
@@ -145,25 +148,30 @@ def decode_from_file(estimator, filename, decode_hp, decode_to_file=None):
         return _decode_input_tensor_to_features_dict(example, hparams)
 
     decodes = []
+    p_hparams = hparams.problems[problem_id]
+    print(p_hparams.target_modality)
+    my_hook = my_hooks.PredictHook(tensors=[], every_n_iter=1)
+    my_hook.begin()
     # result_iter = estimator.predict(input_fn)
-    result_iter = estimator.evaluate(input_fn)
+    result_iter = estimator.evaluate(input_fn, hooks=[my_hook])
     for result in result_iter:
+        print('result:')
         print(result)
-        if decode_hp.return_beams:
-            beam_decodes = []
-            output_beams = np.split(result["outputs"], decode_hp.beam_size, axis=0)
-            for k, beam in enumerate(output_beams):
-                tf.logging.info("BEAM %d:" % k)
-                decoded_outputs, _ = decoding.log_decode_results(result["inputs"], beam,
-                                                                 problem_name, None,
-                                                                 inputs_vocab, targets_vocab)
-                beam_decodes.append(decoded_outputs)
-            decodes.append("\t".join(beam_decodes))
-        else:
-            decoded_outputs, _ = decoding.log_decode_results(result["inputs"],
-                                                             result["outputs"], problem_name,
-                                                             None, inputs_vocab, targets_vocab)
-            decodes.append(decoded_outputs)
+        # if decode_hp.return_beams:
+        #     beam_decodes = []
+        #     output_beams = np.split(result["outputs"], decode_hp.beam_size, axis=0)
+        #     for k, beam in enumerate(output_beams):
+        #         tf.logging.info("BEAM %d:" % k)
+        #         decoded_outputs, _ = decoding.log_decode_results(result["inputs"], beam,
+        #                                                          problem_name, None,
+        #                                                          inputs_vocab, targets_vocab)
+        #         beam_decodes.append(decoded_outputs)
+        #     decodes.append("\t".join(beam_decodes))
+        # else:
+        #     decoded_outputs, _ = decoding.log_decode_results(result["inputs"],
+        #                                                      result["outputs"], problem_name,
+        #                                                      None, inputs_vocab, targets_vocab)
+        #     decodes.append(decoded_outputs)
 
     # Reversing the decoded inputs and outputs because they were reversed in
     # _decode_batch_input_fn
@@ -199,6 +207,7 @@ def main(_):
         FLAGS.hparams_set, data_dir, passed_hparams=FLAGS.hparams)
 
     trainer_utils.add_problem_hparams(hparams, FLAGS.problems)
+    print(hparams)
 
     estimator, _ = trainer_utils.create_experiment_components(
         data_dir=data_dir,
