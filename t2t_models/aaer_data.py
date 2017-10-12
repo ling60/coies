@@ -132,6 +132,10 @@ class AAERGenerateProblem(TextGenerateProblem):
         return token_generator(definitions.T2T_AAER_SOURCE_PATH, definitions.T2T_AAER_TARGETS_PATH, token_vocab,
                                EOS)
 
+    def eval_metrics(self):
+        metrics = super().eval_metrics()
+        return metrics
+
     @property
     def input_space_id(self):
         return problem.SpaceID.EN_BPE_TOK

@@ -44,6 +44,7 @@ from tensor2tensor.utils import usr_dir
 from t2t_models import my_hooks
 
 import tensorflow as tf
+from tensorflow.contrib import learn
 
 import numpy as np
 
@@ -99,6 +100,7 @@ def _decode_input_tensor_to_features_dict(feature_map, hparams):
     features["target_space_id"] = target_space_id
     features["decode_length"] = (decoding.IMAGE_DECODE_LENGTH
                                  if input_is_image else tf.shape(x)[1] + 50)
+    # features["inputs"] = x
     features["inputs"] = tf.expand_dims(x, axis=3)
     features["targets"] = tf.expand_dims(x, axis=3)
     # y = tf.constant([4, 466,   7, 320,   3,   1,   0,   0])
@@ -122,21 +124,21 @@ def decode_from_file(estimator, filename, decode_hp, decode_to_file=None):
     # print(sorted_inputs)
     num_decode_batches = (len(sorted_inputs) - 1) // decode_hp.batch_size + 1
 
-    def input_fn1():
-        encoded_inputs = []
-        for ngram in sorted_inputs:
-            encoded_inputs.append(inputs_vocab.encode(ngram))
-        x = tf.convert_to_tensor(encoded_inputs)
-        x = tf.expand_dims(x, axis=[2])
-        x = tf.to_int32(x)
-        features = {"inputs": x}
-        # features["targets"] = tf.expand_dims(x, axis=[3])
-        p_hparams = hparams.problems[problem_id]
-        features["problem_choice"] = np.array(problem_id).astype(np.int32)
-        features["input_space_id"] = tf.constant(p_hparams.input_space_id)
-        features["target_space_id"] = tf.constant(p_hparams.target_space_id)
-        features["decode_length"] = tf.shape(x)[1] + 50
-        return features
+    # def input_fn1():
+    #     encoded_inputs = []
+    #     for ngram in sorted_inputs:
+    #         encoded_inputs.append(inputs_vocab.encode(ngram))
+    #     x = tf.convert_to_tensor(encoded_inputs)
+    #     x = tf.expand_dims(x, axis=[2])
+    #     x = tf.to_int32(x)
+    #     features = {"inputs": x}
+    #     # features["targets"] = tf.expand_dims(x, axis=[3])
+    #     p_hparams = hparams.problems[problem_id]
+    #     features["problem_choice"] = np.array(problem_id).astype(np.int32)
+    #     features["input_space_id"] = tf.constant(p_hparams.input_space_id)
+    #     features["target_space_id"] = tf.constant(p_hparams.target_space_id)
+    #     features["decode_length"] = tf.shape(x)[1] + 50
+    #     return features
 
     def input_fn():
         input_gen = decoding._decode_batch_input_fn(
@@ -152,8 +154,34 @@ def decode_from_file(estimator, filename, decode_hp, decode_to_file=None):
     print(p_hparams.target_modality)
     my_hook = my_hooks.PredictHook(tensors=[], every_n_iter=1)
     my_hook.begin()
-    # result_iter = estimator.predict(input_fn)
+    # result_iter = estimator.predict(input_fn, hooks=[my_hook])
     result_iter = estimator.evaluate(input_fn, hooks=[my_hook])
+    # result_iter = []
+    # experiment = learn.Experiment(
+    #     estimator=estimator,
+    #     train_input_fn=input_fn,
+    #     eval_input_fn=input_fn,
+    #     eval_hooks=[my_hook],
+    #     eval_delay_secs=None,
+    #     # eval_steps=1,
+    #     continuous_eval_throttle_secs=0
+    # )
+
+    # def eval_output_fn(eval_result):
+    #     tf.logging.info(eval_result)
+    #     # print(estimator._eval_metrics)
+    #     # tf_eval = tf.Variable("", trainable=False, name='eval')
+    #     if type(eval_result) is dict and len(eval_result) < 2:
+    #         return False
+    #         # raise EnvironmentError(eval_result)
+    #         # tf_eval = tf.Variable(eval_result, trainable=False, name='eval')
+    #         # tf.logging.info(tf_eval)
+    #     return True
+
+    # for i in range(10):
+    #     print(experiment.evaluate())
+    # experiment.continuous_eval(continuous_eval_predicate_fn=eval_output_fn, evaluate_checkpoint_only_once=False)
+
     for result in result_iter:
         print('result:')
         print(result)
@@ -217,6 +245,7 @@ def main(_):
 
     decode_hp = decoding.decode_hparams(FLAGS.decode_hparams)
     decode_hp.add_hparam("shards", FLAGS.decode_shards)
+    decode_hp.batch_size = 5
     if FLAGS.decode_interactive:
         decoding.decode_interactively(estimator, decode_hp)
     elif FLAGS.decode_from_file:
