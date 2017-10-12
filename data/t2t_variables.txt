@@ -1,0 +1,214 @@
+<tf.Variable 'global_step:0' shape=() dtype=int64_ref>
+<tf.Variable 'symbol_modality_35027_512/shared/weights_0:0' shape=(2190, 512) dtype=float32_ref>
+<tf.Variable 'symbol_modality_35027_512/shared/weights_1:0' shape=(2190, 512) dtype=float32_ref>
+<tf.Variable 'symbol_modality_35027_512/shared/weights_2:0' shape=(2190, 512) dtype=float32_ref>
+<tf.Variable 'symbol_modality_35027_512/shared/weights_3:0' shape=(2189, 512) dtype=float32_ref>
+<tf.Variable 'symbol_modality_35027_512/shared/weights_4:0' shape=(2189, 512) dtype=float32_ref>
+<tf.Variable 'symbol_modality_35027_512/shared/weights_5:0' shape=(2189, 512) dtype=float32_ref>
+<tf.Variable 'symbol_modality_35027_512/shared/weights_6:0' shape=(2189, 512) dtype=float32_ref>
+<tf.Variable 'symbol_modality_35027_512/shared/weights_7:0' shape=(2189, 512) dtype=float32_ref>
+<tf.Variable 'symbol_modality_35027_512/shared/weights_8:0' shape=(2189, 512) dtype=float32_ref>
+<tf.Variable 'symbol_modality_35027_512/shared/weights_9:0' shape=(2189, 512) dtype=float32_ref>
+<tf.Variable 'symbol_modality_35027_512/shared/weights_10:0' shape=(2189, 512) dtype=float32_ref>
+<tf.Variable 'symbol_modality_35027_512/shared/weights_11:0' shape=(2189, 512) dtype=float32_ref>
+<tf.Variable 'symbol_modality_35027_512/shared/weights_12:0' shape=(2189, 512) dtype=float32_ref>
+<tf.Variable 'symbol_modality_35027_512/shared/weights_13:0' shape=(2189, 512) dtype=float32_ref>
+<tf.Variable 'symbol_modality_35027_512/shared/weights_14:0' shape=(2189, 512) dtype=float32_ref>
+<tf.Variable 'symbol_modality_35027_512/shared/weights_15:0' shape=(2189, 512) dtype=float32_ref>
+<tf.Variable 'body/target_space_embedding/kernel:0' shape=(32, 512) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_0/self_attention/multihead_attention/qkv_transform_single/kernel:0' shape=(1, 1, 512, 1536) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_0/self_attention/multihead_attention/qkv_transform_single/bias:0' shape=(1536,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_0/self_attention/multihead_attention/output_transform_single/kernel:0' shape=(1, 1, 512, 512) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_0/self_attention/multihead_attention/output_transform_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_0/self_attention/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_0/self_attention/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_0/ffn/conv_hidden_relu/conv1_single/kernel:0' shape=(1, 1, 512, 2048) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_0/ffn/conv_hidden_relu/conv1_single/bias:0' shape=(2048,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_0/ffn/conv_hidden_relu/conv2_single/kernel:0' shape=(1, 1, 2048, 512) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_0/ffn/conv_hidden_relu/conv2_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_0/ffn/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_0/ffn/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_1/self_attention/multihead_attention/qkv_transform_single/kernel:0' shape=(1, 1, 512, 1536) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_1/self_attention/multihead_attention/qkv_transform_single/bias:0' shape=(1536,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_1/self_attention/multihead_attention/output_transform_single/kernel:0' shape=(1, 1, 512, 512) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_1/self_attention/multihead_attention/output_transform_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_1/self_attention/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_1/self_attention/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_1/ffn/conv_hidden_relu/conv1_single/kernel:0' shape=(1, 1, 512, 2048) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_1/ffn/conv_hidden_relu/conv1_single/bias:0' shape=(2048,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_1/ffn/conv_hidden_relu/conv2_single/kernel:0' shape=(1, 1, 2048, 512) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_1/ffn/conv_hidden_relu/conv2_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_1/ffn/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_1/ffn/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_2/self_attention/multihead_attention/qkv_transform_single/kernel:0' shape=(1, 1, 512, 1536) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_2/self_attention/multihead_attention/qkv_transform_single/bias:0' shape=(1536,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_2/self_attention/multihead_attention/output_transform_single/kernel:0' shape=(1, 1, 512, 512) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_2/self_attention/multihead_attention/output_transform_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_2/self_attention/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_2/self_attention/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_2/ffn/conv_hidden_relu/conv1_single/kernel:0' shape=(1, 1, 512, 2048) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_2/ffn/conv_hidden_relu/conv1_single/bias:0' shape=(2048,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_2/ffn/conv_hidden_relu/conv2_single/kernel:0' shape=(1, 1, 2048, 512) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_2/ffn/conv_hidden_relu/conv2_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_2/ffn/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_2/ffn/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_3/self_attention/multihead_attention/qkv_transform_single/kernel:0' shape=(1, 1, 512, 1536) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_3/self_attention/multihead_attention/qkv_transform_single/bias:0' shape=(1536,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_3/self_attention/multihead_attention/output_transform_single/kernel:0' shape=(1, 1, 512, 512) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_3/self_attention/multihead_attention/output_transform_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_3/self_attention/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_3/self_attention/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_3/ffn/conv_hidden_relu/conv1_single/kernel:0' shape=(1, 1, 512, 2048) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_3/ffn/conv_hidden_relu/conv1_single/bias:0' shape=(2048,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_3/ffn/conv_hidden_relu/conv2_single/kernel:0' shape=(1, 1, 2048, 512) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_3/ffn/conv_hidden_relu/conv2_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_3/ffn/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_3/ffn/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_4/self_attention/multihead_attention/qkv_transform_single/kernel:0' shape=(1, 1, 512, 1536) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_4/self_attention/multihead_attention/qkv_transform_single/bias:0' shape=(1536,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_4/self_attention/multihead_attention/output_transform_single/kernel:0' shape=(1, 1, 512, 512) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_4/self_attention/multihead_attention/output_transform_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_4/self_attention/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_4/self_attention/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_4/ffn/conv_hidden_relu/conv1_single/kernel:0' shape=(1, 1, 512, 2048) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_4/ffn/conv_hidden_relu/conv1_single/bias:0' shape=(2048,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_4/ffn/conv_hidden_relu/conv2_single/kernel:0' shape=(1, 1, 2048, 512) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_4/ffn/conv_hidden_relu/conv2_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_4/ffn/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_4/ffn/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_5/self_attention/multihead_attention/qkv_transform_single/kernel:0' shape=(1, 1, 512, 1536) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_5/self_attention/multihead_attention/qkv_transform_single/bias:0' shape=(1536,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_5/self_attention/multihead_attention/output_transform_single/kernel:0' shape=(1, 1, 512, 512) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_5/self_attention/multihead_attention/output_transform_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_5/self_attention/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_5/self_attention/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_5/ffn/conv_hidden_relu/conv1_single/kernel:0' shape=(1, 1, 512, 2048) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_5/ffn/conv_hidden_relu/conv1_single/bias:0' shape=(2048,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_5/ffn/conv_hidden_relu/conv2_single/kernel:0' shape=(1, 1, 2048, 512) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_5/ffn/conv_hidden_relu/conv2_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_5/ffn/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/encoder/layer_5/ffn/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_0/self_attention/multihead_attention/qkv_transform_single/kernel:0' shape=(1, 1, 512, 1536) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_0/self_attention/multihead_attention/qkv_transform_single/bias:0' shape=(1536,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_0/self_attention/multihead_attention/output_transform_single/kernel:0' shape=(1, 1, 512, 512) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_0/self_attention/multihead_attention/output_transform_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_0/self_attention/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_0/self_attention/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_0/encdec_attention/multihead_attention/q_transform_single/kernel:0' shape=(1, 1, 512, 512) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_0/encdec_attention/multihead_attention/q_transform_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_0/encdec_attention/multihead_attention/kv_transform_single/kernel:0' shape=(1, 1, 512, 1024) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_0/encdec_attention/multihead_attention/kv_transform_single/bias:0' shape=(1024,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_0/encdec_attention/multihead_attention/output_transform_single/kernel:0' shape=(1, 1, 512, 512) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_0/encdec_attention/multihead_attention/output_transform_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_0/encdec_attention/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_0/encdec_attention/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_0/ffn/conv_hidden_relu/conv1_single/kernel:0' shape=(1, 1, 512, 2048) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_0/ffn/conv_hidden_relu/conv1_single/bias:0' shape=(2048,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_0/ffn/conv_hidden_relu/conv2_single/kernel:0' shape=(1, 1, 2048, 512) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_0/ffn/conv_hidden_relu/conv2_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_0/ffn/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_0/ffn/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_1/self_attention/multihead_attention/qkv_transform_single/kernel:0' shape=(1, 1, 512, 1536) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_1/self_attention/multihead_attention/qkv_transform_single/bias:0' shape=(1536,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_1/self_attention/multihead_attention/output_transform_single/kernel:0' shape=(1, 1, 512, 512) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_1/self_attention/multihead_attention/output_transform_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_1/self_attention/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_1/self_attention/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_1/encdec_attention/multihead_attention/q_transform_single/kernel:0' shape=(1, 1, 512, 512) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_1/encdec_attention/multihead_attention/q_transform_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_1/encdec_attention/multihead_attention/kv_transform_single/kernel:0' shape=(1, 1, 512, 1024) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_1/encdec_attention/multihead_attention/kv_transform_single/bias:0' shape=(1024,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_1/encdec_attention/multihead_attention/output_transform_single/kernel:0' shape=(1, 1, 512, 512) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_1/encdec_attention/multihead_attention/output_transform_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_1/encdec_attention/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_1/encdec_attention/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_1/ffn/conv_hidden_relu/conv1_single/kernel:0' shape=(1, 1, 512, 2048) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_1/ffn/conv_hidden_relu/conv1_single/bias:0' shape=(2048,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_1/ffn/conv_hidden_relu/conv2_single/kernel:0' shape=(1, 1, 2048, 512) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_1/ffn/conv_hidden_relu/conv2_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_1/ffn/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_1/ffn/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_2/self_attention/multihead_attention/qkv_transform_single/kernel:0' shape=(1, 1, 512, 1536) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_2/self_attention/multihead_attention/qkv_transform_single/bias:0' shape=(1536,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_2/self_attention/multihead_attention/output_transform_single/kernel:0' shape=(1, 1, 512, 512) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_2/self_attention/multihead_attention/output_transform_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_2/self_attention/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_2/self_attention/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_2/encdec_attention/multihead_attention/q_transform_single/kernel:0' shape=(1, 1, 512, 512) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_2/encdec_attention/multihead_attention/q_transform_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_2/encdec_attention/multihead_attention/kv_transform_single/kernel:0' shape=(1, 1, 512, 1024) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_2/encdec_attention/multihead_attention/kv_transform_single/bias:0' shape=(1024,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_2/encdec_attention/multihead_attention/output_transform_single/kernel:0' shape=(1, 1, 512, 512) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_2/encdec_attention/multihead_attention/output_transform_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_2/encdec_attention/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_2/encdec_attention/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_2/ffn/conv_hidden_relu/conv1_single/kernel:0' shape=(1, 1, 512, 2048) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_2/ffn/conv_hidden_relu/conv1_single/bias:0' shape=(2048,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_2/ffn/conv_hidden_relu/conv2_single/kernel:0' shape=(1, 1, 2048, 512) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_2/ffn/conv_hidden_relu/conv2_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_2/ffn/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_2/ffn/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_3/self_attention/multihead_attention/qkv_transform_single/kernel:0' shape=(1, 1, 512, 1536) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_3/self_attention/multihead_attention/qkv_transform_single/bias:0' shape=(1536,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_3/self_attention/multihead_attention/output_transform_single/kernel:0' shape=(1, 1, 512, 512) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_3/self_attention/multihead_attention/output_transform_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_3/self_attention/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_3/self_attention/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_3/encdec_attention/multihead_attention/q_transform_single/kernel:0' shape=(1, 1, 512, 512) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_3/encdec_attention/multihead_attention/q_transform_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_3/encdec_attention/multihead_attention/kv_transform_single/kernel:0' shape=(1, 1, 512, 1024) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_3/encdec_attention/multihead_attention/kv_transform_single/bias:0' shape=(1024,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_3/encdec_attention/multihead_attention/output_transform_single/kernel:0' shape=(1, 1, 512, 512) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_3/encdec_attention/multihead_attention/output_transform_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_3/encdec_attention/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_3/encdec_attention/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_3/ffn/conv_hidden_relu/conv1_single/kernel:0' shape=(1, 1, 512, 2048) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_3/ffn/conv_hidden_relu/conv1_single/bias:0' shape=(2048,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_3/ffn/conv_hidden_relu/conv2_single/kernel:0' shape=(1, 1, 2048, 512) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_3/ffn/conv_hidden_relu/conv2_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_3/ffn/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_3/ffn/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_4/self_attention/multihead_attention/qkv_transform_single/kernel:0' shape=(1, 1, 512, 1536) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_4/self_attention/multihead_attention/qkv_transform_single/bias:0' shape=(1536,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_4/self_attention/multihead_attention/output_transform_single/kernel:0' shape=(1, 1, 512, 512) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_4/self_attention/multihead_attention/output_transform_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_4/self_attention/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_4/self_attention/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_4/encdec_attention/multihead_attention/q_transform_single/kernel:0' shape=(1, 1, 512, 512) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_4/encdec_attention/multihead_attention/q_transform_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_4/encdec_attention/multihead_attention/kv_transform_single/kernel:0' shape=(1, 1, 512, 1024) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_4/encdec_attention/multihead_attention/kv_transform_single/bias:0' shape=(1024,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_4/encdec_attention/multihead_attention/output_transform_single/kernel:0' shape=(1, 1, 512, 512) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_4/encdec_attention/multihead_attention/output_transform_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_4/encdec_attention/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_4/encdec_attention/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_4/ffn/conv_hidden_relu/conv1_single/kernel:0' shape=(1, 1, 512, 2048) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_4/ffn/conv_hidden_relu/conv1_single/bias:0' shape=(2048,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_4/ffn/conv_hidden_relu/conv2_single/kernel:0' shape=(1, 1, 2048, 512) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_4/ffn/conv_hidden_relu/conv2_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_4/ffn/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_4/ffn/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_5/self_attention/multihead_attention/qkv_transform_single/kernel:0' shape=(1, 1, 512, 1536) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_5/self_attention/multihead_attention/qkv_transform_single/bias:0' shape=(1536,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_5/self_attention/multihead_attention/output_transform_single/kernel:0' shape=(1, 1, 512, 512) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_5/self_attention/multihead_attention/output_transform_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_5/self_attention/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_5/self_attention/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_5/encdec_attention/multihead_attention/q_transform_single/kernel:0' shape=(1, 1, 512, 512) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_5/encdec_attention/multihead_attention/q_transform_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_5/encdec_attention/multihead_attention/kv_transform_single/kernel:0' shape=(1, 1, 512, 1024) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_5/encdec_attention/multihead_attention/kv_transform_single/bias:0' shape=(1024,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_5/encdec_attention/multihead_attention/output_transform_single/kernel:0' shape=(1, 1, 512, 512) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_5/encdec_attention/multihead_attention/output_transform_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_5/encdec_attention/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_5/encdec_attention/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_5/ffn/conv_hidden_relu/conv1_single/kernel:0' shape=(1, 1, 512, 2048) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_5/ffn/conv_hidden_relu/conv1_single/bias:0' shape=(2048,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_5/ffn/conv_hidden_relu/conv2_single/kernel:0' shape=(1, 1, 2048, 512) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_5/ffn/conv_hidden_relu/conv2_single/bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_5/ffn/layer_postprocess/layer_norm/layer_norm_scale:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'body/decoder/layer_5/ffn/layer_postprocess/layer_norm/layer_norm_bias:0' shape=(512,) dtype=float32_ref>
+<tf.Variable 'losses_avg/problem_0/extra_loss:0' shape=() dtype=float32_ref>
+<tf.Variable 'losses_avg/problem_0/training_loss:0' shape=() dtype=float32_ref>
+<tf.Variable 'losses_avg/problem_0/total_loss:0' shape=() dtype=float32_ref>
+<tf.Variable 'train_stats/problem_0_steps:0' shape=() dtype=int32_ref>
