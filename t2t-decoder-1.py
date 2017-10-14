@@ -69,6 +69,135 @@ flags.DEFINE_string("schedule", "train_and_evaluate",
                     "Must be train_and_evaluate for decoding.")
 
 
+def numpy_input_fn(x,
+                   y=None,
+                   batch_size=128,
+                   num_epochs=1,
+                   shuffle=None,
+                   queue_capacity=1000,
+                   num_threads=1):
+  """Returns input function that would feed dict of numpy arrays into the model.
+
+  This returns a function outputting `features` and `target` based on the dict
+  of numpy arrays. The dict `features` has the same keys as the `x`.
+
+  Example:
+
+  ```python
+  age = np.arange(4) * 1.0
+  height = np.arange(32, 36)
+  x = {'age': age, 'height': height}
+  y = np.arange(-32, -28)
+
+  with tf.Session() as session:
+    input_fn = numpy_io.numpy_input_fn(
+        x, y, batch_size=2, shuffle=False, num_epochs=1)
+  ```
+
+  Args:
+    x: dict of numpy array object.
+    y: numpy array object. `None` if absent.
+    batch_size: Integer, size of batches to return.
+    num_epochs: Integer, number of epochs to iterate over data. If `None` will
+      run forever.
+    shuffle: Boolean, if True shuffles the queue. Avoid shuffle at prediction
+      time.
+    queue_capacity: Integer, size of queue to accumulate.
+    num_threads: Integer, number of threads used for reading and enqueueing. In
+      order to have predicted and repeatable order of reading and enqueueing,
+      such as in prediction and evaluation mode, `num_threads` should be 1.
+
+  Returns:
+    Function, that has signature of ()->(dict of `features`, `target`)
+
+  Raises:
+    ValueError: if the shape of `y` mismatches the shape of values in `x` (i.e.,
+      values in `x` have same shape).
+    TypeError: `x` is not a dict or `shuffle` is not bool.
+  """
+
+  if not isinstance(shuffle, bool):
+    raise TypeError('shuffle must be explicitly set as boolean; '
+                    'got {}'.format(shuffle))
+
+  def input_fn():
+    """Numpy input function."""
+    if not isinstance(x, dict):
+      raise TypeError('x must be dict; got {}'.format(type(x).__name__))
+
+    # Make a shadow copy and also ensure the order of iteration is consistent.
+    ordered_dict_x = collections.OrderedDict(
+        sorted(x.items(), key=lambda t: t[0]))
+
+    unique_target_key = _get_unique_target_key(ordered_dict_x)
+    if y is not None:
+      ordered_dict_x[unique_target_key] = y
+
+    if len(set(v.shape[0] for v in ordered_dict_x.values())) != 1:
+      shape_dict_of_x = {k: ordered_dict_x[k].shape
+                         for k in ordered_dict_x.keys()}
+      shape_of_y = None if y is None else y.shape
+      raise ValueError('Length of tensors in x and y is mismatched. All '
+                       'elements in x and y must have the same length.\n'
+                       'Shapes in x: {}\n'
+                       'Shape for y: {}\n'.format(shape_dict_of_x, shape_of_y))
+
+    queue = feeding_functions._enqueue_data(  # pylint: disable=protected-access
+        ordered_dict_x,
+        queue_capacity,
+        shuffle=shuffle,
+        num_threads=num_threads,
+        enqueue_size=batch_size,
+        num_epochs=num_epochs)
+
+    features = (queue.dequeue_many(batch_size) if num_epochs is None
+                else queue.dequeue_up_to(batch_size))
+
+    # Remove the first `Tensor` in `features`, which is the row number.
+    if len(features) > 0:
+      features.pop(0)
+
+    features = dict(zip(ordered_dict_x.keys(), features))
+    if y is not None:
+      target = features.pop(unique_target_key)
+      return features, target
+    return features
+
+  return input_fn
+
+
+def _decode_batch_input_fn(problem_id, num_decode_batches, sorted_inputs,
+                           vocabulary, batch_size, max_input_size):
+    tf.logging.info(" batch %d" % num_decode_batches)
+    # First reverse all the input sentences so that if you're going to get OOMs,
+    # you'll see it in the first batch
+    sorted_inputs.reverse()
+    for b in range(num_decode_batches):
+        tf.logging.info("Decoding batch %d" % b)
+        batch_length = 0
+        batch_inputs = []
+        for inputs in sorted_inputs[b * batch_size:(b + 1) * batch_size]:
+            tf.logging.info(inputs)
+            input_ids = vocabulary.encode(inputs)
+            if max_input_size > 0:
+                # Subtract 1 for the EOS_ID.
+                input_ids = input_ids[:max_input_size - 1]
+            input_ids.append(decoding.text_encoder.EOS_ID)
+            batch_inputs.append(input_ids)
+            if len(input_ids) > batch_length:
+                batch_length = len(input_ids)
+        final_batch_inputs = []
+        for input_ids in batch_inputs:
+            assert len(input_ids) <= batch_length
+            x = input_ids + [0] * (batch_length - len(input_ids))
+            final_batch_inputs.append(x)
+
+        yield {
+            "inputs": np.array(final_batch_inputs).astype(np.int32),
+            "problem_choice": np.array(problem_id).astype(np.int32),
+        }
+
+
 def _decode_input_tensor_to_features_dict(feature_map, hparams):
     """Convert the interactive input format (see above) to a dictionary.
 
@@ -86,7 +215,7 @@ def _decode_input_tensor_to_features_dict(feature_map, hparams):
     def input_fn(problem_choice, x=inputs):  # pylint: disable=missing-docstring
         p_hparams = hparams.problems[problem_choice]
         # Add a third empty dimension dimension
-        x = tf.expand_dims(x, axis=[2])
+        x = tf.expand_dims(x, axis=2)
         x = tf.to_int32(x)
         return (tf.constant(p_hparams.input_space_id), tf.constant(
             p_hparams.target_space_id), x)
@@ -101,10 +230,12 @@ def _decode_input_tensor_to_features_dict(feature_map, hparams):
     features["decode_length"] = (decoding.IMAGE_DECODE_LENGTH
                                  if input_is_image else tf.shape(x)[1] + 50)
     # features["inputs"] = x
-    features["inputs"] = tf.expand_dims(x, axis=3)
-    features["targets"] = tf.expand_dims(x, axis=3)
+    # for evaluation, x needs to be added with a fourth dim. (not needed for prediction)
+    x = tf.expand_dims(x, axis=3)
+    features["inputs"] = x
+    # features["targets"] = tf.fill([5, 1, 1, 1], 0)
     # y = tf.constant([4, 466,   7, 320,   3,   1,   0,   0])
-    return features
+    return features, x
 
 
 def decode_from_file(estimator, filename, decode_hp, decode_to_file=None):
@@ -124,49 +255,127 @@ def decode_from_file(estimator, filename, decode_hp, decode_to_file=None):
     # print(sorted_inputs)
     num_decode_batches = (len(sorted_inputs) - 1) // decode_hp.batch_size + 1
 
-    # def input_fn1():
-    #     encoded_inputs = []
-    #     for ngram in sorted_inputs:
-    #         encoded_inputs.append(inputs_vocab.encode(ngram))
-    #     x = tf.convert_to_tensor(encoded_inputs)
-    #     x = tf.expand_dims(x, axis=[2])
-    #     x = tf.to_int32(x)
-    #     features = {"inputs": x}
-    #     # features["targets"] = tf.expand_dims(x, axis=[3])
-    #     p_hparams = hparams.problems[problem_id]
-    #     features["problem_choice"] = np.array(problem_id).astype(np.int32)
-    #     features["input_space_id"] = tf.constant(p_hparams.input_space_id)
-    #     features["target_space_id"] = tf.constant(p_hparams.target_space_id)
-    #     features["decode_length"] = tf.shape(x)[1] + 50
-    #     return features
+    def input_fn1():
+        # encoded_inputs = []
+        # for ngram in sorted_inputs:
+        #     encoded_inputs.append(inputs_vocab.encode(ngram))
+        # x = tf.convert_to_tensor(encoded_inputs)
+        input_gen = _decode_batch_input_fn(
+            problem_id, num_decode_batches, sorted_inputs, inputs_vocab,
+            decode_hp.batch_size, decode_hp.max_input_size)
+        gen_fn = decoding.make_input_fn_from_generator(input_gen)
+        feature_map = gen_fn()
+        x = tf.convert_to_tensor(feature_map["inputs"])
+        x = tf.expand_dims(x, axis=[2])
+        x = tf.expand_dims(x, axis=3)
+        x = tf.to_int32(x)
+        features = {"inputs": x}
+        # features["targets"] = tf.expand_dims(x, axis=[3])
+        p_hparams = hparams.problems[problem_id]
+        features["problem_choice"] = np.array(problem_id).astype(np.int32)
+        features["input_space_id"] = tf.constant(p_hparams.input_space_id)
+        features["target_space_id"] = tf.constant(p_hparams.target_space_id)
+        features["decode_length"] = tf.shape(x)[1] + 50
+
+        return features, x
+
+    def input_fn2():
+        encoded_inputs = []
+        for ngram in sorted_inputs:
+            encoded_inputs.append(inputs_vocab.encode(ngram))
+        x = np.array(encoded_inputs).astype(np.int32)
+
+        x = np.expand_dims(x, axis=2)
+        x = np.expand_dims(x, axis=3)
+        features = {"inputs": x}
+        # features["targets"] = tf.expand_dims(x, axis=[3])
+        p_hparams = hparams.problems[problem_id]
+        features["problem_choice"] = np.array([problem_id]).astype(np.int32)
+        features["input_space_id"] = np.array([p_hparams.input_space_id]).astype(np.int32)
+        features["target_space_id"] = np.array([p_hparams.target_space_id]).astype(np.int32)
+        features["decode_length"] = np.array([x.shape[1] + 50]).astype(np.int32)
+
+        # print(features)
+        # for k, v in features.items():
+        #     print(type(v))
+        #     # print(v.shape[0])
+        #     print(set(v.shape)[0])
+        #     # print(len(set(v.shape[0])))
+
+        eval_input_fn = tf.estimator.inputs.numpy_input_fn(
+            x=x,
+            y=x,
+            batch_size=decode_hp.batch_size,
+            num_epochs=1,
+            shuffle=False)
+        return eval_input_fn
+
+    def eval_inputs():
+        """Returns training set as Operations.
+        Returns:
+            (features, labels) Operations that iterate over the dataset
+            on every evaluation
+        """
+        encoded_inputs = []
+        for ngram in sorted_inputs:
+            encoded_inputs.append(inputs_vocab.encode(ngram))
+        tf_inputs = tf.convert_to_tensor(encoded_inputs)
+
+        # Define placeholders
+        # images_placeholder = tf.placeholder(
+        #     images.dtype, images.shape)
+        # labels_placeholder = tf.placeholder(
+        #     labels.dtype, labels.shape)
+        # Build dataset iterator
+        dataset = tf.contrib.data.Dataset.from_tensor_slices(
+            tf_inputs)
+        # dataset = dataset.repeat(None)  # Infinite iterations
+        # dataset = dataset.shuffle(buffer_size=10000)
+        dataset = dataset.batch(decode_hp.batch_size)
+        iterator = dataset.make_one_shot_iterator()
+        print(iterator)
+        x = iterator.get_next()
+        x = tf.expand_dims(x, axis=2)
+        x = tf.expand_dims(x, axis=3)
+        features = {"inputs": x}
+        # features["targets"] = tf.expand_dims(x, axis=[3])
+        p_hparams = hparams.problems[problem_id]
+        features["problem_choice"] = np.array(problem_id).astype(np.int32)
+        features["input_space_id"] = tf.constant(p_hparams.input_space_id)
+        features["target_space_id"] = tf.constant(p_hparams.target_space_id)
+        features["decode_length"] = tf.shape(x)[1] + 50
+        # Return batched (features, labels)
+        return features, x
 
     def input_fn():
-        input_gen = decoding._decode_batch_input_fn(
+        input_gen = _decode_batch_input_fn(
             problem_id, num_decode_batches, sorted_inputs, inputs_vocab,
             decode_hp.batch_size, decode_hp.max_input_size)
         gen_fn = decoding.make_input_fn_from_generator(input_gen)
         example = gen_fn()
-        # return decoding._decode_input_tensor_to_features_dict(example, hparams)
         return _decode_input_tensor_to_features_dict(example, hparams)
+        # features['inputs'] = tf.expand_dims(features['inputs'], axis=3)
+        # return features
+        # return _decode_input_tensor_to_features_dict(example, hparams)
 
     decodes = []
     p_hparams = hparams.problems[problem_id]
     print(p_hparams.target_modality)
-    my_hook = my_hooks.PredictHook(tensors=[], every_n_iter=1)
-    my_hook.begin()
-    # result_iter = estimator.predict(input_fn, hooks=[my_hook])
-    result_iter = estimator.evaluate(input_fn, hooks=[my_hook])
+    my_hook = my_hooks.PredictHook()   # (tensors=[], every_n_iter=30)
+    # my_hook.begin()
+    # result_iter = estimator.predict(input_fn)
+    result_iter = estimator.evaluate(input_fn1, hooks=[my_hook])
     # result_iter = []
     # experiment = learn.Experiment(
     #     estimator=estimator,
-    #     train_input_fn=input_fn,
+    #     train_input_fn=None,
     #     eval_input_fn=input_fn,
     #     eval_hooks=[my_hook],
     #     eval_delay_secs=None,
-    #     # eval_steps=1,
+    #     eval_steps=None,
     #     continuous_eval_throttle_secs=0
     # )
-
+    #
     # def eval_output_fn(eval_result):
     #     tf.logging.info(eval_result)
     #     # print(estimator._eval_metrics)
@@ -177,29 +386,27 @@ def decode_from_file(estimator, filename, decode_hp, decode_to_file=None):
     #         # tf_eval = tf.Variable(eval_result, trainable=False, name='eval')
     #         # tf.logging.info(tf_eval)
     #     return True
-
+    #
     # for i in range(10):
     #     print(experiment.evaluate())
     # experiment.continuous_eval(continuous_eval_predicate_fn=eval_output_fn, evaluate_checkpoint_only_once=False)
 
     for result in result_iter:
-        print('result:')
-        print(result)
-        # if decode_hp.return_beams:
-        #     beam_decodes = []
-        #     output_beams = np.split(result["outputs"], decode_hp.beam_size, axis=0)
-        #     for k, beam in enumerate(output_beams):
-        #         tf.logging.info("BEAM %d:" % k)
-        #         decoded_outputs, _ = decoding.log_decode_results(result["inputs"], beam,
-        #                                                          problem_name, None,
-        #                                                          inputs_vocab, targets_vocab)
-        #         beam_decodes.append(decoded_outputs)
-        #     decodes.append("\t".join(beam_decodes))
-        # else:
-        #     decoded_outputs, _ = decoding.log_decode_results(result["inputs"],
-        #                                                      result["outputs"], problem_name,
-        #                                                      None, inputs_vocab, targets_vocab)
-        #     decodes.append(decoded_outputs)
+        if decode_hp.return_beams:
+            beam_decodes = []
+            output_beams = np.split(result["outputs"], decode_hp.beam_size, axis=0)
+            for k, beam in enumerate(output_beams):
+                tf.logging.info("BEAM %d:" % k)
+                decoded_outputs, _ = decoding.log_decode_results(result["inputs"], beam,
+                                                        problem_name, None,
+                                                        inputs_vocab, targets_vocab)
+                beam_decodes.append(decoded_outputs)
+            decodes.append("\t".join(beam_decodes))
+        else:
+            decoded_outputs, _ = decoding.log_decode_results(result["inputs"],
+                                                    result["outputs"], problem_name,
+                                                    None, inputs_vocab, targets_vocab)
+            decodes.append(decoded_outputs)
 
     # Reversing the decoded inputs and outputs because they were reversed in
     # _decode_batch_input_fn
@@ -236,8 +443,9 @@ def main(_):
 
     trainer_utils.add_problem_hparams(hparams, FLAGS.problems)
     print(hparams)
+    hparams.eval_use_test_set = True
 
-    estimator, _ = trainer_utils.create_experiment_components(
+    estimator, func_dict = trainer_utils.create_experiment_components(
         data_dir=data_dir,
         model_name=FLAGS.model,
         hparams=hparams,
@@ -245,7 +453,13 @@ def main(_):
 
     decode_hp = decoding.decode_hparams(FLAGS.decode_hparams)
     decode_hp.add_hparam("shards", FLAGS.decode_shards)
-    decode_hp.batch_size = 5
+    decode_hp.batch_size = 2
+
+    # eval_input_fn = func_dict[tf.estimator.ModeKeys.EVAL]
+    # estimator.evaluate(input_fn=eval_input_fn, hooks=[my_hooks.PredictHook()])
+    #
+    # return
+
     if FLAGS.decode_interactive:
         decoding.decode_interactively(estimator, decode_hp)
     elif FLAGS.decode_from_file:

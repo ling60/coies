@@ -15,7 +15,7 @@ from tensor2tensor.utils import registry
 
 import tensorflow as tf
 
-import definitions
+import common.constants as const
 import text_cleaning.aaer_corpus as aaer
 
 FLAGS = tf.flags.FLAGS
@@ -109,12 +109,12 @@ class AAERGenerateProblem(TextGenerateProblem):
 
     @property
     def vocab_name(self):
-        return definitions.T2T_AAER_VOLCAB_NAME
+        return const.T2T_AAER_VOLCAB_NAME
 
     def feature_encoders(self, data_dir):
         vocab_filename = os.path.join(data_dir, self.vocab_file)
         # encoder = text_encoder.TokenTextEncoder(vocab_filename, replace_oov="UNK")
-        encoder = generator_utils.get_or_generate_vocab_inner(data_dir=definitions.T2T_DATA_DIR,
+        encoder = generator_utils.get_or_generate_vocab_inner(data_dir=const.T2T_DATA_DIR,
                                                               vocab_filename=vocab_filename,
                                                               vocab_size=self.targeted_vocab_size,
                                                               generator=aaer.AAERParserTokens().get_tokens())
@@ -123,13 +123,16 @@ class AAERGenerateProblem(TextGenerateProblem):
     def generator(self, data_dir, tmp_dir, train):
         """Instance of token generator for AAER training set."""
 
-        token_path = definitions.T2T_DATA_DIR + definitions.T2T_AAER_VOLCAB_NAME
+        token_path = os.path.join(const.T2T_DATA_DIR, const.T2T_AAER_VOLCAB_NAME)
 
         with tf.gfile.GFile(token_path, mode="a") as f:
             f.write("UNK\n")  # Add UNK to the vocab.
         token_vocab = text_encoder.SubwordTextEncoder(token_path)
 
-        return token_generator(definitions.T2T_AAER_SOURCE_PATH, definitions.T2T_AAER_TARGETS_PATH, token_vocab,
+        source_path = const.T2T_AAER_SOURCE_PATH if train else const.T2T_AAER_SOURCE_PATH + const.T2T_EVAL_POST_FIX
+        targets_path = const.T2T_AAER_TARGETS_PATH if train else const.T2T_AAER_TARGETS_PATH + const.T2T_EVAL_POST_FIX
+
+        return token_generator(source_path, targets_path, token_vocab,
                                EOS)
 
     def eval_metrics(self):

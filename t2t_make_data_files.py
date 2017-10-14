@@ -65,12 +65,12 @@ def make_eval_files(source_file_list, tagged=False):
     n_grams = []
     for path in source_file_list:
         n_grams += ex_parsing.ngrams_from_file(path, N_GRAMS, tagged=tagged)
-    t2t_files_producer(n_grams, const.T2T_AAER_SOURCE_PATH+const.T2T_EVAL_POST_FIX,
+    t2t_files_producer(n_grams[:10], const.T2T_AAER_SOURCE_PATH+const.T2T_EVAL_POST_FIX,
                        const.T2T_AAER_TARGETS_PATH+const.T2T_EVAL_POST_FIX,
                        TARGET_SIZE)
 
 
 test_file_source = ft.get_source_file_by_example_file(const.TEST_FILE)
-# make_eval_files([test_file_source])
-make_t2t_training_files()
-make_vocal_file()
+make_eval_files([test_file_source])
+# make_t2t_training_files()
+# make_vocal_file()

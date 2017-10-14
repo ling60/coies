@@ -1,6 +1,6 @@
 #!/bin/bash
 PROBLEM=aaer_generate_problem
-MODEL=transformer
+MODEL=my_transformer
 
 HPARAMS=transformer_base_single_gpu
 
