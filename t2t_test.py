@@ -1,27 +1,43 @@
-from text_cleaning import aaer_corpus
+from t2t_models import text_encoding
+import os
+import tensorflow as tf
+import text_cleaning.example_parsing as ex_parsing
 import common.constants as const
-from tensor2tensor.data_generators import generator_utils
+import common.file_tools as ft
 
 
-def make_t2t_training_files():
-    aaer = aaer_corpus.AAERParserNGrams(n=10)
-    aaer.t2t_file_producer(target_size=5)
+flags = tf.flags
+FLAGS = flags.FLAGS
 
+output_dir = os.path.join(const.T2T_DATA_DIR, 'train', const.T2T_PROBLEM, const.T2T_MODEL + '-' + const.T2T_HPARAMS)
 
-def make_t2t_vocal_file():
-    aaer = aaer_corpus.AAERParserTokens()
-    tokens = aaer.get_tokens()
-    with open(const.T2T_TEMP_DIR + const.T2T_AAER_VOLCAB_NAME + '.40000', 'w') as f:
-        f.write('\n'.join(tokens))
+flags.DEFINE_string("output_dir", output_dir, "Training directory to load from.")
+flags.DEFINE_string("decode_from_file", None, "Path to decode file")
+flags.DEFINE_string("decode_to_file", None,
+                    "Path prefix to inference output file")
+flags.DEFINE_bool("decode_interactive", False,
+                  "Interactive local inference mode.")
+flags.DEFINE_integer("decode_shards", 1, "Number of decoding replicas.")
+flags.DEFINE_string("t2t_usr_dir", const.T2T_USER_DIR,
+                    "Path to a Python module that will be imported. The "
+                    "__init__.py file should include the necessary imports. "
+                    "The imported files should contain registrations, "
+                    "e.g. @registry.register_model calls, that will then be "
+                    "available to the t2t-decoder.")
+flags.DEFINE_string("master", "", "Address of TensorFlow master.")
+flags.DEFINE_string("schedule", "train_and_evaluate",
+                    "Must be train_and_evaluate for decoding.")
 
-def make_vocal_file():
-    aaer = aaer_corpus.AAERParserTokens()
-    token_vocab = generator_utils.get_or_generate_vocab_inner(data_dir=const.T2T_DATA_DIR,
-                                                              vocab_filename=const.T2T_AAER_VOLCAB_NAME,
-                                                              vocab_size=40000,
-                                                              generator=aaer.get_tokens())
+FLAGS.problems = const.T2T_PROBLEM
+FLAGS.model = const.T2T_MODEL
+FLAGS.hparams_set = const.T2T_HPARAMS
+FLAGS.hparams = None
+FLAGS.data_dir = const.T2T_DATA_DIR
 
+N_GRAMS = 10
+test_file_source = ft.get_source_file_by_example_file(const.TEST_FILE)
+tokens = ex_parsing.ngrams_from_file(test_file_source, N_GRAMS, tagged=False)
+# TRAIN_DIR=$DATA_DIR/train/$PROBLEM/$MODEL-$HPARAMS
 
-# make_t2t_volcab_file()
-# make_t2t_training_files()
-make_vocal_file()
+t = text_encoding.TextEncoding(tokens[:100], tokens[:99] + [tokens[2]])
+t.encode()

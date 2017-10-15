@@ -23,6 +23,10 @@ T2T_AAER_SOURCE_PATH = os.path.join(T2T_DATA_DIR, 'aaer_source')
 T2T_AAER_TARGETS_PATH = os.path.join(T2T_DATA_DIR, 'aaer_targets')
 T2T_AAER_VOLCAB_NAME = 'aaer.volcab'
 T2T_EVAL_POST_FIX = '_eval'
+T2T_PROBLEM = 'aaer_generate_problem'
+T2T_MODEL = 'transformer'
+T2T_USER_DIR = os.path.join(ROOT_DIR, 't2t_models')
+T2T_HPARAMS = 'transformer_base_single_gpu'
 
 # tags related
 TAGS = ['comp.', 'date.', 'item.']
