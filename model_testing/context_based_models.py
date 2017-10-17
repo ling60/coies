@@ -118,8 +118,6 @@ def doc_vector_dict_by_ngrams(doc2vec_model, ngrams):
 
 # model2: instead of doc2vec, we will try other shallow transformation of word embeddings
 # to calculate distance between ngrams
-
-
 class DocVecByWordEmbeddings:
     # if not aaer_corpus then docs= will be needed
     def __init__(self, aaer_corpus=True, **kwargs):

@@ -265,7 +265,7 @@ def decode_from_file(estimator, filename, decode_hp, decode_to_file=None):
     decodes = []
     p_hparams = hparams.problems[problem_id]
     print(p_hparams.target_modality)
-    my_hook = my_hooks.PredictHook()   # (tensors=[], every_n_iter=30)
+    my_hook = my_hooks.EmbeddingsHook()   # (tensors=[], every_n_iter=30)
     # my_hook.begin()
     # result_iter = estimator.predict(input_fn)
     result_iter = estimator.evaluate(eval_inputs, hooks=[my_hook])
@@ -365,7 +365,7 @@ def main(_):
     decode_hp.batch_size = 2
 
     # eval_input_fn = func_dict[tf.estimator.ModeKeys.EVAL]
-    # estimator.evaluate(input_fn=eval_input_fn, hooks=[my_hooks.PredictHook()])
+    # estimator.evaluate(input_fn=eval_input_fn, hooks=[my_hooks.EmbeddingsHook()])
     #
     # return
 

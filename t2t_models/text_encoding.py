@@ -1,33 +1,9 @@
 #!/usr/bin/env python
 # coding=utf-8
-# Copyright 2017 The Tensor2Tensor Authors.
-#
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-#
-#     http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
 
-"""Decode from trained T2T models.
+"""Encode text (ngrams) to doc embeddings
 
-This binary performs inference using the Estimator API.
-
-Example usage to decode from dataset:
-
-  t2t-decoder \
-      --data_dir ~/data \
-      --problems=algorithmic_identity_binary40 \
-      --model=transformer
-      --hparams_set=transformer_base
-
-Set FLAGS.decode_interactive or FLAGS.decode_from_file for alternative decode
-sources.
+IMPORTANT: Models should be trained first!!!!
 """
 from __future__ import absolute_import
 from __future__ import division
@@ -42,6 +18,7 @@ from tensor2tensor.utils import trainer_utils
 from tensor2tensor.utils import usr_dir
 
 from t2t_models import my_hooks
+import common.constants as const
 
 import tensorflow as tf
 
@@ -49,25 +26,50 @@ import numpy as np
 
 flags = tf.flags
 FLAGS = flags.FLAGS
+output_dir = os.path.join(const.T2T_DATA_DIR, 'train', const.T2T_PROBLEM, const.T2T_MODEL + '-' + const.T2T_HPARAMS)
+
+flags.DEFINE_string("output_dir", output_dir, "Training directory to load from.")
+flags.DEFINE_string("decode_from_file", None, "Path to decode file")
+flags.DEFINE_string("decode_to_file", None,
+                    "Path prefix to inference output file")
+flags.DEFINE_bool("decode_interactive", False,
+                  "Interactive local inference mode.")
+flags.DEFINE_integer("decode_shards", 1, "Number of decoding replicas.")
+flags.DEFINE_string("t2t_usr_dir", const.T2T_USER_DIR,
+                    "Path to a Python module that will be imported. The "
+                    "__init__.py file should include the necessary imports. "
+                    "The imported files should contain registrations, "
+                    "e.g. @registry.register_model calls, that will then be "
+                    "available to the t2t-decoder.")
+flags.DEFINE_string("master", "", "Address of TensorFlow master.")
+flags.DEFINE_string("schedule", "train_and_evaluate",
+                    "Must be train_and_evaluate for decoding.")
+
+FLAGS.problems = const.T2T_PROBLEM
+FLAGS.model = const.T2T_MODEL
+FLAGS.hparams_set = const.T2T_HPARAMS
+FLAGS.hparams = None
+FLAGS.data_dir = const.T2T_DATA_DIR
 
 """ encode given text (tokens) inputs into embeddings by t2t model. 
+    IMPORTANT: Models should be trained first!!!!
 """
 
 
 class TextEncoding:
-    def __init__(self, tokens, eval_tokens=None, batch_size=1000):
+    def __init__(self, str_tokens, eval_tokens=None, batch_size=1000):
         """
-
         Args:
             batch_size: used for encoding
-            tokens: the original token inputs, as the format of ['t1', 't2'...]
+            str_tokens: the original token inputs, as the format of ['t1', 't2'...]. The items within should be strings
             eval_tokens: if not None, then should be the same length as tokens, for similarity comparisons.
         """
-        assert type(tokens) is list
-        assert len(tokens) > 0
-        self.tokens = tokens
+        assert type(str_tokens) is list
+        assert len(str_tokens) > 0
+        assert type(str_tokens[0]) is str
+        self.str_tokens = str_tokens
         if eval_tokens is not None:
-            assert len(eval_tokens) == len(tokens)
+            assert (len(eval_tokens) == len(str_tokens) and type(eval_tokens[0]) is str)
         self.eval_tokens = eval_tokens
         tf.logging.set_verbosity(tf.logging.INFO)
         tf.logging.info('tf logging set to INFO by: %s' % self.__class__.__name__)
@@ -96,22 +98,36 @@ class TextEncoding:
         decode_hp.add_hparam("shards", FLAGS.decode_shards)
         decode_hp.batch_size = batch_size
         self.decode_hp = decode_hp
+        self.arr_results = None
+        self._encoding_len = 3
 
-    def encode(self):
+    def encode(self, encoding_len=None):
+        if encoding_len:
+            self._encoding_len = encoding_len
+        else:
+            encoding_len = self._encoding_len
         estimator = self.estimator
         decode_hp = self.decode_hp
         hparams = estimator.params
         problem_id = decode_hp.problem_idx
         inputs_vocab = hparams.problems[problem_id].vocabulary["inputs"]
 
-        # if eval_tokens exists, add to the tokens
-        tokens = self.tokens + self.eval_tokens if self.eval_tokens else self.tokens
+        # if eval_tokens exists, add to the str_tokens
+        str_tokens = self.str_tokens + self.eval_tokens if self.eval_tokens else self.str_tokens
 
-        tokens_length = len(tokens)
+        tokens_length = len(str_tokens)
         tf.logging.info('token length: %d' % tokens_length)
 
-        # print(tokens)
-        # num_decode_batches = (len(tokens) - 1) // decode_hp.batch_size + 1
+        # print(str_tokens)
+        num_decode_batches = (len(str_tokens) - 1) // decode_hp.batch_size + 1
+
+        def input_fn():
+            input_gen = _decode_batch_input_fn(
+                problem_id, num_decode_batches, str_tokens, inputs_vocab,
+                decode_hp.batch_size, decode_hp.max_input_size)
+            gen_fn = decoding.make_input_fn_from_generator(input_gen)
+            example = gen_fn()
+            return _decode_input_tensor_to_features_dict(example, hparams)
 
         def eval_inputs():
             """Returns training set as Operations.
@@ -120,8 +136,11 @@ class TextEncoding:
                 on every evaluation
             """
             encoded_inputs = []
-            for ngram in tokens:
+            for ngram in str_tokens:
+                print(ngram)
                 encoded_inputs.append(inputs_vocab.encode(' '.join(ngram)))
+                print(encoded_inputs[-1])
+                print(inputs_vocab.decode(encoded_inputs[-1]))
             tf_inputs = tf.convert_to_tensor(encoded_inputs)
 
             dataset = tf.contrib.data.Dataset.from_tensor_slices(
@@ -135,7 +154,7 @@ class TextEncoding:
             x = tf.expand_dims(x, axis=2)
             x = tf.expand_dims(x, axis=3)
             # y is just a 'place holder' here, as required by evaluate process
-            y = x[:, 0:3, :, :]
+            y = x[:, 0:encoding_len, :, :]
 
             features = {"inputs": x}
             p_hparams = hparams.problems[problem_id]
@@ -147,15 +166,13 @@ class TextEncoding:
             # Return batched (features, labels)
             return features, y
 
-        p_hparams = hparams.problems[problem_id]
-        # print(p_hparams.target_modality)
-        my_hook = my_hooks.PredictHook()  # (tensors=[], every_n_iter=30)
+        embeddings_hook = my_hooks.EmbeddingsHook()
+        _ = estimator.evaluate(input_fn, hooks=[embeddings_hook])
+        self.arr_results = np.concatenate(embeddings_hook.embeddings, axis=0)
+        return self.arr_results
 
-        # result_iter = estimator.predict(input_fn)
-        _ = estimator.evaluate(eval_inputs, hooks=[my_hook])
-
-        arr_results = np.concatenate(my_hook.embeddings, axis=0)
-        print(arr_results)
+    def top_n_similarity(self, top_n=3, arr_results=None):
+        # print(arr_results)
         if self.eval_tokens:
             eval_tokens_length = len(self.eval_tokens)
             arr_embeddings = arr_results[:eval_tokens_length]
@@ -167,11 +184,85 @@ class TextEncoding:
                                                     reduction=tf.losses.Reduction.NONE)
             tf_cos_loss = tf.squeeze(tf.abs(tf.reduce_sum(tf_cos_loss, axis=1)))
 
-            min_index = tf.argmin(tf_cos_loss)
+            # min_index = tf.argmin(tf_cos_loss)
+            min_values = tf.nn.top_k(tf.negative(tf_cos_loss), k=top_n)
             # tf_cos_loss = tf.losses.absolute_difference(tf_embeddings, tf_eval_embeddings)
             with tf.Session() as sess:
-                cos_loss = sess.run([tf_cos_loss, min_index])
+                cos_loss, values = sess.run([tf_cos_loss, min_values])
                 print(cos_loss)
                 print(cos_loss.shape)
-        else:
-            arr_embeddings = np.concatenate(my_hook.embeddings, axis=0)
+                print(values)
+                indices = values.indices
+                for i in indices:
+                    print(self.str_tokens[i], self.eval_tokens[i])
+
+
+def _decode_input_tensor_to_features_dict(feature_map, hparams):
+    """Convert the interactive input format (see above) to a dictionary.
+
+  Args:
+    feature_map: a dictionary with keys `problem_choice` and `input` containing
+      Tensors.
+    hparams: model hyperparameters
+
+  Returns:
+    a features dictionary, as expected by the decoder.
+  """
+    inputs = tf.convert_to_tensor(feature_map["inputs"])
+    input_is_image = False
+
+    def input_fn(problem_choice, x=inputs):  # pylint: disable=missing-docstring
+        p_hparams = hparams.problems[problem_choice]
+        # Add a third empty dimension dimension
+        x = tf.expand_dims(x, axis=2)
+        x = tf.to_int32(x)
+        return (tf.constant(p_hparams.input_space_id), tf.constant(
+            p_hparams.target_space_id), x)
+
+    input_space_id, target_space_id, x = decoding.input_fn_builder.cond_on_index(
+        input_fn, feature_map["problem_choice"], len(hparams.problems) - 1)
+
+    features = {}
+    features["problem_choice"] = feature_map["problem_choice"]
+    features["input_space_id"] = input_space_id
+    features["target_space_id"] = target_space_id
+    features["decode_length"] = (decoding.IMAGE_DECODE_LENGTH
+                                 if input_is_image else tf.shape(x)[1] + 50)
+    # features["inputs"] = x
+    # for evaluation, x needs to be added with a fourth dim. (not needed for prediction)
+    x = tf.expand_dims(x, axis=3)
+    features["inputs"] = x
+    # features["targets"] = tf.fill([5, 1, 1, 1], 0)
+    y = x[:, 0:3, :, :]
+    return features, y
+
+
+def _decode_batch_input_fn(problem_id, num_decode_batches, sorted_inputs,
+                           vocabulary, batch_size, max_input_size):
+    tf.logging.info(" batch %d" % num_decode_batches)
+    # First reverse all the input sentences so that if you're going to get OOMs,
+    # you'll see it in the first batch
+    # sorted_inputs.reverse()
+    for b in range(num_decode_batches):
+        tf.logging.info("Decoding batch %d" % b)
+        batch_length = 0
+        batch_inputs = []
+        for inputs in sorted_inputs[b * batch_size:(b + 1) * batch_size]:
+            input_ids = vocabulary.encode(inputs)
+            if max_input_size > 0:
+                # Subtract 1 for the EOS_ID.
+                input_ids = input_ids[:max_input_size - 1]
+            input_ids.append(decoding.text_encoder.EOS_ID)
+            batch_inputs.append(input_ids)
+            if len(input_ids) > batch_length:
+                batch_length = len(input_ids)
+        final_batch_inputs = []
+        for input_ids in batch_inputs:
+            assert len(input_ids) <= batch_length
+            x = input_ids + [0] * (batch_length - len(input_ids))
+            final_batch_inputs.append(x)
+
+        yield {
+            "inputs": np.array(final_batch_inputs).astype(np.int32),
+            "problem_choice": np.array(problem_id).astype(np.int32),
+        }

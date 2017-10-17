@@ -1,8 +1,4 @@
 import tensorflow as tf
-import numpy as np
-
-import common.constants as const
-import os
 
 from tensorflow.python.training.session_run_hook import SessionRunArgs
 
@@ -13,7 +9,7 @@ def log_tf_var_with_name(var, var_name, session):
         print(session.run(var))
 
 
-class PredictHook(tf.train.SessionRunHook):
+class EmbeddingsHook(tf.train.SessionRunHook):
     def __init__(self):
         self.embeddings = []
 
