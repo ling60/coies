@@ -71,35 +71,35 @@ class TextEncoding:
         if eval_tokens is not None:
             assert (len(eval_tokens) == len(str_tokens) and type(eval_tokens[0]) is str)
         self.eval_tokens = eval_tokens
-        tf.logging.set_verbosity(tf.logging.INFO)
-        tf.logging.info('tf logging set to INFO by: %s' % self.__class__.__name__)
+        # tf.logging.set_verbosity(tf.logging.INFO)
+        # tf.logging.info('tf logging set to INFO by: %s' % self.__class__.__name__)
 
         usr_dir.import_usr_dir(FLAGS.t2t_usr_dir)
         trainer_utils.log_registry()
         trainer_utils.validate_flags()
         assert FLAGS.schedule == "train_and_evaluate"
         data_dir = os.path.expanduser(FLAGS.data_dir)
-        output_dir = os.path.expanduser(FLAGS.output_dir)
+        out_dir = os.path.expanduser(FLAGS.output_dir)
 
         hparams = trainer_utils.create_hparams(
             FLAGS.hparams_set, data_dir, passed_hparams=FLAGS.hparams)
 
         trainer_utils.add_problem_hparams(hparams, FLAGS.problems)
-        print(hparams)
+        # print(hparams)
         hparams.eval_use_test_set = True
 
         self.estimator, _ = trainer_utils.create_experiment_components(
             data_dir=data_dir,
             model_name=FLAGS.model,
             hparams=hparams,
-            run_config=trainer_utils.create_run_config(output_dir))
+            run_config=trainer_utils.create_run_config(out_dir))
 
         decode_hp = decoding.decode_hparams(FLAGS.decode_hparams)
         decode_hp.add_hparam("shards", FLAGS.decode_shards)
         decode_hp.batch_size = batch_size
         self.decode_hp = decode_hp
         self.arr_results = None
-        self._encoding_len = 3
+        self._encoding_len = 1
 
     def encode(self, encoding_len=None):
         if encoding_len:
@@ -127,7 +127,7 @@ class TextEncoding:
                 decode_hp.batch_size, decode_hp.max_input_size)
             gen_fn = decoding.make_input_fn_from_generator(input_gen)
             example = gen_fn()
-            return _decode_input_tensor_to_features_dict(example, hparams)
+            return _decode_input_tensor_to_features_dict(example, hparams, encoding_len=encoding_len)
 
         def eval_inputs():
             """Returns training set as Operations.
@@ -137,10 +137,10 @@ class TextEncoding:
             """
             encoded_inputs = []
             for ngram in str_tokens:
-                print(ngram)
+                # print(ngram)
                 encoded_inputs.append(inputs_vocab.encode(' '.join(ngram)))
-                print(encoded_inputs[-1])
-                print(inputs_vocab.decode(encoded_inputs[-1]))
+                # print(encoded_inputs[-1])
+                # print(inputs_vocab.decode(encoded_inputs[-1]))
             tf_inputs = tf.convert_to_tensor(encoded_inputs)
 
             dataset = tf.contrib.data.Dataset.from_tensor_slices(
@@ -168,7 +168,8 @@ class TextEncoding:
 
         embeddings_hook = my_hooks.EmbeddingsHook()
         _ = estimator.evaluate(input_fn, hooks=[embeddings_hook])
-        self.arr_results = np.concatenate(embeddings_hook.embeddings, axis=0)
+        self.arr_results = np.squeeze(np.concatenate(embeddings_hook.embeddings, axis=0), axis=1)
+        # print(self.arr_results)
         return self.arr_results
 
     def top_n_similarity(self, top_n=3, arr_results=None):
@@ -197,13 +198,14 @@ class TextEncoding:
                     print(self.str_tokens[i], self.eval_tokens[i])
 
 
-def _decode_input_tensor_to_features_dict(feature_map, hparams):
+def _decode_input_tensor_to_features_dict(feature_map, hparams, encoding_len=1):
     """Convert the interactive input format (see above) to a dictionary.
 
   Args:
     feature_map: a dictionary with keys `problem_choice` and `input` containing
       Tensors.
     hparams: model hyperparameters
+    encoding_len: the embedding steps. usually 1
 
   Returns:
     a features dictionary, as expected by the decoder.
@@ -233,7 +235,7 @@ def _decode_input_tensor_to_features_dict(feature_map, hparams):
     x = tf.expand_dims(x, axis=3)
     features["inputs"] = x
     # features["targets"] = tf.fill([5, 1, 1, 1], 0)
-    y = x[:, 0:3, :, :]
+    y = x[:, 0:encoding_len, :, :]
     return features, y
 
 
