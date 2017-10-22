@@ -129,8 +129,8 @@ class AAERGenerateProblem(TextGenerateProblem):
             f.write("UNK\n")  # Add UNK to the vocab.
         token_vocab = text_encoder.SubwordTextEncoder(token_path)
 
-        source_path = const.T2T_AAER_SOURCE_PATH if train else const.T2T_AAER_SOURCE_PATH + const.T2T_EVAL_POST_FIX
-        targets_path = const.T2T_AAER_TARGETS_PATH if train else const.T2T_AAER_TARGETS_PATH + const.T2T_EVAL_POST_FIX
+        source_path = const.T2T_AAER_SOURCE_PATH   # if train else const.T2T_AAER_SOURCE_PATH + const.T2T_EVAL_POST_FIX
+        targets_path = const.T2T_AAER_TARGETS_PATH  # if train else const.T2T_AAER_TARGETS_PATH + const.T2T_EVAL_POST_FIX
 
         return token_generator(source_path, targets_path, token_vocab,
                                EOS)

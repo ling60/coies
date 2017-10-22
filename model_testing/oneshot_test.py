@@ -477,7 +477,8 @@ class OneShotTestContext5(OneShotTestContext4):
 
 # 59.52085954  15.43333333 for c=10
 # [ 59.20181192  16.6 ] for c=40 (c=100 shows little difference)
-# trained with ngram = 10 aaer corpus
+# trained with ngram = 10 aaer corpus TARGET_SIZE = 5 WINDOW_SIZE = 2
+# no good from target_size=10, ngram=20
 class OneShotTestT2TModel(OneShotTestContext1):
     @staticmethod
     def doc_vector_to_dict_by_list(dv_model, grams):

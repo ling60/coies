@@ -15,25 +15,13 @@ mkdir -p $DATA_DIR $TMP_DIR $TRAIN_DIR
 # t2t-trainer --t2t_usr_dir=$T2T --registry_help
 
 # Generate data
-# t2t-datagen \
-  # --data_dir=$DATA_DIR \
-  # --tmp_dir=$TMP_DIR \
-  # --problem=$PROBLEM \
-  # --t2t_usr_dir=$T2T
+t2t-datagen --data_dir=$DATA_DIR --tmp_dir=$TMP_DIR --problem=$PROBLEM --t2t_usr_dir=$T2T
 
 # Train
 # *  If you run out of memory, add --hparams='batch_size=1024'.
-# t2t-trainer --data_dir=$DATA_DIR --problems=$PROBLEM --model=$MODEL --hparams_set=$HPARAMS --hparams='batch_size=1024' --hparams='learning_rate_warmup_steps =16000' --output_dir=$TRAIN_DIR --t2t_usr_dir=$T2T
+t2t-trainer --data_dir=$DATA_DIR --problems=$PROBLEM --model=$MODEL --hparams_set=$HPARAMS --hparams='batch_size=1024' --hparams='learning_rate_warmup_steps =16000' --output_dir=$TRAIN_DIR --t2t_usr_dir=$T2T
   
 DECODE_FILE=$DATA_DIR/aaer_source_eval
 DECODE_OUTPUT=$DECODE_FILE.result
 touch $DECODE_OUTPUT
-python3 t2t-decoder-1.py \
-  --data_dir=$DATA_DIR \
-  --problems=$PROBLEM \
-  --model=$MODEL \
-  --hparams_set=$HPARAMS \
-  --output_dir=$TRAIN_DIR \
-  --decode_from_file=$DECODE_FILE \
-  --decode_to_file=$DECODE_OUTPUT \
-  --t2t_usr_dir=$T2T
+# python3 t2t-decoder-1.py --data_dir=$DATA_DIR --problems=$PROBLEM --model=$MODEL --hparams_set=$HPARAMS --output_dir=$TRAIN_DIR --decode_from_file=$DECODE_FILE --decode_to_file=$DECODE_OUTPUT --t2t_usr_dir=$T2T
