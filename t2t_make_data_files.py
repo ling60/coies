@@ -6,8 +6,8 @@ import text_cleaning.example_parsing as ex_parsing
 import common.utilities as util
 import common.file_tools as ft
 
-N_GRAMS = 20
-TARGET_SIZE = 6
+N_GRAMS = 5
+TARGET_SIZE = 5
 WINDOW_SIZE = 2
 
 
@@ -41,6 +41,7 @@ def t2t_files_producer(n_grams,
 
 
 def make_t2t_training_files():
+    print("making training files..")
     aaer = aaer_corpus.AAERParserNGrams(n=N_GRAMS)
     t2t_files_producer(aaer.get_tokens(), const.T2T_AAER_SOURCE_PATH, const.T2T_AAER_TARGETS_PATH,
                        target_size=TARGET_SIZE)
