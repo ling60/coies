@@ -6,9 +6,9 @@ import text_cleaning.example_parsing as ex_parsing
 import common.utilities as util
 import common.file_tools as ft
 
-N_GRAMS = 5
+N_GRAMS = 10
 TARGET_SIZE = 5
-WINDOW_SIZE = 2
+WINDOW_SIZE = 3
 
 
 def t2t_files_producer(n_grams,
@@ -17,7 +17,7 @@ def t2t_files_producer(n_grams,
                        target_size=None,
                        window_size=WINDOW_SIZE):
     """produce data files required by tensor2tensor source_path and target_path have
-    the same number of lines
+    the same number of lines target = n_grams[i + window_size][-target_size:]
     Args:
       n_grams: a list of fix_sized ngrams
       source_path: file for inputs
@@ -40,11 +40,41 @@ def t2t_files_producer(n_grams,
                 f_targets.write(util.list_to_str_line(n_grams[i + window_size][-target_size:]))
 
 
+def t2t_files_producer2(n_grams,
+                        source_path,
+                        targets_path,
+                        source_size=None,
+                        window_size=WINDOW_SIZE):
+    """produce data files required by tensor2tensor source_path and target_path have
+    the same number of lines. target = window + source + window
+    Args:
+      n_grams: a list of fix_sized ngrams
+      source_path: file for inputs
+      targets_path: file for targets
+      window_size: time shifting distance between inputs and targets
+      source_size: the length of target line. should be smaller than length of ngram
+    """
+    assert type(n_grams[0]) is list
+    n = len(n_grams[0])
+    if source_size is not None:
+        assert source_size <= n
+    else:
+        source_size = n
+
+    epoch_size = len(n_grams) - window_size
+    with open(source_path, 'w') as f_source:
+        with open(targets_path, 'w') as f_targets:
+            for i in range(epoch_size):
+                f_targets.write(util.list_to_str_line(n_grams[i]))
+                f_source.write(util.list_to_str_line(n_grams[i][window_size:-window_size]))
+
+
 def make_t2t_training_files():
     print("making training files..")
     aaer = aaer_corpus.AAERParserNGrams(n=N_GRAMS)
-    t2t_files_producer(aaer.get_tokens(), const.T2T_AAER_SOURCE_PATH, const.T2T_AAER_TARGETS_PATH,
-                       target_size=TARGET_SIZE)
+    # t2t_files_producer(aaer.get_tokens(), const.T2T_AAER_SOURCE_PATH, const.T2T_AAER_TARGETS_PATH,
+    #                    target_size=TARGET_SIZE)
+    t2t_files_producer2(aaer.get_tokens(), const.T2T_AAER_SOURCE_PATH, const.T2T_AAER_TARGETS_PATH)
 
 
 # def make_t2t_vocal_file():
@@ -57,17 +87,17 @@ def make_t2t_training_files():
 def make_vocal_file():
     aaer = aaer_corpus.AAERParserTokens()
     generator_utils.get_or_generate_vocab_inner(data_dir=const.T2T_DATA_DIR,
-                                                              vocab_filename=const.T2T_AAER_VOLCAB_NAME,
-                                                              vocab_size=40000,
-                                                              generator=aaer.get_tokens())
+                                                vocab_filename=const.T2T_AAER_VOLCAB_NAME,
+                                                vocab_size=40000,
+                                                generator=aaer.get_tokens())
 
 
 def make_eval_files(source_file_list, tagged=False):
     n_grams = []
     for path in source_file_list:
         n_grams += ex_parsing.ngrams_from_file(path, N_GRAMS, tagged=tagged)
-    t2t_files_producer(n_grams[:100], const.T2T_AAER_SOURCE_PATH+const.T2T_EVAL_POST_FIX,
-                       const.T2T_AAER_TARGETS_PATH+const.T2T_EVAL_POST_FIX,
+    t2t_files_producer(n_grams[:100], const.T2T_AAER_SOURCE_PATH + const.T2T_EVAL_POST_FIX,
+                       const.T2T_AAER_TARGETS_PATH + const.T2T_EVAL_POST_FIX,
                        TARGET_SIZE)
 
 

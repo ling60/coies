@@ -10,13 +10,22 @@ import model_testing.rougescore as rouge
 import model_testing.dl_context_models as dl_context
 
 
+TOP_N = 3
+CONTEXT_SIMILARITY_THRESHOLD = 0.75
+WORDS_SIMILARITY_THRESHOLD = 0.5
+
+
 def get_current_path():
     return os.path.dirname(os.path.abspath(__file__))
 
 
-def similar_grams_by_vec(vec, wv_dict, topn=1):
+def similar_grams_by_vec(vec, wv_dict, topn=TOP_N, similarity_threshold=CONTEXT_SIMILARITY_THRESHOLD):
     # logging.info('similiar_words_by_word: word: ' + word + 'text_wv_dict: ' + str(test_wv_dict))
-    grams_found = [w[0] for w in util.similar_by_vector(vec, wv_dict, topn=topn)]
+    grams_found = []
+    for grams, similarity in util.similar_by_vector(vec, wv_dict, topn=topn):
+        # logging.info(similarity)
+        if similarity > similarity_threshold:
+            grams_found.append(grams)
     return grams_found
 
 
@@ -42,11 +51,11 @@ def score_by_rouge(words_found, test_entity_dict, entity_key):
     score = (0, 0)
     targets = 0
     if entity_key in test_entity_dict:
+        words_found = [] if words_found is None else words_found
         targets += len(test_entity_dict[entity_key])
         score = util.tuple_add(score, (rouge.rouge_1(words_found, test_entity_dict[entity_key], alpha=0.5),
                                        rouge.rouge_2(words_found, test_entity_dict[entity_key], alpha=0.5)))
-    else:
-        if not words_found:
+    elif not words_found:
             score = util.tuple_add(score, (1, 1))
     return score, targets
 
@@ -91,7 +100,9 @@ class OneShotTestDoc2Vec:
         self.score_dict[test_file_path] = (0, 0)
 
     def similar_grams_by_gram(self, gram, wv_dict):
-        return similar_grams_by_vec(self.doc_vec_model.infer_vector(gram), wv_dict)
+        return similar_grams_by_vec(self.doc_vec_model.infer_vector(gram),
+                                    wv_dict,
+                                    similarity_threshold=WORDS_SIMILARITY_THRESHOLD)
 
     def score(self, key, gram, test_file_path, wv_dict):
         print('similar to:' + str(gram))
@@ -176,6 +187,19 @@ class OneShotTestRandom(OneShotTestPerfect):
         return targets
 
 
+# test the score if just return empty results
+# [ 152.  152.]
+class OneShotTestNone(OneShotTestPerfect):
+    def score(self, key, gram, test_file_path, wv_dict):
+        print('similar to:' + str(gram))
+        # words_found = self.similar_grams_by_gram(gram, gram)
+        answers = []
+        hits, targets = score_by_rouge(answers, self.test_entity_dict, key)
+        print("rouge:", hits)
+        self.score_dict[test_file_path] = util.tuple_add(self.score_dict[test_file_path], hits)
+        return targets
+
+
 # total score (214.93262997209598, 113.0204099518053) of 531 in 100 files
 class OneShotTestHuman(OneShotTestDoc2Vec):
     def make_test_wv_dict(self, test_grams):
@@ -231,7 +255,7 @@ class OneShotTestContext1(OneShotTestDoc2Vec):
 
     @staticmethod
     # returns a list of  ngrams in dv dict similar to doc vecs
-    def similar_grams_by_doc_vecs(doc_vecs, dv_dict, topn=3):
+    def similar_grams_by_doc_vecs(doc_vecs, dv_dict, topn=TOP_N):
         # logging.info('similiar_words_by_word: word: ' + word + 'text_wv_dict: ' + str(test_wv_dict))
         grams_found = set()
         for doc_vec in doc_vecs:
@@ -269,8 +293,8 @@ class OneShotTestContext1(OneShotTestDoc2Vec):
             self.example_tagged_words_ngram_vecs_dict[self.tagged_words_to_str(tagged_gram)]
         similar_contexts = \
             self.similar_grams_by_doc_vecs(example_tagged_words_ngram_vecs, self.context_sized_test_wv_dict)
-        # logging.info('similar contexts:')
-        # logging.info(similar_contexts)
+        logging.info('similar contexts:')
+        logging.info(similar_contexts)
         # similar_contexts = set()
         context_wv_dict = util.subset_dict_by_list2(wv_dict, similar_contexts)
         logging.info('context_wv_dict:')
@@ -295,7 +319,7 @@ class OneShotTestContext2(OneShotTestContext1):
         self.make_example_tagged_words_ngram_vecs_dict(self.context_vec_model)
 
 
-# this model uses word embeddings, then calculates the ngram similarity,  instead of using doc2vec
+# this model uses word embeddings, then calculates the ngram similarity, instead of using doc2vec
 # [ 85.34945763   7.69444444]
 # [ 78.1666238    9.14444444] wv_size = 300
 class OneShotTestWVMean(OneShotTestDoc2Vec):
@@ -349,6 +373,11 @@ class OneShotTestWVWMD(OneShotTestWVMean):
 # [ 105.37120649   11.0047619 ] n, c = 5
 # [ 108.78976112   11.2031746 ] c = 20
 # [ 103.7195355    10.52857143] c = 100
+# [ 183.28773449  127.57142857] c=10, add threshold for similarity>0.7
+# [ 168.73066378  104.45396825] context similarity>0.7, word>0.4
+# [ 170.15916306  139.9047619 ] context>0.8, word>0.4
+# [ 177.92510823  124.68253968] context>0.75
+# [ 183.53621934  132.68253968] word>0.5
 class OneShotTestContext3(OneShotTestWVMean):
     def __init__(self, example_path, test_file_path_list, enable_saving=False, n_gram=5, context_size=10):
         super().__init__(example_path, test_file_path_list, enable_saving, n_gram)
@@ -358,7 +387,7 @@ class OneShotTestContext3(OneShotTestWVMean):
         self.example_entity_dict = \
             ex_parsing.entity_tagged_words_dict_from_tagged_tokens(self.tagged_tokens)
         self.example_ngrams = ex_parsing.ngrams_from_file(self.example_path, self.context_size, tagged=True)
-        self.example_tagged_words_ngram_vecs_dict = None
+        self.example_tagged_words_ngram_vecs_dict = {}
         self.context_sized_test_wv_dict = None
 
     def train(self):
@@ -378,7 +407,7 @@ class OneShotTestContext3(OneShotTestWVMean):
 
     @staticmethod
     # returns a list of  ngrams in dv dict similar to doc vecs
-    def similar_grams_by_doc_vecs(doc_vecs, dv_dict, topn=3):
+    def similar_grams_by_doc_vecs(doc_vecs, dv_dict, topn=TOP_N):
         # logging.info('similiar_words_by_word: word: ' + word + 'text_wv_dict: ' + str(test_wv_dict))
         grams_found = set()
         for doc_vec in doc_vecs:
@@ -416,8 +445,8 @@ class OneShotTestContext3(OneShotTestWVMean):
             self.example_tagged_words_ngram_vecs_dict[self.tagged_words_to_str(tagged_gram)]
         similar_contexts = \
             self.similar_grams_by_doc_vecs(example_tagged_words_ngram_vecs, self.context_sized_test_wv_dict)
-        logging.info('similar contexts:')
-        print(similar_contexts)
+        # logging.info('similar contexts:')
+        # print(similar_contexts)
         # similar_contexts = set()
         context_wv_dict = util.subset_dict_by_list2(wv_dict, similar_contexts)
         logging.info('context_wv_dict:')
@@ -439,7 +468,7 @@ class OneShotTestContext4(OneShotTestContext3, OneShotTestWVWMD):
         # find ngrams in test file similar to example
 
         similar_contexts = \
-            self.similar_grams_by_gram([g[0] for g in tagged_gram], self.context_sized_test_wv_dict, topn=3)
+            self.similar_grams_by_gram([g[0] for g in tagged_gram], self.context_sized_test_wv_dict, topn=TOP_N)
         logging.info('similar contexts:')
         print(similar_contexts)
         # similar_contexts = set()
@@ -479,7 +508,17 @@ class OneShotTestContext5(OneShotTestContext4):
 # [ 59.20181192  16.6 ] for c=40 (c=100 shows little difference)
 # trained with ngram = 10 aaer corpus TARGET_SIZE = 5 WINDOW_SIZE = 2
 # no good from target_size=10, ngram=20
+# trained on ngram=5
 # [ 77.51556777  24.2       ] for c=10
+# [ 63.7470764    2.57505241] ... for c=10, after more training
+# [ 64.94576271   2.17505241] for c=5
+# [ 56.76652084   2.17505241][ 56.86652084   2.17505241] c=20
+# above training based on predict training:target = n_grams[i + window_size][-target_size:]
+# below will be based on generating training: target = window + source + window
+#  93.69231741  17.77777778 c=20, window=3, target ngram = 10
+#  (97.30374257080713, 22.019047619047623) c=10, topn=1
+# (171.97229437229439, 121.36666666666669) c=10 with overall similarity threshold=0.7
+# [ 169.02065344  102.66666667] context similarity>0.75, words>0.4
 class OneShotTestT2TModel(OneShotTestContext1):
     @staticmethod
     def doc_vector_to_dict_by_list(dv_model, grams):
@@ -491,7 +530,7 @@ class OneShotTestT2TModel(OneShotTestContext1):
 
     @staticmethod
     # returns a list of  ngrams in dv dict similar to doc vecs
-    def similar_grams_by_doc_vecs(doc_vecs, dv_dict, topn=3):
+    def similar_grams_by_doc_vecs(doc_vecs, dv_dict, topn=TOP_N):
         # logging.info('similiar_words_by_word: word: ' + word + 'text_wv_dict: ' + str(test_wv_dict))
         grams_found = set()
         for doc_vec in doc_vecs:
@@ -501,7 +540,9 @@ class OneShotTestT2TModel(OneShotTestContext1):
         return grams_found
 
     def similar_grams_by_gram(self, gram, wv_dict):
-        str_grams = similar_grams_by_vec(self.doc_vec_model.infer_vector(gram), wv_dict)
+        str_grams = similar_grams_by_vec(self.doc_vec_model.infer_vector(gram),
+                                         wv_dict,
+                                         similarity_threshold=WORDS_SIMILARITY_THRESHOLD)
         grams = []
         for str_gram in str_grams:
             g = str_gram.split(' ')
@@ -526,11 +567,53 @@ class OneShotTestT2TModel(OneShotTestContext1):
                     temp_dict[str_tagged_words] = example_tagged_ngrams
                     all_example_tagged_ngrams += example_tagged_ngrams
                     #     [doc2vec_model.infer_vector(ngram) for ngram in all_example_tagged_ngrams]
-        # logging.info("all_example_tagged_ngrams")
-        # logging.info(all_example_tagged_ngrams)
         # to infer all ngrams at one time, for the sake of seed
         doc2vec_model.infer_vectors_dict(all_example_tagged_ngrams)
 
         for word in temp_dict.keys():
             self.example_tagged_words_ngram_vecs_dict[word] = \
                 [doc2vec_model.infer_vector(ngram) for ngram in temp_dict[word]]
+
+
+# this class use t2t model to infer context, while wv mean to infer grams(entities)
+class OneShotTestT2TMVMean(OneShotTestContext3):
+    @staticmethod
+    def context_vector_to_dict_by_list(dv_model, grams):
+        str_dict = dv_model.infer_vectors_dict(grams)
+        return {tuple(k): str_dict[' '.join(k)] for k in grams}
+
+    def context_doc_training(self):
+        return dl_context.T2TContextModel(load_aaer_data=False, doc_length=self.n, docs=[])
+
+    def test_file_processing(self, test_file_path):
+        OneShotTestDoc2Vec.test_file_processing(self, test_file_path)
+        ngrams = ex_parsing.ngrams_from_file(test_file_path, self.context_size, tagged=True)
+        sentences = [util.sentence_from_tagged_ngram(t) for t in ngrams]
+        # logging.info(ngrams)
+        # logging.info(sentences)
+        self.context_sized_test_wv_dict = self.context_vector_to_dict_by_list(self.context_vec_model, sentences)
+
+    # make a dict which is convenient to look up a list of ngram vectors by tagged_words
+    def make_example_tagged_words_ngram_vecs_dict(self, doc2vec_model):
+        assert self.example_entity_dict
+        temp_dict = {}
+        all_example_tagged_ngrams = []
+        for entity, value_lists in self.example_entity_dict.items():
+            for tagged_words in value_lists:
+                if type(tagged_words) is list:
+                    str_tagged_words = self.tagged_words_to_str(tagged_words)
+                    example_tagged_ngrams = [' '.join(ngram) for ngram in
+                                             cb.find_ngrams_by_tagged_words(self.example_ngrams, tagged_words)]
+                    temp_dict[str_tagged_words] = example_tagged_ngrams
+                    all_example_tagged_ngrams += example_tagged_ngrams
+                    #     [doc2vec_model.infer_vector(ngram) for ngram in all_example_tagged_ngrams]
+        # to infer all ngrams at one time, for the sake of seed
+        doc2vec_model.infer_vectors_dict(all_example_tagged_ngrams)
+
+        for word in temp_dict.keys():
+            self.example_tagged_words_ngram_vecs_dict[word] = \
+                [doc2vec_model.infer_vector(ngram) for ngram in temp_dict[word]]
+
+    def post_training(self):
+        self.context_vec_model = self.context_doc_training()
+        self.make_example_tagged_words_ngram_vecs_dict(self.context_vec_model)

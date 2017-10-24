@@ -70,6 +70,7 @@ def main(_):
   tmp_dir = os.path.expanduser(FLAGS.tmp_dir)
   data_dir = os.path.expanduser(FLAGS.data_dir)
   tf.gfile.MakeDirs(output_dir)
+  print(output_dir, data_dir)
 
   # Generate data if requested.
   if FLAGS.generate_data:

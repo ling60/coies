@@ -14,7 +14,7 @@ def display_logging_info(allow=True):
 
 
 def cosine_distance(u, v):
-    return numpy.dot(u, v) / (math.sqrt(numpy.dot(u, u)) * math.sqrt(numpy.dot(v, v)))
+    return abs(numpy.dot(u, v) / (math.sqrt(numpy.dot(u, u)) * math.sqrt(numpy.dot(v, v))))
 
 
 # returns indexes of top values from a list
@@ -24,16 +24,18 @@ def top_n_from_list(l, n, start_max=True):
 
 # returns the nearest key(s) of vector dict, given a vector
 def similar_by_vector(vector, vector_dict, topn=1):
-    assert topn <= len(vector_dict)
-    distance_dict = {}
-    for k, v in vector_dict.items():
-        # print(type(k), type(v))
-        distance_dict[k] = cosine_distance(vector, v)
-        # print(type(vector_dict[k]))
-    d = collections.Counter()
-    # print(vector_dict)
-    d.update(distance_dict)
-    return d.most_common(topn)
+    if topn <= len(vector_dict):
+        distance_dict = {}
+        for k, v in vector_dict.items():
+            distance_dict[k] = abs(cosine_distance(vector, v))
+            # print(distance_dict[k])
+            # print(type(vector_dict[k]))
+        d = collections.Counter()
+        # print(vector_dict)
+        d.update(distance_dict)
+        return d.most_common(topn)
+    else:
+        return vector_dict
 
 
 def subset_dict_by_list(a_dict, list_of_keys):
@@ -42,7 +44,7 @@ def subset_dict_by_list(a_dict, list_of_keys):
 
 
 def subset_dict_by_list2(a_dict, list_of_keys):
-    # logging.info(flatten_list(list_of_keys))
+    # returns a dict whose keys exist in the strings of list_of_keys
     str_list_of_keys = iter_to_string(flatten_list(list_of_keys))
     sub_dict = {}
     for k in a_dict.keys():
