@@ -4,6 +4,7 @@ import collections
 import itertools
 import logging
 import common.constants as const
+import operator
 
 
 def display_logging_info(allow=True):
@@ -24,18 +25,39 @@ def top_n_from_list(l, n, start_max=True):
 
 # returns the nearest key(s) of vector dict, given a vector
 def similar_by_vector(vector, vector_dict, topn=1):
+    distance_dict = {}
+    for k, v in vector_dict.items():
+        distance_dict[k] = abs(cosine_distance(vector, v))
+        # print(distance_dict[k])
+        # print(type(vector_dict[k]))
+    d = collections.Counter()
+    # print(vector_dict)
+    d.update(distance_dict)
     if topn <= len(vector_dict):
-        distance_dict = {}
-        for k, v in vector_dict.items():
-            distance_dict[k] = abs(cosine_distance(vector, v))
-            # print(distance_dict[k])
-            # print(type(vector_dict[k]))
-        d = collections.Counter()
-        # print(vector_dict)
-        d.update(distance_dict)
         return d.most_common(topn)
     else:
-        return vector_dict
+        return d.items()
+
+
+# returns a group/cluster of tuples(item, value), where values are similar to the top value (distance between them is
+# smaller than average
+def get_top_group(list_of_tuples, distance_threshold=None):
+    list_of_tuples = list(list_of_tuples)
+    if len(list_of_tuples) <=1:
+        return list_of_tuples
+    assert type(list_of_tuples[0]) is tuple or type(list_of_tuples[0]) is list
+    if distance_threshold:  # filter by distance_threshold
+        list_of_tuples[:] = [t for t in list_of_tuples if t[-1] > distance_threshold]
+    if len(list_of_tuples) <= 1:
+        return list_of_tuples
+    sorted_list = sorted(list_of_tuples, key=operator.itemgetter(-1), reverse=True)
+    avg_distance = (sorted_list[0][-1] - sorted_list[-1][-1])/(len(sorted_list)-1)
+    top_group = [sorted_list[0]]
+    for i in range(1, len(sorted_list)):
+        if top_group[-1][-1] - sorted_list[i][-1] < avg_distance:
+            top_group.append(sorted_list[i])
+        else:
+            return top_group
 
 
 def subset_dict_by_list(a_dict, list_of_keys):
@@ -43,12 +65,22 @@ def subset_dict_by_list(a_dict, list_of_keys):
     return {k: a_dict[k] for k in list_of_keys if k in a_dict}
 
 
+# def subset_dict_by_list2(a_dict, list_of_keys):
+#     # returns a dict whose keys exist in the strings of list_of_keys
+#     str_list_of_keys = iter_to_string(flatten_list(list_of_keys))
+#     sub_dict = {}
+#     for k in a_dict.keys():
+#         if iter_to_string(k) in str_list_of_keys:
+#             sub_dict[k] = a_dict[k]
+#     return sub_dict
 def subset_dict_by_list2(a_dict, list_of_keys):
     # returns a dict whose keys exist in the strings of list_of_keys
-    str_list_of_keys = iter_to_string(flatten_list(list_of_keys))
+    keys = flatten_list(list_of_keys)
     sub_dict = {}
     for k in a_dict.keys():
-        if iter_to_string(k) in str_list_of_keys:
+        if type(k) is str:
+            k = spaced_string_to_tuple(k)
+        if is_sublist_of(k, keys):
             sub_dict[k] = a_dict[k]
     return sub_dict
 
@@ -100,6 +132,12 @@ def string_to_list(s):
 
 # check if a list is a sublist of another
 def is_sublist_of(l1, l2):
+    l1 = list(l1)
+    l2 = list(l2)
+    if len(l1) == 0 or len(l2) == 0:
+        return False
+    l1 = l1 + [''] if l1[-1] else l1
+    l2 = l2 + [''] if l2[-1] else l2
     w = iter_to_string(l1)
     t = iter_to_string(l2)
     return w in t
@@ -118,4 +156,8 @@ def sentence_from_tagged_ngram(tagged_ngram):
 
 # sort dict. returns a list of tuples as [(k,v)...] which is sorted by v, incrementally.
 def sorted_tuples_from_dict(a_dict):
-    return sorted(a_dict.items(), key=lambda x:x[1])
+    return sorted(a_dict.items(), key=lambda x: x[1])
+
+
+def spaced_string_to_tuple(spaced_str):
+    return tuple(spaced_str.split(' '))

@@ -2,6 +2,7 @@
 from t2t_models import text_encoding
 from common import constants as const
 from common import file_tools as ft
+from common import utilities as utils
 from text_cleaning import example_parsing as ex_parsing
 
 import os
@@ -52,7 +53,7 @@ class T2TContextModel(ContextModel):
         return len(key.split(' '))
 
     def infer_vector(self, doc):
-        if type(doc) is list:
+        if type(doc) is list or type(doc) is tuple:
             doc = ' '.join(doc)
         try:
             vec = self._docvec_dict[doc]
@@ -66,7 +67,7 @@ class T2TContextModel(ContextModel):
         str_docs = self.make_sure_docs_are_strings(docs)
         # print(str_docs)
         self._make_docvec_dict(str_docs)
-        vd = {doc: self._docvec_dict[doc] for doc in str_docs}
+        vd = {utils.spaced_string_to_tuple(doc): self._docvec_dict[doc] for doc in str_docs}
         return vd
 
     def _make_docvec_dict(self, docs):
