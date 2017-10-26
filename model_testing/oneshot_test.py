@@ -146,6 +146,7 @@ class OneShotTestDoc2Vec:
                                     similarity_threshold=WORDS_SIMILARITY_THRESHOLD)
 
     def score(self, key, gram, test_file_path, wv_dict, **kwargs):
+        # TODO: allocate weights to grams coming from different contexts
         print('similar to:' + str(gram))
         word_similarity_tuples = self.similar_grams_by_gram(gram, wv_dict)
         print(word_similarity_tuples)
