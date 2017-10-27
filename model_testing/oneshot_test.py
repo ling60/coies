@@ -593,7 +593,7 @@ class OneShotTestContext5(OneShotTestContext4):
 # [ 34.24517008   1.21718484] new score, context>0.8
 # [ 25.77144166   3.63803705] context>0.6
 # [ 29.11031324   3.16230046] context>0.7
-# [ 30.42060288   2.66441686] context>0.75
+# [ 29.09324531   3.4780464 ] context>0.75
 # [ 34.43088436   1.05051817] context>0.8
 class OneShotTestT2TModel(OneShotTestContext1):
     @staticmethod

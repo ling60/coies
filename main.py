@@ -14,8 +14,8 @@ tf.logging.set_verbosity(tf.logging.ERROR)
 def test(example_path, files, model_class, enable_saving=False, epochs=1):
     score_arr = np.array([0.0, 0.0])
     for epoch in range(0, epochs):
-        # one_shot_test = model_class(example_path, files, enable_saving=enable_saving, context_size=10)
-        one_shot_test = model_class(example_path, files, enable_saving=enable_saving)
+        one_shot_test = model_class(example_path, files, enable_saving=enable_saving, context_size=20)
+        # one_shot_test = model_class(example_path, files, enable_saving=enable_saving)
         one_shot_test.train()
         score, _ = one_shot_test.test()
         score_arr = np.add(score_arr, score)
