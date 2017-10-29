@@ -83,7 +83,7 @@ def doc2vec(labeled_sentences):
     # logging.info(labeled_sentences[0].words)
     # logging.info(labeled_sentences[0].tags)
     # model = gensim.models.doc2vec.Doc2Vec(documents=labeled_sentences, workers=10, dbow_words=0, min_count=1)
-    model = gensim.models.doc2vec.Doc2Vec(workers=10, min_count=1, size=100)
+    model = gensim.models.doc2vec.Doc2Vec(workers=10, min_count=1, size=512)
     model.build_vocab(labeled_sentences)
     model.train(sentences=labeled_sentences, total_examples=model.corpus_count, epochs=model.iter)
     # logging.info(model.infer_vector(labeled_sentences[0].words))
@@ -120,8 +120,12 @@ def doc_vector_dict_by_ngrams(doc2vec_model, ngrams):
 # to calculate distance between ngrams
 class DocVecByWordEmbeddings:
     # if not aaer_corpus then docs= will be needed
-    def __init__(self, aaer_corpus=True, **kwargs):
-        if aaer_corpus:
+    def __init__(self, aaer_ex=True, aaer_corpus=True, **kwargs):
+        if aaer_ex:  # using aaer extra corpus instead
+            self.aaer = True
+            self.aaer_model = aaer.AAERExParserSentences()
+            self.docs = self.aaer_model.get_tokens()
+        elif aaer_corpus:
             self.aaer = True
             self.aaer_model = aaer.AAERParserSentences()
             self.docs = self.aaer_model.get_tokens()

@@ -8,13 +8,14 @@ import gensim
 import os
 
 pickle_extension = '.' + const.PICKLE_FILE_EXTENSION
+corpus_extra_dir = os.path.join(const.DATA_PATH, const.EX_AAER_PATH)
 
 
 class AAERParserBase:
-    def __init__(self):
+    def __init__(self, corpus_dir=None):
         self.save_dir = const.GENERATED_DATA_DIR
         self.tokens_save_fname = os.path.join(self.save_dir, self.__class__.__name__ + pickle_extension)
-        self.corpus_dir = os.path.join(const.DATA_PATH, const.AAER_PATH)
+        self.corpus_dir = corpus_dir if corpus_dir else os.path.join(const.DATA_PATH, const.AAER_PATH)
         self.word2vec_save_fname = os.path.join(self.save_dir, 'aaer_word2vec_' + self.get_word2vec_save_name())
 
     def get_word2vec_save_name(self):
@@ -67,6 +68,11 @@ class AAERParserTokens(AAERParserBase):
         return tokens
 
 
+class AAERExParserTokens(AAERParserTokens):
+    def __init__(self):
+        super().__init__(corpus_dir=corpus_extra_dir)
+
+
 class AAERParserSentences(AAERParserBase):
     def get_word2vec_save_name(self):
         return 'sentences'
@@ -76,10 +82,15 @@ class AAERParserSentences(AAERParserBase):
         return sentences
 
 
+class AAERExParserSentences(AAERParserSentences):
+    def __init__(self):
+        super().__init__(corpus_dir=corpus_extra_dir)
+
+
 class AAERParserNGrams(AAERParserBase):
-    def __init__(self, n=5):
+    def __init__(self, n=5, corpus_dir=None):
         self.n = n
-        super().__init__()
+        super().__init__(corpus_dir=corpus_dir)
         self.tokens_save_fname = self.save_dir + self.__class__.__name__ + '_' + str(n) + pickle_extension
 
     def get_word2vec_save_name(self):
@@ -90,6 +101,12 @@ class AAERParserNGrams(AAERParserBase):
         for path in self.path_list_from_dir():
             ngrams += ex_parsing.ngrams_from_file(path, self.n)
         return ngrams
+
+
+class AAERExParserNGrams(AAERParserNGrams):
+    def __init__(self, n=5, corpus_dir=corpus_extra_dir):
+        super().__init__(n=n, corpus_dir=corpus_dir)
+        self.tokens_save_fname = self.save_dir + self.__class__.__name__ + '_ex_' + str(n) + pickle_extension
 
 
 class AAERParserNGramsSkip(AAERParserNGrams):

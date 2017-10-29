@@ -35,7 +35,7 @@ def sentences_from_file_list(file_path_list):
 
 
 # a customised version of gensim.models.Word2Vec. Mainly, setting min_count to 1
-def word2vec(tokens, min_count=1, size=300, alpha=0.025, window=5,
+def word2vec(tokens, min_count=1, size=512, alpha=0.025, window=5,
              sample=0.001, workers=10, min_alpha=0.0001, sg=0, hs=0, negative=5, cbow_mean=1,
              iteration=5, batch_words=10000):
     if type(tokens[0]) is not list:

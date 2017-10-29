@@ -6,9 +6,9 @@ import text_cleaning.example_parsing as ex_parsing
 import common.utilities as util
 import common.file_tools as ft
 
-N_GRAMS = 10
+N_GRAMS = 14
 TARGET_SIZE = 5
-WINDOW_SIZE = 3
+WINDOW_SIZE = 2
 
 
 def t2t_files_producer(n_grams,
@@ -104,4 +104,4 @@ def make_eval_files(source_file_list, tagged=False):
 test_file_source = ft.get_source_file_by_example_file(const.TEST_FILE)
 # make_eval_files([test_file_source])
 make_t2t_training_files()
-# make_vocal_file()
+make_vocal_file()

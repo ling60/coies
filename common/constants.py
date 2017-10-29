@@ -6,6 +6,7 @@ import root_path
 ROOT_DIR = root_path.ROOT_DIR
 DATA_PATH = os.path.join(os.path.dirname(ROOT_DIR), "data")  # 'D:/work/research/gan-accounting/data'
 AAER_PATH = 'sec/aaer'
+EX_AAER_PATH = 'sec/admin'  # aaer corpus plus files located in admin dir
 EXAMPLE_FILE = os.path.join(DATA_PATH, 'examples/34-53330.txt')
 TEST_DIR = os.path.join(DATA_PATH, 'examples')
 TEST_FILE = os.path.join(TEST_DIR, 'comp20547-lagreca.txt')

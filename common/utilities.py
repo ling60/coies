@@ -23,20 +23,23 @@ def top_n_from_list(l, n, start_max=True):
     return sorted(range(len(l)), key=lambda i: l[i], reverse=start_max)[:n]
 
 
+def make_distance_dict(vector, wv_dict):
+    distance_dict = {}
+    for k, v in wv_dict.items():
+        distance_dict[k] = abs(cosine_distance(vector, v))
+    return distance_dict
+
+
+def most_common_items(a_dict, topn=None):
+    d = collections.Counter()
+    d.update(a_dict)
+    return d.most_common(topn)
+
+
 # returns the nearest key(s) of vector dict, given a vector
 def similar_by_vector(vector, vector_dict, topn=1):
-    distance_dict = {}
-    for k, v in vector_dict.items():
-        distance_dict[k] = abs(cosine_distance(vector, v))
-        # print(distance_dict[k])
-        # print(type(vector_dict[k]))
-    d = collections.Counter()
-    # print(vector_dict)
-    d.update(distance_dict)
-    if topn <= len(vector_dict):
-        return d.most_common(topn)
-    else:
-        return d.items()
+    distance_dict = make_distance_dict(vector, vector_dict)
+    return most_common_items(distance_dict, topn)
 
 
 # returns a group/cluster of tuples(item, value), where values are similar to the top value (distance between them is
