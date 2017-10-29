@@ -156,7 +156,8 @@ class OneShotTestDoc2Vec:
             for context, similarity in context_sim_dict.items():
                 for w, distance, in distance_dict.items():
                     if util.is_sublist_of(w, context):
-                        new_weighted_distance = (1 + similarity) * distance
+                        new_weighted_distance = 1 - (1 - similarity) * (1 - distance)
+                        # new_weighted_distance = (1 + similarity) * distance
                         # we add a "1" here to ensure the result is larger
                         try:
                             weighted_distance = weighted_wv_dict[w]
@@ -186,7 +187,6 @@ class OneShotTestDoc2Vec:
         #     words_found = []
         # else:
         #     words_found = [words_found[0]]
-        # TODO: check why score is no change after using all words, instead of only top one.
         scores, counts = score_by_rouge(words_found, self.test_entity_dict, key)
         print("rouge:", scores)
         self.score_dict[test_file_path] = util.tuple_add(self.score_dict[test_file_path], scores)
@@ -471,6 +471,7 @@ class OneShotTestWVWMD(OneShotTestWVMean):
 # [ 30.17060394   0.91711844] context>0.75, with weighted sim
 # [ 36.52729225   1.16857143] size=512
 # [ 35.63946563   0.71333333] size=512, trained on aaer_ex corpus
+# # [ 30.08898944   0.67333333] with new similarity func
 class OneShotTestContext3(OneShotTestWVMean):
     def __init__(self, example_path, test_file_path_list, enable_saving=False, n_gram=5, context_size=10):
         super().__init__(example_path, test_file_path_list, enable_saving, n_gram)
@@ -631,7 +632,9 @@ class OneShotTestContext5(OneShotTestContext4):
 # (17.514451065730135, 1.0966666666666667)
 # ngrams=14, window size=2:
 # [ 33.99083341   1.11666667]
-
+# [ 32.7550938    0.17333333]
+# ngrams=14, window size=3, trained on extra corpus:
+# [ 22.84718314   3.61809524]
 class OneShotTestT2TModel(OneShotTestContext1):
     @staticmethod
     def doc_vector_to_dict_by_list(dv_model, grams):
@@ -691,7 +694,8 @@ class OneShotTestT2TModel(OneShotTestContext1):
 # [ 25.96934622   1.32142857] context>0.75
 # [ 33.1232684    0.67047619] trained on ngrams=20, window size=3
 # [ 35.74163226   0.51333333] trained on ngrams=14, window size=2
-class OneShotTestT2TMVMean(OneShotTestContext3):
+# [ 24.19922422   1.71333333] ngrams=14, window size=3, trained on extra corpus:
+class OneShotTestT2TWVMean(OneShotTestContext3):
     @staticmethod
     def context_vector_to_dict_by_list(dv_model, grams):
         assert isinstance(dv_model, dl_context.T2TContextModel)
@@ -732,3 +736,64 @@ class OneShotTestT2TMVMean(OneShotTestContext3):
     def post_training(self):
         self.context_vec_model = self.context_doc_training()
         self.make_example_tagged_words_ngram_vecs_dict(self.context_vec_model)
+
+
+# this class only scores context similarity
+class ContextTest(OneShotTestContext1):
+    def doc_vectors_training(self):
+        return None
+
+    def make_test_wv_dict(self, test_grams):
+        self.test_wv_dict = None
+
+    def context_doc_training(self):
+        raise NotImplementedError
+
+    def post_training(self):
+        self.context_vec_model = self.context_doc_training()
+        self.make_example_tagged_words_ngram_vecs_dict(self.context_vec_model)
+
+    def score(self, key, gram, test_file_path, wv_dict, **kwargs):
+        print('similar to:' + str(gram))
+        assert 'context_sim_dict' in kwargs
+
+        context_sim_dict = kwargs['context_sim_dict']
+
+        # print(wv_dict.keys())
+
+        contexts_found = list(context_sim_dict.keys())
+        print('Contexts found:')
+        print(contexts_found)
+        print('correct:')
+        try:
+            correct_entities = self.test_entity_dict[key]
+        except KeyError:
+            correct_entities = []
+        print(correct_entities)
+        example_tagged_ngrams = []
+        for words in correct_entities:
+            example_tagged_ngrams += cb.find_ngrams_by_tagged_words(self.example_ngrams, words)
+        print(example_tagged_ngrams)
+        # if len(contexts_found) == 0:
+        #     contexts_found = []
+        # else:
+        #     contexts_found = [contexts_found[0]]
+        # scores, counts = score_by_rouge(contexts_found, self.test_entity_dict, key)
+        score = (0, 0)
+        count = 1
+        if correct_entities:
+
+            # print(words_found)
+            score = util.tuple_add(score, (rouge.rouge_1(contexts_found, example_tagged_ngrams, alpha=0.5),
+                                           rouge.rouge_2(contexts_found, example_tagged_ngrams, alpha=0.5)))
+            # print(score)
+        elif not contexts_found:  # both do not have similar words compared to example
+            score = util.tuple_add(score, (1, 0))  # set rouge2 as 0 because for single word rouge2 returns 0
+        print("rouge:", score)
+        self.score_dict[test_file_path] = util.tuple_add(self.score_dict[test_file_path], score)
+        return count
+
+
+class ContextTextWVMean(ContextTest):
+    def context_doc_training(self):
+        return cb.DocVecByWEMean()

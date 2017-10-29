@@ -117,7 +117,7 @@ class AAERGenerateProblem(TextGenerateProblem):
         encoder = generator_utils.get_or_generate_vocab_inner(data_dir=const.T2T_DATA_DIR,
                                                               vocab_filename=vocab_filename,
                                                               vocab_size=self.targeted_vocab_size,
-                                                              generator=aaer.AAERParserTokens().get_tokens())
+                                                              generator=aaer.AAERExParserTokens().get_tokens())
         return {"inputs": encoder, "targets": encoder}
 
     def generator(self, data_dir, tmp_dir, train):

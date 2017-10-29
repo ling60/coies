@@ -71,7 +71,7 @@ def t2t_files_producer2(n_grams,
 
 def make_t2t_training_files():
     print("making training files..")
-    aaer = aaer_corpus.AAERParserNGrams(n=N_GRAMS)
+    aaer = aaer_corpus.AAERExParserNGrams(n=N_GRAMS)
     # t2t_files_producer(aaer.get_tokens(), const.T2T_AAER_SOURCE_PATH, const.T2T_AAER_TARGETS_PATH,
     #                    target_size=TARGET_SIZE)
     t2t_files_producer2(aaer.get_tokens(), const.T2T_AAER_SOURCE_PATH, const.T2T_AAER_TARGETS_PATH)
@@ -85,7 +85,7 @@ def make_t2t_training_files():
 
 
 def make_vocal_file():
-    aaer = aaer_corpus.AAERParserTokens()
+    aaer = aaer_corpus.AAERExParserTokens()
     generator_utils.get_or_generate_vocab_inner(data_dir=const.T2T_DATA_DIR,
                                                 vocab_filename=const.T2T_AAER_VOLCAB_NAME,
                                                 vocab_size=40000,
