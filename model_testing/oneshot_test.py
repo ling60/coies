@@ -54,9 +54,12 @@ def similar_grams_by_doc_vecs(doc_vecs, dv_dict, topn=TOP_N):
 
 # returns two dicts based on context similar to given ngram vectors. first is word vector dict filtered by contexts,
 # the other is contexts and their similarity values
+def make_context_sim_dict(example_tagged_words_ngram_vecs, context_sized_test_wv_dict):
+    return similar_grams_by_doc_vecs(example_tagged_words_ngram_vecs, context_sized_test_wv_dict, topn=TOP_N*2)
+
+
 def make_context_dict(example_tagged_words_ngram_vecs, context_sized_test_wv_dict, wv_dict):
-    context_similarity_dict = \
-        similar_grams_by_doc_vecs(example_tagged_words_ngram_vecs, context_sized_test_wv_dict, topn=TOP_N*2)
+    context_similarity_dict = make_context_sim_dict(example_tagged_words_ngram_vecs, context_sized_test_wv_dict)
     logging.info('similar contexts:')
     logging.info(context_similarity_dict)
     # similar_contexts = set()
@@ -156,8 +159,8 @@ class OneShotTestDoc2Vec:
             for context, similarity in context_sim_dict.items():
                 for w, distance, in distance_dict.items():
                     if util.is_sublist_of(w, context):
-                        new_weighted_distance = 1 - (1 - similarity) * (1 - distance)
-                        # new_weighted_distance = (1 + similarity) * distance
+                        # new_weighted_distance = 1 - (1 - similarity) * (1 - distance)
+                        new_weighted_distance = (1 + similarity) * distance
                         # we add a "1" here to ensure the result is larger
                         try:
                             weighted_distance = weighted_wv_dict[w]
@@ -635,6 +638,8 @@ class OneShotTestContext5(OneShotTestContext4):
 # [ 32.7550938    0.17333333]
 # ngrams=14, window size=3, trained on extra corpus:
 # [ 22.84718314   3.61809524]
+# window size=2:
+# [ 25.10924964   3.31380952]
 class OneShotTestT2TModel(OneShotTestContext1):
     @staticmethod
     def doc_vector_to_dict_by_list(dv_model, grams):
@@ -749,15 +754,21 @@ class ContextTest(OneShotTestContext1):
     def context_doc_training(self):
         raise NotImplementedError
 
+    @staticmethod
+    def doc_vector_to_dict_by_list(dv_model, grams):
+        raise NotImplementedError
+
     def post_training(self):
         self.context_vec_model = self.context_doc_training()
         self.make_example_tagged_words_ngram_vecs_dict(self.context_vec_model)
 
-    def score(self, key, gram, test_file_path, wv_dict, **kwargs):
-        print('similar to:' + str(gram))
-        assert 'context_sim_dict' in kwargs
+    def score(self, key, tagged_gram, test_file_path, wv_dict, **kwargs):
+        example_tagged_words_ngram_vecs = \
+            self.example_tagged_words_ngram_vecs_dict[self.tagged_words_to_str(tagged_gram)]
+        context_sim_dict = make_context_sim_dict(example_tagged_words_ngram_vecs,
+                                                 self.context_sized_test_wv_dict)
 
-        context_sim_dict = kwargs['context_sim_dict']
+        gram = util.sentence_from_tagged_ngram(tagged_gram)
 
         # print(wv_dict.keys())
 
@@ -765,14 +776,9 @@ class ContextTest(OneShotTestContext1):
         print('Contexts found:')
         print(contexts_found)
         print('correct:')
-        try:
-            correct_entities = self.test_entity_dict[key]
-        except KeyError:
-            correct_entities = []
-        print(correct_entities)
-        example_tagged_ngrams = []
-        for words in correct_entities:
-            example_tagged_ngrams += cb.find_ngrams_by_tagged_words(self.example_ngrams, words)
+
+        print(gram)
+        example_tagged_ngrams = cb.find_ngrams_by_tagged_words(self.example_ngrams, tagged_gram)
         print(example_tagged_ngrams)
         # if len(contexts_found) == 0:
         #     contexts_found = []
@@ -781,7 +787,7 @@ class ContextTest(OneShotTestContext1):
         # scores, counts = score_by_rouge(contexts_found, self.test_entity_dict, key)
         score = (0, 0)
         count = 1
-        if correct_entities:
+        if tagged_gram:
 
             # print(words_found)
             score = util.tuple_add(score, (rouge.rouge_1(contexts_found, example_tagged_ngrams, alpha=0.5),
@@ -795,5 +801,9 @@ class ContextTest(OneShotTestContext1):
 
 
 class ContextTextWVMean(ContextTest):
+    @staticmethod
+    def doc_vector_to_dict_by_list(dv_model, grams):
+        return OneShotTestWVMean.doc_vector_to_dict_by_list(dv_model, grams)
+
     def context_doc_training(self):
         return cb.DocVecByWEMean()
