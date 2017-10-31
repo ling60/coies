@@ -2,6 +2,8 @@ import model_testing.oneshot_test as oneshot
 import common.file_tools as ft
 import common.constants as const
 import text_cleaning.example_parsing as ex_parsing
+import os
+import csv
 import numpy as np
 import logging
 import tensorflow as tf
@@ -13,18 +15,30 @@ tf.logging.set_verbosity(tf.logging.ERROR)
 
 def test(example_path, files, model_class, enable_saving=False, epochs=1):
     score_arr = np.array([0.0, 0.0])
-    for epoch in range(0, epochs):
-        # one_shot_test = model_class(example_path, files, enable_saving=enable_saving, context_size=10)
-        one_shot_test = model_class(example_path, files, enable_saving=enable_saving)
-        one_shot_test.train()
-        score, _ = one_shot_test.test()
-        score_arr = np.add(score_arr, score)
-    print(np.divide(score_arr, epochs))
+    conf_dict = oneshot.base_conf_dict
+    if not os.path.exists(const.RESULTS_DIR):
+        os.makedirs(const.RESULTS_DIR)
+    file_path = os.path.join(const.RESULTS_DIR, model_class.__name__)
+
+    with open(file_path, 'a', newline='') as csvfile:
+        csv_writer = csv.writer(csvfile)
+        assert conf_dict['topn']
+        for topn in range(1, 20):
+            conf_dict['topn'] = topn
+            for epoch in range(0, epochs):
+                # one_shot_test = model_class(example_path, files, enable_saving=enable_saving, context_size=10)
+                one_shot_test = model_class(example_path, files, enable_saving=enable_saving, conf_dict=conf_dict)
+                one_shot_test.train()
+                score, _ = one_shot_test.test()
+                score_arr = np.add(score_arr, score)
+            avg_score = np.divide(score_arr, epochs)
+            print(avg_score)
+            csv_writer.writerow([conf_dict, avg_score])
 
 
 file_list = ft.list_file_paths_under_dir(const.TEST_DIR, ['txt'])
-
-test(const.EXAMPLE_FILE, file_list, oneshot.OneShotTestWVWMD, epochs=1)
+# file_list = [os.path.join(const.TEST_DIR, '34-71576.txt')]
+test(const.EXAMPLE_FILE, file_list, oneshot.OneShotTestContextWVSum, epochs=0)
 # one_shot_test = oneshot.OneShotTestRandom(const.DATA_PATH + 'examples/34-53330.txt', file_list, enable_saving=True)
 
 # print(ex_parsing.tokens_from_file(example_file_path))

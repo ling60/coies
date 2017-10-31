@@ -12,6 +12,7 @@ TEST_DIR = os.path.join(DATA_PATH, 'test')
 TEST_FILE = os.path.join(TEST_DIR, 'comp20547-lagreca.txt')
 HUMAN_DIR = os.path.join(DATA_PATH, 'human_results')
 GENERATED_DATA_DIR = os.path.join(ROOT_DIR, 'data')
+RESULTS_DIR = os.path.join(GENERATED_DATA_DIR, 'results')
 
 HTML_EXTENSIONS = ["html", "shtml", "htm"]
 TEXT_EXTENSIONS = ["txt"]
