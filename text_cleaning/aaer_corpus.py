@@ -8,7 +8,7 @@ import gensim
 import os
 
 pickle_extension = '.' + const.PICKLE_FILE_EXTENSION
-corpus_extra_dir = os.path.join(const.DATA_PATH, const.EX_AAER_PATH)
+CORPUS_EXTRA_DIR = os.path.join(const.DATA_PATH, const.EX_AAER_PATH)
 
 
 class AAERParserBase:
@@ -37,16 +37,20 @@ class AAERParserBase:
     def path_list_from_dir(self):
         return ft.list_file_paths_under_dir(self.corpus_dir, const.TEXT_EXTENSIONS)
 
-    def get_tokens(self):
-        try:
-            logging.info('loading tokens from ' + self.tokens_save_fname)
-            with open(self.tokens_save_fname, 'rb') as f:
-                tokens = pickle.load(f)
-        except FileNotFoundError:
-            logging.info(self.tokens_save_fname + ' not found. Generating from data files...')
+    def get_tokens(self, enable_save=True):
+        if enable_save:
+            try:
+                logging.info('loading tokens from ' + self.tokens_save_fname)
+                with open(self.tokens_save_fname, 'rb') as f:
+                    tokens = pickle.load(f)
+            except FileNotFoundError:
+                logging.info(self.tokens_save_fname + ' not found. Generating from data files...')
+                tokens = self.tokens_from_aaer_corpus()
+                with open(self.tokens_save_fname, 'wb') as f:
+                    pickle.dump(tokens, f)
+        else:
+            logging.info("enable_save is False, generating data from files...")
             tokens = self.tokens_from_aaer_corpus()
-            with open(self.tokens_save_fname, 'wb') as f:
-                pickle.dump(tokens, f)
         return tokens
 
 
@@ -70,7 +74,7 @@ class AAERParserTokens(AAERParserBase):
 
 class AAERExParserTokens(AAERParserTokens):
     def __init__(self):
-        super().__init__(corpus_dir=corpus_extra_dir)
+        super().__init__(corpus_dir=CORPUS_EXTRA_DIR)
 
 
 class AAERParserSentences(AAERParserBase):
@@ -84,7 +88,7 @@ class AAERParserSentences(AAERParserBase):
 
 class AAERExParserSentences(AAERParserSentences):
     def __init__(self):
-        super().__init__(corpus_dir=corpus_extra_dir)
+        super().__init__(corpus_dir=CORPUS_EXTRA_DIR)
 
 
 class AAERParserNGrams(AAERParserBase):
@@ -104,9 +108,32 @@ class AAERParserNGrams(AAERParserBase):
 
 
 class AAERExParserNGrams(AAERParserNGrams):
-    def __init__(self, n=5, corpus_dir=corpus_extra_dir):
+    def __init__(self, n=5, corpus_dir=CORPUS_EXTRA_DIR):
         super().__init__(n=n, corpus_dir=corpus_dir)
         self.tokens_save_fname = self.save_dir + self.__class__.__name__ + '_ex_' + str(n) + pickle_extension
+
+
+class AAERParserM2NGrams(AAERParserBase):
+    def __init__(self, m=1, n=5, corpus_dir=None):
+        self.n = n
+        self.m = m
+        super().__init__(corpus_dir=corpus_dir)
+        self.tokens_save_fname = "%s%s_%d_%d.%s" % (self.save_dir, self.__class__.__name__, m, n, pickle_extension)
+
+    def get_word2vec_save_name(self):
+        return "%d_%d_grams" % (self.m, self.n)
+
+    def tokens_from_aaer_corpus(self):
+        ngrams = []
+        for path in self.path_list_from_dir():
+            ngrams += ex_parsing.m_to_n_grams_from_file(path, m=self.m, n=self.n)
+        return ngrams
+
+
+class AAERExParserM2NGrams(AAERParserM2NGrams):
+    def __init__(self, m=1, n=5, corpus_dir=CORPUS_EXTRA_DIR):
+        super().__init__(m=m, n=n, corpus_dir=corpus_dir)
+        self.tokens_save_fname = "%s%sEx_%d_%d.%s" % (self.save_dir, self.__class__.__name__, m, n, pickle_extension)
 
 
 class AAERParserNGramsSkip(AAERParserNGrams):

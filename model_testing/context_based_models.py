@@ -120,7 +120,7 @@ def doc_vector_dict_by_ngrams(doc2vec_model, ngrams):
 # to calculate distance between ngrams
 class DocVecByWordEmbeddings:
     # if not aaer_corpus then docs= will be needed
-    def __init__(self, aaer_ex=True, aaer_corpus=True, **kwargs):
+    def __init__(self, aaer_ex=True, aaer_corpus=False, **kwargs):
         if aaer_ex:  # using aaer extra corpus instead
             self.aaer = True
             self.aaer_model = aaer.AAERExParserSentences()
@@ -150,17 +150,6 @@ class DocVecByWordEmbeddings:
         self.wv_model.train(docs, total_examples=self.wv_model.corpus_count, epochs=self.wv_model.iter)
         # self.make_doc_vec_dict(update_docs=docs)
 
-    # def make_doc_vec_dict(self, update_docs=None):
-    #     raise NotImplementedError
-
-    # given doc/sentence/ngram, returns a vector
-    # def infer_vector(self, doc_tuple):
-    #     if type(doc_tuple) is list:
-    #         doc_tuple = tuple(doc_tuple)
-    #     assert type(doc_tuple) is tuple
-    #     if len(doc_tuple) == 1:
-    #         return self.wv_model[doc_tuple[0]]
-    #     return self.doc_vec_dict[doc_tuple]
     def infer_vector(self, tokens):
         token_vectors = [self.wv_model.wv[token] for token in tokens]
         return self.compute_doc_vec(token_vectors)
@@ -170,19 +159,6 @@ class DocVecByWEMean(DocVecByWordEmbeddings):
     @staticmethod
     def compute_doc_vec(words_vectors):
         return np.mean(words_vectors, axis=0)
-
-    # def make_doc_vec_dict(self, update_docs=None):
-    #     if not update_docs:
-    #         doc_vec_dict = {}
-    #         docs = self.docs
-    #     else:
-    #         doc_vec_dict = self.doc_vec_dict
-    #         docs = update_docs
-    #     for doc in docs:
-    #         words_vectors = [self.wv_model.wv[word] for word in doc]
-    #         if len(doc) > 1:
-    #             doc_vec_dict[tuple(doc)] = self.compute_doc_vec(words_vectors)
-    #     return doc_vec_dict
 
 
 class DocVecByWESum(DocVecByWEMean):

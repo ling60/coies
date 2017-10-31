@@ -5,8 +5,9 @@ import common.constants as const
 import text_cleaning.example_parsing as ex_parsing
 import common.utilities as util
 import common.file_tools as ft
+import logging
 
-N_GRAMS = 14
+N_GRAMS = 5
 TARGET_SIZE = 5
 WINDOW_SIZE = 2
 
@@ -43,7 +44,6 @@ def t2t_files_producer(n_grams,
 def t2t_files_producer2(n_grams,
                         source_path,
                         targets_path,
-                        source_size=None,
                         window_size=WINDOW_SIZE):
     """produce data files required by tensor2tensor source_path and target_path have
     the same number of lines. target = window + source + window
@@ -54,13 +54,7 @@ def t2t_files_producer2(n_grams,
       window_size: time shifting distance between inputs and targets
       source_size: the length of target line. should be smaller than length of ngram
     """
-    assert type(n_grams[0]) is list
-    n = len(n_grams[0])
-    if source_size is not None:
-        assert source_size <= n
-    else:
-        source_size = n
-
+    assert type(n_grams[0]) is list or type(n_grams[0]) is tuple
     epoch_size = len(n_grams) - window_size
     with open(source_path, 'w') as f_source:
         with open(targets_path, 'w') as f_targets:
@@ -69,12 +63,15 @@ def t2t_files_producer2(n_grams,
                 f_source.write(util.list_to_str_line(n_grams[i][window_size:-window_size]))
 
 
-def make_t2t_training_files():
+def make_t2t_training_files(ngram_min=1, ngram_max=N_GRAMS):
     print("making training files..")
-    aaer = aaer_corpus.AAERExParserNGrams(n=N_GRAMS)
+    m = ngram_min + WINDOW_SIZE * 2
+    n = ngram_max + WINDOW_SIZE * 2
+    # aaer = aaer_corpus.AAERExParserNGrams(n=N_GRAMS)
+    aaer = aaer_corpus.AAERExParserM2NGrams(m=m, n=n)
     # t2t_files_producer(aaer.get_tokens(), const.T2T_AAER_SOURCE_PATH, const.T2T_AAER_TARGETS_PATH,
     #                    target_size=TARGET_SIZE)
-    t2t_files_producer2(aaer.get_tokens(), const.T2T_AAER_SOURCE_PATH, const.T2T_AAER_TARGETS_PATH)
+    t2t_files_producer2(aaer.get_tokens(enable_save=False), const.T2T_AAER_SOURCE_PATH, const.T2T_AAER_TARGETS_PATH)
 
 
 # def make_t2t_vocal_file():
@@ -101,7 +98,8 @@ def make_eval_files(source_file_list, tagged=False):
                        TARGET_SIZE)
 
 
+logging.basicConfig(level=logging.INFO)
 test_file_source = ft.get_source_file_by_example_file(const.TEST_FILE)
 # make_eval_files([test_file_source])
-make_t2t_training_files()
+make_t2t_training_files(1, N_GRAMS)
 make_vocal_file()

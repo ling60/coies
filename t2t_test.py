@@ -20,7 +20,7 @@ tokens = ex_parsing.ngrams_from_file(test_file_source, N_GRAMS, tagged=False)
 # t = text_encoding.TextEncoding(tokens, eval_tokens)
 # t.encode()
 # tokens = tokens[:10]
-m_t2t = dl_context.T2TContextModel(load_aaer_data=False, docs=tokens)
+m_t2t = dl_context.T2TContextModel(load_aaer_test_data=False, docs=tokens)
 dv = m_t2t.infer_vectors_dict(tokens)
 test_vec = m_t2t.infer_vector('profits')
 # print(test_vec)
