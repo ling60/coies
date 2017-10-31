@@ -22,21 +22,19 @@ def test(example_path, files, model_class, enable_saving=False, epochs=1):
         os.makedirs(const.RESULTS_DIR)
     file_path = os.path.join(const.RESULTS_DIR, model_class.__name__)
 
-    with open(file_path, 'a', newline='') as csvfile:
-        csv_writer = csv.writer(csvfile)
-        assert conf_dict['topn']
-        for topn in range(1, 10):
-            conf_dict['topn'] = topn
-            for i in range(50, 100, 5):
-                assert conf_dict['context_threshold']
-                conf_dict['context_threshold'] = i/100
-                for n in range(2, 7):
-                    assert conf_dict['word_threshold']
-                    conf_dict['word_threshold'] = n/10
-                    for context_size in range(10, 110, 10):
-                        assert conf_dict['context_size']
-                        conf_dict['context_size'] = context_size
-                        conf_dict_list.append(copy.deepcopy(conf_dict))
+    assert conf_dict['topn']
+    for topn in range(1, 10):
+        conf_dict['topn'] = topn
+        for i in range(50, 100, 5):
+            assert conf_dict['context_threshold']
+            conf_dict['context_threshold'] = i/100
+            for n in range(2, 7):
+                assert conf_dict['word_threshold']
+                conf_dict['word_threshold'] = n/10
+                for context_size in range(10, 110, 10):
+                    assert conf_dict['context_size']
+                    conf_dict['context_size'] = context_size
+                    conf_dict_list.append(copy.deepcopy(conf_dict))
         for conf in conf_dict_list:
             for epoch in range(0, epochs):
                 # one_shot_test = model_class(example_path, files, enable_saving=enable_saving, context_size=10)
@@ -46,7 +44,9 @@ def test(example_path, files, model_class, enable_saving=False, epochs=1):
                 score_arr = np.add(score_arr, score)
             avg_score = np.divide(score_arr, epochs)
             print(avg_score)
-            csv_writer.writerow([conf_dict, avg_score])
+            with open(file_path, 'a', newline='') as csvfile:
+                csv_writer = csv.writer(csvfile)
+                csv_writer.writerow([conf, avg_score])
 
 
 file_list = ft.list_file_paths_under_dir(const.TEST_DIR, ['txt'])
