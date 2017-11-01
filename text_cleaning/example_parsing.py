@@ -175,7 +175,7 @@ def one_to_n_grams_from_file(file_path, n=5, tagged=False):
 
 
 def m_to_n_grams_from_file(file_path, m=1, n=5, tagged=False):
-    assert n > m > 0
+    assert n >= m > 0
     grams = []
     for i in range(m, n + 1):
         sequenced_ngrams = sequenced_ngrams_from_file(file_path, i, tagged=tagged)

@@ -638,6 +638,7 @@ class OneShotTestContext5(OneShotTestContext4):
 
 # [ 20.60965956   6.07702742]
 # [ 20.65537384   6.13036075]
+# [ 20.65537384   6.13036075]
 class OneShotTestT2TNoContext(OneShotTestWVMean):
     def doc_vectors_training(self):
         return dl_context.T2TContextModel(load_aaer_test_data=True, doc_length=self.n, one_to_n=True)

@@ -10,6 +10,7 @@ EX_AAER_PATH = 'sec/admin'  # aaer corpus plus files located in admin dir
 EXAMPLE_FILE = os.path.join(DATA_PATH, 'example/34-53330.txt')
 TEST_DIR = os.path.join(DATA_PATH, 'test')
 TEST_FILE = os.path.join(TEST_DIR, 'comp20547-lagreca.txt')
+VALIDATION_DIR = os.path.join(DATA_PATH, 'validation')
 HUMAN_DIR = os.path.join(DATA_PATH, 'human_results')
 GENERATED_DATA_DIR = os.path.join(ROOT_DIR, 'data')
 RESULTS_DIR = os.path.join(GENERATED_DATA_DIR, 'results')
