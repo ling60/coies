@@ -42,6 +42,7 @@ class T2TContextModel(ContextModel):
             docs: not needed if load_aaer_data is True
         """
         super().__init__()
+        self.load_aaer_test_data = load_aaer_test_data
         if load_aaer_test_data:
             self._load_aaer_test_data(doc_length, one_to_n=one_to_n)
         else:
@@ -87,6 +88,9 @@ class T2TContextModel(ContextModel):
             encodings = encoding_model.encode(encoding_len=1)
 
             self._docvec_dict.update(dict(zip(docs_vocab, encodings)))
+            logging.info("saving dict to %s" % self.dict_save_fname)
+            with open(self.dict_save_fname, 'wb') as f:
+                pickle.dump(self._docvec_dict, f)
 
     def update(self, docs):
         self._make_docvec_dict(docs=docs)
@@ -95,11 +99,13 @@ class T2TContextModel(ContextModel):
         # data only contains test files, to save computing & memory costs
         self.save_dir = const.GENERATED_DATA_DIR
         if one_to_n:
-            self.dict_save_fname = os.path.join(self.save_dir, "dl_doc_dict_%s_1_to_%d.%s" %
-                                                (self.__class__.__name__, doc_length, const.PICKLE_FILE_EXTENSION))
+            self.dict_save_fname = os.path.join(self.save_dir, "%s%s_1_to_%d.%s" %
+                                                (const.DL_DOC_DICT_PREFIX, self.__class__.__name__,
+                                                 doc_length, const.PICKLE_FILE_EXTENSION))
         else:
-            self.dict_save_fname = os.path.join(self.save_dir, "dl_doc_dict_%s_%d.%s" %
-                                                (self.__class__.__name__, doc_length, const.PICKLE_FILE_EXTENSION))
+            self.dict_save_fname = os.path.join(self.save_dir, "%s%s_%d.%s" %
+                                                (const.DL_DOC_DICT_PREFIX, self.__class__.__name__,
+                                                 doc_length, const.PICKLE_FILE_EXTENSION))
         try:
             logging.info("loading saved data from %s" % self.dict_save_fname)
             with open(self.dict_save_fname, 'rb') as f:
@@ -117,6 +123,3 @@ class T2TContextModel(ContextModel):
                     docs += ex_parsing.ngrams_from_file(ft.get_source_file_by_example_file(test_file), n=doc_length)
             # print(docs[0])
             self._make_docvec_dict(docs)
-            logging.info("saving dict to %s" % self.dict_save_fname)
-            with open(self.dict_save_fname, 'wb') as f:
-                pickle.dump(self._docvec_dict, f)

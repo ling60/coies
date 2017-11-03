@@ -684,6 +684,7 @@ class OneShotTestT2TNoContext(OneShotTestWVMean):
 # window size=2:
 # [ 25.10924964   3.31380952]
 # [ 33.27467199   3.85131313] with extra corpus & revised similarity weighting func
+# [ 0.24482222  0.02278912] with context_size 20, new trained
 class OneShotTestT2TModel(OneShotTestContext1):
     @staticmethod
     def doc_vector_to_dict_by_list(dv_model, grams):
@@ -764,6 +765,11 @@ class OneShotTestT2TWVMean(OneShotTestContextWVMean):
         self.make_example_tagged_words_ngram_vecs_dict(self.context_vec_model)
 
 
+class OneShotTestT2TWVSum(OneShotTestT2TWVMean):
+    def doc_vectors_training(self):
+        return cb.DocVecByWESum()
+
+
 # this class only scores context similarity
 class ContextTest(OneShotTestContext1):
     def doc_vectors_training(self):
@@ -836,6 +842,7 @@ class ContextTestWVMean(ContextTest):
 
 
 # [ 13.34222989   2.66634493]
+# [ 0.13516291  0.01667692]
 class ContextTestT2T(ContextTest):
     def context_doc_training(self):
         return dl_context.T2TContextModel(load_aaer_test_data=True, doc_length=self.context_size)

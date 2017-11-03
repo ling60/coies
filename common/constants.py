@@ -30,6 +30,7 @@ T2T_PROBLEM = 'aaer_generate_problem'
 T2T_MODEL = 'transformer'
 T2T_USER_DIR = os.path.join(ROOT_DIR, 't2t_models')
 T2T_HPARAMS = 'transformer_base_single_gpu'
+DL_DOC_DICT_PREFIX = 'dl_doc_dict_'
 
 # tags related
 TAGS = ['comp.', 'date.', 'item.']
