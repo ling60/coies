@@ -55,10 +55,10 @@ def grid_conf_dict_generator():
         for i in range(80, 100, 5):
             assert config_dict['context_threshold']
             config_dict['context_threshold'] = i / 100
-            for n in range(4, 7):
+            for n in range(4, 8):
                 assert config_dict['word_threshold']
                 config_dict['word_threshold'] = n / 10
-                for context_size in [10, 20, 100, 200]:
+                for context_size in [10, 20, 100, 120]:
                     assert config_dict['context_size']
                     config_dict['context_size'] = context_size
                     yield config_dict
@@ -75,11 +75,13 @@ def grid_search(example_path, model_class, enable_saving=True, epochs=1):
 file_list = ft.list_file_paths_under_dir(const.VALIDATION_DIR, ['txt'])
 # file_list = [os.path.join(const.TEST_DIR, '34-71576.txt')]
 
-# conf_dict = oneshot.base_conf_dict
-# conf_dict['context_size'] = 100
-# run_for_epochs(const.EXAMPLE_FILE, file_list, oneshot.OneShotTestT2TModel, config_dict=conf_dict, epochs=1)
+conf_dict = oneshot.base_conf_dict
+conf_dict['context_size'] = 100
+conf_dict['context_threshold'] = 0.9
+conf_dict['word_threshold'] = 0.4
+run_for_epochs(const.EXAMPLE_FILE, file_list, oneshot.ContextTestDoc2vec, config_dict=conf_dict, epochs=1)
 
-grid_search(const.EXAMPLE_FILE, oneshot.OneShotTestT2TModel)
+# grid_search(const.EXAMPLE_FILE, oneshot.OneShotTestT2TWVSum)
 
 # print(ex_parsing.tokens_from_file(example_file_path))
 

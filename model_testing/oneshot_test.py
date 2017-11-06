@@ -150,7 +150,7 @@ class OneShotTestDoc2Vec:
         return {tuple(k): dv_model.infer_vector(k) for k in grams}
 
     def doc_vectors_training(self):
-        return cb.make_doc2vec_model_from_aaer(self.n)
+        return cb.make_doc2vec_model_from_aaer()
 
     def make_test_wv_dict(self, test_grams):
         flat_grams = util.flatten_list(test_grams)
@@ -350,7 +350,7 @@ class OneShotTestContext1(OneShotTestDoc2Vec):
         self.make_example_tagged_words_ngram_vecs_dict(self.doc_vec_model)
 
     def doc_vectors_training(self):
-        return cb.make_doc2vec_model_from_aaer(self.context_size)
+        return cb.make_doc2vec_model_from_aaer()
 
     @staticmethod
     def tagged_words_to_str(tagged_words):
@@ -420,7 +420,7 @@ class OneShotTestContext2(OneShotTestContext1):
         return OneShotTestDoc2Vec.doc_vectors_training(self)
 
     def context_doc_training(self):
-        return cb.make_doc2vec_model_from_aaer(self.context_size)
+        return cb.make_doc2vec_model_from_aaer()
 
     def post_training(self):
         self.context_vec_model = self.context_doc_training()
@@ -856,3 +856,12 @@ class ContextTestT2T(ContextTest):
 class ContextTestWVSum(ContextTestWVMean):
     def context_doc_training(self):
         return cb.DocVecByWESum()
+
+
+class ContextTestDoc2vec(ContextTest):
+    @staticmethod
+    def doc_vector_to_dict_by_list(dv_model, grams):
+        return OneShotTestDoc2Vec.doc_vector_to_dict_by_list(dv_model, grams)
+
+    def context_doc_training(self):
+        return cb.make_doc2vec_model_from_aaer()

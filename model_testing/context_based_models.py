@@ -26,11 +26,11 @@ def label_sentences(sentences, label_prefix=None):
 
 
 def label_ngrams_from_file_list(file_path_list, n=10):
-    labeled_ngrams = []
+    ngrams = []
     for file_path in file_path_list:
         # file_name = ft.file_name_from_path(file_path)
-        ngrams = ex_parsing.sequenced_ngrams_from_file(file_path, n)
-        labeled_ngrams += label_sentences(ngrams)
+        ngrams += ex_parsing.sequenced_ngrams_from_file(file_path, n)
+    labeled_ngrams = label_sentences(ngrams)
     return labeled_ngrams
 
 
@@ -85,20 +85,29 @@ def doc2vec(labeled_sentences):
     # model = gensim.models.doc2vec.Doc2Vec(documents=labeled_sentences, workers=10, dbow_words=0, min_count=1)
     model = gensim.models.doc2vec.Doc2Vec(workers=10, min_count=1, size=512)
     model.build_vocab(labeled_sentences)
-    model.train(sentences=labeled_sentences, total_examples=model.corpus_count, epochs=model.iter)
+    model.train(sentences=labeled_sentences, total_examples=model.corpus_count, epochs=20)
     # logging.info(model.infer_vector(labeled_sentences[0].words))
     return model
 
 
-def make_doc2vec_model_from_aaer(gram_n):
-    save_fname = os.path.join(const.GENERATED_DATA_DIR, 'aaer_doc2vec_' + str(gram_n) + 'grams')
+def make_doc2vec_model_from_aaer(gram_n=None):
+    if gram_n:
+        save_fname = os.path.join(const.GENERATED_DATA_DIR, 'aaer_doc2vec_' + str(gram_n) + 'grams')
+    else:
+        save_fname = os.path.join(const.GENERATED_DATA_DIR, 'aaer_doc2vec_sentences')
     try:
         doc_vec_model = gensim.models.Doc2Vec.load(save_fname)
     except FileNotFoundError:
         logging.info(save_fname + ' not found')
-        labeled_tagged_ngrams = label_ngrams_from_file_list(ft.list_file_paths_under_dir(
-            os.path.join(const.DATA_PATH, const.AAER_PATH), ['txt']))
-        doc_vec_model = doc2vec(labeled_tagged_ngrams)
+        if gram_n:
+            aaer_corpus = aaer.AAERExParserNGrams(n=gram_n)
+        else:
+            aaer_corpus = aaer.AAERExParserSentences()
+        ngrams = aaer_corpus.get_tokens()
+        labeled_ngrams = label_sentences(ngrams)
+        # labeled_tagged_ngrams = label_ngrams_from_file_list(ft.list_file_paths_under_dir(
+        #     os.path.join(const.DATA_PATH, const.AAER_PATH), ['txt']))
+        doc_vec_model = doc2vec(labeled_ngrams)
         doc_vec_model.save(save_fname)
     return doc_vec_model
 

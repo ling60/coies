@@ -9,9 +9,10 @@ import logging
 import glob
 import os
 
-N_GRAMS = 14
+# todo: extra corpus NOT used for ngrams>=100, due to oversize problem
+N_GRAMS = 100
 # TARGET_SIZE = 5
-WINDOW_SIZE = 2
+WINDOW_SIZE = 20
 
 config_dict = {'ngrams': N_GRAMS,
                'window_size': WINDOW_SIZE}
@@ -72,7 +73,7 @@ def make_t2t_training_files(ngram_min=1, ngram_max=N_GRAMS):
     m = ngram_min + WINDOW_SIZE * 2
     n = ngram_max + WINDOW_SIZE * 2
     if m == n:
-        aaer = aaer_corpus.AAERExParserNGrams(n=n)
+        aaer = aaer_corpus.AAERParserNGrams(n=n)
     else:
         aaer = aaer_corpus.AAERExParserM2NGrams(m=m, n=n)
     # t2t_files_producer(aaer.get_tokens(), const.T2T_AAER_SOURCE_PATH, const.T2T_AAER_TARGETS_PATH,
@@ -99,9 +100,9 @@ def make_eval_files(source_file_list, tagged=False):
     n_grams = []
     for path in source_file_list:
         n_grams += ex_parsing.ngrams_from_file(path, N_GRAMS, tagged=tagged)
-    t2t_files_producer(n_grams[:100], const.T2T_AAER_SOURCE_PATH + const.T2T_EVAL_POST_FIX,
-                       const.T2T_AAER_TARGETS_PATH + const.T2T_EVAL_POST_FIX,
-                       TARGET_SIZE)
+    # t2t_files_producer(n_grams[:100], const.T2T_AAER_SOURCE_PATH + const.T2T_EVAL_POST_FIX,
+    #                    const.T2T_AAER_TARGETS_PATH + const.T2T_EVAL_POST_FIX,
+    #                    TARGET_SIZE)
 
 
 if __name__ == '__main__':
