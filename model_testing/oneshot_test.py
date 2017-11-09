@@ -1,6 +1,7 @@
-import gensim
+import text_cleaning.aaer_corpus as aaer
 import common.constants as const
 import common.utilities as util
+import common.file_tools as ft
 import random
 import model_testing.context_based_models as cb
 import text_cleaning.example_parsing as ex_parsing
@@ -129,6 +130,9 @@ class OneShotTestDoc2Vec:
         self.test_tokens = None
         self.test_entity_dict = None
         self.test_wv_dict = None
+
+        # init phrases detector
+        self.phrases_model = aaer.AAERExParserPhrases()
         if "conf_dict" in kwargs:
             self.conf_dict = kwargs['conf_dict']
             self.topn = self.conf_dict['topn']
@@ -145,8 +149,6 @@ class OneShotTestDoc2Vec:
 
     @staticmethod
     def doc_vector_to_dict_by_list(dv_model, grams):
-        assert isinstance(dv_model, gensim.models.Doc2Vec)
-        # assert type(grams[0]) is tuple
         return {tuple(k): dv_model.infer_vector(k) for k in grams}
 
     def doc_vectors_training(self):
@@ -154,6 +156,7 @@ class OneShotTestDoc2Vec:
 
     def make_test_wv_dict(self, test_grams):
         flat_grams = util.flatten_list(test_grams)
+        flat_grams[:] = [tuple(w.split(const.GENSIM_PHRASES_DELIMITER)) for w in flat_grams]
         self.test_wv_dict = self.doc_vector_to_dict_by_list(self.doc_vec_model, flat_grams)
 
     def init_score_dict(self, test_file_path):
@@ -167,6 +170,7 @@ class OneShotTestDoc2Vec:
                                     similarity_threshold=similarity_threshold)
 
     def score(self, key, gram, test_file_path, wv_dict, **kwargs):
+        # todo: filter out unnatural terms, such as "profit as"
         print('similar to:' + str(gram))
         if 'context_sim_dict' in kwargs and False:  # disable weighted func
             # allocate weights to grams coming from different contexts
@@ -221,7 +225,10 @@ class OneShotTestDoc2Vec:
     def test_file_processing(self, test_file_path):
         logging.info('testing file:' + test_file_path)
         self.init_score_dict(test_file_path)
-        self.test_tokens, self.test_entity_dict = self.tokens_entities_from_path(test_file_path)
+        sentences = ex_parsing.sentences_from_file(ft.get_source_file_by_example_file(test_file_path))
+        self.test_tokens = list(self.phrases_model.get_trigrams(sentences))
+        self.test_entity_dict = get_entity_dict_from_file(test_file_path)
+        # self.test_tokens, self.test_entity_dict = self.tokens_entities_from_path(test_file_path)
         logging.info('test_entity_dict')
         logging.info(self.test_entity_dict)
         self.make_test_wv_dict(self.test_tokens)
@@ -310,7 +317,7 @@ class OneShotTestHuman(OneShotTestDoc2Vec):
 
     def score(self, key, gram, test_file_path, wv_dict, **kwargs):
         human_file_path = os.path.join(const.HUMAN_DIR, test_file_path.split('/')[-1])
-        _, test_entity_dict = self.tokens_entities_from_path(human_file_path)
+        test_entity_dict = get_entity_dict_from_file(human_file_path)
         try:
             answers = test_entity_dict[key]
         except KeyError:
@@ -427,15 +434,24 @@ class OneShotTestContext2(OneShotTestContext1):
         self.make_example_tagged_words_ngram_vecs_dict(self.context_vec_model)
 
 
+class OneShotTestD2vW2v(OneShotTestContext2):
+    def doc_vectors_training(self):
+        return cb.DocVecByWESum()
+
+
+class OneShotTestWVSumWVPhrase(OneShotTestContext2):
+    def context_doc_training(self):
+        return cb.DocVecByWESum()
+
+    def doc_vectors_training(self):
+        return cb.PhraseVec()
+
+
 # this model uses word embeddings, then calculates the ngram similarity, instead of using doc2vec
 # [ 85.34945763   7.69444444]
 # [ 78.1666238    9.14444444] wv_size = 300
 # [ 23.72189289   1.46636364]
 class OneShotTestWVMean(OneShotTestDoc2Vec):
-    @staticmethod
-    def doc_vector_to_dict_by_list(dv_model, grams):
-        return {tuple(k): dv_model.infer_vector(k) for k in grams}
-
     def train(self):
         assert self.example_entity_dict
         self.doc_vec_model = self.doc_vectors_training()
@@ -443,12 +459,6 @@ class OneShotTestWVMean(OneShotTestDoc2Vec):
     def doc_vectors_training(self):
         # train word vectors first
         return cb.DocVecByWEMean()
-
-    def make_test_wv_dict(self, test_grams):
-        flat_grams = util.flatten_list(test_grams)
-        # update grams into the model
-        # self.doc_vec_model.wv_update(flat_grams)
-        self.test_wv_dict = self.doc_vector_to_dict_by_list(self.doc_vec_model, flat_grams)
 
 
 # [ 82.18312396   7.22619048]
@@ -770,6 +780,11 @@ class OneShotTestT2TWVSum(OneShotTestT2TWVMean):
         return cb.DocVecByWESum()
 
 
+class OneShotTestT2TWVPhrase(OneShotTestT2TWVMean):
+    def doc_vectors_training(self):
+        return cb.PhraseVec()
+
+
 # this class only scores context similarity
 class ContextTest(OneShotTestContext1):
     def doc_vectors_training(self):
@@ -806,7 +821,7 @@ class ContextTest(OneShotTestContext1):
         print(contexts_found)
         print('correct:')
 
-        print(gram)
+        # print(gram)
         example_tagged_ngrams = cb.find_ngrams_by_tagged_words(self.example_ngrams, tagged_gram)
         print(example_tagged_ngrams)
         # if len(contexts_found) == 0:
@@ -821,6 +836,7 @@ class ContextTest(OneShotTestContext1):
                 # print(words_found)
                 score = util.tuple_add(score, (rouge.rouge_1(context, example_tagged_ngrams, alpha=0.5),
                                                rouge.rouge_2(context, example_tagged_ngrams, alpha=0.5)))
+                # todo: do we need to +=1? it seems not accurate
                 count += 1
                 # print(score)
         elif not contexts_found:  # both do not have similar words compared to example

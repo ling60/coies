@@ -50,3 +50,4 @@ REPLACED_ENDING_TAGS = UNIQUE_PREFIX + 'end'
 # model related
 FASTTEXT_PREFIX = 'fasttext_'
 FASTTEXT_WIKI_PATH = 'D:/work/research/common-data/fasttext/wiki.en.vec'
+GENSIM_PHRASES_DELIMITER = '_'

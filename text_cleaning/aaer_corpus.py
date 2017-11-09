@@ -5,6 +5,7 @@ import logging
 import model_testing.word2vec_models as word2vec
 import text_cleaning.example_parsing as ex_parsing
 import gensim
+from gensim.models import phrases as gen_phrases
 import os
 
 pickle_extension = '.' + const.PICKLE_FILE_EXTENSION
@@ -97,6 +98,49 @@ class AAERParserSentences(AAERParserBase):
 class AAERExParserSentences(AAERParserSentences):
     def __init__(self):
         super().__init__(corpus_dir=CORPUS_EXTRA_DIR)
+
+
+# this class converts sentences to trigram phrases by gensim, added with two more methods:
+# get_bigrams and get_trigrams, which return Phrases models to pick out phrases
+class AAERParserPhrases(AAERParserBase):
+    def __init__(self, corpus_dir=None):
+        super().__init__(corpus_dir=corpus_dir)
+        self.sentences = self.get_sentences()
+        model_save_path = os.path.join(self.save_dir, "%s_model.pkl" % self.__class__.__name__)
+        try:
+            with open(model_save_path, 'rb') as f:
+                self.bigrams, self.trigrams = pickle.load(f)
+        except FileNotFoundError:
+            self.bigrams = gen_phrases.Phrases(self.sentences)
+            self.trigrams = gen_phrases.Phrases(self.bigrams[self.sentences])
+            with open(model_save_path, 'wb') as f:
+                pickle.dump((self.bigrams, self.trigrams), f)
+
+    def get_word2vec_save_name(self):
+        return 'phrases'
+
+    def tokens_from_aaer_corpus(self):
+        return list(self.trigrams[self.bigrams[self.sentences]])
+
+    @staticmethod
+    def get_sentences():
+        return AAERParserSentences().get_tokens()
+
+    def get_bigrams(self, sentences):
+        assert type(sentences[0]) is list
+        return self.bigrams[sentences]
+
+    def get_trigrams(self, sentences):
+        return self.trigrams[self.get_bigrams(sentences)]
+
+
+class AAERExParserPhrases(AAERParserPhrases):
+    def __init__(self):
+        super().__init__(corpus_dir=CORPUS_EXTRA_DIR)
+
+    @staticmethod
+    def get_sentences():
+        return AAERExParserSentences().get_tokens()
 
 
 class AAERParserNGrams(AAERParserBase):

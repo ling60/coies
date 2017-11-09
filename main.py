@@ -33,10 +33,13 @@ def run_for_epochs(example_path, files, model_class, config_dict, enable_saving=
     with open(file_path, 'a', newline='') as csvfile:
         csv_writer = csv.writer(csvfile)
         if one_shot_test:
-            if type(one_shot_test.context_vec_model) is dl_models.T2TContextModel \
-                    or type(one_shot_test.doc_vec_model) is dl_models.T2TContextModel:
-                csv_writer.writerow([config_dict, avg_score, t2t_make_data_files.config_dict])
-            else:
+            try:
+                if type(one_shot_test.context_vec_model) is dl_models.T2TContextModel \
+                        or type(one_shot_test.doc_vec_model) is dl_models.T2TContextModel:
+                    csv_writer.writerow([config_dict, avg_score, t2t_make_data_files.config_dict])
+                else:
+                    csv_writer.writerow([config_dict, avg_score])
+            except AttributeError:
                 csv_writer.writerow([config_dict, avg_score])
     return avg_score
 
@@ -50,15 +53,15 @@ def test(example_path, files, model_class, enable_saving=False, epochs=1):
 def grid_conf_dict_generator():
     config_dict = oneshot.base_conf_dict
     assert config_dict['topn']
-    for topn in range(3, 10):
+    for topn in range(3, 6):
         config_dict['topn'] = topn
-        for i in range(80, 100, 5):
+        for i in range(60, 100, 5):
             assert config_dict['context_threshold']
             config_dict['context_threshold'] = i / 100
-            for n in range(4, 8):
+            for n in range(4, 7):
                 assert config_dict['word_threshold']
                 config_dict['word_threshold'] = n / 10
-                for context_size in [10, 20, 100, 120]:
+                for context_size in [10, 20]:
                     assert config_dict['context_size']
                     config_dict['context_size'] = context_size
                     yield config_dict
@@ -72,16 +75,16 @@ def grid_search(example_path, model_class, enable_saving=True, epochs=1):
                        enable_saving=enable_saving, epochs=epochs)
 
 
-file_list = ft.list_file_paths_under_dir(const.VALIDATION_DIR, ['txt'])
+file_list = ft.list_file_paths_under_dir(const.TEST_DIR, ['txt'])
 # file_list = [os.path.join(const.TEST_DIR, '34-71576.txt')]
+# conf_dict = oneshot.base_conf_dict
+# conf_dict['context_size'] = 10
+# conf_dict['context_threshold'] = 0.65
+# conf_dict['word_threshold'] = 0.5
+# conf_dict['topn'] = 4
+# run_for_epochs(const.EXAMPLE_FILE, file_list, oneshot.OneShotTestWVSumWVPhrase, config_dict=conf_dict, epochs=1)
 
-conf_dict = oneshot.base_conf_dict
-conf_dict['context_size'] = 100
-conf_dict['context_threshold'] = 0.9
-conf_dict['word_threshold'] = 0.4
-run_for_epochs(const.EXAMPLE_FILE, file_list, oneshot.ContextTestDoc2vec, config_dict=conf_dict, epochs=1)
-
-# grid_search(const.EXAMPLE_FILE, oneshot.OneShotTestT2TWVSum)
+grid_search(const.EXAMPLE_FILE, oneshot.OneShotTestHuman)
 
 # print(ex_parsing.tokens_from_file(example_file_path))
 

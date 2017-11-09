@@ -85,7 +85,7 @@ def doc2vec(labeled_sentences):
     # model = gensim.models.doc2vec.Doc2Vec(documents=labeled_sentences, workers=10, dbow_words=0, min_count=1)
     model = gensim.models.doc2vec.Doc2Vec(workers=10, min_count=1, size=512)
     model.build_vocab(labeled_sentences)
-    model.train(sentences=labeled_sentences, total_examples=model.corpus_count, epochs=20)
+    model.train(sentences=labeled_sentences, total_examples=model.corpus_count, epochs=100)
     # logging.info(model.infer_vector(labeled_sentences[0].words))
     return model
 
@@ -174,3 +174,26 @@ class DocVecByWESum(DocVecByWEMean):
     @staticmethod
     def compute_doc_vec(words_vectors):
         return np.sum(words_vectors, axis=0)
+
+
+# this class use gensim phrases input to compute vectors. Note there is "_" as a delimiter for gensim inputs
+class PhraseVec:
+    def __init__(self):
+        self.aaer_model = aaer.AAERExParserPhrases()
+        self.wv_model = self.aaer_model.make_word2vec_model()
+
+    def infer_vector(self, tuple_phrase):
+        # print(tuple_phrase)
+        assert type(tuple_phrase) is tuple or type(tuple_phrase) is list
+        token = const.GENSIM_PHRASES_DELIMITER.join(tuple_phrase)
+        try:
+            vector = self.wv_model[token]
+        except KeyError:
+            tokens = list(self.aaer_model.get_trigrams(tuple_phrase))
+            vectors = [self.wv_model[t] for t in tokens]
+            vector = DocVecByWESum.compute_doc_vec(vectors)
+        return vector
+
+    def wv_update(self, docs):
+        phrased_docs = list(self.aaer_model.get_trigrams(docs))
+        self.wv_model.train(phrased_docs, total_examples=self.wv_model.corpus_count, epochs=self.wv_model.iter)
