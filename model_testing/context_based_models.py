@@ -177,23 +177,38 @@ class DocVecByWESum(DocVecByWEMean):
 
 
 # this class use gensim phrases input to compute vectors. Note there is "_" as a delimiter for gensim inputs
-class PhraseVec:
+class PhraseVecTrigrams:
     def __init__(self):
-        self.aaer_model = aaer.AAERExParserPhrases()
+        self.aaer_model = self.make_aaer_model()
         self.wv_model = self.aaer_model.make_word2vec_model()
 
+    @staticmethod
+    def make_aaer_model():
+        return aaer.AAERExParserPhrases()
+
+    def docs2phrases(self, docs):
+        return list(self.aaer_model.get_trigrams(docs))
+
     def infer_vector(self, tuple_phrase):
-        # print(tuple_phrase)
         assert type(tuple_phrase) is tuple or type(tuple_phrase) is list
         token = const.GENSIM_PHRASES_DELIMITER.join(tuple_phrase)
         try:
             vector = self.wv_model[token]
         except KeyError:
-            tokens = list(self.aaer_model.get_trigrams(tuple_phrase))
+            tokens = self.docs2phrases(tuple_phrase)
             vectors = [self.wv_model[t] for t in tokens]
-            vector = DocVecByWESum.compute_doc_vec(vectors)
+            vector = DocVecByWEMean.compute_doc_vec(vectors)
         return vector
 
     def wv_update(self, docs):
-        phrased_docs = list(self.aaer_model.get_trigrams(docs))
+        phrased_docs = self.docs2phrases(docs)
         self.wv_model.train(phrased_docs, total_examples=self.wv_model.corpus_count, epochs=self.wv_model.iter)
+
+
+class PhraseVecBigrams(PhraseVecTrigrams):
+    @staticmethod
+    def make_aaer_model():
+        return aaer.AAERExParserPhrasesBigrams()
+
+    def docs2phrases(self, docs):
+        return list(self.aaer_model.get_bigrams(docs))

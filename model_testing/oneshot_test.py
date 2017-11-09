@@ -131,8 +131,12 @@ class OneShotTestDoc2Vec:
         self.test_entity_dict = None
         self.test_wv_dict = None
 
-        # init phrases detector
-        self.phrases_model = aaer.AAERExParserPhrases()
+        if "enable_phrases" in kwargs:
+            if kwargs["enable_phrases"]:
+                pass
+        else:
+            # init phrases detector
+            self.phrases_model = aaer.AAERExParserPhrasesBigrams()
         if "conf_dict" in kwargs:
             self.conf_dict = kwargs['conf_dict']
             self.topn = self.conf_dict['topn']
@@ -226,7 +230,8 @@ class OneShotTestDoc2Vec:
         logging.info('testing file:' + test_file_path)
         self.init_score_dict(test_file_path)
         sentences = ex_parsing.sentences_from_file(ft.get_source_file_by_example_file(test_file_path))
-        self.test_tokens = list(self.phrases_model.get_trigrams(sentences))
+        # todo: change bigrams to trigrams, after test!
+        self.test_tokens = self.phrases_model.get_bigrams(sentences)
         self.test_entity_dict = get_entity_dict_from_file(test_file_path)
         # self.test_tokens, self.test_entity_dict = self.tokens_entities_from_path(test_file_path)
         logging.info('test_entity_dict')
@@ -264,8 +269,22 @@ class OneShotTestDoc2Vec:
 # [ 100.    54.8]
 # 99, 53.8
 class OneShotTestPerfect(OneShotTestDoc2Vec):
+    def __init__(self, example_path, test_file_path_list, enable_saving=False, n_gram=5, **kwargs):
+        super().__init__(example_path, test_file_path_list, enable_saving, n_gram, enable_phrases=False, **kwargs)
+
     def make_test_wv_dict(self, test_grams):
         pass
+
+    def train(self):
+        pass
+
+    def test_file_processing(self, test_file_path):
+        logging.info('testing file:' + test_file_path)
+        self.init_score_dict(test_file_path)
+        self.test_entity_dict = get_entity_dict_from_file(test_file_path)
+        # self.test_tokens, self.test_entity_dict = self.tokens_entities_from_path(test_file_path)
+        logging.info('test_entity_dict')
+        logging.info(self.test_entity_dict)
 
     def score(self, key, gram, test_file_path, wv_dict, **kwargs):
         print('similar to:' + str(gram))
@@ -311,10 +330,7 @@ class OneShotTestNone(OneShotTestPerfect):
 # [ 38.63431138  12.39807115] with new score
 # [ 28.65692071  12.39268394] with rouge1 = 0 for None
 # [ 47.55615901  25.20420298]
-class OneShotTestHuman(OneShotTestDoc2Vec):
-    def make_test_wv_dict(self, test_grams):
-        pass
-
+class OneShotTestHuman(OneShotTestPerfect):
     def score(self, key, gram, test_file_path, wv_dict, **kwargs):
         human_file_path = os.path.join(const.HUMAN_DIR, test_file_path.split('/')[-1])
         test_entity_dict = get_entity_dict_from_file(human_file_path)
@@ -444,7 +460,15 @@ class OneShotTestWVSumWVPhrase(OneShotTestContext2):
         return cb.DocVecByWESum()
 
     def doc_vectors_training(self):
-        return cb.PhraseVec()
+        return cb.PhraseVecTrigrams()
+
+
+class OneShotTestWVSumWVPhraseBi(OneShotTestWVSumWVPhrase):
+    def context_doc_training(self):
+        return cb.DocVecByWESum()
+
+    def doc_vectors_training(self):
+        return cb.PhraseVecBigrams()
 
 
 # this model uses word embeddings, then calculates the ngram similarity, instead of using doc2vec
@@ -782,7 +806,7 @@ class OneShotTestT2TWVSum(OneShotTestT2TWVMean):
 
 class OneShotTestT2TWVPhrase(OneShotTestT2TWVMean):
     def doc_vectors_training(self):
-        return cb.PhraseVec()
+        return cb.PhraseVecTrigrams()
 
 
 # this class only scores context similarity

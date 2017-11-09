@@ -109,29 +109,29 @@ class AAERParserPhrases(AAERParserBase):
         model_save_path = os.path.join(self.save_dir, "%s_model.pkl" % self.__class__.__name__)
         try:
             with open(model_save_path, 'rb') as f:
-                self.bigrams, self.trigrams = pickle.load(f)
+                self._bigrams, self._trigrams = pickle.load(f)
         except FileNotFoundError:
-            self.bigrams = gen_phrases.Phrases(self.sentences)
-            self.trigrams = gen_phrases.Phrases(self.bigrams[self.sentences])
+            self._bigrams = gen_phrases.Phrases(self.sentences)
+            self._trigrams = gen_phrases.Phrases(self._bigrams[self.sentences])
             with open(model_save_path, 'wb') as f:
-                pickle.dump((self.bigrams, self.trigrams), f)
+                pickle.dump((self._bigrams, self._trigrams), f)
 
     def get_word2vec_save_name(self):
         return 'phrases'
 
     def tokens_from_aaer_corpus(self):
-        return list(self.trigrams[self.bigrams[self.sentences]])
+        return list(self._trigrams[self._bigrams[self.sentences]])
 
     @staticmethod
     def get_sentences():
         return AAERParserSentences().get_tokens()
 
     def get_bigrams(self, sentences):
-        assert type(sentences[0]) is list
-        return self.bigrams[sentences]
+        # assert type(sentences[0]) is list
+        return self._bigrams[sentences]
 
     def get_trigrams(self, sentences):
-        return self.trigrams[self.get_bigrams(sentences)]
+        return self._trigrams[self.get_bigrams(sentences)]
 
 
 class AAERExParserPhrases(AAERParserPhrases):
@@ -141,6 +141,20 @@ class AAERExParserPhrases(AAERParserPhrases):
     @staticmethod
     def get_sentences():
         return AAERExParserSentences().get_tokens()
+
+    def get_word2vec_save_name(self):
+        return 'phrases_ex'
+
+
+class AAERExParserPhrasesBigrams(AAERExParserPhrases):
+    def tokens_from_aaer_corpus(self):
+        return list(self._bigrams[self.sentences])
+
+    def get_word2vec_save_name(self):
+        return 'phrases_ex_bi'
+
+    def get_trigrams(self, sentences):
+        raise NotImplementedError
 
 
 class AAERParserNGrams(AAERParserBase):
