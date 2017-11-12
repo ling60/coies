@@ -22,6 +22,10 @@ def copy_source_of_example_files(from_dir, to_dir, example_dir):
 # copy_source_of_example_files(const.DATA_PATH + const.AAER_PATH,
 # const.DATA_PATH + 'examples2/', const.DATA_PATH + 'examples/')
 # if __name__ == "__main__":
-#     if not os.path.exists(const.VALIDATION_DIR):
-#         os.makedirs(const.VALIDATION_DIR)
 #     random_select(const.TEST_DIR, const.VALIDATION_DIR, 49, ['txt'])
+#     test_files = file_tools.list_file_paths_under_dir(const.TEST_DIR, ['txt'])
+#     validation_files = [file_tools.file_name_from_path(f) for
+#                         f in file_tools.list_file_paths_under_dir(const.VALIDATION_DIR, ['txt'])]
+#     for file in test_files:
+#         if file_tools.file_name_from_path(file) in validation_files:
+#             os.remove(file)

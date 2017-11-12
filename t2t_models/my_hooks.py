@@ -17,17 +17,14 @@ class EmbeddingsHook(tf.train.SessionRunHook):
         # self.t_embeddings = tf.concat(self.embeddings, 0)
         pass
 
-    def before_run(self, run_context):
-        t = tf.get_default_graph().get_tensor_by_name(
+    @staticmethod
+    def get_tensor():
+        return tf.get_default_graph().get_tensor_by_name(
             'body/model/parallel_0/body/decoder/layer_5/ffn/layer_postprocess/layer_norm/add_1:0')
+
+    def before_run(self, run_context):
+        t = self.get_tensor()
         return SessionRunArgs(t)
-        # t_output = run_context.session.run(t)
-        # print('before_run:')
-        # print(t_output.shape)
-        # print(t_output)
-        # t_output = run_context.session.run(t)
-        # print('before_run:')
-        # print(t_output)
 
     def after_run(self, run_context, run_values):
         embedding_output = run_values.results
@@ -56,3 +53,10 @@ class EmbeddingsHook(tf.train.SessionRunHook):
     def end(self, session):
 
         pass
+
+
+class LossHook(EmbeddingsHook):
+    @staticmethod
+    def get_tensor():
+        return tf.get_default_graph().get_tensor_by_name(
+            'total_loss:0')

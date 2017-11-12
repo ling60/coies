@@ -7,9 +7,19 @@ import text_cleaning.aaer_corpus as aaer
 import text_cleaning.example_parsing as ex_parsing
 import common.constants as const
 import model_testing.context_based_models as cb
+import t2t_models.text_encoding as t2t_encoding
 
 
 logging.basicConfig(level=logging.INFO)
-a = cb.PhraseVecBigrams()
-print(a.aaer_model.get_bigrams(['esafetyworld', 'inc']))
 
+with open(const.T2T_AAER_SOURCE_PATH) as s_f:
+    with open(const.T2T_AAER_TARGETS_PATH) as t_f:
+
+        sources = [line.rstrip('\n') for line in utils.file_head(s_f, 5)]
+        targets = [line.rstrip('\n') for line in utils.file_head(t_f, 5)]
+        encoder = t2t_encoding.TextSimilarity(sources, targets)
+        encoder.encode()
+# a = cb.PhraseVecBigrams()
+# print(a.aaer_model.get_bigrams(['esafetyworld', 'inc']))
+# a = t2t_encoding.TextEncoding(['esafetyworld', 'inc'])
+# a.encode()

@@ -164,3 +164,24 @@ def sorted_tuples_from_dict(a_dict):
 
 def spaced_string_to_tuple(spaced_str):
     return tuple(spaced_str.split(' '))
+
+
+# returns a batch set, given data as iterator
+def batch_gen(data, batch_size):
+    it = iter(data)
+    while True:
+        values = ()
+        for n in range(batch_size):
+            values += (it.__iter__(),)
+        yield values
+
+
+def file_head(fobj, head_n):
+    head = [next(fobj) for x in range(head_n)]
+    return head
+
+
+# remove \n if exists
+def remove_end_line(s):
+    s[-1] = s[-1].strip()
+    return s

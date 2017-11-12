@@ -463,6 +463,7 @@ class OneShotTestWVSumWVPhrase(OneShotTestContext2):
         return cb.PhraseVecTrigrams()
 
 
+# "{'topn': 3, 'context_threshold': 0.9, 'word_threshold': 0.5, 'context_size': 100}",[ 0.40324541  0.01717172]
 class OneShotTestWVSumWVPhraseBi(OneShotTestWVSumWVPhrase):
     def context_doc_training(self):
         return cb.DocVecByWESum()
@@ -751,11 +752,6 @@ class OneShotTestT2TModel(OneShotTestContext1):
 
 
 # this class use t2t model to infer context, while wv mean to infer grams(entities)
-# [ 12.31577938   0.72539683] rouge1=0 for None similarity>0.7, words>0.4
-# [ 25.96934622   1.32142857] context>0.75
-# [ 33.1232684    0.67047619] trained on ngrams=20, window size=3
-# [ 35.74163226   0.51333333] trained on ngrams=14, window size=2
-# [ 24.19922422   1.71333333] ngrams=14, window size=3, trained on extra corpus:
 class OneShotTestT2TWVMean(OneShotTestContextWVMean):
     @staticmethod
     def context_vector_to_dict_by_list(dv_model, grams):
@@ -807,6 +803,11 @@ class OneShotTestT2TWVSum(OneShotTestT2TWVMean):
 class OneShotTestT2TWVPhrase(OneShotTestT2TWVMean):
     def doc_vectors_training(self):
         return cb.PhraseVecTrigrams()
+
+
+class OneShotTestT2TWVPhraseBi(OneShotTestT2TWVMean):
+    def doc_vectors_training(self):
+        return cb.PhraseVecBigrams()
 
 
 # this class only scores context similarity
