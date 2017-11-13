@@ -325,7 +325,7 @@ class TextSimilarity(TextEncoding):
             dataset = tf.contrib.data.Dataset.from_tensor_slices(
                 (tf_inputs, tf_targets))
 
-            dataset = dataset.batch(decode_hp.batch_size)
+            dataset = dataset.batch(1)
             iterator = dataset.make_one_shot_iterator()
 
             x, y = iterator.get_next()
@@ -350,3 +350,9 @@ class TextSimilarity(TextEncoding):
         # print(self.arr_results)
         return self.arr_results
 
+    @staticmethod
+    def run_estimator(estimator, input_fn):
+        embeddings_hook = my_hooks.LossHook()
+        _ = estimator.evaluate(input_fn, hooks=[embeddings_hook])
+        arr_results = embeddings_hook.embeddings
+        return arr_results

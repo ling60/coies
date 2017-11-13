@@ -4,10 +4,12 @@ from common import constants as const
 from common import file_tools as ft
 from common import utilities as utils
 from text_cleaning import example_parsing as ex_parsing
+import t2t_make_data_files
 
 import os
 import logging
 import pickle
+import numpy as np
 
 
 class ContextModel:
@@ -123,3 +125,52 @@ class T2TContextModel(ContextModel):
                     docs += ex_parsing.ngrams_from_file(ft.get_source_file_by_example_file(test_file), n=doc_length)
             # print(docs[0])
             self._make_docvec_dict(docs)
+
+
+class ContextSimilarityT2TModel:
+    def __init__(self, window_size=None):
+        if window_size:
+            self.window_size = window_size
+        else:
+            conf_dict = t2t_make_data_files.load_configs()
+            self.window_size = conf_dict["window_size"]
+
+    # find a file's ngrams' similarities, compared with given docs.
+    # returns a dict whose keys are ngram_tuple from file, values are similarities given docs
+    # (retains only highest one for unique ngram)
+    def file_ngrams_similarities_by_docs(self, file_path, docs):
+        ngram_dict = {}
+        doc_similarity_dict = {}
+        origin_sources = []
+        origin_targets = []
+        replaced_sources = []
+        replaced_targets = []
+        file_path = ft.get_source_file_by_example_file(file_path)
+        for doc in docs:
+            source_gram_n = len(doc)
+            target_gram_n = t2t_make_data_files.get_target_gram_n(source_gram_n, self.window_size)
+            try:
+                target_ngrams = ngram_dict[target_gram_n]
+            except KeyError:
+                ngram_dict[target_gram_n] = target_ngrams = ex_parsing.ngrams_from_file(file_path, target_gram_n)
+            source_ngrams = [t2t_make_data_files.source_ngram_from_target_ngram(target_ngrams, self.window_size)]
+            assert len(source_ngrams) == len(target_ngrams)
+            origin_sources += source_ngrams
+            origin_targets += target_ngrams
+            for target in target_ngrams:
+                replaced_target = t2t_make_data_files.replace_by_window_size(target, doc, self.window_size)
+                replaced_targets.append(replaced_target)
+                replaced_sources.append(doc)
+
+        assert len(replaced_sources) == len(origin_sources) == len(replaced_targets) == len(origin_targets)
+        # feed data into t2t model
+        str_sources = [" ".join(tokens) for tokens in origin_sources + replaced_sources]
+        str_targets = [" ".join(tokens) for tokens in origin_targets + replaced_targets]
+        loss_model = text_encoding.TextSimilarity(str_sources, str_targets)
+        losses = loss_model.encode()
+        assert len(losses) == 2*len(origin_sources)
+        origin_losses = np.array(losses[:len(origin_sources)])
+        replaced_losses = np.array(losses[len(origin_sources):])
+        print(origin_losses)
+        print(replaced_losses)
+

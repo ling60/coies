@@ -8,6 +8,7 @@ import common.file_tools as ft
 import logging
 import glob
 import os
+import json
 
 # todo: extra corpus NOT used for ngrams>=100, due to oversize problem
 N_GRAMS = 100
@@ -16,6 +17,20 @@ WINDOW_SIZE = 20
 
 config_dict = {'ngrams': N_GRAMS,
                'window_size': WINDOW_SIZE}
+CONFIG_FILE_NAME = 'my_t2t_config.json'
+
+
+def save_configs():
+    path = os.path.join(const.T2T_DATA_DIR, CONFIG_FILE_NAME)
+    with open(path, 'w') as f:
+        json.dump(config_dict, f)
+
+
+def load_configs():
+    path = os.path.join(const.T2T_DATA_DIR, CONFIG_FILE_NAME)
+    with open(path, 'r') as f:
+        conf_dict = json.load(f)
+    return conf_dict
 
 
 def t2t_files_producer(n_grams,
@@ -47,6 +62,16 @@ def t2t_files_producer(n_grams,
                 f_targets.write(util.list_to_str_line(n_grams[i + window_size][-target_size:]))
 
 
+# the slicing logic here should be the same as source_ngram_from_target_ngram
+def replace_by_window_size(target_ngram, tokens, window_size):
+    target_ngram[window_size:-window_size] = tokens
+    return target_ngram
+
+
+def source_ngram_from_target_ngram(target_ngram, window_size):
+    return target_ngram[window_size:-window_size]
+
+
 def t2t_files_producer2(n_grams,
                         source_path,
                         targets_path,
@@ -65,13 +90,19 @@ def t2t_files_producer2(n_grams,
         with open(targets_path, 'w') as f_targets:
             for i in range(epoch_size):
                 f_targets.write(util.list_to_str_line(n_grams[i]))
-                f_source.write(util.list_to_str_line(n_grams[i][window_size:-window_size]))
+                f_source.write(util.list_to_str_line(source_ngram_from_target_ngram(n_grams[i], window_size)))
+
+
+def get_target_gram_n(source_gram_n, window_size):
+    return source_gram_n + window_size * 2
 
 
 def make_t2t_training_files(ngram_min=1, ngram_max=N_GRAMS):
+    print("saving configs..")
+    save_configs()
     print("making training files..")
-    m = ngram_min + WINDOW_SIZE * 2
-    n = ngram_max + WINDOW_SIZE * 2
+    m = get_target_gram_n(ngram_min, WINDOW_SIZE)
+    n = get_target_gram_n(ngram_max, WINDOW_SIZE)
     if m == n:
         aaer = aaer_corpus.AAERParserNGrams(n=n)
     else:
@@ -117,3 +148,4 @@ if __name__ == '__main__':
     # make_eval_files([test_file_source])
     make_t2t_training_files(N_GRAMS, N_GRAMS)
     make_vocal_file()
+

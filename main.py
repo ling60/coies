@@ -36,7 +36,8 @@ def run_for_epochs(example_path, files, model_class, config_dict, enable_saving=
             try:
                 if type(one_shot_test.context_vec_model) is dl_models.T2TContextModel \
                         or type(one_shot_test.doc_vec_model) is dl_models.T2TContextModel:
-                    csv_writer.writerow([config_dict, avg_score, t2t_make_data_files.config_dict])
+                    conf_dict = t2t_make_data_files.load_configs()
+                    csv_writer.writerow([config_dict, avg_score, conf_dict])
                 else:
                     csv_writer.writerow([config_dict, avg_score])
             except AttributeError:

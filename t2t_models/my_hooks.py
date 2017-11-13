@@ -31,27 +31,7 @@ class EmbeddingsHook(tf.train.SessionRunHook):
         # print(run_values.results)
         self.embeddings.append(embedding_output)
 
-        # super().after_run(run_context, run_values)
-        # with open(os.path.join(const.GENERATED_DATA_DIR, 't2t_variables_after_run.txt'), 'w') as f:
-        #     for v in tf.get_default_graph().get_operations():
-        #         print(v)
-        #         f.write('%s\n' % v)
-        # raise MemoryError
-        # t = tf.get_default_graph().get_tensor_by_name(
-        #     'body/model/parallel_0/body/decoder/layer_5/ffn/layer_postprocess/layer_norm/add_1:0')
-        # t_output = run_context.session.run(t)
-        # t = tf.get_default_graph().get_tensor_by_name(
-        #     'body/model/parallel_0/body/decoder/layer_5/ffn/layer_postprocess/layer_norm/add_1:0')
-        # t_output = run_context.session.run(t)
-
-        # for var in tf.global_variables():
-        #     tf.get_default_graph().get_tensor_by_name('')
-        #     log_tf_var_with_name(var, 'body/model/parallel_0/body/decoder/layer_5/ffn/layer_postprocess/layer_norm/add_1:0', run_context.session)
-        #     log_tf_var_with_name(var, 'losses_avg/problem_0/training_loss:0', run_context.session)
-        #     log_tf_var_with_name(var, 'losses_avg/problem_0/total_loss:0', run_context.session)
-
     def end(self, session):
-
         pass
 
 
@@ -59,4 +39,4 @@ class LossHook(EmbeddingsHook):
     @staticmethod
     def get_tensor():
         return tf.get_default_graph().get_tensor_by_name(
-            'total_loss:0')
+            'losses_avg/problem_0/total_loss:0')
