@@ -67,11 +67,15 @@ def label_tagged_ngrams(tagged_ngrams, label_prefix=None):
 
 
 # find complete ngrams/sentence given tagged words:[[word, tag],..]
-def find_ngrams_by_tagged_words(tagged_ngrams, tagged_words):
+def find_ngrams_by_tagged_words(tagged_ngrams, tagged_words, window_size=None):
     ngrams = []
     for tagged_ngram in tagged_ngrams:
+        if window_size:
+            window_size = int(window_size)
+            t = filter(None, utils.flatten_list(tagged_ngram[window_size:-window_size]))
+        else:
+            t = filter(None, utils.flatten_list(tagged_ngram))
         w = filter(None, utils.flatten_list(tagged_words))
-        t = filter(None, utils.flatten_list(tagged_ngram))
         if utils.is_sublist_of(w, t):
             ngrams.append(utils.sentence_from_tagged_ngram(tagged_ngram))
     return ngrams

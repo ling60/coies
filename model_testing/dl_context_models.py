@@ -153,7 +153,9 @@ class ContextSimilarityT2TModel:
                 target_ngrams = ngram_dict[target_gram_n]
             except KeyError:
                 ngram_dict[target_gram_n] = target_ngrams = ex_parsing.ngrams_from_file(file_path, target_gram_n)
-            source_ngrams = [t2t_make_data_files.source_ngram_from_target_ngram(target_ngrams, self.window_size)]
+            source_ngrams = [t2t_make_data_files.source_ngram_from_target_ngram(target_ngram, self.window_size)
+                             for target_ngram in target_ngrams]
+
             assert len(source_ngrams) == len(target_ngrams)
             origin_sources += source_ngrams
             origin_targets += target_ngrams
@@ -161,7 +163,7 @@ class ContextSimilarityT2TModel:
                 replaced_target = t2t_make_data_files.replace_by_window_size(target, doc, self.window_size)
                 replaced_targets.append(replaced_target)
                 replaced_sources.append(doc)
-
+        print("len(replaced_sources):%d" % len(replaced_sources))
         assert len(replaced_sources) == len(origin_sources) == len(replaced_targets) == len(origin_targets)
         # feed data into t2t model
         str_sources = [" ".join(tokens) for tokens in origin_sources + replaced_sources]

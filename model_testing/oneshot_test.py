@@ -401,6 +401,7 @@ class OneShotTestContext1(OneShotTestDoc2Vec):
             for tagged_words in value_lists:
                 if type(tagged_words) is list:
                     str_tagged_words = tagged_words_to_str(tagged_words)
+                    # logging.info(str_tagged_words)
                     example_tagged_ngrams = cb.find_ngrams_by_tagged_words(example_ngrams, tagged_words)
                     logging.info("example_tagged_ngrams")
                     logging.info(example_tagged_ngrams)
@@ -445,7 +446,7 @@ class OneShotTestContext1(OneShotTestDoc2Vec):
 # total score (5.723827503944152, 1.555457416626519) of 531 in 100 files c = 10
 class OneShotTestContext2(OneShotTestContext1):
     def doc_vectors_training(self):
-        return OneShotTestDoc2Vec.doc_vectors_training(self)
+        return cb.PhraseVecBigrams()
 
     def context_doc_training(self):
         return cb.make_doc2vec_model_from_aaer()
@@ -778,15 +779,48 @@ class OneShotTestT2TWVPhraseBi(OneShotTestT2TWVMean):
 
 # this class substitute doc embeddings with doc similarities provided by loss comparing function from t2t model
 class OneShotTestT2TLossWVMean(OneShotTestDoc2Vec):
+    def __init__(self, example_path, test_file_path_list, enable_saving=False, n_gram=5, **kwargs):
+        super().__init__(example_path, test_file_path_list, enable_saving, n_gram, **kwargs)
+        self.tagged_tokens = ex_parsing.tagged_tokens_from_file(self.example_path)
+        self.example_ngrams = ex_parsing.ngrams_from_file(self.example_path, self.context_size, tagged=True)
+        self.example_entity_dict = \
+            ex_parsing.entity_tagged_words_dict_from_tagged_tokens(self.tagged_tokens)
+        self.example_ngrams = ex_parsing.ngrams_from_file(self.example_path, self.context_size, tagged=True)
+
     @staticmethod
-    def find_example_contexts(example_entity_dict, example_ngrams):
+    def find_example_contexts(example_entity_dict, example_ngrams, test_file_path, context_size):
         assert example_entity_dict
-        example_entitiy_contexts_dict = {}
+        example_entity_contexts_dict = {}
         for entity, value_lists in example_entity_dict.items():
             for tagged_words in value_lists:
                 if type(tagged_words) is list:
                     str_tagged_words = tagged_words_to_str(tagged_words)
-                    example_contexts = cb.find_ngrams_by_tagged_words(example_ngrams, tagged_words)
+                    logging.info(str_tagged_words)
+                    window_size = (context_size - len(tagged_words) - 5)/2
+                    example_contexts = cb.find_ngrams_by_tagged_words(example_ngrams, tagged_words, window_size)
+                    example_entity_contexts_dict[str_tagged_words] = example_contexts
+
+        loss_sim_model = dl_context.ContextSimilarityT2TModel()
+        # logging.info(example_entity_contexts_dict)
+        for k, contexts in example_entity_contexts_dict.items():
+            loss_sim_model.file_ngrams_similarities_by_docs(test_file_path, contexts)
+        return example_entity_contexts_dict
+
+    def doc_vectors_training(self):
+        return cb.DocVecByWEMean()
+
+    def score(self, key, tagged_gram, test_file_path, wv_dict, **kwargs):
+        # tagged_gram: [['esafetyworld', 'comp'], ['inc', 'end']]
+        # find ngrams in test file similar to example
+
+        # similar_contexts = \
+        #     similar_grams_by_doc_vecs(example_tagged_words_ngram_vecs, self.context_sized_test_wv_dict)
+        context_similarity_dict = self.find_example_contexts(
+            self.example_entity_dict, self.example_ngrams, test_file_path, self.context_size)
+        context_wv_dict = util.subset_dict_by_list2(wv_dict, context_similarity_dict.keys())
+
+        gram = util.sentence_from_tagged_ngram(tagged_gram)
+        return super().score(key, gram, test_file_path, context_wv_dict, context_sim_dict=context_similarity_dict)
 
 
 # this class only scores context similarity

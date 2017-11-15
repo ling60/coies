@@ -62,7 +62,7 @@ def grid_conf_dict_generator():
             for n in range(4, 8):
                 assert config_dict['word_threshold']
                 config_dict['word_threshold'] = n / 10
-                for context_size in [100, 10]:
+                for context_size in [100]:
                     assert config_dict['context_size']
                     config_dict['context_size'] = context_size
                     yield config_dict
@@ -85,7 +85,7 @@ file_list = ft.list_file_paths_under_dir(const.TEST_DIR, ['txt'])
 # conf_dict['topn'] = 5
 # run_for_epochs(const.EXAMPLE_FILE, file_list, oneshot.OneShotTestWVSumWVPhraseBi, config_dict=conf_dict, epochs=1)
 
-grid_search(const.EXAMPLE_FILE, oneshot.OneShotTestT2TWVPhraseBi)
+grid_search(const.EXAMPLE_FILE, oneshot.OneShotTestContext2)
 
 # print(ex_parsing.tokens_from_file(example_file_path))
 

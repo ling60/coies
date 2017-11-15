@@ -122,7 +122,7 @@ class TextEncoding:
         num_decode_batches = (len(str_tokens) - 1) // decode_hp.batch_size + 1
 
         def input_fn():
-            input_gen = self._decode_batch_input_fn(
+            input_gen = _decode_batch_input_fn(
                 problem_id, num_decode_batches, str_tokens, inputs_vocab,
                 decode_hp.batch_size, decode_hp.max_input_size)
             gen_fn = decoding.make_input_fn_from_generator(input_gen)
@@ -301,24 +301,36 @@ class TextSimilarity(TextEncoding):
         tokens_length = len(str_inputs)
         tf.logging.info('token length: %d' % tokens_length)
 
+        # print(str_tokens)
+        batch_size = 1
+        num_decode_batches = (len(str_inputs) - 1) // batch_size + 1
+
+        # num_decode_batches = len(str_inputs)
+
         def eval_inputs():
             """Returns training set as Operations.
             Returns:
                 (features, labels) Operations that iterate over the dataset
                 on every evaluation
             """
-            encoded_inputs = []
-            encoded_targets = []
-            for ngram in str_inputs:
-                # print(ngram)
-                encoded_inputs.append(inputs_vocab.encode(ngram))
-                # print(encoded_inputs[-1])
-                # print(inputs_vocab.decode(encoded_inputs[-1]))
-            for s in str_targets:
-                encoded_targets.append(targets_vocab.encode(s))
+            # encoded_inputs = []
+            # encoded_targets = []
+            # max_input_len = 0
+            arr_inputs = batch_gen_func(0, str_inputs, inputs_vocab, len(str_inputs), decode_hp.max_input_size)
+            arr_targets = batch_gen_func(0, str_targets, targets_vocab, len(str_targets), decode_hp.max_input_size)
+            # for ngram in str_inputs:
+            #     # print(ngram)
+            #     encoded_g = inputs_vocab.encode(ngram)
+            #     if len(encoded_g) > max_input_len:
+            #         max_input_len = len(encoded_g)
+            #     encoded_inputs.append(encoded_g)
+            #     # print(encoded_inputs[-1])
+            #     # print(inputs_vocab.decode(encoded_inputs[-1]))
+            # for ngram in str_targets:
+            #     encoded_targets.append(targets_vocab.encode(ngram))
 
-            arr_inputs = np.asarray(encoded_inputs, dtype=np.int32)
-            arr_targets = np.asarray(encoded_targets, dtype=np.int32)
+            # arr_inputs = np.asarray(encoded_inputs, dtype=np.int32)
+            # arr_targets = np.asarray(encoded_targets, dtype=np.int32)
             tf_inputs = tf.convert_to_tensor(arr_inputs)
             tf_targets = tf.convert_to_tensor(arr_targets)
 
@@ -346,8 +358,16 @@ class TextSimilarity(TextEncoding):
             # Return batched (features, labels)
             return features, y
 
+        def input_fn():
+            input_gen = _decode_batch_input_fn(
+                problem_id, num_decode_batches, str_inputs, inputs_vocab,
+                batch_size, decode_hp.max_input_size, targets_vocab, str_targets)
+            gen_fn = decoding.make_input_fn_from_generator(input_gen)
+            example = gen_fn()
+            return self._decode_input_tensor_to_features_dict(example, hparams, encoding_len=encoding_len)
+
         self.arr_results = self.run_estimator(estimator, eval_inputs)
-        # print(self.arr_results)
+        print(self.arr_results)
         return self.arr_results
 
     @staticmethod
@@ -356,3 +376,92 @@ class TextSimilarity(TextEncoding):
         _ = estimator.evaluate(input_fn, hooks=[embeddings_hook])
         arr_results = embeddings_hook.embeddings
         return arr_results
+
+    @staticmethod
+    def _decode_input_tensor_to_features_dict(feature_map, hparams, encoding_len=1):
+        """Convert the interactive input format (see above) to a dictionary.
+
+      Args:
+        feature_map: a dictionary with keys `problem_choice` and `input` containing
+          Tensors.
+        hparams: model hyperparameters
+        encoding_len: the embedding steps. usually 1
+
+      Returns:
+        a features dictionary, as expected by the decoder.
+      """
+        inputs = tf.convert_to_tensor(feature_map["inputs"])
+        targets = tf.convert_to_tensor(feature_map["targets"])
+        input_is_image = False
+
+        def input_fn(problem_choice, x=inputs, y=targets):  # pylint: disable=missing-docstring
+            p_hparams = hparams.problems[problem_choice]
+            # Add a third empty dimension dimension
+            x = tf.expand_dims(x, axis=2)
+            x = tf.to_int32(x)
+            y = tf.expand_dims(y, axis=2)
+            y = tf.to_int32(y)
+            return (tf.constant(p_hparams.input_space_id), tf.constant(
+                p_hparams.target_space_id), x, y)
+
+        input_space_id, target_space_id, x, y = decoding.input_fn_builder.cond_on_index(
+            input_fn, feature_map["problem_choice"], len(hparams.problems) - 1)
+
+        features = {}
+        features["problem_choice"] = feature_map["problem_choice"]
+        features["input_space_id"] = input_space_id
+        features["target_space_id"] = target_space_id
+        features["decode_length"] = (decoding.IMAGE_DECODE_LENGTH
+                                     if input_is_image else tf.shape(y)[1])
+        # features["inputs"] = x
+        # for evaluation, x needs to be added with a fourth dim. (not needed for prediction)
+        x = tf.expand_dims(x, axis=3)
+        features["inputs"] = x
+        # features["targets"] = tf.fill([5, 1, 1, 1], 0)
+        y = tf.expand_dims(y, axis=3)
+        return features, y
+
+
+def _decode_batch_input_fn(problem_id, num_decode_batches, sorted_inputs,
+                           vocabulary, batch_size, max_input_size, target_vocab=None, targets=None):
+    # First reverse all the input sentences so that if you're going to get OOMs,
+    # you'll see it in the first batch
+    # sorted_inputs.reverse()
+    if target_vocab:
+        assert len(targets) == len(sorted_inputs)
+    for b in range(num_decode_batches):
+        x = batch_gen_func(b, sorted_inputs, vocabulary, batch_size, max_input_size)
+        if target_vocab:
+            y = batch_gen_func(b, targets, target_vocab, batch_size, max_input_size)
+            yield {
+                "inputs": x,
+                "targets": y,
+                "problem_choice": np.array(problem_id).astype(np.int32),
+            }
+        else:
+            yield {
+                "inputs": x,
+                "problem_choice": np.array(problem_id).astype(np.int32),
+            }
+
+
+def batch_gen_func(b, sorted_inputs, vocabulary, batch_size, max_input_size):
+
+    tf.logging.info("Decoding batch %d" % b)
+    batch_length = 0
+    batch_inputs = []
+    for inputs in sorted_inputs[b * batch_size:(b + 1) * batch_size]:
+        input_ids = vocabulary.encode(inputs)
+        if max_input_size > 0:
+            # Subtract 1 for the EOS_ID.
+            input_ids = input_ids[:max_input_size - 1]
+        input_ids.append(decoding.text_encoder.EOS_ID)
+        batch_inputs.append(input_ids)
+        if len(input_ids) > batch_length:
+            batch_length = len(input_ids)
+    final_batch_inputs = []
+    for input_ids in batch_inputs:
+        assert len(input_ids) <= batch_length
+        x = input_ids + [0] * (batch_length - len(input_ids))
+        final_batch_inputs.append(x)
+    return np.array(final_batch_inputs).astype(np.int32)
