@@ -3,11 +3,9 @@ import model_testing.dl_context_models as dl_models
 import t2t_make_data_files
 import common.file_tools as ft
 import common.constants as const
-import text_cleaning.example_parsing as ex_parsing
 import os
 import csv
 import numpy as np
-import copy
 import logging
 import tensorflow as tf
 
@@ -54,12 +52,12 @@ def test(example_path, files, model_class, enable_saving=False, epochs=1):
 def grid_conf_dict_generator():
     config_dict = oneshot.base_conf_dict
     assert config_dict['topn']
-    for topn in range(3, 11):
+    for topn in range(3, 7):
         config_dict['topn'] = topn
         for i in range(60, 100, 5):
             assert config_dict['context_threshold']
             config_dict['context_threshold'] = i / 100
-            for n in range(4, 8):
+            for n in range(4, 9):
                 assert config_dict['word_threshold']
                 config_dict['word_threshold'] = n / 10
                 for context_size in [100]:
@@ -85,12 +83,5 @@ file_list = ft.list_file_paths_under_dir(const.TEST_DIR, ['txt'])
 # conf_dict['topn'] = 5
 # run_for_epochs(const.EXAMPLE_FILE, file_list, oneshot.OneShotTestWVSumWVPhraseBi, config_dict=conf_dict, epochs=1)
 
-grid_search(const.EXAMPLE_FILE, oneshot.OneShotTestContext2)
+grid_search(const.EXAMPLE_FILE, oneshot.OneShotTestWVSumWVPhrase)
 
-# print(ex_parsing.tokens_from_file(example_file_path))
-
-# for path in ft.list_file_paths_under_dir(const.HUMAN_DIR, ['txt']):
-#     print(path)
-#     tagged_tokens = ex_parsing.tagged_tokens_from_file(path)
-#     entities = ex_parsing.entity_dict_from_tagged_tokens(tagged_tokens)
-#     print(entities)

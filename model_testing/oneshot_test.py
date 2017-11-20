@@ -119,8 +119,7 @@ def score_by_rouge(words_found, test_entity_dict, entity_key):
     return score, targets
 
 
-# Basic setting, with a doc-vec trained on 5 grams AAER corpus. Rouge_1 test score is 7.4
-# total score (7.652952038250112, 2.073774873774874) of 531 in 100 files
+# Basic setting, with a doc-vec trained on phrased AAER corpus.
 class OneShotTestDoc2Vec:
     def __init__(self, example_path, test_file_path_list, enable_saving=False, n_gram=5, **kwargs):
         # util.display_logging_info()
@@ -140,7 +139,7 @@ class OneShotTestDoc2Vec:
                 pass
         else:
             # init phrases detector
-            self.phrases_model = aaer.AAERExParserPhrasesBigrams()
+            self.phrases_model = aaer.AAERExParserPhrases()
         if "conf_dict" in kwargs:
             self.conf_dict = kwargs['conf_dict']
             self.topn = self.conf_dict['topn']
@@ -235,7 +234,7 @@ class OneShotTestDoc2Vec:
         self.init_score_dict(test_file_path)
         sentences = ex_parsing.sentences_from_file(ft.get_source_file_by_example_file(test_file_path))
         # todo: change bigrams to trigrams, after test!
-        self.test_tokens = self.phrases_model.get_bigrams(sentences)
+        self.test_tokens = self.phrases_model.get_trigrams(sentences)
         self.test_entity_dict = get_entity_dict_from_file(test_file_path)
         # self.test_tokens, self.test_entity_dict = self.tokens_entities_from_path(test_file_path)
         logging.info('test_entity_dict')
@@ -267,11 +266,7 @@ class OneShotTestDoc2Vec:
         return total_score, total_counts
 
 
-# try the perfect score:
-# total score (294.13333333333344, 158.338547978175) of 531 in 100 files
-# [ 73.54138232  23.87471053] with new score
-# [ 100.    54.8]
-# 99, 53.8
+# try the perfect score
 class OneShotTestPerfect(OneShotTestDoc2Vec):
     def __init__(self, example_path, test_file_path_list, enable_saving=False, n_gram=5, **kwargs):
         super().__init__(example_path, test_file_path_list, enable_saving, n_gram, enable_phrases=False, **kwargs)
@@ -304,8 +299,6 @@ class OneShotTestPerfect(OneShotTestDoc2Vec):
 
 
 # try the score based on random selection:
-
-# [ 3.51328195  0.63288726] of 531 in 100 files (average of 100 epochs)
 class OneShotTestRandom(OneShotTestPerfect):
     def score(self, key, gram, test_file_path, wv_dict, **kwargs):
         print('similar to:' + str(gram))
@@ -318,7 +311,6 @@ class OneShotTestRandom(OneShotTestPerfect):
 
 
 # test the score if just return empty results
-# [ 29.82857143   0.        ] with new score
 class OneShotTestNone(OneShotTestPerfect):
     def score(self, key, gram, test_file_path, wv_dict, **kwargs):
         print('similar to:' + str(gram))
@@ -330,10 +322,7 @@ class OneShotTestNone(OneShotTestPerfect):
         return targets
 
 
-# total score (214.93262997209598, 113.0204099518053) of 531 in 100 files
-# [ 38.63431138  12.39807115] with new score
-# [ 28.65692071  12.39268394] with rouge1 = 0 for None
-# [ 47.55615901  25.20420298]
+# Human results
 class OneShotTestHuman(OneShotTestPerfect):
     def score(self, key, gram, test_file_path, wv_dict, **kwargs):
         human_file_path = os.path.join(const.HUMAN_DIR, test_file_path.split('/')[-1])
@@ -351,8 +340,6 @@ class OneShotTestHuman(OneShotTestPerfect):
 # instead of comparing words directly, we will choose most similar context(sentences) first, then find similar words
 # from given context.
 # this model shares same doc vectors between context and words, which is trained in ngrams = context_size
-# total score of 531 in 100 files
-# 5.62889347  1.8
 class OneShotTestContext1(OneShotTestDoc2Vec):
     def __init__(self, example_path, test_file_path_list, enable_saving=False, n_gram=5, **kwargs):
         super().__init__(example_path, test_file_path_list, enable_saving, n_gram, **kwargs)
@@ -381,16 +368,6 @@ class OneShotTestContext1(OneShotTestDoc2Vec):
 
     def doc_vectors_training(self):
         return cb.make_doc2vec_model_from_aaer()
-
-    # @staticmethod
-    # # returns a list of  ngrams in dv dict similar to doc vecs
-    # def similar_grams_by_doc_vecs(doc_vecs, dv_dict, topn=TOP_N):
-    #     # logging.info('similiar_words_by_word: word: ' + word + 'text_wv_dict: ' + str(test_wv_dict))
-    #     grams_found = set()
-    #     for doc_vec in doc_vecs:
-    #         grams = similar_grams_by_vec(doc_vec, dv_dict, topn=topn)
-    #         grams_found.update(set(tuple(gram) for gram in grams))
-    #     return grams_found
 
     # make a dict which is convenient to look up a list of ngram vectors by tagged_words
     @staticmethod
@@ -442,8 +419,6 @@ class OneShotTestContext1(OneShotTestDoc2Vec):
 
 
 # this model uses different doc vectors between context and words, which are trained both in ngrams and context_size
-# [ 6.24901561  2.02633446] for context size 20
-# total score (5.723827503944152, 1.555457416626519) of 531 in 100 files c = 10
 class OneShotTestContext2(OneShotTestContext1):
     def doc_vectors_training(self):
         return cb.PhraseVecBigrams()
@@ -472,7 +447,7 @@ class OneShotTestWVSumWVPhrase(OneShotTestContext2):
         return cb.PhraseVecTrigrams()
 
 
-# "{'topn': 3, 'context_threshold': 0.9, 'word_threshold': 0.5, 'context_size': 100}",[ 0.40324541  0.01717172]
+# A bi-gram phrase setting, instead of default setting of tri-gram
 class OneShotTestWVSumWVPhraseBi(OneShotTestWVSumWVPhrase):
     def context_doc_training(self):
         return cb.DocVecByWESum()
@@ -482,9 +457,6 @@ class OneShotTestWVSumWVPhraseBi(OneShotTestWVSumWVPhrase):
 
 
 # this model uses word embeddings, then calculates the ngram similarity, instead of using doc2vec
-# [ 85.34945763   7.69444444]
-# [ 78.1666238    9.14444444] wv_size = 300
-# [ 23.72189289   1.46636364]
 class OneShotTestWVMean(OneShotTestDoc2Vec):
     def train(self):
         assert self.example_entity_dict
@@ -495,15 +467,12 @@ class OneShotTestWVMean(OneShotTestDoc2Vec):
         return cb.DocVecByWEMean()
 
 
-# [ 82.18312396   7.22619048]
 class OneShotTestWVSum(OneShotTestWVMean):
     def doc_vectors_training(self):
         return cb.DocVecByWESum()
 
 
-#
-# total score [ 74.95494505   8.06666667] of 531 in 100 files
-# total score (68.86923076923074, 9.4) of 531 in 100 files wv_size = 300
+# wmdistance
 class OneShotTestWVWMD(OneShotTestWVMean):
     @staticmethod
     def doc_vector_to_dict_by_list(dv_model, grams):
@@ -521,28 +490,7 @@ class OneShotTestWVWMD(OneShotTestWVMean):
         return util.get_top_group(sorted_grams)
 
 
-# 112.0228742    10.85714286:n_gram=5, context_size=10
-# [ 105.63122521   10.66666667] wv_size=300
-# [ 105.37120649   11.0047619 ] n, c = 5
-# [ 108.78976112   11.2031746 ] c = 20
-# [ 103.7195355    10.52857143] c = 100
-# [ 183.28773449  127.57142857] c=10, add threshold for similarity>0.7
-# [ 168.73066378  104.45396825] context similarity>0.7, word>0.4
-# [ 170.15916306  139.9047619 ] context>0.8, word>0.4
-# [ 177.92510823  124.68253968] context>0.75
-# [ 183.53621934  132.68253968] word>0.5
-# [ 35.65761836   0.56261023] with new score, both with word>0.5 & 0.4
-# [ 35.73164273   0.72595799] context_sim>0.7, word>0.4
-# [ 10.21021416   0.72595799] rouge1 = 0 for None
-# [ 36.02193454   0.67657528] rouge1=1, topn=5
-# [ 33.12867582   0.17167388] context_sim>0.8
-# [ 36.61191707   0.86711844] context>0.75
-# [ 36.81665178   0.92095238] topn=3
-# [ 33.05873257   1.06810967]context>0.6
-# [ 30.17060394   0.91711844] context>0.75, with weighted sim
-# [ 36.52729225   1.16857143] size=512
-# [ 35.63946563   0.71333333] size=512, trained on aaer_ex corpus
-# # [ 30.08898944   0.67333333] with new similarity func
+# added context based approach
 class OneShotTestContextWVMean(OneShotTestWVMean):
     def __init__(self, example_path, test_file_path_list, enable_saving=False, n_gram=5, **kwargs):
         super().__init__(example_path, test_file_path_list, enable_saving, n_gram, **kwargs)
@@ -591,21 +539,11 @@ class OneShotTestContextWVMean(OneShotTestWVMean):
         return super().score(key, gram, test_file_path, context_wv_dict, context_sim_dict=context_similarity_dict)
 
 
-# [ 35.63946563   0.71333333]
-# [ 36.87764634   1.69333333] with no weighted sim func
-# [ 36.36183659   1.24      ] with topn=5
-# [ 37.62390453   2.08222222] with context_size = 20
 class OneShotTestContextWVSum(OneShotTestContextWVMean):
     def doc_vectors_training(self):
         return cb.DocVecByWESum()
 
 
-# total score (65.30256410256409, 3.733333333333333) of 531 in 100 files
-# [ 52.06866174   3.28738739] for context_size = 20
-# [ 62.4800781    2.73333333] c = 40
-# [ 84.52690349   5.73333333] c = 100
-# [ 97.0596678   15.83333333] c = 200
-#  91.70728684  16.16666667] c = 200, wv_size = 300
 class OneShotTestContext4(OneShotTestContextWVMean, OneShotTestWVWMD):
     def score(self, key, tagged_gram, test_file_path, wv_dict, **kwargs):
         # tagged_gram: [['esafetyworld', 'comp'], ['inc', 'end']]
@@ -654,9 +592,7 @@ class OneShotTestContext5(OneShotTestContext4):
         return OneShotTestDoc2Vec.score(self, key, gram, test_file_path, context_wv_dict)
 
 
-# [ 20.60965956   6.07702742]
-# [ 20.65537384   6.13036075]
-# [ 20.65537384   6.13036075]
+# Our first deep tensor2tensor model
 class OneShotTestT2TNoContext(OneShotTestWVMean):
     def doc_vectors_training(self):
         return dl_context.T2TContextModel(load_aaer_test_data=True, doc_length=self.n, one_to_n=True)
@@ -667,42 +603,7 @@ class OneShotTestT2TNoContext(OneShotTestWVMean):
         return dv_model.infer_vectors_dict(grams)
 
 
-# 59.52085954  15.43333333 for c=10
-# [ 59.20181192  16.6 ] for c=40 (c=100 shows little difference)
-# trained with ngram = 10 aaer corpus TARGET_SIZE = 5 WINDOW_SIZE = 2
-# no good from target_size=10, ngram=20
-# trained on ngram=5
-# [ 77.51556777  24.2       ] for c=10
-# [ 63.7470764    2.57505241] ... for c=10, after more training
-# [ 64.94576271   2.17505241] for c=5
-# [ 56.76652084   2.17505241][ 56.86652084   2.17505241] c=20
-# above training based on predict training:target = n_grams[i + window_size][-target_size:]
-# below will be based on generating training: target = window + source + window
-#  93.69231741  17.77777778 c=20, window=3, target ngram = 10
-#  (97.30374257080713, 22.019047619047623) c=10, topn=1
-# (171.97229437229439, 121.36666666666669) c=10 with overall similarity threshold=0.7
-# [ 169.02065344  102.66666667] context similarity>0.75, words>0.4
-# [ 34.24517008   1.21718484] new score, context>0.8
-# [ 25.77144166   3.63803705] context>0.6
-# [ 29.11031324   3.16230046] context>0.7
-# [ 31.65965501   3.4780464 ] context>0.75
-# [ 34.43088436   1.05051817] context>0.8
-# [ 32.39227328   3.30161616] context>0.75, topn=3
-# above trained on: N_GRAMS = 10 WINDOW_SIZE = 3
-# ------------------
-# below trained on: window_size=2
-# [ 29.61410367   2.81287157]
-# below trained on ngrams=20, window size=3
-# (17.514451065730135, 1.0966666666666667)
-# ngrams=14, window size=2:
-# [ 33.99083341   1.11666667]
-# [ 32.7550938    0.17333333]
-# ngrams=14, window size=3, trained on extra corpus:
-# [ 22.84718314   3.61809524]
-# window size=2:
-# [ 25.10924964   3.31380952]
-# [ 33.27467199   3.85131313] with extra corpus & revised similarity weighting func
-# [ 0.24482222  0.02278912] with context_size 20, new trained
+# t2t model with context
 class OneShotTestT2TModel(OneShotTestContext1):
     @staticmethod
     def doc_vector_to_dict_by_list(dv_model, grams):
@@ -845,24 +746,20 @@ class ContextTest(OneShotTestContext1):
                                                                           doc2vec_model=self.context_vec_model,
                                                                           example_ngrams=self.example_ngrams)
 
-    def score(self, key, tagged_gram, test_file_path, wv_dict, **kwargs):
+    def find_contexts_from_tagged_ngrams(self, tagged_gram, key=None):
         example_tagged_words_ngram_vecs = \
             self.example_tagged_words_ngram_vecs_dict[tagged_words_to_str(tagged_gram)]
         context_sim_dict = make_context_sim_dict(example_tagged_words_ngram_vecs,
                                                  self.context_sized_test_wv_dict,
-                                                 self.topn*2,
+                                                 self.topn * 2,
                                                  self.context_threshold)
+        return list(context_sim_dict.keys())
 
-        gram = util.sentence_from_tagged_ngram(tagged_gram)
-
-        # print(wv_dict.keys())
-
-        contexts_found = list(context_sim_dict.keys())
+    def score(self, key, tagged_gram, test_file_path, wv_dict, **kwargs):
+        contexts_found = self.find_contexts_from_tagged_ngrams(tagged_gram, key)
         print('Contexts found:')
         print(contexts_found)
         print('correct:')
-
-        # print(gram)
         example_tagged_ngrams = cb.find_ngrams_by_tagged_words(self.example_ngrams, tagged_gram)
         print(example_tagged_ngrams)
         # if len(contexts_found) == 0:
@@ -888,7 +785,6 @@ class ContextTest(OneShotTestContext1):
         return count
 
 
-# [ 18.39388458   4.56925512]
 class ContextTestWVMean(ContextTest):
     @staticmethod
     def doc_vector_to_dict_by_list(dv_model, grams):
@@ -898,8 +794,6 @@ class ContextTestWVMean(ContextTest):
         return cb.DocVecByWEMean()
 
 
-# [ 13.34222989   2.66634493]
-# [ 0.13516291  0.01667692]
 class ContextTestT2T(ContextTest):
     def context_doc_training(self):
         return dl_context.T2TContextModel(load_aaer_test_data=True, doc_length=self.context_size)
@@ -922,3 +816,43 @@ class ContextTestDoc2vec(ContextTest):
 
     def context_doc_training(self):
         return cb.make_doc2vec_model_from_aaer()
+
+
+class ContextTestHuman(ContextTest):
+    def __init__(self, example_path, test_file_path_list, enable_saving=False, n_gram=5, **kwargs):
+        super().__init__(example_path, test_file_path_list, enable_saving=enable_saving, n_gram=n_gram, **kwargs)
+        self.human_tagged_entity_dict = None
+        self.human_tagged_ngrams = None
+
+    @staticmethod
+    def doc_vector_to_dict_by_list(dv_model, grams):
+        pass
+
+    def context_doc_training(self):
+        pass
+
+    def find_contexts_from_tagged_ngrams(self, tagged_gram, key=None):
+        human_contexts = []
+        try:
+            for tagged_words in self.human_tagged_entity_dict[key]:
+                # print(tagged_words)
+                # print(self.human_tagged_ngrams)
+                if type(tagged_words) is list:
+                    human_contexts += cb.find_ngrams_by_tagged_words(self.human_tagged_ngrams, tagged_words)
+                    logging.info("human_contexts")
+                    logging.info(human_contexts)
+            return human_contexts
+        except KeyError:
+            return human_contexts
+
+    def post_training(self):
+        pass
+
+    def test_file_processing(self, test_file_path):
+        logging.info('testing file:' + test_file_path)
+        self.init_score_dict(test_file_path)
+        human_file_path = os.path.join(const.HUMAN_DIR, test_file_path.split('/')[-1])
+        human_tagged_tokens = ex_parsing.tagged_tokens_from_file(human_file_path)
+        self.human_tagged_ngrams = ex_parsing.ngrams_from_file(human_file_path, self.context_size, tagged=True)
+        self.human_tagged_entity_dict = \
+            ex_parsing.entity_tagged_words_dict_from_tagged_tokens(human_tagged_tokens)
