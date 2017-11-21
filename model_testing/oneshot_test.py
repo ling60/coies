@@ -177,9 +177,8 @@ class OneShotTestDoc2Vec:
                                     similarity_threshold=similarity_threshold)
 
     def score(self, key, gram, test_file_path, wv_dict, **kwargs):
-        # todo: filter out unnatural terms, such as "profit as"
         print('similar to:' + str(gram))
-        if 'context_sim_dict' in kwargs and False:  # disable weighted func
+        if 'context_sim_dict' in kwargs:  # disable weighted func
             # allocate weights to grams coming from different contexts
             context_sim_dict = kwargs['context_sim_dict']
             weighted_wv_dict = {}
