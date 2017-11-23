@@ -112,7 +112,7 @@ def score_by_rouge(words_found, test_entity_dict, entity_key):
         print(answers)
         # print(words_found)
         score = util.tuple_add(score, (rouge.rouge_1(words_found, answers, alpha=0.5),
-                                       rouge.rouge_2(words_found, answers, alpha=0.5)))
+                                       0))
         # print(score)
     elif not words_found:  # both do not have similar words compared to example
         score = util.tuple_add(score, (1, 0))  # set rouge2 as 0 because for single word rouge2 returns 0
@@ -139,7 +139,7 @@ class OneShotTestDoc2Vec:
                 pass
         else:
             # init phrases detector
-            self.phrases_model = aaer.AAERExParserPhrases()
+            self.phrases_model = aaer.AAERExParserPhrasesBigrams()
         if "conf_dict" in kwargs:
             self.conf_dict = kwargs['conf_dict']
             self.topn = self.conf_dict['topn']
@@ -233,7 +233,7 @@ class OneShotTestDoc2Vec:
         self.init_score_dict(test_file_path)
         sentences = ex_parsing.sentences_from_file(ft.get_source_file_by_example_file(test_file_path))
         # todo: change bigrams to trigrams, after test!
-        self.test_tokens = self.phrases_model.get_trigrams(sentences)
+        self.test_tokens = self.phrases_model.get_bigrams(sentences)
         self.test_entity_dict = get_entity_dict_from_file(test_file_path)
         # self.test_tokens, self.test_entity_dict = self.tokens_entities_from_path(test_file_path)
         logging.info('test_entity_dict')

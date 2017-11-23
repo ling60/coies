@@ -52,12 +52,12 @@ def test(example_path, files, model_class, enable_saving=False, epochs=1):
 def grid_conf_dict_generator():
     config_dict = oneshot.base_conf_dict
     assert config_dict['topn']
-    for topn in range(3, 7):
+    for topn in range(5, 9):
         config_dict['topn'] = topn
-        for i in range(60, 100, 5):
+        for i in range(80, 100, 5):
             assert config_dict['context_threshold']
             config_dict['context_threshold'] = i / 100
-            for n in range(4, 9):
+            for n in range(5, 7):
                 assert config_dict['word_threshold']
                 config_dict['word_threshold'] = n / 10
                 for context_size in [100]:
@@ -83,5 +83,5 @@ file_list = ft.list_file_paths_under_dir(const.TEST_DIR, ['txt'])
 # conf_dict['topn'] = 5
 # run_for_epochs(const.EXAMPLE_FILE, file_list, oneshot.OneShotTestWVSumWVPhraseBi, config_dict=conf_dict, epochs=1)
 
-grid_search(const.EXAMPLE_FILE, oneshot.OneShotTestWVSumWVPhrase)
+grid_search(const.EXAMPLE_FILE, oneshot.OneShotTestWVSumWVPhraseBi)
 
