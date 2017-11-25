@@ -485,7 +485,6 @@ class OneShotTestWVWMD(OneShotTestWVMean):
 
         sorted_grams = util.sorted_tuples_from_dict(wmd_dict)
         # print(sorted_grams)
-        # util.get_top_group(sorted_grams)
         return util.get_top_group(sorted_grams)
 
 
@@ -554,7 +553,7 @@ class OneShotTestContext4(OneShotTestContextWVMean, OneShotTestWVWMD):
         logging.info('similar contexts:')
         print(similar_contexts)
         # similar_contexts = set()
-        context_wv_dict = util.subset_dict_by_list2(wv_dict, similar_contexts)
+        context_wv_dict = util.subset_dict_by_list2(wv_dict, [s[0] for s in similar_contexts])
         logging.info('context_wv_dict:')
         logging.info(len(context_wv_dict))
 
@@ -572,15 +571,7 @@ class OneShotTestContext5(OneShotTestContext4):
         # find ngrams in test file similar to example
         example_tagged_words_ngram_vecs = \
             self.example_tagged_words_ngram_vecs_dict[tagged_words_to_str(tagged_gram)]
-        # print(self.context_sized_test_wv_dict)
-        # similar_contexts = \
-        #     similar_grams_by_doc_vecs(example_tagged_words_ngram_vecs, self.context_sized_test_wv_dict)
-        # logging.info('similar contexts:')
-        # print(similar_contexts)
-        # # similar_contexts = set()
-        # context_wv_dict = util.subset_dict_by_list2(wv_dict, similar_contexts)
-        # logging.info('context_wv_dict:')
-        # logging.info(len(context_wv_dict))
+
         context_wv_dict, context_similarity_dict = make_context_dict(example_tagged_words_ngram_vecs,
                                                                      self.context_sized_test_wv_dict,
                                                                      wv_dict,
@@ -589,6 +580,11 @@ class OneShotTestContext5(OneShotTestContext4):
 
         gram = util.sentence_from_tagged_ngram(tagged_gram)
         return OneShotTestDoc2Vec.score(self, key, gram, test_file_path, context_wv_dict)
+
+
+class OneShotTestWMDWVSum(OneShotTestContext4):
+    def doc_vectors_training(self):
+        return cb.DocVecByWESum()
 
 
 # Our first deep tensor2tensor model
@@ -678,6 +674,7 @@ class OneShotTestT2TWVPhraseBi(OneShotTestT2TWVMean):
 
 
 # this class substitute doc embeddings with doc similarities provided by loss comparing function from t2t model
+# the model is now abandoned due to the long computing time
 class OneShotTestT2TLossWVMean(OneShotTestDoc2Vec):
     def __init__(self, example_path, test_file_path_list, enable_saving=False, n_gram=5, **kwargs):
         super().__init__(example_path, test_file_path_list, enable_saving, n_gram, **kwargs)
