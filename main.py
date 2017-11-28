@@ -9,7 +9,7 @@ import numpy as np
 import logging
 import tensorflow as tf
 
-# logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.INFO)
 tf.logging.set_verbosity(tf.logging.ERROR)
 
 
@@ -76,12 +76,9 @@ def grid_search(example_path, model_class, enable_saving=True, epochs=1):
 
 file_list = ft.list_file_paths_under_dir(const.TEST_DIR, ['txt'])
 # file_list = [os.path.join(const.TEST_DIR, '34-71576.txt')]
-# conf_dict = oneshot.base_conf_dict
-# conf_dict['context_size'] = 100
-# conf_dict['context_threshold'] = 0.9
-# conf_dict['word_threshold'] = 0.6
-# conf_dict['topn'] = 5
-# run_for_epochs(const.EXAMPLE_FILE, file_list, oneshot.OneShotTestWVSumWVPhraseBi, config_dict=conf_dict, epochs=1)
+conf_dict = oneshot.base_conf_dict
 
-grid_search(const.EXAMPLE_FILE, oneshot.OneShotTestContext4)
+run_for_epochs(const.EXAMPLE_FILE, file_list, oneshot.OneShotTestWMDPhraseBi, config_dict=conf_dict, epochs=1)
+
+# grid_search(const.EXAMPLE_FILE, oneshot.OneShotTestWMDWVMean)
 

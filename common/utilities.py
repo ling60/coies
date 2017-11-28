@@ -1,4 +1,5 @@
 import numpy
+import scipy.spatial.distance as distance
 import math
 import collections
 import itertools
@@ -14,8 +15,9 @@ def display_logging_info(allow=True):
         logging.basicConfig(level=logging.WARNING)
 
 
-def cosine_distance(u, v):
+def cosine_similarity(u, v):
     return abs(numpy.dot(u, v) / (math.sqrt(numpy.dot(u, u)) * math.sqrt(numpy.dot(v, v))))
+    # return distance.cosine(u, v)
 
 
 # returns indexes of top values from a list
@@ -23,11 +25,11 @@ def top_n_from_list(l, n, start_max=True):
     return sorted(range(len(l)), key=lambda i: l[i], reverse=start_max)[:n]
 
 
-def make_distance_dict(vector, wv_dict):
-    distance_dict = {}
+def make_sim_dict(vector, wv_dict):
+    sim_dict = {}
     for k, v in wv_dict.items():
-        distance_dict[k] = abs(cosine_distance(vector, v))
-    return distance_dict
+        sim_dict[k] = abs(cosine_similarity(vector, v))
+    return sim_dict
 
 
 def most_common_items(a_dict, topn=None):
@@ -38,8 +40,15 @@ def most_common_items(a_dict, topn=None):
 
 # returns the nearest key(s) of vector dict, given a vector
 def similar_by_vector(vector, vector_dict, topn=1):
-    distance_dict = make_distance_dict(vector, vector_dict)
+    distance_dict = make_sim_dict(vector, vector_dict)
     return most_common_items(distance_dict, topn)
+
+
+def avg_cosine_similarity(vector, vectors):
+    arr_vec = numpy.array(vector)
+    arr_vecs = numpy.array(vectors)
+    similarities = numpy.apply_along_axis(cosine_similarity, 1, arr_vecs, arr_vec)
+    return numpy.average(similarities)
 
 
 # returns a group/cluster of tuples(item, value), where values are similar to the top value (distance between them is

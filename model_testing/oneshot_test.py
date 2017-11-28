@@ -9,13 +9,14 @@ import logging
 import os
 import model_testing.rougescore as rouge
 import model_testing.dl_context_models as dl_context
+from gensim.similarities import WmdSimilarity
 
 
 base_conf_dict = {
-    'topn': 3,
-    'context_threshold': 0.75,
-    'word_threshold': 0.4,
-    'context_size': 20
+    'topn': 5,
+    'context_threshold': 0.9,
+    'word_threshold': 0.6,
+    'context_size': 100
 }
 
 
@@ -64,7 +65,7 @@ def similar_grams_by_doc_vecs(doc_vecs, dv_dict, topn, sim_threshold):
 # returns two dicts based on context similar to given ngram vectors. first is word vector dict filtered by contexts,
 # the other is contexts and their similarity values
 def make_context_sim_dict(example_tagged_words_ngram_vecs, context_sized_test_wv_dict, topn, sim_threshold):
-    return similar_grams_by_doc_vecs(example_tagged_words_ngram_vecs, 
+    return similar_grams_by_doc_vecs(example_tagged_words_ngram_vecs,
                                      context_sized_test_wv_dict,
                                      topn=topn,
                                      sim_threshold=sim_threshold)
@@ -183,12 +184,12 @@ class OneShotTestDoc2Vec:
             context_sim_dict = kwargs['context_sim_dict']
             weighted_wv_dict = {}
             gram_vector = self.doc_vec_model.infer_vector(gram)
-            distance_dict = util.make_distance_dict(gram_vector, wv_dict)
+            sim_dict = util.make_sim_dict(gram_vector, wv_dict)
             for context, similarity in context_sim_dict.items():
-                for w, distance, in distance_dict.items():
+                for w, sim_weight, in sim_dict.items():
                     if util.is_sublist_of(w, context):
-                        # new_weighted_distance = 1 - (1 - similarity) * (1 - distance)
-                        new_weighted_distance = (1 + similarity) * distance
+                        # new_weighted_distance = 1 - (1 - similarity) * (1 - sim_weight)
+                        new_weighted_distance = (1 + similarity) * sim_weight
                         # we add a "1" here to ensure the result is larger
                         try:
                             weighted_distance = weighted_wv_dict[w]
@@ -232,8 +233,8 @@ class OneShotTestDoc2Vec:
         logging.info('testing file:' + test_file_path)
         self.init_score_dict(test_file_path)
         sentences = ex_parsing.sentences_from_file(ft.get_source_file_by_example_file(test_file_path))
-        # todo: change bigrams to trigrams, after test!
-        self.test_tokens = self.phrases_model.get_bigrams(sentences)
+
+        self.test_tokens = list(self.phrases_model.get_bigrams(sentences))
         self.test_entity_dict = get_entity_dict_from_file(test_file_path)
         # self.test_tokens, self.test_entity_dict = self.tokens_entities_from_path(test_file_path)
         logging.info('test_entity_dict')
@@ -399,14 +400,6 @@ class OneShotTestContext1(OneShotTestDoc2Vec):
         # find ngrams in test file similar to example
         example_tagged_words_ngram_vecs = \
             self.example_tagged_words_ngram_vecs_dict[tagged_words_to_str(tagged_gram)]
-        # similar_contexts = \
-        #     similar_grams_by_doc_vecs(example_tagged_words_ngram_vecs, self.context_sized_test_wv_dict)
-        # logging.info('similar contexts:')
-        # logging.info(similar_contexts)
-        # # similar_contexts = set()
-        # context_wv_dict = util.subset_dict_by_list2(wv_dict, similar_contexts)
-        # logging.info('context_wv_dict:')
-        # logging.info(len(context_wv_dict))
         context_wv_dict, context_similarity_dict = make_context_dict(example_tagged_words_ngram_vecs,
                                                                      self.context_sized_test_wv_dict,
                                                                      wv_dict,
@@ -542,26 +535,98 @@ class OneShotTestContextWVSum(OneShotTestContextWVMean):
         return cb.DocVecByWESum()
 
 
-class OneShotTestContext4(OneShotTestContextWVMean, OneShotTestWVWMD):
+class OneShotTestWMDWVMean(OneShotTestWVMean):
+    def __init__(self, example_path, test_file_path_list, enable_saving=False, n_gram=5, **kwargs):
+        super().__init__(example_path, test_file_path_list, enable_saving, n_gram, **kwargs)
+        self.context_vec_model = None
+        self.tagged_tokens = ex_parsing.tagged_tokens_from_file(self.example_path)
+        self.example_entity_dict = \
+            ex_parsing.entity_tagged_words_dict_from_tagged_tokens(self.tagged_tokens)
+        self.example_ngrams = ex_parsing.ngrams_from_file(self.example_path, self.context_size, tagged=True)
+        self.example_tagged_words_contexts_dict = {}
+        self.context_sized_test_wv_dict = None
+        self.wmd_save_dir = os.path.join(const.GENERATED_DATA_DIR, "wmdsim")
+        os.makedirs(self.wmd_save_dir, exist_ok=True)
+
+    def train(self):
+        super().train()
+        self.post_training()
+
+    @staticmethod
+    def context_doc_training():
+        model = cb.make_doc2vec_model_from_aaer()
+        model.init_sims(replace=True)  # normalizes the vectors
+        return model
+
+    @staticmethod
+    def context_vector_to_dict_by_list(dv_model, grams):
+        return {tuple(k): None for k in grams}
+
+    def post_training(self):
+        self.context_vec_model = self.context_doc_training()
+        assert self.example_entity_dict
+
+        example_tagged_words_contexts_dict = {}
+        for entity, value_lists in self.example_entity_dict.items():
+            for tagged_words in value_lists:
+                if type(tagged_words) is list:
+                    str_tagged_words = tagged_words_to_str(tagged_words)
+                    # logging.info(str_tagged_words)
+                    example_tagged_ngrams = cb.find_ngrams_by_tagged_words(self.example_ngrams, tagged_words)
+                    logging.info("example_tagged_ngrams")
+                    logging.info(example_tagged_ngrams)
+                    example_tagged_words_contexts_dict[str_tagged_words] = example_tagged_ngrams
+        self.example_tagged_words_contexts_dict = example_tagged_words_contexts_dict
+
+    def test_file_processing(self, test_file_path):
+        super().test_file_processing(test_file_path)
+        # print(self.test_wv_dict)
+        ngrams = ex_parsing.ngrams_from_file(test_file_path, self.context_size, tagged=True)
+        sentences = [util.sentence_from_tagged_ngram(t) for t in ngrams]
+        # logging.info(ngrams)
+        # logging.info(sentences)
+        self.context_sized_test_wv_dict = self.context_vector_to_dict_by_list(self.context_vec_model, sentences)
+
+    # def similar_grams_by_gram(self, gram, wv_dict, topn=None):
+    #     # topn = topn if topn else self.topn
+    #     logging.info('similar grams by gram:')
+    #     logging.info(wv_dict.keys())
+    #     wmd_dict = {g: self.doc_vec_model.wv_model.wmdistance(gram, g) for g in wv_dict}
+    #
+    #     sorted_grams = util.sorted_tuples_from_dict(wmd_dict)
+    #     # print(sorted_grams)
+    #     return util.get_top_group(sorted_grams)
+
     def score(self, key, tagged_gram, test_file_path, wv_dict, **kwargs):
         # tagged_gram: [['esafetyworld', 'comp'], ['inc', 'end']]
         # find ngrams in test file similar to example
-        similar_contexts = \
-            self.similar_grams_by_gram([g[0] for g in tagged_gram],
-                                       self.context_sized_test_wv_dict,
-                                       topn=self.topn)
+        similar_contexts = []
+        example_contexts = self.example_tagged_words_contexts_dict[tagged_words_to_str(tagged_gram)]
+        test_contexts = list(self.context_sized_test_wv_dict.keys())
+        # save_path = os.path.join(self.wmd_save_dir, ft.file_name_from_path(test_file_path))
+        # try:
+        #     wmd_instance = WmdSimilarity.load(save_path)
+        # except FileNotFoundError:
+        #     file = open(save_path, 'x')
+        #     file.close()
+        wmd_instance = WmdSimilarity(test_contexts, self.context_vec_model, num_best=1)
+
+        for example_context in example_contexts:
+            sims = wmd_instance[example_context]
+            similar_contexts.append(test_contexts[sims[0][0]])
+        # wmd_instance.save(save_path)
         logging.info('similar contexts:')
         print(similar_contexts)
         # similar_contexts = set()
-        context_wv_dict = util.subset_dict_by_list2(wv_dict, [s[0] for s in similar_contexts])
+        context_wv_dict = util.subset_dict_by_list2(wv_dict, similar_contexts)
         logging.info('context_wv_dict:')
         logging.info(len(context_wv_dict))
-
+        # print(context_wv_dict)
         gram = util.sentence_from_tagged_ngram(tagged_gram)
         return OneShotTestDoc2Vec.score(self, key, gram, test_file_path, context_wv_dict)
 
 
-class OneShotTestContext5(OneShotTestContext4):
+class OneShotTestContext5(OneShotTestWMDWVMean):
     @staticmethod
     def doc_vector_to_dict_by_list(dv_model, grams):
         OneShotTestWVMean.doc_vector_to_dict_by_list(dv_model, grams)
@@ -570,7 +635,7 @@ class OneShotTestContext5(OneShotTestContext4):
         # tagged_gram: [['esafetyworld', 'comp'], ['inc', 'end']]
         # find ngrams in test file similar to example
         example_tagged_words_ngram_vecs = \
-            self.example_tagged_words_ngram_vecs_dict[tagged_words_to_str(tagged_gram)]
+            self.example_tagged_words_contexts_dict[tagged_words_to_str(tagged_gram)]
 
         context_wv_dict, context_similarity_dict = make_context_dict(example_tagged_words_ngram_vecs,
                                                                      self.context_sized_test_wv_dict,
@@ -582,9 +647,14 @@ class OneShotTestContext5(OneShotTestContext4):
         return OneShotTestDoc2Vec.score(self, key, gram, test_file_path, context_wv_dict)
 
 
-class OneShotTestWMDWVSum(OneShotTestContext4):
+class OneShotTestWMDWVSum(OneShotTestWMDWVMean):
     def doc_vectors_training(self):
         return cb.DocVecByWESum()
+
+
+class OneShotTestWMDPhraseBi(OneShotTestWMDWVMean):
+    def doc_vectors_training(self):
+        return cb.PhraseVecBigrams()
 
 
 # Our first deep tensor2tensor model
