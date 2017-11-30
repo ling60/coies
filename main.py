@@ -78,7 +78,7 @@ file_list = ft.list_file_paths_under_dir(const.TEST_DIR, ['txt'])
 # file_list = [os.path.join(const.TEST_DIR, '34-71576.txt')]
 conf_dict = oneshot.base_conf_dict
 
-run_for_epochs(const.EXAMPLE_FILE, file_list, oneshot.OneShotTestWMDPhraseBi, config_dict=conf_dict, epochs=1)
+run_for_epochs(const.EXAMPLE_FILE, file_list, oneshot.OneShotTestNone, config_dict=conf_dict, epochs=1)
 
 # grid_search(const.EXAMPLE_FILE, oneshot.OneShotTestWMDWVMean)
 

@@ -16,8 +16,8 @@ def display_logging_info(allow=True):
 
 
 def cosine_similarity(u, v):
-    return abs(numpy.dot(u, v) / (math.sqrt(numpy.dot(u, u)) * math.sqrt(numpy.dot(v, v))))
-    # return distance.cosine(u, v)
+    # return abs(numpy.dot(u, v) / (math.sqrt(numpy.dot(u, u)) * math.sqrt(numpy.dot(v, v))))
+    return 1 - distance.cosine(u, v)
 
 
 # returns indexes of top values from a list
@@ -44,11 +44,21 @@ def similar_by_vector(vector, vector_dict, topn=1):
     return most_common_items(distance_dict, topn)
 
 
-def avg_cosine_similarity(vector, vectors):
-    arr_vec = numpy.array(vector)
-    arr_vecs = numpy.array(vectors)
+def avg_cosine_similarity(arr_vec, arr_vecs):
     similarities = numpy.apply_along_axis(cosine_similarity, 1, arr_vecs, arr_vec)
     return numpy.average(similarities)
+
+
+def avg_cosine_sim_by_wv_dicts(wv_dict1, wv_dict2):
+    avg_sims1 = []
+    for v in wv_dict1.values():
+        # arr_vecs2 = numpy.array(wv_dict2.values())
+        max_sim = 0
+        for vec in wv_dict2.values():
+            sim = cosine_similarity(v, vec)
+            max_sim = sim if max_sim < sim else max_sim
+        avg_sims1.append(max_sim)
+    return numpy.average(avg_sims1)
 
 
 # returns a group/cluster of tuples(item, value), where values are similar to the top value (distance between them is

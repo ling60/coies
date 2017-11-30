@@ -135,12 +135,8 @@ class OneShotTestDoc2Vec:
         self.test_entity_dict = None
         self.test_wv_dict = None
 
-        if "enable_phrases" in kwargs:
-            if kwargs["enable_phrases"]:
-                pass
-        else:
-            # init phrases detector
-            self.phrases_model = aaer.AAERExParserPhrasesBigrams()
+        self.phrases_model = aaer.AAERExParserPhrasesBigrams()
+        self.example_wv_dict = None
         if "conf_dict" in kwargs:
             self.conf_dict = kwargs['conf_dict']
             self.topn = self.conf_dict['topn']
@@ -162,10 +158,12 @@ class OneShotTestDoc2Vec:
     def doc_vectors_training(self):
         return cb.make_doc2vec_model_from_aaer()
 
-    def make_test_wv_dict(self, test_grams):
-        flat_grams = util.flatten_list(test_grams)
+    def make_wv_dict(self, file_path):
+        sentences = ex_parsing.sentences_from_file(ft.get_source_file_by_example_file(file_path))
+        tokens = list(self.phrases_model.get_bigrams(sentences))
+        flat_grams = util.flatten_list(tokens)
         flat_grams[:] = [tuple(w.split(const.GENSIM_PHRASES_DELIMITER)) for w in flat_grams]
-        self.test_wv_dict = self.doc_vector_to_dict_by_list(self.doc_vec_model, flat_grams)
+        return self.doc_vector_to_dict_by_list(self.doc_vec_model, flat_grams)
 
     def init_score_dict(self, test_file_path):
         self.score_dict[test_file_path] = (0, 0)
@@ -228,18 +226,19 @@ class OneShotTestDoc2Vec:
     def train(self):
         assert self.example_entity_dict
         self.doc_vec_model = self.doc_vectors_training()
+        self.example_wv_dict = self.make_wv_dict(self.example_path)
 
     def test_file_processing(self, test_file_path):
         logging.info('testing file:' + test_file_path)
         self.init_score_dict(test_file_path)
-        sentences = ex_parsing.sentences_from_file(ft.get_source_file_by_example_file(test_file_path))
 
-        self.test_tokens = list(self.phrases_model.get_bigrams(sentences))
         self.test_entity_dict = get_entity_dict_from_file(test_file_path)
         # self.test_tokens, self.test_entity_dict = self.tokens_entities_from_path(test_file_path)
         logging.info('test_entity_dict')
         logging.info(self.test_entity_dict)
-        self.make_test_wv_dict(self.test_tokens)
+        self.test_wv_dict = self.make_wv_dict(test_file_path)
+        print("avg_sim:")
+        print(util.avg_cosine_sim_by_wv_dicts(self.test_wv_dict, self.example_wv_dict))
 
     def test(self):
         # print(example_entity_dict)
@@ -271,7 +270,7 @@ class OneShotTestPerfect(OneShotTestDoc2Vec):
     def __init__(self, example_path, test_file_path_list, enable_saving=False, n_gram=5, **kwargs):
         super().__init__(example_path, test_file_path_list, enable_saving, n_gram, enable_phrases=False, **kwargs)
 
-    def make_test_wv_dict(self, test_grams):
+    def make_wv_dict(self, grams):
         pass
 
     def train(self):
@@ -304,18 +303,6 @@ class OneShotTestRandom(OneShotTestPerfect):
         print('similar to:' + str(gram))
         # words_found = self.similar_grams_by_gram(gram, gram)
         answers = [random.choice(util.flatten_list(self.test_tokens))]
-        hits, targets = score_by_rouge(answers, self.test_entity_dict, key)
-        print("rouge:", hits)
-        self.score_dict[test_file_path] = util.tuple_add(self.score_dict[test_file_path], hits)
-        return targets
-
-
-# test the score if just return empty results
-class OneShotTestNone(OneShotTestPerfect):
-    def score(self, key, gram, test_file_path, wv_dict, **kwargs):
-        print('similar to:' + str(gram))
-        # words_found = self.similar_grams_by_gram(gram, gram)
-        answers = []
         hits, targets = score_by_rouge(answers, self.test_entity_dict, key)
         print("rouge:", hits)
         self.score_dict[test_file_path] = util.tuple_add(self.score_dict[test_file_path], hits)
@@ -795,7 +782,7 @@ class ContextTest(OneShotTestContext1):
     def doc_vectors_training(self):
         return None
 
-    def make_test_wv_dict(self, test_grams):
+    def make_wv_dict(self, grams):
         self.test_wv_dict = None
 
     def context_doc_training(self):
