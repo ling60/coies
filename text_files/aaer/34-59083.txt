@@ -1,0 +1,595 @@
+---------------------Page 1---------------------
+
+                        UNITED STATES OF AMERICA 
+                                    Before the 
+                SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 59083 / December 11, 2008 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 2908 / December 11, 2008 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No.  3-13306 
+ 
+                                                 
+In the Matter of                                ORDER INSTITUTING CEASE-
+                                                                                AND-DESIST PROCEEDINGS  
+                      Zurich Financial Services          PURSUANT TO SECTION 21C  
+                                                OF THE SECURITIES 
+                                                EXCHANGE ACT OF 1934, 
+                                                MAKING FINDINGS, AND 
+                                                IMPOSING A CEASE-AND-
+                                                DESIST ORDER  
+                                                 
+Respondent.                                     
+                                                 
+ 
+                                        I. 
+
+      The Securities and Exchange Commission (Commission) deems it appropriate 
+that cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C 
+of the Securities Exchange Act of 1934 (Exchange Act) against Zurich Financial 
+Services (Zurich or Respondent).   
+                                        II. 
+
+              In anticipation of the institution of these proceedings, Respondent has submitted 
+an Offer of Settlement (the Offer), which the Commission has determined to accept.  
+Solely for the purpose of these proceedings and any other proceedings brought by or on 
+behalf of the Commission, or to which the Commission is a party, and without admitting 
+or denying the findings herein, except as to the Commissions jurisdiction over it and the 
+subject matter of these proceedings, which are admitted, Respondent consents to the entry 
+of this Order Instituting Cease-and-Desist Proceedings Pursuant to Section 21C of the 
+Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist 
+Order, as set forth below. 
+ 
+ 
+ 
+
+ 
+ 
+---------------------Page 2---------------------
+
+ 
+                                           III. 
+
+              On the basis of this Order and Respondents Offer, the Commission finds that:1
+
+                                      SUMMARY 
+
+       1.      Zurich caused a fraud by Converium Holding AG (Converium) 
+involving the use of finite reinsurance transactions to inflate improperly Converiums 
+financial performance.  Beginning in 1999, the management of Zurichs reinsurance 
+group, which operated under the name Zurich Re, developed three reinsurance 
+transactions for the purpose of obtaining the financial benefits of reinsurance accounting.  
+However, in order for a company to obtain the benefits of reinsurance accounting, the 
+reinsurance transaction must transfer risk.  Here, Zurich Re management designed the 
+transactions to make them appear to transfer risk to third-party reinsurers, when, in fact, 
+no risk was transferred outside of Zurich-owned entities.  For two of the transactions at 
+issue, Zurich Re ceded risk to third-party reinsurers, but took it back through reinsurance 
+agreements - known as retrocessions - with another Zurich entity. For the third 
+transaction, Zurich Re ceded the risk to a third-party reinsurer but simultaneously entered 
+into an undisclosed side agreement with the reinsurer pursuant to which Zurich Re agreed 
+to hold the reinsurer harmless for any losses the reinsurer realized under the reinsurance 
+contracts.  Because the ultimate risk under the reinsurance contracts remained with 
+Zurich-owned entities, these transactions should not have been accounted for as 
+reinsurance. 
+ 
+       2.      In March 2001, Zurich announced its intent to spin off its assumed 
+reinsurance business in an initial public offering.  Zurich then created and capitalized 
+Converium, which assumed the rights and obligations of Zurichs assumed reinsurance 
+business.  On December 11, 2001, Zurich spun off Converium in an IPO.  At the 
+conclusion of the IPO, the members of Zurich Re management responsible for the three 
+reinsurance transactions described herein ceased to be affiliated with Zurich and 
+continued as officers of Converium.  As a result of the improper accounting treatment 
+these reinsurance transactions received, the historical financial statements included in 
+Converiums IPO documents, including the Form F-1 it filed with the Commission, were 
+materially misleading.  Among other things, Converium understated its reported loss 
+before taxes by approximately $100 million (67%) in 2000 and by approximately $3 
+million (1%) in 2001.  In addition, for certain periods, the transactions had the effect of 
+artificially decreasing Converiums reported loss ratios for certain reporting segments - 
+the ratio between losses paid by an insurer and premiums earned that is frequently cited 
+by analysts as a key performance metric for insurance companies. 
+ 
+       3.      Converiums misstatements relate to facts that were material to investors 
+who purchased shares in the IPO.  Through the IPO, which was the largest reinsurance 
+
+                                                 
+1
+ The findings herein are made pursuant to Respondents Offer of Settlement and are not binding on any 
+other person or entity in this or any other proceeding.  
+ 
+                                            2  
+---------------------Page 3---------------------
+
+IPO in history, Zurich raised significantly more than it would have raised had Zurich and 
+Converium not improperly inflated Converiums financial performance. 
+  
+       4.     As a result of the foregoing conduct, Converium violated Section 10(b) of 
+the Exchange Act and Rule l0b-5 thereunder, and Zurich caused Converiums violation 
+of Section 10(b) and Rule l0b-5. 
+        
+
+                                   RESPONDENT 
+
+       5.     Zurich is a corporation organized under the laws of Switzerland with its 
+principal place of business in Zurich, Switzerland.  Historically, Zurich operated its 
+reinsurance business under the brand name Zurich Re, which operated as a separate 
+division within Zurich Insurance Company (ZIC), a wholly-owned subsidiary of 
+Zurich, and through its North American subsidiary, Zurich Reinsurance (North America) 
+Inc. ("Zurich Re North America").  Prior to Converiums IPO, Zurich restructured its 
+reinsurance operations and transferred substantially all of the reinsurance business 
+operated under Zurich Re to Converium.  In December 2001 and January 2002, pursuant 
+to the Registration Statement and Prospectus, Zurich sold 40 million shares of Converium 
+in the form of shares and American Depository Shares (ADSs), representing its entire 
+stake in Converium, for proceeds of approximately $1.9 billion.  Zurichs common stock 
+trades on the SWX Swiss Exchange under the symbol ZURN and its ADSs trade on the 
+Over-the-Counter Bulletin Board (OTCBB) and on the Pink Sheets under the symbol 
+ZFSVY.  Each Zurich ADS equals one-tenth of one share of Zurich common stock. 
+                                            
+
+                          OTHER RELEVANT ENTITIES 
+
+       6.     Converium, now known as SCOR Holding (Switzerland) Ltd., is a 
+corporation organized under the laws of Switzerland.  Zurich formed Converium in 2001 
+by transferring the rights and liabilities of the reinsurance businesses that made up 
+Zurichs assumed reinsurance business, which operated under the name Zurich Re. 
+Converium began operations under the Converium brand name on or around October 1, 
+2001.  From that time, until December 11, 2001, Converium operated as a wholly owned  
+subsidiary of Zurich.  Between December 11, 2001 and January 7, 2008, Converiums 
+common stock and ADSs were registered with the Commission pursuant to Section 12(b) 
+of the Exchange Act.  In August 2007, SCOR SE, a French reinsurer acquired 
+Converium. 
+ 
+       7.     Inter-Ocean Reinsurance Company, Ltd. (Inter-Ocean) was, at all 
+times relevant to this Order, a Bermuda corporation with its principal corporate offices in 
+Bermuda, and a wholly-owned subsidiary of Inter-Ocean Holdings, Inc., which was 
+formed in 1990 as a joint venture between ten reinsurers.  In 1998, Zurich acquired a 
+9.9% interest in Inter-Ocean effective at the end of that year.  Prior to Converiums IPO, 
+Zurich transferred its 9.9% interest in Inter-Ocean to Converium. 
+
+ 
+                                          3  
+---------------------Page 4---------------------
+
+                                               
+
+Reinsurance Accounting Principles 
+
+       8.      In basic terms, reinsurance is insurance for insurers.  Reinsurance is the 
+transfer of insurance risk by the primary insurer to a second insurance carrier, called the 
+reinsurer, in exchange for a payment or premium. 
+ 
+       9.      Whether a contract is accounted for as reinsurance depends on whether the 
+contract indemnifies the ceding company - here Zurich and Converium - from loss or 
+liability.  Such indemnification is known as risk transfer.  Risk is transferred when (1) the 
+reinsurer assumes significant insurance risk and (2) it is reasonably possible that the 
+reinsurer will realize a significant loss in the transaction.  A risk transfer analysis for a 
+contract emphasizes substance over form, and Generally Accepted Accounting Principles 
+(GAAP) require an evaluation of all contractual features thatlimit the amount of 
+insurance risk to which the reinsurer is subject 2
+                                                      Accordingly, under GAAP, if 
+agreements with the reinsurerin the aggregate, do not transfer risk, the individual 
+contracts that make up those agreements also would not be considered to transfer risk, 
+regardless of how they are structured.3
+                                         
+ 
+       10.     Where there is insufficient risk transfer, a transaction may not be treated 
+as reinsurance under GAAP, and must be accounted for using the deposit method, which 
+lacks the potential accounting benefits of reinsurance accounting.  Under reinsurance 
+accounting, when losses on the ceded business are incurred, the ceding insurer records an 
+offset to the increase in its gross loss reserves in an amount equal to the reinsurance it 
+expects to recover from the reinsurer, thus increasing its net income by that amount. 
+Deposit accounting has no comparable income statement benefit. 
+ 
+       11.     From 1999 through 2001, management of Zurich Re designed three 
+reinsurance transactions that created the appearance of risk transfer in order to benefit 
+from reinsurance accounting.  These three transactions affected the financial statements 
+included in Converiums IPO prospectus.  In two of the three transactions, Zurich Re 
+purchased reinsurance from Inter-Ocean, which, in turn, ceded these liabilities to a Zurich 
+entity (the Inter-Ocean transactions), in one transaction directly and in the other 
+transaction indirectly through a third reinsurer.  Zurichs Re's use of Inter-Ocean as an 
+intermediary in the transaction helped obscure the transactions circular structure and the 
+fact that Zurich Re had merely moved the risk from one Zurich Re entity to another.  In 
+the third transaction, Zurich Re entered into a reinsurance transaction for which the risk 
+transfer was negated by an undisclosed and purportedly unrelated side agreement that 
+protected the reinsurer against losses suffered under the reinsurance contract. Zurich Re 
+improperly accounted for these transactions using reinsurance accounting. 
+
+                                                 
+2
+ FASB, Statement of Financial Accounting Standards No. 113, Accounting and Reporting for Reinsurance 
+of Short-Duration and Long-Duration Contracts (December 1992), para. 8. 
+3
+ FASB, Emerging Issues Task Force Topic D-34, Accounting for Reinsurance:  Questions and Answers 
+about FASB Statement No. 113 (July 22, 1993), Question 13. 
+ 
+                                             4 
+---------------------Page 5---------------------
+
+ 
+
+The Circular Inter-Ocean Transactions 
+
+       The Medical Defence Union Transactions 
+       12.    In 2000, Zurich Re sought reinsurance for medical malpractice coverage it 
+provided to British doctors who were members of the Medical Defence Union (MDU). 
+In an April 25, 2000 e-mail concerning expected losses  related to the MDU contract, the 
+Chief Executive Officer of certain Zurich Re entities and later Converium (the CEO) 
+informed Zurich Res (and later Converiums) Chief Underwriting Officer (the CUO) 
+that we need to begin working on the actual placement of the [MDU] stop loss to relieve 
+the GAAP hit for Zurich.  Internally, Zurich Re personnel used the term GAAP hit to 
+mean the expense and increased reserve requirements associated with the medical 
+defense coverage.  The expense would decrease or hit reported income.  The CEO, who 
+was also a senior executive of Zurich, warned that, in obtaining the reinsurance, we need 
+to be conscious of the issue of circularity. 
+ 
+       13.    Between April and December 2000, Zurich Re management attempted to 
+negotiate reinsurance contracts for its MDU business that contained genuine risk transfer. 
+However, by December 2, 2000, they had not found any reinsurer willing to take on such 
+a contract.  In December 2000, the CUO emailed the CEO and suggested that Zurich Re 
+utilize Inter-Ocean or a similar non-controlled foreign corporation.  The CEO responded 
+we need to get something in the books now! We close our books this week. 
+ 
+       14.    Soon thereafter Zurich Re entered into the following agreements: ZIC UK 
+entered into a reinsurance agreement with Zurich Insurance Bermuda (ZIB) and ceded 
+80% of the MDU claims made on business written on or after July 1, 2000.  At the same 
+time, ZIB entered into a reinsurance agreement with Inter-Ocean to cover a portion of 
+ZIBs MDU liabilities for the 2000 policy year.  This agreement provided for Inter-Ocean 
+to cover ultimate net losses in excess of 85% of gross premiums written for the 2000 
+policy year.  Inter-Ocean then ceded all the liabilities it had assumed under the ZIB/Inter-
+Ocean agreement to an unaffiliated reinsurer (Company A). Company A, in turn, ceded 
+all the liabilities to a Zurich affiliate, ZIC Bermuda. 
+ 
+         ZIC            ZIB            IO            Company           ZIC 
+         UK                                          A                 Bermuda 
+ 
+ 
+ 
+ 
+          MDU 
+ 
+
+       15.    Although Zurich Re accounted for the transactions with Inter-Ocean and 
+Company A as reinsurance, in reality, Zurich Re had re-circulated the risk from one 
+Zurich entity to another, while interposing intermediaries (Inter-Ocean and Company A) 
+
+ 
+                                           5 
+---------------------Page 6---------------------
+
+that obscured the transactions circular structure.  Because this transaction was circular, 
+there was no risk transfer and Zurich Re and later Converium should not have accounted 
+for the contract as reinsurance.  As a result, and as reported in Converiums December 
+2001 Form F1, Converium understated its pre-tax losses for the year ended December 31, 
+2000 by $1.36 million. 
+ 
+       16.    Zurich Re and Company A renewed the ZIB/Inter-Ocean agreement in 
+2001 to include MDU business written from January 1, 2001 through March 31, 2002.  
+At the time the parties negotiated the agreement, Zurich had already announced its 
+intention to spin-off its reinsurance operations.  Due to the increased scrutiny of Zurich 
+Res contracts occasioned by the due diligence for the IPO, the CUO requested that the 
+2001 MDU reinsurance contracts not include specific cross references that might have 
+revealed that the reinsurance structure was circular.  The contracts ultimately executed by 
+the parties did not specifically reference the other related agreements.  As a result of the 
+MDU transaction, in its December 2001 Form F-1, Converium understated its pre-tax 
+losses for the six months ended June 30, 2001 by $5.02 million. 
+        
+       The GAUM Transaction 
+       17.    Just as it had done with MDU, in 2001, management of Zurich Re 
+negotiated a circular reinsurance transaction aimed at managing losses related to 
+reinsurance coverage it provided to Global Aerospace Underwriting Managers Ltd. 
+(GAUM), an aerospace underwriting pool. 
+ 
+       18.    In July 2001, Zurich Re management estimated that losses under Zurich 
+Re's reinsurance agreement with GAUM would negatively affect Zurich Res earnings 
+for the year ended December 31, 2001.  In a July 12, 2001 memo to the CEO and other 
+senior executives, the CUO suggested the possibility to buy a GAAP cover for the 
+GAUM business.  In an August 31, 2001 email to the CEO and others, the CUO provided 
+the following description of the reinsurance structure, reflecting that Zurich Re 
+management intended it to be circular from early on: Zurich Re retroceeds a 100% 
+[quota share] of its Stop Loss Reinsurance covering GAUMs net retention for the 
+underwriting year 2001to InteroceanInterocean enters into a Speed of Settlement 
+(SOS) excess of loss reinsurance with Zurich Insurance Bermuda 
+ 
+       19.    In 2001, Zurich Re entered into the following transactions:  On September 
+25, 2001, ZIC entered into an excess of loss reinsurance agreement with GAUM covering 
+GAUMs losses for risks attaching during 2001 in excess of a certain attachment point. 
+On December 5, 2001, ZIC ceded 100% of its risks under the GAUM excess of loss 
+reinsurance agreement to Inter-Ocean, which in turn, ceded all of its liabilities to ZIB. 
+ 
+          ZIC                      IO                      ZIB 
+ 
+ 
+ 
+        GAUM 
+ 
+ 
+                                           6 
+---------------------Page 7---------------------
+
+ 
+       20.    Similar to the MDU transaction, Zurich Re and later Converium 
+improperly accounted for the GAUM contracts as reinsurance.  Specifically, because 
+Zurich reassumed 100% of the risk from Inter-Ocean, it should not have accounted for 
+the contracts as reinsurance.  Because Zurich Re, and later Converium, improperly 
+accounted for the transaction as reinsurance, in Converiums December 2001 Form F-1, 
+Converium understated its pre-tax loss for the six-month period ended June 30, 2001 by 
+$2.44 million.  
+ 
+
+The Z-1 Facility and Undisclosed Side Agreement 
+
+       21.    In addition to the circular Inter-Ocean transactions, Zurich Re 
+management entered into a reinsurance agreement --  known as the Z-1 Facility -- that 
+appeared to transfer risk, but in fact did not, due to a side agreement that left the risk with 
+Zurich Re. 
+ 
+       22.    In 1999, Zurich Re established the Z-1 Facility with a Barbados insurance 
+company (Company B).  Under the Z-1 Facility, Company B and a Cologne-based 
+affiliate of Company B (Company B Cologne) acted as reinsurers for six finite 
+reinsurance transactions between external cedents and Zurich Re North America, in 
+which Zurich Re North America had reinsured losses of unaffiliated insurers.  Zurich Re 
+North America retroceded 100% of its obligations and premiums to Zurich Re Zurich, a 
+division of ZIC.  Zurich Re Zurich then retroceded 100% of its obligations and premiums 
+to Company B Cologne, which then ceded the business to Company B.  Company B, in 
+turn, retroceded most but not all of the risk it had assumed from Company B Cologne to a 
+separate Zurich subsidiary, Zurich Re Cologne, pursuant to a speed of settlement stop 
+loss agreement (SOS).  A SOS is a type of aggregate stop loss agreement that limits the 
+total losses incurred by the ceding company.  Under the SOS, Company B retained the 
+risk of up to $60 million of losses (including $10 million of losses under Endorsement 1); 
+Zurich Re Cologne was responsible for aggregate losses above that $60 million. 
+
+   Zurich Re                Company             Company B                 Zurich Re,  
+   Zurich                   B Cologne                                     Cologne  
+
+   Zurich Re                 External 
+   North America             Insurers
+                                                                                               
+       Cover B Negates Risk Transfer 
+       23.    Although Company B ceded much of the risk it assumed under the Z-1 
+Facility to Zurich Re Cologne, Company B did not want to have any exposure for losses 
+under the Z-1 Facility.  Accordingly, Company B sought a commitment from Zurich Re 
+management that Company B would not realize any losses under the Z-1 Facility.  The 
+
+ 
+                                           7 
+---------------------Page 8---------------------
+
+CEO assured the Company B executive responsible for the transaction that Company B 
+would not realize any losses under the Z-1 Facility. 
+ 
+       24.    The Company B executive insisted on security beyond the CEOs oral 
+commitment.  At the CEO's instruction, a Zurich Re North America employee prepared a 
+separate reinsurance agreement between ZIC and Company B to serve as security for the 
+CEOs promise.  The agreement, which was unrelated to the Z-1 Facility on its face, was 
+structured as a payback mechanism and was intended to reimburse Company B for any 
+losses suffered under the Z-1 Facility.  In internal correspondence, Zurich Re 
+management and later Converium referred to the agreement as Cover B.  Cover B 
+provided ZIC catastrophic coverage for the years 2000 through 2002 in exchange for a 
+total of $39 million in non-refundable premiums to Company B.  The attachment point 
+for coverage under Cover B was set intentionally high -- at a level that neither party 
+expected to be reached.  So, although Company B theoretically could have suffered 
+losses under Cover B, the agreement was structured to allow Company B to receive a 
+premium with very little risk.  The $39 million premium figure represented the present 
+value of the maximum possible loss that Company B could suffer under the Z-1 Facility 
+($60 million).  Moreover, Cover B was drafted to give Company B the option to trigger 
+the parties obligations and, by doing so, offset losses, if any, sustained under the Z-1 
+Facility.  In fact, Company B referred to Cover B as the option contract. 
+ 
+       25.    In the fall of 1999, prior to finalizing the terms of Cover B, the Zurich Re 
+North America employee who drafted the agreement told the CEO that he believed that 
+Cover B negated risk transfer under the Z-1 Facility.  Notwithstanding this warning, the 
+CEO approved Cover B, and on November 18, 1999, the CEO executed the agreement. 
+ 
+       26.    In December 2000, Cover B was renewed, with the CEO again signing the 
+agreement.  The terms of the 2000 Cover B agreement were substantially the same as the 
+1999 Cover B agreement, although the premium amount was increased to $15 million per 
+year, for a total of $45 million. 
+        
+       Unicover Losses Are Ceded to the Z-1 Facility 
+       27.    In September 2000, Zurich Re management became concerned about the 
+financial statement impact of Zurich Res exposure to losses arising out of Zurich Res 
+involvement in the failed Unicover Occupational Accident Reinsurance Pool (Unicover 
+Pool).  To address these concerns, Zurich Re management approached Company B 
+about including Zurichs Unicover Pool exposure under the Z-1 Facility.  Specifically, 
+Zurich Re proposed ceding a potential exposure of $58.6 million under the Unicover 
+Pool, as well as assorted other potential exposures, in exchange for a $15 million 
+premium. 
+ 
+       28.    During a December 20, 2000 dinner with the CEO in Zurich, the Company 
+B executive who negotiated the Z-1 Facility and Cover B agreed to adjust the Z-1 Facility 
+to permit Zurich Re to cede potential Unicover losses to the Z-1 Facility.  The Company 
+B executive agreed to accept the cessions because he believed that Cover B protected 
+
+ 
+                                           8 
+---------------------Page 9---------------------
+
+Company B from risk of loss under the Z-1 Facility.  Cover B was renewed and signed on 
+December 20, 2000. 
+ 
+       29.    By the time Zurich had completed the Converium IPO, significant losses 
+on the Unicover business had been recorded.  Converium ultimately ceded those losses to 
+the Z-1 Facility.  
+        
+
+       Post-IPO Conduct of Converium 
+       30.    Converium was prepared to honor Zurich Res prior commitment that 
+Company B would not suffer any losses under the Z-1 Facility, and Converium did not 
+want Company B to trigger Cover B.  To induce Company B not to trigger Cover B, 
+Converium offered to enter into reinsurance agreements that would be structured in such 
+a way as to ensure that Company B would realize sufficient profit to offset the Z-1 
+Facility losses.  The Company B executive described the arrangement and reasoning in an 
+internal memo following a January 2003 meeting with the CEO: Converium does not 
+want us to trigger the option cover (contract 5), since it would make it obvious that this 
+transaction was a circular transaction.  Instead they have offered us [other profitable 
+business]Converium and especially [the CEO] have proved to us that Converium will 
+hold [Company Bs parent] harmless under the [Z-1 Facility]. The option cover (contract 
+5) [Cover B] was always considered to be a sleep-easy cover in case Converium does not 
+fulfill its [sic] obligation they gave to [Company B] . 
+ 
+       Converium Cedes Profitable Business to Company B as Payback for Z-1 
+       Losses 
+       31.    Consistent with these representations, Converium used three purportedly 
+unrelated agreements with Company B in lieu of the option contract to offset losses ceded 
+to the Z-1 Facility.  First, in 2003, Converium entered into a multiple year third event 
+industry warranty catastrophe excess of loss reinsurance contract with Company B for the 
+years 2003 through 2005.  Converium purchased coverage for this contract from 
+Company B.  As a result, in exchange for providing coverage for a remote layer of risk, 
+Converium paid Company B an $8 million premium each year. 
+ 
+       32.    Second, in early 2000, before the IPO, Company B replaced another 
+Bermuda-based reinsurer as the retrocessionaire for risks related to a pre-existing 
+reinsurance agreement between Zurich and a third party reinsurer.  According to internal 
+Converium and Company B documents, after the IPO, when losses under the Z-1 Facility 
+emerged, Converium used $2.6 million in excess fees that would have been payable to 
+the original retrocessionaire but that Company B received in its place to offset a portion 
+of the losses suffered by Company B under the Z-1 Facility.   
+ 
+       33.    Third, in 2004, in exchange for assuming the risk in connection with a 
+policy for only the final month of a year-long agreement, Company B received the vast 
+bulk of the premiums under the contract -- $9.85 million of the $10.2 million annual 
+premium. 
+
+ 
+                                           9 
+---------------------Page 10---------------------
+
+ 
+       34.    In connection with the above reinsurance agreements, Converium paid a 
+total of $35.73 million to Company B as a means of repaying the deficit that had arisen 
+through losses ceded to Company B via the Z-1 Facility. 
+        
+       The Net Effect of the Z-1 Transactions 
+       35.    The Z-1 transactions did not transfer insurance risk outside of entities 
+included in Zurichs, and later Converiums, consolidated financial statements and should 
+not have been accounted for as reinsurance.  As a result, in its December 2001 Form F-1, 
+Converium understated its pre-tax loss for the year ended December 31, 2000 by $98.20 
+million or 66.19%. 
+        
+
+The Converium IPO
+
+       36.    On March 22, 2001, in connection with its announcement of disappointing 
+financial results for 2000, Zurich reported that it intended to exit the assumed reinsurance 
+business.  In a September 6, 2001 press release, Zurich announced that its reinsurance 
+business would be spun off in an IPO, and that as of October 1, 2001, the business would 
+operate under the name Converium. 
+ 
+       37.    The Registration Statement and Prospectus filed by Converium in 
+connection with the IPO, which became effective on December 11, 2001, was derived 
+from data from the Zurich subsidiaries combined to form Converium and failed to 
+disclose the impact of the circular Inter-Ocean and the Z-1 Facility transactions on 
+Converiums business operations, financial results and shareholders equity at the time of 
+the IPO.  
+ 
+       38.    Accordingly, the statements in the prospectus regarding Converiums 
+financial results for 2000 and the first half of 2001 were materially false and misleading.  
+As a consequence of the circular Inter-Ocean transactions and the Z-1 Facility 
+transactions, rather than reporting a loss before taxes of $48.8 million for 2000, 
+Converium should have reported a loss of at least $148.4 million.  Converium also 
+overstated its $1.09 billion in reported shareholders equity as of December 31, 2000 by 
+at least $72.3 million (approximately 6.6% of the total reported shareholders equity), an 
+amount including the effect of $100 million attributable to the Inter-Ocean and Z-1 
+Facility transactions and partially offset by $27.7 million attributable to other reinsurance 
+transactions not addressed within this Order. 
+ 
+       39.    Finally, because Converiums loss ratio for its non-life reinsurance 
+business was directly affected by the improperly recorded reinsurance obtained through 
+the circular Inter- Ocean and the Z-1 Facility transactions, Converium materially 
+understated its reported loss ratios for its Global Non-life and Converium Zurich 
+segments in 2000 and 2001.  Had Converium accounted for these transactions as 
+deposits, Converium would have reported for its Global Non-life segment a 92.6% loss 
+ratio (a 6% increase from the 86.6% it reported) and for its Converium Zurich segment 
+
+ 
+                                           10  
+---------------------Page 11---------------------
+
+a 94% loss ratio (a 14.5% increase from the 79.5% it reported) in 2000.  In 2001, 
+Converium should have reported for its Global Non-life segment a loss ratio above 
+100% (up from the 99.7% reported to 100.2%), which indicates an underwriting loss. 
+ 
+       40.    On December 11, 2001, Converium conducted its IPO pursuant to the 
+Registration Statement and Prospectus.  The Converium IPO was the largest initial public 
+offering of a reinsurance company in history.  Moreover, it was the largest initial public 
+offering of a Swiss company in three years.  Zurich sold 35 million shares of Converium 
+stock in the IPO at a price of 82 Swiss Francs per share, or $24.59 per ADS (with each 
+ADS representing one half of one share of stock).  The IPO yielded gross proceeds of 
+approximately $ 1.7 billion.  Zurich received net proceeds of approximately $1.6 billion 
+from its sale of Converium securities through the IPO. 
+ 
+       41.    In addition to the 35 million shares Zurich sold in the December 11, 2001 
+IPO, Zurich granted the underwriters an over-allotment of 5 million shares of Converium 
+stock, representing the remainder of Zurichs interest in Converium.  On January 9, 2002, 
+Zurich issued a press release in which it announced that the over-allotment had been 
+exercised, and that it had sold its remaining 5 million shares of Converium.  In total, 
+through the IPO, Zurich sold 40 million shares of Converium - every single share of 
+Converium that it owned - and reaped proceeds of approximately $1.97 billion. 
+ 
+       42.    As a result of the Inter-Ocean transactions (MDU and GAUM) and the Z-1 
+Facility, Converiums financial statements contained in Form F-1 filings for the IPO 
+materially overstated shareholders equity as of October 1, 2001. 
+ 
+       43.    Had Zurich and Converium properly accounted for the true nature of the 
+Inter-Ocean and Z-1 Facility transactions, Zurich would have received materially less 
+from its proceeds of the offering. 
+        
+
+                                       Violation 
+
+       44.    As a result of the conduct described above, Converium violated Section 
+10(b) of the Exchange Act and Rule 10b-5 thereunder, which prohibit fraudulent conduct 
+in connection with the purchase or sale of securities.   
+ 
+       45.    As a result of the conduct described above, Zurich caused Converiums 
+violation of Section 10(b) of the Exchange Act and Rule 10b-5 thereunder, which 
+prohibit fraudulent conduct in connection with the purchase or sale of securities.  Among 
+other things, Zurich entered into finite reinsurance transactions described above for the 
+purpose of improperly inflating its financial performance and improperly using 
+reinsurance accounting rules to account for the transactions, with the knowledge that such 
+accounting was improper.   
+        
+
+        
+
+ 
+                                           11 
+---------------------Page 12---------------------
+
+         Zurichs Remedial Efforts  
+ 
+         In determining to accept the Offer, the Commission considered remedial acts 
+promptly undertaken by Respondent and cooperation afforded the Commission staff.  
+          
+
+                                                      IV. 
+
+              In view of the foregoing, the Commission deems it appropriate to impose the 
+relief agreed to in Respondent Zurichs Offer.   
+ 
+         Accordingly, it is hereby ORDERED that: 
+          
+         Pursuant to Section 21C of the Exchange Act, Respondent Zurich cease and desist 
+from committing or causing any violations and any future violations of Section 10(b) of 
+the Exchange Act and Rule 10b-5 thereunder. 
+          
+          
+.   
+          
+
+         By the Commission. 
+          
+          
+              Florence E. Harmon 
+              Acting Secretary 
+ 
+  
+ 
+       
+ 
+
+ 
+                                                      12  

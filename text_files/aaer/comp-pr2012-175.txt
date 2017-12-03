@@ -1,0 +1,754 @@
+---------------------Page 1---------------------
+
+     
+
+     
+ 1  DAVID J. VAN HAVERMAAT, Cal. Bar No. 175761 
+    E-mail: vanhavermaatd@sec.gov 
+ 2  JUNLING MA, Cal. Bar No. 213241 
+    E-mail: maj@sec.gov 
+ 3   
+    Attorneys for Plaintiff 
+ 4  Securities and Exchange Commission 
+    Michele Wein Layne, Regional Director 
+ 5  John M. McCoy III, Associate Regional Director 
+    John W. Berry, Regional Trial Counsel 
+ 6  5670 Wilshire Boulevard, 11th Floor 
+    Los Angeles, California 90036-3648 
+ 7  Telephone: (323) 965-3998 
+    Facsimile: (323) 965-3908 
+ 8   
+     
+ 9   
+10                   UNITED STATES DISTRICT COURT 
+11                  CENTRAL DISTRICT OF CALIFORNIA 
+12                                      
+13  SECURITIES AND EXCHANGE             Case No.  
+    COMMISSION,                          
+14                                       COMPLAINT     FOR  VIOLATIONS    
+15    Plaintiff,                            OF THE FEDERAL  SECURITIES   
+     vs.                                  LAWS   
+16   
+17  CHINA SKY ONE MEDICAL, INC., 
+    and YAN-QING LIU, 
+18   
+19    Defendants. 
+     
+20
+     
+21
+22
+23
+24
+25
+26
+27
+28
+                                        
+---------------------Page 2---------------------
+
+      
+ 1         Plaintiff Securities and Exchange Commission (Commission) for its 
+ 2  Complaint against Defendants China Sky One Medical, Inc. (CSKI) and Yan-
+ 3  qing Liu (Liu) alleges as follows: 
+ 4                           JURISDICTION AND VENUE 
+ 5         1.    This Court has jurisdiction over this action pursuant to Sections 20(b), 
+ 6  20(d)(1), and 22(a) of the Securities Act of 1933 (Securities Act) [15 U.S.C. §§ 
+ 7  77t(b), 77t(d)(1), & 77v(a)], and Sections 21(d)(1), 21(d)(3)(A), 21(e), and 27 of 
+ 8  the Securities Exchange Act of 1934 (Exchange Act) [15 U.S.C. §§ 78u(d)(1), 
+ 9  78u(d)(3)(A), 78u(e), & 78aa].  Defendants have, directly or indirectly, made use 
+10  of the means or instrumentalities of interstate commerce, of the mails, or of the 
+11  facilities of a national securities exchange, in connection with the transactions, 
+12  acts, practices, and courses of business alleged in this complaint. 
+13         2.    Venue is proper in this district pursuant to Section 22(a) of the 
+14  Securities Act [15 U.S.C. § 77v(a)], and Section 27 of the Exchange Act [15 
+15  U.S.C. § 78aa], because certain of the transactions, acts, practices, and courses of 
+16  conduct constituting violations of the federal securities laws occurred within this 
+17  district.  During the relevant period, CSKIs securities were traded within this 
+18  District, and CSKIs subsidiary American California Pharmaceutical Group, Inc. 
+19  was registered with the Secretary of State of California.  
+20                                     SUMMARY 
+21         3.     This is a financial fraud case involving the fabrication of export sales 
+22  and the material overstatement of financial results for 2007 and 2008 by the 
+23  Defendants.   
+24         4.    Defendant CSKI is a company based in Harbin, Helongjiang Province, 
+25  the Peoples Republic of China.  It manufactures and sells medicinal products, 
+26  including a slim patch that purports to promote weight loss.  Its common stock is 
+27  registered with the Commission pursuant to Section 12(g) of the Exchange Act [15 
+28
+
+                                             -1- 
+---------------------Page 3---------------------
+
+      
+ 1  U.S.C. § 78l(g)], and trades in the United States.  Defendant Liu is CSKIs CEO and 
+ 2  chairman of the board.  
+ 3         5.    In 2007, CSKI reported in its filings with the Commission that it had 
+ 4  entered into a strategic distribution agreement with a Malaysian company, Takasima 
+ 5  Industries (M) Sdn. Bhd (Takasima), pursuant to which Takasima was appointed as 
+ 6  CSKIs exclusive distributor in Malaysia and undertook to generate $1 million per 
+ 7  month in sales.  In its public filings, CSKI reported export sales to Malaysia of over 
+ 8  $12.2 million for 2007 (constituting 25% of total revenues), and about $7.5 million 
+ 9  for 2008 (constituting 8.2% of total revenues).  All of these purported sales were for 
+10  one product, CSKIs slim patch.   
+11         6.    CSKIs Form 10-K for 2007 also identified its top two customers, 
+12  Ningbo Yuehua International Trading Company (Yuehua) and Guangzhou Xinghe 
+13  International Trading Company (Xinghe), which collectively accounted for 25% of 
+14  its total revenues for 2007.  CSKI claims that Yuehua and Xinghe were sales agents 
+15  for Takasima, and that all of CSKIs sales to Yuehua and Xinghe were export sales to 
+16  Malaysia via Takasima.   
+17         7.    In fact, Takasima only purchased a total of $167,542 in slim patches 
+18  from CSKI for 2007, a mere fraction of what was reported in CSKIs public filings, 
+19  and did not make any purchase from CSKI for 2008.  Moreover, Takasima never 
+20  entered into any distribution agreement with CSKI and never had any relationship 
+21  with, or purchased any goods through, Yuehua and Xinghe.   
+22         8.    CSKI materially overstated its financial results for 2007 and 2008 in its 
+23  Forms 10-K and 10-Q, and a current report on Form 8-K, and fabricated its strategic 
+24  distribution relationship with Takasima in those filings.  The overstated financial 
+25  results continued to appear in CSKIs financial statements through 2010, and 
+26  continue to impact the companys retained earnings on its balance sheet up to the 
+27  present.  CSKI also used the materially overstated financial results in its private 
+28  placement of securities in 2008. 
+
+                                            -2- 
+---------------------Page 4---------------------
+
+      
+ 1         9.    CSKI has failed to file its annual report on Form 10-K for the year 
+ 2  ended December 31, 2011, and Forms 10-Q for the quarters ended March 31, 2012 
+ 3  and June 30, 2012.   
+ 4         10.   By virtue of the conduct alleged herein, CSKI and Liu, directly or 
+ 5  indirectly, singly or in concert, violated and are otherwise liable for violations of the 
+ 6  federal securities laws, as follows: 
+ 7               (a)       CSKI violated Section 17(a)(2) of the Securities Act [15 U.S.C. § 
+ 8  77q(a)(2)], Sections 10(b), 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act 
+ 9  [15 U.S.C. § 78j(b), 15 U.S.C. §§ 78m(a), 78m(b)(2)(A), and 78m(b)(2)(B)], and 
+10  Rules 10b-5(b), 12b-20, 13a-1, 13a-11, and 13a-13 thereunder [17 C.F.R. §§ 
+11  240.10b-5(b), 240.12b-20, 240.13a-1, 240.13a-11, and 240.13a-13]; 
+12               (b)      Liu violated Section 17(a)(2) of the Securities Act [15 U.S.C.  
+13  § 77q(a)(2)], Sections 10(b) and 13(b)(5) of the Exchange Act [15 U.S.C. §§ 78j(b) 
+14  and 78m(b)(5)] and Rules 10b-5(b), 13a-14, 13b2-1, and 13b2-2 thereunder [17 
+15  C.F.R. §§ 240.10b-5, 240.13a-14, 240.13b2-1, and 240.13b2-2], and Section 304 of 
+16  the Sarbanes-Oxley Act of 2002 [15 U.S.C. § 7243];  
+17               (c)      Liu is liable, pursuant to Section 20(e) of the Exchange Act [15 
+18  U.S.C. §78t(e)], for aiding and abetting CSKIs violations of Sections 13(a), 
+19  13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act [15 U.S.C. §§ 78m(a), 
+20  78m(b)(2)(A), and 78m(b)(2)(B)], and Rules 12b-20, 13a-1, 13a-11, and 13a-13 
+21  thereunder [17 C.F.R. §§ 240.12b-20, 240.13a-1, 240.13a-11, and 240.13a-13]; and  
+22               (d)      Liu is liable as a control person pursuant to Section 20(a) of the 
+23  Exchange Act [15 U.S.C. § 78t(a)] for CSKIs violations of Sections 10(b), 13(a), 
+24  13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act [15 U.S.C. §§ 78j(b), 78m(a), 
+25  78m(b)(2)(A), and 78m(b)(2)(B)], and Rules 10b-5(b), 12b-20, 13a-1, 13a-11, and 
+26  13a-13 thereunder [17 C.F.R. §§ 240.10b-5(b), 240.12b-20, 240.13a-1, 240.13a-11, 
+27  and 240.13a-13]. 
+28
+
+                                            -3- 
+---------------------Page 5---------------------
+
+     
+ 1         11.   Based on these violations, the Commission seeks a final judgment: (1) 
+ 2  permanently enjoining CSKI and Liu from future violations of the relevant provisions 
+ 3  of the federal securities laws; (2) requiring Liu to disgorge certain shares of CSKI 
+ 4  stock; (3) imposing civil monetary penalties against CSKI and Liu pursuant to 
+ 5  Section 20(d) of the Securities Act [15 U.S.C. § 77t(d)] and Section 21(d)(3) of the 
+ 6  Exchange Act [15 U.S.C. § 78u(d)(3)]; (4) prohibiting Liu from acting as an officer 
+ 7  or director of a public company pursuant to Section 20(e) of the Securities Act [15 
+ 8  U.S.C. § 77t(e)] and Section 21(d)(2) of the Exchange Act [15 U.S.C. § 78u(d)(2)]; 
+ 9  and (5) requiring Liu to reimburse CSKI his stock compensation pursuant to Section 
+10  304 of the Sarbanes-Oxley Act [15 U.S.C. § 7243]. 
+11                               THE DEFENDANTS 
+12         12.   China Sky One Medical, Inc. was a Nevada corporation headquartered 
+13  in Harbin, Heilongjiang Province, China.  It manufactures and sells medicinal and 
+14  diagnostic products, and all of its operations are carried out in China.  CSKIs 
+15  common stock was registered with the Commission pursuant to Section 12(b) of the 
+16  Exchange Act [15 U.S.C. § 78l(b)] until June 12, 2012, and continues to be registered 
+17  with the Commission pursuant to Section 12(g) of the Exchange Act  
+18  [15 U.S.C. § 78l(g)].  CSKIs stock was traded on the NASDAQ Global Market from 
+19  September 14, 2008 through February 15, 2012, and currently trades on the over-the-
+20  counter market under the ticker symbol CSKI.    
+21         13.   Yan-qing Liu, age 49, is a Chinese national residing in Harbin, 
+22  Heilongjiang Province, China.  He has been CSKIs chairman, CEO and president 
+23  since September 2006.  He has been on sick leave since December 19, 2011.  As of 
+24  September 2011, Liu beneficially owned or controlled 4,734,327 shares of CSKI 
+25  common stock, or 27.9% of the companys total outstanding shares.   
+26                               RELATED ENTITIES 
+27         14.   Takasima Industries (M) Sdn. Bhd is a fitness equipment 
+28  manufacturer and retailer headquartered in Penang, Malaysia. 
+
+                                           -4- 
+---------------------Page 6---------------------
+
+     
+ 1         15.   Ningbo Yuehua International Trading Company purports to be a 
+ 2  trading company and CSKIs top customer in 2007.  Its place of incorporation and 
+ 3  location are unknown.   
+ 4         16.   Guangzhou Xinghe International Trading Company purports to be a 
+ 5  trading company and one of CSKIs top two customers for 2007.  It purports to be 
+ 6  located in Guangzhou, China.   
+ 7                                      FACTS 
+ 8  A. Background    
+ 9         17.   CSKI is a holding company that engages in business through several 
+10  indirect subsidiaries in China.  It became an OTC Bulletin Board issuer through a 
+11  reverse merger in May 2006.  Its stock traded on the American Stock Exchange under 
+12  the trading symbol CSY from May to September 2008, and on the NASDAQ 
+13  Global Market under the trading symbol CSKI from September 2008 to February 
+14  15, 2012.  NASDAQ halted the trading following CSKIs announcement of 
+15  resignation of 26 mid-level managers, including nine from the accounting department 
+16  and two from internal controls function.  CSKIs external audit firm resigned on 
+17  March 12, 2012, and NASDAQ filed a Form 25 to delist CSKIs stock on March 14, 
+18  2012.   The stock currently trades on the over-the-counter market.  
+19         18.   CSKI makes and sells Chinese traditional medicinal, health and beauty 
+20  products, including pain relief and weight loss patches, sprays and ointments.   
+21         19.   As a public company that trades on the U.S. markets, CSKI is required 
+22  to timely file accurate annual, quarterly and current reports on Forms 10-K, 10-Q and 
+23  8-K. 
+24         20.   CSKI has failed to file its annual report on Form 10-K for the year 
+25  ended December 31, 2011, and Forms 10-Q for the quarters ended March 31, 2012 
+26  and June 30, 2012.   
+27
+28
+
+                                           -5- 
+---------------------Page 7---------------------
+
+     
+ 1         21.   Liu has been on sick leave since December 2011.  However, he has not 
+ 2  relinquished his CEO or chairman position and continues to sign CSKIs public 
+ 3  filings.  CSKIs Chief Financial Officer resigned effective December 22, 2011.   
+ 4  B.        CSKI and Liu Made Materially False Statements in its Public Filings and 
+ 5        Private Placement Documents  
+ 6        (a)      CSKI Made Minimal Sales to Takasima and Never Entered Into a 
+ 7               Distribution Agreement With Takasima 
+ 8         22.   Takasima is a Malaysian fitness equipment manufacturer and retailer.  It 
+ 9  purchased a total of $167,542 in slim patches from CSKI in 2007 and stopped its 
+10  purchases after March 2007.  It never entered into any distribution agreement with 
+11  CSKI and never undertook (much less satisfied) any minimal purchase commitment.  
+12  In addition, it never used Yuehua or Xinghe as its agent.  In fact, it never had any 
+13  relationship with, or purchased any goods through, Yuehua and Xinghe. 
+14        (b)      The Defendants Made Materially False Statements in CSKIs Public 
+15               Filings 
+16         23.   In its Form 10-K for 2007 and Forms 10-Q for the first three quarters of 
+17  2007, CSKI falsely stated that that it had entered into a strategic distribution 
+18  agreement with Takasima, pursuant to which Takasima was appointed as CSKIs 
+19  exclusive sales agent of its slim patches in Malaysia, that Takasima would 
+20  repackage and sell the patches under its Takasima brand name, that Takasima 
+21  would generate sales revenue of approximately USD$1.0 million per month, and   
+22  that [s]ince the signing of the agreement early this year, Takasima has fulfilled its 
+23  monthly obligation.  Management anticipates that this strategic agreement could 
+24  result in up to USD$12 million in additional annual sales revenue in 2007, with a net 
+25  profit margin of approximately 20%.   
+26         24.   CSKIs Form 10-K for 2007 identified its two alleged top customers, 
+27  Yuehua and Xinghe, which CSKI claimed collectively accounted for 25% of its total 
+28  revenues for 2007.   CSKI also claimed that Yuehua and Xinghe were sales agents for 
+
+                                            -6- 
+---------------------Page 8---------------------
+
+      
+ 1   Takasima, all of its sales to Yuehua and Xinghe were export sales to Malaysia via 
+ 2   Takasima, and all such sales were for one product, CSKIs slim patch. 
+ 3           25.    CSKI booked sales to Yuehua and Xinghe commencing in April 2007.  
+ 4   These sales were not real.  The chart below shows the impact of those fake sales on 
+ 5   CSKIs reported financial performance for 2007 and 2008:  
+ 6            
+                           Fictitious Sales to                   Percentage by 
+ 7                                                                                Percentage by 
+                              Yuehua and             Total           which 
+                                                                                    which Net 
+ 8          Period              Xinghe/            Reported        Revenues 
+                                                                                   Income Was 
+                               Malaysian          Revenues           Were 
+                                                                                  Overstated*** 
+ 9                               Exports                           Overstated 
+            Q2 2007                        $4,194,680       $ 14,645,247             40.1%                     44.6% 
+10          Q3 2007                        $4,486,907        $16,770,570             36.5%                     34.4% 
+11          Q4 2007                        $3,561,861        $12,723,375             38.9%                     36.9% 
+            2007 Total           $12,251,740(*)        $49,318,308             33.1%                     33.1% 
+12          Q1 2008                        $1,670,676        $12,413,430             15.6%                     15.7% 
+            Q2 2008                        $3,583,013        $23,748,592             17.8%                     16.1% 
+13          Q3 2008                        $1,961,429        $29,699,282              7.1%                        6.6% 
+14          Q4 2008                            $369,281        $25,954,879              1.4%                        1.7% 
+            2008 Total        $7,537,407(*,**)        $91,816,183              8.9%                        8.9% 
+15          *Based on CSKIs general ledger (converted from Chinese Yuan).  Total for the 
+            year does not equal the sum of the quarterly amounts due to different exchange 
+16          rates applied.   
+            ** Consistent with the total number as revised in CSKIs 2009 Form 10-K. 
+17          *** Calculated based on estimated net profit margin. 
+18            
+19   In addition, the fake sales had a corresponding impact on CSKIs earnings per share 
+20   and retained earnings.    
+21           26.    As a result, CSKI materially overstated its financial results for 2007 and 
+22   2008.  The overstated financial results continued to appear in CSKIs financial 
+23   statements through 2010, and continue to impact the companys retained earnings on 
+24   its balance sheet up to the present. 
+25           27.    CSKIs 2007 annual report on Form 10-K falsely reported export sales 
+26   to Malaysia of over $12.2 million, constituting 25% of total revenues for 2007.  In its 
+27   Form 10-K for 2008, CSKI falsely reported export sales to Malaysia of about $8.8 
+28
+
+                                                     -7- 
+---------------------Page 9---------------------
+
+     
+ 1  million, which number was subsequently changed to $7.5 million in its annual report 
+ 2  on Form 10-K for 2009, constituting 8.2% of total revenues for 2008.   
+ 3         28.   CSKIs Forms 10-Q for the quarters ended June 30 and September 30, 
+ 4  2007 and all Forms 10-Q for 2008 reflected the fake sales to Yuehua and Xinghe.  As 
+ 5  a result, these Forms 10-Q materially overstated CSKIs financial performance for 
+ 6  the relevant quarters.  
+ 7         29.   In a Form 8-K filed with the Commission on May 19, 2008, announcing 
+ 8  its financial results for the quarter ended March 31, 2008, CSKI included the fake 
+ 9  sales to Yuehua and Xinghe, and as a result materially overstated its financial 
+10  performance for the quarter. 
+11         30.   CSKIs Forms 10-Q and Form 10-K for 2009, as amended, included the 
+12  materially overstated financial results for 2007 and the relevant quarters of 2008. 
+13         31.   CSKIs Form 10-K for 2010 included the materially overstated financial 
+14  results for 2008. 
+15         32.   Liu participated in the preparation of and had ultimate authority over 
+16  CSKIs SEC filings.  He reviewed CSKIs financial statements and was familiar with 
+17  U.S. Generally Accepted Accounting Principles (GAAP).  He signed all of CSKIs 
+18  annual, quarterly and current reports, and signed the Sarbanes-Oxley certifications for 
+19  the Forms 10-K and 10-Q.  He knew, or was at least reckless in not knowing, that 
+20  CSKIs public filings contained materially overstated financial results for 2007 and 
+21  2008 and false and misleading statements regarding the distribution agreement with 
+22  Takasima. 
+23        (c)       The Defendants Made Materially False Statements in CSKIs 
+24               Private Placement Documents 
+25         33.   In January 2008, CSKI raised $23.5 million from U.S. investors through 
+26  a private placement.  In connection with the private placement, CSKI used selling 
+27  documents that included its 2007s materially overstated financial results or the 
+28  Commission filings containing such materially overstated financial results.  One of 
+
+                                            -8- 
+---------------------Page 10---------------------
+
+      
+ 1  these documents was a confidential investment presentation (the investors 
+ 2  presentation).  This presentation contained the materially overstated financial 
+ 3  performance numbers for the first three quarters of 2007 and projected numbers for 
+ 4  the entire year, including revenue, gross profit and net income.  In the Securities 
+ 5  Purchase Agreement by and among CSKI and the investors, CSKI represented that it 
+ 6  had made available to the investors its SEC filings and that such filings contained a 
+ 7  complete and accurate description in all material respects of its business and did not 
+ 8  include any materially false or misleading statements.  The SEC filings included the 
+ 9  Form 10-Q for the quarter ended September 30, 2007, which contains the materially 
+10  overstated financial results for the first three quarters of 2007.   
+11         34.   Liu was actively involved in the private placement process, and directly 
+12  interacted with the U.S. investors.  He came to the U.S. for a road show, met 
+13  investors and used the investors presentation in his meetings, and signed the 
+14  Securities Purchase Agreement as CSKIs CEO, while he knew or was reckless in not 
+15  knowing that they contained or incorporated CSKIs public filings that contained 
+16  materially overstated financial results for 2007. 
+17        (d)      Liu Made Misrepresentations to CSKIs Auditors 
+18         35.   In his capacity as CSKIs CEO, Liu signed management representation 
+19  letters to CSKIs auditors in connection with their audits of CSKIs periodic reports 
+20  and other filings.  CSKIs representation letters to its auditors dated March 25, 2008 
+21  and March 25, 2009 falsely represented that (1) the financial statements were fairly 
+22  presented in conformity with U.S. GAAP; and (2) Liu had no knowledge of any fraud 
+23  or suspected fraud affecting CSKI involving management or employees with a 
+24  significant role in internal controls, or others where the fraud could result in a 
+25  material misstatement to the financial statements.   
+26         36.   Liu made misrepresentations to CSKIs auditors by signing the 
+27  management representation letters that he knew, or was reckless in not knowing, 
+28
+
+                                             -9- 
+---------------------Page 11---------------------
+
+     
+ 1  contained material misrepresentations about sales to Takasima through Yuehua and 
+ 2  Xinghe. 
+ 3        (e)       Liu Personally Benefited from the Overstated Financial Statements 
+ 4         37.   In connection with the private placement, Liu entered into a Make 
+ 5  Good Agreement with the lead investor (acting as the Investor Agent), pursuant 
+ 6  to which Liu placed 3 million of his CSKI shares into escrow for the benefit of the 
+ 7  investors.  Under the agreement, up to the entire 3 million escrowed shares would 
+ 8  be distributed to the investors based on a formula if CSKIs adjusted earnings per 
+ 9  share (Adjusted EPS) were less than $1.05 for 2007 and $1.75 (later reduced to 
+10  $1.63) for 2008.  CSKI purportedly attained the threshold Adjusted EPS for 
+11  purposes of the Make Good Agreement, and the escrowed shares were returned to 
+12  Liu.   
+13         38.   As described above, the fabricated sales to Malaysia constituted 25% 
+14  and 8.2% of total revenues for 2007 and 2008, respectively.  If the fictitious sales 
+15  were excluded from the above calculation (and based on the estimated impact on 
+16  net income), the Adjusted EPS would have been approximately $0.83 for 2007 and 
+17  $1.57 for 2008, in each instance below the threshold amount.  As a result, and 
+18  calculated based on the formula provided in the Make Good Agreement, nearly 1.4 
+19  million of Lius escrowed shares would have been forfeited for the benefit of the 
+20  investors.  Therefore, the overstated financial results significantly contributed to 
+21  CSKIs attaining the threshold earnings numbers and Lius retention of his 
+22  escrowed shares.   
+23         39.   CSKIs overstated financial results also helped improve the liquidity 
+24  of Lius shares.  In 2008, CSKI successfully obtained a listing on the American 
+25  Stock Exchange and later on NASDAQ.    
+26  C.       CSKI and Liu Falsified Books and Records 
+27         40.   CSKI created and maintained books and records that falsely and 
+28  inaccurately reflected the fabricated sales to Yuehua and Xinghe, including a 
+
+                                            -10- 
+---------------------Page 12---------------------
+
+      
+ 1  distribution agreement with Takasima, inventory records, bank statements and 
+ 2  general ledgers that purported to document sales to Yuehua and Xinghe.   
+ 3         41.   CSKI created and maintains in its records two versions of distribution 
+ 4  agreement with Takasima, both of which were signed by Liu but not by anyone 
+ 5  from Takasima, although in fact Takasima never entered into such agreement with 
+ 6  CSKI.     
+ 7         42.   CSKI substantiated the purported sales to Yuehua and Xinghe with 
+ 8  Stock Release Notes, general ledgers, and bank statements from one Chinese 
+ 9  bank.  The Stock Release Notes purport to document sales and the release of goods 
+10  from inventory.  They were fabricated because the sales never occurred.  The 
+11  transactions reflected in the Stock Release Notes match CSKIs general ledgers, 
+12  which categorized all transactions with Yuehua and Xinghe as revenue generating 
+13  sales transactions.  Hence, the general ledgers were false at least with respect to 
+14  these entries.  The bank statements were tied to the Stock Release Notes and the 
+15  general ledgers with respect to the purported sales to Yuehua and Xinghe and thus 
+16  were false as to these entries.  
+17         43.   In connection with the audit of CSKIs financial statements, CSKI 
+18  provided its outside auditors the false Stock Release Notes, and the general ledgers 
+19  and bank statements reflecting the fabricated sales to Yuehua and Xinghe.   
+20         44.   CSKI also maintains in its records a set of documents purporting to 
+21  evidence five direct sales to Takasima in the total amount of $567,688.  The sales 
+22  documentation cover one small order dated December 19, 2006, and four orders 
+23  from January to April 2007, including detailed packing lists (for shipping), 
+24  commercial invoices setting forth payment terms, and sales confirmations.  Some 
+25  of the packaging lists and invoices bear Lius signature.  But these purported sales 
+26  do not match any of Takasimas orders, the total amount is over three times more 
+27  than the total amount that Takasima acknowledged as purchased from CSKI, and 
+28
+
+                                            -11- 
+---------------------Page 13---------------------
+
+     
+ 1  the sales were not reflected in CSKIs general ledgers.  Ultimately CSKI admitted 
+ 2  that the sales represented in these documents never occurred. 
+ 3         45.   In addition, CSKI failed to maintain a system of internal controls 
+ 4  sufficient to ensure that the company accurately record and report its business and 
+ 5  sales transactions necessary to permit preparation of financial statements in 
+ 6  conformity with GAAP and to maintain the accountability of assets.  Liu signed the 
+ 7  false distribution agreement with Takasima as well as documents purporting to reflect 
+ 8  direct sales to Takasima that never occurred.  He knew or was reckless in not 
+ 9  knowing that CSKI used and continues to use and rely on the falsified books and 
+10  records, and substantially assisted CSKI in documenting the fabricated sales to 
+11  Takasima.   
+12                           FIRST CLAIM FOR RELIEF 
+13              FRAUD IN THE OFFER OR SALE OF SECURITIES 
+14                In Violation of Section 17(a)(2) of the Securities Act 
+15                              (Against CSKI and Liu) 
+16         46.   The Commission realleges and incorporates by reference ¶¶ 1 through 
+17  45 above. 
+18         47.   CSKI and Liu, by engaging in the conduct described above, directly or 
+19  indirectly, in the offer or sale of securities by the use of means or instruments of 
+20  transportation or communication in interstate commerce or by the use of the mails, 
+21  obtained money or property by means of untrue statements of a material fact or by 
+22  omitting to state a material fact necessary in order to make the statements made, in 
+23  light of the circumstances under which they were made, not misleading. 
+24         48.   By reason of the foregoing, CSKI and Liu violated, and unless restrained 
+25  and enjoined will continue to violate, Section 17(a)(2) of the Securities Act [15 
+26  U.S.C. § 77q(a)(2)]. 
+27
+28
+
+                                           -12- 
+---------------------Page 14---------------------
+
+     
+ 1                         SECOND CLAIM FOR RELIEF 
+ 2                     FRAUD IN CONNECTION WITH THE  
+ 3                    PURCHASE OR SALE OF SECURITIES 
+ 4                 In Violation of Section 10(b) of the Exchange Act 
+ 5                          and Rule 10b-5(b) thereunder 
+ 6                             (Against CSKI and Liu) 
+ 7        49.   The Commission realleges and incorporates by reference ¶¶ 1 through 
+ 8  45 above. 
+ 9        50.   CSKI and Liu, and each of them, by engaging in the conduct described 
+10  above, directly or indirectly, by use of the means or instrumentalities of interstate 
+11  commerce or of the mails, or of the facilities of a national securities exchange, in 
+12  connection with the purchase or sale of securities, knowingly or recklessly, have 
+13  made untrue statements of material fact, or omitted to state material facts necessary in 
+14  order to make statements made, in the light of the circumstances under which they 
+15  were made, not misleading. 
+16        51.   By engaging in the conduct described above, CSKI and Liu violated, and 
+17  unless enjoined will continue to violate, Section 10(b) of the Exchange Act [15 
+18  U.S.C. § 78j(b)] and Rule 10b-5(b) thereunder [17 C.F.R. § 240.10b-5(b)]. 
+19                          THIRD CLAIM FOR RELIEF 
+20                          REPORTING VIOLATIONS 
+21                 Violations of Section 13(a) of the Exchange Act, 
+22             and Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder 
+23                             (Against CSKI and Liu) 
+24        52.   The Commission realleges and incorporates by reference ¶¶ 1 through 
+25  45 above. 
+26        53.   By failing to file with the Commission a Form 10-K for the year 2011 
+27  and Forms 10-Q for the quarters ended March 31 and June 30, 2012, and by filing 
+28  materially false and misleading periodic reports, including annual, quarterly, and 
+
+                                          -13- 
+---------------------Page 15---------------------
+
+     
+ 1  current reports on Forms 10-K, 10-Q, and 8-K for 2007 through 2010, CSKI violated, 
+ 2  and unless restrained and enjoined will continue to violate, Section 13(a) of the 
+ 3  Exchange Act [15 U.S.C. § 78m(a)] and Rules 12b-20, 13a-1, 13a-11, and 13a-13 
+ 4  thereunder [17 C.F.R. §§ 240.12b-20, 240.13a-1, 240.13a-11, and 240.13a-13]. 
+ 5         54.   Liu knowingly or recklessly provided substantial assistance to CSKIs 
+ 6  reporting violations. 
+ 7         55.   By engaging in the conduct described above, Liu aided and abetted, and 
+ 8  unless enjoined will continue to aid and abet, CSKIs violations of Section 13(a) of 
+ 9  the Exchange Act [15 U.S.C. § 78m(a)] and Rules 12b-20, 13a-1, 13a-11, and 13a-13 
+10  thereunder [17 C.F.R. §§ 240.12b-20, 240.13a-1, 240.13a-11, and 240.13a-13]. 
+11                         FOURTH CLAIM FOR RELIEF 
+12                        RECORDKEEPING VIOLATIONS 
+13               Violations of Section 13(b)(2)(A) of the Exchange Act 
+14                              (Against CSKI and Liu)  
+15         56.   The Commission realleges and incorporates by reference ¶¶ 1 through 
+16  45 above. 
+17         57.   By failing to make or keep books, records and accounts that in 
+18  reasonable detail accurately and fairly reflected its transactions and disposition of its 
+19  assets, CSKI violated, and unless restrained and enjoined will continue to violate, 
+20  Section 13(b)(2)(A) of the Exchange Act [15 U.S.C. § 78m(b)(2)(A)]. 
+21         58.   Liu knowingly or recklessly provided substantial assistance to CSKIs 
+22  books and records violations. 
+23         59.   By engaging in the conduct described above, Liu aided and abetted, and 
+24  unless enjoined will continue to aid and abet, CSKIs violations of Section 
+25  13(b)(2)(A) of the Exchange Act [15 U.S.C § 78m(b)(2)(A)]. 
+26   
+27   
+28   
+
+                                           -14- 
+---------------------Page 16---------------------
+
+     
+ 1                          FIFTH CLAIM FOR RELIEF 
+ 2                     INTERNAL CONTROLS VIOLATIONS 
+ 3               Violations of Section 13(b)(2)(B) of the Exchange Act 
+ 4                             (Against CSKI and Liu)  
+ 5        60.   The Commission realleges and incorporates by reference ¶¶ 1 through 
+ 6  45 above. 
+ 7        61.   By failing to devise and maintain a system of internal accounting 
+ 8  controls sufficient to provide reasonable assurances that transactions were recorded 
+ 9  as necessary to permit preparation of financial statements in conformity with GAAP 
+10  and to maintain the accountability of assets, CSKI violated, and unless restrained and 
+11  enjoined will continue to violate, Section 13(b)(2)(B) of the Exchange Act [15 U.S.C. 
+12  § 78m(b)(2)(B)]. 
+13        62.   Liu knowingly or recklessly provided substantial assistance to CSKIs 
+14  internal controls violations. 
+15        63.   By engaging in the conduct described above, Liu aided and abetted, and 
+16  unless enjoined will continue to aid and abet, CSKIs violations of Section 
+17  13(b)(2)(B) of the Exchange Act [15 U.S.C § 78m(b)(2)(B)]. 
+18                          SIXTH CLAIM FOR RELIEF 
+19                        FALSIFICATION OF RECORDS 
+20              Violations of Section 13(b)(5) of the Exchange Act and  
+21                              Rule 13b2-1 thereunder 
+22                                   (Against Liu) 
+23        64.   The Commission realleges and incorporates by reference ¶¶ 1 through 
+24  45 above. 
+25        65.   Liu engaged in fraudulent practices in the course of which he, directly or 
+26  indirectly, falsified or caused to be falsified books, records and accounts of CSKI. 
+27
+28
+
+                                          -15- 
+---------------------Page 17---------------------
+
+     
+ 1        66.   By engaging in the conduct described above, Liu violated, and unless 
+ 2  enjoined will continue to violate, Section 13(b)(5) of the Exchange Act [15 U.S.C. § 
+ 3  78m(b)(5)] and Rule 13b2-1 thereunder [17 C.F.R. § 240.13b2-1]. 
+ 4                        SEVENTH CLAIM FOR RELIEF 
+ 5                  FALSE STATEMENTS TO ACCOUNTANTS 
+ 6                      Violations of Exchange Act Rule 13b2-2 
+ 7                                   (Against Liu) 
+ 8        67.   The Commission realleges and incorporates by reference ¶¶ 1 through 
+ 9  45 above. 
+10        68.   Liu made or caused to be made materially false or misleading 
+11  statements, or omitted to state or caused another person to omit to state, material facts 
+12  necessary in order to make statements made, in light of the circumstances under 
+13  which such statements were made, not misleading to an accountant, in connection 
+14  with:  (a) audits and examinations of the financial statements of CSKI; and (b) the 
+15  preparation and filing by CSKI of reports required to be filed with the Commission. 
+16        69.   By engaging in the conduct described above, Liu violated, and unless 
+17  enjoined will continue to violate, Exchange Act Rule 13b2-2 [17 C.F.R. § 240.13b2-
+18  2]. 
+19                         EIGHTH CLAIM FOR RELIEF 
+20                            FALSE CERTIFICATION 
+21                      Violations of Exchange Act Rule 13a-14 
+22                                   (Against Liu) 
+23        70.   The Commission realleges and incorporates by reference ¶¶ 1 through 
+24  45 above. 
+25        71.   In CSKIs annual and quarterly reports on Forms 10-K and 10-Q for 
+26  2007 through 2010, Liu certified that, among other things, he reviewed each of these 
+27  reports and that: (i) based on his knowledge, the report did not contain any untrue 
+28  statement of material fact or omit to state a material fact necessary to make the 
+
+                                          -16- 
+---------------------Page 18---------------------
+
+     
+ 1  statements made, in light of the circumstances under which such statements were 
+ 2  made, not misleading;  (ii) based on his knowledge, the report included financial 
+ 3  statements and other financial information which fairly presented, in all material 
+ 4  respects, CSKIs financial condition, results of operations and cash flows; and (iii) he 
+ 5  was responsible for establishing and maintaining adequate internal controls over 
+ 6  financial reporting, had designed and evaluated such controls, and had disclosed any 
+ 7  changes or weaknesses to CSKIs auditor and audit committee.   
+ 8         72.   By engaging in the conduct described above, Liu violated, and unless 
+ 9  enjoined will continue to violate, Exchange Act Rule 13a-14 [17 C.F.R. § 240.13a-
+10  14]. 
+11                          NINTH CLAIM FOR RELIEF 
+12          FAILURE TO REIMBURSE INCENTIVE COMPENSATION 
+13                Violations of Section 304 of the Sarbanes-Oxley Act  
+14                                   (Against Liu) 
+15         73.   The Commission realleges and incorporates by reference ¶¶ 1 through 
+16  45 above. 
+17         74.   CSKI, by engaging in the conduct described above, filed Forms 10-K for 
+18  years 2007 through 2010, and Forms 10-Q for the period from the quarter ended June 
+19  30, 2007 through 2009 that were in material noncompliance with financial reporting 
+20  requirements under the securities laws and U.S. GAAP. 
+21         75.   Due to CSKIs material non-compliance with its financial reporting 
+22  requirements under the securities laws and GAAP, and as a result of its misconduct, 
+23  CSKI was required to prepare an accounting restatement for the period from the 
+24  quarter ended June 30, 2007 through 2010. 
+25         76.   The Commission has not exempted Liu, pursuant to Section 304(b) of 
+26  the Sarbanes-Oxley Act [15 U.S.C. § 7243(b)], from the application of Section 304(a) 
+27  of the Sarbanes-Oxley Act [15 U.S.C. § 7243(a)]. 
+28
+
+                                           -17- 
+---------------------Page 19---------------------
+
+     
+ 1         77.   By engaging in the conduct described above, Liu violated, and unless 
+ 2  ordered to comply will continue to violate, Section 304 of the Sarbanes-Oxley Act 
+ 3  [15 U.S.C. § 7243]. 
+ 4                          TENTH CLAIM FOR RELIEF  
+ 5                        CONRTOL PERSON LIABILITY 
+ 6                       Violations as CSKIs Control Person  
+ 7                                    (Against Liu) 
+ 8         78.   The Commission realleges and incorporates by reference ¶¶ 1 through 
+ 9  45 above. 
+10         79.   As alleged above, CSKI violated Sections 10(b), 13(a), 13(b)(2)(A), and 
+11  13(b)(2)(B) of the Exchange Act [15 U.S.C. §§ 78j(b), 78m(a), 78m(b)(2)(A), and 
+12  78m(b)(2)(B], and Rules 10b-5(b), 12b-20, 13a-1, 13a-11, and 13a-13 thereunder [17 
+13  C.F.R. §§ 240.10b-5(b), 240.12b-20, 240.13a-1, 240.13a-11, and 240.13a-13].  
+14         80.   During all relevant times in which CSKI undertook these violations, Liu 
+15  was CSKIs most senior officer and chairman of the board of directors and had 
+16  ultimate authority and control over CSKI.  He was also the largest shareholder, 
+17  owning more than 27.9% of CSKIs outstanding shares.  Liu was involved in the day-
+18  to-day operation of the company, actively participated in the preparation of and 
+19  signed all of CSKIs Commission filings, and certified the quarterly and annual 
+20  reports on Forms 10-Q and 10-K.  Hence, Liu was a control person of CSKI within 
+21  the meaning of Section 20(a) of the Exchange Act [15 U.S.C. § 78t(a)]. 
+22         81.   By reason of the foregoing, Liu is liable as a control person pursuant to 
+23  Section 20(a) of the Exchange Act [15 U.S.C. § 78t(a)] for CSKIs violations of, and 
+24  unless enjoined, will continue to engage, as a control person, in conduct that would 
+25  render him liable, pursuant to Section 20(a) of the Exchange Act [15 U.S.C. § 78t(a)], 
+26  for CSKIs violations of Sections 10(b), 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the 
+27  Exchange Act [15 U.S.C. §§ 78j(b), 78m(a), 78m(b)(2)(A), and 78m(b)(2)(B)], and 
+28
+
+                                           -18- 
+---------------------Page 20---------------------
+
+      
+ 1  Rules 10b-5(b), 12b-20, 13a-1, 13a-11, and 13a-13 thereunder [17 C.F.R. §§ 
+ 2  240.10b-5(b), 240.12b-20, 240.13a-1, 240.13a-11, and 240.13a-13].  
+ 3                              PRAYER FOR RELIEF 
+ 4          WHEREFORE, the Commission respectfully requests that the Court: 
+ 5                                           I. 
+ 6              Issue findings of fact and conclusions of law that the Defendants committed 
+ 7  the alleged violations. 
+ 8                                          II. 
+ 9              Issue judgments, in a form consistent with Rule 65(d) of the Federal Rules 
+10  of Civil Procedure, permanently enjoining CSKI, its agents, servants, employees 
+11  and attorneys and all persons in active concert or participation with them who 
+12  receive actual notice of the injunction by personal service or otherwise, and each of 
+13  them, from violating, directly or indirectly, Section 17(a) of the Securities Act [15 
+14  U.S.C. § 77q(a)], Sections 10(b), 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the 
+15  Exchange Act [15 U.S.C. §§ 78j(b), 78m(a), 78m(b)(2)(A), and 78m(b)(2)(B)], and 
+16  Rules 10b-5, 12b-20, 13a-1, 13a-11, and 13a-13 thereunder [17 C.F.R. §§  
+17  240.10b-5, 240.12b-20, 240.13a-1, 240.13a-11, and 240.13a-13]. 
+18                                          III. 
+19              Issue judgments, in a form consistent with Rule 65(d) of the Federal Rules 
+20  of Civil Procedure, permanently enjoining Liu, his agents, servants, employees and 
+21  attorneys and all persons in active concert or participation with them who receive 
+22  actual notice of the injunction by personal service or otherwise, and each of them, 
+23  from: 
+24         (a)   violating, directly or indirectly, Section 17(a) of the Securities Act [15 
+25               U.S.C. § 77q(a)], Sections 10(b) and 13(b)(5) of the Exchange Act [15 
+26               U.S.C. §§ 78j(b) and 78m(b)(5)] and Rules 10b-5, 13a-14, 13b2-1, 
+27               and 13b2-2 thereunder [17 C.F.R. §§ 240.10b-5, 240.13a-14, 
+28               240.13b2-1, and 240.13b2-2], and Section 304 of the Sarbanes-Oxley 
+
+                                            -19- 
+---------------------Page 21---------------------
+
+      
+ 1               Act of 2002 [15 U.S.C. § 7243];  
+ 2         (b)   aiding and abetting violations of Sections 13(a), 13(b)(2)(A), and 
+ 3               13(b)(2)(B) of the Exchange Act [15 U.S.C. §§ 78m(a), 78m(b)(2)(A), 
+ 4               and 78m(b)(2)(B)], and Rules 12b-20, 13a-1, 13a-11, and 13a-13 
+ 5               thereunder [17 C.F.R. §§ 240.12b-20, 240.13a-1, 240.13a-11, and 
+ 6               240.13a-13]; and  
+ 7         (c)   from controlling, directly or indirectly, any person who violates 
+ 8               Sections 10(b), 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange 
+ 9               Act [15 U.S.C. §§ 78j(b), 78m(a), 78m(b)(2)(A), and 78m(b)(2)(B)], 
+10               and Rules 10b-5, 12b-20, 13a-1, 13a-11, and 13a-13 thereunder [17 
+11               C.F.R. §§ 240.10b-5, 240.12b-20, 240.13a-1, 240.13a-11, and 
+12               240.13a-13];  
+13                                          IV. 
+14              Order CSKI and Liu to pay civil monetary penalties pursuant to Section 
+15  20(d) of the Securities Act [15 U.S.C. § 77t(d)] and Section 21(d)(3) of the 
+16  Exchange Act [15 U.S.C.§ 78u(d)(3)]. 
+17                                           V. 
+18              Enter an order, pursuant to Section 20(e) of the Securities Act [15 U.S.C. § 
+19  77t(e)], and/or Section 21(d)(2) of the Exchange Act [15 U.S.C. § 78u(d)(2)], 
+20  prohibiting Liu from acting as an officer or director of any issuer that has a class of 
+21  securities registered pursuant to Section 12 of the Exchange Act [15 U.S.C. § 781], 
+22  or that is required to file reports pursuant to Section 15(d) of the Exchange Act [15 
+23  U.S.C. § 78o(d)]. 
+24                                          VI. 
+25              Order Liu to reimburse CSKI for his incentive-based and equity-based 
+26  compensation, pursuant to Section 304 of the Sarbanes-Oxley Act of 2002 [15 
+27  U.S.C. § 7243]. 
+28
+
+                                            -20- 
+---------------------Page 22---------------------
+
+       
+ 1                                                     VII.  
+ 2                Retain jurisdiction of this action in accordance with the principles of equity 
+ 3    and the Federal Rules of Civil Procedure in order to implement and carry out the 
+ 4    terms of all orders and decrees that may be entered, or to entertain any suitable 
+ 5    application or motion for additional relief within the jurisdiction of this Court. 
+ 6                                                      VIII. 
+ 7                Granting such other and further relief as this Court may deem just and 
+ 8    proper. 
+ 9     
+10    DATED:  September 4, 2012                             Respectfully submitted, 
+11     
+       
+12           ____________________________ 
+13       JUNLING MA 
+                                                                                              Attorney for Plaintiff 
+14                                                                                            Securities and Exchange Commission 
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+                                                          -21- 

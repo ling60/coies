@@ -1,0 +1,467 @@
+Release No.
+33-7788 / January 11, 2000
+Home | Previous Page
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No.
+7788 / January 11, 2000
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 42326 / January 11, 2000
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No.
+1215 / January 11, 2000
+ADMINISTRATIVE PROCEEDING
+File No. 3-10130
+________________________
+: Order Instituting Public
+In the Matter of
+: Administrative Proceedings
+: Pursuant to Section 8A of the
+Informix Corporation,
+: Securities Act of 1933 and Section 21C
+: of the Securities Exchange
+Respondent.
+: Act of 1934, Making Findings, and
+________________________ : Imposing a Cease-and-Desist Order
+I.
+The Securities and Exchange Commission ("Commission") deems it appropriate to institute public administrative proceedings pursuant to section 8A of the Securities Act of 1933 ("Securities Act") and section 21C of the Securities Exchange Act of 1934 ("Exchange Act") against Informix Corporation ("Respondent" or "Company").
+II.
+In anticipation of the institution of these administrative proceedings, Respondent has submitted an Offer of Settlement ("Offer"), which the Commission has determined to accept.
+Solely for the purpose of these proceedings and any other proceedings brought by or on behalf of the Commission, or in which the Commission is a party, and without admitting or denying the findings, except as to the Commission's jurisdiction over it and over the subject matter of the proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Public Administrative Proceedings Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order ("Order").
+Accordingly, it is ordered that the proceedings pursuant to section 8A of the Securities Act and section 21C of the Exchange Act be, and hereby are, instituted.
+III. Findings
+On the basis of this Order and Respondent's Offer, the Commission makes the findings set forth below. 1
+A. Respondent
+Informix Corporation is a multinational database software company with its principal executive offices located in Menlo Park, California.
+Its common stock is registered pursuant to section 12(g) of the Exchange Act and is traded on NASDAQ.
+The Company's fiscal year ends on December 31.
+B.
+Introduction
+In November 1997, the Company restated its financial statements for fiscal years 1994 through 1996 and the fiscal quarter ended March 30, 1997.
+During the period covered by the restatements, former employees of the Company, including salespersons, members of management and others engaged in a variety of fraudulent and other practices that inflated annual and quarterly revenues and earnings in violation of generally accepted accounting principles ("GAAP").
+These practices included the following:
+(1)
+backdating license sale agreements;
+(2)
+entering into side agreements granting rights to refunds and other concessions to customers;
+(3)
+recognizing revenue on transactions with reseller customers 2 that were not
+creditworthy;
+(4)
+recognizing amounts due under software maintenance agreements as software license revenues; and
+(5)
+recognizing revenue on disputed claims against customers.
+In numerous instances, revenue from software license purchase commitments by resellers was recognized improperly because the earnings process had not been completed due to the Company's obligations under side agreements to perform all, or substantially all, of the reselling effort.
+No disclosure of the fraudulent or other improper practices appeared in the Company's filings with the Commission.
+The filings also omitted or misrepresented information concerning the extent to which revenues were derived from nonmonetary exchanges and the extent to which revenues were derived from transactions with resellers that had not yet resold software licenses to end-users.
+During 1997, after the Company filed its 1996 Form 10-K, former members of management, aware of evidence of material accounting irregularities, took actions to prevent the Company from restating its previously issued financial statements.
+They limited the scope of an internal investigation of 1995 and 1996 transactions with European resellers, concealed a side agreement with an Asian reseller given to obtain rescission of an earlier side agreement, and concealed other side agreements with a European reseller.
+In late July 1997, a former member of the Company's corporate finance staff learned of certain side agreements and informed the Company's auditors. 3
+The Company's new management then determined that its 1996 financial statements would need to be restated.
+On August 7, 1997, the Company publicly announced the need to restate those financial statements.
+In the restatement process, the Company and its auditors identified $114 million of accounting irregularities in 1995 and 1996 involving more than a hundred transactions, mostly with resellers.
+Because the irregularities relating to reseller purchase commitments were so pervasive, the Company and its auditors determined that all such transactions for the three-year period ended in 1996 should be restated to defer revenue recognition until the resellers resold the licenses to end-users.
+After making this determination, the Company no longer attempted specifically to identify irregularities involving resellers, although additional irregularities subsequently were discovered.
+In November 1997, the Company filed restated annual financial statements for fiscal years 1994, 1995, and 1996 and restated quarterly financial statements for each interim quarter of
+1996 and the first quarter of 1997.
+The restatements had a material effect on previously reported annual operating results:
+Net Revenues(millions)
+Net Income(millions)
+OriginallyReported
+AsRestated
+%Overstated
+OriginallyReported
+AsRestated
+%Overstated
+1996
+$939.3
+$727.8
++29%
+$97.8
+$(73.6)
++233%
+1995 4
+$714.2
+$632.8
++13%
+$97.6
+$38.6
++153%
+1994
+$470.1
+$452.0
++4%
+$61.9
+$48.3
++28%
+The restatements also significantly affected the Company's previously reported quarterly revenues and earnings for 1996 and the first quarter of 1997:
+Net Revenues(millions)
+Net Income(millions)
+OriginallyReported
+AsRestated
+%Misstated
+OriginallyReported
+AsRestated
+%Misstated
+Q1'96
+$204.0
+$164.6
++24%
+$15.9
+$(15.4)
++203%
+Q2'96
+$226.3
+$159.3
++42%
+$21.6
+$(34.1)
++163%
+Q3'96
+$238.2
+$187.1
++27%
+$26.2
+$(17.1)
++253%
+Q4'96
+$270.8
+$216.8
++25%
+$34.1
+$(7.0)
++587%
+Q1'97
+$133.7
+$149.2
+- 10%
+$(140.1)
+$(141.4)
+- 1%
+As a result of the conduct of former management and others, the Company filed annual and quarterly reports and other filings with the Commission that contained materially false and misleading financial statements and other information.
+Also as a result of the conduct, the Company's books, records, and accounts were falsified and thus did not accurately and fairly reflect the Company's transactions and dispositions of assets.
+Furthermore, the Company failed to devise and maintain a system of internal accounting controls sufficient to provide reasonable assurances that transactions were recorded as necessary to permit preparation of financial statements in conformity with GAAP.
+C.
+Facts
+Prior to the quarter ended March 30, 1997, the Company regularly characterized itself in press releases as the fastest growing company in the database software industry.
+In reality, its apparent growth in revenues and earnings largely was the result of the use of a multitude of fraudulent and other improper practices.
+As a result of these practices by former managers and employees, the Company's filings with the Commission were materially false and misleading.
+1. Use of Fraudulent Practices To Inflate Revenues and Earnings
+The fraudulent conduct described herein was driven by some former managers' perceived need to meet or exceed the Company's internal revenue and earnings goals, which were based, in part, on financial analysts' expectations.
+As it became increasingly difficult to achieve these goals, some former managers and other employees increased their reliance on fraudulent and other practices to inflate reported revenues and earnings.
+a. Backdating Agreements
+As the end of each quarter neared, Company sales personnel routinely rushed to conclude as many transactions as possible to meet revenue and earnings goals for that quarter.
+In numerous instances, however, they were unable to complete negotiations and obtain signed license agreements from customers prior to quarter-end, as required for revenue recognition under GAAP.5
+Notwithstanding the Company's written policy that revenue on license agreements should not be recognized unless the agreements were signed and dated before quarter-end, there was an accepted practice of signing license agreements after quarter-end and then backdating them to appear as if they had been executed prior to quarter-end.
+By engaging in this conduct, former management and others fraudulently inflated quarterly and annual revenues and earnings.
+The Company had inadequate controls for determining whether, or ensuring that, software license agreements had been negotiated and signed by both parties in the quarter in which revenue was recognized.
+The dating of signatures on agreements was essentially controlled by salespersons, who were under constant pressure to meet quarterly sales goals.
+The Company had no requirement for signed agreements to be submitted at or before quarter-end, and the Company regularly accepted agreements submitted several days thereafter for revenue recognition.
+In at least one instance, the Company recognized revenue on an agreement that was not signed until approximately one month after the end of the quarter.
+b. Use of Side Agreements
+Former sales personnel, managers, and others at the Company used a variety of written and oral side agreements with customers as a means to inflate revenues and earnings.
+The terms of the side agreements varied and included provisions
+(1) allowing resellers to return and to receive a refund or credit for unsold licenses;
+(2) committing the Company to use its own sales force to find customers for resellers;
+(3) offering to assign future end-user orders to resellers;
+(4) extending payment dates beyond twelve months; 6
+(5) committing the Company to purchase computer hardware or services from customers under terms that effectively refunded all, or a substantial portion, of the license fees paid by the customer;
+(6) diverting the Company's own future service revenues to customers as a means of refunding their license fees; and
+(7) paying fictitious consulting or other fees to customers to be repaid to the Company as license fees.
+The terms of these side agreements should have prevented the Company from recognizing revenue on the transactions under GAAP.7
+Former salespersons and managers often entered into side agreements in order to "park" software licenses with resellers and thereby accelerate revenue recognition.8
+These former salespersons and managers sometimes entered into such agreements because they were unable to complete transactions with identified end-users by the end of the period in which they wished to recognize revenue.
+On other occasions, they entered into such agreements because they needed additional revenue but had not yet found end-users prepared to purchase software licenses.
+One of the most notable examples of the use of side agreements occurred with a European reseller some Company employees referred to as a revenue "bank" and a "virtual warehouse".
+The reseller was ineffective at selling the Company's software.
+For 1995, the reseller entered into purchase commitments for $9.5 million of software licenses but resold only $2.8 million of those licenses in 1995.
+For the first half of 1996, the reseller entered into purchase commitments for $5.9 million of licenses but, during 1996, resold only $6.2 million of licenses purchased in 1995 and none of the licenses purchased in the first two quarters of 1996.
+Notwithstanding the reseller's inability to sell a substantial amount of the licenses it committed to purchase, to inflate the Company's 1995 and 1996 revenues and earnings, former Company employees repeatedly induced the reseller to agree to quarter-end purchase commitments by entering into a variety of side agreements with the reseller.
+In the third quarter of 1995, the Company recorded two purchase commitments from the "bank" reseller.
+To induce the reseller to enter into one of these commitments, former Company employees offered to assign the reseller a transaction that the Company's own sales force was negotiating with an end-user.
+Company employees also offered to assign the same end-user transaction to two other resellers to induce them to make purchase commitments.
+As a result, the Company recognized revenue three times from purchase commitments based on offers to assign this one end-user transaction.
+At the end of the fourth quarter of 1995, the "bank" reseller had $5 million of unsold licenses it had committed to purchase and was reluctant to enter into an additional commitment.
+The reseller, which was also a computer equipment distributor, agreed to an additional $2.5 million commitment only after Company employees agreed to a $2 million purchase of computer hardware, including obsolete equipment that Company employees understood the reseller otherwise would have to write-off.
+In the first half of 1996, former Company employees induced the "bank" reseller to purchase $5.9 million in additional software licenses by assigning several large transactions negotiated by the Company's own sales staff to reduce the reseller's outstanding purchase commitment by $929,000.
+To enable the reseller further to reduce the remaining balance of its purchase commitment, these former employees also agreed to find customers whose license purchases would be applied against the reseller's commitment.
+By the end of the third quarter of 1996, certain former employees believed that the reseller's outstanding, unsold commitment would cause the Company's auditors to object to recognizing revenue from additional commitments to purchase software licenses for resale.
+Under pressure to find additional revenue to meet third quarter sales goals, former Company employees asked the reseller to purchase $3.9 million of software licenses for its internal use.
+The reseller agreed to this proposal only on the condition that the Company pay back the license fees through a software maintenance outsourcing agreement.
+A former Company employee entered into a side agreement providing for the reseller to receive $3.9 million of profits from such maintenance services.
+In addition, the side agreement provided for the Company to purchase up to $3.9 million of computer hardware from the reseller. 9
+Side agreements with other resellers also permitted the Company improperly to inflate revenues and earnings.
+For example, in both the third and fourth quarters of 1996, sales personnel entered into side agreements that allowed resellers to cancel software license purchase commitments.
+One such side agreement allowed a reseller to cancel a third quarter commitment of $6 million, which represented more than 14% of the Company's pretax income for that quarter.
+Another side agreement allowed a different reseller to cancel a fourth quarter commitment of $6.4 million, which represented more than 11% of the Company's pretax income for that quarter.
+The terms of these and other side agreements made it improper for the Company to recognize revenue on the underlying software license purchase commitments.
+c. Revenue from Maintenance Contracts Recorded as License Revenue
+Under GAAP, revenue from a services agreement such as a software maintenance contract must be recognized ratably over the periods covered by the services agreement, whereas, if all other conditions for revenue recognition have been satisfied, revenue from a license sale agreement can be recognized upon delivery of the software. 10
+Company employees recorded service agreements as license sales, thereby improperly accelerating revenue recognition.
+For example, in the fourth quarter of 1996, former employees intentionally recorded the renewals of three software maintenance contracts totaling $11.2 million as license sales and thus inflated reported pretax income for the quarter by 25%.
+d. Revenue Recognized Without Persuasive Evidence of an Arrangement and Without Adequate Assessment of Creditworthiness
+Under GAAP, revenue cannot be recognized "until persuasive evidence of the agreement [with the customer] exists and an assessment of the customer's creditworthiness has been made". 11
+Former managers and others at the Company violated both of these requirements.
+For example, in the second and third quarters of 1996, a former sales manager pressured a member of the European finance staff to recognize revenue on transactions with purported end-user customers when no contracts had been signed with, and no formal acceptance had been received from, the end-users.
+In connection with transactions with newly established or undercapitalized resellers, former sales managers also pressured the European finance staff to disregard the Company's policy for assessing customer creditworthiness.
+As a result of these revenue recognition practices, the Company improperly recognized revenue in 1996 of at least $3.3 million in the first quarter, $9.1 million in the second quarter, and $8.2 million in the third quarter.12
+e. Recognition of Revenue on Disputed Claims Against
+Customers
+On two occasions, the Company recognized revenue based on its assertion that customers used more copies of software than allowed under their license agreements.
+If true, the customers would owe additional license fees to the Company.
+Under GAAP, such claims constitute gain contingencies that should not be recorded as income until realized. 13
+In the fourth quarter of 1995, the Company invoiced a customer for $5.4 million for excessive license use at full list price.
+At the time, former members of the Company's European finance staff believed the claim would be settled at a lesser amount reflecting a discount from list price.
+In addition, the customer was told that the amount due could be applied against a future software license purchase then under negotiation.
+The customer did not agree to settle the claim until the first quarter of 1996.
+The Company nevertheless improperly recognized the full amount of the claim as 1995 revenue, which increased fourth quarter 1995 pretax income by more than 13%.
+After the claim was settled in the first quarter of 1996 for $3.6 million, the $1.8 million excess amount should have been written off in that quarter.
+Former managers instead mischaracterized the excess amount as an unbilled maintenance fee receivable, which was written off over the last three quarters of 1996. 14
+In the second quarter of 1996, the Company asserted a claim against another customer based on alleged excessive license use.
+Although the customer disputed the claim, former managers caused the Company to record $2.2 million in revenue based on this disputed claim, which improperly increased quarterly pretax income by 6%.
+The Company settled the claim for $250,000 in the first quarter of 1997 and wrote off the excess amount against first quarter 1997 operating results.
+f.
+Failure To Deliver Usable Software
+Under GAAP, revenue from a software sale should not be recognized until a copy of the software has been delivered to the customer. 15
+At the end of the fourth quarter of 1996, the Company recorded a $9.2 million software sale to a computer hardware manufacturer ("OEM") that intended to resell the software pre-installed on computer hardware.
+The Company, however, had failed to deliver the required software code to the OEM prior to year-end.
+In January 1997, the Company delivered a "beta" version of the software code that did not function on the OEM's hardware. 16
+The Company did not complete delivery of usable software code to the OEM until more than six months after the end of 1996.
+The Company's improper revenue recognition from this transaction alone increased its fourth quarter 1996 pre-tax income by an approximately 13%.
+2. Other Improper Practices that Caused the Company's
+Revenues and Earnings To Be Inflated
+In addition to the fraudulent practices described above, former employees of the Company engaged in a variety of other improper practices to meet or exceed internal financial goals, resulting in the overstatement of revenues and earnings.
+a. Improper Revenue Recognition on Superstore
+Transactions
+In 1996, former management decided to open demonstration centers, known as Superstores, located at various sites worldwide.
+A Superstore would provide a location for the Company and an OEM to function as a team to sell a joint hardware-software solution to a potential customer.
+Equipping the Superstores required purchases of significant amounts of computer hardware.
+During 1996, the Company employed a sales strategy whereby various OEMs were approached with the concept of forming a "partnership" in which the Company would buy computer hardware from the OEMs to be placed in the Superstores and then used in joint sales efforts by the Company and the OEM "partner".
+In return for the Company's hardware purchase commitments, the OEMs were asked to enter into software license purchase commitments of similar or greater magnitude.
+To increase the Company's revenues and earnings further, the OEMs also were asked to commit to purchase licenses for the demonstration software installed on the Superstore computer hardware owned by the Company.17
+Internally, some Company personnel referred to the transactions with Superstore OEM partners, and similar transactions involving mutual purchases, as "swaps". 18
+As a policy, however, the Company always structured the software sales and hardware purchases as separate transactions with cash exchanged.
+The timing of payments often was structured so that the Company's payments could provide cash flow for the OEMs at about the same time their software license fee payments came due.
+The OEMs' software purchase commitments were based on the premise that the Company would incur the future costs of setting up and equipping the Superstores, which then would be used to sell the software that the OEM partners had committed to purchase.
+Many of the OEM partners lacked a sales force familiar with Company products and expected the Company's sales force to have a substantial involvement in the reselling effort.
+The expense of the Company's involvement in reselling the software for the OEM partners was indeterminable but substantial based on the Superstore program costs alone. To encourage its sales force to assist the OEMs, in late 1996, the Company began to offer higher commission rates if a sale was closed through an OEM partner rather than directly by the Company.
+In the first quarter of 1997, former management gave the sales force performance goals to obtain end-user orders to be applied against the OEM partners' outstanding commitments.
+Under GAAP, if "other vendor obligations remaining after delivery are significant, revenue should not be recognized, because the earnings process is not substantially completed." 19
+The Company, however, recognized revenue at the time the OEM partners agreed to the purchase commitments notwithstanding that the Company was obligated to pay the costs and expenses of establishing and operating the Superstores and that the Company's sales force was to perform all, or a significant portion of, the future reselling efforts.
+b. Revenue Recognized from Licenses Sold to Resellers
+Under Extended Payment Terms
+As previously described, the ability to recognize revenue for a software license sale under GAAP depends, in part, on whether the related fee is fixed, and a fee is presumed not to be fixed if it is due more than twelve months after delivery of the software. 20
+GAAP thus requires restricting the initial revenue recognition from a software license sale to only those payments due within twelve months, with deferral of revenue recognition for payments due beyond twelve months.
+The Company routinely recognized revenue on reseller software license purchase commitments that included payment terms that extended beyond twelve months.
+To do so, the Company used third-party financing to accelerate cash receipts to within twelve months of the sale. 21
+The issue underlying the twelve-month rule with respect to resellers is that, due to product obsolescence or lack of end-user demand, resellers might make payment of outstanding amounts conditional on receiving refunds or other concessions, such as rights to additional products, and, to preserve the business relationship with the customer, the vendor might grant such concessions. 22
+The use of third-party financing, although accelerating cash receipts, did not address the issue underlying the twelve-month rule.
+As a result, the Company's use of third-party financing arrangements as a basis to accelerate revenue recognition related to license payments not due within twelve months was improper.
+3. Misrepresentations and Omissions in the Company's Filings
+As a result of the foregoing fraudulent and other improper practices by former management and others, the Company's financial statements for 1995 and 1996 and the interim periods were misstated.
+In addition, former management caused Company filings to omit certain information, and to misrepresent other information, concerning nonmonetary exchanges and the significant amount of software sold to resellers but not yet resold to end-users. The Company's periodic reports and other Commission filings that included financial information for 1995 and 1996 consequently were materially false and misleading.
+During 1996, the Company engaged in numerous nonmonetary exchanges that included the Superstore transactions discussed above as well as other software-for-hardware exchanges and software-for-software exchanges. 23
+These transactions materially increased the Company's reported revenues and earnings.
+For the first quarter of 1996, nonmonetary exchanges represented approximately 9% of reported revenues and 66% of
+reported pretax income; for the second quarter of 1996, nonmonetary exchanges represented approximately 15% of reported revenues and 93% of reported pretax income; for the third quarter of 1996, nonmonetary exchanges represented approximately 26% of reported revenues and more than 100% of reported pretax income; and, for the fourth quarter of 1996, nonmonetary exchanges represented approximately 12% of reported revenues and 58% of reported pretax income.
+For the year, according to the Company's 1996 amended Form 10-K, the nonmonetary exchanges accounted for $170 million, or more than
+18%, of 1996 revenues.
+The net profit from these nonmonetary exchanges represented more than 100% of the originally reported 1996 pretax income.
+Despite the impact of the nonmonetary exchanges on operating results, prior to the March 1997 filing of the 1996 Form 10-K, former management decided that no disclosures concerning the nonmonetary exchanges would be included in the Company's filings with the Commission.
+In connection with the 1996 Form 10-K, management decided to make some disclosure of the nonmonetary exchanges.
+The resulting disclosure, however, was misleading because it concerned only those nonmonetary exchanges in which the software license sale recorded by the Company was within 25% of
+the dollar value of the Company's corresponding purchase commitment. 24
+Using this formula, the Company disclosed only that, in 1996, it had sold approximately $55 million of software licenses to certain vendors where the Company concurrently committed to acquire goods or services of approximately the same dollar amount.
+In fact, during 1996, the Company entered into nonmonetary exchanges by which it sold $170 million of licenses and purchased $130 million of goods and services.
+As a result of the conduct of former management, the Company also omitted information concerning the extent to which the Company's revenues were based on software license sales to resellers that had not resold the licenses to end-users.
+By 1996, the Company was unable to meet its revenue and earnings goals from sales directly to end-users.
+During 1996, former management, therefore, turned to obtaining large software license purchase commitments from OEMs and other resellers.
+The total amount of unsold licenses from reseller commitments grew throughout 1996 primarily because many resellers were unable to resell the software licenses.
+The level of the resellers' unsold licenses was material information relating to the nature of current reported revenue and earnings growth.
+In addition, the growth in the level of unsold licenses was a known trend that reasonably could be expected to have a material adverse impact on future revenue and earnings growth.
+Notwithstanding the importance of the information, former management decided that the Company would not disclose in its quarterly filings information regarding the level of licenses not resold.
+At year-end, former management decided that the Company would disclose in its Form 10-K that half of the Company's 1996 license sales were to resellers and that almost half of those licenses had not been resold to end-users, i.e. approximately a quarter of the licenses recorded as sold had not been resold to end-users.
+Former management, however, failed to cause the Company to disclose that, in many instances, the Company was obligated to provide substantial assistance to the resellers to find end-users to purchase the resellers' unsold licenses.
+4. Former Management's Efforts To Avoid a Restatement
+On March 31, 1997, the Company filed its Form 10-K for 1996, which, for the first time, included disclosures concerning the nonmonetary exchanges and the amount of license purchases by resellers that had not been resold to end-users. 25
+The next day, the Company unexpectedly announced that revenues for the first quarter of 1997 would be $59 million to $74 million below revenues for the first quarter of 1996.26
+The revenue shortfall resulted largely from a significant decline in license purchase commitments from resellers during the first quarter.
+On the day of the announcement, the Company's stock price and market capitalization decreased 34.5%.
+The stock price decreased from 15 1/8 to 9 29/32, and the market capitalization dropped from $2.3 billion to $1.5 billion.
+About two weeks after the announcement of the first quarter revenue shortfall, the Company's auditors learned of potential accounting irregularities relating to certain 1995 and 1996 transactions with European customers.
+The auditors learned this information from customer correspondence brought to their attention by a former Company employee.
+The auditors informed former management and recommended that the Company conduct an internal investigation of transactions with approximately twenty customers to determine whether revenue recognition on those transactions had conformed with GAAP.
+The Company retained a law firm and began an investigation.
+Former management, aware that the results of the investigation could cause a restatement, limited the scope of the investigation by decreasing the number of customers whose transactions would be investigated to five and by focusing the investigation on the legal enforceability of the formal license agreements notwithstanding side agreements and other circumstances.
+Following the investigation, the law firm rendered findings that the formal agreements were legally binding on the customers.
+The firm did not address whether the side agreements, or other circumstances surrounding the formal agreements, affected revenue recognition under GAAP.
+The auditors reviewed the findings and made determinations on whether revenue recognition on the transactions had conformed with GAAP.
+They concluded that revenue on two transactions had been recognized incorrectly27 and that a bad debt reserve for a 1996 transaction should be recorded in 1997.
+No adjustments were proposed for two of the transactions, one of which was the third quarter 1996 transaction with the "bank" reseller for the sale of an internal use license. 28
+Former management and the auditors decided that it was not necessary to restate financial statements for prior years.
+In late June 1997, the auditors learned of a side agreement to a transaction with an Asian reseller for which the Company had recognized $4.7 million of revenue in the fourth quarter 1996.29
+The Asian reseller had requested that payment terms for the software licenses be extended to late 1998, approximately two years after the date of its software license purchase agreement.
+The former Company salesperson insisted that the purchase agreement had to reflect a final payment date of November 1997, i.e. within the twelve-month period required by GAAP and the Company's policy for revenue recognition, but provided a side agreement allowing payment to be extended until November 1998.
+Upon learning of this side agreement from a former member of the Company's corporate finance staff, the auditors told former management that the 1996 financial statements needed to be restated unless the side agreement could be rescinded without giving concessions or consideration to the Asian reseller.
+A former member of senior management met with the Asian reseller and negotiated a rescission of the side agreement.
+During these negotiations, the former senior manager agreed that the Company would purchase approximately $3 million of unspecified goods and services from the Asian customer, the same amount that the customer owed the Company under its software license purchase commitment. 30
+The auditors subsequently were told that the side agreement had been rescinded, but the existence of the related purchase agreement was concealed from them.
+The auditors dropped their insistence on the restatement. 31
+At about the time when management was discussing obtaining a rescission of the side agreement with the Asian reseller, a former member of senior management learned of several side letters relating to 1996 transactions with a European reseller.
+Aware that these side agreements would cause a restatement,
+the former senior manager failed to inform the Company's finance staff or auditors immediately.
+Shortly thereafter, however, a member of the Company's Asian finance staff informed the auditors of additional side agreements with other Asian resellers that that employee had discovered.
+In response, the auditors expanded their audit procedures with respect to the Company's previously released 1996 financial statements.
+While the auditors were performing these procedures, a former member of the Company's corporate finance staff learned of, and alerted the auditors to, the side agreements with the European reseller.
+That former finance staff member also learned, and informed the auditors, that, notwithstanding the admonition against giving concessions or consideration, the Company had agreed to purchase approximately $3 million of unspecified goods and services from the Asian reseller.
+Based on the material effect of the side agreements on revenue recognition, the Company, by then under new management, decided to restate its 1996 financial statements.
+On August 7, 1997, the Company announced the need for a restatement.
+5. The Company's Restatements
+By early September 1997, the Company and its auditors had identified more than $100 million of irregularities recorded in its previously issued financial statements.
+Many of the irregularities related to transactions with resellers.
+Determination of the full extent of the irregularities that had occurred proved difficult due to the lack of reliable documents caused by the practice of back-dating and due to the large number of salespersons knowledgeable about past transactions who no longer were employed by the Company.
+Given the frequent use in 1995 and 1996 of side agreements with resellers and the Company's substantial involvement in the reselling effort, the Company and its auditors determined that the Company should not have recognized revenue from reseller software license purchase commitments until the software licenses were resold.
+As a consequence, the Company restated its financial statements for fiscal years 1994 through 1996 and the first quarter of fiscal year 1997. 32
+On November 18, 1997, the Company filed an amendment to its 1996 Form 10-K restating its financial statements for fiscal years 1994 through 1996.
+On November 19, 1997, the Company filed its Forms 10-Q for the second and third quarters of 1997 and an amendment to its Form 10-Q for the first quarter of 1997 restating its financial statements for each interim quarter of 1996 and the first quarter of 1997.
+The effect of the restatements on the Company's previously filed financial statements is summarized supra at Part III(B).
+6. False and Misleading Books, Records, and Accounts andInsufficient Internal Accounting Controls
+As a result of the fraudulent and other improper practices discussed supra at Part III(B), (C)(1), (2), the Company's books, records, and accounts were false and misleading.
+In addition, the Company failed to maintain a system of internal accounting controls that was sufficient to enable it to prepare financial statements in conformity with GAAP.
+The lack of sufficient internal accounting controls contributed directly to the fraud and resulted primarily from an organizational structure under which many key finance personnel responsible for revenue recognition reported directly to sales management rather than to senior finance executives.
+As a result of this organizational structure, finance personnel came under pressure from former sales management to recognize revenue from transactions that did not conform with GAAP, such as backdated transactions, transactions with customers whose creditworthiness had not been investigated, and transactions for future maintenance services that were treated as license transactions.
+D. Legal Conclusions
+The type of conduct that occurred in this matter strikes at the heart of the financial reporting system established by the federal securities laws.
+As we have emphasized in the past, "[c]omplete and accurate financial reporting by public companies is of paramount importance to the disclosure system underlying the stability and efficient operation of our capital markets.
+Investors need reliable financial information when
+making investment decisions."
+33 To achieve the objective of providing investors with complete and accurate financial information, it is essential that public companies maintain accurate books, records, and accounts and establish and maintain internal controls that serve to prevent and to detect fraudulent and other improper conduct.
+In addition, management, through its own conduct and through the policies and practices that it prescribes for others, must create an environment in which only the highest standards of integrity will be tolerated.
+Too often,
+accounting and disclosure rules are disregarded in order that revenues and earnings can be inflated improperly to meet earnings projections of analysts or others in the financial community or to achieve some other objective.
+The financial information that an issuer discloses simply should present completely and accurately the issuer's financial condition for the relevant reporting period.
+Without this information, investors are deprived of the opportunity to make informed investment decisions.
+In this matter, through former members of management and others, the Company engaged in an accounting fraud that lasted more than two years and resulted in the preparation of numerous materially false and misleading financial statements and other disclosures that were included in filings with the Commission and disseminated to investors. 34
+As this fraud was being uncovered, certain of these individuals engaged in further fraudulent conduct that delayed the restatements of the Company's financial statements.
+In addition, as a result of the conduct of former management and others, the Company failed to maintain books, records, and accounts which, in reasonable detail, accurately and fairly reflected its transactions and dispositions of assets and failed to maintain a system of internal accounting controls sufficient to permit the preparation of financial statements in conformity with GAAP.
+Based on the foregoing, the Commission concludes that the Company violated section 17(a) of the Securities Act, sections 10(b), 13(a), and 13(b) of the Exchange Act, and Exchange Act rules 10b-5, 12b-20, 13a-1, 13a-13, and 13b2-1.
+IV. Order
+Based on the foregoing, the Commission deems it appropriate and in the public interest to accept the Company's Offer and to impose the sanctions agreed to therein.
+In determining to accept the Offer, the Commission considered remedial acts promptly undertaken by Respondent and cooperation afforded the Commission staff.
+Accordingly,
+It is hereby ordered that, pursuant to section 8A of Securities Act and section 21C of the Exchange Act, Informix Corporation cease and desist from committing or causing any violation, and any future violation, of section 17(a) of the Securities Act, sections 10(b), 13(a), and 13(b) of the Exchange Act, and Exchange Act rules 10b-5, 12b-20, 13a-1, 13a-13, and 13b2-1; and
+It is further ordered that Informix Corporation comply with its undertakings to do the following:
+A) upon reasonable request by the Commission or its staff, and on reasonable notice and without service of a subpoena, it will provide documents or other information; B) at the request of the Commission or its staff, it will appear and testify at any deposition, hearing, or trial in an action or administrative proceeding arising out of the matters described in the Order and, in connection with any such deposition, hearing, trial, or administrative proceeding, Informix Corporation hereby 1) appoints Gary Lloyd or any other senior officer of Informix Corporation as Informix Corporation's agent to receive on behalf of Informix Corporation any notice or subpoena for its appearance and testimony, 2) agrees that any such notice or subpoena for Informix Corporation's appearance and testimony may be served on Gary Lloyd or any other senior officer of Informix Corporation by mail, and 3) agrees that any such notice or subpoena for Informix Corporation's appearance and testimony may be served and may request testimony beyond the territorial limits imposed by rule 45 of the Federal Rules of Civil Procedure, provided that the party requesting the appearance and testimony reimburses Informix Corporation's
+travel, lodging, and subsistence expenses at then prevailing U.S. Government per diem rates; and C) at the request of the Commission or its staff, it will take all reasonable actions to make its officers, directors, employees, and agents available to testify at any interview, investigative testimony, deposition, judicial proceeding related to this Order, and any administrative proceeding arising as a result of the Commission's investigation entitled In the Matter of Informix Corporation.
+By the Commission
+Jonathan G. Katz
+Secretary
+Footnotes
+1
+The findings herein are made pursuant to the Offer and are not binding on any other person or entity in this or any other proceeding.
+2
+A reseller is a software distributor or an entity that includes software with products or services that the entity sells.
+See Software Revenue Recognition, Statement of Position 91-1, §.03 (American Inst. of Certified Pub. Accountants 1991).
+A reseller differs from an end-user in that an end-user is the party that ultimately uses the software in an application.
+Id.
+During the time of the conduct described in this Order, the accounting principles applicable to software revenue recognition were set forth in Software Revenue Recognition, Statement of Position 91-1, supra.
+In October 1997, that Statement of Position was superseded by Software Revenue Recognition, Statement of Position 97-2 (Amer. Inst. of Certified Pub. Accountants 1997), which became effective for transactions entered into for fiscal years beginning after December 15, 1997.
+The software revenue recognition accounting principles discussed in this Order are those set forth in Software Revenue Recognition, Statement of Position 91-1, supra.
+3
+After the Company restated its financial statements, it replaced its auditors.
+All references to the auditors in this Order are to the former auditors.
+4
+The 1995 "Originally Reported" amounts have been adjusted to reflect a 1996 pooling-of-interest business combination, which is also reflected in the 1995 "As Restated" amounts.
+5
+Under GAAP, revenue on a software license agreement to be documented by a written contract should not be recognized until the contract is signed.
+Software Revenue Recognition, Statement of Position 91-1, supra, § .50.
+6
+Under GAAP, a fee is presumed not to be fixed if the payment is not due until more than 12 months after delivery.
+Id. § .57.
+As discussed infra at note 7, one of the requirements for revenue recognition under GAAP is that the fee is fixed.
+7
+Under GAAP,
+a software vendor such as the Company may recognize revenue from the sale of software licenses if the software has been delivered, the vendor has no continuing obligations under the sale or license agreement, and the fee is fixed and irrevocable and collectibility is probable.
+Id. §§ .32-.34, .57-.58.
+In some instances, the side agreements were entered into contemporaneously with the formal agreements to induce customers to enter into the formal agreements and, if not concealed, would have prevented the Company from initially recognizing revenue.
+In other instances, the side agreements were entered into after the parties had signed, and the Company had recognized revenue on, the formal agreements and, if not concealed, would have required the Company to adjust its financial statements to reduce revenues and earnings.
+8
+The Company entered into what was known as "pool-of-funds" agreements with resellers.
+Under these agreements, a reseller made an irrevocable commitment to purchase a certain amount of software licenses at a discount to the Company's list price for resale to end-users and other customers.
+When the reseller obtained an order, customer information usually was provided to the Company, and the Company then delivered the software to the reseller's customer.
+The Company thus, in most cases, was able to gauge the reseller's progress or lack of progress in reselling its software.
+9
+After the filing of the Company's Form 10-K for 1996, the Company allowed the reseller to convert the internal-use license, which the reseller neither wanted nor needed, into an additional reseller purchase commitment.
+10
+See Software Revenue Recognition, Statement of Position 91-1, supra, §§ .32, .41.
+11
+Id. §§ .32, .50, .58, .78.
+12
+None of
+the reseller or end-user customers made any payments prior to the end of 1996.
+Prior to the filing of the Company's 1996 Form 10-K in March 1997, former members of management learned that the lack of collections was due to the absence of signed contracts, customer liquidity problems, or, for resellers, the inability to pay the amount due until the software licenses were resold.
+Former management, however, allowed only a small increase in the bad debt reserves.
+13
+See Accounting for Contingencies, Statement of Financial Accounting Standards No. 5, ¶
+17(a) (Financial Accounting Standards Bd. 1975).
+14
+The write-off was spread over three quarters to minimize the impact on the second quarter's earnings.
+15
+See Software Revenue Recognition, Statement of Position 91-1, supra, § 32.
+16
+A "beta" version of software is a preliminary version of
+software that is distributed at no charge to potential customers for initial testing to identify problems that must be corrected prior to making a final version of the software available for sale.
+17
+In one instance, in desperate need of additional profits for the third quarter of 1996, the Company negotiated a software sale and hardware purchase with an OEM and agreed to purchase its own software as part of the cost of the hardware it was buying.
+18
+A variety of factors indicated that these mutual purchases were nonmonetary exchanges.
+The level of hardware purchases should have been based on the amount of equipment needed for the Superstores but instead varied based on the size of the software license purchase commitment the customer was willing to make.
+Former salespersons at times offered to increase the amount of computer hardware purchases to induce large software license purchase commitments from OEMs, and OEMs sometimes made counterproposals to buy less software and to sell less hardware.
+In addition, most salespersons involved were paid commissions at a "barter" rate, which was significantly lower than normal commission rates for software sales.
+19
+Software Revenue Recognition, Statement of Position 91-1, supra, § .68.
+20
+See supra note 7.
+21
+GAAP did not provide an exception to the twelve-month rule if third-party financing arrangements were used to accelerate a company's receipt of cash.
+22
+In addition, where third-party financing was used, the vendor might grant concessions to prevent defaults to the third-party financing company and thus preserve the vendor's relationship with the financing company.
+23
+As with the Superstore transactions, the other software-for-hardware transactions and the software-for software transactions were structured to appear to be separate transactions.
+The transactions were, in substance, nonmonetary exchanges and thus subject to the disclosure requirements of Accounting Principles Board Opinion No. 29, Accounting for Nonmonetary Transactions (Accounting Principles Bd. 1973).
+24
+The 25% formula was derived from accounting literature that does not address the issue of disclosure.
+See Nonmonetary Transactions: Magnitude of Boot and the Exceptions to the Use of Fair Value, Emerging Issues Task Force Abstracts Issue No. 86-29 (Emerging Issues Task Force 1988).
+In any event, that literature does not apply to the type of transactions involved here.
+Id.; Accounting for Nonmonetary Transactions, Accounting Principles Board Opinion No. 29, ¶
+21 (Accounting Principles Bd. 1973).
+25
+See supra Part III(C)(3).
+26
+The Company announced its first quarter 1997 results several weeks earlier than it otherwise would have due to the large revenue shortfall.
+27
+The auditors determined that revenue on one transaction should not have been recognized in 1995 and that revenue on the other transaction should not have been recognized in 1996.
+28
+See supra Part III(C)(1)(b).
+29
+The side agreement allowed the customer to delay the final payment to November 1998, extending the date for the customer to pay the balance beyond 12 months.
+These terms made revenue recognition on the transaction in 1996 improper under GAAP and the Company's revenue recognition policies.
+30
+In fact, the Asian customer agreed to rescind the side letter only if the Company agreed to make purchases from the Asian customer equal to the remaining balance of approximately $3 million still owed to the Company.
+The Company executive involved accepted this offer without any substantive discussion as to the specific goods or services to be purchased.
+31
+As discussed supra at note 29, the terms of the side agreement made it improper for the Company to recognize revenue on the transaction in 1996.
+The rescission of the side agreement in 1997 could not remedy the improper revenue recognition in 1996.
+32
+GAAP generally requires the consistent application of accounting principles for each period for which financial statements are presented.
+See Accounting Changes, Accounting Principles Board Opinion No. 20, § 15 (Accounting Principles Bd. 1971).
+As a result, regardless of whether irregularities in 1994 and first quarter 1997 reseller transactions were found, the 1994 and first quarter 1997 financial statements required restatement.
+33
+Request for Comment on Increasing the Level of Involvement of the Independent Accountant with Interim Financial Information, Release Nos. 33-6837; 34-26929; 35-24907; IC-17016, 54 Fed. Reg. 27,023, at 27,024 (June 20, 1989).
+34
+In addition to annual and quarterly reports, the Company's filings during the time period included registration statements filed pursuant the Securities Act that incorporated materially false and misleading information from the Company's annual and quarterly reports.
+http://www.sec.gov/litigation/admin/34-42326.htm
+Home | Previous Page
+Modified:01/18/1999

@@ -1,0 +1,326 @@
+﻿---------------------Page 1---------------------
+
+ 
+ UNITED                             STATES OF AMERICA 
+ Before                                      the 
+ SECURITIES                      AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 62988 / September 24, 2010 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3189 / September24, 2010 
+ 
+ADMINISTRATIVE PROCEEDING  
+File No. 3-14068 
+ 
+                                              ORDER INSTITUTING CEASE-AND-DESIST 
+In the Matter of                             PROCEEDINGS PURSUANT TO SECTION 
+                                             21C OF THE SECURITIES EXCHANGE ACT 
+ SUNOPTA, INC.,                              OF 1934, MAKING FINDINGS, AND 
+ STEVEN R. BROMLEY, CGA, and                 IMPOSING A CEASE-AND-DESIST ORDER  
+ JOHN H. DIETRICH, CA,  
+ 
+Respondents. 
+ 
+ 
+  
+  
+                                          I. 
+ 
+              The Securities and Exchange Commission (Commission) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities 
+Exchange Act of 1934 (Exchange Act) against <comp.>SunOpta, Inc.</> (SunOpta), Steven R. Bromley, 
+(Bromley), and John H. Dietrich (Dietrich) (collectively Respondents). 
+ 
+                                          II. 
+ 
+              In anticipation of the institution of these proceedings, Respondents have submitted Offers 
+of Settlement (the Offers) which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the findings 
+herein, except as to the Commissions jurisdiction over them and the subject matter of these 
+proceedings, which are admitted, Respondents consent to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making 
+Findings, and Imposing a Cease-and-Desist Order (Order), as set forth below.   
+ 
+---------------------Page 2---------------------
+
+                                               III. 
+ 
+              On the basis of this Order and Respondents Offers, the Commission finds1
+                                                                                   that:  
+ 
+                                            Summary 
+                                               
+       In <date.>2007</>, SunOpta, a Canadian health food company, filed inaccurate quarterly financial 
+reports as a result of internal control problems in inventory accounting at its California-based 
+subsidiary, Cleughs Frozen Foods (CFF), after CFF implemented a new accounting software 
+system.  SunOptas chief executive officer (CEO), Steven R. Bromley, and chief financial officer 
+(CFO), John H. Dietrich became aware of CFFs problems and took steps to address those 
+difficulties and correct its accounts throughout the year.  However, these efforts were inadequate to 
+address the scope of CFFs problems.  Later restatements show that CFFs errors caused SunOpta 
+to overstate its <item.>consolidated earnings</> for the first three quarters of 2007 by approximately 103%, 
+42%, and 65%, respectively. 2
+                               In addition, during <date.>2007</>, SunOpta did not disclose any material 
+changes to its <item.>internal controls</> over financial reporting, as is required under Item 308(c) of 
+Regulation S-K promulgated pursuant to the Sarbanes-Oxley Act. 
+ 
+                                          Respondents 
+ 
+       1.      SunOpta, Inc., a Canadian corporation headquartered in Ontario, operates 
+throughout North America in the natural and organic food, supplements, and health and beauty 
+markets.  SunOpta stock is registered with the Commission under Section 12(b) of the Exchange 
+Act, and it trades on the Nasdaq Global Select Market.   
+ 
+       2.      Steven R. Bromley, Certified General Accountant (CGA), age 51 and a resident 
+of Ontario, Canada, has been SunOptas president since January 2005, and a board member and 
+CEO since February 2007.  He previously served as SunOptas CFO and chief operating officer.  
+Bromley has been licensed as a CGA in Canada since 1987. 
+        
+       3.      John H. Dietrich, Chartered Accountant (CA), age 45 and a resident of Ontario, 
+Canada, was SunOptas CFO and vice president from September 2003 until March 2009.  He is 
+now a vice president of corporate development.  Dietrich has been licensed as a CA in Canada 
+since 1989. 
+        
+                                              Facts 
+        
+       4.           SunOpta has several business groups and consolidates their financial information 
+for its public filings.  SunOptas Fruit Group segment provides fruit and vegetable products to 
+the private label retail and industrial markets.  In 2005, SunOptas Fruit Group acquired CFF.  
+                                                 
+       1
+         The findings herein are made pursuant to Respondents Offers of Settlement and are not binding 
+on any other person or entity in this or any other proceeding.  
+
+       2
+         As used in this Order, consolidated earnings means SunOptas reported earnings before taxes, interest 
+expense, other expenses, foreign exchange gain/loss, and minority interest gain/loss. 
+                                                 2 
+---------------------Page 3---------------------
+
+During 2007, CFFs inventory represented approximately 26% of SunOptas consolidated 
+inventory balance. 
+        
+       5.           At the time of its acquisition, CFF was a family-owned business, and its accounting 
+controls were largely manual and informal.  Accordingly, to improve internal control over financial 
+reporting, SunOpta implemented an Oracle accounting system at CFF in early March 2007.   
+        
+              6.           Almost immediately, and continuing throughout 2007, information CFF input into 
+Oracle was unreliable and did not accurately depict the value of CFFs inventory.  These 
+accounting errors affected virtually every aspect of CFFs inventory accounting.  Specifically, CFF 
+improperly accounted for inventory in the following areas: 
+        
+  a.                                  Costing.  When CFF initially loaded the value of its pre-existing inventory 
+into Oracle, CFF incorrectly increased the recorded costs of that inventory.  In addition, the bills of 
+materials CFF input into Oracle throughout the year to document inventory costs frequently 
+incorporated incorrect rates of overhead, materials used, units of measure, and other data.   
+ 
+  b.                                  Quantity.  During 2007, CFF stored the majority of its inventory in 
+warehouses owned by third parties.  However, CFF did not reconcile the quantity of inventory 
+recorded in Oracle with the quantity of inventory recorded by the third-party warehouses for the 
+first and second quarters of 2007.  CFFs reconciliation for the third quarter was not properly 
+completed.   
+ 
+  c.                                  Unsupported Manual Adjustment.  When CFF received products from 
+growers before growers invoiced CFF, CFF tracked this inventory in an accrual account called 
+Goods Received Not Invoiced (GRNI).  However, CFF often failed to relieve this account 
+when it later received invoices from the growers and completed its accounting for the transaction.  
+When the GRNI account ballooned during the second quarter, CFF made a large adjustment to the 
+account based on incomplete data.   
+ 
+  d.                                  Net Realizable Value.  During the first three quarters of 2007, CFF did not 
+timely input information in Oracle that would show that the cost of much of its inventory exceeded 
+the market price for these products.  CFF also failed to otherwise review relevant data and, as a 
+result, it failed to identify necessary downward adjustments to account for such inventory at its net 
+realizable value.   
+ 
+       7.           Because of CFFs inaccurate inventory accounting, the financial statements CFF 
+generated for each of the first three quarters of 2007 were not fairly stated.  These errors in turn 
+caused SunOpta to overstate its consolidated earnings for the first three quarters of 2007 by a total 
+of approximately 103%, 42%, and 65%, respectively, in Forms 10-Q and Forms 8-K that SunOpta 
+filed with the Commission.  These errors also caused SunOpta to report misstatements for its Fruit 
+Group segment, changing the segments previously-reported earnings to a loss for both the first 
+and third quarters, and substantially reducing the previously-reported earnings for the second 
+quarter.  Both Bromley and Dietrich participated in the drafting of these filings with the 
+Commission. 
+
+                                                 3 
+---------------------Page 4---------------------
+
+ 
+              8.           Bromley and Dietrich knew about, and took steps to remedy, problems with CFFs 
+inventory accounting during 2007.  They documented these issues, created plans to address them, 
+and made attempts to correct CFFs accounting at each quarter-end.  However, these efforts were 
+insufficient to address the scope of the inventory accounting problems at CFF and produce fairly 
+stated financial statements.  
+ 
+       9.           In the Forms 10-Q it originally filed for the first three quarters of 2007, SunOpta 
+stated that there had been no change in the companys internal control over financial reporting 
+that has materially affected, or is reasonably likely to materially affect, the Companys internal 
+control over financial reporting.  Both Bromley and Dietrich signed certifications with each Form 
+10-Q filing attesting that any such changes had been disclosed.  When SunOpta filed its restated 
+financial statements for each quarter, its amended Forms 10-Q included the revised disclosure that 
+there had been material changes to its internal controls relating to the manual procedures and 
+adjustments that had supplanted certain system control processes relating to the purchasing, 
+payables, sales, receivables, and inventory accounting cycles.   
+        
+       10.        Both Bromley and Dietrich sold SunOpta stock during the time period covered by 
+the restatements.  When those sales occurred, SunOptas stock price was inflated due, in part, to its 
+incorrectly reported financial results that were attributable to internal control issues at CFF.  At the 
+time of their sales, Bromley and Dietrich were aware of certain of CFFs internal control issues.  
+ 
+                                            Violations 
+        
+       11.        SunOpta violated Section 13(a) of the Exchange Act and Rules 12b-20, 13a-11, and 
+13a-13 thereunder by filing Forms 10-Q and Forms 8-K for the first three quarters of 2007 that 
+materially misstated SunOptas financial statements, and by filing Forms 10-Q for these periods 
+that did not disclose material changes to SunOptas internal control over financial reporting as 
+required by Item 308(c) of Regulation S-K.  As described above, Bromley and Dietrich were a 
+cause of SunOptas violations of these provisions.   
+        
+       12.        SunOpta violated Section 13(b)(2)(A) of the Exchange Act by keeping books and 
+records with inaccurate entries related to SunOptas inventory balances during the first three 
+quarters of 2007.  The company violated Section 13(b)(2)(B) by failing to devise and maintain an 
+effective system of internal controls when accounting for CFFs inventory after conversion to the 
+Oracle accounting system.    As described above, Bromley and Dietrich were a cause of SunOptas 
+violations of these provisions. 
+        
+       13.        Exchange Act Rule 13a-14 requires an issuers CEO and CFO to certify that they 
+have disclosed in the issuers quarterly report any change in the issuers internal control over 
+financial reporting that occurred during the most recent fiscal quarter that has materially affected, 
+or is likely to materially affect, the issuers internal control over financial reporting.  Because 
+SunOptas quarterly reports for the first three quarters of 2007 did not disclose material changes to 
+its internal control over financial reporting, Bromley and Dietrich violated Rule 13a-14.   
+ 
+
+                                                4 
+---------------------Page 5---------------------
+
+                                              IV. 
+                                                
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondents Offers. 
+ 
+       Accordingly, pursuant to Section 21C of the Exchange Act, it is hereby ORDERED that: 
+ 
+       A.  Respondent SunOpta cease and desist from committing or causing any violations and 
+          any future violations of Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange 
+          Act and Rules 12b-20, 13a-11, and 13a-13 thereunder; 
+           
+       B.  Respondent Bromley cease and desist from committing or causing any violations and 
+          any future violations of Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange 
+          Act and Rules 12b-20, 13a-11, 13a-13, and 13a-14 thereunder;  
+        
+       C.  In connection with his sale of SunOpta stock as referenced above, Respondent Bromley 
+          shall, within 21 days of the entry of this Order, pay disgorgement of $40,905 and 
+          prejudgment interest of $5,294.77 to the United States Treasury.  If timely payment is 
+          not made, additional interest shall accrue pursuant to SEC Rule of Practice 600.  
+          Payment shall be: (A) made by wire transfer, United States postal money order, 
+          certified check, bank cashier's check or bank money order; (B) made payable to the 
+          Securities and Exchange Commission; (C) hand-delivered or mailed to the Office of 
+          Financial Management, Securities and Exchange Commission, Operations Center, 6432 
+          General Green Way, Stop 0-3, Alexandria, VA 22312; and (D) submitted under cover 
+          letter that identifies Bromley as a Respondent in these proceedings, the file number of 
+          these proceedings, a copy of which cover letter and money order or check shall be sent 
+          to Noel M. Franklin, Division of Enforcement, Securities and Exchange Commission, 
+          1801 California Street, Suite 1500, Denver, CO 80202; 
+        
+       D.  Respondent Dietrich cease and desist from committing or causing any violations and 
+          any future violations of Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange 
+          Act and Rules 12b-20, 13a-11, 13a-13, and 13a-14 thereunder; and 
+
+                                               5 
+---------------------Page 6---------------------
+
+ 
+         E.  In connection with his sale of SunOpta stock as referenced above, Respondent Dietrich 
+             shall, within 21 days of the entry of this Order, pay disgorgement of $5,780 and 
+             prejudgment interest of $1,011.90 to the United States Treasury.  If timely payment is 
+             not made, additional interest shall accrue pursuant to SEC Rule of Practice 600.  
+             Payment shall be: (A) made by wire transfer, United States postal money order, 
+             certified check, bank cashier's check or bank money order; (B) made payable to the 
+             Securities and Exchange Commission; (C) hand-delivered or mailed to the Office of 
+             Financial Management, Securities and Exchange Commission, Operations Center, 6432 
+             General Green Way, Stop 0-3, Alexandria, VA 22312; and (D) submitted under cover 
+             letter that identifies Dietrich as a Respondent in these proceedings, the file number of 
+             these proceedings, a copy of which cover letter and money order or check shall be sent 
+             to Noel M. Franklin, Division of Enforcement, Securities and Exchange Commission, 
+             1801 California Street, Suite 1500, Denver, CO 80202. 
+              
+ 
+ By the Commission. 
+ 
+ 
+ 
+       Elizabeth M. Murphy 
+       Secretary 
+
+                                                         6 
+---------------------Page 7---------------------
+
+                                        Service List 
+ 
+              Rule 141 of the Commissions Rules of Practice provides that the Secretary, or another 
+duly authorized officer of the Commission, shall serve a copy of the Order Instituting Cease-and-
+Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making 
+Findings, and Imposing a Cease-and-Desist Order (Order), on the Respondents and their legal 
+agents. 
+ 
+              The attached Order has been sent to the following parties and other persons entitled to 
+notice: 
+ 
+Honorable Brenda P. Murray 
+Chief Administrative Law Judge 
+Securities and Exchange Commission 
+100 F Street, N.E. 
+Washington, DC  20549-2557 
+ 
+Noel M. Franklin, Esq. 
+Denver Regional Office 
+Securities and Exchange Commission 
+1801 California Street, Suite 1500 
+Denver, CO  80202 
+ 
+SunOpta, Inc. 
+c/o Bruce A. Baird, Esq. 
+Covington & Burlington LLP 
+1201 Pennsylvania Avenue, N.W. 
+Washington, DC  20004-2401 
+ 
+Steven R. Bromley, CGA 
+c/o Andrew J. Geist, Esq. 
+OMelveny & Myers LLP 
+Times Square Tower 
+7 Time Square 
+New York, NY 10036 
+ 
+John H. Dietrich, CA 
+c/o Andrew J. Geist, Esq. 
+OMelveny & Myers LLP 
+Times Square Tower 
+7 Time Square 
+New York, NY 10036 
+ 
+
+                                              7 
+---------------------Page 8---------------------
+
+ 
+Bruce A. Baird, Esq. 
+Covington & Burlington LLP 
+1201 Pennsylvania Avenue, N.W. 
+Washington, DC  20004-2401 
+(Counsel for SunOpta, Inc.) 
+ 
+Andrew J. Geist, Esq. 
+OMelveny & Myers LLP 
+Times Square Tower 
+7 Time Square 
+New York, NY 10036 
+(Counsel for Steven R. Bromley and John H. Dietrich) 
+ 
+ 
+ 
+
+                                            8 

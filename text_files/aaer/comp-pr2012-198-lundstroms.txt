@@ -1,0 +1,1664 @@
+---------------------Page 1---------------------
+
+           8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 1 of 31 - Page ID # 1                       
+
+                        IN THE UNITED STATES DISTRICT COURT
+  
+                             FOR THE DISTRICT OF NEBRASKA 
+
+                                           Omaha Division
+  
+ 
+SECURITIES AND EXCHANGE                     )  
+COMMISSION,                                      )        
+                 Plaintiff,                             ) Civil Action No. 12-cv-00343            
+                                                        )  
+v.                                               ) COMPLAINT                     
+                                                 )         
+GILBERT G. LUNDSTROM,                                   )             JURY TRIAL DEMANDED 
+JAMES A. LAPHEN, and                                    ) 
+TREVOR A. LUNDSTROM,                                    ) 
+                                                        )  
+                        Defendants.                     ) 
+                         
+                                                     
+        Plaintiff, Securities and Exchange Commission (“Commission”), alleges that: 
+
+                                  I.   SUMMARY OF ACTION 
+ 
+        1.       This case involves fraudulent misstatements and omissions regarding mounting 
+
+loan-related losses at the Lincoln, Nebraska-based financial institution known as TierOne Bank 
+
+during the height of the financial crisis in 2008 and 2009.   
+
+        2.       Between approximately October 2008 and November 2009 (the “relevant 
+
+period”), defendant Gilbert G. Lundstrom (“G. Lundstrom”), the former chairman of the board 
+
+and chief executive officer of TierOne Corporation (with its wholly-owned subsidiary TierOne 
+
+Bank, referred to collectively hereafter as “TierOne”), and defendant James A. Laphen 
+
+(“Laphen”), TierOne’s former president and chief operating officer, participated in a scheme to 
+
+mislead TierOne’s bank regulator and investors about TierOne’s true financial condition.  They 
+
+did so by materially understating TierOne’s loan losses and losses on real estate repossessed by 
+
+the bank (commonly referred to as “other real estate owned” or “OREO”) so that the bank would 
+
+appear to meet its mandated regulatory capital requirements.  G. Lundstrom and Laphen also 
+
+made and/or caused TierOne to make material misstatements in TierOne’s public filings with the 
+---------------------Page 2---------------------
+
+          8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 2 of 31 - Page ID # 2                       
+ 
+
+Commission, including its Form 10-K for the year ended December 31, 2008, and the Forms 10-
+
+Q for the quarters ended March 31, 2009, and June 30, 2009.   
+
+       3.      TierOne was a century-old thrift bank that had historically focused on residential 
+
+and agricultural loans in the Nebraska/Iowa/Kansas region.  Beginning in about 2004, TierOne 
+
+expanded into riskier types of lending in high-growth geographic regions such as Las Vegas, 
+
+Florida, and Arizona.  By the second half of 2008, as a result of the financial crisis and 
+
+accompanying crash in real estate markets, TierOne was experiencing a significant rise in high-
+
+risk problem loans.   
+
+       4.      In June 2008, due to these high-risk problem loans, the United States Office of 
+
+Thrift Supervision (“OTS”), which oversaw thrift banks like TierOne, directed TierOne to 
+
+maintain elevated core and risk-based capital ratios or face formal enforcement actions.  To 
+
+appear to comply with the new heightened capital requirements, G. Lundstrom and Laphen 
+
+materially understated TierOne’s loan and OREO losses.  In particular, G. Lundstrom and 
+
+Laphen disregarded information showing that the collateral securing certain of TierOne’s loans 
+
+and TierOne’s OREO was substantially over-valued due to the bank’s reliance on stale and 
+
+inadequately discounted appraisals.  G. Lundstrom and Laphen also signed untrue management 
+
+representation letters that were provided to the bank’s outside auditor and knowingly 
+
+circumvented and failed to implement an effective system of internal controls at TierOne.   
+
+       5.      As a result, G. Lundstrom and Laphen made and/or caused TierOne to make 
+
+material misstatements in three periodic filings with the Commission regarding its loan and 
+
+OREO losses and, in turn, to materially understate its net losses in those periodic filings and the 
+
+related earnings releases in Forms 8-K filed on February 25, 2009, May 7, 2009, and August 10, 
+
+2009.  In addition, TierOne reported that it had met or exceeded the OTS-required elevated 
+
+                                               2 
+
+ 
+---------------------Page 3---------------------
+
+          8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 3 of 31 - Page ID # 3                       
+ 
+
+capital ratios in each of the three periodic filings.  TierOne met those ratios only by understating 
+
+its losses, and thereby overstating its reported capital.    
+
+       6.      G. Lundstrom certified the periodic filings at issue, when he knew, or was 
+
+severely reckless in not knowing, that those filings contained material misrepresentations. 
+
+       7.      The full extent of TierOne’s loan-related losses did not become publicly known 
+
+until late 2009, after OTS required TierOne to obtain new appraisals for its impaired loans. 
+
+TierOne ultimately disclosed over $130 million of  additional loan losses.  Had TierOne recorded 
+
+these additional loss provisions in the proper quarters, it would have missed the OTS-required 
+
+capital ratios as of the end of December 31, 2008, and for each quarter thereafter.  Following the 
+
+announcements of the additional loss provisions, TierOne’s stock price dropped more than 70 
+
+percent.  TierOne eventually filed for bankruptcy shortly after the bank was shut down by OTS 
+
+in June 2010. 
+
+       8.      Separately, in 2009, G. Lundstrom tipped his son, Trevor A. Lundstrom (“T. 
+
+Lundstrom”), with material non-public information about an anticipated asset sale between 
+
+TierOne and Great Western Bank (“Great Western”).  Having received this material non-public 
+
+information from his father, T. Lundstrom bought nearly 210,000 TierOne shares between June 
+
+2009 and September 2009 in anticipation of the asset sale.  Following the announcement of the 
+
+proposed transaction on September 4, 2009, T. Lundstrom sold his TierOne holdings and 
+
+realized approximately $225,921 in illicit profits. 
+
+                           II.   JURISDICTION AND VENUE  
+
+       9.      The Commission brings this action pursuant to the authority conferred upon it by 
+
+Sections 21(d), 21(e), and 21A(a) of the Securities Exchange Act of 1934 (“Exchange Act”) [15 
+
+U.S.C. §§ 78u(d), 78u(e) and 78u-1(a)]. 
+
+                                               3 
+
+ 
+---------------------Page 4---------------------
+
+          8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 4 of 31 - Page ID # 4                       
+ 
+
+       10.     This Court has jurisdiction over this action pursuant to Sections 21(e), 21A(a), 
+
+and 27 of the Exchange Act [15 U.S.C. §§ 78u(e), 78u-                                                1(a), and 78aa].  Defendants, directly and 
+
+indirectly, have made use of the means or instrumentalities of interstate commerce, of the mails, 
+
+or of the facilities of a national securities exchange, in connection with the transactions, acts, 
+
+practices, and courses of business alleged herein. 
+
+       11.     Venue lies in this Court pursuant to Sections 27 and 21A(d)(4) of the Exchange 
+
+Act [15 U.S.C. §§ 78aa and 78u-1(d)(4)] because certain of the acts, transactions, practices, and 
+
+courses of business constituting the violations of law alleged herein occurred within the District   
+
+of Nebraska.  Moreover, defendants G. Lundstrom and Laphen reside in this District. 
+
+                   III.   DEFENDANTS AND RELEVANT ENTITY 
+ 
+       12.     Gilbert G. Lundstrom, age 70, is a resident of Lincoln, Nebraska.  At all relevant 
+
+times, G. Lundstrom served as TierOne’s chairman of the board and chief executive officer 
+
+(“CEO”).  He signed and certified TierOne’s periodic filings with the Commission at issue in this 
+
+matter.   
+
+       13.     James A. Laphen, age 63, is a resident of Omaha, Nebraska.  At all relevant times, 
+
+Laphen served as TierOne’s president and chief operating officer (“COO”) and as a member of 
+
+the board of directors.  Laphen signed TierOne’s Form 10-K for the year ended December 31, 
+
+2008. 
+
+       14.     Trevor A. Lundstrom, age 41, is a resident of Birmingham, Alabama, and is G. 
+
+Lundstrom’s son.  
+
+       15.     TierOne Corporation, a Wisconsin corpor  ation, was, at all relevant times, a 
+
+holding company for TierOne Bank, a federally chartered savings bank.  Prior to May 7, 2010, 
+
+TierOne’s shares were listed on the NASDAQ GS exchange under the stock symbol “TONE.”  
+
+                                               4 
+
+ 
+---------------------Page 5---------------------
+
+          8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 5 of 31 - Page ID # 5                       
+ 
+
+TierOne’s common stock was thereafter quoted on the Pink Sheets, which is operated by OTC 
+
+Markets Group Inc.                          OTS closed TierOne Bank on June 4, 2010.  The Federal Deposit Insurance 
+
+Corporation (“FDIC”) was named receiver and Great Western took over the bank’s assets and 
+
+deposit accounts.  TierOne filed for Chapter 7 bankruptcy protection on June 24, 2010.   
+
+                           IV.    SUMMARY OF VIOLATIONS  
+
+       16.     Through the activities alleged in this Complaint, defendant G. Lundstrom, directly 
+
+or indirectly, engaged in transactions, acts, practices, and courses of business that violated 
+
+Exchange Act Sections 10(b) and 13(b)(5) [15 U.S.C. §§ 78j(b) and 78m(b)(5)] and Rules 10b-5, 
+
+13a-14, 13b2-1, and 13b2-2 thereunder [17 C.F.R. §§ 240.10b-5, 240.13a-14, 240.13b2-1, and 
+
+240.13b2-2], and that aided and abetted TierOne’s violations of Exchange Act Sections 13(a) 
+
+and 13(b)(2) [15 U.S.C. §§ 78m(a) and 78m(b)(2)] and Rule  s 12b-20, 13a-1, 13a-11, and 13a-13 
+
+thereunder [17 C.F.R. §§ 240.12b-20, 240.13a-1, 240.13a-11, and 240.13a-13].  As TierOne’s 
+
+chairman/CEO, defendant G. Lundstrom has control person liability under Exchange Act Section 
+
+20(a) [15 U.S.C. § 78t(a)] for TierOne’s violations of Exchange Act Sections 10(b), 13(a), and 
+
+13(b)(2) [15 U.S.C. §§ 78j(b), 78m(a), and 78m(b)(2)] and Rules 10b-5, 12b-20, 13a-1, 13a-11, 
+
+and 13a-13 thereunder [17 C.F.R. §§ 240.10b-5, 240.12b-20, 240.13a-1, 240.13a-11, and 
+
+240.13a-13]. 
+
+       17.     Through the activities alleged in this Complaint, defendant Laphen, directly or 
+
+indirectly, engaged in transactions, acts, practices, and courses of business that violated 
+
+Exchange Act Sections 10(b) and 13(b)(5) [15 U.S.C. §§ 78j(b) and 78m(b)(5)] and Rules 10b-5, 
+
+13b2-1, and 13b2-2 thereunder [17 C.F.R. §§ 240.10b-5, 240.13b2-1, and 240.13b2-2] and that 
+
+aided and abetted TierOne’s violations of Exchange Act Sections 10(b), 13(a), and 13(b)(2) [15 
+
+U.S.C. §§ 78j(b), 78m(a), and 78m(b)(2)] and Rules 10b-5, 12b-20, 13a-1, 13a-11, and 13a-13 
+
+                                               5 
+
+ 
+---------------------Page 6---------------------
+
+          8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 6 of 31 - Page ID # 6                       
+ 
+
+thereunder [17 C.F.R. §§ 240.10b-5, 240.12b-20, 240.13a-1, 240.13a-11, and 240.13a-13].  
+
+Defendant Laphen, as TierOne’s president/COO, has control person liability under Exchange Act 
+
+Section 20(a) [15 U.S.C. § 78t(a)] for TierOne’s violations of Exchange Act Sections 10(b), 
+
+13(a), and 13(b)(2) [15 U.S.C. §§ 78j(b), 78m(a), and 78m(b)(2)] and Rules 10b-5, 12b-20, 13a-
+
+1, 13a-11, and 13a-13 thereunder [17 C.F.R. §§ 240.10b-5, 240.12b-20, 240.13a-1, 240.13a-11, 
+
+and 240.13a-13]. 
+
+       18.     Through the activities alleged in this Complaint, defendant T. Lundstrom, directly 
+
+or indirectly, engaged in transactions, acts, practices, and courses of business that violated 
+
+Exchange Act Section 10(b) [15 U.S.C. § 78j(b)] and Rule 10b-5 thereunder [17 C.F.R. § 
+
+240.10b-5]. 
+
+       19.     As set out in Section VII below, the Commission seeks an injunction permanently 
+
+restraining and enjoining each defendant from engaging in the acts, practices and courses of 
+
+business alleged in this Complaint; an order requiring defendant T. Lundstrom to disgorge ill-
+
+gotten gains together with pre-judgment and post-judgment interest, and directing each of the 
+
+defendants to pay civil penalties; an order permanently prohibiting defendants G. Lundstrom and 
+
+Laphen from acting as an officer or director of any public company; and the grant of such other 
+
+relief as is appropriate. 
+
+                                        V.     FACTS  
+
+A.     Background of TierOne’s Asset and Capital Problems 
+ 
+       20.     Although TierOne had traditionally focused on residential and agricultural loans 
+
+in the Midwest, beginning in approximately 2004, TierOne opened loan production offices 
+
+(“LPOs”) in several high-growth areas, such as Las Vegas, Florida, and Arizona.  A significant 
+
+number of the LPO loans were made to real estate developers in which repayment was 
+
+                                               6 
+
+ 
+---------------------Page 7---------------------
+
+          8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 7 of 31 - Page ID # 7                       
+ 
+
+contingent on the completion and sale or refinancing of the projects.  This strategy made the 
+
+bank particularly vulnerable to the fallout from the financial crisis, as the high-growth areas in 
+
+which TierOne had opened its LPOs were hardest hit by the dramatic fall in real estate prices.  
+
+By at least 2008, a significant number of real estate projects funded by TierOne’s LPO loans had 
+
+faltered or were faltering.    
+
+       21.     In June 2008, OTS concluded that TierOne’s asset quality had deteriorated and 
+
+directed TierOne to maintain higher core and risk-based capital ratios.  These heightened 
+
+regulatory capital requirements were ultimately incorporated into a formal Supervisory 
+
+Agreement that OTS imposed on TierOne in January 2009.   
+
+       22.     Complying with the terms of the Supervisory Agreement, including meeting its 
+
+elevated capital requirements, was needed to prevent further enforcement actions.  Such actions  
+
+could have included the removal of management or the seizure of the bank. 
+
+       23.     Meeting the OTS-required capital ratios was difficult, and became increasingly 
+
+more difficult, given the bank’s rising level of non-performing loans.  As detailed below, rather 
+
+than properly calculating its loan and OREO losses – and face regulatory sanctions – G. 
+
+Lundstrom and Laphen materially misstated the value of the bank’s collateral and OREO 
+
+properties.  Their purpose was to allow the bank to falsely report to OTS and the investing public 
+
+that TierOne had met and was continuing to meet the new, higher, OTS-mandated capital 
+
+requirements.  
+
+B. 	   G. Lundstrom and Laphen Engaged in a Scheme to Defraud OTS and TierOne’s 
+       Investors 
+ 
+       24.     Generally Accepted Accounting Principles, or “GAAP,” provides that a loan 
+
+becomes “impaired” when it is probable that the bank will be unable to collect all amounts due 
+
+                                               7 
+
+ 
+---------------------Page 8---------------------
+
+          8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 8 of 31 - Page ID # 8                       
+ 
+
+under the original loan agreement.  In addition, TierOne’s written lending policy stated that a 
+
+loan greater than 90 days past due should be considered impaired.  
+
+       25.     Under GAAP, TierOne was required to assess probable losses associated with its 
+
+impaired loans and record those losses in its allowance for loan and lease losses 
+
+(“ALLL”).  GAAP permits the impairment to be measured using the fair value of the underlying 
+
+collateral if the loan is collateral dependent, which is the method that was typically utilized by 
+
+TierOne.  
+
+       26.     Any increase in ALLL (a balance sheet item) must be accompanied by the 
+
+recording of a provision for loan losses (an income statement item), thereby increasing reported 
+
+loss and further eroding the bank’s capital, which, in turn, negatively impacted the bank’s ability 
+
+to meet the OTS-required elevated capital ratios.   
+
+       27.     Some of TierOne’s real estate loans were eventually foreclosed upon and the 
+
+underlying collateral became the property of the bank, or OREO.  GAAP required TierOne to 
+
+carry OREO on its books at the lower of the property’s book value or fair value, less costs to sell 
+
+the property. 
+
+       28.     Thus, a key consideration under GAAP regarding the existence and magnitude of 
+
+losses for impaired loans or OREO is the fair value of the collateral or OREO property.  A recent 
+
+appraisal performed by an independent and certified real estate appraiser is normally the best 
+
+evidence of a property’s fair value.  In the absence of a current appraisal, all relevant and current 
+
+information known at the time must be used.  This information includes: the most recent 
+
+evidence of market declines, broker price opinions (“BPO”), recent comparable sales, internal 
+
+determinations of value, current project status and offers to purchase or sell.   
+
+                                                8 
+
+ 
+---------------------Page 9---------------------
+
+          8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 9 of 31 - Page ID # 9                       
+ 
+
+       29.     In this case, TierOne intentionally delayed the process of obtaining current 
+
+appraisals for properties that had declined in value, relying instead on inaccurate data and 
+
+assumptions. 
+
+       30.     In addition to the GAAP requirements, TierOne’s written lending policy 
+
+contained detailed sections describing when new appraisals should be obtained.  For example, 
+
+this policy expressly noted that “[i]n a rapidly escalating or deteriorating market” – such as the 
+
+one the bank was facing in 2008 and 2009 – “an appraisal may be valid for only a few months.” 
+
+TierOne’s lending policy also required new appraisals for loan modifications involving the 
+
+extension of additional credit “if the market or property has deteriorated to the point where the 
+
+Bank’s collateral is threatened.”  As described below, G. Lundstrom and Laphen failed to adhere 
+
+to these policies.   
+
+       31.     TierOne evaluated its loan loss provisions through an informal committee that 
+
+included TierOne’s chief credit officer and TierOne’s special assets executive (who was involved 
+
+in certain troubled loan workouts).  The conclusions of the committee were documented in 
+
+spreadsheets that contained estimates of collateral values and loan impairment determinations.  
+
+Once the final ALLL numbers were determined by the committee, a report including the reserves 
+
+for each impaired loan was presented to TierOne’s formal Asset Classification Committee, on 
+
+which G. Lundstrom and Laphen sat, for approval. 
+
+       32.     TierOne also had a Sarbanes-Oxley Act of 2002 (“SOX”) 302 Certification 
+
+Disclosure Committee (“SOX 302 Committee”) that reviewed TierOne’s periodic filings before 
+
+they were filed with the Commission.  G. Lundstrom and Laphen were members of this 
+
+committee.  As part of the SOX 302 Committee meetings, each of the members provided 
+
+positive assurances that: (1) there was no reason to believe that the company’s internal controls 
+
+                                               9 
+
+ 
+---------------------Page 10---------------------
+
+        8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 10 of 31 - Page ID # 10                       
+ 
+
+were inadequate to ensure all material information was known to TierOne’s officers; (2) no one 
+
+believed the financial statements failed to present fairly in all material respects the company’s 
+
+results of operations and financial condition; (3) no one believed the periodic report contained 
+
+material misstatements or omissions; and (4) there was no other reason why it would be unwise 
+
+or inappropriate for the certifying officers to swear to the disclosures in the periodic report.   
+
+       33.     Rather than comply with GAAP and the bank’s own policies, G. Lundstrom and 
+
+Laphen manipulated TierOne’s loss provisions, primarily by relying on stale and inadequately 
+
+discounted real estate appraisals while ignoring other available information that would require 
+
+write-downs.  For example: 
+
+       1.     Gemm Homes  
+
+       34.     In January 2008, TierOne foreclosed on a real estate development loan to 
+
+borrower Gemm Homes.  A September 2007 appraisal                             valued the Gemm Homes property at $5.1 
+
+million. 
+
+       35.     In late June 2008, TierOne received several BPOs for the property that had an 
+
+average value of around $3 million.  In October 2008, TierOne’s participating lender obtained an 
+
+appraisal that similarly showed a property value of $3 million.   
+
+       36.     In early March 2009, TierOne’s special assets executive informed Laphen of the 
+
+$3 million appraisal, but Laphen ignored it.  
+
+       37.     In May 2009, the participating lender wrote a letter to the special assets executive 
+
+(copying Laphen) demanding that TierOne respond to its proposal to market and sell the Gemm 
+
+Homes property in the $3 million range.   
+
+       38.     In an email dated May 21, 2009, the special assets executive summarized the 
+
+Gemm Homes situation to Laphen:   
+
+                                               10 
+
+ 
+---------------------Page 11---------------------
+
+        8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 11 of 31 - Page ID # 11                       
+ 
+
+       The [Gemm Homes] appraisal was delivered to [TierOne] in the 4    th
+                                                                           quarter of 
+       2008, and [TierOne] chose to not accept this appraisal, as it would have resulted 
+       in a $1.8MM additional write-down. . . . [The participating lender] has been 
+       insisting on listing the property for something in the $3MM range, and after 
+       discussing this matter with Management, TOB elected not to list the property at  
+       the recommended $3MM amount, as it would have also triggered the required 
+       $1.8MM write-down. . . . [O]ur refusal to accept the updated appraisal and market 
+       the [Gemm Homes] property is imprudent.   
+
+       39.     Notwithstanding this information, Laphen rejected the special assets executive’s 
+
+recommendation to write-down the Gemm Homes property.  
+
+       40.     G. Lundstrom and Laphen then approved TierOne’s purchase of the participating 
+
+lender’s interest in the transaction (even though it was apparent TierOne would ultimately incur a 
+
+sizeable loss).  This acquisition effectively covered up TierOne’s improper failure to write-down 
+
+the Gemm Homes property. 
+
+       41.     TierOne did not book the appropriate $1.8 million OREO loss provision for 
+
+Gemm Homes during the relevant period.  Further, neither G. Lundstrom nor Laphen alerted  
+
+TierOne’s accounting staff or outside auditor to the October 2008 appraisal.      
+
+       2. Escapa loans 
+
+       42.     TierOne made a series of loans, totaling approximately $17 million, to Las Vegas 
+
+developer Escapa.  By at least early 2008, these loans were impaired.   
+
+       43.     On September 18, 2008, TierOne’s loan workout consultant located in Las Vegas 
+
+sent an email to Laphen, later forwarded to G. Lundstrom, with his written estimates of the value 
+
+of the collateral for several Escapa loans.  These estimates showed millions of dollars of losses 
+
+within the Escapa portfolio as compared to the amounts TierOne had on its books.   
+
+       44.     Neither G. Lundstrom nor Laphen caused TierOne to order new appraisals or 
+
+otherwise re-evaluate the value of the collateral supporting the Escapa loans.  As a result, 
+
+                                               11 
+
+ 
+---------------------Page 12---------------------
+
+        8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 12 of 31 - Page ID # 12                       
+ 
+
+TierOne’s loss provisions associated with the Escapa loans were inadequate by millions of  
+
+dollars.   
+
+       3.     Towne Vistas loan  
+
+       45.     Towne Vistas was a large condominium project in Las Vegas financed by a $32.3 
+
+million loan from TierOne, one of the largest loans at the bank.   
+
+       46.     In the first quarter of 2009, TierOne’s Las Vegas workout consultant informed 
+
+Laphen that the project was likely worth only $15 million, or half the loan amount.  However, 
+
+Laphen did not cause TierOne to order a new appraisal or otherwise re-evaluate the collateral 
+
+value supporting the loan, or share this information with TierOne’s internal accountants or 
+
+external auditor.  Instead, the $15 million value was ignored and the loan was deemed “not 
+
+impaired” for the first quarter of 2009 based on a stale, un-discounted 2005 appraisal showing a 
+
+value of $46.5 million.   
+
+       47.     In mid-June 2009, both G. Lundstrom and Laphen were informed that the $15 
+
+million value for the Towne Vistas project was based on a residential appraisal recently obtained 
+
+by the borrower on a finished condo unit in the project.  However, a new appraisal for the entire 
+
+project was not ordered, the $15 million value was ignored, and the stale 2005 appraisal was 
+
+again used with no discount to support the decision not to impair the Towne Vistas loan for the 
+
+second quarter of 2009. 
+
+       4.     Brother Sonny/Jericho loans 
+
+       48.     Brother Sonny was a real estate development project in Las Vegas financed by a 
+
+$17.5 million loan from TierOne in 2006.  The loan was supported by a November 2006 
+
+appraisal showing the real estate was worth $23.5 million, if completed.   
+
+                                               12 
+
+ 
+---------------------Page 13---------------------
+
+        8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 13 of 31 - Page ID # 13                       
+ 
+
+       49.     By September 2008, the Brother Sonny loan was over 90 days delinquent and 
+
+millions were owed to various project vendors.  These factors should have caused the loan to be 
+
+deemed impaired under GAAP.   Instead, Tier  One extended an additional $13.6 million in credit 
+
+purportedly supported by a second lien position in a separate piece of real estate collateral called 
+
+Jericho.  In an email dated August 28, 2008, TierOne’s chief credit officer wrote:  “I am totally 
+
+bewildered that [Jericho] could ever be worth/appraised for numbers even half of what we’re 
+
+being told it’s worth.” 
+
+       50.     Even though TierOne’s own lending policy required new appraisals, neither G. 
+
+Lundstrom nor Laphen caused TierOne to obtain appraisals for the Brother Sonny and Jericho 
+
+collateral when they approved the loan modification in early September 2008.  Instead, the loan 
+
+modification recommendation relied on the 2006 appraisal for the Brother Sonny property and an 
+
+unsigned, expired letter of intent from a third party to purchase the Jericho parcel.  As a result, G. 
+
+Lundstrom and Laphen masked the Brother Sonny delinquency so that the loan would be treated 
+
+as a performing rather than impaired loan.  No impairment charge was taken during the relevant 
+
+period, and TierOne understated its loan losses on the Brother Sonny/Jericho loan by millions of 
+
+dollars. 
+
+C. 	   G. Lundstrom and Laphen Knew, or Were Severely Reckless in Not Knowing, that 
+       TierOne’s Loss Provisions Were Materially Understated 
+ 
+       51.     In addition to the specific information on property values discussed above, G. 
+
+Lundstrom and Laphen were also each alerted through repeated emails and reports to the 
+
+accounting improprieties that occurred at TierOne. 
+
+       52.     For example, on February 18, 2009, prior to the filing of TierOne’s Form 10-K 
+
+for the year ended December 31, 2008, G. Lundstrom and Laphen received an email from  
+
+TierOne’s special assets executive that stated, among other things:   
+
+                                              13 
+
+ 
+---------------------Page 14---------------------
+
+        8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 14 of 31 - Page ID # 14                       
+ 
+
+       I’m not sure how to address these issues, but I remain concerned that we continue 
+       to expose ourselves adversely on both the [ALLL] analysis and our OREO 
+       properties with out-dated appraisals.  I understand the write-downs we would 
+       experience would likely be astronomical, but in good conscience how long can we 
+       continue to believe these are properly reserved?     
+
+The email went on to list many loans and OREO (including Gemm Homes) that had stale 
+
+appraisals.  G. Lundstrom and Laphen ignored this February 18, 2009 email.        
+
+       53.     Further, in early 2009, G. Lundstrom requested an analysis of the losses within 
+
+TierOne’s loan portfolio.  TierOne’s chief credit officer (and others) conducted what was, in 
+
+substance, a loan reserve analysis.  The chief credit officer summarized the findings in an email 
+
+dated February 17, 2009: 
+
+       [I] spent the day estimating loss potential   by location and loan type and without a 
+       clear explanation of the purpose of the exercise – so, completely in the dark as to 
+       the reasons for the “drill,” we concluded that we needed another $65mm [million] 
+       of reserves over and above those currently allocated.   
+
+       54.     At approximately the same time, G. Lundstrom and Laphen rejected a 
+
+contemporaneous recommendation from TierOne’s internal audit department (which was 
+
+unaware of the February 17, 2009 email) to establish a mandatory annual re-appraisal policy for 
+
+OREO, which would have been consistent with addressing the special assets executive’s 
+
+concerns. 
+
+       55.     Around mid-April 2009, G. Lundstrom requested a more detailed breakdown of 
+
+the anticipated loan losses.  The chief credit officer and others estimated the embedded losses on 
+
+a loan-by-loan basis and documented their conclusions in a spreadsheet presented to G. 
+
+Lundstrom and Laphen on or before April 28, 2009.   This analysis (the “Best/Worst Case 
+
+Scenario”) contained estimates of losses associated with over 120 properties/loans, many located 
+
+in Las Vegas, and showed that TierOne needed additional loan loss provisions ranging between 
+
+$36 million (best case), $60 million (expected case), and $114 million (worst case).  
+
+                                              14 
+
+ 
+---------------------Page 15---------------------
+
+        8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 15 of 31 - Page ID # 15                       
+ 
+
+       56.     As shown in the following chart, the example loans discussed above in paragraphs 
+
+42 through 50 were estimated to have multi-million dollar losses within the Best/Worst Case 
+
+Scenario that, standing alone, would have caused TierOne to miss the OTS-mandated capital 
+
+ratios: 
+
+                                                  Best/Worst Case Scenario 
+
+Loan                                    Best                Expected               Worst 
+
+Escapa                                    $5,760,000            $7,980,000         $10,200,000 
+
+Brother Sonny/Jericho                              0                     0         $13,000,000 
+
+Towne Vistas                              $5,000,000          $10,000,000          $20,000,000 
+
+TOTAL $10,760,000                                             $17,980,000          $43,200,000 
+
+       57.     The Best/Worst Case Scenario was not, however, used to develop the ALLL and 
+
+associated loan loss provisions that G. Lundstrom and Laphen approved and TierOne reported in 
+
+the company’s periodic filings for the first or second quarters of 2009.  
+
+       58.     On August 3, 2009, a week before TierOne filed its Form 10-Q for the second 
+
+quarter of 2009, Laphen learned of a memorandum drafted by TierOne’s special assets 
+
+executive.  The memo detailed TierOne’s continued reliance on stale appraisals and failure to 
+
+book appropriate loan and OREO loss provisions.  The memo stated, among other things:   
+
+              a.         “I remain convinced that we continue to fail to properly risk rate our 
+
+              loans and we refuse to update collateral valuations, out of the fear of what impact 
+
+              these actions may have on reserve levels.” 
+
+              b.        “I am concerned that we are misleading the public.  All this 
+
+              compounded by the fact that we are basing so much off of significantly aged 
+
+              collateral valuations.”   
+
+                                              15 
+
+ 
+---------------------Page 16---------------------
+
+        8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 16 of 31 - Page ID # 16                       
+ 
+
+              c.         “I fully comprehend the impact updating collateral valuations on both 
+
+              our watch credits and our OREO properties will have on the organization.”  
+
+              d.        “I am unable to support the timing of reappraisals to delay loss 
+
+              recognition or increases to the reserves into later quarters.” 
+
+       59.     Laphen immediately told G. Lundstrom of the existence of the memo.  As with 
+
+the February 18, 2009 email, no action was taken to correct the loan and OREO losses in 
+
+TierOne’s financial statements.  Instead, G. Lundstrom and Laphen provided positive assurances 
+
+at the SOX 302 Committee meeting that took place three days later that no one believed that the 
+
+financial statements contained material misstatements or omissions.   
+
+D.     The Scheme Was Exposed in the Third Quarter of 2009 
+ 
+       60.     In August 2009, OTS directed TierOne to obtain updated appraisals.  The new 
+
+appraisals revealed the actual values of TierOne’s collateral for impaired loans and OREO.  On 
+
+October 14, 2009, TierOne filed a Form 8-K reporting an additional $13.9 million in loan loss 
+
+provisions for the second quarter of 2009.  TierOne also announced that it intended to restate its 
+
+second quarter 2009 financial statements, and that the bank’s capital ratios would fall below the 
+
+levels required by OTS.  In the days following this news, TierOne’s stock price fell over 17 
+
+percent, from approximately $3.27 per share to $2.69 per share.  
+
+       61.     The situation worsened as more OTS-mandated appraisals came in.  On 
+
+November 10, 2009, TierOne filed another Form 8-K reporting an additional loan loss provision 
+
+of $120.2 million for the third quarter of 2009.  TierOne’s stock price dropped a further 54 
+
+percent over the next three trading days, from  approximately $1.71 per share to $0.78 per share.   
+
+       62.     TierOne was shut down by OTS on June 4, 2010, and filed for bankruptcy later 
+
+that month.   
+
+                                               16 
+
+ 
+---------------------Page 17---------------------
+
+        8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 17 of 31 - Page ID # 17                       
+ 
+
+E. 	   G. Lundstrom and Laphen Made Materially False Statements in TierOne’s Periodic 
+       Filings with the Commission  
+       
+       63.     TierOne’s periodic filings with the Commission (and related earnings releases) 
+
+contained the following loan loss provisions and net losses that materially understated – by 
+
+millions – the amounts required by GAAP:  
+
+               a.      TierOne’s Form 10-K for the year ended December 31, 2008, and its 
+
+               February 25, 2009 Form 8-K, reported provisions for loan losses of $10.8 million 
+
+               for the fourth quarter and $84.4 million for the year, and net losses of $3.8 million 
+
+               for the fourth quarter and $75.2 million for the year.    
+
+               b.      TierOne’s Form 10-Q for the quarter ended March 31, 2009, and the May 
+
+               7, 2009 Form 8-K, reported provisions for loan losses of $12.2 million and a net 
+
+               loss of $9.8 million.   
+
+               c.      TierOne’s Form 10-Q for the quarter ended June 30, 2009 and its August 
+
+               10, 2009 Form 8-K, reported provisions for loan losses of $21.7 million and a net 
+
+               loss of $16.1 million.   
+
+      64.     In addition, each of TierOne’s periodic filings at issue reported that TierOne was 
+
+in compliance with its elevated regulatory capital requirements.  In particular, the filings stated 
+
+as follows: 
+
+               a. 	    Form 10-K (filed 3/13/09):  
+
+       We are subject to various regulatory capital requirements administered by federal 
+       banking agencies.  Failure to meet minimum capital requirements can initiate 
+       certain mandatory and possibly additional discretionary actions by regulators that, 
+       if undertaken, could have a direct material adverse effect on our financial 
+       condition and results of operations . . . . [T]he OTS has required that the Bank 
+       maintain a ratio of 11.0% (as opposed to 10.0%) with respect to total risk-based 
+       capital to risk-weighted assets and a ratio of 8.5% (as opposed to 5.0%) with 
+
+                                               17 
+
+ 
+---------------------Page 18---------------------
+
+        8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 18 of 31 - Page ID # 18                       
+ 
+
+       respect to core (Tier 1) capital.  As of December 31, 2008, the Bank exceeded 
+       these elevated ratios mandated by the OTS.  
+
+              b.      Form 10-Q (filed 5/8/09): 
+
+       [T]he OTS has required that the Bank maintain a ratio of 11.0% with respect to 
+       total risk-based capital to risk-weighted assets and a ratio of 8.5% with respect to 
+       core (Tier 1) capital. As of March 31, 2009, the Bank exceeded these elevated 
+       ratios mandated by the OTS.  
+
+              c.      Form 10-Q (filed 8/10/09): 
+
+       [T]he OTS has required that the Bank maintain a ratio of 11.0% with respect to 
+       total risk-based capital to risk-weighted assets and a ratio of 8.5% with respect to 
+       core (Tier 1) capital. As of June 30, 2009, the Bank met or exceeded these 
+       elevated ratios mandated by the OTS.  
+
+      65.     Had TierOne recorded appropriate loss provisions for each quarter at issue, it 
+
+would have fallen below its required capital ratios from at least the period ending December 31, 
+
+2008.  Thus, all of these periodic filings contained materially false disclosures concerning 
+
+TierOne’s regulatory compliance.  
+
+       66.     G. Lundstrom signed the Form 10-K for the year ended December 31, 2008, and 
+
+the Forms 10-Q for the quarters ended March 31, 2009, and June 30, 2009; Laphen signed only 
+
+the 2008 Form 10-K.  
+
+F.     G. Lundstrom Falsely Certified TierOne’s Public Filings 
+ 
+       67.     As TierOne’s CEO, G. Lundstrom was also required to certify that he had 
+
+reviewed the bank’s public filings and that, based on his knowledge, they did not contain any 
+
+material misstatements or omissions.  
+
+       68.     Although G. Lundstrom knew, or was severely reckless in not knowing, that 
+
+TierOne’s periodic filings contained material misrepresentations concerning its loan and OREO 
+
+losses and compliance with the OTS-mandated capital ratios, he certified the Form 10-K for the 
+
+                                               18 
+
+ 
+---------------------Page 19---------------------
+
+        8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 19 of 31 - Page ID # 19                       
+ 
+
+year ended December 31, 2008, and the Forms 10-Q for the quarters ended March 31, 2009, and 
+
+June 30, 2009. 
+
+G. 	   G. Lundstrom and Laphen Circumvented TierOne’s Accounting Controls and 
+       Caused TierOne’s Accounting Records to Be Falsified  
+       
+       69.     G. Lundstrom and Laphen failed to implement an effective  system of internal 
+
+accounting controls, circumvented TierOne’s accounting controls, and caused TierOne’s 
+
+accounting records to be falsified.  As discussed above, they failed to inform the bank’s 
+
+accounting staff of information showing that TierOne had not taken adequate loan and OREO 
+
+loss provisions.  They also approved the final reported ALLL even though they had information, 
+
+including the Best/Worst Case Scenario described above in paragraphs 55 to 57, showing that 
+
+TierOne was grossly under-reserved.  They further failed to adhere to TierOne’s own lending 
+
+policy, which adversely impacted the bank’s financial reporting.  
+
+       70.     In addition, on March 11, 2009, G. Lundstrom  falsely certified in TierOne’s Form  
+
+10-K for the year ended December 31, 2008, that he had evaluated the bank’s internal controls 
+
+over financial reporting and that the controls were effective.  
+
+H. 	   G. Lundstrom and Laphen are Liable For TierOne’s Securities Law Violations as 
+       Control Persons 
+        
+       71.     As set forth herein, TierOne, through the acts and omissions of its officers, 
+
+violated Exchange Act Sections 10(b), 13(a), and 13(b)(2) [15 U.S.C. §§ 78j(b), 78m(a), and 
+
+78m(b)(2)] and Rules 10b-5, 12b-20, 13a-1, 13a-11, and 13a-13 [7 C.F.R. §§ 240.10b-5, 
+
+240.12b-20, 240.13a-1, 240.13a-11, and 240.13a-13]. 
+
+       72.     G. Lundstrom, as TierOne’s chairman/CEO, and Laphen, as its 
+
+president/COO/director, exercised control over the general operations of TierOne and possessed 
+
+                                              19 
+
+ 
+---------------------Page 20---------------------
+
+        8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 20 of 31 - Page ID # 20                       
+ 
+
+the power to determine the specific acts or omissions upon which TierOne’s violations are 
+
+predicated.  
+
+I. 	   G. Lundstrom and Laphen Made Materially False Statements and/or Omissions to 
+       TierOne’s Auditors 
+ 
+       73.     To further advance their scheme, G. Lundstrom and Laphen made false 
+
+representations to TierOne’s external auditors.   
+
+       74.     In management representation letters to the auditors signed by G. Lundstrom in 
+
+May and August 2009, he falsely claimed that: (1) TierOne’s financial statements were fairly 
+
+presented in conformity with GAAP; (2) when material, provisions for loan and OREO losses 
+
+had been recorded; (3) there were no loss contingencies required to be disclosed under the 
+
+relevant GAAP; (4) he had no knowledge of any allegations of fraud or fraudulent activity 
+
+received from employee communications; and (5) he had no knowledge of an officer taking 
+
+actions to mislead the external auditor.  G. Lundstrom and Laphen made similar false statements 
+
+in a management representation letter that they each signed on March 11, 2009.    
+
+       75.     As noted above, G. Lundstrom and Laphen failed to alert the auditors when they 
+
+received information showing that specific loan and OREO losses were understated and did not 
+
+provide the auditors with the Best/Worst Case Scenario.  
+
+J. 	   Insider Trading By T. Lundstrom and G. Lundstrom 
+ 
+       76.     As TierOne’s chairman/CEO, G. Lundstrom owed a duty to TierOne and its 
+
+shareholders.  Specifically, G. Lundstrom had a duty not to disclose any confidential information 
+
+he learned during the course of his service as an officer and director, and not to use the 
+
+information for his benefit or for the benefit of others.  
+
+       77.     Prior to June 2009, G. Lundstrom knew, or was severely reckless in not knowing, 
+
+that TierOne had a written “Statement of Policy and Procedures Governing Trading in Shares of 
+
+                                              20 
+
+ 
+---------------------Page 21---------------------
+
+        8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 21 of 31 - Page ID # 21                       
+ 
+
+TierOne Corporation” (“Insider Trading Policy”) prohibiting the dissemination of any nonpublic 
+
+information.  
+
+       78.     The Insider Trading Policy stated, in pertinent part:   
+
+              a.      “All Company Personnel are expected to maintain the confidentiality of 
+
+              nonpublic information obtained in the course of their relationship with 
+
+              [TierOne]”;  
+
+              b.      “sales of substantial assets” is a type of information that should be kept 
+
+              confidential; and 
+
+              c.      “[Y]ou are prohibited from ‘tipping’ others.  The concept of unlawful 
+
+              tipping includes passing on information to family members . . . .”  
+
+       79.     T. Lundstrom was aware prior to June 2009 that his father served as the 
+
+chairman/CEO of TierOne and knew, or was severely reckless in not knowing, that his father 
+
+owed a duty to TierOne and its shareholders.     
+
+       80.     In approximately January 2009, G. Lundstrom discussed with Great Western a 
+
+possible sale of substantial assets by TierOne.  From approximately January through September 
+
+2009, G. Lundstrom acted as one of TierOne’s lead negotiators concerning the asset sale to Great 
+
+Western.  
+
+       81.     As a result of TierOne’s potential asset sale to Great Western, and pursuant to 
+
+TierOne’s Insider Trading Policy, on May 29, 2009, certain TierOne officers and directors, 
+
+including G. Lundstrom, were subjected to a “Blackout Period” prohibiting purchases and sales 
+
+of TierOne securities.  The Blackout Period extended from June 10, 2009, through August 5, 
+
+2009, and was later extended through September 4, 2009.   
+
+                                               21 
+
+ 
+---------------------Page 22---------------------
+
+        8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 22 of 31 - Page ID # 22                       
+ 
+
+       82.     On June 15, 2009, G. Lundstrom, on behalf of TierOne, executed a confidentiality 
+
+agreement with Great Western regarding the potential asset sale transaction.   
+
+       83.     On June 16, 2009, G. Lundstrom and other executives and advisors for TierOne 
+
+met with representatives of Great Western in Chicago, Illinois, to discuss the terms of the 
+
+proposed asset sale, which included the sale of specific TierOne branch offices, performing 
+
+loans, and other assets.  
+
+       84.     On June 17, 2009, a working model of the asset sale was sent to certain TierOne 
+
+personnel, including G. Lundstrom, valuing the sale at $1.6 billion.   
+
+       85.     On June 17, 2009, T. Lundstrom arrived in Lincoln, Nebraska, from Birmingham, 
+
+Alabama, to visit his father and participate in a three-day golf tournament at a country club in 
+
+which G. Lundstrom was a member.  T. Lundstrom stayed at G. Lundstrom’s home from Friday, 
+
+June 17 through Sunday, June 21, 2009.  
+
+       86.     On June 18, 2009, G. and T. Lundstrom spent many hours together playing as a 
+
+team in the golf tournament at the country club.   
+
+       87.     On or about June 18, 2009, G. Lundstrom  tipped T. Lundstrom with material 
+
+nonpublic information regarding TierOne’s potential asset sale to Great Western.   
+
+       88.     At approximately 10:30 p.m. on June 18, 2009, T. Lundstrom placed an order to 
+
+purchase 10,000 shares of TierOne common stock for approximately $19,500.  This was the first 
+
+in a series of 113 purchase orders for TierOne stock that T. Lundstrom placed in accounts he 
+
+owned or controlled between June 18, 2009, and September 2, 2009.  
+
+       89.     Within ten days from his June 18th
+                                                 purchase, T. Lundstrom liquidated all non-
+
+TierOne equities held in the brokerage accounts he owned and controlled in order to purchase 
+
+TierOne common stock.  
+
+                                              22 
+
+ 
+---------------------Page 23---------------------
+
+        8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 23 of 31 - Page ID # 23                       
+ 
+
+       90.     In addition, the next month T. Lundstrom leveraged his insider trading by 
+
+borrowing funds at significant interest rates to acquire TierOne stock.  On July 10, 2009, T. 
+
+Lundstrom applied for a personal, unsecured $75,000 bank loan with an interest rate of 8.95 
+
+percent.  He received these funds on July 24, 2009, and used the funds for the sole purpose of 
+
+purchasing TierOne stock.  On July 26, 2009, T. Lundstrom applied for a credit card with a 
+
+$53,000 limit and interest rate of 10.99 percent.  On August 4, 2009, he obtained a $50,000 cash 
+
+advance from the credit card and used the funds for the sole purpose of purchasing TierOne 
+
+stock.  
+
+       91.     While G. Lundstrom continued to negotiate the asset sale with Great Western, T. 
+
+and G. Lundstrom continued to communicate periodically and T. Lundstrom continued to 
+
+purchase TierOne stock.    
+
+       92.     Between June 18, 2009, and September 2, 2009, T. Lundstrom acquired 209,985 
+
+shares of TierOne stock for a total purchase price of $431,332 in accounts he owned and 
+
+controlled on the basis of material nonpublic information supplied by his father.  
+
+       93.     On Friday, September 4, 2009, at approximately 8:00 a.m., TierOne announced 
+
+that it had agreed to sell to Great Western $1.1 billion in deposits, $800 million in loans, and $20  
+
+million in real estate.  G. Lundstrom e-mailed the September 4th
+                                                                announcement to T. Lundstrom  
+
+shortly after its release.   
+
+       94.     Following the announcement, TierOne’s stock price closed up over 45 percent to 
+
+$3.13 per share.  
+
+       95.     T. Lundstrom thereafter sold all of the TierOne stock that he had acquired 
+
+between June 18, 2009, and September 2, 2009.  T. Lundstrom’s total ill-gotten gains from the 
+
+                                               23 
+
+ 
+---------------------Page 24---------------------
+
+        8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 24 of 31 - Page ID # 24                       
+ 
+
+TierOne stock that he purchased on the basis of inside information tipped from his father is 
+
+approximately $225,921.  
+
+                               VI.     CLAIMS FOR RELIEF 
+
+ 
+                                FIRST CLAIM FOR RELIEF
+  
+          Fraud - Section 10(b) of the Exchange Act and Rule 10b-5 (Insider Trading) 
+                        [15 U.S.C. § 78j(b) and 17 C.F.R. § 240.10b-5] 
+                                                 
+       96.     Paragraphs 1 through 95 are hereby realleged and incorporated by reference. 
+
+       97.     Defendants G. Lundstrom and T. Lundstrom, directly or indirectly, with scienter, 
+
+in connection with the purchase or sale of securities, by use of the means  or instrumentalities of 
+
+interstate commerce or by use of the mails, employed devices, schemes, or artifices to defraud; 
+
+made untrue statements of material fact or omitted to state material facts necessary in order to 
+
+make the statements made, in light of the circumstances under which they were made, not 
+
+misleading; or engaged in acts, practices, or courses of business which operated or would operate 
+
+as a fraud or deceit upon any person.  
+
+       98.     By reason of the foregoing, G. Lundstrom and T. Lundstrom violated, and unless 
+
+restrained and enjoined will in the future violate, Section 10(b) of the Exchange Act and Rule 
+
+10b-5. 
+
+                              SECOND CLAIM FOR RELIEF  
+          Fraud - Section 10(b) of the Exchange Act and Rule 10b-5 (Financial Fraud) 
+                        [15 U.S.C. § 78j(b) and 17 C.F.R. § 240.10b-5] 
+                                                 
+       99.     Paragraphs 1 through 95 are hereby realleged and incorporated by reference. 
+
+       100.    Defendants G. Lundstrom and Laphen, directly or indirectly, with scienter, in 
+
+connection with the purchase or sale of securities, by use of the means or instrumentalities of 
+
+interstate commerce or by use of the mails, employed devices, schemes, or artifices to defraud; 
+
+made untrue statements of material fact or omitted to state material facts necessary in order to 
+
+                                              24 
+
+ 
+---------------------Page 25---------------------
+
+        8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 25 of 31 - Page ID # 25                       
+ 
+
+make the statements made, in light of the circumstances under which they were made, not 
+
+misleading; or engaged in acts, practices, or courses of business which operated or would operate 
+
+as a fraud or deceit upon any person.  
+
+       101.    By reason of the foregoing, G. Lundstrom and Laphen violated, and unless 
+
+restrained and enjoined will in the future violate, Section 10(b) of the Exchange Act and Rule 
+
+10b-5. 
+
+                                THIRD CLAIM FOR RELIEF  
+              Aiding and Abetting Fraud - Section 10(b) of the Exchange Act and  
+
+                                  Rule 10b-5 (Financial Fraud) 
+
+                        [15 U.S.C. § 78j(b) and 17 C.F.R. § 240.10b-5] 
+
+                                                 
+       102.    Paragraphs 1 through 95 are hereby realleged and incorporated by reference. 
+
+       103.    TierOne, through the acts and omissions of its officers, directly or indirectly, with 
+
+scienter, in connection with the purchase or sale of securities, by use of the means or 
+
+instrumentalities of interstate commerce or by use of the mails, employed devices, schemes, or 
+
+artifices to defraud; made untrue statements of material fact or omitted to state material facts 
+
+necessary in order to make the statements made, in light of the circumstances under which they 
+
+were made, not misleading; or engaged in acts, practices, or courses of business which operated 
+
+or would operate as a fraud or deceit upon any person. 
+
+       104.    Defendant Laphen aided and abetted TierOne, in that he, with a general awareness 
+
+of his role in the primary violations by TierOne, provided substantial assistance to TierOne in the 
+
+commission of its violations of Section 10(b) of the Exchange Act and Rule 10b-5.   
+
+       105.    By reason of the foregoing, Laphen aided and abetted, and unless restrained and 
+
+enjoined will in the future aid and abet, violations of Section 10(b) of the Exchange Act and Rule 
+
+10b-5. 
+
+                                               25 
+
+ 
+---------------------Page 26---------------------
+
+        8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 26 of 31 - Page ID # 26                       
+ 
+
+                              FOURTH CLAIM FOR RELIEF  
+                       False Certifications - Exchange Act Rule 13a-14  
+                                   [17 C.F.R. § 240.13a-14] 
+                                                
+       106.    Paragraphs 1 through 95 are hereby realleged and incorporated by reference. 
+
+       107.    Defendant G. Lundstrom certified falsely that to the best of his knowledge there 
+
+were no untrue statements of material fact or omissions of a material fact necessary to make the 
+
+statements made, in light of the circumstances under which such statements were made, not 
+
+misleading in reports filed by TierOne with the Commission under Section 13(a) of the 
+
+Exchange Act. 
+
+       108.    By reason of the foregoing, G. Lundstrom violated, and unless restrained and 
+
+enjoined will in the future violate, Exchange Act Rule 13a-14. 
+
+                               FIFTH CLAIM FOR RELIEF  
+             Circumvention of Internal Controls and Falsified Books and Records- 
+
+                             Section 13(b)(5) of the Exchange Act 
+
+                                   [15 U.S.C. § 78m(b)(5)] 
+
+                                                
+       109.    Paragraphs 1 through 95 are hereby realleged and incorporated by reference. 
+
+       110.    Defendants G. Lundstrom and Laphen knowingly circumvented, or knowingly 
+
+failed to implement, an effective system of internal accounting controls, or knowingly falsified 
+
+books, records or accounts of TierOne.  
+
+       111.    By reason of the foregoing, G. Lundstrom and Laphen violated, and unless 
+
+restrained and enjoined will in the future violate, Section 13(b)(5) of the Exchange Act.  
+
+                               SIXTH CLAIM FOR RELIEF  
+                   Falsified Books and Records - Exchange Act Rule 13b2-1 
+                                   [17 C.F.R. § 240.13b2-1] 
+                                                
+       112.    Paragraphs 1 through 95 are hereby realleged and incorporated by reference. 
+
+       113.    Defendants G. Lundstrom and Laphen, directly or indirectly, falsified or caused to 
+
+be falsified books, records or accounts of TierOne. 
+
+                                              26 
+
+ 
+---------------------Page 27---------------------
+
+        8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 27 of 31 - Page ID # 27                       
+ 
+
+       114.    By reason of the foregoing, G. Lundstrom and Laphen violated, and unless 
+
+restrained and enjoined will in the future violate, Exchange Act Rule 13b2-1. 
+
+                             SEVENTH CLAIM FOR RELIEF  
+                     Deceit of Auditors - Rule 13b2-2 of the Exchange Act 
+                                   [17 C.F.R. § 240.13b2-2] 
+                                                
+       115.    Paragraphs 1 through 95 are hereby realleged and incorporated by reference.   
+
+       116.    Defendants G. Lundstrom and Laphen made or caused to be made materially false 
+
+or misleading statements to an accountant in connection with audits, reviews or examinations of 
+
+TierOne’s financial statements or in the preparation or filing of TierOne documents or reports 
+
+required to be filed with the Commission; or omitted to state, or caused another person to omit to 
+
+state, material facts necessary in order to make statements made, in light of the circumstances 
+
+under which such statements were made, not misleading, to an accountant in connection with 
+
+audits, reviews or examinations of TierOne’s financial statements or in the preparation or filing 
+
+of TierOne documents or reports required to be filed with the Commission. 
+
+       117.    By reason of the foregoing, G. Lundstrom and Laphen violated, and unless 
+
+restrained and enjoined will in the future violate, Exchange Act Rule 13b2-2. 
+
+                              EIGHTH CLAIM FOR RELIEF 
+          Aiding and Abetting False SEC Filings - Section 13(a) of the Exchange Act 
+
+                         and Rules 12b-20, 13a-1, 13a-11, and 13a-13
+  
+  [15 U.S.C. § 78m(a) and 17 C.F.R. §§ 240.12b-20, 240.13a-1, 240.13a-11, and 240.13a-13] 
+
+ 
+       118.    Paragraphs 1 through 95 are hereby realleged and incorporated by reference. 
+
+       119.    TierOne, an issuer of securities registered pursuant to Section 12 of the Exchange 
+
+Act, filed materially false and misleading annual, quarterly and current reports with the 
+
+Commission that made untrue statements of material fact or omitted to state material facts 
+
+necessary in order to make the statements made, in light of the circumstances under which they 
+
+                                              27 
+
+ 
+---------------------Page 28---------------------
+
+        8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 28 of 31 - Page ID # 28                       
+ 
+
+were made, not misleading, in violation of Section 13(a) of the Exchange Act and Rules 12b-20, 
+
+13a-1, 13a-11, and 13a-13. 
+
+       120.    Defendants G. Lundstrom and Laphen each aided and abetted TierOne, in that 
+
+they, with a general awareness of their role in the primary violations by TierOne, provided 
+
+substantial assistance to TierOne in the commission of its violations of Section 13(a) of the 
+
+Exchange Act and Rules 12b-20, 13a-1, 13a-11, and 13a-13.   
+
+       121.    By reason of the foregoing, G. Lundstrom and Laphen aided and abetted, and 
+
+unless restrained and enjoined will in the future aid and abet, violations of Section 13(a) of the 
+
+Exchange Act and Rules 12b-20, 13a-1, 13a-11, and 13a-13.   
+
+                               NINTH CLAIM FOR RELIEF  
+     Aiding and Abetting False Books and Records – Section 13(b)(2) of the Exchange Act 
+                                    [15 U.S.C. § 78m(b)(2)] 
+                                                 
+       122.    Paragraphs 1 through 95 are hereby realleged and incorporated by reference. 
+
+       123.    TierOne, an issuer of securities registered pursuant to Section 12 of the Exchange 
+
+Act, failed to make and keep books, records, and accounts, which, in reasonable detail, 
+
+accurately and fairly reflected the company’s transactions and dispositions of its assets and failed  
+
+to devise and maintain a system of internal accounting controls sufficient to provide reasonable 
+
+assurances that transactions were recorded as necessary to permit preparation of financial 
+
+statements in conformity with generally accepted accounting principles and any other criteria 
+
+applicable to such statements, in violation of Section 13(b)(2) of the Exchange Act.   
+
+       124.    Defendants G. Lundstrom and Laphen each aided and abetted TierOne, in that 
+
+they, with a general awareness of their role in the primary violations by TierOne, provided 
+
+substantial assistance to TierOne in the commission of its violations of Section 13(b)(2) of the 
+
+Exchange Act. 
+
+                                               28 
+
+ 
+---------------------Page 29---------------------
+
+        8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 29 of 31 - Page ID # 29                       
+ 
+
+       125.    By reason of the foregoing, G. Lundstrom and Laphen aided and abetted, and 
+
+unless restrained and enjoined will in the future aid and abet, violations of Section 13(b)(2) of 
+
+the Exchange Act. 
+
+                               TENTH CLAIM FOR RELIEF  
+    Control Person Liability under Section 20(a) of the Exchange Act [15 U.S.C. §78t(a)] for 
+  Violations by TierOne of Sections 10(b), 13(a), and 13(b)(2) of the Exchange Act and Rules 
+ 10b-5, 12b-20, 13a-1, 13a-11, and 13a-13. [15 U.S.C. §§ 78j(b), 78m(a), and 78m(b)(2) and 17 
+           C.F.R. §§ 240.10b-5, 240.12b-20, 240.13a-1, 240.13a-11, and 240.13a-13] 
+                                                    
+       126.    Paragraphs 1 through 95 are hereby realleged and incorporated by reference. 
+
+       127.    As set forth above, TierOne, through the acts and omissions of its officers, 
+
+violated Sections 10(b), 13(a), and 13(b)(2) of the Exchange Act and Rules 10b-5, 12b-20, 13a-
+
+1, 13a-11, and 13a-13. 
+
+       128.    As TierOne’s chairman/CEO and president/COO/director, respectively, 
+
+defendants G. Lundstrom and Laphen each exercised control over the general operations of 
+
+TierOne and possessed the power to determine the specific acts or omissions upon which 
+
+TierOne’s underlying violations of Sections 10(b), 13(a), and 13(b)(2) of the Exchange Act and 
+
+Rules 10b-5, 12b-20, 13a-1, 13a-11, and 13a-13 are predicated. 
+
+       129.    By reason of the foregoing, G. Lundstrom and Laphen are liable as control 
+
+persons pursuant to Section 20(a) of the Exchange Act for TierOne’s violations of Sections 
+
+10(b), 13(a), and 13(b)(2) of the Exchange Act and Rules 10b-5, 12b-20, 13a-1, 13a-11, and  
+
+13a-13. 
+
+ 
+
+ 
+
+ 
+
+                                              29 
+
+ 
+---------------------Page 30---------------------
+
+        8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 30 of 31 - Page ID # 30                       
+ 
+
+                                VII.    PRAYER FOR RELIEF  
+ 
+       WHEREFORE, the Commission respectfully requests that the Court: 
+
+                                               I. 
+
+       Find that defendants committed the violations alleged. 
+
+                                               II. 
+
+       Enter injunctive relief permanently restraining and enjoining each defendant from, 
+
+directly or indirectly, to the full extent provided by Rule 65(d) of the Federal Rules of Civil 
+
+Procedure, violating the provisions of law and rules alleged in this Complaint.  
+
+                                              III.  
+
+       Order defendant T. Lundstrom to disgorge and pay over, as the Court may direct, all ill-
+
+gotten gains received, or benefits in any form derived, from the conduct alleged in this 
+
+Complaint, together with pre-judgment and post-judgment interest as provided by law. 
+
+                                              IV. 
+
+       Order defendants G. Lundstrom and Laphen to pay civil money penalties pursuant to 
+
+Section 21(d)(3)(iii) of the Exchange Act.   
+
+                                               V. 
+
+       Order defendants G. and T. Lundstrom to pay civil money penalties pursuant to Section 
+
+21A of the Exchange Act. 
+
+                                              VI. 
+
+       Order that defendants G. Lundstrom and Laphen be permanently prohibited from acting 
+
+as an officer or director of any public company. 
+
+                                              VII. 
+
+       Grant other relief as this Court may deem just or appropriate. 
+
+                                               30 
+
+ 
+---------------------Page 31---------------------
+
+             8:12-cv-00343   Doc # 1   Filed: 09/25/12   Page 31 of 31 - Page ID # 31                       
+ 
+
+                                                            JURY DEMAND 
+ 
+           Plaintiff demands a jury trial in this matter.  
+
+                                                           TRIAL – OMAHA 
+
+           Plaintiff hereby requests that trial of the above and foregoing action should be held in 
+
+Omaha, Nebraska, and that the case be calendared accordingly.  
+
+ 
+           Respectfully submitted, this 25th day of September 2012. 
+ 
+          
+             
+                                               By: 	                 /s/ Nicholas Heinke                 
+      Barbara T. Wells, Trial Counsel 
+      Colorado Bar No. 39602 
+      Nicholas Heinke, Trial Counsel 
+      Colorado Bar No. 38738 
+      Attorneys for the Plaintiff 
+      Securities and Exchange Commission 
+      1801 California Street, Suite 1500 
+      Denver, CO 80202                                                                   
+      Phone: (303) 844-1005, (303) 844-1071                                      
+      Facsimile: (303) 844-1068 
+      Wellsb@SEC.gov, HeinkeN@SEC.gov 
+ 
+      Of counsel: 
+      Ian Karpel, Assistant Regional Director 
+      Julian Robinson, Attorney                                                                                
+      Securities and Exchange Commission 
+      1801 California Street, Suite 1500 
+      Denver, CO 80202                                                                   
+      Phone: (303) 844-1000                                                      
+ 
+
+                                                                        31 
+
+ 

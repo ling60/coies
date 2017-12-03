@@ -1,0 +1,499 @@
+Commission Opinion: Michael J. Marrie, CPA and Brian L. Berry, CPA; Rel. No. 48246 / July 29, 2003
+Home | Previous Page
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C.
+SECURITIES EXCHANGE ACT OF 1934
+Rel. No.
+48246 / July 29, 2003
+ACCOUNTING AND AUDITING ENFORCEMENT
+Rel. No.
+1823 / July 29, 2003
+Admin. Proc. File No. 3-9966
+In the Matter of the Application of
+MICHAEL J. MARRIE, CPA and
+BRIAN L. BERRY, CPA
+OPINION OF THE COMMISSION
+RULE 102(e) PROCEEDING
+Grounds for Remedial Action
+Improper Professional Conduct
+Certified public accountant acting as engagement partner and certified public accountant acting as audit manager engaged in improper professional conduct in the audit of the financial statements of a public company.
+Held, it is in the public interest to deny the accountants the privilege of appearing or practicing before the Commission.
+APPEARANCES:
+Michael F. Perlis, Wrenn E. Chais and James W. Denison of Strook & Strook & Lavan LLP, for Michael J. Marrie and Brian L. Berry.
+James A. Howell and Craig D. Martin, for the Division of Enforcement.
+Appeal filed: October 12, 2001
+Last brief received: April 7, 2002
+Oral argument: July 10, 2003
+I.
+The Division of Enforcement and the Office of the Chief Accountant (together the "Division") appeal from the decision ofan administrative law judge.
+The law judge found that Michael J. Marrie and Brian L. Berry did not engage in improper professional conduct within the meaning of Rule of Practice 102(e)1 during the course of an audit by the accounting firm of Coopers & Lybrand LLP ("Coopers" or the "Firm") of the 1994 fiscal year financial statements of California Micro Devices, Inc. ("CMD"), a public company.
+Marrie, a certified public accountant ("CPA") and former partner with Coopers, was the engagement partner for the audit of CMD.
+Berry, a CPA and former manager with the Firm, was the audit manager for the CMD audit.
+The Division alleges that Marrie and Berry recklessly failed to comply with applicable standards of professional conduct in their audit of CMD's 1994 fiscal year financial statements in three critical areas: (1) CMD's write-off of $12 million of accounts receivable, (2) confirmation of CMD's accounts receivable, and (3) CMD's sales returns and allowances for sale returns.
+According to the Division, Marrie and Berry recklessly failed to conduct the audit in accordance with Generally Accepted Auditing Standards ("GAAS") as a result of their failure to exercise professional skepticism and to obtain sufficient competent evidential matter with respect to these audit areas.2 The Division contends that this conduct constitutes improper professional conduct within the meaning of Rule 102(e)(1)(iv)(A) of the Commission's Rules of Practice.
+The Division seeks to deny Marrie and Berry the privilege of appearing or practicing before the Commission.3
+We base ourfindings on an independent review of the record, except with respect to those findings not challenged on appeal.
+II.
+The facts concerning the audit of CMD's financial statements are largely undisputed by Marrie and Berry.
+CMD is a California corporation with its headquarters in Milpitas, California.
+CMD is a designer, manufacturer, and distributor of electric circuits and semiconductors.
+During the period covered by the financial statements at issue, CMD's common stock was registered with the Commission pursuant to 12(g) of the Securities Exchange Act of 1934.4
+Coopers acted as independent auditors for CMD from 1990 until January 6, 1995.
+The primary services Coopers provided to CMD were annual audits and quarterly reviews of CMD's financial statements.
+Marrie acted as the concurring partner for the Firm's 1990 and 1991 audits of CMD and was the engagement partner for Coopers' audits of CMD from 1992 through 1994.
+Marrie had specific responsibilities for the planning, supervision, and review of the audit work.5
+He was required, as the engagement partner, to be sufficiently involved in the audit to reachinformed conclusions regarding the quality and sufficiency of the audit procedures performed.6
+Berry was the audit manager for the 1994 audit and had worked on two or three prior CMD audits.
+Berry was primarily responsible for the supervision of the audit field work.
+He participated in the planning of the audit and in interactions between the audit team and CMD's management.7
+In its filings with the Commission, CMD presented a picture of robust growth in sales and income.
+CMD's Form 10-K for fiscal year 1994 reported that net sales increased from $33 million in fiscal year 1993 to $38.2 million in fiscal year 1994.
+According to the Form 10-K, CMD's net income increased from $2 million in fiscal year 1993 to $5 million in fiscal year 1994.
+Not all of the developments at CMD during fiscal year 1994 were positive.
+CMD had lost Apple Computer, Inc. ("Apple") as a major customer that year.
+Apple accounted for 32 percent of CMD's total product sales in fiscal year 1993, but in the first half of fiscal year 1994, CMD's sales to Apple amounted to only 6 percent of its total product sales.
+For all of fiscal year 1994, CMD's sales to Apple declined by $9.2 million.
+Apple had paid its bills timely and, thus, the Apple accounts receivable were dependably collectible in a reasonable time frame.
+This meant that CMD's accounts receivable during the years that Apple had been its largest customer reflected the dependable collection of amounts owed by Apple.
+The loss of Apple as a major customer meant that CMD could not reliably depend on the past collectibility of its accounts receivable to predict future collectibility.
+At the same time, CMD's net product sales to foreign customers, many of whom were located in the Far East, had increased from 52 percent in fiscal year 1993 to 59 percent in fiscal year 1994.
+This development was significant because, while CMD's normal sales terms for foreign customers required payment in 60 days, shipments to customers in the Far East often involved lengthy transit times and certain of these customers would not pay until they had received the product.
+CMD therefore found it necessary to offer extended payment terms of 90 to 120days, or more, to several customers located in the Far East. This change in circumstances regarding CMD's customer base resulted in an increase in the amount of time it took CMD to collect payments, and, thus, resulted in an increase in the amount owed to CMD for product shipped to customers, as reflected in its balance of accounts receivable.
+CMD acknowledged an increase in its accounts receivable balance in its 1994 fiscal year second and third quarter filings with the Commission.
+The shift in customer base also meant that the history of returns by CMD's customers might no longer be valid because an increase in customers receiving product via a lengthy transit time could result in a longer time for a customer to make a return.
+Marrie testified that he was aware that CMD's sales to Apple had decreased significantly, but did not give much thought to the loss of Apple's business because of a strategic alliance that CMD had entered with Hitachi Metals.
+The strategic alliance called for CMD to license its technology to Hitachi Metals.
+This technology license agreement was to continue for ten years and was to be extended for another ten years unless cancelled by either party.
+In return, Hitachi Metals agreed to purchase 880,000 newly issued shares of CMD common stock at $24 per share. The transaction resulted in a total payment to CMD of over $21.1 million and Hitachi Metal's ownership of approximately 10 percent of CMD's common stock
+The strategic alliance consisted of a license of technology -- CMD was able to record the payment as non-sales revenue.
+While revenue from the license of technology offset revenue lost from Apple, the strategic alliance did not impact the loss of product revenue from Apple and the effect of that loss on CMD's accounts receivable balance.
+Marrie and Berry had received warning signs in a number of audit categories in their audits of CMD's financial statements for years prior to fiscal year 1994 and in the course of their quarterly reviews in fiscal year 1994.
+For example, CMD had problems with respect to its recognition of revenue in fiscal years 1992 and 1993.
+CMD's stated policy was to recognize revenue for products only upon shipment to customers.
+In practice, however, CMD was more aggressive, recognizing revenue on products that were ready for shipment on the last day of a reporting period, even if the product was not shipped until later.
+Marrie and Berry were aware of these discrepancies with respect to CMD's revenue recognition.
+They understood that the effect of this practice was to inflate falsely CMD's reported revenue.
+CMD also experienced difficulty maintaining revenue linearity, historically reporting 70 to 90 percent of its sales in the third month of each quarter.
+This trend continued infiscal year 1994.
+For example, CMD invoiced and shipped products accounting for approximately 70 percent of its revenue for the second quarter during the last week of December 1993, the final month of that quarter.
+CMD acknowledged its difficulty in maintaining revenue linearity in its second and third quarter filings with the Commission.
+Difficulty maintaining revenue linearity is not atypical among high technology companies. However, it can be a signal that revenue is not being recorded properly.
+For example, there is a greater risk that revenue from products sold at the end of the quarter but shipped after the end of the quarter may be included improperly in revenue for the earlier quarter.
+Also a spike in sales at the end of a quarter may be an indication that products sold after the end of the quarter are being included improperly in revenue for the earlier quarter.
+Marrie and Berry were aware of this history of erroneous revenue recognition by CMD as they designed and tested CMD's procedure to examine accounts receivable for the 1994 audit. When asked whether there was a relationship between the problems that CMD had experienced with revenue recognition as a result of improper sales cut-offs and the process of confirming accounts receivable, Marrie testified that they "go hand in hand."
+Marrie discussed the importance of proper recognition of revenue with CMD's audit committee in preparation for the 1994 audit.
+Berry testified that in audits prior to the 1994 audit he had found it unusually difficult to determine what CMD had and had not shipped.
+Formal planning for Coopers' audit of CMD's financial statements took place between July 14 and July 24, 1994.
+The audit plan included a plan to confirm certain of CMD's accounts receivable balances as of June 30, 1994.
+Marrie and Berry selected for confirmation all balances greater than or equal to $100,000 and randomly selected twenty additional balances under $100,000.
+The audit plan developed by Marrie and Berry also called for an analysis of CMD's sales returns and the adequacy of the company's allowance for returns.
+During the course of formal planning for the audit, CMD's chief accounting officer, Ronald Romito, told Marrie that the company expected to write off $12 million in accounts receivable. Marrie and Romito had several meetings and discussions to review information and documents about the proposed write-off.
+They discussed how to allocate the write-off among various categories including reversal of sales, sales returns, and bad debt.
+CMD proposed that over $4 million of the write-off be allocated to bad debt.
+CMD's management wanted to maximize the portion of the write-off allocated to bad debt and minimize the amount allocatedto returns because amounts written-off as returns would be deducted directly from reported revenues while amounts written off as bad debt would be treated as expenses and therefore would not decrease reported revenues.
+When Romito reported to Marrie that CMD proposed to allocate $4 million of the write-off to bad debt, Marrie objected and told Romito that the write-off would have to be recalculated.
+Marrie advised Romito to prepare a "line by line" analysis setting forth CMD's reasons for writing off each receivable for each customer.
+Romito then prepared a spreadsheet listing the receivables and allocating the write-off for each one.
+Marrie and Romito had additional discussions regarding the allocation of the write-off and the spreadsheet was revised a number of times.
+Berry was involved in a number of meetings with Marrie and Romito in which the issue of the allocation of the write-off was discussed, but Berry did not remember reviewing the spreadsheet or any other documentation regarding this issue.
+The final allocation apportioned $1.8 million to the cost of sales, $1.3 million to bad debt, $7.2 million to sales returns and price adjustments, and $1.7 million to sales reversals, with the remainder allocated to freight, advertising, and commission expense.
+There is little mention of the write-off in Coopers' work papers for the 1994 audit.
+The work papers do not contain any spreadsheets relating to the write-off.8
+The senior accountant on the audit team mentioned the write-off of accounts receivable in her review of fourth quarter adjustments and concluded, without elaboration, that the treatment appeared reasonable.
+She did not recall if this conclusion was based on observation or only on conversations with Marrie or Berry.
+One of the junior associates on the audit team discussed the write-off briefly in a note to the purchases/returns analysis.
+The only other references to the write-off in the work papers are in CMD's Form 10-K and in draft and final press releases announcing the write-off.
+Coopers began field work for the audit on July 27, 1994 and this work continued through August 25, 1994.
+On August 3, 1994,during the second week of Coopers' field work, Romito gave Marrie and Berry a draft of a press release announcing CMD's earnings for the fourth quarter and for fiscal year 1994.
+The draft stated that non-product sales for the quarter had been $7 million, reflecting the sale of technology to Hitachi Metals. The draft then made the following statement regarding the write-off of accounts receivable:
+Offsetting non-product sales were product returns and related expense charges totaling $8,300,000 for the quarter.
+The company authorized selected Far East distributors, unable to pay for the product on a timely basis, to return the product ($5,300,000) and in certain cases, these distributor balances were written off to cost of sales ($1,700,000) or bad debt expense ($1,300,000).
+The draft press release differed from the information Marrie reviewed with Romito concerning the write-off.
+While Romito previously told Marrie about a write-off of $12 million, the draft press release noted "product returns and related expense charges" of only $8.3 million.
+Berry reviewed the draft press release, verified that the numbers CMD proposed to report for prior periods were mathematically accurate, and then discussed the draft with Marrie.
+The next day, August 4, CMD issued its press release, publically disclosing its fourth quarter net income and earnings, as well as an $8.3 million write-off of accounts receivable. Consistent with the draft, the press release announced the $7 million sale of technology.
+With respect to the write-off, however, the press release stated:
+Offsetting non-product sales were product returns and related expense charges totaling $8,300,000 for the quarter.
+As a result of the success of establishing second source to thin film IPEC products, the company decided to reduce its emphasis on certain distribution channels by terminating selected distributors.
+The company authorized these terminated distributors and others who were unable to pay for product on a timely basis, to return the product ($5,300,000) and in certain cases, these distributor balances were written off to cost of sales ($1,700,000) or bad debt expense ($1,300,000).
+The highlighted language denotes the changes that CMD made after the time Respondents reviewed the draft.
+Respondents received a copy of CMD's August 4 press release, reviewed it, and initialed it.
+They could not recall if they compared the information in the draft and final press releases to the spreadsheets Romito previously provided concerning the write-off.
+Marrie reviewed the sampling criteria proposed to be used for confirming accounts receivable after learning of the write-off, but concluded that the planned criteria did not need to be altered as a result of the write-off.
+The August 4 press release was followed by a drop in CMD's stock price and by a shareholder lawsuit alleging accounting improprieties.
+Marrie and Berry were aware of these facts.
+The senior associate for the audit questioned CMD's in-house counsel and Romito about the lawsuit and noted in the audit work papers that the likelihood of an unfavorable outcome or any settlement amount in the lawsuit was unknown.
+Marrie and Berry did not make any adjustments to the audit plan or the scheduled field work in response to these events.
+Coopers presented its independent accountants report in a letter dated August 25, 1994 addressed to CMD's shareholders and directors.
+The report stated that Coopers had conducted its audit in accordance with GAAS and that the financial statements accorded with Generally Accepted Accounting Principles ("GAAP"). CMD's financial statements and Cooper's opinion on those statements were included in the company's report on Form 10-K which was filed with the Commission on September 29, 1994.
+In response to the shareholder suits filed against CMD, the company retained counsel.
+Counsel reported to CMD's audit committee that there were numerous irregularities in the company's sales records, including the falsification of some records.
+CMD's board of directors then appointed a special committee of independent directors to investigate possible revenue recognition and other accounting irregularities that might have affected the financial statements for fiscal year 1994.
+To assist in its investigation, the special committee engaged counsel who, in turn, retained the special services group of Ernst & Young, LLP to conduct a forensic accounting of CMD's financial reporting practices and procedures.
+It soon became clear that the reason for the write-off was that CMD had recorded revenue on a number of transactions during fiscal year 1994 where there was no realistic prospect of collecting payment.
+These receivables were uncollectible because the goods had never been shipped, the likelihood of timely payment was in doubt, or there were customer concerns about the quality of the goods.
+In the third quarter ending March 31, 1994, CMD recognized millions of dollars of revenue for productthat had not been shipped.
+CMD used the write-off to "clean" its books in an attempt to prevent Coopers from discovering CMD's fraud.
+CMD sales, shipping, and accounting personnel, as well as CMD customers, created false shipping documents and invoices to disguise at least a portion of the improperly recorded sales.
+On January 6, 1995, Coopers confirmed that it was terminating its auditing relationship with CMD and would not reissue its audit opinion on CMD's 1994 financial statements.
+On February 3, 1995, CMD reached an agreement for the appointment of Ernst & Young, LLP as its new independent accountants.
+In a February 6, 1995, filing with the Commission, CMD restated its results for fiscal year 1994.
+Upon restatement, CMD reported, among other things, a net loss of $15.2 million instead of earnings of $5 million, a reduction in total revenues from $45.3 million to $30.1 million, a reduction in accounts receivable from $16.9 million to $6.3 million, inventories of $13.9 million instead of $5.1 million, and net property and equipment of $7.1 million instead of $10.4 million.
+The revised financial statements were unaudited.
+III.
+The Division alleges that Marrie and Berry engaged in improper professional conduct within the meaning of Rule 102(e)(1)(iv)(A) of the Commission's Rules of Practice by recklessly engaging in conduct that did not comport with professional standards.
+The parties disagree over the meaning of recklessness to be used in this context.
+The Division charged that Marrie and Berry engaged in improper professional conduct by engaging in "intentional or knowing conduct, including reckless conduct, that results in the violation of applicable professional standards."
+We will first examine Marrie's and Berry's legal challenges to the application of this definition of improper professional conduct to their 1994 fiscal year audit of CMD's financial statements.
+We then will examine whether Marrie and Berry recklessly failed to comply with applicable professional standards in their audit of CMD's financial statements in three critical audit areas: (1) the $8.3 million write-off of accounts receivable; (2) confirmation of accounts receivable; and (3) sales returns and allowances for sales returns.
+A. Improper Professional Conduct Within the Meaning of Rule of Practice 102(e) May Be Established by a Reckless Failure to Comply With Applicable Standards of the Accounting Profession
+The Division contends that Marrie and Berry intentionally, knowingly and recklessly failed to comply with the standards of their profession in the conduct of the audit of CMD's financial statements.
+At the hearing, however, the Division presented evidence to establish only that Marrie and Berry acted recklessly and did not attempt to establish that the two acted knowingly with respect to the CMD audit.
+Marrie and Berry challenge on two distinct grounds the Division's allegations that Respondents' conduct with respect to CMD's 1994 fiscal year financial statements was reckless.
+Marrie and Berry contend that use of the recklessness standard codified in Rule 102(e) in 1998 is an impermissible retroactive application of the Rule to conduct that occurred in 1994. Respondents also contend that, even if the recklessness standard contained in Rule 102(e) is applicable here, it requires the Division to show a type of recklessness that approximates an actual intent to aid in the fraud being perpetrated by the audited company.
+The application of Rule 102(e) to Respondents' audit of CMD is not a retroactive application of a new standard of conduct. The 1998 amendment to Rule 102(e) codified our longstanding use of the recklessness standard.9
+As we noted in adopting the amended rule and in prior decisions, we have applied this recklessness standard in Rule 102(e) proceedings predating the rule's amendment.10
+The 1998 amendment introduced nothing new with respect to the Commission's longstanding use of that standard.
+Marrie and Berry can hardly claim to have been unaware in 1994 that a reckless disregard of professional standards would subject them to liability for improper professional conduct under Rule 102(e) as then in effect.
+Marrie and Berry contend that, if they can be disciplined for reckless conduct pursuant to Rule 102(e), the definition articulated by the Commission requires that, in order to establish that they acted recklessly with respect to the audit of CMD's financial statements, the Division must show a type of recklessness that approximates an actual intent to aid in the fraud being perpetrated by the audited company.11
+We adopted the definition used in Rule 102(e) "for purposes of consistency under the federal securities laws" and to highlight that reckless conduct is not merely a heightened form of ordinary negligence, but rather a lesser form of intent.12
+In adopting this definition, however, we specifically noted that the standards of professional conduct are not fraud-based.13
+The definition of reckless conduct establishes the mental state that must be shown with respect to conduct that results in a violation of applicable professional standards.
+The question is not whether an accountant recklessly intended to aid in the fraud committed by the audit client, but rather whether the accountant recklessly violated applicable professional standards.14
+Recklessness, then, can be established by ashowing of an extreme departure from the standard of ordinary care for auditors.
+The Commission and the investing public rely heavily on accountants to assure disclosure of accurate and reliable financial information as required by the federal securities laws. Adherence to applicable professional auditing standards protects the Commission's processes regardless of whether a fraud has been committed because it ensures that certified financial statements of public companies have been audited appropriately.
+Requiring proof of a mental state approximating an actual intent to aid in the fraud committed by the audited company would conflict with this purpose and fail to protect the Commission's processes from accountants who lack competence to appear before it.
+The Division also challenges the law judge's determination that it was required to prove that the audited financial statements were materially misstated in order to establish that Marrie and Berry recklessly failed to comply with the standards of the accounting profession.
+Respondents contend that the law judge was correct and maintain that the Commission lacks the authority to discipline them in the absence of proof that CMD's financial statements filed with the Commission were false or materially misleading.
+The Commission has the authority to discipline accountants in order to "ensure that those professionals, on whom the Commission relies heavily in the performance of its statutory duties, perform their tasks diligently and with a reasonable degree of competence" as a means "to protect the integrity of its own processes."15
+As the Second Circuit has noted, "[i]f incompetent or unethical accountants should be permitted to certify financial statements, the reliability of the disclosure process would be impaired."16
+Auditors are required by professional standards to comply with GAAS when conducting an audit.17
+An auditor who fails to audit properly under GAAS should not be shielded because the audited financial statements fortuitously are not materially misleading.
+An auditor who skips procedures designed to test a company's reports or looks the other way despite suspicions is a threat to the Commission's processes.
+Even if an auditor's improper professional conduct does not result in false financial statements, it damages the integrity of the Commission's processes because filings with the Commission are unreliable if auditors certify that their audits were conducted in accordance with GAAS when in fact they were not.
+Accordingly, a determination that Marrie and Berry engaged in improper professional conduct does not depend on finding that CMD's audited financial statements for fiscal year 1994 contained a material misstatement.18
+B. Marrie's and Berry's Conduct With Respect to Three Critical Audit Areas Recklessly Failed to Comply With Applicable Professional Standards
+Having concluded that improper professional conduct within the meaning of Rule 102(e) includes the reckless failure to adhere to applicable professional auditing standards, we turn to Marrie's and Berry's conduct with respect to three critical audit areas.
+The write-off was a critical audit area because of its size and timing.
+Confirmation of accounts receivable was a critical audit area because of previous problems Marrie and Berry had identified with respect to CMD's revenue recognitionpractices and because of the change in CMD's customer base.
+The analysis of, and allowance for, sales returns was a critical audit area because of the change in CMD's customer base.
+In the report that Marrie signed and submitted to CMD's audit committee prior to the audit, he identified specifically the adequacy of allowance for doubtful accounts, revenue recognition and review of year-end sales cut-offs, and the adequacy of product return reserves as factors the auditors would consider in developing their audit strategy.
+1. Marrie and Berry Recklessly Failed to Comply With Applicable Professional Standards in Their Audit of CMD's Write-Off of Accounts Receivable
+Marrie and Berry were required to exercise due professional care in the performance of the audit of CMD's financial statements.19
+An audit of financial statements in accordance with GAAS should be planned and performed with an attitude of professional skepticism.20
+GAAS require an auditor to obtain "[s]ufficient competent evidential matter . . . through inspection, observation, inquiries, and confirmations to afford a reasonable basis for an opinion regarding the financial statements under audit."21
+The Division contends that Marrie and Berry engaged in improper professional conduct as a result of their reckless failure to comply with applicable professional standards when they omitted to exercise professional skepticism and to obtain sufficient competent evidential matter with respect to CMD's write-off.
+The Division then contends that Marrie and Berry engaged in improper professional conduct as a result of their reckless failure to comply with applicable professional standards by omitting to consider the impact of the write-off in their examination of inventory values and in their examination of the ability of CMD to collect on its accounts receivable.
+a. Marrie and Berry Recklessly Failed to Exercise Professional Skepticism and Obtain Competent Evidential Matter with Respect to CMD's Write-off of Accounts Receivable
+Marrie and Berry recognized that accounts receivable were an important audit area and that the write-off of accounts receivable that occurred near the end of fiscal year 1994 was unusual.22
+As described above, Marrie questioned the company's initial proposal for allocation of over $4 million of the write-off to bad debt and instructed the company to prepare a more detailed analysis setting forth its reasons for writing off each specific receivable for each customer.
+However, when Romito, a member of management, returned with a revised allocation but without the requested detailed analysis, Marrie and Berry did not insist that the requested analysis be provided.
+Nor did they investigate to determine whether there was any basis for Romito's revised allocations, for example by contacting customers to determine whether product had been returned or whether the customer could not pay.
+An auditor's duty to exercise professional skepticism requires that large and unusual transactions, particularly transactions occurring at year-end, should be selected for testing.23
+Marrie and Berry were aware that the write-off was unusually large and had occurred near the end of the fiscal year. Despite the size and timing of the write-off, Marrie and Berry never instructed the audit team to perform any additional examinations or procedures to determine the validity of the stated reasons for the write-off.
+They did not even follow up on their request that Romito provide an analysis of the write-off. This was a failure to exercise professional skepticism and to obtain competent evidential matter.
+Marrie and Berry were given further reason for concern when they reviewed CMD's press release announcing its fourth quarter and year-end results.
+Marrie and Berry each reviewed a draft of the announcement that stated that CMD was writing off $8.3 million of accounts receivable.
+This amount conflicted with the information that CMD previously had given to Marrie and Berry,which indicated that the write-off would total $12 million.
+When Marrie and Berry received the final press release, that document provided a reason for the write-off that had not been included in the draft press release that they had reviewed -- that CMD was terminating distributors.
+This conflicting information about the write-off contained in the draft and final press releases should have caused Marrie and Berry, at a minimum, to ask questions and to exercise a heightened degree of professional skepticism concerning the true amount of the write-off and the reasons for it.
+Marrie and Berry were aware that a shareholder lawsuit alleging accounting improprieties in connection with the write-off had been filed during the pendency of the field work.
+The lawsuit was another "red flag" that should have caused Marrie and Berry to view the write-off with increased skepticism and to obtain competent evidential matter.
+Nevertheless, the inconsistencies between the press release announcing the write-off and the information previously provided to Marrie and Berry by CMD's management, as well as the shareholder lawsuit, elicited no reconsideration of the audit plan, no additional field work, and no request for an explanation of the inconsistencies.
+We conclude that Marrie's and Berry's failure to ask questions, to obtain competent evidential material, and to exercise a heightened degree of skepticism in the face of these numerous inconsistencies with respect to the write-off was a reckless failure to comply with applicable professional standards.
+b. Marrie and Berry Recklessly Failed to Consider the Implications of the Write-Off of Accounts Receivable in Their Examination of Inventory Values
+The Division argues that, in addition to failing to exercise professional skepticism and to obtain competent evidential material with respect to CMD's write-off, Marrie and Berry failed to consider the implication of the write-off in their examination of CMD's estimates of its inventory values contained in its 1994 fiscal year financial statements.
+Auditors are required by GAAS to evaluate, with an attitude of professional skepticism, the reasonableness of management estimates.24
+In evaluating the reasonableness of management's estimates, an auditor should,where appropriate, "[r]eview subsequent events or transactions occurring prior to completion of fieldwork."25
+The write-off was an event that was announced subsequent to the end of the fiscal year, but during the audit field work, and it should have alerted Marrie and Berry to the need to examine closely CMD's estimates of its inventory values.
+As part of the write-off, CMD authorized customers to return product.
+CMD's products, like those of many high technology companies, were vulnerable to rapid changes and advancements in technology.
+In such an environment, the longer the product remained unsold, the greater the risk that obsolescence would cause a decline in the product's value26
+CMD also allowed some product to be returned because it was defective.
+Marrie and Berry failed to consider how long returns of non-defective products would take and what impact this might have on the products' obsolescence.
+They also failed to consider whether defective products could have been repaired and resold, and if so how long that process would take.
+These were all critical factors that could have significantly lowered CMD's inventory valuations.
+We find that Marrie and Berry were reckless in failing even to consider the impact of the write-off with respect to these aspects of inventory valuation.
+Marrie and Berry claim that the only support for the claim that they recklessly failed to consider the impact of the write-off on inventory obsolescence is the fact that CMD's restatement of earnings increased the allowance for obsolete inventory.
+They argue, in essence, that simply because other auditors valued inventory differently does not establish that their audit was reckless.
+Marrie's and Berry's argument demonstrates a fundamental misunderstanding of the charges against them.
+The Division is not claiming that Marrie and Berry came up with the "wrong" amount, but rather that they failed to take any steps to consider the impact of the write-off on inventory obsolescence in the face of substantial indicators that there wasa risk of error in management's estimate.
+Marrie and Berry were aware that CMD operated in a market where technological advances occurred rapidly and where product obsolescence was a risk.
+Yet they failed to consider what impact the write-off would have on inventory valuation.
+The only mention of the write-off in the work papers with respect to returns notes an increase in fourth quarter returns due to customers' inability to pay, but makes no mention of the impact of those increased returns on inventory valuation.
+This was an extreme departure from the standards of ordinary care that auditors are required to follow.
+We conclude that Marrie and Berry were reckless in failing to consider the impact that the product returns authorized by CMD's write-off would have in their examination of inventory valuation and obsolescence.
+c. Marrie and Berry Recklessly Failed to Consider the Implication of the Write-Off of Accounts Receivable in Their Examination of CMD's Ability to Collect Its Remaining Accounts Receivable
+The Division argues that Marrie and Berry also failed to consider the implication of the write-off in their examination of the realizable value of the accounts receivable.
+CMD indicated in the August 4 press release that it was writing off amounts due from "terminated distributors or others who were unable to pay for product on a timely basis."
+A substantial portion of CMD's claimed June 1994 accounts receivable, however, was the result of sales to entities that had returned product in May 1994 as part of the write-off that CMD made public on August 4.
+This was a serious discrepancy that would have been obvious to Marrie and Berry from a cursory review of the relevant documents.
+It raised the risk that some of the June 1994 sales would not be collectible because they were made to customers referred to in the August 4 press release as terminated distributors or others who were unable to pay for product.
+At a minimum, the fact that CMD was selling product to some of the same entities that had returned product in May 1994, resulting in the write-off that was announced in the August 4 press release, raised the possibility that CMD's calculations of accounts receivable were unreliable.
+The write-off was a critical factor that indicated that CMD could face a risk of being unable to collect its accounts receivable.
+We find that Marrie and Berry were reckless in failing to consider the impact of the write-off with respect to the collectibility of CMD's accounts receivable.
+d. Marrie's and Berry's Claim That They Did Not Act Recklessly With Respect to the Write-Off and Its Impact on CMD's Inventory Obsolescence and CMD's Ability to Collect Its Accounts Receivable Is Without Merit
+The law judge concluded that Marrie and Berry "violated their duty to exercise professional skepticism and to obtain sufficient competent evidential matter" with respect to the write-off, but nevertheless found that this conduct did not constitute a reckless departure from the standards of the accounting profession.
+We disagree.
+The size and the timing of the write-off made it a critical audit area and, therefore, Marrie and Berry were required to examine it closely.
+Instead, they all but ignored it.
+Even though Marrie and Berry were aware that the write-off was unusually large and occurred near the end of the fiscal year, they did not alter their audit plan or conduct additional testing to determine whether the reasons CMDgave for the write-off were accurate.
+Nor did they consider the impact of the write-off in their evaluation of CMD's inventory valuations or CMD's ability to collect its accounts receivable. We find that Marrie's and Berry's failure to take these basic steps, in the face of a write-off that was so large that Marrie stated he was "dumbfounded" by its size, constitutes a reckless failure to comply with the standards of the accounting profession.
+Nor is there merit to Marrie's and Berry's argument that they were not reckless because the press release did not constitute a red flag.
+Respondents assert that the difference between the $12 million write-off reported by Romito and the $8.3 million write-off announced in the press release could be accounted for by the fact that the $3.7 million difference "represented credit memos that went from the product return category to the sales reversal category" and, therefore, were not included in the press release.
+There is no evidence that Marrie and Berry inquired about this discrepancy or obtained the explanation they now urge upon us.
+Respondents' attempt to account for this discrepancy is nothing more than an after-the-fact justification for their failure to exercise the required degree of professional care.
+Marrie and Berry claim that they did not believe they were required to audit the write-off or exercise increased skepticism with respect to it because the receivables being written off were no longer being reported as assets and revenues of CMD.
+This claim is without merit.
+Marrie and Berry each recognized that the write-off of a large amount of receivables near the end of the fiscal year was a significant issue.
+In addition, as described above, the write-off had the potential to impact inventory valuation and collection of accounts receivable.
+We conclude that Marrie and Berry, therefore, were required to consider its impact in their review of CMD's financial statements.
+2. Marrie and Berry Recklessly Failed to Comply With Applicable Professional Standards in Their Confirmation of CMD's Accounts Receivable
+Confirmation of an account receivable is a test of whether, as of a certain date, a customer of an audit client acknowledges owing what the audit client's records show the customer owes. Confirmation involves obtaining and evaluating a direct communication from a third party in response to a request for information about a particular item affecting financialstatements.27
+Confirmation is a useful audit tool because, when evidential matter can be obtained from independent sources outside of an audited entity, it provides greater assurance of reliability for the purposes of an independent audit than information secured solely from the audited entity.28
+When an auditor concludes that evidence provided by confirmations alone is not sufficient to reduce "audit risk for the related assertions to an acceptably low level," additional procedures should be performed.29
+When an auditor has not received replies to positive confirmation requests, the auditor should employ alternative procedures, which may include the examination of subsequent cash receipts (including matching such receipts with the actual items being paid), shipping documents, or other client documentation.30
+An auditor should exercise an appropriate level of professional skepticism throughout the confirmation process.31
+To confirm CMD's accounts receivable balances as of June 30, 1994, Marrie and Berry selected all balances greater than or equal to $100,000 and randomly selected twenty additional balances under $100,000.
+This plan resulted in confirmation testing of fifty-four customer accounts, representing over 92 percent of CMD's accounts receivable.
+Twenty-five of the accounts tested confirmed 100 percent of their outstanding balances, twelve confirmed a portion of their outstanding balances, and seventeen did not confirm any portion of the receivable balance.
+For each account balance that the customer did not fully confirm, the Coopers' audit team performed alternative procedures to test unconfirmed amounts.
+Marrie reviewed the sampling criteria to be used for confirming accounts receivable after learning of the write-off, but concluded that additional steps were not necessary.
+Berry reviewed a summary of the confirmations and alternativeprocedures performed and he testified that he discussed the results of the confirmations and alternative procedures with the senior accountant assigned to the audit team.
+The Division has challenged the adequacy of the procedures used by the audit team in six cases to test accounts whose outstanding balances had not been fully confirmed.
+CMD claimed receivables of $148,067 for products shipped to Solectron, Inc., of San Jose, California.
+On August 12, Solectron informed the auditors that it owed only $33,017 and had no record of two shipments that CMD claimed to have sent to Solectron on June 30, 1994, for the disputed amount of $115,050. Solectron requested that the auditors provide them with a copy of the purchase orders for the products in question, but there is no evidence that the auditors ever looked for the purchase orders or inquired as to why goods shipped from CMD's Milpitas, California facility to a location about ten miles away in San Jose, California had not arrived at their destination forty-two days later.
+The audit team's senior accountant wrote in the work papers that she reviewed unidentified shipping documents showing that $115,050 in product had been shipped "right before year end" and represented "goods in transit."
+No adjustment was made to the receivables for products CMD claimed to have shipped to Solectron, but Solectron did not acknowledge receiving.
+CMD claimed receivables of $215,375 owed by Analogic, Inc., of Peabody, Massachusetts.
+On August 18, Analogic claimed that $71,935 of this amount was not in its records and could not be verified.
+The senior accountant determined that $11,132 of this amount related to sales in prior quarters for which payment had been received.
+She did not match gross cash receipts with the actual items being paid.
+GAAS requires that if, as an alternative procedure to confirm the reported amount of accounts receivable, an auditor elects to examine cash receipts, the cash receipts must be matched with the actual items paid.32
+The remaining $60,803 in dispute related to shipments that CMD claimed to have made to Analogic on June 30, 1994.
+The senior accountant indicated in the work papers that she reviewed CMD's shipping documents for the items that Analogic had not received. There is no evidence that any member of the audit team ever inquired as to why a product that was shipped from Milpitas, California to Massachusetts had not arrived at its destination forty-eight days later.
+CMD claimed that National Semiconductor Corporation ("NSC") owed $1,288,767 for receivables, but, due to the state of itsrecords, NCS claimed that it could confirm only shipments received up to June 26, 1994.
+The senior accountant on the audit team treated as confirmed the $949,625 balance for shipments received by NSC up to June 26, 1994.
+For the remaining $339,142, the senior accountant reviewed subsequent payments by NSC to confirm that it had paid $163,339 but did not match the gross cash receipts with the actual items being paid.33
+The remaining balance of $175,803 was traced to shipping records and was treated as confirmed.
+GSS/Array Technology ("GSS") confirmed the full amount of $204,465 that CMD had claimed it owed as accounts receivable. Five days later, however, GSS denied all but $10,556 of the amount.
+The work papers indicate that, "[p]er discussion with Ron Romito and per review of written documentation," GSS subsequently confirmed that it owed $100,000 of the disputed receivables.
+The work papers do not explain any steps taken to address these discrepancies.34
+The law judge determined that Marrie and Berry failed to comply with GAAS in evaluating confirmation responses and performing alternative procedures, but that these violations were not reckless.
+We do not agree.
+Prior to the audit, Marrie andBerry identified accounts receivable as a critical audit area. There were substantial reasons for them to do so.
+Marrie and Berry knew when they were planning the 1994 audit that CMD improperly had recognized revenue during fiscal years 1992 and 1993 for product that had not been shipped before the end of the applicable quarter.
+The prior problems with revenue recognition were red flags that, along with the responses that failed to confirm the reported amount of receivables, should have alerted Marrie and Berry that they needed to exercise a heightened degree of professional skepticism when they encountered discrepancies during the confirmation process.35
+Over half (twenty-nine out of fifty-four) of the customers to whom Coopers sent confirmations did not confirm the accounts receivable as reported by CMD.
+This was a significant discrepancy that pointed to a general unreliability in CMD's calculation of accounts receivable.
+We conclude that Marrie's and Berry's failure to examine the reliability of the confirmation process generally, given the high rate of non-confirming responses and the previous problems with revenue recognition, was a reckless failure to comply with their professional duties.
+We find that the auditors also were reckless in the manner in which they followed up on particular non-confirming responses. With respect to the confirmation responses received from Solectron and Analogic, it was reckless to limit the confirmation process to reviewing shipping documents because the auditors were aware that these customers reported that product CMD claimed tohave shipped from Milpitas, California to locations in San Jose and in Massachusetts had not arrived at its destination forty-two days and forty-eight days later, respectively.
+This information raised the risk that, similar to CMD's earlier improper recognition of revenue for product that had not been shipped by the end of the quarter, CMD improperly was including in its accounts receivable amounts for products that may not have been shipped.
+Merely reviewing shipping documents would not necessarily answer why the customers reported that these products had not been received.
+The accountant's duty to exercise skepticism and to obtain sufficient competent evidential matter required Marrie and Berry to take steps to determine if the customer had ordered the product and expected its
+arrival.36
+We find that Marrie and Berry failed to take such steps in the face of the risk that CMD, at least with respect to Solectron and Analogic, was treating as accounts receivable amounts for products that had not been shipped.37
+GSS provided three different answers when asked to confirm the balance owed on receivables and Marrie and Berry failed to take any steps to explore the reasons for GSS's changing responses.
+Rather, they simply accepted the word of Romito, a member of CMD management, without question.
+In failing to inquire further about these discrepancies in the confirmation responses, Marrie and Berry recklessly failed to exercise appropriate professional skepticism and to obtain sufficient evidential matter with respect to CMD's statement of its accounts receivable.
+We conclude that the conduct of Marrie and Berry in failing to follow-up on questionable confirmations was a reckless failure to comply with the professional standards of the auditing profession.
+3. Marrie and Berry Recklessly Failed to Comply With Applicable Professional Standards in Their Audit of CMD's Sales Returns and Allowance for Sales Returns
+The Division also challenges the steps taken by Marrie and Berry in their analysis of CMD's sales returns and in their analysis of the adequacy of the company's allowance for returns. An auditor is responsible for evaluating the reasonableness of accounting estimates made by management and should consider, with an attitude of professional skepticism, both the subjective and objective factors involved in management's estimation
+process.38
+In evaluating reasonableness, the auditor should obtain an understanding of how management developed the estimate.39
+Based upon that understanding, the auditor should use one or a combination of three approaches: (a) review and test the processes used by management to develop the estimate; (b) develop an independent expectation to corroborate the reasonableness of management's estimate; and (c) review events or transactions occurring subsequent to management's development of the estimate but prior to the completion of field work.40
+We find that Marrie and Berry failed to exercise the professional skepticism necessary to evaluate the reasonableness of CMD's estimates with respect to sales returns in several ways. First, in reviewing CMD's sales return reserve calculation, the auditors compared a year of sales to a year of returns and calculated a ratio of returns to sales for each of the company's two production facilities.
+Then, relying on CMD's representation that "virtually all returns are made within [two] months of purchase," the auditors applied the return ratio to sales only in May and June 1994, assuming that no additional returns would be made for products sold prior to May 1994.
+This methodology was seriously flawed.
+CMD policy, as stated in form contracts retained in the auditors' work papers, allowed returns for up to one year.
+CMD management's representation that shipment to foreign customers frequently tooksix weeks to deliver also raised an issue as to whether returns could be completed within two months.41
+Marrie and Berry accepted the company's figure of $4,504,288 for the amount of returns for fiscal year 1994.
+CMD's August 4 press release, however, disclosed returns in the fourth quarter alone of $5.3 million.
+This was a significant discrepancy that was obvious from the face of the relevant documents and should have prompted a review of the entire return estimation process.
+In calculating sales returns, Marrie and Berry accepted a figure of $7,016,544 as product sales in May and June 1994 based upon CMD management's monthly trend report.
+Yet this figure conflicted with CMD's listing of accounts receivable by date (the aged trial balance) for the end of fiscal year 1994, which showed $12,165,351 in accounts receivable less than thirty days old.42 These conflicting numbers raised the possibility that the product sales figure of $7,016,544 that Marrie and Berry used to estimate sales returns was significantly lower than actual product sales in May and June.
+This would have resulted in an artificially low estimate of sales returns.
+At the very least, this should have put Marrie and Berry on notice of an increased risk that CMD was improperly accounting for sales returns for products sold in May and June 1994.
+We conclude that the failure of Marrie and Berry to investigate any of these significant discrepancies was an extreme departure from the standards of ordinary care.
+When these discrepancies are considered in combination, Marrie's and Berry's failure to investigate them is even more troubling.
+These discrepancies would have been apparent on the face of the relevant documents.
+Marrie's and Berry's conduct here evinces an egregious refusal to investigate the doubtful and to see the obvious.
+The failure of Marrie and Berry to investigate these discrepancies and seek competent corroborative evidence from customers was a reckless violation of their professional duties.
+4.
+Marrie's and Berry's Other Claims Are Without Merit
+Rather than dispute the facts presented by the Division with respect to their treatment of the write-off, their confirmation of accounts receivable, and their analysis of the adequacy of CMD's allowance for sales returns, Marrie and Berry contend that, for a number of reasons, it would be a mistake to conclude from these facts that they engaged in improper professional conduct within the meaning of Rule 102(e).
+Marrie and Berry argue that the Division's expert could not identify one instance in which Respondents acted recklessly and, therefore, according to Respondents, the Division impermissibly seeks to infer recklessness from the total audit environment. Marrie and Berry assert that this amounts to finding recklessness by stringing together numerous allegations of purported negligence.
+Respondents' argument is without merit.
+The Commission has considered each of the alleged failures to comply with GAAS; Marrie's and Berry's review of CMD's write-off, accounts receivable, and allowance for sales returns.
+We have concluded that each of these failures to comply with GAAS resulted from Marrie's and Berry's reckless conduct.
+Marrie and Berry were presented with numerous reasons for concern with respect to the write-off, the confirmation of accounts receivable, and the analysis of sales returns.
+When taken together, these discrepancies formed an avalanche of warnings that CMD's accounting practices and financial statements were suspect.
+Marrie and Berry were required to consider the financial statements as a whole and were not entitled to ignore the implications of discrepancies in one audit area for other audit areas.
+Marrie and Berry repeatedly protest that they could not have uncovered the fraud committed by CMD because it was an elaboratedeception that involved the destruction and fabrication of documents and the collusion of CMD employees and third parties. Their argument misses the point.
+Marrie's and Berry's violation arises not from their failure to discover CMD's fraud, but from their improper professional conduct in failing to adhere to GAAS in the audit.
+We do not know whether CMD's fraud would have been uncovered had Marrie and Berry fulfilled their professional duties in conducting the audit, but that is not relevant to our inquiry.
+An auditor is not a guarantor of the accuracy of financial statements of public companies, but the Commission and the investing public rely heavily on auditors to perform their tasks in auditing public companies "diligently and with a reasonable degree of competence."43
+Our concern here is whether Marrie and Berry discharged their responsibilities with diligence and consistent with the profession's responsibility to the public.
+We conclude that they did not.
+*
+*
+*
+We conclude that Marrie's and Berry's reckless deviations from the obligations imposed by GAAS with respect to the write-off, the confirmation of accounts receivable, and the analysis of sales returns and estimated allowances for sales returns constituted improper professional conduct.
+IV.
+Marrie and Berry challenge, on several fronts, our authority to institute this action.
+Respondents argue that any interpretation of recklessness that does not incorporate an intent to defraud is unconstitutionally vague because it fails to provide adequate notice of what conduct is prohibited.
+This argument is without merit.
+Due process requires only that laws give a "person of ordinary intelligence a reasonable opportunity to know what is prohibited."44
+The degree of required notice varies according to the circumstances.45
+Disciplinary rules, like Rule 102(e), long have withstood vagueness challenges because professionals are deemed to know thestandards that govern their conduct.46
+The standards we enforce in this matter, basic concepts of GAAS such as the duties to exercise due care, to evaluate whether audit conclusions are supported by sufficient competent evidential matter, and to bring to the work an appropriate level of professional skepticism, are standards to which all accountants must adhere and which any accountant can be expected to understand.
+Marrie's and Berry's breaches of these principles are clear and uncontroverted.
+We have found these breaches to be reckless and Marrie and Berry cannot claim that they were unaware that reckless violations of their professional duties constitute improper professional conduct.
+Marrie and Berry challenge, also on vagueness grounds, the definition of "practicing before the Commission."
+Rule 102(f) provides that "practicing before the Commission" shall include, but not be limited to:
+(1) Transacting any business with the Commission; and
+(2) The preparation of any statement, opinion or other paper by any attorney, accountant, engineer or other professional or expert, filed with the Commission in any registration statement, notification, application, report or other document with the consent of such attorney, accountant, engineer or other professional or expert.
+Marrie and Berry contend that the phrase "shall include, but not be limited to" makes the concept of "practicing before the Commission" an "unbounded concept" and, therefore, is unconstitutionally vague.
+Marrie's and Berry's argument is without merit.
+Rule 102(e) is tailored specifically to provide the Commission "with themeans to ensure that those professionals, on whom the Commission relies heavily in the performance of its statutory duties, perform their tasks diligently and with a reasonable degree of competence."47
+It is uncontroverted that Marrie's and Berry's activities with respect to the audit of CMD's 1994 fiscal year financial statements constitute practice before the
+Commission.48
+Marrie and Berry raise the defense of latches and allege that they have been prejudiced by what they view as the Division's delay in bringing this action.
+Respondents contend that this delay has resulted in faded memory on the part of certain witnesses and the loss of certain documents.
+The defense of laches is not available against federal agencies acting to protect the public interest.49
+Even were the defense of laches available to Marrie and Berry, they have not made the required showing of a delay that is unreasonable and causes prejudice.50
+The decision to commence proceedings for improper professional conduct under Rule 102(e) after prosecuting claims for substantive violations of the securities laws by CMD's officers, directors and accounting personnel was not unreasonable.
+Marrie and Berry have failed to establish that they suffered prejudice from this delay. Documentary evidence, particularly the work papers for the CMD audit, has been preserved and all critical witnesses were available to testify at the hearing.
+The law judge found that, while various witnesses claimed to be unable to recall certain events, these witnesses had no difficulty recalling exculpatory facts.
+We agree with the law judge's conclusion that Respondents were not prejudiced by any alleged claims of poor memory.
+We conclude that there is no basis for Respondents' claimed defense of laches or prejudice from delay.
+V.
+Under all of the circumstances, we believe that the appropriate sanction for the improper professional conduct by Marrie and Berry is to deny them the privilege of appearing or practicing before the Commission.
+Marrie and Berry violated fundamental principles of audit work.
+They failed to exercise due care and appropriate professional skepticism and failed to collect sufficient competent evidential matter to provide the basis for the expression of an audit opinion with respect to CMD's write-off, accounts receivable, and sales returns.
+Their substantial departures from their professional duties establish that the Commission cannot rely upon Marrie and Berry to perform diligently and with reasonable competence their audit responsibilities in the future.
+Marrie and Berry have significant experience in audit work; at the time of the audit Marrie had been a licensed CPA for over 20 years, Berry for nearly 10 years.
+This lengthy experience makes their failure to conduct the audit in accordance with applicable professional standards all the more troubling.
+In addition, Marrie's and Berry's long experience in the accounting profession and the fact that they both are actively licensed CPAs create a significant risk that they may return to that professionand again conduct audits of public companies.51
+We conclude that these circumstances fully warrant that Marrie and Berry be denied the privilege of appearing or practicing before the Commission.
+An appropriate order will issue.52
+By the Commission (Chairman DONALDSON and Commissioners GLASSMAN, GOLDSCHMID and CAMPOS); Commissioner ATKINS, not participating.
+Jonathan G. Katz
+Secretary
+UNITED STATES OF AMERICA
+before the
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Rel. No.
+48246 / July 29, 2003
+ACCOUNTING AND AUDITING ENFORCEMENT
+Rel. No. 1823 / July 29, 2003
+Admin. Proc. File No. 3-9966
+In the Matter of the Application of
+MICHAEL J. MARRIE, CPA and
+BRIAN L. BERRY, CPA
+ORDER IMPOSING REMEDIAL SANCTIONS
+On the basis of the Commission's opinion issued this day, it is
+ORDERED that Michael J. Marrie and Brian L. Berry be, and hereby are, denied the privilege of appearing or practicing before the Commission in any way.
+By the Commission.
+Jonathan G. Katz
+Secretary
+1 17 C.F.R. § 201.102(e).
+2 The Division did not allege and did not attempt to establish that Marrie and Berry failed to prepare CMD's financial statements in conformity with Generally Accepted Accounting Principles ("GAAP").
+3 Marrie and Berry also have sought review of the law judge's decision.
+Rule of Practice 410, 17 C.F.R. § 201.410, provides that "any party, and any other person who would have been entitled to judicial review of the decision" may file a petition for review.
+The law judge dismissed the proceedings against Marrie and Berry and, therefore, they are not entitled to Commission review of that decision.
+We noted in our January 11, 2002 order denying Marrie's and Berry's petition for review of our order granting the Division's petition for review, however, that Marrie's andBerry's petition for review raises issues appropriate for Commission review on our own motion pursuant to Rule of Practice 411(c), 17 C.F.R. § 201.411(c).
+Accordingly, we have considered the arguments raised in the briefs to the Commission filed by Marrie and Berry.
+Specifically, Marrie and Berry argue that a bar is not warranted here because the Division is seeking to apply Rule 102(e) retroactively in violation of Respondents' constitutional rights; the Rule fails to give fair warning of the conduct prohibited; and the Rule as applied is constitutionally vague and exceeds the powers of the Commission.
+4 15 U.S.C. § 78l(g).
+5 AICPA, Codification of Statements on Auditing Standards, AU § 150.02 (hereinafter "AICPA, AU § __"), Standard of Field Work, ¶ 1 (1995).
+Rule 202 of the AICPA's Code of Professional Conduct recognizes Statements on Auditing Standards as interpretations of GAAS.
+6 AICPA, AU § 150.02, Standard of Field Work, ¶ 3.
+7 The Division does not distinguish further between Marrie and Berry with respect to their general roles in Cooper's audit of CMD's 1994 fiscal year financial statements.
+8 The work papers do include a "Credit Memorandum Summary Journal Entry, June 1994."
+Although Marrie could not recall if he reviewed this document, he recalled seeing a document in similar form.
+Based upon Marrie's testimony, the law judge concluded that this document either was the spreadsheet of the accounts receivable write-off that Marrie reviewed in 1994, or was sufficiently similar to serve as a substitute for purposes of the administrative hearing.
+9 Russell Ponce, Exchange Act Rel. No. 43235 (Aug. 31, 2000), 73 SEC Docket 442, 465 n.52, appeal pending, No. 00-71398 (9th Cir.).
+10 Amendment to Rule 102(e) of the Commission's Rules of Practice, Exchange Act Rel. No. 40567 (Oct. 18, 1998), 68 SEC Docket 707, 709 (hereinafter "Amendment to Rule 102(e)").
+See also Russell Ponce, 73 SEC Docket at 467 n.57; Albert Glenn Yesner, CPA, Exchange Act Rel. No. 42030 (Oct. 19, 1999), 70 SEC Docket 2743, 2746-2747; Robert D. Potts, CPA, 53 S.E.C. 187, 203-04 (1997); Marvin E. Basson, Exchange Act Rel. No. 35840 (June 13, 1995), 59 SEC Docket 1650; Gary L. Jackson, 48 S.E.C. 435, 437-38 (1986) (review of injunctive allegations in Rule 102(e) proceeding).
+11 We have defined "reckless conduct" for purposes of assessing accountant conduct under Rule 102(e) as "not merely a heightened form of ordinary negligence; it is an extreme departure from the standard of ordinary care . . . which presents a danger of misleading buyers or sellers that is either known to the actor or is so obvious that the actor must have been aware of it."
+Amendment to Rule 102(e), 68 SEC Docket at 710.
+12 Amendment to Rule 102(e), 68 SEC Docket at 710, citing SEC v. Steadman, 967 F.2d 636, 641 (D.C. Cir. 1992) (quoting Sundstrand Corp. v. Sun Chemical Corp., 553 F.2d 1033, 1045 (7th Cir. 1977), Ernst & Ernst v. Hochfelder, 425 U.S. 185, 193-94 n.12 (1976)).
+13 Amendment to Rule 102(e), 68 SEC Docket at 710.
+14 For this reason, the cases to which Marrie and Berry cite in support of their claim that recklessness for the purposes of determining a violation of Rule 102(e) should be defined as approximating actual intent to aid in the fraud perpetrated by the audited company are inapposite.
+Philadelphia v. Fleming Cos., 264 F.3d 1245, 1261 (10th Cir. 2001); In re Software Toolworks, 50 F.3d 615, 627 (9th Cir. 1994); Decker v. Massey-Ferguson, Ltd, 681 F.2d 111, 121 (2d Cir. 1982);and SEC v. Price Waterhouse, 797 F. Supp. 1217, 1240 (S.D.N.Y. 1992) are all cases involving actions against accountants or others for violations of the antifraud provisions of the federal securities laws.
+15 Touche Ross & Co. v. SEC, 609 F.2d 570, 582 (2d Cir. 1979).
+16 Id. at 581.
+17 AICPA, Code of Professional Conduct, Rule 202.
+18 This is not to imply that the concept of materiality is irrelevant.
+See AICPA, AU § 150.04 ("The concept of materiality is inherent in the work of the independent auditor.")
+The law judge, however, misinterpreted the role that materiality plays in assessing whether an auditor acted improperly as a result of a reckless failure to comply with GAAS.
+For example, GAAS directs that "[t]here should be stronger grounds to sustain the independent auditor's opinion with respect to those items which are relatively more important and with respect to those in which the possibilities of material misstatement are greater than with respect to those of lesser importance or those in which the possibility of material misstatement is remote."
+AICPA, AU § 150.04 (noting by way of example that "accounts receivable usually will receive more attention than prepaid insurance").
+19 AICPA, AU § 150.02, General Standard, ¶ 3.
+20 AICPA, AU § 316.16.
+21 AICPA, AU § 150.02, Standard of Field Work, ¶ 3.
+22 Marrie told a special agent of the Federal Bureau of Investigation that he was "dumbfounded" by the size of the proposed write-off.
+At the hearing, Marrie could not recall telling the FBI that he was dumbfounded, but the law judge found that his testimony in this regard was not credible.
+23 AICPA, AU § 316.20.
+("When evaluation at the financial statement level indicates significant risk, the auditor requires more or different evidence to support material transactions than would be the case in the absence of such risk. . . . Transactions that are both large and unusual, particularly at year-end, should be selected for testing.").
+24 ACIPA, AU § 342.04.
+25 AICPA, AU § 342.10.
+26 Cf. Financial Accounting Standards Board's Statement of Financial Accounting Standards No. 48, Revenue Recognition When Right Of Return Exists ¶ 8 (June 1981) (stating that susceptibility of the product to significant external factors, such as technological obsolescence, is one factor that may impair the ability of an auditor to make a reasonable estimate of the amount of future returns).
+27 AICPA, AU § 330.04.
+28 AICPA, AU § 326.19(a).
+29 AICPA, AU § 330.09.
+"Audit risk is the risk that the auditor may unknowingly fail to appropriately modify his opinion on financial statements that are materially misstated."
+AICPA, AU § 312.02.
+30 AICPA, AU § 330.32.
+31 AICPA, AU § 330.15.
+32 AICPA, AU § 330.32.
+33 See AICPA, AU § 330.32.
+34 The Division also alleges that two confirmation responses raised questions about consignment sales.
+It is inconsistent with GAAP to count consignment sales as actual sales and to record the anticipated revenue.
+See Worlds of Wonder Sec. Litig., 35 F.3d 1407, 1418 (9th Cir. 1994) (citing Malone v. Microdyne Corp., 26 F.3d 471, 478 (4th Cir. 1994)).
+UPC Electronics responded to Cooper's confirmation request by stating that many of the items had been ordered on consignment and that some of the items were still in its warehouse.
+YHK International, LTD. responded to a letter requesting confirmation of a receivable balance of $144,747 by stating that it was in negotiation to return some of the product.
+YHK later requested that it be allowed to return $103,750 of product.
+The Division alleges that Marrie and Berry did not inquire further with respect to these and other customer accounts to determine if CMD was engaged in consignment sales.
+These confirmations indicated that CMD was counting consignment sales as actual sales.
+These confirmations were a red flag that pointed to a risk that CMD was improperly inflating its accounts receivable balance.
+35 The loss of Apple as a major customer was another factor that should have alerted Respondents to the need to exercise a heightened degree of skepticism with respect to confirmation of accounts receivable.
+Marrie testified that he did not give much thought to the loss of Apple's business because of the strategic alliance that CMD had entered with Hitachi Metals.
+The strategic alliance did not alter the impact of the loss of Apple as a customer on CMD's ability to collect on its accounts receivable amounts owed as a result of product delivery.
+The loss of Apple, a customer that always made timely payments, was a change in circumstances that created for CMD an increased risk that it would be unable to collect on its accounts receivable to the extent it had when Apple was a customer.
+Given these red flags, Marrie's and Berry's professional duty to exercise skepticism and to obtain sufficient evidential material required them to do more than perform a superficial examination of the questionable confirmations.
+36 See AICPA, AU § 150.02 (sufficient competent evidential matter); AICPA, AU § 316.16 (professional skepticism).
+37 The review of cash collections from Analogic and NSC also failed to comply with GAAS.
+GAAS requires that, if an auditor elects to examine subsequent cash receipts as an alternate procedure in response to a discrepancy resulting from the confirmation process, the auditor must match the subsequent cash receipts with the actual items being paid. AICPA, AU § 330.32.
+The auditors failed to match the cash receipts for the disputed amounts with respect to Analogic and NCS with the actual items being paid.
+38 AICPA, AU § 342.04.
+39 AICPA, AU § 342.10.
+40 Id.
+41 When confronted with this information during the audit process, Marrie and Berry did not take steps to investigate whether a return could be accomplished in this time frame. While the record does not establish whether the two-week period after foreign shipment was sufficient for a foreign customer to determine that a product was unsatisfactory and effectuate a return, the fact that Marrie and Berry did not inquire concerning this was a failure to obtain competent evidence to corroborate management's assertion that virtually all product returns were made within two months of purchase.
+42 These were not the only numbers that did not add up.
+The purchases and returns analysis conducted as part of the audit stated that sales for the fourth quarter were $10,258,746.
+CMD's August 4 press release stated that the company had product sales of $12.7 million for the fourth quarter, without considering returns.
+This discrepancy was further evidence of an increased risk that CMD was accounting improperly for product sales and returns.
+43 See Touche Ross v. SEC, 609 F.2d 570, 581 (2d Cir. 1979).
+44 Grayned v. City of Rockford, 408 U.S. 104, 108 (1972).
+45 Village of Hoffman Estates v. Flipside, Hoffman Estates, 455 U.S. 489, 498 (1982).
+46 See, e.g., United States v. Hearst, 638 F.2d 1190, 1197 (9th Cir. 1980) (the phrase "conduct unbecoming a member of the bar" is not unconstitutionally vague because "[i]t refers to the legal profession's 'code of behavior' and 'lore,' of which all attorneys are charged with knowledge" and which are illustrated by the American Bar Association's Code of Professional Responsibility); Crimmins v. American Stock Exch., Inc., 368 F. Supp. 270, 277 (S.D.N.Y. 1973), aff'd, 503 F.2d 560 (2d Cir. 1974) (rejecting a vagueness challenge to American Stock Exchange, Inc. rule barring conduct in violation of "just and equitable principles of trade" because an experienced securities representative "may be fairly charged with knowledge of the ethical standards of his profession.")
+47 Touche Ross, 609 F.2d at 582 (quoting Mourning v. Family Publication Servs., Inc., 411 U.S. 356, 369 (1973)).
+48 To the extent that Marrie and Berry argue that the Rule also is vague with respect to the Division's request to deny Marrie and Berry the privilege of appearing or practicing before the Commission, we reject this argument.
+Congress has granted us the authority to deny accountants the privilege of practicing before the Commission in order to ensure that "those professionals, on whom the Commission relies heavily in the performance of its statutory duties, perform their tasks diligently and with a reasonable degree of competence as a means "to protect the integrity of its own processes."
+Touche Ross, 609 F.2d at 581-82.
+We do not address whether Berry's current position as a financial officer for a company whose shares are publically traded constitutes practicing before the Commission.
+This case concerns Berry's conduct with respect to the 1994 fiscal year audit of CMD's financial statements and, therefore, it is not the proper forum for the Commission to make a determination concerning the nature of Berry's current position.
+Moreover, the record contains insufficient facts concerning the nature of Berry's role in his current occupation to allow us to determine whether Berry's activities constitute appearing or practicing before the Commission.
+49 See United States v. Alvarado, 5 F.3d 1425, 1427 (11th Cir. 1993); David Disner, 52 S.E.C. 1217, 1223 (1997).
+50 Danjac LLC v. Sony Corp., 263 F.3d 942, 951-56 (9th Cir. 2001).
+51 Marrie and Berry contend that the sanctions sought by the Division here serve no remedial purpose but rather are intended purely as punishment for past conduct and, therefore, are beyond the Commission's authority.
+Their argument is without merit.
+As we have explained, Marrie's and Berry's improper professional conduct demonstrates a future threat to the Commission's processes and, therefore, the application of Rule 102(e) here is remedial and not punitive in nature.
+52 We have considered all of the parties' contentions.
+We have rejected or sustained these contentions to the extent that they are inconsistent or in accord with the views expressed in this opinion.
+http://www.sec.gov/litigation/opinions/34-48246.htm
+Home | Previous Page
+Modified: 07/29/2003

@@ -1,0 +1,433 @@
+---------------------Page 1---------------------
+
+                           UNITED STATES OF AMERICA 
+                                      Before the 
+                   SECURITIES AND EXCHANGE COMMISSION 
+ 
+ 
+SECURITIES ACT OF 1933 
+Release No. 9605 / June 25, 2014 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 72470 / June 25, 2014 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3559 / June 25, 2014 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No.  3-15945 
+ 
+                                             
+In the Matter of                            ORDER INSTITUTING CEASE-AND-
+                                            DESIST PROCEEDING PURSUANT TO 
+      THOMAS A. NEELY, JR.,                 SECTION 8A OF THE SECURITIES ACT 
+                                            OF 1933 AND SECTION 21C OF THE 
+Respondent.                                SECURITIES EXCHANGE ACT OF 1934 
+ 
+                                               
+                                          I. 
+ 
+      The Securities and Exchange Commission (Commission) deems it appropriate that a 
+cease-and-desist proceeding be, and hereby are, instituted pursuant to Section 8A of the Securities 
+Act of 1933 (Securities Act), and Section 21C of the Securities Exchange Act of 1934 
+(Exchange Act), against Thomas A. Neely, Jr. (Respondent or Neely).   
+                                            
+                                          II. 
+ 
+      After an investigation, the Division of Enforcement alleges that: 
+ 
+                                     SUMMARY 
+ 
+      This proceeding arises from the intentional misconduct of the Respondent while employed 
+by Regions Bank and its parent holding corporation, Regions Financial Corporation (Regions).  
+During the quarter ended March 31, 2009, in accordance with Regions policies and procedures, 
+personnel within Regions Banks Special Asset Department (SAD) who reported up to the 
+Respondent, initiated the procedures to place approximately $168 million of certain commercial 
+loans (the Loans) into non-accrual status.  In March 2009, the Respondent, arbitrarily and 
+without supporting documentation, took intentional steps to keep the Loans in accrual status.  The 
+deliberate misclassification under its policies prevented Regions from appropriately measuring 
+impairment in accordance with Generally Accepted Accounting Principles (GAAP).  Such 
+
+                                          -1- 
+---------------------Page 2---------------------
+
+deliberate misconduct by the Respondent to evade existing policies and procedures constituted a 
+fraudulent scheme that rendered Regions financial statements for the quarter ended March 31, 
+2009 materially misstated and not in conformity GAAP, and caused a failure by Regions to 
+maintain a system of internal accounting controls sufficient to provide reasonable assurances that 
+the Loans were recorded as necessary to permit the preparation of financial statements in 
+conformity with GAAP. 
+ 
+       A.     RESPONDENT 
+ 
+       1.     Thomas A. Neely, Jr., 53, was formerly an Executive Vice President for Regions 
+Risk Management Credit Division, where he reported to Michael J. Willoughby.  Neely also 
+oversaw Regions Risk Analytics Group and together with Jeffrey C. Kuehr functionally 
+controlled Regions SAD.  Neelys employment with Regions terminated on November 30, 
+2010. 
+ 
+       B.     OTHER RELEVANT PERSONS AND ENTITY 
+ 
+       2.     Jeffrey C. Kuehr, 50, was formerly an Executive Vice President and the head of 
+Regions SAD.  During the relevant period, Kuehr reported to Willoughby who at the time was 
+Regions Chief Credit Officer (CCO).  Kuehrs employment with Regions terminated on 
+December 29, 2010. 
+        
+       3.     Michael J. Willoughby, 68, was formerly a Senior Executive Vice President and 
+Regions CCO.  As CCO, Willoughby directly reported to Regions Chief Risk Officer.  
+Willoughbys employment with Regions terminated on November 30, 2010. 
+        
+       4.     Regions Financial Corporation is a Delaware financial holding corporation 
+headquartered in Birmingham, Alabama.  Regions conducts its banking operations through its 
+subsidiary Regions Bank, which is a member of the Federal Reserve System.  Regions common 
+stock is registered with the Commission pursuant to Section 12(b) of the Securities Act and trades 
+on the New York Stock Exchange under the symbol RF.  As of December 31, 2013, Regions had 
+approximately $117 billion in assets. 
+        
+       C.     REGIONS TRACKING OF NON-ACCRUAL LOANS 
+ 
+       5.     Throughout the relevant time-period, including the quarter ended March 31, 2009, 
+Regions tracked and recorded its non-performing loans (NPLs) as part of both internal 
+performance metrics and its regular financial reporting.  NPLs at Regions primarily consisted of 
+loans in a non-accrual status.1
+                                
+        
+       6.     Regions policies and procedures required that loans be placed on non-accrual 
+status when it was determined that payment of all contractual principal and interest was in doubt, 
+or the loan was past due 90 days or more as to principal and interest, unless the loan was well-
+secured and in the process of collection.  When a loan was placed in non-accrual status, 
+uncollected interest that had accrued during the current year would be reversed, reducing Regions 
+interest income.  In addition, placing a loan on non-accrual status served as a trigger for Regions to 
+                                                 
+1
+       GAAP does not provide guidance regarding placing loans on a non -accrual status. 
+
+                                              -2- 
+---------------------Page 3---------------------
+
+consider whether that specific loan was impaired and thus how to determine an allowance for loan 
+and lease losses in accordance with GAAP.  
+        
+       7.     Regions policies and procedures provided that the decision to place a loan in non-
+accrual status was to be made by Relationship Managers (RMs) within SAD.  RMs were 
+responsible for reviewing loan file details, monitoring payments and communicating with 
+borrowers.  Under Regions policies and procedures, RMs had the greatest degree of knowledge 
+within SAD of the relevant loan status and a borrowers ability to make payments of principal and 
+interest. 
+        
+       8.     Regions policies and procedures required that when RMs initiated an action to 
+place a loan on non-accrual status, they would submit a supporting form to their regional manager 
+that showed their conclusion and justified how they determined a loan should be placed in non-
+accrual status.  Regions  policies  and procedures then provided for the regional manager to conduct 
+a detailed review of the loan with the responsible RM, after which the approval was granted by the 
+regional manager.  
+        
+       9.     Once approval for non-accrual classification was granted by the regional manager, 
+Regions policies and procedures specified that any subsequent exception to classifying the loan in 
+non-accrual status was required to be fully documented and justified on an approved 
+Recommendation to Continue Accrual Status form  and a signed Risk Rating Change form. 
+  
+       10.    Once the RM and the regional manager concluded that a loan should be classified 
+in non-accrual status, it was then listed by SAD managers in the Asset Quality Forecast report 
+(AQF).  The AQF identified which loans had been approved by the RM and regional manager 
+for being placed on non-accrual status, and it forecasted charge-offs and nonperforming assets for 
+the quarter. 
+        
+       11.    The AQF was a principal forecasting tool of SAD that was prepared under the 
+direction of the Respondent.  The AQF was discussed weekly at meetings regularly conducted and 
+attended by the Respondent.  Neely and Willoughby also regularly utilized the AQF in 
+presentations to Regions Executive Council, which consisted of, among others, Regions Chief 
+Executive Officer (CEO) and Chief Financial Officer (CFO), in discussing current trends in 
+NPLs. 
+        
+       12.    The SAD, under the control of Kuehr and Neely, had authority over the preparation, 
+content, and dissemination of the AQF.  Once a loan  recommended for non-accrual status by the 
+RMs and regional managers was included on the AQF, the responsible RMs would complete 
+information required for a processing list and submit it to Regions Risk Analytics Group.  The 
+processing list was designed as an electronic record documenting the specific actions for individual 
+loans to be formally taken by Regions and reflected in Regions accounting systems.  Neely 
+maintained final authority over the processing list.  Following Neelys approval, his subordinates 
+would submit the processing list for the identified loans to be recorded as non-accrual in Regions 
+accounting systems. 
+        
+
+                                              -3- 
+---------------------Page 4---------------------
+
+       D.     NEELYS INTENTIONAL MISCLASSIFICATION OF THE                   LOANS AND 
+              EVASION OF REGIONS POLICIES AND PROCEDURES DURING THE 
+              QUARTER ENDED MARCH 31, 2009 
+        
+       13.    As of the beginning of March 2009, Regions    AQF identified NPLs  of 
+approximately $1.6 billion.  Neely had discussed with Kuehr and Willoughby the the n current 
+AQF and NPLs.  The AQF and related NPLs tracking for the quarter were     made available to 
+Regions CEO and CFO.  
+        
+       14.    On or about March 13, 2009, Kuehr, Neely and Willoughby were informed by a 
+subordinate that an error had resulted in an underreporting of NPLs by an amount approximating 
+$200 million, or 13% as reported in the AQF data made available to Regions CEO and CFO.  
+        
+       15.    In a March 17, 2009 email to Willoughby and Kuehr   , Neely recommended that a 
+$6.8 commercial million loan be recorded as an accruing loan despite being recommended for non-
+accrual status by the assigned RM and regional manager.  Based on Neelys recommendation, this 
+loan was not placed on the AQF or a processing list and was improperly classified by Regions as 
+being in accrual status as of March 31, 2009.  The failure to document the justification for this 
+action was contrary to Regions policies and procedures.   
+        
+       16.    On or about March 18, 2009, Neely and Willoughby instructed subordinates to 
+take specific actions to remove from the AQF ap proximately $150 million of commercial loans 
+that had been recommended by the assigned RMs and regional managers     , in accordance with 
+Regions policies and procedures , as being classified as non-accrual.  Neely and Willoughby 
+issued such instructions to their subordinates without any documentation or justification 
+supporting the removal of these loans from the AQF.  The failure to provide justification or 
+documentation violated Regions  policies and procedures.   As a result, Regions improperly 
+classified $168 million of the Loans as being in accrual status.  Had Regions classified the 
+relevant loans on non-accrual status in accordance with its policies, it would have prompted a 
+determination that the identified loans were impaired in accordance with GAAP.  That 
+determination would have resulted in Regions recording a higher allowance for loan and lease 
+losses. 
+        
+       17.    On or about March 23, 2009, Willoughby and Neely attended a meeting at which 
+they knowingly provided understated NPL data for the quarter to certain senior executives, 
+including Regions CFO. 
+        
+       18.    In accordance with Regions policies and procedures, the Loans were required to 
+have been classified in non-accrual status at the quarter ended March 31, 2009.  Had Regions 
+classified the relevant loans on non-accrual status in accordance with its policies, it would have 
+prompted a determination that the Loans were impaired in accordance with Statement of Financial 
+Accounting Standard No. 114, Accounting by Creditors for Impairment of a Loan (SFAS No. 
+114).2
+       
+                                                 
+2
+       See SFAS No. 114, which states that a loan is impaired when, based on current information and events, it is 
+probable that a creditor will be unable to collect all amounts due according to the contractual terms of the loan 
+agreement and it requires lenders to measure impairment based on the present value of expected cash flows or an 
+observable fair value of the collateral (i.e., an appraisal) if the loan is collateral dependent. 
+
+                                              -4- 
+---------------------Page 5---------------------
+
+       19.     In taking the undocumented and unjustified steps above, Neely intentionally 
+circumvented Regions policies and procedures regarding the classification of loans into non-
+accrual status.  Neelys intentional scheme directly resulted in the improper classification of the 
+Loans pursuant to Regions policies, and further prevented Regions from appropriately 
+determining those Loans were impaired in accordance with GAAP at the quarter ended March 31, 
+2009. 
+        
+       E.      INTENTIONAL MISCLASSIFICATION OF LOANS HELD FOR SALE 
+        
+       20.     As part of his responsibilities at Regions, Neely had final approval to accept bids 
+for loan sales.  On or about March 16, 2009, Neely contacted a third-party in an effort to sell a 
+$24.7 million commercial loan (the Shopped Loan), which was one of the Loans.  A potential 
+buyer immediately responded to Neelys solicitation, offering to buy the Shopped Loan for 
+between 35 and 50 cents -on-the-dollar.  Neely responded to the buyer that the offer was not 
+sufficient.  Neely responded to the potential buyer that Regions was looking for a price closer to 
+65 to 70 cents-on-the-dollar for the Shopped Loan, and asked the potential buyer to reconsider 
+the recent offer to Regions.   
+        
+       21.     On or about March 20, 2009, the potential buyer indicated that Neelys requested 
+sale price for the Shopped Loan was too high. 
+        
+       22.     On or about April 6, 2009, the potential buyer submitted an additional offer to 
+purchase the Shopped Loan for 58.5% of the loan value.   
+        
+       23.     On or about June 23, 2009, Regions, at Neelys direction , reclassified the 
+Shopped L oan from loans held for investment to the Loans Held for Sale category with a 
+related write-down to fair value.3
+                                    
+        
+       24.     On or about September 2, 2009, the Shopped    Loan was sold to a new buyer for 
+60% of its loan value.   
+        
+       25.     In accordance with both GAAP and Regions policies and procedures, the Shopped 
+Loan was required to have been reclassified to Loans Held for Sale, with a corresponding charge 
+to earnings, prior to the close of the quarter ended March 31, 2009 because a decision to sell the 
+loan had been made prior to the quarter end. 
+        
+       E.      IMPACT OF NEELYS INTENTIONAL MISCONDUCT ON REGIONS 
+               FINANCIAL STATEMENTS 
+ 
+       26.     Regions system of internal accounting controls was insufficient to provide 
+reasonable assurances that the Loans were recorded as necessary to permit preparation of 
+financial statements in conformity with GAAP. 
+        
+                                                 
+3
+       See AICPA Statement of Position 01-6, Accounting by Certain Entities (Including Entities With Trade 
+Receivables) That Lend to or Finance the Activities of Others which states that once a decision has been made to 
+sell loans not previously classified as held for sale, such loans should be transferred into the held -for-sale 
+account and reported at the lower of cost or fair value. 
+
+                                               -5- 
+---------------------Page 6---------------------
+
+       27.    Neely intentional ly circumvented Regions  existing internal accounting controls 
+through his recording and reporting of the Loans in a manner  that  was not in accordance with 
+Regions polic ies and procedures. 
+ 
+       28.    Neelys intentional misconduct resulted in Regions failing to make and keep 
+books, records, and accounts, in reasonable detail, which accurately and fairly reflected the Loans.  
+Further, Regions accounts were falsified through the intentional misconduct of the Respondents. 
+        
+       29.    The books, records and accounts reflecting the Loans were incorporated into 
+Regions consolidated financial statements for the quarter ended March 31, 2009.  As a result of 
+failing to properly account for the Loans in accordance with GAAP, for the quarter ended March 
+31, 2009, Regions income before income taxes was overstated by $16 million, its net income 
+applicable to common shareholders was overstated by approximately $11 million, and its earnings 
+per common share was overstated by approximately $.02 per share.  
+        
+       30.    Had the Shopped Loan been properly written down to fair value   in conformity 
+with GAAP and Regions policies and procedures, Regions net income available to common 
+shareholders would have been reduced an additional approximately $2.9 million beyond the 
+approximate $11 million overstatement attributable to the Loans. 
+        
+       31.    The above misstatements were included in Regions  April 21, 2009 press release 
+included in its Form 8-K dated April 21, 2009 and filed with the Commission on April 21, 2009, in 
+its exhibits to its Form 8-K dated May 20, 2009 and filed with the Commission on May 20, 2009, 
+in its March 31, 2009 Form 10-Q filed May 11, 2009, and two subsequent amendments to its 
+March 31, 2009 Form 10-Q filed on May 13, 2009 and June 9, 2009, in a Form S-4 filed on May 
+20, 2009 and in three subsequent amendments to this registration statement on May 22, 2009, June 
+4, 2009, and June 9, 2009, and in a Form S-8 filed on August 28, 2009 (collectively, the Public 
+Filings). 
+        
+       32.    The Public Filings did not include other information as was necessary to ensure that 
+the statements made in the Public Filings were not, under the circumstances, materially misleading. 
+        
+       33.    In connection with Regions financial reporting for the quarter ended March 31, 
+2009, Neely executed a sub-certification provided to Regions Controller and Chief Accounting 
+Officer.  Neelys knowingly made false statements and/or misleading omissions in the sub-
+certification when he averred that the was not aware of  [a]ny significant deficiencies in the  
+internal control over financial reporting  [or] [a]ny fraud, whether or not material.  Neely knew 
+that the sub-certification would be relied on as part of the financial reporting process for the 
+quarter. 
+        
+       F.     CONDUCT FOLLOWING THE QUARTER ENDED MARCH 31, 2009 
+        
+       34.    On or about May 14, 2009, Neely instructed a subordinate to change the name of an 
+internal SAD document to falsely reflect that RMs, and not Neely as in fact occurred, had 
+recommended that the Loans remain i n accrual status at March 31, 2009.  Neely took additional 
+actions to conceal his prior conduct regarding the Loans from personnel at Regions as well as 
+Regions Banks regulators. 
+
+                                              -6- 
+---------------------Page 7---------------------
+
+ 
+       G.     VIOLATIONS 
+ 
+       35.    As a result of Neelys intentional scheme to misclassify the Loans as in accrual 
+status and to prevent the Shopped Loan from being classified in Loans Held for Sale as of the 
+quarter ended March 31, 2009, Neely violated Section 17(a) of the Securities Act, which prohibits 
+fraudulent conduct in the offer or sale of securities, and Exchange Act Section 10(b) and Rule 10b-
+5 thereunder, which prohibit fraudulent conduct in connection with the purchase or sale of 
+securities. 
+        
+       36.    As a result of the conduct described above, Neely acted through Regions to make 
+material misrepresentations in the Public Filings, and as a result, Neely violated Sections 20(b) and 
+10(b) of the Exchange Act, and Rule 10b-5 thereunder. 
+        
+       37.    As a result of the conduct described above, Neely aided and abetted and caused 
+Regions violations of Section 17(a) of the Securities Act and Section 10(b) and Rule 10b-5 
+thereunder of the Exchange Act. 
+        
+       38.    As a result of the conduct described above, Neely caused Regions to violate Section 
+13(a) of the Exchange Act and Rules 13a-11, 13a-13 and 12b-20 thereunder becaus e its financial 
+statements for the quarter ended March 31, 2009 included in current and quarterly reports, failed to 
+record the Loans and the Shopped Loan in conformity with GAAP.  
+        
+       39.    As a result of the conduct described above, Neely caused Regions to violate Section 
+13(b)(2)(A) of the Exchange Act because it did not keep books, records or accounts that 
+accurately reflected the Loans and the Shopped Loan. 
+        
+       40.    As a result of the conduct described above, Neely caused Regions to violate Section 
+13(b)(2)(B) of the Exchange Act because it failed to maintain a system of internal accounting 
+controls sufficient to provide reasonable assurances that the Loans and the Shopped Loan  were 
+recorded as necessary to permit preparation of its financial statements in accordance with GAAP. 
+        
+       41.    As a result of the conduct described above, Neely violated Section 13(b)(5) of the 
+Exchange Act when he knowingly circumvented and knowingly falsified Regions books, records, 
+and accounts related to the Loans and the Shopped Loan. 
+        
+       42.    As a result of the conduct described above, Neely violated Rule 13b2-1 of the 
+Exchange Act by directly or indirectly falsifying or causing to be falsified Regions books, 
+records and accounts relating to the Loans and the Shopped Loan  which were subject to Section 
+13(b)(2)(A) of the Exchange Act.  
+        
+       43.    As a result of the conduct described above, Neely violated Rule 13b2-2 of the 
+Exchange Act when he directly or indirectly made or caused to be made materially false or 
+misleading statements, or omitted to state material facts necessary in order to make statements 
+made, in light of the circumstances under which such statements were made, not misleading to 
+accountants in connection with the preparation or filing of documents and reports which were 
+required to be filed with the Commission. 
+
+                                              -7- 
+---------------------Page 8---------------------
+
+ 
+                                              III. 
+ 
+       In view of the allegations made by the Division of Enforcement, the Commission deems it 
+appropriate that a cease-and-desist proceeding be instituted to determine: 
+        
+       A.     Whether the allegations set forth in Section II hereof are true and, in connection 
+therewith, to afford Respondent an opportunity to establish any defenses to such allegations;  
+        
+       B.     Whether, pursuant to Section 8A of the Securities Act and Section 21C of the 
+Exchange Act Respondent should be ordered to cease and desist from committing or causing 
+violations of and any future violations of Section 17(a) of the Securities Act, Section 10(b) of the 
+Exchange Act and Rule 10b-5 thereunder, including committing or causing any such violations 
+directly or indirectly through or by means of any other person, as prohibited by Section 20(b) of 
+the Exchange Act, Sections 13(a), 13(b)(2)(A), 13(b)(2)(B), and 13(b)(5) of the Exchange Act and 
+Rules 12b-20, 13a-11, 13a-13, 13b2-1, and 13b2-2 thereunder, whether Respondent should be 
+ordered to pay a civil penalty pursuant to Section 8A(g) of the Securities Act and Section 21B(a) of 
+the Exchange Act, and whether pursuant to Section 21C(f) of the Exchange Act , Respondent should 
+be prohibited from acting as an officer or director of any issuer that has a class of securities 
+registered pursuant to Section 12 of the Exchange Act or that is required to file reports pursuant to 
+Section 15(d) of the Exchange Act. 
+ 
+                                              IV. 
+        
+       IT IS ORDERED that a public hearing for the purpose of taking evidence on the questions 
+set forth in Section III hereof shall be convened not earlier than 30 days and not later than 60 days 
+from service of this Order at a time and place to be fixed, and before an Administrative Law Judge 
+to be designated by further order as provided by Rule 110 of the Commission's Rules of Practice, 17 
+C.F.R. § 201.110. 
+        
+       IT IS FURTHER ORDERED that Respondent shall file an Answer to the allegations 
+contained in this Order within twenty (20) days after service of this Order, as provided by Rule 220 
+of the Commission's Rules of Practice, 17 C.F.R. § 201.220.  
+        
+       If Respondent fails to file the directed answer, or fails to appear at a hearing after being duly 
+notified, the Respondent may be deemed in default and the proceedings may be determined against 
+him upon consideration of this Order, the allegations of which may be deemed to be true as 
+provided by Rules 155(a), 220(f), 221(f) and 310 of the Commission's Rules of Practice, 17 C.F.R.  
+§§ 201.155(a), 201.220(f), 201.221(f) and 201.310. 
+        
+       This Order shall be served forthwith upon Respondent personally or by certified mail. 
+        
+       IT IS FURTHER ORDERED that the Administrative Law Judge shall issue an initial 
+decision no later than 300 days from the date of service of this Order, pursuant to Rule 360(a)(2) of 
+the Commissions Rules of Practice. 
+        
+        
+
+                                               -8- 
+---------------------Page 9---------------------
+
+       In the absence of an appropriate waiver, no officer or employee of the Commission engaged 
+in the performance of investigative or prosecuting functions in this or any factually related 
+proceeding will be permitted to participate or advise in the decision of this matter, except as witness 
+or counsel in proceedings held pursuant to notice.  Since this proceeding is not rule making within 
+the meaning of Section 551 of the Administrative Procedure Act, it is not deemed subject to the 
+provisions of Section 553 delaying the effective date of any final Commission action. 
+        
+       By the Commission. 
+ 
+ 
+ 
+                                                             Jill M. Peterson 
+                                                             Assistant Secretary 
+ 
+
+                                                -9- 

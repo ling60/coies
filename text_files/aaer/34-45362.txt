@@ -1,0 +1,206 @@
+Cyberguard Corporation, William D. Murray, Tommy D. Steele: Admin. Proc. Rel. No. 34-45362 / January 30, 2002
+Home | Previous Page
+UNITED STATES OF AMERICA
+before the
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 45362 / January 30, 2002
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No.
+1501 / January 30, 2002
+ADMINISTRATIVE PROCEEDING
+File No.
+3-10690
+In the Matter of
+CYBERGUARD CORPORATION,
+WILLIAM D. MURRAY,
+TOMMY D. STEELE,
+Respondents.
+:::::::
+ORDER INSTITUTING PUBLIC
+PROCEEDINGS PURSUANT TO
+SECTION 21C OF THE SECURITIES
+EXCHANGE ACT OF 1934, MAKING
+FINDINGS AND IMPOSING A
+CEASE-AND-DESIST ORDER
+I.
+The Securities and Exchange Commission ("Commission") deems it appropriate that public administrative proceedings be instituted against CyberGuard Corporation, William D. Murray, and Tommy D. Steele (collectively "the Respondents") pursuant to Section 21C of the Securities Exchange Act of 1934 ("Exchange Act"), and such proceedings are hereby instituted.
+II.
+In anticipation of the institution of these proceedings, each of the Respondents has submitted an Offer of Settlement that the Commission has determined to accept.
+Solely for the purpose of these proceedings and any other proceedings brought by or on behalf of the Commission or to which the Commission is a party, and without admitting or denying the Commission's findings contained in this Order, except that the Respondents each admit that the Commission has jurisdiction over them and over the subject matter of this proceeding, the Respondents each consent to the entry of this Order.
+III.
+The Commission finds that:1
+A. Summary
+On August 24, 1998, CyberGuard announced that it would be restating its financial results for the fiscal quarter ended March 31, 1998, that its outside auditors had unexpectedly resigned, and that it had suspended its chairman and chief executive officer along with its chief financial officer (Respondent Murray).
+The price of CyberGuard's stock, which at the time traded on the NASDAQ National Market, fell nearly 70% that day on the news.
+Nearly a year later, on July 26, 1999, CyberGuard announced that it would also restate its financial results for its fiscal year ended June 30, 1997 (including all interim quarters and its beginning balance sheet as of July 1, 1996) and for the first three quarters of its fiscal year ended June 30, 1998.2
+CyberGuard's restatement was required because the company's accounting practices departed from both generally accepted accounting principles ("GAAP") and CyberGuard's own stated revenue recognition policies.
+These accounting improprieties included: (i) an improper write-off of $3.244 million in capitalized software costs at the end of CyberGuard's 1996 fiscal year, which inflated the company's reported profit margins by approximately 43.5% for the company's 1997 fiscal year and by approximately 4.4% for the first three quarters of the company's 1998 fiscal year; and (ii) improper revenue recognition during CyberGuard's 1997 and 1998 fiscal years, which inflated the company's reported revenues by approximately $1.4 million (or 9.8%) for the company's 1997 fiscal year and by approximately $2.2 million (or 17%) for the first three quarters of the company's 1998 fiscal year.
+As discussed below, CyberGuard's accounting improprieties occurred in large part because the company failed to devise and maintain sufficient internal accounting controls and because company officers and/or employees misrepresented the reasons for the write-off of capitalized software costs, falsified corporate books and records, and circumvented the limited internal accounting controls that did exist.
+These failures and improprieties caused CyberGuard's books and records to be materially inaccurate and its periodic filings with the Commission to be materially false and misleading during the relevant period.
+Finally, individual Respondents Murray and Steele, although not responsible for CyberGuard's improper write-off of software costs at the end of the company's 1996 fiscal year or the improper recognition of revenue during the 1997 fiscal year (both of which occurred before either of them joined CyberGuard), later engaged in misconduct after joining the company in November 1997 (the second quarter of CyberGuard's 1998 fiscal year) that resulted in the falsification of CyberGuard's books and records, and caused CyberGuard to violate the federal securities laws.
+B. Respondents
+1. CyberGuard Corporation is a Florida corporation with its principal executive offices in Fort Lauderdale, Florida.
+CyberGuard develops and sells commercial network security products designed to prevent unauthorized users from accessing data on computer networks.
+During the relevant period, CyberGuard's common stock was registered with the Commission pursuant to Exchange Act Section 12(g) and quoted on the NASDAQ National Market.
+In January 1999, NASDAQ delisted CyberGuard's stock because the company failed to file a Form 10-K for its 1998 fiscal year and a Form 10-Q for the first quarter of its 1999 fiscal year.
+CyberGuard's stock presently trades in the over-the-counter market through the Pink Sheets LLC.
+2. William D. Murray, age 54, is a resident of Flower Mound, Texas.
+Murray was CyberGuard's Chief Financial Officer ("CFO") and Vice President of Finance from November 1997 until CyberGuard suspended him in August 1998.
+Murray later resigned from CyberGuard in December 1998.
+3. Tommy D. Steele, age 61, is a resident of McKinney, Texas.
+Steele was CyberGuard's President, Chief Operating Officer, and a member of CyberGuard's Board of Directors from November 1997 to May 1999.
+Steele then served as Special Assistant to the Chief Executive Officer until November 1999.
+Steele continued in the status of "severed employee" until May 2000.
+C. CyberGuard's Improper Write-off Of Capitalized Software Costs
+Effective June 30, 1996, Harris Computer Systems Corporation ("HCSC") changed its name to CyberGuard and hired new management.
+At the same time, the company sold its computer hardware manufacturing business, including the proprietary Night Hawk hardware used to run the software on its flagship network security product, the Firewall Version 2.0 ("Version 2.0").
+The company's restructuring was part of a plan to reinvent itself as a higher profit margin, software-only network security business by migrating from Version 2.0, which was compatible only with the Night Hawk hardware platform, to Version 3.0, which was compatible with the industry-standard Intel/Unix platform.
+To improve its profit margins moving forward, CyberGuard wrote off as an operating expense all $3.244 million in capitalized software costs relating to Version 2.0 in the financial statements for the period ended June 30, 1996.
+The company's stated justification for this write-off was that its anticipated migration from the Night Hawk platform to the Intel/Unix platform rendered the costs associated with Version 2.0 "worthless."
+At the time of the write-off, however, Version 2.0 in fact was far from "worthless."
+Indeed, CyberGuard expected Version 2.0 to generate substantial future revenue and profits for the company.
+As such, the write-off was not in compliance with GAAP.3
+In sales forecasts presented to CyberGuard's Board of Directors on August 19, 1996, management predicted that Version 2.0 sales would account for a majority of CyberGuard's revenue in the first quarter of its 1997 fiscal year, and that Version 2.0 would continue to be sold in subsequent quarters as well.
+These sales forecasts reflected strong future demand for Version 2.0 based on the product's unique security ratings, which were described in CyberGuard's 1996 Form 10-K, and widespread customer satisfaction with the performance of Version 2.0.
+These forecasts also reflected the fact that Version 2.0 would be CyberGuard's only marketable network security product until the roll-out of Version 3.0, which was delayed until the second quarter of its 1997 fiscal year.
+Version 2.0 sales in the first quarter of CyberGuard's 1997 fiscal year were as strong as its management had internally predicted, generating approximately $2.9 million in revenues, or approximately 94 percent of CyberGuard's quarterly revenues, and more than $1 million in profits.
+These first quarter financial results were generally known to CyberGuard management before the company filed its 1996 Form 10-K with the Commission on October 2, 1996.
+In that Form 10-K, CyberGuard represented that Version 2.0's capitalized software costs were written off because they were "worthless."
+Version 2.0 sales were strong throughout CyberGuard's 1997 fiscal year, generating approximately $8.6 million in revenues, or approximately 55 percent of CyberGuard's revenues for the year, and approximately $3.1 million in profits.
+Version 2.0 sales also continued to be strong during the company's 1998 fiscal year, generating approximately $4.6 million in revenues, or approximately 35 percent of CyberGuard's revenues for the year, and approximately $700,000 in gross profits.
+As a result of the improper write-off at the end of its 1996 fiscal year, CyberGuard eliminated its periodic amortization of these costs and thus materially overstated its profit margins by 43.5 percent in its 1997 fiscal year, and by 4.4 percent in the first three quarters of its 1998 fiscal year.
+D. CyberGuard's Improper Recognition Of Revenue
+In order to meet revenue targets during CyberGuard's 1997 and 1998 fiscal years, the company engaged in improper revenue recognition activities.
+For example, sales personnel entered into written or oral side agreements with resellers which provided that the resellers had no obligation to pay CyberGuard until the reseller "sold through" CyberGuard's products to end users.
+These contingent terms were sometimes omitted from resellers' purchase orders at the request of CyberGuard's sales personnel.
+CyberGuard's sales personnel also asked customers to backdate purchase orders to a date within a closed quarter, in order to accelerate revenue recognition.
+Similarly, in the days and weeks following the close of certain quarters, CyberGuard's shipping personnel backdated shipping documents in order to accelerate revenue recognition.
+In some instances, false shipping documents were generated to make it appear that shipments had taken place, when none had occurred.
+CyberGuard's officers and accounting staff were aware at times of the contingent or backdated purchase orders, and the backdating of shipping documents, yet nevertheless improperly recognized revenue from the affected transactions or failed to take corrective action when improperly recognized transactions came to their attention.4
+For example, the company's CFO during the 1997 fiscal year maintained a so-called "debooking schedule."
+This document tracked agreements on which revenue had been recognized in previous reporting periods, but payment had not yet been made in full or in part because payment was subject to a material contingency, such as selling the product to an end user.
+Rather than reversing the revenue in the quarter in which it was improperly recognized, and implementing more effective internal controls to prevent improper revenue recognition in the first place, the CFO, at times, "debooked" the revenue by subtracting the revenue improperly recognized in one reporting period from the revenue recorded in a subsequent reporting period.
+Another example of CyberGuard improperly recognizing revenue occurred in connection with its so-called "master purchase order" agreements with resellers.
+Under this type of agreement, a CyberGuard customer committed to placing purchase orders with CyberGuard over one or more quarters that totaled a hundred thousand or more dollars.
+The customer then submitted to CyberGuard a "master purchase order" in the total dollar amount of the commitment without designating the product type or quantity to be purchased.
+CyberGuard's accounting staff then prepared a sales invoice based on the master purchase order, listing product types and quantities randomly selected by the staff that totaled the dollar amount of the master purchase order.
+In each master purchase order transaction, CyberGuard recorded the entire amount of the original master purchase order as revenue at the time the order was received, even though the customer was obligated to pay CyberGuard only when the customer subsequently submitted individual purchase orders for specific products.
+With regard to the first master purchase order, received in 1997, CyberGuard's accounting staff improperly kept "off-the-books" records tracking the individual purchase orders.
+In handling subsequent master purchase orders, the accounting staff generated and recorded on the company's books and records an invoice and an offsetting credit memo on receipt of each actual purchase order submitted under the master purchase order, to make it appear that the company was merely restocking or adjusting a previously filled master purchase order.
+In subsequently restating its financial statements for the 1997 fiscal year and the first three quarters of the 1998 fiscal year, CyberGuard reversed nearly $3.6 million in revenues improperly recognized on numerous transactions.
+The following tables summarize how CyberGuard's reported revenues were improperly inflated:
+1997 Fiscal Year
+($$ in 000's)
+1st Quarter
+2nd
+Quarter
+3rd Quarter
+4th Quarter
+Total Year
+OriginallyReportedRevenue
+3,067
+3,047
+4,105
+5,402
+15,621
+RestatedRevenue
+2,610
+2,658
+4,053
+4,903
+14,224
+PercentageOverstated
+17.5%
+14.6%
+1.3%
+18.2%
+9.8%
+1998 Fiscal Year - First Three Quarters
+($$ in 000's)
+1st Quarter
+2nd Quarter
+3rd Quarter
+Total Three Quarters
+OriginallyReportedRevenue
+5,063
+4,854
+5,152
+15,069
+RestatedRevenue
+4,173
+4,185
+4,516
+12,874
+PercentageOverstated
+21.3%
+16%
+14%
+17%
+E. Murray's Conduct
+Murray's misconduct relates to the period after he joined CyberGuard in November 1997.
+As CyberGuard's CFO, Murray signed CyberGuard's quarterly reports on Form 10-Q for the first three quarters of the company's 1998 fiscal year.
+Murray allowed CyberGuard to improperly recognize revenue on contingent, backdated, and fictitious sales in these financial statements, and failed to take remedial measures or to implement effective internal accounting controls to correct or prevent improper revenue recognition.
+For example, during late 1997, Murray learned that approximately 12 percent of CyberGuard's previously reported revenues for the quarter ended September 30, 1997 were based on a contingent agreement.
+Despite learning this fact, Murray failed to cause CyberGuard to restate its financial statements for that quarter.
+Moreover, consistent with prior company practice, he permitted CyberGuard's accounting staff to "debook" a significant portion of the revenue from this agreement during the quarter ended March 31, 1998, purportedly because the customer had to "restock" products previously purchased, even though the contingency had never been satisfied, no purchase had taken place, and no previous shipment of goods had occurred.
+Murray was also aware that revenue from several backdated and contingent agreements was improperly recognized during the quarter ended March 31, 1998.
+F. Steele's Conduct
+Steele's misconduct relates to the period after he joined CyberGuard in November 1997.
+After the close of CyberGuard's quarter ended March 31, 1998, Steele engaged in conduct that resulted in revenue being improperly recognized within the quarter on several contingent or backdated transactions.
+In one instance, a CyberGuard vice president of sales drafted a letter in early April 1998 which provided that the customer did not have to pay CyberGuard until it re-sold CyberGuard's products to end users.
+Steele signed the letter.
+In a second instance, Steele was aware that a written purchase order obtained in early April 1998 was backdated to March 31, 1998 (the date the parties purportedly agreed orally to the transaction), that shipment did not occur until mid-April, and that payment was contingent on the customer selling the products to end users.
+In a third instance, Steele was aware that a purchase order obtained in April 1998 had been backdated to March 31, 1998.
+Steele was aware that revenue on all three transactions was prematurely recognized in the quarter ended March 31, 1998.
+In addition, Steele caused subordinate employees to backdate certain shipping documents on other transactions, which resulted in the improper acceleration of revenue recognition.
+G.
+Legal Analysis
+1. CyberGuard
+Exchange Act Section 13(a) and Exchange Act Rules 13a-1 and 13a-13 require issuers of registered securities to file annual and quarterly reports with the Commission.
+Exchange Act Rule 12b-20 requires that these periodic reports contain all material information necessary to make the required statements not misleading.
+The filing of a periodic report containing materially false or misleading information constitutes a violation of these provisions.
+SEC v. Savoy Indus., Inc., 587 F.2d 1149, 1165 (D.C. Cir. 1978).
+Exchange Act Section 13(b)(2)(A) requires issuers of registered securities to make and keep books, records, and accounts, which, in reasonable detail, accurately and fairly reflect transactions and dispositions of assets.
+Exchange Act Section 13(b)(2)(B) requires such issuers to devise and maintain a system of internal accounting controls sufficient to provide reasonable assurances that its transactions were recorded as necessary to permit preparation of financial statements in conformity with GAAP.
+As described above, CyberGuard filed periodic reports with the Commission that included materially false and misleading financial statements in violation of Exchange Act Section 13(a) and Exchange Act Rules 12b-20, 13a-1, and 13a-13.
+CyberGuard also failed to make and keep accurate books, records and accounts in violation of Exchange Act Section 13(b)(2)(A), and failed to devise and maintain effective internal controls in violation of Exchange Act Section 13(b)(2)(B).
+2. Murray And Steele
+Exchange Act Section 13(b)(5) provides that no person shall knowingly circumvent or knowingly fail to implement a system of internal controls or knowingly falsify any book, record, or account required by Exchange Act Section 13(b)(2).
+Exchange Act Rule 13b2-1 provides that no person shall, directly or indirectly, falsify or cause to be falsified, any book, record, or account subject to Exchange Act Section 13(b)(2)(A).
+By engaging in the acts and/or omissions described above, after they joined CyberGuard in November 1997, Murray and Steele violated these provisions and were causes of CyberGuard's violations of Exchange Act Section 13(a) and 13(b)(2)(A) and Exchange Act Rules 12b-20 and 13a-13.5
+Murray also was a cause of CyberGuard's violations of Exchange Act Section 13(b)(2)(B).
+IV.
+FINDINGS
+Based on the foregoing, the Commission finds that:
+(a) CyberGuard committed violations of Exchange Act Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B), and Exchange Act Rules 12b-20, 13a-1, and 13a-13.
+In determining to accept CyberGuard's Offer, the Commission considered remedial acts promptly undertaken by CyberGuard and cooperation afforded the Commission staff;
+(b) Murray (i) committed violations of Exchange Act Section 13(b)(5) and Exchange Act Rule 13b2-1, and (ii) was a cause of CyberGuard's violations of Exchange Act Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B), and Exchange Act Rules 12b-20 and 13a-13; and
+(c) Steele (i) committed violations of Exchange Act Section 13(b)(5) and Exchange Act Rule 13b2-1, and (ii) was a cause of CyberGuard's violations of Exchange Act Sections 13(a) and 13(b)(2)(A), and Exchange Act Rules 12b-20 and 13a-13.
+V.
+ORDER
+Accordingly, IT IS HEREBY ORDERED, pursuant to Exchange Act Section 21C, that:
+(a) CyberGuard cease and desist from committing or causing any violation and any future violation of Exchange Act Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B), and Exchange Act Rules 12b-20, 13a-1, and 13a-13;
+(b) Murray cease and desist from committing or causing any violation and any future violation of Exchange Act Section 13(b)(5) and Exchange Act Rule 13b2-1, and from causing any violation and any future violation of Exchange Act Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B), and Exchange Act Rules 12b-20 and 13a-13; and
+(c) Steele cease and desist from committing or causing any violation and any future violation of Exchange Act Section 13(b)(5) and Exchange Act Rule 13b2-1, and from causing any violation and any future violation of Exchange Act Sections 13(a) and 13(b)(2)(A), and Exchange Act Rules 12b-20 and 13a-13.
+By the Commission
+________________________
+Jonathan G. Katz
+Secretary
+Footnotes
+1
+The findings herein are not binding on anyone other than the Respondents.
+2
+A table summarizing, on a quarter by quarter basis, the effect of CyberGuard's restatement on its reported revenues during the relevant period is included below in Section III.D.
+3
+Statement of Financial Accounting Standards No. 86, Accounting for the Costs of Computer Software to be Sold, Leased, or Otherwise Marketed, Paragraph 10, states the following:
+At each balance sheet date, the unamortized capitalized costs of a computer software product shall be compared to the net realizable value of that product.
+The amount by which the unamortized capitalized costs of a computer software product exceed the net realizable value of that asset shall be written off.
+The net realizable value is the estimated future gross revenues from that product reduced by the estimated future costs of completing and disposing of that product, including the costs of performing maintenance and customer support required to satisfy the enterprise's responsibility set forth at the time of sale.
+4
+Statement of Position on Software Revenue Recognition 91-1 provides that a sale may not be recorded as revenue until it is final and free from material contingency.
+5
+Exchange Act Section 21C provides that the Commission may order any person who is or was a cause of a violation of any provision of the Exchange Act to cease and desist from causing such violation.
+http://www.sec.gov/litigation/admin/34-45362.htm
+Home | Previous Page
+Modified: 01/30/2002

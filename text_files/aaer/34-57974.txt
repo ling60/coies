@@ -1,0 +1,272 @@
+---------------------Page 1---------------------
+
+ UNITED                            STATES OF AMERICA 
+
+ Before                                     the 
+
+ SECURITIES                      AND EXCHANGE COMMISSION 
+
+
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 57974 / June 17, 2008 
+
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 2839 / June 17, 2008 
+
+ADMINISTRATIVE PROCEEDING 
+File No. 3-13071 
+
+In the Matter of                       ORDER INSTITUTING PUBLIC 
+                                       ADMINISTRATIVE AND CEASE-
+      NEC CORPORATION,                  AND-DESIST PROCEEDINGS 
+                                        PURSUANT TO SECTIONS 12(j) AND 
+Respondent.                             21C OF THE SECURITIES 
+                                        EXCHANGE ACT OF 1934, MAKING 
+                                        FINDINGS, REVOKING 
+                                        REGISTRATION OF SECURITIES, 
+                                        AND IMPOSING A CEASE-AND-
+                                        DESIST ORDER 
+
+                                      I. 
+
+      The Securities and Exchange Commission (“Commission”) deems it necessary and 
+appropriate for the protection of investors that proceedings be, and hereby are, instituted 
+pursuant to Sections 12(j) and Section 21C of the Securities Exchange Act of 1934 
+(“Exchange Act”) against NEC Corporation (“NEC” or “Respondent”). 
+
+                                      II. 
+
+      In anticipation of the institution of these proceedings, Respondent has submitted an 
+Offer of Settlement (the “Offer”) which the Commission has determined to accept.  Solely 
+for the purpose of these proceedings and any other proceedings brought by or on behalf of 
+the Commission, or to which the Commission is a party, and without admitting or denying 
+the findings herein, except as to the Commission’s jurisdiction over it and the subject 
+matter of these proceedings, Respondent consents to the entry of this Order Instituting 
+Public Administrative and Cease-and-Desist Proceedings Pursuant to Sections 12(j) and 
+21C of the Securities Exchange Act of 1934, Making Findings, Revoking Registration of 
+Securities, and Imposing a Cease-and-Desist Order (“Order”), as set forth below. 
+---------------------Page 2---------------------
+
+                                           III. 
+
+       On the basis of this Order and Respondent’s Offer, the Commission finds 1
+                                                                                 that: 
+
+                                       Respondent 
+
+       NEC Corporation (“NEC”) is a Japanese corporation with its headquarters in 
+Tokyo, Japan.  NEC is a foreign private issuer that is required to file annual reports on 
+Form 20-F with the Commission.  As a foreign private issuer, NEC elected to prepare its 
+financial statements in accordance with Generally Accepted Accounting Principles in the 
+United States (“GAAP”).  At all relevant times, NEC’s common stock, in the form of 
+American Depository Receipts (“ADRs”),   2
+                                           has been registered with the Commission 
+pursuant to Exchange Act Section 12, and was traded on the NASDAQ National Market 
+under the symbol “NIPNY” until September 27, 2007, when NASDAQ suspended trading.        3 
+
+                                        Summary 
+
+       For fiscal years 2000 through 2005, NEC filed annual reports with the 
+Commission that misstated revenues, net income, or net loss.  Specifically, NEC 
+improperly recognized revenues from contracts with customers that included the 
+provision of hardware, software, and customer support.  In accordance with GAAP, NEC 
+should have deferred a substantial portion of these revenues pending future performance.  
+From 2000 through 2006, NEC also did not maintain accurate books and records, and had 
+deficient internal accounting controls.  As a result of these deficiencies, NEC is unable to 
+restate prior financial statements and to file with the Commission annual reports on Form 
+20-F for the fiscal years ended March 31, 2006 and March 31, 2007.  Accordingly, NEC 
+violated Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rule 13a­
+1 thereunder. 
+
+               Accounting For Certain Software Arrangements Under GAAP 
+
+       When an issuer enters into a multi-element arrangement to provide hardware, 
+software, and customer support, GAAP requires the issuer to allocate the revenue from the 
+entire arrangement to the individual elements based upon evidence of the fair value of each 
+of those elements.4
+                    This evidence is referred to as vendor-specific objective evidence of 
+
+1 
+       The findings herein are made pursuant to Respondent’s Offer of Settlement and are not 
+binding on any other person or entity in this or any other proceeding. 
+2 
+       ADRs are stocks of foreign companies that trade in the U.S. markets.  Each ADR represents one 
+or more shares of foreign stock or a fraction of a share. 
+3 
+       Currently, NEC’s ADRs are quoted on the Pink Sheets under the symbol, “NIPNY.”  
+4 
+       American Institute of Certified Public Accountants (“AICPA”) Statement of Position 97-2 
+Software Revenue Recognition (“SOP 97-2”) ¶10. 
+
+                                            2
+
+---------------------Page 3---------------------
+
+fair value (“VSOE”). 5
+                        Under GAAP, VSOE is not established by relying solely on the 
+prices stated in the contract.6
+                               Instead, VSOE is determined by the price the issuer would 
+ordinarily charge for each particular element if the issuer had sold that element separately.7 
+If the issuer cannot establish VSOE, then revenue should be recognized over the entire term 
+of the customer support element of the arrangement.  8 
+
+                   NEC Failed to File Annual Reports with the Commission  
+
+       NEC has not filed an annual report with the Commission since it filed its Form 20-F 
+for fiscal year 2005 and, therefore, is delinquent in filing annual reports for fiscal years 
+2006 and 2007. NEC’s inability to make these or other annual reports stems from NEC’s 
+violations of GAAP, as well as certain record keeping and internal accounting control 
+deficiencies. 
+
+       From 2000 through 2006, NEC routinely entered into multi-element arrangements 
+with its customers to provide hardware, software, and customer support.  9
+                                                                            During the 
+relevant period, NEC’s practice was to recognize revenue from multi-element 
+arrangements with customers in the following manner: for the hardware and software 
+elements, NEC recognized revenue, upon delivery, in an amount equal to the prices stated 
+in the hardware and software contracts; and as to the customer support element, NEC 
+recognized revenue over the term of that agreement, in an amount equal to the price stated 
+in that contract.  
+
+       In violation of GAAP, NEC recorded revenue from these contracts without 
+establishing VSOE for any of the elements in those arrangements.  By failing to establish 
+VSOE for any of the elements in these arrangements, NEC was required to recognize 
+revenue for each element - including hardware and software, in addition to customer 
+support-over the term of the customer support contract.  Because NEC did not properly 
+recognize revenue for these multi-element arrangements, NEC filed annual reports with the 
+
+5 
+       Id. 
+6 
+       SOP 97-2 ¶10 and ¶12. 
+7 
+       SOP 97-2 ¶10. 
+8 
+       SOP 97-2 ¶12 and ¶58. 
+9 
+       During this period, NEC’s practice was to enter into separate contracts with its customers for each 
+element of a multi-element arrangement (e.g., separate contracts for the hardware, software, and customer 
+support components) and record them as stand-alone contracts.  NEC, however, should have recorded these 
+contracts as part of a multi-element arrangement.  As a result of this recordkeeping deficiency, NEC cannot 
+identify which of its contracts originated as part of a multi-element arrangement.  Further, NEC has been 
+unable to determine the number of multi-element arrangements that it executed, the timing and terms of those 
+arrangements, and the prices that it charged for each element of those arrangements during the relevant period.  
+This deficiency contributed to NEC’s inability to establish VSOE. 
+
+                                              3
+
+---------------------Page 4---------------------
+
+Commission for fiscal years 2000 through 2005 that misstated revenues, net income, or net 
+loss. 
+       These deficiencies contributed to NEC’s inability to restate prior financial 
+statements and to file annual reports for fiscal years 2006 and 2007. 
+
+                                       NEC’s Violations 
+
+       NEC’s Violations of the Reporting Provisions 
+
+       Section 13(a) of the Exchange Act and Rule 13a-1 thereunder require issuers whose 
+securities are registered with the Commission pursuant to Section 12 of the Exchange Act 
+to file annual reports with the Commission.  NEC violated Section 13(a) of the Exchange 
+Act and Rule 13a-1 thereunder since it has not filed with the Commission annual reports on 
+Form 20-F for the fiscal years ended March 31, 2006 and March 31, 2007.   
+
+       NEC’s Violations of the Books and Records and Internal Control Provisions 
+
+       Section 13(b)(2)(A) of the Exchange Act requires issuers to make and keep books, 
+records, and accounts which, in reasonable detail, accurately and fairly reflect their 
+transactions and dispositions of their assets.  Section 13(b)(2)(B) of the Exchange Act 
+requires issuers to devise and maintain a system of internal accounting controls sufficient to 
+provide reasonable assurances that transactions are recorded as necessary to permit 
+preparation of financial statements in accordance with GAAP. 
+
+       From 2000 through 2006, NEC did not maintain accurate books and records 
+because NEC improperly recorded revenue on certain transactions involving multi-element 
+arrangements.  NEC’s books and records did not identify which of its contracts originated 
+as a part of a multi-element arrangement, which contributed to NEC’s inability to establish 
+VSOE for those contracts. As a result, NEC’s books and records also did not accurately 
+reflect the company’s revenues, net income, or net loss for these years.  In addition, NEC 
+failed to devise and maintain a system of internal accounting controls sufficient to provide 
+reasonable assurances that it recognized revenue from multi-element arrangements in 
+accordance with GAAP.   
+
+       Based on the foregoing, the Commission finds that Respondent violated Sections 
+13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rule 13a-1 thereunder. 
+
+                                          IV. 
+
+ Revocation of Securities’ Registration Pursuant to Section 12(j) of the Exchange Act 
+
+       Section 12(j) of the Exchange Act provides that: 
+
+       The Commission is authorized, by order, as it deems necessary or appropriate for 
+       the protection of investors to deny, to suspend the effective date of, to suspend for a 
+       period not exceeding twelve months, or to revoke the registration of a security, if 
+
+                                           4
+
+---------------------Page 5---------------------
+
+       the Commission finds, on the record after notice and opportunity for hearing, that 
+       the issuer of such security has failed to comply with any provision of this title or the 
+       rules and regulations thereunder.  No member of a national securities exchange, 
+       broker, or dealer shall make use of the mails or any means of instrumentality of 
+       interstate commerce to effect any transaction in, or to induce the purchase or sale 
+       of, any security the registration of which has been and is suspended or revoked 
+       pursuant to the preceding sentence. 
+
+       As discussed above, NEC has not filed with the Commission annual reports on 
+Form 20-F for the years ended March 31, 2006 and March 31, 2007, and, therefore the 
+Commission finds that it is necessary and appropriate for the protection of investors to 
+revoke the registration of NEC’s securities. 
+
+                                           V. 
+
+                                 NEC’s Undertakings  
+
+       Respondent has undertaken that, in connection with this action and any related 
+Commission investigation, or judicial or administrative proceeding commenced by the 
+Commission or to which the Commission is a party, Respondent (i) agrees to appear and be 
+interviewed by Commission staff at such times and places as the staff requests upon 
+reasonable notice; (ii) will accept service by mail or facsimile transmission of notices or 
+subpoenas issued by the Commission for documents or testimony at investigative 
+testimony, depositions, hearings, or trials; (iii) appoints Respondent’s attorney in this 
+matter as agent to receive service of such notices and subpoenas; (iv) with respect to such 
+notices and subpoenas (excluding ones relating to a Commission investigation), waives the 
+territorial limits on service contained in Rule 45 of the Federal Rules of Civil Procedure 
+and any applicable local rules, provided that the party requesting the testimony reimburses 
+Respondent’s travel, lodging, and subsistence expenses at the then-prevailing U.S. 
+Government per diem rates; (v) consents to personal jurisdiction over Respondent in any 
+United States District Court for purposes of enforcing any such subpoena; and (vi) consents 
+to the production by any third party of any documents, records, or other information in the 
+third party’s possession, custody, or control that the Commission seeks from the third party, 
+by subpoena or otherwise. In determining whether to accept the Offer, the Commission has 
+considered these undertakings. 
+
+                                           VI. 
+
+       In view of the foregoing, the Commission deems it appropriate to impose the 
+sanctions agreed to in Respondent NEC’s Offer. 
+
+       Accordingly, it is hereby ORDERED that: 
+
+       A.     Pursuant to Section 21C of the Exchange Act, that Respondent NEC cease 
+and desist from committing or causing any violations and any future violations of Sections 
+13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rule 13a-1 thereunder.  
+
+                                            5
+
+---------------------Page 6---------------------
+
+       B.     IT IS FURTHER ORDERED pursuant to Section 12(j) of the Exchange 
+Act, that the registration of each class of Respondent NEC’s securities registered pursuant 
+to Section 12 of the Exchange Act be, and hereby is, revoked.  
+
+ By       the Commission. 
+
+       F                                            lorence E. Harmon
+       A                                             cting Secretary 
+
+                                           6
+

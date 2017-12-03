@@ -1,0 +1,232 @@
+34-43301
+Home | Previous Page
+UNITED STATES OF AMERICA
+before the
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No.
+43301 / September 19, 2000
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No.
+1303 / September 19, 2000
+ADMINISTRATIVE PROCEEDING
+File No. 3-10289
+In the Matter of
+PIER 1 IMPORTS, INC.
+Respondent.
+Order Instituting Public Administrative
+Proceedings, Making Findings, and
+Imposing a Cease-and-Desist Order
+I.
+The Commission deems it appropriate that public administrative proceedings be, and hereby are, instituted against <comp.>Pier 1 Imports, Inc.</> ("Pier 1") pursuant to Section 21C of the Securities Exchange Act of 1934 (Exchange Act).
+II.
+In anticipation of the institution of these proceedings, Pier 1 has submitted an offer of settlement, which the Commission has determined to accept.
+Solely for the purpose of these proceedings and any other proceedings brought by or on behalf of the Commission or in which the Commission is a party, and without admitting or denying the findings, except that Pier 1 admits that the Commission has jurisdiction over it and over the subject matter of these proceedings, Pier 1 consents to the entry of the findings and the imposition of the cease-and-desist order set forth below.
+III.
+The Commission finds the following:1
+A. FACTS
+1. Respondent:
+Pier 1 Imports, Inc.
+Pier 1 is a Delaware corporation with headquarters in Fort Worth, Texas.
+It is a retailer of home furnishings.
+Pier 1's common stock is registered with the Commission pursuant to Section 12(b) of the Exchange Act and trades on the New York Stock Exchange.
+Its fiscal year ends annually on the Saturday closest to the last day of February.
+2. Summary
+This matter involves Pier 1's failure to properly account for and timely disclose <item.>investment losses</>.
+Pier 1's accounting and disclosure failures were caused by two interrelated frauds, one by Pier 1's outside money manager, and the other by Pier 1's former Chief Financial Officer.
+First, from at least <date.>1986</> through most of <date.>1995</>, S. Jay Goldinger, a Beverly Hills-based bond specialist, engaged in fraudulent trading that eventually left his clients with losses totaling $100 million.
+One of his clients was Pier 1, which lost nearly $20 million.
+Second, Pier 1's CFO, Robert G. Herndon, concealed Pier 1's $20 million loss and various other facts about the company's investments with Goldinger.
+Herndon's and Goldinger's conduct caused material misrepresentations and omissions in reports filed by Pier 1 with the Commission, as shown in the following table comparing reported to <item.>restated current assets</> and <item.>pretax income</>:
+CURRENT ASSETS
+PRETAX INCOME
+Fiscal Period
+Original Reported
+Restated
+% Orig. Overstated
+Original Reported
+Restated
+% Orig. Overstated
+19933rd Q
+313,710
+311,291
+0.78%
+4,792
+2,373
+101.94%
+19941st Q
+334,216
+330,235
+1.21%
+6,622
+2,641
+150.74%
+19942nd Q
+313,287
+303,079
+3.37%
+10,355
+4,128
+150.85%
+19943rd Q
+322,439
+307,681
+4.80%
+5,685
+1,135
+400.88%
+19951st Q
+341,999
+340,455
+0.45%
+8,011
+6,467
+23.88%
+19952nd Q
+343,017
+337,321
+1.69%
+12,554
+8,402
+49.42%
+19953rd Q
+344,762
+333,317
+3.43%
+648
+(5,101)
+112.70%
+199510K
+352,887
+350,088
+0.80%
+36,027
+33,228
+8.42%
+19961st Q
+343,798
+324,686
+5.89%
+(3,613)*
+(19,926)
+81.87%
+19962nd Q
+373,512
+353,798
+5.57%
+15,836*
+15,234
+3.95%2
+Goldinger's fraud operated as follows: his clients generally gave him funds to invest primarily in Treasury securities.
+Goldinger secretly commingled the funds and placed an enormous number of self-hedging trades in <item.>Treasury bond futures</> without allocating the trades to particular clients.
+Later Goldinger would allocate the winning and losing trades to particular clients.
+Goldinger also wrote "strangles" in the options market-in effect placing risky bets that interest rates would not fluctuate significantly over certain periods-to enhance <item.>profits</>.
+These investments were inherently speculative.
+Goldinger's misallocation scheme and the strangles allowed him to pay himself large sums, create tax losses for certain clients, and shift funds among accounts as needed to keep his scheme going, which he managed to do for nearly ten years.3
+Herndon's fraud involved his concealment of various aspects of Pier 1's investments with Goldinger from Pier 1's board, its auditors, and the public.
+This concealment began in 1986 with the first trade Goldinger placed for Pier 1, and ended in 1995 when Goldinger and his clients suffered catastrophic losses after interest rates rose dramatically.
+As a result of Herndon's concealment, Pier 1's financial statements and other disclosures in its 1993, 1994, 1995, and 1996 Forms 10-Q, and its 1995 Form 10-K were materially false and misleading, and therefore during these years Pier 1 violated the periodic reporting, books and records, and internal accounting controls provisions of the federal securities laws.
+After Pier 1 learned of and disclosed the losses it suffered in 1995, it restated its financial statements for those periods.
+The restated financial statements were filed with the Commission in February, May, June, July, and August, 1996.
+3. Background
+Pier 1 began investing with Goldinger at the end of fiscal year 1986, and continued to do so for a number of years.
+As Pier 1's CFO, Herndon personally supervised all aspects of Pier 1's relationship with Goldinger, including accounting for the returns.
+During fiscal year 1992 (March 1991 through February 1992), Pier 1 did not invest with Goldinger.
+In fiscal year 1993, Herndon directed Pier 1 to invest its funds with Goldinger.
+From at least that point forward, at the end of each fiscal year, Herndon instructed Goldinger to liquidate Pier 1's positions and return Pier 1's money, with profits.
+This procedure avoided outside auditing of the investments.
+After the start of the next fiscal year, Herndon would direct Pier 1 to send Goldinger additional funds to invest on Pier 1's behalf.
+4. Fiscal Year 1995: Herndon Makes False Statements to Auditors and Falsifies Audit Confirmation
+Herndon understood that Goldinger was investing on Pier 1's behalf in financial futures and options and knew, or was reckless in not knowing, that such investments were speculative.
+However, from at least fiscal year 1995, Herndon told Pier 1's senior management before each board meeting and Pier 1's auditors during their quarterly reviews that Pier 1 was investing in safe, non-risky investments. Herndon made similar false statements to Pier 1's senior management and auditors in each subsequent quarter through the third quarter of fiscal year 1996.
+Pier 1 failed to account for fluctuations in the value of its Goldinger investments on a quarterly basis.
+Herndon knew, or was reckless in not knowing, that unless a speculative investment such as a future or an option on a future is employed as a "hedge"-that is, unless it is intended to offset a risk to some other investment asset held by the company-it must be marked to market in each quarter in the company's financial statements to recognize fluctuations in its value.
+In addition, Herndon knew Pier 1 did not, in fact, use the options and futures trading Goldinger conducted to hedge against any asset.
+By the end of fiscal year 1995, Goldinger's misallocation scheme had resulted in a nearly $3 million loss in Pier 1's account.
+Shortly thereafter, however, Goldinger recouped Pier 1's loss in a flurry of profitable futures trades that he allocated to Pier 1's account.4
+A week after Pier 1's fiscal year-end, Goldinger wired $3,637,616.65-purportedly the remainder of Pier 1's principal plus a profit-to Pier 1.
+Pier 1's accounting staff	, at Herndon's instruction, booked this money as though it had been received before the end of the fiscal year.
+Pier 1's auditors discovered that Pier 1 had received the $3.6 million wire after year-end and asked Pier 1's accounting staff about the late receipt.
+In response, Pier 1 sent a confirmation request, signed by Herndon and containing information supplied by him, to Goldinger asking him to confirm that at fiscal year-end Pier 1's account held $3,500,000 invested in Treasury Bills bearing an interest rate of 10.21 percent, purchased on May 10, 1994, with a maturity date of February 28, 1995.
+The confirmation also stated that as of February 25, 1995-the last day of the fiscal year-Goldinger held $137,616.65 in unpaid interest for Pier 1.
+The information in the audit confirmation was incorrect.
+As Herndon intended, Goldinger signed the confirmation, falsely attesting that the information was correct and sent it to Pier 1's auditors.
+As a result of the false confirmation and other false statements by Herndon to Pier 1's senior management and auditors, Pier 1's financial statements contained in its Form 10-K filed with the Commission on May 26, 1995 failed to reflect losses in the Goldinger investments and instead reflected gains, and the Form 10-K materially misled the public with respect to Pier 1's investment strategy.
+5. Fiscal Year 1996: Pier 1's Investments With Goldinger Result in Almost Total Losses
+At the beginning of fiscal year 1996, Pier 1 wired Goldinger $15 million to invest.
+Account statements sent to Herndon on a daily and monthly basis directly from firms where Goldinger invested Pier 1's funds showed that Goldinger employed the funds in extremely active trading in Treasury bond futures and options and was taking tremendous losses.
+In fact, most of the losses during this time were caused by Goldinger deliberately allocating losses to Pier 1 and gains to the accounts of other customers.
+Herndon directed that Pier 1 wire Goldinger an additional $4.5 million on April 26, 1995, bringing the total invested to $19.5 million.
+By the end of April 1995 Goldinger had allocated to Pier 1's account losses of approximately $14 million.
+By the end of May 1995, Goldinger's activities resulted in the loss of $18.4 million of Pier 1's $19.5 million investment.
+This was apparent from the account statements Herndon received.
+Moreover, in May 1995 Goldinger informed Herndon that the investments were not liquid.
+By the end of May 1995, Herndon either knew the extent of the losses or was reckless in not knowing them.
+Herndon did not inform senior management at Pier 1 of any problems with the investments.
+Nor did he cause Pier 1 to reflect a decreased value for the investments in its financial statements for the quarter ended May 27, 1995.
+During the quarterly audit review, Herndon falsely represented to the auditors that the Goldinger investments were in "T-bills with no mark to market reserve required."
+By the end of August 1995 Pier 1's investment losses were almost total, as even the most superficial review of Pier 1's account statements would have shown.
+Herndon again spoke with Goldinger in August or September, and Goldinger again said that Pier 1's investments were not liquid.
+Herndon understood that if Goldinger liquidated the account, Pier 1 would suffer losses.
+Goldinger assured Herndon that he would be able to solve the liquidity problem by the end of Pier 1's fiscal year. Herndon allowed him to continue trading in hopes of recouping what Goldinger characterized as temporary losses.
+Herndon continued to keep the losses secret and once again failed to ensure that the losses were disclosed in Pier 1's financial statements for the quarter ended August 26, 1995.
+Moreover, Herndon again falsely represented to Pier 1's auditors that the investments were in T-bills and did not need to be marked to market.
+On December 21, 1995, Goldinger told Herndon that he had lost all of Pier 1's money and could not recoup it.
+On Friday, December 22, 1995, Herndon finally reported the Goldinger investment losses to Pier 1's Chief Executive Officer. On the next business day, Tuesday, December 26, 1995, Pier 1 issued a press release announcing non-recurring pre-tax losses of approximately $20 million.
+B. LEGAL ANALYSIS
+1. Pier 1 Violated the Reporting Provisions of the Exchange Act.
+Section 13(a) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder require issuers of registered securities to file annual and quarterly reports with the Commission.
+Financial statements contained in these filings must comply with Regulation S-X, which in turn requires conformity with Generally Accepted Accounting Principles ("GAAP").
+The information provided in these reports must be accurate.
+See, e.g., SEC v. Savoy Industries, Inc., 587 F.2d 1149, 1165 (D.C. Cir. 1978), cert. denied, 440 U.S. 913 (1979).
+Pier 1, at all times relevant herein, was subject to the reporting requirements of Section 13(a) of the Exchange Act and rules promulgated thereunder.
+Item 303(b)(1) of Regulation S-K requires that the Management Discussion and Analysis ("MD&A") section of public companies' interim reports contain a discussion of material changes in financial condition from the end of the preceding fiscal year to the date of the quarterly report.
+In particular, this provision requires registrants to identify the causes of any material changes.
+See Instruction 3 to Item 303(b), Regulation S-K, 17 C.F.R. 229.303(b).
+In addition, Exchange Act Rule 12b-20 requires that these periodic reports contain all information necessary to ensure that statements made in them are not materially misleading.
+No showing of scienter is necessary to establish a violation of these provisions.
+Savoy, 587 F.2d at 1167.
+Herndon caused Pier 1 to violate Section 13(a) and Rules 13a-13 and 12b-20 by filing quarterly reports for the third quarter of fiscal year 1993, each quarter in fiscal years 1994 and 1995, and the first and second quarter of fiscal year 1996 that included false financial statements and failed to include disclosures regarding its investment strategy.
+Herndon caused Pier 1 to violate Section 13(a) and Rule 13a-1 by filing annual reports for fiscal years 1993, 1994, and 1995 that failed to disclose its investment strategy, and an annual report for fiscal year 1995 that materially misstated Pier 1's current assets and net income.
+Consequently, Pier 1 gave investors an incomplete, distorted picture of its financial condition and results of operations and denied them the opportunity to see the company "through the eyes of management."
+Management's Discussion and Analysis of Financial Condition and Results of Operations, Securities Act Release No. 6835, Securities Exchange Act Release No. 26831 (May 18, 1989).
+2. Pier 1 Violated the Record-Keeping and Internal Control Provisions of the Exchange Act.
+Section 13(b)(2) of the Exchange Act was enacted to promote the reliability and completeness of financial information disclosed by issuers.
+SEC v. Worldwide Coin Investments, Ltd., 567 F. Supp. 724, 747 (N.D. Ga. 1983).
+Section 13(b)(2)(A) requires issuers to make and keep books, records, and accounts that accurately and fairly reflect the transactions and dispositions of their assets.
+Section 13(b)(2)(B) requires that issuers maintain internal controls sufficient to ensure that, among other things, transactions are recorded as necessary to permit preparation of financial statements in conformity with GAAP and to maintain accountability for assets.
+No showing of scienter is necessary to establish a violation of these provisions.
+Promotion of the Reliability of Financial Information and Prevention of the Concealment of Questionable or Illegal Corporate Payments and Practices, Securities Exchange Act Release No. 15570 (Feb. 15, 1979).
+As discussed above, Herndon caused Pier 1 to fail to quantify the changes in value of its Goldinger investments from quarter to quarter.
+GAAP required Pier 1 to mark-to-market speculative investments in its financial statements.
+In addition, GAAP required that realized losses on investments in futures and options be recognized in a separate line item on the income statement.
+See Accounting for Futures Contracts , Statement of Financial Accounting Standards No. 80 (Aug. 1984) ("FAS 80").
+Since Pier 1 did not hedge any items with the options and futures trading Goldinger conducted, Pier 1 did not meet the requirements for accounting for its investments as hedges from fiscal year 1993 forward.
+Consequently, in accordance with FAS 80, Pier 1 should have reflected the interim losses and gains on the Goldinger investments as they occurred by marking them to market.
+In addition, due to Herndon's falsification of an audit confirmation, Pier 1 failed to disclose material investment losses in its 1995 Form 10-K.
+Thus, Pier 1 violated Section 13(b)(2)(A) of the Exchange Act by maintaining false and misleading books, records and accounts concerning the value of its investment portfolio.
+Pier 1 violated 13(b)(2)(B) of the Exchange Act by failing to have internal controls that ensured that Pier 1 properly accounted for its investments with Goldinger.
+IV.
+Based on the foregoing, the Commission finds that Pier 1 violated Sections 13(a) and 13(b)(2)(A) and (B) of the Exchange Act, and Rules 12b-20, 13a-1, and 13a-13 thereunder.
+V.
+In determining to accept Pier 1's offer of settlement, the Commission considered remedial acts promptly undertaken by Pier 1 and cooperation afforded the Commission staff.
+VI.
+In view of the foregoing, the Commission finds that it is appropriate to impose the relief agreed to in Pier 1's offer.
+Accordingly, it is hereby ordered, pursuant to Section 21C of the Exchange Act, that:
+Pier 1 cease and desist from committing or causing any violations, and any future violations, of Sections 13(a) and 13(b)(2)(A) and (B) of the Exchange Act, and Rules 12b-20, 13a-1, and 13a-13 thereunder.
+By the Commission.
+Jonathan G. Katz
+Secretary
+Footnotes
+1 The findings herein are not binding on anyone other than Pier 1.
+2 Pier 1's fiscal year 1993 and 1994 10-Ks did not need to be restated.
+Pier 1 moved a $14 million write-off due to a default from its 2nd quarter FY 1996 to the 1st when it filed its restated 10-Qs.
+The income figures marked by an asterisk reflect that change.
+3 Goldinger's fraud has already been the subject of four settled Commission enforcement actions brought against him and others.
+SEC v. Goldinger, Civil Action No. CV 99-11539-LGB (C.D. Cal. Nov. 8, 1999); SEC v. Strauch, Civil Action No. CV 99-1384-GLT (C.D. Cal. Nov. 8, 1999); In the Matter of Pairgain Technologies, Inc., Securities Exchange Act Release No. 42114 (Nov. 8, 1999); In the Matter of Goldinger, Securities Exchange Act Release No. 42358 (Jan. 27, 2000).
+4 As discussed above, Goldinger's misallocation scheme involved executing numerous self-hedging futures transactions.
+Goldinger placed two-sided bets without allocating the sides to particular customers.
+After finding out which side lost and which side won, Goldinger allocated the sides as needed.
+http://www.sec.gov/litigation/admin/34-43301.htm
+Home | Previous Page
+Modified:09/20/2000

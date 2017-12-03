@@ -1,0 +1,298 @@
+---------------------Page 1---------------------
+
+ UNITED                              STATES OF AMERICA 
+ Before                                       the 
+                    SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No.  55931 / June 20, 2007 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT  
+Release No.  2618 / June 20, 2007 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No.   3-12661 
+ 
+                                               
+In the Matter of                              ORDER INSTITUTING CEASE-AND-DESIST 
+                                              PROCEEDINGS, MAKING FINDINGS, AND 
+      ALLIED CAPITAL                          IMPOSING A CEASE-AND-DESIST ORDER 
+      CORPORATION,                            PURSUANT TO SECTION 21C OF THE 
+                                              SECURITIES EXCHANGE ACT OF 1934  
+Respondent. 
+ 
+                                                
+ 
+                                           I. 
+ 
+              The Securities and Exchange Commission (Commission) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities 
+Exchange Act of 1934 (Exchange Act), against Allied Capital Corporation (Allied or 
+Respondent).   
+                                             
+                                           II. 
+ 
+              In anticipation of the institution of these proceedings, Respondent has submitted an Offer 
+of Settlement (the Offer) which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the findings  
+herein, except as to the Commissions jurisdiction over it and over the subject matter of these 
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings, Making Findings, and Imposing a Cease-and-Desist Order Pursuant to 
+Section 21C of the Securities Exchange Act of 1934 (Order), as set forth below.   
+ 
+                                          III. 
+ 
+              On the basis of this Order and Respondents Offer, the Commission finds that:  
+ 
+       
+---------------------Page 2---------------------
+
+                                           Respondent 
+        
+       1.      Allied Capital Corporation, incorporated in Maryland and headquartered in 
+Washington, D.C., is a closed-end management investment company that has elected to be 
+regulated as a business development company (BDC) pursuant to Section 54 of the Investment 
+Company Act of 1940 (Investment Company Act).  Allied provides privately negotiated debt 
+and equity financing to middle market companies, with a primary focus on private finance.  
+Allieds securities are registered pursuant to Section 12(g) of the Exchange Act.  Allied makes 
+periodic filings with the Commission pursuant to Section 13(a) of the Exchange Act. 
+ 
+                                            Summary 
+ 
+       2.           From the quarter ended June 30, 2001 through the quarter ended March 31, 2003, 
+Allied violated recordkeeping and internal controls provisions of the federal securities laws relating 
+to the valuation of certain securities in its private finance portfolio for which market quotations 
+were not readily available.  During the relevant period, Allied failed to make and keep books, 
+records, and accounts which, in reasonable detail, supported or accurately and fairly reflected 
+certain valuations it recorded on a quarterly basis for some of its securities.  In addition, Allieds 
+internal controls failed to provide reasonable assurances that Allied would value these securities in 
+accordance with generally accepted accounting principles.  Further, from the quarter ended June 
+30, 2001 through the quarter ended March 31, 2002, Allied failed to provide reasonable assurances 
+that the recorded accountability for certain securities in its private finance portfolio was compared 
+with existing fair value of those same securities at reasonable intervals by failing to: (a) provide its 
+board of directors (Board) with sufficient contemporaneous valuation documentation during 
+Allieds March and September quarterly valuation processes; and (b) maintain, in reasonable 
+detail, written documentation to support some of its valuations of certain portfolio companies that 
+had gone into bankruptcy. 
+ 
+       3.           Allied has implemented new valuation processes, more detailed recordkeeping, and 
+a series of additional controls and procedures over its valuation processes.  
+ 
+                                           Background
+ 
+       4.           As a BDC, Allied is required to value its private finance security portfolio pursuant 
+to the requirements in Section 2(a)(41) of the Investment Company Act.  Because the large 
+majority of Allieds investments in its private finance portfolio are securities for which market 
+quotations are not readily available, Section 2(a)(41)(B)(ii) of the Investment Company Act 
+requires that Allieds Board determine the fair value of its portfolio securities in good faith.  The 
+fair value of securities for which market quotations are not readily available is the price Allied 
+would reasonably expect to receive on a current sale of the security.1
+                                                                       By the end of the relevant 
+
+                                                 
+1
+ See AICPA Audit and Accounting Guide - Investment Companies (Sect. 2.35-2.39), which incorporates 
+Accounting Series Release No. 118 (ASR 118).  The Commission has provided interpretative guidance related to 
+financial reporting in the Accounting Series Releases, which is included in the Codification of Financial Reporting 
+Policies.  Thus, conformity with the ASR 118 is required by Commission rules and is consistent with GAAP.  See 
+also Articles 1-01(a) and 6.03 of Regulation S-X. 
+                                                 2 
+---------------------Page 3---------------------
+
+period, Allieds private finance portfolio recorded at fair value grew to over $1.7 billion, which 
+represented approximately 65% of Allieds total assets, and included investments in 
+approximately 152 portfolio companies.
+        
+       5.           From the quarter ended June 30, 2001 through the quarter ended March 31, 2003, 
+however, Allied failed to make and keep books, records, and accounts which, in reasonable detail, 
+supported the valuations of certain of its securities for which market quotations are not readily 
+available  (private finance investments).  With respect to 15 private finance investments 
+reviewed by staff, Allied could not produce sufficient contemporaneous documentation to support, 
+or which accurately and fairly reflected, its Boards determination of fair value.  Instead, in some 
+instances, the written valuation documentation Allied presented to its Board for these investments 
+failed to include certain relevant indications of value available to it (as further discussed below) 
+and sometimes introduced changes to key inputs used to calculate fair value from quarter to quarter 
+without sufficient written explanation of the rationale for the changes (e.g., changes from 
+EBITDA to revenue-based valuations and in some instances, changes in multiples used to derive 
+enterprise value).  The written valuation documentation retained by Allied for these private 
+finance investments does not reflect reasonable detail to support the private finance investment 
+valuations recorded by Allied in its periodic filings during the relevant period.  
+
+ 6. The following            are three examples of insufficient recordkeeping of Allieds private 
+finance investments during the relevant period.
+
+    7.         Company A - During the relevant period, Allied held a debt investment in 
+Company A, a telecommunications company.  Allied was unable to produce contemporaneous 
+written documentation, in reasonable detail, to support its valuation of Company A during the 
+quarters ended June 30, 2001 and September 30, 2001.  Specifically, Allieds valuation of 
+Company A for these quarters was derived, in part, by including revenues from discontinued 
+lines of business to establish fair value.  Allied maintains that it used a reduced multiple to offset 
+any potential overstatement that would have otherwise resulted from the inclusion of those 
+revenues, but it did not provide the Board with contemporaneous written documentation, in 
+reasonable detail, to support this claim.  In addition, Allied did not retain the valuation 
+documentation it presented to the Board for Company A for the quarters ended December 31, 2001 
+and March 31, 2002.  Allied valued its $20 million subordinated debt investment in Company A 
+at $20 million (i.e., cost) in its Forms 10-Q for the quart  ers ended June 30, 2001 and September 
+30, 2001.  In its 2001 Form 10-K and its Form 10-Q for the period ended March 31, 2002, Allied 
+valued its $20 million subordinated debt investment in Company A at $10.3 million.  Allied 
+subsequently wrote down its subordinated debt investment in Company A to $245,000 in its Form 
+10-Q for the quarter ended June 30, 2002. 
+
+       8.      Company B - During the relevant period, Allied held a subordinated-debt 
+investment in Company B, a direct marketing company.  Allied was unable to produce 
+contemporaneous documentation, in reasonable detail, to support the basis for its valuation of 
+Company B for the quarter ended March 31, 2003.  Specifically, Allieds valuation was based, in 
+large part, on a potential future buyout event by Allied that was preliminary in nature.  Allied 
+maintains that  as a general practice  the Board would have discussed why this particular 
+potential future buyout event was significant enough to form the basis of its valuation of Company 
+                                                3 
+---------------------Page 4---------------------
+
+B, but it could not provide contemporaneous written documentation in reasonable detail to support 
+this claim.  Further, Allieds valuation documentation did not fully reflect Allieds consideration of 
+competing buyout offers for Company B, which, if accepted, would have reduced the fair value of 
+Allieds investment.  Allied valued its $16.5 million subordinated debt investment in Company B 
+at $14.3 million in its Form 10-Q for the quarter ended March 2003.  Allied subsequently wrote 
+down its subordinated debt investment in Company B from $14.3 million to $50,000 in its Form 
+10-Q for the quarter ended June 30, 2003. 
+
+       9.      Company C - During the relevant period, Allied held a subordinated debt 
+investment in Company C, an office supply company.  Allied was unable to produce 
+contemporaneous documentation, in reasonable detail, to support the basis for its valuation of 
+Company C from the quarter ended September 30, 2001 through the quarter ended March 31, 
+2002.  For example, Allieds written valuation documentation failed to include all relevant facts 
+available to it regarding Company Cs deteriorating financial condition, including the fact that 
+Company C had lost one of its largest customers as a result of the terrorist attack on the World 
+Trade Center.  Allied valued its subordinated debt investment in Company C at $8 million in its 
+Forms 10-Q and Form 10-K for the quarters ended September 30, 2001 through March 31, 2002 
+and subsequently wrote that investment down to $50,000 in its Form 10-Q for the quarter ended 
+June 30, 2002. 
+
+              10.        Allied also failed to implement internal accounting controls relating to its private 
+finance investment valuations that were sufficient to provide reasonable assurances that these 
+valuations were fairly stated in accordance with generally accepted accounting principles, or other 
+criteria applicable to its financial statements.  For example, there were certain instances where 
+Allied did not provide its Board (or its valuation committee) with sufficient written information to 
+support the Boards determinations of fair value.2
+                                                    For example, in several instances, the written 
+valuation documentation presented to the Board was incomplete or inadequate to support the fair 
+value recorded by Allied (e.g., enterprise values were listed on worksheets without any 
+explanation; necessary inputs and/or calculations were either missing or incomplete).  In other 
+instances, Allieds valuation documentation during the relevant period contained unexplained 
+departures from, or changes to, key inputs from quarter to quarter.  During the relevant period, 
+Allied did not provide its Board with written valuation documentation from prior periods.  At least 
+one Board member, however, maintained prior period valuation documentation during a portion of 
+the relevant period, but Allied did not regularly provide the Board with comparative information 
+about prior period inputs until the quarter ended September 30, 2003. 
+
+              11.        In addition, from the quarter ended June 30, 2001 through the quarter ended March 
+31, 2002, the valuation documentation presented to Allieds Board during the March and 
+September quarterly valuation processes consisted of quantitative worksheets that failed to provide 
+an adequate explanation of the various inputs.  For example, changes in valuations from quarter to 
+quarter were not always explained in reasonable detail in the written documentation.  Moreover, 
+Allied did not prepare a written description of the quantitative and qualitative analyses used to 
+
+                                                 
+2
+ Allieds failure to provide the Board with such information is inconsistent with the guidance in ASR 118 that a 
+funds board must satisfy itself that all appropriate factors relevant to the value of securities for which market 
+quotations are not readily available have been considered . . .  See supra n.1.  
+                                                 4 
+---------------------Page 5---------------------
+
+develop its valuations until the quarter ended June 30, 2002.  During this period, Allied also failed 
+to maintain, in reasonable detail, written documentation to support some of its valuations of certain 
+portfolio companies that had gone into bankruptcy.  While Allied maintain   s that its Board 
+members and employees engaged in discussions before and during the Board meetings to satisfy 
+themselves with the recorded valuations for Allieds private finance investments, the written 
+valuation documentation retained by Allied for certain private finance investments does not 
+reflect reasonable detail to support the private finance investment valuations recorded by Allied in 
+its periodic filings during the relevant period.3
+
+              12.        During the relevant period, Allied private finance department personnel typically 
+recommended the initial valuations on the investment deals on which they worked.  While there 
+were some existing independent checks of Allieds valuation process, these checks, standing alone, 
+did not provide a sufficient assessment of the objectivity of valuations of the private finance 
+investments.  For example, the valuation committee assigned to review each investment on a 
+quarterly basis was comprised, in large part, of private finance managing directors and principals.  
+Allied has since implemented new valuation processes, more detailed recordkeeping, and a series 
+of additional controls and procedures over its valuation processes, including, but not limited to:  
+quarterly valuation assistance from third-parties; and the establishment of a new Chief Valuation 
+Officer position to oversee the valuation process.  
+
+              13.        As a result of the conduct described above, Allied violated Section 13(b)(2)(A) of 
+the Exchange Act, which requires reporting companies to make and keep books, records, and 
+accounts which, in reasonable detail, accurately and fairly reflect their transactions and dispositions 
+of their assets.  See, e.g., In the Matter of Morgan Stanley, Admin. Proc. File No. 3-11725, 
+Exchange Act Release No. 50632, 2004 SEC Lexis 2573 (Nov. 4, 2004) (finding, in relevant part, 
+that Morgan Stanleys failure to maintain documentation to support its bond valuations violated 
+Section 13(b)(2)(A)).   
+ 
+       14.        As a result of the conduct described above, Allied also violated Section 
+13(b)(2)(B)(ii) of the Exchange Act, which requires reporting companies to devise and maintain a 
+system of internal accounting controls sufficient to provide reasonable assurances that transactions 
+are recorded as necessary to permit preparation of financial statements in accordance with 
+generally accepted accounting principles, or other criteria applicable to its financial statements.  
+See, e.g., In the Matter of Morgan Stanley, Admin. Proc. File No. 3-11725, Exchange Act Release 
+No. 50632, 2004 SEC Lexis 2573 (Nov. 4, 2004) (finding, in relevant part, that Morgan Stanleys 
+failure to maintain internal controls sufficient to ensure that it valued its bond positions and its 
+aircraft in accordance with GAAP violated Section 13(b)(2)(B)). 
+        
+       15.        As a result of the conduct described above, Allied also violated Section 
+13(b)(2)(B)(iv) of the Exchange Act, which requires reporting companies to provide reasonable 
+
+                                                 
+3
+ Commission guidance provides that . . . directors should take into consideration all indications of value available 
+to them in determining the fair value assigned to a particular security.  The information so considered together 
+with, to the extent practicable, judgment factors considered by the board of directors in reaching its decisions should 
+be documented in the minutes of the directors meeting and the supporting data retained for the inspection of the 
+companys independent accountant.  See ASR 118. 
+                                                  5 
+---------------------Page 6---------------------
+
+assurances that the recorded accountability for assets is compared with the existing assets at 
+reasonable intervals and appropriate action is taken with respect to any differences. 
+          
+                                                       IV. 
+        In determining to accept the Offer, the Commission considered remedial acts that 
+were undertaken by Respondent and the cooperation that Respondent afforded the 
+Commission staff.  
+                                                       V. 
+ 
+                                                Undertakings 
+ 
+              Respondent has undertaken for a period of two years from the entry of this Order to: 
+ 
+              1.           Continue to employ a Chief Valuation Officer, or a similarly structured officer-
+level employee, to oversee its quarterly valuation process. 
+ 
+              2.           Continue to employ third-party valuation consultants to assist in its quarterly 
+valuation process for private finance investments in a manner consistent with the Respondents 
+current practices.   
+                                                          
+                                                       VI. 
+                                                          
+         In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondent Allieds Offer. 
+ 
+         Accordingly, the Commission HEREBY ORDERS, pursuant                   to Section 21C of the 
+Exchange Act, that:  
+ 
+        A.      Respondent Allied cease and desist from committing or causing any violations and 
+                 any future violations of Sections 13(b)(2)(A); 13(b)(2)(B)(ii) and 13(b)(2)(B)(iv) of 
+                 the Exchange Act; and  
+ 
+        B. Respondent shall comply             with the undertakings enumerated in Section V above. 
+ 
+ 
+ By the Commission. 
+ 
+ 
+ 
+ 
+       Nancy M. Morris 
+       Secretary 
+
+                                                        6 

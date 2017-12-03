@@ -1,0 +1,366 @@
+---------------------Page 1---------------------
+
+                           UNITED STATES OF AMERICA 
+ Before                                      the 
+ SECURITIES                      AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 64288 / April 8, 2011 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3268 / April 8, 2011 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-14338 
+ 
+                                               
+In the Matter of                              
+                                              
+      KENTUCKY ENERGY, INC.,                 ORDER INSTITUTING CEASE-AND-DESIST 
+      EUGENE CHIARAMONTE,                    PROCEEDINGS PURSUANT TO SECTION 
+      III AND CLEAR MOUNTAIN                 21C OF THE SECURITIES EXCHANGE ACT 
+      ASSOCIATES, LLC,                       OF 1934, MAKING FINDINGS AND 
+                                             IMPOSING A CEASE-AND-DESIST ORDER 
+Respondents. 
+ 
+ 
+                                               
+ 
+                                          I. 
+ 
+              The Securities and Exchange Commission (Commission) deems it appropriate and in the 
+public interest that cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 
+21C of the Securities Exchange Act of 1934 (Exchange Act) against Kentucky Energy, Inc., 
+Eugene Chiaramonte, III and Clear Mountain Associates, LLC (collectively, Respondents).   
+                                            
+                                          II. 
+ 
+              In anticipation of the institution of these proceedings, Respondents have each submitted an 
+Offer of Settlement (an Offer) which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the findings 
+herein, except as to the Commissions jurisdiction over each of them and the subject matter of 
+these proceedings, which are admitted, Respondents consent to the entry of this Order Instituting 
+Administrative and Cease-and-Desist Proceedings Pursuant to Section 21C of the Securities 
+Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order (Order), as set 
+forth below.   
+ 
+---------------------Page 2---------------------
+
+ 
+                                               III. 
+ 
+              On the basis of this Order and Respondents Offers, the Commission finds1
+                                                                                  that:  
+ 
+                                           Summary 
+ 
+ These        proceedings arise out of improper accounting, by Kentucky Energy, Inc., formerly 
+known as Quest Minerals & Mining Corp., for warrants and certain convertible notes for the year 
+ended December 31, 2005.  Among other things, Kentucky Energy accounted for warrants it had 
+issued to third parties as an asset with a purported value at the end of the first quarter of 2005 of 
+more than $13 million.  This accounting was not in accordance with generally accepted accounting 
+principles (GAAP) and was material to Kentucky Energys financial statements, in that it caused 
+its assets to be overstated by 43% and its net loss to be overstated by 197% for the year ended 
+December 31, 2005.  The inaccurate financial statements were prepared by Eugene Chiaramonte, 
+III through his consulting company, Clear Mountain Associates, which had been retained by 
+Kentucky Energy for the purpose of preparing its financial statements. 
+ 
+                                          Respondents  
+ 
+       1.      Kentucky Energy, Inc., formerly known as Quest Minerals & Mining Corp. 
+(Kentucky Energy) was organized under the laws of the state of Utah in 1985.  Since 2004, 
+Kentucky Energy has been in the business of mining coal in Kentucky.  It changed its name to 
+Kentucky Energy, Inc. effective June 16, 2010.  Kentucky En ergys common stock previously 
+traded on the OTC Bulletin Board under the symbol QMLM.OB and currently trades in the pink 
+sheets under the symbol QMIN.PK and closed at $.0004 on October 4, 2010.    
+        
+       2.      Clear Mountain Associates, LLC, a New Jersey limited liability company (Clear 
+Mountain), has been employed as a consultant to Kentucky Energy from the fall of 2004 to the 
+present.  It was formed by Eugene Chiaramonte, III. 
+ 
+       3.           Eugene Chiaramonte, III is the founder and sole owner of Clear Mountain.  He 
+has never been licensed as a certified public accountant.  Through his consulting firm Clear 
+Mountain, Chiaramonte prepared the financial statements of Kentucky Energy beginning with its 
+quarter ended June 30, 2004, to the present.   
+ 
+
+                                                 
+1
+       The findings herein are made pursuant to Respondents Offers of Settlement and are not binding 
+on any other person or entity in this or any other proceeding.  
+
+                                                2 
+ 
+---------------------Page 3---------------------
+
+ 
+                                            Background 
+ 
+       Inaccurate financial statements. 
+        
+       4.      Beginning in the fall of 2004 and continuing throughout 2005, Kentucky Energy 
+obtained a series of loans from third parties, evidenced by notes convertible into common stock.  
+As an additional incentive to the lenders, Kentucky Energy issued warrants along with each 
+convertible note.  The way in which Kentucky Energy accounted for these warrants and for the 
+conversion feature of the notes, however, caused its financial statements for the 2005 year to be 
+materially inaccurate.   
+        
+              5.           Chairamonte formed Clear Mountain for the purpose of running the Kentucky 
+Energy accounting work, its only client, through an entity.  Since mid-2004, Chiaramonte, 
+through Clear Mountain, has been preparing the financial statements of Kentucky Energy and its 
+subsidiaries.  He has also been making determinations as to the proper accounting for Kentucky 
+Energys transactions, because the company has not had an officer or employee capable of 
+working in this area.  In these ways, he functioned as the CFO of Kentucky Energy.  
+Chiaramonte was solely responsible for deciding how to account for the warrants and convertible 
+notes issued by Kentucky Energy during 2004 and 2005.     
+ 
+       6.           All of Kentucky Energys inaccurate 2005 financial statements were the 
+responsibility of Chiaramonte.  He had no prior experience with accounting for warrants, the 
+beneficial conversion feature of a convertible note, or derivative accounting.  Chiaramonte 
+consulted the companys audit firm for guidance.  He did not seek other outside expertise 
+regarding the proper accounting for the convertible notes and warrants.   
+        
+       7.           Kentucky Energys auditor told Chiaramonte that he should use the Black-Scholes 
+option pricing model to value the warrants.  While he had heard the term before, Chiaramonte had 
+no experience with Black-Scholes.  He used a search engine to find a Black-Scholes calculator on 
+the internet.  This calculator called for inputs for the equity price, strike price, volatility, 
+rate/year, and term, and would then generate a figure for option value.  Chiaramonte then 
+applied the resulting valuation to the warrants in Kentucky Energys financial statements.   
+        
+       8.           In using the Black-Scholes calculator he had found on the internet, Chiaramonte 
+did not input the actual volatility and interest rate applicable to Kentucky Energys common 
+stock.  Instead, he chose the generic example for volatility and interest rate provided by the 
+website, and inserted those numbers into the formula.  In the case of the volatility figure, 
+Chiaramonte used the generic input suggested by the website, which was 30%, for each quarter 
+in 2005.  In fact, the actual volatility of Kentucky Energys common stock was well in excess of 
+200% for each quarter.  This difference was material.   
+        
+       9.           In its 2005 financial statements, Kentucky Energy recorded the warrant valuation 
+as an asset on the companys balance sheet, and amortized that valuation over the life of the 
+
+                                                3 
+ 
+---------------------Page 4---------------------
+
+ 
+underlying convertible note.  In fact, no portion of the loan proceeds represented by the warrants 
+should have been recorded as an asset.  Instead, this portion of the loan proceeds should have 
+been recorded in stockholders equity as paid-in capital, with an offsetting amount treated as a 
+debt discount and amortized.  In addition, the company did not account for the beneficial 
+conversion feature of the notes themselves.  Kentucky Energy should have allocated the loan 
+proceeds first to the notes and the warrants, and then allocated a portion from the resulting note 
+amount to the beneficial conversion feature of the notes.   
+        
+       10.        As a result of this improper accounting, Kentucky Energys assets were materially 
+overstated for each quarter in 2005 and for the 2005 year.  For example, its assets were 
+overstated by approximately $13.8 million, or 213%, in the financial statements contained in the 
+Form 10-Q for the first quarter of 2005.   
+        
+       11.        As a result of the amortization of the warrant asset, Kentucky Energys statement 
+of operations was also materially false for each quarter in 2005 and for the 2005 year.  For 
+example, this amortization caused its net loss to be overstated by approximately 174% for the 
+second quarter of 2005.   
+        
+       12.        For its year ended December 31, 2005, as a result of its improper accounting for the 
+warrants and convertible notes, Kentucky Energy recorded a warrant asset in the amount of 
+$3,097,903 on its balance sheet, net of that which was amortized as an expense on its statements of 
+operations.  In so doing, the company overstated total assets by 43% and overstated its net loss by 
+197%.  Along the way it materially overstated paid-in capital, retained deficit, stockholders equity 
+and expenses.  Its recording of the warrants as an asset, and the subsequent amortization of that 
+asset, was material to both its balance sheet and its statement of operations contained in all of its 
+periodic filings for 2005, and caused those financial statements to be false and misleading.   
+        
+Violations 
+ 
+       13.        As a result of the conduct described above, Kentucky Energy committed violations 
+of Section 13(a) of the Exchange Act, which requires registrants to file certain  periodic and other 
+reports, and of Rules 12b-20, 13a-1 and 13a-13.  Rules 13a-1 and 13a-13 require, respectively, the 
+filing of annual and quarterly reports.  Rule 12b-20 provides that, in addition to information 
+specifically required to be included in reports, registrants are obligated to include any material 
+information necessary to make the statements made in the reports not misleading.   
+        
+       14.        As a result of the conduct described above, Kentucky Energy committed violations 
+of Section 13(b)(2)(A) and (B) of the Exchange Act.  Section 13(b)(2)(A) of the Exchange Act 
+requires every issuer that has a class of securities registered pursuant to Section 12 of the Exchange 
+Act to make and keep books, records, and accounts which, in reasonable detail, accurately and 
+fairly reflect the transactions and dispositions of the assets of the issuer . . . .  Scienter is not 
+required to establish a violation of Section 13(b) or the rules thereunder.  Section 13(b)(2)(B) 
+requires an issuer to devise and maintain a system of internal accounting controls sufficient to 
+
+                                                 4 
+ 
+---------------------Page 5---------------------
+
+ 
+provide reasonable assurances that . . . (ii) transactions are recorded as necessary (I) to permit 
+preparation of financial statements in conformity with generally accepted accounting principles or 
+any other criteria applicable to such statements, and (II) to maintain accountability for assets.   
+          
+        15.        As a result of the conduct described above, Chiaramonte committed violations of 
+Section 13(b)(5) of the Exchange Act, which provides that no person shall . . . knowingly falsify 
+any book, record, or account . . . described in Section 13(b)(2).  Chiaramonte knowingly falsified 
+the financial statements of Kentucky Energy by improperly accounting for the warrants and 
+convertible notes. 
+         
+        16.        As a result of the conduct described above, Chiaramonte committed violations of 
+Rule 13b2-1 under the Exchange Act, which generally prohibits the falsification of books and 
+records.   
+ 
+        17.        As a result of the conduct described above, Chiaramonte and Clear Mountain 
+caused Kentucky Energys violations of Sections 13(a) and 13(b)(2)(A) an           d (B) of the Exchange 
+Act and Rules 12b-20, 13a-1 and 13a-13 thereunder. 
+ 
+Undertakings 
+                                                       
+              18.        Kentucky Energy has undertaken to: 
+ 
+                            a.           Maintain at least two independent directors on its Board of Directors so that 
+not less than two-thirds of the members of the Board of Directors will be independent directors;         2
+                                                                                                           
+ 
+                            b.           Employ a Chief Financial Officer qualified to prepare financial statements 
+in accordance with GAAP;  
+                                                 
+2
+        For a director to be considered independent within the meaning of these undertakings, the board must 
+determine that the director has no material relationship with Kentucky Energy (either directly or as a partner, 
+shareholder or officer of an organization that has a relationship with the company) that would interfere with the 
+exercise of independent judgment in carrying out the responsibilities of a director.  A director is not independent if (1) 
+he is, or has been within the last three years, an employee of the company, or if an immediate family member is, or has 
+been within the last three years, an executive officer of the company; (2) the director has received, or has an immediate 
+family member who has received, during any twelve-month period within the last three years, more than $120,000 in 
+direct compensation from the company, other than director and committee fees and pension or other forms of deferred 
+compensation for prior service (provided such compensation is not contingent in any way on continued service); (3) the 
+director or an immediate family member is, or has been with the last three years, employed as an executive officer of 
+another company where any of Kentucky Energys present executive officers at the same time serves or served on that 
+company's compensation committee; or (4) the director is a current employee, or an immediate family member is a 
+current executive officer, of a company that has made payments to, or received payments from, the company, other 
+than those payments to or from the company arising solely from investments in the company's securities or payments 
+under non-discretionary charitable contribution matching programs, for property or services in an amount which, in any 
+of the last three fiscal years, exceeds the greater of $1 million, or 2% of such other company's consolidated gross 
+revenues.  In addition, references to Kentucky Energy or the company" include any parent or subsidiary in a 
+consolidated group with the company.  
+ 
+                                                      5 
+ 
+---------------------Page 6---------------------
+
+ 
+ 
+                     c.           Notify the Division of Enforcement if its chief financial officer resigns or is 
+terminated, or if one or more board members leave the company, such that the board as a whole is 
+no longer independent.  Such notification shall be submitted to Karen L. Martinez, Assistant 
+Director, Securities and Exchange Commission, 15 West South Temple Street, Suite 1800, Salt 
+Lake City, Utah 84101, with a copy to the Office of Chief Counsel of the Enforcement Division, 
+no later than sixty (60) days from the date of such event; 
+ 
+                            d.           Within three months of the date this order is instituted, adopt a system of 
+written internal controls, and identify and implement actions to improve the effectiveness of its 
+disclosure controls and procedures and internal controls, including plans to enhance its resources 
+and training with respect to financial reporting and disclosure responsibilities, and to review such 
+actions with its independent auditors; and 
+ 
+              The above undertakings shall automatically expire three years from the date this order is 
+instituted.   
+ 
+                                               IV. 
+                                                  
+       In view of the foregoing, the Commission deems it appropriate and in the public interest to 
+impose the sanctions agreed to in Respondents respective Offers. 
+ 
+       Accordingly, pursuant to Section 21C of the Exchange Act, it is hereby ORDERED that: 
+ 
+              A.          Respondent Kentucky Energy cease and desist from committing or causing any 
+violations and any future violations of Sections 13(a) and 13(b)(2)(A) and (B) of the Exchange Act 
+and Rules 12b-20, 13a-1 and 13a-13 thereunder.   
+ 
+       B.          Respondent Kentucky Energy comply with its undertakings as enumerated in 
+Section III above.  Any undertaking set forth in Section III above which were implemented prior to 
+the date of this Order shall be maintained.   
+        
+       Respondent Kentucky Energy shall certify, in writing, compliance with the undertakings 
+enumerated in Section III above.  The certification shall identify the undertakings, provide written 
+evidence of compliance in the form of a narrative, and be supported by exhibits sufficient to 
+demonstrate compliance.  The Commission staff may make reasonable requests for further 
+evidence of compliance, and Respondent Kentucky Energy agrees to provide such evidence.  The 
+certification and supporting material shall be submitted to Karen L. Martinez, Assistant Director, 
+Securities and Exchange Commission, 15 West South Temple Street, Suite 1800, Salt Lake City, 
+Utah 84101, with a copy to the Office of Chief Counsel of the Enforcement Divi  sion, no later than 
+sixty (60) days from the date of the completion of the undertakings.   
+ 
+
+                                                6 
+ 
+---------------------Page 7---------------------
+
+ 
+         Any undertakings set forth in Section III above which were implemented prior to the date 
+of this Order shall be maintained.   
+  
+ C. Respondent Chiaramont                       e cease and desist from committing or causing any 
+violations and any future violations of Section 13(b)(5) of the Exchange Act and Rule 13b2-1 
+thereunder.  Respondents Chiaramonte and Clear Mountain cease and desist from committing or 
+causing any violations and any future violations of Section 13(a) and 13(b)(2)(A) and (B) of the 
+Exchange Act and Rules 12b-20, 13a-1 and 13a-13 thereunder.  
+          
+By the Commission. 
+ 
+ 
+ 
+      Elizabeth M. Murphy 
+      Secretary 
+
+                                                             7 
+ 
+---------------------Page 8---------------------
+
+ 
+                                              Service List 
+ 
+               Rule 141 of the Commission's Rules of Practice provides that the Secretary, or another duly 
+authorized officer of the Commission, shall serve a copy of the Order Instituting Cease-and-Desist 
+Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making Findings and 
+Imposing a Cease-and-Desist Order ("Order") on the Respondents and their legal agent. 
+ 
+               The attached Order has been sent to the following parties and other persons entitled to notice: 
+ 
+Honorable Brenda P. Murray                                    
+Chief Administrative Law Judge                             
+Securities and Exchange Commission    
+100 F Street, N.E. 
+Washington, DC 20549-2557                        
+                                                   
+Daniel J. Wadley, Esq.                                 
+Salt Lake Regional Office                                          
+Securities and Exchange Commission                    
+15 W. South Temple, Suite 1800                   
+Salt Lake City, UT 84101                         
+ 
+Kentucky Energy, Inc. 
+c/o Marc A. Indeglia, Esq. 
+Indeglia & Carney, P.C. 
+1900 Main Street, Suite 300 
+Irvine, CA 92614 
+ 
+Eugene Chiaramonte, III 
+c/o Marc A. Indeglia, Esq. 
+Indeglia & Carney, P.C. 
+1900 Main Street, Suite 300 
+Irvine, CA 92614 
+ 
+Clear Mountain Associates, LLC 
+c/o Marc A. Indeglia, Esq. 
+Indeglia & Carney, P.C. 
+1900 Main Street, Suite 300 
+Irvine, CA 92614 
+ 
+Marc A. Indeglia, Esq. 
+Indeglia & Carney, P.C. 
+1900 Main Street, Suite 300 
+Irvine, CA 92614 
+(Counsel for Kentucky Energy, Inc., Eugene Chiaramonte, III and Clear Mountain Associates, LLC) 
+ 
+
+                                                   8 
+ 

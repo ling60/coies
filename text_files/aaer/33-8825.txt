@@ -1,0 +1,588 @@
+---------------------Page 1---------------------
+
+                           UNITED STATES OF AMERICA 
+                                      Before the  
+                   SECURITIES AND EXCHANGE COMMISSION 
+
+SECURITIES ACT OF 1933       CORRECTED 
+Release No.  8825 / July 17, 2007 
+
+SECURITIES EXCHANGE ACT OF 1934  
+Release No.  56082 / July 17, 2007 
+
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No.  2644 / July 17, 2007 
+
+ADMINISTRATIVE PROCEEDING  
+File No.  3-12695 
+
+                                              :   ORDER INSTITUTING CEASE-AND-
+In the Matter of                              :   DESIST PROCEEDINGS, MAKING 
+                                              :   FINDINGS, AND IMPOSING A 
+             QUOVADX, INC.,                   :   CEASE-AND-DESIST ORDER 
+                                              :   PURSUANT TO SECTION 8A OF 
+Respondent.                                   :   THE SECURITIES ACT OF 1933 AND 
+                                              :   SECTION 21C OF THE SECURITIES 
+                                              :   EXCHANGE ACT OF 1934 
+
+                                        I.      
+
+      The Securities and Exchange Commission (Commission) deems it appropriate that 
+cease-and-desist proceedings be, and hereby are, instituted against Quovadx, Inc. (Quovadx) 
+pursuant to Section 8A of the Securities Act of 1933 (Securities Act) and Section 21C of the 
+Securities Exchange Act of 1934 (Exchange Act). 
+
+                                        II.     
+
+      In anticipation of the institution of these proceedings, Quovadx has submitted an Offer of 
+Settlement (the Offer) which the Commission has determined to accept.  Solely for the purpose 
+of these proceedings and any other proceedings brought by or on behalf of the Commission or to 
+which the Commission is a party, and without admitting or denying the findings herein, except as 
+to the Commissions jurisdiction over it and the subject matter of these proceedings which are 
+admitted, Quovadx consents to the entry of this Order Instituting Cease-and-Desist Proceedings, 
+Making Findings, and Imposing a Cease-and-Desist Order Pursuant to Section 8A of the 
+Securities Act of 1933 and Section 21C of the Securities Exchange Act of 1934 (Order), as set 
+forth below. 
+
+ 
+
+ 
+
+ 
+---------------------Page 2---------------------
+
+                                                                                         
+                                               III. 
+
+                                             FACTS 
+
+              On the basis of this Order and Quovadxs Offer, the Commission finds1
+                                                                                 that: 
+
+       A.     Respondent 
+
+       Quovadx, a Delaware corporation based in Englewood, Colorado, is a software company 
+that licenses software and sells related services to the healthcare industry.  Quovadxs stock was 
+registered with the Commission under Section 12(g) of the Exchange Act during the relevant 
+time and traded on the NASDAQ National Market.  During 2002 and 2003, Quovadx derived 
+about one-third of its reported revenue from software licensing fees, with the rest coming from 
+software maintenance and service contracts.  Quovadx separately reported its software licensing 
+revenue, which included sales of both software and licenses. 2
+                                                               During the relevant period, 
+Quovadx had a continuously effective offering of securities pursuant to Form S-8.  It also 
+registered an offer of securities pursuant to Form S-4 in the fourth quarter of 2003. 
+
+       B.     Summary 
+
+       Between 2002 and 2003, Quovadx improperly recognized over $12 million in revenue 
+from software licensing deals with four of its customers in an attempt to meet aggressive revenue 
+and sales goals set by the company.  In transactions with three customers - Sourceworks, 
+Microstar, and Infotech - Quovadxs recognition of revenue was fraudulent.  In each of these 
+transactions, one or more members of Quovadxs then senior management knowingly or 
+recklessly engaged in the improper revenue recognition and other conduct described herein.  3
+                                                                                               In 
+the fourth transaction, Quovadx improperly accelerated recognition of the revenue.  As a result, 
+Quovadx materially overstated its software licensing revenues in its quarterly reports by amounts 
+ranging from 10% in the third quarter of 2002 to nearly 180% by the third and fourth quarters of 
+2003. 
+
+       On March 15, 2004, when it could not collect payment from Infotech for transactions it 
+had previously booked as revenue, Quovadx announced that it would restate its prior results to 
+decrease revenue by approximately $11 million.  Quovadxs stock price fell 29%, and dropped 
+further after Quovadx announced on May 13, 2004, that it was reviewing two additional 
+contracts.  By August 16, 2004, when Quovadx restated its results for the second time to correct 
+for the transactions with Sourceworks, MicroStar, and the fourth customer, Quovadxs stock was 
+trading at $1.65 per share. 
+
+       C.     Applicable Accounting Principles for Software Sales 
+
+       As a public company, Quovadx was required to file quarterly and annual reports with the 
+Commission that presented its financial results in conformity with Generally Accepted 
+
+                                                 
+1
+              The findings herein are made pursuant to Respondents Offer of Settlement and are not binding 
+       on any other person or entity in this or any other proceeding. 
+2
+              Throughout this Order, software sales and software license sales are used interchangeably. 
+3
+              References below to Quovadxs management refer to the former management that departed 
+       Quovadx in Spring 2004. 
+                                               -2-
+---------------------Page 3---------------------
+
+                                                                                        
+Accounting Principles (GAAP).  The American Institute of Certified Public Accountants 
+Statement of Position 97-2, Software Revenue Recognition (SOP 97-2) and related 
+interpretations are the principal GAAP provisions governing the recognition of revenue for sales 
+of software and software licenses.  Under SOP 97-2, a company may not recognize revenue from 
+a software license sale unless and until there is:  persuasive evidence of an arrangement; delivery 
+of the software; a fixed or determinable sellers fee; and a reasonable probability of collecting 
+the accounts receivable.  Further, if payment is substantially contingent on the buyers success in 
+distributing the product to the customer, either due to the terms of the deal or because the buyer 
+is so undercapitalized that it cannot pay until it sells the product, the seller may not recognize the 
+software license revenue at the time of sale. 
+
+       In its financial reports filed with the Commission, Quovadx claimed that it had 
+recognized revenue in accordance with GAAP.  Between 2002 and 2003, in a series of 
+transactions with four different customers, however, Quovadx recognized revenue that was not in 
+conformity with SOP 97-2 and that materially overstated the companys financial results. 
+
+       D.     The Sourceworks Transaction 
+
+       In early 2003, Quovadx solicited the Veterans Administration (VA) to buy licenses for 
+Quovadxs Insurenet software, a product for processing patient medical insurance information.  
+The VA refused to buy the licenses, but expressed an interest in using the software and 
+periodically paying Quovadx a fee based on the number of insurance transactions that it 
+processed.  Quovadx was not interested in this proposal because it did not want to license 
+software on a per-use basis.  Quovadx therefore developed a plan whereby Quovadx would sell 
+the licenses to a third party, which would then enter into a contract with the VA to offer the 
+software on a per-use basis.   
+
+       A Quovadx employee contacted a Colorado-based venture capital firm and proposed that 
+the firm buy the Insurenet licenses from Quovadx.  In return, Quovadx would negotiate a 
+contract for the venture capital firm to license the software on a per-use basis to the VA.  As the 
+end of the second quarter of 2003 approached, the venture capital firm agreed in principle to 
+Quovadxs proposal.  However, because it was not a software reseller, the firm repeatedly said 
+that it would not pay for the Insurenet licenses unless and until Quovadx obtained the promised 
+user contract with the VA.  The Quovadx employee expressed confidence that it would obtain 
+the contract with the VA early in the third quarter.  With that understanding, the venture capital 
+firm created a shell company, Sourceworks USA LLC, in late June 2003 to buy the Insurenet 
+licenses from Quovadx and enter into the user contract with the VA.  On June 30, 2003, 
+Quovadx and Sourceworks executed a contract requiring Sourceworks to pay Quovadx $600,000 
+for the Insurenet licenses.  The contract, which gave Sourceworks six months to pay Quovadx, 
+did not indicate that Sourceworks ability to pay Quovadx was contingent upon Quovadx 
+successfully negotiating a VA deal for Sourceworks. 
+
+       Quovadx knew or was reckless in not knowing that Sourceworks could not pay for the 
+licenses unless the venture capital firm provided the funds or the VA contract was secured.4
+                                                                                              
+Nevertheless, Quovadx recognized the entire $600,000 in the second quarter, based upon the 
+                                                 
+4
+              Sourceworks USA LLC was formed as a subsidiary of Sourceworks Consulting, a Canadian firm.  
+       Sourceworks Consulting supplied incomplete and unaudited financial statements to Quovadx that 
+       did not support a conclusion that either the parent or the subsidiary Sourceworks could pay for the 
+       Insurenet licenses. 
+                                               -3-
+---------------------Page 4---------------------
+
+                                                                                         
+June 30, 2003 contract.  It issued a press release on July 23, 2003, touting the companys second 
+quarter financial results, which included the Sourceworks revenue.  For the next eight months, 
+Quovadx attempted to secure a contract between Sourceworks and the VA.  However, these 
+negotiations ultimately failed.  As a result, other than one $30,000 payment in August 2003, 
+Sourceworks did not pay Quovadx for the Insurenet licenses.  5
+                                                                Because Sourceworks did not pay 
+the remaining $570,000, Quovadxs new senior management and auditor reviewed the 
+Sourceworks transaction in the Spring of 2004 and reversed the revenue as part of the companys 
+second restatement. 
+
+       As a result of its fraudulent recognition of the Sourceworks revenue, Quovadx overstated 
+its software licensing revenues by $570,000, or approximately 9%, in the second quarter of 
+2003.6
+
+       E.     The MicroStar Transactions 
+
+       In the third quarter of 2003, Quovadx fraudulently recognized $380,000 in software 
+licensing revenue from three purported sales of licenses to MicroStar, Inc. (MicroStar), an 
+Ohio company that sells software licenses and maintenance services to the healthcare industry.  
+The sales were, in fact, part of a parking arrangement designed to accelerate revenue recognition 
+from other transactions that Quovadx was in the process of negotiating, but had been unable to 
+finalize before the end of the quarter.  Quovadx carried out this arrangement in an attempt to 
+meet its third quarter sales targets.  Quovadx knew or recklessly disregarded that MicroStar was 
+merely holding the licenses in its inventory so that Quovadx could recognize revenue on their 
+sale.  MicroStar had no ability or intent to pay for the licenses unless Quovadx found 
+customers to which MicroStar could resell the licenses.  Therefore, Quovadx should not have 
+recorded the transactions as revenue. 
+
+       In late September 2003, shortly before the close of the third quarter, MicroStar and 
+Quovadx signed three separate software license purchase contracts with a total value of about 
+$380,000.  Quovadx and MicroStar simultaneously reached a side-agreement that MicroStar did 
+not have to pay Quovadx for the licenses until Quovadx finalized sales of those licenses to three 
+anticipated customers with whom Quovadx had already been negotiating.  Under the side-
+agreement, Quovadx gave MicroStar a discount on the license price in exchange for holding the 
+licenses in MicroStars inventory.  Certain senior management at Quovadx became aware of this 
+arrangement with MicroStar before the end of the third quarter.  Nevertheless, Quovadx treated 
+the MicroStar contracts as bona fide sales agreements and recorded $380,000 of revenue in the 
+third quarter.  Quovadx issued a preliminary earnings release and a quarterly report for the third 
+quarter of 2003 that included the revenue from the arrangement with MicroStar. 
+
+       In fact, MicroStar was unwilling or unable to pay for the licenses unless and until it was 
+able to resell them to the customers with whom Quovadx had been ne    gotiating.  Shortly after 
+Quovadx filed its quarterly report, the company learned that Micr oStar had not paid for any of 
+the software licenses because the anticipated customers had declined to buy the licenses from 
+                                                 
+5
+              Sourceworks has since demanded that Quovadx return the $30,000; Quovadx has not done so.  
+       Sourceworks, in turn, has rejected Quovadxs demand for payment of the $570,000 balance due 
+       on the purchase of the licenses. 
+6
+              Quovadx overstated its software licensing revenue in its July 23, 2003, Form 8-K, which 
+       incorporated its preliminary earnings results, its quarterly report for the second quarter of 2003, 
+       and its annual report for 2003. 
+                                               -4-
+---------------------Page 5---------------------
+
+                                                                                         
+MicroStar.  Quovadx did not reverse the MicroStar revenue, but instead Quovadxs sales staff 
+attempted to find alternative customers to buy the software licenses from MicroStar.  Quovadxs 
+sales staff was unable to find other buyers. 
+
+       In December 2003, one of the three anticipated customers purchased different software 
+licenses for approximately $257,000 from a Quovadx subsidiary in the United Kingdom.   In 
+February 2004, when the customer made payment, the U.K. subsidiary, at Quovadxs direction, 
+reversed the transaction from its books and sent the approximately $257,000 to Quovadxs U.S. 
+offices.  Quovadx then wired this money to MicroStar with the instruction that MicroStar would 
+wire it back to Quovadx, less $10,000 as payment to MicroStar.  MicroStar wired the money less 
+its payment.  By channeling the payment through MicroStar, Quovadx created the false 
+appearance that MicroStar had paid a significant portion of what it owed.  Quovadxs employees 
+also continued unsuccessfully to search for additional opportunities to channel software license 
+sales through MicroStar to eliminate the remaining balance.  In August 2004, Quovadx reversed 
+all three software license sales to MicroStar as part of its second restatement.7
+
+       F.     The Infotech Transactions 
+
+       In the third and fourth quarters of 2003, Quovadx fraudulently recognized a total of $11.1 
+million in software licensing revenue from a series of transactions with Infotech Network Group 
+(Infotech), a company based in India. 8
+                                           Because each of these transactions had material 
+contingencies and the collection of payment was not probable, Quovadx was precluded from 
+recognizing this revenue.  Moreover, even after Infotech did not pay for its third quarter 2003 
+purchases, Quovadx shipped additional software to Infotech and recognized revenue on those 
+sales in the fourth quarter of 2003. 
+
+               1.     The Third Quarter Transactions 
+
+       In early September 2003, Quovadx and Infotech executed two related agreements.  Under 
+the first (the distributor agreement), Infotech agreed to buy $5 million of software licenses 
+from Quovadx and to be the exclusive distributor of Quovadx products in India.  Under the 
+second agreement (the outsourcing agreement), Quovadx agreed to pay Infotech to 
+perform certain services and conduct various research and development projects, pursuant to 
+Statements of Work that would be subsequently negotiated.  The agreements required both 
+parties to fund letters-of-credit to guarantee the payment of their respective obligations.  The 
+distributor agreement required that Infotech fund a $5.46 million letter-of-credit before Quovadx 
+shipped any software to it. 
+
+       As required by the outsourcing agreement, Quovadx immediately funded a letter-of-
+credit for $2.46 million to pay Infotech as it rendered outsourcing services.  By mid-September, 
+however, Infotech had not funded its letter-of-credit.  Quovadx nevertheless shipped the $5 
+million of software licenses to Infotech.  In an attempt to meet its third quarter revenue goals, 
+Quovadx also asked Infotech to buy more software.  Infotech agreed, on the condition that 
+                                                 
+7
+              Quovadx overstated its software licensing revenue by $380,000 in its October 22, 2003, Form 8-
+       K incorporating its preliminary earnings results, its quarterly report for the third quarter of 2003, 
+       and its annual report for 2003. 
+8
+              Infotech Network Group represented itself to Quovadx as a consortium of major Indian 
+       companies that sought outsourced research and development projects from U.S. software 
+       companies. 
+                                               -5-
+---------------------Page 6---------------------
+
+                                                                                         
+Quovadx guarantee pre-payment of outsourcing funds.  On September 30, 2003, the parties 
+signed supplemental contracts under which Infotech was to buy $2.1 million of software licenses 
+and Quovadx was to pre-pay Infotech approximately $1 million for unspecified outsourcing 
+work.  Quovadx shipped the additional $2.1 million in software to Infotech on the last day of the 
+quarter.  Quovadx, with the concurrence of its outside auditor, offset the revenue from these two 
+purported sales by its estimated outsourcing obligation to Infotech and recognized approximately 
+$4.6 million in revenue for the quarter.  Quovadx planned to recognize the remaining revenue as 
+Infotech performed outsourcing services. 
+
+       In early October 2003, before Quovadx filed its quarterly report for the third quarter, 
+Infotech told Quovadx that it did not have enough money to fund its required letters-of-credit.  
+Quovadx agreed to wire $410,000 to assist Infotech in making a margin payment to an Indian 
+bank, purportedly to establish and fund the required letters of credit.9
+                                                                       In return, Infotech gave 
+Quovadx a letter from the Indian bank expressing confidence that Infotechs letter-of-credit 
+would be opened (not funded) by October 21, 2003.  Quovadx relied on this letter as support for 
+Infotechs supposed ability to pay and recognized revenue on the third quarter Infotech 
+transactions.  Quovadx falsely entered the $410,000 payment to Infotech in its books and records 
+as a prepayment under the outsourcing agreements, when in fact Infotech had not satisfied the 
+conditions for prepayment.   
+
+       On October 22, 2003, Quovadx issued both a press release announcing the distribution 
+and software development agreement with Infotech and a preliminary earnings release touting a 
+183% increase in software licensing revenue over the third quarter of 2002.  The Infotech 
+transaction accounted for approximately 60% of Quovadxs reported third quarter software 
+licensing revenue.  Quovadxs share price increased over 25% on the news of the third quarter 
+results. 
+
+               2.     The Fourth Quarter Transactions 
+
+       By mid-December 2003, although it appeared to Quovadx that Infotech had established 
+one letter-of-credit, Infotech still had not funded this letter-of-credit and had not paid for either 
+of its third quarter purchases.  Infotech told Quovadx that the software had still not been released 
+from customs in India, which Infotech claimed was necessary before it could fund its letter-of-
+credit.  Despite these significant issues, Quovadx, hoping to meet Wall Street expectations, asked 
+Infotech to make another software purchase.  Infotech was unwilling to agree unless Quovadx 
+immediately wired $500,000 to it as part of the outsourcing prepayment to which Quovadx had 
+committed at the end of the third quarter.  Quovadx made this payment, even though Infotech 
+had not met the conditions for prepayment under the outsourcing agreement for $440,000 of this 
+amount.  To preserve its legal remedies, Quovadx also sent Infotech a default letter for failing to 
+pay for its third quarter purchases.  Thus, by mid-December, Quovadx had sent $910,000 to 
+Infotech, yet Infotech had not paid for any of the software licenses that it had bought from 
+Quovadx.  10
+
+                                                 
+9
+              In fact, unbeknownst to Quovadx, Infotech never used the money to establish and fund a letter-of-
+       credit. 
+10
+             During the fourth quarter, Quovadx provided Infotech with about $10,000 in outsourcing work, 
+       and trained some Infotech subcontractors on the use of Quovadx software.  Infotech eventually 
+       performed outsourcing work for Quovadx worth about $500,000 based on the December 2003 
+       prepayments. 
+                                               -6-
+---------------------Page 7---------------------
+
+                                                                                       
+       On December 31, 2003, Quovadx signed a contract to sell $6.5 million of software 
+licenses to Infotech.  Quovadx simultaneously signed a supplemental agreement to pay Infotech 
+up to $1.94 million for any outsourcing work that Infotech actually performed through August 
+2004.  Quovadx also provided Infotech assurances that it would increase Quovadxs outsourcing 
+to Infotech significantly over the coming year.   
+
+       On February 11, 2004, Quovadx issued its preliminary fourth quarter earnings release 
+(attached to a Form 8-K filed the same day), which included the $6.5 million in Infotech 
+revenue.  Quovadx issued this release even though Infotech had not paid for the third quarter 
+purchases and Infotechs ability to pay for the fourth quarter purchases depended on its ability to 
+resell the software licenses.  The earnings release claimed that Quovadxs total annual revenue 
+for 2003 had increased about 30% and that its year-over-year software licensing revenue had 
+grown about 173%.  The Infotech transactions accounted for virtually the entire increase in 
+Quovadxs software licensing revenue.  After this announcement, Quovadxs stock price 
+increased by about 10%, closing at $6.66 per share on February 12. 
+
+       At the time of Quovadxs year-end audit in mid-February 2004, Infotech still had not 
+funded a letter-of-credit or made any payments for either the third or fourth quarter software 
+purchases.  In early March 2004, Quovadxs auditor advised it that the company would have to 
+reverse the Infotech revenue from both the third and fourth quarters unless Infotech made a 
+substantial payment before Quovadxs annual report was due to be filed.  On March 8, 2004, 
+therefore, Quovadx authorized Infotech to draw down the $1.94 million balance on Quovadxs 
+outsourcing letter-of-credit, with the understanding that Infotech would use these funds to 
+arrange bank financing to pay Quovadx for the software purchases.  Immediately after receiving 
+the $1.94 million, Infotech told Quovadx that it believed it was entitled to this money under the 
+outsourcing agreement and would not use it to pay Quovadx for the software.  When Quovadx 
+requested that Infotech return the money, Infotech refused.  Infotech never returned the money or 
+paid for the software. 
+
+       On March 15, 2004, Quovadx announced that it would reverse all revenue on sales to 
+Infotech in the third and fourth quarters of 2003.  On March 18, Quovadx filed its annual report 
+for 2003 which restated its financial results for the third and fourth quarters of 2003 and removed 
+$11.1 million in revenue from transactions with Infotech.  In response to these events, the 
+Quovadx board of directors commenced an investigation into the Infotech relationship which 
+subsequently encompassed the Sourceworks and MicroStar transactions.  Shortly thereafter, 
+Quovadxs chief executive officer and chief financial officer resigned.  On May 14, 2004, 
+Quovadx filed a Form 8-K in which it indicated that, as a result of its internal investigation, 
+Quovadx had discontinued any further severance payments to its former chief executive officer 
+and chief financial officer and demanded the return of severance payments already paid and prior 
+compensation, including bonuses.  Quovadx also indicated that it had terminated its executive 
+vice president of sales.   
+
+       G.     Quovadx Prematurely Recognized $250,000 in Revenue in the Third Quarter 
+              of 2002 
+
+       In addition to the software licensing revenue that Quovadx fraudulently recognized in 
+2003, Quovadx prematurely recognized $250,000 in the third quarter of 2002.  In May 2002, 
+Quovadx announced the release of QuickTrials 1.0, a software product designed to help 
+automate the management of clinical drug trials.  The following month, Quovadx entered into 
+negotiations to sell QuickTrials for $250,000 to a company that managed clinical trials in the 
+                                              -7-
+---------------------Page 8---------------------
+
+                                                                                         
+pharmaceutical industry.  Because the existing version of QuickTrials did not meet all of the 
+customers specifications, Quovadx and the customer discussed developing an acceptable 
+version of QuickTrials, to be called QuickTrials 2.0.  In early September 2002, Quovadx 
+proposed that the customer pay $250,000 for the platform software needed to run QuickTrials, 
+and that they enter into a partnership to develop QuickTrials 2.0.  Quovadx told the customer that 
+it would deliver the platform software in September and the first development (or beta) version 
+of QuickTrials 2.0 in October 2002.   
+
+       On September 30, 2002, the last day of the third quarter, Quovadx and the customer 
+executed a contract under which Quovadx would provide the company beta versions of 
+QuickTrials 2.0 and a commercial version of that software, if and when released.  Further, at the 
+request of the customer, Quovadx extended the payment over eight months, which roughly 
+corresponded to the anticipated completion of the development of QuickTrials 2.0.  Despite this 
+extended payment plan and promise to deliver QuickTrials 2.0 in the future if and when 
+Quovadx released it, Quovadx recognized the full $250,000 in revenue in the third quarter of 
+2002.   
+
+       In substance, the value of the transaction for the customer lay in obtaining the beta 
+versions of QuickTrials 2.0, not the platform programs delivered in the third quarter.11
+                                                                                         
+Therefore, Quovadx should not have recognized the revenue from the transaction with the 
+customer until at least the fourth quarter of 2002.  By prematurely recognizing this revenue, 
+Quovadx overstated its software revenues for the third quarter of 2002 by approximately 10%.  
+As part of its second restatement, Quovadx reversed the $250,000 in revenue from the third 
+quarter of 2002 and recognized that amount for the fourth quarter of 2002. 
+
+                                               IV. 
+                                                  
+                                   LEGAL CONCLUSIONS 
+
+       A.      Violations of the Antifraud Provisions 
+
+       Section 17(a) of the Securities Act and Section 10(b) of the Exchange Act and 
+Rule 10b-5 thereunder prohibit a variety of fraudulent practices in connection with the offer, 
+purchase or sale of securities.  An issuer violates these provisions when it makes material 
+misstatements or omissions in annual or quarterly reports filed with the Commission, or in 
+earning releases or other public statements.  SEC v. McNulty, 137 F.3d 732, 741 (2d Cir. 1998).  
+Moreover, half-truths are as violative ... as outright falsehoods.  SEC v. Schiffer, S.D.N.Y. 
+1998 Fed. Sec. L. Rep. ¶ 90,247, 1998 WL 307375, at *2 (S.D.N.Y.).  A fact is material if there 
+is a substantial likelihood that a reasonable investor would consider the information to be 
+important.  Basic v. Levinson, 485 U.S. 224, 231-32 (1988).  Information concerning a 
+companys financial condition and profitability is material information.  See, e.g., SEC v. 
+Murphy, 626 F.2d 633, 653 (9th Cir. 1980).  [E]arnings reports are among the pieces of data 
+that investors find most relevant to their investment decisions.  Ganino v. Citizens Util. Co., 228 
+F.3d 154, 164 (2d Cir. 2000) (citation omitted). 
+                                                 
+11
+             SOP 97-2 provides in pertinent part that: When-and-if-available deliverables should be 
+       considered in determining whether an arrangement includes multiple elements....  If an 
+       arrangement includes multiple elements, the fee should be allocated to the various elements based 
+       on vendor-specific objective evidence of fair value, regardless of any separate prices stated within 
+       the contract for each element. 
+                                               -8-
+---------------------Page 9---------------------
+
+                                                                                         
+       Section 10(b) and Rule 10b-5 of the Exchange Act and Section 17(a)(l) of the Securities 
+Act require that a defendant act with scienter, which has been defined as a mental state 
+embracing intent to deceive, manipulate, or defraud.  Aaron v. SEC, 446 U.S. 680, 701-02 
+(1980); Ernst & Ernst v. Hochfelder, 425 U.S. 185, 193 n. 12 (1976).  Scienter can be satisfied 
+by showing that a defendant acted recklessly.  See. e.g., ITT v. Cornfeld, 619 F.2d 909, 923 (2d 
+Cir. 1980); Schiffer, 1998 WL 307375, at *3.  For the purposes of establishing scienter on the 
+part of a company, the mental state of the companys officers is imputed to the company.  SEC v. 
+Manor Nursing Centers, Inc., 458 F.2d 1082, 1089 n.3 (2d Cir. 1972). 
+
+       Quovadx fraudulently recognized revenue on the Sourceworks, MicroStar, and Infotech 
+transactions.  In each of those transactions, one or more members of Quovadxs senior 
+management knew, or recklessly disregarded that those transactions either had material 
+contingencies or were not true sales, and collection from the customers was not reasonably 
+probable.  Sourceworks could not and would not pay for software licenses unless and until 
+Quovadx secured a contract between Sourceworks and the VA.    The arrangement with 
+MicroStar to hold software licenses in MicroStars inventory had no legitimate business purpose 
+and MicroStar had no intent or ability to pay for the software licenses unless it could resell them 
+to customers identified by Quovadx.  Quovadx attempted to disguise this arrangement by 
+funneling an unrelated payment through MicroStar to make it appear that MicroStar had partially 
+paid for the licenses.  Finally, Quovadx recognized more than $11 million in revenue on software 
+sales to Infotech, even after the company knew or was reckless in not knowing that it was not 
+reasonably probable that Infotech would pay for the software.  Indeed, Quovadx advanced 
+Infotech nearly $1 million as an inducement for Infotech to buy some of the software, even 
+though Infotech had not funded its required letters-of-credit.  Further, fearing that its auditor 
+would require it to reverse the Infotech revenue, Quovadx gave Infotech nearly another $2 
+million in the vain hope that Infotech would use that money to pay some of its debt.  
+
+       As a result of its improper recognition of revenue from these transactions, Quovadx 
+fraudulently overstated its software licensing revenue by $600,000 in the second quarter of 2003, 
+by almost $5 million in the third quarter of 2003, and by $6.5 million in the fourth quarter of 
+2003.  Moreover, although Quovadx had reversed the Infotech overstatement by the time the 
+company filed its annual report for 2003, that annual report still included the revenue from the 
+Sourceworks and MicroStar transactions.  Quovadx also issued false and misleading press 
+releases during the period that materially misrepresented the companys financial results and 
+were attached to the Forms 8-K that Quovadx filed with the Commission in     the second, third and 
+fourth quarters of 2003. 
+
+       As a result of this conduct, Quovadx violated Section 10(b) of the Exchange Act and 
+Rule 10b-5 thereunder.  Because Quovadx had a continuously effective offering of securities 
+pursuant to Forms S-8 and S-4 during the period, the company also violated Section 17(a) of the 
+Securities Act.12
+
+        
+
+                                                 
+12
+             In May 2002, Quovadx filed a Form S-8 that became effective to offer stock in connection with 
+       the companys employee stock purchase plan (the Form S-8 was incorporated into Quovadxs 
+       subsequent annual and quarterly reports).  In addition, Quovadx filed a Form S-4 on November 
+       12, 2003, and Amended Forms S-4 on December 4 and December 10, 2003, registering an offer 
+       of securities in connection with Quovadxs acquisition of RogueWave Software. 
+                                               -9-
+---------------------Page 10---------------------
+
+                                                                                       
+       B.     Reporting Violations 
+
+       Section 13(a) of the Exchange Act and Rules 13a-1, 13a-11, and 13a-13 thereunder 
+require that issuers with securities registered under Section 12 of the Exchange Act, such as 
+Quovadx, file annual and quarterly reports with the Commission and keep this information 
+current.  These reports must be complete and accurate in all material respects.  United States v. 
+Bilzerian, 926 F.2d 1285, 1298 (2d Cir. 1991); SEC v. Savoy Indus., Inc., 587 F.2d 1149, 1165 
+(D.C. Cir. 1978), cert. denied                 , 440 U.S. 913 (1979).  Rule 12b-20 of the Exchange Act requires 
+that an issuers periodic reports include any additional information necessary to make the 
+required statements, in the light of the circumstances under which they are made, not 
+misleading.  The issuers legal obligation extends not only to accurate quantitative reporting of 
+the required items in its financial statements, but also to other information, qualitative as well as 
+quantitative, needed to enable investors to make informed decisions.  In re Sony Corp. and 
+Sumio Sano, 67 SEC Docket 1609, 1998 WL 439898 at *4 (Aug. 5, 1998). 
+
+       Quovadx filed a quarterly report on Form 10-Q for the third quarter of 2002 that  
+overstated the companys software licensing revenue by 10% as a result of the companys 
+premature recognition of revenue from the transaction with the clinical trials manager.  
+Recognition of the $250,000 in revenue in the third quarter did not conform to SOP 97-2, and 
+Quovadx should have deferred recognizing this revenue until a subsequent quarter. 
+
+       Quovadx entered into transactions with Sourceworks, MicroStar, and Infotech in which 
+Quovadx knew or was reckless in not knowing that revenue should not be recognized.  By doing 
+so, Quovadx fraudulently recognized revenue on transactions that were not actual sales.  As a 
+result, Quovadxs annual report for 2003, quarterly reports for the second and third quarters of 
+2003, and earning releases for the second, third, and fourth quarters of 2003 contained materially 
+false and misleading statements concerning Quovadxs software licensing revenue.  Accordingly, 
+Quovadx violated Section 13(a) of the Exchange Act and Rules 12b-20, 13a-1, 13a-11, and 13a-
+13 thereunder. 
+
+       C.     Record-Keeping and Internal Controls Violations 
+
+       Section 13(b)(2)(A) of the Exchange Act requires that issuers make and keep books, 
+records, and accounts which, in reasonable detail, accurately and fairly reflect the transactions 
+and dispositions of the assets of the company.  Section 13(b)(2)(B) of the Exchange Act requires 
+reporting companies to devise and maintain a system of internal accounting controls sufficient to 
+provide reasonable assurances that transactions are recorded as necessary to permit preparation 
+of financial statements in conformity with GAAP and to maintain accountability of assets. 
+
+       As discussed above, Quovadx improperly recognized revenue in the third quarter of 2002 
+from the transaction with the clinical trials manager and, in the second, third and fourth quarters 
+of 2003, from the transactions with Sourceworks, MicroStar, and Infotech.  As a result, 
+Quovadxs books and records were materially inaccurate because they overstated software 
+licensing revenue and did not accurately or fairly reflect the transactions of the company.  
+Quovadx also failed to maintain internal controls sufficient to ensure that revenue recognition 
+would occur properly and that its financial statements would be prepared in conformity with 
+GAAP.  Therefore, Quovadx violated Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act. 
+
+                                              -10-
+---------------------Page 11---------------------
+
+                                                                                     
+                                              V. 
+                                                
+                                         FINDINGS 
+
+       Based on the foregoing, the Commission finds that Quovadx violated Section 17(a) of the 
+Securities Act and Sections 10(b), 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and 
+Rules 10b-5, 12b-20, 13a-1, 13a-11, and 13a-13 thereunder. 
+
+                                             VI. 
+
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Quovadxs offer. 
+
+       Accordingly, IT IS HEREBY ORDERED that: 
+
+       Pursuant to Section 8A of the Securities Act and Section 21C of the Exchange Act, 
+Quovadx cease and desist from committing or causing any violations and any future violations of 
+Section 17(a) of the Securities Act and Sections 10(b), 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the 
+Exchange Act and Rules 10b-5, 12b-20, 13a-1, 13a-11, and 13a-13 thereunder. 
+
+       By the Commission. 
+
+        
+
+                                                  Nancy M. Morris  
+                                                  Secretary 
+
+ 
+
+                                             -11-

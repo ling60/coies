@@ -1,0 +1,319 @@
+---------------------Page 1---------------------
+
+ 
+                             UNITED STATES OF AMERICA 
+                                         Before the 
+                      SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 77596 / April 12, 2016 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3764 / April 12, 2016 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-17207 
+                                               
+ 
+                                              ORDER INSTITUTING CEASE -AND-DESIST 
+In the Matter of                              PROCEEDINGS PURSUANT TO SECTION 
+                                              21C OF THE SECURITIES EXCHANGE ACT 
+      INTL FCSTONE INC.,                      OF 1934, MAKING FINDINGS, AND  
+                                              IMPOSING A CEASE -AND-DESIST ORDER   
+Respondent.  
+ 
+ 
+ 
+ 
+                                             I.  
+
+      The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-and-
+desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities Exchange 
+Act of 1934 (“Exchange Act”), against INTL FCStone Inc. (“INTL FCStone,” the “Company,” or 
+“Respondent”).  
+
+                                             II. 
+
+      In anticipation of the institution of these proceedings, Respondent has submitted an Offer of 
+Settlement (the “Offer”) which the Commission has determined to accept.  Solely for the purpose of 
+these proceedings and any other proceedings brought by or on behalf of the Commission, or to which 
+the Commission is a party, and without admitting or denying the findings herein, except as to the 
+Commission’s jurisdiction over him and the subject matter of these proceedings, which are admitted, 
+Respondent consents to the entry of this Order Instituting Cease-and-Desist Proceedings Pursuant to 
+Section 21C of the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-
+Desist Order (“Order”), as set forth below.   
+
+                                             1 
+---------------------Page 2---------------------
+
+ 
+                                                  III. 
+
+                                                                                      1
+       On the basis of this Order and Respondent’s Offer, the Commission finds that : 
+
+                                               Summary 
+
+       1.      This matter arises from INTL FCStone’s violations of the reporting, books and records, 
+and internal control provisions of the Exchange Act.  Between fiscal year 2010 and June 30, 2013, 
+INTL FCStone overstated its operating revenues by $10 million and its net income by $6 million as a 
+result of accounting errors in recording and reporting over-the-counter (“OTC”) derivative trading gains 
+at a subsidiary, INTL FCStone Markets, LLC (“IFM”).  INTL FCStone’s internal accounting controls 
+failed to timely prevent or detect the accounting errors.  In January 2014, INTL FCStone restated its 
+financial statements, determined that certain of its controls were not designed or operating effectively, 
+and reported the existence of a material weakness in internal control over financial reporting (“ICFR”) 
+as of September 30, 2013. 
+
+                                                 Respondent 
+
+       2.      INTL FCStone, a Delaware corporation based in New York, New York, provides 
+execution and advisory services in commodities, currencies and international securities.  INTL 
+FCStone’s common stock is registered under Section 12(b) of the Exchange Act and trades on the 
+Nasdaq Global Market under the ticker symbol “INTL.”   
+
+                   INTL FCStone Delays Filing its Fiscal Year 2013 Form 10-K 
+
+       3.      On December 17, 2013, INTL FCStone disclosed that it would delay the filing of its 
+Form 10-K for its fiscal year ended September 30, 2013, as a result of errors in the reconciliation of 
+IFM’s accounting records to its back office system.  The Company also disclosed that it was evaluating 
+the effect these errors may have on previously filed consolidated financial statements and continuing to 
+assess the Company’s disclosure controls and procedures and ICFR for current and prior periods. 
+
+       4.      In its fiscal year 2013 Form 10-K filed on January 15, 2014, INTL FCStone restated its 
+consolidated financial statements for fiscal years 2011 and 2012, restated certain financial information 
+for fiscal year 2010, restated quarterly fiscal year 2012 financial information, revised its quarterly fiscal 
+year 2013 financial information to correct immaterial errors, and disclosed a material weakness in ICFR 
+related to accurate and timely accounting for certain over-the-counter derivative trading activities at 
+September 30, 2013.  The effect of the restatements on INTL FCStone’s pre-tax income (loss) is 
+reflected in the following chart (dollars in millions). 
+
+                                                 
+1
+       The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding on any other 
+person or entity in this or any other proceeding. 
+
+                                                   2 
+---------------------Page 3---------------------
+
+ 
+                                            Quarter      Quarter     Quarter     Quarter 
+   Pre-Tax          FYE          FYE         Ended       Ended        Ended       Ended        FYE 
+   Income         9/30/2010   9/30/2011   12/31/11       3/31/12     6/30/12      9/30/12     9/30/12 
+
+As Originally 
+Reported              $ 17.9     $ 59.5      $(  0.7)      $ 3.6        $ 5.9     $ 10.5        $19.3  
+
+As Restated            16.0       55.4        ( 0.7)        2.5          3.6       10.4          15.8  
+
+Amount of  
+Overstatement          $1.9       $4.1         $ -0-       $1.1         $2.3       $ 0.1         $3.5  
+
+Percentage  
+Overstatement         11.9%       7.4%         -0-%       44.0%       63.9%         1.0%        22.2%  
+
+ 
+
+       The revisions to INTL FCStone’s pre-tax income (loss) increased INTL FCStone’s third quarter 
+fiscal year 2013 from $4.1 million to $4.9 million (a $0.8 million, or a 16.3% understatement as 
+originally reported).  Additionally, INTL FCStone corrected errors related to intercompany physical 
+sales which were not correctly eliminated.  These errors overstated INTL FCStone’s fiscal year 2011 
+and 2012 sales of physical commodities and cost of sales by $1.3 billion (1.9% of sales) and $2.6 
+billion (3.6% of sales), respectively.  Additionally, these errors overstated the first, second and third 
+quarter FY 2013 sales of physical commodities and cost of sales of 1.3%, 7.7%, and 10.6%, 
+respectively (based on sales). 
+
+                                IFM’s Asset Reconciliation Process 
+
+       5.      IFM used an internally-developed application to capture, store and report master records 
+(i.e., customer/broker) and transactional data (i.e., quotes, orders, trades, etc.) for its OTC derivatives 
+trading business.  IFM refers to this system as “ETT,” which stands for Electronic Trade Ticket.  
+Information from ETT was a part of the system of books, records and accounts that INTL FCStone 
+relied upon to prepare its consolidated financial statements.  At month-end, IFM’s accounting 
+department reconciled information extracted from ETT to the activity recorded in the general ledger 
+(the “Asset Reconciliation Process”). 
+
+       6.      IFM relied on a manual Asset Reconciliation Process, which was performed and 
+reviewed by the same person, the IFM controller.  As a part of the Asset Reconciliation Process each 
+month, the IFM controller manually ran queries to identify and extract transactional data from ETT, 
+converted the extracted data to an Excel spreadsheet, and then reconciled the activity in ETT to the 
+activity recorded in IFM’s general ledger.  IFM’s controls and procedures failed to segregate the duties 
+between the preparer and the reviewer of the Asset Reconciliation Process. 
+
+                         INTL FCStone Discovers the Accounting Errors  
+
+       7.      During its audit of INTL FCStone’s consolidated financial statements for the year ended 
+September 30, 2013, INTL FCStone’s independent auditor questioned an item on the reconciliation 
+between ETT and the general ledger.  INTL FCStone’s prompt investigation led to a more fulsome 
+
+                                                  3 
+---------------------Page 4---------------------
+
+ 
+examination of the Asset Reconciliation Process and caused management to conclude that its ICFR 
+related to accurate and timely accounting for certain over-the-counter derivative trading activities were 
+not reasonably designed to detect errors in recording trading gains to the general ledger.  
+
+       8.      During its review, INTL FCStone identified errors relating to differences between 
+ETT’s balances and the amounts that had been recorded in the general ledger at period-end.  
+Specifically, INTL FCStone discovered :  (1) a $4.0 million overstatement of trading gains on the 
+transfer of certain cotton derivative positions between IFM’s internal trading books during fiscal year 
+2011 (the “Cotton Positions Error”); (2) a $1.3 million and a $3.0 million overstatement of trading 
+gains on certain energy derivative positions (the “ClearPort Error”); (3) a $1.1 million understatement 
+of goodwill associated with the acquisition of Hanley (no income statement impact) and a $0.7 million 
+overstatement of trading gains on certain derivative positions acquired as a part of the Hanley Group 
+acquisition (the “Hanley Error”); and (4) certain other errors that INTL FCStone corrected as a part of 
+the restatement (the “Other Errors”).   
+
+                       The Cotton Positions Error and the ClearPort Error 
+
+       9.      The Asset Reconciliation Process failed to capture valuation errors related to certain 
+trades that were moved between IFM’s market-maker and back-to-back trading books.  “Market-
+Maker” accounts include positions that expose the Company to market risk.  “Back-to-back” accounts 
+are generally fully hedged and managed to generate no significant profit or loss. 
+
+       10.    In November 2010, certain cotton positions in two market-maker accounts were 
+transferred to IFM’s back-to-back trading book.  At the time the positions were moved, the value of the 
+transferred positions reflected a $4.0 million loss.  The accounting department did not properly account 
+for the losses associated with the transferred cotton positions, which caused a $4.0 million 
+overstatement of trading gains for fiscal year 2011.   
+
+       11.    In April 2011, four accounts with OTC derivatives positions that were cleared through 
+CME ClearPort and characterized as “back-to-back” accounts were reclassified to “market-maker” 
+accounts.  At the end of April 2011, IFM recognized the change in the value of its market-maker 
+accounts as trading gains for the month.  However, in calculating the net change of its market-maker 
+accounts, IFM erroneously considered the March 31, 2011 value of the four ClearPort accounts to be 
+zero rather than $1.3 million, thereby creating a $1.3 million overstatement of trading gains in fiscal 
+year 2011.   
+
+       12.    In subsequent months, IFM erroneously double-counted gains associated with the four 
+ClearPort accounts.  Because the operations department did not notify the accounting department about 
+the ClearPort account reclassification, the ClearPort Error accounts were improperly included in two 
+separately-generated manual revenue computations.   In May 2013, the IFM controller discovered that 
+certain adjustments to record revenue associated with these accounts had been recorded backwards.  In 
+response, the IFM controller made an adjustment to correct year-to-date fiscal year 2013 revenues.  
+Corresponding adjustments, however, were not made to correct a $3.0 million overstatement of 
+revenues related to fiscal years 2011 and 2012. 
+
+                                                   4 
+---------------------Page 5---------------------
+
+ 
+       13.    Two factors contributed to the ClearPort Error.  First, existing controls were not 
+designed to ensure that a change in classification of accounts from back-to-back to market-maker, or 
+vice versa, was communicated to the accounting department.  Second, controls over the reconciliation 
+between trading system data and the general ledger and the review thereof were not designed to detect 
+errors timely in recording trading gains to the general ledger.   
+
+                                         The Hanley Error 
+
+       14.    On July 1, 2010, INTL FCStone acquired Chicago-based Hanley Group of companies, a 
+trading firm that specialized in complex OTC structured products.  Prior to the acquisition, one of 
+Hanley’s companies, HGC Trading, was a customer of IFM.  IFM valued its derivative positions with 
+HGC Trading within ETT.  HGC Trading independently valued these same positions using HGC 
+Trading’s internal system, known as Option 1.  Because ETT and Option 1 used different assumptions 
+and valuation methodologies, IFM and HGC Trading maintained different valuations for the same 
+derivative positions.   
+
+       15.    During the pre-acquisition due diligence, the risk department determined that HGC 
+Trading’s valuation exceeded IFM’s by $1.1 million.  However, the purchase accounting of the Hanley 
+acquisition erroneously used the Option 1 valuations instead of the ETT valuations and therefore failed 
+to properly account for the valuation differences, which caused INTL FCStone to overstate the value of 
+the derivatives and understate goodwill by $1.1 million. 
+
+       16.    INTL FCStone also failed to account for changes in values of the derivative positions 
+between the acquisition date and September 1, 2010, when IFM transferred HGC Trading’s positions to 
+IFM’s accounting records.  By September 2010, the valuation difference between the two systems had 
+increased by $0.7 million.  Consequently, INTL FCStone’s revenues were overstated by an additional 
+$0.7 million. 
+
+                                            Other Errors 
+
+       17.    In addition to the above misstatements, INTL FCStone corrected certain immaterial 
+errors with respect to the impact on the intercompany physical precious metal sales which it had not 
+correctly eliminated for the consolidated income statements, resulting in a gross-up of physical 
+commodities and costs of sales of physical commodities for fiscal years 2011 and 2012 as well as 
+interim quarters within fiscal years 2012 and 2013.  As a result of these errors, INTL FCStone’s fiscal 
+year 2011 and 2012 sales of physical commodities and cost of sales were overstated by $1.3 billion 
+(1.9% of sales) and $2.6 billion (3.6% of sales), respectively. 
+
+                                        Remedial Measures 
+
+       18.    In determining to accept the Respondent’s Offer, the Commission considered the 
+remedial acts undertaken by INTL FCStone. 
+
+                                                  5 
+---------------------Page 6---------------------
+
+ 
+                                             Violations 
+
+       19.    As a result of the conduct described above, INTL FCStone violated Section 13(a) of the 
+Exchange Act and Rules 13a-1, 13a-11, 13a-13 and 12b-20 thereunder, which require every issuer of a 
+security registered pursuant to Section 12 of the Exchange Act file with the Commission information, 
+documents, and annual, current and quarterly reports as the Commission may require, and mandate 
+that periodic reports contain such further material information as may be necessary to make the 
+required statements not misleading. 
+
+       20.    As a result of the conduct described above, INTL FCStone violated Section 13(b)(2)(A) 
+of the Exchange Act, which requires reporting companies to make and keep books, records, and 
+accounts which, in reasonable detail, accurately and fairly reflect their transactions and dispositions of 
+their assets. 
+
+       21.    Lastly, as a result of the conduct described above, INTL FCStone violated Section 
+13(b)(2)(B) which requires all reporting companies to devise and maintain a system of internal 
+accounting controls sufficient to provide reasonable assurances that transactions are recorded as 
+necessary to permit preparation of financial statements in accordance with generally accepted 
+accounting principles. 
+
+                                                 IV. 
+                                                       
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions agreed 
+to in Respondent INTL FCStone’s Offer. 
+        
+       Accordingly, it is hereby ORDERED that: 
+ 
+       A.      Pursuant to Section 21C of the Exchange Act, Respondent cease and desist from 
+committing or causing any violations and any future violations  of Sections 13(a), 13(b)(2)(A), and 
+13(b)(2)(B) of the Exchange Act and Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder.   
+        
+       B.      Respondent shall, within 30 days of the entry of this Order, pay a civil money penalty in 
+the amount of $150,000 to the Securities and Exchange Commission for transfer to the general fund of 
+the United States Treasury, subject to Exchange Act Section 21F(g)(3).  If timely payment is not made, 
+additional interest shall accrue pursuant to 31 U.S.C. 3717.  Payment must be made in one of the 
+following ways:   
+
+       (1)     Respondent may transmit payment electronically to the Commission, which will provide 
+               detailed ACH transfer/Fedwire instructions upon request;  
+
+       (2)     Respondent may make direct payment from a bank account via Pay.gov through the 
+               SEC website at http://www.sec.gov/about/offices/ofm.htm; or  
+
+       (3)     Respondent may pay by certified check, bank cashier’s check, or United States postal 
+               money order, made payable to the Securities and Exchange Commission and hand-
+               delivered or mailed to:  
+
+                                                  6 
+---------------------Page 7---------------------
+
+ 
+              Enterprise Services Center 
+              Accounts Receivable Branch 
+              HQ Bldg., Room 181, AMZ-341 
+              6500 South MacArthur Boulevard 
+              Oklahoma City, OK 73169 
+               
+       Payments by check or money order must be accompanied by a cover letter identifying INTL 
+FCStone as the Respondent in these proceedings, and the file number of these proceedings; a copy of 
+the cover letter and check or money order must be sent to David L. Peavler, Division of Enforcement, 
+Securities and Exchange Commission, Fort Worth Regional Office, 801 Cherry Street, Suite 1900, Fort 
+Worth, Texas 76102.   
+ 
+
+       By the Commission. 
+ 
+ 
+ 
+                                                   Brent J. Fields 
+                                                   Secretary 
+
+                                                 7 

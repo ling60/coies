@@ -1,0 +1,367 @@
+---------------------Page 1---------------------
+
+ UNITED                             STATES OF AMERICA 
+
+ Before                                      the 
+
+                   SECURITIES AND EXCHANGE COMMISSION 
+
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No.   51   506 / April 7, 2005 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No.  2227 / April 7, 2005 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No.  3-11887 
+ 
+                                               ORDER INSTITUTING PUBLIC 
+In the Matter of                               ADMINISTRATIVE AND CEASE-
+                                         AND-DESIST PROC           EEDINGS PURSUANT 
+      EASYLINK SERVICES
+                       TO SECTION 21C OF THE SECURITIES 
+      CORPORATION, f.k.a. 
+                    EXCHANGE ACT OF 1934 AND RULE 
+      MAIL.COM, INC.
+                          102(e) OF THE COMMISSION’S RULES OF 
+      and DEBRA McCLISTER, CPA,
+               PRACTICE, MAKING FINDINGS, AND 
+                                               IMPOSING REMEDIAL SANCTIONS AND  
+Respondents.                                   A CEASE-AND-DESIST ORDER  
+ 
+  
+                                          I.  
+ 
+      The Securities and Exchange Commission (“Commission”) deems it appropriate that public 
+administrative and cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 
+21C of the Securities Exchange Act of 1934 (“Exchange Act”) against EasyLink Services 
+Corporation, f.k.a. Mail.com, Inc. (“EasyLink”) and pursuant to Section 21C of the Exchange Act 
+and Rule 102(e)(1)(ii) of the Commission’s Rules of Practice1
+                                                       against Debra L. McClister, CPA 
+(“McClister”) (collectively, the “Respondents”).  
+                                            
+                                          II. 
+                                            
+      In anticipation of the institution of these proceedings, Respondents have submitted Offers 
+of Settlement (“Offers”) which the Commission has determined to accept.  Solely for the purpose 
+of these proceedings and any other proceedings brought by or on behalf of the Commission, or to 
+which the Commission is a party, and without admitting or denying the findings herein, except as 
+to the Commission’s jurisdiction over them and the subject matter of these proceedings, 
+
+                                                 
+1
+ Rule 102(e)(1)(ii) provides, in pertinent part, that: 
+ 
+      The Commission may … deny, temporarily or permanently, the privilege of appearing or 
+practicing before it … to any person who is found…to have engaged in … improper professional 
+conduct. 
+---------------------Page 2---------------------
+
+Respondents consent to the entry of this Order Instituting Public Administrative and Cease-and-
+Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934 and Rule 
+102(e) of the Commission’s Rules of Practice, Making Findings, and Imposing Remedial  
+Sanctions and a Cease-and-Desist Order (“Order”), as set forth below.   
+ 
+                                              III.  
+ 
+       On the basis of this Order and the Respondents’ Offers, the Commission finds that:                                     
+ 
+A.      RESPONDENTS  
+ 
+       1. EasyLink Services Corporation, f.k.a. Mail.com, Inc.                                   during the relevant period 
+was a Delaware corporation headquartered in New York City.  The company’s consumer 
+messaging division provided free Internet email accounts and generated revenue by selling 
+advertising.  In October 2000, EasyLink announced its intention to sell the consumer messaging 
+division and focus on business messaging; in March 2001, EasyLink completed the sale of its 
+consumer messaging division.  In April 2001, the company changed its name from Mail.com to 
+EasyLink and relocated its headquarters to New Jersey.  EasyLink’s stock is registered under 
+Section 12(g) of the Exchange Act and trades on the Nasdaq National Market. 
+        
+       2.     Debra L. McClister, age 50, was Executive Vice President and Chief Financial 
+Officer of EasyLink from 1998 to March 2004.  McClister received her undergraduate degree in 
+accounting.  In the 22 years prior to joining EasyLink, McClister worked for three years at a large 
+public accounting firm, and then held various senior accounting positions at several private and 
+public companies.  McClister is, and at all relevant times was, licensed in New Jersey as a certified  
+public accountant. 
+ 
+B. SUMMARY           
+ 
+       In 2000, EasyLink improperly recognized and reported advertising revenue from barter 
+transactions because it failed to comply with Generally Accepted Accounting Principles 
+(“GAAP”), as set forth in Emerging Issues Task Force Issue No. 99-17, “Accounting for  
+Advertising Barter Transactions” (“EITF 99-17”), which became effective on January 20, 2000.  
+EITF 99-17 generally permits recognition of revenue and expense from barter transactions only if  
+the fair value of advertising surrendered in a barter transaction can be determined based on a  
+company’s comparable cash transactions in the prior six months.  In 2000, McClister was unaware  
+of EITF 99-17, and thus failed to apply it to the company’s barter transactions.  By failing to 
+comply with EITF 99-17, EasyLink overstated its revenue for fiscal 2000 by $4.85 million, or 
+8.6% of total revenue.  EasyLink also overstated its revenue for the third quarter of 2000 by 16.1%.  
+(Expenses were also overstated by the same amount, resulting in no impact to net income during 
+these periods.)  EasyLink reported its overstated revenue figures in its 2000 Form 10-K and its 
+Form 10-Q for the third quarter of 2000. 
+ 
+       Because of its overstated barter revenue, EasyLink was able to tout in press releases its 
+increasing advertising revenue and the fact that the company met or exceeded analysts’ revenue  
+
+                                               2
+  
+---------------------Page 3---------------------
+
+expectations during the third quarter and fiscal 2000.  For example, in one press release, EasyLink 
+claimed that third quarter advertising revenue was up 47% from the second quarter.  In fact, third 
+quarter advertising revenue adjusted for the improper recognition of barter revenue had actually 
+declined 32.8% compared  with the second quarter. 
+ 
+       McClister participated in the payment arrangements for some of the barter transactions, and 
+failed to account for the barter deals properly.  She prepared and/or signed EasyLink’s Form 10-K 
+and Form 10-Q that included the overstated barter revenue.    
+ 
+C. FACTS        
+                       
+       During 2000, EasyLink engaged in two types of barter transactions with other Internet-
+related advertising companies – (i) cash barter, in which EasyLink and a counterparty agreed to 
+sell each other advertising on websites they respectively owned or operated, and exchanged 
+invoices, and payment on these invoices, of identical or similar amounts, and (ii) trade barter, in 
+which EasyLink and a counterparty simply exchanged advertising but not invoices or payments.  In  
+the cash barter deals, EasyLink recognized 100% of the stated value of cash barter deals as 
+revenue.  In the trade barter deals, EasyLink used a formula provided by its auditor and typically 
+recognized 60% of the stated value of the deal.  
+        
+       1.     Trade Barter  
+               
+       Trade barter is the only type of barter deal that EasyLink treated as barter during 2000.  
+Prior to the January 20, 2000 effective date of EITF 99-17, EasyLink’s auditor advised the 
+company to estimate the fair market value of trade barter based on the lower of 60% of the face 
+value of the barter deal or the historical average price for comparable cash deals (the “60% Rule”)  
+to determine how much revenue to recognize on trade barter deals.  The 60% Rule is not in 
+conformity with GAAP. 
+        
+       In 2000, EasyLink improperly recognized $1.58 million in trade barter revenue, which was 
+2.7% of the company’s total revenue for the year, by applying the 60% Rule rather than  
+EITF 99-17.  EasyLink publicly disclosed its purported revenue from reported “barter transactions”  
+(which consisted only of trade barter) in each Form 10-Q and Form 10-K reporting results for 
+2000. 
+        
+       2. Cash Barter       
+ 
+       During 2000, EasyLink engaged in approximately 42 cash barter transactions with third 
+parties and recognized $3.27 million in revenue from these transactions.  For example, on 
+September 27, 2000, EasyLink and another Internet advertising company each signed orders to 
+purchase $500,000 of advertising from the other.  The next day, the companies swapped checks for  
+$500,000.  In the third quarter of 2000, EasyLink recognized $500,000 in total revenue (and an 
+equal amount of expense) from these transactions.  Because EasyLink regarded cash barter 
+transactions as no different from other cash transactions, the nature and volume of cash barter 
+
+                                               3
+  
+---------------------Page 4---------------------
+
+transactions were never publicly disclosed, and were accounted for improperly in its books and 
+records, including in its financial statements. 
+        
+       McClister was aware of the nature and extent of EasyLink’s cash barter deals.  For 
+example, she received emails referencing “check swaps,” signed some of the checks that were 
+swapped, authorized her staff to exchange checks in certain deals, and received several emails 
+analyzing and comparing the revenue effects of check swaps and trade barter deals.  McClister 
+knew that check swap deals in some ways “resembled” trade barter.  McClister also received 
+emails quantifying the total volume of check swaps for various periods of 2000, which revealed 
+that revenue from check swaps was a significant component  of EasyLink’s overall revenue for the 
+year. 
+ 
+       McClister never informed EasyLink’s auditor that EasyLink was engaged in these  
+transactions, and never disclosed to the auditor the volume of revenue generated by these 
+transactions.  During 2000, she caused EasyLink to recognize revenue on the cash barter  
+transactions based on the face value of the transactions.  McClister did not become aware of EITF  
+99-17 until 2003. 
+ 
+       3. 	   EasyLink Reported Inflated Revenue from the Barter Deals  
+ 
+       EasyLink’s recognition of revenue from its trade and cash barter transactions was not in 
+conformity with GAAP, and EITF  99-17 in particular.  For the third quarter of 2000, EasyLink 
+improperly recognized $2.58 million in barter revenue, which was a 69.17% overstatement of 
+advertising revenue for the quarter and a 16.14% overstatement of total revenue for the quarter.  
+For fiscal 2000, EasyLink improperly recognized $4.85 million in barter revenue, which was a 
+27.61% overstatement of advertising revenue for the year and an 8.6% overstatement of total  
+revenue for the year. 
+         
+       EasyLink reported the overstated revenue in its third quarter 2000 Form 10-Q, filed on 
+November 14, 2000, and its 2000 Form 10-K, filed on February 16, 2001 (as well as in eight 
+registration statements filed from November 15, 2000 to February 20, 2002 and in its quarterly 
+earning releases on October 26, 2000 and February 15, 2001.)  Neither the Form 10-K nor the  
+Form 10-Q, both of which McClister signed, disclosed the scope of EasyLink’s barter transactions 
+or the amounts of barter revenue and barter expense, as required by EITF 99-17.   
+        
+D.	 VIOLATIONS         
+        
+       1. 	   Reporting Violations:  Section 13(a) of the Exchange Act and Rules 12b-20,     
+              13a-1, and 13a-13 Thereunder   
+ 
+       Section 13(a) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder require issuers 
+with securities registered pursuant to Section 12 of the Exchange Act to file, respectively, annual 
+reports on Form 10-K and quarterly reports on Form 10-Q.  Inherent in these provisions is the  
+requirement that such filings be accurate.  United States v. Bilzerian, 926 F.2d 1285, 1298 (2d Cir. 
+
+                                               4
+  
+---------------------Page 5---------------------
+
+1991).  Rule 12b-20 under the Exchange Act similarly requires that these reports contain any 
+material information necessary to make the required statements made in the reports not misleading.   
+ 
+       By filing periodic reports with the Commission that improperly included material amounts 
+of revenue from barter for 2000, EasyLink violated Section 13(a) of the Exchange Act and Rules  
+12b-20, 13a-1, and 13a-13 thereunder.  McClister caused EasyLink’s violations of Section 13(a) 
+and Rules 12b-20, 13a-1, and 13a-13 by participating in preparing and signing the periodic filings 
+listed above and supervising the revenue recognition process for the barter deals. 
+        
+       2. 	   Record-Keeping Provisions:  Section 13(b)(2)(A) of the Exchange Act and Rule 
+              13b2-1 Thereunder   
+ 
+       Section 13(b)(2)(A) of the Exchange Act requires every issuer that has securities registered 
+pursuant to Section 12 of the Exchange Act to “make and keep books, records, and accounts, 
+which in reasonable detail, accurately and fairly reflect the transactions . . . of the issuer.”  This 
+provision requires issuers to employ and supervise reliable personnel, to ensure that transactions 
+are executed as authorized, to segregate accounting functions, and to have procedures designed to 
+prevent errors and irregularities. SEC v. World Wide Coin Inv. Ltd., 567 F. Supp. 724, 750 (N.D. 
+Ga. 1983).  In addition, Rule 13b2-1 provides that “no person shall, directly or indirectly, falsify or 
+cause to be falsified, any book, record or account subject to Section 13(b)(2)(A).”   
+ 
+       EasyLink violated Section 13(b)(2)(A) of the  Exchange Act because its books and records 
+for 2000 inaccurately reflected revenue from barter transactions.  McClister violated Rule 13b2-1 
+and caused EasyLink’s violation of Section 13(b)(2)(A).  As set forth above, McClister supervised 
+the recording of revenue for all of the trade barter and cash barter deals, resulting in materially 
+inaccurate books, records and accounts.  
+ 
+       3. 	   Internal Controls Provision:  Section 13(b)(2)(B) of the Exchange Act   
+ 
+       Section 13(b)(2)(B) of the Exchange Act requires issuers with securities registered pursuant 
+to Section 12 of the Exchange Act to devise and maintain a system of internal accounting controls 
+sufficient to reasonably assure, among other things, that transactions are recorded as necessary to 
+permit preparation of financial statements in conformity with GAAP.   
+ 
+       EasyLink violated Section 13(b)(2)(B) because it lacked the required internal accounting 
+controls in 2000 necessary to properly record revenue from barter transactions in its books and 
+records and prepare its financial statements in conformity with GAAP.  As discussed above, 
+throughout 2000, EasyLink recorded revenue in its books and records for barter transactions that  
+lacked support under EITF 99-17.  As a result, EasyLink’s financial statements were not prepared  
+in accordance with GAAP.    
+ 
+       McClister caused EasyLink’s violation of Section 13(b)(2)(B).  As EasyLink’s Chief 
+Financial Officer, McClister was ultimately responsible for ensuring that the company had an  
+adequate system of internal controls in place and that those controls were maintained and properly 
+
+                                                5
+  
+---------------------Page 6---------------------
+
+utilized.  McClister failed to assure that EasyLink maintained an adequate system of internal 
+accounting controls to properly account for revenue from barter transactions. 
+        
+       4.     Improper Professional Conduct   
+ 
+       As EasyLink’s Chief Financial Officer, McClister was responsible for internal accounting, 
+including implementing applicable accounting pronouncements and maintaining the books and 
+records; communications with the company’s outside auditors; and financial reporting.  McClister  
+failed to properly account for barter transactions, failed to implement EITF 99-17, failed to inform  
+the outside auditors that EasyLink was engaged in cash barter transactions, and failed to ensure that 
+the company’s financial statements were accurate.  These repeated instances of unreasonable 
+conduct constitute improper professional conduct.    
+ 
+E.      Findings  
+ 
+       1.     Based on the foregoing, the Commission finds that EasyLink violated Sections 
+13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 12b-20, 13a-1, and 13a-13 
+thereunder.  
+ 
+       2.     Based on the foregoing, the Commission finds that McClister caused EasyLink’s 
+violations of Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 12b-20, 
+13a-1, and 13a-13 thereunder, and violated Rule 13b2-1 of the Exchange Act. 
+ 
+       3.     Based on the foregoing, the Commission finds that McClister engaged in improper 
+professional conduct pursuant to Rule 102(e)(1)(ii) of the Commission’s Rules of Practice. 
+ 
+                                              IV. 
+                                                 
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondents’ Offers. 
+ 
+       Accordingly, it is hereby ORDERED, effective immediately, that:  
+ 
+       A.     EasyLink shall cease and desist from committing or causing any violations and any 
+future violations of Sections  13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 
+12b-20, 13a-1, and 13a-13 thereunder.  
+ 
+       B.     McClister shall cease and desist from causing any violations and any future  
+violations of Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 12b-20, 
+13a-1, and 13a-13 thereunder, and from committing or causing any violations and any future 
+violations of Rule 13b2-1 of the Exchange Act.  
+ 
+       C.     McClister is denied the privilege of appearing or practicing before the Commission 
+as an accountant. 
+ 
+
+                                               6
+  
+---------------------Page 7---------------------
+
+       D.      After two years from the date of this Order, McClister may request that the 
+Commission consider her reinstatement by submitting an application (attention: Office of the  
+Chief Accountant) to resume appearing or practicing before the Commission as: 
+      
+                                1. a preparer or reviewer, or a person responsible for the preparation or 
+review, of any public company’s financial statements that are filed with the Commission.  Such 
+an application must satisfy the Commission that McClister’s work in her practice before the 
+Commission will be reviewed either by the independent audit committee of the public company 
+for which she works or in some other acceptable manner, as long as she practices before the 
+Commission in this capacity; and/or  
+      
+               2.      an independent accountant.  Such an application must satisfy the 
+Commission that: 
+ 
+                            (a) McClister, or the public accounting firm with which she is 
+associated, is registered with the Public Company Accounting Oversight Board (“Board”) 
+in accordance with the Sarbanes-Oxley Act of 2002, and such registration continues to be 
+effective; 
+ 
+                       (b)     McClister, or the registered  public accounting firm with which she 
+is associated, has been inspected by the Board and that inspection did not identify any criticisms  
+of or potential defects in McClister’s or the firm’s quality control system that would indicate that 
+McClister will not receive appropriate supervision or, if the Board has not conducted an 
+inspection, has received an unqualified report relating to her, or the firm’s, most recent peer 
+review conducted in accordance with the guidelines adopted by the former SEC Practice Section 
+of the American Institute of Certified Public Accountants Division for CPA Firms or an 
+organization providing equivalent oversight and quality control functions; 
+
+                                                 (c) McClister has resolved all disciplinary issues with the Board, and 
+has complied with all terms and conditions of any sanctions imposed by the Board (other than 
+reinstatement by the Commission); and 
+ 
+                       (d)     McClister acknowledges her re   sponsibility, as long as McClister 
+appears or practices before the Commission as an independent accountant, to comply with all 
+requirements of the Commission and the Board, including, but not limited to, all requirements 
+relating to registration, inspections, concurring partner reviews and quality control standards.   
+      
+
+                                                  7
+  
+---------------------Page 8---------------------
+
+         E.        The Commission will consider an application by McClister to resume appearing 
+or practicing before the Commission provided that her state CPA license is current and she has 
+resolved all other disciplinary issues with the applicable state boards of accountancy.  However, 
+if state licensure is dependent on reinstatement by the Commission, the Commission will 
+consider an application on its other merits.  The Commission’s review may include consideration 
+of, in addition to the matters referenced above, any other matters relating to McClister’s 
+character, integrity, professional conduct, or qualifications to appear or practice before the 
+Commission. 
+ 
+ By the Commission. 
+ 
+ 
+ 
+       Jonathan                                                                  G. Katz
+       Secretary                                                               
+
+                                                             8
+  

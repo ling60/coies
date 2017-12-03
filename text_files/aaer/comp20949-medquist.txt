@@ -1,0 +1,521 @@
+---------------------Page 1---------------------
+
+                           UNITED    STATES    DISTRICT    COURT
+ 
+                          SOUTHERN      DISTRICT    OF  NEW   YORK
+ 
+
+                                                          )
+UNITED    STATES    SECURITIES                            )
+AND  EXCHANGE       COMMISSION,                           )
+                                                          )
+                                     Plaintiff,           )
+                                                          )       CIVIL ACTION  NO.     __
+ 
+                      v.                                   )
+                                                           )      COMPLAINT
+ 
+MEDQUIST     INC. ,                                        )
+                                                           )
+                                     Defendant.            )
+                                                           )
+ 
+-----------------) 
+
+       The Securities  and Exchange  Commission  ("Comrirission")  alleges the following  against 
+
+Defendant  MedQuist  Inc. ("MedQuist" or "Company"): 
+
+                              SUMMARY       OF ALLEGATIONS 
+
+       1.      From  1999 until 2004, Defendant  ("MedQuist" or ''the Company"),  a New Jersey-
+
+based medical  transcription  company,  claimed in SEC filings, press releases  and earnings  calls that 
+
+the Company's  strong financial performance  was due to its disciplined  and conservative  business 
+
+practices,  while at the same time it was systematically  and secretly inflating  customer bills  to 
+
+increase revenues and profit margins.  Beginning in about 1999, Defendant  fraudulently  overbilled 
+
+customers by inflating the number oflinesofmedical test it purportedly transcribed. Thescheme 
+
+was able to continue  for several years because the unit ofmeasure  upon which bills to many 
+
+customers  were based-known   as an "AAMT"   line--included invisible characters and computer 
+
+keystrokes  that could not be verified by customers.  Knowing  that its customers  were unable to 
+
+verify line counts on bills, the Company  stopped actually counting AAMTlines and secretly used 
+
+formulas  to manipulate  line counts on customer bills to reach specific revenue  and margin targets. 
+---------------------Page 2---------------------
+
+       2.      Defendant misled customers and independent auditors into believing that the 
+
+Company's bills were based  on AAMT line counts as required   by customer contracts.  At the same 
+
+time, Defendant misled shareholders and the public by stating in Commission filings, press releases 
+
+and earnings calls, that the Company's  revenues were based primarily on contracted rates and that 
+
+its strong financial perfonnance was the result ofconservative and disciplined business practices. 
+
+       3.      As disclosed in Defendant's  filings with the Commission,  since the billing  scheme 
+
+came to light in 2004, Defendant  approved payment   of$75.8   million in cash and credits  to 
+
+customers  to resolve billing disputes  arising from the conduct  described herein.  Defendant  also 
+
+paid $7.5 million to settle a customer  class action lawsuit (Steiner v. MedOuist  Inc., No.  1:04-cv­
+
+05487-FLW  (D.N.J.  filed Nov.  8,2004)  and paid $6.6 million  to settle claims of various  agencies 
+
+and departments  of the United States Government.  In addition,  Defendant restated  its financials 
+
+for the period ofthe conduct with a $9.8 reduction  in revenue. 
+
+                                          VIOLATIONS 
+
+        4.     By  engaging in the conduct described below, Defendant violated Section 17(a)  of 
+
+the Securities Act of 1933 ("Securities Act") and Sections 1O(b), 13(a), 13(b)(2)(A), and 
+
+13(b)(2)(B) of the Securities Exchange Act  of1934 ("Exchange Act") and Rules lOb-5, 12b-20, 
+
+13a-l, 13a-ll, and 13a-13 [15 U.S.C. §§77q(a),  78j(b), 78m(a), 78m(b)(2)(A), and 78m(b)(2)(B) 
+
+and 17 C.F.R.  §§ 240.10b-5, 204.12b-20, 204.13a-l, 240.1  3a-ll, and 240.13a-13]. 
+
+                                 JURISDICTION  AND        VENUE 
+
+        5.     The Commission brings this action pursuant to Sections 20(b), 20(d),  and 20( e) of 
+
+the Securities Act and Sections 21(d) and 21(e) ofthe Exchange Act [15 U.S.C.   §§ 77t(b), 77t(d), 
+
+                                                 2
+ 
+---------------------Page 3---------------------
+
+77t(e),  78u(d), and 78u(e)], seeking a judgment permanently restraining and enjoining the 
+
+Defendant  from further violations ofthe relevant provisions of the securities laws. 
+
+       6.      The Court has jurisdiction  over this action pursuant to Sections 20(b), 20(d), 20(e) 
+
+and 22 of the Securities Act [15 U.S.C. §§ 77t(b), 77t(d), 77t(e) and 77v] and Sections 21(d), 21(e), 
+
+and 27 of the Exchange Act [15 U.S.C.   §§ 78u(d), 78u(e), and 78aa].  Venue is proper under 
+
+Section 22 of the Securities Act [15 U.S.C. § 77v] and Section 27  ofthe Exchange   Act [15 U.S.C.  § 
+
+78aa]. 
+
+        7.     Defendant, directly or indirectly, made use of the means and instrumentalities of 
+
+interstate  commerce, ofthe mails, orof the facilities ofa national  securities exchange inconnection 
+
+with the acts, practices, and courses ofbusiness alleged herein.  Certain ofthese transactions,  acts, 
+
+practices and courses of business occurred in the Southern District ofNew   York, including,  among 
+
+other things, public sales ofMedQuist  stock on the NASDAQ  stock market based in     New  York 
+
+City. 
+
+                                          DEFENDANTS 
+
+        8.      MedQuist  Inc. is a New Jersey corporation headquartered  in Marlton,   New  Jersey. 
+
+MedQuist's  stock is currently registered pursuant to Section 12(b) ofthe Exchange Act.   It was 
+
+previously registered under Section 12(g) and traded on the NASDAQ National  Market until it was 
+
+delisted on June 16,2004.  For four years, MedQuist traded   on the Pink Sheets.  On July 17, 2008, 
+
+MedQuist  began trading on the NASDAQ  Global Market. 
+
+                                                  3
+ 
+---------------------Page 4---------------------
+
+                                    STATEMENT  OF FACTS
+ 
+
+                                            Background
+ 
+
+       9.      Defendant perfonns  medical transcription services by receiving  dictated medical 
+
+records from customers, usually hospitals, and keying them into computer programs called 
+
+transcription  platfonns.  Defendant has contracts with its customers governing how it will measure 
+
+and bill the work.  Each contract specifies the unit Defendant uses to measure the work (such  as 
+
+word, line, orreport),  the definition ofthe unit ofmeasure (such as how many   characters constitute 
+
+a "line"),  and the price per unit. The contracts require that Defendant bill the customer an amount 
+
+equal to the number  of units transcribed multiplied by the price per unit. 
+
+        10.     From 1998 to 2006, many    ofDefendant's  contracts required it to use a unit of 
+
+measure  called theAAMT     line.  Defendant's  contracts defined an AAMT line  as follows: 
+
+        any line having 65 'characters,'  [where a] character is defined as any letter, number, 
+        symbol  or function key necessary for the final appearance and content  ofa 
+        document  including, without limitation, the space bar, carriage return, underscore, 
+        bold, and any character contained within the macro, header, or footer. A defined line 
+        is calculated by counting all characters contained within a document and simply 
+        dividing the total number of characters by 65 to arrive at the number of defined 
+        lines. 
+
+(emphasis  added). 
+
+        11.     Because Defendant's  contracts specifically stated that AAMT   lines would  be 
+
+calculated by "counting  all characters" and "simply dividing ... by 65", Defendant  was  required to 
+
+count AAMT    characters in order to bill in accordance with contracts. 
+
+                                                  4
+ 
+---------------------Page 5---------------------
+
+        12.    Because AAMT lines include invisible characters and fonnatting  codes peculiar to 
+
+the transcription platfonns, Defendant's  customers could not independently verify the AAMT line 
+
+totals in their bills by looking at their transcribed documents. 
+
+        13.    Defendant calculated transcriptionist pay by  a unit ofmeasure called a "payroll 
+
+line," which was not equal to an AAMT line. 
+
+        14.    By  1999, Defendant stopped actual counting   of AAMT characters and lines.    It 
+
+derived the number  of AAMT lines billed to customers   by  applying multiples to the number  of 
+
+payroll lines in the customer's  work. 
+
+        15.    By  1999, Defendant adopted an internal policy stating that for any piece of 
+
+transcription  work, a purportedly "correct" AAMT line count equaled two times the number     of 
+
+payroll lines, and should result in the customer being billed $3.00 for every $1.00 paid to the 
+
+transcriptionist.  Defendant adjusted line count multiples on customer accounts  to reach its desired 
+
+revenue and margin targets.  Defendant monitored the effect   of changes to line count multiples to 
+
+ensure that it met its revenue and margin targets. 
+
+        16.     Defendant did not tell customers or shareholders about its change in billing 
+
+methodology.  Because the changed methodology had the potential to increase billed line counts 
+
+enough to  be noticed by customers, Defendant increased the line count multiples   ofsome   customers 
+
+gradually over time and sometimes secretly increased a customer's  line multiple after agreeing to a 
+
+decrease in line price, in order to maintain revenues and profit margins. Defendant continued  to 
+
+secretly adjust line count ratios until 2004 or later. 
+
+                                                  5
+ 
+---------------------Page 6---------------------
+
+        17.    Defendant's  revised billing methodology resulted in overbilling customers as 
+
+compared to the AAMT line counting methodology called for      in Defendant's  contracts. 
+
+        18.    From at least December 2000 through 2003, Defendant prepared internal reports     on 
+
+billing practices at Company offices.  These reports examined the line count multiples and profit 
+
+margins for each customer account.  These reports showed that many line count multiples were set 
+
+higher than the purportedly "correct" setting oftwice the number  ofpayroll lines.  Some ofthe 
+
+reports explicitly recommended  that offices secretly or gradually increase line count multiples in 
+
+order to improve profit margins, and that offices set customer accounts on the AAMT unit    of 
+
+measure  in order to improve management's  ability to manipulate line counts and margins.  These 
+
+reports also  recommended that the offices exercise care in making changes because   many  clients 
+
+pay close attention to bills.  The result ofthese recommendations  was that customers were billed 
+
+more that they would have been billed had the Company actually counted AAMT lines        in 
+
+accordance with contract terms. 
+
+        19.    Defendant knew that certain customers, including many who had left MedQuist for 
+
+other transcription providers, complained of billing irregularities, unjustifiable bill totals, and 
+
+billing fraud on the part of the Company. 
+
+        20.    Defendant received allegations  of billing fraud from at least two ofits employees in 
+
+2002 and 2003.  One   of those employees, a vice president, subsequently refused to sign internal 
+
+sub-certifications ofaccounts.  Defendant did not investigate or correct its calculation ofline counts 
+
+on bills in response to these employee allegations. 
+
+                                                  6
+ 
+---------------------Page 7---------------------
+
+        21.     By 2003, Defendant knew from its internal reports on billing practices that at least 
+
+some offices lacked audit trails and adequate internal controls  on changes to line count multiples 
+
+and had increased line count multiples without any documentary support. 
+
+        22.   . Defendant knew   or was reckless  in not knowing  of repeated customer  and employee 
+
+complaints  ofhigh line counts, ratio manipulations, and other billing irregularities from  1999 
+
+through 2003.  Defendant failed to audit the accuracy  ofline  counts anywhere at the Company  and 
+
+failed to test or implement  internal controls on billing. 
+
+        23.     Defendant also undemrined the efforts   of the Company's  external auditors with 
+
+misrepresentations.  Its officials told the external auditors, incorrectly, that a MedQuist transcription 
+
+platform  actually counted AAMT lines.  The auditors unwittingly used this platform    to check 
+
+AAMT    line counts derived by  multiples on other platforms.  Because  of Defendant's  deception, the 
+
+auditors never knew that the platform used to test AAMT counts did not     in fact count AAMT, but 
+
+rather used multiples to calculate billed lines from transcriptionist paid lines. 
+
+        24.     Defendant knew,    or was reckless in not knowing, that the Company's  external 
+
+auditors believed incorrectly that Company transcription platforms actually counted    AAMT 
+
+characters  and lines, and that the auditors relied onthat incorrect beliefinperforming their audits. 
+
+Defendant  failed to tell its external auditors that no Company transcription platforms actually 
+
+counted AAMT characters and lines.  Defendant knew that      it had inadequate controls on  its billing 
+
+processes, but did not tell its external auditors.  Defendant knew that it manipulated line counts to 
+
+reach revenue and margin targets   but did not tell its external auditors.  Defendant knew that 
+
+customers  had complained   of billing irregularities and fraud but did not tell its auditors ofthese 
+
+                                                   7
+ 
+---------------------Page 8---------------------
+
+ complaints.  Defendant knew, or was reckless in not knowing, that these omitted disclosures were 
+
+ material to the auditors'  work and public statements about the Company. 
+
+        25.     From 1999 through 2003, Defendant told shareholders and other public investors 
+
+. that its strong financial performance was due to disciplined and conservative business practices and 
+
+ that revenues  were based primarily on contracted rates.  During the time period when these 
+
+ representations  were made, Defendant was secretly not billing in accordance with contracts and was 
+
+ manipulating  billed line  counts to reach desired revenue and margin targets.  Defendant knew, or 
+
+ was reckless in not knowing, that these  statements and omissions were misleading  and material in 
+
+ that a reasonable  investor would consider them important to his investment decisions about the 
+
+ Company.  Defendant made these material misleading statements and omissions  in periodic  filings 
+
+ with the Commission,  other filings with the Commission,  and quarterly investor  conference calls. 
+
+                                   FIRST   CLAIM    FOR   RELIEF 
+
+                        Violations of the Antifraud  Provisions Contained in
+ 
+                                 Section 17(a)  of the Securities Act
+ 
+
+         26.    The Commission  realleges and incorporates   by reference every allegation contained 
+
+ in paragraphs  1 through 25 herein. 
+
+         27.    By  reason of the foregoing, Defendant, directly or indirectly, singly or in concert, by 
+
+ use of the means or instruments  oftransportation or communication in interstate commerce or   by 
+
+ the use ofthe mails, inthe offer orsale of securities:  (a) knowingly or recklessly employed devices, 
+
+ schemes and artifices to defraud; (b) obtained money or property  by means  of untrue statements of 
+
+ material  fact or omissions to state material facts necessary in order to make the statements made, in 
+
+ the light ofthe circumstances under which they were made, not misleading; and/or (c) engaged in 
+
+                                                   8 
+---------------------Page 9---------------------
+
+transactions,  practices or courses ofbusiness which operated or would operate as a fraud or deceit 
+
+upon the purchasers ofMedQuist    securities and upon other persons, in violations of Section  17(a) 
+
+ofthe Securities Act [15 U.S.c. §§ 77q(a)]. 
+
+                                SECOND  CLAIM  FOR RELIEF 
+
+                             Violations  of the Antifraud  Provisions
+ 
+                Contained  in Section 10(b)  of the Exchange Act and Rule 10b-5
+ 
+
+       28.     The Commission  realleges and incorporates   by reference every allegation contained 
+
+in paragraphs  1 through 25 herein. 
+
+       29.     By  reason of the foregoing, Defendant, directly orindirectly, singly or in concert, by 
+
+use ofthe means  or instrwnentalities ofinterstate commerce  or ofthe mails, knowingly  or . 
+
+recklessly, in connection with the purchase or sale ofsecurities:  (a) employed devices, schemes 
+
+and artifices to defraud; (b) made untrue statements ofmaterial fact, or omitted to state material 
+
+facts necessary in order to make statements made, in light ofthe circumstances under  which they 
+
+were made, not misleading;  and/or (c) engaged in acts, practices  and courses ofbusiness  which 
+
+operated or would have operated as a fraud  or deceit upon purchasers ofMedQuist securities  and 
+
+upon other persons, in violations of Section lO(b) ofthe Exchange Act and Rule lOb-5 [15 U.S.C. 
+
+§ 78j(b) and 17 C.F.R. 240.l0b-5]. 
+
+                                 THIRD    CLAIM     FOR RELIEF 
+
+                      Violations  of the Reporting  Provisions  Contained   in
+ 
+        Section  13(a) ofthe Exchange  Act and Rules 12b-20,  13a-1, 13a-11, and 13a-13
+ 
+
+        30.    The Commission  realleges and incorporates   by reference every allegation contained 
+
+in paragraphs  1 through 25 herein. 
+
+                                                  9 
+---------------------Page 10---------------------
+
+       31.     By reason of the foregoing, Defendant failed to file with the Commission such 
+
+financial reports as the Commission has prescribed, and failed to include, in addition to the 
+
+infonnation  expressly required to be stated in such reports, such further material information as was 
+
+necessary to make the statements made therein, in light ofthe circumstances in which they were 
+
+made, not misleading, in violation of Section 13(a) ofthe Exchange Act and Rules 12b-20, 13a-l, 
+
+13a-ll, and 13a-13 [15 U.S.C.  § 78m(a) and 17 C.F.R.  §§ 240.12b-20, 240.13a-l, 240.13a-l1, and 
+
+240.13a-13]. 
+
+                                FORTH     CLAIM    FOR   RELIEF 
+
+             Violations of the Books and Records and Internal Control Provisions
+ 
+       Contained  in Sections 13(b)(2)(A) and 13(b)(2)(B)   of the Securities Exchange Act
+ 
+
+       32.     The Commission realleges and incorporates   by reference every allegation contained 
+
+in paragraphs 1 through 25 herein. 
+
+       33.      By reason of the foregoing, Defendant failed to: 
+
+               a.      make and keep books, records, and accounts, which   in reasonable detail, 
+
+        accurately and fairly reflected the transactions and dispositions ofits assets; 
+
+               b.      devise and maintain a system of internal accounting controls sufficient to 
+
+       provide reasonable assurances that: 
+
+                       1.     transactions were executed  in accordance with management's 
+
+               general or specific authorizations; 
+
+                                                10
+ 
+---------------------Page 11---------------------
+
+                       11.     transactions were recorded as necessary to pennit preparation  of 
+
+               financial statements in conformity with generally accepted accounting principles  or 
+
+               any other criteria applicable to such statements, and to maintain acco~tability for 
+
+               assets; 
+
+                       iii.    access to assets was permitted only in accordance with 
+
+               management's  general or specific authorization;  and 
+
+                       iv.     the recorded accountability for assets was compared  with the 
+
+               existing assets at reasonable intervals and appropriate action was taken with respect 
+
+               to any differences; 
+
+in violation ofSections  13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act [15 U.S.C.   §§ 
+
+78m(b)(2)(A),  and 78m(b)(2)(B)]. 
+
+                                     PRAYER FOR RELIEF
+ 
+
+       WHEREFORE,         the Commission  respectfully requests that this Court
+ 
+
+               (a)     permanently restrain and enjoin Defendant  and its agents, servants, 
+
+employees,  attorneys-in-fact, and assigns and those persons in active concert or participation  with 
+
+them, and each  ofthem, from further violations of the relevant provisions of the securities laws; and 
+
+                                                 11
+ 
+---------------------Page 12---------------------
+
+              (d)    grant such other relief as the Court deems just and proper. 
+
+Dated:  March  12, 2009                    Respectfully  submitted, 
+
+                                                      ers (     5) 
+                                           SEC      IES AND EXCHANGE  COMMISSION 
+                                           100 F  treet, NE 
+                                           Washington, DC  20549 
+                                           Tel. (202) 551-4645 
+                                           Bowers]@sec.gov 
+
+                                           Attorney for Plaintiff 
+
+Of Counsel: 
+
+Gerald W. Hodgkins 
+Moira T. Roberts 
+Sharan K.S. Custer 
+SECURITIES  AND EXCHANGE  COMMISSION 
+100 F Street, NE 
+Washington, DC  20549 
+
+                                             12
+ 

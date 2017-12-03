@@ -1,0 +1,546 @@
+---------------------Page 1---------------------
+
+                            UNITED STATES OF AMERICA 
+                                       Before the 
+                    SECURITIES AND EXCHANGE COMMISSION 
+  
+ SECURITIES EXCHANGE ACT OF 1934 
+ Release No.  73224 / September 25, 2014 
+  
+ ACCOUNTING AND AUDITING ENFORCEMENT 
+ Release No. 3587 / September 25, 2014 
+  
+ ADMINISTRATIVE PROCEEDING 
+ File No.  3-16171 
+  
+                                             
+ In the Matter of                           ORDER INSTITUTING PUBLIC 
+                                            ADMINISTRATIVE AND CEASE  -AND-
+       MAYER HOFFMAN                        DESIST PROCEEDINGS PURSUANT TO 
+       McCANN, P.C.                         SECTIONS 4C AND 21C OF THE 
+                                            SECURITIES EXCHANCE ACT OF 1934 
+              Respondent.                   AND RULE 102(e) OF  THE COMMISSION’S 
+                                            
+                                                      
+                                                        
+                                                
+ 
+                                           I. 
+ 
+       The Securities and Exchange Commission (“Commission”) deems it appropriate that public 
+administrative proceedings be, and hereby are, instituted pursuant to Sections 4C and 21C of the 
+Securities Exchange Act of 1934 (“Exchange Act”) and Rule 102(e) of the Commission’s Rules of 
+Practice against Mayer Hoffman McCann, P.C. (“Respondent” or “MHM”).   
+ 
+                                          II. 
+ 
+      After an investigation, the Division of Enforcement (“Enforcement”) and the Office of the 
+Chief Accountant (“OCA”) allege that: 
+       
+      A.    SUMMARY 
+ 
+      1.     Mayer Hoffman McCann P.C. (“MHM”) is a public accounting firm associated with 
+CBIZ,  Inc.  (“CBIZ”),  a  publicly  traded  company,  through  a  business  model  referred  to  as  an 
+alternative practice structure (“APS”).  CBIZ’s APS model with MHM utilizes an administrative 
+service agreement (“ASA”) which requires MHM to lease from CBIZ virtually all of the human 
+capital, equipment and overhead MHM requires to perform its attest work, in exchange for a majority 
+of MHM’s revenue. 
+       
+---------------------Page 2---------------------
+
+       2.     CBIZ is an associated entity of MHM, and CBIZ and MHM are viewed as a single 
+entity for Commission auditor independence purposes. 
+        
+       3.     MHM has numerous attest clients that file reports with the Commission, including 
+Tradebot Systems, Inc. “(Tradebot”), a registered broker-dealer.  Pursuant to Rule 17a-5 promulgated 
+under  Section  17(a)  of  the  Exchange  Act,  Tradebot  is  required  to  file  annual  reports  with  the 
+Commission containing financial statements audited by an independent public accountant (“Annual 
+Reports”). 
+        
+       4.     MHM audited Tradebot’s Annual Reports from 2004 through 2012.  From 2008 to at 
+least 2013, Tradebot invested in CBIZ stock, thereby impairing MHM’s independence with respect 
+to its audits of Tradebot’s 2008 through 2012 financial statements.  As a result, Tradebot’s Annual 
+Reports do not comply with Rule 17a-5 for those periods. 
+        
+       5.     In addition to MHM’s independence violations related to the Tradebot audits, MHM’s 
+procedures were deficient to prevent such independence violations for all of its broker-dealer and 
+investment fund audit clients, and resulted in MHM’s multiple failures to comply with the auditor 
+independence rules.   
+        
+       6.     MHM lacked an appropriate system of quality controls to detect transactions in CBIZ 
+stock by its attest clients in order to ensure that those engagements complied with the firm’s legal and 
+ethical  requirements.   MHM’s  quality  control  and  audit  procedures  failed  to  meet  adequate 
+professional standards with respect to its audits of Tradebot. 
+        
+       7.     During the audit of its 2012 year, Tradebot was made aware that trading in CBIZ 
+stock would impair MHM’s independence.  Tradebot continued to trade in CBIZ stock.  
+        
+       B.     RESPONDENT 
+        
+       8.     Mayer    Hoffman    McCann    P.C.,  is    a    Missouri    professional    corporation 
+headquartered in Leawood, Kansas, with offices throughout the U.S.  MHM’s Commission-related 
+attest practice includes registered broker-dealers, investment funds and publicly traded companies.   
+ 
+       C.     RELATED ENTITIES 
+ 
+       9.     CBIZ,  Inc.,  is  a  Delaware  corporation  headquartered  in  Cleveland,  Ohio,  that 
+provides products and services to businesses throughout the U.S.  CBIZ associates with several U.S. 
+public accounting firms through its APS model, with MHM being the largest.  CBIZ’s stock is traded 
+on the New York Stock Exchange. 
+        
+       10.    Tradebot Systems, Inc., is a broker dealer registered with the Commission, and is 
+located in Kansas City, Missouri. 
+        
+        
+                              
+
+                                                2 
+ 
+---------------------Page 3---------------------
+
+       D.     CBIZ AND MHM ASSOCIATION 
+ 
+       11.    In about 1996, CBIZ  began  using  the APS  model  to  expand its revenue base by 
+acquiring the non-attest practices of public accounting firms and forming relationships with those 
+public accounting firms by means of ASAs.   
+        
+       12.    From about 1998 to present, CBIZ entered into periodic ASAs with MHM which 
+provide, among other things, that virtually all of MHM’s shareholders are salaried employees of 
+CBIZ and are leased to MHM along with other CBIZ professional and non-professional staff, office 
+space, equipment, and marketing and other services, to enable MHM to perform its attest practice, in 
+exchange for approximately 85% of MHM’s revenues. 
+ 
+       E.     SEC STAFF INFORMED CBIZ IT IS SUBJECT TO THE COMMISSION’S 
+INDEPENDENCE STANDARDS 
+ 
+       13.    On November 2, 1998, OCA became aware of CBIZ’s use of the APS model and its 
+acquisition of non-attest practices of accounting firms.  OCA notified CBIZ of the application of the 
+Commission’s independence rules: 
+ 
+       [Y]our  affiliation  with  certain  accounting  firms  …  may  subject  you  to  the 
+       application of the independence rules set forth in Rule 2-01 of Regulation S-X. 
+        
+       . . . [A]ny accounting firm and the acquirer (“acquirer”) of that accounting firm that 
+       employs any accountants that work on SEC clients of the accounting firm should 
+       continue to fully comply with the SEC’s independence requirements.  
+        
+       14.    On August 13, 1999, OCA sent guidance to CBIZ related to independence disclosures 
+provided in a CBIZ Form S-4 filing then under review.  In that letter, OCA stated:  
+ 
+       [T]he Commission and the staff are concerned about the significant public policy 
+       issues that are raised in situations where audits of public companies are performed 
+       by auditors under an alternative business structure.  . . . [CBIZ] has acquired the 
+       non-attest businesses of several accounting firms (“the Attest Firms”) that have 
+       audited clients required to file financial statements with the [Commission]. . . .  
+ 
+       . . . [I]n the application of the independence rules, the SEC staff will view [CBIZ] 
+       and all Attest Firms as a single entity.  As a result, [CBIZ] must abide by all of the 
+       independence rules that the Attest Firm must follow in order for the Attest Firm to 
+       be independent of an SEC audit client. . . . 
+ 
+       F.     SEC PROMULGATED REVISED RULE 2-01 IN 2001 
+ 
+       15.    In   2000,   the   Commission   promulgated   an   extensive   revision   of   its   auditor 
+independence requirements under Rule 2-01 of Regulation S-X.  17 C.F.R. § 210.2-01.  The revised 
+rule   was   adopted  in   response   to   “an   increasingly   complex   web   of   business   and   financial 
+
+                                               3 
+ 
+---------------------Page 4---------------------
+
+relationships” of public accounting firms.  Included in the revision was subsection 2-01(c)(1)(iv)(A).  
+It provides: 
+ 
+       (iv) Audit clients' financial relationships. An accountant is not independent when:  
+        
+       (A) Investments by the audit client in the accounting firm. An audit client has, or 
+       has agreed to acquire, any direct investment in the accounting firm, such as stocks, 
+       bonds, notes, options, or other securities, or the audit client's officers or directors 
+       are record or beneficial owners of more than 5% of the equity securities of the 
+       accounting firm. 
+ 
+       16.    Rule 2-01(f)(2) of Regulation S-X defines “accounting firm” as “an organization . . . 
+that is engaged in the practice of public accounting . . . and all of the organization’s . . . associated 
+entities . . . .” 
+        
+       17.    CBIZ is an associated entity of MHM by virtue of its APS relationship and ASA with 
+MHM. 
+ 
+       G.     MHM LEARNED OF TRADEBOT TRADES IN CBIZ STOCK 
+ 
+       18.    Pursuant to Rule 17a-5(d) of the Exchange Act, Tradebot is required to file an annual 
+report (“Annual Report”) which contains its audited financial statements.  Rules 17a-5(d), (e) and (f) 
+specifically require that the Annual Report be audited by an “independent public accountant” and a 
+“public accountant who shall be in fact independent” as defined by Rule 2-01(b) and (c).  From 2004 
+through 2012,  Tradebot  engaged MHM to audit its financial statements  included in the  Annual 
+Report. 
+        
+       19.    Commencing in 2008, Tradebot began to regularly trade in CBIZ stock and continued 
+to trade in that stock through 2013.   
+        
+       20.    Prior  to  2012,  Tradebot  was  unaware  of  any  prohibition  against  it  acquiring  any 
+interest in the securities of CBIZ.  Prior to the 2012 audit period, MHM had never inquired whether 
+Tradebot traded in CBIZ stock. 
+        
+       21.    In about mid-2012, MHM’s engagement shareholder learned from Tradebot’s CFO 
+that Tradebot had traded in CBIZ stock and discussed with Tradebot’s CFO the possibility that such 
+trades may impact MHM’s independence. 
+        
+       22.    In  response,  MHM’s  engagement  shareholder  contacted  MHM’s  national  office 
+shareholder  over  independence  and  asked  “whether  or  not  that  was  something  we  need  to  be 
+concerned   about   from   an   independence   issue.”      MHM’s   national   office   shareholder   over 
+independence indicated he was not sure and forwarded the question to MHM’s national director of 
+professional standards, MHM’s president, and members of MHM’s executive committee. 
+        
+       23.    On September 4, 2012, Tradebot’s CFO emailed MHM’s engagement shareholder 
+seeking further guidance on the impact of Tradebot’s trading in CBIZ, asking: “Can you send me the 
+link pointing to the independence issue related to trading public stock.”  
+
+                                                4 
+ 
+---------------------Page 5---------------------
+
+        
+       24.    On September 6, 2012, MHM’s engagement shareholder responded to Tradebot’s 
+CFO’s email, stating: “I do not have anything specific to this situation to send (as it does not exist).  
+It is basically an interpretation of the SEC rules.  Our New York office had inquired of a similar 
+situation in which the entity holds CBIZ stock and it was determined to be an issue….  Unfortunately 
+our chief independence  officer is on a long vacation and I am trying  to get a hold of him  for 
+thoughts.” 
+ 
+       H.     MHM   WAS   ENGAGED   FOR   2012   AUDIT   BEFORE   INDEPENDENCE 
+ISSUE WAS RESOLVED 
+ 
+       25.    On  October  3,  2012,  before  resolving  whether  MHM  was  independent,  Tradebot 
+engaged MHM for the 2012 audit.  In connection with that engagement, MHM did not discuss with 
+Tradebot the unresolved independence issue and proceeded to sign the engagement letter. 
+        
+       26.    MHM’s potential independence conflict should have been resolved prior to signing 
+the engagement letter. 
+        
+       I.     MHM     PROVIDED     ERRONEOUS     INSTRUCTION     TO     TRADEBOT 
+REGARDING INDEPENDENCE ISSUE 
+        
+       27.    On  October  28,  2012,  MHM’s  national  office  shareholder  over  independence 
+contacted MHM’s national director of professional standards and MHM’s president regarding the 
+Tradebot  independence  issue.    On  October  30,  2012,  MHM’s  national  director  of  professional 
+standards provided guidance to MHM’s national office shareholder over independence and MHM’s 
+engagement shareholder, citing Rule 2-01(c)(1)(iv)(A) and instructing them that he thought MHM 
+would have to resign if Tradebot would be able to acquire more than 5% of the equity securities of 
+CBIZ. 
+        
+       28.    MHM’s national director of professional standards’s guidance to MHM’s national 
+office shareholder over independence and MHM’s engagement shareholder did not comply with 
+Rule 2-01(c)(1)(iv)(A). 
+        
+       29.    In October 2012, MHM requested a meeting with the Commission staff (“Staff”) to 
+discuss matters relevant to the investigation, including a response to a request by the Staff to know 
+whether MHM monitored the holdings of its broker-dealer clients for CBIZ stock, and whether there 
+were instances of a broker-dealer client taking a position in CBIZ stock. 
+        
+       30.    The  Staff  met with MHM on December 4, 2012; MHM’s president attended the 
+meeting with MHM’s counsel.  At the meeting, despite MHM’s and MHM’s president’s knowledge 
+regarding Tradebot’s trades in CBIZ, MHM failed to inform the Staff of Tradebot’s trades in CBIZ, 
+even after specific requests for information regarding possible broker-dealer attest client trades in 
+CBIZ stock.  At that meeting the Staff conveyed to MHM that an audit client holding even one share 
+of CBIZ would impair MHM’s independence. 
+  
+
+                                              5 
+ 
+---------------------Page 6---------------------
+
+       31.    On  December  5,  2012,  one  day  after  MHM’s  meeting  with  the  Staff,  MHM’s 
+engagement    shareholder  emailed  Tradebot  concerning  MHM’s    conclusion    regarding  the 
+independence question posed in September 2012, stating: 
+ 
+       Following up on the independence issues we discussed earlier this year, below is 
+       the SEC rule.  I am assuming Tradebot has not become the beneficial owner of 
+       more than 5% of the CBIZ stock at one time, however, I would like to propose 
+       perhaps you put a limit on the number of shares to be acquired at any one time. Is 
+       that possible??  
+        
+       Reg. SX §210.2-01(c)(1)(iv)(A)- 
+        
+       An accountant is not independent when: 
+       (A)    Investments by the audit client in the accounting firm.  An audit client has, 
+       or has agreed to acquire, any direct investment in the accounting firm, such as 
+       stocks, bonds, notes, options, or other securities, or the audit client’s officers or 
+       directors are record or beneficial owners of more than 5% of the equity securities 
+       of the accounting firm. 
+   
+       32.    MHM’s engagement shareholder’s instruction to Tradebot was erroneous because the 
+5% threshold referenced in the rule does not apply to Tradebot; rather, it only applies to Tradebot’s 
+officers and directors. 
+        
+       33.    Tradebot  responded  to  MHM’s  engagement  shareholder’s  email  by  indicating  it 
+would place a 10,000 share limit on trades in CBIZ, an amount that was below 5% of CBIZ’s 
+outstanding shares.  
+        
+       34.    Tradebot continued to trade in CBIZ stock through 2013. 
+  
+       J.     MHM  LACKED  QUALITY  CONTROL  OR  AUDIT  PROCEDURES  TO 
+ENSURE CLIENTS DID NOT TRADE IN CBIZ STOCK 
+        
+       35.    Until 2013, MHM did not have any quality control or audit procedures to ensure 
+clients did not trade in CBIZ stock or to otherwise comply with Rule 2-01(c)(1)(iv)(A).  Until 2013, 
+MHM provided no guidance to any audit client, including Tradebot, regarding trading prohibitions in 
+CBIZ stock by the audit client.  Further, MHM did not implement any audit procedures during its 
+audits of Tradebot, or any other broker-dealer clients, to review the securities they were trading to 
+ensure compliance with Rule 2-01(c)(1)(iv)(A). 
+        
+       K.     MHM  PROVIDED  AUDIT  OPINIONS  FOR  2008  THROUGH  2012  THAT 
+REPRESENTED IT WAS INDEPENDENT OF TRADEBOT 
+        
+       36.    MHM  performed  audits  of  Tradebot’s  financial  statements  for  the  periods  2008 
+through 2012 in connection with Tradebot’s Annual Reports filed with the Commission.  MHM 
+provided  audit  opinions  for  those  audits  which  indicated,  among  other  things,  that  MHM  was 
+independent of Tradebot for those audits, when in fact, MHM was not independent. 
+        
+
+                                              6 
+ 
+---------------------Page 7---------------------
+
+       L.     MHM’s IMPROPER PROFESSIONAL CONDUCT 
+        
+       37.    Section 4C(2) of the Exchange Act and Rule 102(e)(1)(ii) of the Commission’s Rules 
+of Practice allow the Commission to censure, or deny temporarily or permanently, an accounting 
+firm’s  privilege  of  practicing  before  it  if  the  firm  is  found  to  have  “engaged  .  .  .  in  improper 
+professional conduct.” 
+ 
+       38.    Pursuant  to  Section  4C(2)  and  Rule  102(e)(1)(ii),  improper  professional  conduct 
+involves a violation of applicable professional standards through intentional, knowing or reckless 
+conduct, and two types of negligent conduct: a single instance of highly unreasonable conduct for 
+which heightened scrutiny is warranted; or repeated instances of unreasonable conduct that indicate a 
+lack of competence to practice before the Commission. 
+        
+       39.    “Because of the importance of an accountant’s independence to the integrity of the 
+financial reporting system, the Commission has concluded that circumstances that raise questions 
+about  an  accountant’s  independence  always  merit  heightened  scrutiny.”  Amendment  to  Rule 
+102(e) of the Commission’s Rules of Practice, Release No. 33-7593 (Oct. 19, 1998), 63 Fed. 
+Reg. 57168. 
+        
+               1.  Relevant Audit Standards 
+        
+       40.     The term “applicable professional standards” primarily refers to generally accepted 
+accounting principles (“GAAP”), generally accepted auditing standards (“GAAS”), the AICPA      Code 
+of Professional Conduct, and Commission regulations, but is broad enough to accommodate changes 
+in the body of professional guidance routinely used by accountants. 
+        
+       41.    For   auditors   of   registered   broker-dealers,   such   as   Tradebot,   the   applicable 
+                                                                                       1
+professional standards related to GAAS are those that have been issued by the AICPA.  
+        
+       42.    Both Rule 2-01 and GAAS require auditors to maintain strict independence from their 
+audit  clients.    AICPA  Auditing  Standards  AU  Section  150.02  requires  that  the  auditor  “maintain 
+independence . . . in all matters relating to the audit.”  AICPA Auditing Standards AU Section 220.03 
+states “[i]t is of utmost importance to the profession that the general public maintain confidence in 
+the independence of auditors.” 
+        
+       43.    GAAS  requires  that  an  auditor  have  policies  and  procedures  designed  to  prevent 
+independence impairment, and client acceptance and continuance procedures that ensure compliance 
+with legal requirements, discussed below.   
+        
+       44.    MHM was negligent in its failure to comply with those professional standards. 
+        
+                               
+
+                                                 
+1
+ The AICPA auditing standards are applicable for the audits of broker  - dealers,  Commission 
+Guidance Regarding Auditing, Attestation, and Related Practice Standards Related to Brokers and 
+Dealers, Release No. 34-62991, Sept. 24, 2010. 
+                                                 7 
+ 
+---------------------Page 8---------------------
+
+              2.   MHM’S Independence Was Impaired When It Audited Tradebot’s 2008 – 
+              2012 Financial Statements  
+        
+                      a.  Rule 17a-5  
+        
+       45.    Rule 17a-5 of the Exchange Act requires registered broker dealers to file periodic 
+reports with the Commission including, pursuant to Rule 17a-5(d)(1)(i), an annual report “which 
+shall be audited by an independent public accountant.”  Rule 17a-5(e)(1)(i) further states: “An audit 
+shall be conducted by a public accountant who shall be in fact independent as defined in paragraph 
+(f)(3) of this section herein, and shall give an opinion covering the statements filed pursuant to 
+paragraph (d)…”   
+        
+       46.    Rule 17a-5(f)(3) defines independence as “in accordance with the provisions of § 
+210.2-01(b) and (c) of this chapter.” 
+        
+                      b.  Rule 2-01(b) and (c) 
+        
+       47.    The general standard of auditor independence is described in Rule 2-01(b) and states 
+an accountant is not independent if not “capable of exercising objective and impartial judgment on all 
+issues encompassed within the accountant’s engagement.”    
+        
+       48.    Additionally,  Rule  2-01(c)’s  subsections  set  forth  “a  non-exclusive  specification  of 
+circumstances inconsistent with” Rule 2-01(b)’s general requirement.  The Commission stated: “As 
+to circumstances specifically set forth in our rule, we have set forth a bright-line test: an auditor is not 
+independent  if  he  or  she  maintains  the  relationships,  acquires  the  interests,  or  engages  in  the 
+transactions   specified   in   the   rule.”   Revision   of   the   Commission’s   Auditor   Independence 
+Requirements, Release No. 33-7919, 65 Fed. Reg. 76008 at 76030. 
+        
+       49.    When  MHM  audited  Tradebot’s  financial  statements  during  the  audit  periods  in 
+which Tradebot had acquired direct investments in CBIZ stock, namely 2008 through 2012, MHM’s 
+independence was impaired as to those audits. 
+        
+        
+              3.  MHM Violated Other Applicable Professional Standards 
+        
+       50.    MHM violated professional standards  that  require an accounting  firm to establish 
+policies and procedures designed to assure independence, and client engagement procedures that 
+ensure compliance with legal requirements and risks associated with the engagement. 
+        
+                      a.  MHM   Failed   to   Design   Policies   and   Procedures   That   Assured 
+                          Independence  
+        
+       51.    AICPA quality control standards are professional standards under GAAS.  Pursuant 
+to AICPA QC Section 10 Paragraph 22, an auditor is required to  have policies and procedures 
+“designed to provide with reasonable assurance that the firm … maintain independence . . . .”  
+        
+
+                                                8 
+ 
+---------------------Page 9---------------------
+
+       52.    In about 2012, MHM had well over a hundred broker dealer and investment fund 
+clients, including Tradebot, which regularly trade in the securities of thousands of public companies.  
+Despite the risks of audit clients trading in CBIZ securities, MHM did not have any written policies 
+or procedures to address the independence issues established by Rule  2-01(c)(1)(iv)(A)  of audit 
+clients trading in CBIZ securities.   
+        
+       53.    Further, MHM did not have any written procedures to inform audit clients of the 
+transactional proscriptions of trading in CBIZ securities or any written procedures to follow if audit 
+clients traded in CBIZ securities in violation of Rule 2-01(c)(1)(iv)(A).   
+        
+       54.    Until 2013, MHM’s audit clients were unaware of restrictions on the trading of CBIZ 
+securities.   
+ 
+                      b.  MHM Failed To Follow Proper Client Engagement Procedures 
+        
+       55.    Pursuant  to  AICPA  QC  Section  10  Paragraph  27,  an  auditor  is  required  to  have 
+adequate policies and procedures for client continuance that are “designed to provide the firm with 
+reasonable assurance that it will … continue … engagements only when the firm can comply with 
+legal and relevant ethical requirements.”   
+        
+       56.    After learning in 2012  of Tradebot’s CBIZ transactions,  MHM failed to  perform 
+adequate  client  acceptance  procedures  to  ensure  it  was  independent  when  being  engaged  and 
+beginning substantive field work.  Shortly after internal consultation over the independence question 
+was  initiated  but  before  MHM’s  national  director  of  professional  standards  had  provided  any 
+guidance to the engagement shareholder, MHM proceeded with the  engagement.  By doing so, 
+MHM entered into an engagement without determining whether it could continue with the audit.  
+        
+              4.  MHM Violated AICPA Professional Standards 
+  
+       57.    Through the conduct described above, MHM violated GAAS provisions AU Sections 
+150.02 and 220.03, AICPA QC Section 10 Paragraphs 22 and 27 and thereby negligently engaged in 
+improper professional conduct.   
+        
+       58.    Through   its   repeated   violations   of   applicable   professional   standards,   MHM 
+demonstrated a lack of competence to practice before the Commission.  
+ 
+       M.     MHM CAUSED TRADEBOT’S VIOLATION OF SECTION 17(a) AND RULE 
+17a-5 
+        
+       59.     Under  Section  21C  of  the  Exchange  Act,  a  person  is a “cause” of another's 
+primary  violation  if  the  person  knew  or  should  have  known  that  its act  or  omission would 
+contribute  to  the  primary  violation.   Negligence  is sufficient  to  establish “causing” liability 
+under Section  21C  when a person  is alleged  to have caused  a primary  violation  that does  not 
+require scienter.   In re KPMG Peat Marwick, Exch. Act. Rei. No. 43862  (Jan. 19, 2001),  aff'd, 
+KPMG v. SEC, 289 F.3d    I 09 (D.C. Cir. 2002).   
+        
+
+                                                9 
+ 
+---------------------Page 10---------------------
+
+       60.     MHM caused Tradebot’s violations of Section 17(a) and Rule 17a-5 by certifying, 
+as  independent  public  accountants,  Tradebot’s  financial  statements  contained  in  its  Annual 
+Reports, when, in fact, MHM was not independent of Tradebot.   
+        
+       61.     Further, MHM lacked an adequate system of controls to maintain independence 
+and failed to inform Tradebot of the proscription against trading in CBIZ stock.  Those failures 
+impaired MHM’s independence and thereby caused Tradebot to file Annual Reports that did not 
+contain audits by an independent accountant.  
+        
+       62.     MHM was negligent in certifying it was independent of Tradebot and having an 
+inadequate system of controls and by failing to notify Tradebot of the proscription against trading 
+in CBIZ stock. 
+        
+                                               III. 
+        
+       In view of the allegations made by the Division of Enforcement and the Office of Chief 
+Accountant, the Commission deems it appropriate that public administrative and cease-and-desist 
+proceedings be instituted to determine: 
+        
+       A.      Whether the allegations set forth in Section II hereof are true and, in connection 
+therewith,  to  afford  Respondent  MHM  an  opportunity  to  establish  any  defenses  to  such 
+allegations;  
+        
+       B.      What, if any, remedial action is appropriate against Respondent MHM pursuant to 
+Section 4C of the Exchange Act and Rule 102(e) of the Commission’s Rules of Practice, including, 
+but not limited to, censure or denying, temporarily or permanently, the privilege of appearing or 
+practicing before the Commission; and 
+        
+       C.      Whether, pursuant to Section 21C of the Exchange Act,  Respondent should be 
+ordered to cease and desist from committing or causing violations of and any future violations of 
+Exchange Act Section 17(a) and Rule 17a-5 thereunder, whether Respondent should be ordered to 
+pay a civil penalty pursuant to Section 21B(a) of the Exchange Act, and whether Respondent should 
+be ordered to pay disgorgement pursuant to Section 21C(e) of the Exchange Act. 
+        
+                                               IV. 
+        
+       IT IS ORDERED that a public hearing for the purpose of taking evidence on the questions 
+set forth in Section III hereof shall be convened not earlier than 30 days and not later than 60 days 
+from service of this Order at a time and place to be fixed, and before an Administrative Law Judge 
+to be designated by further order as provided by Rule 110 of the Commission’s Rules of Practice, 
+17 C.F.R. § 201.110. 
+        
+
+       IT  IS  FURTHER  ORDERED  that  Respondent  MHM  shall  file  an  answer  to  the 
+allegations  contained  in  this  Order  within  twenty  (20)  days  after  service  of  this  Order,  as 
+provided by Rule 220 of the Commission’s Rules of Practice, 17 C.F.R. § 201.220. 
+        
+
+                                               10 
+ 
+---------------------Page 11---------------------
+
+       If Respondent MHM fails to file the directed answer, or fails to appear at a hearing after 
+being  duly  notified,  the  Respondent  may  be  deemed  in  default  and  the  proceedings  may  be 
+determined against the Respondent upon consideration of this Order, the allegations of which may 
+be deemed to be true as provided by Rules 155(a), 220(f), 221(f), and 310 of the Commission’s 
+Rules of Practice, 17 C.F.R. §§ 201.155(a), 201.220(f), 201.221(f), and 201.310. 
+        
+       This Order shall be served forthwith upon Respondent as provided for in the Commission’s 
+Rules of Practice. 
+        
+       IT  IS  FURTHER  ORDERED that the  Administrative  Law Judge  shall issue  an initial 
+decision no later than 300 days from the date of service of this Order, pursuant to Rule 360(a)(2) 
+of the Commission’s Rules of Practice, 17 C.F.R. § 201.360(a)(2). 
+        
+       In  the  absence  of  an  appropriate  waiver,  no  officer  or  employee  of  the  Commission 
+engaged  in  the  performance  of  investigative  or  prosecuting  functions  in  this  or  any  factually 
+related proceeding will be permitted to participate or advise in the decision of this matter, except 
+as a witness or counsel in proceedings held pursuant to notice. Since this proceeding is not a “rule 
+making” within the meaning of Section 551 of the Administrative Procedure Act, it is not deemed 
+subject to the  provisions of  Section 553 delaying the  effective  date  of  any final  Commission 
+action. 
+        
+       By the Commission. 
+ 
+ 
+ 
+ 
+                                                    Brent J. Fields 
+                                                    Secretary 
+ 
+  
+ 
+ 
+ 
+
+                                                11   

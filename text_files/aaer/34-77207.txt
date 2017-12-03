@@ -1,0 +1,398 @@
+---------------------Page 1---------------------
+
+                           UNITED STATES OF AMERICA 
+                                       Before the 
+                    SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 77207 / February 23, 2016 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3746 / February 23, 2016 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-17126 
+ 
+                                         ORDER INSTITUTING 
+In the Matter of                         ADMINISTRATIVE AND CEASE -AND-
+                                         DESIST PR OCEEDINGS PURSUANT 
+      JASON MAIHER ,                     TO SECTIONS  4C, 15(b) AND 21C OF 
+                                         THE SECURITIES EXCHANGE ACT 
+Respondent.                              OF 1934, AND RULE 102(e) OF THE 
+                                          COMMISSION’S RULES OF 
+                                                   
+                                                
+                                        I.  
+ 
+       The Securities and Exchange Commission (“Commission”) deems it appropriate 
+and in the public interest that public administrative and cease-and-desist proceedings be, 
+and hereby are, instituted pursuant to Sections 4C, 15(b) and 21C of the Securities 
+Exchange Act of 1934 (“Exchange Act”) and Rule 102(e)(1)(iii) of the Commission’s 
+Rules of Practice against Jason Maiher (“Respondent” or “Maiher”).   
+                                         
+                                       II. 
+                                         
+      After an investigation, the Division of Enforcement alleges that: 
+                                         
+      A.     RESPONDENT 
+ 
+             1.     Maiher, age 41, was KeyBanc Capital Markets Inc.’s (“KBCM”) 
+Chief Financial Officer (“CFO”) from April 2007 through November 2011 and Series 27 
+Financial and Operations Principal (“FinOp”) from April 2007 through December 2011.  
+KBCM terminated Maiher’s employment in May 2012.  Maiher was primarily responsible 
+for maintaining KBCM’s financial records.  He submitted KBCM’s Annual Audited 
+Report to the Commission and oversaw the filing of its monthly Financial and Operational 
+Combined Uniform Single Reports (“FOCUS Reports”) with FINRA, which then furnished 
+the FOCUS Reports to the Commission.  Pursuant to internal policies and procedures that 
+were applicable to KBCM, Maiher was required to certify after the close of each month 
+that KBCM’s general ledger balance sheet information had been compared with, and 
+---------------------Page 2---------------------
+
+reconciled to, the underlying back-office system information.  Maiher is currently an 
+assistant controller for a wholly owned banking subsidiary of a publicly traded company. 
+ 
+       B.     RELEVANT ENTITY 
+ 
+              2.     KBCM is a broker-dealer registered with the Commission and is a 
+subsidiary of KeyCorp, a financial services company headquartered in Cleveland, Ohio.  
+ 
+       C.     KBCM’S BOOKS AND RECORDS WERE INACCURATE 
+ 
+              3.      Beginning at some point prior to January 2011, and through January 
+2012, Maiher, who was KBCM’s CFO (until November 2011) and FinOp, directed that 
+unsubstantiated or “plug” entries be made to one or more accounts in KBCM’s general 
+ledger, in order to complete KBCM’s monthly close-the-books process.  The amount of the 
+plug entries varied over time.     
+        
+              4.      The plug entries resulted in KBCM overstating its assets and income 
+in its fiscal year 2010 financial statements, which were included in its fiscal year 2010 
+Annual Audited Report filed with the Commission in February 2011.  Maiher signed this 
+report, affirming that the accompanying financial statements were “true and correct.” 
+        
+              5.     The plug entries to the general ledger also resulted in inaccurate 
+financial information being included in KBCM’s monthly FOCUS Reports that Maiher 
+caused to be filed with FINRA, which then furnished the FOCUS Reports to the 
+Commission, for some point prior to January 2011 through January 2012.  In 2012, 
+KBCM filed amended FOCUS Reports.   
+        
+              6.     In its Annual Audited Report for the year ended December 31, 2011, 
+KBCM disclosed that its prior period financial statements (for fiscal year 2010) included 
+unsubstantiated assets of $13,679,000 ($8,591,000 net of taxes) and omitted liabilities of 
+$4,305,000 ($2,701,000 net of taxes).  Specifically, the 2011 Annual Audited Report stated 
+“[t]he December 31, 2010, Statement of Financial Condition included $13,679[,000] in net 
+trade date receivables that was found to be unsubstantiated during 2011.”  KBCM’s write-
+off of the unsubstantiated assets and accrual of the unrecorded liabilities resulted in restated 
+net income of $3,136,000, a 78% reduction versus the previously reported $14,428,000, 
+and restated shareholder’s equity of $316,796,000, an $11,292,000 reduction, from the 
+previously reported $328,088,000. 
+               
+               
+               
+               
+               
+               
+               
+               
+
+                                           2 
+---------------------Page 3---------------------
+
+       D.     RESPONDENT DIRECTED THAT PLUG ENTRIES BE MADE TO 
+              KBCM’S GENERAL LEDGER 
+        
+                                                                1
+              7.     KeyCorp’s written policies and procedures  that were applicable to 
+KBCM required KBCM’s finance department, led by Maiher, to reconcile certain general 
+ledger accounts to the back office securities trading and inventory software system.  The 
+general ledger system was referred to as MSA.  MSA was the source of the official books 
+and records of KBCM.  The back office system for KBCM was referred to as Broadridge.   
+               
+              8.     The purpose of reconciling accounts was to ensure that the 
+information in MSA was accurate.  Generally, reconciliation is an accounting process used 
+to compare two sets of records to ensure the figures are in agreement.  During the relevant 
+period, KeyCorp’s Reconcilement Process & Account Certification Procedure stated that 
+the goal of reconciliation was “to verify that the balance and activity in the [general ledger] 
+account agrees with the expected balance and activity as recorded elsewhere.”  This 
+document further explained that “[w]hen external reports are published to our shareholders 
+and government agencies, it is critical that the general ledger system from which those 
+reports are prepared be correct.” 
+               
+              9.     The applicable policies and procedures required accounts to be 
+reconciled on a periodic basis, which was generally daily or weekly “unless the account has 
+very low transaction volume.”  At a minimum, all accounts were to be reconciled monthly. 
+        
+              10.    Among the accounts that Maiher and his team were required to 
+reconcile were the firm’s inventory accounts.  According to a KBCM Inventory 
+Accounting Process Narrative, “KBCM buys, sells, and maintains inventory positions in 
+federal, municipal, and corporate bonds and stocks in order to make markets, earn trading 
+profits, or act as a wholesaler.  KBCM makes markets for approximately 200 
+(OTC/NASDAQ) stocks.”  Despite the fact that the inventory accounts did not have “very 
+low transaction volume,” they were reconciled only monthly.  
+        
+              11.    The applicable policies and procedures required Maiher to segregate 
+the duties of preparing, reviewing, and certifying the inventory accounts reconciliations.  
+Accordingly, one of KBCM’s accountants was responsible for preparing the 
+reconciliations, KBCM’s Controller was responsible for reviewing the reconciliations, and 
+Maiher was responsible for certifying them.  Specifically, Maiher was responsible for 
+timely certifying the inventory accounts in KeyCorp’s On-Line Certification System.     
+        
+              12.    As explained in KeyCorp’s policies and procedures, Maiher’s 
+certification of a general ledger account was a formal attestation that: properly documented 
+controls and procedures were in place; reconciliations were routinely performed according 
+to an established schedule; the reconciliation for the account was current; and the 
+
+                                                 
+1
+ The policies and procedures include “Policy ACC-403: KeyCorp Reconciliation and 
+Certification Policy” and “Procedure AR-5001: Reconcilement Process & Account 
+Certification.” 
+
+                                            3 
+---------------------Page 4---------------------
+
+supporting sub-system, which is Broadridge in this instance, was in agreement with the 
+general ledger.    
+
+               13.    Further, as stated in the policies and procedures, by certifying an 
+account, Maiher was making himself “personally accountable for the integrity of the 
+account” and stating that “a formal reconciliation, with all pertinent documentation, has 
+been prepared and reviewed, and that all reconciling items have been adequately 
+documented.”   
+        
+               14.    As part of KBCM’s reconciliation process, any difference between 
+related account balances in MSA and Broadridge needed to be identified and was 
+considered a reconciling item.  Reconciling items needed to be researched and resolved 
+within established time limits.  The inventory accounts were subject to a 30-day aging 
+period, after which any unresolved differences between MSA and Broadridge were to be 
+written off consistent with KeyCorp policy.  The approval needed to charge off an item 
+depended on the dollar amount.  Maiher’s write-off authority was capped at $100,000 per 
+KeyCorp policy.  Stale items in excess of $100,000 were only to be written off with the 
+approval of KeyCorp’s Chief Accounting Officer, CFO or Corporate Controller. 
+        
+               15.    If a reconciling item was deemed a “reportable exception,” it needed 
+to be recorded in the on-line certification system.  A “reportable exception” was defined as 
+a reconciling item “deemed significant enough to alert senior management to a potential 
+problem which may indicate a breakdown of internal controls or present the possibility of 
+significant loss.”  Variances between MSA and Broadridge of $10,000 or more, which had 
+not cleared through the normal transaction life cycle, fell into this category. 
+
+               16.    It was Maiher’s responsibility, as certifier of the inventory accounts, 
+to describe any reportable exception in clear language, explain the efforts being made to 
+correct the exception, and provide the anticipated date of resolution.  Maiher had until the 
+20th of each month to timely certify the prior-month inventory account balances and 
+document any reportable exceptions in the on-line certification system.  Certifications 
+submitted after the 20th were considered late.  A monthly report summarizing the results of 
+the certification program, including any reported exceptions, was provided to senior 
+finance management of KeyCorp.  As explained in the policies and procedures, “[t]his 
+[exception reporting] afford[ed] senior management reasonable assurance that appropriate 
+internal controls are in place and that problems are identified and resolved in a timely 
+manner.” 
+                
+               17.    Beginning at some point prior to 2011, and through January 2012, 
+Maiher directed that “plug” entries be made to the general ledger in order to balance and be 
+able to close the books on a monthly basis.   
+
+               18.    During 2010, 2011, and January 2012, as part of the monthly close-
+the-books process, at Maiher’s direction, the staff accountant populated the reconciliation 
+spreadsheet for the inventory accounts.  The initial iteration of this spreadsheet showed the 
+variances between the general ledger and Broadridge.  At Maiher’s direction, the staff 
+accountant also prepared a corresponding “correcting entry” spreadsheet that, in more 
+
+                                             4 
+---------------------Page 5---------------------
+
+summary fashion, compared the month-end MSA long and short inventory balances with 
+the long and short inventory trade date balances in Broadridge.  The “correcting entry” 
+spreadsheet was a tool that served as the basis for a series of manual adjusting entries that 
+were then made to the general ledger to make the general ledger match Broadridge.  These 
+adjusting entries were described as “Trade Date Long” or “Trade Date Short” and were 
+made to the 129186 “Trading Inv-Other” and 273500 “Liab for Shrt Positions” accounts.  
+The number of such adjusting entries, as well as the dollar amounts, varied by month.  In 
+2011, there were typically 10 or more such adjusting entries made during the monthly 
+close.  After these entries were posted to the general ledger, the staff accountant updated 
+the reconciliation spreadsheet; certain variances that appeared on the pre-close version of 
+the spreadsheet were thus absent from the final version that was signed by Maiher as 
+certifier, post-close. 
+
+              19.    The securities inventory reconciliation and the related “correcting 
+entry” spreadsheet also computed manual adjustments that were made each month to 
+general ledger accounts 196727 “Trade Date Receivable” and 299220 “Trade Date 
+Payable.”  Maiher directed these adjustments, in combination with the manual adjustments 
+to accounts 129186 and 273500, to be made in order to purportedly reflect the MSA 
+inventory account balances on a trade date basis for regulatory reporting purposes.  An 
+interface or graph between Broadridge and MSA automatically computed the firm’s trade 
+date receivable and payable data on a daily basis.  In approximately April 2011, Maiher had 
+the interface turned off so that the trade date receivable and payable data was no longer 
+being automatically fed into MSA and had to be computed manually. 
+
+              20.    If all of the month-end adjusting entries did not result in MSA 
+balancing, the staff accountant, at Maiher’s direction, would include an additional adjusting 
+entry to plug the unexplained difference in order to be able to close the books in the firm’s 
+internal system.  In most instances, Maiher directed that this plug entry be described as a 
+“Trade Date Adjustment.”  All of the manual adjusting entries were typically made on 
+either day 1 or day 2 after the month-end and the books were closed on day 3.   
+
+              21.    For February, July, August, September, November, and December, 
+Maiher directed that the additional plug entry, without which the books would not balance, 
+be made to the “Trade Date Receivable” account.  For March and October, Maiher directed 
+that this additional adjusting entry be made to the “Trading Inv–Other” account.  For 
+January, April, May, and June, Maiher directed that this additional adjusting entry be made 
+to an income statement account.  Below are the additional adjusting entries that were made 
+to balance and close the books monthly for December 2010 through December 2011: 
+
+ DATE         ACCOUNT                           ENTRY           DESCRIPTION 
+ Dec. 2010    482434 P/L                        76,754.36       Inventory Adjustment 
+ Jan. 2011    482439 P/L                        2,239,211.72    P&L Adjustment 
+ Feb. 2011    196727 Trade Date Receivable      2,949,720.49    Trade Date Adjustment 
+ Mar. 2011    129186 Trading Inv-Other          (3,751,660.38)  Trade Date Adjustment 
+ Apr. 2011    482439 P/L                        440,170.57      Trade Date Adjustment 
+ May 2011     482439 P/L                        1,893,944.88    Trade Date Adjustment 
+ June 2011    482439 P/L                        152,539.67      Trade Date Adjustment 
+
+                                            5 
+---------------------Page 6---------------------
+
+ July 2011    196727 Trade Date Receivable      12,502,416,22   GPS Placeholder Offset 
+ Sept. 2011   196727 Trade Date Receivable      17,607,368.97   Trade Date Adjustment 
+ Oct. 2011    129186 Trading Inv-Other          31,618,733.55   Trade Date Adjustment 
+ Nov. 2011    196727 Trade Date Receivable      22,804,384.26   Trade Date Adjustment 
+ Dec. 2011    196727 Trade Date Receivable      18,674,052.00   Trade Date Adjustment 
+                                                                 
+              22.     Although the purpose of the KBCM inventory reconciliation process 
+was to identify, research and timely resolve any differences between corresponding account 
+balances in MSA and the Broadridge subsystem, through the process undertaken by Maiher 
+and his staff, differences were routinely eliminated through the expedient of adjusting 
+entries made during the monthly close, after which the inventory account balances were 
+certified by Maiher as reconciled.  For example, for February, March, April and June 2011, 
+Maiher certified the inventory accounts without an exception of any kind.  For other 
+months, he certified with exception(s) but did not disclose that there was an unexplained 
+variance.  Rather, he gave assurances the variance was or would be properly resolved.  
+Maiher also repeatedly failed to certify the inventory accounts or report exceptions within 
+the time period required by KeyCorp policy. 
+               
+              23.    By coming up with the process by which the reconciler determined 
+the adjusting entries, directing that they be made to the general ledger, and then certifying 
+the inventory account reconciliations, Maiher also failed to ensure appropriate segregation 
+of duties, in violation of the applicable policies and procedures. 
+        
+              24.    KBCM hired a new CFO in November 2011.  After he was hired, 
+the new CFO discovered the variances after reviewing the most recent reconciliations and 
+notified KBCM’s and KeyCorp’s management.  Maiher did not begin to report that there 
+was a potential unexplained variance until late in 2011, after the new CFO had been hired, 
+and even then he was not transparent about the plug entries he had directed be made to 
+balance the firm’s books. 
+               
+              25.    Maiher was subsequently terminated from KBCM in May 2012.  In 
+the Form U5 termination notice that KBCM filed with the Financial Industry Regulatory 
+Authority, KBCM explained that Maiher was terminated for “involvement in inaccurate 
+entries in the firm’s general ledger, failure to ensure substantiating documentation relating 
+to those entries and failure to ensure appropriate segregation of duties.”   
+               
+              26.    Through the conduct described above, Maiher caused 
+unsubstantiated entries to be made in the records of KBCM; caused the records of KBCM 
+to be inaccurate; and caused false FOCUS Reports and financial statements to be filed with 
+FINRA, which then furnished the FOCUS Reports to the Commission. 
+ 
+       E.     VIOLATIONS 
+ 
+              27.    Section 17(a)(1) of the Exchange Act requires registered broker-
+dealers to make and keep records, and to make and disseminate reports prescribed by 
+Commission rule.  The requirements to make and keep required records includes the 
+
+                                            6 
+---------------------Page 7---------------------
+
+requirement that such records be accurate.  Rule 17a-3(a)(2) of the Exchange Act requires, 
+among other things, that every broker-dealer make and keep current ledgers reflecting all 
+assets and liabilities relating to the firm’s business.  As a result of the conduct described 
+above, KBCM violated Section 17(a) of the Exchange Act and Rule 17a-3(a)(2) thereunder 
+because its general ledger did not accurately reflect all of the firm’s assets and liabilities.  
+Section 17(e) of the Exchange Act requires registered broker-dealers to annually file with 
+the Commission a balance sheet and income statement certified by a public accounting 
+firm.  Rule 17a-5(a) requires periodic FOCUS Reports.  Rule 17a-5(d) requires registered 
+broker-dealers to file with the Commission annual audited reports.  KBCM violated 
+Section 17(e) of the Exchange Act and Rules 17a-5(a) and 17a-5(d) thereunder by 
+including unsubstantiated assets in its monthly FOCUS Reports filed with FINRA, which 
+then furnished the FOCUS Reports to the Commission, prior to 2011 through January 
+2012, among other months, and in its fiscal year 2010 Annual Audited Report. 
+ 
+               28.    Respondent Maiher willfully aided and abetted and caused KBCM’s 
+violations of Sections 17(a) and 17(e) of the Exchange Act and Rules 17a-3(a)(2), 17a-5(a), 
+and 17a-5(d) thereunder. 
+ 
+                                            III. 
+        
+       In view of the allegations made by the Division of Enforcement, the Commission 
+deems it necessary and appropriate in the public interest that public administrative and 
+cease-and-desist proceedings be instituted to determine: 
+        
+       A.      Whether the allegations set forth in Section II hereof are true and, in 
+connection therewith, to afford Maiher an opportunity to establish any defenses to such 
+allegations;  
+        
+       B.      What, if any, remedial action is appropriate in the public interest against 
+Maiher pursuant to Section 15(b) of the Exchange Act including, but not limited to, civil 
+penalties pursuant to Section 21B of the Exchange Act;  
+        
+       C.      What, if any, remedial action is appropriate in the public interest against 
+Maiher pursuant to Section 4C of the Exchange Act and Rule 102(e)(1) of the 
+Commission’s Rules of Practice; and 
+        
+       D.      Whether, pursuant to Section 21C of the Exchange Act, Maiher should be 
+ordered to cease and desist from committing or causing violations of and any future 
+violations of Section 17 of the Exchange Act and Rules 17a-3 and 17a-5 thereunder, 
+whether Maiher should be ordered to pay a civil penalty pursuant to Section 21B(a) of the 
+Exchange Act. 
+        
+                                            IV. 
+        
+       IT IS ORDERED that a public hearing for the purpose of taking evidence on the 
+questions set forth in Section III hereof shall be convened not earlier than 30 days and not 
+
+                                             7 
+---------------------Page 8---------------------
+
+later than 60 days from service of this Order at a time and place to be fixed, and before an 
+Administrative Law Judge to be designated by further order as provided by Rule 110 of the 
+Commission's Rules of Practice, 17 C.F.R. § 201.110. 
+        
+       IT IS FURTHER ORDERED that Maiher shall file an Answer to the allegations 
+contained in this Order within twenty (20) days after service of this Order, as provided by 
+Rule 220 of the Commission's Rules of Practice, 17 C.F.R. § 201.220. 
+        
+       If Maiher fails to file the directed answer, or fails to appear at a hearing after being 
+duly notified, he may be deemed in default and the proceedings may be determined against 
+him upon consideration of this Order, the allegations of which may be deemed to be true as 
+provided by Rules 155(a), 220(f), 221(f) and 310 of the Commission's Rules of Practice, 17 
+C.F.R.  §§ 201.155(a), 201.220(f), 201.221(f) and 201.310. 
+        
+       This Order shall be served forthwith upon Maiher as provided for in the 
+Commission’s Rules of Practice.    
+        
+       This Order shall be served upon Maiher as provided for in Rule 141(a)(2)(iv) of the 
+Commission’s Rules of Practice, 17 C.F.R § 201.141(a)(2)(iv), by any method specified in 
+paragraph (a)(2) of that rule, or by any other method reasonably calculated to give notice, 
+provided that the method of service used is not prohibited by the law of the foreign country 
+where Respondent may be found. 
+        
+       IT IS FURTHER ORDERED that the Administrative Law Judge shall issue an 
+initial decision no later than 300 days from the date of service of this Order, pursuant to 
+Rule 360(a)(2) of the Commission’s Rules of Practice.  
+        
+       In the absence of an appropriate waiver, no officer or employee of the Commission 
+engaged in the performance of investigative or prosecuting functions in this or any factually 
+related proceeding will be permitted to participate or advise in the decision of this matter, 
+except as witness or counsel in proceedings held pursuant to notice.  Since this proceeding is 
+not “rule making” within the meaning of Section 551 of the Administrative Procedure Act, it 
+is not deemed subject to the provisions of Section 553 delaying the effective date of any 
+final Commission action. 
+        
+       By the Commission. 
+ 
+ 
+ 
+                                                     Brent J. Fields 
+                                                     Secretary 
+ 
+
+                                             8 

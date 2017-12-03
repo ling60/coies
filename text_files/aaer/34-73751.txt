@@ -1,0 +1,434 @@
+---------------------Page 1---------------------
+
+                           UNITED STATES OF AMERICA 
+                                       Before the 
+                    SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No.  73751 / December 5, 2014 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT  
+Release No. 3601 / December 5, 2014 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-16297 
+ 
+                                               
+In the Matter of                              ORDER INSTITUTING ADMINISTRATIVE 
+                                              AND CEASE-AND-DESIST PROCEEDINGS  
+      NEAL A. PETROVICH , CPA,                PURSUANT TO  SECTION  21C OF THE 
+                                              SECURITIES EXCHANGE ACT OF 1934, 
+Respondent.                                   MAKING FINDINGS, AND IMPOSING A 
+                                              CEASE-AND-DESIST ORDER   
+ 
+ 
+                                                 
+ 
+                                           I.  
+ 
+      The Securities and Exchange Commission (“Commission”) deems it appropriate that public 
+administrative and cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 
+21C of the Securities Exchange Act of 1934 (“Exchange Act”) against Neal A. Petrovich, CPA 
+(“Petrovich” or “Respondent”).   
+                                             
+                                             
+                                           II. 
+ 
+      In anticipation of the institution of these proceedings, Petrovich has submitted an Offer of 
+Settlement (the “Offer”) which the Commission has determined to accept.  Solely for the purpose 
+of these proceedings and any other proceedings brought by or on behalf of the Commission, or to 
+which the Commission is a party, and without admitting or denying the findings herein, except as 
+to the Commission’s jurisdiction over Petrovich and the subject matter of these proceedings, which 
+are admitted, Petrovich consents to the entry of this Order Instituting Administrative and Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making 
+Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.   
+ 
+---------------------Page 2---------------------
+
+                                                   
+                                                III. 
+ 
+                                                                                1
+       On the basis of this Order and Petrovich’s Offer, the Commission finds     that :   
+ 
+                                             Summary 
+ 
+       This matter involves the accounting treatment by Hampton Roads Bankshares, Inc. 
+(“HRBS” or the “Company”) in connection with the recording of its deferred tax asset (“DTA”) in 
+2009 and 2010.  Petrovich was the Chief Financial Officer of HRBS from February 2009 through 
+May 2010.  During 2009 and the first quarter of 2010, HRBS recorded a large DTA without taking 
+                                            2
+a significant valuation allowance against it.   HRBS, relying on an analysis performed under  
+Petrovich’s direction, concluded that based on anticipated future earnings, the Company was 
+“more likely than not” to realize its DTA within the applicable carry-forward period.  This 
+conclusion was unreasonable because the financial projections underlying HRBS’s projections of 
+future earnings were not supportable based on the Company’s financial condition, including in 
+particular the ongoing deterioration of its loan portfolio.   
+ 
+       HRBS’s financial condition was deteriorating by early 2010, and the Company was 
+discussing remedial measures to address its problems.  HRBS was facing possible adverse 
+regulatory consequences.  In August 2010, HRBS amended its 2009 Form 10-K and first quarter 
+2010 Form 10-Q to include restated financial statements, reflecting a valuation allowance against 
+the DTA, reducing the reported DTA for 2009 from over $56 million to less than $400,000, and to 
+$0 thereafter.  In its restated Form 10-K for 2009, HRBS reported that it was “undercapitalized” as 
+of December 31, 2009, as opposed to “adequately capitalized,” as originally reported.  Similarly, in 
+its restated Form 10-Q for the first quarter of 2010, HRBS reported that it was “significantly 
+undercapitalized,” rather than “undercapitalized” as originally reported. 
+        
+       Accordingly, Petrovich was a cause of HRBS’s violations of the reporting, books and 
+records and internal controls provisions of the Exchange Act.    
+ 
+                                          Respondent 
+ 
+       1.      Neal Petrovich, 52, is a resident of Chesapeake, Virginia, and was HRBS’s 
+Executive Vice President and CFO from February 2009 through May 2010.  On May 13, 2010, 
+Petrovich informed HRBS of his intention to end his employment with HRBS effective June 4, 
+2010, and he left the company on that date.  Petrovich is currently employed as Senior Vice 
+President – Finance with a publicly traded financial services company in the area.  He is a licensed 
+CPA in Virginia. 
+
+                                                 
+       1
+         The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding 
+on any other person or entity in this or any other proceeding.  
+       2
+         HRBS did establish a $1 million valuation allowance in 2009 related to capital losses realized, against the 
+$2.8 million in capital loss carryforwards.  However, HRBS recorded a net DTA of $56.38 million in its 2009 Form 
+10-K, the vast majority of which related to its loan losses.   
+                                                                                                      
+                                                 2 
+---------------------Page 3---------------------
+
+                                    Other Relevant Entity 
+
+       2.     Hampton Roads Bankshares, Inc., a Virginia corporation with its principal place of 
+business in Virginia Beach, Virginia, is a bank holding company for Bank of Hampton Roads 
+(“BOHR”) and Shore Bank (“Shore”), its primary subsidiaries.  At all relevant times, HRBS’s 
+common stock was registered with the Commission under Section 12(b) of the Securities Exchange 
+Act of 1934 (the “Exchange Act”) and was listed on the NASDAQ Global Select Market 
+(“NASDAQ”).  HRBS was subject to periodic examinations by the Virginia State Corporation 
+Commission’s Bureau of Financial Institutions (the “SCC”) and the Federal Reserve Bank of 
+Richmond (the “FRB”) in 2009 and 2010.   
+
+                                             Facts 
+ 
+HRBS History: 2008-09 Mergers and Subsequent Loan Losses 
+ 
+       3.     HRBS’s two primary subsidiaries, BOHR and Shore, provide community and 
+commercial banking services to individuals and small-to-medium-sized businesses in the 
+Hampton Roads region of southeastern Virginia; Richmond, Virginia; the Northeastern and 
+Research Triangle regions of North Carolina; and the Eastern Shore of Virginia and Maryland. 
+HRBS acquired Shore on June 1, 2008.  On December 31, 2008, HRBS acquired all outstanding 
+shares of Gateway Financial Holdings, Inc. (“Gateway”).  At the time of the acquisition, 
+Gateway’s subsidiaries, including Gateway Bank & Trust Co. (“Gateway Bank”), became 
+wholly owned subsidiaries of HRBS.  On May 8, 2009, Gateway Bank merged into BOHR, with 
+BOHR being the surviving entity.  The acquisition of Gateway increased HRBS’s assets from 
+slightly under $1 billion to approximately $3.1 billion.   
+
+       4.     The performance of HRBS’s loan portfolio deteriorated during 2009, leading to 
+losses.  The Company disclosed in its 2009 Form 10-K that “our problem loans increased 
+significantly in 2009; loans acquired from [Gateway] have been the primary source of that 
+increase.  Deteriorating economic conditions, difficulties in loan administration, and insufficient 
+loan collection resources contributed to the credit quality problems.”  Prior to restating its 
+financials in August 2010, HRBS reported a net loss of $60.7 million for fiscal year 2009, 
+excluding the write down of goodwill of $84.8 million.  The company’s restated financials 
+reflected a net loss of $116.65 million, excluding the goodwill write-downs. 
+
+       5.     On August 10, 2010, HRBS announced that its financial statements for fiscal year 
+ended December 31, 2009, as included in its 2009 Form 10-K, and the financial statements for the 
+fiscal quarter ended March 31, 2010, as included in its first quarter 2010 Form 10-Q, should no 
+longer be relied upon because HRBS had determined that restatements were necessary to provide 
+for an increase in the valuation allowance against the Company’s deferred tax asset.  On August 13, 
+2010, HRBS filed restated annual financial statements for 2009 in an amended Form 10-K for 2009, 
+and restated quarterly financial statements for the quarter ended March 31, 2010, in an amended 
+Form 10-Q.  The restated financial statements included a valuation allowance of approximately $56 
+million  for the year ended December 31, 2009, and of an additional $14.3 million for the first 
+quarter of 2010.  These valuation allowances reduced HRBS’s reported DTA as of year-end 2009 
+from $56.4 million to $397,000, and as of March 31, 2010 from $70.3 million to $0. 
+
+                                                                                                 
+                                               3 
+---------------------Page 4---------------------
+
+Deferred Tax Assets: Description and Accounting Guidance 
+    
+       6.      Accounting Standard Codification (ASC) 740 (formerly FASB statement 109) 
+establishes standards for companies to account for and report the effects of income taxes.  A 
+deferred tax asset is an asset on a company’s balance sheet that represents the right to offset a 
+future tax expense or obligation with a future tax benefit or refund.  These assets arise as a result of 
+timing differences that occur between reporting the effect of taxes accounted for under U.S. GAAP 
+and calculating tax benefits and liabilities under the enacted tax law.  For example, due to 
+differences between tax laws and accounting standards for financial statement purposes, some 
+events are recognized for financial reporting purposes and for tax purposes in different years. This 
+can give rise to differences between the tax bases of assets or liabilities and their reported amounts 
+in financial statements.  These differences are temporary because the event will become taxable or 
+deductible in the future.  A deferred tax asset, or DTA, exists when temporary timing differences 
+are more likely than not to result in deductible amounts in future years.  Deferred tax assets can 
+arise in connection with a company’s allowance for loan and lease losses (ALLL), which was the 
+case for the vast majority of HRBS’s DTA.  
+
+       7.      A DTA is recorded on the balance sheet when it is more likely than not that the 
+DTA will be realized in a future period.  However, ASC 740-10-30 requires a company to 
+“[r]educe deferred tax assets by a valuation allowance if, based on the weight of available 
+evidence, it is more likely than not (a likelihood of more than 50 percent) that some portion or all 
+of the deferred tax assets will not be realized.  The valuation allowance shall be sufficient to reduce 
+the deferred tax asset to the amount that is more likely than not to be realized.”  The company must 
+weigh all positive and negative evidence in determining whether a valuation allowance is 
+necessary.   
+
+       8.      When considering the weighing of positive and negative evidence, the accounting 
+guidance under ASC 740-10-30-21 and -23 states: “[f]orming a conclusion that a valuation 
+allowance is not needed is difficult when there is negative evidence such as cumulative losses in 
+recent years,” and “[a] cumulative loss in recent years is a significant piece of negative evidence 
+that is difficult to overcome.”  ASC 740-10-30-21 provides other examples of negative evidence, 
+including “losses expected in early future years (by a presently profitable entity)” and “unsettled 
+circumstances that, if unfavorably resolved, would adversely affect future operations and profit 
+levels on a continuing basis in future years.”  The realizability of DTAs must be evaluated in each 
+reporting period. 
+
+HRBS’s Loan Losses and Increasing DTA  
+ 
+       9.      Prior to 2008, HRBS did not record a significant DTA.  As of the end of 2007, the 
+Company recorded a net DTA of $2.66 million, and that number decreased through the first three 
+quarters of 2008.  Gateway, however, had seen an increase in its DTA during 2008 due to a 
+deteriorating loan portfolio and a corresponding increase in loan losses.  As of the end of 2008 – 
+following the merger with Gateway – HRBS recorded a DTA of $32.6 million.   
+
+       10.    As HRBS disclosed in its Form 10-K for 2009, “our problem loans increased 
+significantly in 2009; loans acquired from [Gateway] have been the primary source of that 
+
+                                                                                                    
+                                                 4 
+---------------------Page 5---------------------
+
+increase.  Deteriorating economic conditions, difficulties in loan administration, and insufficient 
+loan collection resources contributed to the credit quality problems.”  Prior to its restatement, 
+HRBS reported $60.7 million in losses for 2009 (exclusive of its goodwill write-downs), and 
+recorded provisions for loan losses of $33.71 million, $33.66 million, $65.67 million, and $45.61 
+million for the second, third and fourth quarters of 2009 and the first quarter of 2010, respectively.  
+
+       11.    Consequently, after a slight dip in the first quarter of 2009 from $32.62 million to 
+$31.28 million, HRBS’S DTA increased through the end of the first quarter of 2010 along with the 
+company’s loan losses.  HRBS recorded a DTA of $44.22 million for the second quarter of 2009, 
+$37.00 million for the third quarter of 2009, $56.38 million for the fourth quarter and year-end of 
+2009, and $70.32 million in the first quarter of 2010. 
+
+       12.    The vast majority of the DTA recorded by HRBS for 2009 and the first quarter of 
+2010 related to the Company’s loan losses.  Prior to its restatement in August 2010, HRBS did not 
+establish a valuation against its DTA relating to its loan losses.  The only valuation allowance 
+HRBS established against its DTA in this period was a $1 million allowance relating to capital 
+losses realized, against the Company’s $2.8 million in capital loss carryforwards.   
+
+HRBS’s DTA Analysis 
+        
+       13.    In November 2009, HRBS, under Petrovich’s direction, conducted an analysis of 
+“whether [HRBS] can continue to justify carrying [the deferred tax assets] at the amount they are 
+recorded in the general ledger.”  The resulting memorandum concluded no valuation allowance 
+was required.  The memorandum was based in part on capital projections forecasting loan 
+performance through the end of 2010, prepared by Petrovich and others under his direction, which 
+assumed the Company would work through existing non-performing loans (“NPLs”) in 24-36 
+months and would earn a consistent $8.4 million in quarterly pre-tax, pre-provision income ($33.6 
+million annually).  Petrovich knew or should have known that these conclusions were not 
+reasonable.  The projections underlying the analysis assumed that the provision for loan losses 
+would drop from over $33 million in third quarter 2009 to $2.35 million by the end of 2010.  
+However, at the same time, internal company reports that were circulated to Petrovich reflected 
+that as of November 2009, the company’s total delinquent and non-accruing loans had reached 
+nearly $350 million, or 13.4% of total loans, an increase over the quarter-end totals for each of the 
+first through third quarters of 2009.  Likewise, non-performing assets had increased 11% from 
+September to October 2009, continuing a trend of increases in problem loans since late 2008.  
+HRBS reported a provision for loan losses for the third quarter of 2009 of $33.7 million, and for 
+fourth quarter 2009 of $65.7 million.  Further, HRBS’s DTA analysis relied on “pre-tax, pre-
+provision” income, and did not address the fact that the existing loan loss provisions were the 
+single greatest driver of the Company’s losses at the time, and that loan losses would be based on 
+the trends noted above indicating that these losses would likely continue.     
+
+       14.    From December 2009 through July 2010, HRBS provided materials to the SEC’s 
+Division of Corporation Finance (“Corp Fin”) and Office of the Chief Accountant (“OCA”) 
+concerning its conclusions that a valuation allowance was not required on its DTA, and that the 
+financial projections supporting its analysis were supportable, notwithstanding the fact that the 
+
+                                                                                                   
+                                                5 
+---------------------Page 6---------------------
+
+Company’s loan losses in 2009 had exceeded the aggregate taxable income for the prior three 
+years, and were continuing.   
+
+       15.    In March of 2010, Petrovich and others under his direction prepared an internal 
+memorandum setting forth an analysis of the necessity of a valuation allowance against the DTA as 
+of year-end 2009.  HRBS retained an outside accounting consultant to provide limited assistance in 
+directing the Company to the appropriate accounting guidance and memorializing the Company’s 
+            3
+conclusions.    The  March 2010 memo  randum   concluded that HRBS would more likely than not 
+earn the necessary $8 million future taxable income per year ($150  - 160 million total) necessary to 
+fully utilize the DTA over the applicable carry- forward period.  The analysis relied  , in part, on the 
+Company  ’s historical pre-Gateway earnings over the prior four years ($5.5 million, $6.0 million, 
+$6.8 million, and $7.2 million for 2005-08, respectively), concluding that the Company would 
+more likely than not earn the necessary $8 million future taxable income per year.  The 
+memorandum recognized that excluding non-recurring write-offs of goodwill associated with 
+Shore Bank and Gateway, HRBS had suffered $64 million in pre-tax losses in 2009, which was 
+“approximately double the income earned over the prior 5 years,” but noted that HRBS “do[es] not 
+expect losses to continue past 2011.”  Petrovich knew or should have known that the conclusions 
+in the March 2010 memorandum were not reasonable.  At the time this analysis was drafted, total 
+loans past due had trended upward since the beginning of 2009, and total delinquent and 
+nonaccrual loans, while slightly lower than in February 2010, remained at historically high levels.      
+
+       16.    On April 23, 2010, HRBS filed its Form 10-K for 2009, signed by Petrovich, which 
+incorporated financial statements recording a DTA of $56.38 million, including a valuation 
+allowance of $1.0 million established against the Company’s $2.8 million in capital loss 
+carryforwards, but no valuation allowance relating to the remainder of the DTA, including the 
+portion of the DTA attributable to loan losses.  The March 2010 DTA memorandum reflecting 
+HRBS’s rationale for this accounting decision was substantially reproduced in the footnotes to the 
+financial statements included in the Company’s 2009 Form 10-K. 
+
+       17.    In May 2010, HRBS, under Petrovich’s direction, updated the analysis of whether a 
+valuation allowance was required on the DTA for purposes of HRBS’s first quarter 2010 financial 
+statements.  The identification and weighing of positive and negative evidence remained 
+substantively unchanged from the March 2010 memorandum, though the updated memorandum 
+noted that the required annual taxable income to fully utilize the Company’s DTA was now an 
+average of $9 million, rather than $8 million.  The May 2010 memorandum supported its 
+conclusion that this level would likely be reached by, in part, noting that HRBS, Gateway and 
+Shore Bank had earned a combined $31 million in 2007, the last full year prior to the mergers.  The 
+memorandum predicted that HRBS would become profitable in 2011, and attached bank-level 
+capital projections, also drafted by Petrovich and others under his direction, that forecasted a slight 
+profit as of third quarter of 2011, notwithstanding the Company’s internal consolidated projections 
+less than two months prior that projected quarterly losses of at least $7 million through 2011.  
+Petrovich knew or should have known that the conclusions in the May 2010 memorandum were 
+not reasonable.  Internal Company reports as of late May 2010 reflected continuing deterioration of 
+
+                                                 
+3
+        The outside accounting consultant did not provide an opinion on the validity of the company’s conclusions 
+and relied on the projections and assumptions that HRBS used in performing the DTA analysis. 
+                                                                                                      
+                                                  6 
+---------------------Page 7---------------------
+
+HRBS’s loan portfolio through increasing levels of classified loans, past due loans, delinquent and 
+nonaccrual loans, and nonperforming loans as a percentage of total loans.  
+
+       18.    On May 17, 2010, HRBS filed its Form 10-Q for the quarterly period ended March 
+31, 2010.  The Form 10-Q incorporated financial statements recording a DTA of $70.32 million, 
+including the previously-established a valuation allowance of $1.0 million against HRBS’s $2.8 
+million in capital loss carryforwards.  The financial statements again established no valuation 
+allowance relating to the remainder of the DTA, including the portion of the DTA attributable to 
+loan losses.   
+
+       19.    On May 13, 2010, Petrovich informed HRBS’s Board of Directors and senior 
+management of his intention to end his employment with the Company, effective June 4, 2010.  On 
+June 4, 2010, Petrovich left HRBS.   
+
+       20.    On August 13, 2010, HRBS issued an amended Form 10-K/A for 2009 and an 
+amended 10-Q/A for the first quarter of 2010, restating the financial results for those periods to 
+reflect a valuation allowance against the entire DTA.   
+
+The Effects of HRBS’s DTA On Its Reported Capitalization Levels  
+
+       21.    The valuation allowance against HRBS’s DTA played a role in determining the 
+Company’s capitalization level, a measure that banks are required to report quarterly under bank 
+regulations.  A portion of a bank’s DTA is included in its Tier 1 capital calculation.  Prior to its 
+restatement, HRBS reported that it was “adequately capitalized” as of December 31, 2009, and 
+“undercapitalized” as of March 31, 2010.  Following the restatement, HRBS changed this 
+statement to report that it was “undercapitalized” as of December 31, 2009, and “significantly 
+undercapitalized” as of March 31, 2010.   
+
+       22.    Changes in regulatory classification are material information to investors.  A bank 
+that falls below certain regulatory capital classifications can be subject to adverse regulatory 
+actions by bank regulators that severely restrict its activities.  Such activities can include the 
+requirement that a bank that becomes “undercapitalized” submit and obtain approval of a “capital 
+restoration plan,” and may also include requiring the institution to be recapitalized, prohibiting 
+asset growth, restricting interest rates paid, requiring prior approval of capital distributions by a 
+controlling bank holding company, requiring new election of directors or dismissal of directors and 
+officers, and requiring regulatory approval of proposed dividends or consent to consolidation or 
+divestiture of the institution or its affiliates.    
+
+                                            Violations 
+
+       23.    As a result of the conduct described above, Petrovich was a cause of HRBS’s 
+violation of Section 13(a) of the Exchange Act and Rules 12b-20, 13a-1, and 13a-13 thereunder, 
+which require every issuer of securities registered pursuant to Section 12 of the Exchange Act to 
+file with the Commission accurate periodic reports, including annual reports on Form 10-K and 
+quarterly reports on Form 10-Q, and mandate that the required reports must contain any further 
+material information necessary to make the required statements made in the reports not 
+misleading.  
+                                                                                                    
+                                                7 
+---------------------Page 8---------------------
+
+       24.    As a result of the conduct described above, Petrovich was a cause of HRBS’s 
+violation of Section 13(b)(2)(A) of the Exchange Act, which requires reporting companies to 
+make and keep books, records, and accounts which, in reasonable detail, accurately and fairly 
+reflect their transactions and dispositions of their assets.   
+
+       25.    As a result of the conduct described above, Petrovich was a cause of HRBS’s 
+violation of Section 13(b)(2)(B) of the Exchange Act, which requires issuers of securities 
+registered pursuant to Section 12 of the Exchange Act to devise and maintain a system of internal 
+accounting controls sufficient to provide reasonable assurances that transactions are recorded as 
+necessary to permit preparation of financial statements in accordance with generally accepted 
+accounting principles.  
+
+                                         Undertaking 
+
+       Petrovich has agreed to the following undertaking: 
+
+       Petrovich shall, within 10 days of the entry of an Order, make a payment in the nature of a 
+penalty in the amount of $25,000 to the Securities and Exchange Commission.  If timely payment 
+is not made, additional interest shall accrue pursuant to 31 U.S.C. § 3717.  Such payment shall be 
+made in one of the following ways:   
+
+                  (1) Petrovich may transmit payment electronically to the Commission, which 
+                      will provide detailed ACH transfer/Fedwire instructions upon request; 
+
+                  (2) Petrovich may make direct payment from a bank account via Pay.gov 
+                      through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or  
+
+                  (3) Petrovich may pay by certified check, bank cashier’s check, or United 
+                      States postal money order, made payable to the Securities and Exchange 
+                      Commission and hand-delivered or mailed to:  
+
+                      Enterprise Services Center 
+                      Accounts Receivable Branch 
+                      HQ Bldg., Room 181, AMZ-341 
+                      6500 South MacArthur Boulevard 
+                      Oklahoma City, OK 73169 
+ 
+                      Payments by check or money order shall be accompanied by a cover letter 
+                      identifying Neal A. Petrovich as a Respondent in these proceedings, and the 
+                      file number of these proceedings; a copy of the cover letter and check or 
+                      money order must be sent to Scott Friestad, Division of Enforcement, 
+                      Securities and Exchange Commission, 100 F St., NE, Washington, DC 
+                      20549-5010. 
+
+       In determining whether to accept Petrovich’s Offer, the Commission has considered this 
+undertaking.  Petrovich agrees that if the Division of Enforcement believes that Petrovich has not 
+
+                                                                                                  
+                                               8 
+---------------------Page 9---------------------
+
+satisfied this undertaking, it may petition the Commission to reopen the matter to determine 
+whether additional sanctions are appropriate. 
+
+                                                  
+
+                                               IV. 
+
+        In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in the Offer. 
+ 
+       Accordingly, pursuant to Section 21C of the Exchange Act, it is hereby ORDERED that: 
+ 
+       A.      Petrovich cease and desist from committing or causing any violations and any future 
+violations of Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 12b-20, 
+13a-1 and 13a-13 thereunder. 
+
+ 
+       By the Commission. 
+ 
+ 
+                                                     Brent J. Fields 
+                                                     Secretary 
+ 
+
+                                                                                                    
+                                                 9 

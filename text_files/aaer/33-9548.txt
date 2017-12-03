@@ -1,0 +1,1140 @@
+---------------------Page 1---------------------
+
+                          UNITED STATES OF AMERICA 
+                                    Before the 
+                  SECURITIES AND EXCHANGE COMMISSION 
+ 
+ 
+SECURITIES ACT OF 1933 
+Release No. 9548 / February 12, 2014 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 71546 / February 12, 2014 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3535 / February 12, 2014 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-15750 
+  
+                                          ORDER INSTITUTING CEASE-AND-
+In the Matter of                          DESIST PROCEEDINGS PURSUANT TO 
+                                          SECTION 8A OF THE SECURITIES ACT 
+      Apple REIT Six, Inc.; Apple         OF 1933 AND SECTION 21C OF THE 
+      REIT Seven, Inc.; Apple             SECURITIES EXCHANGE ACT OF 1934, 
+      REIT Eight, Inc.; Apple             MAKING FINDINGS, IMPOSING CIVIL 
+      REIT Nine, Inc.; Apple Six          PENALTIES AND A CEASE     -AND-DESIST 
+      Advisors, Inc.; Apple Seven         ORDER  
+      Advisors, Inc.; Apple Eight 
+      Advisors, Inc.; Apple Nine 
+      Advisors, Inc.; Glade M. 
+      Knight; and Bryan F. Peery, 
+      CPA, 
+ 
+Respondents. 
+ 
+                                             
+                                        I. 
+ 
+      The Securities and Exchange Commission (Commission) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act 
+of 1933 (Securities Act) and Section 21C of the Securities Exchange Act of 1934 (Exchange 
+Act), against Apple REIT Six, Inc. (AR6) , Apple REIT Seven, Inc. (AR7), Apple REIT 
+Eight, Inc. (AR8), Apple REIT Nine, Inc. (AR9), Apple Six Advisors, Inc. (A6A), Apple 
+Seven Advisors, Inc. (A7A), Apple Eight Advisors, Inc. (A8A), Apple Nine Advisors, Inc. 
+(A9A), Glade M. Knight, and Bryan F. Peery (Respondents).   
+                                          
+---------------------Page 2---------------------
+
+                                               II. 
+
+       In anticipation of the institution of these proceedings, each Respondent has submitted an 
+Offer of Settlement (Offers) which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the findings 
+herein, except as to the Commissions jurisdiction over them and the subject matter of these 
+proceedings, which are admitted, Respondents consent to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of 
+the Securities Exchange Act of 1934, Making Findings, Imposing Civil Penalties and a Cease-and-
+Desist Order (Order), as set forth below.     
+
+                                               III. 
+ 
+       On the basis of this Order and Respondents  Offers, the Commission finds 1
+                                                                                   that:  
+ 
+                                          SUMMARY 
+
+       1.      This matter involves disclosure and internal controls failures relating to valuation, 
+related party transactions, and executive compensation by four non-traded real estate investment 
+trusts (REITs)  AR6, AR7, AR8, AR9 (collectively the   Apple REITs)  their respective 
+advisers, their Chief Executive Officer (CEO) and Chairman of the Boards of Directors, Glade 
+M. Knight (Knight), and their Chief Financial Officer (CFO), Bryan F. Peery (Peery).   
+
+       2.      AR6, AR7, and AR8 made material misrepresentations and omissions concerning 
+the valuation of their units in their Form S-3 dividend reinvestment plan (DRIP) registration 
+statements and in certain Forms 10-K.  The Apple REITs each   initially sold units  in blind pool 
+offerings at, according to public disclosures, an arbitrarily established offering price of $11.00 per 
+unit.  After the close of the initial offerings, each of the Apple REITs instituted a DRIP program 
+wherein existing unitholders could reinvest their distributions in lieu of receiving cash.  Internal 
+Revenue Service (IRS) rules require that REITs sell their DRIP units at a reasonably accurate 
+fair market value so that unitholders reinvesting dividends receive equivalent value to the cash 
+dividend.  In an effort to comply with the IRS framework, the Apple REITs, in language drafted by 
+outside counsel, represented to unitholders in the DRIP registration statements that the DRIP unit 
+price [would] be based on the fair market value of [the REITs] units as of the reinvestment date 
+as determined in good faith by [their] board[s] of directors from time to time.  Although the 
+Forms S-3 disclosed that the per unit price for the plan will be determined at all times based on 
+the most recent price at which an unrelated person has purchased our units, the Forms S-3 failed 
+to disclose that the $11.00 unit price was not based on an appraisal of the Apple REITs assets or 
+other valuation methodology.  The Forms S-3 also failed to disclose that, in contrast to an actively 
+traded market, the price last paid for a DRIP share by an unrelated person in the context of a non-
+traded REIT did not reflect a meaningful estimate of the underlying or realizable value of the units.   
+Relying in part on DRIP sales and redemptions at $11.00, the Apple REITs also represented in 
+
+                                                 
+1
+ The findings herein are made pursuant to Respondents Offers and are not binding on any other person or 
+entity in this or any other proceeding.   
+                                                2  
+---------------------Page 3---------------------
+
+Forms 10-K until 2011 that [t]he per share estimated market value of common stock is deemed to 
+be the offering price of the shares, which currently is $11.00 per share without disclosing that 
+$11.00 did not reflect a meaningful estimate of the underlying value of the units.    
+
+       3.     Additionally, AR6, AR7, and AR8 failed to devise and maintain sufficient 
+disclosure controls and procedures to meaningfully evaluate whether changes in market conditions 
+or other factors required changes to their valuation disclosures.  Consequently, despite receiving 
+internal and third-party analyses  indicating a value below $11.00 per unit and despite significant 
+decreases in operating performance, AR6, AR7, and AR8 collectively sold more than 25 million 
+DRIP units following the 2008 global financial crisis while maintaining that the arbitrarily 
+established initial offering price of $11.00 constituted the fair market value of their DRIP units in 
+their Forms S-3 and the estimated market value of their units in their Forms 10-K.   
+
+       4.     The Apple REITs also   failed to disclose numerous related party transactions 
+involving short-term transfers between REITs to meet cash needs and commercial loans personally 
+guaranteed by Knight between 2008 and 2011  .  As part of their business model, the Apple REITs 
+historically have maintained little cash on hand, relying on cash flows from operations and, as 
+necessary, credit facilities.  However, rather than obtaining additional commercial credit or 
+requesting funds from the third-party management companies contained in the operating bank 
+accounts of hotels, Apple REIT management engaged in approximately 25 short-term cash  
+transfers between the Apple REITs  which  at all times were separate companies with separate 
+boards of directors and separate unitholders.  The short-term cash transfers typically were repaid 
+within a few days, ranged in amounts from $25,000 to $20 million, and were used to, among other 
+things, fund acquisitions, distributions and redemptions, and to cover clearing checks and debt .  
+Further, Knight personally guaranteed several short-term commercial loans to the Apple REITs, 
+some of which were used to fund shareholder redemptions.  Neither the short -term transfers nor the 
+fact of Knights personal guarantee was disclosed to unitholders. 
+
+       5.     The Apple REITs further failed to disclose significant compensation paid by the 
+advisers and Knight to their executive officers between 2008 and 2010.  Specifically, the Apple 
+REIT advisers, which at all relevant times were private companies wholly owned by Knight, paid 
+undisclosed supplemental compensation out of funds belonging to the advisers to certain executive 
+officers for work they performed for the REITs.  Knight also sold the economic benefits associated 
+with Series B convertible shares issued to Knight to certain executive officers, including Peery, to 
+supplement their compensation, which was not disclosed to unitholders.  The undisclosed related 
+party transactions and undisclosed supplemental compensation contradicted affirmative disclosures 
+to unitholders  including representations that the independent directors would affirmatively 
+approve transactions between the REITs and their affiliates  and  demonstrated insufficient 
+internal controls.    
+
+                                       RESPONDENTS 
+
+       6.     Apple REIT Six, Inc. (AR6), at all times relevant herein, was a non-traded 
+REIT organized under the laws of Virginia with a class of securities registered under Section 12(g) 
+of the Exchange Act and wa s subject to the reporting requirements of Section 13(a) of the 
+Exchange Act.  AR6 owned 66 hotels operating in 18 states as of December 31, 2012.  AR6 raised 
+                                               3  
+---------------------Page 4---------------------
+
+approximately $1 billion between January 2004 and March 2006, and had approximately 19,500 
+beneficial unitholders as of February 15, 2013.  AR6 instituted a DRIP by filing a  Form S-3 
+registration statement on February 10, 2006, which it amended and restated on May 14, 2009.  As 
+of December 31, 2012, AR6 had sold a total of approximately 18.4 million units representing 
+$202.1 million in proceeds pursuant to these DRIP offerings.  AR6 merged with an unrelated entity 
+on May 14, 2013.  In connection with the merger, each AR6 share was exchanged for $9.20 in cash 
+and one share of redeemable preferred stock of the unrelated entity with a n initial liquidation 
+preference of $1.90. 
+
+       7.     Apple REIT Seven, Inc. (AR7), is a non-traded REIT organized under the laws 
+of Virginia with a class of securities registered under Section 12(g) of the Exchange Act and is 
+subject to the reporting requirements of Section 13(a) of the Exchange Act.  AR7 owned 51 hotels 
+operating in 18 states as of December 31, 2012.  AR7 raised approximately $1 billion between 
+May 2005 and July 2007, and had approximately 19,800 beneficial unitholders as of February 28, 
+2013.  AR7 instituted a DRIP by filing a Form S-3 registration statement on July 17, 2007, which it 
+amended and restated on January 13, 2012.   As of December 31, 2012, AR7 had sold 
+approximately 11.3 million units representing approximately $124.5 million in proceeds pursuant 
+to these DRIP offerings.  
+
+       8.     Apple REIT Eight, Inc. (AR8), is a non-traded REIT organized under the laws 
+of Virginia with a class of securities registered under Section 12(g) of the Exchange Act and is 
+subject to the reporting requirements of Section 13(a) of the Exchange Act.  AR8 owned 51 hotels 
+operating in 19 states as of December 31, 2012.  AR8 raised approximately $1 billion between 
+January 2007 and April 2008, and had approximately 19,700 beneficial unitholders of February 28, 
+2013.  AR8 instituted a DRIP by filing a Form S-3 registration statement on April 23, 2008; it filed 
+a post-effective amendment thereto on February 19, 2013.  As of December 31, 2012, AR8 had 
+sold approximately 9.1 million units representing approximately $99.9 million in proceeds 
+pursuant to these DRIP offerings.  
+
+       9.     Apple REIT Nine, Inc. (AR9), is a non-traded REIT organized under the laws 
+of Virginia with a class of securities registered under Section 12(g) of the Exchange Act and is 
+subject to the reporting requirements of Section 13(a) of the Exchange Act.  AR9 owned 89 hotels 
+operating in 27 states as of December 31, 2012.  AR9 raised approximately $2 billion between 
+November 2007 and December 2010, and had approximately 38,100 beneficial unitholders   as of 
+February 28, 2013.  AR9 instituted a DRIP by filing a Form S-3 registration statement on 
+December 10, 2010; it filed a post-effective amendment thereto on February 19, 2013. 
+
+       10.    Apple Six Advisors, Inc. (A6A), a Virginia corporation wholly owned by Glade 
+M. Knight was  the adviser to AR6 at all times relevant herein.  The advisory agreement required 
+A6A to provide, inter alia, day-to-day management services to AR6 and provides for an annual 
+asset management fee ranging from 0.1 to 0.25% of the amount raised in the offering.  
+
+       11.    Apple Seven Advisors, Inc. (A7A), a Virginia corporation wholly owned by 
+Glade M. Knight, is the adviser to AR7.  The advisory agreement requires A7A to provide, inter 
+alia, day-to-day management services to AR7 and provides for an annual asset management fee 
+ranging from 0.1 to 0.25% of the amount raised in the offering.  
+                                              4  
+---------------------Page 5---------------------
+
+       12.    Apple Eight Advisors, Inc. (A8A), a Virginia corporation wholly owned by 
+Glade M. Knight, is the adviser to AR8.  The advisory agreement requires A8A to provide, inter 
+alia, day-to-day management services to AR8 and provides for an annual asset management fee 
+ranging from 0.1 to 0.25% of the amount raised in the offering.  
+
+       13.    Apple Nine Advisors, Inc. (A9A), a Virginia corporation wholly owned by 
+Glade M. Knight, is the adviser to AR9.  The advisory agreement requires A9A to provide, inter 
+alia, day-to-day management services to AR9 and provides for an annual asset management fee 
+ranging from 0.1 to 0.25% of the amount raised in the offering.  
+
+       14.    Glade M. Knight (Knight), age 69, of Midlothian, Virginia, was the   founder, 
+Chairman of the Board and Chief Executive Officer of AR6, and is the founder, Chairman of the 
+Board and Chief Executive Officer of AR7, AR8, and AR9.  Knight    reviewed and signed  the 
+relevant Forms S-3, 10-Q, and 10-K, which incorporate by reference, in part, the proxy statements.  
+Knight also certified pursuant to Exchange Act Rule 13a-14 the relevant Forms 10-Q and 10-K. 2
+                                                                                                  
+
+       15.    Bryan F. Peery (Peery), age 49, of Mechanicsville, Virginia, served  as 
+Executive Vice President and Chief Financial Officer (CFO) of AR6, and serves as the 
+Executive Vice President and CFO of AR7, AR8, and AR9.  Peery also    was an officer of A6A , and 
+is an officer of A7A, A8A, and A9A.   Peery is a c ertified public a ccountant licensed in Virginia.  
+Peery reviewed and signed the relevant Forms S-3, 10-Q, and 10-K, which incorporate by 
+reference, in part, the proxy statements.  Peery also certified pursuant to Exchange Act Rule 13a-14 
+the relevant Forms 10-Q and 10-K. 
+
+                                    RELEVANT ENTITY 
+
+       16.    Apple Fund Management, LLC (AFM), a wholly owned subsidiary of AR6 
+during the relevant time period, was an entity utilized by the advisers, which have no employees, to 
+provide the management services, including the executive officers, required by the advisory 
+contracts to, inter alia            , AR6, AR7, AR8, and AR9.  Previously, AFM was a subsidiary of Apple 
+Hospitality Five, Inc. (AH5).  After AH5 merged with a third party in 2007, the board of 
+directors transferred AFM to AR6. 
+
+                                            FACTS 
+
+A.     Background 
+
+       17.    The Apple REITs are non-traded REITs that, during the relevant period, primarily 
+owned full service, limited service, and extended stay hotels.  As REITs, they are not subject to 
+federal corporate income taxation as long as they meet certain requirements such as the distribution 
+of at least 90% of their taxable income annually to unitholders in dividends.  The Apple REITs 
+have a class of securities registered under Section 12(g) of the Exchange Act and are subject to the 
+                                                 
+2
+ In 1976, the Commission settled an action, SEC v. Goodman Securities Corp., et al., CA 76-0007-R (E.D. Va. 
+1976), involving Knight and others for alleged disclosure violations in connection with a real estate limited 
+partnership offering.  See also In the Matter of Glade M. Knight, et al.                                    , Admin. Proc. File 35138, Release No. 13087 
+(Dec. 21, 1976). 
+                                               5  
+---------------------Page 6---------------------
+
+reporting requirements of Section 13(a) of the Exchange Act, but their units are not publicly 
+traded, and generally are considered illiquid.  The Apple REITs represent to unitholders that, 
+although there can be no assurance that this event will occur, they expect that within 
+approximately seven years from the initial closing they will execute a liquidity event such as 
+causing the common shares to be listed on a national securities exchange or merging with a REIT 
+or similar investment vehicle.   
+
+       18.     Each of the Apple REITs is a separate reporting company with separate unitholders  .  
+However, by virtue of the advisers reliance on AFM, a wholly owned subsidiary of AR6, to 
+provide employees and management services to the Apple REITs, the Apple REITs share common 
+corporate management.  Third-party management companies manage the day-to-day operations of 
+the hotels under the supervision of the advisory companies.    
+
+       19.     The Apple REITs were    sold through their exclusive selling agent, as best efforts, 
+blind pool offerings at an offering price of $11.00 per share.3
+                                                              The Form S-11 registration 
+statements represented that the per-unit offering prices have been established arbitrarily  and 
+may not reflect the true value of the [u]nits; therefore, investors may be paying more for a [u]nit 
+than the [u]nit is actually worth.  Except for limited redemption programs, there is no public 
+market for the Apple REITs.   
+
+       20.     Pursuant to redemption programs, unitholders  of AR6, AR7, AR8, and AR9 who 
+had held their shares for at least one year were permitted to request unit redemptions on a quarterly 
+basis.  Pursuant to SEC guidance concerning tender offers, no more than 5%   of the weighted 
+average number of units outstanding could  be redeemed during any 12-month period.  If 
+shareholder requests exceeded the number of shares that were authorized to be redeemed during 
+any quarter, the Apple REITs redeemed on a pro rata basis.   
+
+       21.     Following the close of their initial offerings, the Apple REITs each instituted a 
+DRIP wherein they each sold DRIP units on a monthly basis during the relevant period.  4
+                                                                                          The 
+Apple REITs primarily  used the DRIP proceeds to redeem units under their limited unit 
+redemption programs.  Under the terms of the unit redemption programs, the number of units 
+redeemed could not  exceed the aggregate net proceeds received from DRIP sales and the additional 
+share option program.          
+
+       22.     Between at least 2008 and 2012, the Apple REITs each paid between 7% and 8% in 
+distributions (which generally included a component of return of capital), with the exception of 
+AR8, which lowered its distribution to 5% in June of 2011.  The Apple REITs generally have paid 
+more in distributions than they generated in cash from operations.  The Apple REITs disclosed in 
+their Form S-11 registration statements that, although they generally seek to make distributions 
+
+                                                 
+3
+ Units are initially sold at $10.50 per share until the minimum offering is complete.   
+4
+ The Apple REITs DRIPs were continuous offerings during the relevant period.  However,  AR6 suspended its 
+DRIP in November 2012 upon execution of its merger agreement with an unrelated third party according to public 
+filings.  AR7, AR8, and AR9 also suspended their DRIPs and redemptions on or about June 27, 2013 in connection 
+with the evaluation of a potential consolidation transaction in which AR7, AR8 and AR9 would be combined 
+according to a Form 8-K filed on June 27, 2013.  
+                                                6  
+---------------------Page 7---------------------
+
+from operating revenues, they may pay distributions in part from financing proceeds or other 
+sources, including offering proceeds.   
+
+B.     Misstatements and Omissions Concerning Valuation  
+
+       23.     During the relevant period, AR6, AR7, and AR8 made material     misstatements and 
+omissions concerning valuation in their Form S-3 DRIP registration statements and in certain of 
+their Forms 10-K. 5
+                    Additionally, the Apple REITs did not have sufficient controls  in place to 
+meaningfully evaluate whether changes in market conditions or other factors required changes to 
+their valuation disclosures in their Forms S-3 and Forms 10-K. 
+
+       24.     Item 5 of Form S-3 requires registrants to include a description pursuant to Item 
+505 of Regulation S-K of the various factors considered in determining [the] offering price 
+where common equity is being registered for which there is no established public trading market. 
+Item 5 of Form 10-K requires registrants to furnish pursuant to Item 201 of Regulation S-K certain 
+high and low bid information if the principal United States market is not an exchange and to 
+qualify such quotations with an appropriate explanation [w]here there is an absence of an 
+established public trading market.       
+
+       25.     In a section titled, How are unit prices determined?                 , the Apple REITs initial 
+Forms S-3 registration statements, as drafted by outside counsel, represented that:6
+                                                                                    
+ 
+                    The price of units purchased under the plan directly from 
+               us by dividend reinvestments will be based on the fair market 
+               value of our units as of the reinvestment date as determined in 
+               good faith by our board of directors from time to time.  
+                    Our units are not publicly traded; consequently, there is no 
+               established public trading market for our units on which we could 
+               readily rely in determining fair market value . Nevertheless, the 
+               board has determined that, for purposes of this plan, at any given 
+               time the most recent price at which an unrelated person has 
+               purchased our units represents the fair market value                     of our units. 
+               Consequently, unless and until the board decides to use a different 
+               method for determining the fair market value  of our units, the 
+               per unit price for the plan will be determined at all times based on 
+               the most recent price at which an unrelated person has purchased 
+               our units. Notwithstanding the foregoing, the board of directors                                              may 
+               determine a different fair market value and price for our units for 
+               purposes of this plan if (1) in the good faith judgment of the board 
+
+                                                 
+5
+ Although AR9 made substantially similar representations in its DRIP plan filed on December 10, 2010, AR9 did 
+not have the same type of operating history available and rarely was included in the internal and third-party strategic 
+planning analyses that contradicted the disclosures at issue.      
+6
+ The Form S-3 filed by AR6 on February 10, 2006, used the term distribution rather than dividend in the first 
+sentence of the disclosure, but it was changed to the above quoted language for AR6s Form S-3 filed on May 14, 
+2009.  
+                                                 7  
+---------------------Page 8---------------------
+
+               an amount of time has elapsed since our units have been purchased 
+               by unrelated persons such that the price paid by such persons would 
+               not be indicative of the fair market value  of our units or (2)  our 
+               board determines that there are other factors relevant to such fair 
+               market value. (emphasis added)      7
+                                                       
+
+       26.     Outside counsel drafted the language at issue in part to comply with certain federal 
+tax requirements prohibiting the deduction of preferential distributions by REITs, which, as 
+disclosed in the Forms S-3, could subject the REIT[s] to federal corporate income taxes which 
+most likely would reduce the after-tax yield on any distributions to shareholders.  The Forms S-3 
+represented that [t]o avoid this result under [the] plan, a reasonably accurate determination of 
+the fair market value of units by [the REITs] board[s] of directors is required. (emphasis 
+added.)   
+
+       27.     Although the Forms S-3 disclosed that the per unit price for the plan will be 
+determined at all times based on the most recent price at which an unrelated person has purchased 
+our units, the disclosures omitted to state that the fair market value of the units was not based on 
+an appraisal of the Apple REITs assets or other valuation methodology.  They also failed to 
+disclose that, in contrast to an actively traded market, the price last paid for a DRIP share by an 
+unrelated person in the context of a non-traded REIT did not reflect a meaningful estimate of the 
+underlying or realizable value of the units.    
+
+       28.     In addition, following the 2008 global financial crisis until the fiscal year ended 
+December 31, 2011, AR6, AR7, and AR8 represented in their Forms 10-K that [t]he per share 
+estimated market value of common stock is deemed to be the offering price of the shares, which 
+currently is $11.00 per share. (emphasis added)  The Forms 10-K further represented that the 
+disclosed estimated market value of $11.00 was supported by the fact that the [REITs are] 
+currently selling shares to the public at a price of $11.00 per share through  Dividend 
+Reinvestment Plan[s].  8
+                          However, the Forms 10- K failed to disclose that $11.00 did not reflect a 
+meaningful estimate of the underlying value of the units.    
+
+       29.     Consequently, AR6, AR7, and AR8 maintained the arbitrarily established initial 
+offering price of $11.00 as the fair market value and the estimated market value of the units 
+following the 2008 global financial crisis despite internal and third-party analyses suggesting that 
+the per unit values of the Apple REITs were below $11.00 and despite declines in operating 
+performance.        
+                                                 
+7
+ AR7 filed an amended and restated Form S-3 on January 13, 2012, which, among other things, disclosed that the 
+market value of [its] units and the unit price of units purchased from [it] under the plan will not be based on an 
+appraisal or other valuation of [AR7], [its] net assets, or the units, and will not necessarily reflect [its] value, earnings, 
+net worth or other measures of value, but rather will be deemed equal to the most recent price at which an unrelated 
+person has purchased our units from [it].  AR7, AR8, and AR9 filed post-effective amendments to their Forms S-3 on 
+February 19, 2013 incorporating substantially similar language.  
+8
+ The Apple REITs stopped using the term estimated market value in Item 5 in their Forms 10 -K for the fiscal year 
+ended December 31, 2011.  Further, in their Forms 10-K for the fiscal year ended December 31, 2012, the Apple 
+REITs disclosed that the $11.00 price (or $10.25 in the case of AR9 due to a  special distribution of $0.75 to 
+unitholders relating to an asset sale on April 27, 2012) [was] not based on an appraisal or valuation of the Company 
+or its assets.   
+                                                  8  
+---------------------Page 9---------------------
+
+Internal and Third-Party Analyses Contradicted AR6, AR7, and AR8s Valuation Disclosures 
+
+       30.     Following the 2008 global financial crisis, Apple REIT management received 
+internal strategic planning analyses between late 2008 and 2011 that contradicted the REITs 
+representations that $11.00 constituted the fair market value of the units in their Form S-3 and 
+the estimated market value of the units in their Forms 10-K.   
+
+       31.     For example, in late 2008, an Apple REIT employee created a basic  model for an 
+executive officer estimating AR6, AR7, and AR8s performance over a five year period.  The 
+model was linked directly to the accounting system, was updated regularly through at least mid-
+2011 and was distributed to certain members of management.  Alt  hough the primary purpose of the 
+model related to evaluating future cash flow performance, the model included an estimated market 
+value section calculating the REITs enterprise, equity and per share values.   The estimated market 
+values of the AR6, AR7 and AR8 mostly showed per share values below $11.00.  A      different 
+analysis performed by the same  Apple REIT employee for an executive officer in August 2009 
+showed that, without substantial revenue and FFO 9
+                                                   increases, the per share values of AR6, AR7, 
+and AR8 would be below $11.00. 
+
+       32.     In addition, starting in approximately mid-2009 through mid-2011, several third-
+party investment banks made presentations to Apple REIT management concerning potential 
+strategic options for the Apple REITs.  The estimated valuations included in these presentations 
+varied and were not a static $11.00 per unit for AR6, AR7, and AR8 as represented in their Forms 
+S-3 and Forms 10-K.  Some of the per-unit valuations were below $11.00 for AR6 and most of the 
+per unit valuation estimates were below $11.00 for AR7 and AR8.   
+
+AR6, AR7, and AR8s Economic Performance Contradicted the Valuation Disclosures  
+
+       33.     AR6, AR7, and AR8s operating performance following the 2008 global financial 
+crisis also  should have caused the Apple REITs to amend their disclosure of $11.00 as a fair 
+market value and estimated market value of units.  AR6, AR7, and AR8s net incomes declined 
+more than 40% in 2009 as compared to 2008, and remain   ed below 2008 levels through at least 
+December 31, 2012.   
+
+       34.     Further, given the up-front fees and ramp up periods10
+                                                                     for the properties, Apple 
+REIT management knew that growth would be required to reach a fair market value of $11.00 per 
+share, and further knew or should have known that the economic performance of the REITs 
+between 2009 and at least 2011 fell short of that growth level.   
+
+       35.     AR6, AR7, and AR8 also increased their debt levels between 2008 and 2012.  
+Increased debt levels may affect the Apple REITs valuations because any debt incurred by the 
+                                                 
+9
+ FFO, or Funds From Operations, is defined by the National Association of Real Estate Investment Trusts as net 
+income (computed in accordance with GAAP), excluding gains/losses on sales of depreciable property, plus 
+depreciation and amortization of real property used in operations, less preferred dividends and after adjustments for 
+unconsolidated partnerships and joint ventures. 
+10
+  Ramp up period is a term used by the REITs management to describe the 6 to 24-month period following 
+initial property purchase or construction needed to position the property to reach the expected level of return 
+through, for example, improved management or improved marketing .                                  
+                                                9  
+---------------------Page 10---------------------
+
+REITs must eventually be repaid, thereby reducing the equity available for distribution to 
+unitholders in connection with a liquidity event.  AR6, AR7, and AR8 nonetheless never adjusted 
+the $11.00 per unit valuation disclosures. 
+
+Failure to Implement Sufficient Processes or Procedures to Evaluate the Valuation Disclosures  
+
+       36.    Despite the representation in the Forms S-3 that the Apple REITs boards of 
+directors would determine in good faith   the fair market value of the DRIP units from time-to-time, 
+the Apple REITs failed to develop or maintain sufficient procedures relating to the disclosure of 
+the valuation of units sold in the DRIPs.  The Apple REITs did not establish a valuation committee 
+or valuation working group.  Nor did they establish any formal or informal valuation guidelines or 
+otherwise attempt to identify relevant factors for determining fair market value.  Further, 
+management did not provide the boards of directors with the contradictory internal valuations 
+discussed in paragraph 31 or the contradictory third-party valuations for consideration in 
+determining fair market value.  
+
+       37.    Consideration of the fair market value of the units for purposes of the DRIP was not 
+included as a formal agenda item for board meetings.  Although the directors periodically 
+discussed the DRIP program during board meetings, a record of substantive discussion concerning 
+DRIP prices at board meetings does not appear in meeting minutes   until February 2012 even 
+though the DRIP programs for AR6, AR7, and AR8 had been in place since 2006, 2007 and 2008, 
+respectively.   That discussion was recorded merely as: There was  a discussion concerning 
+DRIP and redemption pricing.  Those in attendance considered the price currently paid ($11 per 
+unit) to be appropriate and would reconsider if at some point it is warranted.  Rather, the boards of 
+directors operated under the theory that as long as there were DRIP sales, they did not need to 
+reconsider the unit price. 
+
+C.     Undisclosed Related Party Transactions:  Short-Term Transfers Between REITs to 
+       Meet Cash Needs and Commercial Loans Personally Guaranteed by Knight  
+
+       38.    Between 2008 and 2011, the Apple REITs, which were separate companies with 
+separate unitholders and boards of directors at all relevant times, engaged in numerous   undisclosed 
+cash transfers between REITs to meet short-term cash needs and obtained certain commercial loans 
+personally guaranteed by Knight, which were undisclosed.  The Apple REITs executed most of 
+these undisclosed related party transactions without following internal controls described in public 
+filings, including a disclosed policy that such transactions would be approved by an affirmative 
+vote of the independent directors.  Further, although the boards of directors had adopted general 
+borrowing resolutions for each of the REITs, the independent directors did not affirmatively 
+approve the fact of the personal guarantee by Knight or the short-term transfers. 
+
+       39.    Item 7 of Form 10-K and  Item 3 of Form 10-Q both require registrants to identify 
+and separately describe internal and external sources of liquidity pursuant to Item 303 of 
+Regulation S-K, which requires identification of any known demands, commitments, events or 
+uncertainties that will result in or that are reasonably likely to result in the registrants liquidity 
+increasing or decreasing in any material way.  Item 13 of Form 10-K and Item 7 of Schedule 14A 
+both require registrants to describe any transaction  in which the registrant was or is to be a 
+                                              10   
+---------------------Page 11---------------------
+
+participant and the amount involve  d exceeds $120,000, and in which any related person had or will 
+have a direct or indirect material interest,11
+                                               and to disclose the registrants policies and 
+procedures for the review, approval, or ratification  of such related party transactions pursuant to 
+Item 404 Regulation S-K.  Accounting Standards Codification Topic 850- 10 (hereinafter ASC 
+850-10), Related Party Disclosures,   12
+                                         requires the disclosure of material related party transactions 
+in the financial statements, even if no or nominal amounts were ascribed thereto.    13
+                                                                                        Additionally, 
+the Commission issued a statement in January 2002 providing that registrants should include a 
+discussion of material related party transactions in their Managements Discussion and Analysis of 
+Financial Condition and Results of Operations (MD&A).   
+
+Undisclosed Cash Transfers Between REITs To        Meet Short-Term Cash Needs 
+
+        40.     As part of their business model, the Apple REITs historically have maintained little 
+cash on hand, relying on cash flows from operations and, as necessary, credit facilities.  On 
+approximately 25 occasions between 2008 and 2011, rather than obtaining additional commercial 
+credit or attempting to obtain funds  from the third-party management companies contained in the 
+operating bank accounts of hotels, Peery, in consultation with other members of management, 
+effectuated or authorized undisclosed, short-term cash transfers between REITs  which are 
+separate companies with separate unitholders  to meet short-term cash needs     .  The  transfers at 
+issue ranged between $25,000 and $20 million.    14
+                                                     The borrowing REIT typically repaid the 
+transfer within a few days, and used the assets in connection with property acquisitions, 
+redemptions and distributions, and to cover clearing checks and debt    .  The Apple REITs records 
+lacked sufficient detail to determine the business purpose of certain of the transfers.   
+
+        41.     The Apple REITs recorded the transfers between the separate companies in 
+intercompany accounts as opposed to as payables and receivables, and, except for one of the       
+largest transfers, did not execute loan documentation or, except for the  two largest transfers, did 
+not charge interest.  In addition, the Apple REITs failed to record four of the transfers in their 
+general ledgers.  The Apple REITs also failed to disclose as a source of liquidity pursuant to Item 
+303 that they adopted a cash management policy in 2011 providing for transfers up to $1 million 
+between REITs to cover, among other things, unanticipated cash need[s].     
+                                                 
+11
+  The Instructions to Item 404(a) define related person to include any director or executive officer of the 
+registrant.  Transaction is defined to include any financial transactions, arrangement, or relationship (including any 
+indebtedness or guarantee of indebtedness) or any series of similar transactions, arrangements or relationships.  
+Under Item 404(a), a related persons indirect material interest in a firm, corporation, or other entity engaging in a 
+transaction with the registrant may require disclosure of certain details concerning the transaction.   
+12
+  ASC 850-10 formerly was Statement of Financial Accounting Standards (SFAS) No. 57 prior to the September 
+2009 codification.  
+13
+  ASC 850-10 defines affiliates as related parties, and provides that similar related party transactions may be 
+aggregated by type.  Affiliate is defined as [a] party that, directly or indirectly through one or more intermediaries, 
+controls, is controlled by, or is under common control with an entity.  Related Party is defined to include [o]ther 
+parties that can significantly influence the management or operating policies of the transacting parties. 
+14
+  The $20 million transfer, which was largest of the undisclosed transfers at issue, involved a situation in which 
+AR8 purchased a $100 million Certificate of Deposit (CD), but subsequently identified properties for 
+acquisition.  The closing date for some of the properties was scheduled before the maturity of the CD.   Rather than 
+seeking an early withdrawal from AR8s CD, Peery, in consultation with others in management, transferred $20 
+million from AR9 to AR8, which AR8 repaid with interest in the amount matching that earned in the CD 
+approximately one month later.  
+                                                   11   
+---------------------Page 12---------------------
+
+       42.     The majority of the transactions at issue exceeded the $120,000 Item 404 disclosure 
+threshold, even before aggregating similar transactions.15
+                                                           Further,  the practice of making periodic 
+short-term transfers between the REITs to meet cash needs was material due to qualitative factors 
+and required to be disclosed because it facilitated their business practice of maintaining little cash 
+on hand during the relevant period.  For example, the related party nature of the  relationship 
+between the REITs was important    to this cash management tool because common management 
+controlled all the relevant bank accounts and could make book transfers between REITs following 
+which the transferred funds were immediately available for use .  Additionally, unlike in connection 
+with borrowing on commercial credit lines, no advance notice was needed to execute transfers 
+between REITs.  However, Peery treated these transactions as immaterial for disclosure purposes 
+because, among other reasons, they typically were repaid within a few days.  
+
+Undisclosed Loans Personally Guaranteed by Knight 
+
+       43.     Between 2009 and 2010, Knight personally guaranteed, and provided personal 
+assets as collateral for, four short-term commercial loans and lines of credit to AR6 and AR7: $10 
+million in July 2009 to AR6; $2 million in April 2010 to AR6; $2 million in April 2010 to AR7; 
+and $9 million in July 2010 to AR7.  With the exception of the $9 million loan to AR7, neither the 
+loans nor the personal guarantees were disclosed to unitholders as required by ASC 850-10 and 
+Items 303 and 404 of Regulation S-K.  Although the $9 million loan was disclosed, Knights 
+personal guarantee was not disclosed.  Peery and others were aware of these loans.  
+                                                                                     
+
+       44.     AR6 and AR7 obtained these personally guaranteed loans and lines of credit in part 
+to fund redemption payments during periods when the Apple REITs had borrowed the maximum 
+available on their existing lines of credit.  Knight received no compensation or other benefit in 
+exchange for his personal guarantee.  
+
+The Short-Term Transfers and Personally Guaranteed Loans at Issue Contradicted Internal 
+Controls and Affirmative Disclosures to Unitholders   
+
+       45.     The undisclosed short -term cash transfers between REITs and  the undisclosed 
+personally guaranteed loans, contradicted several affirmative disclosures and internal controls set 
+forth in the Apple REITs public disclosures.   
+
+       46.     The Forms S-11 represented that it was the Apple REITs policy not to sell, 
+transfer or lend assets or property to any of [their] affiliates nor to purchase, borrow, or 
+otherwise acquire assets or property from any of [their] affiliates unless the transactions were 
+approved by an affirmative vote of the majority of independent directors.  The Apple REITs  
+bylaws, which are exhibits to numerous public filings, contained similar language. 16
+                                                                                      Although the 
+                                                 
+15
+  The Apple REITs amended their Form 10-K disclosures for the fiscal year ended December 31, 2010 to include 
+that the individual companies may make payments for any or all of the related companies in order [t]o efficiently 
+manage cash disbursements and that [t]he amounts due to or from the related individual companies are reimbursed 
+or collected and are not significant in amount.   However, these amended disclosures failed to accurately 
+characterize the nature, frequency and purpose of the transfers between REITs.  Additionally, s ome of the 2010 cash 
+transfers exceeded Item 404s $120,000 disclosure threshold, even before aggregating similar transactions. 
+16
+  AR8 and AR9s Forms S-11 also represented that a majority of disinterested directors would approve any material 
+agreement or arrangement between, or transactions involving the Apple REITs and their affiliates, and that the 
+                                                 12   
+---------------------Page 13---------------------
+
+boards of directors had adopted general borrowing resolutions for each REIT, management failed 
+to seek the affirmative approval of the independent directors for all but one of the undisclosed 
+short-term transfers and personally guaranteed loans at issue.   
+
+        47.     Some of the undisclosed transfers between REITs also were inconsistent with       
+representations to unitholders concerning the use of proceeds.  Neither the Forms S-11 nor the 
+Forms S-3, which specifically set forth the use of proceeds, disclosed the possibility that a REIT 
+might use investor assets to make loans to affiliates.17
+                                                          The Forms S -11 also represented that [t]he 
+proceeds of [the] offering [would] be received and held in trust for the benefit of the investors in 
+compliance with applicable securities laws, to be used only for the purposes set forth in [the] 
+prospectus.   Additionally, the Forms S-11 stated that the Apple REITs expect[ed] borrowings to 
+come from third party, non-affiliated lenders, and that they had no current plan or intention to 
+make loans to other persons or entities.  18
+                                               
+
+        48.     The advisory agreements provided that     either the REITs paid directly or the 
+advisers paid and sought reimbursement for certain enumerated expenses on behalf of the Apple 
+REITs, such as distributions to unitholders , interest expense, and all costs of personnel.  The 
+advisory agreements also required the   advisers to prepare statements documenting any such 
+reimbursable expenses within 45 days and required     the Apple REITs to reimburse the advisers 
+within 60 days after the end of the quarter.  Here, rather than following the procedures outlined in 
+the advisory agreements, Peery authorized and/or transferr   ed funds directly between the Apple 
+REITs in varying amounts and at varying intervals as cash needs arose.  In addition, 
+notwithstanding their actual cash management practices, AR6, AR7, AR8, AR9 misrepresented 
+that the expense reimbursements flowed from the Apple REITs to their advisers consistent with the 
+advisory agreements in their Forms 10-K for 2008 and 2009 and in their proxies filed in 2008, 
+2009, and 2010.  19
+                       
+
+D.     Undisclosed Compensation Arrangements  
+
+        49.     AR6, AR7, AR8 and AR9 failed to disclose material compensation arrangements in 
+their Forms 10-K for 2008, 2009, and 2010, and in their Schedule 14A proxy statements, including 
+those filed in April 2011 in which they solicited nonbinding advisory votes approving executive 
+compensation (i.e., say-on-pay votes). 
+
+                                                                                                                                                             
+officers, directors and employees were required to report to the board related party transactions where the amount 
+exceeded $120,000. 
+17
+  The Forms S-11 represented that the proceeds of the offering would be used to pay organization expenses, to 
+repay any outstanding balance on the Apple REITs lines of credit, to pay expenses and fees of selling the units , to 
+invest in properties, to pay expenses associated with acquisition properties, and to establish a working capital 
+reserve.  The Form S -3 registration statements provided that the REITs expected to use the proceeds from DRIP 
+sales for general corporate purposes which may include redeeming units, enhancing properties, satisfying financing 
+obligations and other expenses, increasing working capital, funding various corporate operations, and acquiring 
+hotels or other properties. 
+18
+  The Forms S-11 represented that the unitholders were entitled to rely on the fiduciary duties of the advisers and 
+similar duties of officers to provide substantial protection for unitholders interests. 
+19
+  The Apple REITs Form 10-K disclosures continued to be materially misleading in 2010 and 2011 because they 
+state that expenses were reimbursed by the advisers to AR6 (as the owner of AFM) or paid directly to AR6 on behalf 
+of the advisers when they knew or should have known that the payments were always made directly between REITs.  
+                                                  13   
+---------------------Page 14---------------------
+
+         50.     Item 11 of Form 10-K and Item 8 of Schedule 14A       20
+                                                                          both require that registrants 
+ furnish the information required by Item 402 of Regulation S-K, including clear, concise and 
+ understandable disclosure of all plan and non-plan compensation awarded to, earned by, or paid to 
+ the named executive officers  by any person for all services rendered in all capacities to the 
+ registrant and its subsidiaries, including compensation involving transactions between the 
+ registrant and a third party where a purpose of the transaction is to furnish compensation to any 
+ such named executive officer or director.    
+
+ Failure to Disclose Payments from the Advisers to the Apple REITs Officers 
+
+         51.     Knight, the 100% owner of the advisers to the Apple REITs, entered into written 
+ agreements with four executive officers, including Peery (    as to A8A and A9A only) to share 
+ profits earned by the advisers.  Although the supplemental compensation was paid from the assets 
+ of the advisers, and  although the Apple REITs disclosed the advisory fees from which the 
+ payments to executive officers were made, they failed to disclose the profit-sharing agreement in 
+ their Forms 10-K for the fiscal years ended December 31, 2008, 2009, and 2010, or in the proxy 
+ statements incorporated by reference therein, thereby materially understating the compensation 
+ paid to executive officers.   
+
+         52.     The total amount of undisclosed compensation paid by the advisers exceeded        the 
+ disclosed compensation for executive officers     by between $85,375 and    $1.197 million per REIT as 
+ presented in the compensation tables in the fiscal years ended December 31, 2008, 2009, and 2010.          
+  
+                 A6                      AR7                       AR8                      AR9 
+                   Undisclosed 
+       Disclosed   Supplemental Disclosed  Undisclosed    Disclosed  Undisclosed   Disclosed   Undisclosed 
+       Compensation   Compensation Compensation   Supplemental Compensation   Supplemental Compensation   Supplemental 
+       Paid by the Paid by the  Paid by the Compensation Paid   Paid by the Compensation Paid   Paid by the Compensation Paid 
+       Apple REITs Advisers     Apple REITs by the Advisers Apple REITs by the Advisers Apple REITs by the Advisers 
+ 2008   $368,611    $1,197,306   $368,611      $732,249   $368,611      $478,622   $368,611        $85,375  
+2009   $476,271      $720,657   $476,271       $493,074   $476,271      $510,397   $476,271       $360,868  
+2010   $468,127      $721,866   $468,127       $488,942   $468,127      $517,407   $468,127       $744,882  
+
+ Failure to Disclose the Sale of Benefits Relating to B Shares from the CEO to Executive Officers 
+ of the Apple REITs 
+
+         53.     AR6, AR7, AR8, and AR9 failed to disclose in the Forms 10-       K and Schedule 14A 
+ proxy statements as required by Item 402 of Regulation S-K that Knight sold the economic 
+ benefits relating to nearly 30% of his Series B convertible preferred shares (B shares) in AR6, 
+ AR7, AR8, and AR9 to certain officers of the Apple REITs       , including Peery, to supplement the 
+ compensation paid to those officers.    
+
+         54.     Depending on its size, each REIT issued between 240,000 and 480,000 B shares to 
+ Knight in his capacity as founder at $0.10 per share.  The B shares are convertible into common 
+
+                                                  
+ 20
+    Schedule 14As requirement to disclose the information required by Item 402  and Item 404 of Regulation S-K 
+ applies if action is to be taken with respect to, among other things, election of directors, which was the case in all the 
+ Apple REITs relevant Schedule 14A filings.   
+                                                    14   
+---------------------Page 15---------------------
+
+shares upon the occurrence of certain events such as a sale or transfer of substantially all of the 
+REITs assets, or a listing on any securities exchange.       
+
+       55.     The executive officers paid $0.10 per share to Knight for the economic benefits 
+associated with the B shares transferred to them.  The interest in the B shares represented 
+compensation for work done for the REITs and their advis  ers that should have been disclosed. 
+
+       56.     Knights sale of benefits relating to the B shares also was inconsistent with 
+affirmative disclosures in each of the Apple REITs Schedule 14A proxy statements that Knight 
+was the 100% owner of those shares, and disclosures in the Forms 10-K that all of the B shares 
+were issued to Knight.      
+
+Misstatements  and Omissions in the Apple REITs Compensation Discussion and Analysis Section 
+of their Proxy Statements 
+
+       57.     Given the fact of undisclosed compensation described above, the Apple REITs also 
+misstated or omitted material information required by Item 402(b) of Regulation S-K from the 
+Compensation Discussion and Analysis section of their proxy statements filed in 2009, 2010, and 
+2011.  Item 402(b) requires a discussion of all material elements of the registrants compensation 
+of the executive officers including information concerning the registrants compensation 
+objectives and rationale.  
+
+       58.     The Apple REITs represent  ed to unitholders, without disclosing the payments to 
+executive officers by the advisers or the B Share sales, that the base salaries and bonuses for the 
+executive officers are designed to be competitive with comparable employers and that the  REITs 
+believe that a simplistic approach to compensation better matches the objectives of all 
+stakeholders.  They also represented that their executive officer compensation targets were 
+developed using comparisons to compensation paid by other public hospitality REITs and that 
+the targets were set sufficiently high to attract and retain a strong and motivated leadership team, 
+but not so high that it creates a negative perception with  other stakeholders.   
+
+E.     Failure to Timely File Forms 3 and Forms 4 
+
+       59.     The directors and executive officers of the Apple REITs were subject to the 
+reporting requirements of Section 16(a) of the Exchange Act, which requires the filing of 
+beneficial ownership forms with the Commission.  Section 16(a) and Rule 16a-3 of the Exchange 
+Act require directors and officers to file initial reports of ownership on Form 3 and changes of 
+ownership on Form 4 with the Commission.    21
+                                               During the relevant period, Glade Knight  failed to 
+timely file one Form 3 and one Form 4  related to AR9 .  Bryan Peery failed to timely file one Form 
+3 relating to AR9.   
+
+                                                 
+21
+  Section 16(a)(2) requires that a reporting person of an issuer that is registering securities for the first time under 
+Section 12 of the Exchange Act must file Form 3 no later than the effective date of the registration statement.  Once 
+the initial report is filed, any changes in holdings must be reported on Form 4 within two business days of the 
+change.  
+                                                15   
+---------------------Page 16---------------------
+
+       60.     In addition, Item 10 of Form 10-K and Item 7 of Schedule 14A both require 
+disclosure of the information required by Item 405 of Regulation S-K, including any reporting 
+violations by insiders in a clearly marked section, the number of late reports, the number of 
+transactions not reported on a timely basis, and any known failure to file a required Form.  Item 
+405 explicitly states that a known failure to file includes a failure to file a Form 3, which is 
+required of all reporting persons.  AR6, AR7, AR8 and AR9 misrepresented in their proxy 
+statements until April 2011 that the Apple REITs executive officers had filed reports with the 
+Commission with respect to their initial ownership of common shares and that the REITs  believed 
+that each of its officers complied with any applicable filing requirements.   
+
+                                        VIOLATIONS 
+
+       61.     In the offer or sale of securities, Section 17(a)(2) of the Securities Act makes it 
+unlawful to obtain money or property by means of any untrue statement of a material fact or any 
+omission to state a material fact necessary in order to make the statements made, in light of the 
+circumstances under which they were made, not misleading; and Section 17(a)(3) proscribes any 
+transaction, practice, or course of business which operates or would operate as a fraud or deceit on 
+the purchaser. Violations of Sections 17(a)(2) and 17(a)(3) may be established by a showing of 
+negligence.   
+
+       62.     Section 13(a) of the Exchange Act requires issuers that have securities registered 
+pursuant to Section 12 of the Exchange Act to file such periodic and other reports as the 
+Commission may prescribe and in conformity with such rules as the Commission may promulgate. 
+Exchange Act Rules 13a-1and 13a-13 require the filing of annual and quarterly reports, 
+respectively.  In addition to the information expressly required to be included in such reports, Rule 
+12b-20 under the Exchange Act requires issuers to add such further material information, if any, as 
+may be necessary to make the required statements, in the light of the circumstances under which 
+they are made, not misleading.  A violation of the reporting provisions is established if a report is 
+shown to contain materially false or misleading information.  No showing of scienter is necessary 
+to establish a violation of Section 13(a).  
+
+       63.     Section 13(b)(2)(A) of the Exchange Act requires issuers to make and keep books, 
+records, and accounts, which, in reasonable detail, accurately and fairly reflect the transactions and 
+dispositions of the assets of the issuer.  Section 13(b)(2)(B) of the Exchange Act requires issuers 
+to devise and maintain a system of internal accounting controls sufficient to provide reasonable 
+assurances that, among other things, transactions are executed in accordance with managements 
+general or specific authorization and that transactions are recorded to permit the preparation of 
+financial statements in conformity with generally accepted accounting principles or any other 
+criteria applicable to such statements and to maintain accountability for assets.  No showing of 
+scienter is required to establish a violation of Section 13(b)(2)(A) or Section 13(b)(2)(B).   
+
+       64.     Exchange Act Rule 13a-14, among other things, requires principal executive 
+officers and principal financial officers to certify in quarterly and annual reports filed under 
+Section 13(a) of the Exchange Act certain information in the form set forth in Item 601(b)(31)(i) of 
+Regulation S-K, including, inter alia, that they have reviewed the reports, that they are responsible 
+
+                                               16   
+---------------------Page 17---------------------
+
+for designing and maintaining certain controls, and that they have designed or caused the design of 
+such controls. 
+
+       65.     Section 14(a) of the Exchange Act requires registrants that solicit any proxy or 
+consent or authorization in connection with any security registered pursuant to Section 12 of the 
+Exchange Act (other than an exempted security) to comply with such rules as the Commission may 
+promulgate.  Exchange Act Rule 14a-9 prohibits the use of proxy statements containing materially 
+false or misleading statements or materially misleading omissions.  No showing of scienter is 
+required to establish a violation of Section 14(a) of the Exchange Act and Rule14a-9 thereunder.  
+
+       66.     Section 16(a) of the Exchange Act and Rule 16a-3 thereunder require, inter alia, 
+timely and accurate filing of Forms 3 and Forms 4 with the Commission.  
+
+       67.     By engaging in the conduct described above relating to valuation, AR6, AR7, and 
+AR8 violated Section 17(a)(2) and Section 17(a)(3) of the Securities Act.   
+
+       68.     By engaging in the conduct described above, AR6, AR7, AR8, and AR9 violated 
+Sections 13(a), 13(b)(2)(A), 13(b)(2)(B), and 14(a) of the Exchange Act and Rules 12b-20, 13a-1, 
+13a-13, and 14a  -9 thereunder. 
+
+       69.     By engaging in the conduct described above, Knight and Peery each  caused AR6, 
+AR7, AR8 and AR9s violations of Sections 13(a), 13(b)(2)(A), 13(b)(2)(B), 14(a) of the 
+Exchange Act and Exchange Act Rules 12b    -20, 13a-1, 13a-13, and 14a  -9 thereunder, and Knight 
+and Peery each violated Section 16(a) of the Exchange Act and Exchange Act Rules 13a-14 and 
+16a-3. 
+
+       70.     By engaging in the conduct described above, A6A, A7A, A8A, and A9A caused, 
+respectively, AR6, AR7, AR8, and AR9s violations of Sections 13(a), 13(b)(2)(A), 13(b)(2)(B), 
+and 14(a) of the Exchange Act and Rules 12b-20, 13a-1, 13a-13, and 14a-9 thereunder. 
+ 
+                                      UNDERTAKINGS 
+
+       Respondents AR7, AR8, AR9,     22
+                                        and their successors, have undertaken to: 
+
+       71.     AR7, AR8, and AR9, and/or their successors,  each will maintain a Disclosure 
+Committee that will be responsible for oversight of disclosures made to their respective securities 
+holders in order to ensure accurate, complete, and timely disclosure of all matters requiring 
+disclosure.  The Disclosure Committee will be chaired by an independent director, and will consist 
+of at least three members and outside counsel.  The D isclosure Committee shall meet no less than 
+quarterly to review the companies disclosure of financial statements, results of operations, and 
+other matters required by the federal securities laws, and shall require all officers and directors to 
+submit annual Officer/Director Questionnaires.  
+                                                 
+22
+  The undertakings required by this Order are not applicable to AR6 due to AR6s May 2013 merger with an 
+unrelated entity.  According to a Form 15 terminating the registration of shares under Section 12(g) of the Exchange 
+Act filed with the Commission on May 14, 2013, AR6 merged into an unrelated entity on  May 14, 2013, at which 
+time the separate corporate existence of AR6 ended.   
+                                               17   
+---------------------Page 18---------------------
+
+       72.    Should AR7, AR8, and AR9, and/or their successors re-establish their DRIPs, AR7, 
+AR8, and AR9, and/or their successors, will hire an Independent Consultant, not unacceptable to 
+the staff of the Commission, to address the determination of fair market value for purposes of their 
+Form S-3 DRIP registration statements, including advising on setting the price for sales thereunder, 
+and other public disclosures.  Should AR7, AR8, and AR9, and/or their successors, re-establish 
+their DRIPs, AR7, AR8, and AR9,   and/or their successors, will maintain a Valuation Committee 
+comprised of independent board members    that will be responsible for the oversight of all valuation 
+issues relating to their respective REITs.  Each of the Valuation Committees will establish and 
+maintain written policies and procedures relating to valuation of the Apple REITs, and will consult 
+with third-party valuation services and/or experts concerning their valuations policies, procedures, 
+and methodologies. 
+
+       73.    The independent members of the Boards of Directors of AR7, AR8, and AR9, or 
+their successors, will have separate counsel and will meet no less than quarterly outside the 
+presence of senior management.  
+
+       74.    AR7, AR8, and AR9, and/or their successors,   will h ire an Independent Consultant, 
+not unacceptable to the staff of the Commission, to evaluate and address: (1) policies, procedures, 
+and internal controls relating to appropriate oversight by the respective Boards of Directors; (2) 
+policies, procedures and internal controls relating to related party transactions; (3) policies, 
+procedures and internal controls relating to executive compensation; (4) policies, procedures , and 
+internal controls relating to public disclosure, including compliance with applicable disclosure 
+requirements; and (5) policies, procedures, and internal controls relating to the oversight of 
+external advisers, to the extent utilized, including, but not limited to, evaluation of compliance with 
+the advisory agreements and evaluation of adviser performance.  The Independent Consultant will 
+review each of the Apple REITs internal accounting, internal controls relating to record-keeping, 
+and regulatory and compliance functions, including, but not limited to, compliance with all of the 
+provisions found to have been violated by this Order.     
+
+       75.    Management shall provide the Audit Committee or other subcommittee of 
+independent directors of AR7, AR8, and AR9, and/or their suc cessors, on a quarterly basis a list of 
+all related party transactions, including, but not limited to, transactions, directly or indirectly, 
+between or among the separate REITs  , the advisers, members of management, board members, or 
+other related parties.  The Audit Committee or other subcommittee of independent directors of 
+AR7, AR8, and AR9, and/or their su ccessors, each will undertake to develop and implement 
+written internal policies and controls concerning related party transactions, including that all 
+related party transactions be recorded on a monthly and quarterly basis in sufficient detail to permit 
+the determination of their business purpose, and that the CFO of each of AR7, AR8, and AR9, 
+and/or their successors, be designated to ensure compliance with the related party transactions 
+policy and to certify compliance on a quarterly basis. 
+
+       76.    AR7, AR8, AR9,  and/or their successors, will require the Independent Consultant s 
+to enter into an agreement that provides that for the period of engagement and for a period of two 
+years from completion of the engagement, the Independent Consultants shall not enter into any 
+employment, consultant, attorney-client, auditing or other professional relationship with AR7, 
+AR8, AR9, or their successors, or any of its present or former affiliates, directors, officers, 
+                                               18   
+---------------------Page 19---------------------
+
+employees, or agents acting in their capacity.  The agreement will also provide that the 
+Independent Consultant will require that any firm with which he/she is affiliated or of which he/she 
+is a member, and any person engaged to assist the Independent Consultants in performance of 
+his/her duties under this Order shall not, without prior written consent of the Commission staff, 
+enter into any employment, consultant, attorney-client, auditing or other professional relationship 
+with AR7, AR8, AR9, or their successors, or any of its present or former affiliates, directors, 
+officers, employees, or agents acting in their capacity as such for the period of the engagement and 
+for a period of two years after the engagement.  
+
+       77.    AR7, AR8, AR9, and/or their successors, will c ertify, in writing, compliance with 
+the undertaking(s) set forth above.  The certification shall identify the undertaking(s), provide 
+written evidence of compliance in the form of a narrative, and be supported by exhibits sufficient 
+to demonstrate compliance.  The Commission staff may make reasonable requests for further 
+evidence of compliance, and Respondents  agree to provide such evidence.  The certification and 
+supporting material shall be submitted to Douglas McAllister, Assistant Director, Division of 
+Enforcement, Securities and Exchange Commission, 100 F St., NE, Washington, DC 20549-6561, 
+with a copy to the Office of Chief Counsel of the Enforcement Division, no later than sixty (60) 
+days from the date of the completion of the undertakings.   
+ 
+                                              IV. 
+
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondents Offers. 
+ 
+       Accordingly, it is hereby ORDERED that: 
+ 
+       A.     Pursuant to Section 8A of the Securities Act and Section 21C of the Exchange Act, 
+Respondents Apple REIT Six, Inc., Apple REIT Seven, Inc. and Apple REIT Eight, Inc. cease and 
+desist from committing or causing any violations and any future violations of Sections 17(a)(2) and 
+17(a)(3) of the Securities Act and Sections 13(a), 13(b)(2)(A), 13(b)(2)(B), and 14(a) of the 
+Exchange Act and Rules 12b-20, 13a-1, 13a-13, and 14a-9 thereunder.   
+
+       B.     Pursuant to Section 21C of the Exchange Act, Respondent Apple REIT Nine, Inc., 
+cease and desist from committing or causing any violations and any future violations of Sections 
+13(a), 13(b)(2)(A), 13(b)(2)(B), and 14(a) of the Exchange Act and Rules 12b-20, 13a-1, 13a-13, 
+and 14a-9 thereunder.   
+
+       C.     Pursuant to Section 21C of the Exchange Act, Respondents Apple Six Advisors, 
+Inc., Apple Seven Advisors, Inc., Apple Eight Advisors, Inc., and Apple Nine Advisors, Inc. cease 
+and desist from committing or causing any violations and any future violations of Sections 13(a), 
+13(b)(2)(A), 13(b)(2)(B), and 14(a) of the Exchange Act and Rules 12b-20, 13a-1, 13a-13, and 
+14a-9 thereunder. 
+
+       D.     Pursuant to Section 21C of the Exchange Act, Respondents Glade M. Knight and 
+Bryan F. Peery, cease and desist from committing or causing any violations and any future 
+
+                                              19   
+---------------------Page 20---------------------
+
+violations of Sections 13(a), 13(b)(2)(A), 13(b)(2)(B), 14(a), and 16(a) of the Exchange Act and 
+Rules 12b-20, 13a-1, 13a-13, 13a-14, 14a-9, and 16a-3 thereunder. 
+
+       E.     Respondents shall comply with the undertakings enumerated in Sections 71-77 
+above.    
+        
+       F.     Respondent Apple Six Advisors, Inc. shall, within 10 days of the entry of this 
+Order, pay a civil money penalty in the amount of $437,500 to the United States Treasury.  If 
+timely payment is not made, additional interest shall accrue pursuant to 31 U.S.C. 3717.  Payment 
+must be made in one of the following ways:   
+       (1) Respondents may make direct payment from a bank account via Pay.gov through the 
+SEC website at http://www.sec.gov/about/offices/ofm.htm; or  
+       (2) Respondents may pay by certified check, bank cashiers check, or United States postal 
+money order, made payable to the Securities and Exchange Commission and hand-delivered or 
+mailed to:  
+              Enterprise Services Center 
+              Accounts Receivable Branch 
+              HQ Bldg., Room 181, AMZ-341 
+              6500 South MacArthur Boulevard 
+              Oklahoma City, OK 73169 
+ 
+       Payments by check or money order must be accompanied by a cover letter identifying 
+Apple Six Advisors, Inc. as a Respondent in these proceedings, and the file number of these 
+proceedings; a copy of the cover letter and check or money order must be sent to Gerald Hodgkins, 
+Associate Director, Division of Enforcement, Securities and Exchange Commission, 100 F St., NE, 
+Washington, DC 20549-  6010.   
+        
+       G.     Respondent Apple Seven Advisors, Inc. shall, within 10 days of the entry of this 
+Order, pay a civil money penalty in the amount of $375,000 to the United States Treasury.  If 
+timely payment is not made, additional interest shall accrue pursuant to 31 U.S.C. 3717.  Payment 
+must be made in one of the following ways:   
+       (1) Respondents may make direct payment from a bank account via Pay.gov through the 
+SEC website at http://www.sec.gov/about/offices/ofm.htm; or  
+       (2) Respondents may pay by certified check, bank cashiers check, or United States postal 
+money order, made payable to the Securities and Exchange Commission and hand-delivered or 
+mailed to:  
+              Enterprise Services Center 
+              Accounts Receivable Branch 
+              HQ Bldg., Room 181, AMZ-341 
+              6500 South MacArthur Boulevard   
+              Oklahoma City, OK 73169 
+ 
+       Payments by check or money order must be accompanied by a cover letter identifying 
+Apple Seven Advisors, Inc. as a Respondent in these proceedings, and the file number of these 
+proceedings; a copy of the cover letter and check or money order must be sent to Gerald Hodgkins, 
+
+                                             20   
+---------------------Page 21---------------------
+
+Associate Director, Division of Enforcement, Securities and Exchange Commission, 100 F St., NE, 
+Washington, DC 20549-6010.   
+        
+       H.     Respondent Apple Eight Advisors, Inc. shall, within 10 days of the entry of this 
+Order, pay a civil money penalty in the amount of $437,500 to the United States Treasury.  If 
+timely payment is not made, additional interest shall accrue pursuant to 31 U.S.C. 3717.  Payment 
+must be made in one of the following ways:   
+       (1) Respondents may make direct payment from a bank account via Pay.gov through the 
+SEC website at http://www.sec.gov/about/offices/ofm.htm; or  
+       (2) Respondents may pay by certified check, bank cashiers check, or United States postal 
+money order, made payable to the Securities and Exchange Commission and hand-delivered or 
+mailed to:  
+              Enterprise Services Center 
+              Accounts Receivable Branch 
+              HQ Bldg., Room 181, AMZ-341 
+              6500 South MacArthur Boulevard 
+              Oklahoma City, OK 73169 
+ 
+       Payments by check or money order must be accompanied by a cover letter identifying 
+Apple Eight Advisors, Inc. as a Respondent in these proceedings, and the file number of these 
+proceedings; a copy of the cover letter and check or money order must be sent to Gerald Hodgkins, 
+Associate Director, Division of Enforcement, Securities and Exchange Commission, 100 F St., NE, 
+Washington, DC 20549-6010.   
+        
+       I.      Respondent Apple Nine Advisors, Inc. shall, within 10 days of the entry of this 
+Order, pay a civil money penalty in the amount of $250,000 to the United States Treasury.  If 
+timely payment is not made, additional interest shall accrue pursuant to 31 U.S.C. 3717.  Payment 
+must be made in one of the following ways:   
+       (1) Respondents may make direct payment from a bank account via Pay.gov through the 
+SEC website at http://www.sec.gov/about/offices/ofm.htm; or  
+       (2) Respondents may pay by certified check, bank cashiers check, or United States postal 
+money order, made payable to the Securities and Exchange Commission and hand-delivered or 
+mailed to:  
+              Enterprise Services Center 
+              Accounts Receivable Branch 
+              HQ Bldg., Room 181, AMZ-341 
+              6500 South MacArthur Boulevard 
+              Oklahoma City, OK 73169 
+ 
+       Payments by check or money order must be accompanied by a cover letter identifying 
+Apple Nine Advisors, Inc. as a Respondent in these proceedings, and the file number of these 
+proceedings; a copy of the cover letter and check or money order must be sent to Gerald Hodgkins, 
+Associate Director, Division of Enforcement, Securities and Exchange Commission, 100 F St., NE, 
+Washington, DC 20549-6010.   
+        
+
+                                             21   
+---------------------Page 22---------------------
+
+       J.        Respondent Glade M. Knight shall, within 10 days of the entry of this Order, pay a 
+civil money penalty in the amount of $125,000 to the United States Treasury.  If timely payment is 
+not made, additional interest shall accrue pursuant to 31 U.S.C. 3717.  Payment must be made in 
+one of the following ways:   
+       (1) Respondents may make direct payment from a bank account via Pay.gov through the 
+SEC website at http://www.sec.gov/about/offices/ofm.htm; or  
+       (2) Respondents may pay by certified check, bank cashiers check, or United States postal 
+money order, made payable to the Securities and Exchange Commission and hand-delivered or 
+mailed to:  
+              Enterprise Services Center 
+              Accounts Receivable Branch 
+              HQ Bldg., Room 181, AMZ-341 
+              6500 South MacArthur Boulevard 
+              Oklahoma City, OK 73169 
+ 
+       Payments by check or money order must be accompanied by a cover letter identifying 
+Glade M. Knight as a Respondent in these proceedings, and the file number of these proceedings; a 
+copy of the cover letter and check or money order must be sent to Gerald Hodgkins, Associate 
+Director, Division of Enforcement, Securities and Exchange Commission, 100 F St., NE, 
+Washington, DC 20549-6010.   
+
+       K.     Respondent Bryan F. Peery shall, within 10 days of the entry of this Order, pay a 
+civil money penalty in the amount of $50,000 to the United States Treasury.  If timely payment is 
+not made, additional interest shall accrue pursuant to 31 U.S.C. 3717.  Payment must be made in 
+one of the following ways:   
+       (1) Respondents may make direct payment from a bank account via Pay.gov through the 
+SEC website at http://www.sec.gov/about/offices/ofm.htm; or  
+       (2) Respondents may pay by certified check, bank cashiers check, or United States postal 
+money order, made payable to the Securities and Exchange Commission and hand-delivered or 
+mailed to:  
+              Enterprise Services Center 
+              Accounts Receivable Branch 
+              HQ Bldg., Room 181, AMZ-341 
+              6500 South MacArthur Boulevard 
+              Oklahoma City, OK 73169 
+ 
+       Payments by check or money order must be accompanied by a cover letter identifying 
+Bryan F. Peery as a Respondent in these proceedings, and the file number of these proceedings; a 
+copy of the cover letter and check or money order must be sent to Gerald Hodgkins, Associate 
+Director, Division of Enforcement, Securities and Exchange Commission, 100 F St., NE, 
+Washington, DC 20549-6010.   
+        
+       By the Commission. 
+ 
+                                                  Elizabeth M. Murphy 
+                                                  Secretary 
+                                             22   

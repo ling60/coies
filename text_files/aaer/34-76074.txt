@@ -1,0 +1,550 @@
+---------------------Page 1---------------------
+
+ 
+                           UNITED STATES OF AMERICA 
+                                       Before the 
+                    SECURITIES AND EXCHANGE COMMISSION 
+ 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 76074 / October 5, 2015 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3713 / October 5, 2015  
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-16882 
+ 
+                                             ORDER INSTITUTING CEASE -AND-
+In the Matter of                             DESIST PROCEEDINGS, PURSUANT TO 
+                                             SECTION  21C OF THE SECURITIES 
+Home Loan Servicing Solutions, Ltd.          EXCHANGE ACT OF   1934, MAKING 
+                                             FINDINGS, AND IMPOSING REMEDIAL 
+Respondent.                                  SANCTIONS AND A CEASE -AND-DESIST 
+                                             ORDER  
+                                                
+ 
+                                           I. 
+ 
+       The Securities and Exchange Commission (“Commission”) deems it appropriate that public 
+cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the 
+Securities Exchange Act of 1934 (“Exchange Act”) against Home Loan Servicing Solutions, Ltd. 
+(“HLSS”) (“Respondent”). 
+                                             
+                                           II. 
+ 
+      In anticipation of the institution of these proceedings, Respondent has submitted an Offer 
+of Settlement (“Offer”) which the Commission has determined to accept.  Solely for the purpose of 
+these proceedings and any other proceedings brought by or on behalf of the Commission, or to 
+which the Commission is a party, and without admitting or denying the findings herein, except as 
+to the Commission’s jurisdiction over them and the subject matter of these proceedings, which are 
+admitted, Respondent consents to the entry of this Order Instituting Cease-and-Desist Proceedings, 
+Pursuant to Section 21C of the Exchange Act of 1934, Making Findings, and Imposing Remedial 
+Sanctions and a Cease-and-Desist Order (“Order”), as set forth below.  
+ 
+                            
+---------------------Page 2---------------------
+
+ 
+                                                III. 
+ 
+                                                                                  1
+       On the basis of this Order and Respondent’s Offer, the Commission finds      that : 
+ 
+                                             Summary 
+        
+       1.      This matter involves two sets of misstatements made by HLSS from 2012 to 2014, 
+one concerning related party transactions and the other concerning valuation of company assets.  
+First, HLSS inaccurately disclosed that it had policies governing conflicts of interest inherent in 
+related party transactions, which included the recusal of its Chairman of the Board (the “Chairman”) 
+from negotiating and approving transactions with related parties such as Ocwen Financial Corp. 
+(“Ocwen”), for which the Chairman also served as Executive Chairman.  Second, HLSS’s 
+erroneous valuations of its primary asset, contributed to HLSS misstating its financial results for 
+the years 2012 and 2013 and the first quarter of 2014.  These misstatements resulted from an 
+internal accounting controls failure that allowed the company to adopt a valuation methodology 
+that did not conform to U.S. Generally Accepted Accounting Principles (“GAAP”).  
+        
+       2.      In its Forms 10-K and 10-KA for the year 2013, HLSS disclosed in the 1A “Risk 
+Factors” section that it had “adopted policies, procedures and practices to avoid potential conflicts 
+with respect to [its] dealings with [Ocwen and other related entities], including [the Chairman] 
+recusing himself from negotiations regarding, and approvals of, transactions with these entities.”  In 
+the “Business and Related Transactions” section of two 14A proxy statements filed in 2013 and 
+2014 and incorporated in the Part III Item 10 Section headed “Directors, Executive Officers and 
+Corporate Governance” of its Forms 10-K for the years 2012 and 2013, HLSS likewise disclosed, 
+“Due to the nature of [the Chairman’s] obligations to each of the [related entities], he recuses 
+himself from decisions pertaining to related transactions.”  The purpose of these disclosures was to 
+assure investors that HLSS was safeguarding against potential conflicts due to the Chairman’s role 
+as Chairman of Ocwen and other related entities as well as HLSS.  Because of HLSS’s unique 
+relationship with Ocwen, from which HLSS purchased all of its assets of significance and to which 
+it provided services, the potential for conflicts was a major concern for investors.   
+        
+       3.      Contrary to its public disclosures, HLSS had no written policies or procedures 
+concerning recusals for related party transactions.  And, although the Chairman had a practice of 
+recusing himself from certain negotiations and approvals of related party transactions, that practice 
+was inconsistent and ad hoc.  As a result, HLSS failed to devise and maintain its disclosed internal 
+accounting controls to prevent potential conflicts of interest in its related party transactions.  Due to 
+these control failures, the Chairman approved many transactions between HLSS and Ocwen in both 
+his HLSS- and Ocwen-related capacities.  Also, due to other internal accounting control 
+
+                                                 
+1
+       The findings herein  are made pursuant to Respondent’s Offer of Settlement and are not 
+       binding on any other person or entity in this or any other proceeding. 
+ 
+
+                                                 2  
+---------------------Page 3---------------------
+
+ 
+deficiencies, for three transactions in late 2013 and early 2014, HLSS had no documentation of 
+approvals.   
+        
+       4.     Separately, HLSS misstated its net income for the years 2012 and 2013 and the first 
+quarter of 2014 by adopting an accounting methodology that did not conform to GAAP relating to 
+the valuation of HLSS’s most significant asset – rights to mortgage servicing rights (“Rights to 
+MSRs”) purchased from Ocwen.  HLSS publicly disclosed that it valued these Rights to MSRs at 
+fair value; however, it assigned them a value that was equivalent to their carrying value, and not to 
+its best estimate of fair value, so long as the price reflected in the carrying value was within 5 
+percent of the price reflected in a fair value estimate provided by a third party.  The Chairman 
+warned HLSS senior management that this valuation methodology would inevitably result in 
+differences between the carrying value and the third party fair value estimate that, while within 5 
+percent, were material to HLSS’s financial statements.  Despite this warning, HLSS’s management 
+and its Audit Committee failed to adequately review whether this valuation methodology complied 
+with GAAP.   
+        
+                                          Respondent 
+        
+       5.     HLSS is a Cayman Islands corporation with its principal executive offices in the 
+Cayman Islands.  HLSS’s common stock became registered with the Commission pursuant to 
+Section 12(b) of the Exchange Act in February 2012 and, from that date until approximately April 
+2015, traded on the NASDAQ Global Market.  HLSS was founded by its Chairman in 2010 and 
+conducted an initial public offering in February 2012.  The Chairman owned 100 percent of HLSS’s 
+ordinary shares of common stock prior to the initial public offering, 5 percent after the offering, and 
+approximately 1 percent between 2013 and 2014. 
+        
+                                     Other Relevant Entity 
+                                                 
+       6.     Ocwen is a Florida corporation with its principal place of business in Atlanta, 
+Georgia.  Ocwen’s common stock is registered with the Commission pursuant to Section 12(b) of 
+the Exchange Act and trades on the New York Stock Exchange.  Between 2012 and 2014, HLSS’s 
+Chairman served as Ocwen’s Executive Chairman and owned approximately 13 percent of Ocwen’s 
+common stock. 
+ 
+                                            Background 
+ 
+A.     HLSS’s Related Party Transactions 
+                                                 
+                                HLSS’s Relationship with Ocwen 
+        
+       7.     Ocwen is a servicer of mortgages that have been securitized and are owned by 
+residential mortgage-backed securities trusts.  As one of its obligations as a mortgage servicer, 
+Ocwen advances funds to the trusts to cover payments missed by borrowers.     
+        
+
+                                                3  
+---------------------Page 4---------------------
+
+ 
+       8.      Ocwen’s Executive Chairman sought to make Ocwen “capital-light” by creating 
+HLSS and making it responsible for funding Ocwen’s servicer advances.  HLSS was to purchase 
+Ocwen’s mortgage servicing rights (“MSRs”), and thereby receive the future servicing fees owed to 
+Ocwen in connection with those MSRs and, as a result of that purchase, would be responsible for 
+funding servicer advances.  As a part of this arrangement, HLSS would retain Ocwen as the 
+subservicer for all mortgages underlying the Rights to MSRs purchased by HLSS.  In addition to the 
+Chairman, certain managers and members of the board of directors at Ocwen became executives 
+and board members at HLSS. 
+        
+       9.      Due to difficulties encountered with transferring title to the MSRs to HLSS, Ocwen 
+retained title and HLSS agreed to purchase the Rights to the MSRs.  On March 5, 2012, HLSS 
+executed a master purchase agreement with Ocwen and completed an initial purchase of Rights to 
+MSRs on mortgages with an unpaid principal balance (“UPB”) of $15.2 billion.  Simultaneous with 
+the purchase, HLSS entered into a master subservicing agreement with Ocwen for these 
+mortgages.  Under this agreement, Ocwen serviced the mortgages, collected the servicing fees 
+from borrowers and remitted the fees to HLSS.  From the total servicing fees remitted, HLSS paid 
+Ocwen a base fee for its services and a performance fee when Ocwen met certain targets for 
+advance levels.  Because of his role at Ocwen, the Chairman recused himself from negotiating and 
+voting on the approval of the master agreements and initial purchase. 
+        
+               HLSS’s Control Breakdowns Relating to Related Party Transactions 
+        
+       10.    There were no written policies or procedures governing when an officer or director 
+with a conflict of interest was required to recuse himself from negotiating or approving a related 
+party transaction.   While the Chairman routinely recused himself from negotiations with Ocwen 
+and recused himself from approvals of transactions in certain instances, including the master 
+purchase and subservicing agreements and the initial purchase of Rights to MSRs, HLSS personnel 
+never discussed the guidelines under which such recusal would be appropriate.  This caused a 
+number of control deficiencies. 
+        
+       11.    First, the responsibility for determining whether recusal was appropriate was left 
+largely to the person with the conflict of interest.  There was no meaningful oversight of that 
+person’s determination. 
+        
+       12.    Second, HLSS personnel lacked a clear understanding of when recusals were 
+required.  Although HLSS stated that it had “adopted policies, procedures and practices to avoid 
+potential conflicts” present in related party transactions, several individuals within the company 
+believed that recusals were needed only for significant transactions with related parties.  Because 
+there was never a discussion of the guidelines governing recusals, HLSS personnel never considered 
+whether that belief was consistent with the company’s public disclosures.  Also, HLSS personnel 
+had conflicting understandings of what types of transactions could qualify as significant, and they 
+never attempted to reconcile these conflicting understandings.  In addition, the Chairman believed 
+that the need to approve transactions in the Cayman Islands for tax reasons may have been grounds 
+
+                                                4  
+---------------------Page 5---------------------
+
+ 
+for not recusing himself.  HLSS’s disclosures, however, do not include this exception, and this 
+belief was not given sufficient consideration internally. 
+        
+       13.    Due to these control deficiencies, the practice at HLSS for recusals was not 
+consistent with its public disclosures. 
+        
+                     HLSS’s Chairman Approved Transactions with Ocwen 
+        
+       14.    After Ocwen and HLSS executed the master purchase and subservicing agreements, 
+HLSS disclosed that it anticipated future growth through subsequent acquisitions of rights to 
+Ocwen’s MSRs.  Accordingly, HLSS purchased additional Rights to MSRs from Ocwen through 
+nine transactions (the “Flow Transactions”) during 2012 and 2013.  As HLSS’s only asset of 
+significance were Rights to MSRs purchased from Ocwen, these transactions were fundamental to 
+its business. 
+        
+       15.    While HLSS and Ocwen based the purchase price for the Rights to MSRs for each 
+Flow Transaction on an appraisal by a third party valuation firm, other terms varied.  For example, 
+for each Flow Transaction, HLSS and Ocwen negotiated HLSS’s retained fees, which were the 
+servicing fees retained by HLSS from those collected and remitted to it by Ocwen after payment of 
+the base and performance fees owed back to Ocwen.   The retained servicing fee for each Flow 
+Transaction was based on the agreed-upon advance target for Ocwen and other assumptions that 
+were jointly set by HLSS and Ocwen such as the prepayment rate on the underlying loan balances, 
+financing cost and advance borrowing rate. 
+        
+       16.       HLSS personnel submitted proposals for these transactions to the Credit 
+Committee for approval.  Approval by the HLSS Credit Committee was necessary for a Flow 
+Transaction to be approved by the HLSS Board of Directors and ultimately consummated.  The 
+Credit Committee was comprised of senior managers and directors appointed by HLSS’s Board of 
+Directors.  The role of HLSS’s Credit Committee, according to its charter, was to provide direction 
+and oversight over all matters concerning HLSS’s finance, investment, treasury and financial risk 
+management.  In addition to his other roles, the Chairman was a member of HLSS’s Credit 
+Committee and was also a member of Ocwen’s Credit Committee, which performed an analogous 
+role.   
+        
+       17.    The routine process for the Credit Committee to review and approve transactions 
+was to circulate a memorandum that presented analysis of the proposed price of the Rights to 
+MSRs, the retained fees and the varying underlying assumptions.  The memoranda circulated 
+typically included a signature page to indicate approval by each of the committee members.  The 
+committee members either executed the signature pages or indicated their approval of the 
+transactions by email.   
+        
+       18.    In 2012, HLSS entered into five Flow Transactions with Ocwen totaling 
+approximately $67.5 billion in UPB.  The Chairman did not participate in the negotiations but 
+approved all of these transactions in his capacity as a member of the HLSS Credit Committee. 
+
+                                                5  
+---------------------Page 6---------------------
+
+ 
+        
+       19.    In 2013, HLSS entered into four Flow Transactions with Ocwen totaling 
+approximately $120 billion UPB.  The Chairman recused himself from the first transaction but then 
+approved the second one.  Even when the Chairman recused himself, he still received the Credit 
+Committee memorandum because, according to him, “I’m interested in valuation [and] I still 
+thought I had the right to say, ‘No, this isn’t going to happen.’” 
+        
+       20.    When the Chairman reviewed and approved these transactions, he typically did the 
+same on the Ocwen side of the transactions either through Ocwen’s Credit Committee or its 
+Executive Committee which acted on behalf of the Board when it was not in session. 
+        
+       21.    In 2014, the Chairman approved another type of transaction between Ocwen and 
+HLSS concerning early buy-out loans, which are delinquent loans eligible for purchase by the 
+mortgage servicer.  In this transaction, HLSS purchased $672 million that comprised the most 
+delinquent portion of a portfolio of early buy-out loans that Ocwen recently had purchased.  In a 
+February 2014 email addressed to members of both HLSS and Ocwen senior management, the 
+Chairman approved this purchase on the condition that it did not trigger losses for HLSS.  
+ 
+                     HLSS Failure to Document Credit Committee Approvals 
+        
+       22.    As to the latter two of the four Flow Transactions between HLSS and Ocwen in 
+2013, HLSS was unable to locate final executed Credit Committee memoranda or approving emails.  
+Contemporaneous emails for the last of these transactions in October 2013, however, show a request 
+to schedule a phone call for the Credit Committee to discuss the analysis contained in the 
+memorandum and a subsequent modification of the retained servicing fee based on a change to an 
+underlying assumption.   
+        
+       23.    Documentation of HLSS’s Credit Committee approval process again broke down in 
+February 2014 in connection with the early buy-out loan purchase agreement between HLSS and 
+Ocwen.  HLSS was unable to locate any Credit Committee approvals for this transaction.   
+ 
+B.     Improper Valuation of Rights to MSRs 
+        
+       24.    HLSS’s quarterly and annual filings with the Commission stated that its financial 
+statements were prepared in accordance with GAAP.  These filings also stated that HLSS recorded 
+the Rights to MSRs that it purchased from Ocwen at fair value.   
+        
+       25.    FASB Financial Accounting Standards Codification Topic 820 (“ASC 820”) – Fair 
+Value Measurements and Disclosures defines fair value as the price that would be received to sell 
+an asset or paid to transfer a liability in an orderly transaction between market participants at the 
+measurement date.  Because Rights to MSRs are not frequently bought or sold, there rarely are 
+observable market prices for them.  Rights to MSRs are therefore considered to be a Level 3 asset 
+in the fair value hierarchy, which are assets that do not have observable inputs for a fair value 
+measurement.  While Level 3 assets are more difficult to value, the fair value measurement 
+
+                                                6  
+---------------------Page 7---------------------
+
+ 
+objective remains the same, that is, an exit price from the perspective of a market participant that 
+holds the asset. 
+        
+       26.    HLSS retained a third party with expertise in valuing MSRs to calculate the fair 
+value of its Rights to MSRs.  Each quarter, the third party valuation firm performed an analysis of 
+the Rights to MSRs and provided HLSS with a valuation report.  The valuation reports included an 
+estimate of fair value based on inputs that affected the fair value of the MSRs, such as then-current 
+prepayment rates, pre-tax discount rates, and costs to service.  This estimate was represented as a 
+                                               2
+specific price that was reflected in basis points.   Multiplying this best- point estimate b y the UPB 
+for HLSS’s Rights to MSRs would provide a fair value measurement for those Rights to MSRs.  In 
+a prefatory note, the valuation reports stated that a sale of the Rights to MSRs in an orderly market 
+should not differ by more than 7.5, or in some instances 10, basis points from the best-point 
+estimate provided. 
+        
+       27.    In addition to the fair value measurement provided in the valuation report, HLSS 
+independently determined the carrying value of its Rights to MSRs.  As part of this determination, 
+HLSS calculated an “Inception BPS,” also reflected in basis points, by dividing the UPB of the 
+mortgages underlying the MSRs as of the date of their acquisition by HLSS’s purchase price of the 
+Rights to MSRs.  Over time, the UPB of the mortgages generally decreased as borrowers paid down 
+their mortgages.  At the end of each quarter, HLSS calculated the carrying value for the Rights to 
+MSRs by multiplying the Inception BPS by the amount of the UPB as of the end of the quarter.  
+This amortization was driven entirely by the decline in size of the mortgages’ UPB and did not 
+consider any of the various factors that would also affect a fair value measurement. 
+        
+                                 HLSS’s Valuation Methodology 
+ 
+       28.    Because the value of the MSRs for which HLSS had obtained the rights historically 
+had been fairly stable, HLSS developed a valuation methodology that used the carrying value of 
+the Rights to MSRs as the presumptive fair value measurement.  This methodology was reviewed 
+by HLSS’s external auditors.  For each reporting date, HLSS compared the carrying value of its 
+Rights to MSRs (as calculated above) to the third party valuation report’s best-point estimate and 
+would record an adjustment to the value of the Rights to MSRs, which HLSS disclosed reflected 
+fair value, only if there was a variation in price of at least 5 percent. 
+        
+       29.    To illustrate, the third party valuation firm provided a report with a valuation date 
+of November 29, 2013 estimating the price of HLSS’s Rights to MSRs, which had underlying 
+mortgages with an UPB of approximately $159.56 billion, at 37.08 basis points.  Multiplying the 
+UPB by the estimated price, the third party valued the Rights to these MSRs at approximately $592 
+million.  Under HLSS’s valuation methodology, HLSS would apply 5 percent bands around the 
+third party valuation firm’s best-point estimate of 37.08 basis points, which would create a range 
+from 35.23 basis points (5 percent below) to 38.93 basis points (5 percent above), and would report 
+
+                                                 
+2
+       A basis point is one hundredth of  one  percent. 
+
+                                                 7  
+---------------------Page 8---------------------
+
+ 
+the carrying value of its Rights to MSRs as their fair value so long as the carrying value was within 
+the range of values created by the 5 percent bands.  In other words, so long as HLSS’s carrying 
+value was within approximately $562 million (35.23 basis points multiplied by the UPB) and 
+approximately $621 million (38.93 basis points multiplied by the UPB), it would report the 
+carrying value as fair value.  Based on HLSS’s financial results for the fourth quarter of 2013, this 
+approximately $56 million range was equivalent to 75 percent of its total revenues and 148 percent 
+of its net income. 
+        
+       30.    The valuation of Rights to MSRs was listed as a “Critical Accounting Policy” in 
+HLSS’s quarterly and annual filings and was highly important to investors.  In fact, HLSS 
+repeatedly emphasized the stability of its valuations and its limited asset valuation risk at investor 
+presentations, in press releases, and during earnings calls. 
+        
+                HLSS’s Internal Accounting Controls Deficiencies Relating to Valuation 
+        
+       31.    Neither HLSS’s management nor its Audit Committee adequately reviewed  or 
+considered HLSS’s valuation methodology for the Rights to MSRs.   
+        
+       32.    Before HLSS implemented the valuation methodology, the Chairman perceived a 
+problem with it.  Because the 5 percent bands created a very large range in terms of dollars, HLSS 
+easily could have had a difference between the carrying value of the Rights to MSRs and their best-
+point estimate that was both material to the company’s reported results and still within the 5 percent 
+bands.  Consequently, the Chairman concluded “the math would never work” and expressed his 
+concerns to a member of HLSS senior management.  The Chairman explained to this member of 
+senior management, “if you have a 5 percent change in the asset, you’re going to blow through [the 
+threshold for materiality] so fast, it’s almost a fait accompli at that particular point.”  To the 
+Chairman, this problem was apparent from the beginning.  As he later commented on the lack of 
+appreciation on this point, “when you launch a ship . . . , the ship is going to hit the water, [so] don’t 
+expect the hull to not get wet.” 
+        
+       33.    The Chairman’s concerns were not shared with the rest of HLSS senior management 
+before, during, or after the implementation of the valuation methodology. 
+        
+       34.    The Audit Committee of HLSS’s Board of Directors also failed to give sufficient 
+consideration to the valuation methodology.  The Audit Committee’s charter provides that it shall:  
+ 
+               (j)    Review with management, the Company’s 
+           independent auditors and the director of the Company’s internal 
+           auditing department, the following:  
+                
+                   (i)  critical accounting policies and such other 
+           accounting policies of the Company as are deemed appropriate 
+           for review by the Committee prior to any interim or year‐end 
+           filings with the SEC or other regulatory body, including any 
+
+                                                8  
+---------------------Page 9---------------------
+
+ 
+           financial reporting issues which could have a material impact on 
+           the Company’s financial statements . . . . 
+        
+       35.    HLSS’s Audit Committee did not review the valuation methodology with HLSS’s 
+external auditors, had no discussions of substance concerning the development of the valuation 
+methodology with HLSS management, were not provided any documentation explaining the 
+valuation methodology, and were not apprised of the Chairman’s concerns.  As a result, the Audit 
+Committee did not consider whether the valuation methodology was an appropriate fair value 
+measurement under GAAP, nor did it consider whether the valuation methodology could result in a 
+variance between the third party valuation firm’s best-point estimate and the carrying value that 
+was material to HLSS’s reported results. 
+ 
+            HLSS Applied Its Valuation Methodology and Then Restated Its Financials 
+ 
+       36.    The best-point estimate in the valuation reports fluctuated from quarter to quarter; 
+however, under its valuation methodology, HLSS did not make any adjustment to the fair value of 
+its Rights to MSRs because the Inception BPS used to calculate carrying value did not differ by 5 
+percent or more from the best-point estimate.  
+        
+       37.    HLSS revisited the use of the valuation methodology in 2014 and, with the 
+involvement of its external auditors,  determined that, while the carrying value is within the 5 
+percent band, the carrying value was not a fair value measurement under GAAP.  Management, 
+therefore, determined that HLSS was required to restate the value of its Rights to MSRs to the best-
+point estimate of fair value provided in the valuation reports.   
+        
+       38.    In August 2014, HLSS restated its Forms 10-K for the years 2012 and 2013 and 
+Form 10-Q for the quarter ended March 31, 2014 as a result of this required adjustment and an 
+                          3
+unrelated data input error.   At the time of the restatement, HLSS disclosed that it concluded the 
+methodology   it  historically used to assess the value of its  Rights to MSRs constituted a departure 
+from GAAP.  As per the chart below, HLSS’s improper accounting resulted in material errors to 
+HLSS’s reported results in quarterly and annual filings and in earnings releases filed on Form 8-K. 
+
+                                                 
+3
+       This data input error related to a subset of the Rights to MSRs as of the fourth quarter of 
+       2013 and the first quarter of 2014.  The impact of the data error was $5.9 million and 
+       $9.3 million as of December 31, 2013 and March 31, 2014, respectively.   
+
+                                                  9  
+---------------------Page 10---------------------
+
+ 
+                       Dollars in thousands 
+
+                                                                        Adjustment            Adjustment 
+                                                                        Relating to            as a % of 
+                                              Net Income       as       Accounting           Restated Net 
+                                                Restated     ($)          Error  ($)             Income     
+                                                                                                           
+                       1Q 14                              64,360                11,386                   18%    
+                                                                                                          
+                       FY 2013                          117,657                (4,137)                   - 4%   
+                                                                                                            
+                       4Q 13                                6,580             (27,617)                - 420 %   
+                                                                                                              
+                       3Q 13                              39,166                  4,243                  11%    
+                                                                                                           
+                       2Q 13                              43,826                15,940                   36%    
+                                                                                                              
+                       1Q 13                              28,085                  3,297                  12%    
+                                                                                                            
+                       FY 2012                            19,617               (7,254)                  - 37%   
+                                                                                                               
+                       4Q 12                                7,326              (7,020)                  - 96%   
+                                                                                                               
+                       3Q 12                                5,438              (1,134)                  - 21%   
+                                                                                                                 
+                       2Q 12                                5,901                 1,242                  21%    
+                                                                                                                       
+                       1Q 12                                  952                 (342)                 - 36%   
+           
+C.       Violations 
+                
+          39.      As a result of the conduct described above, HLSS violated Section 13(a) of the 
+Exchange Act, Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder, which require issuers to file 
+true, accurate, and complete annual, quarterly and current reports with the Commission. 
+           
+          40.      As a result of the conduct described above, HLSS violated Section 13(b)(2)(A) of 
+the Exchange Act, which requires public companies to “make and keep books, records, and 
+accounts, which, in reasonable detail, accurately and fairly reflect the transactions and dispositions 
+of the assets of the issuer.” 
+           
+          41.      As a result of the conduct described above, HLSS violated Section 13(b)(2)(B) of 
+the Exchange Act, which requires public companies to “devise and maintain a system of internal 
+accounting controls sufficient to provide reasonable assurances that . . . (ii) transactions are recorded 
+
+                                                                  10   
+---------------------Page 11---------------------
+
+ 
+as necessary (I) to permit preparation of financial statements in conformity with generally accepted 
+accounting principles or any other criteria applicable to such statements, and (II) to maintain 
+accountability for assets.”  
+ 
+                                               IV. 
+                                                 
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondent’s Offer. 
+ 
+       Accordingly, pursuant to Section 21C of the Exchange Act of 1934 it is hereby ORDERED 
+that: 
+ 
+       A.     Respondent HLSS cease and desist from committing or causing any violations and 
+any future violations of Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 
+12b-20, 13a-1, 13a-11, and 13a-13 thereunder. 
+        
+       B.     Respondent shall, within 10 days of the entry of this Order, pay a civil money 
+penalty in the amount of $1,500,000 to the Securities and Exchange Commission for transfer to the 
+general fund of the United States Treasury, subject to  Exchange Act Section 21F(g)(3).  If timely 
+payment is not made, additional interest shall accrue pursuant to 31 U.S.C § 3717. 
+        
+       Payment must be made in one of the following ways:   
+ 
+              (1)     Respondent may transmit payment electronically to the Commission, which 
+                      will provide detailed ACH transfer/Fedwire instructions upon request;  
+               
+              (2)     Respondent may make direct payment from a bank account via Pay.gov 
+                      through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or  
+               
+              (3)     Respondent may pay by certified check, bank cashier’s check, or United 
+                      States postal money order, made payable to the Securities and Exchange 
+                      Commission and hand-delivered or mailed to:  
+ 
+                             Enterprise Services Center 
+                             Accounts Receivable Branch 
+                             HQ Bldg., Room 181, AMZ-341 
+                             6500 South MacArthur Boulevard 
+                             Oklahoma City, OK 73169 
+ 
+              Payments by check or money order must be accompanied by a cover letter 
+              identifying HLSS as a Respondent in these proceedings, and the file number of 
+              these proceedings; a copy of the cover letter and check or money order must be sent  
+
+                                               11   
+---------------------Page 12---------------------
+
+ 
+               to Michael J. Osnato, Chief, Complex Financial Instruments Unit, Division of 
+               Enforcement, Securities and Exchange Commission, Brookfield Place, 200 Vesey 
+               Street, Suite 400, New York, NY, 10281.  
+ 
+         
+By the Commission. 
+ 
+ 
+ 
+                                                     Brent J. Fields 
+                                                     Secretary 
+ 
+ 
+
+ 
+ 
+ 
+
+                                                12   

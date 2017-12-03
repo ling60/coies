@@ -1,0 +1,144 @@
+33-7953
+Home | Previous Page
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+Securities Act of 1933
+Release No.
+7953 / February 14, 2001
+Securities Exchange Act of 1934
+Release No. 43959 / February 14, 2001
+Accounting and Auditing Enforcement
+Release No.
+1370 / February 14, 2001
+Administrative Proceeding
+File No. 3-10420
+In the Matter of
+Computron Software, Inc.,
+currently named AXS-One Inc.,
+Respondents.
+:::::::
+ORDER
+INSTITUTING PUBLICPROCEEDING PURSUANT TO SECTION 8A OF THE SECURITIES ACT OF 1933 AND SECTION 21C OF THE SECURITIES EXCHANGE ACT OF 1934AND ISSUING A CEASE-AND-DESIST ORDER
+I.
+The Securities and Exchange Commission ("Commission") deems it appropriate that public administrative proceedings be, and hereby are, instituted against Computron Software, Inc., currently named AXS-One Inc. (hereinafter "Computron," "AXS-One" or "Respondent"), pursuant to Section 8A of the Securities Act of 1933 ("Securities Act") and Section 21C of the Securities Exchange Act of 1934 ("Exchange Act").
+II.
+In anticipation of the institution of these administrative proceedings, AXS-One has submitted an Offer of Settlement ("Offer"), which the Commission has determined to accept.
+Solely for the purpose of these proceedings and any other proceedings brought by or on behalf of the Commission or in which the Commission is a party, and without admitting or denying the findings contained herein, except as to the Commission's finding of jurisdiction over Respondent and the subject matter of this proceeding, which AXS-One admits, AXS-One consents to the issuance of this Order Instituting Proceedings Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of the Securities Exchange Act of 1934 and Issuing a Cease-and-Desist Order ("Order") and to the entry of the findings and imposition of relief set forth below.
+III.
+FINDINGS
+On the basis of this Order and the Offer submitted by AXS-One, the Commission finds1 that:
+Summary
+A. During the period described below, Computron, a company engaged in the business of, among other things, marketing computer software products and providing related support services, engaged in a financial fraud that violated the antifraud, periodic reporting, books and records and internal controls provisions of the federal securities laws.
+Specifically, Computron artificially inflated its revenue and net income on its books and records and in its public filings with the Commission by fraudulently recognizing sales revenue in connection with transactions that did not constitute bona fide sales in the period in which they were recorded.
+As a result, Computron's initial public offering registration statement, periodic reports and other documents filed with the Commission in 1995 and 1996 were materially false and misleading.
+The Respondent
+B. Computron is a Delaware corporation with principal offices located in Rutherford, New Jersey.
+On November 1, 2000, Computron changed its name to AXS-One Inc.
+Computron's common stock is registered with the Commission pursuant to Section 12(b) of the Exchange Act and trades on the American Stock Exchange.
+From August 24, 1995 until January 27, 1997, Computron common stock was traded on the NASDAQ National Market System.
+From January 27, 1997 through November 11, 1997, prices for shares of Computron's common stock were quoted on the NASD's Electronic Bulletin Board and in the National Quotation Bureau's "pink sheets."
+As of April 7, 2000, 46.99% of Computron's common stock was owned by its officers, directors and affiliates.
+The Financial Fraud
+C. In 1995 and 1996, Computron engaged in accounting irregularities that violated the antifraud, periodic reporting, books and records and internal controls provisions of the federal securities laws.
+In connection with its initial public offering ("IPO") in August 1995, Computron filed a registration statement that included financial statements that materially overstated revenue and net income for the years ended December 31, 1992, 1993, 1994 and interim periods within 1993, 1994 and the first half of 1995.
+Computron subsequently filed periodic reports with the Commission pertaining to quarterly and annual periods through the quarter ended September 30, 1996 that also overstated revenue and net income.2
+D. In connection with the audit of Computron's financial statements for the year ended December 31, 1996, Computron reversed a total of approximately $9 million in sales revenue that had been improperly recorded during the period January 1, 1992 through September 30, 1996 (the "Restatement").
+The following chart shows the effect, expressed in thousands, of the Restatement on Computron's financial statements for each of the four annual periods and the nine months ended September 30, 1996:
+1992
+1993
+1994
+1995
+9 Months Ended September 30, 1996
+Original Revenues
+20,513
+24,282
+34,958
+55,519
+36,846
+Restated Revenues
+19,645
+23,588
+32,473
+52,795
+34,677
+Overstatement
+868
+694
+2,485
+2,724
+2,169
+Overstatement %
+4%
+3%
+7%
+5%
+6%
+Net Income (loss)
+(2479)
+(3170)
+77
+(7312)
+(21,333)
+Restated Net Income (loss)
+(3347)
+(3864)
+(2308)
+(8578)
+(23,214)
+Understatement of loss
+868
+694
+2,485
+1,266
+1,881
+Understatement of loss %
+35%
+22%
+N/A3
+17%
+9%
+E. The foregoing misstatements resulted from accounting irregularities involving as many as 35 software transactions over a four year period and included, among other things, the recognition of revenue from sales contracts despite: (i) in at least 7 cases, the use of side letters to commit Computron to provide free services, alter or negate payment terms contained in sales contracts or promise to deliver products that were still under development; (ii) the creation of duplicate contracts containing conflicting payment terms; and (iii) the improper dating of sales contracts to accelerate revenue recognition.
+1. Side Letters
+a. The terms set forth in the side letters were disregarded when Computron recorded the transactions on its books and records, and, as a result, its financial statements were materially false and misleading.
+Some of the side letters gave purchasers the right to valuable free consulting, maintenance or training services or free products, which significantly offset the price of the software.
+Nevertheless, Computron improperly recognized the full purchase price as revenue and did not record the expenses associated with providing the free services.
+b. Computron also issued side letters and apparently made oral agreements in which it gave resellers that had purportedly purchased software from Computron the unconditional right to a full refund if the resellers were unable to consummate sales with end users.
+Again, Computron improperly recognized revenue from these contracts as if they were unconditional sales.
+c. On one occasion, a customer signed a contract to purchase a particular product, but the purchase price of over $1 million also covered a second product that still was under development and not yet ready for sale.
+A side letter obligated Computron to provide this additional product to the customer within a few months without any additional charge.
+Computron improperly recognized revenue at the time the contract was entered into for the full purchase price, even though part of the contract price was attributable to a product that, as it turned out, was not completed until over one year later.
+2. Secret Duplicate Contracts
+In at least three instances, sales personnel obligated Computron to one set of contract terms in a sales contract with a customer, then generated phony versions of customer sales contracts for Computron's files which omitted certain of the contract terms.
+For example, sales personnel committed Computron to a contract containing terms which provided that the customers could earn credits against amounts owed by performing demonstrations of the software to potential Computron customers. The sales personnel then created duplicate versions of the same contracts for Computron's official files that omitted these terms and sent the altered versions of the contracts to Computron's New Jersey headquarters.
+As a result, Computron improperly recognized the full purchase price as revenue and did not properly account for the credits.
+3. Accelerated Reporting and Backdating of Contracts
+Computron also improperly accelerated revenue recognition to earlier periods on contracts which had been dated prior to the date on which the contract terms were finalized.
+For example, on a contract still being negotiated in the fourth quarter of 1994, Computron backdated the contract to an earlier quarter and improperly accelerated recognition of $400,000 revenue to the third quarter of 1994.
+F. The Restatement included the reversal of revenue that had been recorded under the circumstances described in paragraph E above.
+Computron's Violations
+G. By reason of the conduct and events set forth above, Computron violated Section 17(a) of the Securities Act, Sections 10(b), 13(a) and 13(b)(2) of the Exchange Act and Rules 10b-5, 12b-20, 13a-1 and 13a-13 thereunder.
+IV.
+CEASE-AND-DESIST ORDER
+Accordingly, IT IS HEREBY ORDERED that AXS-One shall cease and desist from committing or causing any violation, and from committing or causing any future violation, of Section 17(a) of the Securities Act, Sections 10(b), 13(a) and 13(b)(2) of the Exchange Act and Rules 10b-5, 12b-20, 13a-1 and 13a-13 thereunder; and
+IT IS FURTHER ORDERED that AXS-One comply with the following agreements and undertakings set forth in its Offer:
+A. AXS-One agrees and undertakes to cooperate fully with the Commission in any and all investigations, litigations or other proceedings relating to or arising from the matters described in the Order.
+B. In connection with such cooperation, AXS-One agrees and undertakes:
+1. To produce, without service of a notice or subpoena, any and all documents and other information requested by the Commission's staff;
+2. To be interviewed, and to make its officers, directors, employees, agents and other representatives available to be interviewed, by the Commission's staff at such times as the staff reasonably may direct;
+3. To appear and testify, and to make its officers, directors, employees, agents and other representatives available to appear and testify, without service of a notice or subpoena in such investigations, depositions, hearings or trials as may be requested by the Commission's staff; and
+4. That in connection with any testimony of AXS-One to be conducted at deposition, hearing or trial pursuant to a notice or subpoena, AXS-One:
+a. Agrees that any such notice or subpoena for AXS-One's appearance and testimony may be addressed to the General Counsel of AXS-One and served by mail; and
+b. Agrees that any such notice or subpoena for AXS-One's appearance and testimony in an action pending in a United States District Court may be served, and may require testimony, beyond the territorial limits imposed by the Federal Rules of Civil Procedure.
+By the Commission.
+Jonathan G. Katz
+Secretary
+Footnotes1
+The findings herein are made pursuant to AXS-One's Offer of Settlement and are not binding on any other person or entity in this or any other proceeding.
+2
+Specifically, Computron filed the following documents with the Commission on the following dates: (i) Form 10-Q for the quarter ended September 30, 1995, filed on November 13, 1995; (ii) Form 10-K for the year ended December 31, 1995, filed on April 1, 1996; (iii) Form 10-Q for the quarter ended March 31, 1996, filed on May 15, 1996; (iv) Form 10-Q for the quarter ended June 30, 1996, filed on August 14, 1996; and (v) Form 10-Q for the quarter ended September 30, 1996, filed on November 14, 1996.
+3
+The understatement of loss percentage is not applicable during this period, because Computron went from initially reporting a profit to a loss after the Restatement.
+http://www.sec.gov/litigation/admin/33-7953.htm
+Home | Previous Page
+Modified:02/14/2001

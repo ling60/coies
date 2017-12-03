@@ -1,0 +1,397 @@
+---------------------Page 1---------------------
+
+                         UNITED STATES OF AMERICA 
+                                    Before the 
+                  SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES ACT OF 1933 
+Release No. 9634 / August 22, 2014 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 72904 / August 22, 2014 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3576 / August 22, 2014 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No.  3-16033 
+ 
+                                                      ORDER INSTITUTING 
+In the Matter of                                     ADMINISTRATIVE AND 
+                                                     CEASE-AND-DESIST 
+      AIRTOUCH COMMUNICATIONS, INC.,                 PROCEEDINGS PURSUANT 
+      HIDEYUKI KANAKUBO, AND                         TO SECTION 8A OF THE 
+      JEROME KAISER, CPA,                            SECURITIES ACT OF 1933 
+                                                     AND SECTIONS 4C AND 21C 
+Respondents.                                         OF THE SECURITIES 
+                                                      EXCHANGE ACT OF 1934, 
+                                                      AND RULE 102(e) OF THE 
+                                                     COMMISSIONS RULES OF 
+                                                     PRACTICE  
+                                             
+                                        I. 
+
+      The Securities and Exchange Commission (Commission) deems it appropriate that public 
+administrative and cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 
+8A of the Securities Act of 1933 (Securities Act) and Section 21C of the Securities Exchange 
+Act of 1934 (Exchange Act) against AirTouch Communications, Inc., Hideyuki Kanakubo, and 
+Jerome Kaiser, CPA (collectively, Respondents), and additionally as to Kaiser, pursuant to 
+Section 4C of the Exchange Act and Rule 102(e)(1)(iii) of the Commissions Rules of Practice. 
+
+                                        II. 
+
+      After an investigation, the Division of Enforcement alleges that: 
+
+      A.    SUMMARY 
+
+            1.     This matter involves fraudulent financial disclosures and omissions by 
+AirTouch Communications, Inc. (AirTouch), a Newport Beach, California issuer, its founder and 
+former president and CEO Hideyuki Kanakubo (Kanakubo) , and its former CFO and corporate 
+---------------------Page 2---------------------
+
+secretary Jerome Kaiser, CPA  (Kaiser), in the companys voluntarily filed Form 10-Q for the 
+third quarter of 2012, and in fraudulent statements and omissions to an investor   in connection with 
+a $2 million loan made to the company in the fall of 2012.   
+
+              2.     In the third quarter of 2012, AirTouch improperly recognized net revenues 
+of $1.031 million based on $1.24 million of inventory shipped to a Florida entity.  This revenue 
+recognition was improper because, as both Kanakubo and Kaiser knew, or were reckless in not 
+knowing, a fulfillment and logistics agreement executed contemporaneously with the Florida 
+entitys purchase orderand upon which the purchase order was conditioned relieved that entity 
+of any obligation to pay AirTouch unless and until an AirTouch customer purchased the inventory.  
+Kanakubo and Kaiser also knowingly, recklessly or negligently made false representations and 
+omissions about this revenue to an AirTouch   investor and lender.  Their conduct in inflating the 
+revenues and obtaining financing was also deceptive and constituted a scheme to defraud.  
+
+              3.     In early 2013, AirTouch filed a Form 8-K disclosing its intention to restate 
+net revenues for the third quarter of 2012, based on erroneous revenue recognition.   
+
+       B.     RESPONDENTS 
+
+              4.     AirTouch Communications, Inc. is a Delaware corporation with its 
+principal place of business in Newport Beach, California.  AirTouchs common stock is quoted on 
+the OTC Pinks  under the symbol ATCH.   AirTouch develops and sells telecommunications 
+equipment designed to integrate mobile telephones into landline telephone systems within a 
+consumers home.   
+
+              5.      Hideyuki Kanakubo resid es in Irvine, California.  He is AirTouchs 
+founder and former president, CEO, director, and chief technology officer.  At all relevant times, 
+Kanakubo was responsible for the management of AirTouchs business.  As of May 31, 2014, 
+Kanakubo beneficially owned or controlled 1,858,143 shares of AirTouch common stock, or 9% of 
+the companys total outstanding shares.  Kanakubo resigned as president and CEO in March 2013.  
+He resigned as chief technology officer in April 2013. 
+
+              6.     Jerome Kaiser, CPA               resides in Chowchilla, California.  Kaiser is a 
+licensed Certified Public Accountant and an active member in the AICPA and California Society 
+of Public Accountants.  Kaiser holds a BS in Accounting and an MS in Business Taxation.  He is 
+AirTouchs former CFO and corporate s ecretary.  At all relevant times, Kaiser was responsible for 
+the management of AirTouchs business.  As of May 31, 2014, Kaiser owned options to acquire 
+520,096 shares of AirTouch common stock at a strike price of $2 per share.   He resigned from 
+AirTouch in April 2013. 
+
+       C.     FACTUAL BACKGROUND 
+
+              7.     In or around early 2012, AirTouch developed a new product, the U250 
+SmartLinx, designed for sale to Mexicos largest provider of landline telephone services (the 
+Mexican Entity).     
+
+              8.     On July 30, 2012, AirTouch contacted a Florida provider of logistics and 
+fulfillment services (the Florida Entity) about the possibility of warehousing AirTouchs U250 
+
+                                              2 
+---------------------Page 3---------------------
+
+SmartLinx product for possible sale to the Mexican Entity.  AirTouch had never done business 
+with the Florida Entity prior to July 30, 2012. 
+
+              9.      During contract negotiations related to this potential warehousing 
+arrangement, the Florida Entitys CEO told Kanakubo that the Florida Entity was not buying any 
+product from AirTouch, but rather would only warehouse  the U250 SmartLinx inventory for 
+eventual delivery to the Mexican Entity or other customers of AirTouch.  AirTouchs salesperson 
+relayed the same information to Kaiser.   
+
+              10.     On July 30, 2012, Kaiser sent Kanakubo a Fulfillment and Logistics 
+Agreement between AirTouch and the Florida Entity (the Agreement), asking him to 
+immediately review and sign it, which Kanakubo did.  The Agreement included, among other 
+terms, the following provisions:    
+
+       a)     Section 3 (Orders and Acceptance):  [The Florida Entity]s purchase orders are 
+              subject to purchase orders by [the Mexican Entity] and/or any other customer that 
+              may be assigned from time to time by AirTouch.  In the event [the Mexican Entity] 
+              or any of the customers does not fulfill the purchase orders and/or cancels the 
+              orders, [the Florida Entity] shall have the right to return these products to AirTouch 
+              and obtain a full credit equal to the original purchase amount with no offsets or 
+              deductions or any kind.; 
+
+       b)     Section 5 (Resale to [the Mexican Entity] and/or Assigned Customers by 
+              AirTouch):  [The Florida Entity] shall store the merchandise until shipment of the 
+              Products and shall invoice AirTouch for storage of the products, in/out control, 
+              invoicing, stock reconciliation, at 1.5% of the invoice value for the first 30 days and 
+              an additional 1% for each additional 30 days.; and 
+
+       c)     Section 6 (Payment):  [The Florida Entity] shall pay for Products in 90 days in 
+              accordance with the payment terms invoiced by AirTouch.  However, [the Florida 
+              Entity] shall not be obligated to pay AirTouch until the Products have been received 
+              by [the Mexican Entity] and [the Florida Entity] has received full payment therefor, 
+              at which time then [the Florida Entity] shall pay AirTouch for the Products within 
+              10 days thereafter. 
+
+              11.     The same day, the Florida Entity issued a $1.74 million purchase order 
+for 20,000 U250 SmartLinx (the Purchase Order).  The Purchase Order stated a payment term of 
+Net 90 but also stated that its payment terms were according to term sheet.   The Agreement 
+was the term sheet.  Kaiser received emails where representatives of the Florida Entity described 
+the Purchase Order as conditional upon AirTouchs execution of the Agreement.  Kanakubo was 
+also made aware that the Florida Entity would not issue the Purchase Order unless AirTouch first 
+executed the Agreement. 
+
+              12.     On July 31, 2012, the Florida Entity sent Kaiser the counter-signed 
+Agreement and the Purchase Order in a single email.   Before forwarding this email to AirTouchs 
+controller, he deleted the Agreement as an attachment, and forwarded only the Purchase Order. 
+
+                                               3 
+---------------------Page 4---------------------
+
+              13.    AirTouch shipped approximately $1.24 million of  inventory to the Florida 
+Entity during the third quarter of 2012, pursuant to the Agreement and the Purchase Order.  
+AirTouch recognized revenue on all $1.24 million of inventory shipped to the Florida Entity during 
+the quarter. 
+
+              14.    In October 2012, in connection with AirTouchs quarterly review, 
+AirTouchs controller provided its outside independent accountant with a copy of the Purchase 
+Order, but not the Agreement.  The outside independent accountant did not receive the Agreement 
+since Kaiser had never provided AirTouchs controller with the Agreement. 
+
+              15.    When discussing the purported receivable AirTouch booked from the 
+Florida Entity at board meetings, Kanakubo and Kaiser did not inform AirTouchs outside 
+directors, including the chairman of the audit committee, that shipments to the Florida Entity were 
+controlled by the Agreement.  
+
+              16.    AirTouch did not receive any payment from the Florida Entity during the 
+third quarter of 2012, and likewise received no commitment from the Mexican Entity that it would 
+buy product shipped to the Florida Entity, or otherwise.  
+
+              1.   AirTouch, Kanakubo and Kaiser Made False and Misleading Statements 
+              and Engaged in a Scheme to Defraud and Deceptive Conduct Concerning 
+              Revenue Recognition    in AirTouchs Form 10-  Q for the Third Quarter 2012  
+
+              17.    On November 14, 2012, AirTouch filed its Form 10-Q for the third quarter 
+of 2012, reporting net revenues of $1,031,747.  Without the revenue recognized on the inventory 
+shipped to the Florida Entity, AirTouch would not have had any positive revenue for the quarter.   
+
+              18.    Under Generally Accepted Accounting Principles (GAAP), revenue 
+cannot be recognized unless it is realized or realizable and earned.   
+
+              19.    AirTouchs recognition of revenues for the inventory shipped to the Florida 
+Entity did not comply with GAAP.  Because AirTouch did not sell any product to the Florida 
+Entitythe Purchase Order and the Agreement merely documented , for tracking purposes, the 
+transfer of AirTouch inventory to the Florida Entity in contemplation of future salesthe revenue 
+associated with shipments to the Florida Entity was not realized, realizable or earned.   
+
+              20.    AirTouchs revenue recognition policy, which was disclosed in the 10-Q 
+and was consistent with the requirements of Generally Accepted Accounting Principles, permitted 
+the recognition of revenue only where :  (1) persuasive evidence of an arrangement exists in the 
+form of an accepted purchase order or equivalent documentation; (2) delivery has occurred, based 
+on shipping terms, or services have been provided; (3) the companys price to the buyer is fixed or 
+determinable, as documented on the accepted purchase order or similar documentation; and (4) 
+collectability is reasonably assured. 
+
+              21.    Given the terms of the Purchase Order and the Agreement, AirTouch had no 
+reasonable assurance of collectability from the Florida Entity because AirTouch did not even have 
+a valid receivable to collect from the Florida Entity.     
+
+                                              4 
+---------------------Page 5---------------------
+
+              22.    Kanakubo and Kaiser signed certifications intended to be made pursuant to 
+the Sarbanes-Oxley Act of 2002, stating that the Form 10-Q fairly presented AirTouchs financial 
+condition and results.     
+
+              23.    Kanakubo and Kaiser knew, or were reckless in not knowing, that 
+AirTouchs Form 10- Q contained materially false or misleading statements concerning reported 
+net revenues and compliance with GAAP or AirTouchs revenue recognition policy .   
+
+              24.    The false and misleading statements in AirTouchs Form 10-Q occurred in 
+connection with the purchase or sale of securities. 
+
+              25.    The false and misleading statements in AirTouchs Form 10-Q were 
+material.  These statements would have been viewed by a reasonable investor as significantly 
+altering the total mix of available information, given that AirTouch would not have had any 
+positive revenues for the quarter if it did not recognize the revenue from the Florida Entity.  The 
+Form 10-Q also reflected AirTouchs largest revenues ever reported for a quarter.   
+
+              26.    Kanakubo and Kaiser each knew about the Agreement    but concealed it from 
+others involved in AirTouchs financial reporting process, including the controller, the chairman of 
+the audit committee, and the companys outside independent accountant.  These acts of 
+concealment, along with other deceptive conduct, contributed to a revenue recognition scheme and 
+operated as a fraud.  
+
+              27.    Because of Kanakubos and Kaisers positions as AirTouchs senior 
+management, their scienter is attributable to AirTouch. 
+
+              28.    At all relevant times, Kanakubo and Kaiser were the companys principal 
+officers; they were the members of management in charge of AirTouchs day-to-day management, 
+policies, and operations; and they were responsible for preparing and signing AirTouchs SEC 
+filings.   
+
+              2.  Kanakubo and Kaiser Made False and Misleading Statements and 
+              Omissions to an Investor and Engaged in a Scheme to Defraud and Deceptive 
+              Conduct Concerning Revenues from the Florida Entity        
+
+              29.    In or around 2012, Kanakubo and Kaiser solicited a short term bridge loan 
+from an existing AirTouch investor (Investor A), in exchange for a promissory note and a 
+warrant to purchase 100,000 shares of AirTouch common stock.  Investor A  recommended the 
+loan and warrant acquisition opportunity to a related entity, for which he served as the authorized 
+agent during the due diligence process.   
+
+              30.    On October 3, 2012, Kanakubo falsely told Investor A by email that the 
+inventory to be shipped by AirTouch to the Florida Entitywhich he mischaracterized as an 
+authorized fulfillment house for the Mexican Entitypertained to an existing purchase order 
+from the Mexican Entity.    
+
+              31.    Around the same time, Kaiser provided Investor As representatives with 
+the Purchase Order, but did not provide them with or disclose the existence of the Agreement. 
+
+                                              5 
+---------------------Page 6---------------------
+
+              32.     On October 17, 2012, AirTouch received the loan of $2 million from 
+Investor A in exchange for a warrant to purchase its common stock.    
+
+              33.     Two days later, on October 19, 2012, Kanakubo approved a $15,000 bonus 
+payment to Kaiser for his work on raising capital.  The same day, Kanakubo authorized a $15,000 
+payment to himself in connection with unused vacation time.    
+
+              34.     Kanakubo and Kaiser knew, or were reckless in not knowing, that their 
+statements to Investor A concerning revenues from the Florida Entity were materially false and 
+misleading.   
+
+              35.     Kanakubo and Kaiser also  failed to act with reasonable care because:   
+(1) they did not ensur e that Investor A was provided with all material information necessary to 
+make their statements to him concerning the inventory shipped to the Florida Entity not 
+misleading; and (2) they provided Investor As representatives with the Purchase Order but not the 
+Agreement. 
+
+              36.     The false and misleading statements and omissions to Investor A occurred 
+in the offer or sale of, and in connection with the purchase or sale of, securities. 
+
+              37.     Kanakubos and Kaisers false and misleading statements to Investor A, and 
+their failure to disclose the terms of the Agreement, were material.  Kanakubos and Kaisers  
+statements to Investor A, and the terms of the Agreement, would have been viewed by a reasonable 
+investor as significantly altering the total mix of available information because, among other 
+reasons, AirTouch had not sold any of the inventory warehoused with the Florida Entity to the 
+Mexican Entity, and thus had no basis to represent that it expected to collect revenue from the 
+Florida Entity.   
+
+              38.     Kanakubo and Kaiser lured Investor A over several months into loaning 
+AirTouch $2 million based on a distorted view of AirTouchs finances and relationships with third 
+parties, including the Mexican Entity and the Florida Entity.  They led  Investor A to believe that 
+AirTouch would receive a substantial financial commitment from the Mexican Entity, which 
+would then provide AirTouch with sufficient cash flow for AirTouch to service and repay the loan.  
+These inducements by Kanakubo and Kaiser, along with other deceptive conduct, contributed to an 
+offering fraud scheme and a fraudulent transaction.   
+
+              39.     Because of Kanakubos and Kaisers positions as AirTouchs senior 
+management, their scienter and their negligence are attributable to AirTouch. 
+
+              40.     At all relevant times, Kanakubo and Kaiser were the companys principal 
+officers; they were the members of management in charge of AirTouchs day-to-day management, 
+policies, and operations; and they were responsible for negotiating with Investor A, providing 
+Investor A with due diligence materials, and for preparing and signing AirTouchs SEC filings.   
+
+              3.  AirTouch Announces It Will Restate Revenues  
+
+              41.     In January 2013, AirTouchs board of directors commenced an internal 
+investigation concerning the net revenues reported in the Form 10-Q for the third quarter of 2012.    
+
+                                               6 
+---------------------Page 7---------------------
+
+              42.     At this time, Kaiser provided the chairman of  the audit committee with the 
+Purchase Order, but withheld the Agreement. 
+
+              43.     AirTouchs board of directors and its outside auditor subsequently received 
+the Agreement, and determined to restate reported revenues for the third quarter of 2012. 
+
+              44.     AirTouch filed a Form 8-K on February 7, 2013, announcing errors in 
+revenue recognition and the intention to file an amended Form 10-Q.  No amended Form 10-Q has 
+been filed. 
+
+       E.     VIOLATIONS 
+
+              45.     As a result of the conduct described above, Respondents AirTouch and 
+Kanakubo violated, and Kaiser willfully violated, Sections 17(a)  of the Securities Act, and Section 
+10(b) of the Exchange Act and Rule 10b-5 thereunder, which prohibit fraudulent conduct in the 
+offer and sale of securities and in connection with the purchase or sale of securities.   
+
+              46.     Respondents Kanakubo and Kaiser are jointly and severally  liable under 
+Section 8A(a) of the Securities Act for causing AirTouchs violations of Section 17(a) of the 
+Securities Act and under Section 21C(a) of the Exchange Act for causing AirTouchs violations of 
+Section 10(b) of the Exchange Act and Rule 10b-5 thereunder, and in the case of Kaiser, for 
+willfully aiding and abetting AirTouchs violations of the Securities Act and the Exchange Act.  
+
+                                              III. 
+
+       In view of the allegations made by the Division of Enforcement, the Commission deems it 
+appropriate in the public interest that public administrative and cease-and-desist proceedings be 
+instituted to determine: 
+
+       A.     Whether the allegations set forth in Section II hereof are true and, in connection 
+therewith, to afford Respondents an opportunity to establish any defenses to such allegations;  
+
+       B.     Whether, pursuant to Section 8A of the Securities Act and Section 21C of the 
+Exchange Act, Respondents should be ordered to cease and desist from committing or causing 
+violations of and any future violations of Sections 17(a) of the Securities Act and Sections 10(b)  of 
+the Exchange Act and Rule 10b-5 thereunder, whether Respondents should be ordered to pay a civil 
+penalty pursuant to Section 8A(g) of the Securities Act, in the public interest, and Section 21B(a) of 
+the Exchange Act; whether Respondents should be ordered to pay disgorgement pursuant to Section 
+8A(e) of the Securities Act and Sections 21B(e) and 21C(e) of the Exchange Act; and whether other 
+appropriate relief should be granted, including a prohibition from service as an officer or director of 
+any issuer pursuant to Section 8A(f) of the Securities Act and Section 21C(f) of the Exchange Act; 
+and  
+
+       C.     Whether, pursuant to Section 4C of the Exchange Act and Rule 102(e)(1)(iii) of the 
+Commissions Rules of Practice, it is appropriate to censure or deny Kaiser the privilege of 
+appearing or practicing before the Commission. 
+
+                                               7 
+---------------------Page 8---------------------
+
+                                               IV. 
+
+       IT IS ORDERED that a public hearing for the purpose of taking evidence on the questions 
+set forth in Section III hereof shall be convened not earlier than 30 days and not later than 60 days 
+from service of this Order at a time and place to be fixed, and before an Administrative Law Judge 
+to be designated by further order as provided by Rule 110 of the Commission's Rules of Practice, 17 
+C.F.R. § 201.110.  
+
+       IT IS FURTHER ORDERED that Respondents shall file an Answer to the allegations 
+contained in this Order within twenty (20) days after service of this Order, as provided by Rule 220 
+of the Commission's Rules of Practice, 17 C.F.R. § 201.220.  
+
+       If Respondents fail to file the directed answer, or fails to appear at a hearing after being duly 
+notified, Respondents may be deemed in default and the proceedings may be determined against 
+him upon consideration of this Order, the allegations of which may be deemed to be true as 
+provided by Rules 155(a), 220(f), 221(f) and 310 of the Commission's Rules of Practice, 17 C.F.R. 
+§§ 201.155(a), 201.220(f), 201.221(f) and 201.310. 
+
+       This Order shall be served forthwith upon Respondents personally or by certified mail. 
+
+       IT IS FURTHER ORDERED that the Administrative Law Judge shall issue an initial 
+decision no later than 300 days from the date of service of this Order, pursuant to Rule 360(a)(2) of 
+the Commissions Rules of Practice. 
+
+       In the absence of an appropriate waiver, no officer or employee of the Commission engaged 
+in the performance of investigative or prosecuting functions in this or any factually related 
+proceeding will be permitted to participate or advise in the decision of this matter, except as witness 
+or counsel in proceedings held pursuant to notice.  Since this proceeding is not rule making within 
+the meaning of Section 551 of the Administrative Procedure Act, it is not deemed subject to the 
+provisions of Section 553 delaying the effective date of any final Commission action. 
+
+       By the Commission. 
+ 
+ 
+ 
+                                                            Jill M. Peterson 
+                                                            Assistant Secretary 
+
+                                                8 

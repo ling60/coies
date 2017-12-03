@@ -1,0 +1,709 @@
+﻿---------------------Page 1---------------------
+
+           Case 1:10-cv-04903   Document 1    Filed 08/04/10   Page 1 of 14
+
+                           UNITED STATES DISTRICT COURT 
+                      FOR THE NORTHERN DISTRICT OF ILLINOIS 
+                                   EASTERN DIVISION 
+                                                       
+ : 
+SECURITIES AND EXCHANGE COMMISSION            : 
+ : 
+ Plaintiff,                                           :    
+                                                      :     Civ. No. 10-cv-4903 
+ v.    :                                                  
+         : 
+JAMES W. MCINTOSH,                                    : 
+THOMAS M. AKERS, JR.,                                 : 
+JAMES J. STANAWAY,                                    : 
+ERNEST A. STINSA, AND                                 : 
+MICHAEL J. SCHULTZ                                    :       
+ :                                                       
+ Defendants.                                          : 
+                                                      : 
+ 
+                                       COMPLAINT 
+                                               
+               Plaintiff Securities and Exchange Commission (Commission) alleges: 
+
+       1.           This is an action to obtain civil penalties against five current and former 
+
+employees of <comp.>Navistar International Corp.</> (Navistar or the Company) for various violations 
+
+of the federal securities laws.  The Complaint concerns improper and, with respect to four of the 
+
+defendants, fraudulent accounting practices in various aspects of Navistars business, including 
+
+vendor rebates, warranty reserve, vendor tooling buybacks, and fraudulent accounting at a 
+
+Wisconsin foundry, from 2002 through 2005.  
+
+                                      JURISDICTION 
+
+       2.           The Commission seeks the imposition of civil monetary penalties pursuant to 
+
+Section 20(d) of the Securities Act of 1933 [15 U.S.C. § 77t(d)] and Section 21(d)(3) of the 
+
+Securities Exchange Act of 1934 [15 U.S.C. § 78u(d)(3)]. 
+
+       3.           This Court has jurisdiction over this action pursuant to Section 22(a) of the 
+
+Securities Act [15 U.S.C.  §77v(a)] and Section 27 of the Exchange Act [15 U.S.C. §78aa].  
+---------------------Page 2---------------------
+
+            Case 1:10-cv-04903   Document 1    Filed 08/04/10   Page 2 of 14
+
+Venue lies in this district because Navistars corporate offices are located in Warrenville, 
+
+Illinois, which is in this district, and because the transactions, acts, and omissions giving rise to 
+
+this action occurred in this district. 
+
+       4.           The defendants, directly or indirectly, made use of the means or instrumentalities 
+
+of interstate commerce, or of the mails, in connection with the transactions, acts, practices, and 
+
+courses of business alleged herein.    
+
+                                        DEFENDANTS 
+
+       5.           James W. McIntosh (McIntosh), 60, of Naperville, Illinois, was Vice President 
+
+of Finance for the Engine Division throughout the relevant period.  In that position, McIntosh 
+
+was the CFO of the Engine Division and was directly responsible for its accounting, financial 
+
+reporting, and internal controls.  McIntosh was transferred to the Parts Group in January 2006 
+
+and subsequently retired in May 2007. 
+
+       6.           Thomas M. Akers, Jr. (Akers), 58, of Aurora, Illinois, was Director of 
+
+Purchasing for the Engine Division from April 1996 through August 2004.  He was thereafter 
+
+promoted to Vice President, Purchasing and Logistics and remained in that position until his 
+
+retirement in January 2009.    
+
+       7.           James J. Stanaway (Stanaway), 64, of Springfield, Ohio, was Director of 
+
+Finance for the Engine Division during the relevant period through June 2004, when he retired 
+
+from the Company.  In that role, Stanaway reported directly to McIntosh.   
+
+       8.           Ernest A. Stinsa (Stinsa), 41, of Elmhurst, Illinois, replaced Stanaway as 
+
+Director of Finance for the Engine Division in 2004.  Stinsa left Navistar in January 2006, but 
+
+rejoined the Company in May 2010 in its Global Product Development division.  In his new 
+
+capacity, Stinsa has no direct accounting or financial reporting responsibilities. 
+
+                                                2
+---------------------Page 3---------------------
+
+            Case 1:10-cv-04903   Document 1    Filed 08/04/10   Page 3 of 14
+
+       9.           Michael J. Schultz (Schultz), 45, of Waukegan, Illinois, was the Plant 
+
+Controller at Navistars foundry in Waukesha, Wisconsin, during the relevant period.  Schultz 
+
+was terminated in April 2005.   
+
+                      OTHER RELEVANT PERSONS OR ENTITIES 
+
+       10.        Navistar, a Delaware corporation headquartered in Warrenville, Illinois, is a 
+
+holding company whose principal subsidiary, Navistar, Inc. (f/k/a International Truck and 
+
+Engine Corporation), manufactures and markets commercial trucks, school buses, diesel engines, 
+
+and related parts worldwide.  During the relevant period, Navistars securities were registered 
+
+with the Commission pursuant to Section 12(b) of the Exchange Act and traded on the New York 
+
+Stock Exchange.   As of November 30, 2009, Navistar had 70,718,762 shares outstanding.    
+
+                                           FACTS 
+
+             Fraudulent and Other Improper Accounting Practices at Navistar 
+                                                
+                                       Vendor Rebates 
+                                                
+              11.        During the 2001 to 2004 time period, Navistar ramped up its engine production 
+
+beyond initial expectations and correspondingly increased its purchases of engine parts from 
+
+suppliers.  Navistar sought to share in those suppliers unanticipated profits by asking them to 
+
+pay a portion back to the Company in the form of rebates.  Under Generally Accepted 
+
+Accounting Principles (GAAP), a company could recognize rebates only when they were 
+
+actually earned, i.e., when the entity had substantially accomplished what was necessary to be 
+
+entitled to such rebates.  Accordingly, Navistar could record the full rebate as income in the then-
+
+current period only if no contingencies existed on its right to receive the rebate.  Conversely, the 
+
+Company was prohibited from booking rebates as income in the then-current period if they were 
+
+based on future business.    
+
+                                               3
+---------------------Page 4---------------------
+
+            Case 1:10-cv-04903   Document 1    Filed 08/04/10   Page 4 of 14
+
+       12.        During this period, Navistar booked 35 rebates and related receivables from its 
+
+suppliers.  Of those rebates and receivables, as many as 30 were improperly booked.  While 
+
+these rebates and receivables took different forms -- including volume-based rebates and so-
+
+called signing bonuses for Navistars award of new business -- all were improperly booked as 
+
+income in their entirety upfront, even though, in whole or in part, they were earned in future 
+
+periods.  The Companys eventual restatement of these rebates and receivables totaled $9.7 
+
+million of <item.>pre-tax income</> in <date.>2004</> and $8.5 million in <date.>2003</>, which represented 27.7 percent and 
+
+2.7 percent, respectively, of the restated loss before income taxes for those years. 
+
+         13.      The vast majority of these receivables were volume-based rebates that Navistar 
+
+obtained from its suppliers at the end (or even after the end) of the fiscal year.  As contingent 
+
+consideration for paying these rebates, however, many suppliers required the Company either to 
+
+agree to new business or to repay the amount of the rebate in the form of waived price 
+
+concessions on already-agreed upon future business.  The Engine Division booked these rebates, 
+
+often using the same form letter (which in certain instances was back-dated) that falsely stated 
+
+that the rebate  was based on past purchases and had no contingencies.  In some instances, 
+
+certain Engine Division employees also generated side-letter arrangements with vendors that 
+
+detailed that the rebates were contingent on future purchases and/or the vendor could recoup the 
+
+rebate through inflated future prices by which the Company would forego agreed-upon price 
+
+reductions.  Additionally, these side-letters stated that Navistar would refund the rebate 
+
+accordingly if the Company failed to make sufficient future purchases.  These side-letters made 
+
+clear that these rebates had not actually been earned at the time the amounts were recognized. 
+
+       14.        In one instance, Vendor Rebate 1, a supplier executed a form rebate letter 
+
+drafted by Navistar, and dated October 19, 2004, that said the supplier was providing the 
+
+Company a $2.1 million rebate based on 2004 volume and piece price productivity 
+
+                                                4
+---------------------Page 5---------------------
+
+            Case 1:10-cv-04903   Document 1    Filed 08/04/10   Page 5 of 14
+
+improvements.  However, the very next day, October 20, 2004, the parties executed a side-letter 
+
+arrangement that specifically stated that half of the rebate was based on pulling forward 
+
+productivity improvements expected to be achieved in 2005.  Navistar also agreed to refund any 
+
+shortfall to the supplier should these improvements not be achieved.   Thus, the side-letter made 
+
+clear that the suppliers rebate was contingent on future business with the Company.   
+
+Nevertheless, Navistar approved the rebate and booked the entire dollar amount in fiscal year 
+
+2004. 
+
+       15.        Another form of these improperly-booked rebates were so-called signing 
+
+bonuses that Navistar demanded and received from certain suppliers in exchange for awarding 
+
+new business.  Despite the fact that the suppliers payments were contingent on receiving that 
+
+new business from Navistar, the Company booked the rebates in their entirety during the then-
+
+current period in which they were received, instead of when earned over the period of the future 
+
+business.  
+
+       16.        In one such instance, Vendor Rebate 2, McIntosh contacted Stanaway four days 
+
+after the 2003 fiscal year-end to discuss the need to fill an earnings shortfall.  Stanaway, in turn, 
+
+discussed the shortfall with Akers, who in exchange for promising to provide future business to a 
+
+particular supplier in 2004, convinced the supplier to agree to pay a $6.2 million signing bonus to 
+
+the Company and to provide Navistar with a letter that would allow the Company to book the 
+
+full amount in 2003.  The vendor had never before done business with Navistar.  Akers had 
+
+engaged in previous discussions with the vendor about possible future business and the payment 
+
+of a signing bonus, but the terms of the signing bonus were not finalized until after the 2003 
+
+fiscal year-end.  Stanaway, who had no direct role in acquiring the rebate, then approved an entry 
+
+recording the $6.2 million as income in 2003.   
+
+                                                5
+---------------------Page 6---------------------
+
+            Case 1:10-cv-04903   Document 1    Filed 08/04/10   Page 6 of 14
+
+       17.        McIntosh, Akers, and Stanaway understood that to be booked in the current 
+
+period, such rebates could not be contingent or otherwise based on future business.   Despite this 
+
+understanding, McIntosh and Akers directly negotiated or otherwise arranged for the Company 
+
+to enter into and book certain rebates during the then-current period knowing, or recklessly 
+
+failing to know, that such rebates were contingent on future business.  As recorded, these rebates 
+
+were not in compliance with GAAP.  Additionally, McIntosh and Akers directly or indirectly 
+
+approved the creation and use of letters that they knew or recklessly failed to know did not 
+
+reflect material aspects of the transaction. 
+
+       18.        Akers initiated the concept at Navistar of seeking vendor rebates based on volume 
+
+increases and often supervised the employees negotiating the vendor rebates and related 
+
+receivables.  In several instances, including Vendor Rebate 1 and Vendor Rebate 2, Akers 
+
+directly or indirectly approved rebates that he knew, or recklessly failed to know, were tied to 
+
+future business but would nonetheless be booked in the then-current period.  Akers participated 
+
+directly in the negotiations of multiple rebates and, in certain instances, personally received both 
+
+a clean letter and side-letter for the same rebate, which was evidence that the rebate had 
+
+contingencies.    
+
+       19.        As CFO of the Engine Division, McIntosh was responsible for the accounting for 
+
+all Engine receivables during the relevant period, including all vendor rebates.  McIntosh was 
+
+involved in the planning of at least three rebates, including Vendor Rebate 2, knowing, or 
+
+recklessly failing to know, that they were contingent on future business but would nonetheless be 
+
+booked in their entirety in the then-current period.    
+
+       20.        As Director of Engine Finance, Stanaway approved the recording of receivables 
+
+from fiscal 2001 through 2003, including all vendor rebates.  Stanaway typically was not 
+
+involved in the negotiation of vendor rebate agreements or the procuring of clean letters that 
+
+                                                6
+---------------------Page 7---------------------
+
+            Case 1:10-cv-04903   Document 1    Filed 08/04/10   Page 7 of 14
+
+supported the booking of such rebates, and usually became involved in these transactions only at 
+
+the final approval stage.  Despite his lack of involvement in obtaining these vendor rebates, 
+
+Stanaway  approved the booking of certain rebates as income, including the booking of Vendor 
+
+Rebate 2, knowing, or recklessly failing to know, that they were contingent on future business 
+
+and should not be booked as income in the current period.   Stanaway had little accounting 
+
+background or formal training in GAAP at the time of the transactions. 
+
+              21.        Stinsa succeeded Stanaway for a relatively brief period, from July 2004 until 
+
+January 2006.  As Stanaways successor, Stinsa was not involved in the negotiation of vendor 
+
+rebate agreements or the procuring of clean letters that supported the booking of such rebates.  
+
+Instead, Stinsa became involved in the vendor rebate process only when asked on a sporadic 
+
+basis to approve booking certain rebates.  While authorized to approve booking these 
+
+receivables, Stinsas primary responsibilities did not include these transactions, and he had little 
+
+accounting background or formal training in GAAP at the time of the transactions.  For example, 
+
+Stinsa did not specifically know whether booking so-called signing bonuses into income in the 
+
+then-current period was consistent with GAAP; instead, he assumed it was, because he knew the 
+
+Company had a practice of soliciting and booking such receivables.  In fiscal 2004, Stinsa 
+
+erroneously approved the booking of a $4 million signing bonus based on a letter that, while 
+
+expressly stating that the bonus was unconditional, also stated that the payment concerned the 
+
+award of new business.  Stinsa should have inquired whether the receivable was, in fact, 
+
+contingent on the vendors expected new business with Navistar.  Stinsa erroneously approved 
+
+the booking of two other vendor rebates in fiscal 2004, including another signing bonus and a 
+
+volume-based rebate.  In approving these rebates without sufficient inquiry, Stinsa directly or 
+
+indirectly caused Navistar to enter a false financial book, record or account.     
+
+                                                 
+
+                                                7
+---------------------Page 8---------------------
+
+            Case 1:10-cv-04903   Document 1    Filed 08/04/10   Page 8 of 14
+
+                                        Vendor Tooling 
+
+       22.        Prior to 2003, Navistar periodically entered into amortization agreements 
+
+concerning the cost of tooling with vendors.  Under these arrangements, the vendors purchased 
+
+the tooling they used to make parts sold to Navistar, and the Company repaid the suppliers for 
+
+those tooling costs through amortization payments incorporated in the piece-price rates of the 
+
+parts ultimately sold to Navistar.  In 2003, the Company determined that in some instances, 
+
+instead of continuing these amortization payments, the Company would benefit (in part through 
+
+beneficial accounting treatment) by purchasing the tooling outright from the suppliers and 
+
+depreciating the tooling costs going forward over a longer period.  Consequently, in 2003, the 
+
+Company initiated a program pursuant to which Navistar arranged to terminate certain of these 
+
+amortization agreements and acquired the tooling via lump sum payments to the suppliers.  
+
+However, instead of paying suppliers the remaining unamortized tooling cost as of the 2003 
+
+purchase date, the Company paid the suppliers a dollar amount equivalent to the unamortized 
+
+tooling cost as of the beginning of the 2003 fiscal year.  Since Navistar had already been paying 
+
+amortization to the suppliers since the start of that fiscal year (i.e., November 1, 2002), the 
+
+Company arranged to receive back from those suppliers a rebate equivalent to those year-to-
+
+date amortization payments.  The Company then improperly booked these rebates into income.  
+
+In addition, the Company improperly deferred depreciation costs related to the tooling buybacks.   
+
+       23.        In 2003, two Navistar employees approached the Companys outside auditor 
+
+regarding the accounting for certain contemplated tooling buyback transactions.  After learning 
+
+of the planned accounting for the program, e-mails indicate that the auditor informed the 
+
+employees that the recapture and booking of previously-paid amortization into income was 
+
+improper.  While certain transactions were booked in fiscal year 2003 because they were 
+
+believed to be of immaterial dollar amounts, e-mails indicate that the auditor informed the 
+
+                                               8
+---------------------Page 9---------------------
+
+            Case 1:10-cv-04903   Document 1    Filed 08/04/10   Page 9 of 14
+
+Company that no such transactions would be permitted in fiscal year 2004.  Despite being 
+
+informed of these developments, McIntosh used a 60-day rule and authorized Engine Division 
+
+employees in 2004 to record 60 days of amortization recaptured as income based on the 
+
+Companys payment terms.  In so doing, McIntosh disregarded employees warnings that 
+
+continuing to record the recapture of amortization as income would be inconsistent with the 
+
+auditors guidance on the accounting.    
+
+       24.        In disregarding that guidance, McIntosh knew or recklessly failed to know that 
+
+Navistar booked income in violation of GAAP.  In 2004, the Company restated a total of $1.6 
+
+million in income related to the vendor tooling buyback program, or 4.6 percent of the restated 
+
+loss before income taxes for that year. 
+
+                                          Waukesha 
+
+       25.        From 2001 to 2005, Schultz, the Waukesha plant controller, engaged in various 
+
+fraudulent accounting practices that collectively caused income during that period to be 
+
+overstated by a total of approximately $38 million.  
+
+       26.        From early 2003 through 2005, Schultz directed the plant manager of accounting to 
+
+delay processing certain vendor invoices that had been received and to refrain from accruing those 
+
+unprocessed invoices in accounts payable as current period expenses in order to help reach certain 
+
+plant financial goals.    
+
+       27.        From about 2001 through 2005, Schultz directed the plant manager of accounting 
+
+to alter the Waukesha inventory numbers at the end of every month in order to improve the 
+
+plants financial operating results.  Schultz failed to utilize Waukeshas designated accounting 
+
+software in accounting for the inventory movements and usage and instead tracked the inventory 
+
+manually, which made it easier for him to record erroneous totals.  When periodic physical 
+
+inventory counts taken at the plant found the recorded inventory balances to be overstated, 
+
+                                               9
+---------------------Page 10---------------------
+
+           Case 1:10-cv-04903   Document 1    Filed 08/04/10   Page 10 of 14
+
+Schultz failed to record appropriate adjustments to lower the inventory balances.  As a result of 
+
+this conduct, Waukeshas books falsely indicated the plant had $11 million in inventory that did 
+
+not exist, and consequently understated materials expenses by that amount. 
+
+       28.        Schultz deferred certain costs relating to a purported arrangement with a 
+
+contractor that provided services relating to parts manufactured at Waukesha.   Pursuant to a 
+
+purported side agreement entered into by a former Waukesha employee, Waukesha had agreed to 
+
+pay higher upfront costs to the contractor as a means to help finance the start-up of the 
+
+contractors business.  In return, the contractor purportedly agreed to reduce its prices to Navistar 
+
+in future periods.  The agreement was not in writing; additionally, there was no evidence that the 
+
+contractor guaranteed to repay any specified higher upfront costs.  Nevertheless, beginning in 
+
+2002, Schultz deferred the entire dollar amount of certain of the contractors invoices (i.e., not 
+
+just a portion representing higher upfront amounts paid  to the contractor), effectively 
+
+understating expenses in order to smooth out earnings.  Schultz deferred approximately $2.4 
+
+million of those costs in the first quarter of fiscal 2003, and another $700,000 in the third quarter 
+
+of fiscal 2003.    
+
+              29.        Schultz also improperly deferred certain costs related to Waukeshas installation 
+
+of a new manufacturing line. Before installation of the manufacturing line was complete, the 
+
+general contractor stopped work and filed for bankruptcy.  As a result, the Company was 
+
+required to pay off subcontractors liens and pay to have the installation completed by other 
+
+subcontractors.  From 2002 through 2005, Schultz deferred about $3 million that Navistar 
+
+incurred in start-up expenses under the supposed theory that the Company would recover those 
+
+costs from the bankrupt general contractor.    
+
+       30.        Schultz engaged in the aforementioned conduct in an attempt to improve 
+
+Waukeshas financial results.   The aggregate monetary impact of Schultzs accounting 
+
+                                               10
+---------------------Page 11---------------------
+
+           Case 1:10-cv-04903   Document 1    Filed 08/04/10   Page 11 of 14
+
+misconduct was material to Navistars financial statements.  Schultz knew or recklessly failed to 
+
+know that the actions described above were not in compliance with GAAP.    
+
+                                      Warranty Reserve 
+
+       31.        Beginning in fiscal year 1999, the Engine Division assumed responsibility for 
+
+accounting for its warranty reserve, which reflected the Companys estimated future warranty 
+
+costs on engines installed in the majority of Navistar manufactured trucks.  The warranty accrual 
+
+estimate process began with the Engine Divisions Reliability & Quality (R&Q) group, which 
+
+generated an estimated warranty cost per unit, or CPU, for each engine sold. This calculation 
+
+incorporated certain above-the-line items, including well-established or known steps (e.g., 
+
+implemented engineering fixes) that were viewed, based on historical trends or data, to have 
+
+effectively reduced warranty costs.   The CPU was the primary basis for the warranty reserve 
+
+amount; the higher the CPU, the higher the reserve.  
+
+       32.        The warranty reserve-setting process should have been governed by accounting 
+
+rules related to contingent liabilities.  Pursuant to Statement of Financial Accounting Standards 
+
+(SFAS) No. 5, Accounting for Contingencies - Appendix A; With Respect to Obligations 
+
+Related to Product Warranties and Product Defects, warranty reserves must be established when 
+
+it is probable that a liability has been incurred and the amount of the loss can be reasonably 
+
+estimated. 
+
+       33.        When R&Qs CPU calculation was presented to Stanaway, and then ultimately to 
+
+McIntosh, both typically stated that the initial estimated reserve number was too high for the 
+
+Engine Divisions business plan.  Without sufficient consideration for the relevant accounting 
+
+rules, Stanaway and McIntosh typically then directed R&Q to add certain below-the-line items 
+
+to the warranty reserve calculation process because they thought these items would reflect 
+
+potential reductions that the Company hoped to achieve in future warranty costs.  These below-
+
+                                               11
+---------------------Page 12---------------------
+
+           Case 1:10-cv-04903   Document 1    Filed 08/04/10   Page 12 of 14
+
+the-line items included anticipated vendor reimbursements and engineering fixes that lacked 
+
+historical trend or other data evidencing their likely effectiveness.  For example, Stanaway and 
+
+McIntosh directed R&Q to include anticipated vendor reimbursements in    the warranty reserve 
+
+calculation despite the lack of any specific language in the vendor contracts providing for such 
+
+recoveries.  Instead, the Company relied on the existence of standard provisions in supply 
+
+agreements or the Illinois Commercial Code to support the contemplated vendor 
+
+reimbursements.  During the relevant period, approximately 50 percent of the vendor recoveries 
+
+deducted below the line from warranty reserve calculations were based on something other than 
+
+specific contractual language.  Moreover, the Company often did not receive reimbursements 
+
+from vendors for engine warranty claims.  Stanaway and McIntosh al  so directed the inclusion in 
+
+the warranty accrual calculation of anticipated engineering fixes that lacked historical and 
+
+empirical data evidencing their likely effectiveness.   Certain anticipated fixes were incorporated 
+
+into the CPU calculation before they had even been implemented.   At McIntosh and Stanaways 
+
+insistence, R&Q included these below-the-line items in its warranty reserve calculation, and 
+
+these components consistently reduced the warranty reserve.   
+
+       34.        The inclusion of these anticipated vendor reimbursements and engineering fixes 
+
+was not in compliance with GAAP.  Stanaway and McIntosh knew or should have known that 
+
+the warranty reserve-setting process was governed by accounting rules relevant to contingent 
+
+liabilities, yet failed to consider or apply such rules in establishing Navistars warranty reserve.  
+
+Stanaway and McIntosh also knew or should have known that including anticipated vendor 
+
+reimbursements and engineering fixes without data evidencing their effectiveness was not in 
+
+compliance with GAAP.   
+
+        35.       The below-the-line items inappropriately included in the reserve calculation 
+
+caused the warranty expense to be understated by $17 million in fiscal year 2002 and by $18.5 
+
+                                              12
+---------------------Page 13---------------------
+
+           Case 1:10-cv-04903   Document 1    Filed 08/04/10   Page 13 of 14
+
+million in fiscal year 2003.  The $18.5 million total represented 5.9 percent of the restated loss 
+
+before income tax for that year.  
+
+                                          CLAIMS 
+
+                                              I. 
+
+                    Violations of Section 17(a) of the Securities Act and   
+                     Section 10(b) of the Exchange Act and Rule 10b-5 
+ 
+       36.        Based on the foregoing, Defendants McIntosh, Akers and Schultz violated Section 
+
+17(a) of the Securities Act [15 U.S.C. § 77q(a)] and Section 10(b) of the Exchange Act [15 
+
+U.S.C. § 78j(b)] and Rule 10b-5 thereunder [17 C.F.R. § 240.10b-5]. 
+
+                                              II. 
+
+                                                
+              Violations of Sections 17(a)(2) and 17(a)(3) of the Securities Act 
+                                                
+        37.        Based on the foregoing, Defendant Stanaway violated Sections 17(a)(2) and 
+
+17(a)(3) of the Securities Act [15 U.S.C. §77q(a)(2) and §77q(a)(3)].   
+
+                                              III. 
+
+                          Violations of Exchange Act Rule 13b2-1 
+
+       38.        Based on the foregoing, Defendants McIntosh, Akers, Stanaway, Stinsa and 
+
+Schultz violated Exchange Act Rule 13b2-1 [17 C.F.R. §240.13b2-1], which in relevant part, 
+
+prohibits persons from directly or indirectly causing any book, record or account subject to 
+
+Section 13(b)(2)(A) of the Exchange Act to be falsified.   
+
+                                                
+                                  PRAYER FOR RELIEF 
+
+       WHEREFORE, the Commission respectfully requests that this Court enter a final 
+
+judgment which: 
+
+                                              13
+---------------------Page 14---------------------
+
+               Case 1:10-cv-04903   Document 1    Filed 08/04/10   Page 14 of 14
+
+                   (a)      Orders the Defendants to pay civil monetary penalties pursuant to Section 
+
+20(d) of the Securities Act [15 U.S.C. § 77t(d)] and/or Section 21(d)(3) of the Exchange Act [15 
+
+U.S.C. §78u(d)(3)] in respect of their violations; and  
+
+                   (b)     Grants such other relief as this Court may deem necessary and appropriate  
+
+under the circumstances. 
+
+      Respectfully Submitted, 
+
+      /s/John E. Birkenheier                                                                          
+      John E. Birkenheier (Ill. Bar No. 6270993)  
+      Securities and Exchange Commission  
+      175 West Jackson Boulevard, Suite 900 
+      Chicago, IL 60604 
+      Tel.: 312.886.3947 
+      Fax : 312.353.7398 
+ 
+Date:  August 4, 2010 
+ 
+ 
+                              
+                              
+
+                                                               14

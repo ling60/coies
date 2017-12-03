@@ -1,0 +1,147 @@
+RSA Security, Inc.: Admin. Proc. Rel. No.
+34-48214 / July 23, 2003
+Home | Previous Page
+UNITED STATES OF AMERICA
+before the
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No.
+48214 / July 23, 2003
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No.
+1817 / July 23, 2003
+ADMINISTRATIVE PROCEEDING
+File No. 3-11190
+In the Matter of
+RSA SECURITY, INC.
+Respondent.
+::::::
+ORDER INSTITUTING CEASE-AND-DESIST PROCEEDINGS, MAKING
+FINDINGS, AND IMPOSING CEASE-AND-DESIST ORDER PURSUANT TO
+SECTION 21C OF THE SECURITIES
+EXCHANGE ACT OF 1934
+I.
+The Securities and Exchange Commission ("Commission") deems it appropriate that cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities Exchange Act of 1934 ("Exchange Act") against RSA Security, Inc. ("RSA" or "Respondent").
+II.
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer of Settlement (the "Offer"), which the Commission has determined to accept.
+Solely for the purpose of these proceedings and any other proceedings brought by or on behalf of the Commission, or to which the Commission is a party, and without admitting or denying the findings herein, except as to the Commission's jurisdiction over them and the subject matter of these proceedings, Respondent consents to the entry of this Order Instituting Cease-and-Desist Proceedings, Making Findings, and Imposing Cease-and-Desist Order Pursuant to Section 21C of the Securities Exchange Act of 1934 ("Order"), as set forth below.
+III.
+On the basis of this Order and Respondent's Offer, the Commission finds that:
+A. Summary
+This matter involves RSA's misleading statements in an April 10, 2001 press release and conference call with analysts and others (collectively the "announcements").
+RSA stated that it had achieved analysts' earnings expectations for the first quarter of 2001 in a "difficult economic environment" and compared its net income, operating income, and earnings with its performance for the first quarter of 2000.
+These statements were misleading because, during the quarter, RSA experienced a material one-time increase in operating income, net income, and earnings that resulted from a change in the way it recognized revenue from sales to distributors.
+This accounting change increased RSA's reported revenue by 2.3% from $74.6 million to $76.3 million, operating income by 21% from $8.1 million to $9.8 million, and net income by 13% from $8.5 million to $9.6 million.1
+Without the change, RSA would have failed to meet analysts' earnings expectations by approximately $.02 per share, or 12.5%, and its operating income would have been 17.3% lower.
+Although the accounting change itself complied with generally accepted accounting principles ("GAAP"), RSA's announcements created the misleading impression that its ability to meet analysts' earnings expectations for the quarter resulted solely from its operations, rather than, in part, the accounting change.
+Moreover, disclosure of the accounting change would have shown that, without the change, RSA's net and operating income for the first quarter of 2001 declined in comparison to the first quarter of 2000, rather than increasing and staying approximately the same, respectively, as RSA reported in the announcements.
+By issuing the materially misleading announcements, RSA violated Section 10(b) of the Exchange Act and Rule 10b-5 thereunder.
+B. Respondent
+RSA is a Delaware corporation with its headquarters in Bedford, Massachusetts.
+Among other things, RSA manufactures and sells software and tokens that allow secure access to computer networks by remote computer users.
+RSA's stock is traded on the NASDAQ National Market System and is registered with the Commission pursuant to Section 12(g) of the Exchange Act.
+C. Facts
+1. The Accounting Change
+In its 2000 Form 10-K, filed on March 28, 2001, RSA described its revenue recognition method for shipments to distributors as follows:
+"Revenue from shipments to distributors is recognized upon receipt of evidence of sale to end-users."
+This method is known as "sell through," and is in conformity with GAAP.
+See SFAS 48 ("Revenue Recognition When Right of Return Exists").
+By the first quarter of 2001, RSA had approximately three years of experience in selling to distributors who had a right of return, and it decided to analyze whether it should change this accounting.
+RSA found that its distributors returned very little product that was shipped to them and that it had a reasonable basis for estimating distributor returns.
+By the end of the first quarter of 2001, RSA concluded that, based upon this historical experience with distributors, it should recognize revenue upon shipment to distributors.
+This method is known as "sell in."
+RSA discussed this accounting change with its outside auditors, who agreed that the change was appropriate under the circumstances and was in conformity with GAAP.
+As a result of the change, RSA recognized $1.735 million in revenue in the first quarter of 2001 that otherwise would not have been recognized in that quarter.
+The change did not alter RSA's accounting for expenses associated with the revenue, which continued to be recorded when incurred.
+Accordingly, the change increased RSA's operating income for the quarter by approximately the same amount, or $1.735 million, and its earnings by approximately $.02 per share.
+Without the change, RSA's operating income and net income for the first quarter of 2001 would have fallen compared to the first quarter of 2000, rather than staying approximately the same and increasing, respectively.
+In addition, the change constituted 18% of RSA's operating income and 12.5% of RSA's net income and earnings per share for the quarter.
+2. The Press Release and Conference Call
+On the morning of April 10, 2001, RSA issued its press release and held its conference call, publicly announcing its financial results for the first quarter of 2001.
+It reported pro forma core operating business earnings of $0.16 per share, revenue of $76.3 million, operating income of $9.8 million, and net income of $9.6 million.
+Although it missed analysts' revenue expectations by approximately $1.7 million, RSA stated in the announcements that it had met analysts' "earnings expectations in a very difficult economic environment."
+In addition, RSA compared the first quarter of 2001 earnings figures with figures from the same period in 2000. However, investors had no way of knowing that, because of the accounting change, those figures were not calculated on a consistent basis.
+Although the method by which RSA calculated revenues from sales to distributors was in conformity with GAAP, the accounting change was material, and RSA failed to disclose the change in its announcements.
+The chart below shows the impact of the change on selected pro-forma core operating business figures RSA reported for the first quarter of 2001, as compared to the corresponding first quarter of 2000 figures also contained in the press release:
+First Quarter
+2001 Per Release
+First Quarter 2001 If
+No Accounting Change
+First Quarter
+2000 Per Release
+Revenues
+$76.34 million
+$74.6 million
+$63.34 million
+Operating Income $ 9.762 million
+$
+8.022 million
+$9.845 million
+Net Income
+$ 9.633 million
+$
+8.418 million
+$ 8.602 million
+EPS
+$ 0.16
+$0.14
+$0.13
+RSA's press release and conference call were materially misleading.
+By failing to inform investors that the accounting change had enabled it to achieve its financial results, RSA created the impression that it had met earnings expectations solely through its business efforts rather than at least in part through an accounting change.
+In addition, by comparing its first quarter results for 2001 with 2000, RSA created the impression that its results were derived on a consistent basis when they were not.
+These statements masked the fact that RSA's financial performance for the first quarter of 2001 had actually deteriorated when compared to the first quarter of 2000.
+Certain of RSA's officers knew or were reckless in not knowing that RSA's press release and statements in its conference call were misleading.
+RSA's auditors told RSA several times that the change had to be disclosed in the company's Form 10-Q for that quarter.
+In addition, the senior manager of RSA's auditors told one of RSA's officers that the company should disclose the change in its press release.
+Finally, these officers knew that the change would have a direct effect on RSA's reported revenue and income for the quarter.
+On May 15, 2001, RSA filed its Form 10-Q for the quarter, in which it disclosed the following:
+"As a result of the Company's positive experience with returns from distributors, the Company began recognizing revenue upon shipment to distributors rather than upon sell-through, resulting in an increase in revenue of $1,735[,000] for the three months ended March 31, 2001."
+D. RSA Violated Section 10(b) of the Exchange Act and Rule 10b-5 Thereunder
+As a result of the conduct described above, RSA violated Section 10(b) of the Exchange Act and Rule 10b-5 thereunder.
+Section 10(b) of the Exchange Act and Rule 10b-5 thereunder make it unlawful, in connection with the purchase or sale of securities, "to make any untrue statement of a material fact or to omit to state a material fact necessary in order to make the statements made, in light of the circumstances under which they were made, not misleading." To violate Section 10(b) of the Exchange Act and Rule 10b-5 thereunder, a misrepresentation oromission must be material, meaning that a reasonable investor would have considered the misrepresented or omitted fact important when deciding whether to buy, sell or hold the securities in question.
+See Basic Inc. v. Levinson, 485 U.S. 224, 231-32, 108 S. Ct. 978, 983 (1988).
+To constitute a violation, the material misstatement or omission must be made with scienter.
+Aaron v. SEC, 446 U.S. 680, 701-02, 100 S. Ct. 1945, 1958 (1980).
+Recklessness is sufficient to establish scienter.
+Greebel v. FTP Software, Inc., 194 F.3d 185, 198-99 (1st Cir. 1999); SEC v. Deyon, 977 F. Supp. 510, 516 (D. Me. 1997), aff'd, 201 F.3d 428 (1st Cir. 1998). The actions and state of mind of high-ranking RSA officers can be imputed to the company.
+See City of Miami, Initial Dec. Rel. No. 185 (June 22, 2001), 2001 SEC LEXIS 1250, *53 ("City is responsible for the acts of its City Manager and Finance Department officials, and the knowledge of these individuals is imputed to the City"), aff'd, Securities Act Rel. No. 8213 (March 21, 2003), 2003 SEC LEXIS 676; Erik W. Chan, Initial Dec. Rel. No. 172 (Sept. 14, 2000), 2000 SEC LEXIS 2274, *28-29 (same) (citing cases).
+In Public Statements by Corporate Representatives, Securities Act Rel. No. 6504 (January 1984), the Commission reiterated to registrants that Section 10(b) and Rule 10b-5 apply to all public statements by persons speaking on behalf of a public company.
+The Commission also made clear that public announcements and press releases constitute public statements.
+Id.; see also Sunbeam Corporation, Exchange Act Rel. No. 44305, 2001 SEC LEXIS 931 at *42-43 (May 15, 2001) (issuer violated Section 10(b) and Rule 10b-5 when it disseminated materially false and misleading press releases).
+Thus, an issuer that knowingly or recklessly makes false or misleading statements in public announcements to investors, including press releases and other public statements, violates Section 10(b) and Rule 10b-5 thereunder.
+See Milton v. Van Dorn Co., 961 F.2d 965, 968 n.4 (1st Cir. 1992) ("duty to disclose may arise ... where the defendant volunteers disclosure and the law implies the corollary duty to refrain from incomplete, inaccurate, or misleading disclosures").
+See also Trump Hotels & Casino Resorts, Inc., Exchange Act Rel. No. 45287, 2002 SEC LEXIS 96 at *16-17 (Jan.16, 2002) (imposing cease-and-desist order where press release gave the misleading impression that performance was due to operational improvements rather than a one-time gain).
+In addition, when reporting financial results, issuers must disclose any material changes in their revenue recognition practices.
+See Richard P. Bellinger, Exchange Act Rel. No. 46291, 2002 SEC LEXIS 1986 at * 8 (Aug. 1, 2002) (GAAP requires disclosure of accounting change regardless of whether change was "a change in accounting principle or a change in accounting estimate" because change "had a material effect on the financial statements").
+See also Edison Schools, Inc., Exchange Act Rel. No. 45925, 2002 SEC LEXIS 1281 (May 14, 2002) (imposing cease-and-desist order when company inadequately disclosed revenue recognition practices in Commission filings, even though the practices conformed with GAAP).
+RSA's failure to disclose the accounting change was materially misleading.
+First, absent the accounting change, RSA would not have met analysts' expectations.
+See Ashford.com, Exchange Act Rel. No. 46052, 2002 SEC LEXIS 1484 (June 10, 2002) (issuer violated Section 13(a) of Exchange Act when it failed to disclose that change in classification of expenses enabled it to beat analysts' pro forma earnings expectations).
+Second, RSA created themisimpression that it had met earnings expectations solely through its business efforts.
+See Trump, supra at *2 (issuer's earnings release misleading because it created impression company exceeded earnings expectations primarily through operational improvements).
+RSA met such expectations at least in part through a one-time event.
+Third, RSA compared the first quarter of 2001 and the first quarter of 2000 figures, but investors had no way of knowing that those figures were not calculated on a consistent basis as required by GAAP.
+See Accounting Research Bulletin No. 43, ch. 2A, para. 3 (requiring disclosure when quarterly comparisons are made using figures that are not comparable).
+See Richard P. Bellinger, supra at *8 (respondent failed to disclose that results for different periods were not comparable because issuer changed the way it recognized revenue).
+Fourth, without the accounting change, RSA would have experienced a decline in both operating income and net income from the first quarter of 2000.
+Instead, the company reported that the first quarter of 2001 operating income and net income remained approximately the same and increased, respectively, compared to the first quarter of 2000.
+See Trump, supra at *3 (without undisclosed one-time gain, issuer's net income would have declined, and issuer would have missed analysts' expectations).
+Finally, the change constituted 18% of RSA's operating income and 12.5% of RSA's net income and earnings per share for the quarter.
+Based on the foregoing, RSA violated Section 10(b) of the Exchange Act and Rule 10b-5 thereunder by issuing the press release and conducting the conference call without disclosing the accounting change and its impact on RSA's financial results.
+E. The Respondent's Cooperation and Remedial Efforts
+In determining to accept the Respondent's Offer, the Commission considered the remedial acts undertaken by RSA, the cooperation provided to the Commission staff, and the limited duration of the violations.
+IV.
+In view of the foregoing, the Commission deems it appropriate to impose the sanction specified in Respondent's Offer.
+Accordingly, it is hereby ORDERED:
+Pursuant to Section 21C of the Exchange Act, that RSA cease and desist from committing or causing any violations, and any future violations, of Section 10(b) of the Exchange Act and Rule 10b-5 thereunder.
+By the Commission.
+Jonathan G. Katz
+Secretary
+__________________
+1
+These amounts reflect RSA's core business activity rather than its GAAP figures.
+In the announcements, RSA reported both figures.
+The major difference between the two is that the GAAP figures include amounts from RSA Capital, an RSA subsidiary engaged in venture capital activities.
+http://www.sec.gov/litigation/admin/34-48214.htm
+Home | Previous Page
+Modified: 07/23/2003

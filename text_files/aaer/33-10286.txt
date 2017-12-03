@@ -1,0 +1,1002 @@
+---------------------Page 1---------------------
+
+                           UNITED STATES OF AMERICA  
+                                     Before the 
+                   SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES ACT OF 1933 
+Release No. 10286 / January 23, 2017 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 79857 / January 23, 2017 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3855 / January 23, 2017  
+
+ADMINISTRATIVE PROCEEDING  
+File No. 3-17807 
+ 
+                                            ORDER INSTITUTING CEASE-AND-
+In the Matter of                           DESIST PROCEEDINGS PURSUANT TO 
+                                           SECTION 8A OF THE SECURITIES ACT 
+      OVERSEAS SHIPHOLDING                 OF 1933 AND SECTION 21C OF THE 
+      GROUP, INC.                          SECURITIES EXCHANGE ACT OF 1934, 
+                                           MAKING FINDINGS, AND IMPOSING A 
+      and                                  CEASE-AND-DESIST ORDER  
+       
+      MYLES ROBERT ITKIN,  
+ 
+Respondents. 
+ 
+ 
+ 
+ 
+                                          I. 
+ 
+     The Securities and Exchange Commission (“Commission”) deems it appropriate that 
+public cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the 
+Securities Act of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 
+1934 (“Exchange Act”) against Overseas Shipholding Group, Inc. (“OSG” or “the Company”)  
+and Myles Robert Itkin (“Itkin”) (collectively “Respondents”). 
+ 
+                                          II. 
+           
+     In anticipation of the institution of these proceedings, Respondents have submitted Offers 
+of Settlement (the “Offer”) which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the 
+findings herein, except as to the Commission’s jurisdiction over them and the subject matter of 
+these proceedings, which are admitted, and except as provided herein in Section V, Respondents 
+---------------------Page 2---------------------
+
+ 
+
+consent to the entry of this Order Instituting Cease-and-Desist Proceedings Pursuant to Section 
+8A of the Securities Act of 1933 and Section 21C of the Securities Exchange Act of 1934, 
+making findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.   
+ 
+                                                III. 
+ 
+                                                                                  1
+      On the basis of this Order and Respondents’ Offers, the Commission finds  that: 
+ 
+                                            SUMMARY     
+       
+      1.    This matter concerns the failure of OSG to record material federal income tax 
+liabilities in its financial statements from 2000 through the second quarter of 2012.  The tax 
+liabilities, reportable under Internal Revenue Code Section 956, which provides that when a 
+“controlled foreign corporation” guarantees the debt of its U.S. parent company, the amounts 
+borrowed by the parent are, in effect, “deemed dividends” and taxable to the parent.  During the 
+relevant period, OSG’s credit agreements contained a provision making its controlled foreign 
+subsidiary, Overseas International Group, Inc. (“OIN”), and another subsidiary “jointly and 
+severally” liable for OSG’s debt, thereby triggering Section 956 current tax liability for those 
+amounts that OSG borrowed, and deferred tax liabilities for amounts not borrowed but available 
+under the credit agreements.  From 2000 to the second quarter of 2012, OSG failed to record and 
+report these federal income tax liabilities in various annual and quarterly reports and earnings 
+releases filed with the Commission.  Certain of these nondisclosures constituted violations of 
+Section 17(a)(2) and (3) of the Securities Act.   
+       
+      2.    During the relevant period, OSG failed to recognize its tax liability despite 
+significant indicia that the structure of its credit agreements, in effect, made OIN a guarantor and 
+could trigger tax consequences, including tax memos from outside counsel and communications 
+with the banks during the negotiation phase of the credit agreements.  Despite these indicators, 
+OSG failed to disclose the issue to its outside auditors and ascertain whether the credit 
+agreements impacted its financial reporting.  Moreover, OSG had inadequate internal accounting 
+controls over its accounting for income taxes and had deficient controls over the impact of the 
+credit agreements on its financial reporting process.      
+       
+      3.    As a result of its misconduct, OSG restated its financial results for all annual 
+reporting periods in fiscal years 2000 through 2011, as well as the results for the quarterly 
+reporting periods in the first half of 2012.  For example in 2000, by failing to record the deferred 
+tax liability related to the prospective drawdowns under the first credit agreement to contain the 
+“jointly and severally” language, OSG understated the deferred federal tax income tax liabilities 
+in its financial statements by $122.5 million, or approximately 10% of its total liabilities. The 
+failure to record the related income tax expense resulted in OSG recognizing a profit that year 
+when it would have otherwise recognized a loss. By 2011 the cumulative failure to record the 
+current and deferred income tax liabilities arising from the Section 956 issue resulted in an 
+understatement of OSG’s income tax liabilities by approximately $512 million, or 17% of its 
+total liabilities. Had OSG recorded the related income tax provision in that period, its net loss 
+                                                 
+       1
+           The findings herein are made pursuant to Respondents’ Offers of Settlement and are not 
+binding on any other person or entity in this or any other proceeding. 
+
+                                                 2 
+ 
+---------------------Page 3---------------------
+
+ 
+
+would have increased by approximately 265%, from $193 million to $705 million.  In November 
+2012, following the discovery of the issue, OSG filed for bankruptcy protection. 
+        
+     4.     Myles Robert Itkin (“Itkin”), the chief financial officer (“CFO”) for OSG and its 
+foreign subsidiary during the relevant period, who participated in the negotiation of  and was the  
+signator to OSG’s credit facilities, oversaw OSG’s financial reporting function, and became 
+aware of significant red flags indicating tax consequences from the credit agreements, caused 
+OSG’s Securities Act Section 17(a)(2) and (3) violations from 2011 through the second quarter 
+of 2012 and caused the company’s reporting, books and records and internal accounting controls 
+failures going back to 2009.  Itkin also negligently misled OSG’s auditor by representing that 
+OSG had not received any written tax advice concerning income tax issues and signed false 
+certifications under Sarbanes-Oxley for filings in 2011 and 2012.   
+      
+                                        R ESPONDENTS    
+      
+     5.    Overseas Shipholding Group, Inc. (“OSG” or the “Company”), is a Delaware 
+corporation incorporated in 1969, and its wholly owned subsidiaries own and operate a fleet of 
+oceangoing vessels engaged primarily in the transportation of crude oil and petroleum products 
+in the international and domestic markets.  OSG managed its international and domestic 
+operations through its wholly owned subsidiaries, OIN, a Marshall Islands corporation, and OSG 
+Bulk Ships, Inc. (“OBS”), a New York corporation, respectively.  OBS’s vessel-owning and 
+vessel-leasing corporations conduct OSG’s US shipping operations, and OIN’s vessel-owning 
+and vessel-leasing corporations conducted OSG’s international shipping operations.  OSG, OBS, 
+and OIN were the key corporations of the OSG corporate group.  During the relevant time, OSG 
+had a class of securities registered under Section 12(b) and a reporting obligation under Section 
+13(a) of the Exchange Act.  In November of 2012, OSG and 180 subsidiaries filed for 
+bankruptcy protection under Chapter 11 of the US Bankruptcy Code in the US Bankruptcy Court 
+for the District of Delaware (all of which proceedings were jointly administered under Case No. 
+12-20000 (MFW)), and its shares were delisted.  In July of 2014 the bankruptcy court confirmed 
+a plan of reorganization that provided for a rights offering sponsored by certain of OSG’s equity 
+holders, pursuant to which they purchased shares in the reorganized Company.  In October 2014, 
+OSG’s Class B common stock became listed on the NYSE MKT.  OSG’s Class A common stock 
+became listed on the NYSE MKT in November 2015, and its listing was moved to the New York 
+Stock Exchange in June 2016.  OSG’s Class A common stock is registered with the Commission 
+pursuant to Exchange Act Section 12(b).  There are no outstanding shares of OSG’s Class B 
+common stock.   
+      
+     6.    Myles R. Itkin (“Itkin”), age 68, was OSG’s Chief Financial Officer from June 
+1995, to April 12, 2013, when he was terminated from the Company.  Itkin is not a CPA.  Itkin 
+had primary responsibility overseeing OSG’s taxes, accounting, and financial statement 
+preparation and reporting and participated in the negotiation of and was the signator to the credit 
+agreements at issue.  He was also the senior vice president and CFO of the Company’s 
+subsidiaries, OIN and OBS, and sat on the board of OIN.  As an OIN director and officer, Itkin 
+made and implemented decisions concerning OIN’s assets, liabilities, transactions, including 
+debt incurrence, and transfers, including distributions of assets to OSG or OBS.  Since October 
+2006, Itkin has served as a director of Danaos Corporation, a Marshall Islands company, whose 
+
+                                               3 
+ 
+---------------------Page 4---------------------
+
+ 
+
+securities trade on the New York Stock Exchange under the symbol “DAC,” and serves on its 
+audit committee.  Itkin is not otherwise currently employed.  
+ 
+                                             FACTS   
+ 
+Background on Relevant Tax Provisions 
+    
+      7.       From 1987 to 2004, OSG was required to pay U.S. income taxes on current 
+offshore shipping income of its foreign subsidiaries, including OIN, whether it was distributed or 
+not.  However, after the passage of the American Jobs Creation Act of 2004 (the “Jobs Creation 
+Act”), OSG was no longer required to pay taxes on undistributed foreign shipping income earned 
+by its offshore subsidiaries or controlled foreign corporations (“CFC”) so long as the income 
+remained offshore.  OSG, thus, could only make tax-free distributions of foreign shipping 
+income up to the amount previously subject to income taxation that had not been distributed.   
+Over time the amount of deferred taxes for undistributed foreign shipping income became quite 
+substantial because OIN was the primary source of income for the Company. 
+ 
+      8.       Under Sections 956(c) and (d) of Subpart F of the Internal Revenue Code 
+(“Section 956”) when a foreign subsidiary guarantees the loans of a U.S. parent company, the 
+untaxed “accumulated ‘earnings and profits’ of that subsidiary are deemed to have been distributed 
+                                                                                 
+to the U.S. parent company” in amounts equal to average quarterly loan balances.  Specifically, 
+the deemed dividends in this scenario under the Code arise from  “investments in United States 
+property” and includes types of property a CFC could purchase with its untaxed retained 
+earnings to provide an economic benefit — the functional equivalent of a dividend — to its US 
+parent corporation without having transferred title in such assets to its US parent corporation.   
+Such property can include real assets in the United States, tangible or intangible, or financial 
+assets, such as its US parent corporation’s equity, called “stock,” or debt, called an “obligation.”  
+To capture circuitous attempts of economic benefit from the CFC to its US parent corporation, 
+Section 956(d) expands the meaning of “obligation” to include a CFC’s guarantee of its US 
+parent corporation’s debt obligations to a third-party lender.  Accordingly, Subpart F treats such 
+earnings as if the CFC had distributed them as a distribution or dividend to its US parent 
+corporation or as “deemed dividends.”  The parent company is therefore subject to United States 
+federal income taxation on the amount of the deemed dividend (subject to certain offsets available 
+to the company).   
+    
+OSG’s Pre-2000 Credit Facilities and Understating of Section 956 Tax Implications 
+    
+      9.       As early as 1990, OSG, which in some years did not generate significant cash-
+inflows or profits, relied on large credit facilities with lending banks to sustain its operations.  
+The facilities typically had credit limits in the hundreds of millions of dollars and terms of five or 
+seven years.  When a credit facility period ended, the balance under the credit facility became 
+due as a “balloon” payment.  Given the lengthy terms of the facilities and the extended 
+negotiation period preceding a credit facility, OSG often had more than one revolving credit 
+facility available at any given time. 
+       
+
+                                                4 
+ 
+---------------------Page 5---------------------
+
+ 
+
+     10.      By the late 1990s, OSG’s lenders, aware of OSG’s financial results, sought 
+greater credit enhancement on the revolving credit facilities.  OSG’s downstream guarantees of 
+loans made to its subsidiaries, OBS and OIN, were not optimal given that OSG’s income was 
+limited to dividends from its subsidiaries and earnings on its securities investments.  Also, OSG 
+was a significant borrower under the facilities.  The banks sought to obtain, as security, direct 
+access to the significant current and retained earnings of OIN.  To obtain this direct access, the 
+banks sought to make OIN a guarantor of payment on loans made to OSG and OBS under the 
+facilities, using “joint and several” language that joined the entire facility balance into a single 
+debt on which OIN would be obligated to pay.   With regard to the credit facilities, as early as 
+1997, the income tax implications from OIN guaranteeing OSG’s debt was discussed among 
+certain OSG management and resulted in a decision that OSG could not accept the language 
+‘jointly and severally’ in a credit facility because of the possible adverse tax consequences.   
+        
+     11.      In 1997, OSG negotiated a credit facility specifically to avoid including a “joint 
+and several” provision because it would make OIN, OSG’s foreign subsidiary, a guarantor of 
+OSG’s loans under these credit facilities and trigger tax consequences under Section 956.  OSG’s 
+credit facilities from 1990 through 1997 did not provide for such a guarantee, but only a 
+“downstream guarantee,” meaning that OSG’s subsidiaries would not be required to pay OSG’s 
+debt in the instance of OSG’s debt default.  
+        
+     12.      Consistent with this understanding, in connection with negotiating a $600 million 
+credit facility in 1997, OSG specifically rejected an attempt by the lending banks to include a 
+provision that OSG, OBS, and OIN be “jointly and severally liable” for all advances on the credit 
+facility regardless of which of the corporations received the funds from the drawdowns.  OSG 
+also rejected the lending banks’ request that all three corporations, OSG, OBS, and OIN, co-sign 
+all promissory notes for loans made under the 1997 credit facility.   
+ 
+     13.      In response, as reflected in draft credit facilities, OSG crossed out the provision 
+that OSG, OIN, and OBS would be “jointly and severally” liable for any drawdown on the credit 
+facility, and changed it to “each borrower severally but not jointly” being liable, meaning that 
+OSG would be solely liable for its drawdowns on the 1997 credit agreement.  As understood by 
+the then OSG treasurer, who negotiated approximately $10 billion in financing for OSG from 
+1988 to 2001, OSG modified the “joint and several” language proposed by the banks because it 
+could make OIN potentially responsible for the obligations of OSG under the credit facilities, 
+which would trigger possible federal tax liability under Section 956.   
+        
+     14.      In connection with the proposed 1997 credit facility, OSG’s longtime outside 
+counsel (“Outside Counsel”) also identified the potential tax consequences of the “joint and 
+several” language in the 1997 credit facility.  In an August 13, 1997 fax from Outside Counsel to 
+the lending bank, copying OSG’s then general counsel and controller, Outside Counsel 
+specifically stated:  “If OSG International [OIN] were to pay or guarantee obligations of OSG or 
+OSG Bulk [OBS], it could be argued that OSG is liable for income tax on previously 
+undistributed, untaxed earnings of OSG International [OIN] and its subsidiaries.”   
+ 
+     15.      In response to OSG’s objections, the lending bank ultimately acquiesced to 
+OSG’s demands and the parties executed the 1997 $600 million credit facility without the “joint 
+
+                                                5 
+ 
+---------------------Page 6---------------------
+
+ 
+
+and several” language.  Pursuant to what OSG advocated, the 1997 credit facility made OSG the 
+sole guarantor of amounts borrowed by OBS and OIN, and promissory notes executed under the 
+1997 credit facilities were signed solely by OSG as the borrowing corporation.  As a result, the 
+terms of the 1997 credit agreement did not trigger federal income tax consequences for OSG 
+under Section 956.  
+ 
+Deteriorating Financial Conditions of OSG and Post-2000 Credit facility 
+     
+OSG’s 2000 Credit facility    
+ 
+     16.      By 1999, OSG’s financial condition had deteriorated, and OSG needed to raise 
+capital.  In April 1999, one of OSG’s U.S. bank creditors downgraded OSG’s debt from BB3 to 
+BB1, noting that the Company had “reported lower revenues and earnings during FY1998 and 
+operating results show no signs of improving given the current poor fundamentals in the bulk 
+ocean shipping industry.”  
+ 
+     17.      In 1999, OSG and Itkin, who joined the company as CFO in 1995, started 
+negotiating a new $300 to $400 million credit facility with two European banks.  Given OSG’s 
+deteriorating financial condition, OSG’s United States bank arrangers were no longer willing to 
+negotiate a new credit facility without enhanced credit protection through a “joint and several” 
+liability provision requiring OIN and OBS to guarantee repayment of OSG’s borrowings.       
+ 
+     18.      During this time, the European banks inserted the “joint and several” provision, 
+which OSG, through Itkin, agreed to in a term sheet dated December 12, 1999.  As reflected in 
+drafts of the 2000 credit facility, both OSG’s internal and external counsel tried to reject the 
+provision.  In one draft, OSG’s then general counsel, crossed out the “joint and several” 
+provision, writing “no” to the “joint and several” clause being “together” and noted in a 
+comment to its then treasurer that OSG should reject the “joint and several” language because it 
+involved “different accounting/tax treatment.”  In another draft, OSG’s then general counsel 
+proposed the language “severally and not jointly” just as the Company had done in connection 
+with the 1997 credit agreement.  The then general counsel made these notations out of concern 
+that the “joint and several” language could create potential tax problems for OSG.   
+ 
+     19.      OSG’s Outside Counsel also noted their concern in drafts of the proposed 
+agreement that the “joint and several” provision would create an “upstream guarantee.”  In one 
+draft, an attorney for Outside Counsel noted to the banks’ counsel, that “[a]s we discussed at the 
+commitment letter stage we can't give legal, valid and binding opinion with respect to an 
+‘upstream' guarantee.’”  The attorney for Outside Counsel, in fact, circled the “joint and several” 
+language several times in the draft where it appeared and wrote “legal issue.”   
+ 
+     20.      Although OSG had not entered into any prior credit facility with the “joint and 
+several” provision, it accepted this structure in its 2000 credit facility.     
+ 
+     21.      Itkin signed the credit agreement with the “joint and several” language for the 
+2000 credit facility on behalf of OSG, OIN, and OBS. In a departure from prior practice, Itkin 
+also co-signed a series of promissory notes on behalf of all three entities. 
+ 
+
+                                                6 
+ 
+---------------------Page 7---------------------
+
+ 
+
+     22.      For all ensuing revolving credit facilities of OSG, the credit agreements included 
+the “joint and several” provision, and OSG, OBS, and OIN co-signed promissory notes for the 
+agreements.  The joint and several provision triggered tax consequences under Section 956, 
+which OSG failed to report and record in its books and records.       
+ 
+OSG’s 2006 Credit facility 
+ 
+     23.      In 2005, OSG management began negotiating with banks in an effort to combine 
+its previous credit facilities into one giant $1.5 billion credit facility.  As reflected in the drafts 
+exchanged between OSG management and the banks, tax implications arising from a guarantee 
+provision in the credit agreement were discussed among the parties.  In this regard, an early draft 
+term sheet, which was shared with Itkin, reflect footnote comments from bank counsel in 
+connection with the “guarantors” provision stating, “[d]iscuss tax implications of guarantees 
+from non-US subsidiaries.” 
+      
+     24.      As part of these negotiations, the lending banks attempted to expand the scope of 
+the guarantee provision beyond OIN and OBS and include all of OSG’s subsidiaries.  The draft 
+term sheet, for example, stated that all of OSG’s “direct and indirect” subsidiaries would be 
+“guarantors” of OSG’s debt.  OSG management, however, rejected this notion.  Instead, as 
+reflected in a December 22, 2005 email from OSG’s then general counsel to Itkin and a new law 
+firm that OSG had hired (“Outside Counsel #2”), OSG wanted to “limit subsidiary guarantors” to 
+OIN and OBS only (the same structure of the 2000 credit agreement), as opposed to all of its 
+subsidiaries.   
+     
+     25.      As a result of the negotiations, on February 9, 2006, OSG and the lending banks 
+entered into a $1.5 billion credit facility, which left intact the provision from the 2000 credit 
+facility that made OIN and OBS “jointly and severally liable” for OSG’s borrowings.   Itkin, 
+again, signed on behalf of all three entities.  The joint and several provision triggered tax 
+consequences under Section 956, which OSG failed to recognize or report and record in its books 
+and records.    
+ 
+Additional Economic Benefits from OIN to OSG Triggering Tax Consequences  
+      
+     26.      By the end of 2008, OSG  learned that it had exhausted its $548 million in 
+“previously taxed income” (“PTI”), which up until this point operated as a tax shield from the 
+income tax liability triggered by the credit agreements.   
+      
+     27.      By this time, Itkin understood that the PTI allowed OSG to receive  an economic 
+benefit from OSG’s foreign subsidiary and  recognize taxable income—either in the form of a 
+deemed dividend or direct dividend— only to the extent it exceeded such PTI, and that utilizing 
+PTI in this way could reduce or eliminate PTI available in the future.  
+      
+     28.      In early 2008, OSG wanted to repatriate approximately $500 million in cash from 
+OIN to OSG so that OSG could pay down certain debt.  OSG, through Itkin, asked Outside 
+Counsel (the company’s longstanding counsel that advised on the 1997 and 2000 credit 
+agreements) to prepare a memorandum concerning the tax impact of the proposed repatriation 
+
+                                               7 
+ 
+---------------------Page 8---------------------
+
+ 
+
+and whether it made a difference whether it took the form of a distribution or loan by OIN to 
+OSG.    
+       
+      29.      In response, Outside Counsel prepared a March 14, 2008 memorandum, directed 
+to Itkin and the OSG Controller, advising that either a direct distribution, which would be a 
+direct dividend, or a loan, which would be a deemed dividend, of $500 million from OIN to OSG 
+would not give rise to taxable income to OSG to the extent that the amount was covered by 
+OSG’s PTI.  The memo further noted that a repatriation of this magnitude would wipe out OSG’s 
+PTI and reduce it to a zero balance, and the Company would no longer be able to shield tax 
+liabilities resulting from future repatriations through PTI offsets.   
+       
+      30.      Rather than repatriating through a distribution or loan, OSG, under Itkin’s 
+authorization, directed a net cash transfer of $607 million from OIN to OSG through numerous 
+inter-company transfers.  In February 2009, OSG’s outside tax advisor discovered the $607 
+million cash transfer in its yearly tax memo and informed the company that the cash transfer not 
+only wiped out OSG’s PTI, but also resulted in an additional $53 million (the amount in excess 
+of the PTI offset) that OSG was to include as part of its taxable gross income for 2008, which the 
+Company then paid.       
+       
+      31.      Once OSG ‘s PTI was eliminated, OSG  no longer had the ability to offset OIN’s 
+                                                                             2
+earnings and profits includable in OSG’s taxes pursuant to Section 956(c).      At this point, based 
+on outside counsel’s memo of March 14 2008, Itkin and other members of OSG management  
+knew that a cash transfer in the form of an actual dividend or a loan in the form of a deemed 
+dividend under Section 956(c) constituted economic benefits to OSG and would create taxable 
+                3
+income to OSG.     
+       
+      32.      In 2010, OSG and Itkin were presented with additional indicia that economic 
+benefits, such as constructive dividends, from OIN to OSG trigger tax liabilities.  By October 
+2010, in connection with a Department of Justice proceeding in which OSG was subject to a $37 
+million criminal penalty and plead guilty to 33 criminal counts for certain of its ships discharging 
+oil into the ocean, the IRS discovered that OIN had paid the OSG penalty.   As reflected in IRS 
+Forms 5701 and 886-A, the IRS claimed that OIN’s payments of OSG’s debt constituted a 
+constructive dividend, triggering tax liability.   
+ 
+OSG’s Receipt of the 2011 Tax Memorandum 
+ 
+
+                                                 
+2
+  It was only after 2008, when the PTI balance had been exhausted with no “automatic” replenishment that the loan 
+amounts from credit agreements that were previously not included as gross income became taxable income to OSG 
+with no offset.    
+        
+3
+   In March   2010, OSG conducted both  a $300 million debt offering and a $159 million common stock offering 
+pursuant to the Company’s previous shelf registration of the securities on Form S-3.  Both registration statements 
+incorporated by reference OSG’s 2009 Form 10-K, which contained material misrepresentations and omissions.  
+Also, during the period March 31, 2009 through the first two quarters of 2012, OSG sold securities to employees 
+through Form S-8 stock offerings, and the Forms S-8 incorporated by reference the false statements OSG made in its 
+relevant periodic filings with the Commission.  
+
+                                                  8 
+ 
+---------------------Page 9---------------------
+
+ 
+
+     33.      By April 2011, OSG was close to finalizing a new $900 million credit facility, 
+called the Forward Start Credit facility (“FSF”), to refinance a balloon payment on the 2006 $1.8 
+billion credit facility that would be due on February 8, 2013.  Under the FSF, OSG would be able 
+to begin drawdowns on and after this due date.   
+ 
+     34.      While reviewing a draft for the FSF, a tax attorney for longstanding Outside 
+Counsel identified to Itkin and other members of OSG management that the “joint and several” 
+liability provision in the draft could create potential Section 956(c) and (d) income tax liabilities 
+for OSG and asked whether the provision had been included in prior credit facilities.  Outside 
+Counsel further noted that the provision could be interpreted as an “upstream guarantee” by OIN 
+of OSG’s indebtedness, which could trigger a 956 liability. 
+ 
+     35.      After confirming to Outside Counsel that the “joint and several” provision had 
+been included in the 2006 credit facility, Itkin, among other OSG management, requested that 
+Outside Counsel analyze the Section 956 tax implications arising from the “joint and several” 
+provision in the  2000 through 2006 credit agreements.   
+      
+     36.      As Outside Counsel further examined the issue, the firm realized that, under a tax 
+law analysis, the IRS could interpret the “joint and several” liability provision, if enforceable, in 
+the credit facilities as triggering tax liabilities under Section 956(c) and (d).  Outside Counsel 
+then noted that the “joint and several” provision in the credit agreements were arguably 
+ambiguous and analyzed the issue from the standpoint of determining the original intent of the 
+parties concerning that provision.  In this regard, Outside Counsel advised OSG and Itkin that if 
+the Company did not intend for OIN to be a guarantor of OSG’s loans and thus trigger tax 
+consequences, then OSG could argue under commercial law doctrines that the provision should 
+be set aside and rendered unenforceable by the IRS in a court proceeding.   
+      
+     37.      In determining the intent of the parties, Outside Counsel repeatedly asked OSG 
+for contemporaneous documents that would shed light on the original intent of the parties, 
+including draft term sheets and communications surrounding the 2000 and 2006 credit facilities, 
+but were told by certain OSG management that no documents existed.   
+      
+     38.      Despite receiving at least two documents that discussed subsidiary guarantees in 
+connection with the 2006 credit facilities (the December 2005 memo and the draft term sheet 
+referencing “tax implications of guarantees from non-US subsidiaries”) during the time that 
+Outside Counsel #2 advised OSG, OSG management and Itkin did not disclose the documents to 
+Outside Counsel.  Itkin also did not disclose that he had signed promissory notes on behalf of all 
+three entities in connection with the 2000 and 2006 credit facilities.   
+      
+     39.      Outside Counsel also requested permission to reach out to individuals who were 
+involved in the earlier negotiations or term sheet review process for the earlier credit facilities, 
+but Itkin and other members of OSG management did not authorize Outside Counsel to contact 
+these individuals.   
+      
+     40.      In May 2011, Outside Counsel memorialized its tax analysis in a memorandum to 
+OSG senior management, including Itkin, providing an IRS tax analysis and a commercial law 
+
+                                                9 
+ 
+---------------------Page 10---------------------
+
+ 
+
+analysis—to the question of whether the “joint and several” provisions in the 2006 credit facility 
+created taxable income to OSG.  With respect to the tax analysis, the memorandum concluded 
+that there was a “significant risk” that the IRS would construe the “joint and several” provision, 
+if enforceable, as a guarantee under the Internal Revenue Code, triggering significant unpaid tax 
+liabilities under Section 956.  Under the commercial law analysis, the memorandum stated that if 
+OSG did not intend OIN to be a guarantor under the credit facilities, OSG “should” prevail in a 
+litigated proceeding by the IRS against OSG for unpaid tax liabilities under Section 956, and that 
+a court should not enforce “joint and several” liability against OIN.  Outside Counsel’s factual 
+foundation of its commercial law analysis was premised, among other factors, on the 
+representations of Itkin and OSG management that OSG did not intend to make OIN a guarantor 
+of OSG’s loans and thus trigger tax consequences and the apparent absence of relevant 
+documents on the issue of intent. 
+      
+     41.      Notwithstanding the fact that the May 2011 memo noted that if the “joint and 
+several” provision made OIN a co-borrower or co-obligor with OSG and OBS, then it “would 
+create a significant risk that a substantial portion of OIN’s deferred earnings would be taxable to 
+OSG, and were taxable to OSG” as a consequence the application of Section 956(c) and (d) to 
+the credit agreements, OSG and Itkin failed to disclose the memo to the Company’s outside 
+auditor, its internal auditor, or its board of directors.   
+      
+     42.      On February 29, 2012, and again in August 2012, Itkin signed management 
+representation letters for the Company’s outside auditor confirming that the Company had 
+provided the auditor with all written tax advice, even though Itkin  and the Company had 
+obtained a May 2011 tax memorandum from Outside Counsel, which he had not provided to the 
+auditor.   
+      
+     43.      OSG continued to not recognize any tax liabilities under Section 956 from its 
+                                                                        
+drawdowns on loans that its foreign subsidiary, OIN, had guaranteed.     
+ 
+Events Leading Up to OSG’s Board of Directors Discovering the Company’s Tax Liabilities  
+ 
+     44.      By February 2012, while OSG was trying to convince the lending banks to 
+expand the credit limit of the FSF, OSG’s management identified the tax consequences of 
+making OIN “jointly and severally” liable for OSG’s loans and discussed the issue with the 
+lending banks.   
+      
+     45.      An internal memo by a loan officer of one of OSG’s key lenders to other bank 
+officials, dated February 12, 2012, memorialized subjects that were discussed during a recent 
+meeting between the banks, Itkin, and OSG’s then CEO.  The memo noted that OSG’s “preferred 
+recapitalization continues to be to obtain $350mm-$400mm of additional capital for both 
+survival and growth.”  The memo further noted that the “current FSF is structured with OSG  
+Inc., OSG International Inc., and OSG Bulk Ships, Inc. as “joint and several” borrowers.  The 
+deemed dividend classification would mean such a distribution or benefit would be subject to 
+U.S. corporate income tax of 35% without repatriation.”  The memo specifically highlighted 
+Section 956 and highlighted that “a tax issue arises if the FSF is granted security due to section 
+956 of the Internal Revenue Code.” 
+
+                                               10 
+ 
+---------------------Page 11---------------------
+
+ 
+
+      
+     46.      By May 2012, Itkin had a lead role in negotiating with lending banks in order to 
+secure additional financing for OSG.  The Company’s presentation materials to banks, for 
+example, referenced that “Myles Itkin, OSG's CFO, will discuss the Company's thoughts on both 
+amending certain terms of the FSF plus launching a new secured debt credit facility at Overseas 
+International, Inc. that will assist the Company with enhancing its liquidity position and 
+maintaining its leading position in the tanker industry.”   
+      
+     47.      By this time, OSG and Itkin were presented with further evidence that OIN’s 
+guarantee of OSG’s loans under credit facilities triggered tax consequences for OSG.  Attached 
+to an email dated May 25, 2012, from OSG’s vice president of corporate development and 
+finance to Itkin, among others at OSG, and to various bankers, was an “OSG Presentation to 
+Lenders” concerning a meeting to be held with the FSF lenders to discuss the presentation.  In 
+the presentation, OSG highlighted precisely the Section 956(c) and (d) tax consequences 
+identified in the May 2011 memo from Outside counsel and near-certain tax obligations for the 
+Company.  Specifically, OSG’s presentation pointed out:   
+        
+       “Due to OIN’s status as a controlled foreign corporation and OSG’s status as a “United 
+       States shareholder” of OIN, under the U.S. tax code, certain actions by OIN (including 
+       guaranteeing or providing security for OSG’s outstanding debt) will trigger immediate 
+       taxable income for OSG with respect to some of all of the $2.2 billion in earnings that 
+       have not yet been subject to U.S. federal income taxation.  This is true even without an 
+       actual distribution of cash by OIN to OSG….   
+        
+       “If OIN were to lend $100 million to OSG, $100 million of OIN’s currently untaxed 
+       earnings ($2.2 billion) would be accelerated and would produce taxable income for the 
+       U.S. 
+        
+       “If OIN guarantees OSG’s obligations on the $900 million Forward Start 
+       Agreement, it would create $900 million of taxable income and approximately 
+       $300 million of cash taxes for OSG.”   
+        
+       “The assets of a controlled foreign corporation serve at any time, even though 
+       indirectly, as security for the performance of an obligation of its U.S. shareholder.  
+       The controlled foreign corporation will be considered a pledgor or guarantor of 
+       that obligation.  Income tax inclusion would equal the amount of the obligation 
+       and not the value of CFC’s pledged assets.”  (Underscore in original.) 
+        
+     48.      Despite acknowledging to its prospective bankers the tax consequences from 
+OIN’s guarantees of OSG’s drawdowns through the “joint and several” provision  in any future 
+FSF  and the tax consequences under Section 956 under prior credit facilities, OSG and Itkin did 
+not disclose the “joint and several” issue to the Company’s outside auditor, nor did OSG 
+recognize any tax liability arising from prior credit facilities in OSG’s publicly filed financial 
+statements. 
+      
+
+                                               11 
+ 
+---------------------Page 12---------------------
+
+ 
+
+     49.      By September 2012, OSG was still unable to secure the financing it needed 
+through the FSF and was faced with a massive debt obligation of $1.49 billion from the 2006 
+credit facility that was due by February 8, 2013.   
+      
+     50.      Left with no other choice and faced with the possibility of defaulting on its debt 
+obligations, OSG management, including Itkin, finally disclosed the Section 956 issue to OSG's 
+board of directors during a meeting held on September 20, 2012.  During the meeting, which was 
+attended by OSG management, including Itkin, OSG's financial advisor, and attorneys from 
+Outside Counsel, OSG's financial advisor made a presentation to the board on a potential 
+bankruptcy filing by the Company.   That presentation disclosed that OSG's potential Section 
+956 past-due tax liabilities (which the Company had not yet recognized), could result in a 
+bankruptcy filing if recognized.  As one board member understood it, such a situation would 
+impair the banks' ability to recover on OSG's debt under the credit facilities because the IRS 
+would stand in front of the banks as a secured creditor in bankruptcy and, thus, the banks may be 
+more willing to negotiate the FSF on more favorable terms and provide funding.   
+ 
+     51.      OSG’s board member expressed surprise that management, including Itkin, had 
+not disclosed the Section 956 tax liability issue to the board before.  Itkin told the board member 
+at the meeting that OSG was advised by Outside Counsel that the issue need not be disclosed to 
+the board, Audit Committee or OSG’s auditors—advice that Outside Counsel confirmed at the 
+meeting—and, as such, the inner circle of people who knew about this issue had been kept small.  
+The board member also specifically asked to speak with OSG management who were involved in 
+the negotiations of the earlier credit facilities, including the 2000 agreement that first included 
+the joint and several provision, but was told  that “[t]hose parties are no longer in this room, 
+meaning former executives of the company.”  Itkin, however, did not disclose that he was 
+involved in the negotiations for the 2000 credit facility or that he had signed the promissory 
+notes on behalf of OSG, OIN and OBS.   
+      
+     52.      The board member was also troubled by the fact that OSG management had failed 
+to disclose the 956 issue to the Company’s outside auditor, but OSG management, along with 
+Outside Counsel, continued to hold the view that such disclosure was not needed.  The board 
+member urged OSG management to disclose immediately the Section 956 issue to OSG’s 
+outside auditor and bring in an independent outside law firm to investigate the full scope of the 
+issue.  OSG did not immediately disclose the Section 956 issue, but the board scheduled a 
+follow-up meeting for October 4 to more fully discuss the issue with its Outside Counsel before 
+making any disclosure.    
+      
+     53.      Following the board meeting, the board member pleaded with his fellow board 
+members to engage OSG’s outside auditors and an independent law firm immediately.  On 
+September 25, 2012, the board member sent a letter to OSG’s chairman of the board and audit 
+committee insisting that the tax issue be presented to OSG’s outside audit firm and another 
+independent law firm be retained to provide “input on any financial statement implications.” 
+Two days later, on September 27, 2012, the board member submitted a resignation letter.  The 
+board member believed that his resignation would, in effect, force OSG to immediately disclose 
+the Section 956 issue to OSG’s outside auditor because the Company was required to publicly 
+
+                                              12 
+ 
+---------------------Page 13---------------------
+
+ 
+
+disclose the board member’s resignation.  As anticipated, on October 3, 2012, OSG filed a Form 
+8-K announcing the board member’s resignation and attaching his letter.  
+       
+      54.      The resignation led to a cascade of events, including immediate disclosure to 
+OSG’s outside auditor, OSG’s retention of an independent law firm, and the subsequent 
+reporting that OSG had approximately $463 million in unpaid taxes arising from the Company’s 
+Section 956 liabilities.  As a result, OSG restated its financial statements from 2000 through the 
+second quarter of 2012 and ultimately filed for Chapter 11 bankruptcy in November 2012.  The 
+Section 956 issue resulted in OSG materially understating its cumulative deferred tax liability 
+and/or current tax liability by the following material amounts and percentages of total liabilities 
+per year: 
+ 
+       $123M in 2000 (10%)            $519M in 2006 (20%)  
+       $159M in 2001 (12%)            $558M in 2007 (20%) 
+       $146M in 2002 (10%)            $513M in 2008 (20%) 
+       $169M in 2003 (14%)            $476M in 2009 (17%) 
+       $173M in 2004 (12%)            $464M in 2010 (16%) 
+       $187M in 2005 (11%)            $512M in 2011 (17%) 
+ 
+      55.      In a Form 8-K filed on December 19, 2013, the Company reported that the IRS 
+had amended and reduced its claim for past taxes from about $463 million to approximately 
+$264 million.  OSG subsequently paid this latter amount to the IRS. 
+ 
+OSG’S Improper Analyses Under ASC 740 
+ 
+OSG’s Failure to Recognize Deferred Tax Liabilities Under Accounting Principles Board 
+Statement 23 (“APB 23”)                                                                     
+ 
+      56.      The Financial Accounting Standards Board’s (“FASB”) Accounting Standards 
+Codification (“ASC”) 740-30-25-3, formerly Accounting Principles Board Statement No. 23 
+(“APB 23”), paragraph 10, sets forth an accounting presumption that all undistributed earnings 
+                                                                 4
+of a subsidiary will eventually be transferred to the parent entity.  This presumption results in a 
+temporary difference between when the parent entity recognizes the subsidiary’s earnings for 
+accounting purposes (when it’s earned) and for tax purposes (when it’s distributed).  For 
+example, OSG recognized its foreign source income when earned for financial reporting, but 
+after the Jobs Creation Act it deferred recognizing its foreign source income for tax reporting 
+because the IRS rules allowed for deferred taxation until the income was repatriated.  To account 
+for this temporary difference, the parent is required to record a deferred tax liability and 
+corresponding expense.  Pursuant to ASC 740-30-25-17, the presumption in ASC 740-30-25-3 
+can be overcome, however, and no temporary difference recorded, if sufficient evidence shows 
+that the subsidiary has invested or will invest the undistributed earnings indefinitely. In general, 
+
+                                                 
+4
+  References are to the ASC  for interim and annual periods ending after September 15, 2009.  For prior periods, the 
+authoritative literature in this area, including Financial Accounting Standards Board Statement No. 109 (“SFAS 109 
+”), was substantially similar.  SFAS 109, as supplemented by FIN 48 in 2007, established the accrual basis of 
+accounting for income tax liabilities and expenses and explains temporary differences that gave rise to the financial 
+statement misstatements discussed below. 
+
+                                                13 
+ 
+---------------------Page 14---------------------
+
+ 
+
+the parent must show it has both the intent and the ability to indefinitely reinvest these earnings 
+in order to overcome the presumption. 
+      
+     57.      From 2000 to the second quarter of 2012, OSG inappropriately relied upon this 
+exception pursuant to ASC 740-30-25-17, and thus avoided recognizing deferred tax liabilities 
+on untaxed earnings and profits of its CFC, OIN, up to the maximum borrowing capacity of the 
+agreements.  Because the “joint and several” language created the possibility of deemed 
+repatriations under Section 956, OSG did not have the ability to indefinitely reinvest all of OIN’s 
+earnings and profits. 
+      
+     58.      In each of its Forms 10-K for 2000 to 2011, OSG reported the amount of its 
+foreign shipping companies’ untaxed and undistributed earnings, as well as a statement that no 
+provision for U.S. income taxes was required in relation to these earnings because the earnings 
+would be reinvested indefinitely.  For example, OSG’s 2009 Form 10-K, filed on March 1, 2010, 
+specifically, Note L (Taxes) to the financial statements contained the assertion that was used in 
+2010 and 2011: 
+ 
+       The Company intends to permanently reinvest these earnings [OIN’s untaxed past 
+       earnings], as well as the undistributed income of its foreign companies accumulated 
+       through December 31, 1986, in foreign operations.  Accordingly, no provision for U.S. 
+       income taxes on the shipping income of its foreign subsidiaries was required in the three 
+       years ended December 31, 2009 and no provision for U.S. income taxes on the 
+       undistributed income of the foreign shipping companies accumulated through December 
+       31, 1986 was required at December 31, 2009. 
+        
+     59.      These disclosures were false because OSG was in fact required to provide for 
+deferred U.S. income taxes in each of these years due to the “joint and several” language in the 
+credit facilities. During this period, the amount of deferred income taxes OSG failed to report 
+grew from $165 million in 2000 to $525 million by the second quarter of 2012.  
+      
+     60.      OSG restated its assertion under ASC 740-30-25-17 in its 2013 financials  
+statements “to the extent these earnings could be deemed repatriated as a result of OIN’s joint 
+and several liability.” 
+ 
+OSG’s Failure to Disclose, Analyze, and Document Requirements of ASC 740-10-25-5 
+        
+     61.      From 2000 through early 2011, OSG created no documentation about the tax 
+consequences of “joint and several” language despite the significant discussion that took place 
+surrounding the issue in connection with both the 1997 and 2000 credit facilities.  During this 
+period, OSG also did not obtain any written tax or attorney opinion about the tax implications of 
+the “joint and several” language.  In fact, there was no acknowledgement of a tax position by 
+OSG, even though the decision to exclude from OSG’s gross income the amounts borrowed by 
+OSG under the credit facilities, in effect, created a “tax position.”   
+                                                         
+     62.      OSG routinely documented the Company’s “uncertain tax positions” and 
+understood the requirements of the accounting principle that required analysis under ASC 740-
+
+                                               14 
+ 
+---------------------Page 15---------------------
+
+ 
+
+        5
+10-25-5.    For example, on January 8, 2007, OSG’s outside tax adviser sent the Company a 
+memo asking OSG “to confirm that none of the CFC’s [sic] made an investment or deemed 
+investment in U.S. property resulting in a deemed dividend under Section 956.”  It continued: 
+“Section 956(d) provides that for purposes of Section 956(a), a CFC shall be considered as 
+holding an obligation of a U.S. person if such CFC is a pledgor or guarantor of such obligation.”   
+       
+      63.      In May 2011, despite OSG receiving Outside Counsel’s tax memo, the Company 
+failed to recognize the “joint and several” provision in the 2006 credit facility as creating an 
+uncertain tax position.  However, OSG failed to perform any analysis concerning the Company’s 
+uncertain tax position or record any related reserve. 
+       
+                                                 * * * * * * 
+       
+      64.      OSG, with Itkin as the CFO, maintained deficient or non-existent internal 
+accounting controls, including processes to identify the tax consequences, if any, of 
+intercompany transactions between OSG and its foreign subsidiary, OIN.  OSG and Itkin 
+understood that the terms of the credit agreements for hundreds of millions of dollars were 
+complex and its key terms had business, legal, and often tax significance, but agreed to the joint-
+and-several provision.  Further, OSG did not have an adequate process in place to identify and 
+evaluate its income tax liabilities pursuant to the Internal Revenue Code stemming from OSG’s 
+relationship with OIN and the related effects those liabilities would have when accounting for 
+income taxes in its financial statements.  Specifically, OSG had no controls to identify the 
+interplay between the credit agreement structures, Sections 956(c) and (d), and FIN 48. OSG’s 
+head of taxation and financial reporting who reported to Itkin who had some understanding of 
+the IRS Code, did not understand Section 956 and was not involved in the underlying 
+negotiations of the credit agreements.  Despite the limitations of its internal knowledge in 
+negotiating and accounting for these revolving credit agreements--critical to OSG’s liquidity—
+OSG and Itkin failed to implement proper internal accounting controls designed to ensure that 
+OSG properly reported its tax liabilities. 
+       
+                                            Violations 
+ 
+      65.      Section 17(a)(2) prohibits any person from directly or indirectly obtaining money 
+or property in the offer or sale of securities by means of any untrue statement of a material fact 
+or any omission to state a material fact necessary in order to make the statements made, in light 
+of the circumstances under which they were made, not misleading, and Section 17(a)(3) prohibits 
+any person from directly or indirectly engaging in any transaction, practice, or course of business 
+which operates or would operate as a fraud or deceit upon the purchaser in the offer or sale of 
+
+                                                 
+5
+  ASC 740-10-25-5 requires businesses to analyze uncertain income tax positions to determine whether 
+the positions are more likely than not to be sustained upon examination. Companies are only permitted to 
+recognize the associated benefits from an income tax position to the extent it believes it is more likely 
+than not entitled to the benefits. As a result of this analysis, the amount of benefit recognized for financial 
+reporting purposes may differ from the benefit taken for tax purposes. This difference should be 
+recognized as a liability in the company’s balance sheet and disclosed in the footnotes.  For 
+implementation guidance, refer to ASC 740-10-55-3.   
+          
+
+                                                15 
+ 
+---------------------Page 16---------------------
+
+ 
+
+securities.     
+       
+      66.      Section 13(a) of the Exchange Act requires issuers to file such periodic and other 
+reports as the Commission may prescribe and in conformity with such rules as the Commission 
+may promulgate.  Exchange Act Rules 13a-1, 13a-11, and 13a-13 require the filing of annual, 
+current, and quarterly reports, respectively.  In addition to the information expressly required to 
+be included in such reports, Rule 12b-20 of the Exchange Act requires issuers to add such further 
+material information, if any, as may be necessary to make the required statements, in the light of 
+the circumstances under which they are made not misleading.  “The reporting provisions of the 
+Exchange Act are clear and unequivocal, and they are satisfied only by the filing of complete, 
+accurate, and timely reports.”  SEC v. Savoy Industries, 587 F.2d 1149, 1165 (D.C. Cir. 1978) 
+(citing SEC v. IMC Int’1, Inc., 384 F. Supp. 889, 893 (N.D. Tex. 1974)).  A violation of the 
+reporting provisions is established if a report is shown to contain materially false or misleading 
+information.  SEC v. Kalvex, Inc., 425 F. Supp. 310, 316 (S.D.N.Y. 1975). 
+       
+      67.      Section 13(b)(2)(A) of the Exchange Act requires issuers to “make and keep 
+books, records, and accounts, which, in reasonable detail, accurately and fairly reflect the 
+transactions and dispositions of the assets of the issuer.”  Section 13(b)(2)(B) of the Exchange 
+Act requires issuers to devise and maintain a system of internal accounting controls sufficient to 
+provide reasonable assurances that transactions are recorded as necessary to permit the 
+preparation of financial statements in conformity with generally accepted accounting principles. 
+       
+      68.      As a result of the conduct described above, OSG violated Securities Act Sections 
+17(a)(2) and 17(a)(3) and Exchange Act Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) and Rules 
+12b-20, 13a-1, 13a-11, and 13a-13 thereunder. 
+       
+      69.      To establish that a respondent caused a violation of the securities laws, the 
+Commission must show that: (1) a primary violation occurred; (2) an act or omission by the 
+respondent was a cause of the violation; and (3) the respondent knew or should have known that 
+his or her conduct would contribute to the violation.  Robert M. Fuller, 56 S.E.C. 976, 984 
+(2003), pet. denied, No. 03-1334 (D.C. Cir. 2004). 
+       
+      70.      Exchange Act Rule 13b2-1 prohibits any person from directly or indirectly 
+falsifying, or causing to be falsified, any book, record, or account subject to Exchange Act 
+Section 13(b)(2)(A).  No showing of scienter is required to establish a violation of Rules 13b2-1 
+and 13b2-2 (described below).  World-Wide Coin Investments, 567 F. Supp. 724, 749 (N.D. Ga. 
+1983).  
+       
+      71.      Exchange Act Rule 13b2-2(a) prohibits an officer or director of an issuer from 
+making materially false statements or omissions to an accountant in connection with an audit or 
+review of the issuer’s financial statements.  In addition, Rule 13b2-2(b) prohibits an officer or 
+director of an issuer from taking actions to mislead an accountant engaged in the performance of 
+an audit if that person knew or should have known that such action could render the issuer’s 
+financial statements materially misleading. 
+       
+      72.      Exchange Act Rule 13a-14, among other things, requires a principal financial 
+
+                                               16 
+ 
+---------------------Page 17---------------------
+
+ 
+
+officer to certify in each quarterly and annual report filed or submitted under Exchange Act 
+Section 13(a) that he or she has reviewed the report and to certify that he or she had designed 
+such internal control over financial reporting, or caused such internal control over financial 
+reporting to be designed under [their] supervision, to provide reasonable assurance regarding the 
+reliability of financial reporting and the preparation of financial statements for external purposes 
+in accordance with Generally Accepted Accounting Principles. 
+      
+     73.      Itkin, in his role as CFO of OSG, had responsibility for the financial and 
+accounting operations of the company, served on the board of directors for OIN and OBS, 
+negotiated the credit agreements, signed promissory notes on behalf of all three entities and 
+directed the draw down of advances on behalf of OSG under the revolving credit facilities.   In 
+carrying out these actions, Itkin had indicated that the credit agreements triggered tax 
+consequences but did not take steps to make sure OSG was recognizing and report tax liabilities 
+arising from the credit agreements.  Itkin also was negligent in allowing internal accounting 
+controls deficiencies at the company during the relevant period including processes to identify 
+the tax consequences of intercompany transactions between OSG and its foreign subsidiary, 
+OIN.   Further, Itkin signed management representation letters for the Company’s outside auditor 
+confirming that the Company had provided the auditor with all written tax advice, even though 
+Itkin knew that the Company had obtained a May 2011 tax memorandum from Outside Counsel, 
+which he had not provided to the outside auditor.   
+      
+     74.      Accordingly, Itkin was a cause of the company’s negligence-based fraud 
+violations under Securities Act Sections 17(a)(2) and (3) from 2011 through the second quarter 
+of 2012.  By engaging in the foregoing conduct, from 2009 through the second quarter of 2012, 
+Itkin also directly violated Exchange Act Rule 13b2-1 by causing to be falsified various books 
+and records of the company and acted as a cause of the company’s reporting, internal accounting 
+controls, books and records, and related rule violations under Exchange Act 13(a), 13(b)(2)(A), 
+and 13(b)(2)(B) and Rules 12b-20, 13a-1, 13a-11, and 13a-13.  During the same period, Itkin 
+violated Exchange Act Rule 13b2-2(a)-(b) by his failure to disclose the May 2011 tax 
+memorandum or its analysis to OSG’s outside auditor and Exchange Act Rule 13a-14 when he 
+signed false certifications as the CFO of OSG that were included in OSG’s Forms 10-Q and 
+Forms 10-K filed with the Commission.     
+ 
+                                           Findings 
+ 
+     75.      Based on the foregoing, the Commission finds that Respondent OSG violated 
+Securities Act Sections 17(a)(2) and 17(a) (3), Exchange Act Sections 13(a), 13(b)(2)(A), and 
+13(b)(2)(B), and Exchange Act Rules 12b-20, 13a-1, 13a-11 and 13a-13. 
+ 
+     76.      Based on the foregoing, the Commission finds that Respondent Itkin violated 
+Exchange Act Rules 13b2-1, 13b2-2, and 13a-14, and caused OSG’s violations of Securities Act 
+Sections 17(a)(2) and 17(a)(3), Exchange Act Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B), and 
+Exchange Act Rules 12b-20, 13a-1, 13a-11 and 13a-13. 
+ 
+                                              IV. 
+ 
+
+                                               17 
+ 
+---------------------Page 18---------------------
+
+ 
+
+     In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondents OSG and Itkins’ Offers. 
+ 
+      In determining to accept OSG’s Offer, the Commission considered OSG’s cooperation 
+afforded to the Commission staff, including OSG’s implementation of remedial measures and 
+improvements to internal accounting controls over its tax reporting function and changes to the 
+senior management and directors of OSG since 2012. 
+ 
+     Accordingly, it is hereby ORDERED that: 
+ 
+     A.      Pursuant to Section 8A of the Securities Act and Section 21C of the Exchange 
+Act, Respondents OSG and Itkin cease and desist from committing or causing any violations and 
+any future violations of Securities Act Section 17(a)(2) and 17(a)(3), and Exchange Act Sections  
+13(a), 13(b)(2)(A), 13(b)(2)(B) and Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder, and 
+Itkin cease and desist from committing or causing any violations or any future violations of 
+Exchange Act Rules 13a-14, 13b2-1, and 13b2-2. 
+ 
+     B.      Respondent OSG shall, subject to the approval of the bankruptcy court in the 
+above-described bankruptcy proceedings, within ten (10) days of such approval and entry of a 
+final order by the bankruptcy court, pay a civil money penalty of $5,000,000 to the Securities 
+and Exchange Commission for transfer to the general fund of the United States Treasury, subject 
+to Exchange Act Section 21F(g)(3).  If timely payment is not made, additional interest shall 
+accrue pursuant to 31 U.S.C. § 3717. 
+        
+     C.      Respondent Itkin shall, within ten (10) days of the entry of this Order, pay a civil 
+money penalty of $75,000 to the Securities and Exchange Commission.  If timely payment is not 
+made, additional interest shall accrue pursuant to 31 U.S.C. § 3717. 
+        
+     D.      Respondents’ payments must be made in one of the following three ways: 
+ 
+                      1.  Respondents may transmit payment electronically to the Commission, 
+                      which will provide detailed ACH transfer/Fedwire instructions upon 
+                      request; 
+ 
+                      2.  Respondents may make direct payment from a bank account via 
+                      Pay.gov through the SEC website at 
+                      http://www.sec.gov/about/offices/ofin.htm; or 
+                       
+                      3.  Respondents may pay by certified check, bank cashier’s check, or 
+                      United States postal money order, made payable to the Securities and 
+                      Exchange Commission and hand-delivered or mailed to: 
+                   
+                  Enterprise Services Center 
+                  Accounts Receivable Branch 
+                  HQ Bldg., Room 181, AMZ-341 
+
+                                              18 
+ 
+---------------------Page 19---------------------
+
+ 
+
+                   6500 South MacArthur Boulevard 
+                   Oklahoma City, OK 73169 
+ 
+        Payments by check or money order must be accompanied by a cover letter identifying 
+ OSG and Itkin as a Respondents in these proceedings, and the file number of these proceedings; 
+ a copy of the cover letter and check or money order must be sent to Gerald W. Hodgkins, 
+ Associate Director, Division of Enforcement, Securities and Exchange Commission, 100 F 
+ Street, NE, Washington, DC 20549-5720. 
+ 
+     E.    Amounts paid as civil money penalties pursuant to this Order shall be treated as 
+penalties paid to the government for all purposes, including all tax purposes.  To preserve the 
+deterrent effect of the civil penalty, Respondents agree that in any Related Investor Action, it 
+shall not argue that it is entitled to, nor shall it benefit by, offset or reduction of any award of 
+compensatory damages by the amount of any part of Respondents’ payment of a civil penalty in 
+this action (“Penalty Offset”).  If the court in any Related Investor Action grants such a Penalty 
+Offset, Respondents agree that it shall, within 30 days after entry of a final order granting the 
+Penalty Offset, notify the Commission's counsel in this action and pay the amount of the Penalty 
+Offset to the Securities and Exchange Commission.  Such a payment shall not be deemed an 
+additional civil penalty and shall not be deemed to change the amount of the civil penalty 
+imposed in this proceeding.  For purposes of this paragraph, a “Related Investor Action” means a 
+private damages action brought against Respondents by or on behalf of one or more investors 
+based on substantially the same facts as alleged in the Order instituted by the Commission in this 
+proceeding.  
+ 
+     By the Commission. 
+ 
+ 
+                                               Brent J. Fields  
+                                               Secretary 
+
+                                               19 
+ 

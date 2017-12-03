@@ -1,0 +1,92 @@
+Securities Exchange Act of 1934 Release No. 43416 / October 5, 2000
+Home | Previous Page
+UNITED STATES OF AMERICA
+SECURITIES AND EXCHANGE COMMISSION
+Securities Exchange Act of 1934
+Release No. 43416 / October 5, 2000
+Administrative Proceeding
+File No. 3-10343
+In the Matter of
+ENGINEERING ANIMATION, INC.
+and MICHAEL J. JABLO,
+Respondents.
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO SECTION 21C THE SECURITIES EXCHANGE ACT OF 	1934, MAKING FINDINGS, AND IMPOSING A CEASE-AND-DESIST ORDER
+I.
+The Securities and Exchange Commission ("Commission") deems it appropriate that public administrative proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities Exchange Act of 1934 ("Exchange Act") against Engineering Animation, Inc. ("EAI") and Michael J. Jablo ("Jablo").
+II.
+In anticipation of the institution of these proceedings, EAI and Jablo have submitted Offers of Settlement that the Commission has determined to accept.
+Solely for the purpose of this proceeding and any other proceeding brought by or on behalf of the Commission, or in which the Commission is a party, and without admitting or denying the findings contained herein, except that Respondents admit the jurisdiction of the Commission over them and over the subject matter of this proceeding, EAI and Jablo consent to the entry of this Order Instituting Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order ("Order").
+The Commission has determined that it is appropriate to accept the Offers of Settlement from EAI and Jablo, and accordingly is issuing this Order.
+III.
+FACTS
+Based on the foregoing, the Commission finds that:
+A. Respondents
+Engineering Animation, Inc. is a Delaware corporation with its headquarters in Ames, Iowa.
+It provides mechanical engineering, manufacturing, and marketing software to manufacturing enterprises such as the automotive industry.
+Its common stock is registered with the Commission pursuant to Section 12(g) of the Exchange Act and is listed on NASDAQ.
+Michael J. Jablo, age 48, was EAI's vice president of software sales until his resignation on September 30, 1999.
+He resides in the Chicago, Illinois area.
+B. EAI Improperly Recognized Revenue During the Second Quarter
+ended June 30, 1999
+In the second quarter of 1999, EAI had anticipated closing a $7.5 million contract with an automotive supplier ("Customer").
+This would have been EAI's largest contract to date.
+However, by late June, the Customer had informed EAI that it would not be able to close the transaction by the end of the quarter.
+EAI's vice president of software sales, Jablo, and another EAI sales employee then sought out a third party to act as a reseller in order to close the deal by June 30.1
+On June 30, 1999, the reseller signed a contract ("Contract") with EAI.
+Pursuant to the Contract, the reseller agreed to purchase the software from EAI and to pay $7.5 million by September 30, 1999.
+In connection with the Contract, however, Jablo, on EAI's behalf, gave the reseller a side letter which provided that the reseller was not obligated to pay EAI unless the Customer purchased the software from the reseller.
+Jablo then transmitted the Contract, without disclosure of the side letter, to the company's accounting department, which shipped the software and made entries in EAI's books and records to recognize the revenue for that quarter.
+In late September 1999, while preparing to close EAI's third quarter books, EAI's management asked Jablo about the status of the payment due under the Contract.
+At that time, Jablo told management about the existence of the side letter.
+He also informed management that, because the Customer still had not purchased the software from the reseller, the reseller's $7.5 million payment would not be made by the end of the third quarter.
+Thereafter, EAI restated its second quarter results, reversing the $7.5 million in revenue that it had recognized for the transaction.
+As a result, EAI reported a loss of $4.4 million instead of its previously stated profit of $2.2 million for its second quarter of 1999.
+IV.
+LEGAL ANALYSIS
+1. Violations by EAI
+Section 13(a) of the Exchange Act and Rule 13a-13 thereunder require all issuers whose securities are registered with the Commission pursuant to Section 12 of the Exchange Act to file quarterly reports with the Commission.
+Information contained in such reports must be accurate and complete.
+Further, Rule 12b-20 of the Exchange Act requires that all reports filed pursuant to Section 13 contain all information necessary to ensure that the statements made are not materially misleading.
+The financial information contained in these periodic reports must conform with Regulation S-X, which generally requires conformity with generally accepted accounting principles ("GAAP").2
+EAI violated Section 13(a) of the Exchange Act and Rules 13a-13 and 12b-20 thereunder by filing a quarterly report on Form 10-Q for the quarter ended June 30, 1999 that contained materially false and misleading financial statements.
+Because the Contract was contingent upon the resale of the software to a third party, the fee was not fixed and determinable, and collectibility was not probable, on the date the Contract was signed.
+As a result, EAI failed to comply with GAAP when it recognized $7.5 million of revenue on this transaction during the second quarter of fiscal 1999.
+Section 13(b)(2)(A) of the Exchange Act requires issuers to make and keep books, records, and accounts, which, in reasonable detail, accurately and fairly reflect the transactions and dispositions of assets of the issuer.
+EAI violated Section 13(b)(2)(A) by maintaining books and records which reflected revenue and income from a sales transaction that failed to comply with the GAAP standards for revenue recognition.
+Section 13(b)(2)(B) of the Exchange Act requires every reporting company to devise and maintain a system of internal controls sufficient to provide reasonable assurances that transactions are recorded as necessary to permit preparation of financial statements in conformity with GAAP.
+EAI violated Section 13(b)(2)(B) by failing to have adequate procedures to, among other things, verify that all material contingencies are satisfied prior to the recognition of revenue on each software transaction.
+2. Violations by Jablo
+Section 10(b) of the Exchange Act and Rule 10b-5 thereunder proscribe making materially false and misleading statements in connection with the purchase or sale of any security.
+Section 13(b)(5) of the Exchange Act generally prohibits any person from knowingly circumventing a company's internal accounting controls or knowingly falsifying any company book, record, or account.
+Rule 13b2-1 of the Exchange Act makes it unlawful for any person to falsify, or cause to be falsified, any book, record or account of a publicly traded company.
+As described above, Jablo caused EAI's financial statements for the second quarter of fiscal 1999 to be materially misstated.
+In particular, Jablo entered into and did not disclose the existence of a side letter with the Reseller in connection with the Contract.
+He knew that the letter contained contingencies that made it inappropriate under GAAP for EAI to recognize the $7.5 million contract amount as revenue during the second quarter of fiscal 1999.
+In addition, he knew that the large dollar value of the Contract would have a material impact on EAI's reported revenue and net income for that quarter.
+As a result, Jablo violated Section 10(b) of the Exchange Act and Rule 10b-5 thereunder.
+Jablo violated Section 13(b)(5) of the Exchange Act and Exchange Act Rule 13b2-1 by knowingly concealing the side letter, which resulted in material misstatements of EAI's books and records and the circumvention of the company's internal accounting controls.
+V.
+FINDINGS
+Based on the above, the Commission finds that:
+A. EAI violated Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 13a-13 and 12b-20 thereunder; and
+B. Jablo violated Sections 10(b) and 13(b)(5) of the Exchange Act and Rules 10b-5 and 13b2-1 thereunder.
+VI.
+ORDER
+Accordingly, IT IS HEREBY ORDERED, pursuant to Section 21C of the Exchange Act, that:
+A. EAI cease and desist from committing or causing any violation, and committing or causing any future violation, of Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 13a-13 and 12b-20 thereunder; and
+B. Jablo cease and desist from committing or causing any violation, and committing or causing any future violation, of Sections 10(b) and 13(b)(5) of the Exchange Act and Rules 10b-5 and 13b2-1 thereunder.
+By the Commission.
+Jonathan G. Katz
+Secretary
+Footnotes
+1
+In this context, the term "reseller" refers to a third party that purchases a product, with inventory risk, to resell the product to another third party.
+Unlike EAI's prior dealings with resellers, where the resellers used EAI's products in connection with other products and/or services that they were furnishing to their customers, the third party reseller in this case was not adding any other products or services to EAI's software.
+2
+GAAP requires the following for the recognition of revenue from the sale of software: (a) persuasive evidence of an arrangement exists; (b) delivery has occurred; (c) the vendor's fee is fixed or determinable; and (d) collectibility is probable.
+SOP No. 97-2.
+Under GAAP, revenue from a sale to a reseller, whereby the reseller is only obligated to pay if sales are then made to end-users, may only be recognized when sales are ultimately made to end-users.
+SOP No. 97-2.
+http://www.sec.gov/litigation/admin/34-43416.htm
+Home | Previous Page
+Modified:10/06/2000

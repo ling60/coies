@@ -1,0 +1,281 @@
+---------------------Page 1---------------------
+
+ UNITED                              STATES OF AMERICA 
+
+ Before                                       the 
+
+                    SECURITIES AND EXCHANGE COMMISSION 
+
+
+SECURITIES EXCHANGE ACT OF 1934 
+Release No.  57211 / January 28, 2008 
+
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 2776 / January 28, 2008 
+
+ADMINISTRATIVE PROCEEDING 
+File No. 3-12939 
+
+                                                     ORDER INSTITUTING PUBLIC 
+                                                     ADMINISTRATIVE PROCEEDINGS 
+                                                     PURSUANT TO RULE 102(e) OF THE 
+In the Matter of                                     COMMISSION’S RULES OF 
+                                                     PRACTICE, MAKING FINDINGS, 
+      THOMAS H. BAUER, CPA,                          AND IMPOSING REMEDIAL 
+                                                     SANCTIONS 
+Respondent. 
+
+                                           I.
+
+
+      The Securities and Exchange Commission (“Commission”) deems it appropriate that public 
+administrative proceedings be, and hereby are, instituted against Thomas H. Bauer, CPA (“Bauer” 
+or “Respondent”), pursuant to Rule 102(e)(1)(ii) of the Commission’s Rules of Practice.1 
+
+                                           II. 
+
+      In anticipation of the institution of these proceedings, Bauer has submitted an Offer of 
+Settlement (“Offer”) which the Commission has determined to accept. Solely for the purpose of 
+these proceedings and any other proceedings brought by or on behalf of the Commission, or to 
+which the Commission is a party, and without admitting or denying the findings herein, except as 
+to the Commission’s jurisdiction over him and the subject matter of these proceedings, which are 
+admitted, Bauer consents to the entry of this Order Instituting Public Administrative Proceedings 
+
+1 
+      Rule 102(e)(1)(ii) provides that: 
+
+      The Commission may . . . deny, temporarily or permanently, the privilege of appearing or practicing before 
+it in any way to any person who is found by the Commission . . . to have engaged in . . . improper professional 
+conduct. 
+---------------------Page 2---------------------
+
+Pursuant to Rule 102(e) of the Commission’s Rules of Practice, Making Findings, and Imposing 
+Remedial Sanctions (“Order”), as set forth below.   
+
+                                               III. 
+
+       On the basis of this Order and Respondent’s Offer, the Commission finds 2
+                                                                                 that: 
+
+A.     SUMMARY 
+
+       Enron Corp.’s (“Enron”) senior executives engaged in a wide-ranging scheme to defraud 
+the investing public by materially overstating the company’s earnings and cash flows, and 
+concealing debt in periodic reports filed with the Commission.3
+                                                                The fraudulent scheme was carried 
+out through a variety of complex structured transactions, related party transactions, misleading 
+disclosures, and a widespread abuse of generally accepted accounting principles (“GAAP”).  
+
+       Arthur Andersen LLP (“Andersen”) served as Enron’s auditor, and for each year during the 
+relevant time period, issued an auditor’s report falsely stating that Enron’s financial statements 
+were presented fairly, in all material respects, in conformity with GAAP, and that Andersen had 
+conducted its audit of those financial statements in accordance with generally accepted auditing 
+standards (“GAAS”).  Bauer served as one of the partners on the Enron engagement team and was 
+responsible for the auditing of Enron’s largest division.  As specified in this Order, Bauer engaged 
+in improper professional conduct by failing to design and implement auditing procedures adequate 
+to address the known risk of fraud inherent in the Enron engagement in violation of GAAS. 
+
+B.     RESPONDENT 
+
+       Thomas H. Bauer, 54, served as one of the partners on the Enron engagement and was a 
+CPA licensed in the state of Texas at all relevant times. 
+
+C.     OTHER PARTIES 
+
+       Enron Corp. was an Oregon corporation with its principal place of business in Houston, 
+Texas.  During the relevant time period, Enron’s common stock was registered with the 
+Commission pursuant to Section 12(b) of the Exchange Act and traded on the New York Stock 
+Exchange.  Among other operations, Enron was the nation’s largest natural gas and electric 
+marketer, with reported annual revenue of more than $100 billion.  In 2000, Enron rose to number 
+seven on the Fortune 500 list of public companies.  By December 2, 2001, when it filed for 
+bankruptcy, Enron’s stock price had dropped over the course of a year from more than $80 per 
+share to less than $1. 
+
+2 
+       The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding on any 
+other person or entity in this or any other proceeding.  
+3 
+       In connection with this fraudulent scheme, several former Enron executives either pleaded guilty or were 
+convicted of felonies, including Enron’s former Chief Executive Officer, Chief Financial Officer, and Chief 
+Accounting Officer. 
+                                                2
+
+---------------------Page 3---------------------
+
+       Arthur Andersen LLP once was one of the so-called “Big Five” accounting firms in the 
+United States and had its headquarters in Chicago, Illinois.  Andersen personnel performed work 
+for Enron during the relevant time period in several cities, including Chicago, Houston and 
+London. 4 
+
+D.     FACTS 
+
+       1.      Andersen Identified Enron as a Maximum Risk Client 
+
+       Bauer was aware that the risk of fraudulent financial reporting at Enron was high.  In 
+accordance with applicable professional standards, Andersen assessed the risk of fraud at Enron 
+(AU §316, Consideration of Fraud in a Financial Statement Audit), and Bauer should have known 
+that Enron possessed many of the risk factors that should be considered in making that assessment.  
+For example, Fraud Risk Assessment questionnaires prepared by the audit engagement team 
+documented that Enron placed an “undue emphasis on meeting earnings targets;” used “highly 
+aggressive accounting;” utilized “unusual” year-end transactions that posed difficult “substance 
+over form” questions; possessed a “philosophy of significantly managing (maximizing or 
+minimizing) earnings;” and had a “high dependence on debt, difficulty in meeting debt payments 
+or vulnerability to interest rate changes.”  In addition, an internal Andersen document prepared 
+each year by the engagement team consistently classified the Enron engagement as involving 
+“maximum risk” and noted that Enron’s use of complex “form over substance” and  
+“related party” transactions created an “extreme” or “very significant” financial reporting risk.  
+This document, called a “SMART,” was prepared each year to assist with the annual decision 
+whether to retain Enron as an audit client.  Bauer reviewed the SMART documents and also 
+attended annual client retention meetings during which the risks identified above were discussed. 
+
+       2.      JEDI/Chewco Transaction 
+
+       In May 1993, Enron teamed with the California Public Employees’ Retirement System 
+(“CalPERS”) to form the Joint Energy Development Investments Limited Partnership (“JEDI”) to 
+invest in natural gas assets.  CalPERS contributed $250 million and Enron funded its share of the 
+joint venture with $250 million of its own stock.  Enron did not consolidate JEDI into its financial 
+statements.  Rather, it accounted for JEDI using the equity method and recorded its share of gains 
+and losses from JEDI in its financial statements.   
+
+       In 1997, Enron proposed to CalPERS that a new, larger partnership be formed – JEDI II.  
+CalPERS representatives were hesitant to enter into JEDI II because they felt that CalPERS’ board 
+of directors would not approve the increased exposure to Enron.  Thus, Enron offered to buy out 
+4 
+       David B. Duncan served as the global engagement partner for Andersen’s audits of Enron from 1997 until 
+December 2001.  Contemporaneously with the filing of this Order, the Commission filed a settled civil injunctive 
+action in the U.S. District Court for the Southern District of Texas, Houston Division, against Duncan, in which 
+Duncan consented to be permanently enjoined from violating Section 10(b) of the Securities Exchange Act of 1934 
+and Rule 10b-5 thereunder.  Upon entry of the injunction by the Court, Duncan has also offered to settle an 
+administrative proceeding by the Commission in which he agrees to be permanently barred from appearing or 
+practicing before the Commission as an accountant. 
+                                                3
+
+---------------------Page 4---------------------
+
+CalPERS’ interest in JEDI.  CalPERS agreed and a $383 million purchase price was negotiated.  
+Because Enron did not want to bring JEDI’s debt onto its balance sheet, Enron formed a special 
+purpose entity (“SPE”) named Chewco Investments L.P. (“Chewco”) to step into the shoes of 
+CalPERS.  An Enron employee, Michael Kopper (“Kopper”), managed Chewco’s business affairs 
+and also invested personally in Chewco.   
+
+       To properly treat Chewco as an off-balance sheet SPE, GAAP required the partnership to 
+have independent outside investors who had at least a three percent equity investment in Chewco.  
+These investors also needed to control the SPE and have the substantive risks and rewards of 
+ownership associated with the SPE.  The transaction, however, did not satisfy these requirements.  
+Because Barclays Bank (“Barclays”), which contributed $11.4 million of purported equity, was not 
+comfortable providing the funds backed solely by the assets held by JEDI, it wanted additional 
+credit support.  To satisfy Barclays, reserve accounts controlled by Barclays were set up and funded 
+in the amount of $6.5 million upon the closing of the transaction.  The funding of the reserve 
+accounts was accomplished by a special distribution from JEDI to Chewco that was agreed to in an 
+undisclosed side letter signed by Kopper on behalf of Chewco, and an Enron employee on behalf of 
+JEDI.  The funding of the reserve accounts meant that the requisite three percent equity was not 
+actually at risk.  Thus, the structure did not comply with applicable accounting rules.          
+
+ Ander       sen spent considerable time working with Enron on the Chewco transaction.  Bauer 
+advised Enron about the three percent equity capital requirement and also on governance issues.  
+Bauer also performed audit procedures to determine whether Chewco and JEDI were required to be 
+consolidated into Enron’s financial statements.     
+
+       However, despite numerous red flags associated with this transaction, Bauer failed to 
+exercise due professional care, did not exhibit professional skepticism, and failed to obtain sufficient 
+competent evidential matter to support his analysis of either the control issue or the three percent 
+independent equity requirement (AU §230, Due Professional Care in the Performance of Work and 
+AU §326, Evidential Matter).  Instead, Bauer placed an undue reliance on oral representations from 
+Enron’s management (AU §333, Management Representations).  Bauer asked for, but was denied 
+access to, documents related to the funding of Chewco.  Bauer should have insisted on seeing the 
+relevant documents rather than relying solely on management representations.  Bauer also violated 
+professional standards by failing to sufficiently document in the audit workpapers his planning and 
+supervision of audit procedures and the nature and extent of the audit evidence obtained in reaching 
+his conclusions (AU §339, Working Papers). 
+
+       3.     Violations 
+
+       Rule 102(e)(1)(ii) of the Commission’s Rules of Practice provides, in part, that the 
+Commission may censure or deny, temporarily or permanently, the privilege of appearing or 
+practicing before the Commission in any way to any person who is found by the Commission to 
+have engaged in improper professional conduct.  Rule 102(e)(1)(iv) defines improper professional 
+conduct with respect to persons licensed to practice as accountants. 
+
+                                               4
+
+---------------------Page 5---------------------
+
+       As applicable here, improper professional conduct means a violation of applicable 
+standards that resulted from “repeated instances of unreasonable conduct, each resulting in a 
+violation of applicable professional standards, that indicate a lack of competence to practice before 
+the Commission.”  (Rule 102(e)(1)(iv)(B)(2)).  As a result of the conduct described above, Bauer 
+repeatedly acted unreasonably in failing to conduct or supervise the audit of Enron’s JEDI/Chewco 
+transaction in accordance with GAAS.   
+
+       4.      Findings 
+
+       Based on the foregoing, the Commission finds that Bauer engaged in improper professional 
+conduct pursuant to Rule 102(e)(1)(ii) of the Commission’s Rules of Practice. 
+
+                                               IV. 
+
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondent’s Offer.5 
+
+       Accordingly, it is hereby ORDERED, effective immediately, that: 
+
+       A.      Bauer is denied the privilege of appearing or practicing before the Commission as 
+an accountant. 
+
+       B.      After three years from the date of this order, Bauer may request that the 
+Commission consider his reinstatement by submitting an application (attention: Office of the 
+Chief Accountant) to resume appearing or practicing before the Commission as: 
+
+               1.     a preparer or reviewer, or a person responsible for the preparation or 
+review, of any public company’s financial statements that are filed with the Commission.  Such 
+an application must satisfy the Commission that Respondent’s work in his practice before the 
+Commission will be reviewed either by the independent audit committee of the public company 
+for which he works or in some other acceptable manner, as long as he practices before the 
+Commission in this capacity; and/or 
+
+               2.     an independent accountant.  Such an application must satisfy the 
+Commission that: 
+
+                      (a)     Respondent, or the public accounting firm with which he is 
+associated, is registered with the Public Company Accounting Oversight Board (“Board”) in 
+accordance with the Sarbanes-Oxley Act of 2002, and such registration continues to be effective; 
+
+                      (b)     Respondent, or the registered public accounting firm with which he 
+is associated, has been inspected by the Board and that inspection did not identify any criticisms 
+
+5 
+       In determining to accept Bauer’s Offer, the Commission considered Bauer’s cooperation with the 
+Department of Justice and his testimony at the criminal trial of Enron’s former top two executives.   
+                                                5
+
+---------------------Page 6---------------------
+
+of or potential defects in the Respondent’s or the firm’s quality control system that would 
+indicate that the Respondent will not receive appropriate supervision;
+
+               (c)           Respondent has resolved all disciplinary issues with the Board, and 
+has complied with all terms and conditions of any sanctions imposed by the Board (other than 
+reinstatement by the Commission); and 
+
+                      (d)    Respondent acknowledges his responsibility, as long as 
+Respondent appears or practices before the Commission as an independent accountant, to 
+comply with all requirements of the Commission and the Board, including, but not limited to, all 
+requirements relating to registration, inspections, concurring partner reviews and quality control 
+standards. 
+
+       C.     The Commission will consider an application by Respondent to resume 
+appearing or practicing before the Commission provided that his state CPA license is 
+current and he has resolved all other disciplinary issues with the applicable state boards of 
+accountancy.  However, if state licensure is dependent on reinstatement by the 
+Commission, the Commission will consider an application on its other merits.  The 
+Commission’s review may include consideration of, in addition to the matters referenced 
+above, any other matters relating to Respondent’s character, integrity, professional conduct, 
+or qualifications to appear or practice before the Commission. 
+
+ By       the Commission. 
+
+       N                                              ancy M. Morris
+       S                                             ecretary 
+
+                                                6
+

@@ -1,0 +1,1424 @@
+---------------------Page 1---------------------
+
+                 SECURITIES AND EXCHANGE  COMMISSION
+                             Washington, D.C.
+
+SECURITIES EXCHANGE  ACT OF 1934
+Rel. No. 68431 /December 13, 2012
+
+ACCOUNTING  AND AUDITING  ENFORCEMENT
+Rel. No. 3427 /December 13, 2012
+
+Admin. Proc. File No. 3-13797
+
+              In the Matter of the Application of
+
+                WENDY  MCNEELEY,  CPA
+                 c/o Robert L. Michels, Esq.
+                  Winston & Strawn LLP
+                      35 Wacker Dr.
+                    Chicago, IL 60601
+
+OPINION OF THE COMMISSION
+
+     102(e) PROCEEDING
+
+           Grounds for Remedial Action
+
+                Improper Professional Conduct
+
+     Certified public accountant acting as audit manager engaged in improper professional
+     conduct in the audit of the financial statements of a private company and a related fund.
+     Held, it is in the public interest to deny the accountant the privilege of appearing or
+     practicing before the Commission for six months.
+
+APPEARANCES:
+
+     Robert L. Michels, Scott P. Glauberman, and J. Malcolm Cox, of Winston & Strawn LLP,
+for Wendy McNeeley.
+
+     Andrea Wood and Robert Moye, for the Division of Enforcement.
+
+Appeal filed: February 11, 2011
+Last brief received: May 2, 2011
+Oral Argument: November 2, 2011
+---------------------Page 2---------------------
+
+                                    2
+
+                                   I.
+
+     Wendy McNeeley, a licensed certified public accountant and former audit manager at
+Ernst &Young ("E&Y"), appeals from the decision of an administrative law judge. The law
+judge found that McNeeley engaged in improper professional conduct as defined in the
+Commission's Rule of Practice 102(e)' while serving as the audit manager during E&Y's audit of
+AA Capital Partners, Inc. ("AA Capital"), a registered investment adviser, and AA Capital Equity
+Fund, L.P. (the "Equity Fund") for the year ended December 31, 2004. The law judge found that
+McNeeley's improper professional conduct was the result of a single instance of highly
+unreasonable conduct that resulted in a violation of generally accepted auditing
+standards ("GAAS") in circumstances in which McNeeley knew, or should have known, that
+heightened scrutiny was warranted.2 The law judge determined that, because of this conduct,
+McNeeley should be denied the privilege of appearing or practicing as an accountant before the
+Commission for one year. We base our findings on an independent review of the record, except
+for findings that the parties do not challenge on appeal.
+
+                                   II.
+
+A.   AA  Capital and its Affiliates
+
+     This matter involves McNeeley's audit of a series of transactions through which AA
+Capital transferred approximately $1.9 million from client trust accounts to its president and co-
+founder, John Orecchio, purportedly to pay a tax assessment by the Internal Revenue Service. At
+the time of the audit, AA Capital was headquartered in Chicago, Illinois, and co-owned, equally,
+by Orecchio and his business partner, Paul Oliver, Jr. In addition to being president, Orecchio
+served as AA Capital's director and secretary and exercised day-to-day management and control
+over AA Capital. Oliver served as AA Capital's chairman and treasurer. AA Capital's chief
+financial officer and chief compliance officer was Mary Beth Stevens, who was responsible for
+AA Capital's entire accounting function.3
+
+      AA Capital had several affiliated private equity funds into which AA Capital's clients
+invested money. The largest of these funds was the Equity Fund, which had approximately $131
+million in assets under management as of December 31, 2004. The Equity Fund was governed
+by an Amended and Restated Limited Partnership Agreement (the "Partnership Agreement"),
+which gave the Equity Fund's general partner, AA Private Equity Investors Management, LLC
+
+           17 C.F.R. § 201.102(e)(1)(ii).
+
+           GARS  are standards of conduct relating to how auditors should perform an audit.
+See SEC v. Arthur Young & Co., 590 F.2d 785, 788 n.2, 789 n.4 (9th Cir. 1979). GARS are
+generally described in the American Institute of Certified Public Accountants ("AICPA")
+Codification of Statements of Auditing Standards, hereinafter cited as "AU § _."
+
+           None of AA Capital's employees testified at the hearing.
+---------------------Page 3---------------------
+
+("AA Investors Management LLC"), control over the Equity Fund. Orecchio and Oliver each
+owned twenty percent of the general partner. The Equity Fund's limited partners were three
+pension funds, which had their investment commitments deposited into separate bank trust
+accounts ("Investor Trust Accounts") in the name of each investor. The Equity Fund could call
+capital from the Investor Trust Accounts for three primary purposes: (i) to make investments;
+(ii) to pay management fees; or (iii) to pay overhead expenses.
+
+B.    E&Y's Audits
+
+      E&Y became AA Capital's auditors in 2002, but in 2004, became concerned about
+whether it had the resources to staff those engagements. This concern caused some delay, but
+E&Y  eventually agreed to audit AA Capital and its affiliated funds for the fiscal years ended
+December 31, 2003 and 2004. Because of the delay, however, E&Y had to conduct the 2003 and
+2004 audits concurrently. AA Capital also requested a June 30, 2005 deadline so that investors
+ would have the financial statements necessary to complete their tax filings. The deadline
+required E&Y to conduct ten audits simultaneously by June 30, 2005.
+
+      E&Y began the audits during the spring and early summer of 2005 and assigned
+ McNeeley as audit manager. The audit team also included an independent review partner, John
+Kavanaugh; an engagement partner, Gerard Oprins; two audit seniors; and two audit staff.
+ McNeeley was twenty-nine-years old at the time and had been licensed as a certified public
+accountant for approximately eight years. As audit manager, McNeeley reported to the
+engagement partner, Oprins, but McNeeley was responsible for overseeing day-to-day audit
+planning and executing audit strategy. McNeeley also supervised the audit staff and reviewed
+audit workpapers in significant risk areas.
+
+      As part of the planning process, E&Y's audit team determined not to rely on AA Capital's
+internal controls because E&Y determined those controls to be "ineffective" for purposes of
+E&Y's audit. McNeeley explained that this determination was primarily due "to the lack of
+sophistication with the client's accounting function and that they kept all their books and records
+in Excel format." This determination meant that E&Y's audit would need to test all account
+ balances substantively and verify (or "vouch") all capital calls and distributions.
+
+      McNeeley also expressed concern early in the audit process about meeting the June 30
+deadline because of staffing constraints, another audit engagement McNeeley was conducting by
+ herself, and atwo-week vacation McNeeley intended to take (and did take) starting May 20,
+2005. McNeeley, for instance, wrote inane-mail to Oprins in May 2005 that she was "very
+concerned about the wrap up of this engagement." In a subsequent email in June 2005,
+ McNeeley again wrote "to convey that the June 30th deadline will be challenging to meet," but
+added that she believed "that we will be able to meet the June 30 deadline" and "just wanted to
+ prepare Mary Beth [Stevens]" for the fact "that things may be pulled together at the last minute."
+---------------------Page 4---------------------
+
+                                    4
+
+C.   Discovery of Orecchio's Purported Tax Loans
+
+     Sometime during the audit, the E&Y team noticed that AA Capital's accounts receivable
+schedule (the "Receivable Schedule")4 listed four cash transfers to Orecchio (collectively, the
+"Transfers"). The Receivable Schedule described the transfers as "John —tax payment" and
+totaled approximately $1.92 million. The Transfers were spread over approximately six months,
+at uneven intervals, in varying amounts, and with slightly different structures:
+
+•    On May 19, 2004, $987,000 was transferred from two Investor Trust Accounts to AA
+      Capital's primary bank account. The same day, $602,150 was transferred from AA
+      Capital's primary bank account to Orecchio's personal bank account.
+
+•     On August 2, 2004, $190,000 was transferred from three Investor Trust Accounts to AA
+      Capital's primary bank account. The same day, $190,154 was transferred from AA
+      Capital's primary bank account to Orecchio's personal bank account.
+
+•     On September 20, 2004, $600,000 was transferred from three Investor Trust Accounts to
+      AA Capital's primary bank account. The same day, $579,000 was transferred from AA
+      Capital's primary bank account to Orecchio's personal bank account.
+
+•     On November 5, 2004, $550,000 was transferred from three Investor Trust Accounts to
+     the Equity Fund's bank account. The same day, $550,000 was transferred from the Equity
+      Fund's bank account to Orecchio's personal bank accounts
+
+      On or around May 7, 2005, an E&Y audit staff member, Corina Rojas, had a conversation
+with Stevens about the Transfers. Rojas documented the conversation with a note on the
+Receivable Schedule:
+
+      Per conversation w/ Mary Beth Stevens, CFO, all of the funds held under AA
+      Capital Inc. had not finalized their audits, tax filings, and therefore John Orrechio
+     [sic], (managing member) did not have a final tax return draft that included
+      taxable income w/ set figures. Therefore he had to estimate his tax liability [and]
+      made a payment to the IRS for 1,921,150.... The 1,921,150 is essentially a loan
+      made to John Orrechio [sic]. Mary Beth Stevens expects to receive payment from
+      either Mr. Orrechio [sic] or the IRS after taa~es are finalized.
+
+           McNeeley explained that the Receivable Schedule was prepared by Stevens and
+contained a list "of disbursements from the entity and gives further detail and break out of what
+those amounts related to."
+
+           The parties stipulated to these details, although an e-mail dated June 16, 2005,
+from Stevens to McNeeley, described the Transfers in slightly different amounts: $596,129
+(May 19, 2004); $188,100 (August 2, 2004); $573,210 (September 20, 2004); and $544,500
+(November 5, 2004).
+---------------------Page 5---------------------
+
+                                    5
+
+Rojas, who did not testify, further noted on the Receivable Schedule that Orecchio's co-owner,
+Oliver, had also received a tax advance —for $18,228.
+
+D.   McNeeley's Audit Steps Regarding the Transfers
+     McNeeley testified that, "at some point," she saw the Receivable Schedule listing the four
+transfers to Orecchio. She. could not remember, however, precisely when she first learned of the
+Transfers, explaining that "it is hard for me to remember exactly when I learned things
+throughout the audit." McNeeley recalled meeting with Stevens to discuss the Receivable
+Schedule, but could not recall when that meeting occurred. McNeeley remembered asking
+Stevens during their meeting to provide "any and all documentation that she had regarding the
+tax advances." According to McNeeley, Stevens responded to the request for documents by
+directing McNeeley to the tax advance amounts listed in the Receivable Schedule. McNeeley
+added that she and the audit team "also had other documentation that we had previously been
+provided that also reflected and supported [the Transfers]."
+
+     The first document was a general ledger. McNeeley explained that the ledger was a
+document prepared by Stevens reflecting "all transactions going through the company for a set
+period of time." The ledger showed the detail of the individual purported tax payments, dollar
+amounts, and dates paid.
+
+     The second document was a management representation letter (which was actually two
+documents: one each for AA Capital and the Equity Fund). The letters were signed by Stevens
+and Orecchio and represented to E&Y that AA Capital's and the Equity Fund's accounting
+records were complete and accurately reflected all transactions. The management letter for the
+Equity Fund included a general representation that all related-party transactions were properly
+recorded or disclosed in the financial statements. Neither management representation letter,
+however, explicitly mentioned the Transfers.
+
+     The third document was the Partnership Agreement, which allowed tax-related transfers
+in certain situations. Section 7.3.1 of the agreement provided that "if net income of the [Equity
+Fund] is allocated to [its] Partners in any fiscal year," then the Equity Fund could make "tax
+distributions" to satisfy any tax liability such partner "would actually have incurred.i6 Here,
+however, the Equity Fund had a net investment loss in both 2003 and 2004, and neither of the
+other two parties involved in the Transfers (Orecchio and AA Capital) were partners in the
+Equity Fund.
+
+     McNeeley testified that she "read through" the Partnership Agreement at the beginning of
+the audit and "gained an understanding of all the significant provisions within the limited
+partnership agreement." She could not recall, however, whether she reviewed the Partnership
+Agreement when evaluating the Transfers. As she explained, "I don't have a specific recollection
+o~ looking at [the Partnership Agreement] while ...looking at the accounts receivable schedule,
+
+     6     The Partnership Agreement's Section 7.3.3, which was subject to Section 7.3.1,
+similarly provided for advances to partners to satisfy estimated taxes.
+---------------------Page 6---------------------
+
+                                    C~
+
+but I had previously looked at the [Partnership Agreement] at the beginning of field work and
+had an understanding of the provision allowed for in the agreement."
+
+     When asked during the hearing, McNeeley also testified that she and the audit team never
+sought nor received any third-party confirmation regarding the Transfers, such as documentation
+from the IRS evidencing a tax liability assessment. McNeeley also could not remember whether
+she ever asked about Orecchio's ability to repay the Transfers. As McNeeley explained, "we had
+no reason to question the collectibility of the receivable from John Orecchio to AA Capital
+Partners. We understand him to be a successful wealthy business man. He had capital in the
+[E]quity [F]und as well as investments and various other funds." McNeeley added, "Based on
+my recollection of the transaction, we understood it to be an erroneous tax liability that had been
+assessed to John Orecchio; and therefore, he anticipated settlement with the IRS and was going
+to use that to repay it."
+
+     McNeeley also could not recall contacting the E&Y tax department for any reason.
+E&Y's tax department prepared AA Capital's tax returns at the time of the audits and, therefore,
+likely could have confirmed whether AA Capital had reported income in 2003 or 2004 on which
+Orecchio would owe taxes. McNeeley testified, however, that she "d[id]n't know why I would go
+and inquire [ofJ the E&Y tax team ...when the tax liability that John Orrechio [sic] received
+advances for related to his personal tax return ...and our tax department wouldn't have all the
+information necessary to make the evaluation of his personal tax position."
+
+     McNeeley testified at various points during the hearing that she was comforted by her
+understanding that Oliver and Orecchio "would have full knowledge about each other's tax
+advances." McNeeley could not recall, however, ever confirming whether Oliver actually knew
+about the Transfers. In fact, McNeeley could not recall whether she or any other member of the
+audit team ever spoke with Orecchio or Oliver about any aspect of the Transfers. McNeeley
+instead testified that she "understood" that the two partners "would have full knowledge of each
+other's tax advances" and that she based this understanding "on Paul Oliver being the treasurer of
+the company and having full access to the records." McNeeley later added that Oliver "had the
+opportunity to become aware of such transaction and had a fiduciary ...obligation as a co-owner
+of AA Capital Partners to be aware of all the transaction [sic] and ongoing of the business [sic]."
+
+     Near the end of the audit, McNeeley went on vacation for approximately two weeks,
+beginning May 20, 2005. After her return, McNeeley e-mailed Stevens "to get clarification as to
+exactly what the tax liability related to." In her initial email, sent June 7, 2011, McNeeley
+expressed confusion to Stevens about who owed the tax liability and whether any payment had
+been made. McNeeley, for example, asked Stevens to clarify that accruals "labeled as'John's T~
+Payment' ...are accruals for the Corporation's tax payments and not personal tax liabilities of
+the Shareholders." McNeeley also asked "when are the actual payments expected to be made[?]"
+
+     Stevens responded that Orecchio had been "dinged by the IRS and incurred multiple fees
+and tax payments." Stevens added that most of the supposed tax assessment amounts were not
+correct, but could not be settled with the IRS until the audit and tax work were completed.
+---------------------Page 7---------------------
+
+Stevens explained, "Payments for which [Orecchio] is truly liable for he will pay and a majority,
+if not all, will be refunded back to him which he will then repay the company."
+
+     McNeeley expressed continued confusion in a follow-up email about what she described
+as "these hefty tax assessments." McNeeley wrote to Stevens that "it's my understanding that no
+money has actually been paid from or received by AA Capital in relation to the payment of John
+[Orecchio]'s taxes," and asked "if it is proper to present a liability on the books of AA Capital for
+which AA Capital does not currently have obligation to pay." Stevens wrote back to clarify that
+AA Capital was owed an accounts receivable from Orecchio and, in turn, AA Capital owed an
+accounts payable to the Equity Fund.
+
+     On the same day as her email exchange with Stevens, McNeeley documented her
+understanding of the Transfers with a note in the workpapers:
+
+     [T]he Equity fund made approx. [$] 1,921,304 of tax payments for John Orrechio
+     [sic] during 2004. [T]he Equity fund has set up a receivable -from AA Capital
+     Partners for reimbursement of this amt. E&Y verified that AA Cptl Ptnrs has a
+     reciprocal payable balance to Equity. E&Y also noted that AA Cptl has an
+     offsetting receivable balance from John Orrechio [sic]. Appears proper.
+
+     Oprins testified that he saw McNeeley's note, but he could not recall "one way or the
+other" whether McNeeley ever discussed the Transfers with him. Oprins could recall only that
+McNeeley kept him informed about what was happening during the audits, but not the specific
+audit steps taken regarding the Transfers or whether he had discussed the Transfers with the audit
+team.
+
+E.   E &Y's Subsequent Review Testing
+
+     As part of the 2004 audit, the E&Y audit team conducted "subsequent review testing" of
+transactions that occurred after the 2004 year end. E&Y's workpapers showed that the audit team
+looked at AA Capital's cash receipt and disbursement records for "significant" or "unusual" items
+that may have occurred between January 1, 2005 and March 31, 2005. McNeeley wrote in the
+workpapers that "no unusual items" were uncovered during this subsequent review.
+
+     AA  Capital's 2005 accounts receivable schedule, however, showed that AA Capital made
+nine more disbursements to Orecchio in January and February 2005, totaling $482,000. The
+2005 accounts receivable schedule described these transfers as "J.O. taxes," "JO Tax Distrib," or
+"JO Tax Dist." The record is not clear, however, whether McNeeley saw these subsequent
+transfers. The only document in the record that lists the subsequent transfers is the 2005
+accounts receivable schedule. That document, however, includes entries dated as late as
+December 31, 2005 and therefore could not have existed at the time McNeeley was completing
+the audit in June 2005.
+---------------------Page 8---------------------
+
+F.   The 2004 Financial Statement
+
+     E&Y  completed the audits by the end of June 2005 and issued unqualified audit opinions
+for AA Capital's and the Equity Fund's 2004 financial statements. E&Y's audit opinion
+represented that E&Y had conducted its audit in accordance with GARS and that the audit
+provided a reasonable basis for E&Y's opinion that AA Capital's and the Equity Fund's financial
+statements fairly presented the firms' financial positions, results of operations, and cash flows.'
+
+     The audited financial statements provided no specifics about the $1.92 million tax
+advance to Orecchio. Instead, AA Capital's 2004 financial statements disclosed only that the
+company had $2.534 million in "[flee and accounts payable" and $2.251 million in "[a]ccounts
+receivable from affiliates." The notes to AA Capital's financial statements also provided no
+mention of transfers to Orecchio. The notes instead discussed only that the company had paid
+$264,176 in "certain reimbursable expenses" for several of AA Capital's related funds. The
+Equity Fund's financial statements similarly listed a $1.92 million "[a]ccounts receivable from
+AA Capital Partners, Inc.," with no other details such as the terms or manner of settlement.
+
+     E&Y's internal GAAP Disclosure Checklist stated that "[n]otes or accounts receivable
+from officers, employees or affiliated companies must be shown separately and not included
+under a general heading such as notes or accounts receivable." In response to this item,
+McNeeley checked a box indicating "not applicable." McNeeley explained that she checked "not
+applicable" because she believed the requirement was limited to making sure that "accounts
+receivable with related parties is not grouped in with other accounts receivables from trade
+creditors and that was not the case in either one of these financial statements."
+
+G.   Discovery of Orecchio's Fraud
+
+     AA Capital engaged E&Y to audit the company and its related funds again the following
+year, 2005. Jennifer Aquino replaced McNeeley as the audit manager because McNeeley was on
+maternity leave. Most of the 2005 E&Y audit team otherwise remained the same.
+
+     During the 2005 audit, Aquino asked Stevens for documentation supporting the tax
+transfers to Orecchio, but never received anything in return. Aquino testified that the E&Y audit
+team had several internal meetings regarding the transfers and sent Orecchio an e-mail, but the
+record provides no indication that Orecchio ever responded. Those steps, Aquino recalled, were
+
+           The audit opinion for AA Capital's financial statements included a disclaimer that
+AA Capital's policy was to prepare its financial statements on a tax basis of accounting. The
+financial statements, the audit opinion explained, were not intended to be presentations in
+conformity with generally accepted accounting principals ("GAAP"). Despite this disclaimer,
+Oprins and McNeeley both acknowledged that GAAP disclosure requirements for related-party
+transactions were the same no matter whether the financial statements were tax-based or GAAP-
+based. The audit opinion for the Equity Fund's financial statements did not include a tax basis
+disclaimer.
+---------------------Page 9---------------------
+
+"the best that we felt we could do at that time." She explained that, because the audit team
+"didn't have anything to audit," they could only wait to receive something more from AA Capital.
+Aquino also learned during the audit that, by the end of 2005, the t~ transfers to Orecchio had
+grown to $5.7 million. As McNeeley's expert witness testified, AA Capital's financial statements
+expressly identified the Transfers as "accounts receivables," which indicated that the Transfers
+were short-term advances repayable within one year. Aquino, therefore, found it significant that
+the 2004 transfers not only still existed on AA Capital's books in 2005, but had, in fact,
+increased.
+
+     The audit team eventually decided that they would not continue with the 2005 audit until
+Orecchio paid back the "tax loan" and E&Y had received enough documentation to audit the
+transfer balance. On June 30, 2006, Oprins informed Stevens and Orecchio that E&Y would not
+release its 2005 audit opinions until Orecchio repaid the transfers. The E&Y audit team also
+raised a "going concern" issue regarding AA Capital's ability to fund its operations. The audit
+team was unable to resolve these issues, and E&Y never issued its 2005 audit reports.
+
+     In August 2006, the Commission conducted a "for cause" on-site examination of AA
+Capital to investigate a tip from the U.S. Department of Labor about a kickback scheme. During
+the examination, Commission staff learned that Orecchio had misappropriated approximately $5
+million through a fraudulent tax-loan mechanism. In September 2006, the Commission filed a
+complaint in U.S. District Court against AA Capital and Orecchio. The complaint alleged that
+AA Capital and Orecchio misappropriated at least $10.7 million from AA Capital's advisory
+clients, and the U.S. District Court placed a receiver over AA Capital.g The U.S. Department of
+Justice subsequently brought criminal charges against Orecchio in 2009 for wire fraud and theft
+of funds from an employee benefit plan. Orecchio pleaded guilty in February 2010, and a U.S.
+District Court sentenced Orecchio to more than nine years in prison.9 The Commission also
+instituted administrative proceedings against Stevens and Oliver for their involvement in the
+fraud. Stevens and Oliver eventually consented to, among other things, a bar and twelve-month
+suspension, respectively; civil penalties; and acease-and-desist order.'o
+
+H.   Rule 102(e) Administrative Proceeding
+
+     In March 2010, the Commission issued an Order Instituting Proceedings ("OIP") against
+McNeeley and her supervisor, Gerard Oprins, in connection with their audit of AA Capital. The
+OIP charged McNeeley and Oprins with engaging in improper professional conduct as defined in
+Rule 102(e) "in that their conduct constituted (A) intentional or knowing conduct, including
+
+           SEC v. AA Capital Partners, Inc., No. 06-C-4859 (N.D. Ill. Sept. 8, 2006).
+
+           United States v. Orecchio, No. 09-CR-622 (N.D. Ill. 2010).
+
+     10    Mary Beth Stevens, Investment Advisers Act Rel. No. 2973 (Jan. 5, 2010),
+97 SEC Docket 24420; Paul W. Oliver, Jr., Advisers Act Rel. No. 2903 (July 17, 2009), 96 SEC
+Docket 19124.
+---------------------Page 10---------------------
+
+                                   10
+
+reckless conduct, that resulted in a violation of the applicable professional standards, or in the
+alternative, (B) negligent conduct, consisting of a single instance of highly unreasonable conduct
+that resulted in a violation of applicable professional standards in circumstances in which
+Respondents knew, or should have known, that heightened scrutiny was warranted." After an
+eight-day hearing, an administrative law judge issued an initial decision finding that McNeeley's
+actions did not constitute reckless conduct, but did constitute highly unreasonable conduct in
+circumstances warranting heightened scrutiny that resulted in a violation of the applicable
+professional standards. The law judge found that Oprins also violated the applicable professional
+standards, but that his actions were neither reckless nor highly unreasonable. McNeeley appeals
+the law judge's decision."
+
+     Rule of Practice 102(e) permits us to censure or deny (either permanently or temporarily)
+the privilege of appearing or practicing before the Commission to persons found to have engaged
+in improper professional conduct. The rule defines three classes of "improper professional
+conduct" for accountants, but this appeal concerns only one: whether McNeeley engaged in "a
+single instance of highly unreasonable conduct that results in a violation of applicable
+professional standards in circumstances in which an accountant knows, or should know, that
+heightened scrutiny is warranted."'Z We find, for the reasons below, that McNeeley engaged in
+such improper professional conduct.
+
+A.   Heightened Scrutiny Was Warranted
+
+     Our Rule 102(e) analysis first considers whether the Transfers warranted heightened
+scrutiny. Under Rule 102(e), "heightened scrutiny" is warranted "when matters are important or
+material, or when warning signals or other factors should alert an accountant" to a heightened
+risk.'3 These factors were clearly present here.
+
+     "     Because the law judge's decision regarding Oprins was not appealed, the only
+issue before us on appeal is whether McNeeley engaged in improper professional conduct. See
+Gerard A.M. Oprins, CPA, Securities Exchange Act Rel. No. 63931 (Feb. 18, 2011) (giving
+notice, "pursuant to Rule 360(d) of the Commission's Rules of Practice, that the initial decision
+of the administrative law judge has become the final decision of the Commission with respect to
+Gerard A.M. Oprins").
+
+      12   17 C.F.R. § 201.102(e)(1)(iv)(B)(1). The other two classes of improper
+professional conduct are "intentional or knowing conduct, including reckless conduct, that results
+in a violation of applicable professional standards;" and "repeated instances of unreasonable
+conduct, each resulting in a violation of applicable professional standards, that indicate a lack of
+competence to practice before the Commission." 17 C.F.R. § 201.102(e)(1)(iv)(A),
+(e)(1)(iv)(B)(2).
+
+      13   Amendment to Rule 102(e) of the Commission's Rules of Practice ("Amendment to
+Rule 102(e)"), 63 Fed. Reg. 57,164, 57,168 (Oct. 26, 1998).
+---------------------Page 11---------------------
+
+                                    11
+
+     First, the Transfers were related-party transactions, which we and the courts have
+repeatedly held require heightened scrutiny.14 The reason for this, the D.C. Circuit has explained,
+"is apparent: Although in an ordinary arms-length transaction, one may assume that parties will
+act in their own economic self-interest, this assumption breaks down when the parties are related.
+A company that would perform a thorough credit-risk assessment before extending a loan might
+not do so if the loan were to one of its officers or directors.i15 That is the case here. AA Capital
+essentially extended a loan from clients' trust accounts to Orecchio, who was not only an officer
+and director of AA Capital, but also a founder and co-owner. Transactions involving such strong
+related-party relationships, the D.C. Circuit has explained, alert auditors that a firm may not have
+thoroughly vetted those transactions and that, as a result, heightened scrutiny is needed —exactly
+the case that faced McNeeley.16
+
+     Second, the Transfers were plainly material, which we have also stated triggers
+heightened scrutiny." McNeeley counters that materiality "is irrelevant" because, she contends,
+auditors are concerned only with material transactions. She claims that to hold that materiality
+warrants heightened scrutiny would therefore mean that every transaction would warrant
+heightened scrutiny. She argues that multi-million dollar tax liabilities are not unusual for
+private equity firm partners and do not necessarily require heightened scrutiny. Even if we
+accepted this latter proposition regarding the absolute amount of the tax liabilities, the Transfers
+here were more than 100 times greater than a transfer to Orecchio's equal partner in a year in
+which the Equity Fund had no net income.18 Even McNeeley described the $1.9 million transfers
+combination warrants heightened scrutiny.19
+
+     '4    McCurdy v. SEC, 396 F.3d 1258, 1261 (D.C. Cir. 2005) (citing Howard v. SEC,
+376 F.3d 1136, 1149 (D.C. Cir. 2004)) (noting that related-party transactions "are viewed with
+extreme skepticism in all areas of finance"), affg James Thomas McCurdy, CPA, 57 S.E.C. 277
+(2004); see also Gordon v. Comm'r, 85 T.C. 309, 326-27 (1985) (explaining "heightened"
+skepticism for related-party transactions); AU § 334 (recognizing need for care in the
+examination of material related-party transactions).
+
+      15   McCurdy, 396 F.3d at 1261.
+
+      16   McCurdy, 396 F.3d at 1264 ("The related-party interest underlying the transaction
+was not minor: Bagwell was the founder and CEO of the fund, a trustee, and its investment
+advisor.").
+
+     "     Amendment to Rule 102(e), 63 Fed. Reg. at 57,168 (stating that heightened
+scrutiny is warranted "when matters are important or material").
+
+     'g    Cf. McCurdy, 396 F.3d at 1264 (affirming Commission's finding of recklessness
+where auditor failed to investigate adequately arelated-party receivable that "was nearly ten
+times the amount of the GARS-dictated materiality threshold").
+
+      19   See McCurdy, 57 S.E.C. at 295 (finding heightened scrutiny to be warranted
+where, among other things, the receivable at issue "arose from a related party transaction" and
+                                                               (continued...)
+---------------------Page 12---------------------
+
+                                    12
+
+     Finally, McNeeley argues that the material, related-party nature of the Transfers cannot
+provide a basis for finding that the Transfers warranted heightened scrutiny because, she claims,
+the Division failed to make such allegations in the OIP. To the contrary, however, the OIP
+expressly alleged that "McNeeley identified Orecchio's 'tax loan' as a related party transaction,
+[but] failed to apply heightened scrutiny or perform any additional audit steps to evaluate it."
+Moreover, the standard for determining whether notice is adequate is whether "the respondent
+'understood the issue' and'was afforded full opportunity' to justify [her] conduct during the
+course of the litigation.i20 We find that McNeeley, who has been represented by counsel
+throughout these proceedings, adequately understood the allegation that the Transfers warranted
+heightened scrutiny because of their material, related-party nature and that she had ample
+opportunity to defend herself against those allegations.
+
+B.   McNeeley Violated Applicable Professional Standards
+
+     Our analysis of whether McNeeley engaged in improper professional conduct next
+addresses whether McNeeley violated applicable professional standards. Here, we find that
+McNeeley violated three professional standards: ,(i) exercising due professional care,
+(ii) obtaining sufficient competent evidence, and (iii) rendering an accurate audit report.Z'
+
+     1.    Failure to Exercise Due Professional Care
+
+     GARS  require auditors to exercise due professional care when conducting an audit and
+preparing a report.22 Under this standard, auditors must maintain an attitude of professional
+                                                              evidence.i23
+skepticism, which includes "a questioning mind and a critical assessment of audit 
+Until an auditor obtains an understanding of the business purpose of material related-party
+
+      19   (...continued)
+was "clearly material"); AU § 334.07 ("The auditor should place emphasis on testing material
+transactions with parties he knows are related to the reporting entity."); cf. McCurdy, 396 F.3d at
+1263-64 (finding that auditor's failure to investigate material, related-party transaction was
+reckless under Rule 102(e)).
+
+     20    Aloha Airlines, Inc. v. Civil Aeronautics Bd., 598 F2d 250, 262 (D.C. Cir. 1979).
+
+     21    AU § 230.01 (professional care); AU § 326.22 (sufficient competent evidential
+matter); AU § 508.07 (accurate audit report).
+
+     2z 
+           AU § 230.01 ("Due professional care is to be exercised in the planning and
+performance of the audit and the preparation of the report.").
+
+     Z3 
+           AU § 230.07; see also AU § 230.08 ("[P]rofessional skepticism should be
+exercised throughout the audit process."); AU § 330.15 (requiring auditors to exercise an
+appropriate level of professional skepticism in designing and conducting the confirmation
+process).
+---------------------Page 13---------------------
+
+                                   13
+
+transactions, her audit is not complete.24 Here, numerous red flags and other irregularities
+surrounded the Transfers —anomalies that should have triggered McNeeley's professional
+skepticism and led her to investigate further at that point. Instead, McNeeley did essentially
+nothing, and an unqualified audit opinion was eventually issued. As explained below, this failure
+to investigate fell well below the necessary level of professional care.
+
+     The first, and most glaring, red flag that McNeeley failed to investigate properly involved
+the Equity Fund's Partnership Agreement. That agreement contemplated tax-related transfers
+only for partners of the Equity Fund. Neither Orecchio nor AA Capital, however, was a partner
+in the fund. The Partnership Agreement also contemplated tax-related transfers only for years in
+which the fund allocated net income to such partners. The Equity Fund, however, had a net
+investment loss in both 2003 and 2004.
+
+     Even a relatively casual understanding of the Partnership Agreement, therefore, should
+have, at a minimum, alerted McNeeley that the agreement's terms did not accord with what she
+knew about the Transfers. As an auditor, McNeeley was responsible for reconciling these
+discrepancies, and verifying that the Equity Fund's governing documents allowed the Transfers
+was perhaps the most basic auditing step McNeeley could have taken. The workpapers,
+however, contain no indication that she made any effort to square the Partnership Agreement
+with the Transfers, and McNeeley herself testified that she could not remember whether she
+reviewed the Partnership Agreement subsequent to learning of the Transfers. Instead, McNeeley
+claims only that "she was familiar with private equity partnership agreements and the typical
+provisions within such agreements, and based on her review of the Partnership Agreement at the
+outset of the audit, she understood its provisions." Given the centrality of the Partnership
+Agreement in determining the permissibility and appropriate reporting of the Transfers, it was
+incumbent upon McNeeley to have a better understanding of the Partnership Agreement than she
+did. The lack of evidence that McNeeley performed any follow-up regarding the Partnership
+Agreement leads us to one of two conclusions: either McNeeley did not review the agreement
+sufficiently to notice and understand the obvious red flags or she noticed the red flags, but did
+nothing about them. Either is a failure to exercise due care.
+
+     In her appeal, McNeeley disputes that the Partnership Agreement contained any red flags,
+because, she claims, the agreement in fact allowed for tax distributions and advances. McNeeley
+does not explain, however, how the agreement actually allowed for the Transfers, other than to
+point to what she calls the "common sense" argument that the "very reason that Mr. Orecchio
+chose to disguise his misappropriations as a tax advance was that the Partnership Agreement
+clearly allows for tax advances under the circumstances here. If it had not, he would not have
+used the Partnership Agreement to justify withdrawing the money." McNeeley's generic,
+unsupported, after-the-fact assertion that the Partnership Agreement allowed for tax distributions
+and advances in certain situations —situations that, on their face, did not apply here — is not a
+foundation on which one may properly base an audit. Moreover, McNeeley's contention that it is
+"common sense" that a fraudster's cover-up would conform to the governing documents is
+contradicted here by the audit evidence of the Partnership Agreement's provisions, and
+underscores how little attention she paid to that evidence.
+
+     24 
+           AU § 334.09(a).
+---------------------Page 14---------------------
+
+                                   14
+
+     The inconsistencies between the Transfers and the Partnership Agreement were not the
+only red flags that McNeeley failed to investigate. Stevens gave McNeeley and her audit team
+inconsistent explanations for why Orecchio needed the Transfers. The first explanation Stevens
+gave was that Orecchio needed the Transfers because he "did not have a final tax return draft
+[and] [t]herefore he had to estimate his tax liability and make a payment to the IRS." This
+explanation suggests that Orecchio's alleged tax liability was based on his own estimate. Later,
+however, Stevens told McNeeley that Orecchio had been "dinged by the IRS and incurred
+multiple fees and tax payments." This explanation suggests that Orecchio's alleged tax liability
+was based on an IRS calculation (which Orecchio believed was incorrect).25 The record again
+contains no evidence that McNeeley exercised appropriate caxe by attempting to reconcile these
+inconsistencies.
+
+     McNeeley defends her failure to investigate by arguing that Stevens's explanations were
+not, in fact, inconsistent. As McNeeley testified, she understood the Transfers to be "a taY
+assessment that was assessed to Mr. Orrechio [sic] based on his estimated taxes[, which] he
+believed ...was erroneous in nature because it was not based on final numbers." McNeeley,
+however, points to no evidence supporting this after-the-fact rationalization that Orecchio had
+incurred some sort of estimated, erroneous taxes. To the contrary, McNeeley's convoluted
+explanation of the situation raises its own set of questions.26 How, for example, did Orecchio
+estimate a nearly $2 million tax liability for a year in which the Equity Fund had no net
+investment income? How did Orecchio's erroneous tax estimate, which the workpapers indicated
+was related to a failure by "all of the funds held under AA Capital" to finalize their audits and t~
+filings, explain why Orecchio withdrew money from only the Equity Fund? How does an
+erroneous tax assessment explain why the Transfers, even when taken out of the Equity Fund,
+were not always drawn from the same client trust accounts? How does an erroneous tax
+assessment explain why the Transfers took place on multiple dates, at uneven intervals, and in
+varying amounts? Again, the record contains no indication that McNeeley explored these
+questions. Instead, McNeeley simply accepted management's explanations at face value.
+
+     An additional, obvious question would have been how not having "final numbers" led
+Orecchio to estimate taxes that were more than 100 times larger than what his equal partner
+Oliver paid. McNeeley argues that Orecchio's disproportionately large tax liability was not
+suspicious because she was told that his tax liability was the result of an erroneous assessment
+that McNeeley contends "would not bear any relation to the amount of a correct tax liability or
+the amount of someone else's correct tax liability." In support, McNeeley points to an E&Y tax
+partner's testimony in which he theorized that the IRS could make any variety of mistakes that
+could result in large tax discrepancies, such as entering incorrect numbers on one's tax files. This
+
+     zs 
+           In yet a third explanation, a managing director at AA Capital told Oprins that AA
+Capital's partners "were incurring substantial interest and penalties as a result of late filings of tax
+returns." The record does not indicate that McNeeley was aware of this explanation.
+
+     Z6 
+           Cf. Michael J. Marcie, CPA, 56 S.E.C. 760, 784 (2003) (rejecting "an
+after-the-fact justification for [respondents'] failure to exercise the required degree of
+professional care"), rev'd on other grounds, 374 F.3d 1196 (D.C. Cir. 2004).
+---------------------Page 15---------------------
+
+                                    15
+
+hypothetical example, however, is inconsistent with the reason for the Transfers that McNeeley
+was initially given: that someone erroneously estimated Orecchio's taxes because of not having
+final tax information. McNeeley's explanation for her lack of suspicion about Orecchio's
+disproportionate taa~ liability thus highlights the difference between the two explanations she was
+given. The record contains no evidence that McNeeley ever investigated the reasons for these
+differing explanations.
+
+     The record also contains no evidence that McNeeley ever attempted to verify Orecchio's
+ability to repay the tax advance. McNeeley testified only that she could not recall whether she
+inquired into Orecchio's ability to pay, and added that "we had no reason to question the
+collectibility [because] [w]e understood him to be a successful wealthy businessman who had
+capital in AA Capital Partners, Inc. plus investments in various other funds." McNeeley's
+assumption about Orecchio, however, again lacked support. The workpapers contained no
+evidence that McNeeley inquired into Orecchio's overall financial condition. What were these
+"various other funds" worth? Were these investments liquid enough to satisfy the amount of the
+short-term loans? What were his liabilities? Were his assets encumbered by any debt? Did
+Orecchio have sufficient liquid assets to repay the loan in a time period consistent with the loan
+being classified as a short-term receivable? The workpapers contain no evidence that McNeeley
+ever investigated these questions.27 Stevens also told McNeeley that the IRS was likely to
+reimburse Orecchio for the supposedly erroneous tax payments, but the workpapers contain no
+evidence supporting that claim either.
+
+     Ultimately, because McNeeley never investigated, let alone reconciled, these various
+inconsistencies, McNeeley's various hypothetical explanations for the Transfers remained just
+that: hypotheticals. Pursuant to GARS, however, "[i]f a representation made by management is
+contradicted by other audit evidence," an auditor may not simply hypothesize, but "should
+investigate the circumstances, and consider the reliability of the representation made.i28 That
+                                                                 nothing.29
+was repeatedly the case here. But instead of investigating, McNeeley did essentially 
+
+     McNeeley contends that any follow-up regarding the Transfers would have been futile
+because, she claims, individuals at AA Capital were engaged in collusive fraud. In support, she
+notes that Orecchio had forged two IRS notices that she claims show that "AA Capital's
+
+     27    Cf. Gregory M. Dearlove, CPA, Exchange Act Rel. No. 57244 (Jan. 31, 2008), 92
+SEC Docket 1867, 1887 (rejecting auditor's reliance on family's ability to repay loan where
+auditor did not determine whether family's assets were encumbered by other debts and auditor
+"saw no financial statements or other proof of the family's financial condition other than local
+media reports that the [family members] 'were billionaires"'), petition denied, 573 F.3d 801 (D.C.
+Cir. 2009).
+
+     28    AU § 333.04.
+
+     29 
+           Our identification of examples of steps that McNeeley could have taken, but did
+not, is not intended to imply that she necessarily was required to take all of these steps to fulfill
+her professional duties. Rather, faced with multiple red flags, McNeeley had an obligation to
+investigate more than she did.
+---------------------Page 16---------------------
+
+                                   16
+
+management had plainly prepared a series of false documents to dole out to the auditors as
+necessary." She acknowledges that the record contains no evidence that the audit team ever saw
+the notices, but hypothesizes that "[m]ore demands [from McNeeley] would have been met with
+more false documents." Individuals at AA Capital were indisputably engaged in fraud, and
+E&Y's auditors were plainly not receiving accurate information about the Transfers. It is thus
+possible that, no matter the steps McNeeley took, individuals at AA Capital would have
+continued to hide the Transfers' true nature. The gravamen of the charge against McNeeley,
+however, is not her failure to uncover the fraud itself, but her failure to adhere to GARS during
+the audit. An auditor, we have explained, "is not a guarantor of the accuracy of financial
+statements of public companies, but the Commission and the investing public rely heavily on
+auditors to perform their tasks in auditing public companies 'diligently and with a reasonable
+degree of competence.ii30 Therefore, although "[w]e do not know whether [the] fraud would
+have been uncovered had [McNeeley] fulfilled [her] professional duties in conducting the audit,
+. •..that is not relevant to our inquiry."31
+
+     McNeeley also defends her conduct by challenging whether the Division met its burden
+of proving that McNeeley, in fact, failed to take the various follow-up auditing steps described
+above (such as reviewing the Partnership Agreement a second time in connection with the
+Transfers or verifying Orecchio's tax liability). McNeeley asserts that the only evidence against
+her is her own failure to remember whether she took the steps described above and the
+workpapers' failure to mention whether she took such steps. She claims that the Division, by
+relying on such evidence, is essentially faulting her for not memorializing "every fact gathered,
+conversation held, or procedure performed in the course of an audit.i32 McNeeley's argument,
+however, misconstrues her auditing responsibilities and the Division's case against her.
+Understanding the red flags described above was crucial to understanding, and approving the
+accounting treatment of, the underlying Transfers. As we have stated before, "[w]e consider the
+absence of work papers to be evidence that the audit team did not devote substantial, if any,
+
+     3o 
+           See Marcie, 56 S.E.C. at 795 (quoting Touche Ross & Co. v. SEC, 609 F.2d 570,
+581 (2d Cir. 1979)).
+
+     31    See Macrae, 56 S.E.C. at 794-95; see also Michael S Hope, CPA, 49 S.E.C. 568,
+606 (1986) (noting that the Commission has repeatedly held that "being lied to" is not an
+automatic defense to charges of improper professional conduct); Touche Ross & Co., 45 S.E.C.
+469, 469 (1974) (finding that "deception ...did not relieve Touche of its responsibility to
+perform its audits in conformity with generally accepted auditing standards").
+
+     3z 
+           McNeeley frames this argument as an error by the law judge to apply the proper
+burden of proof. McNeeley, in fact, frames much of her appeal in terms of errors by the law
+judge. Our de novo review, however, cures any error that the law judge may have made. See
+Robert M. Fuller, 56 S.E.C. 976, 989 n.30 (2003), petition denied, 95 F. App'x 361 (D.C.
+Cir. 2004). The law judge's opinion thus ceased to have any force or effect once McNeeley filed
+her petition for review. See Fundamental Portfolio Advisers, Inc., 56 S.E.C. 651, 679 n.44
+(2003); 17 C.F.R. § 201.360(d), (e).
+---------------------Page 17---------------------
+
+                                    17
+
+effort to review the areas in question. ii33 And here, McNeeley does not dispute that the
+workpapers do not explain, or even mention, the red flags described above or that the workpapers
+fail to document any steps she may have taken toward understanding or reconciling the red flags.
+
+     In the end, despite a variety of significant red flags surrounding the Transfers, McNeeley
+and the E&Y team verified only the amount of those Transfers ($1.9 million). On almost every
+other aspect, McNeeley had only vague, unsupported, and often contradictory management
+representations, which raised more questions than they answered. McNeeley's failure to follow
+up on such obvious, outstanding issues was a clear failure to exercise due care.
+
+     2.    Failure to Obtain Sufficient Competent Evidential Matter
+
+     McNeeley's lack of due care also led to the related auditing failure of not obtaining
+sufficient competent evidential matter. GAAS require auditors to obtain evidence sufficient to
+                                                                 review.3a
+afford a reasonable basis for an opinion with respect to the financial statements under 
+GARS explain that "[t]he amount and kinds of evidential matter required to support an informed
+opinion are matters for the auditor to determine in the exercise of his or her professional
+judgment after a careful study of the circumstance in the particular case.i35 GARS also warn that
+management representations "are not a substitute for the application of th[e] auditing procedures
+necessary to afford a reasonable basis for an opinion regarding the financial statements under
+audit," and auditors may not become satisfied with less than persuasive evidence merely because
+they believe that management is honest.36 These warnings were all the more urgent in the
+context of auditing a transaction requiring heightened scrutiny because it was a material, related-
+party transaction involving a member of management. McNeeley's audit did not conform to
+these standards.
+
+     If the Transfers were, as Stevens represented them to be, related to a tax liability, then a
+variety of obvious evidential material about the Transfers should have been readily obtainable,
+such as IRS-related correspondence, filings, or checks. But McNeeley did not require Stevens to
+produce any of this material. Nor did McNeeley question Stevens's failure to produce such
+documents when McNeeley asked Stevens to provide all documents related to the Transfers — a
+non-response that should have raised its own set of questions. McNeeley relied only on a
+receivable schedule, a general ledger, and management representation letters.37 These documents
+told McNeeley little about the Transfers other than the amount that was transferred to Orecchio.
+In fact, McNeeley's June 7 emails to Stevens showed that McNeeley could not tell from those
+
+     33 
+           Dearlove, 92 SEC Docket at 1883 n.39 (noting that "workpapers are ordinarily the
+foundation on which support for audit conclusions is demonstrated").
+
+     34 
+           AU § 326.22.
+
+     3s 
+           Id
+
+     36 
+           AU §§ 333.02, 230.09.
+
+     37    McNeeley also claims to have relied on the Partnership Agreement, but, as
+discussed, that document did not support the validity of the Transfers.
+---------------------Page 18---------------------
+
+                                    18
+
+documents such basic information as whether the Transfers related to a personal or corporate tax
+liability, whether any payment had yet been made, or who, if anyone, made such payment. Nor
+did the materials on which McNeeley relied answer the various questions discussed above, such
+as why the Transfers came only from the Equity Fund or how an erroneously estimated tax
+liability could be nearly $2 million, which was more than 100 times more than his equal partner
+Oliver's liability, in a year in which the Equity Fund had no net investment income. McNeeley's
+correspondence with Stevens was a good starting point for answering these questions, but
+Stevens's responses about Orecchio's being "dinged by the IRS" were still only unsubstantiated
+management representations, lacked detail, and arguably contradicted Stevens's earlier
+explanation about the Transfers' being related to estimated taxes.
+
+     In fact, other than the Partnership Agreement, the evidential materials McNeeley obtained
+were all representations or internal accounting documents generated by management. As GARS
+expressly warn, evidential matter regarding related-party transactions, such as the Transfers,
+"should extend beyond inquiry of management.i38 GARS are even more specific concerning the
+audit of related-party transactions involving an uncollected balance (the case here). GARS
+identify certain sources an auditor should consider when testing an uncollected balance from a
+related party, including "audited financial statements, unaudited financial statements, income tax
+returns, and reports issued by regulatory agencies, taxing authorities, financial publications, or
+credit agencies.ii39 Other than looking at AA Capital's past financial statements, however, the
+record does not show that McNeeley consulted any of these materials.
+
+     To the contrary, McNeeley effectively admits to not seeking certain evidential material
+(such as tax documents or cancelled checks) when she argues that it was not her job to
+investigate the legitimacy of Orecchio's ultimate use of the Transfers. McNeeley acknowledged
+during her testimony, however, that it was "a typical procedure" for an audit team to seek
+confirmation of a transaction from third parties. McNeeley testified that she did not do that in
+this case because she "essentially already got" such confirmation by obtaining the management
+representation letters signed by Orecchio. She explained that "the only party related to the
+transaction from AA Capital to John Orrechio [sic] would be John Orrechio [sic]. And so we did
+obtain a confirmation from him in the form of the management representation letter." This
+confusing explanation, however, concedes that the letters McNeeley obtained were from
+management (a related party), and not a third party. Furthermore, these management
+representation letters did not expressly address the Transfers and thus did not support the
+             Transfers.ao
+legitimacy of the 
+
+     38    AU § 334.09.
+
+     39 
+           AU § 334.10e.
+
+     4o 
+           Cf. Kevin Hall, CPA, Exchange Act Rel. No. 61162 (Dec. 14, 2009), 97 SEC
+Docket 23679, 23692 (finding insufficient evidence to conclude that auditors engaged in
+unreasonable conduct where auditors questioned management about the problematic transactions
+and included a representation about the problematic transactions in the management
+representation letter).
+---------------------Page 19---------------------
+
+                                   19
+
+     3.    Failure to Ensure Issuance of an Accurate Audit Report
+
+     McNeeley also failed to ensure that E&Y issued accurate audit reports. GARS require
+that the financial statements subject to an audit be presented in accordance with GAAP.a'
+GAAP, as compared to GARS, focus "not upon an auditor's judgment but upon how specific
+accounting tasks should be performed."42 GAAP include FAS 57, which requires that disclosure
+of related-party transactions must indicate (i) the nature of the relationship involved; (ii) a
+description of the transaction; (iii) the dollar amount of the transaction; and (iv) amounts due
+                                                            settlement.a3
+from or to related parties and, if not otherwise apparent, the terms and manner of 
+Here, McNeeley failed to ensure that AA Capital's and the Equity Fund's financial statements
+disclosed the Transfers in compliance with GAAP.
+
+     McNeeley claims that AA Capital's and the Equity Fund's financial statements complied
+with GAAP, but we fail to see how. The financial statements included the Transfers only
+vaguely as part of an "account receivable" and provided no information about the parties
+involved, terms, or manner of settlement. In fact, McNeeley had no real means of ensuring that
+the financial statements complied with FAS 57, as she saw essentially no evidential material
+providing the information required by FAS 57 nor did she make any other real attempt to
+understand the Transfers.
+
+     The Transfers also do not fall within an exception to FAS 57, which states that "[i]n some
+cases, aggregation of similar transactions by type of related party may be appropriate. ii44 As the
+exception explains, "[s]ometimes, the effect of the relationship between the parties may be so
+pervasive that disclosure of the relationship alone will be sufficient.t45 That is not the case here.
+The Transfers were purportedly tax-related transfers to an officer. The only similar transaction
+
+     41    See AU § 410.01 ("The first standard of reporting is: The report shall state
+whether the financial statements are presented in accordance with generally accepted accounting
+principles.").
+
+     42 
+           Dearlove v. SEC, 573 F.3d 801, 804 (D.C. Cir. 2009). GAAP include a hierarchy
+of statements published by the Financial Accounting Standards Board ("FASB") and by the
+AICPA. The highest level of GAAP hierarchy consists of the FASB Statements of Financial
+Accounting Standards ("FAS"). On June 30, 2009, FASB issued the FASB Accounting
+Standards Codification ("FASB ASC") and established the FASB ASC as the source of
+authoritative U.S. GAAP. FASB ASC is effective for interim and annual periods ending after
+September 15, 2009. See Commission Guidance Regarding the Financial Accounting Standards
+Board's Accounting Standards Codification, Exchange Act Rel. No. 60519A (Aug. 19, 2009),
+96 SEC Docket 19829. FAS 57 is currently codified in FASB ASC Topic 850, Related Party
+Disclosures. Because the conduct at issue took place before the codification, this opinion uses
+the FAS designations.
+
+     43 
+           FAS No. 57 ¶2.
+
+     44 
+           FAS No. 57 n.3.
+
+     as 
+           Id.
+---------------------Page 20---------------------
+
+was AA Capital's transfer to Oliver. AA Capital's other related-party transactions involved
+reimbursable expenses to AA Capital's related funds —transactions that the financial statements
+fully disclosed and that did not relate to the Transfers.
+
+C.   McNeeley Acted Highly Unreasonably
+
+     Our Rule 102(e) analysis finally examines whether McNeeley's auditing failures were
+highly unreasonable. Highly unreasonable conduct "is an intermediate standard, higher than
+ordinary negligence but lower than the traditional definition of recklessness.ii46 Whether conduct
+is highly unreasonable is measured objectively by the degree of the departure from professional
+standards rather than by the intent of the accountant.47 McNeeley violated that standard here.
+
+     As noted earlier, verifying that the Partnership Agreement allowed the Transfers was
+perhaps the most basic auditing step McNeeley could have taken during the audit, but did not.
+The record establishes, however, that McNeeley either (i) never discovered the obvious
+inconsistencies between the Partnership Agreement and the Transfers' terms, or (ii) she
+discovered those inconsistencies but took no steps to reconcile them. Either conclusion
+constitutes an egregious auditing failure.
+
+     McNeeley also faced a variety of other red flags that she should have investigated further.
+Such investigation could have involved any number of simple, obvious follow-up steps, such as
+requiring AA Capital to produce copies of IRS correspondence or cancelled checks to validate
+the Transfers. Instead, McNeeley relied only on management representations, knew only what
+information Stevens provided to her —information that was vague and contradictory —and
+confirmed only how much money flowed from the Equity Fund to Orecchio.48
+
+     McNeeley's reliance on Stevens's unsupported representations was made worse by the fact
+that McNeeley had previously determined that AA Capital's internal controls were "ineffective."
+McNeeley downplays the significance of that determination by arguing that AA Capital's internal
+controls were ineffective "only in the sense that the audit team could not rely on such controls as
+a substitute for conducting substantive audit procedures; and ...this was completely ordinary for
+a relatively small and new private equity company." This, however, is exactly the point. A
+determination that AA Capital had weak internal controls did not mean the company was
+necessarily doing anything wrong. It did, however, alert McNeeley that she should rely on more
+than management representations.
+
+     46 
+           Amendment to Rule 102(e), 63 Fed. Reg. at 57,167.
+
+     a~    Id
+
+     48    Cf., e.g., McCurdy, 57 S.E.C. at 295 ("McCurdy failed to undertake such simple,
+obvious steps as contacting [the fund investment adviser] or the [fund's] Trustees for more
+information, or reviewing copies of [the investment adviser]'s tax returns or credit reports. Under
+these circumstances, McCurdy's failure to obtain additional competent evidence regarding the
+collectibility of the Receivable was highly unreasonable.").
+---------------------Page 21---------------------
+
+                                   21
+
+     McNeeley further exacerbated the unreasonableness of her auditing conduct by denying
+readers of the financial statements any chance to make their own determination about the
+Transfers. The financial statements gave readers no way to know that AA Capital had lent $1.9
+million to Orecchio or what the terms of that loan were. Even E&Y's own internal disclosure
+checklist, which McNeeley went through when conducting the audit, reminded its auditors of
+FAS 57's requirements and stated that accounts receivable from officers or employees "must be
+shown separately and not included under a general heading such as notes or accounts receivable."
+Although a firm's own internal guidance may not be a professional standard on which we can
+base a finding of improper professional conduct under Rule 102(e), E&Y's internal guidance was
+such an obvious reminder of GAAP's requirements that the guidance made McNeeley's failure to
+               glaring.a9
+comply all the more 
+
+     Any one of McNeeley's auditing failures would have been highly problematic. But taken
+together, the failures are especially egregious. McNeeley was faced with multiple red flags
+surrounding a material, related-party transaction. She had any number of avenues for
+investigating those red flags, but pursued none of them. She then compounded those failures by
+not ensuring that, at a minimum, readers of the financial statements would be aware of the
+Transfers and could thus make their own determination about the Transfers' importance. This
+failure to comply with auditing standards with respect to the Transfers constituted highly
+unreasonable conduct as defined in Rule 102(e).
+
+     McNeeley presents several broad, generalized, arguments about why we should not find
+her conduct to have been highly unreasonable. She argues, for instance, that it is inconsistent to
+find that she acted highly unreasonably when the law judge found that her supervisor, Oprins,
+had not acted highly unreasonably during the same audit. The law judge's finding regarding
+Oprins, however, is not before us on appeal. And while the law judge ultimately found that
+Oprins had not acted highly unreasonably for purposes of Rule 102(e), the law judge also found
+that Oprins had failed to comply with auditing standards.
+
+     49 
+           Cf. Dormu v. District of Columbia, 795 F. Supp. 2d. 7, 29 (D.D.C. 2011) (noting
+that the D.C. Court of Appeals has "held that internal guidelines and policies do not establish a
+standard of care, but 'may properly be received in evidence as bearing on the standard of care"'
+(citations omitted)); Sabratek Liquidating LLC. v. KPMG LLP, No. O1-C-9582, 2003 WL
+22715820, at *6 (N.D. Ill. 2003) (unpublished) (noting that KPMG's internal standards and
+procedures "could shed light on KPMG's knowledge of applicable accounting standards and
+whether the result of its conduct was foreseeable"); Gregory O. Trautman, Exchange Act Rel.
+No. 61167 (Dec. 15, 2009), 98 SEC Docket 26534, 26563 (finding recklessness where petitioner
+did not know that late trading was illegal despite internal instruction manual that mandated that
+orders be placed before 4:00 p.m.).
+---------------------Page 22---------------------
+
+                                   22
+
+     Of more significance, however, is that GARS establish different roles and responsibilities
+for different audit team members. GARS explain that "[a]uditors should be assigned to tasks and
+supervised commensurate with their level of knowledge, skill, and ability so that they can
+evaluate the audit evidence they are examining.i50 Here, as engagement partner, Oprins was
+responsible for, among other things, overseeing the audit manager (i.e., McNeeley), reviewing
+the workpapers, and signing the audit report. McNeeley, by comparison, was responsible for
+overseeing day-to-day audit planning, executing audit strategy, supervising audit staff, and
+reviewing audit workpapers in significant risk areas. Significantly, she was also responsible for
+reporting to Oprins any significant questions concerning the audits' Any failure by McNeeley to
+bring such red flags to Oprins's attention, therefore, could explain how Oprins could have
+performed his duties in a manner commensurate with his knowledge, skill, or ability, even where
+McNeeley did not.
+
+     We recognize that Oprins was told about the loans, but the record is unclear whether
+McNeeley brought the red flags to his attention. Given the uncertainty in the record, we cannot
+say whether Oprins knew or should have known about the problems surrounding the Transfers.
+McNeeley, however, had tie red flags in front of her. Given her role in the audit, we therefore
+                                                        conduct.52
+conclude it is appropriate to find that she engaged in improper professional 
+
+     so 
+           AU § 230.06.
+
+     s'    Cf. AU § 311.14 ("The auditor with final responsibility for the audit should direct
+assistants to bring to his attention significant accounting and auditing questions raised during the
+audit so that he may assess their significance.").
+
+     52 
+           McNeeley filed a letter with the Commission on November 9, 2011, repeating an
+assertion made during oral argument that the law judge erred when concluding that "the record
+does not establish that Oprins was ever made aware that the Transfers were purportedly made to
+satisfy an erroneous tax liability." McNeeley argues that the law judge's conclusion was wrong
+because Oprins, in his Amended and Restated Answer to the OIP, "admit[ed] that he was told
+that Orecchio borrowed the [$1.92 million] as a loan to pay an erroneous tax assessment." In her
+letter, McNeeley attached Oprins's Answer "for the Convenience of the Commissioners because
+it was discussed during oral argument on November 2, but was not attached to any of the briefs."
+
+           On November 16, 2011, the Division moved to strike McNeeley's letter, arguing
+that "the Answer was already part of the record submitted to the Commission pursuant to
+Commission Rule of Practice 460." The Division added that "the content of the letter shows that
+its true purpose is to argue again certain factual findings in the Initial Decision." We grant the
+Division's motion. As discussed in the text, the issue is not whether Oprins was told about the
+loans, but whether McNeeley alerted Oprins to the various red flags surrounding those loans.
+McNeeley's letter adds nothing that was not already argued or part of the record, and our Rule of
+Practice 450(a) provides that, "[n]o briefs in addition to those specified in the briefing schedule
+order may be filed except with leave of the Commission." 17 C.F.R. § 201.450(a).
+---------------------Page 23---------------------
+
+                                    ~~
+
+     McNeeley also disputes the sufficiency of the Division's evidence by pointing to the fact
+that a majority of witnesses at the hearing testified that her conduct was reasonable. The majority
+of witnesses, however, were McNeeley's own witnesses. It is not surprising that those witnesses
+testified in McNeeley's favor. We find, however, that the Division's expert's testimony and
+conclusion that McNeeley's conduct was "an extreme departure from GARS" was more
+persuasive.
+
+     McNeeley challenges the persuasiveness of the Division's expert by asserting that the
+expert "conceded" that McNeeley did not engage in highly unreasonable conduct. We disagree
+with that characterization of the testimony. The expert's supposed concession occurred during
+cross-examination, during which the expert acknowledged that reasonable auditors could
+disagree with his conclusion that McNeeley's conduct was an extreme departure from GARS,
+i. e., that her conduct was reckless. The expert then added that it was "certainly possible" that
+reasonable auditors could disagree about whether McNeeley's conduct was reasonable.
+
+     Because GAAS "were established by consensus among members of the accounting
+profession," accounting professionals can, by GAAS's very nature, disagree about their
+provisions.53 Thus, read in context, the Division's expert's statements were no more than a
+reflection of the process by which GARS were established. The expert was otherwise
+unequivocal about his conclusion that McNeeley's conduct was an extreme departure from
+GARS, and our findings that McNeeley's conduct was highly unreasonable are consistent with
+that testimony. Moreover, even if, as McNeeley claims, the Division's expert had conceded that
+McNeeley's conduct was not highly unreasonable, the Commission has its own expertise and is
+not bound by expert testimony regarding auditing standards. In fact, determining whether
+McNeeley's conduct was highly unreasonable is the reason for this proceeding. As we have
+explained, "while the opinions of qualified expert accountants may be helpful, this Commission
+must in the last analysis weigh the value of expert testimony against its own judgment of what is
+             practice.'~sa
+sound accounting 
+
+                                   IV.
+
+     When determining an appropriate sanction, "we are mindful of the remedial nature of
+Rule 102(e) and our purpose in promulgating the rule to ensure that the Commission's 'processes
+continue to be protected, and that the investing public continues to have confidence in the
+
+     s3 
+           pCAOB  Release 2003-025 (Dec. 17, 2003), PCAOB Rulemaking Docket Matter
+No. 010 (noting that "generally accepted" auditing and accounting standards were established by
+consensus).
+
+     sa 
+           Haskins &Sells, Accounting Series Release No. 73 (Oct. 30, 1952), 1952 SEC
+LEXIS 1062, at *28; see also Dearlove, 92 SEC Docket at 1897-98 (noting that "[t]he
+Commission may consider expert testimony, but it is not bound by such testimony even where it
+is available").
+---------------------Page 24---------------------
+
+                                   24
+
+integrity of the financial reporting process.ii55 As we recognized in our release adopting the 1998
+amendments to Rule 102(e), "the Commission has limited resources" and therefore "must rely on
+the competence and independence of the auditors who certify, and the accountants who prepare,
+financial statements.i56 Because of this, the Commission and the investing public must "rely
+heavily on accountants to assure corporate compliance with federal securities law and disclosure
+of accurate and reliable financial information.X57
+
+     McNeeley failed to meet these obligations. McNeeley was responsible for auditing a
+material, related-party transaction that raised obvious concerns. She had ample opportunity to
+investigate these red flags, yet did essentially nothing. McNeeley instead deferred to her client's
+unsupported representations about the Transfers during the audit and to her client's subsequent,
+limited disclosure preferences in the financial statements. Such an egregious failure to comply
+with auditing standards "jeopardize[s] the achievement of the objectives of the securities laws
+and can inflict great damage on public investors.i58
+
+     McNeeley's conduct also indicates a risk that she will commit future violations. As the
+D.C. Circuit has recognized, "the existence of a violation raises an inference that it will be
+repeated,i59 and McNeeley has made clear that she intends to remain an auditor if permitted. Our
+concern that McNeeley will commit future violations is exacerbated by McNeeley's subsequent
+failure to recognize the wrongfulness of her conduct. McNeeley has consistently asserted that
+she conducted the audit appropriately. While a respondent has the right to present a vigorous
+defense, McNeeley's testimony and subsequent arguments on appeal reflect a continuing failure
+to grasp the role of an auditor. McNeeley argues, for example, that she had no duty to verify the
+legitimacy of the reasons for the Transfers (e.g., verifying that Orecchio owed the taxes that he
+claimed). This assertion ignores the importance of obtaining third-party evidence, especially
+when auditing related-party transactions and, more generally, displays a failure to appreciate the
+overarching obligation to exercise due care and professional skepticism. McNeeley also testified,
+and now argues on appeal, that the evidential matter she obtained from AA Capital was sufficient
+to understand the Transfers. That evidential matter, however, consisted almost exclusively of
+management representations that were often vague and contradictory. Perhaps most troubling,
+McNeeley not only fails to recognize her failures, but she also argues that "[t]his case arose only
+because a criminal audit client, who now resides in a federal prison, successfully led an effort to
+defraud her and the rest of the audit team." Orecchio's fraud, however, did not cause her auditing
+
+     ss    Dearlove, 92 SEC Docket at 1912 (quoting Amendment to Rule 102(e), 63 Fed.
+Reg. at 57,164).
+
+     56 
+           Amendment to Rule 102(e), 63 Fed. Reg. at 57,165.
+
+     5' 
+           ra.
+
+     58    Touche Ross & Co., 609 F.2d at 581.
+
+     s9 
+           Geiger v. SEC, 363 F.3d 481, 489 (D.C. Cir. 2004) (affirming violation of
+Securities Act Section 5 and related cease-and-desist order).
+---------------------Page 25---------------------
+
+                                   25
+
+failures. Her highly unreasonable conduct caused her auditing failures. Orecchio's fraud served
+only to expose those failures. Such an inability to recognize the wrongfulness of her conduct
+gives us concern that McNeeley will repeat her misconduct in the future.
+
+     McNeeley disputes that a likelihood of her committing a future violation exists because
+of her "perfect record in the nearly six years since the [a]udits." An otherwise clean disciplinary
+history, however, is not determinative for purposes of our sanctions analysis.60 We also find little
+assurance in McNeeley's performance history given that McNeeley would have known that, once
+the Commission instituted these proceedings, her conduct would be more highly scrutinized,
+which reduced the likelihood of her committing additional misconduct during this time.
+
+     We recognize that imposing a sanction on McNeeley could have collateral consequences,
+such as tarnishing her reputation, but such consequences are outweighed by our concern that
+"[a]n incompetent or unethical practitioner has the ability to inflict substantial damage to the
+Commission's processes, and thus the investing public, and to the level of trust and confidence in
+our capital markets.X61 We have accordingly warned that "'where such individuals engage in
+professional misconduct which impairs the integrity of the Commission's processes, the
+                                                        102(e).i62
+Commission has an obligation to respond through the application of Rule 
+
+     On appeal, McNeeley argues that any suspension at this stage of the proceedings would
+be punitive because the Division did not issue the OIP until "nearly five years after the Audits
+ended." McNeeley claims that, "[i]f there were a legitimate need to protect the public, Ms.
+McNeeley would not have been allowed to continue practicing before the Commission year after
+year after year." We disagree. Bringing a 102(e) case against an accountant involves various
+complexities, not the least of which is that problems with an audit, which can be complex, are
+not typically brought to light until the problems with the underlying financial statements are
+understood. The Commission is also entitled to prioritize its resources toward disciplining
+fraudsters. Although auditors and the underlying fraudsters both pose a threat to the public, they
+present the Commission with differing priorities, which are reflected in the different sanctions
+
+     6o 
+           Cf., e.g., Steven Altman, Esq., Exchange Act Rel. No. 63306 (Nov. 10, 2010), 99
+SEC Docket 34405, 34437 n.81 (imposing bar against attorney for engaging in improper
+profession conduct under Rule 102(e) despite attorney's previously clean disciplinary record),
+petition denied, 666 F.3d 1322 (D.C. Cir. 2011); James C. Dawson, Advisers Act Rel. No. 3057
+(July 23, 2010), 98 SEC Docket 30697, 30704 (imposing bar despite respondent's previously
+clean record in a nearly thirty-year career and respondent's claim that such a record established a
+"marked unlikelihood" of future violations); Gary M. Kornman, Exchange Act Rel. No. 59403
+(Feb. 13, 2009), 95 SEC Docket 14246, 14259 (imposing bar despite respondent's lack of
+disciplinary history), petition denied, 55 F.3d 173 (D.C. Cir. 2010).
+
+     61    Altman, 99 SEC Docket at 34437 (quoting Keating, Muething, & Klekamp, 47
+S.E.C. 95, 120 (1979) (concurring opinion)) (imposing bar while noting the "potential collateral
+consequences that may result from our decision in this case").
+
+     62 
+           Id. (quoting Keating, 47 S.E.C. at 120).
+---------------------Page 26---------------------
+
+                                    26
+
+ultimately leveled against the various actors involved with fraudulent financial statements (e.g.,
+jail for Orecchio; a professional bar for Stevens; and asix-month suspension for McNeeley).
+Our rules, in fact, reflect these differing priorities by expressly contemplating that government
+resources will be focused first toward the fraudsters. Rule 210(c)(3), in particular, allows
+criminal prosecutorial authorities, such as the U.S. Department of Justice, to seek a stay of a
+Commission enforcement or disciplinary hearing "during the pendency of a criminal
+investigation or prosecution arising out of the same or similar facts that are at issuei63 — a rule the
+Department of Justice has used in the past to stay Commission Rule 102(e) proceedings against
+auditors.6a
+
+     Here, the delay in instituting the proceedings obviated the need for a stay by the
+Department of Justice, and the OIP was issued less than a month after Orecchio pleaded guilty in
+his criminal proceedings and within three and one half years of the Division discovering the
+fraud. This timing is consistent both with the considerations described above and with other
+administrative proceedings in which we have imposed sanctions against auditors under Rule
+102(e).65 We therefore see nothing unusual or punitive about imposing a sanction at this stage of
+the proceedings.
+
+     McNeeley challenges the appropriateness of imposing a suspension by arguing that the
+record contains no evidence that her misconduct was intentiona1.66 We have explained, however,
+that "a negligent auditor can do just as much harm to the Commission's processes as one who
+acts with an improper motive.i67 A disciplinary matter involving highly unreasonable conduct is
+
+     63 
+           17 C.F.R. § 201.210(c)(3).
+
+     64 
+           See Hall, 97 SEC Docket at 23689 (noting that "[1]argely because the
+administrative proceeding was stayed at the request of the Department of Justice, pending
+resolution of criminal proceedings arising out of the fraud, the hearing did not begin until July
+2007," which was approximately seventeen months after the order instituting proceedings was
+filed).
+
+     bs 
+           See, e.g., Marcie, 374 F.3d at 1199 (involving OIP that was issued "just shy of
+five years" after audit at issue); Dearlove, 92 SEC Docket at 1873, 1919 (involving OIP that was
+issued more than four years after audit at issue).
+
+     66 
+           McNeeley also argues that the law judge erred by failing to conduct the multi-
+factor public interest analysis outlined in Steadman v. SEC, 603 F.2d 1126, 1140 (5th Cir. 1979),
+aff d on other grounds, 450 U.S. 91 (1981). The D.C. Circuit, however, has recognized that "the
+Commission is not required to follow any mechanistic formula in determining an appropriate
+sanction." Kornman v. SEC, 592 F.3d 173, 186 (D.C. Cir. 2010).
+
+     67    Amendment to Rule 102(e), 63 Fed. Reg. at 57,167.
+---------------------Page 27---------------------
+
+                                   27
+
+therefore not necessarily less egregious than one involving intentional or reckless conduct, and,
+for all the reasons described in this opinion, we believe that this is such a case.68
+
+     Nevertheless, we believe that certain factors weigh in favor of a more measured sanction
+than the three-year suspension that the Division believes is appropriate. McNeeley, for example,
+was a relatively young auditor at the time of the audits and had not been in the industry as long as
+some others against whom we have imposed sanctions under Rule 102(e).69 McNeeley was also
+overseen by a supervisor, Oprins, who the law judge found had not fully complied with his own
+auditing duties. Although the law judge ultimately concluded that Oprins's auditing failures did
+not amount to highly unreasonable conduct under Rule 102(e), Oprins's conduct during the audit
+raised sufficient questions about the adequacy of Oprins's supervision to suggest that a sanction
+less severe than what the Division requests is appropriate.
+
+     In weighing all of the considerations, we therefore believe that asix-month suspension
+from appearing or practicing before the Commission is appropriate. This time spent out of
+auditing will impress upon McNeeley the severity of her auditing failures, thus providing specific
+deterrence to her and providing more general deterrence to the auditing profession.
+
+     68    See Dearlove, 92 SEC Docket at 1912 (recognizing "that, under some
+circumstances, unreasonable conduct is not necessarily a less egregious disciplinary matter than
+either intentional or reckless conduct, or highly unreasonable conduct in circumstances
+warranting heightened scrutiny").
+
+     69 
+           See, e.g., Dearlove, 92 SEC Docket at 1913 (imposing four-year suspension for
+auditor who had been an accountant for approximately twenty-five years at time of audit by
+noting, in part, that "Dearlove's lengthy audit experience makes his failure to conduct the .. .
+audit in accordance with applicable professional standards all the more troubling"); McCurdy, 57
+S.E.C. at 295-96 (imposing one-year suspension for auditor who had been a CPA for nearly
+twenty years at time of audit by noting, in part, that "[t]his lengthy experience makes his failure
+to conduct the audit in accordance with applicable professional standards particularly
+troublesome").
+---------------------Page 28---------------------
+
+                                   28
+
+     For the reasons above, we find that McNeeley engaged in improper professional conduct
+as defined in the Commission's Rule of Practice 102(e) and that, as a result, McNeeley should be
+denied the privilege of appearing or practicing as an accountant before the Commission for six
+months. An appropriate order will issue.70
+
+     By the Commission (Chairman SCHAPIRO and Commissioner WALTER);
+Commissioner PAREDES, concurring in part and dissenting only with respect to the sanction
+imposed, Commissioners AGUILAR and GALLAGHER not participating.
+
+                                 Elizabeth M. Murphy
+                                      Secretary
+
+     70    We have considered all of the parties' contentions. We have rejected or sustained
+them to the extent that they are inconsistent or in accord with the views expressed in this opinion.
+---------------------Page 29---------------------
+
+Commissioner PAREDES, dissenting with respect to the sanction imposed:
+
+     The Commission has found that Wendy McNeeley, a certified public accountant and
+audit manager, violated the Commission's Rule of Practice 102(e) ("Rule 102(e)"). Although I
+concur, on the basis of the record before us, that McNeeley's conduct violated Rule 102(e), I
+cannot support the sanction imposed by the majority of the Commission. In light of the facts of
+this matter, asix-month suspension from appearing or practicing before the Commission is more
+severe than is appropriate to achieve its purpose.'
+
+     The conduct of McNeeley that gave rise to this matter occurred over seven years ago
+while McNeeley served as audit manager for an audit of a client's 2004 financial statements.
+Over the course of the past several years, McNeeley has had ample time to reflect on her failure
+to perform an audit according to applicable standards — an audit that, as the Commission's
+opinion notes, occurred when McNeeley "was a relatively young auditor."z
+
+     Furthermore, after the deficient audit and throughout the course of the Commission's
+action against McNeeley, McNeeley has been employed by a national accounting firm and has
+continued to appear and practice before the Commission.3 That McNeeley has continued
+practicing without any other disciplinary action being brought against her indicates her
+comportment with professional standards of conduct and, perhaps more tellingly, belies the
+majority's concern that she poses such a risk that asix-month suspension is warranted at this
+point in her career after so much time has elapsed since the conduct underlying her Rule 102(e)
+violation. Simply put, the majority of the Commission too readily concludes that there is a risk
+that McNeeley will commit future violations.4
+
+     There is no evidence in the record that McNeeley has engaged in any subsequent
+improper professional conduct since the occurrence of the conduct that is the basis of this matter.
+To the contrary, McNeeley has shown over a meaningful number of years —after the violation —
+that she is capable of performing her responsibilities in accordance with applicable standards.s
+
+           See Commission Opinion, text accompanying supra note 55.
+
+           Commission Opinion, text accompanying supra note 69.
+
+     j     Wendy McNeeley, CPA, Initial Decision Rel. No. 411 (Dec. 28, 2010), 100 SEC
+Docket 36461, 36464-65.
+
+           See Commission Opinion, supra pp. 24-25.
+
+     5     The OIP against McNeeley was filed nearly five years after completion of the
+audit of the 2004 financials, and the Commission heard oral argument more than one and a half
+years later. No stay of proceedings against McNeeley was requested by the Department of
+                                                              (continued...)
+---------------------Page 30---------------------
+
+To the extent that McNeeley's clean record since the Rule 102(e) violative conduct is a result of
+her taking extra care, that is precisely the intended effect of a remedial sanction.
+
+     I am not persuaded that there is a justifiable remedial purpose to be served by subjecting
+McNeeley to a six-month suspension at this time. Therefore, I am troubled that the six-month
+suspension will have an unnecessarily punitive effect. The Commission's interests would be
+appropriately served with a less severe sanction, perhaps a censure. Accordingly, I dissent with
+respect to the sanction imposed by the majority of the Commission.
+
+    '      (...continued)
+Justice, and there is nothing in the record to indicate that the length of time that passed was the
+result of any obstruction, cover-up, or delaying tactics on McNeeley's part.
+---------------------Page 31---------------------
+
+                      UNITED STATES OF AMERICA
+                              before the
+                SECURITIES AND EXCHANGE  COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Rel. No. 68431 /December 13, 2012
+
+ACCOUNTING  AND AUDITING ENFORCEMENT
+Rel. No. 3427 /December 13, 2012
+
+Admin. Proc. File No. 3-13797
+
+           In the Matter of the Application of
+
+             WENDY  MCNEELEY, CPA
+              c/o Robert L. Michels, Esq.
+               Winston & Strawn LLP
+                  35 Wacker Dr.
+                 Chicago, IL 60601
+
+ORDER IMPOSING REMEDIAL SANCTIONS
+
+     On the basis of the Commission's opinion issued this day, it is
+
+     ORDERED  that Wendy McNeeley be, and hereby is, denied the privilege of appearing or
+practicing before the Commission as an accountant for six months from the date of this order.
+
+     By the Commission.
+
+                                     Elizabeth M. Murphy
+                                          Secretary

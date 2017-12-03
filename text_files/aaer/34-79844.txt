@@ -1,0 +1,613 @@
+---------------------Page 1---------------------
+
+ 
+                           UNITED STATES OF AMERICA 
+                                       Before the 
+                    SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 79844 / January 19, 2017 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3852 / January 19, 2017 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-17801 
+                                             ORDER INSTITUTING CEASE -AND-
+In the Matter of                             DESIST PROCEEDINGS PURSUANT TO 
+                                             SECTION 21C  OF THE SECURITIES 
+      HOMESTREET, INC. and                   EXCHANGE ACT OF 1934, MAKING 
+      DARRELL VAN AMEN,                      FINDINGS, AND IMPOSING A CEASE -
+                                             AND-DESIST ORDER   
+Respondent s. 
+ 
+ 
+ 
+ 
+       
+                                           I. 
+ 
+      The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities 
+Exchange Act of 1934 (“Exchange Act”), against HomeStreet, Inc. (“HomeStreet” or “the 
+Company”) and Darrell van Amen (collectively, “Respondents”).   
+                                             
+                                           II. 
+ 
+       In anticipation of the institution of these proceedings, Respondents have submitted Offers 
+of Settlement (“Offers”), which the Commission has determined to accept.  Solely for the purpose 
+of these proceedings and any other proceedings brought by or on behalf of the Commission, or to 
+which the Commission is a party, and without admitting or denying the findings herein, except as 
+to the Commission’s jurisdiction over it and the subject matter of these proceedings, which are 
+admitted, Respondents consent to the entry of this Order Instituting Cease-and-Desist Proceedings 
+Pursuant to Section 21C of the Securities Exchange Act of 1934, Making Findings, and Imposing a 
+Cease-and-Desist Order (“Order”), as set forth below. 
+---------------------Page 2---------------------
+
+                                                III. 
+ 
+                                                                                  1
+       On the basis of this Order and Respondents’ Offers, the Commission finds    that:  
+ 
+                                            Summary 
+ 
+       1.      This matter concerns books and records and internal accounting control violations 
+arising from HomeStreet’s accounting related to certain commercial loans and related swaps 
+designated as accounting hedges (the “Hedges”) under GAAP (ASC 815).  HomeStreet’s Chief 
+Investment Officer and Treasurer, Darrell van Amen, caused the Company’s violations by 
+overseeing a practice of changing the inputs to an accounting test designed to measure the 
+effectiveness of the Hedges and, in some instances, instructing employees to follow that practice.  
+Changing the inputs meant HomeStreet, a diversified financial services company, could 
+demonstrate that certain Hedges were highly effective and thus allowed for the use of fair value 
+hedge accounting.  The application of hedge accounting, in turn, meant HomeStreet could offset 
+changes in the fair value of the interest rate swaps with the changes in the fair value of the loans 
+attributable to the hedged risk.  Given this accounting treatment, fair value hedge accounting can 
+reduce income statement volatility for companies who use it.  For nearly three years, from the third 
+quarter of 2011 to the second quarter of 2014, Treasury employees provided the adjusted inputs 
+and test results to HomeStreet’s accounting department for purposes of preparing the financial 
+statements, resulting in inaccurate accounting entries.  The manner in which the Treasury 
+department implemented the hedge effectiveness testing, approved by van Amen, was also 
+inconsistent with the Company’s internal policies and procedures and involved the creation of 
+inaccurate books and records. 
+        
+       2.      In addition to the conduct described above, in violation of the Securities 
+Whistleblower Protection provisions of the Exchange Act, HomeStreet took actions to impede 
+employees who were involved in or knowledgeable about the Company’s hedge accounting from 
+communicating directly with the Commission staff about possible securities law violations and 
+included language in employee severance agreements that removed the financial incentives 
+intended to encourage individuals to communicate directly with Commission staff about possible 
+securities law violations.   
+ 
+                                          Respondents 
+ 
+       3.      HomeStreet, based in Seattle, Washington, is a diversified financial services 
+company servicing customers primarily in the Pacific Northwest, California, and Hawaii.  
+HomeStreet’s common stock trades on the NASDAQ and has been registered with the 
+Commission pursuant to Section 12(b) of the Exchange Act since February 10, 2012.   
+ 
+
+                                                 
+1
+       The findings herein are made pursuant to Respondent    s’ Offers of Settlement and are not 
+       binding on any other person or entity in this or any other proceeding.   
+ 
+ 
+                                                 2  
+---------------------Page 3---------------------
+
+       4.      Darrell van Amen, 51, joined HomeStreet in 2003 as Treasurer.  He has served as 
+Executive Vice President, Chief Investment Officer and Treasurer for HomeStreet from 2012 to 
+the present.  Van Amen is a treasury professional, but not an accountant.    
+ 
+                                              Facts 
+                                                  
+A.     HomeStreet’s Improper Hedge Accounting 
+                                                  
+                  HomeStreet’s Accounting for Hedges and Effectiveness Testing  
+                                                  
+       5.      From 2006 to 2008, HomeStreet originated approximately 20 fixed rate commercial 
+loans.  For each of these loans, HomeStreet entered into interest rate swaps to hedge the exposure 
+to changes in the fair value of the commercial loans attributable to the benchmark interest rate 
+(“designated hedged risk”).  
+ 
+       6.      Under GAAP (ASC 815), an issuer may elect hedge accounting and designate the 
+hedged item (here, the fixed rate commercial loans) and the hedging instrument (the interest rate 
+swaps) in a fair value hedging relationship.  ASC 815 requires companies to recognize in income, 
+in the period that the changes in fair value occur, gains or losses from a derivative.  In addition, 
+changes in the fair value of the hedged item, attributable to the risk designated as being hedged, 
+must also be recognized in income as an adjustment to the carrying amount of that hedged item.  
+Given this accounting treatment, fair value hedge accounting can reduce income statement 
+volatility that might exist absent hedge accounting treatment.  Among other requirements, in order 
+to maintain hedge accounting under ASC 815, an issuer must assess the hedging relationship 
+periodically (at least every quarter) to ensure that the changes in fair value of the hedging 
+instruments are highly effective in offsetting changes in fair value of the hedged item attributable 
+to the risk designated as being hedged.  If a hedging relationship is no longer highly effective, the 
+issuer must cease hedge accounting treatment for the relationship.  The issuer would continue to 
+recognize changes in fair value of the derivative (interest rate swaps) in current period earnings 
+(but the hedged item would no longer be adjusted), thus not providing an offset in the income 
+statement for the hedging instrument, resulting in potential income statement volatility. 
+        
+       7.      HomeStreet designated each of the approximately 20 hedging relationships as 
+accounting hedges and documented that it would conduct its periodic assessment of effectiveness 
+testing using the Periodic Dollar Offset Method and perform this assessment on a quarterly basis.  
+This methodology required HomeStreet to value each of the loans and each of the swaps and 
+compare the ratio of the change in fair value of the swap with the change in fair value of the loan 
+attributable to the risk designated as being hedged.  Under this test, if the effectiveness ratio fell 
+between 80% and 125%, the hedging relationship was considered effective and HomeStreet could 
+continue to use hedge accounting.  However, if the effectiveness ratio fell outside of that range, 
+hedge accounting no longer applied and the relationship was supposed to be de-designated.  This 
+would have required HomeStreet to record the loans at amortized cost, adjusted for previous fair 
+value hedging marks, on its balance sheet, but would not have allowed any additional adjustments 
+to the hedged item. 
+ 
+
+                                                 3  
+---------------------Page 4---------------------
+
+       8.      At the time that HomeStreet originated these hedging relationships, it also 
+prepared inception documentation for each of the Hedges, as required by GAAP to describe how 
+the hedge effectiveness assessment should be done for purposes of periodic testing.  Specifically, 
+it stated, “[o]n a quarterly basis, effectiveness will be assessed by updating the analysis 
+performed at the inception of the hedge to reflect the change in interest rate.” The memo did not 
+mention updating the analysis with an adjustment to any other variable. 
+
+       9.      HomeStreet went public in 2012.  In connection with preparation of its S-1 filing in 
+mid-2011, the Company put into place a new hedge effectiveness testing program that involved 
+independently calculating the fair value of the loans attributable to the risk designated as being 
+hedged and the fair value of the swaps using a valuation software program. 
+   
+       10.    HomeStreet’s Treasury group was responsible for developing the new testing 
+program, conducting the valuations used for the effectiveness testing and conducting the testing 
+itself.  As head of that group, van Amen oversaw implementation of the new valuation process and 
+supervised a Treasury employee (who was not an accountant) in designing the new process and 
+setting forth a process for performing valuations in an April 8, 2011 memorandum addressed to 
+van Amen.   
+ 
+       11.     The memorandum described the various inputs to be used in conducting the 
+valuations of the loans and the swaps, and indicated that no variable other than benchmark interest 
+rate should be changed in the periodic testing.  Van Amen received a draft of the memo from the 
+Treasury employee and sent it to the Accounting department.  At or around the time the memo was 
+drafted, the Treasury employee also showed van Amen how to conduct the periodic valuations of 
+the loans and the swaps, changing only the benchmark interest rate. 
+ 
+       12.     Subsequently, a different Treasury employee prepared a document entitled 
+“Valuation Procedures for Hedged Customer Loans.”  The Valuation Procedures document 
+detailed each of the steps to value the loans and swaps using the Company’s valuation software.  
+According to the Valuation Procedures, the person conducting the test should update the 
+benchmark interest rate, and then compare the value of the loan to the value of the swap for 
+purposes of calculating the ratio required by the effectiveness testing.  The Valuation Procedures 
+made no mention of changing any other variable. 
+ 
+       13.     The April 8, 2011 memorandum, the inception documentation, and the Valuation 
+Procedures comprised the written policies and procedures HomeStreet used to ensure that its 
+Hedges were appropriately accounted for under GAAP.   
+ 
+       14.     Van Amen oversaw the testing process and was responsible for reviewing the 
+testing work performed by Treasury employees and the results.  From 2008 until the third quarter 
+of 2014, various HomeStreet Treasury personnel who reported to van Amen conducted the 
+periodic effectiveness testing.  After performing the valuations of the loans and swaps and the 
+resulting effectiveness testing, the Treasury employee responsible for performing the testing in that 
+quarter had a general practice of providing van Amen, for approval:  (1) an Excel workbook 
+(which contained the valuations of the loans, the valuations of the swaps, each input supporting 
+those two valuations, the ratios of the two, and the resulting hedge effectiveness calculation) and 
+                                                4  
+---------------------Page 5---------------------
+
+(2) a memo from the relevant Treasury employee to the “File” stating that the valuation of the 
+loans and swaps had been conducted “using the dollar-offset method,” that the relationships were 
+“deemed highly effective,” and identifying the precise ratio for each relationship.   
+ 
+       15.     After van Amen or his designee approved the two documents, the Treasury 
+employee who conducted the testing sent the documents to the Accounting department.  The 
+Accounting department used these documents to ensure, as well as to support HomeStreet’s 
+conclusion that, the Hedges were appropriately accounted for under GAAP.  During the year-end 
+audit of HomeStreet’s financial statements, the Company’s independent auditor also requested 
+both documents on its “Prepared by Client” schedule in order to test the Company’s hedge 
+effectiveness testing results. 
+ 
+            Van Amen Adjusted the Results of the Effectiveness Testing, In Violation of  
+                         the Company’s Written Policies and Procedures  
+ 
+       16.     There were instances between Q3 2011 and Q2 2014 in which the results of the 
+hedge effectiveness testing fell outside of the highly effective threshold.  In these instances, van 
+Amen instructed the Treasury employee performing the testing to make unsupported adjustments 
+to a variable in the loan fair value calculation for the purpose of making the testing results 
+“effective,” or oversaw a practice in which this occurred.  Van Amen or his designee then 
+approved sending the revised input and calculations to HomeStreet’s Accounting group for 
+purposes of supporting the conclusion that the Hedges were highly effective in accordance with 
+ASC 815.  Regardless of any difference in the economic value of the loan or swap, these 
+adjustments were inconsistent with the Company’s documented method for assessing effectiveness 
+of the hedging relationship and therefore not consistent with the application of GAAP. 
+ 
+       17.     According to van Amen, he instructed his employees to change the results of the 
+accounting test because he believed that the loans and swaps were correlated, from an economic 
+perspective, and therefore assumed the Hedges could not be ineffective on an accounting basis.  
+However, he did not identify any basis or criteria that were applied to determine the specific 
+change made to the variable in the loan fair value calculation, other than that the change made was 
+large enough to bring the test result within the highly effective threshold required by GAAP. 
+ 
+       18.     In October 2014, van Amen again instructed a lower-level Treasury employee to 
+adjust the results of the hedge effectiveness testing.  The lower-level Treasury employee, along 
+with two other Treasury employees with whom he consulted (collectively, the “Treasury 
+Employees”), were uncomfortable about adjusting the fair value calculation to achieve an 
+accounting result and refused to make the changes that van Amen requested.  Van Amen suggested 
+that the Treasury Employees speak with HomeStreet’s Accounting Department to resolve their 
+concerns.  The Treasury Employees then reported to HomeStreet’s Human Resources department 
+that van Amen had instructed them to adjust the fair value calculation, without any specific 
+underlying basis, to make the Hedges achieve effectiveness.   
+ 
+       19.  The Treasury Employees also informed a Company executive (“Executive A”) about 
+the issue, including the concern that the fair value calculations had been adjusted in previous 
+
+                                                5  
+---------------------Page 6---------------------
+
+reporting periods and, as a result, there may be historical accounting errors in HomeStreet’s 
+financial statements. 
+ 
+       20.     In a series of separate meetings and conversations over a period of several days, the 
+Treasury Employees and Executive A communicated the Treasury Employees’ concern about 
+potential historical accounting errors in hedge effectiveness accounting to HomeStreet’s senior 
+management and requested that the Company conduct an independent investigation.  
+ 
+       21.     HomeStreet’s Board convened a Special Committee to investigate the hedge 
+accounting issues.  Although HomeStreet determined that the adjustments to its hedge 
+effectiveness tests were incorrect, the Special Committee found no indication that van Amen acted 
+with any intent to deceive or defraud.  The Special Committee’s investigation was assisted by 
+independent outside counsel and completed in early November 2014. 
+ 
+       22.     Between March and May 2015, each of the three Treasury Employees mentioned in 
+Paragraph 17 resigned.  Executive A gave notice of his resignation and began negotiating his 
+separation with the Company in March 2015.  He left HomeStreet in June 2015.   
+                                                  
+    HomeStreet’s Reporting and Disclosures Regarding Hedge Effectiveness Were Inaccurate 
+ 
+       23.     In total, from 2011 through the discovery of the hedge effectiveness errors in 
+October 2014, HomeStreet’s Treasury group adjusted the loan fair value calculations 64 times, 
+which resulted in an effective test result.   
+ 
+       24.    HomeStreet’s practice of adjusting the fair value calculations used in the periodic 
+testing in order to achieve hedge effectiveness was not consistent with its hedge documentation 
+when employing the Periodic Dollar Offset Method to assess hedge effectiveness.  ASC 815 
+requires an entity to define at the time it designates a hedge relationship the method it will use to 
+assess the hedges effectiveness in achieving offsetting changes in fair value of the risk being 
+hedged and use that defined method consistently throughout the hedge period.  Accordingly 
+HomeStreet’s adjustments to calculate changes in fair value of the hedged item attributable to the 
+hedged risk were inconsistent with its hedge documentation required under GAAP.  HomeStreet’s 
+balance sheet and income statement were both misstated because hedge accounting was applied for 
+each of the Loans, even though certain of the Hedges ceased to qualify for hedge accounting in 
+some periods.  For the Hedges that were not effective under ASC 815, the overall change in fair 
+value of the hedging instrument for that current period should have been recognized in earnings but 
+the change in fair value of the hedged item should not have been recognized in earnings for that 
+period and the carrying amount of the hedged item should not have been adjusted on the balance 
+sheet. 
+ 
+                     HomeStreet Announces its Improper Hedge Accounting  
+ 
+       25.     On November 13, 2014, the Company disclosed in its Form 10-Q for the third 
+quarter of 2014 that management had “discovered errors in the Registrant’s analysis of hedge 
+effectiveness” related to 14 of the Hedges.  Specifically, according to the Company’s filing, the 
+
+                                                6  
+---------------------Page 7---------------------
+
+loans and related swaps had “not been evaluated in accordance with the appropriate fair value 
+hedging methodology,” which resulted in “inaccurate calculations of changes in the loan fair 
+values related to changes in the benchmark interest rate.”  Management, in consultation with 
+HomeStreet’s outside auditor, determined that the hedge accounting errors were not material to any 
+reporting period and therefore no restatement of the Company’s financial statements was required.  
+HomeStreet did not restate its financial statements. 
+ 
+       26.    The Company also disclosed that management had determined that “management 
+of the hedging effectiveness analysis and loan valuation by the Treasury Department had been 
+ineffective and that there was insufficient oversight provided by the Accounting Department to 
+ensure adherence to the relevant accounting principles and to provide for an effective system of 
+internal controls relating to these assets and liabilities.” 
+ 
+       27.     Finally, the Company disclosed that management determined that the circumstances 
+relating to the hedge effectiveness errors reflected a deficiency in its internal accounting controls 
+and that, after evaluating the deficiency based upon the potential maximum errors that could have 
+resulted from the deficiency, it concluded that the Company had “experienced a material weakness 
+in its internal accounting controls as of September 30, 2014.” 
+                                                 
+B.     HomeStreet Took Actions to Impede Communication with the Commission   
+ 
+       28.     The Division of Enforcement Staff served a voluntary document request on the 
+Company in April 2015 in connection with the hedge accounting issues.  HomeStreet assumed that 
+this could have been in response to a whistleblower complaint and, shortly thereafter, began taking 
+steps to determine the identity of the presumed “whistleblower.”  According to HomeStreet, it did 
+this in order to understand the nature of the Staff’s investigation. 
+ 
+       29.     After HomeStreet received the Division of Enforcement’s document request, a 
+senior executive at the Company asked the only one of the Treasury Employees then remaining at 
+HomeStreet whether he had brought information about the hedge accounting issues to the 
+Commission’s attention.  When that employee said that he had not, the senior executive asked him 
+if he knew who the “whistleblower” was.  In that Treasury Employee’s exit interview, another 
+senior executive told him that he believed he knew who had “done this” to the Company.  That 
+same senior executive next called Executive A to his office to ask if Executive A was a 
+Commission “whistleblower,” and if he wasn’t, if he knew who the whistleblower was.  Executive 
+A said he was not a whistleblower and that he didn’t know who the whistleblower was.    
+ 
+       30.     Executive A also resigned from HomeStreet.  After he left, the Commission’s 
+Division of Enforcement staff requested that he provide it with certain information.  Executive A 
+retained a lawyer, and that lawyer requested that HomeStreet advance costs under Executive A’s 
+indemnification agreement, which HomeStreet agreed to do within 20 days of submission of the 
+invoices.  
+        
+       31.     Although Executive A had already told HomeStreet management that he was not a 
+whistleblower before he left the company, HomeStreet made multiple requests that he reaffirm he 
+
+                                                7  
+---------------------Page 8---------------------
+
+was not the whistleblower before the Company advanced costs under his indemnification 
+agreement.    
+ 
+       32.    First, in response to a request from Executive A’s counsel that the Company pay 
+outstanding invoices for legal services rendered in July and August in connection with the Staff’s 
+investigation, and following up on a phone call about that request on October 23, 2015 during 
+which HomeStreet’s counsel (“Company Counsel) told Executive A’s counsel that HomeStreet 
+had raised an issue with respect to whether certain provisions of Executive A’s indemnification 
+agreement entitled him to advancement of fees if he had been a whistleblower, Company Counsel 
+emailed Executive A’s counsel later on October 23, 2015 that: 
+ 
+                  [I]In connection with the issue we discussed relating to [the certain 
+                  provisions in Executive A]’s indemnity agreement,  I think we agree that 
+                  there is no need to debate the meaning of those sections if you can 
+                  confirm that:  (1) [Executive A] stands by his representations to 
+                  Homestreet and to me that he did not initiate or trigger the current SEC 
+                  investigation by bringing the matter to the SEC’s attention; and (2) you 
+                  are unaware of any facts that [Executive A] brought the matter to the 
+                  SEC’s attention or caused others to do so. 
+ 
+       33.    Executive A’s counsel refused to provide the requested confirmation.  Among other 
+arguments, he asserted in an email on October 27, 2015 that (1) “[e]ntering into, or threatening to 
+enforce, an agreement that would deny advancement to an employee who communicates with the 
+SEC would almost certainly violate” Exchange Act Rule 21F-17 and (2) Executive A already had 
+told two members of HomeStreet’s senior management that he did not provide any information to 
+the SEC prior to the commencement of the SEC investigation.   
+ 
+       34.     In a response on October 27, Company Counsel asked if Executive A would “stand 
+by the representations he previously made” to executives at HomeStreet that he was not the 
+whistleblower.  Executive A’s counsel refused to provide the requested confirmation. 
+ 
+       35.     Next, Company Counsel asked Executive A’s counsel again, also on October 27, 
+2015, if the Company could take “as a current representation” Executive A’s counsel’s statement 
+from his email earlier that day that “Even if [Executive A] were a whistleblower (he is not, as set 
+forth below)…”  Executive A’s counsel declined to respond, and HomeStreet paid Executive A’s 
+counsel’s invoices in full the following day, October 28, 2015. 
+ 
+       36.     HomeStreet advanced legal costs for multiple other witnesses who provided 
+voluntary interviews or subpoenaed testimony to the Division of Enforcement Staff.  However, 
+HomeStreet did not ask any of the other witnesses for whom the Company advanced legal costs or 
+those witnesses’ counsel whether or not they had brought the hedge accounting issues to the Staff’s 
+attention or made a whistleblower submission to the Commission before it paid their costs. 
+ 
+       37.     The Commission is unaware of any instance in which any current or former 
+employee of HomeStreet did not communicate directly with Commission staff about the hedge 
+
+                                                8  
+---------------------Page 9---------------------
+
+accounting errors described above.  However, by taking actions to determine the identity of an 
+individual whom HomeStreet suspected had brought the hedge accounting errors to the 
+Commission staff, including suggesting that the terms of an indemnification agreement could allow 
+them to deny payment to an individual who HomeStreet believed to be a whistleblower, 
+HomeStreet acted to impede individuals from communicating directly with the Commission staff 
+about a possible securities law violation. 
+ 
+C.     HomeStreet’s Severance and Release Agreements 
+ 
+       38.      HomeStreet has historically entered into voluntary severance agreements with 
+certain employees who were leaving the company and receiving severance or other post-
+employment consideration from HomeStreet.  A severance agreement is a contract between an 
+employer and a former employer documenting the rights and responsibilities of both parties 
+incidental to the employee’s departure.  HomeStreet’s severance agreements required the departing 
+employees to waive, as a condition of being paid monetary severance payments and receiving other 
+consideration from HomeStreet, various potential claims against HomeStreet. 
+ 
+       39.    However, one form of HomeStreet’s severance agreements also stated: 
+ 
+                  This release shall not prohibit Employee from filing a charge with the 
+                  Equal Employment Opportunity Commission or discussing any matter 
+                  relevant to Employee’s employment with any government agency with 
+                  jurisdiction over the Company but shall be considered a waiver of any 
+                  damages or monetary recovery therefrom.   
+                       
+This form of severance agreement was used at least two times, in April 2016. 
+ 
+       40.    Although the Commission is unaware of any instances in which a current or former 
+employee of HomeStreet did not communicate directly with Commission staff about potential 
+securities law violations, the Company – in using the Severance Agreements described in 
+paragraph 39 above – removed the critically important financial incentives that are intended to 
+encourage persons to communicate directly with the Commission staff about possible securities 
+law violations.  Such restrictions on accepting financial awards for providing information 
+regarding potential securities law violations to the Commission undermine the purpose of Section 
+21F and Rule 21F-17(a), which is to “encourage[e] individuals to report to the Commission,” 
+[Adopting Release at p. 201]. 
+ 
+                                HomeStreet’s Remedial Efforts 
+
+       41.    In determining to accept the Offer, the Commission considered remedial 
+acts undertaken by HomeStreet.  As disclosed in its November 13, 2014 Form 10-Q, the 
+Company implemented certain changes in its internal accounting controls and other 
+actions, based on management’s assessment of the hedge effectiveness errors and related 
+internal accounting control weakness.  Specifically, HomeStreet disclosed that it 
+terminated “the swaps related to the affected loans” during the fourth quarter of 2014 
+
+                                               9  
+---------------------Page 10---------------------
+
+ and terminated “any remaining fair value hedge accounting relationships.”  In addition, 
+HomeStreet “ceased the lending and hedging practices from 2008 that give rise to these 
+errors and management has no plans to reestablish any similar practices or products.” 
+
+       42.    In addition to the remedial steps described above, HomeStreet also 
+disclosed in its November 13, 2014 Form 10-Q that it had implemented “enhanced 
+oversight by the Accounting Department of complex accounting for financial instruments 
+within the Company’s Treasury Department” and hired a Chief Financial Officer to 
+provide comprehensive oversight of both the Treasury and Accounting functions. 
+
+       43.    On October 15, 2016, HomeStreet’s standard severance agreements were 
+revised to incorporate the following language:  
+
+                      Employee understands that nothing contained in this Agreement 
+                      limits Employee’s ability to file a charge or complaint with any 
+                      federal, state or local governmental agency or commission 
+                      (“Government Agencies”).  Employee further understands that this 
+                      Agreement does not limit Employee’s ability to communicate with 
+                      any Government Agencies or otherwise participate in any 
+                      investigation or proceeding that may be commenced by any 
+                      Government Agency including providing documents or other 
+                      information without notice to the Company.  This Agreement does 
+                      not limit the Employee’s right to receive an award for information 
+                      provided to any Government Agencies. 
+
+                               Legal Standards and Violations 
+ 
+       44.    As a result of the conduct described above, HomeStreet violated and van Amen 
+caused HomeStreet’s violation of Exchange Act Section 13(b)(2)(A), which requires all issuers to 
+make and keep books, records and accounts, which, in reasonable detail, accurately and fairly 
+reflect the transactions and dispositions of the assets of the issuer. 
+ 
+       45.    As a result of the conduct described above, HomeStreet violated and van Amen 
+caused HomeStreet’s violation of Exchange Act Section 13(b)(2)(B), which requires all issuers to 
+devise and maintain a system of internal accounting controls sufficient to provide reasonable 
+assurances that transactions are recorded as necessary to permit preparation of financial statements 
+in accordance with GAAP. 
+ 
+       46.    As a result of the conduct described above, van Amen violated Exchange Act Rule 
+13b2-1, which prohibits any person from directly or indirectly falsifying, or causing to be falsified, 
+any book, record, or account subject to Exchange Act Section 13(b)(2)(A). 
+ 
+       47.    As a result of the conduct described above, HomeStreet violated Rule 21F-17(a) of 
+the Exchange Act, which prohibits any person from taking an action to impede an individual from 
+communicating directly with the Commission staff about a possible securities law violation. 
+
+                                               10   
+---------------------Page 11---------------------
+
+ 
+                                                Undertakings 
+ 
+        48.      HomeStreet has agreed that, within 60 days from the date the Commission enters 
+this Order, it will make reasonable efforts to contact former HomeStreet employees who signed 
+the severance agreements identified in paragraph 38 above, and provide them with an Internet 
+                  2
+link to the order   and a statement that HomeStreet does not prohibit former employee              s from 
+reporting information to the Securities and Exchange Commission or from                seeking and obtaining 
+a whistleblower award from the Commission pursuant to Section 21F of the Exchange Act.                      
+ 
+        4 9 .    HomeStreet has agreed to certify, in writing, compliance wit           h the undertaking set 
+forth above.  The certification shall identify the undertaking, provide written evidence of 
+compliance in the form of a narrative, and be supported by exhibits sufficient to demonstrate 
+compliance.  The Commission staff may make reaso             nable requests for further evidence of 
+compliance, and HomeStreet        agrees to provide such evidence.  The certification and supporting 
+material shall be submitted to Erin Schneider, no later than sixty (60) days from the date of 
+completion of the undertaking      s. 
+ 
+                                                      IV. 
+                                                         
+         In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondents’ Offers. 
+ 
+         Accordingly, it is hereby ORDERED that: 
+ 
+        A.       Pursuant to Section 21C of the Exchange Act, Respondent HomeStreet cease and 
+desist from committing or causing any violations and any future violations of Sections 13(b)(2)(A) 
+and 13(b)(2)(B) of the Exchange Act, and Rule 21F-17 thereunder.   
+ 
+        B.       Pursuant to Section 21C of the Exchange Act, Respondent van Amen cease and 
+desist from committing or causing any violations and any future violations of Sections 13(b)(2)(A) 
+and 13(b)(2)(B) of the Exchange Act, and Rule 13b2-1 thereunder. 
+ 
+        C.       Respondent HomeStreet shall comply with the undertakings enumerated in Section 
+III above.  
+ 
+        D.       Respondent HomeStreet shall, within thirty (30) days of the entry of this Order, pay 
+a civil money penalty in the amount of $500,000 to the Securities and Exchange Commission for 
+transfer to the general fund of the United States Treasury, subject to Exchange Act Section 
+21F(g)(3).  If timely payment is not made, additional interest shall accrue pursuant to 31 U.S.C. 
+§3717.   
+         
+        E.       Respondent van Amen shall, within thirty (30) days of the entry of this Order, pay a 
+civil money penalty in the amount of $20,000 to the Securities and Exchange Commission for 
+                                                 
+2
+ HomeStreet further agrees to provide a paper copy of the Order to any former employee who requests it. 
+                                                       11   
+---------------------Page 12---------------------
+
+transfer to the general fund of the United States Treasury, subject to Exchange Act Section 
+21F(g)(3). If timely payment is not made, additional interest shall accrue pursuant to 31 U.S.C. 
+§3717.   
+        
+Payment must be made in one of the following ways:   
+ 
+               (1)    Respondents may transmit payment electronically to the Commission, 
+                      which will provide detailed ACH transfer/Fedwire instructions upon 
+                      request;  
+                
+               (2)    Respondents may make direct payment from a bank account via Pay.gov 
+                      through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or  
+                
+               (3)    Respondents may pay by certified check, bank cashier’s check, or United 
+                      States postal money order, made payable to the Securities and Exchange 
+                      Commission and hand-delivered or mailed to:  
+ 
+               Enterprise Services Center 
+               Accounts Receivable Branch 
+               HQ Bldg., Room 181, AMZ-341 
+               6500 South MacArthur Boulevard 
+               Oklahoma City, OK 73169 
+ 
+       Payments by check or money order must be accompanied by a cover letter identifying 
+HomeStreet or van Amen as a Respondent in these proceedings, and the file number of these 
+proceedings; a copy of the cover letter and check or money order must be sent to Erin Schneider, 
+San Francisco Regional Office, Securities and Exchange Commission, 44 Montgomery Street, 
+Suite 2800, San Francisco, CA 94104.   
+ 
+       F.      Amounts ordered to be paid as civil money penalties pursuant to this Order shall be 
+treated as penalties paid to the government for all purposes, including all tax purposes.  To 
+preserve the deterrent effect of the civil penalty, Respondents agrees that in any Related Investor 
+Action, they shall not argue that they are entitled to, nor shall they benefit by, offset or reduction of 
+any award of compensatory damages by the amount of any part of Respondents’ payment of a civil 
+penalty in this action (“Penalty Offset”).  If the court in any Related Investor Action grants such a 
+Penalty Offset, Respondents agree that they shall, within 30 days after entry of a final order 
+granting the Penalty Offset, notify the Commission’s counsel in this action and pay the amount of 
+the Penalty Offset to the Securities and Exchange Commission.  Such a payment shall not be 
+deemed an additional civil penalty and shall not be deemed to change the amount of the civil 
+penalty imposed in this proceeding.  For purposes of this paragraph, a “Related Investor Action” 
+means a private damages action brought against Respondents by or on behalf of one or more 
+investors based on substantially the same facts as alleged in the Order instituted by the 
+Commission in this proceeding. 
+ 
+                                                     
+
+                                               12   
+---------------------Page 13---------------------
+
+                                                       
+
+                                                     V. 
+
+It is further Ordered that, solely for purposes of exceptions to discharge set forth in Section 523 of 
+the Bankruptcy Code, 11 U.S.C. §523, the findings in this Order are true and admitted by 
+Respondents, and further, any debt for disgorgement, prejudgment interest, civil penalty or other 
+amounts due by Respondents under this Order or any other judgment, order, consent order, decree 
+or settlement agreement entered in connection with this proceeding, is a debt for the violation by 
+Respondents of the federal securities laws or any regulation or order issued under such laws, as set 
+forth in Section 523(a)(19) of the Bankruptcy Code, 11 U.S.C. §523(a)(19). 
+
+        
+ 
+       By the Commission. 
+ 
+ 
+ 
+                                                      Brent J. Fields 
+                                                      Secretary 
+        
+ 
+
+                                                 13   

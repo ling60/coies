@@ -1,0 +1,217 @@
+---------------------Page 1---------------------
+
+                           UNITED STATES OF AMERICA 
+                                      Before the 
+                   SECURITIES AND EXCHANGE COMMISSION 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No.  55097 / January 12, 2007 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 2540 / January 12, 2007 
+ADMINISTRATIVE PROCEEDING 
+File No.  3-12535 
+
+In the Matter of                               :   ORDER INSTITUTING CEASE-AND-
+                                              :   DESIST PROCEEDINGS, MAKING 
+                                              :   FINDINGS, AND IMPOSING A 
+             Lattice Semiconductor Corp.     :   CEASE-AND-DESIST ORDER 
+                                              :   PURSUANT TO SECTION 21C OF 
+Respondent.                                  :   THE SECURITIES EXCHANGE ACT 
+                                              :   OF 1934 
+                                              : 
+                                              : 
+                                              : 
+
+                                          I. 
+      The Securities and Exchange Commission (“Commission”) deems it appropriate that 
+cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the 
+Securities Exchange Act of 1934 (“Exchange Act”), against Lattice Semiconductor Corp. 
+(“Lattice” or “Respondent”). 
+                                          II. 
+      In anticipation of the institution of these proceedings Respondent has submitted an Offer 
+of Settlement (the “Offer”) which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the 
+findings herein, except as to the Commission’s jurisdiction over it and the subject matter of these 
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting 
+Cease-and-Desist Proceedings, Making Findings, and Imposing a Cease-and-Desist Order 
+Pursuant to Section 21C of the Securities Exchange Act of 1934 (“Order”), as set forth below. 
+                                          III. 
+      On the basis of this Order and Respondent’s Offer, the Commission finds that: 
+---------------------Page 2---------------------
+
+                                          SUMMARY
+
+       This is a financial reporting case in which inadequate internal controls caused Oregon-
+based Lattice Semiconductor Corp. to file inaccurate Forms 10-Q for the second and third 
+quarters of 2003.  By failing to segregate duties concerning the creation and entry of journal 
+entries into the general ledger and failing to modernize and integrate its accounting system, 
+Lattice contributed to the former controller’s ability to enter unsupported journal entries totaling 
+$5.5 million  and to conceal such entries for seven months from senior management and Lattice’s  
+auditor.  These unsupported entries led Lattice to restate its financial statements for the first three 
+quarters of 2003 in April 20041
+                               , reducing previously reported revenue by $10.6 million (an 
+approximate 6% decrease) and increasing previously reported loss by $8.9 million (an 
+approximate 13% increase).  As a result, Lattice violated the reporting, books and records, and 
+internal controls provisions of the Exchange Act. 
+
+       A.	     RESPONDENT 
+       Lattice Semiconductor Corp., a Delaware corporation headquartered in Hillsboro, 
+Oregon, designs, manufactures, and sells semiconductor products.  Lattice’s stock is registered 
+under Section 12(g) of the Exchange Act and trades on the Nasdaq National Market. 
+
+       B.	     FACTS 
+               1.     Lattice’s Business and Deferred Revenue Accounting 
+       Lattice manufactures semiconductor products and sells them to end users directly and 
+through distributors.  Sales to distributors account for nearly half of Lattice’s revenue.  Lattice 
+delays revenue recognition on sales to distributors until the distributors report product resale to 
+Lattice.  Lattice uses deferred income accounting to reflect the anticipated revenue and 
+corresponding costs for its products shipped to distributors but not yet sold to end users.  For 
+example, when Lattice ships a product to a distributor, it records in its general ledger the list 
+price as a credit to deferred revenue and the cost of the product as a debit to deferred cost.  
+Deferred income is the balance sheet liability account reflecting deferred revenue less deferred 
+cost. 
+
+               2.	    The Cross-Check of the Deferred Revenue Account in the General 
+                      Ledger 
+       At the close of each quarter, the former controller2
+                                                           performed an account reconciliation to 
+cross-check the accuracy of Lattice’s estimate of deferred revenue as reflected in its general 
+ledger.  This account reconciliation was based on the carrying value of the Lattice inventory 
+sitting on distributors’ shelves and provided an estimate of the minimum deferred revenue 
+balance required to reflect sales of this inventory.  Lattice’s accounting policies provided that if 
+there was no material discrepancy between the account reconciliation estimate of deferred 
+revenue and the estimate of deferred revenue reflected in Lattice’s general ledger, the general 
+ledger was accurate and the books could be closed for the quarter. 
+
+   1
+     Although Lattice restated its financial statements for the first quarter of 2003, that first 
+quarter restatement is not addressed in this Order. 
+   2
+     The Commission instituted settled Administrative and Cease-and-Desist Proceedings 
+against the former controller, Ronald Lee Hoyt, CPA, on September 30, 2005, in which Hoyt 
+agreed not to practice before the Commission for three years. 
+
+                                                2
+
+---------------------Page 3---------------------
+
+              3.      The Discrepancies and Unsupported Journal Entries 
+                      (a)	   The Second Quarter 2003 Discrepancy of $1.3 Million and the
+                             Unsupported Journal Entries to Reconcile the Discrepancy 
+       In July 2003, the former controller performed his usual reconciliation of the deferred 
+revenue account in connection with his preparation of quarterly financial statements.  The 
+reconciliation showed that the estimate of deferred revenue was $1.3 million higher than the 
+deferred revenue balance on the general ledger, indicating an understatement of Lattice’s 
+deferred revenue and that Lattice had prematurely recognized revenue.  Exploiting weaknesses in 
+Lattice’s internal controls, the former controller then wrote and caused the entry of two 
+unsupported journal entries totaling $1.3 million to offset the imbalance between the estimate of 
+deferred revenue derived from the account reconciliation and the estimate of deferred revenue in 
+the general ledger.  These journal entries consisted primarily of credits (increases) to deferred 
+revenue and debits (reductions) to accrued accounts payable instead of debits (reductions) to 
+revenue.  After making the unsupported journal entries, the former controller closed the books 
+for the quarter.  As a result, Lattice recognized revenue prematurely. 
+
+                      (b)	   The Third Quarter Discrepancy of $5.5 Million and the
+                             Unsupported Journal Entries to Reconcile the Discrepancy 
+       At the end of the third quarter, the former controller again performed his customary 
+reconciliation to cross-check the amount of deferred revenue recorded in the general ledger.  
+This time, the discrepancy was $5.5 million.  The former controller, again exploiting weaknesses 
+in the company’s internal controls, then wrote and caused the entry of several unsupported 
+journal entries, totaling $5.5 million (inclusive of the $1.3 million of unsupported journal entries 
+from the second quarter), to offset the imbalance and close the books for the quarter. 
+       The use of unsupported journal entries in the second and third quarters of 2003 
+contributed to Lattice’s recognition of revenue contrary to Generally Accepted Accounting 
+Principles (GAAP).  Statement of Financial Accounting Concepts No. 5, “Recognition and 
+Measurement in Financial Statements of Business Enterprises” (CON 5), provides that “revenues 
+are considered to be earned when the entity has substantially accomplished what it must do to be 
+entitled to the benefits represented by the revenue.” CON 5 Para. 83.  Accounting Research
+Bulletin No. 43 (ARB 43) provides that “Profit is deemed to be realized when a sale in the 
+ordinary course of business is effected . . .”  ARB 43 Chapter 1.A.1. 
+
+              4.	     Lattice’s Internal Investigation and Restatement 
+       On January 12, 2004, the former controller disclosed to Lattice’s former VP of finance 3 
+the second and third quarter general ledger imbalances of $1.3 and $5.5 million, respectively.  
+When Lattice learned about the unsupported journal entries, it relieved the former controller of 
+responsibility for journal entries and the general ledger and began an internal investigation.  The 
+audit committee subsequently hired independent outside counsel to investigate.  As described 
+more fully below, the investigations identified material internal controls weaknesses and resulted 
+in changes to the method of estimating deferred revenue and restatements of all 2003 Forms 
+10-Q on April 19, 2004.  The restatements reduced previously reported revenue by $10.6 million 
+(an approximate 6% decrease) and increased previously reported net loss by $8.9 million (an 
+approximate 13% increase). 
+
+   3
+     The former VP of Finance terminated employment with Lattice in August 2005. 
+
+                                               3
+
+---------------------Page 4---------------------
+
+               5.	    Lattice’s Internal Controls Weaknesses 
+       In the relevant period, Lattice had two material weaknesses in the design and operation of 
+its internal controls: failure to segregate duties concerning journal entries and failure to recognize 
+that its method of calculating deferred revenue had become inaccurate over time. 
+       With respect to Lattice’s failure to segregate duties, Lattice’s accounting practices 
+enabled the former controller to have sole review and approval of all journal entries and gave 
+him access to the general ledger.  The lack of segregation allowed the former controller to make 
+the unsupported journal entries without review.  Lattice’s dependence on the former controller 
+was such that, although it terminated him in March 2004, it hired him three days later as a 
+consultant to assist with the quarterly filing. 
+       At least a year before the former controller’s misconduct, Lattice’s auditor orally notified 
+Lattice’s former VP of finance that the lack of segregation of duties for journal entries and 
+general ledger reconciliation was an internal controls weakness.  However, no changes to
+Lattice’s controls were made.   
+       The second material control weakness related to Lattice’s failure to integrate its 
+accounting system.  In particular, Lattice’s accounting system failed to recognize that a 
+percentage used in its account reconciliation methodology to estimate deferred revenue had 
+become inaccurate over time because the accounting system had not been properly integrated to  
+precisely determine the effects of sales discounts.  During the relevant period, Lattice had not
+been collecting as large a percentage of cash from its distributors as it had historically,  and 
+Lattice’s finance staff did not have adequate systems or personnel to account for the effects of 
+this change.   The failure to recognize the drop in percentage of cash collected also caused 
+Lattice to overstate the amount of previously deferred revenue taken into income. 
+       C.	     VIOLATIONS 
+               1.	    Reporting Violations: Section 13(a) of the Exchange Act and Rule 
+                      13a-13 Thereunder 
+       Section 13(a) of the Exchange Act and Rule 13a-13 thereunder require issuers with 
+securities registered under Section 12 of the Exchange Act, such as Lattice, to file quarterly 
+reports with the Commission and to keep this information current.  The obligation to file such
+reports embodies the requirement that they be true and correct.  See, e.g., SEC v. Savoy Indus.,
+Inc., 587 F.2d 1149, 1165 (D.C. Cir. 1978).  Lattice violated these provisions by filing materially 
+inaccurate Forms 10-Q for the second and third quarters of 2003. 
+               2.	    Record-Keeping Violation: Section 13(b)(2)(A) of the Exchange Act 
+       Section 13(b)(2)(A) of the Exchange Act requires Section 12 registrants to make and 
+keep books, records, and accounts that accurately and fairly reflect the transactions and 
+dispositions of their assets.  Lattice’s books and records inaccurately reflected the transactions 
+and disposition of assets for the second and third quarters of 2003, in violation of Section 
+13(b)(2)(A). 
+
+                                                4
+
+---------------------Page 5---------------------
+
+              3.      Internal Control Violation: Section 13(b)(2)(B) of the Exchange Act 
+       Section 13(b)(2)(B) requires issuers with securities registered under Section 12 of the 
+Exchange Act to devise and maintain a system of internal accounting controls sufficient to 
+reasonably assure, among other things, that transactions are recorded as necessary to permit 
+preparation of financial statements in conformity with GAAP. 
+       Lattice had two primary areas of material weakness in the design and operation of 
+internal controls: segregation of duties and failure to update its estimate methodology.  These 
+material weaknesses contributed to the former controller’s ability to make and conceal the 
+unsupported journal entries.  Lattice therefore violated Section 13(b)(2)(B) of the Exchange Act. 
+       D.     REMEDIAL EFFORTS 
+       In determining to accept the Offer, the Commission considered Lattice’s cooperation and 
+remedial actions. 
+                                              IV. 
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Lattice’s Offer. 
+       Accordingly, it is hereby ORDERED that Respondent Lattice cease and desist from
+committing or causing any violations and any future violations of Sections 13(a), 13(b)(2)(A), 
+and 13(b)(2)(B) of the Exchange Act and Rule 13a-13 thereunder. 
+
+       By the Commission. 
+                                                Nancy M. Morris
+                                                Secretary 
+
+                                               5
+

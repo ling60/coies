@@ -1,0 +1,414 @@
+---------------------Page 1---------------------
+
+ UNITED                             STATES OF AMERICA 
+
+ Before                                      the 
+
+                   SECURITIES AND EXCHANGE COMMISSION 
+
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 52539 / September 30, 2005 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 2327 / September 30, 2005 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-12066 
+ 
+                                             ORDER INSTITUTING PUBLIC 
+In the Matter of                             ADMINISTRATIVE AND CEASE-
+                                       AND-DESIST PROCEEDINGS 
+      Ronald Lee Hoyt, CPA,                  PURSUANT TO SECTION 21C OF THE 
+                                             SECURITIES EXCHANGE ACT OF 1934 
+Respondent.                                  AND RULE 102(e) OF THE 
+                                             COMMISSION’S RULES OF PRACTICE, 
+                                             MAKING FINDINGS, AND IMPOSING 
+                                             REMEDIAL SANCTIONS AND A CEASE-
+                                             AND-DESIST ORDER 
+                                       
+                                       
+                                            
+                                          I.  
+ 
+      The Securities and Exchange Commission (“Commission”) deems it appropriate that public 
+administrative and cease-and-desist proceedings be, and hereby are, instituted pursuant to Rule 
+102(e)(1) of the Commission’s Rules of Practice1
+                                            and Section 21C of the Securities Exchange Act 
+of 1934 (“Exchange Act”) against Ronald Lee Hoyt, CPA (“Hoyt”). 
+ 
+                                          II.  
+ 
+      In anticipation of the institution of these proceedings, Hoyt has submitted an Offer of  
+Settlement (“Offer”) which the Commission has determined to accept. Solely for the purpose of  
+these proceedings and any other proceedings brought by or on behalf of the Commission, or to 
+which the Commission is a party, and without admitting or denying the findings herein, except as 
+to the Commission’s jurisdiction over him and the subject matter of these proceedings, which are  
+
+                                                 
+1
+ Rule 102(e)(1)(ii) provides, in pertinent part, that: 
+ 
+               The Commission may…deny, temporarily or permanently, the privilege of 
+appearing or practicing before it…to any person who is found…to have engaged in…improper 
+professional conduct. 
+---------------------Page 2---------------------
+
+admitted, Respondent consents to the entry of this Order Instituting Public Administrative and 
+Cease-and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934 and 
+Rule 102(e) of the Commission’s Rules of Practice, Making Findings, and Imposing Remedial 
+Sanctions (“Order”), as set forth below.   
+ 
+                                               III.  
+ 
+       On the basis of this Order and the Respondent’s Offer, the Commission finds that:2
+                                                                                         
+ 
+ A.            RESPONDENT  
+                
+               Ronald Lee Hoyt, age 46, began his employment  at Lattice Semiconductor Corp.  
+(“Lattice”) in 1990.  He became Lattice’s Controller on April 5, 1999, and assumed the additional 
+title of Director of Finance on July 30, 2000.  Although Hoyt continued to hold the title of 
+Controller and Director of Finance until March 19, 2004, Lattice suspended his responsibility for 
+the general ledger on January 20, 2004.  During his tenure as Controller and Director of Finance,  
+he also held officer positions for two of Lattice’s wholly-owned foreign subsidiaries:  statutory 
+auditor for Lattice KK (Japan) and secretary for Lattice Semiconductor UK Ltd. (United 
+Kingdom).  Hoyt supervised approximately 16 people in Lattice’s accounting department.  He 
+worked as a consultant for Lattice from March 22, 2004 to July 14, 2004. Hoyt is, and at all 
+relevant times was, licensed in Oregon as a Certified Public Accountant.  Before joining Lattice, 
+Hoyt worked for six years as a senior auditor at a large public accounting firm.   
+ 
+       B.      RELATED ENTITY  
+        
+               Lattice Semiconductor Corp., a Delaware corporation headquartered in Hillsboro, 
+Oregon, designs, manufactures, and sells semiconductor products.  Lattice’s stock is registered 
+under Section 12(g) of the Exchange Act and trades on the Nasdaq National Market. 
+        
+       C.      SUMMARY  
+ 
+               1.     Hoyt was primarily responsible for Lattice’s material overstatement of  
+revenue and understatement of deferred income and net loss in its Forms 10-Q for the second and  
+third quarters of 2003.  Hoyt contributed to Lattice’s inaccurate reporting for the second and 
+third quarters of 2003 by making unsupported journal entries totaling $5.5 million to offset 
+apparent understated balances in Lattice’s deferred revenue account.  Hoyt failed to tell anyone 
+at Lattice about the material discrepancies in the deferred revenue account or his unsupported 
+journal entries.  He also misrepresented to Lattice’s auditor that there were no unusual or non-
+recurring journal entries. 
+ 
+               2.     In mid-January 2004, Hoyt reported his actions to Lattice’s Vice President 
+of Finance.  Lattice began an internal investigation.  Upon completion of its internal 
+
+                                                 
+2
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding 
+on any other person or entity in this or any other proceeding.  
+                                                2
+ 
+---------------------Page 3---------------------
+
+       investigation in April 2004, Lattice acknowledged that it had                                          internal controls weaknesses, 
+       including a failure to have a sufficient check on Hoyt’s ability to make entries to the general 
+       ledger, had prematurely recognized revenue, and had restated its financial statements for the first 
+       three quarters of 2003.3
+                                 As a result of the restatements, Lattice’s previously reported revenue for 
+       the first nine months of 2003 decreased by $10.6 million (an approximate 6% decrease) and its 
+       previously reported loss for the period increased by $8.9 million (an approximate 15% increase). 
+        
+               D. 	   FACTS  
+                               
+                      1.       Lattice’s Business and Deferred Revenue Accounting  
+        
+               Lattice manufactures semiconductor products and sells them to end users directly and 
+       through distributors.  Sales to distributors account for nearly half of Lattice’s revenue.  Lattice 
+       delays revenue recognition on sales to distributors until the distributors report product resale to 
+       Lattice.  Lattice uses deferred income accounting to reflect the anticipated revenue and 
+       corresponding costs for its products shipped to distributors but not yet sold to end users.  For 
+       example, when Lattice ships a product to a distributor, it records in its general ledger the product’s 
+       list price as deferred revenue and the cost as deferred cost.  Deferred income is the balance sheet 
+       account that reflects deferred revenue less deferred cost.  
+ 
+                      2. 	    Hoyt’s Cross-Check    of the Deferred Revenue Account in the General  
+                              Ledger        
+ 
+                At the close of each quarter, Hoyt performed an account reconciliation to cross-check the 
+       accuracy of Lattice’s estimate of deferred revenue as reflected in the general ledger.  This test was 
+       based on the carrying value of the Lattice inventory sitting on distributors’ shelves and provided an 
+       estimate of the minimum deferred revenue balance required to reflect sales of this inventory. 
+       Lattice’s accounting polices provided that if there was no material discrepancy between the 
+       estimate of deferred revenue and the amount of deferred revenue reflected in Lattice’s general 
+       ledger, Hoyt could conclude that the general ledger was accurate and close the books for the 
+       quarter. 
+                
+                      3.      The Discrepancies and Unsupported Journal Entries  
+        
+                              (a)	      The Second Quarter Discrepancy of $1.3 Million and Hoyt’s  
+                                      Unsupported Journal Entries to Reconcile the Discrepancy  
+ 
+               In July 2003, while preparing Lattice’s financial statements for the second quarter, Hoyt  
+       performed his usual reconciliation of the deferred revenue account.  The reconciliation showed that  
+       the estimate of deferred revenue was $1.3 million higher than the deferred revenue balance on the 
+       general ledger, indicating an understatement  of Lattice’s deferred revenue account.  He  
+       recalculated the reconciliation but found no mechanical error.  He then considered possible reasons 
+
+                                                        
+       3
+         Although Lattice restated its financial statements for the first quarter of 2003, that first quarter 
+       restatement is not a part of this Order. 
+                                                        3
+ 
+---------------------Page 4---------------------
+
+for the discrepancy and theorized, incorrectly, that there were two sources of future (deferred)  
+revenue that should have been accounted for in the general ledger.  To account for these 
+“previously unidentified” sources of deferred revenue, Hoyt wrote and caused the entry of two 
+unsupported journal entries totaling $1.3 million to  offset the imbalance between the general ledger  
+and the deferred revenue estimate.  Hoyt made  these journal entries without telling anyone at 
+Lattice, and without investigating further to determine whether these suspected sources of deferred 
+revenue actually caused the discrepancy, and if so, in what amounts.  After making the 
+unsupported journal entries, Hoyt closed the books for the second quarter.   
+        
+       Hoyt failed to realize that the company’s method of calculating revenue from sales to  
+distributors had become inaccurate.  This in turn caused Lattice to recognize revenue prematurely  
+and overstate its reported revenue and understate its reported deferred revenue.  Instead of creating 
+journal entries that decreased revenue and increased deferred revenue, Hoyt created the  
+unsupported journal entries that inappropriately allowed Lattice to recognize revenue prematurely. 
+                
+                      (b) 	   The Third Quarter Discrepancy of $5.5 Million and Hoyt’s 
+                              Unsupported Journal Entries to Reconcile the Discrepancy  
+ 
+       At the end of the third quarter, Hoyt again performed his customary reconciliation to cross-
+check the amount of deferred revenue recorded in the general ledger.  This time, the discrepancy 
+was $5.5 million. Hoyt theorized that the reasons for the imbalance were the same as in the 
+previous quarter.  Based on his erroneous theory, Hoyt wrote and caused the entry of several 
+unsupported journal entries, totaling $5.5 million (inclusive of the $1.3 million of unsupported 
+journal entries from the second quarter), to offset the imbalance and close the books for the quarter.  
+These journal entries increased deferred revenue and decreased unrelated accounts including 
+accrued engineering cost and subsidiary accrued payroll.  Hoyt spread out the journal entries in this 
+manner to avoid taking the accrued liabilities accounts below zero.  Had any of the liability 
+accounts fallen below zero, the negative balance may have signaled a problem to the auditor.   
+ 
+       Hoyt’s use of unsupported journal entries in the second and third quarters of 2003 
+contributed to recognition of revenue  contrary to Generally Accepted Accounting Principles 
+(GAAP).  Statement of  Financial Accounting Concepts No. 5, “Recognition and Measurement in 
+Financial Statements of Business Enterprises” (CON 5), provides that “revenues are considered to  
+be earned when the entity has substantially accomplished what it must do to be entitled to the 
+benefits represented by the revenue.”  CON 5 Para. 83.  Hoyt knew there was a shortfall in 
+deferred revenue that he could not explain.  Rather than bringing the issue to his superiors or the 
+auditor (which was on-site at Lattice to review quarterly financial records), Hoyt told no one, 
+concealed the imbalance, and prepared unsupported journal entries that contributed to Lattice’s 
+overstatement of revenue and understatement of net loss.  
+
+                                                4
+ 
+---------------------Page 5---------------------
+
+ 
+               4. 	   Hoyt’s Representations to Lattice’s Auditor That There Had Been No 
+                      Unusual or Nonrecurring Journal Entries  
+ 
+       Hoyt had significant responsibility for the preparation of  quarterly reports, including 
+meeting with its outside auditor, completing disclosure checklists and management representation 
+letters, and supplying some of the content for the quarterly reports.  At the end of the second and 
+third quarters, in connection with the auditor’s quarterly review of Lattice’s financial statements, 
+Hoyt and Lattice’s Vice President of Finance met with the auditor and discussed whether there had 
+been any unusual transactions.  Hoyt represented that there had been no unusual transactions.  
+Separately the auditor asked Hoyt whether there had been any unusual or non-recurring journal 
+entries and Hoyt falsely represented that there had not.  
+ 
+       Each quarter, Hoyt completed a detailed checklist provided to the auditor to ensure that 
+Lattice’s finance department considered all required disclosures.  Hoyt falsely represented in these  
+checklists for the second and third quarters of 2003, which he submitted to the auditor, that there 
+were no unusual or nonrecurring journal entries.   
+ 
+       For the second and third quarters of 2003, Hoyt signed management representation letters 
+that falsely represented to the auditor that Lattice’s financial statements contained no unusual or 
+nonrecurring journal entries.  Hoyt understood that Lattice’s auditor would rely on these  
+representations in its review of Lattice’s financial statements for the Forms 10-Q.   
+ 
+       Finally, Hoyt drafted the first footnote to the financial statements in Lattice’s Forms 10-Q 
+for the second and third quarters of 2003, which falsely stated that the financial statements  
+“. . . include all adjustments, consisting only of normal recurring adjustments,” (emphasis added) 
+necessary for the fair statement of results for the interim period.   
+ 
+               5.     Hoyt’s Disclosure of    the Unsupported Journal Entries   
+ 
+       On January 12, 2004, Hoyt disclosed to the Vice President of Finance the second and third 
+quarter general ledger imbalances of $1.3 million and $5.5 million, respectively.  He also explained 
+his theories for the causes of the imbalances and provided the unsupported journal entries used to 
+“correct” the imbalances.    
+  
+       When Lattice learned of Hoyt’s incorrect actions, it relieved Hoyt of responsibility for 
+journal entries and the general ledger and began an  internal investigation.   As a result of the 
+investigation, Lattice  changed the method of estimating deferred revenue and restated all three 
+2003 Forms 10-Q on April 19, 2004, reducing previously reported revenue by $10.6 million (an 
+approximate 6% decrease) and increasing previously reported net loss by $8.9 million (an 
+approximate 15% increase).  
+
+                                                5
+ 
+---------------------Page 6---------------------
+
+ E.	          VIOLATIONS  
+        
+              1. 	    Reporting Violations:  Section 13(a) of the Exchange Act and Rule  
+                      13a-13 Thereunder  
+        
+       Section 13(a) of the Exchange Act and Rule 13a-13 thereunder require issuers with 
+securities registered under Section 12 of the Exchange Act to file quarterly reports with the 
+Commission and to keep this information current.  The obligation to file such reports embodies 
+the requirement that they  be true and correct.  See, e.g., SEC v. Savoy Indus., Inc., 587 F.2d 
+1149, 1165 (D.C. Cir. 1978). 
+
+       For the second and third quarters of 2003, Hoyt caused Lattice to file false and 
+misleading quarterly reports with the Commission that misrepresented Lattice’s financial 
+condition by overstating revenue and understating net loss.  Hoyt caused Lattice’s violations of 
+Section 13(a) and Rule 13a-13 thereunder for the second and third quarters when he wrote 
+unsupported journal entries, caused them to be entered in the general ledger, and helped prepare 
+quarterly reports using the inaccurate general ledger balances. 
+
+              2. 	    Record-Keeping Provisions:  Section 13(b)(2)(A) of the Exchange Act 
+                      and Rule 13b2-1 Thereunder   
+ 
+       Section 13(b)(2)(A) of the Exchange Act requires Section 12 registrants to make and 
+keep books, records, and accounts that accurately and fairly reflect the transactions and 
+dispositions of their assets.  Rule 13b2-1 prohibits the falsification of any book, record, or 
+account subject to Section 13(b)(2)(A). 
+
+       As a result of Hoyt’s incorrect and unsupported accounting entries, Lattice’s books and 
+records inaccurately reflected transactions and dispositions of assets for the second and third 
+quarters of 2003.  Hoyt therefore caused Lattice to violate Section 13(b)(2)(A) and he violated  
+Rule 13b2-1.   
+
+              3. 	    Internal Controls Provision:  Sections 13(b)(2)(B) and 13(b)(5) of the 
+                      Exchange Act  
+ 
+       Section 13(b)(2)(B) of the Exchange Act requires issuers with securities registered 
+pursuant to Section 12 of the Exchange Act to devise and maintain a system of internal 
+accounting controls sufficient to reasonably assure, among other things, that transactions are 
+recorded as necessary to permit preparation of financial statements in conformity with GAAP. 
+Section 13(b)(5) prohibits any person from knowingly circumventing a system of internal 
+accounting controls or knowingly failing to implement a system of internal accounting controls.      
+
+       Hoyt caused Lattice’s violation of Section 13(b)(2)(B).  As Director of Finance and 
+Controller, Hoyt was responsible for ensuring that all journal entries were accurate and complete, 
+and that he followed and properly used Lattice’s system of internal controls.  By causing 
+unsupported journal entries to be recorded in Lattice’s general ledger, Hoyt failed to assure that 
+Lattice maintained adequate internal controls in violation of Section 13(b)(2)(B).  Hoyt violated 
+                                                6
+
+---------------------Page 7---------------------
+
+Section 13(b)(5) by knowingly creating unsupported journal entries and causing their entry in 
+Lattice’s general ledger.              
+
+               4.     False Statements to the Accountants:  Exchange Act Rule 13b2-2  
+  
+       Exchange Act Rule 13b2-2 prohibits an officer or director of an issuer from, among other 
+things, misstating or omitting any material fact to an accountant in connection with the preparation 
+of a report to be filed with the Commission.  Exchange Act Rule 3b-2 defines the term “officer” to 
+include “… comptroller or principal accounting officer, and any person routinely performing 
+corresponding functions with respect to any organization whether incorporated or unincorporated.”   
+        
+       Hoyt, as Lattice’s Director of Finance and Controller, is deemed an “officer” for purposes of 
+Rule 3b-2, and violated Rule 13b2-2 by providing the auditor with oral representations, checklists, 
+and management representation letters that incorrectly stated there were no unusual or nonrecurring 
+journal entries.  He also violated Rule 13b2-2 by providing the auditor with financial statements that 
+contained the unsupported journal entries.  As a result, Hoyt misled the auditor regarding material 
+components of the second and third quarter 2003 financial statements. 
+        
+               5.     Improper Professional Conduct      
+ 
+       Rule 102(e)(1)(ii) of the Commission’s Rules of Practice provides, in part, that the 
+Commission may censure or deny, temporarily or permanently, the privilege of appearing or 
+practicing before the Commission to any person who is found by the Commission to have 
+engaged in improper professional conduct.  Rule 102(e)(1)(iv)(B)(2) defines improper 
+professional conduct by licensed accountants as, among other things, “repeated instances of 
+unreasonable conduct, each resulting in a violation of applicable professional standards, that 
+indicate a lack of competence to practice before the Commission.” 
+ 
+       As Lattice’s Director of Finance, Controller, and as a CPA, Hoyt failed in his 
+responsibilities for Lattice’s proper financial reporting.  Hoyt engaged in improper professional 
+conduct under Rule 102(e)(1)(iv)(B)(2) when he made unsupported journal entries and caused 
+their entry in the general ledger, repeatedly misstated and omitted material facts to Lattice’s 
+auditor, and then concealed his misconduct.  Hoyt’s actions also violated the Code of 
+Professional Conduct of the American Institute of Certified Public Accountants.   
+ 
+       F.      FINDINGS  
+ 
+       Based on the foregoing, the Commission finds that Hoyt caused Lattice’s violations of 
+Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rule 13a-13 thereunder and 
+violated Section 13(b)(5) of the Exchange Act and Rules 13b2-1 and 13b2-2, and that Hoyt 
+engaged in improper professional conduct pursuant to Rule 102(e)(1)(ii) and (iv). 
+ 
+
+                                                7
+ 
+---------------------Page 8---------------------
+
+                                               IV. 
+                                                  
+       In view of the foregoing, the Commission deems it appropriate to impose the cease-and-
+desist order and sanctions agreed to in Respondent’s Offer. 
+ 
+       Accordingly, it is hereby ORDERED, effective immediately, that: 
+ 
+       A.      Hoyt shall cease and desist from causing any violations and any future violations of 
+Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rule 13a-13 thereunder, and 
+from committing or causing any violations and any future violations of Section 13(b)(5) of the 
+Exchange Act and Rules 13b2-1 and 13b2-2 thereunder. 
+ 
+       B.      Hoyt is denied the privilege of appearing or practicing before the Commission as an 
+accountant. 
+ 
+       C.      After three years from the date of this Order, Hoyt may request that the Commission 
+consider his reinstatement by submitting an application (attention: Office of the Chief Accountant)  
+to resume appearing or practicing before the Commission as: 
+ 
+                    1.  a preparer or reviewer, or a person responsible for the preparation or 
+review, of any public company’s financial statements that are filed with the Commission.  Such 
+an application must satisfy the Commission that Hoyt’s work in his practice before the 
+Commission will be reviewed either by the independent audit committee of the public company 
+for which he works or in some other acceptable manner, as long as he practices before the 
+Commission in this capacity; and/or  
+ 
+               2.     an independent accountant.  Such an application must satisfy the 
+Commission that: 
+ 
+                                  (a)  Hoyt, or the public accounting firm  with which he is associated, is 
+registered with the Public Company Accounting Oversight Board (“Board”) in accordance with 
+the Sarbanes-Oxley Act of 2002, and such registration continues to be effective; 
+ 
+                       (b)    Hoyt, or the registered public accounting firm with which he is 
+associated, has been inspected by the Board and that inspection did not identify any criticisms of 
+or potential defects in Hoyt’s or the firm’s quality control system that would indicate that Hoyt 
+will not receive appropriate supervision;  
+
+                       (c)    Hoyt has resolved all disciplinary issues with the Board, and has 
+complied with all terms and conditions of any sanctions imposed by the Board (other than 
+reinstatement by the Commission); and 
+ 
+                       (d)    Hoyt acknowledges his responsibility, as long as he appears or 
+practices before the Commission as an independent accountant, to co                                  mply with all requirements 
+of the Commission and the Board, including, but not limited to, all requirements relating to 
+registration, inspections, concurring partner reviews, and quality control standards.   
+                                                8
+ 
+---------------------Page 9---------------------
+
+      
+         D.        The Commission will consider an application by Hoyt to resume appearing or 
+practicing before the Commission provided that his state CPA license is current and he has 
+resolved all other disciplinary issues with the applicable state boards of accountancy.  However, 
+if state licensure is dependant on reinstatement by the Commission, the Commission will 
+consider an application on its other merits.  The Commission’s review may include consideration 
+of, in addition to the matters referenced above, any other matters relating to Hoyt’s character, 
+integrity, professional conduct, or qualifications to appear or practice before the Commission. 
+ 
+ By the Commission. 
+ 
+ 
+       Jonathan                                                                  G. Katz
+       Secretary                                                                
+
+                                                             9
+ 

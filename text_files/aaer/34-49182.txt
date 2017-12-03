@@ -1,0 +1,258 @@
+Commission Opinion: James Thomas McCurdy, Rel. No. 34-49182 /
+February 4, 2004
+Home | Previous Page
+CORRECTED
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C.
+SECURITIES EXCHANGE ACT OF 1934
+Rel. No. 49182 / February 4, 2004
+ACCOUNTING AND AUDITING ENFORCEMENT
+Rel. No. 1952 / February 4, 2004
+Admin. Proc. File No. 3-10509
+In the Matter of
+JAMES THOMAS MCCURDY, CPA
+OPINION OF THE COMMISSION
+RULE 102(e) PROCEEDING
+Grounds for Remedial Action
+Improper Professional Conduct
+Accountant engaged in improper professional conduct when he failed (1) to obtain sufficient competent evidence regarding the probable collectibility of a receivable; (2) to maintain an attitude of professional skepticism; (3) to render an accurate audit report, in that he certified financial statements as being prepared in accordance with generally accepted accounting principles when they were not; and (4) to exercise due professional care.
+Held, it is in the public interest for the respondent to be denied the privilege of appearing or practicing before the Commission as an accountant for one year.
+APPEARANCES:
+Charles M. Carberry, of Jones, Day, Reavis & Pogue, for James Thomas McCurdy.
+Karen Matteson, for the Division of Enforcement and Office of the Chief Accountant.
+Appeal filed:
+August 30, 2002
+Last brief received:
+December 11, 2002
+Oral argument:
+October 29, 2003
+I.
+The Division of Enforcement and the Office of the Chief Accountant (together the "Division") appeal from the decision of an administrative law judge.
+The law judge found that James Thomas McCurdy did not engage in improper professional conduct within the meaning of Rule 102(e)(1)(ii) of the Commission's Rules of Practice1 in connection with his audit of the financial statements of JWB Aggressive Growth Fund (the "Fund"), a registered investment company,2 for the year ending December 31, 1998 ("FY 1998").
+The law judge found that the Division did not establish that the financial statements were not in accordance with generally accepted accounting principles ("GAAP").
+The law judge found that nonetheless McCurdy did violate generally accepted auditing standards ("GAAS") in that he should have obtained more evidence from additional sources in assessing the probable collectibility of a receivable that comprised 25% of the Fund's assets.
+The law judge concluded, however, that McCurdy's failure to do so was neither reckless nor highly unreasonable, and she dismissed the charges against him.
+We base our findings on an independent review of the record, except with respect to those findings not challenged on
+appeal.3
+II.
+McCurdy has been a certified public accountant ("CPA") since 1980.
+He is licensed to practice in Ohio.
+His firm, McCurdy & Associates CPAs, Inc., specializes in auditing mutual funds and broker-dealers doing business on a fully disclosed basis.
+Before founding McCurdy & Associates in 1980, McCurdy served as the CFO for a savings and loan for approximately seven years.
+McCurdy has never been subject to professional discipline.
+The Fund became registered with the Commission as an investment company in November 1995 and commenced operations in March 1996.
+At its height, it had approximately sixty investors and total net assets of $456,0000.
+John W. Bagwell, doing business as JWB Investment Advisory & Research ("Bagwell" or the "Adviser"), was the investment adviser of the Fund, which was his only advisory client.
+Bagwell was also the president and a trustee of the Fund.
+By voluntary agreement, the Adviser undertook to reimburse the Fund's expenses to the extent they exceeded a certain percentage of the Fund's assets.
+The Fund's expenses consistently exceeded the cap.
+The Fund paid the expenses as they were incurred, keeping track of the payments in a "Due From Adviser" account.
+As of December 31, 1997, the "Due From Adviser" account had a balance of $3,783.
+By early December 1998, the balance was nearly $80,000.
+At a December 3, 1998 Fund board meeting, Bagwell informed the Fund's trustees that the Adviser was immediately terminating the voluntary agreement to absorb Fund expenses that exceeded the cap.
+Bagwell also told the trustees that it would be "extremely difficult" for him to pay off the balance in the "Due From Adviser" account by December 31. Bagwell asked the board to allow him to pay off the amount due over time.
+He stated that, since the voluntary agreement was no longer in effect, the balance in the account would not continue to increase.
+Attached to the minutes of the board meeting was a letter from Bagwell dated November 20, 1998, in which Bagwell made a "voluntary commitment" to paying off the outstanding receivable -- at that time, $79,465.23 -- "in a timely manner," according to a schedule that called for Bagwell to pay $5,000 in November; $5,000 in December, "or bring the receivable below the guideline where the receivable is not a material fact"; and "$5,000 to $20,000 a month" from January 1999 until the receivable was paid off in full.
+The minutes of the December 3 trustees' meeting ("December 3 Minutes") provide the following account of the board's discussion of Bagwell's proposal:
+In answer to questioning from the Board, [counsel for the board] explained to the Board that, under normal circumstances, it was illegal for a mutual fund to lend money to an adviser.
+By allowing the Adviser to pay off this balance over time, the SEC, pursuant to an audit, could claim that such an action constituted an illegal lending of Fund assets.
+However, the Board also should look at the totality of the circumstances.
+If the Board refused to allow the Adviser time to pay off the balance, such an action could have serious adverse effects on the Adviser, to the long-term detriment of the Fund. Further, but for the voluntary actions of the Adviser, the Fund would have absorbed all those expenses, to the substantial detriment of the shareholders.
+Another element to consider was the [Board's] duty to assure itself that the Adviser was a viable entity on a continuing basis.
+If the Board found otherwise, it would have an obligation to take steps to rectify that situation.
+[The fact that] the Adviser . . .
+could not immediately satisfy its obligation raised [a question as to the Adviser's viability.
+Counsel] advised the Board to assure itself, before making any decision, that the Adviser was a viable entity and that extending time to the Adviser to pay off the receivable account would be, in their reasonable business judgement, of long-term benefit to the shareholders of the Fund, and that such benefit outweighed the risks to the Fund.
+The Board then questioned Mr. Bagwell at length concerning the financial condition of the Adviser, the Adviser's ability to pay off the account in a reasonable time period, and the sources of income available to the Adviser to pay off such sums.
+The Adviser presented a balance sheet and income statement to the Board and demonstrated, to the satisfaction of the Board, that the Adviser would be able to pay off the account not later than June of 1999.
+Mr. Bagwell again referred to the proposed payment schedule . . . and assured the Board that he would be able to comply with its requirements.
+After its discussion, the board unanimously approved the proposed payment schedule, as did the independent trustees by separate vote.
+Despite Bagwell's assurances, however, he had not made the payment due in November, nor did he make the payment due in December.
+The record does not indicate whether the Board noted or discussed the missed November payment, or the payment due in December.
+In December, 1998, the Fund's board of trustees retained McCurdy's firm to audit the Fund's 1998 financial statements. McCurdy began work on the audit in January 1999 and completed the field work for the audit on January 25, 1999.
+The financial statements showed that the Fund had assets of $340,484.
+Among the assets listed was a receivable due from the Adviser in the amount of $83,399 (the "Receivable"). Because the Receivable was included as an asset, it was included when the net asset value of the Fund was calculated.
+McCurdy recognized, while conducting the audit, that the Receivable was "very material" to the Fund because it constituted nearly 25% of the Fund's total assets.4 McCurdy also recognized that the Receivable arose from a related party transaction.
+Because the Receivable was based on a material related party transaction, McCurdy determined that additional audit procedures would be necessary.5
+McCurdy testified that, in evaluating the probable collectibility of the Receivable, he considered, among other things, the evaluation of the Fund's independent trustees and its board, as reflected in the December 3 Minutes.6 McCurdy both reviewed the Minutes and spoke to Fund counsel, who participated in the meeting and advised the board in its deliberations as to whether it should extend the time for the Adviser to repay the Receivable.7
+McCurdy did not contact the trustees to discuss the matter, nor did he discuss it with the Adviser.
+Although the minutes indicate that the board "questioned [the Adviser] at length" concerning his financial condition, his ability to pay off the account in a reasonable time period, and the sources of income available to him to repay such sums, McCurdy did not inquire into what those questions were, or what answers the board received. Additionally, although the minutes state that the Adviser presented "a balance sheet and income statement" to the board, these materials were not included as attachments to the minutes, and McCurdy made no effort to obtain copies of them.
+McCurdy admitted at the hearing that he did not know whether the financial statements were audited or unaudited, and acknowledged that it was "very possible" that "they could simply have been something that [the Adviser] created himself and gave to the board."
+McCurdy testified that he also considered the renewal of the Fund's bond by an insurance company in February 1999 in evaluating the probable collectibility of the Receivable. The two-year premium for the policy was $2,400, and the limit of liability for uncollectible items was $25,000.
+The record does not indicate the basis for the insurance company's renewal.
+McCurdy did not contact the insurance company to find out the basis for its decision to renew the bond, nor to ask whether the company was aware of the size of the Receivable.
+The Fund's audited financial statements for fiscal year 1998 were not yet publicly available at the time the insurance company renewed the bond.
+The most recent financial statements available to the insurance company were those from 1997, when receivables from the Adviser were only $3,783.
+McCurdy further testified that he had considered the measures taken to ensure that the Receivable would not continue to grow in evaluating the probable collectibility of the Receivable.
+Minutes of the meetings of the Fund's trustees showed that steps had been taken to halt the growth of the Receivable:
+the trustees had approved less expensive service providers, and the Adviser had terminated the agreement to pay expenses above a cap.
+Finally, McCurdy testified that he had considered, in evaluating the collectibility of the Receivable, the Adviser's history of repayment of receivables owed to the Fund, the size of the Receivable, and the percentage of the Receivable that had been incurred during the twelve months preceding the audit.
+The independent auditor's report, dated January 25, 1999, which was filed with the Commission on March 8, 1999 together with the Fund's financial statements, stated that McCurdy's firm had audited the financial statements in accordance with GAAS, and gave an unqualified opinion that the financial statements were presented in accordance with GAAP.
+As noted above, those financial statements included the Receivable as an asset.
+As of the report date, the Adviser had not made any of the payments due under the schedule approved by the trustees.
+III.
+The Order Instituting Proceedings ("OIP") charged that McCurdy engaged in improper professional conduct within the meaning of Rule 102(e) in conducting the audit of the Fund. Specifically, it charged that McCurdy falsely represented that the Fund's December 31, 1998 audited financial statements were presented in accordance with GAAP.
+Under GAAP, a receivable may not be recorded as an asset unless collectibility is probable.8
+The OIP further charged that McCurdy failed to comply with GAAS during the audit because he failed to (1) obtain sufficient competent evidence,9 (2) maintain an attitude of professional skepticism,10 (3) render an accurate audit report,11 and (4) exercise due professional care.12
+In a case such as this, these standards overlap somewhat.
+For example, a failure to maintain professional skepticism about information obtained from management can result in a failure independently to verify that information and gather sufficient competent evidential matter.
+Similarly, if an auditor fails to exercise due professional care, he may not obtain sufficient competent evidential matter to support an audit conclusion that the financial statements were prepared in compliance with GAAP.
+Evaluation of the Decision by the Fund's Trustees
+McCurdy contends that the decision of the Fund's independent trustees to extend the time for the Adviser to repay the Receivable, as reflected in the December 3 Minutes, was "a substantial piece of evidence as to collectibility. It was not reliance on representation of management.
+Rather, it was . . . the carefully considered conclusion of independent individuals charged with fiduciary duties to the Fund's directors."
+We do not believe that the trustees' decision to extend the payment schedule is sufficient competent evidence to establish that the Receivable was probably collectible.
+The trustees' vote does not, on its face, represent their conclusion that the Receivable was probably collectible.
+The issue was not put to the trustees in those terms.
+Bagwell made clear to the board that financial difficulties made it unlikely that he could pay off his debt before the Fund's books closed at fiscal year-end.
+The Fund's attorney counseled that a refusal to allow the Adviser time to pay off the balance "could have serious adverse effects on the Adviser, to the long-term detriment of the Fund."
+The trustees then found, based on their reasonable business judgment, that it was in the best interests of the Fund to extend the time for payment, and that "the benefits to the Fund and its shareholders outweigh[ed] the potential risks to the Fund . . .".
+The board also directed the Adviser to inform the board immediately if it was unable to comply with the payment schedule "in order for the board to take appropriate action."
+Rather than a conclusion that the Receivable was probably collectible, the trustees' decision appears to represent a business judgment that, in light of all the circumstances, it was in the Fund's best interests to extend the payment due date.
+The trustees' decision was made on the basis of unidentified information provided to the board in the context of a related-party transaction.
+Even if the trustees' vote embodied their belief that the Receivable was probably collectible, that vote alone would not have constituted sufficient competent evidence of probable collectibility.
+The record does not show that the trustees had anything more than representations of management, i.e., Bagwell, on which to base their decision.13
+While the independent trustees' vote represents non-management views, those views add little when they are based on only information offered by management. Moreover, McCurdy never knew what that information was, since he neither spoke with the trustees nor obtained copies of the materials they were given.
+Without knowing what information the trustees had available to them, how well equipped they were to evaluate that information, and how diligently they reviewed the matter, McCurdy could not assume that the trustees' decision was sound or relevant to the issue of colectibility.
+GAAS required McCurdy to go "beyond inquiry of management"; he did not even go as far as making inquiry of the trustees, whose decision was itself based on representations of management.
+McCurdy's reliance on the trustees' vote to accept Bagwell's repayment terms constituted a failure to see the obvious limitations of the wording of the December 3 Minutes or to evaluate the soundness of the trustees' decision.
+Moreover, the repayment agreement was a related party transaction concerning a material uncollected balance.
+GAAS set forth a list of procedures that "should be considered" in such circumstances.
+These include obtaining information about the related party's financial capability "from audited financial statement, unaudited financial statements, income tax returns, and reports issued by regulatory agencies, taxing authorities, financial publications, or credit agencies."14
+McCurdy did not perform any of these procedures.
+McCurdy's contention that the trustees' vote was a substantial piece of evidence supporting the probable collectibility of the Receivable is further belied by other information in the same Minutes that report the vote.
+The Adviser's stated inability to pay the Receivable by year end should have heightened concerns as to the collectibility of the Receivable.
+Whether a receivable is due to be paid off by year end or afterwards does not in itself affect its probable collectibility.
+But an extension of the payment date as a result of inability to pay inevitably raises concerns as to collectibility.
+Additionally, the absence of any reference in the minutes to the status of the November payment due under the proposed payment schedule should have raised questions as to the thoroughness of the trustees' inquiry, and created doubts as to the Adviser's ability or willingness to comply with even the extended payment schedule.
+McCurdy's failure to engage in additional inquiry, either by contacting Bagwell or otherwise, compounds his error in using the trustees' vote as "a substantial piece of evidence as to collectibility."15
+Renewal of Insurance
+McCurdy argues that the insurance company's renewal of the bond, with coverage for receivables that exceeded the policy premium, was competent evidence that the Receivable was probably collectible.
+He characterizes that renewal as representing a professional judgment by an entity in the business of risk assessment that the insurance company probably would not have to pay out more money to cover unpaid receivables than it would receive in premiums.
+As noted above, there is no indication in the record that the insurance company had available to it any financial information about the Fund other than the Fund's 1997 financial statements, in which the balance in the "Due from Adviser" account was only $3,783.
+The record does not establish that the renewal of the bond was competent evidence of the probable collectibility of the 1998 Receivable of $83,399.
+McCurdy contends that, in relying on the renewal of the bond, he had no reason to believe the insurance company did not perform the due diligence necessary to protect its investment.
+This argument evidences a fundamental misapprehension of McCurdy's role as an auditor.
+It was McCurdy's responsibility, as the Fund's auditor, to assess the accuracy and reliability of the financial information disclosed to members of the public by the Fund.
+He could not rely on an assumption that others made such an assessment with a suitable level of knowledge and care.
+To the contrary, the insurance company was entitled to rely on the accuracy of the Fund's financial statements, as audited by McCurdy, in making its decision to renew the bond.16
+History of Payment
+McCurdy argues that the Adviser's timely payment of receivables in prior years, as confirmed by the Fund's former auditors, indicated that the Adviser did not have a pattern of defaulting on obligations to the Fund that would have raised questions as to his repayment of the Receivable. While a history of default would have been a source of concern, the lack of such a history does not establish probable collectibility on these facts.
+The amount of the Receivable at the end of 1998 was more than 22 times the amount of the outstanding due from the Adviser's account at the end of 1997.
+Bagwell admitted at the December 3 board meeting that paying the Receivable by the end of 1998 would have been "extremely difficult" and had missed all scheduled payments as of the time McCurdy signed the unqualified audit opinion.
+McCurdy argues that the Adviser's lack of immediate liquidity did not establish an inability to repay the Receivable within the time allotted under the payment schedule.
+This is not the correct standard.
+McCurdy needed evidence that the Receivable was probably collectible in order to include it as an asset.
+Bagwell's statement to the trustees at the December 3 board meeting should have prompted McCurdy, in the exercise of due professional care, to make at least some inquiry of Bagwell concerning his future ability to pay and take some additional step to verify Bagwell's response.
+Miscellaneous Issues
+McCurdy argues that the Receivable, while material to the Fund, was not for an "inherently large" sum of money.
+The significance of this argument is unclear.
+The important thing is that the amount was material to the Fund.
+In fact, the amount was more than 12 1/2 times the audit materiality gauge of $6,605. Moreover, Bagwell's admission that it would be extremely difficult to pay the Receivable by year-end, plus the missed payments, suggest that, at least at that time, the amount was large to him.
+Under these circumstances, the amount of the Receivable is not competent evidence of probable collectibility.
+McCurdy states that the fact that the vast majority of the Receivable was incurred during the twelve months immediately preceding the audit also played a role in his evaluation.17
+In light of Bagwell's expressed difficulties in paying by year end and his missed payments, we see no connection between the time when the Receivable was incurred and its probable collectibility.
+McCurdy argues that the fact that the Receivable would not continue to grow "substantially increased the probability that the [Adviser] would have the capability of repaying the existing balance since no new obligations would occur."
+We find this argument unpersuasive.
+It does not follow that eliminating additional liability makes the payment of existing indebtedness probable.18
+Based on this evidence, we find that the Fund's financial statements for the year ended December 31, 1998, incorrectly included the Receivable as an asset because there was insufficient evidence that the Receivable was probably collectible as required by FASB 6.19
+Accordingly, we find that the 1998 financial statements were not, as McCurdy certified, presented in accordance with GAAP.
+We further find that the audit was not performed in accordance with GAAS because McCurdy did not obtain sufficient competent evidential matter to afford a reasonable basis for his unqualified opinion regarding the financial statements, did not maintain professional skepticism in evaluating the evidence he obtained, did not exercise professional due care, and did not render an accurate audit report.
+IV.
+The OIP charged that McCurdy's conduct was reckless or, in the alternative, highly unreasonable.
+Recklessness, for purposes of assessing accountant conduct under Rule 102(e), is defined as "not merely a heightened form of ordinary negligence; it is an 'extreme departure from the standards of ordinary care, . . . which presents a danger of misleading buyers or sellers that is either known to the [actor] or is so obvious that the actor must have been aware of it.'"20 Recklessness can be established by a showing of an extreme departure from the standard of ordinary care for auditors.21
+McCurdy knew that the Receivable was "very material" to the Fund; he also recognized that it represented a related party transaction.
+Having determined that additional procedures were required to verify that the Receivable was probably collectible, he performed virtually none.
+He identified as evidence supporting the probable collectibility of the Receivable the December 3 Minutes and the insurance documents, which provided only indirect and unsubstantiated information about that collectibility.
+McCurdy's reliance on these materials was not justified.
+McCurdy did not contact Bagwell directly to obtain materials McCurdy could use in making his own assessment of collectibility.
+Nor did he contact the Fund's trustees to find out what they had relied on in approving the extended payment plan.
+He did not discover, or was indifferent to, the fact that, as of the date he signed the financial statements in March, the scheduled payment period was half over and Bagwell had not made any payments.
+Inquiring about Bagwell's compliance with the agreed upon payment schedule would have been an obvious, and uncomplicated, step to take.
+In view of the significance of the matters at issue, McCurdy's failure to obtain more information was an extreme departure from the standard of ordinary care for auditors. By thus acting recklessly, McCurdy engaged in improper professional conduct within the meaning of Rule 102(e).22
+V.
+Improper professional conduct within the meaning of Rule 102(e) may also be established by a "single instance of highly unreasonable conduct that results in a violation of applicable professional standards in circumstances in which an accountant knows, or should know, that heightened scrutiny is warranted."23
+In adopting the "highly unreasonable" standard, we explained that it is "an intermediate standard, higher than ordinary negligence but lower than the traditional definition of recklessness used in cases brought under Section 10(b) and Rule 10b-5 of the Exchange Act."24 We further explained that the "heightened scrutiny" referred to would be warranted, among other things, "when matters are important or material, or when warning signals or other factors should alert an accountant" to a heightened risk.25
+Heightened scrutiny was warranted here for several reasons.
+The Receivable was clearly material; it represented nearly 25% of the Fund's assets.
+Moreover, it arose from a related party transaction.
+In addition, Bagwell's acknowledged difficulty in paying off the Receivable by year end was a warning signal that collectibility of the Receivable might be uncertain.
+Despite these indications that heightened scrutiny was warranted, McCurdy failed to undertake such simple, obvious steps as contacting Bagwell or the Trustees for more information, or reviewing copies of Bagwell's tax returns or credit reports.
+Under these circumstances, McCurdy's failure to obtain additional competent evidence regarding the collectibility of the Receivable was highly unreasonable.
+VI.
+Under all of the circumstances, we believe that the appropriate sanction for McCurdy's improper professional conduct is to deny him the privilege of appearing or practicing before the Commission for one year.
+By failing to obtain sufficient competent evidential matter to provide the basis for the expression of an audit opinion regarding the treatment of the Receivable as an asset, and by opining that the financial statements were in accordance with GAAP despite the booking of the Receivable as an asset, McCurdy violated fundamental principles of auditing.
+McCurdy has significant experience in audit work; at the time of the audit he had been a CPA for nearly 20 years. This lengthy experience makes his failure to conduct the audit in accordance with applicable professional standards particularly troublesome.
+McCurdy is an actively licensed CPA, and we anticipate that he will continue to conduct audits of public companies.
+Whether McCurdy acted recklessly or highly unreasonably, his departure from his professional duties warrants denying him the privilege of appearing or practicing before the Commission for one year.
+An appropriate order will issue.26
+By the Commission (Commissioners GLASSMAN, GOLDSCHMID, and CAMPOS); Chairman DONALDSON and Commissioner ATKINS concurring in:
+the finding that McCurdy engaged in improper professional conduct within the meaning of Rule 102(e)(l)(iv)(B)(1), and
+all of the remainder of the opinion with the exception of the finding in Part IV of the opinion that McCurdy's conduct was reckless.
+Jonathan G. Katz
+Secretary
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C.
+SECURITIES EXCHANGE ACT OF 1934
+Rel. No. 49182 / February 4, 2004
+Admin. Proc. File No. 3-10509
+In the Matter of
+JAMES THOMAS MCCURDY, CPA
+ORDER IMPOSING REMEDIAL SANCTIONS
+On the basis of the Commission's opinion issued this day it is
+ORDERED that James Thomas McCurdy be temporarily denied the privilege of appearing or practicing before the Commission as an accountant for one year, effective at the opening of business on February 17, 2004.
+By the Commission.
+Jonathan G. Katz
+Secretary
+1 17 C.F.R. § 201.102(e)(1)(ii).
+Rule 102(e)(1)(ii) permits the Commission to censure or deny, permanently or temporarily, the privilege of appearing or practicing before it to persons found to have engaged in improper professional conduct.
+As applied to accountants, "improper professional conduct" includes, in relevant part,
+"(A) [i]ntentional or knowing conduct, including reckless conduct, that results in a violation of applicable professional standards; or
+(B) . . . negligent conduct [consisting of]:
+(1) a single instance of highly unreasonable conduct that results in a violation of applicable professional standards in circumstances in which an accountant knows, or should know, that heightened scrutiny is warranted."
+17 C.F.R. § 201.102(e)(1)(iv).
+2 The Fund is now defunct.
+See JWB Aggressive Growth Fund, 74 SEC Docket 2246 (Apr. 25, 2001) (finding that the Fund had ceased to be an investment company and ordering that its registration cease to be in effect).
+3 Rule of Practice 451(d), 17 C.F.R. § 201.451(d), permits a member of the Commission who was not present at oral argument to participate in the decision of a proceeding if that member has reviewed the oral argument transcript prior to such participation.
+Commissioners Glassman and Campos have conducted the required review.
+4 Using guidelines that he identified as accepted by the American Institute of Certified Public Accountants ("AICPA"), McCurdy calculated that, for purposes of his audit of the Fund, amounts larger than $6,605 would be regarded as material.
+AICPA, AU § 150.04 notes, "The concept of materiality is inherent in the work of the independent auditor.
+There should be stronger grounds to sustain the independent auditor's opinion with respect to those items which are relatively more important . . . ."
+5See generally AICPA, AU § 334.10 (setting forth procedures that should be considered in evaluating related party transactions, though those procedures "might not otherwise be deemed necessary to comply with [GAAS]."
+McCurdy did not specify, either in his audit papers or his testimony, what procedures he performed that were "additional" to ones he might have performed regarding a smaller receivable from a non-related party.
+6 McCurdy's testimony as to what he considered was in many instances supported by highlighting on his audit work papers.
+7 The record does not show that the attorney imparted to McCurdy any information about the December 3 meeting that went beyond that contained in the minutes.
+8 See Financial Accounting Standards Board Statement of Financial Accounting Concepts No. 6, Elements of Financial Statements, ¶ 25 ("Assets are probable future economic benefits, obtained or controlled by a particular entity as a result of past transactions or events."). The law judge found no GAAP violation under a standard that would have required the Division to prove lack of probable collectibility.
+That is not the correct standard.
+The Receivable could not be recorded as an asset unless it was probably collectible.
+If McCurdy did not have sufficient competent evidence that the Receivable was probably collectible, he should not have signed a report stating that the financial statements were in accordance with GAAP.
+9 AICPA, Codification of Statements on Auditing Standards, AU (hereinafter "AICPA, AU") § 326.01 requires that "[sufficient] competent evidential matter . . . be obtained through inspection, observation, inquiries, and confirmations to afford a reasonable basis for an opinion regarding the financial statements."
+10 See AICPA, AU § 230.07 ("Due professional care requires the auditor to exercise professional skepticism.") (emphasis in original).
+11 AICPA, AU § 508.07 permits an auditor to express an unqualified opinion that financial statements are presented in accordance with GAAP only when the auditor's opinion is formed on the basis of an audit performed in accordance with GAAS.
+12 AICPA, AU § 230.01 states that "[d]ue professional care is to be exercised in the performance of the audit and the preparation of the report."
+13 GAAS require that the procedures used in obtaining and evaluating evidential matter regarding related party transactions "should extend beyond inquiry of management."
+AICPA, AU § 334.09.
+14 AICPA, AU § 334.10e.
+15 The record is unclear as to whether McCurdy knew, when he signed the audit report, that Bagwell had failed to make the November and December payments called for in the extended payment schedule, or whether McCurdy had inquired about those payments.
+The question whether Bagwell was complying with the revised payment schedule was relevant to the collectibility of the Receivable.
+16 We are not suggesting that there was any inaccuracy in the 1997 financial statements.
+17 McCurdy argues that, under applicable accounting guidance, because the Receivable was under one year old at the time of the audit, it was presumptively current. The authorities upon which he relies do not support this argument.
+Neither Accounting Research Bulletin 43, Chapter 3A, paragraph 6, which discusses under what circumstances assets should not be classified as current, nor Statement of Financial Accounting Standards 6, which discusses classification of short-term obligations expected to be refinanced, mentions the period during which a receivable was incurred as a relevant factor.
+18 McCurdy states that he had contemporaneous discussions with Commission staff examiners, who were conducting an examination of the Fund at the time McCurdy was conducting his audit, about receivables, and that the examiners "never raised an issue of collectibility."
+McCurdy's assertion does not provide sufficient context to permit any inference to be drawn from the examiners' purported silence as to collectibility.
+19 We disagree with the law judge's findings of fact as set forth in her analysis of the GAAP violation charged.
+The law judge stated that "[the] only record evidence concerning the probability of collectibility is that Bagwell agreed to pay, was $10,000 in arrears at the end of January, and paid $12,000 in early 1999" (emphasis in original).
+This summary ignores Bagwell's statement that it would be extremely difficult for him to pay the Receivable by December 31.
+Additionally, it treats payments made in "early 1999" as relevant, even though the record does not show that Bagwell had made any payments by the audit report date, or even by the date the financial statements were filed.
+Based on our review of the record, and our evaluation of the evidence as set forth above, we conclude that the GAAP violation at issue was established.
+20 Amendment to Rule 102(e) of the Commission's Rules of Practice, Exchange Act Rel. No. 40567 (Oct. 18, 1998), 68SEC Docket 707, 710 ("Amendment to Rule 102(e)") (citations omitted); see also, e.g., Michael J. Marrie, CPA, Exchange Act Rel. No. 48246 (July 29, 2003), 80 SEC Docket 2694, 2704 n.11, appeal pending, No. 03-1265 (D.C. Cir.).
+21 Carroll A. Wallace, CPA, Exchange Act Rel. No. 48372 (Aug. 20, 2003), 80 SEC Docket 3370, appeal pending, No. 03-1350 (D.C. Cir.); Michael J. Marrie, CPA, 80 SEC Docket at 2705.
+22 McCurdy argues that he acted in good faith in conducting his audit of the Fund and that, for that reason, he cannot be found to have acted recklessly under Rule 102(e).
+We find, however, that McCurdy's attitude was essentially one of indifference as to whether the Receivable was collectible or not, and that this indifference is inconsistent with a finding that he acted in good faith.
+23 Rule 102(e)(l)(iv)(B)(1).
+24 Amendment to Rule 102(e), 68 SEC Docket at 710 (citation omitted).
+25 Id., 68 SEC Docket at 711 (citation omitted).
+26 We have considered all of the parties' contentions.
+We have rejected or sustained them to the extent that they are inconsistent or in accord with the views expressed in this opinion.
+http://www.sec.gov/litigation/opinions/34-49182.htm
+Home | Previous Page
+Modified: 03/17/2004

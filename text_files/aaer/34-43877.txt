@@ -1,0 +1,298 @@
+3-10407
+Home | Previous Page
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No.
+43877 / January 24, 2001
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No.
+1362 / January 24, 2001
+ADMINISTRATIVE PROCEEDING
+File No. 3-10407
+_______________________________
+:
+In the Matter of
+: ORDER INSTITUTING PUBLIC
+: PROCEEDINGS PURSUANT
+: TO SECTION 21C OF THE
+LINDA MUELLER,
+: SECURITIES EXCHANGE ACT
+: OF 1934, MAKING FINDINGS,
+: AND ORDERING RESPONDENT
+Respondent.
+: TO CEASE AND DESIST
+________________________________ :
+I.
+The Securities and Exchange Commission ("Commission") deems it appropriate that public administrative proceedings be, and they hereby are, instituted pursuant to Section 21C of the Securities Exchange Act of 1934 ("Exchange Act") against Linda Mueller ("Mueller").
+II.
+In anticipation of the institution of these administrative proceedings, the Respondent has submitted an offer of settlement (the "Offer"), which the Commission has determined to accept.1 Solely for the purpose of these proceedings and any other proceeding brought by or on behalf of the Commission, or to which the Commission is a party, and without admitting or denying the findings contained herein, except that Respondent admits that the Commission has jurisdiction
+over her and the subject matter of these proceedings, the Respondent by her Offer, consents to the entry of the findings and the imposition of the Cease-and-Desist Order set forth below.2
+III.
+The Commission makes the following findings:3
+A.
+FACTS
+1.
+Summary
+a.
+During 1998 and the first three quarters of 1999, Aurora Foods Inc. ("Aurora" or the "Company"), a producer and marketer of branded food products, under-reported trade marketing expenses in its publicly filed financial statements by more than $43 million.
+Of this total, about 25 percent pertained to expenses incurred by the Company's Van de Kamp's division ("VDK"), which produces frozen seafood, breakfast and pizza products.
+Mueller was VDK's Director of Budgeting and Planning.
+b.
+Aurora's senior management and VDK division management, including Mueller, were aware that VDK was not accurately recording trade marketing expenses.
+Instead of properly booking the expense, senior management tried to conceal it from the auditors by directing Mueller and other division personnel to make improper entries in the books and records of the division.
+Although Mueller protested these instructions, she did as she was told.
+Among other things, Mueller and her staff booked less trade expense than Mueller knew should have been booked.
+Mueller and her staff also knowingly prepared schedules pertaining to trade promotion expense, which were given to Aurora's independent auditors and which misled the auditors to believe that trade marketing expenses were properly booked.
+c.
+As a result of the improper conduct at Aurora, Mueller violated the internal controls and recordkeeping provisions of the federal securities laws.
+2.
+Respondent
+a.
+Mueller, age 43, was the Director of Budgeting and Planning at Aurora's VDK division during the relevant time period.
+She had principal responsibility for the trade promotion
+expense accrual and for the preparation of the trade reserve analysis.
+Mueller is still an employee of the Company, but she no longer has any financial reporting responsibilities.
+3.
+Other Relevant Individuals and Entities
+a.
+Aurora is a Delaware corporation with its principal place of business in St. Louis, Missouri.
+During the relevant time period, Aurora had its principal places of business in St. Louis, Missouri and Columbus, Ohio, and its corporate headquarters in San Francisco, California.
+At
+all relevant times, Aurora's business was divided into two divisions, the Aurora Foods division ("AFI") and VDK.
+b.
+Ian R. Wilson, age 71, was Chairman of the Board and Chief Executive Officer of Aurora from June 1998 until he resigned on February 17, 2000.
+c.
+M. Laurie Cummings, age 36, was the Chief Financial Officer of Aurora from June 1998 until she resigned on February 17, 2000.
+d.
+Ray Chung, age 51, was the Executive Vice-President of Aurora from June 1998 until he resigned on February 17, 2000.
+e.
+Timothy B. Andersen was the vice-president of finance and principal financial officer at Aurora's VDK division.
+Andersen resigned his position with the Company effective June 13, 2000 and continued to work for the Company as a consultant through December 31, 2000.
+f.
+Keith Luechtefeld was VDK's Controller beginning in December 1998.
+Luechtefeld resigned his position with the Company effective June 13, 2000 and thereafter served as a consultant until October 1, 2000.
+4.
+Discussion
+a.
+Background
+i.
+Aurora is a producer and marketer of branded food products, formed in 1998 for the purpose of acquiring undervalued food brands from major food conglomerates.
+Aurora's VDK division produces Van de Kamp's and Mrs. Paul's frozen seafood products, Aunt Jemima frozen breakfast products and Celeste frozen pizza.
+ii.
+VDK maintained its own set of books, which were consolidated on a monthly basis with AFI's books by Cummings and her staff in San Francisco.
+Andersen, Luechtefeld and Mueller prepared a monthly and quarterly financial reporting package and submitted it to Aurora in San Francisco.
+With respect to the quarterly packages, Cummings and her staff analyzed the data and then visited VDK to discuss the quarter's results.
+At these quarter-end review meetings, Cummings typically discussed accounting adjustments with Andersen, Mueller and Luechtefeld. When Cummings finalized the adjustments to be made, the division staff would enter the
+adjustments on the division's books, and Aurora then prepared the Company's final consolidated financial statments using these numbers.
+iii.
+During the relevant time period, PriceWaterhouseCoopers, LLP ("PWC") conducted an annual audit at year-end, and, in connection with each 10-Q filing, a quarterly review.
+The 10-Qs and 10-K included segment information for each division, including net operating income and other financial data for each division.
+b.
+Trade Promotion Expense and Accruals
+i.
+At issue in this case is the failure by Company and VDK division management to record known trade promotion expenses incurred in 1998 and in the first three quarters of 1999 in order to meet earnings targets.
+ii.
+Trade promotion expense is the cost the Company incurs to induce retailers (i.e., grocery stores) to buy and promote Company products.
+For example, VDK might give a retailer a discount on a product if the retailer buys a certain volume by a specified date or if the retailer runs an advertisement in its store circular.
+iii.
+Because the discount is often contingent on a future event, VDK does not always know at the time of the sale the precise amount the trade promotion expense will be.
+Typically, VDK issues an invoice to the retailer in the full amount of the sale.
+If the retailer satisfies the contingency, it deducts the discount from the invoice and pays VDK only the balance due.
+iv.
+VDK accounts for the sale and expense at the time of the sale.
+For income statement purposes, VDK records the full amount of the sale as income and the anticipated amount of the discount or incentive as a trade promotion expense.
+For balance sheet purposes, VDK also records the full amount of the sale as an account receivable (an asset) and the anticipated amount of the promotion expense to a reserve account (a liability) known as the Marketing Development Fund or the "MDF Reserve" (some times referred to as the trade reserve or accrual).
+v.
+When the retailer eventually pays the bill, and takes a deduction, VDK credits the receivables account in full, even though the remittance is for a net amount, and simultaneously records the amount of the deduction to a separate sub-account in accounts receivable, called a "deductions account," where deductions are segregated.
+VDK does this because, at the time it receives payment, the division needs to determine whether the deduction claimed by the retailer is valid.
+Once the division determines that the deduction is valid, it "clears" the deduction by removing it from the deductions account and simultaneously reduces the MDF Reserve by the same amount.
+vi.
+To evaluate the adequacy of its trade reserve (i.e., the MDF Reserve), VDK periodically prepared a trade reserve analysis, which essentially compared the MDF Reserve balance against the sum of: (i) known deductions (collected in the deductions account) and (ii) an estimate of expected deductions on open invoices (usually a percentage of the open accounts receivable).
+vii.
+Using this trade reserve analysis, the MDF Reserve should be no less than the sum of the deductions account balance and the estimate of expected deductions.
+c.
+The "Tail" Assumption
+i.
+Division management at VDK knew, at least as early as mid-1999, that its method of estimating expected deductions was underestimating expected deductions by a significant amount, leaving the division underaccrued for trade expense.
+ii.
+The primary assumption VDK used in evaluating the adequacy of this estimate of future deductions was the length of time, or "tail," based on prior experience, between the customer's satisfaction of the promotion contingency and actually taking the deduction.
+For example, if the tail is assumed to be 25 days, VDK calculated the number of expected deductions by taking a percentage (reflecting the usual deduction rate) against the previous 25 days of invoices.
+The longer the tail assumed, the greater the estimated deductions will be.
+iii.
+During 1999, Aurora and VDK management realized, by performing various timing studies, that VDK had substantially underestimated the length of the tail and had therefore underaccrued trade expense.
+Rather than record the appropriate expense, as they should have, Aurora and VDK management allowed the trade underaccrual to grow, and concealed the relevant timing studies from the auditors.
+By the time the scheme was exposed, the underaccrual at VDK was about $17 million.4
+d.
+During 1998, VDK Prepared an Alternative Trade Reserve Analysis for PWC.
+i.
+Until approximately June 1998, VDK had analyzed the trade reserve using a 25 day tail assumption.
+As new systems VDK had put in place started to shed light on how trade spending operated, Mueller began to develop a new set of assumptions based on her evolving understanding of trade promotion expense, including that the tail was about 30 days.
+ii.
+In July and August 1998, Mueller and her staff prepared trade reserve analyses using the 30 day tail assumption, which indicated that VDK was underaccrued by between $1.6 million and $3 million.
+VDK included these analyses in its monthly reporting packages to Aurora.
+iii.
+The October 1998 trade reserve analysis, using the 30 day assumption, showed a $2.3 million underaccrual at September 30, 1998.
+At this time, PWC was about to begin its third quarter review.
+When Cummings reviewed the October 1998 analysis, Cummings insisted that VDK analyze trade in accordance with the 25 day tail assumption.
+iv.
+To comply with this directive, Mueller and her staff prepared a second version (the "PWC Version") of the trade reserve analysis using the 25 day tail.
+This analysis showed an underaccrual of $546,000.
+Cummings told Mueller that she should prepare only the PWC Version going forward.
+v.
+From this point forward, Mueller and her staff prepared the PWC Version every quarter.
+In addition, despite Cummings' instruction, Mueller directed that her staff continue to prepare an internal version using the 30 day assumption.
+vi.
+As of December 31, 1998, VDK's internal reserve analysis using the 30 day assumption showed a $4 million underaccrual in the trade reserve, while the PWC Version, using the 25 day assumption, showed an overaccrual of $1.2 million.
+Cummings told Mueller and Andersen not to book the $4 million underaccrual as an additional expense in 1998.
+Mueller and Andersen followed Cummings' instructions.
+vii.
+In connection with the 1998 year-end audit, Cummings made clear that she wanted Mueller to give PWC the PWC Version only, and Mueller complied.
+In fact, Cummings told Mueller not to prepare the internal version using the 30 day assumption.
+PWC accepted the PWC Version, but asked Andersen to have a timing study done to verify the 25 day tail assumption underlying the analysis.
+viii.
+At year-end 1998, the Company had understated trade promotion expense by $28.5 million on a company-wide basis, about $8.8 million of which was attributable to VDK.
+e.
+In early 1999, VDK began Altering Automated Accruals.
+i.
+In January 1999, VDK installed Synectics, a computer system that improved tracking of trade expense by enabling VDK to track authorized trade expense for each customer, permitting the calculation of trade accrual entries that were then posted automatically to VDK's general ledger.
+ii.
+Almost as soon as the Synectics system was in place, Cummings began to direct adjustments to understate actual expense.
+At the end of each month, Cummings reviewed the automated posting and evaluated the number to determine not whether the accrual was accurate, but rather its effect on Aurora's ability to meet its earnings targets.
+iii.
+Cummings would follow-up with a call or fax to division management in which she gave instructions to Andersen and Mueller to adjust the number downward as necessary to meet those targets.
+After receiving these instructions, Mueller directed her assistant to adjust manually the accrual entries that had been posted automatically by Synectics.
+At the end of each quarter, Cummings directed further adjustments as needed to meet earnings targets.
+In addition, Andersen directed Mueller to make adjustments from time to time, in order to meet the target monthly and quarterly numbers given him by Cummings and Chung.
+In each instance, Mueller protested but complied with these directives.
+iv.
+By mid-May 1999, Cummings was concerned that PWC was giving extra scrutiny to these manual adjustments of the automated postings.
+To avoid further scrutiny, Cummings directed
+Andersen and Mueller to turn off the automatic feed from Synectics.
+Thereafter, Synectics still generated the appropriate number, but the system did not post the number to the ledger.
+Instead,
+Mueller's staff posted the accrual and expense entries by hand using the lesser numbers that Mueller had received from Cummings or Andersen.
+f.
+VDK Conducted a Timing Study, Establishing a Substantial Underaccrual.
+i.
+In February 1999, shortly after the year-end audit, Andersen followed up on PWC's request that VDK do a timing study, asking Creditek, a company he had hired to process deductions, to perform such a study to determine the length of the tail.
+The objective of the study was to determine how long it took customers to take a deduction after the event warranting payment had occurred.
+ii.
+On March 18, 1999, Creditek's timing study found a 60 day tail for deductions.
+Andersen asked Creditek to perform a follow-up study to confirm the findings.
+iii.
+On June 8, Creditek's follow-up study concluded that the tail period was about 70 days.
+iv.
+In June 1999, Mueller told Andersen that she would incorporate the new tail assumption into the reserve analysis for the June 1999 quarter close, and, for comparison, prepare an analysis using the 30 day assumption she had previously used.
+Using the new assumption, the underaccrual was $11.1 million, in contrast to a $4.3 million underaccrual using the prior 30 day assumption.
+v.
+At the same time, Chung started calling Andersen two or three times a week.
+As the second quarter was drawing to a close, VDK's profit numbers were well below projections.
+While the timing study now confirmed that much more trade expense needed to be booked, in his calls, Chung told Andersen of new profit "opportunities" through which VDK could further reduce expenses on the books.
+vi.
+On July 21, 1999, Cummings came to VDK in St. Louis for the June quarter review with Andersen, Luechtefeld and Mueller.
+At this meeting, Andersen formally disclosed the Creditek timing study.
+In addition, the quarterly reporting package contained an analysis, prepared by Mueller and her staff, demonstrating the impact of the new timing assumption on the trade reserve by comparing the underaccrual calculated using the new assumption (which showed an underaccrual of $11.1 million) with the underaccrual calculated using the prior 30 day assumption (which showed an underaccrual of $4.3 million).
+The reporting package also contained a PWC Version, prepared by Mueller and her staff, which showed an underaccrual of $800,000 using a 25-day tail assumption.
+vii.
+Cummings told the VDK team that she did not want to hear about the timing study again.
+She directed that, at PWC's second quarter review, VDK division management was not to disclose the Creditek timing study.
+viii.
+Cummings sent Mueller out of town during PWC's second quarter review.
+In Mueller's absence, Luechtefeld gave PWC the PWC Version Mueller and her staff had prepared, which showed an $800,000 underaccrual using the old 25 day tail assumption that had been discredited by Creditek's June 8 timing study.
+ix.
+In the second quarter, VDK booked no additional trade expense even though VDK's internal trade reserve analysis showed the existence of a large underaccrual.
+Instead, at Cummings' or Andersen's direction, Mueller instructed her assistant to under-book the accrual for the quarter by at least $900,000.
+x.
+On August 12, 1999, Aurora filed its Form 10-Q for the second quarter, signed by Cummings. The 10-Q represented that all accruals were fairly stated.
+This representation was false or
+misleading because the trade accrual was not fairly stated.
+For the first half of the year, Aurora's publicly filed financial statements understated trade promotion expense by nearly $12 million, about $4 million of which pertained to VDK.
+This sum was in addition to the unrecorded $8.8 million underaccrual at VDK that existed at year-end 1998.
+g.
+In the Third Quarter 1999, Aurora Management
+Refused to Address the Underaccrual Problem.
+i.
+On August 12, 1999, Wilson, Chung and Cummings came to VDK in St. Louis to discuss the trade problem.
+Andersen and Mueller prepared a presentation, which included, at page 12, a deduction coverage analysis showing that total deductions (both trade and non-trade) now exceeded total reserves (trade and non-trade) by $3 million.
+The largest component of this deficit was in the trade reserve (about 87 percent).
+Page 12 further demonstrated that the total underaccrual problem (including non-trade accruals) was at least $14.6 million taking into account anticipated deductions on open invoices as well as various non-trade issues.
+According to the presentation, VDK needed to book $9 million in expense in order to be 80 percent confident that it would pass an audit.
+Page 12 was not discussed at the meeting, which Mueller did not attend, but the written presentation was given to Wilson, Cummings and Chung.
+ii.
+In the third quarter, VDK did book trade expense sufficient to cover some of this deficit.
+But that left nearly $12 million (of the total $14.6 million deficit set forth in the August 12, 1999 presentation) that Cummings refused to allow VDK to book.
+No disclosure of the Creditek timing study was made to PWC in connection with its third quarter review.
+Cummings again instructed Mueller to be out of town during PWC's review.
+h.
+In the Fourth Quarter 1999, Aurora Directed VDK to Continue to Hide the Underaccrual.
+i.
+At the end of the fourth quarter, the PWC Version of the trade reserve analysis showed a $3.5 million underaccrual using the incorrect 25 day assumption that had previously been used.
+When Cummings learned that the PWC Version was showing a substantial underaccrual, she
+instructed Andersen and Mueller not to give PWC any reserve analysis, and to let PWC figure it out for itself.
+ii.
+On January 20, 2000, Cummings came to VDK for the fourth quarter review.
+VDK's internal reserve analysis, prepared by Mueller and her staff, at that point showed an underaccrual exceeding $15 million at December 31, 1999.
+i.
+In the Year-End Audit, Mueller Presented a False PWC
+Version of the Reserve Analysis to PWC.
+i.
+As the 1999 year-end audit was about to begin, Cummings instructed Andersen to disclose as little as possible to the auditors, and she specifically told him not to disclose the details of the timing study.
+In accordance with Cummings' instruction, VDK management initially did not provide PWC with a trade reserve analysis, and instead falsely represented to PWC that no trade reserve analysis had been prepared.
+The auditors pressed the issue, and Andersen and
+Cummings then devised a modified PWC Version that showed a $2.3 million underaccrual, somewhat smaller than the underaccrual reflected in the original version.
+ii.
+Andersen instructed Mueller to give PWC this modified PWC Version.
+Mueller objected, but Andersen told her to provide it to PWC nonetheless.
+Mueller met with the auditor and proceeded to write out the analysis by hand, as if this were the first time she were preparing it.
+Her analysis showed a $2.4 million underaccrual.
+The principal difference between the PWC Version she prepared and VDK's internal version was in the timing assumption.
+Using the incorrect assumption of a 25 day tail, the PWC Version Mueller gave to PWC showed anticipated deductions on open invoices of about $6 million.
+The internal schedule, using an accurate 70 day tail, showed $18.6 million for the same line item.
+No one told PWC of the timing study.
+j.
+The Scheme Was Finally Exposed During the 1999 Year-End Audit.
+i.
+As the audit progressed, the auditors uncovered a draft of a "What's New" report, a one page status report Mueller prepared as part of the monthly reporting package, which candidly summarized the underaccruals Cummings or Chung had been directing VDK to book.
+Mueller prepared this draft to document Cummings' and Chung's instructions.
+The draft report the
+auditors had uncovered disclosed a $5 million underaccrual for the quarter ended December 31,
+1999, leading PWC to request that Cummings provide to PWC copies of the monthly reports for the entire year.
+ii.
+Shortly afterwards, PWC notified the audit committee of the Company's Board of Directors of accounting irregularities, and Aurora began an internal investigation of the Company's accounting practices, which led to a restatement of earnings.
+B.
+LEGAL DISCUSSION
+Section 13(b)(2)(A) of the Exchange Act requires that reporting issuers make and keep books, records and accounts, which, in reasonable detail, accurately and fairly reflect the issuer's transactions and dispositions of its assets.
+Section 13(b)(5) of the Exchange Act prohibits any person from knowingly circumventing or failing to implement a system of internal accounting controls or knowingly falsifying any book, record or account described in Section 13(b)(2) of the Exchange Act.
+Rule 13b2-1 prohibits any person from falsifying or causing to be falsified any such book, record or account.
+No showing of scienter is necessary to establish a violation of Rule 13b2-1. SEC v. World-Wide Coin Investments, Ltd., 567 F. Supp. 724, 749 (N.D. Ga. 1983); In the Matter of Curtis L. Dally, Exchange Act Release No. 39144, 65 SEC Docket 1540, 1544 (September 29, 1997).
+At Cummings' and Andersen's direction, Mueller understated trade promotion expenses as described above, and, as a result, Aurora's books and records contained false and misleading entries pertaining to trade expense and the MDF Reserve.
+In addition, at Cummings' and Andersen's direction, Mueller and her staff prepared the PWC Version of the trade reserve analysis, without disclosing the Creditek timing study, and thereby knowingly circumvented a
+system of internal accounting controls.
+Accordingly, Mueller violated Section 13(b)(5) of the Exchange Act and Rule 13b2-1 thereunder.
+C.
+VIOLATIONS
+Based on the foregoing, Mueller violated Section 13(b)(5) of the Exchange Act and Rule 13b2-1 thereunder.
+IV.
+In view of the foregoing, the Commission deems it appropriate and in the public interest to impose the sanctions specified by Mueller in her Offer.
+Accordingly, IT IS ORDERED, that:
+Pursuant to Section 21C of the Exchange Act, Mueller cease and desist from committing or causing any violation and any future violations of Section 13(b)(5) of the Exchange Act and Rule 13b2-1 thereunder.
+By the Commission.
+Jonathan G. Katz
+Secretary
+Footnotes
+1
+In determining to accept the Offer, the Commission has considered remedial acts taken by Respondent as described further herein, including her cooperation in the investigation of this matter.
+2
+The Commission has filed a parallel civil injunctive action against Aurora Foods Inc. and eight individual defendants, which is pending in the United States District Court for the Southern District of New York.
+3
+The Commission makes the findings herein pursuant to the Respondent's Offer.
+These findings are not binding on any other person or entity in this or any other proceeding.
+4
+In its 1999 10-K, filed on April 14, 2000, the Company announced a restatement of earnings for fiscal 1998 and for the first three quarters of 1999 as reported in the Company's three 10-Q filings in 1999.
+According to the restatement, on a consolidated basis, the Company had understated trade promotion expense in 1998 by $28.5 million and for the first three quarters in 1999, by another $15.2 million.
+Approximately 25 percent of the total restatement pertains to under booking of trade promotion expense at VDK.
+http://www.sec.gov/litigation/admin/34-43877.htm
+Home | Previous Page
+Modified:01/24/2001

@@ -1,0 +1,340 @@
+34-42979
+Home | Previous Page
+UNITED STATES OF AMERICA
+Before The
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No.
+42979
+/
+June 23, 2000
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No.
+1278
+/
+June 23, 2000
+ADMINISTRATIVE PROCEEDING
+File No.
+3-10242
+In the Matter of
+RICHARD S. KONDUB, CPA,
+SCHNITZER & KONDUB, P.C.,
+and ROSS J. SCHNITZER, CPA
+Respondents.
+::::::::
+ORDER INSTITUTING PROCEEDINGS
+PURSUANT TO RULE 102(e) OF THE
+COMMISSION'S RULES OF PRACTICE,
+MAKING FINDINGS AND IMPOSING
+REMEDIAL SANCTIONS
+I
+The Securities and Exchange Commission ("Commission") deems it appropriate and in the public interest that public administrative proceedings be, and they hereby are, instituted against Schnitzer & Kondub, P.C. ("S & K"), Richard S. Kondub ("Kondub"), and Ross J. Schnitzer ("Schnitzer"), pursuant to paragraph (1)(ii) of Rule 102(e) of the Commission's Rules of Practice [17 C.F.R. § 201.102(e)(1)(ii)] ("Rule 102(e)(1)(ii)").1
+II
+In anticipation of the institution of these administrative proceedings, S & K, Kondub and Schnitzer (collectively, "Respondents") have each submitted an Offer of Settlement, which the Commission has determined to accept.
+Solely for the purpose of these proceedings, and any other proceeding brought by or on behalf of the Commission or in which the Commission is a party, and without admitting or denying the Commission's findings contained herein, except for the jurisdiction of the Commission over them and over the subject matter of these proceedings, which each Respondent admits, the Respondents consent to the entry of the findings and the imposition of the remedial sanctions set forth below.
+III
+The Commission makes the following findings:2
+A. SUMMARY
+Respondents engaged in improper professional conduct in connection with their audits of the financial statements of DCI Telecommunications, Inc. ("DCI) for fiscal years ended March 31, 1995, 1996, 1997, 1998 and 1999.
+DCI incorporated those financial statements into the corresponding five Forms 10-K that it filed with the Commission.
+Each year Respondents issued audit reports stating that their audit had been conducted in accordance with generally accepted auditing standards ("GAAS") and that DCI's financial statements were presented in conformity with generally accepted accounting principles ("GAAP").
+In fact, Respondents did not comply with GAAS in their audits of DCI's financial statements, and DCI did not present its annual financial statements in conformity with GAAP due to improper accounting for six business combinations and gross overvaluations of a purported $15 million contract and $5 million promissory note.
+B. RESPONDENTS
+Schnitzer & Kondub, P.C., is a two partner accounting firm located in Harrison, New York.
+S & K has been a member in good standing of the SEC Practice Section of the AICPA Division for Firms since 1995.
+S & K was DCI's independent auditor for the five fiscal years 1995, 1996, 1997, 1998 and 1999.
+S & K resigned as DCI's independent auditor in July 1999 upon completion of the 1999 audit.
+Richard S. Kondub, age 44, of S & K was the engagement partner on all five DCI audits.
+Kondub is a certified public accountant licensed to practice in Connecticut.
+He lives in Stamford, Connecticut.
+Ross J. Schnitzer, age 46, of S & K was the concurring partner on all five DCI audits.
+Schnitzer is a certified public accountant licensed to practice in New York.
+He lives in Bronxville, New York.
+C. ISSUER
+DCI Telecommunications, Inc. ("DCI") is a Colorado corporation headquartered in Stratford, Connecticut.
+DCI went public through a reverse merger with an inactive, publicly-held, shell corporation, Fantastic Foods International, Inc., in December 1994.
+DCI's primary business activity has been the acquisition of small, privately-held companies in stock-for-stock transactions.
+At all relevant times, DCI was filing periodic reports pursuant to Section 13 of the Exchange Act.
+On July 15, 1999, DCI's common stock was registered with the Commission pursuant to Section 12(g) of the Exchange Act.
+The company's fiscal year ends March 31st.
+D. DCI'S MAJOR GAAP VIOLATIONS
+1. 1995 Fiscal Year
+a) Alpha Products Acquisition
+In January 1995, DCI acquired the assets of Alpha Products (f/k/a Sigma Technologies, Inc.) in exchange for 850,000 shares of DCI common stock (split adjusted).
+Alpha Products was a privately-held computer company owned and operated by DCI's Chief Executive Officer and several other individuals who had a personal or business relationship with him (the "CEO Group").
+At the time of the acquisition, the CEO Group controlled both DCI and Alpha Products.
+DCI valued Alpha Products' principal asset - its customer base - under the purchase method at fair market value.
+However, because the companies were under common control, GAAP required that the customer base be valued at historical costs in a manner similar to that in a pooling of interests (Accounting Principles Board ("APB") Opinion No. 16, "Business Combinations," ¶ 5 (August 1970); APB No. 16, Accounting Interpretation No. 39). The improper valuation of the customer base inflated DCI's assets by $640,080, which accounted improperly for 19 percent of DCI's assets as originally reported in fiscal year 1995 (and 22 and 5 percent of assets as originally reported in fiscal years 1996 and 1997, respectively).
+b) Casino Marketing Acquisition
+On February 14, 1995, DCI acquired all of the outstanding stock of Casino Marketing Inc., a privately-held, development-stage company, in exchange for 2.5 million shares of unregistered DCI common stock.
+All of the DCI common stock was placed in escrow to be released to the former owners of Casino Marketing based upon the future earnings of Casino Marketing.
+None of the DCI stock was ever released from escrow because Casino Marketing collapsed shortly after the acquisition without generating any revenues.
+Its only assets had been trademarks registered in the states of Connecticut and New Jersey.
+DCI booked Casino Marketing's trademarks as a $1,800,000 intangible asset.
+However, GAAP required that value be assigned to the assets in proportion to the stock released to the sellers (APB Op. No. 16 ¶ 80), and no stock was released.
+DCI therefore inflated assets by $1,741,500 ($1,800,000 less amortization of $58,500) in fiscal year 1995, which accounted for 52 percent of DCI's reported $3,364,196 consolidated assets.
+In the third quarter of the following fiscal year, DCI wrote off this acquisition as part of a purported "quasi reorganization."
+c)
+Deferred Compensation
+In February 1995, DCI issued 1,250,000 shares of stock to three employees under the terms of their employment agreements.
+DCI multiplied the number of shares issued (1,250,000) by the market price ($0.625) and recorded that amount ($781,250) as an asset called "deferred compensation" to be amortized over the six year term of the employment agreements.
+However, GAAP required that the stock be accounted for as an expense (not as an asset) because the securities were issued as compensation for services rendered in fiscal year 1995 (see APB Op. No. 25 ¶ 12 (Dec. 1972)).
+Even if the securities were not issued as compensation for services rendered in fiscal year 1995, the consideration relating to later periods should have been shown as a reduction of stockholder equity (again, not as an asset) (see APB Op. No. 25 ¶ 14).
+As a result of the improper accounting for deferred compensation, DCI inflated assets by $759,550 (the value of the amortized asset at year end), which accounted for 23 percent of DCI's reported $3,364,196 consolidated assets.
+At the end of the following fiscal year, DCI purportedly cancelled the stock issued to the three employees and wrote off all of the deferred compensation.
+d) 1995 Financial Statements
+DCI's improper accounting for Alpha Products, Casino Marketing and deferred compensation caused the company's assets as of March 31, 1995, to be materially misstated as follows:
+Fiscal Year 1995
+Assets
+Reported
+$3,364,196
+Less Overstatements:
+Alpha Products
+($640,080)
+Casino Marketing
+($1,741,500)
+Deferred Comp.
+($759,550)
+Reported Less Overstatements
+$223,066
+Percentage Overstatement
+1,408%
+As a result of this misstatement of assets, DCI's Form 10-K for fiscal year 1995, which it filed with the Commission on or about July 5, 1995, was materially false and misleading.
+2. 1996 Fiscal Year
+a) R & D Scientific Acquisition
+On June 19, 1995, DCI entered into a written agreement with the owners of R&D Scientific Corporation, a privately-held, New Jersey-based computer company.
+That agreement entitled DCI to exchange 106,250 shares of DCI common stock (split adjusted) for all of the outstanding stock of R & D Scientific upon the satisfaction of certain contingencies.
+Those contingencies were never met, and the transaction terminated on March 9, 1998.
+DCI never obtained the securities or assets of, or effective control over, R&D Scientific.
+DCI booked the transaction under the purchase method as if it had acquired R & D Scientific on June 19, 1995.
+However, GAAP required that DCI not recognize the R & D acquisition until such time as it obtained the securities or assets of, or effective control over, R&D Scientific (APB Op. No. 16 ¶ 93), which it never did.
+As a result of the improper accounting for R & D Scientific, DCI inflated revenues by $544,404 in fiscal year 1996, which accounted for two thirds of DCI's reported revenues (DCI continued to improperly report R&D Scientific revenues through fiscal year 1997, which accounted for $628,010 or about one quarter of DCI's $2,793,948 consolidated revenues).
+DCI also improperly included an asset in its consolidated balance sheet relating to R & D Scientific's proprietary computer program, which DCI valued at $1,700,000, less amortization of $112,500, thus inflating consolidated assets by two thirds in fiscal year 1996 (and over one eighth in fiscal year 1997).
+After being repeatedly questioned about this transaction by the Commission's Division of Corporation Finance, DCI restated its financial statements for the first time in May 1998 to omit R & D Scientific for all relevant periods.
+b) 1996 Financial Statements
+DCI's improper accounting for R & D Scientific and Alpha Products caused the company's assets and revenues as of fiscal year ended March 31, 1996 to be materially misstated as follows:
+Fiscal Year 1996
+Assets
+Revenues
+Reported
+$2,589,250
+$814,016
+Less Overstatements:
+R & D Scientific
+($1,587,500)
+($544,404)
+Alpha Products
+($574,705)
+($0)
+Other
+($212,414)
+($0)
+Reported Less Overstatements
+$214,631
+$269,612
+Percentage Overstatement
+1,106%
+202%
+As a result of those misstatements, DCI's Form 10-K for fiscal year 1996, which it filed with the Commission on or about July 10, 1996, was materially false and misleading.
+3. 1997 Fiscal Year
+a) Muller Media Acquisition
+On November 26, 1996 DCI entered into a written agreement with the owners of Muller Media, Inc., a privately-held, New York-based movie and television distributor.
+That agreement entitled DCI to acquire all of the outstanding stock of Muller Media upon the satisfaction of certain contingencies.
+Those contingencies were not met until June 9, 1998, at which time DCI acquired 100 percent of the common stock of Muller Media in exchange for $3 million cash.
+DCI nevertheless recognized the Muller Media acquisition under the purchase method as if it had occurred on November 26, 1996.
+GAAP required that DCI not recognize the acquisition until such time as it obtained the securities or assets of, or effective control over, Muller Media (APB Op. No. 16 ¶ 93), which it did not do until June 9, 1998.
+As a result of the improper accounting for Muller Media, in fiscal year 1997 DCI inflated assets by $6,216,493 and revenues by $825,225, which accounted for 58 percent of reported assets and 30 percent of reported revenues (DCI continued to improperly book Muller Media in fiscal year 1998, which accounted for 29 percent of assets and one third of revenues).
+After being repeatedly questioned by the Commission's Division of Corporation Finance about this transaction and the CardCall acquisition (described below), DCI restated its financial statements for the second time in February 1999.
+b)
+Travel Source Acquisition
+On March 25, 1997 -- six days before the close of its 1997 fiscal year -- DCI acquired all of the outstanding stock of The Travel Source Ltd., a privately-held, Rhode Island-based travel agency.
+DCI paid Travel Source's former owners 29,412 shares of DCI common stock valued at $3.40 per share and promised to pay additional stock sufficient to bring the purchase price to $100,000 in six months if the price of DCI stock fell below $3.40.
+DCI accounted for the Travel Source acquisition as a pooling of interests, thus booking Travel Source's revenues for the entire fiscal year.
+However, GAAP required that the acquisition be accounted for under the purchase method because the acquisition agreement provided for contingent future consideration (see APB Op. No. 16 ¶ 47(g)).
+As a result of the improper accounting for Travel Source, in fiscal year 1997 DCI inflated revenues by $1,088,713, which accounted for 39 percent of reported revenues (in addition, DCI improperly restated its fiscal year 1996 financial results to include $1,028,154 worth of Travel Source revenues, which accounted for 56 percent of restated revenues).
+This transaction was part of the company's second restatement in February 1999.
+c) 1997 Financial Statements
+DCI's improper accounting for Muller Media, Travel Source, R & D Scientific and Alpha Products caused the company's assets and revenues as of fiscal year ended March 31, 1997 to be materially misstated as follows:
+Fiscal Year 1997
+Assets
+Revenues
+Reported
+$10,733,959
+$2,793,948
+Less Overstatements:
+Muller Media
+($6,216,493)
+($825,225)
+Travel Source
+($0)
+($1,088,713)
+R & D Scientific
+($1,723,167)
+($628,010)
+Alpha Products
+($509,329)
+($0)
+Reported Less Overstatements
+$2,284,970
+$252,000
+Percentage Overstatement
+370%
+1,009%
+As a result of those misstatements, DCI's Form 10-K for fiscal year 1997, which it filed on or about June 25, 1997, was materially false and misleading.
+4. 1998 Fiscal Year
+a) CardCall Acquisition
+In early 1997, DCI began negotiating the acquisition of a privately-held, prepaid phone card company, CardCall International Holdings, Inc., and its two wholly-owned subsidiaries, CardCaller Canada, Inc. and CardCall (UK) Ltd. (collectively "CardCall").
+On or about March 31, 1997, management of both companies entered into an acquisition agreement, which was subject to approval by CardCall's shareholders.
+On or about May 29, 1997, over 90 percent of CardCall's shareholders tendered their shares.
+DCI nevertheless recognized the CardCall acquisition as if it had occurred on March 31, 1997.
+GAAP required that DCI not recognize the acquisition until such time as it obtained the securities or assets of, or effective control over, CardCall (APB Op. No. 16 ¶ 93), which it did not do until May 29, 1997.
+As a result of the improper accounting for CardCall, in fiscal year 1998 DCI inflated revenues by $906,429, which accounted for 11 percent of reported revenues.
+This transaction was part of the company's second restatement in February 1999.
+b) 1998 Financial Statements
+DCI's improper accounting for Muller Media and CardCall caused the company's assets and revenues as of fiscal year ended March 31, 1998 to be materially misstated as follows:
+Fiscal Year 1998
+Assets
+Revenues
+Reported
+$21,671,073
+$8,117,127
+Less Overstatements:
+Muller Media
+($6,215,098)
+($2,892,897)
+CardCall
+($0)
+($906,429)
+Reported Less Overstatements
+$15,455,975
+$4,317,801
+Percent Overstatement
+40%
+88%
+As a result of those misstatements, DCI's Form 10-K for fiscal year 1998, which was filed with the Commission on or about June 30, 1998, was materially false and misleading.
+5. 1999 Fiscal Year
+a) IXC Contract
+In late November and early December of 1998, DCI entered into a series of agreements (collectively, "IXC contract") with IXC Communications, Inc., a Texas-based telecommunications company.
+Under the terms of the IXC contract, IXC reinstated previously cut-off carrier services to DCI's prepaid phonecard subsidiary (Edge Communications) at fixed rates in exchange for 4,250,000 shares of unregistered DCI common stock ("IXC shares").
+The IXC shares represented approximately 13 percent of DCI's then-outstanding common stock and approximately 117 percent of DCI's total trading volume for the month of December 1998 (3,641,500 shares).
+DCI was supposed to have received a relatively valuable telecommunications switch, but that part of the transaction fell apart in December 1998.
+DCI suspended all business with IXC as of September 30, 1999, because it did not receive the switch and because the company's rates under the IXC contract were not competitive.
+DCI valued the IXC contract as a $15,671,875 intangible asset by multiplying the market price of DCI's common stock on the day the agreements were executed by the number shares exchanged.
+However, GAAP required that DCI use a discounted stock price reflecting the restricted nature of the IXC shares and the thinly-traded nature of the market for DCI securities (see Accounting Series Release No. 113 (Oct. 21, 1969)).
+DCI also departed from GAAP by failing to recognize an impairment loss on the IXC contract to reflect the fact that material aspects of the transaction fell apart (see Statement of Financial Accounting Standards No. 121 ¶ 1-14 (March 1997)).
+Given the uncertainties surrounding this business relationship, DCI should not have recognized the IXC contract as an asset at fiscal year end (see FASB, Statement of Financial Accounting Concept No. 5, "Recognition and Measurement in Financial Statements of Business Enterprises") (Dec. 1984)).
+As a result of the improper accounting for the IXC contract, in fiscal year 1999 DCI inflated assets by $14,888,280 (the amortized IXC contract at fiscal year end), which accounted for over half of reported assets.
+DCI wrote off the unamortized portion of this intangible asset in the second quarter of fiscal year 2000.
+b)
+Carlyle Promissory Note
+On March 30, 1999 -- one day before the close of its 1999 fiscal year -- DCI entered into a series of agreements with Carlyle Corporation.
+Carlyle was an Arizona-based, private shell company with no assets or revenues.
+The agreements concerned a purported sale to Carlyle of Cyberfax, Inc., a DCI subsidiary with no significant assets or revenues, but with approximately $200,000 in bank debt.
+As part of that purported sale, DCI received a promissory note entitling it to $5,000,000 worth of Carlyle common stock in the event that company went public.
+Three days later, on April 3, 1999, Carlyle rescinded the agreement.
+Notwithstanding the rescission, DCI included the $5,000,000 Carlyle promissory note in its consolidated assets as of March 31, 1999, together with a corresponding $5,000,000 liability described as "deferred revenue."
+GAAP required that the Carlyle promissory note be valued at fair market, which was zero given the rescission.
+This transaction was effectively written off during the first quarter of fiscal year 2000.
+DCI also departed from GAAP by accounting for the Cyberfax transaction as a sale.
+Carlyle paid nothing up front for Cyberfax besides the promissory note.
+The value of the note was wholly dependent upon the future success of Cyberfax and, more specifically, a contemplated initial public offering by the Carlyle shell.
+Under those circumstances, there was no divestiture of Cyberfax for accounting purposes because the primary incidents of ownership -- such as the risk of failure and the rewards of success -- remained with DCI.
+Even without the rescission, the Cyberfax transaction should have been accounted for by segregating the assets ($393,022) and liabilities ($220,250) of Cyberfax as of March 31, 1999, on DCI's balance sheet with a footnote disclosing the terms of the promissory note and uncertainties surrounding its collectibility (SEC Accounting Rules, Topic 5-E ("Accounting for Divestiture of a Subsidiary or Other Business Operation")(Feb. 1986)).
+c) 1999 Financial Statements
+DCI's improper accounting for the IXC contract and Carlyle promissory note caused the company's assets at fiscal year ended March 31, 1999 to be materially misstated as follows:
+Fiscal Year 1999
+Assets
+Reported
+$36,738,332
+Less Overstatements:
+IXC contract
+($14,888,281)
+Carlyle promissory note
+($5,000,000)
+Reported Less Overstatements
+$16,850,051
+Percentage Overstatement
+118%
+As a result of those material misstatements, DCI's Form 10-K for fiscal year 1999, which it filed with the Commission on or about July 1, 1999, was materially false and misleading.
+E. RESPONDENTS' FAILURES TO COMPLY WITH
+PROFESSIONAL STANDARDS
+S & K, Kondub and Schnitzer failed to follow GAAS and to require DCI to comply with GAAP during the performance of their audits of the company's financial statements for fiscal years 1995, 1996, 1997, 1998 and 1999.
+1. 1995 Audit
+As described above, in fiscal year 1995 DCI accounted improperly for its acquisitions of Casino Marketing and Alpha Products and for deferred compensation.
+Those three items accounted for over 90 percent of DCI's reported $3,364,196 assets as of March 31, 1995.
+With respect to Casino Marketing, Kondub reviewed documents during the fiscal year 1995 audit that clearly disclosed the earnings contingency.
+Had he exercised due professional care, Kondub would have realized that because of the earnings contingency DCI's accounting for Casino Marketing did not comply with GAAP (see APB Op. No. 16 ¶ 80).
+Similarly, with respect to deferred compensation, Kondub should have known from information disclosed to him that DCI's accounting for that transaction did not comply with GAAP.
+Kondub departed from GAAS by failing to exercise due professional care during the 1995 audit (AICPA Codification of Statements on Auditing Standards ("AICPA") AU § 230 (Due Care in Performance of Work)).
+The Casino Marketing earnings contingency was disclosed in a footnote to DCI's draft financial statements, which Schnitzer read during his 1995 concurring review.
+Similarly, Schnitzer should have known from information disclosed to him in DCI's draft financial statements that the company's accounting for deferred compensation did not comply with GAAP.
+Schnitzer departed from GAAS by failing to exercise due professional care during his 1995 concurring review.
+With respect to Alpha Products, Kondub knew that DCI and Alpha Products were under common control and that, as a result, GAAP required that the customer base be accounted for at historical costs (see APB Op. No. 16, ¶ 5; APB No. 16, AI No. 39).
+Kondub nevertheless concluded that the company's valuation was reasonable in light of a net present value calculation.
+That approach essentially valued the customer base at fair market, which was not appropriate in view of the common control issue.
+Kondub departed from GAAS by failing to obtain adequate evidentiary support for the purported historical costs of the customer base (AICPA AU § 3226 (Evidential Matter)).
+2. 1996 Audit
+The major accounting issue in the fiscal year 1996 audit was DCI's acquisition of R & D Scientific, as a result of which DCI improperly booked a $1,700,000 intangible asset (less amortization of $112,500), thus inflating assets by a factor of seven and revenues by a factor of three.
+Kondub recognized that DCI's acquisition of R & D Scientific was not complete for accounting purposes and that, as a result, the company's 1996 financial statements did not comply with GAAP (see APB Op. No. 16 ¶ 93).
+Kondub dealt with the problem by issuing an audit report containing an unqualified opinion with an emphasis paragraph that provided in relevant part that DCI had "not completed" its acquisition of R & D Scientific and that certain "adjustments" may be necessary in the future (see AICPA AU § 508.32).
+However, GAAS required that Kondub issue a qualified opinion stating in relevant part that "except for" R & D Scientific DCI's financial statements complied with GAAP (see AICPA AU § 508, especially §§ 508.20, 508.39 & 508.53 (Jan. 1989)).
+Kondub departed from GAAS by failing to appropriately qualify his firm's 1996 audit report (the 1997 audit opinion contained the same shortcomings).
+Schnitzer concurred with Kondub's view that DCI's acquisition of R & D Scientific was not complete for accounting purposes and that the company's 1996 financial statements did not comply with GAAP.
+Schnitzer also concurred with the language used in the 1996 audit opinion to deal with the R & D Scientific problem.
+Like Kondub, Schnitzer failed to recognize the difference between a qualified opinion and an unqualified opinion with an emphasis paragraph (compare AICPA AU § 508.53 with AICPA AU § 508.32).
+Schnitzer departed from GAAS by failing to exercise due professional care in his concurring review of S & K's 1996 audit opinion (Schnitzer's 1997 concurring review had the same shortcomings with respect to R & D Scientific).
+3. 1997 Audit
+Two of the major accounting issues in the fiscal year 1997 audit were DCI's acquisitions of Travel Source and Muller Media, as a result of which DCI improperly inflated consolidated assets by a factor of four and revenues by a factor of ten.
+With respect to Travel Source, Kondub reviewed documents during the fiscal year 1997 audit that clearly disclosed the contingent consideration.
+Had he exercised due professional care, Kondub would have realized that because of the contingent consideration DCI's accounting for Travel Source as a pooling of interest did not comply with GAAP (see APB Op. No. 16 ¶ 47(g)).
+With respect to Muller Media, Kondub recognized that DCI's acquisition was not complete for accounting purposes and that, as a result, the company's 1997 financial statements did not comply with GAAP (see APB Op. No. 16 ¶ 93).
+Kondub dealt with the problem by issuing an audit report containing an unqualified opinion with an emphasis paragraph that provided in relevant part that DCI had "not completed" its acquisition of Muller Media and that certain "adjustments" may be necessary in the future (see AICPA AU § 508.32).
+However, GAAS required that Kondub issue a qualified opinion stating in relevant part that "except for" Muller Media DCI's financial statements complied with GAAP (see AICPA AU § 508, especially §§ 508.20, 508.39 & 508.53).
+Kondub departed from GAAS by failing to appropriately qualify his firm's 1997 audit report and by otherwise failing to exercise due professional care.
+Schnitzer concurred with Kondub's view that DCI's acquisition of Muller Media was not complete and that the company's 1997 financial statements did not comply with GAAP.
+Schnitzer also concurred with the language used in the 1997 audit opinion to deal with the Muller Media problem, again departing from applicable professional standards by failing to exercise due professional care in his review of S & K's 1997 audit opinion.
+4. 1998 Audit
+Two of the major accounting issues in the fiscal year 1998 audit were DCI's acquisitions of Muller Media and CardCall, as a result of which DCI improperly inflated revenues by 36 percent and 11 percent, respectively, and assets by 29 percent.
+With respect to Muller Media, Kondub relied upon an opinion letter from DCI's outside counsel in changing his view of that acquisition and concluding that it was complete for accounting purposes.
+The opinion letter discussed various closing dates associated with the Muller Media transaction, but provided no basis for concluding that DCI had obtained the securities of, or effective control over, Muller Media prior to the close of fiscal year 1998 (see APB Op. No. 16 ¶ 93).
+With respect to CardCall, Kondub agreed with DCI that it could recognize the acquisition as of April 1, 1997, approximately two months before CardCall's shareholders approved the transaction.
+None of the materials Kondub reviewed provided an adequate basis for his conclusion that DCI had obtained the securities of, or effective control over, CardCall prior to May 29, 1997, when CardCall's shareholders tendered their shares (see APB Op. No. 16 ¶ 93).
+Kondub departed from GAAS by failing to obtain adequate evidentiary support for the company's accounting for Muller Media and CardCall.
+Schnitzer concurred in Kondub's reassessment of the Muller Media acquisition.
+Like Kondub, Schnitzer relied unreasonably upon the Muller Media opinion letter in concluding that DCI's accounting for that acquisition complied with GAAP.
+Schnitzer departed from GAAS by failing to exercise due professional care in his reassessment of the Muller Media acquisition.
+e) 1999 Audit
+Two of the major accounting issues in the fiscal year 1999 audit were the IXC contract and Carlyle promissory note, as a result of which DCI booked two intangible assets improperly valued at approximately $15 million and $5 million, respectively.
+With respect to the IXC contract, the company sought to avoid recognizing an "impairment loss" pursuant to SFAS No. 121 by providing its auditors with projections that purported to show that the agreement was still worth at least $15 million.
+The critical assumption used to justify DCI's projections was that the company would increase its volume of business under the IXC contract by 10 percent each month for five years.
+As S & K's workpapers demonstrated, lowering the monthly growth rate assumption to 5 percent reduced the present value of the IXC contract to $2 million.
+Kondub departed from GAAS by signing off on those projections and the 10 percent growth rate despite clear warnings that the relationship between IXC and DCI was rapidly deteriorating (see AICPA AU § 342 (requiring auditors to evaluate the reasonableness of management's accounting estimates with an attitude of professional skepticism)).
+Those warnings included a May 1999 letter from DCI to IXC stating, "we did not receive the switch . . . which was the key to the whole transaction" and "I firmly believe that our `marriage' which was made a little short of heaven, should be undone."
+Schnitzer admitted that valuation of the IXC contract was a high risk area and that he read the May 1999 letter, but nevertheless concurred in Kondub's conclusion that the company's projections and 10 percent growth rate assumption were reasonable.
+With respect to the Carlyle promissory note, DCI did not disclose the rescission to its independent auditor during the 1999 audit.
+Nevertheless, Kondub departed from GAAP by recommending that the Carlyle promissory note be accounted for as a sale, instead of the more conservative balance sheet presentation required in view of the fact that DCI had not "divested" itself of Carlyle for accounting purposes
+(SEC Accounting Rules, Topic 5-E, ¶ 7365, at 5083-86).
+Schnitzer played an active role in the decision to account for the Carlyle transaction as a sale.
+IV
+Based on the above-described failures to follow professional auditing and accounting standards, the Commission finds that Respondents engaged in improper professional conduct within the meaning of Rule 102(e)(1)(ii).
+V
+Accordingly, IT IS HEREBY ORDERED, effective immediately, that:
+A. Schnitzer & Kondub, P.C., Richard S. Kondub, and Ross J. Schnitzer, are denied the privilege of appearing or practicing before the Commission as accountants.
+B. After five (5) years from the date of this order, Richard S. Kondub or Ross J. Schnitzer ("Applicant") may request that the Commission consider his reinstatement by submitting an application (attention: Office of the Chief Accountant) to resume appearing or practicing before the Commission as:
+1. a preparer or reviewer, or a person responsible for the preparation or review, of any public company's financial statements that are filed with the Commission. Such an application must satisfy the Commission that Applicant's work in his practice before the Commission will be reviewed either by the independent audit committee of the public company for which he works or in some other acceptable manner, as long as he practices before the Commission in this capacity; and/or
+2. an independent accountant.
+Such an application must satisfy the Commission that:
+(a) Applicant, or the firm with which he is associated, is a member of the SEC Practice Section of the American Institute of Certified Public Accountants Division for CPA Firms ("SEC Practice Section"); (b) Applicant, or the firm, has received an unqualified report relating to his, or the firm's, most recent peer review conducted in accordance with the guidelines adopted by the SEC Practice Section; and (c) As long as Applicant appears or practices before the Commission as an independent accountant he will remain either a member of the SEC Practice Section or associated with a member firm of the SEC Practice Section, and will comply with all applicable SEC Practice Section requirements, including all requirements for periodic peer reviews, concurring partner reviews, and continuing professional education.
+C. The Commission's review of an application by Applicant to resume appearing or practicing before the Commission may include consideration of, in addition to the matters referenced above, any other matters relating to Applicant's character, integrity, professional conduct, or qualifications to appear or practice before the Commission.
+By the Commission.
+Jonathan G. Katz
+Secretary
+Footnotes
+1
+Rule 102(e)(1) provides in relevant part:
+The Commission may censure a person or deny, temporarily or permanently, the privilege of appearing or practicing before it in any way to any person who is found by the Commission after notice and opportunity for hearing in the matter . . . (ii) to have engaged in unethical or improper professional conduct.
+2
+The findings herein are not binding on anyone other than Schnitzer & Kondub, P.C., Richard S. Kondub, and Ross J. Schnitzer.
+http://www.sec.gov/litigation/admin/34-42979.htm
+Home | Previous Page
+Modified:06/28/2000

@@ -1,0 +1,1440 @@
+---------------------Page 1---------------------
+
+                          UNITED    STATES   DISTRICT    COURT
+ 
+                        SOUTHERN      DISTRICT    OF  NEW   YORK
+ 
+
+                                                        )
+UNITED   STATES    SECURITIES                           )
+AND  EXCHANGE      COMMISSION,                          )
+                                                        )
+                                   Plaintiff,           )
+                                                        )       CIVIL  ACTION   NO.  __
+ 
+                     v.                                 )
+                                                        )       COMPLAINT
+ 
+BRIAN   J. KEARNS   and                                 )
+BRUCE   J. VAN  FOSSEN,                                 ) 
+                                                        ) 
+                                   Defendants.          )
+                                                        )
+ 
+----~------------) 
+
+       The Securities and Exchange Commission ("Commission")  alleges the following against 
+
+Defendants Brian J. Kearns ("Kearns") and Bruce J. Van Fossen ("Van Fossen"): 
+
+                             SUMMARY      OF  ALLEGATIONS 
+
+       1.     This is a case in which Defendants participated in a secret fraudulent billing scheme 
+
+in order to improve the fmancial performance ofMedQuist Inc. ("MedQuist" or "Company")  and 
+
+deceive investors.  From 1999 to 2004, MedQuist, a medical transcription company based in New 
+
+Jersey, systematically and secretly inflatedits bills to customers in order to increase revenues and 
+
+profit margins.  MedQuist inflated the bills by increasing the number oflines it claimed to have 
+
+transcribed.  The Company was able to carry out this scheme for several years because the unit of 
+
+measure upon which many bills were based-known   as an AAMT   line-included invisible 
+
+characters and computer keystrokes that could not be verified by MedQuist's  customers.  Knowing 
+
+that its customers were unable to verify line counts on bills, the Company  stopped actually counting 
+
+AAMT lines and started secretly manipulating the line counts on bills to reach specific revenue and 
+
+margin targets. 
+---------------------Page 2---------------------
+
+       2.      Defendants Kearns and Van Fossen knew      ofthis billing scheme and, instead of 
+
+stopping the fraud, took steps to further and conceal the scheme.  Defendants Kearns and Van 
+
+Fossen misled MedQuist's  independent auditors into believing that the Company was actually 
+
+counting AAMT lines,   just as it was required to do under its customer contracts.  Defendants also 
+
+lied to the auditors by telling them they knew ofno allegations offraud orproblems with internal 
+
+controls, when in truth they knew the AAMT line billing process lacked audit trails and knew  of 
+
+employee and customer complaints    ofoverbilling and line count manipulation.  Defendants also 
+
+misled shareholders and the public by stating in Commission  filings, press releases and earnings 
+
+calls, that the Company's  revenues were based on contracted rates and increased sales to customers 
+
+and that its strong financial performance was the result ofconservative and disciplined business 
+
+practices. Intruth, the Company's  revenues and fmancial performance were due in part   to its secret 
+
+manipulation of AAMT line counts    to meet revenue and profit margin targets. 
+
+                                          VIOLATIONS 
+
+       3.      By engaging in the conduct described below, Defendants Kearns and     Van  Fossen 
+
+violated Section 17(a) ofthe Securities Act  and Sections lO(b) and 13(b)(5) ofthe Exchange Act 
+
+and Rules 10b-5, 13b2-1, and 13b2-2(a) [15 U.S.C.   §§ 77q(a), 78j(b), and 78m(b)(5) and  17 C.F.R. 
+
+§§ 240.10b-5, 204. 13b2-1 , 240.13b-2-2(a)], and aided and abetted violations of Sections 13(a), 
+
+13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 12b-20, 13a-1, 13a-11, and  13a-13   [15 
+
+U.S.c. §§ 78m(a), 78m(b)(2)(A), and 78m(b)(2)(B) and    17 C.F.R.  §§ 204. 12b-20, 204. 13a-1, 
+
+240.13a-11, and 240. 13a-13].  Defendant Van Fossen also, in the alternative, aided and abetted 
+
+violationsof Section 10(b) of the Exchange Act and Rule 10b-5. 
+
+                                                 2 
+---------------------Page 3---------------------
+
+                                 JURISDICTION  AND VENUE
+ 
+
+       4.      The Commission brings this action pursuant to Sections 20(b), 20(d), and 20(e)  of 
+
+the Securities Act and Sections 21(d) and 21(e) ofthe Exchange Act   [15 U.S.C. §§ 77t(b), 77t(d), 
+
+77t(e),  78u(d), and 78u(e)], seeking ajudgment: 
+
+               a.      Permanently restraining and enjoining each  of the Defendants from further 
+
+       violations ofthe relevant provisions of the securities laws; 
+
+               b.      Requiring Defendants Kearns and Van Fossen to pay a civil money penalty 
+
+       pursuant to Section 20(d) of the Securities Act and Section 21(d) of the Exchange Act  [15 
+
+       U.S.c.  §§ 77t(d) and §78u(d)]; and 
+
+               c.      Prohibiting Defendants Kearns and Van Fossen from acting    as an officer or 
+
+       director ofany issuer that has a class ofsecurities registered under Section 12ofthe 
+
+       Exchange Act [15 U.S.C.    §781] or that is required to file reports by Section I5(d) ofthe 
+
+       Exchange Act [15 U.S.C. §780(d)]. 
+
+       5.      The Court has jurisdiction over this action pursuant to Sections 20(b), 20(d), 20(e) 
+
+and 22 of the Securities Act [15U.S.C.  §§ 77t(b), 77t(d), 77t(e) and 77v] and Sections21 (d), 21(e), 
+
+and 27 of the Exchange Act  [15 U.S.c.  §§ 78u(d), 78u(e), and 78aa].  Venue is proper under 
+
+Section 22 of the Securities Act [15 U.S.c.  § 77v] and Section 27 ofthe Exchange Act [15 U.S.C. § 
+
+78aa]. 
+
+       6.      Defendants Kearns and Van Fossen, directly   or indirectly, made use ofthe means 
+
+and instrumentalities ofinterstate commerce, of the mails, orof the facilities ofa national securities 
+
+exchange in connection with the acts, practices, and courses ofbusiness alleged herein.  Certain of 
+
+                                                 3
+ 
+---------------------Page 4---------------------
+
+these transactions, acts, practices and courses ofbusiness occurred  in the Southern District ofNew 
+
+York, including, among other things, public sales ofMedQuist stock on the NASDAQ stock market 
+
+based in New  York City. 
+
+                                         DEFENDANTS 
+
+       7.       Brian J. Kearns,  age 42, was the Treasurer and Chief Financial Officer of 
+
+MedQuist from October 2000 through July 2004.  Kearns resides in Moorestown, New Jersey. 
+
+       8.      Bruce  J. Van  Fossen,  age 47, was Vice President and Controller ofMedQuist  from 
+
+1995 through 2005.  Van Fossen resides in Marlton, New Jersey. 
+
+                                   STATEMENT        OF  FACTS
+ 
+
+                                       The  Billing  Scheme
+ 
+
+       9.      MedQuist performs medical transcription services by receiving dictated medical 
+
+records from customers, usually hospitals, and keying them into computer programs called 
+
+transcription platforms.  MedQuist has contracts with its customers governing how MedQuist will 
+
+measure and bill the work.  Each contract specifies the unit MedQuist uses to measure the work 
+
+(such as word, line, or report), the definition ofthe unit ofmeasure (such as howmany characters 
+
+constitute a "line"), and the price per unit.  The contracts require that MedQuist bill the customer an 
+
+amount equal to the number  of units transcribed multiplied by the price per unit. 
+
+       10.     From 1998 to 2006, many ofMedQuist's  contracts required MedQuist      to use a unit 
+
+ofmeasure called the AAMT line.  MedQuist's  contracts defined an AAMT line      as follows: 
+
+       any line having 65 'characters,'  [where a] character is defined as any letter, number, 
+       symbol or function key necessary for the [mal appearance and content   of a 
+       document including, without limitation, the space bar, carriage return, underscore, 
+       bold, and any character contained within the macro, header, or footer. A defmed line 
+       is calculated by counting all characters contained within a document and simply 
+                                                 4 
+---------------------Page 5---------------------
+
+       dividing the total number  ofcharacters by 65 to arrive at the number of defined 
+       lines. 
+
+        11.    Because MedQuist's  contracts specifically stated that AAMT lines would be 
+
+calculated by "counting all characters" and "simply dividing ... by 65", MedQuist was required   to 
+
+count AAMT characters in order to bill in accordance with contracts. 
+
+        12.    Because AAMT lines include invisible characters and fonnatting  codes peculiar   to 
+
+the transcription platforms, MedQuist's  customers could not independently verify the AAMT     line 
+
+totals in their bills by looking at their transcribed documents. 
+
+        13.    From 1999 to 2004, MedQuist exploited the lack    of transparency in AAMT line 
+
+counts to secretly inflate line counts on bills. 
+
+        14.    Between December 1998 and January 1999, MedQuist established        an internal policy 
+
+to stop counting AAMT characters and lines.  Its new policy was to derive the number   of AAMT 
+
+lines billed to a customer from the number of lines it paid its transcriptionists to transcribe that 
+
+customer's  work. 
+
+       15.     MedQuist calculated transcriptionists'  pay by using a measure called the "payroll 
+
+line."  A payroll line is not equal to an AAMT line. 
+
+       16.     MedQuist's  newly adopted internal policy stated that for any piece oftranscription 
+
+work, an AAMT line count equals twice the payroll line count.  This policy became known 
+
+throughout the Company   as the "2-to-l  ratio" or the "2-to-l  Bill to Pay [BTP]" ratio. 
+
+       17.     Because the change from counting AAMT lines to applying the 2-to-l  line ratio had 
+
+the potential to increase billed line counts enough to be noticed by customers, the Company did not 
+
+                                                 5
+ 
+---------------------Page 6---------------------
+
+implement  the policy uniformly  across all its AAMT    customers.  The Company  increased  the line 
+
+count ratios of some customers  gradually over time. 
+
+         18.    By  mid  1999, in addition to  the 2-to-l BTP ratio policy, MedQuist  instituted  a 
+
+second internal billing policy, which required  that every  AAMT    account should   be billed $3.00 for 
+
+every $1.00 MedQuist  paid to a transcriptionist.  This policy became  known  as the   "3-to-l  ratio" or 
+
+3-to-l  margin ratio." 
+
+         19.    In mid 1999, MedQuist  began further  adjusting line count ratios   in order to increase 
+
+bills to customers  and to reach its revenue  and margin  targets set by the 3-to-l ratio policy. 
+
+MedQuist  continued  to secretly adjust  line count ratios until 2004 or later. 
+
+        20.     In or before August 2000, MedQuist  created a special internal  unit called Financial 
+
+and Operational  Audit ("FOPA") to ensure  compliance  with the 2-to-l     BTP   ratio and 3-to-l margin 
+
+ratio policies. FOP  A was  comprised   offour or five business analysts  who reviewed  billing  at each 
+
+MedQuist  office and prepared written  reports detailing,  among other  things,  how  well an office was 
+
+following the 2-to-l  BTP   ratio policy and meeting the revenue  and  gross margin  targets established 
+
+by the 3-to-l  margin ratio policy.  These reports showed that  many   line count ratios were set higher 
+
+than the unfounded   2-to-l BTP ratio.  Many   of the reports explicitly  recommended  that offices (1) 
+
+.secretly or gradually increase line count ratios in order to improve  profit margins  and (2) set up 
+
+customer  accounts  as AAMT     accounts  in order to improve management's  ability to manipulate  line 
+
+counts and margins.  These reports also recommended  that the offices exercise  care in making 
+
+changes because many clientS pay close attention    to bills.  The result ofthese  recommendations  was 
+
+                                                    6
+ 
+---------------------Page 7---------------------
+
+that customers were billed more than they would have been billed had the Company actually 
+
+counted AAMT lines in accordance with contract terms. 
+
+       21.     The 2-to-l  BTP ratio policy and the 3-to-l  margin ratio policy worked a fraud on 
+
+customers by secretly nullifying contracted rates through inflated line counts. As a result, 
+
+customers unknowingly paid higher bills than they would have paid    ifthe Company had counted 
+
+lines in accordance with contracts. 
+
+       22.     MedQuist did not inform customers    or the investing public ofits ratio adjustments. 
+
+In order to conceal the adjustments  from customers, MedQuist sometimes timed increases to line 
+
+count ratios to occur in times ofhigh work volume, when customers would be less likely to 
+
+question larger bills.  MedQuist sometimes secretly increased a customer's  line ratio after agreeing 
+
+to a decrease in line price, in order to maintain revenues and gross profit margins.  MedQuist 
+
+monitored the effect ofthese increases to line ratios to ensure its target gross margin on revenue 
+                                                                                               I 
+was met. 
+
+       23.     The billing scheme came to light atter an employee complaint    on November  12, 
+
+2003, caused MedQuist's  auditors to refuse to sign off on the Company's  financial statements, and 
+
+prevented MedQuist from filing its 2003 annual report.  MedQuist's  first indication to the public of 
+
+any potential wrongdoing came   on March  ·16, 2004, when MedQuist  disclosed that "an employee 
+
+made assertions of potential improper billing practices by the Company," and that it had "delayed 
+
+the filing of[its] Form 10-K  for the year ended December 31, 2003 pending completion     ofthe 
+
+review as to the impact ofthese billing issues on [its] fmancial statements, and fmalization of[its] 
+
+audited fmancial statements as of and for the year ended December  31, 2003."  Prior to March 16, 
+
+                                                  7
+ 
+---------------------Page 8---------------------
+
+2004, MedQuist  concealed  its billing scheme from the investing  public and  shareholders.  The 
+
+public [mally learned of the Company's  fraudulent  billing practices  on July 30 and August  3, 2004, 
+
+when MedQuist  issued a press release and filed a  Fonn  8-K with the Commission  disclosing 
+
+MedQuist's  secret use of ratios to affect profit margins. 
+
+       24.     Since MedQuist's  March 2004 disclosure,  the Company      has approved  payment   of 
+
+$75.8 million  in cash and credits to customers  to resolve  billing  disputes  arising  from the fraud. 
+
+MedQuist  has also  paid $7.5 million  to settle a customer  class  action  lawsuit  (South Broward 
+
+Hosp. Dist., et al. v. MedQuist  Inc., No. CV-04-7520- TJH- VBKx    (D. Cal. filed Sept. 9, 2004) and 
+
+paid $6.6 million to settle  claims of various  agencies  and departments of the United  States 
+
+Government.  In addition,  MedQuist  restated  its financials  for the period ofthe conduct  to reflect 
+
+a $9.8 million  reduction in revenue. 
+
+       Defendants'  Participation   in and Failure to Stop the Fraudulent Billing Scheme 
+
+       25.     Defendant   Van  Fossen  was the Company's  controller  from  1995 through  2005.  As 
+
+Controller,  Defendant Van  Fossen was  responsible  for billing accuracy and financial reporting. 
+
+       26.     Defendant  Van Fossen knew in 1999     ofMedQuist's    2-to-l BTP  ratio policy  and the 
+
+3-to-l  margin ratio policy.  Defendant  Van Fossen  also knew no later than  1999 that customer 
+
+contracts  specified that AAMT  lines should be measured  by counting  AAMT     characters  and 
+
+dividing by 65, that AAMT    lines were not visually  verifiable,  and that the Company was secretly 
+
+using ratios to derive line counts rather than actually  counting AAMT   characters  and lines.  Van 
+
+Fossen also knew that the Company  was manipulating  those ratios specifically   to meet certain 
+
+revenue and margin targets, and frequently  used ratios that exceeded  the Company's   2-to-l BTP 
+
+                                                  8
+ 
+---------------------Page 9---------------------
+
+ratio, which it 4lstituted as a replacement  for counting AAMT  lines as required in customer 
+
+contracts. 
+
+       29.     In or about July 2002, an employee told Defendant  Van Fossen that a MedQuist 
+
+office in Oregon had been directed to secretly increase line count ratios, even above the unfounded 
+
+2-to-1 ratio, in order to increase revenues  and margins.  Nevertheless,  Defendant  Van Fossen  did 
+
+nothing to audit line count accuracy in that office or throughout  the Company  and  did nothing  to 
+
+prevent future manipulations  of billed AAMT line counts. 
+
+        30.    In or about April  or May  2003, another employee told Defendant  Van Fossen that a 
+
+MedQuist  office in Alabama  had been directed to increase line count ratios to increase billed line 
+
+counts, and thereby increase bills and profitability.  Nevertheless,  Defendant VanFossen   did 
+
+                                                   9 
+---------------------Page 10---------------------
+
+nothing to audit line count accuracy in that office or throughout the Company and did nothing to 
+
+prevent future manipulations of billed AAMT line counts. 
+
+       31.     Defendant Kearns joined MedQuist as its Treasurer and   Chief  Financial Officer on 
+
+or about October 16,2000.  On or about October 18, 2000, Defendant Kearns attended a meeting 
+
+during which the Chief Operating Officer discussed MedQuist's  2-to-l  BTP ratio and the 3-to-l 
+
+gross margin policies. 
+
+       32.     From about October 2000 through March 2002, Defendant Kearns discussed with 
+
+the Chief Operating Officer the 2-to-l  BTP ratio policy, the revenue and gross margin targets 
+
+established by the 3-to-l  margin ratio policy, the fact that the 2-to-l  BTP ratio was not applied 
+
+uniformly across accounts, and the content of FOPA reports including office fmancial performance 
+
+and margins. 
+
+       33.     From about October 2000 through 2001, Defendant Kearns discussed with 
+
+Defendant Van Fossen the 2-to-l  BTP ratio policy and the use  ofratios.instead ofcounting AAMT 
+
+lines.  Both Defendants Kearns and Van Fossen regularly saw management reports that presented 
+
+customer billed AAMT line totals in terms  of ratios rather than counts. 
+
+       34.     From about October 2000 through early 2002, Defendant Kearns discussed with the 
+
+director of FOPA the 2-to-l  BTP ratio policy, the revenue and gross margin targets established by 
+
+the 3-to-l  margin ratio policy, the fact that the 2-to-l  BTP ratio was not applied uniformly across 
+
+accounts, and the content ofFOPA reports including office fmancial performance and margins.     In 
+
+addition, the two discussed the Company's  adjustments to ratios to increase line counts and 
+
+revenue. 
+
+                                                 10 
+---------------------Page 11---------------------
+
+       35.     In or about December  2000, Defendant  Keams received three FOPA reports  from 
+
+the director ofFOP A.  One  of these reports recommended  that the line count ratios for certain 
+
+AAMT    line customers be increased gradually and surreptitiously  to comply with MedQuist's  2-to-l 
+
+BTP ratio policy.  The result ofthis recommendation  was that customers were billed   more  than they 
+
+would have been billed had the Company actually counted     AAMT    lines in accordance with contract 
+
+terms. 
+
+        36.    In or about February 2002,  FOPA   analysts sent copies of all final reports to 
+
+Defendant Keams,  who was preparing to assume responsibility  for the group.  These reports 
+
+showed that AAMT     line count ratios varied from account to account and that many  AAMT    line 
+
+customers had line count ratios set higher than the unfounded  2-to-l  BTP ratio.  Several reports 
+
+explicitly recommended  that offices secretly or gradually increase  line count ratios, even above 2­
+
+to-I,  in order to improve profit margins.  The result ofthese recommendations  was that customers 
+
+were billed more than they  would have been billed had the Company  actually counted   AAMT     lines 
+
+in accordance with contract terms. 
+
+       37.     In or about March 2002, Defendant  Keams received  at least three emails from 
+
+FOPA analysts and two FOPA reports.  These reports  contained recommendations  to increase line 
+
+count ratios on AAMT   line accounts to meet  or exceed the 3-to-l  gross margin  policy and increase 
+
+revenues, to make these ratio increases in times ofhigh volume  so that customers  would not notice 
+
+the resulting billing increases, and to set customer accounts on the AAMT line unit  ofmeasure  in 
+
+order to improve management's  ability to manipulate  line counts  and margins.  These reports  also 
+
+recommended  that the offices exercise care in making  changes because  many   clients pay close 
+
+                                                 11
+ 
+---------------------Page 12---------------------
+
+attention to bills.  The result ofthese recommendations  was that customers were billed more than 
+
+they would have been billed had the Company actually counted AAMT lines      in accordance with 
+
+contract terms. 
+
+       38.     By about July 2002, a new director of FOPA had seen the recommendations  in prior 
+
+reports about secretly increasing line count ratios to improve profit margins.  He met with 
+
+Defendant Kearns in or about July 2002, pointed out that recommendation  language in a report, and 
+
+told Defendant Kearns that he found it troubling.  Specifically, he pointed Defendant Kearns to a 
+
+recommendation that an office increase ratios in times ofwork volume increases to avoid customer 
+
+notice.  This report also recommended the office bill clients on the AAMT line to "increase 
+
+management's  leverage in adjusting ratios and account setups" and increase revenues.  Defendant 
+
+Kearns agreed with the new director that future reports should not contain similar language, but 
+
+took no further steps. 
+
+       39.     Defendants Kearns and Van Fossen knew or were reckless in not knowing that the 
+
+Company was not measuring AAMT lines by counting in accordance with contracts, and that it was 
+
+secretly increasing line count ratios to improve revenues and profit margins.  Defendants Kearns 
+
+and Van Fossen assisted or failed to stop the secret manipulation ofline counts. 
+
+                      Customer and Employee Complaints  About Billing 
+
+       40.     From 1999 to 2004, Defendants Kearns and Van Fossen knew       of numerous 
+
+complaints of billing fraud, allegations ofoverbilling and unverifiable line counts.  Despite their 
+
+knowledge, Defendants Kearns and Van Fossen did nothing to audit line counts, ensure AAMT line 
+
+                                                12
+ 
+---------------------Page 13---------------------
+
+count accuracy and billing accuracy,  or ensure appropriate  internal  controls over the billing process 
+
+to prevent and detect billing fraud through manipulation  of line count ratios. 
+
+       41.     In or about October  1999, Defendant  Van Fossen  knew    ofa dispute with a customer 
+
+who alleged that MedQuist  had overbilled  them by inflating its AAMT    line counts, and as a result, 
+
+had withheld payment for six months    ofinvoices totaling $850,000. 
+
+       42.     In or about April 2000, another customer complained  to Defendant  Van Fossen that 
+
+it could not verify its AAMT  line counts and that the Company   had errors in its billing process. 
+
+Defendant Van Fossen told the customer  that   "an AAMT    count is based on the number   of 
+
+characters on the page and do [sic] not represent just visible characters."  Defendant Van Fossen, 
+
+however,  did not tell the customer that MedQuist  based its bills on ratios designed to reach revenue 
+
+and margin targets rather than on AAMT    character counts. 
+
+       43.·    In or about March 2001, Defendant Van Fossen knew       of yet another dispute with a 
+
+customer who alleged overbilling  and terminated its  relationship  with MedQuist  as a result. 
+
+       44.     On  or about September  10,2001,  Defendants  Keams  and    Van  Fossen received  a 
+
+copy of a senior staff meeting presentation that included a report on why customers  had left 
+
+MedQuist  for other transcription  companies.  The report showed that  of the sixteen former 
+
+customers  who gave reasons for leaving, ten described billii:lg problems and irregularities, 
+
+including: MedQuist's  "fraudulent  billing practices";  that MedQuist  "could not justify billing";  and 
+
+that MedQuist  was "unable to reconcile  billings." 
+
+                                                  13
+ 
+---------------------Page 14---------------------
+
+        45.     In or about March 2002, MedQuist's  Chief Operating Officer infonned Defendants 
+
+ Kearns and Van Fossen that MedQuist employees were "jockeying"  bill-to-pay ratios   and losing 
+
+ customers. 
+
+        46.     In or about March 2002, Defendants Kearns and Van Fossen were told     by the 
+
+ Company's  General Counsel that another AAMT line customer had sued MedQuist for $200,000 
+
+ alleging·fraudulent overbilling. 
+
+        47.     In or about July 2002, an employee told Defendant Van Fossen that a MedQuist 
+
+ office in Oregon had been directed to secretly increase line count ratios, even above the unfounded 
+
+ 2-to-1 ratio, in order to increase revenues and margins. 
+
+        48.     On or about December  12,2002,  a MedQuist vice president complained    of  billing 
+
+ irregularities, claiming that she "and other MedQuist employees have been asked to impose general 
+
+ bill increases to clients as a way ofincreasing MedQuist's  revenue without any basis in the 
+
+ underlying client contracts." 
+
+        49.     In or about December 2002, Defendants Kearns and Van Fossen and other 
+
+ Company officers and executives learned  ofthe Vice President's  complaint.  DefendantsKearns 
+
+.and Van Fossen conducted a purported review   of the Vice President's  complaint.  However, the 
+
+review did not examine the accuracy   ofline counts or the validity ofadjustments to line count 
+
+ratios, and Defendant VanFossen  reported that he found no billing problems.  Defendant Kearns 
+
+ and Van Fossen knew that the review did not examine the accuracy   of line counts or the validity of 
+
+ adjustments to line count ratios.  Defendants Kearns and VanFossen   knew or were reckless in not 
+
+knowing that without such an examination, the review was ineffective. 
+
+                                                 14 
+---------------------Page 15---------------------
+
+       50.     As a result ofher complaint and the company's  lack of remedial actions, the Vice 
+
+President refused to sign internal certifications ofCompany accounts for the fourth quarter of2002 
+
+and the first two quarters of2003.  Defendants Kearns and Van Fossen knew that she refused to 
+
+sign these certifications. 
+
+       51.     Between February 7 and February 10,2003,  Defendants Kearns and Van Fossen, 
+
+and other Company officers and executives, learned that an employee in a MedQuist office in 
+
+Pennsylvania had complained   ofintentional secret adjustments to line count ratios and billing 
+
+overcharges.  On or before February 21, 2003, Defendants Kearns and Van Fossen knew that the 
+
+employee had made a previous complaint   of billing fraud at the Pennsylvania office that had not 
+
+been investigated. Inthis earlier complaint, the employee alleged that the MedQuist office in 
+
+Pennsylvania had overbilled approximately 34 customer accounts over a four-year period   of time 
+
+for a total of $7.22 million. 
+
+       52.     Soon after learning ofthe employee's  February 2003 complaint, Defendant Kearns 
+
+and Van Fossen directed another Company employee to conduct a purported review      ofthe 
+
+allegations.  Defendant Van Fossen helped design the review procedure, and Defendant Kearns 
+
+approved it. 
+
+       53.     On  or before February 11,2003,  Defendant Van Fossen looked at the line ratios of 
+
+customers at the Pennsylvania office and saw that ratios varied from 1.4 to 1 to 4.56 to 1 and that. 
+
+approximately 37%   ofthe customers had ratios that exceeded 2 to 1. 
+
+       54.     On or before February 12,2003,  the Company employee who was performing the 
+
+review told Defendant Kearns that a January 2002 internal FOPA review    ofthe Pennsylvania office 
+
+                                                15
+ 
+---------------------Page 16---------------------
+
+had recommended  secret changes to line count ratios to increase revenue and profit margins and 
+
+that line count ratios at that office had in fact been increased without any audit trails or 
+
+documentary support.  That same day, Defendant Kearns learned from the manager      of the 
+
+Pennsylvania office that line count ratios had been changed.  The Company employee     who 
+
+'performed the review also told Defendants Kearns and Van Fossen that the billing process had no 
+
+audit trails, making it difficult or impossible to determine ifthere was overbilling.  Despite knowing 
+
+of ratio changes and the lack ofaudit trails, Defendants Kearns and Van Fossen did not examine, or 
+
+direct the examination of, line count accuracy or the validity ofadjustments to line count ratios. 
+
+Defendants Kearns and Van Fossen also did not take steps   to correct the absence of audit trails. 
+
+Defendants Kearns and Van Fossen knew or should have known that without such an examination, 
+
+the review w~   ineffective. 
+
+        55.     On or about February 21,2003,  Defendant Kearns told the Audit Committee     of 
+
+MedQuist's  Board  of Directors and the Company's  external auditors, in the presence of Defendant 
+
+Van Fossen, that the internal review of the Pennsylvania office billing complaint  showed no billing 
+
+irregularities.  Neither Defendant Kearns nor Defendant Van Fossen told the Audit Committee or 
+
+the external auditors about the undocumented  increases to line count ratios or the lack ofaudit trails 
+
+of which they knew.  Defendants Kearns and Van Fossen knew      or were reckless in not knowing 
+
+that Defendant Kearns'  statements to the Audit Committee and external auditors were incomplete 
+
+and misleading. 
+
+        56.     In or about March 2003, Defendants Kearns and Van Fossen learned that another 
+
+employee had complained    of suspicious billing in a MedQuist office in Ohio.  A member   ofthe 
+
+                                                 16
+ 
+---------------------Page 17---------------------
+
+Company's  internal FOPA group reviewed the office's  billing.    Her  written report dated April 3, 
+
+2003, stated; among other things: 
+
+        •	     It was possible  to alter the number of billed lines and the total billed amounts by 
+
+                altering ratios, while  keeping the price per line constant; 
+
+        •	      The office routinely changed line count ratios after contracts were in place in order 
+
+                to change the number   of billed lines; 
+
+        •	      The billing system had multiple control weaknesses,  including    no record of ratio 
+
+                changes; 
+
+        •	      Office staffspoke openly   ofchanging  line count ratios to manipulate  profit margins; 
+
+                and 
+
+        •	      In at least one instance, the office had increased the line count ratio to offset a 
+
+                decrease in contract line price. 
+
+The changes to line count ratios at the Ohio office increased the amounts billed to customers  above 
+
+the amount called for in MedQuist's  customer contracts.  Defendant  Keams knew the content       ofthe 
+
+report and Defendant  Van  Fossen received a copy   in or about April 2003 from the director   of 
+
+FOPA. 
+
+        57.     In or about April or May 2003, an employee told Defendant      Van  Fossen that a 
+
+MedQuist office in Alabama  had been directed to increase line ratios to increase  billed line counts, 
+
+and thereby increase bills and profitability. 
+
+        58.     In about October 2003, Company management  did an analysis       of the line count 
+
+ratios ofcustomers who had previously  terminated  accounts with MedQuist.       The analysis showed 
+
+                                                   17
+ 
+---------------------Page 18---------------------
+
+that nearly one-third ofthe lost customers had been billed for four or more lines for each line paid 
+
+to a transcriptionist.  That is, their line count ratios were 4-to-l or greater, resulting in bills that 
+
+exceeded the amount called for in MedQuist's  customer contracts.  On or about October 28, 2003, 
+
+Defendants Kearns and Van Fossen received a copy     of this analysis, which said, among other 
+
+things: "23 of71 clients had B:P [bill to pay] ratios greater than 4:1"; "59 of71 accounts lost had 
+
+B:P $$ greater than 3: 1"; "a large B:P should result in commensurate large GM [gross margin]"; 
+
+"we had substantially larger margins and/or B:P than our targets."  In a series ofemail messages 
+
+between October 28 and 29, 2003, a group    of senior managers that included Kearns and Van Fossen 
+
+discussed the implications of the report for the Company's  client base, revenues and margins. 
+
+       59.     In or about November 2003, MedQuist management directed the Vice President 
+
+who had been refusing to sign internal certifications to sign her certifications with exceptions.  She 
+
+did so by letter dated November  12,2003.   In her written exceptions, she refused to certify that she 
+
+knew  of no instances offraud, no violations of law and regulations, no false statements, no material 
+
+adverse effects on financials, and no violations ofcontractual agreements.  She reiterated in writing 
+
+her complaint that she and other employees "were specifically instructed  to impose general bill 
+
+increases to clients as a way ofincreasing MedQuist's revenue   in violation ofthe underlying 
+
+contracts...."  Defendants Kearns and Van Fossen, and other Company officers and executives, 
+
+received the Vice President's  reiterated complaint and her exceptions to the internal certification in 
+
+or about November 2003. 
+
+       60.     Following the Vice President's  reiterated complaint and written exceptions to 
+
+certification, Defendants Kearns and Van Fossen defended the Company's  billing practices to 
+
+                                                  18
+ 
+---------------------Page 19---------------------
+
+external auditors and during a subsequent independent internal investigation. In an internal 
+
+memorandum  dated December  11, 2003, Defendant Van Fossen stated that the issue     of unverifiable 
+
+billing was not new, and that "any line count which is billed at less that 2.3 to 1 payroll lines, would 
+
+on average be at or below a fair level," notwithstanding the requirements ofindividual customer 
+
+contracts. 
+
+       61.     Defendants Keams and VanFossen  knew       or should have known   ofrepeated 
+
+customer and  employee complaints   ofhigh line counts, ratio manipulations,  and other billing 
+
+irregularities from 1999 to 2004.  Nevertheless, Defendants Keams and   Van  Fossen failed to audit 
+
+the accuracy ofline counts anywhere at the Company and failed   to test or implement internal 
+
+controls on billing. 
+
+                            Material  Misrepresentations  to Auditors 
+
+       62.     Defendants Keams and Van Fossen had a duty to the Company's  shareholders to 
+
+ensure accuracy and integrity in the Company's  billing and financial reporting and in its dealings 
+
+with its external auditors. 
+
+       63.     From October 2000 to 2004, Defendant Keams knew or was reckless in       not 
+
+knowing that no Company transcription platform actually counted AAMT characters      and  divided 
+
+by 65 as provided in Company contracts, but did not tell the auditors.  From  1999 to 2004, 
+
+Defendant Van Fossen knew or was reckless in not knowing that no Company transcription 
+
+platform actually counted AAMT characters and divided    by 65 as provided in Company contracts, 
+
+but did not tell the auditors.  This omitted disclosure was material to the auditors'  work and public 
+
+statements about the Company. 
+
+                                                 19 
+---------------------Page 20---------------------
+
+       64.     From October 2000 to 2004, Defendant Kearns knew or was reckless in      not 
+
+knowing that the Company had inadequate controls on its billing process, including no audit trails 
+
+on ratio changes, but did not tell the auditors.  From 1999 to 2004, Defendant Van Fossen knew or 
+
+was reckless in not knowing that the Company had inadequate controls    on its billing process, 
+
+including no audit trails on ratio changes, but did not tell the auditors. Ibis omitted disclosure was 
+
+material to the auditors'  work and public statements about the Company. 
+
+       65.     From October 2000 to 2004, Defendant Kearns knew or was reckless in      not 
+
+knowing that the· Company manipulated line count ratios to reach revenue and gross margin targets, 
+
+but did not tell the auditors.  From 1999 to 2004, Defendant Van Fossen knew   or was reckless in 
+
+not knowing that the Company manipulated line count ratios to reach revenue and gross margin 
+
+targets, but did not tell the auditors. Ibis omitted disclosure was material to the auditors'  work and 
+
+public statements about the Company. 
+
+       66.     From October 2000 to 2004, Defendant Kearns knew or was reckless in      not 
+
+knowing  of customer and employee complaints    of billing fraud and other billing irregularities, but 
+
+did not tell the auditors ofthese complaints.  From 1999 to 2004, Defendant Van Fossen knew or 
+
+was reckless in not knowing  ofcustomer and employee complaints     ofbilling fraud and other billing 
+
+irregularities, but did not tell the auditors ofthese complaints. Ibis omitted disclosure was material 
+
+to the auditors'  work and public statements about the Company. 
+
+       67.     Defendant Van Fossen undermined the efforts    of the Company's  external auditors 
+
+with misrepresentations  during the 1999 annual audit.  Defendant Van Fossen discussed AAMT 
+
+line billing with the auditors but did not tell them ofMedQuist's  company-wide and exclusive use 
+
+                                                 20
+ 
+---------------------Page 21---------------------
+
+ and manipulation  ofratios to meet revenue and gross profit margin targets.  Instead, Defendant Van 
+
+ Fossen allowed the auditors to believe, incorrectly, that a MedQuist transcription platform actually 
+
+ counted AAMT characters and lines as required   by MedQuist's  contracts.  The auditors unwittingly 
+
+ used this platform to check AAMT line counts derived by ratio  on other platforms.  Because of 
+
+ Defendant Van Fossen's  deception, the auditors never knew that the platform used to test AAMT 
+
+ counts did not in fact count AAMT, but rather used ratios to calculate billed lines from 
+
+ transcriptionist paid lines. 
+
+        68.     Defendants Kearns and Van Fossen misled company auditors during the 2002 
+
+ annual audit. In January 2003, they knowingly permitted a subordinate  to give the auditors a 
+
+ fabricated document falsely purporting to show  how  a MedQuist transcription platform actually 
+
+ counted AAMT characters and lines, even though they knew that no MedQuist platform counted 
+
+ AAMT lines.  The fabricated document was titled "Boumewood  Sample Document."         The 
+
+ subordinate created the document between October and December 2002 for use in defending 
+
+ against a customer lawsuit that, among other things, alleged inflated AAMT line counts.  The 
+
+ fabricated document displayed invisible and visible characters, as well as their counts, which 
+
+ MedQuist supposedly used to calculate billed  AAMT    lines.  Nothing on the document revealed that 
+
+ it was a fabrication, that MedQuist did not count characters to calculate billed AAMY lines, or that 
+
+ MedQuist instead always used ratios to meet revenue and gross margin profit targets.  Defendants 
+
+ Kearns and  VanFossen   knew  of the document, had seen the document, and knew that   the 
+
+. document was fabricated.  They also knew or were reckless in not knowing that the document was 
+
+ false and misleading because it presented a counting methodology that the Company    did not use. 
+
+                                                 21
+ 
+---------------------Page 22---------------------
+
+       69.     Defendants  Kearns and   Van  Fossen  signed representation  letters to external 
+
+auditors, falsely stating that they: 
+
+       •       had provided  all relevant  information  to auditors; 
+
+       •       knew   of no false statements  to auditors; 
+
+       •       knew   of no internal control deficiencies;  and 
+
+       •        knew  of no allegations of fraud by employees   orothers. 
+
+Defendant  Keams  signed false representation  letters for each quarterly and annual audit from the 
+
+third quarter of2000  through the  third qUarter of2003.  Defendant  Van Fossen  signed false 
+
+representation  letters for each quarterly  and annual  audit from the first quarter of2001 through the 
+
+third quarter of2003.  Defendants  Keams  and   Van  Fossen  knew  at the time they signed the letters 
+
+that they contained  material  falsehoods. 
+
+        70.     On or about February 21, 2003, Defendant    Keams    told the Company's  external 
+
+auditors,  in the presence ofDefendant  Van  Fossen, that the internal  review ofthe Pennsylvania 
+
+office billing  complaint  showed no billing irregularities.  Defendants Keams  and Van  Fossen  knew 
+
+or were reckless in not knowing that (a) the review  failed to check the accuracy  ofline counts,  (b) 
+
+the office had made undocumented  increases    to line count ratios  and (c) the office lacked audit 
+
+trails.  However,  Defendant  Keams  did not disclose  these facts to external auditors.  Defendants 
+
+Kearns and  Van  Fossen.knew   or were reckless  in not knowing that Defendant  Kearns'  statements  to 
+
+the external  auditors were incomplete  and misleading. 
+
+        71.     In about December  2003, the Company's  external  auditor asked Company 
+
+management  for information  relating to the Vice President's  November    12,2003,  billing complaint. 
+
+                                                  22
+ 
+---------------------Page 23---------------------
+
+Defendant Kearns was a principal source   of infonnation  to the external auditors  from about 
+
+December 2003 through about March 2004.  Despite knowing that customer contracts specified that 
+
+AAMT    lines be counted; that the Company did   not count AAMT     but derived line counts as a ratio 
+
+ofpaid transcription  lines; that the company made line ratio changes without internal controls  or 
+
+audit trails; that the company manipulated  line count ratios to increase revenues  and profit margins; 
+
+that some customers had line count ratios higher than  4-to-l; and that both customers  and 
+
+employees had repeatedly  complained    ofbilling irregularities, Defendant  Kearns told external 
+
+auditors that the Company  had done nothing wrong, that  its line counts were justified and 
+
+legitimate, and any potential  overbilling  was inadvertent  and immaterial.  Defendant Kearns  knew 
+
+or was reckless in not knowing that his statements to external auditors were incomplete   and 
+
+misleading. 
+
+                  Material Misrepresentations  to Shareholders  and the Public 
+
+       72.     Defendant  Van Fossen from 1999 to 2004, and Defendant Kearns from October 
+
+2000 to 2004, did not disclose to shareholders  or public investors  that no Company transcription 
+
+platfonn  actually counted AAMT    characters and divided by  65 as provided  in Company contracts. 
+
+They did not disclose to shareholders  or public investors  that the company had inadequate  controls 
+
+on its billing process, including no  audit trails on line ratio changes.  They did not disclose to 
+
+shareholders or public investors that customers  and employees had made repeated  complaints     of 
+
+billing fraud and other billing irregularities.  They did not disclose  to shareholders  or public 
+
+investors that the Company manipulated  line count ratios to reach revenue and gross margin  targets, 
+
+or that improving  financial perfonnance  was due, at least in part, to manipulation ofline count 
+
+                                                  23
+ 
+---------------------Page 24---------------------
+
+ratios.  Each ofthese omitted disclosures was material, in that a reasonable investor would consider 
+
+them important to his investment decisions about the Company. 
+
+       73.     Defendant Van Fossen from 1999    to 2004, and Defendant Kearns from October 
+
+2000 to 2004, affirmatively misled shareholders and the investing public in the Company's  public 
+
+filings.  The Management Discussion and Analysis ("MD&A") sections      of each of the Company's 
+
+Forms lO-K and lO-Q filed with the Commission  from 1999 to 2004 stated that the Company's 
+
+revenues were "based primarily  on contracted rates," and that its improved financial and revenue 
+
+performance was due to legitimate business practices such as increased sales to existing and new 
+
+customers, acquisitions, or growth in its transcription business generally.  In truth, the Company's 
+
+improved revenues and financial performance were also based, at least in part, on and due to the 
+
+Company's  secret manipulation  ofbilled line counts through the use ofthe 2-to-1 BTP  ratio and the 
+
+3-to-1 margin ratio, which violated the terms ofMedQuist's  contracts with customers.  These 
+
+misleading statements were material because a reasonable investor would consider it important to 
+
+his investment decisions to know whether the Company  obtained revenue    by legitimate business 
+
+practices or by fraudulent billing. 
+
+       74.     Defendant Kearns reviewed all financial statements and signed all ofMedQuist's 
+
+Forms 10-K and 10-Q filed with the Commission from October 2000.to 2004.  Defendant Van 
+
+Fossen prepared the fmancial statements and drafted the MD&A     material for all ofMedQuist's 
+
+filings, including the Forms  lO-K and lO-Q filed with the Commission from  1999  to 2004. 
+
+       75.     From 1999 to 2004, MedQuist also engaged in several public offerings   and  fIled 
+
+Forms S-3 and S-8 with the Commission. These offerings incorporated the materially misleading 
+
+                                                24
+ 
+---------------------Page 25---------------------
+
+Forms  10-K and 10-Q and associated fmancial  statements that Defendant    Van  Fossen prepared  and 
+
+Defendant  Keams reviewed  and signed.  Defendant  Keams  signed and Defendant  Van Fossen 
+
+helped prepare the Forms  S-8 filed with the Commission   on November    13,2000,  July 16,2001, 
+
+September  11,2003,  and October 6, 2003, each   ofwhich incorporated  the Company's  materially 
+
+misleading  periodic filings.  Defendant  Van Fossen also helped prepare the Forms  S-3 and S-3A 
+
+filed on March 25, 1999, April 6, 1999, April 27, 1999 and September  2, 1999, as well   as Form S-8 
+
+filed on August 23, 1999, each  ofwhich incorporated  the Company's  materially  misleading 
+
+periodic filings. 
+
+        76.    Defendants  Keams and Van Fossen affirmatively  misled shareholders     and the 
+
+investing public in the Company's  quarterly .investor  conference . calls on the Company's  financial 
+
+results for the third quarter of2000 through the second  quarter of2002, and the Company's  Forms 
+
+8-K, which contained the content  ofthe  calls. In these calls and filings, MedQuist  claimed it was 
+
+working to grow revenues  and expand  margins through a number     of initiatives,  and then attributed 
+
+the growth and expansion  it achieved to a "back to basics management  discipline,"  "disciplined 
+
+business practices,"  and the experience  and "discipline" ofthe Company's  management  team.   In 
+
+truth, the Company's  improved revenues  and financial performance  were also based,   at least in part, 
+
+on and due to the Company's  secret manipulation   of billed line counts through  the use ofthe 2-to-l 
+
+BTP ratio and the 3-to-l  margin ratio, which violated  the terms ofMedQuist's  contracts with 
+
+customers.  These misleading  statements  were material because  a reasonable  investor would 
+
+consider it important to his investment  decisions to know whether  the Company  obtained revenue 
+
+by legitimate business practices or by fraudulent billing. 
+
+                                                 25 
+---------------------Page 26---------------------
+
+       77.     Defendant  Keams  prepared the scripts for and participated  in the quarterly 
+
+conference calls with investors from the third quarter of2000 through the second quarter   of 2002. 
+
+Defendant  Kearns also signed the Forms  8-K containing  the scripts for the investor conference  calls 
+
+for the fourth quarter of2000 through  the second quarter of2002.   Defendant  Van  Fossen  assisted 
+
+with the preparation ofthe Forms 8-K containing   the scripts ofthe conference  calls for the third 
+
+quarter of2000 through the  second quarter  of2002,  and the fInancial information  disclosed  during 
+
+the conference  calls and in the related Forms 8-K. 
+
+       78.     Defendants  Keams  and Van Fossen  knew     or were reckless in not knowing  that their 
+
+public statements,  including  those described in paragraphs 72 through  77 above, were materially 
+
+misleading to investors. 
+
+                                  FIRST CLAIM FOR RELIEF
+ 
+
+               Violations  by Kearns   and Van Fossen    of the Antifraud Provisions
+ 
+                         Contained   in Section 17(a) ofthe Securities Act
+ 
+
+       79.     The Commission  realleges  and incorporates   by reference every allegation  contained 
+
+in paragraphs  1 through  78 herein. 
+
+       80.     By reason  of the foregoing,  Defendants  Kearns and Van Fossen,  directly or 
+
+indirectly,  singly or in concert, by use ofthe means or instruments oftransportation  or 
+
+communication   in interstate commerce  or by the use ofthe mails,  in the offer or saleofsecurities: 
+
+(a) knowingly  or recklessly  employed  devices, schemes  and artifIces to defraud;  (b) obtained  money 
+
+or property by means  of untrue statements of material  fact or omissions to state material facts 
+
+necessary in orderto make  the statements  made, in the light ofthe circumstances  under which they 
+
+were made, not misleading;  and/or (c) engaged in transactions,  practices or courses ofbusiness 
+
+                                                 26
+ 
+---------------------Page 27---------------------
+
+which operated  or would operate as a fraud or deceit upon the purchasers ofMedQuist   securities 
+
+and upon other persons, in violationsof Section 17(a) of the Securities Act[15 U.S.C.  §§ 77q(a)]. 
+
+                                SECOND  CLAIM FOR RELIEF 
+
+               Violations  by Kearns and Van Fossen     of the Antifraud  Provisions
+ 
+                Contained  in Section  lO(b) ofthe  Exchange Act and Rule  lOb-5
+ 
+
+       81.     The Commission  realleges and incorporates   by reference every allegation  contained 
+
+in paragraphs  1 through  78 herein. 
+
+       82.     By reason  ofthe foregoing, Defendants  Kearns and Van Fossen,  directly or 
+
+indirectly, singly or in concert, by use ofthe means or instrumentalities ofinterstate commerce  or of 
+
+the mails, knowingly or recklessly,in  connection  with the purchase  or sale of securities:  (a) 
+
+employed devices, schemes and artifices to defraud; (b) made untrue statements   ofmaterial  fact, or 
+
+omitted to state material  facts necessary in order to make statements  made, in light ofthe 
+
+circumstances  under which they were made, not misleading;  and! or (c) engaged  in acts, practices 
+
+and courses of business  which operated or would have operated as a fraud  or deceit upon 
+
+purchasers of MedQuist securities and upon other persons,  in violationsof  Section 1O(b) of the 
+
+Exchange Act and Rule  10b-5 [15   U.S.c. § 78j(b) and 17 C.F.R. 240.l0b-5]. 
+
+                                 TIDRD    CLAIM FOR RELIEF 
+
+          Aiding and Abetting Violations  by Van Fossen      of the Antifraud  Provisions
+ 
+                Contained  in Section  lO(b) of the Exchange Act and Rule  lOb-5
+ 
+
+       83.     The Commission  realleges and incorporates   by reference every allegation contained 
+
+in paragraphs  1 through  78 herein. 
+
+        84.    MedQuist  directly or indirectly; singly or in concert, by use ofthe means or 
+
+instrumentalitiesof interstate commerce, or of the mailsp inconnection with the offer, purchase, or 
+
+                                                 27
+ 
+---------------------Page 28---------------------
+
+sale ofsecurities,  knowingly or recklessly:  (a) employed devices, schemes and artifices to defraud; 
+
+(b) made untrue statements of material fact, or omitted to state material facts necessary in order to 
+
+make statements made, in light ofthe circumstances under which they were made, not misleading; 
+
+~d/or (c) engaged in acts, practices and courses ofbusiness which operated or would have operated 
+
+as a fraud or deceit upon purchasers of MedQuist securities and upon other persons, in violations of 
+
+Section 1O(b) ofthe Exchange Act and Rule lOb-5 [15 U.S.C.    § 78j(b) and 17 C.F.R. 240.10b-5]. 
+
+       85.     Defendant Van Fossen knowingly provided substantial assistance to MedQuist in 
+
+the commission  ofthese violations. 
+
+       86.     By reason of the foregoing, Defendant Van Fossen aided and abetted violations  of 
+
+Section 1O(b) ofthe Exchange Act and Rule lOb-5 [15 U.S.c.  § 78j(b) and  17 C.F.R. 240.10b-5]. 
+
+                               FOURTH  CLAIM        FOR   RELIEF 
+
+               Violations by Kearns   and Van  Fossen  of the Prohibition  on False 
+                 Records   and False Statements   Contained  in Section 13(b)(5) 
+                       of the Exchange  Act  and Rules  13b2-1  and 13b2-2 
+
+       87.      The Commission realleges and incorporates by reference every allegation 
+
+contained in paragraphs 1 through 78 herein. 
+
+       88.     By reason of the foregoing, Defendants Kearns and Van Fossen: 
+
+               a.      knowingly circumvented or knowingly failed to implement a system    of 
+
+       internal accounting controls or knowingly falsified books, records, or accounts; 
+
+               b.      directly or indirectly, falsified or caused to be falsified, books, records, or 
+
+       accounts subject to Section 13(b)(2)(A) of the Exchange Act  [15 U.S.C. § 78m(b)(2)(A); 
+
+       and 
+
+                                                28 
+---------------------Page 29---------------------
+
+               c.     directly or indirectly made or caused to be made a materially false or 
+
+       misleading statement to an accountant, or omitted to state, or cause another person to omit 
+
+       to state, any material fact necessary in order to make statements made, in light ofthe 
+
+       circumstances under which such statements were made, not misleading, to an accountant, 
+
+       in connection with an audit, review or examination ofMedQuist's  fmancial statements, or 
+
+       in connection with preparation of a document or report required to be filed with the 
+
+       Commission; 
+
+in violation ofSection 13(b)(5) ofthe Exchange Act and Rules 13b2-1 and 13b2-2 [IS U.S.C. § 
+
+78m(b)(5) and  17 C.F.R. §§ 240. 13b2-1 and 240. 13b2-2]. 
+
+                                 FIFTH   CLAIM    FOR   RELIEF 
+
+         Aiding  and Abetting Violations by   Keams   and Van Fossen    of th~ Reporting 
+                  Provisions Contained  in Section 13(a)   of the Exchange Act 
+                          and Rules 12b-20,  13a-l,  13a-ll, and 13a-13 
+
+       89.     The Commission realleges and incorporates by reference every allegation contained 
+
+in paragraphs I through 78 herein. 
+
+       90.     MedQuist failed to file with the Commission such financial reports as the 
+
+Commission has prescribed, and failed to include, in addition to the information expressly required 
+
+to be stated in such reports, such further material information as was necessary to make the 
+
+statements made therein, in light ofthe circumstances in which they were made, not misleading, in 
+
+violationsof Section 13(a) ofthe Exchange Act and Rules 12b-20, 13a-l,   13a-ll, and 13a-13  [15 
+
+U.S.c.  § 78m(a) and 17 C.F.R. §§ 240.12b-20, 240.13a-l,  240.13a-ll, and 240.13a-13]. 
+
+       91.     Defendants Kearns and Van Fossen knowingly provided substantial assistance to 
+
+MedQuist in the commission   ofthese violations. 
+
+                                                29 
+---------------------Page 30---------------------
+
+       92.     By reason  ofthe foregoing, Defendants Kearns and Van Fossen aided and abetted 
+
+violationsof Section 13(a) of the Exchange Act and Rules 12b-20, 13a-l,   13a-ll,  and 13a-13 [15 
+
+u.S.C.  § 78m(a) and 17 C.F.R.  §§ 240.12b-20, 240.13a-l,  240.13a-ll, and 240.13a-13]. 
+
+                                 SIXTH    CLAIM    FOR   RELIEF 
+
+               Aiding  and  Abetting  Violations by  Kearns  and  Van  Fossen  of the
+ 
+               Books  and  Records  and  Internal Control  Provisions  Contained   in
+ 
+                   Sections  13(b)(2)(A)  and 13(b)(2)(B)  of the Exchange   Act
+ 
+
+       93.     The Commission realleges and incorporates by reference every allegation contained 
+
+in paragraphs 1 through 78 herein. 
+
+       94.      MedQuist failed to: 
+
+               a.      make and keep books, records, and accounts, which in !easonable  detail, 
+
+       accurately and fairly reflected the transactions and dispositions ofits assets; 
+
+               b.      devise and maintain a system  of internal accounting controls sufficient to 
+
+       provide reasonable assurances that: 
+
+                       1.     transactions were executed  in accordance with management's 
+
+               general or specific authorizations; 
+
+                       11.    transactions were recorded as necessary to permit preparation  of 
+
+               financial statements in conformity with generally accepted accounting principles or 
+
+               any other criteria applicable to such statements, and to maintain accountability for 
+
+               assets; 
+
+                       111.   access to assets was permitted only in accordance  with 
+
+               management's  general  or specific authorization; and 
+
+                                                 30 
+---------------------Page 31---------------------
+
+                      IV.     the recorded accountability for assets was compared with the 
+
+               existing assets at reasonable intervals and appropriate actions was taken with respect 
+
+               to any differences; 
+
+in violation ofSections 13(b)(2)(A) and 13(b)(2)(B) ofthe Exchange Act  [15 U.S.C.  §§ 
+
+78m(b)(2)(A), and 78m(b)(2)(B)]. 
+
+       95.     Defendants Kearns and Van Fossen knowingly provided substantial assistance to 
+
+MedQuist in the commission   ofthese violations. 
+
+       96.     By reason of the foregoing, Defendants Kearns and Van Fossen aided   and abetted 
+
+violations of Sections 13(b)(2)(A) and 13(b)(2)(B) ofthe Exchange Act  [15 U.S.c. §§ 
+
+78m(b)(2)(A), and 78m(b)(2)(B)]. 
+
+                                    PRAYER FOR       RELIEF
+ 
+
+       WHEREFORE,        the Commission respectfully requests that this Court:
+ 
+
+               (a)    Permanently restrain and enjoin Defendants Kearns and Van Fossen, and 
+
+their agents, servants, employees, attorneys-in-fact, and assigns and those persons in active concert 
+
+or participation with them, and each ofthem, from further violations ofthe relevant provisions of 
+
+the securities laws; 
+
+               (b)    Order  Defendants  Kearns and Van Fossen to pay civil money penalties 
+
+pursuant to Section 20(d) of the Securities Act and Section 21(d) ofthe Exchange   Act [15 U.S.C. 
+
+§§ 77t(d)] and §78u(d)]; 
+
+               (c)    Enter an order against Defendants Kearns and Van Fossen pursuant to 
+
+Section 20(e) ofthe Securities Act and Section 21(d) ofthe Exchange Act  [15 U.S.C. §§ 77t(e) and 
+
+                                                31
+ 
+---------------------Page 32---------------------
+
+78u(d)], prohibiting each ofthem from acting as an officer or director ofany issuer that has a class 
+
+ofsecurities registered under Section 12 ofthe Exchange Act [15 U.S.C. §78l] orthat is required to 
+
+file reports by Section 15(d) ofthe Exchange Act [15 U.S.C. §78o(d)]; and 
+
+              (d)     Grant such other relief as the Court deems just and proper. 
+
+Dated:  March  12,2009                      Respectfully submitted, 
+
+                                                               85  5) 
+                                                                    CHANGE  COMMISSION 
+
+                                            Attorney for Plaintiff 
+
+Of Counsel: 
+
+Gerald W; Hodgkins 
+Moira T. Roberts 
+Sharan K.S. Custer 
+SECURITIES AND EXCHANGE  COMMISSION 
+100 F Street, NE 
+Washington, DC 20549 
+
+                                               32
+ 

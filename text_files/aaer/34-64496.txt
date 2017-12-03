@@ -1,0 +1,390 @@
+---------------------Page 1---------------------
+
+ 
+
+                           UNITED STATES OF AMERICA  
+                                       Before the  
+                   SECURITIES AND EXCHANGE COMMISSION  
+ 
+SECURITIES EXCHANGE ACT OF 1934  
+Release No.  64496 / May 13, 2011 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3281 / May 13, 2011 
+ 
+ADMINISTRATIVE PROCEEDING  
+File No.  3-14384 
+ 
+                                              
+In the Matter of                             ORDER INSTITUTING CEASE -AND-
+                                             DESIST PROCEEDINGS  PURSUANT TO 
+      GEORGE B. DOHERTY        ,             SECTION 21C OF THE SECURITIES 
+                                             EXCHANGE ACT OF 1934  , MAKING 
+Respondent.                                  FINDINGS, AND IMPOSING  A CEASE-
+                                             AND-DESIST ORDER AND CIVIL 
+                                             PENALTY    
+                                                
+                                           I. 
+                                             
+      The Securities and Exchange Commission (“Commission”) deems it appropriate that 
+cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the 
+Securities Exchange Act of 1934 (“Exchange Act”), against George B. Doherty (“Doherty” or 
+“Respondent”). 
+       
+                                          II.  
+                                             
+      In anticipation of the institution of these proceedings, Respondent has submitted an Offer 
+of Settlement (the “Offer”), which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the 
+findings herein, except as to the Commission’s jurisdiction over him and the subject matter of 
+these proceedings, which are admitted, Respondent consents to the entry of this Order Instituting 
+Cease-and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, 
+Making Findings, and Imposing a Cease-and-Desist Order and a Civil Penalty (“Order”), as set 
+forth below. 
+       
+                                          III.  
+                                             
+                                                                             1
+      On the basis of this Order and Respondent’s Offer, the Commission finds that:  
+       
+       
+
+ 
+---------------------Page 2---------------------
+
+ 
+
+        
+                                          Summary 
+ 
+       1.     These proceedings concern George B. Doherty’s role in the improper recognition 
+of revenue by GSI Group Inc. (“GSI” or the “Company”).   Doherty caused GSI to recognize 
+revenue from certain significant transactions in its Semiconductor Systems segment (the 
+“Systems Division”)  that materially impacted GSI’s financial results even though revenue 
+recognition was prohibited pursuant to Generally Accepted Accounting Principles (“GAAP”).  In 
+April 2008, Doherty learned that GSI may have failed to provide unique, customized, factory 
+automation software, for which it did not have vendor specific objective evidence of value, in 
+connection with the sale of six semiconductor systems to a Taiwanese customer and, 
+accordingly, may have improperly recognized nearly $5 million in revenue during the fourth 
+quarter of fiscal 2007.  In addition, in connection with the sale of several production systems to a 
+Korean customer, Doherty incorrectly concluded that an as yet-undeveloped multiple pulse laser 
+(the “Undeveloped Laser”) was substantially similar to a single pulse laser (the “Single Pulse 
+Laser”) that GSI had previously sold, even though he possessed information indicating that the 
+two lasers were in fact not substantially similar.  As a result, Doherty caused GSI to improperly 
+recognize over $16 million in revenue from these sales during the first and second quarters of 
+fiscal year 2008.     
+                                                
+                                         Respondent 
+        
+       2.     George B. Doherty, 48, of Lincoln, Massachusetts, worked for GSI Group, Inc. 
+from 2004 through May 2009.  Doherty became GSI’s corporate controller in August 2006, a 
+position he held until May 2009.  For his work in 2007, Doherty received incentive-based 
+compensation including, but not limited to, a cash bonus. Doherty has been a CPA licensed in 
+Massachusetts since 1989. 
+         
+                                    Other Relevant Party 
+ 
+       3.     GSI, a New Brunswick, Canada corporation with its principal place of business in 
+Bedford, Massachusetts, manufactures and sells laser systems and other technology products.  
+GSI’s stock was registered with the Commission pursuant to Section 12(g) of the Exchange Act 
+and traded on the NASDAQ National Market System until July 31, 2006.  From July 31, 2006 
+until April 15, 2010, GSI’s stock was registered with the Commission pursuant to Section 12(b) 
+of the Exchange Act and traded on the NASDAQ Global Market.  On April 15, 2010, GSI’s 
+stock was delisted from the NASDAQ Global Market because it was delinquent in its 
+Commission filings, deregistered from Section 12(b) of the Exchange Act, and reverted back to 
+its designation under Section 12(g) of the Exchange Act.  On November 20, 2009, GSI filed a 
+voluntary petition for relief under Chapter 11 of the United States Bankruptcy Code in the U.S. 
+Bankruptcy Court for the District of Delaware.  On May 27, 2010, the U.S. Bankruptcy Court for 
+the District of Delaware confirmed GSI’s plan for reorganization.  On July 23, 2010, GSI 
+completed a rights offering and emerged from the Chapter 11 proceeding.  On December 4, 
+2008, GSI announced that past financial statements filed with the Commission could no longer 
+be relied upon due to errors discovered with GSI’s recognition of revenue for those periods.  On 
+April 13, 2010, GSI filed restated annual and quarterly financial statements for the periods 
+
+                                               2 
+---------------------Page 3---------------------
+
+ 
+
+contained within the fiscal years 2004, 2005, 2006, 2007, and 2008.  Effective February 14, 
+2011, GSI re-registered its common stock pursuant to Section 12(b) of the Exchange Act and is 
+currently listed on the Nasdaq Global Select Market.   
+         
+          
+                                             Facts 
+                                                 
+Background 
+ 
+       4.     GSI’s Systems Division manufactures production systems that it sold to both 
+domestic and international customers.  GSI’s production systems generally had both hardware 
+(including lasers) and software components (including, in certain instances, customized, vendor 
+specific, factory automation software) and required on-site installation by GSI personnel. 
+        
+       5.     From mid-2007 through October 2008, Doherty, assisted by the assistant 
+corporate controller, participated in the determination when to recognize revenue from Systems 
+Division sales.  Systems Division staff documented the basic terms of a transaction in a sales 
+order approval form, which was reviewed and, depending on the size of the order, approved by 
+varying levels of sales, finance and management staff.  Transactions generally were 
+automatically recognized as revenue upon shipment.  Prior to the close of the quarter, the 
+corporate controller and assistant corporate controller reviewed the documents related to each 
+transaction and determined whether to recognize or defer revenue for the period. 
+               
+The Korean Transaction 
+        
+       6.     During November 2007, a Korean customer agreed to purchase from GSI ten 
+systems for nearly $1 million per system.  Each system was equipped with a laser previously 
+sold by GSI.  GSI agreed to upgrade these systems by replacing the original lasers with a laser 
+                                                                                     2
+that had not yet been developed (the “Undeveloped Laser”) when it became available.   As a 
+final condition, the customer demanded that GSI upgrade five systems that the customer had 
+previously purchased with Undeveloped Lasers once they became available.   
+        
+       7.     In November 2007, one of GSI’s product line managers (the “PLM”) sent a letter 
+to the Korean customer confirming GSI’s obligation to upgrade the five systems with 
+Undeveloped Lasers.  The PLM did not copy anyone on the letter, and neither the letter nor the 
+terms therein were provided to GSI’s finance department (the “Finance Department”).  The PLM 
+completed the sales order approval form for the transaction representing to the Finance 
+Department that, among other things, GSI had not made any “promises or guarantees for future 
+deliverables (systems improvements, software upgrades, etc).”  The PLM also signed quarterly 
+certifications, for the Finance Department stating that he was unaware of any side transactions or 
+contingencies.   
+        
+       8.     In December 2007, the PLM, Doherty, the chief financial officer, the assistant 
+controller, and the general manager of the Systems Division (the “Systems GM”) met to discuss 
+whether they could establish fair value for the Undeveloped Lasers and thus recognize revenue 
+from the transaction.  During these discussions, they concluded that GSI could establish fair 
+value for the Undeveloped Laser if they could find a substantially similar laser that GSI had 
+
+                                               3 
+---------------------Page 4---------------------
+
+ 
+
+previously sold.  Shortly thereafter, the PLM and others identified a laser (the “Identified Laser”) 
+as being substantially similar to the Undeveloped Laser. 
+        
+       9.     In fact, the Identified Laser was not substantially similar to the Undeveloped 
+Laser for the purposes of recognizing revenue.  Among other things, the Undeveloped Laser was 
+a unique, undeveloped product that had significantly different future application potential.  In 
+addition, the PLM had communicated to Doherty and others that the Undeveloped Lasers were 
+unique, product innovation, worth substantially more than the Identified Laser.   
+        
+       10.    On December 20, 2007, Doherty emailed the PLM a draft of a memo (the “Fair 
+Value Memo”) concluding that the Undeveloped Laser and the Identified Laser were 
+substantially similar, which he asked the PLM to finalize and sign.  The PLM, however, initially 
+declined to sign the memo on the grounds that the lasers were different.  Doherty then called the 
+Systems GM and told him that if the PLM did not sign the memo, the company would not 
+recognize revenue from the sale.  The Systems GM indicated that he would talk to the PLM and, 
+that same evening, the PLM emailed Doherty the signed Fair Value Memo.   
+        
+       11.    In the first and second quarters of 2008, the Korean customer ordered eight 
+additional systems and corresponding upgrades for Undeveloped Lasers.  The PLM signed 
+another memo (to which the Fair Value Memo was attached) representing that the Undeveloped 
+Laser to be used in these systems was substantially similar to the Identified Laser when in fact 
+the lasers were not substantially similar.  As a result, GSI improperly recognized revenue for the 
+systems.  GSI provided the memos to the company’s external auditors as part of their second 
+quarter review, but did not inform them of the PLM’s initial reluctance to sign the Fair Value 
+Memo. 
+        
+       12.    During the first and second quarter of 2008, GSI recorded in its books and records 
+and reported in its financial statements filed with the Commission over $8.9 million and $7.1 
+million in revenue, respectively, from the transactions with the Korean customer.  However, GSI 
+should not have recognized any revenue from these transactions during these periods because 
+GSI had not delivered the Undeveloped Lasers, nor had it properly established fair value for the 
+Undeveloped Laser in accordance with GAAP.   
+ 
+The Taiwanese Transaction 
+ 
+       13.    In or around January 2007, the PLM began negotiating a sale of six systems to a 
+Taiwanese customer.  The initial quotation specifically referenced a Tool Automation 
+Specifications (“TAS”) Agreement that related to the customer specifications or factory 
+automation software that GSI would be obligated to provide.   
+ 
+       14.    During this same time, the primary engineer responsible for creating the factory 
+automation software informed the PLM that implementing all the TAS specifications would be 
+“a huge task,” requiring over an additional 2000 hours of labor, would cost between $450,000 to 
+$600,000, and could “not possibly be accomplished in the required time frame.”   
+ 
+
+                                               4 
+---------------------Page 5---------------------
+
+ 
+
+       15.    In March 2007, the Taiwanese customer ordered the six systems for 
+approximately $7 million and specifically referenced compliance with the TAS as part of the 
+              
+arrangement. The PLM never informed the Finance Department that, as part of the transaction, 
+the customer required customized software that would not be completed until several months 
+after the systems had been installed and were operational.  GSI booked the orders and, between 
+May and October 2007, shipped the six systems.   
+ 
+       16.    When the customer accepted the first system during the fourth quarter of 2007, 
+GSI recognized nearly $5 million and deferred nearly $2 million in revenue from the six systems 
+that had shipped even though GSI still owed the customer the customized software.   Because 
+GSI had not delivered the customized software, and because it did not have fair value for the 
+software, this revenue should not have been recognized.   
+        
+       17.    On March 4, 2008, Doherty received an email from GSI’s Taiwan-based sales 
+manager stating that while the Taiwanese customer had accepted the first system, there were 
+factory automation issues with the remaining five systems and that GSI will not collect the final 
+acceptance as scheduled.  Doherty forwarded the email to the Systems GM, the assistant 
+corporate controller and others, stating, “This does not look perfunctory.”  Doherty did not take 
+any additional action to learn what, if any, factory automation issue existed with the Taiwanese 
+customer until March 13, 2008, when GSI’s chief financial officer asked him to look into the 
+issue. 
+        
+       18.    On March 20, 2008, Doherty emailed the PLM and others asking whether there 
+existed a factory automation issue with respect to the Taiwanese customer.  In response, the 
+PLM told the corporate controller that GSI owed the customer “Phase II” factory automation, 
+which GSI hoped to complete by the second quarter of 2008.  The PLM provided Doherty with a 
+copy of the TAS, which he stated contained the Phase II factory automation specifications. 
+ 
+       19.    In or around March 2008, the assistant corporate controller informed Doherty that 
+the failure to provide factory automation may impact the revenue that GSI had previously 
+recognized, which could result in a restatement.  On April 3, 2008, Doherty emailed the assistant 
+corporate controller, stating: “Please don’t dig into these unless it blows up down the road.  Let’s 
+work on getting things right going forward.”  On April 4, 2008, the assistant controller emailed 
+Doherty, stating that, among other things, the Finance Department had not been aware of any 
+future deliverable.  On April 6, 2008, Doherty again emailed the assistant corporate controller:  
+“When we go to the acceptance method this issue goes away.  Let’s dig into that once we get the 
+quarter close behind us.”  Doherty did not properly investigate the matter and did not disclose the 
+potential existence of undelivered factory automation software to the external auditors until 
+November 2008.   
+        
+       20.    During the fourth quarter of 2007, GSI recorded in its books and records and 
+reported in its financial statements filed with the Commission nearly $5 million in revenue from 
+sales to the Taiwanese customer.   However, GSI should not have recognized any revenue from 
+this transaction during this period because GSI had not delivered the customized, factory 
+automation software required under the customer agreement.   
+ 
+
+                                               5 
+---------------------Page 6---------------------
+
+ 
+
+Impact on Financial Statements 
+        
+       21.    The misleading financial information that resulted from the improper recognition 
+of revenue from the Korean and Taiwanese transactions was material because it overstated (1) 
+revenues by 7.1% in the fourth quarter of 2007, by 1.6% for fiscal year 2007, 14.7% in the first 
+quarter of 2008, and by 12.1% in the second quarter of 2008; and (2) revenues for GSI Group’s 
+Systems Division by, 21.5% in the fourth quarter of 2007, by 4.3% during fiscal year 2007, by 
+                                                                              3
+39.3% in the first quarter of 2008, and by 48.0% in the second quarter of 2008.   
+ 
+       22.    As a result of the conduct described above, GSI’s Form 10-K for the company’s 
+fiscal year 2007, as well as the Forms 10-Q for the quarters ended March 31, 2008 and June 30, 
+2008, contained false and misleading statements concerning GSI’s financial results.  For those 
+two quarterly periods in 2008, GSI issued press releases, subsequently filed with the 
+Commission on Forms 8-K, containing the false and misleading financial information.   
+ 
+Violations  
+        
+       23.    As a result of the conduct above, Doherty caused GSI’s violations of Sections 
+13(a) and 13(b)(2)(B) of the Exchange Act, and Rules 12b-20, 13a-11, and 13a-13 thereunder, 
+which require every issuer of a security registered pursuant to Section 12 of the Exchange Act 
+file with the Commission information, documents, and annual, quarterly and other reports as the 
+Commission may require, and mandate that periodic reports contain such further material 
+information as may be necessary to make the required statements not misleading, and require all 
+reporting companies to devise and maintain a system of internal accounting controls sufficient to 
+provide reasonable assurances that transactions are recorded as necessary to permit preparation 
+of financial statements in conformity with generally accepted accounting principles. 
+        
+                                                                 4
+       24.    As a result of the conduct above, Doherty willfully  violated Rule 13b2-1 under 
+the Exchange Act in that he indirectly caused to be falsified a book, record, or account subject to 
+Section 13(b)(2)(A) of the Exchange Act, which requires all reporting companies to make and 
+keep books, records, and accounts which, in reasonable detail, accurately and fairly reflect their 
+transactions and disposition of their assets.  
+        
+                                              IV. 
+                                                 
+       In view of the foregoing, the Commission deems it appropriate and in the public interest 
+to impose the sanctions agreed to in Respondent Doherty’s Offer. 
+ 
+       Accordingly, pursuant to Section 21C of the Exchange Act, it is hereby ORDERED that: 
+ 
+       A.     Respondent Doherty cease and desist from committing or causing any violations and 
+any future violations of Sections 13(a) and 13(b)(2)(B) of the Exchange Act and Rules 12b-20, 
+13a-11, 13a-13, and 13b2-1 thereunder.  
+ 
+
+                                               6 
+---------------------Page 7---------------------
+
+ 
+
+       B.     IT IS FURTHER ORDERED that Respondent shall pay a civil money penalty in 
+the amount of $20,000.00 and disgorgement of $9,846 plus prejudgment interest of $1,330, for a 
+total payment of $31,176, to the United States Treasury.  Respondent shall satisfy this obligation 
+by paying (1) $10,000 within ten (10) business days after entry of this Order; (2) $7,058 within 
+180 days from the entry of this Order; (3) $7,059 within 270 days from the entry of this Order; 
+and (4) $7,059 within 365 days from the entry of this Order.  If any payment is not made by the 
+date the payment is required by this Order, the entire outstanding balance of disgorgement and 
+prejudgment interest, plus any additional interest accrued pursuant to SEC Rule of Practice 600, 
+shall be due and payable immediately, without further application.  Payments shall be: (A) made 
+by wire transfer, United States postal money order, certified check, bank cashier's check or bank 
+money order; (B) made payable to the Securities and Exchange Commission; (C) hand-delivered 
+or mailed to the Office of Financial Management, Securities and Exchange Commission, 100 F 
+Street, NE, Stop 6042, Washington, DC  20549; and (D) submitted under cover letter that 
+identifies George Doherty as a Respondent in these proceedings, the file number of these 
+proceedings, a copy of which cover letter and money order or check shall be sent to John T. 
+                                                                                             rd
+Dugan, Associate Regional Director, Securities and Exchange Commission, 33 Arch Street, 23  
+Floor, Boston, MA 02110. 
+ 
+ 
+       By the Commission. 
+ 
+ 
+ 
+                                                   Elizabeth M. Murphy 
+                                                   Secretary 
+        
+
+                                               7 
+---------------------Page 8---------------------
+
+ 
+
+                                         Service List 
+ 
+       Rule 141 of the Commission's Rules of Practice provides that the Secretary, or another 
+duly authorized officer of the Commission, shall serve a copy of the Order Instituting Cease-and-
+Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making 
+Findings, and Imposing a Cease-and-Desist Order and a Civil Penalty ("Order"), on the 
+Respondent and his legal agent. 
+ 
+       The attached Order has been sent to the following parties and other persons entitled to 
+notice: 
+ 
+Honorable Brenda P. Murray                  
+Chief Administrative Law Judge              
+Securities and Exchange Commission          
+100 F Street, N.E. 
+Washington, DC 20549-2557                   
+ 
+Kevin M. Kelcourse, Esq.                    
+Boston Regional Office               
+Securities and Exchange Commission          
+                 rd
+33 Arch Street, 23  Floor                   
+Boston, MA  02110                                                 
+                                            
+Mr. George D. Doherty 
+c/o Ian D. Roffman, Esq. 
+Nutter McClennen & Fish LP 
+155 Seaport Boulevard 
+Boston, MA  02210 
+  
+Ian D. Roffman, Esq. 
+Nutter McClennen & Fish LP 
+155 Seaport Boulevard 
+Boston, MA  02210 
+                  
+ 
+
+                                              8 

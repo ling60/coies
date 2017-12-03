@@ -1,0 +1,993 @@
+---------------------Page 1---------------------
+
+                          UNITED STATES OF AMERICA 
+
+                                      Before the 
+
+                   SECURITIES AND EXCHANGE COMMISSION 
+
+
+SECURITIES ACT OF 1933 
+Release No.  8776 / January 29, 2007 
+
+SECURITIES EXCHANGE ACT OF 1934 
+Release No.  55184 / January 29, 2007 
+
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No.  2548 / January 29, 2007 
+
+ADMINISTRATIVE PROCEEDING 
+File No. 3-12551 
+
+In the Matter of                           ORDER INSTITUTING CEASE-AND-
+                                           DESIST PROCEEDINGS, MAKING 
+      MBIA Inc.,                           FINDINGS, AND IMPOSING A CEASE-
+                                           AND-DESIST ORDER PURSUANT TO 
+Respondent.                                SECTION 8A OF THE SECURITIES ACT 
+                                           OF 1933 AND SECTION 21C OF THE 
+                                           SECURITIES EXCHANGE ACT OF 1934 
+
+                                          I. 
+
+      The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act 
+of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 1934 (“Exchange 
+Act”), against MBIA Inc. (“MBIA”). 
+
+                                         II. 
+
+      In anticipation of the institution of these proceedings, MBIA has submitted an Offer of 
+Settlement (“Offer”) which the Commission has determined to accept. Solely for the purpose of 
+these proceedings and any other proceedings brought by or on behalf of the Commission, or to 
+which the Commission is a party, and without admitting or denying the findings herein, except as 
+to the Commission’s jurisdiction over it and the subject matter of these proceedings, which are 
+admitted, MBIA consents to the entry of this Order Instituting Cease-and-Desist Proceedings, 
+Making Findings, and Imposing a Cease-and-Desist Order Pursuant to Section 8A of the Securities 
+Act of 1933 and Section 21C of the Securities Exchange Act of 1934 (“Order”), as set forth below.   
+---------------------Page 2---------------------
+
+                                              III. 
+
+       On the basis of this Order and MBIA’s Offer, the Commission finds  1
+                                                                           that: 
+
+SUMMARY 
+
+       1.     This proceeding arises out of a fraudulent transaction that MBIA executed to mask 
+the true financial impact of a massive loss it suffered on its guarantee of municipal bonds.  In 1998, 
+MBIA learned that it would have to make good on its guarantee of $256 million of bonds issued by 
+a set of hospitals owned by the Allegheny Health, Education and Research Foundation 
+(“AHERF”), which had defaulted.  The default would have resulted in the first quarterly loss in 
+MBIA’s corporate history.  To counter the potential negative market reaction, senior MBIA 
+executives devised a scheme to obtain retroactive reinsurance that would cover the entire net 
+present value of the anticipated loss, or about $170 million, for a nominal premium.  The effect of 
+the transaction was to offset the entire $170 million loss MBIA recorded on its income statement in 
+the third quarter of 1998 with a roughly equivalent reinsurance recoverable, thus masking the 
+AHERF loss and converting a quarterly loss into a gain.  The transaction was a sham. 
+
+       2.     MBIA entered into three purported reinsurance contracts under which the reinsurers 
+agreed to provide retroactive coverage of up to $170 million for the AHERF loss (the “excess of 
+loss” or “reinsurance” contracts).  The excess of loss contracts were written as if it was unclear 
+whether the reinsurers would have to provide the full amount of the agreed upon coverage, and 
+MBIA’s files were likewise papered to make this appear to be the case.  This purported uncertainty 
+about the extent of the reinsurers’ payout to MBIA was critical to the desired accounting.  To the 
+extent that the reinsurers’ payments under the excess of loss contracts were not expected to vary 
+significantly, such payments could not be treated as reinsurance for accounting purposes, and 
+MBIA would not be able to mask the effect of the AHERF loss on its income statement by 
+offsetting the reinsurance recoveries against the loss.  In fact, MBIA expected that the reinsurers 
+would be called upon to pay out under the excess of loss contracts. 
+
+       3.     Because the reinsurers expected to pay out under the reinsurance contracts, they 
+protected themselves against loss on the transaction by entering into separate agreements by which 
+MBIA agreed to cede to them future business (the “quota share contracts”).  The quota share 
+contracts, which covered a significant percentage of MBIA’s portfolio, ceded to the reinsurers 
+hundreds of millions of dollars in premiums on future business.  Although the ceding contracts did 
+not on their face constitute compensation to the reinsurers (because the reinsurers were undertaking 
+some limited risk associated with the ceded premiums), in substance, they were compensation, 
+because the contracts ceded so little risk associated with the amount of premium received.  Indeed, 
+in the case of one reinsurer, which had agreed to pay $70 million of MBIA’s AHERF loss, MBIA 
+ceded $101 million in net premiums (representing $13 billion of underlying insurance risk), but 
+then secretly agreed to re-assume all but $13 million of the risk in an oral side agreement, leaving 
+
+1 
+       The findings herein are made pursuant to MBIA's Offer of Settlement and are not 
+       binding on any other person or entity in this or any other proceeding. 
+
+                                               2
+
+---------------------Page 3---------------------
+
+the reinsurer with all the ceded premium and virtually no risk. With respect to the other two 
+reinsurers, which each paid $50 million of the AHERF loss, MBIA ceded a tremendous volume of 
+business based upon a formula that virtually assured that the reinsurers would be repaid in full for 
+their payments under the excess of loss contracts, even taking into account the risk they would be 
+undertaking on the ceded business.   
+
+       4.     In September 2004, the reinsurer with the oral side agreement sued MBIA to 
+enforce the side agreement. The lawsuit led to an investigation by the Audit Committee of 
+MBIA’s Board of Directors, which concluded, in March 2005, that “it appears likely that such an 
+[oral side] agreement” existed, and resulted in MBIA’s restatement of its consolidated financial 
+statements for the years 1998 through 2003.  However, MBIA restated only the $70 million of 
+reinsurance associated with the side agreement.  It did not restate the remaining $100 million, 
+which was improperly accounted for and which had been the subject of numerous misleading press 
+releases and periodic filings. 
+
+       5.     As a result of the foregoing conduct, MBIA, directly and indirectly, has violated 
+Sections 17(a) of the Securities Act of 1933 (“Securities Act”), and Sections 10(b), 13(a), 
+13(b)(2)(A) and 13(b)(2)(B) of the Securities Exchange Act of 1934 (“Exchange Act”), and Rules 
+10b-5, 12b-20, 13a-1, 13a-11, 13a-13, and 13b2-1 thereunder. 
+
+RESPONDENT 
+
+       6.     MBIA Inc. is a Connecticut corporation headquartered in Armonk, New York.  
+Through its principal operating subsidiary, MBIA Insurance Corporation (“MBIA Corp.”), the 
+company is a leading financial guarantor and provider of specialized financial services.  MBIA 
+Corp. has a financial strength rating of Triple-A from Moody’s Investors Service, Standard & 
+Poor’s Ratings Services, Fitch Ratings, and Rating and Investment Information, Inc.  MBIA’s 
+common stock trades on the New York Stock Exchange and it files periodic reports with the 
+Commission pursuant to Section 13 of the Exchange Act. 
+
+OTHER RELEVANT ENTITIES 
+
+       7.     AHERF is a nonprofit operator of hospitals in Pennsylvania.  In 1996, MBIA 
+guaranteed $256 million of bonds issued by a set of AHERF-owned hospitals known as the 
+Delaware Valley Obligated Group (“AHERF bonds”).  
+
+       8.     Axa Re Finance (“Axa”) is an indirect subsidiary of Axa SA, an insurance group 
+and asset management company headquartered in Paris, France.  Axa SA’s American Depository 
+Receipts trade on the New York Stock Exchange under the symbol AXA.  One of Axa SA’s 
+primary subsidiaries is Axa Re, which focuses on the property and catastrophe reinsurance 
+business.  Axa is a wholly-owned subsidiary of Axa Re that was formed in 1997 to expand Axa 
+Re’s presence in the financial guarantee markets.  
+
+       9.     Muenchener Rueckversicherungs-Gesellschaft AG (“Munich”) is a German 
+corporation whose core businesses are reinsurance, primary insurance and asset management.  
+
+                                              3
+
+---------------------Page 4---------------------
+
+ 10.           Zurich Reinsurance (North America), Inc. (“Zurich”), was, at the relevant time, 
+a subsidiary of Zurich Financial Services Group, a Switzerland-based insurance and financial 
+services company.  Zurich is now known as Converium Reinsurance (North America) Inc., and is 
+part of Converium Holding AG, an independent international multi-line reinsurer with 
+headquarters in Switzerland. 
+
+MBIA Engaged in a Fraudulent Scheme to Mask the Effect of the  
+AHERF Loss On Its Earnings 
+
+       11.    The AHERF loss was a significant event for MBIA.  Not only was it the first 
+sizeable loss in its history, but the loss exceeded MBIA’s unallocated loss reserves by about $100 
+million and was the subject of intense market concern.  MBIA designed the AHERF reinsurance 
+transaction specifically to address the anticipated market reaction by masking the effect of the loss 
+on earnings.  Ultimately, MBIA achieved the desired income statement effect by entering into an 
+excess of loss contract and one or more quota share contracts with each of three reinsurers, the key 
+monetary terms of which are summarized below. 
+
+ Cou       nterparty         Excess of Loss Coverage       Quota Share Contract  
+              G                                             ross Premiums
+
+ Munich                $50       million     $98               million 
+        ($28                                                    million to be 
+        paid                                                   in fourth quarter 1998) 
+
+       Axa      $50              million     $97               million 
+                                                           ($60 million to be paid 
+        by                                                    March 31,1999) 
+
+       Zurich   $70              million     $145               million ($101.5 million net)      
+
+ Total:                      $170 million coverage         $340 million gross ceded premium 
+
+       12.    The quota share contracts were carefully devised to fully compensate the reinsurers 
+for the amounts they expected to pay under the excess of loss contracts.  In addition, they were 
+structured and documented so as to pass scrutiny by MBIA’s auditor.  Specifically, certain aspects 
+of the quota share contracts were changed or omitted and made the subject of separate, and in some 
+instances secret, side deals.  
+
+                                               4
+
+---------------------Page 5---------------------
+
+MBIA’s Business: Writing to a “Zero-Loss” Standard 
+
+       13.    MBIA, primarily through its subsidiary MBIA Corp., is and was at all relevant 
+times, engaged in providing financial guarantee insurance for municipal and other government 
+bonds and for structured finance obligations.  Financial guarantee insurance provides an 
+unconditional and irrevocable guarantee of payment, when due, of the principal and interest or 
+other amounts owing on insured obligations.  The value of MBIA’s guarantee is dependent on its 
+credit rating, which historically has been Triple-A.  That Triple-A rating in turn is dependent on 
+MBIA’s financial condition and its ability to control its losses. 
+
+       14.    Because MBIA underwrites to a “zero loss” standard, the chance of a loss on 
+account of a default on the issues it guarantees is, by design, typically small.  According to MBIA,  
+“[e]very transaction [the company] look[s] at is structured to a no-loss standard to avoid losses 
+even under the worst probable case scenario.”  Therefore, although a loss, even a significant one, 
+was possible, the company operated using a business model that assumed there would be no such 
+losses, and at the relevant time, its history demonstrated that such losses were rare. 
+
+The AHERF Loss and Its Effect on MBIA’s Stock Price 
+
+       15.    In 1996, the AHERF bonds were issued, with MBIA’s guarantee.  The AHERF 
+bonds were not general obligation bonds backed by tax revenues.  By the spring of 1998, it was 
+apparent that AHERF was in financial distress and that MBIA would have to make good on its 
+guarantee.  As a result, the investment community was concerned about the possible negative 
+impact on MBIA resulting from its AHERF exposure.  This concern was exerting downward 
+pressure on MBIA’s stock price, which fell from a high of $77.94 in April 1998 to a low of $67.62 
+on June 15, 1998. 
+
+       16.    On July 21, 1998, AHERF filed for bankruptcy protection, and MBIA issued a 
+press release stating that the AHERF bankruptcy would have no impact on its earnings because 
+“the company’s unallocated loss reserve [of approximately $75 million] will be sufficient to meet 
+anticipated losses.”  The market remained concerned, and MBIA’s stock price continued to fall.  
+On September 2, 1998, AHERF announced that its 1997 financial statements would be restated and 
+should not be relied upon.  By September 10, 1998, the price of MBIA’s stock had fallen to 
+$46.30. 
+
+       17.    It was in this context that senior MBIA executives negotiated and executed the 
+excess of loss and quota share contracts, for the purpose of masking the effects of the AHERF loss 
+on MBIA’s earnings and thus allaying the market’s concern.  The contracts were negotiated, 
+structured, and documented by MBIA’s then-chief executive officer and chairman of the board 
+(“CEO”) and its then-chief financial officer and later special assistant to the chairman (“CFO”). 
+
+       18.    MBIA first announced a reinsurance solution during an investor call on September 
+11, 1998, and the news had an immediate positive impact on MBIA’s stock price.  By the close of 
+business on September 11, the price had climbed to $52.09 from $46.30 the day before.  
+Ultimately, in a September 29, 1998 press release, MBIA announced that it had obtained $170 
+
+                                               5
+
+---------------------Page 6---------------------
+
+million in reinsurance for its anticipated AHERF loss and that as part of the reinsurance 
+agreements it had “entered into strategic business relationships with highly rated reinsurers to 
+provide them with future business.”  MBIA did not identify the reinsurers or provide details of the 
+“strategic business relationships.”  After the issuance of this press release, and through the filing of 
+MBIA’s third quarter earnings release and Form 10-Q in mid-November, MBIA’s stock price 
+recovered so that by year end it was trading in the mid-$60s. 
+
+       19.    The July press release and the September conference call and press release were 
+deliberately or recklessly misleading.  When the July release was issued, MBIA’s own internal 
+analysis was that the AHERF loss would likely exceed its unallocated loss reserves.  When MBIA 
+announced in the September conference call and the September press release that the loss would be 
+covered by reinsurance, it knew that the excess of loss contracts were not agreements subject to 
+reinsurance accounting but were in substance loans, and that the “strategic business relationships” 
+were mechanisms designed to fully compensate the reinsurers for the amounts they had paid under 
+the excess of loss contracts. 
+
+The Terms of the AHERF “Reinsurance” Arrangement and  
+the Applicable Accounting Principles          
+
+       20.    The essence of the reinsurance arrangement was that Munich, Axa and Zurich each 
+agreed to “reinsure” a portion of the AHERF loss retroactively, i.e., to pay MBIA for a loss that it 
+had already incurred, in return for premiums on future MBIA business.  The reinsurance 
+arrangements took the form of excess of loss contracts, which were organized into three layers, 
+with Munich bearing responsibility for the first $50 million of the AHERF loss, Axa responsible 
+for a second $50 million layer, and Zurich responsible for a third $70 million layer.  (In an excess 
+of loss reinsurance contract, a reinsurer pays its insured when the insured’s loss is in “excess” of a 
+set amount.)   In return, MBIA agreed to pay the three insurers a nominal premium for the excess 
+of loss contracts, and agreed to provide the reinsurers with, or “cede,” future business, with total 
+gross premiums of $340 million, under quota share contracts.  (In a typical quota share contract, 
+the reinsurer takes on a percentage of risk for a percentage of the premium, minus the expenses of 
+the company providing, or “ceding,” the risk and associated premiums.) 
+
+       21.    To achieve the desired accounting treatment, which would permit MBIA to offset 
+the $170 million AHERF loss with the $170 million reinsurance gain in the third quarter, MBIA 
+knew that the excess of loss contracts had to transfer insurance risk on the date they were agreed 
+upon.  The applicable GAAP is Statement of Financial Accounting Standards Number 113, 
+Accounting and Reporting for Reinsurance of Short-Duration and Long-Duration Contracts ("FAS 
+113").  Paragraph 9 of FAS 113 sets out the requirements for transferring insurance risk:  
+
+       a.     The reinsurer assumes significant insurance risk under the reinsured 
+              portions of the underlying insurance contracts[; and]  
+
+       b.     It is reasonably possible that the reinsurer may realize a significant loss from the 
+              transaction. 
+
+                                               6
+
+---------------------Page 7---------------------
+
+       A reinsurer shall not be considered to have assumed significant insurance risk under the 
+       reinsured contracts if the probability of a significant variation in either the amount or 
+       timing of payments is remote.    
+
+       22.     In addition, even if there had been sufficient variability as to the timing and amount 
+of payments under the excess of loss contracts, to qualify for reinsurance accounting MBIA knew 
+that it also had to be “reasonably possible that the reinsurer[s] [might] realize a significant loss on 
+the transaction.”  To make that determination, the reinsurer's exposure and compensation on all the 
+applicable agreements had to be considered.  FAS 113, according to FASB Staff Implementation 
+Guide on FAS 113, requires that:  
+
+       [F]eatures of the contract or other contracts or agreements that directly or indirectly 
+       compensate the reinsurer or related reinsurers for losses be considered in evaluating 
+       whether a particular contract transfers risk.  Therefore, if agreements with the reinsurer or 
+       related reinsurers, in the aggregate, do not transfer risk, the individual contracts that make 
+       up those agreements also would not be considered to transfer risk, regardless of how they 
+       are structured. (See EITF Topic No. D-34, question 13) 
+
+If, as was the case, it was not reasonably possible that the reinsurers would realize a significant loss 
+on the arrangement, the payments under the excess of loss contracts could not be treated as 
+reinsurance but rather would have to be accounted for as deposits. 
+
+       23.     In fact, the AHERF reinsurance arrangement failed the FAS 113 test because 
+MBIA knew that its estimate of the loss was at least the amount of the reinsurance coverage, and 
+each reinsurer expected to pay the full amount of its commitment.  That fact alone meant that the 
+arrangement could not be treated as reinsurance, even when combined with the quota share 
+contracts. And because the quota share contracts were designed to compensate the reinsurers for 
+their payments under the excess of loss contracts, it was not reasonably possible that the reinsurers 
+would realize a significant loss on the excess of loss contracts.   
+
+MBIA’s Misleading Announcements About the Impact of AHERF 
+
+       24.     On July 20, 1998, just one day before AHERF filed for bankruptcy protection, 
+MBIA’s surveillance department, which was responsible for preparing loss estimates for senior 
+management, prepared a memorandum advising MBIA’s president on reserving alternatives and 
+press strategy regarding AHERF.  The memo stated: 
+
+       We think $95-100MM – half way between the (highly unlikely) best case [of $57 
+       million] and the much more likely worst stress case [of $136 million] is an 
+       appropriate starting point.  We would expect that it is more likely than not we 
+       would have to ratchet the loss estimate up over the estimated two years it will take 
+       for the bankruptcy case to play out.  On the other hand, the presence of four current 
+       bidders may give us a better outcome than currently expected.  Accordingly, 
+       choosing a half-way number seems like a reasonable course at this point.    
+
+                                                7
+
+---------------------Page 8---------------------
+
+        25.    The president and the CEO rejected the surveillance department’s recommendation 
+ for a $95-$100 million reserve.  They did so because the figure exceeded MBIA’s unallocated loss 
+ reserves, a fact that they did not want to disclose to the market.  If MBIA announced its actual 
+ estimate of the loss, it would have had to disclose in its Form 10-Q for the second quarter, which 
+ was being prepared at the time, that the company expected its loss on AHERF to exceed its 
+ unallocated loss reserve.   
+
+        26.    On July 21, MBIA issued a press release, approved by the president and the CEO, 
+ which stated that MBIA expected that its unallocated loss reserve (then approximately $75 million) 
+ would “be sufficient to meet anticipated losses from the bankruptcy filing,” without any 
+ explanation of that conclusion.  As a result, according to the release, “the company [did] not expect 
+ losses from this insured credit to affect its earnings.”  
+
+        27.    The July 21 press release was false because it implied that MBIA’s exposure on 
+
+ AHERF was less than $75 million, when in fact the company’s own surveillance department was 
+
+ anticipating a loss perhaps as much as $136 million, and was recommending a reserve amount of 
+
+ $95-100 million, far in excess of $75 million.  
+
+
+        28.    On August 4, 1998, MBIA issued its second quarter earnings release.  In the 
+ release, the CEO was quoted as saying that the company’s unallocated loss reserves “will be 
+ adequate to handle the AHERF loss.”  This statement was restated essentially verbatim in MBIA’s 
+ Form 10-Q for the quarter ended June 30, 1998, filed on August 14, 1998, in a note on subsequent 
+ events meriting mention. This statement was also incorporated in a prospectus MBIA filed on 
+ September 28, 1998 in connection with a $150 million debenture offering, and in a later filing.  
+ The CEO had no reasonable basis to make such a statement because MBIA had no estimate of loss 
+ other than the surveillance department’s suggested reserve of $95-100 million.  
+
+       29.    On September 1, the day before MBIA entered into the excess of loss contracts with 
+Munich and Axa, MBIA senior executives received a briefing on the status of AHERF from the 
+surveillance department.  At that briefing, they were told that “[a]t expected Ch. 11 auction sales 
+ranges of $500-650 [million], MBIA will suffer a [net present value] loss of $100-150 [million] on 
+[its AHERF bond] exposure of $256 million net.” Thus, by the eve of September 2, 1998, the 
+earliest date by which MBIA claims to have reached agreements in principle to the purported 
+reinsurance agreements with Munich and Axa, MBIA’s loss estimates had climbed to 
+approximately $100-150 million.   
+
+       30.    On September 11, 1998, MBIA held a conference call for the stated purpose of 
+addressing “the sharp and precipitous decline in MBIA’s stock price over the last two weeks.”  That 
+call, which had over 250 participants from major investment banks and institutional investors, 
+specifically addressed, among other things, the AHERF situation.  On the call, the president and the 
+CEO made several statements about reinsurance the company was in the process of arranging to 
+cover its AHERF exposure, including the following: 
+
+                                                8
+
+---------------------Page 9---------------------
+
+       !	     “we have been making arrangements, not yet finalized, in the reinsurance marketplace 
+              which at very little cost has the effect of more than doubling the general loss reserve.”    
+
+       !	     although the AHERF situation was “fluid,” MBIA “continue[s] to believe that after the 
+              arrangements we are making as to reinsurance .  .  .  , the unallocated reserve that we 
+              have at present will cover any losses that will be incurred by MBIA as a result of 
+              [AHERF.]”   
+
+       !	     MBIA “did not believe there would be any earnings impact from [AHERF.]”   
+
+       31.    The statements in paragraph 30 were false because MBIA knew that the excess of 
+loss contracts were not agreements subject to reinsurance accounting but were in substance loans. 
+
+       32.    The statements by MBIA’s senior executives had the desired effect on the market.  
+MBIA’s stock price rose 12.4% over the previous day’s close of $46.30 to $52.03, and remained in 
+the $50s through the end of September.  
+
+The Negotiations with the Reinsurers 
+
+       33.    The quota share contracts ultimately reached with the reinsurers took advantage of 
+the unusually low-risk, high-return nature of the financial guarantee business.  MBIA’s business 
+model, based on a “zero loss” underwriting standard, was exceedingly profitable.  Historically, 
+most of MBIA’s insureds, such as municipalities, other government entities and private issuers of 
+structured finance obligations, were able to make all principal and interest payments from reliable 
+sources of revenue, such as general tax revenues and private consumer receipts.  Moreover, unlike 
+traditional insurance, the entire amount of the premium on most municipal and other government 
+entity guarantee insurance is paid up front, when the policy is written.  Thus, in ceding business to 
+the reinsurers, MBIA was in reality ceding an expected profit stream on a low-risk business. 
+
+       34.    Moreover, to make certain that the reinsurers would be reimbursed through the 
+quota share contracts, MBIA agreed to modify its usual ceding commission, which is the amount 
+the ceding insurer (MBIA) typically charges a reinsurer for ceding business.  The “ceding 
+commission” is typically a fixed percentage of the gross premium ceded.  MBIA’s standard ceding 
+commission was 32.5%; that is, MBIA usually retained 32.5% of the gross premiums it ceded to its 
+reinsurers. But in the quota share contracts with Munich and Axa, MBIA used a sliding scale 
+commission.  For both Munich and Axa, MBIA agreed to lower its standard ceding commission 
+from 32.5% to 17.5%, depending on the amount of losses the companies incurred on the risks they 
+assumed. The sliding scale commission was a mechanism to help protect the profit that the 
+reinsurers expected from the quota share contracts. 
+
+       35.    MBIA’s auditor reviewed the Munich and Axa quota share contracts to determine 
+whether it was “reasonably possible that the reinsurer [might] realize a significant loss from the 
+transaction,” when the excess of loss contract was combined with the quota share contract.  The 
+auditor advised MBIA senior executives that its quota share contracts with Munich and Axa as 
+initially proposed did not pass the FAS 113 test.  As a result, the agreements were changed and 
+certain aspects were made the subject of separate agreements. 
+
+                                               9
+
+---------------------Page 10---------------------
+
+       The Negotiations with Munich 
+
+       36.    The negotiations with Munich began in late July, 1998.  From the beginning, 
+Munich assumed that it would be paying the full $50 million on the excess of loss contract.  As a 
+result, the negotiations focused on the quota share contracts and making certain that Munich would 
+be fully reimbursed.  Under the initial quota share proposal, MBIA was to cede $98 million in 
+premiums to Munich with a sliding scale commission.  MBIA also agreed that the premiums would 
+be ceded on a facultative basis – that is that Munich could choose from among the business MBIA 
+sought to cede to it, unlike a typical quota share contract in which the contract identifies the types 
+of risk the reinsurer has agreed to accept and the insurer has agreed to cede, but does not allow the 
+reinsurer to reject any risk of the type agreed upon.  By having the right to select only the risks it 
+wanted, Munich minimized its risk even further.    
+
+       37.    MBIA’s auditor rejected the initial proposal because “the way it is currently 
+structured there is no reasonable chance that [Munich] would lose money.”  The auditor indicated 
+that in order to pass the risk transfer requirements, the premium ceded under the quota share 
+contract with a sliding scale could not be more than $70 million.   
+
+       38.    Because they knew that $70 million would not be sufficient compensation for 
+Munich, the MBIA senior executives proposed that MBIA and Munich enter into two agreements, 
+the first for $70 million, which the auditor had indicated would pass the FAS 113 test, and a second 
+that ceded $28 million in additional premiums.  This second quota share agreement did not have a 
+sliding scale, but provided that all premiums would be paid before the end of 1998.  With that 
+feature, the two contracts effectively achieved the objective of providing adequate compensation to 
+Munich. And under the analysis MBIA’s auditor employed, there was virtually no chance that 
+Munich would lose money on the deal. 
+
+       The Negotiations with Axa 
+
+       39.    MBIA also began to negotiate the quota share contract with Axa in July.  By the 
+end of August, Axa expected that it would have to pay at least $30 million of its excess of loss 
+contract. Axa also knew, however, that there was a substantial chance that it may need to pay the 
+full $50 million due under the excess of loss contract.   
+
+       40.    To ensure that Axa would be fully compensated in either event, MBIA and Axa 
+agreed that MBIA would cede $60 million in premiums with a sliding scale commission under the 
+excess of loss contract.  Of this $60 million, $23 million was to be ceded by March 30, 1999.  In 
+addition, senior MBIA and Axa executives proposed what they referred to as a “gentlemen’s 
+agreement,” which initially had a “springing quota share” feature, as well as a sliding scale 
+commission. Under the “gentlemen’s agreement,” MBIA agreed to cede an additional $37 million 
+in premiums if Axa had to pay more than $30 million on the excess of loss contract. 
+
+       41.    The MBIA and Axa senior executives had planned not to memorialize this 
+“gentlemen’s agreement.”  However, MBIA’s auditor learned about the “gentlemen’s agreement,” 
+and initially said that the arrangement could be part of the written contract.  But after reviewing a 
+
+                                               10
+
+---------------------Page 11---------------------
+
+draft of the quota share agreement with the “springing” provision included, it said that such a 
+provision could not be part of the written contract. 
+
+       42.    Axa and MBIA therefore entered into a quota share contract for $60 million.  On 
+that basis, MBIA’s auditor approved reinsurance accounting for the reinsurance arrangement with 
+Axa. 
+
+       43.    MBIA and Axa also entered into the “gentlemen’s agreement” that the auditor had 
+rejected. This oral side agreement provided Axa with an additional $37 million in premiums, also 
+with a sliding scale commission.  By the time the agreement was memoralized in December 1998, 
+the “springing” feature was dropped, because it was known that Axa would have to pay the full 
+$50 million under the excess of loss contract.  It was also agreed that the entire $37 million was to 
+be ceded by the end of the month.  Consequently, of the $97 million in total premiums ceded to 
+Axa, $60 million was to be ceded by March 30, 1999.    
+
+       The Announcement of the Reinsurance Solution and Its Impact on Earnings 
+
+       44.    On September 29, 1998, the bankruptcy court conducted an auction of AHERF’s 
+assets. The auction resulted in gross proceeds of $345 million.  From this amount, MBIA later 
+claimed that it was able to estimate a $170 million net loss on AHERF.  Also on September 29, 
+MBIA issued a press release entitled “MBIA Announces Exposure to Bankrupt Pennsylvania 
+Hospital Group to be Covered by Reinsurance Agreements; Expects no Impact on Earnings.”  In 
+the press release, MBIA announced that it had “obtained $170 million of reinsurance that it expects 
+will cover anticipated losses arising from [AHERF].”   
+
+       45.    The September 29 release was false.  On September 2, the earliest date by which 
+MBIA claims to have reached agreements in principle with Munich and Axa for excess of loss 
+coverage on the first $100 million of its AHERF exposure, MBIA and the reinsurers knew that the 
+best estimate of MBIA’s loss was at least $95 to $100 million.  Because there was no uncertainty 
+as to the amount the reinsurers would pay, the excess of loss contracts did not transfer any risk 
+under FAS 113. Moreover, the reinsurers expected to be fully compensated for their payouts, 
+which also precluded reinsurance accounting under FAS 113.   
+
+The Trouble with Zurich and the Secret Side Agreement 
+
+       46.    After MBIA issued the September 29 press release, the purported deal between 
+MBIA and Zurich collapsed as a result of issues raised by MBIA’s auditor. This ultimately led to 
+significant changes in the written contracts, and to the secret side agreement between Axa and 
+MBIA relating to Zurich. 
+
+       47.    The negotiations with Zurich began in August.  By September 28, Zurich and 
+MBIA had exchanged a draft that provided both excess of loss coverage on AHERF and a quota 
+share feature.  The most prominent feature of the initial draft was that the agreement limited 
+Zurich’s exposure by capping its losses on the quota share contract. 
+
+                                              11
+
+---------------------Page 12---------------------
+
+       48.    By mid–to–late October, MBIA’s auditor advised that for the company to obtain 
+the desired accounting treatment, the caps on Zurich’s losses on the quota share had to be removed.  
+However, MBIA senior executives knew that Zurich would not accept more risk.       
+
+       49.    Thus, by that time, there was no Zurich deal.  However, in its September 29 press 
+release, MBIA had already told the market that it had three reinsurers lined up to reimburse it for 
+losses relating to AHERF. Accordingly, the CFO, with the CEO’s knowledge and approval, set 
+about salvaging the Zurich layer of the excess of loss by arranging for another reinsurer to assume 
+the bulk of  Zurich’s risk on the quota share.   
+
+       50.    As it happened, the unraveling of the Zurich deal coincided with a planned 
+gathering for MBIA and Axa senior executives at a resort in Portugal, which occurred from 
+October 26 through 28.  The CEO and CFO attended for MBIA, and Axa’s CEO and Chief 
+Operating Officer attended along with its chairman, who was also the chairman and CEO of Axa’s 
+parent company. 
+
+       51.    In Portugal, the CFO approached Axa about assuming Zurich’s risk under the quota 
+share contract for a nominal premium.  Axa said it would only do so if another reinsurer could be 
+found to relieve it of that risk as it built on Axa’s books, because even if the chance of paying out 
+on those risks was low, Axa would be required to post reserves against the potential risk.  During 
+or shortly after the Portugal trip, the CFO and CEO assured Axa that MBIA would relieve Axa of 
+the risk it had agreed to take on from Zurich.  This side agreement was not reduced to writing and 
+was not disclosed to MBIA’s auditor. 
+
+       52.    In addition to the side agreement, Axa’s agreement to take on Zurich’s risk under 
+the quota share contract resulted in three additional agreements because Zurich’s payment under 
+the excess of loss contract was to be funded by Interpolis Reinsurance Services, Ltd., a Dutch 
+reinsurer. In exchange, Zurich gave to Interpolis the bulk of premiums it received from MBIA 
+under the quota share contract, and Interpolis agreed to take on Zurich’s risk from $13 million to 
+$163 million.  Axa took on this entire risk from Interpolis, through two separate agreements, one 
+covering the risk from $13 million to $88 million, and the second covering the risk from $88 
+million to $163 million. In addition, Axa entered into a contract with Zurich under which it 
+assumed Zurich’s risk above $163 million.  In return, Axa received $1 million in premium for each 
+agreement, for a total of $3 million.  In other words, Zurich and Interpolis retained $99 million in 
+net premiums and retained only $13 million of the risk associated with those premiums, in 
+exchange for the $70 million they provided MBIA to cover for the AHERF loss.  Axa, on the other 
+hand, assumed all the risk above $13 million for only $3 million in premium.  
+
+       53.    In short, the Zurich reinsurance arrangement involved limited transfer of risk to 
+Zurich. Under the secret side agreement with MBIA, the risk under the quota share contract was 
+transferred back to MBIA, except for $13 million that was more than covered in full by the 
+premiums that Zurich and Interpolis retained.  In addition, by the time the deal was reached, there 
+was no uncertainty or variability as to Zurich’s payment under the excess of loss contract, because 
+it was known by then that Zurich would have to pay the full amount of its commitment. 
+
+                                               12
+
+---------------------Page 13---------------------
+
+MBIA Created a Paper Trail to Justify Reinsurance Accounting 
+
+       54.    In order to obtain the auditor’s approval for the desired accounting treatment, 
+MBIA senior executives created a paper trail to justify the reinsurance accounting.  This paper trail 
+included several affirmative misrepresentations about the agreements, including but not limited to 
+the following: 
+
+       (a) 	  First, MBIA represented that its estimate of its AHERF loss on the date on 
+              which it reached the reinsurance arrangements with Munich, Axa, and 
+              Zurich was less than the amount of excess of loss coverage agreed upon.  
+              Specifically, MBIA represented its estimate of loss at the time the 
+              reinsurance agreements were reached was $0-$117 million.  This 
+              representation was false.  By September 2, 1998, the earliest date by which 
+              MBIA claims the Munich and Axa agreements were purportedly in place, 
+              MBIA’s surveillance department had estimated a loss of at least $95-100 
+              million, and possibly as high as $150 million.  The representation was also 
+              false with regard to Zurich because the deal that was in place in September 
+              was not the deal MBIA and Zurich ultimately entered into in October.  By 
+              the time that deal was entered into, the AHERF loss was known to be at 
+              least $170 million. 
+
+       (b) 	  Second, the CEO and the CFO provided a letter for the auditor’s files representing 
+              that MBIA had “an agreement in principal [sic]” with Zurich, and that “[t]he 
+              principal terms were agreed to on September 22nd with the understanding that 
+              certain refinements needed to be made to comply with standard reinsurance and 
+              accounting practices.”  The CEO and CFO each knew when they signed the 
+              representation letter that the agreement ultimately reached with Zurich was 
+              fundamentally different than the one that was contemplated in September, and they 
+              knew that the auditor was unaware of the side agreement in which MBIA 
+              effectively agreed to take back all but $13 million of the risk it had ceded to Zurich 
+              under the quota share agreement.   
+
+MBIA’s Misleading Financial Statements 
+
+       55.    MBIA recorded the $170 million Munich, Axa, and Zurich agreed to pay under the 
+excess of loss contracts as a receivable in the third quarter of 1998, and its consolidated financial 
+statements for the third quarter of 1998 and for the 1998 fiscal year included the entire amount as 
+income. 
+
+       56.    In its November 3, 1998 earnings release, the company stated: “MBIA expects that 
+any anticipated losses arising from [its AHERF exposure] will be fully covered by reinsurance.  As 
+a result, the company’s third quarter earnings have not been affected by the bankruptcy.”  The 
+release was filed on Form 8-K on November 4.   
+
+                                              13
+
+---------------------Page 14---------------------
+
+       57.    In its Form 10-Q for the quarter ended September 30, 1998, which was filed on 
+November 16, 1998, MBIA stated that it had recorded “$198 million of reinsurance recoverables” 
+for the AHERF loss, which included the $170 million receivable from Munich, Axa, and Zurich.   
+
+       58.    The recoverable under the purported reinsurance contracts, net of the nominal 
+premium on those contracts, thus offset virtually the entire reported AHERF loss, which was 
+recorded as an expense for the quarter.  As a result, MBIA reported net income of approximately 
+$100 million for the third quarter and $432 million for the year ended December 31, 1998, and 
+diluted earnings per share of $1.08 and $4.32 for the respective periods. 
+
+       59.    MBIA’s financial statements and the above-quoted representations in its releases 
+and filings were false and misleading because it was improper to recognize the $170 million as 
+income and because MBIA did not disclose material facts that would have given the true picture of 
+the transaction.      
+
+       60.    MBIA made these representations despite the fact that the CEO and CFO knew, or 
+recklessly disregarded, that reinsurance accounting for the AHERF reinsurance arrangement was 
+improper because there was no risk transfer under the excess of loss agreements and the reinsurers 
+expected to be fully compensated for their payments under the excess of loss contracts by the quota 
+share arrangements. 
+
+       61.    The AHERF reinsurance arrangement had a material and substantial impact on 
+MBIA’s reported earnings.  Had the transaction been accounted for properly, as a financing, the 
+$170 million receivable under the excess of loss contracts would not have been reported as income 
+in 1998. The income statement effect was substantial: it would have resulted in at least $100 
+million less pre-tax income for the full year 1998 and, in the third quarter, would have resulted in 
+MBIA’s first quarterly loss.  As a result of its fraudulent accounting for the recovery under the 
+excess of loss contracts, MBIA was able to report that it “continu[ed] [its] unbroken streak of 
+double-digit increases since [it] became a public company in 1987,” as the company touted in its 
+Annual Report for 1998. 
+
+MBIA Continued to Misrepresent Its Results for 1998 
+
+       62.    MBIA’s misleading financial results for the 1998 third-quarter and fiscal year were 
+republished in subsequent filings made in 1999, 2000, and 2001 and continued to create the false 
+impression that the company had an uninterrupted succession of profitable quarters.  Those filings 
+continued to conceal the true facts about the purported reinsurance recovery on AHERF, including 
+the side agreement between MBIA and Axa.  
+
+       63.     It was not until March 2005, after Axa filed suit in France, that MBIA publicly 
+acknowledged the side agreement and the effect of it on its reported results for 1998.  In March 
+2005, MBIA restated its consolidated financial statements for the calendar years 1998 through 
+2003 in light of the conclusion reached in the course of the internal investigation that the existence 
+of a side agreement “appear[s] likely.”  The effect on the company’s consolidated income 
+statement for the third quarter of 1998 and fiscal year 1998 was to reverse the $70 million gain 
+attributable to the reinsurance receivable under the excess of loss contract with Zurich, which 
+
+                                               14
+
+---------------------Page 15---------------------
+
+originally had offset part of the $170 million AHERF loss.  MBIA also reversed the expense for 
+the $102 million in net premiums it had ceded to Zurich, which it then recognized as income over a 
+six-year period beginning in 1999.  In addition, the company eliminated the $70 million receivable 
+from Zurich originally reflected on its September 30, 1998 balance sheet.  
+
+       64.    The company did not restate its accounting for the other $100 million of 
+reinsurance, which was improper. 
+
+VIOLATIONS 
+
+       65.    As a result of the conduct described above, MBIA violated Section 17(a) of the 
+Securities Act, which prohibits fraudulent conduct in the offer or sale of securities.  MBIA made 
+material misstatements and omitted material facts concerning the AHERF transaction in 
+connection with its September 1998 debenture offering. 
+
+       66.    As a result of the conduct described above, MBIA violated Section 10(b) of the 
+Exchange Act and Rule 10b-5 thereunder, which prohibit fraudulent conduct in connection with 
+the purchase or sale of securities.  MBIA improperly recognized the $170 million it received under 
+the excess of loss contracts as income and did not disclose material facts concerning the AHERF 
+transaction in its periodic filings that would have given the true picture of the transaction. 
+
+       67.    As a result of the conduct described above, MBIA violated Section 13(a) of the 
+Exchange Act and Rules 13a-1, 13a-11, 13a-13 and 12b-20 thereunder, which require issuers to 
+file true, accurate, and complete periodic reports with the Commission.  Because of its 
+misstatements and omissions of material facts concerning the AHERF transaction, MBIA filed 
+false periodic reports and earnings releases with the Commission. 
+
+       68.     As a result of the conduct described above, MBIA violated Section 13(b)(2)(A) of 
+the Exchange Act, which requires reporting companies to make and keep books, records, and 
+accounts which, in reasonable detail, accurately and fairly reflect their transactions and dispositions 
+of their assets. Because MBIA improperly recorded the excess of loss and quota share contracts, 
+its books, records and accounts did not, in reasonable detail, accurately and fairly reflect its 
+transactions and dispositions of assets. 
+
+       69.    As a result of the conduct described above, MBIA violated Section 13(b)(2)(B) of 
+the Exchange Act and Rule 13b2-1 thereunder, which require all reporting companies to devise and 
+maintain a system of internal accounting controls sufficient to provide reasonable assurances that 
+transactions are recorded as necessary to permit preparation of financial statements in conformity 
+with generally accepted accounting principles and prohibit them from, directly or indirectly, 
+falsifying or causing to be falsified, any book, record, or account.  MBIA’s internal controls were 
+not sufficient to prevent numerous false accounting entries related to the AHERF reinsurance 
+agreements to be recorded that were not in conformity with generally accepted accounting 
+principles. 
+
+                                               15
+
+---------------------Page 16---------------------
+
+UNDERTAKINGS 
+
+MBIA undertakes to: 
+
+       70.    Cooperate fully with the Commission in any and all respects relating to or arising 
+from the matters described in the Offer.  In connection with such cooperation, MBIA undertakes to: 
+
+       (a)    produce, without service of a notice or subpoena, any and all documents and other 
+       information requested by the Commission’s staff (“Staff”); 
+
+       (b) 	  be interviewed by the Staff at such times as the Staff reasonably may direct; 
+
+       (c)    upon the request of the Staff, waive any applicable privilege with respect to 
+       MBIA's internal investigation concerning the matters addressed in this Order; 
+
+       (d)    appear and testify truthfully and completely without service of a notice or 
+       subpoena as may be requested by the Staff; 
+
+       71.    Independent Consultant.  In accordance with the procedure specified in 
+subparagraph 71(k) below, retain, pay for, and enter into an agreement with an independent 
+consultant, not unacceptable to the Staff (“Independent Consultant”), to conduct a 
+comprehensive review of the areas specified in subparagraphs (a) and (b) below, and to make 
+recommendations to MBIA’s Board of Directors, after consultation with the Staff, regarding best 
+practices in these areas.  The agreement with the Independent Consultant shall contain the 
+following provisions: 
+
+       (a)	   The Independent Consultant shall review: 
+
+              (i)	    MBIA’s accounting for, and disclosures concerning, its investment in 
+                      Capital Asset Holdings GP, Inc., and 
+
+              (ii)	   MBIA’s accounting for, and disclosures concerning, its exposure on notes 
+                      issued by the US Airways 1998-1 Repackaging Trust. 
+
+       (b)    The Independent Consultant shall also review the design of the review conducted 
+       on behalf of the Audit Committee of MBIA’s Board of Directors by Promontory 
+       Financial Group LLC, of MBIA’s compliance organization and monitoring systems, 
+       internal audit functions, governance process and other controls including risk 
+       management, and records management policies and procedures (“Audit Committee 
+       Review”), and the implementation of any recommendations by Promontory. 
+
+       (c)    The Independent Consultant shall issue a report to the Staff and MBIA’s Board of 
+       Directors within six months of appointment, setting forth:  
+
+              (i)	    with respect to the items identified at subparagraph 71(a) above, his or her 
+                      findings on whether MBIA acted in a manner consistent with generally 
+
+                                              16
+
+---------------------Page 17---------------------
+
+                      accepted accounting principles (“GAAP”) and the federal securities laws.  
+                      With respect to any matter as to which he or she concludes that MBIA 
+                      acted in a manner inconsistent with GAAP or the federal securities laws, 
+                      he or she shall propose a plan of review designed to evaluate similar 
+                      transactions or occurrences, if any, and provide reasonable assurance that 
+                      all similar conduct inconsistent with GAAP or the federal securities laws 
+                      has been identified and corrected; and 
+
+              (ii)	   with respect to the matters identified at subparagraph 71(b) above, his or 
+                      her findings concerning whether the Audit Committee’s Review was 
+                      reasonably designed and implemented and, if not, any recommendations 
+                      for further review to determine what policies and procedures should be 
+                      implemented to achieve best practices. 
+
+The Report shall also include a description of the review performed, the conclusions reached, the 
+Independent Consultant’s recommendations for any changes in or improvements to MBIA’s 
+policies and procedures necessary to conform to best practices and a procedure for implementing 
+the recommended changes in or improvements to MBIA’s policies and procedures. 
+                        Terms of Independent Consultant’s Retention 
+
+       (d)    In addition to the report identified above, the Independent Consultant shall provide 
+       the Staff and the Board of Directors with such documents or other information concerning 
+       the areas identified in subparagraphs 71(a) and (b), above, as any of them may request 
+       during the pendency or at the conclusion of the review. 
+
+       (e)    The Independent Consultant shall have reasonable access to all of MBIA’s books 
+       and records, and the ability to meet privately with MBIA personnel.  MBIA may not assert 
+       the attorney-client privilege, the protection of the work-product doctrine, or any privilege 
+       as a ground for not providing the Independent Consultant with contemporaneous 
+       documents or other information related to the matters that are the subject of the review.  
+       MBIA shall cooperate with the Independent Consultant, by, among other things, making 
+       available to the Independent Consultant the results of the investigation of Capital Asset 
+       conducted in 1999 by outside counsel at the direction of the Audit Committee of MBIA’s 
+       Board of Directors.  The Independent Consultant may consider and use the results of such 
+       prior investigation to the extent he or she deems appropriate in the course of conducting his 
+       or her own review.  MBIA shall instruct and otherwise encourage its officers, directors, and 
+       employees to cooperate fully with the review conducted by the Independent Consultant, 
+       and inform its officers, directors, and employees that failure to cooperate with the review 
+       will be grounds for dismissal, other disciplinary actions, or other appropriate actions. 
+
+       (f)    The Independent Consultant shall have the right, as reasonable and necessary in his 
+       or her judgment, to retain, at MBIA’s expense, attorneys, accountants, and other persons or 
+       firms, other than officers, directors, or employees of MBIA, to assist in the discharge of his 
+       or her obligations under these Undertakings.  MBIA shall pay all reasonable fees and 
+       expenses of any persons or firms retained by the Independent Consultant.   
+
+                                               17
+
+---------------------Page 18---------------------
+
+(g)    The Independent Consultant shall make and keep notes of interviews conducted, 
+and keep a copy of documents gathered, in connection with the performance of his or her 
+responsibilities, and require all persons and firms retained to assist the Independent 
+Consultant to do so as well. 
+
+(h)    As to the Commission and its Staff, the Independent Consultant’s relationship with 
+MBIA shall not be treated as one between an attorney and client.  The Independent 
+Consultant will not assert the attorney-client privilege, the protection of the work-product 
+doctrine, or any privilege as a ground for not providing any information obtained in the 
+review sought by the Staff. 
+
+(i)    If the Independent Consultant determines that he or she has a conflict with respect 
+to one or more of the areas described in paragraph 71 or otherwise, the responsibilities with 
+respect to that subject shall be delegated to a person selected pursuant to the procedures set 
+forth in subparagraph 71(k) below. 
+
+(j)    For the period of engagement and for a period of two years from completion of the 
+engagement, the Independent Consultant shall not enter into any employment, consultant, 
+attorney-client, auditing or other professional relationship with MBIA, or any of its present 
+or former affiliates, directors, officers, employees, or agents acting in their capacity as 
+such; and shall require that any firm with which the Independent Consultant is affiliated or 
+of which the Independent Consultant is a member, and any person engaged to assist the 
+Independent Consultant in performance of the Independent Consultant’s duties under this 
+Order not, without prior written consent of the Staff, enter into any employment, 
+consultant, attorney-client, auditing or other professional relationship with MBIA, or any of 
+its present or former affiliates, directors, officers, employees, or agents acting in their 
+capacity as such for the period of the engagement and for a period of two years after the 
+engagement.  For the purposes of this section, representation of a person or firm insured by 
+MBIA shall not be deemed a professional relationship with MBIA. 
+
+         MBIA Obligations Relating to the Independent Consultant 
+
+(k)    Within twenty days of the date of entry of this Order, MBIA will submit to the Staff 
+a proposal setting forth the identity, qualifications, and proposed terms of retention of the 
+Independent Consultant. The Independent Consultant’s compensation and expenses shall 
+be borne exclusively by MBIA, and shall not be deducted from any amount due under the 
+provisions of this Order.  After consultation and coordination with the New York 
+Attorney’s Office and the New York Insurance Department, the Staff, within thirty days of 
+such notice, will either (a) approve MBIA’s choice of Independent Consultant and 
+proposed terms of retention or (b) require MBIA to propose an alternative Independent 
+Consultant and/or revised proposed terms of retention within fifteen days.  This process 
+will continue, as necessary, until MBIA has selected an Independent Consultant on 
+retention terms that are not unacceptable to the Staff (and the New York Attorney’s Office 
+and the New York Insurance Department.) 
+
+                                       18
+
+---------------------Page 19---------------------
+
+(l)    MBIA shall adopt all recommendations contained in the report of the Independent 
+Consultant referred to in subparagraph 71(c), above; provided, however, that within fifteen 
+days of receipt of the report, MBIA shall in writing advise the Independent Consultant and 
+the Staff of any recommendations that it considers to be unnecessary or inappropriate.  
+With respect to any recommendation that MBIA considers unnecessary or inappropriate, 
+MBIA need not adopt that recommendation at that time but shall propose in writing an 
+alternative policy, procedure or system designed to achieve the same objective or purpose. 
+
+(m)    As to any recommendation with which MBIA and the Independent Consultant do 
+not agree, such parties shall attempt in good faith to reach an agreement within thirty days 
+of the issuance of the Independent Consultant’s report referred to in subparagraph 71(c), 
+above.  In the event MBIA and the Independent Consultant are unable to agree on an 
+alternative proposal, MBIA will abide by the determinations of the Independent Consultant. 
+
+(n)    MBIA, including the board of directors and committees of the board of directors of 
+MBIA, shall not assert the attorney-client privilege, the protection of the work-product 
+doctrine, or any privilege as a ground for not providing any documents, information, or 
+testimony requested by the Staff related to the review conducted by the Independent 
+Consultant. 
+
+(o)    MBIA shall retain the Independent Consultant for a period of nine months from the 
+date of appointment.  The Staff or MBIA may in either’s discretion extend the Independent 
+Consultant’s term of appointment. 
+
+(p)    Within ninety days of the receipt of the report referred to in subparagraph (c), 
+MBIA shall certify to the Staff that all procedures recommended in the Independent 
+Consultant’s report, and any additional or alternative procedures agreed upon as a result of 
+the procedure set out in subparagraphs 71(l) and (m), have been implemented, or will be 
+implemented on a schedule agreed to by the Independent Consultant, and set out in the 
+certification. 
+
+(q)    With respect to any procedures to be implemented on a schedule agreed to by the 
+Independent Consultant but not yet implemented by the date of the certification required 
+pursuant to subparagraph 71(p), MBIA shall certify to the Staff within ten days after the 
+end of the schedule agreed to by the Independent Consultant that all such procedures have 
+been implemented. 
+
+                                       19
+
+---------------------Page 20---------------------
+
+                                     Accountants’ Report 
+
+       (r)    MBIA shall engage certified public accountants, which may be MBIA’s usual 
+       public accounting firm, to: (a) review whether MBIA acted in a manner consistent with 
+       GAAP and the federal securities laws in its accounting for, and disclosures concerning:  (i) 
+       advisory fees, and (ii) the assets within Triple A One Funding, LLC,  Polaris Funding 
+       Company LLC, and Meridian Funding Company, LLC; and (b) provide a written report of 
+       its review and conclusions to the Staff within sixty days of the entry of this Order 
+       (“Accountants’ Report”). 
+
+                                  Miscellaneous Provisions 
+
+       (s)    MBIA shall, at the Staff’s discretion, (a) expand the scope of the Independent 
+       Consultant’s engagement to include (i) the review of similar transactions or occurrences 
+       referred to at subparagraph 71(c)(i) above, or (ii) following the Staff’s review of the 
+       Accountants’ Report, MBIA’s accounting for, and disclosures concerning:  advisory fees, 
+       or the assets within Triple A One Funding, LLC, Polaris Funding Company LLC, and 
+       Meridian Funding Company, LLC.; and (b) extend any of the deadlines set out in this 
+       paragraph 71. 
+
+       72.    Pay the expenses and fees, if any, for the distribution of any Fair Fund established 
+pursuant to Section 308(a) of the Sarbanes-Oxley Act of 2002 established in the related civil action 
+captioned Securities and Exchange Commission v. MBIA Inc., 07 Civ. 658 (JGK) (S.D.N.Y., filed 
+Jan. 29, 2007). 
+
+       73.    Restate its financial statements in a manner not inconsistent with the findings in this 
+Order. 
+
+       74.    In determining whether to accept the Offer, the Commission has considered the 
+above undertakings. 
+
+                                              20
+
+---------------------Page 21---------------------
+
+                                              IV. 
+
+
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in MBIA’s Offer.2 
+
+       Accordingly, it is hereby ORDERED that: 
+
+       A.     MBIA shall cease and desist from committing or causing any violations and any 
+future violations of Section 17(a) of the Securities Act and Sections 10(b), 13(a), 13(b)(2)(A) and 
+13(b)(2)(B) of the Exchange Act and Rules 10b-5, 12b-20, 13a-1, 13a-11, 13a-13, and 13b2-1 
+thereunder. 
+
+       B.     MBIA shall comply with the undert akings enumerated in Para graphs 71 a nd 72, 
+above. 
+
+ By       the Commission. 
+
+       N                                             ancy M. Morris
+       S                                            ecretary 
+
+2 
+       Pursuant to the Consent of MBIA Inc. to Final Judgment filed in the action captioned 
+       United States Securities and Exchange Commission v. MBIA Inc., MBIA shall pay 
+       disgorgement in the amount of $1 and a civil penalty in the amount of $50 million under 
+       Section 20(d) of the Securities Act of 1933 and Section 21(d)(3) of the Securities 
+       Exchange Act of 1934 (“Exchange Act”), which may be distributed pursuant to the Fair 
+       Fund provisions of Section 308(a) of the Sarbanes-Oxley Act of 2002. 
+
+                                              21
+

@@ -1,0 +1,231 @@
+34-42673
+Home | Previous Page
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 42673 / April 13, 2000
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No.
+1247 / April 13, 2000
+ADMINISTRATIVE PROCEEDING
+File No. 3-10186
+:
+In the Matter of
+: ORDER INSTITUTING
+: PROCEEDINGS PURSUANT TO
+: SECTION 21C OF THE
+PERITUS SOFTWARE SERVICES, INC., : SECURITIES EXCHANGE ACT
+: OF 1934, MAKING FINDINGS,
+: AND IMPOSING CEASE-AND-
+Respondent.
+: DESIST ORDER
+:
+I.
+The Securities and Exchange Commission ("Commission") deems it appropriate that cease-and-desist proceedings be, and they hereby are, instituted against Peritus Software Services, Inc. pursuant to Section 21C of the Securities Exchange Act of 1934 ("Exchange Act").
+II.
+In anticipation of the institution of these proceedings, Peritus has submitted an Offer of Settlement ("Offer"), which the Commission has determined to accept.
+Solely for the purpose of these proceedings and any other proceedings brought by or on behalf of the Commission, or to which the Commission is a party, and without admitting or denying the findings, except those findings pertaining to the jurisdiction of the Commission over it and the subject matter of these proceedings, which Peritus admits, Peritus by its Offer consents to the entry of this Order Instituting Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making Findings, and Imposing Cease-And-Desist Order ("Order").
+III.
+On the basis of this Order and the Offer submitted by Peritus, the Commission makes the following findings:
+A. Respondent
+Peritus is a Massachusetts corporation with its headquarters in Westborough, Massachusetts.
+It sells, among other things, licenses to use its Year 2000 software and services.
+In 1998, Peritus reported revenues of $31.5 million and a net loss of $26.7 million.
+Peritus' common stock is registered with the Commission under Section 12(g) of the Exchange Act and was traded on the NASDAQ national market system from July 2, 1997 until February 3, 1999, when the NASD delisted it for failure to meet the financial criteria for continued listing.
+Peritus' stock currently trades on the OTC Bulletin Board operated by the NASD.
+B. Facts
+1. Summary
+This matter involves Peritus' material overstatements of revenue and net income, and understatements of losses, in quarterly and annual reports for the periods ended September 30, 1997 through June 30, 1998.
+The misstatement for the quarter ended June 30, 1998 occurred because Peritus' former CFO caused the company improperly to record $1.085 million of revenue based on a purchase order for services from a U.S. company. The inclusion of the revenue enabled Peritus to report revenue in line with analysts' estimates.
+This revenue was recorded improperly because Peritus had not sold a software license to the U.S. company or performed any services under that purchase order during the quarter.
+In order to substantiate Peritus' claim to the revenue, the former CFO falsely told Peritus' director of finance and its controller, as well as the company's outside auditors, that the U.S. company had purchased a software license and services and that Peritus had delivered the software to the U.S. company.
+When the auditors, who were examining certain transactions prior to Peritus' announcement of its quarterly financial results, requested that Peritus substantiate that a sale of a software license had occurred, the former CFO obtained a forged letter purporting to document the transaction.
+As a result, assuming no other adjustments, Peritus materially overstated its revenue and understated its pre-tax loss by $1.085 million for the quarter ended June 30, 1998.
+Peritus' misstatements during the third and fourth quarters of 1997 resulted from the company's improper recording of revenue for two transactions for which software was not delivered prior to the end of the quarter.
+As a result, Peritus' revenues and net income before taxes were overstated by $1.2 million for the quarter ended September 30, 1997, and its revenues were overstated and its pre-tax loss was understated by $592,000 for the year ended December 31, 1997.
+During the first quarter of 1998, Peritus improperly recorded revenue for software licenses associated with certain services.
+It was improper to record the revenue because the customers were primarily purchasing services and the services were not performed during the quarter.
+As a result, assuming no other adjustments, Peritus' revenues were overstated and its pre-tax loss was understated by $717,000 for the quarter ended March 31, 1998.1
+Peritus' internal controls did not ensure that software had been delivered prior to recognizing revenue on sales of a software license.
+As a result of the above-described conduct, Peritus violated the issuer reporting, internal controls and recordkeeping provisions of the Exchange Act.
+2. Peritus' Inflated Revenue in the Second Quarter of 1998
+On June 26, 1998, a U.S. company issued a $1.9 million purchase order to Peritus for software renovation services.
+The purchase order stated that it was for services and did not refer to an independent sale of a software license.
+Because Peritus had not provided any services to the U.S. company during the quarter under that purchase order, it was not proper to record revenue.2
+However, in an effort to record the revenue, Peritus' former CFO requested that Peritus' salespeople obtain an amended purchase order from the U.S. company, which would refer to a sale of a software license.
+The U.S. company refused because the purchase order had already been signed.
+Thereafter, the former CFO caused Peritus to record a portion of the $1.9 million purchase order, amounting to $1.085 million, as revenue in the quarter ended June 30, 1998.
+The former CFO arbitrarily decided to attribute $1.085 of the $1.9 million purchase order to the U.S. company's purported purchase of a software license, which enabled Peritus to report revenue in line with analysts' estimates.
+The former CFO falsely told Peritus' director of finance and its controller that the U.S. company had purchased a software license, and that Peritus had delivered the software to the U.S. company.
+In preparation for a review of the company's second quarter results by its independent auditors, the former CFO requested that an official of the U.S. company sign a letter prepared by the CFO, which referred to services and licenses.
+At the former CFO's request, the U.S. company official signed the letter.
+When he signed the letter, the U.S. company official did not attach significance to the word "licenses."
+He intended to purchase only services on behalf of the U.S. company.
+On July 22, 1998, the evening before Peritus was to announce its second quarter financial results, the independent auditors were completing their review of certain transactions.
+The auditors informed the former CFO that the documentation surrounding the U.S. company purchase order, including the letter from the U.S. company official, did not support recognizing revenue based on a sale of a software license.
+In response, the former CFO agreed to obtain further documentation of the purported sale.
+To that end, he prepared another letter for the signature of the U.S. company official.
+This redrafted letter was similar to the first letter, but it included a reference to a software licensing agreement.
+Instead of obtaining the signature of the U.S. company official, however, the former CFO faxed the redrafted letter to a former employee of the U.S. company (the "former employee") who had just accepted a position with Peritus but had not yet begun to work there.
+The former employee forged the U.S. company's official's signature on the letter and returned it to the former CFO.
+Despite his knowledge that the U.S company official had not signed the redrafted letter, the former CFO provided the letter to Peritus' auditors as evidence that a sale of a software license had taken place.
+The former CFO also falsely told the auditors that software had been delivered under the purchase order.
+As a result, the auditors approved recognition of the revenue.
+Recognizing revenue under the U.S. company purchase order did not conform with generally accepted accounting principles ("GAAP").
+It was not proper to record revenue for selling a software license to the U.S. company because no such transactions took place.
+Instead, Peritus sold services to the U.S. company, and did not provide any services within the quarter under the purchase order.
+Thus, no revenue was earned.
+As a result of the former CFO's and the former employee's conduct, Peritus' Form 10-Q, assuming no other adjustments, improperly overstated its revenue by $1.085 million, or 10%, and understated its pre-tax loss by the same amount.
+Had Peritus not recorded revenue from the transaction with the U.S. company, its reported pre-tax loss of $917,000 would have been $2 million.3
+3. Other Improper Revenue Recognition
+a. Third and Fourth Quarters of 1997
+For the third and fourth quarters of 1997, Peritus improperly recorded revenue for two sales of software before delivery of the software.
+On or about August 1, 1997, Peritus received a $1.2 million purchase order for licenses of its Year 2000 software.
+Peritus did not deliver the software to its customer under this purchase order until November 3, 1997.
+Nonetheless, during the quarter ended September 30, 1997, Peritus recognized $1.2 million in revenue based on this transaction, which represented 12% of its reported revenue for that quarter. To recognize revenue on software transactions, GAAP requires that delivery must have occurred.
+AICPA Statement of Position 97-2, Software Revenue Recognition ("SOP No. 97-2").
+In the transaction described in this paragraph, the revenue was improperly recognized because delivery had not occurred prior to the end of the quarter.
+As a result, for the quarter ended September 30, 1997, Peritus' Form 10-Q overstated its revenue and pre-tax income by $1.2 million.
+The revenue should have been recognized in the following quarter when the software was actually delivered.
+On or about November 15, 1997, Peritus negotiated a $660,000 contract with a customer for Year 2000 software.
+Peritus did not deliver the software to the customer until June 1998.
+Nonetheless, during the quarter ended December 31, 1997, Peritus recognized $592,000 in revenue based on that transaction, which represented 4% of its reported revenue for that quarter.
+Under SOP No. 97-2, the revenue should not have been recognized because the software was not delivered prior to the end of the quarter.4
+As a result, for the year ended December 31, 1997, Peritus' Form 10-K overstated its revenue and understated its pre-tax loss by $592,000.
+Peritus improperly recorded revenue from these sales because its internal controls did not ensure that software had been delivered before recognizing revenue on the sale of software.
+After receiving the customer agreement, the finance department did not ascertain whether software had been delivered before recognizing revenue.
+Instead, the finance department assumed that delivery had taken place and recorded the revenue.
+b. First Quarter of 1998
+During the first quarter of 1998, Peritus improperly reported revenue based on several incomplete transactions.
+In mid-February 1998, Peritus negotiated a sale of a software license with a customer that was conditioned on the customer's acceptance of the software within 30 days after installation.
+Although the software was installed on March 4, 1998, the customer rejected it on March 26, 1998, which was within the 30-day period.
+During the quarter ended March 31, 1998, Peritus recognized $225,000 in revenue on that transaction.
+Pursuant to GAAP, the revenue should not have been recognized during the 30-day acceptance period because the sale of the license was incomplete.
+Peritus improperly recorded revenue from this sale because the finance department wrongly assumed that delivery had occurred when the agreement was signed in mid-February, and that the 30-day acceptance period had expired in mid-March without customer rejection.
+In March 1998, Peritus entered into two other contracts to provide software services.
+During the quarter ended March 31, 1998, Peritus recognized $401,000 of revenue for software associated with the services on those transactions.
+Peritus improperly recorded revenue on these transactions because the finance department misunderstood the relevant accounting provisions.
+Under SOP 97-2, it was improper to recognize this revenue because the customers were primarily purchasing services and the services were not performed during the quarter.
+As a result of the recognition of revenue on these transactions and other less significant transactions, Peritus overstated its revenue by 8% in the quarter ended March 31, 1998.
+Assuming no other adjustments, Peritus' Form 10-Q overstated its revenue and understated its pre-tax loss by $717,000 for the quarter ended March 31, 1998.
+4. Peritus' Restatements
+During the fourth quarter of 1998, Peritus announced that it would restate its financial results.
+Peritus' restatement reflected the following changes to its reported revenues and earnings.
+The restatement included transactions and amounts that are not discussed in detail in this Order:
+Net Income Summary (thousands)
+Percentage
+Period
+Reported
+Restated
+Variance
+Variance
+QE 9/30/97
+$
+1,166
+$
+84
+$(1,082)
+1288%
+FYE 12/31/97
+$ (66,910)
+$ (67,490)
+$
+(580)
+1% *
+QE 3/31/98
+$
+(2,566)
+$
+(3,358)
+$
+(792)
+24%
+QE 6/30/98
+$
+(979)
+$
+(1,839)
+$
+(860)
+47%
+* Peritus reported a significant nonrecurring charge in the fourth quarter of its year ended December 31, 1997.
+Disregarding that charge, the $580,000 variance was approximately 17% of restated net income.
+Revenue Summary (thousands)
+Percentage
+Period
+Reported
+Restated
+Variance
+Variance
+QE 9/30/97
+$ 9,852
+$ 8,652
+$ (1,200)
+14%
+FYE 12/31/97
+$40,301
+$39,709
+$
+(592)
+1%
+QE 3/31/98
+$10,150
+$ 9,433
+$
+(717)
+8%
+QE 6/30/98
+$11,830
+$11,083
+$
+(747)
+7%
+C. Legal Analysis
+Section 13(a) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder require issuers whose securities are registered with the Commission pursuant to Section 12 of the Exchange Act to file annual and quarterly reports with the Commission.
+Information contained in such reports must be accurate and complete.
+See SEC v. Kalvex, Inc., 425 F. Supp. 310, 316 (S.D.N.Y. 1975) (requirement that issuer file reports under Section 13(a) embodies the requirement that such reports be true and correct).
+Further, Rule 12b-20, promulgated pursuant to Section 12 of the Exchange Act, requires that all reports filed pursuant to Section 13 contain all information necessary to ensure that the statements made are not materially misleading.
+Sensormatic Electronics Corp., Exchange Act Rel. No. 39791, 1998 SEC LEXIS 532 (Mar. 25, 1998).
+No showing of scienter is necessary to establish a violation of Section 13(a). SEC v. Savoy Indus., Inc., 587 F.2d 1149, 1167 (D.C. Cir. 1978).
+The financial information contained in these periodic reports must conform with Regulation S-X, which generally requires conformity with GAAP. Sensormatic, 1998 SEC LEXIS 532.
+GAAP requires the following for the recognition of revenue from the sale of software:
+(a) persuasive evidence of an arrangement exists; (b) delivery has occurred; (c) the vendor's fee is fixed or determinable; and (d) collectibility is probable.
+SOP No. 97-2.
+Peritus' financial statements in Forms 10-Q and 10-K filed with the Commission for the third quarter of 1997 and the year ended December 31, 1997 did not conform with the revenue recognition requirements of GAAP because they included sales for which delivery had not occurred.
+Peritus' financial statements in Form 10-Q filed with the Commission for the second quarter of 1998 did not conform with the revenue recognition requirements of GAAP because the financial statements included $1.085 million in revenue from the U.S. company transaction.
+Revenue should not have been recognized on this transaction because no sale took place and no services were provided during the quarter under the purchase order.
+Peritus' financial statements in Forms 10-Q for the first and second quarters of 1998 did not conform with the revenue recognition requirements of GAAP because they included revenue from software associated with certain services that were not performed prior to the end of the quarter and revenue from a sale of a software license that was conditioned on acceptance of the software.
+As a result, Peritus violated Section 13(a) of the Exchange Act and Rules 13a-1, 13a-13 and 12b-20 thereunder because it included in its financial results revenue that was not recorded in conformity with GAAP.
+Section 13(b)(2)(A) of the Exchange Act requires every reporting company to make and keep accurate books, records and accounts.
+Section 13(b)(2)(B) of the Exchange Act requires every reporting company to devise and maintain a system of internal accounting controls sufficient to provide reasonable assurances that transactions are recorded as necessary to permit preparation of financial statements in conformity with GAAP.
+Peritus violated Section 13(b)(2)(A) by maintaining books and records which reflected revenue and income from sales transactions which did not conform with the GAAP standards for revenue recognition.
+Peritus violated Section 13(b)(2)(B) by failing to devise and maintain a system of adequate internal controls which, among other things, would ensure verification of delivery prior to the recognition of revenue on each software license transaction.
+IV.
+Based on the foregoing, the Commission finds that Peritus committed violations of Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 13a-1, 13a-13 and 12b-20 thereunder, and deems it appropriate to accept the Offer submitted by Peritus and issue the cease-and-desist order specified herein.
+V.
+In determining to accept the Offer, the Commission considered remedial acts promptly undertaken by Peritus and cooperation afforded the Commission staff.
+VI.
+Accordingly, IT IS ORDERED, pursuant to Section 21C of the Exchange Act, that Peritus cease and desist from committing or causing any violation and any future violation of Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 13a-1, 13a-13 and 12b-20 thereunder.
+By the Commission.
+Jonathan G. Katz
+Secretary
+Footnotes
+1
+During the fourth quarter of 1998, Peritus announced that it intended to restate its
+financial results for the first and second quarters of 1998, the third quarter of 1997, and the year ended December 31, 1997.
+2
+Under generally accepted accounting principles, revenue for providing services can be recognized only upon completion of all or a portion of the services.
+Revenue from a sale of a software license can be recognized on delivery, assuming no significant future obligations remain at the date of delivery.
+3
+Contemporaneous with the entry of this Order, the Commission is filing a civil injunctive action in the U.S. District Court for the District of Massachusetts against the former CFO and the former employee.
+The action against the former CFO alleges that he violated Sections 10(b) and 13(b)(5) of the Exchange Act and Rules 10b-5, 13b2-1 and 13b2-2 thereunder, and that he aided and abetted Peritus' violations of Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 13a-13 and 12b-20 thereunder.
+The action against the former employee alleges that he aided and abetted the former CFO's violations of Sections 10(b) and 13(b)(5) of the Exchange Act and Rules 10b-5 and 13b2-1 thereunder.
+Without admitting or denying the allegations of the complaint, the former CFO has consented to the entry of a permanent injunction and a $25,000 penalty, and the former employee has consented to the entry of a permanent injunction and a $10,000 penalty.
+4
+SOP 97-2 was effective for Peritus in 1998.
+SOP 91-1, Software Revenue Recognition, which was superseded by SOP 97-2, was in effect for Peritus in 1997.
+The noted requirements of SOP 97-2 are consistent with the provisions of SOP 91-1.
+http://www.sec.gov/litigation/admin/34-42673.htm
+Home | Previous Page
+Modified:04/18/2000

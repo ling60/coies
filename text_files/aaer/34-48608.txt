@@ -1,0 +1,144 @@
+NCI Building Systems, Inc.: Admin. Proc. Rel. No. 34-48608; AAER-1892; File No. 11296 / October 9, 2003
+Home | Previous Page
+United States of America
+before the
+Securities and Exchange Commission
+Securities Exchange Act of 1934
+Release No. 48608 / October 9, 2003
+Accounting & Auditing Enforcement
+Release No. 1892 / October 9, 2003
+Administrative Proceeding
+File No. 11296
+In the Matter of
+NCI BUILDING SYSTEMS, INC.
+Respondent.
+::::::::
+ORDER INSTITUTING CEASE-AND-DESIST PROCEEDINGS, MAKING FINDINGS, AND IMPOSING A CEASE-AND-DESIST ORDER PURSUANT TO SECTION 21C OF THE SECURITIES EXCHANGE ACT OF 1934
+I.
+The Securities and Exchange Commission ("Commission") deems it appropriate that cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities Exchange Act of 1934 ("Exchange Act"), against NCI Building Systems, Inc. ("NCI" or "Respondent").
+II.
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer of Settlement (the "Offer") which the Commission has determined to accept.
+Solely for the purpose of these proceedings and any other proceedings brought by or on behalf of the Commission, or to which the Commission is a party, and without admitting or denying the findings herein, except as to the Commission's jurisdiction over it and the subject matter of these proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-and-Desist Proceedings, Making Findings, and Imposing a Cease-and-Desist Order Pursuant to Section 21C of the Securities Exchange Act of 1934 ("Order"), as set forth below.
+III.
+On the basis of this Order and Respondent's Offer, the Commission finds1 that:
+A. The Respondent
+NCI, a Delaware corporation with its headquarters in Houston, Texas, is principally engaged in the manufacture and distribution of metal building components and engineered building systems.
+NCI's common stock is registered with the Commission under Section 12(b) of the Exchange Act and is traded on the New York Stock Exchange.
+As of May 3, 2003, NCI had 18,774,554 shares of common stock outstanding.
+B. Summary
+On April 12, 2001, NCI announced that, due to accounting errors at its metal building components division, the Company's audited financial statements for the fiscal year ended October 31, 2000 and the quarter ended January 31, 2001 would have to be restated.
+On June 8, 2001, following an investigation led by its independent auditors, NCI filed with the Commission a Form 10-K/A, restating its financial statements for both fiscal 1999 and fiscal 2000 and a Form 10-Q/A, restating its financial statements for the first quarter of fiscal 2001.
+According to these filings, NCI overstated net earnings by $1.3 million for fiscal 1999 (2.8 percent), $7.5 million for fiscal 2000 (14.5 percent) and $1.2 million for the first quarter of fiscal 2001 (29 percent).
+During the investigation, NCI and its auditors discovered a number of accounting errors at NCI's Components Division that had resulted in material misstatement of NCI's financial statements over the course of the relevant accounting periods.
+The errors resulted primarily from:
+(1) NCI's failure to update standard costs and scrap metal factors following NCI's migration to a new management information system (the "MIS system") in May 1999, and (2) failed attempts by NCI accounting personnel to manually correct (via unsupported journal entries) for MIS problems in a key inventory liability account.
+C. NCI's New MIS System
+In May 1998, NCI, a manufacturer and distributor of engineered building systems, purchased Metal Building Components, Inc. ("MBCI"), a manufacturer and distributor of metal building components.
+The acquisition effectively doubled the size of NCI.
+At the time of its acquisition, MBCI was in the process of implementing a new information system.
+An Implementation Team of members selected from different areas of the company worked on the project with outside consultants and reported on the status of the implementation to a Steering Committee comprised of senior executives.
+After some delay, the new system became operational on May 1, 1999.
+Users experienced numerous problems with the system.
+In addition, consultants remained on-site assisting with system problems for nearly two years following the installation.
+D. NCI Commences an Investigation That Leads to Restatements
+In approximately November 2000, NCI senior management began questioning the Components Division about high levels of inventory on the books.
+The purchasing department was instructed to halt immediately all purchases of steel.
+Despite these efforts, inventory levels at the Components Division did not decrease as expected.
+Senior management continued to press the purchasing department on this issue, but was unable to obtain an explanation as to why inventory levels were not decreasing more quickly.
+In approximately January or February 2001, senior management approached members of the Components Division accounting department on at least two occasions in an effort to determine the cause of the elevated inventory levels.
+Senior management approached the accounting department to determine whether the company had paid for inventory twice, or had paid for inventory that was not in the system.
+Unable to produce reliable perpetual inventory reports from the Components Division's MIS system in response to the queries from senior management, NCI scheduled full physical inventory counts at all Components Division locations for March 8 and 9, 2001.
+On or about March 22, 2001, following reconciliation and testing of the inventory counts, accounting department personnel determined that there was a large variance between the book and physical inventory numbers.
+The following day, on March 23, 2001, NCI's corporate controller reported to senior management that the Components Division book inventory was approximately $15-18 million over the physical inventory.
+The controller admitted that he had been aware since at least August 2000 that the book inventory was incorrect and that the MIS system, used at the Components Division since May 1999, was not recording certain transactions properly.
+After learning of the inventory variance, NCI management moved aggressively to address the problem.
+The company retained its independent auditors to conduct an investigation into NCI's inventory, accounting methods and management, personnel and MIS system.
+During the investigation, senior management questioned accounting personnel about their knowledge of the inventory problems.
+As a result of the interviews and investigation, management learned that certain accounting employees had been aware of problems with inventory accounting and the MIS system since at least March 2000.
+E. The Errors
+1. MIS System Errors Resulted in the Use of Unsupported Manual Entries
+Errors in the implementation of the new MIS system following the merger caused balances that should have appeared in MBCI's inventory accounts to appear erroneously in an offsetting liability account (the "021090 account"), resulting in understated liabilities related to inventory.
+When an outside consultant was unable to fix these errors in the new MIS system, an accounting employee attempted to correct the MIS system problems by making manual journal entries that increased the balance in the 021090 account and increased the inventory balance, thus masking the fact that there was a problem with the 021090 account.
+These problems were further complicated by certain control issues within the accounting organization, such as unavailability of perpetual inventory records that required the company to rely upon annual physical counts and related reconciliation and "systems" issues, including ineffective use of the MIS system controls and excessive software customization.
+2. Erroneous $2.6 Million Entry in August 2000
+In July 2000, NCI's Components Division conducted annual physical inventory counts at each components plant.
+At the conclusion of the physical counts, the Components Division account manager reconciled and analyzed the results.
+The account manager initially notified NCI's corporate controller that the physical inventory resulted in a "pick-up," as the preliminary results showed that physical inventory was higher than book inventory.
+It was initially determined that the pick-up should be recorded as a $2.6 million debit to inventory with a $2.6 million credit to cost of goods sold ("COGS").
+Soon after, however, the accounting manager informed the controller that the accrued liability account, not COGS, should have been credited.
+Nonetheless, the controller recorded an inventory pick-up of $2.6 million, consistent with the initial analysis.
+This erroneous entry had the effect of understating COGS by approximately $2.6 million.
+This misstatement remained on the company's books until it was discovered during NCI's 2001 investigation into accounting irregularities, resulting in material misstatement of NCI's third quarter fiscal 2000 and year-end fiscal 2000 financial statements.
+3. Other Accounting Problems At the Company
+On May 29, 2001, NCI's auditors completed a written report ("the report") setting forth their conclusions regarding the causes for the accounting errors found at NCI's Components Division. The report identified the following categories of errors and their cumulative, pre-tax effects on the company's financial statements.
+Source of Error
+Cumulative Effect($ millions)
+Inadequate scrap factor in standard costs
+7.6
+Scrap yield systemic issues
+2.4
+Standard cost revision errors
+1.4
+Erroneous book-to-physical adjustment
+2.6
+Improper valuation of "secondary" coils
+1.1
+Metal Prep inadequate inventory accrual
+1.4
+Other
+.3
+Total
+$ 16.8
+a. Inadequate Scrap Factor in Standard Costs
+The majority of errors resulted from the manner in which the new MIS system incorrectly treated scrap metal that was generated from the large rolls, or coils, of steel used during the components manufacturing process.
+According to the auditors, $7.6 million of the restatement was caused by improper calculation of the cost of this scrap metal resulting from initial programming errors in the MIS system.
+NCI intended to calculate a "scrap factor" as part of its inventory standard costs to account for scrap metal that was generated during manufacture.
+However, the scrap factors that were programmed into the new MIS system were inadequate to account for all of the scrap that was generated during manufacture, thus causing the system to understate the scrap expense that resulted from manufacturing processes.
+Because the cost of scrap was not properly accounted for during manufacture, the value of the scrap metal remained on the books erroneously as usable inventory, causing the book inventory to become overstated.
+b. Scrap Yield Systemic Issues
+Another $2.4 million of the errors resulted from the failure of the MIS system to expense scrap for an entire coil of steel in certain situations.
+This problem caused understatement of scrap expense (because the system was not accounting for the scrap generated by the use of the entire coil) and an overstatement of inventory because the value of the scrap remained on NCI's books as inventory.
+These errors affected the accounting periods from the third quarter of fiscal 1999 (when the MIS system was installed) through the first quarter of 2001.
+c. Standard Cost Revision Errors
+In late 2000, when NCI attempted to lower its standard costs within the new MIS system, the change was not successfully integrated into the general ledger function of the MIS system.
+This misstatement of standard costs resulted in a $1.4 million overstatement of book inventory, solely affecting the fourth quarter of fiscal 2000.
+d. Erroneous Book-to-Physical Adjustment
+The erroneous $2.6 million adjustment, as described above, resulted in an approximate $4.6 million error attributable to fiscal 2000.
+e. Improper Valuation of Secondary Coils
+The auditors also uncovered a $1.1 million error resulting from employee failure to "downgrade," or decrease, the inventory value of certain products in the new MIS system when the steel was deemed sub-prime or "secondary" and shipped to another location for sale at a discount.
+The failure of NCI Components Division personnel to properly downgrade this inventory resulted in an overstatement of inventory on the general ledger, as the cost of downgrading of the steel was not expensed.
+This error was cumulative and affected the accounting periods from the third quarter of fiscal 1999 through the first quarter of fiscal 2001.
+f. Metal Prep Inadequate Inventory Accrual
+A $1.4 million error was discovered at Metal Prep, an NCI subsidiary that was not using the new MIS system.
+Accounting personnel at Metal Prep plant locations were using improper weights to account for inventory resulting in an overstatement of back inventory and associated liabilities.
+This error was discovered when a physical inventory count conducted in April 2001 determined that the book inventory at Metal Prep exceeded the physical count by $1.4 million.
+Following an examination of the Metal Prep books, the auditors determined that $1.1 million of the difference resulted from an unexplained "holding of invoices" by NCI accounting department personnel during the end of fiscal 2000 and that an adjustment should have been recorded at that time.
+This error was attributed entirely to the fourth quarter of fiscal 2001.
+F. NCI Undertook Corrective Action
+At the conclusion of its investigation, the auditors provided NCI management with a list of recommended changes designed to ensure that the errors that necessitated the restatement, as well as other minor issues uncovered during the investigative process, would not recur.
+Significant among the proposed recommendations were changes to the MIS system software, the development of a reliable and accurate 021090 liability account, re-evaluation of scrap yields and expenses, monthly physical inventories, and the implementation of an appropriate system of executive approval for all manual journal entries greater than $10,000.
+NCI adopted and implemented each of the recommended remedial measures.
+IV.
+As a result of the conduct described above, NCI violated Section 13(a) of the Exchange Act and Rules 13a-1, 13a-13 and 12b-20 thereunder.
+Because NCI improperly recorded its inventory, its books, records and accounts did not, in reasonable detail, accurately and fairly reflect its transactions and dispositions of assets.
+In addition, NCI failed to implement internal accounting controls relating to its inventory and liability accounts which were sufficient to provide reasonable assurances that these accounts were accurately stated in accordance with generally accepted accounting principles.
+As a result of the conduct described above, NCI violated Section 13(b)(2)(A) of the Exchange Act, which requires reporting companies to make and keep books, records, and accounts which, in reasonable detail, accurately and fairly reflect their transactions and dispositions of their assets.
+Lastly, as a result of the conduct described above, NCI violated Section 13(b)(2)(B) of the Exchange Act, which require all reporting companies to devise and maintain a system of internal accounting controls sufficient to provide reasonable assurances that transactions are recorded as necessary to permit preparation of financial statements in conformity with generally accepted accounting principles.
+V.
+NCI's Remedial Efforts
+In determining to accept the Offer, the Commission considered remedial acts promptly undertaken by Respondent and cooperation afforded the Commission staff.
+In particular, NCI responded immediately upon learning of the errors and moved quickly to self-correct its financial statements.
+NCI also implemented significant remedial measures to prevent future errors and terminated the employment of accounting personnel responsible for concealing the errors from senior management and the company's auditors.
+VI.
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions agreed to in Respondent NCI's Offer.
+Accordingly, it is hereby ORDERED that:
+Respondent NCI cease and desist from committing or causing any violations and any future violations of Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 12b-20, 13a-1 and 13a-13 thereunder.
+By the Commission.
+Jonathan G. Katz
+Secretary
+Endnotes
+1
+The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding on any other person or entity in this or any other proceeding.
+http://www.sec.gov/litigation/admin/34-48608.htm
+Home | Previous Page
+Modified: 10/09/2003

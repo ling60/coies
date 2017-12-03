@@ -1,0 +1,404 @@
+---------------------Page 1---------------------
+
+                                             
+
+                           UNITED STATES OF AMERICA 
+                                       Before the  
+                   SECURITIES AND EXCHANGE COMMISSION 
+
+SECURITIES EXCHANGE ACT OF 1934                                                        CORRECTED 
+Release No.  56083 / July 17, 2007 
+
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No.  2645 / July 17, 2007 
+
+ADMINISTRATIVE PROCEEDING  
+File No.  3-12696 
+
+                                              :    ORDER INSTITUTING CEASE-AND-
+In the Matter of                              :    DESIST PROCEEDINGS, MAKING 
+                                              :    FINDINGS, AND IMPOSING A 
+             Ronald Renjilian,                :    CEASE-AND-DESIST ORDER 
+                                              :    PURSUANT TO SECTION 21C OF 
+Respondent.                                   :    THE SECURITIES EXCHANGE ACT 
+                                              :    OF 1934 
+                                              :
+
+                                        I.      
+
+      The Securities and Exchange Commission (Commission) deems it appropriate that 
+cease-and-desist proceedings be, and hereby are, instituted against Ronald Renjilian 
+(Renjilian) pursuant to Section 21C of the Securities Exchange Act of 1934 (Exchange Act). 
+
+                                        II.     
+
+      In anticipation of the institution of these proceedings, Renjilian has submitted an Offer of 
+Settlement (the Offer) which the Commission has determined to accept.  Solely for the purpose 
+of these proceedings and any other proceedings brought by or on behalf of the Commission or to 
+which the Commission is a party, and without admitting or denying the findings herein, except as 
+to the Commissions jurisdiction over it and the subject matter of these proceedings, which are 
+admitted, Renjilian consents to the entry of this Order Instituting Cease-and-Desist Proceedings, 
+Making Findings, and Imposing a Cease-and-Desist Order Pursuant to Section 21C of the 
+Securities Exchange Act of 1934 (Order), as set forth below. 
+---------------------Page 2---------------------
+
+                                                                                                   
+ 
+
+                                               III. 
+
+                                             FACTS 
+
+              On the basis of this Order and Renjilians Offer, the Commission finds1
+                                                                                 that: 
+
+       A.      Respondent 
+ 
+       Renjilian, age 47, resides in Lafayette, Colorado.  He was Head of Emerging Market 
+Sales at Quovadx from November 2002 until April 2004.  Renjilian is currently self-employed. 
+        
+       B.      Related Party 
+ 
+       Quovadx, Inc. (Quovadx), a Delaware corporation based in Englewood, Colorado, is a 
+software company that sells software licenses and related services to the health care industry.  
+Quovadxs stock was registered with the Commission under Section 12(g) of the Exchange Act 
+during the relevant period and traded on the NASDAQ National Market.  During 2002 and 2003, 
+Quovadx derived about one-third of its reported revenue from sales of software licenses, with the 
+rest coming from maintenance and service contracts.  Quovadx separately reported its software 
+licensing revenue, which included sales of both software and licenses.2
+        
+       C.      Summary 
+        
+       Between 2002 and 2003, Quovadx improperly recognized over $12 million in revenue 
+from software licensing deals with four of its customers and materially overstated its software 
+licensing revenues in its filings with the Commission.  As a result of these transactions, Quovadx 
+violated the reporting provisions of the Exchange Act.  Renjilian was involved in the 
+negotiations for Quovadx  in connection with the transactions involving two of the four 
+customers, Sourceworks and Infotech, and knew or should have known that Quovadx could not 
+have recognized revenue from these transactions.  Accordingly, Renjilian was a cause of 
+Quovadxs reporting violations.   
+
+       On March 15, 2004, when it could not collect payment from Infotech for transactions it 
+had previously booked as revenue, Quovadx announced that it would restate its prior results to 
+decrease revenue by approximately $11 million.  Quovadxs stock price fell 29%, and dropped 
+further after Quovadx announced on May 13, 2004, that it was reviewing two additional 
+contracts.  By August 16, 2004, when Quovadx restated its results for the second time to correct 
+for additional transactions, including Sourceworks, Quovadxs stock was trading at $1.65 per 
+share. 
+
+                                                 
+1
+              The findings herein are made pursuant to Respondents Offer of Settlement and are not binding 
+       on any other person or entity in this or any other proceeding. 
+2
+              Throughout this Order, software sales and software license sales are used interchangeably. 
+
+                                               -2-
+---------------------Page 3---------------------
+
+                                                                                                 
+ 
+
+       D.     Applicable Accounting Principles for Software Sales 
+
+       As a public company, Quovadx was required to file quarterly and annual reports with the 
+Commission that presented its financial results in conformity with Generally Accepted 
+Accounting Principles (GAAP).  AICPA Statement of Position 97-2, Software Revenue 
+Recognition (SOP 97-2) governs the recognition of revenue for sales of software and software 
+licenses. 
+
+       Under SOP 97-2, a company may not recognize revenue from a software license sale 
+unless and until there is:  persuasive evidence of an arrangement; delivery of the software; a 
+fixed or determinable sellers fee; and a reasonable probability of collecting the accounts 
+receivable.  Further, if payment is substantially contingent on the buyers success in distributing 
+the product to the end user, either due to the terms of the deal or because the buyer is so 
+undercapitalized that it cannot pay until it sells the product, the seller may not recognize the 
+software license revenue at the time of sale. 
+
+       Between 2002 and 2003, in a series of transactions with four different customers, 
+Quovadx recognized revenue that was not in conformity with SOP 97-2 and that materially 
+overstated the companys financial results. 
+
+       E.     The Sourceworks Transaction 
+
+       In early 2003, Renjilian solicited the Veterans Administration (VA) to buy licenses for 
+Quovadxs Insurenet software, a product for processing patient medical insurance information.  
+The VA refused to buy the licenses, but expressed an interest in using the software and 
+periodically paying Quovadx a fee based on the number of insurance transactions that it 
+processed.  Quovadx was not interested in this proposal.  Renjilian therefore suggested a plan, 
+approved by members of Quovadxs then senior management, whereby Quovadx would sell the 
+licenses to a third-party, which would then enter into a contract with the VA to offer the software 
+on a per-use basis.   
+
+       Renjilian then contacted a Colorado-based venture capital firm and proposed that the firm 
+buy the Insurenet licenses from Quovadx.  Renjilian told the venture capital firm that, in return, 
+Quovadx would negotiate a contract for the venture capital firm to license the software on a per-
+use basis to the VA.  As the end of the second quarter of 2003 approached, the venture capital 
+firm agreed in principle to this proposal.  However, because it was not a software reseller, the 
+firm repeatedly said that it would not pay for the Insurenet licenses unless and until Quovadx 
+obtained the promised user contract.  Renjilian expressed confidence that Quovadx would obtain 
+the contract with the VA early in the third quarter.  With that understanding, the venture capital 
+firm created a company, Sourceworks USA LLC, in late June 2003 to buy the Insurenet licenses 
+from Quovadx and enter into the user contract with the VA.  On June 30, 2003, Quovadx and 
+Sourceworks executed a contract requiring Sourceworks to pay Quovadx $600,000 for the 
+Insurenet licenses.  The contract, which gave Sourceworks six months to pay Quovadx, did not 
+indicate that Sourceworks payment to Quovadx was contingent upon Quovadx successfully 
+negotiating a VA deal for Sourceworks. 
+
+                                              -3-
+---------------------Page 4---------------------
+
+                                                                                                   
+ 
+
+       Despite the fact that Sourceworks presented financial statements to Quovadx that showed 
+it could not pay for the Insurenet licenses unless the venture capital firm provided the funds, 
+which in turn depended upon securing the VA contract, Quovadx recognized the entire $600,000 
+in the second quarter, based upon the June 30, 2003 contract.  It issued a press release on July 23, 
+2003, touting the companys second quarter financial results, which included the Sourceworks 
+revenue.  For the next eight months, Quovadx attempted to secure a contract for Sourceworks.  
+However, these negotiations ultimately failed.  As a result, other than one $30,000 payment in 
+August 2003, Sourceworks did not pay Quovadx for the Insurenet licenses.    3
+                                                                               Because 
+Sourceworks did not pay the remaining $570,000, Quovadxs new senior management and 
+auditor reviewed the Sourceworks transaction in the Spring of 2004 and reversed the revenue as 
+part of the companys second restatement. 
+
+       As a result of its improper recognition of the Sourceworks revenue, Quovadx overstated 
+its software licensing revenues by $570,000, or approximately 9%, in the second quarter of 
+2003.4
+
+       F.      The Infotech Transactions 
+
+       In the third and fourth quarters of 2003, Quovadx improperly recognized a total of $11.1 
+million in software licensing revenue from a series of transactions with Infotech Network Group 
+(Infotech), a company based in India. 5
+                                           Because each of these transactions had material 
+contingencies and the collection of payment was not probable, Quovadx was precluded from 
+recognizing this revenue.  Moreover, even after Infotech did not pay for its third quarter 2003 
+purchases, Quovadx shipped additional software to Infotech and recognized revenue on those 
+sales in the fourth quarter of 2003.  Renjilian was involved in negotiating these deals with 
+Infotech and knew or should have known about the material contingencies and the improbability 
+of collecting payment from Infotech. 
+
+               1.     The Third Quarter Transactions 
+
+       In early September 2003, Quovadx and Infotech executed two related agreements.  Under 
+the first (the distributor agreement), Infotech agreed to buy $5 million of software licenses 
+from Quovadx and to be the exclusive distributor of Quovadx products in India.  Under the 
+second agreement (the outsourcing agreement), Quovadx agreed to pay Infotech to 
+perform certain services and conduct various research and development projects, pursuant to 
+Statements of Work that would be subsequently negotiated.  The agreements required both 
+parties to fund letters-of-credit to guarantee the payment of their respective obligations.  The 
+                                                 
+3
+              Sourceworks has since demanded that Quovadx return the $30,000; Quovadx has not done so.  
+       Sourceworks, in turn, has rejected Quovadxs demand for payment of the $570,000 balance due 
+       on the purchase of the licenses. 
+4
+              Quovadx overstated its software licensing revenue in its July 23, 2003, Form 8-K, which 
+       incorporated its preliminary earnings results, its quarterly report for the second quarter of 2003, 
+       and its annual report for 2003. 
+5
+              Infotech Network Group represented itself to Quovadx as a consortium of major Indian 
+       companies that sought outsourced research and development projects from U.S. software 
+       companies. 
+
+                                               -4-
+---------------------Page 5---------------------
+
+                                                                                                   
+ 
+
+distributor agreement required that Infotech fund a $5.46 million letter-of-credit before Quovadx 
+shipped any software to it. 
+
+       As required by the outsourcing agreement, Quovadx immediately funded a letter-of-
+credit for $2.46 million to pay Infotech as it rendered outsourcing services.  By mid-September, 
+Infotech had not funded its letter-of-credit.  Quovadx nevertheless shipped the $5 million of 
+software licenses to Infotech.  In an attempt to meet Quovadxs quarterly revenue goals, 
+Renjilian was directed to solicit Infotech to buy more software licenses before the end of the 
+third quarter.  Infotech agreed to do so, on the condition that Quovadx guarantee pre-payment of 
+outsourcing funds.  On September 30, 2003, the parties signed supplemental contracts under 
+which Infotech was to buy $2.1 million of software licenses and Quovadx was to pre-pay 
+Infotech over $1 million for unspecified outsourcing work.  Quovadx shipped the additional $2.1 
+million in software to Infotech on the last day of the quarter.  Quovadx, with the concurrence of 
+its outside auditor, offset the revenue from these two purported sales by its estimated outsourcing 
+obligation to Infotech and recognized approximately $4.6 million in revenue for the quarter.  
+Quovadx planned to recognize the remaining revenue as Infotech performed outsourcing 
+services.   
+
+       In early October 2003, before Quovadx filed its quarterly report for the third quarter, 
+Infotech told Renjilian and others at Quovadx that it did not have enough money to fund its 
+required letters-of-credit.  Quovadx agreed to wire $410,000 to assist Infotech in making a 
+margin payment to an Indian bank, purportedly to establish and fund the required letters-of- 
+credit.6
+         In return, Infotech gave Quovadx a letter from the Indian bank expressing confidence 
+that Infotechs letter of credit would be opened (not funded) by October 21, 2003.  Quovadx 
+relied on this letter as support for Infotechs supposed ability to pay and recognized revenue on 
+the third quarter Infotech transactions.     
+
+       On October 22, 2003, Quovadx issued both a press release announcing the distribution 
+and software development agreement with Infotech and a preliminary earnings release touting a 
+183% increase in software licensing revenue over the third quarter of 2002.  The Infotech 
+transaction accounted for approximately 60% of Quovadxs reported third quarter software 
+licensing revenue.  Quovadxs share price increased over 25% on the news of the third quarter 
+results. 
+
+               2.     The Fourth Quarter Transactions 
+
+       By mid-December 2003, although it appeared to Quovadx that Infotech had established 
+one letter-of-credit, Infotech still had not funded the required letters-of-credit and had not paid 
+for either of its third quarter purchases.  Infotech told Renjilian that the software had still not 
+been released from customs in India, which Infotech claimed was necessary before it could fund 
+its letter-of-credit.  Despite these significant issues, Quovadx, hoping to meet Wall Street 
+expectations, asked Infotech to make another software purchase.  Infotech told Renjilian that it 
+was unwilling to agree to another software purchase unless Quovadx immediately wired 
+
+                                                 
+6
+              In fact, unbeknownst to Quovadx, Infotech never used the money to establish and fund a letter-of-
+       credit. 
+
+                                               -5-
+---------------------Page 6---------------------
+
+                                                                                                  
+ 
+
+$500,000 to it as part of the outsourcing prepayment to which Quovadx had committed at the end 
+of the third quarter.  Quovadx made this payment, even though Infotech had not met the 
+conditions for prepayment under the outsourcing agreement for $440,000 of this amount.  To 
+preserve its legal remedies, Quovadx also sent Infotech a default letter for failing to pay for its 
+third quarter purchases.  Thus, by mid-December Quovadx had sent $910,000 to Infotech, yet 
+Infotech had not paid for any of the software licenses that it had bought from Quovadx.7
+
+       On December 31, 2003, Infotech signed a contract, to buy $6.5 million of software 
+licenses from Quovadx.  Quovadx simultaneously signed a supplemental agreement to pay 
+Infotech up to $1.94 million for any outsourcing work that Infotech actually performed through 
+August 2004.  Renjilian negotiated both contracts on behalf of Quovadx.  Quovadx also provided 
+Infotech assurances that it would increase Quovadxs outsourcing to Infotech significantly over 
+the coming year.     
+
+       On February 11, 2004, Quovadx issued its preliminary fourth quarter earnings release 
+(attached to a Form 8-K filed the same day), which included the $6.5 million in Infotech 
+revenue.  Quovadx issued this release even though Infotech had not paid for the third quarter 
+purchases and Infotechs ability to pay for the fourth quarter purchases depended on its ability to 
+resell the software licenses.  The earnings release claimed that Quovadxs total annual revenue 
+for 2003 had increased about 30% and that its year-over-year software licensing revenue had 
+grown about 173%.  The Infotech transactions accounted for virtually the entire increase in 
+Quovadxs software licensing revenue.  After this announcement, Quovadxs stock price 
+increased by about 10%, closing at $6.66 per share on February 12. 
+
+       At the time of Quovadxs year-end audit in mid-February 2004, Infotech still had not 
+funded a letter-of-credit or made any payments for either the third or fourth quarter software 
+purchases.  In early March 2004, Quovadxs auditor advised it that the company would have to 
+reverse the Infotech revenue from both the third and fourth quarters unless Infotech made a 
+substantial payment before Quovadxs annual report was due to be filed.  On March 8, 2004, 
+therefore, Quovadx, following negotiations in which Renjilian participated, authorized Infotech 
+to draw down the $1.94 million balance on Quovadxs outsourcing letter-of-credit, with the 
+understanding that Infotech would use these funds to arrange bank financing to pay Quovadx for 
+the software purchases.  Immediately after receiving the $1.94 million, Infotech told Quovadx 
+that it believed it was entitled to this money under the outsourcing agreement and would not use 
+it to pay Quovadx for the software.  When Quovadx requested that Infotech return the money, 
+Infotech refused.  Infotech never returned the money or paid for the software. 
+
+       On March 15, 2004, Quovadx announced that it would reverse all revenue on sales to 
+Infotech in the third and fourth quarters of 2003.  On March 18, Quovadx filed its annual report 
+for 2003 which restated its financial results for the third and fourth quarters of 2003 and removed 
+$11.1 million in revenue from transactions with Infotech.  In response to these events, the 
+Quovadx board of directors commenced an investigation into the Infotech relationship which 
+                                                 
+7
+              During the fourth quarter, Quovadx provided Infotech with about $10,000 in outsourcing work, 
+       and trained some Infotech subcontractors on the use of Quovadx software.  Infotech eventually 
+       performed outsourcing work for Quovadx worth about $500,000 based on the December 2003 
+       prepayments. 
+
+                                               -6-
+---------------------Page 7---------------------
+
+                                                                                                 
+ 
+
+subsequently encompassed two other transactions, including Sourceworks.  Shortly thereafter, 
+Quovadxs chief executive officer and chief financial officer resigned.   On May 14, 2004, 
+Quovadx filed a Form 8-K in which it indicated that, as a result of its internal investigation, 
+Quovadx had discontinued any further severance payments to its former chief executive officer 
+and chief financial officer and demanded the return of severance payments already paid and prior 
+compensation, including bonuses.  Quovadx also indicated that it had terminated its executive 
+vice president of sales.   
+
+                                              IV. 
+                                                 
+                                  LEGAL CONCLUSIONS 
+
+       Reporting Violations 
+
+       Section 13(a) of the Exchange Act and Rules 13a-1, 13a-11, and 13a-13 thereunder 
+require that issuers with securities registered under Section 12 of the Exchange Act, such as 
+Quovadx, file annual and quarterly reports with the Commission and keep this information 
+current.  These reports must be complete and accurate in all material respects.  United States v. 
+Bilzerian, 926 F.2d 1285, 1298 (2d Cir. 1991); SEC v. Savoy Indus., Inc., 587 F.2d 1149, 1165 
+(D.C. Cir. 1978), cert. denied                 , 440 U.S. 913 (1979).  Rule 12b-20 of the Exchange Act requires 
+that an issuers periodic reports include any additional information necessary to make the 
+required statements, in the light of the circumstances under which they are made, not 
+misleading.  The issuers legal obligation extends not only to accurate quantitative reporting of 
+the required items in its financial statements, but also to other information, qualitative as well as 
+quantitative, needed to enable investors to make informed decisions.  In re Sony Corp. and 
+Sumio Sano, 67 SEC Docket 1609, 1998 WL 439898 at *4 (Aug. 5, 1998). 
+
+       Quovadx improperly recognized revenue from the transactions with Sourceworks and 
+Infotech.  As a result, Quovadxs annual report for 2003, quarterly reports for the second and 
+third quarters of 2003, and earning releases for the second, third, and fourth quarters of 2003 
+contained materially false and misleading statements concerning Quovadxs software licensing 
+revenue.  Accordingly, Quovadx violated Section 13(a) of the Exchange Act and Rules 12b-20, 
+13a-1, 13a-11, and 13a-13 thereunder. 
+
+       Because he was involved in negotiating the transaction with Sourceworks, Renjilian 
+knew or should have known that Sourceworks could not and would not pay for the Insurenet 
+software license unless and until Quovadx negotiated a contract between Sourceworks and the 
+VA for the use of the software.  Similarly, Renjilian was involved in negotiating the deals 
+between Quovadx and Infotech in third and fourth quarters of 2003.  Renjilian was also aware 
+that Infotech had not funded the required letters-of-credit for these purchases and, accordingly, 
+knew or should have known that Quovadx was not reasonably likely to collect payment from 
+Infotech.  Accordingly, Renjilian was a cause of Quovadxs violations of Sections 13(a) of the 
+Exchange Act and Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder.   
+
+                                                 
+
+                                              -7-
+---------------------Page 8---------------------
+
+                                                                                               
+ 
+
+                                              V. 
+                                                
+                                         FINDINGS 
+
+       Based on the foregoing, the Commission finds that Renjilian was a cause of Quovadxs 
+violations of Section 13(a) of the Exchange Act and Rules 12b-20, 13a-1, 13a-11, and 13a-13 
+thereunder. 
+
+                                             VI. 
+
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Renjilians Offer. 
+
+       Accordingly, IT IS HEREBY ORDERED that: 
+
+       Pursuant to Section 21C of the Exchange Act, Renjilian cease and desist from causing 
+any violations and any future violations of Section 13(a) of the Exchange Act and Rules 12b-20, 
+13a-1, 13a-11, and 13a-13 thereunder. 
+
+       By the Commission. 
+
+        
+
+                                                  Nancy M. Morris  
+                                                  Secretary 
+
+ 
+
+                                             -8-

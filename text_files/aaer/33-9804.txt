@@ -1,0 +1,1847 @@
+---------------------Page 1---------------------
+
+                                                                                       
+
+                         UNITED STATES OF AMERICA 
+                                    Before the 
+                  SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES ACT OF 1933 
+Release No. 9804 / June 5, 2015 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 75110 / June 5, 2015 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3662 / June 5, 2015 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-16575 
+ 
+                                           ORDER INSTITUTING  PUBLIC 
+In the Matter of                           ADMINISTRATIVE AND CEASE -AND-
+                                           DESIST PROCEEDINGS PURSUANT TO 
+      COMPUTER SCIENCES                    SECTION  8A OF THE SECURITIES ACT OF 
+      CORPORATION,  MICHAEL                1933, SECTION S 4C AND 21C OF THE 
+      LAPHEN , MICHAEL                     SECURITIES EXCHANGE ACT OF 1934, 
+      MANCUSO, WAYNE BANKS,                AND RULE 102(e) OF THE COMMISSION’S 
+      CLAUS ZILMER,  AND PAUL                                    
+      WAKEFIELD                         
+                                                                         
+Respondent s.                                       “       ”  
+ 
+ 
+                                             
+ 
+                                        I. 
+ 
+      The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities 
+Exchange Act of 1934 (“Exchange Act”) against Claus Zilmer and pursuant to Section 8A of the 
+Securities Act of 1933 (“Securities Act”) and Section 21C of the Exchange Act against Computer 
+Sciences Corporation (“CSC”), Michael Laphen, Michael Mancuso, Wayne Banks, and Paul 
+Wakefield (collectively with Zilmer, “Respondents”); and that public administrative proceedings 
+be, and hereby are, instituted against Laphen, Banks, and Wakefield pursuant to Exchange Act 
+Section 4C and Rule 102(e)(1)(iii) of the Commission’s Rules of Practice.   
+
+ 
+---------------------Page 2---------------------
+
+                                                                                                      
+
+                                                 II. 
+ 
+       In anticipation of the institution of these proceedings, Respondents have submitted Offers 
+of Settlement (the “Offers”) that the Commission has determined to accept.  Solely for the purpose 
+of these proceedings and any other proceedings brought by or on behalf of the Commission, or to 
+which the Commission is a party, and without admitting or denying the findings herein, except as 
+to the Commission’s jurisdiction over them and the subject matter of these proceedings, which are 
+admitted, Respondents consent to the entry of this Order, as set forth below.   
+        
+                                                 III. 
+ 
+                                                                                   1
+       On the basis of this Order and Respondents’ Offers, the Commission finds     : 
+
+                                           SUMMARY 
+ 
+       1.      From 2009 to 2011, CSC engaged in a wide-ranging accounting and disclosure 
+fraud that materially overstated its earnings and concealed from investors significant problems 
+with its largest contract.  Former CEO Michael Laphen approved CSC’s use of improper 
+accounting models for the company’s multi-billion dollar contract with the United Kingdom’s 
+National Health Service (“NHS”).  Laphen and former CFO Michael Mancuso also failed to 
+make required disclosures and made misleading statements to investors about the NHS contract.  
+And in one quarter, CSC’s former Finance Director for the NHS account prepared a fraudulent 
+accounting model in which he included made-up assumptions to avoid a negative hit to CSC’s 
+earnings.  As this was occurring in the United States and the United Kingdom, senior CSC 
+finance personnel in Australia fraudulently overstated the company’s earnings using “cookie jar” 
+reserves and by failing to record expenses as required.  Separately, CSC finance personnel in 
+Denmark engaged in a variety of fraudulent accounting manipulations that also overstated the 
+company’s earnings.  Throughout this period, CSC’s most senior executives and various finance 
+personnel repeatedly failed to comply with straightforward accounting standards and disclosure 
+rules.  
+
+                      2
+       2.      CSC’s     contract with the NHS was a significant source of concern for the 
+company  .  It was the company’s largest, and most high profile contract, and CSC experienced 
+substantial difficulties performing as required, even after the contract was amended in 2009 to 
+give CSC additional time to meet deadlines it had missed.  CSC’s failure to meet its deadlines 
+would have significantly reduced the profit the company could make from the project.  Under the 
+
+                                                 
+1
+        The findings herein are made pursuant to Respondents’ Offers of Settlement and are not binding on any 
+other person or entity in this or any other proceeding.  
+
+2
+       The  NHS awarded the contract to a CSC affiliate in the UK, CSC Computer Sciences Ltd., which 
+performed the NHS contract.  Throughout this document “CSC” may refer to CSC, the issuer, or its foreign 
+subsidiaries or affiliates. 
+
+                                                   
+                                                  2 
+---------------------Page 3---------------------
+
+                                                                                                 
+
+relevant  accounting  standards , every time CSC forecasted that it would earn a lower  profit 
+margin  than it had previously expected, it was required to report a reduction in its earnings.   
+
+       3.     In September 2009, CSC finance personnel responsible for the NHS contract 
+prepared an initial accounting model that reflected the NHS contract was no longer profitable.  
+This was a significant change from prior models, which had forecast a 16% profit margin.  In 
+response, Robert Sutcliffe, the Finance Director on the NHS account, led a fraudulent “gap 
+closing” exercise in which his team simply contrived assumptions about additional revenue CSC 
+would earn on the contract.  These assumptions had no basis in reality.  The accounting model 
+they prepared artificially restored the forecasted profit margin to its previous level, thereby 
+avoiding the material reduction in operating income that GAAP required CSC to record.  
+
+       4.     With delays continuing, the NHS account team warned Laphen and Mancuso that 
+CSC would need a “major contract reset” and would need to “re-cast” its accounting models in 
+the future.  In late 2009, Laphen and Mancuso were aware that CSC began using proposed 
+contract amendments that CSC was negotiating with the NHS, and that Laphen and Mancuso 
+hoped the UK government would agree to implement, as the basis for CSC’s accounting models 
+rather than the enforceable contract with the NHS.  They did so even though the assumptions in 
+the company’s accounting models bore scant relation to the actual contract.  Most significantly, 
+notwithstanding CSC’s delays and the UK government’s criticism of CSC’s performance, these 
+accounting models assumed the UK government would agree to pay substantially higher prices 
+than required by the contract for less work so that CSC could maintain its expected profit 
+margin.   
+
+       5.     As CSC’s delays continued and its profit margin under the enforceable contract 
+declined, and with CSC and the NHS unable to reach agreement on potential amendments, the 
+account team avoided recording material reductions in CSC’s earnings by adjusting the models 
+to assume the UK government would agree to pay progressively higher prices.  CSC included 
+these assumptions in its models for a two-year period despite the NHS’s repeated rejections of 
+CSC’s proposed amendments, even though NHS personnel and UK government officials stated 
+frequently they were unhappy with CSC’s performance, and even after the Chair of the UK’s 
+Public Accounts Committee was quoted publicly as saying CSC’s proposed contract 
+amendments were “unspeakably unacceptable” and “[t]here is no way these guys ought to be 
+working for the government.”  This was a clear violation of GAAP.  CSC also failed to comply 
+with GAAP by failing to impair the value of its contract assets when it ceased to be probable that 
+the company would recover its investment in the program. 
+
+       6.     CSC also made misleading statements to investors and failed to make required 
+disclosures regarding the NHS contract.  On two occasions in 2009, Laphen told investors that 
+CSC had met, and expected to continue meeting, its deadlines.  These disclosures were 
+misleading because they failed to inform investors that CSC was not achieving the milestones set 
+
+                                                 
+                                               3 
+---------------------Page 4---------------------
+
+                                                                                                       
+
+                                                                                3
+forth in the contract; that Laphen was referring to informally  revised  deadlines;  that CSC was 
+engaged in an ongoing dispute with the NHS about which milestones applied; that CSC       ’s 
+deployment projections were falling far short of expectations; and that the NHS had sent letters 
+asserting that CSC was in default and demanding that CSC pay penalties.   
+
+       7.      In violation of multiple disclosure requirements, Laphen and Mancuso repeatedly 
+failed to inform investors of these issues.  They also failed to disclose that CSC was calculating 
+its profit margin for the NHS contract using its proposed contract amendments — instead of the 
+binding contract between the parties — and that CSC would have to record a material decrease in 
+its earnings unless the NHS and various other UK government bodies agreed to amend the contract 
+to require them to pay CSC significantly higher prices.  
+
+       8.      In addition, CSC made misleading statements and failed to make required 
+disclosures to investors about the relationship between the NHS contract and one of CSC’s most 
+                                             4
+important financial metrics, free cash flow.     The  NHS   had  agreed to provide CSC   cash advances 
+to help offset the company  ’s costs.  Although GAAP allowed CSC to record these advances as 
+operating cash flow, rather than financing cash flow, they were effectively loans.  CSC 
+effectively paid the NHS a 5% interest rate for the advances and refunded the portions of the 
+advances that CSC was unable to earn in revenue.  CSC’s former Treasurer had recommended to 
+Mancuso that CSC lower the amounts of the advances because the high costs of the arrangement 
+resulted in an economic loss for CSC.  However, Mancuso rejected this recommendation.  He 
+directed that the advances continue because they allowed CSC to meet its cash flow targets.  The 
+amounts of these advances as a percentage of CSC’s free cash flow, and the amounts CSC 
+returned to the NHS as its delays continued, increased substantially — peaking at 63% of CSC’s 
+free cash flow in Q4FY2011, with the company subsequently returning 93% of that advance 
+when the NHS finally ended the arrangement in FY2012.     
+
+       9.      In violation of SEC disclosure rules, Mancuso repeatedly failed to disclose that 
+these unusual advances from the NHS comprised significant proportions of its free cash flow 
+results.  Moreover, on two occasions, Mancuso made misleading statements to investors about 
+the advances.  During CSC’s year-end earnings calls for FY2009, a financial analyst asked 
+Mancuso whether CSC had received “any large prepayments” from NHS or other clients during 
+the fourth quarter of FY2009.  Even though he knew that CSC had indeed received a large 
+prepayment from the NHS in that period, Mancuso replied that the company had not.  And during 
+CSC’s year-end earnings call for FY2010, Mancuso led investors to believe CSC had not 
+received a large advance from the NHS, telling investors that CSC had achieved its free cash 
+flow results “the old fashioned hard way.”  Mancuso attributed CSC’s cash flow results, which he 
+
+                                                 
+3
+        The NHS agreed to a new set of deadlines it identified as “highest priorities (and bare minimum[s])” but 
+noted that these were not “in any way a waiver of CSC’s obligations to deliver its contracted requirements.” 
+ 
+4
+       Although free cash flow is a non-GAAP   metric , many CSC analysts consider it to be an important 
+performance metric because it reflects how much cash the company is generating. 
+
+                                                    
+                                                  4 
+---------------------Page 5---------------------
+
+                                                                                                
+
+described as “a glowing achievement” and “not unnatural,” to improvements in working capital 
+and receivables.   
+
+       10.    In addition to the accounting and disclosure violations involving the NHS contract, 
+two of CSC’s international businesses ignored basic accounting standards to increase their reported 
+profits.  In Australia, CSC’s two most senior finance executives in the country, regional CFO 
+Wayne Banks and Controller Edward Parker, fraudulently manipulated the company’s earnings 
+through excess accruals they maintained in “cookie jar” reserves and by failing to record expenses 
+as required.  This fraud alone overstated CSC’s consolidated pretax income by over 5% in 
+Q1FY2009, and allowed CSC to meet analysts’ earnings targets in that period.   
+
+       11.    And during FY2010, CSC’s Nordic region engaged in a variety of accounting 
+manipulations to fraudulently inflate its operating results.  These included improperly accounting 
+for client disputes, overstating assets, and capitalizing expenses.  The fraudulent conduct involved 
+Finance Director of the Nordic region Paul Wakefield and other employees in Denmark.  CSC’s 
+Nordic region engaged in this misconduct to improve operating income in a region that was 
+struggling to achieve budgets set by CSC management in the U.S.  During FY2010, the accounting 
+fraud in Denmark overstated CSC’s consolidated pre-tax income by 5% in Q1FY2010, 3% in 
+Q2FY2010, 4% in Q3FY2010, and 7% in Q4FY2010. 
+ 
+                                      RESPONDENTS 
+ 
+       12.    Computer Sciences Corporation sells information technology services.  It is a 
+Nevada corporation headquartered in Falls Church, VA.  CSC’s common stock is currently 
+registered with the Commission pursuant to Exchange Act Section 12(b) and trades on the New 
+York Stock Exchange. 
+
+       13.    Michael Laphen, 64, was CEO and Chairman of CSC from 2007 until his 
+retirement in March 2012, after 35 years with the company.  Laphen holds a bachelor’s degree in 
+Accounting from Pennsylvania State University and an MBA from the University of 
+Pennsylvania.  Laphen was licensed as a certified public accountant in Pennsylvania from 1975 to 
+1990, when his license became inactive. 
+
+       14.    Michael Mancuso, 72, was CFO of CSC from December 2008 until his retirement 
+in May 2012.  Previously, Mancuso was the CFO of General Dynamics Corp.  Mancuso holds a 
+bachelor’s degree in Business Administration from Villanova University and an MBA from 
+Eastern College.  
+
+       15.    Wayne Banks, 47, a citizen and resident of Australia, was CSC Australia’s CFO 
+from 2006 until he resigned in July 2011.  Banks has a bachelor’s degree in Business and is a 
+Chartered Accountant in Australia.   
+ 
+       16.    Paul Wakefield, 42, a citizen and resident of the UK, was the Finance Director of 
+the Nordic region from April 2008 to April 2010.  Wakefield resigned from CSC in April 2010.  
+
+                                                
+                                               5 
+---------------------Page 6---------------------
+
+                                                                                                   
+
+Wakefield is a  n associate  of the Chartered Institute of Management Accountants in the U K.  
+Wakefield entered into a cooperation agreement with the Division of Enforcement pursuant to 
+which he has agreed to cooperate fully in the SEC’s investigation; in any related enforcement 
+litigation or proceedings to which the SEC is a party; and, when directed by SEC Enforcement 
+Division staff, in an official investigation or proceeding by any federal, state, or self-regulatory 
+organization. 
+        
+       17.    Claus Zilmer, 48, a citizen and resident of Denmark, was a Finance Manager for 
+CSC’s Nordic region from April 2008 until June 2010.  Zilmer left CSC in September 2010.  
+Zilmer holds a degree in Economics and Business Administration from Odense University, now 
+known as the University of Southern Denmark.  
+ 
+                               OTHER RELEVANT PERSONS 
+ 
+       18.    Robert Sutcliffe, 51, a citizen and resident of the UK, was CSC’s Finance Director 
+for the NHS account from April 2004 until May 2012.  CSC suspended Sutcliffe in May 2012 and 
+terminated his employment in 2013.  Sutcliffe studied accounting and business finance at 
+Manchester University.  He is a fellow of the Chartered Institute of Management Accountants 
+(CIMA) in the UK.  The Commission has charged Sutcliffe for his role in the misconduct 
+described in its Order.  
+
+       19.    Edward Parker, 42, a citizen and resident of Australia, was CSC Australia’s 
+financial controller from 2007 until the company suspended him in August 2011.  He left the 
+company in October 2012.  Parker has been a licensed Chartered Accountant in Australia since 
+1994.  The Commission has charged Parker for his role in the misconduct described in its Order.  
+        
+       20.    Chris Edwards, 32, a citizen and resident of the UK, was the Finance Manager of 
+the Nordic region Global Outsourcing Services Pools from December 2008 to June 2010.   
+Edwards left CSC in October 2010.  Edwards is a Chartered Accountant in the UK.  The 
+Commission has charged Edwards for his role in the misconduct described in its Order. 
+ 
+                                            FACTS 
+                                                  
+                         Background of CSC’s Contract with the NHS 
+ 
+       21.    Having launched a plan in 2003 to electronically integrate patient medical records 
+across the United Kingdom, the NHS awarded long-term contracts to CSC Computer Sciences, Ltd 
+and three other IT contractors to build and deploy an electronic patient records system by 2013.  
+The project experienced technical problems and delays almost from the start.  As other contractors 
+abandoned the project, the NHS encouraged and approved of CSC expanding its role.  By 2007, 
+CSC had assumed responsibility for the project throughout most of the UK.   
+
+       22.    CSC had the potential to earn $5.4 billion in revenue if it were able to satisfy the 
+terms of the NHS contract.  CSC earned revenue under the contract only to the extent that it 
+                                                  
+                                                6 
+---------------------Page 7---------------------
+
+                                                                                                             
+
+delivered products   and services   to  the  NHS  under  the timeframes and volumes set forth in the 
+contract’s deployment plan.  To incentivize CSC to meet the contract’s deployment targets, the 
+                                                                           5
+contract penalized CSC up to $160,000 per day for missed deadlines.             
+
+        23.     CSC experienced substantial difficulty developing the software required to run the 
+patient medical records system.  Because of its delays in performing as required under the contract, 
+and the UK government’s expansion of CSC’s role in the project, CSC sought contract 
+amendments in 2008 to reset the deployment plan and to waive the penalties CSC was required to 
+pay.  According to the UK Department of Health’s Director General for Informatics at the time, the 
+NHS agreed to these amendments primarily to gain what it believed to be certainty on deployment 
+dates.  In March 2008, the NHS entered into a binding Memorandum of Understanding with CSC 
+that reset the deadlines.   
+
+        24.     The NHS did not, however, have the authority to amend the contract without 
+authorization from various levels of the UK government.  In addition to the NHS, the UK’s 
+Department of Health, Treasury, and Cabinet Office all had to approve the amendments.  After 
+obtaining these authorizations, CSC and the NHS entered into an amended contract, which the 
+parties called “SARPA,” in April 2009. 
+
+ CSC Fails to Disclose Its Need to Renegotiate the NHS Contract and Paints a Misleadingly 
+                          Optimistic View of the Company’s Performance 
+
+        25.     As CSC awaited authorization from the various levels of the UK government to 
+enter into SARPA, the parties experienced difficulty in performing as required.  During this period, 
+CSC management, including former CEO Laphen, was aware that CSC would not be able to meet 
+its obligations in SARPA’s deployment plan.   
+
+        26.     Because of how the parties structured the contract, CSC’s inability to comply with 
+SARPA created a significant risk to the company.  According to a former CSC executive, it was 
+“self-evident” to anyone familiar with the contract that if CSC failed to successfully renegotiate 
+SARPA there was “a lot of revenue that would be reduced from this contract that would flow 
+                                      6
+straight to [CSC]’s bottom line….”      7KRXJK&6&   ¶VPDQDJHPHQWNQHZ    WKHFRPSDQ\   FRXOGQRW
+
+                                                 
+5
+        Currency amounts are stated in U.S. dollars throughout this Order.  Any necessary conversions from British 
+pounds to U.S. dollars reflect a dollar-to-pound ratio of 1.6 to 1. 
+ 
+6
+        CSC earned two types of revenue under the contract:  deployment revenue and service revenue.  CSC 
+earned deployment revenue when it deployed the software products to the NHS.  CSC then earned service revenue 
+by running and maintaining those products until the contract expired.  Because the contract had a fixed term, product 
+delays could cause CSC to run out of time in which to complete all of the deployments contemplated in the contract, 
+triggering a loss in potential deployment revenue.  Further, product delays compressed CSC’s run-and-maintain 
+period, leading to a loss in potential service revenue.  Finally, product delays (and the bad press associated with 
+them) could lead to reduced demand for CSC’s products among NHS constituents, triggering further losses in 
+potential deployment and service revenue.  Such a loss in revenue created a significant risk to CSC’s expected profit 
+margin on the contract.  Absent cost savings sufficient to offset the lost revenue, which were uncertain given that the 
+ 
+                                                       
+                                                     7 
+---------------------Page 8---------------------
+
+                                                                                                             
+
+meet its commitments under the new contract, and believed the NHS would not be able to meet its 
+commitments, CSC signed SARPA in April 2009.  
+
+        27.     Given that CSC’s management did not believe the company would be able to 
+satisfy the requirements of the amended contract, SEC disclosure rules and GAAP required CSC to 
+disclose in its public filings that it would likely experience material adverse financial consequences 
+                                                                         7
+if the UK government declined to amend the contract another time.           However,  the only 
+substantive disclosures CSC made in     its Form 10  - K for   FY 2009  , which the company filed on May 
+2 9 , 2009  , and which Laphen and Mancuso signed     ,   were  that the NHS c ontract was profitable and 
+that  CSC   expected to recover the  amounts it had invested in  t he contract, which  were   then   over   $ 1  
+b illion  . 
+
+        28.     One week after filing its FY2009 Form 10-K, CSC missed the first of many key 
+deployment milestones mandated in SARPA.  Several days later, the NHS sent CSC an “event of 
+default” letter.  Over the next two and a half years, CSC and the NHS would exchange hundreds of 
+dispute letters as they tried and repeatedly failed to agree on terms amid continuing deployment 
+delays and an increasingly politically charged atmosphere. 
+
+        29.     By mid-July 2009, Laphen was personally aware of the dispute with NHS over the 
+missed milestone.  The President of CSC International informed Laphen that CSC had a “serious 
+disconnect” with the NHS regarding the missed milestone.  Laphen subsequently received 
+numerous updates concerning the unresolved milestone dispute with the NHS.  In late July 2009, 
+account executives told Laphen that deployments were “not happening at the rate anticipated in the 
+budget,” and that negotiations with NHS were “required in a number of areas,” including with 
+regard to late penalties, product volumes, and deployment timeframes.   
+
+        30.     During CSC’s earnings call for Q1FY2010 one week later, however, Laphen 
+painted a misleadingly optimistic picture of the NHS contract.  Though none of the issues 
+discussed above had been resolved, Laphen reported to investors that CSC had “completed the 
+activities scheduled within the quarter” and was “on pace to achieve [its] next key milestone.”  
+Laphen knew or should have known these disclosures were misleading because they failed to 
+inform investors that CSC was not achieving the milestones set forth in the contract; that it had 
+received numerous “event of default” letters from the NHS; that it was engaged in an ongoing 
+
+                                                                                                                                                             
+substantial majority of CSC’s costs on the contract were to develop and deploy the software, CSC’s expected profits 
+would decline.   
+
+7
+        These disclosures were mandated by Regulation S-K Items 301, 303(a), and 303(b); FASB Accounting 
+Standards Codification Topic 275 (Risks and Uncertainties); and AICPA Statement of Position 81-1 (Accounting for 
+Performance of Construction-Type and Certain Production-Type Contracts) (“SOP 81-1”), Paragraph .84, referencing 
+SFAS 154 (Accounting for Changes and Error Corrections), Paragraph 22.  For all financial statement periods 
+ending prior to September 15, 2009, SOP 81-1 was the authoritative accounting literature.  Subsequently, the applicable 
+guidance became ASC 605-35 (Construction-Type and Production-Type Contracts).  FASB codification of this issue 
+did not materially change the relevant accounting standards. 
+ 
+
+                                                       
+                                                     8 
+---------------------Page 9---------------------
+
+                                                                                                                  
+
+dispute with   the  NHS  about which milestones     applied ; that  its deployment projections were falling 
+far  short of expectations ; and  that  CSC required the NHS and various other UK government bodies 
+to agree to contract amendments for the company to avoid a reduction in its earnings            . 
+
+                           CSC’s Use of Improper Accounting Models and  
+                    Further Disclosure Violations Relating to the NHS Contract 
+
+A.      Background of CSC’s Use of Percentage of Completion Accounting 
+
+        31.     From the start of the project in 2003, CSC reported its financial results for the NHS 
+                                                                                      8
+contract using the percentage of completion (“POC”) method of accounting.                 So long as a 
+company   ’s estimates are reasonably dependable, POC accounting allows the company to derive a 
+profit margin on a contract based on its estimates of total costs and revenues over the life of a long-
+term contract.  GAAP requires companies using POC accounting to revise their estimates of 
+                                                                        9
+expected costs and revenues continually as the work progresses.             These estimates are prepared in 
+the form of accounting models.  CSC       ’s practice was to update its accounting models for the NHS 
+contract in March and September of each year.    
+
+        32.     Under POC accounting, if a company’s accounting model reflects that its profit 
+margin on a contract will be different than previously forecasted, it must make an “inception-to-
+date” adjustment in the current period to reflect the change in the estimated amount of total gross 
+                       10
+profit earned to date.      And if a company   ’s accounting model reflects that a contract will result in a 
+loss to the company, GAAP requires the company to record the entire anticipated loss on the 
+contract in the current period.   
+
+        33.     Further, companies often invest heavily on long-term projects before earning 
+significant revenue.  Under the POC accounting standards, a contractor typically records this 
+spending as a “work-in-process” (“WIP”) asset on its balance sheet.  Then, as milestones are 
+achieved and the contractor earns revenue, the contractor releases WIP to the income statement in 
+                                                                  11
+proportion to the revenue earned during the current period.            If  a contract becomes unprofitable 
+
+                                                   
+8
+        See generally ASC 605-35. 
+
+9
+        Id. at Paragraph .27. 
+
+10
+        For example, assume a company has previously recorded $10,000,000 in operating income using a 10% 
+profit margin.  If the company’s accounting models reflect the margin is likely to be only 9%, the company must 
+include a negative $1,000,000 offset in current period operating income to adjust for the impact of the lower margin 
+on prior periods.    
+
+11
+        For example, assume a contractor has a $10,000,000 WIP balance and is estimating a 10% profit margin on 
+the contract.  If the contractor achieves a revenue milestone valued at $1,000,000, it records revenue of $1,000,000 
+and costs of $900,000 in its income statement, resulting in a remaining WIP balance of $9,100,000.           
+
+                                                         
+                                                       9 
+---------------------Page 10---------------------
+
+                                                                                                        
+
+(due to cost overruns, inability to achieve revenue milestones, etc.), the WIP asset may be rendered 
+wholly or partially unrecoverable, triggering a write -down  in the value of the asset.                
+
+B.     CSC’s Fraudulent September 2009 Accounting Model 
+
+       34.    In June 2009, CSC’s UK account team for the NHS contract held a two-day 
+meeting to discuss the status of the contract.  Based on revised deployment estimates, Robert 
+Sutcliffe, the Finance Director for the NHS account, reported to his colleagues (but not to Laphen 
+or Mancuso) that CSC would fall over $1 billion short of the original $5.4 billion revenue target for 
+the contract.  He reported further that the account had “no basis” for holding its operating income 
+and revenue forecasts, and its accounting model was “non-sustainable.”  Similarly, one of the 
+operational leads on the account reported that deployment volumes for that fiscal year were “much 
+lower than anticipated,” and that there was “real concern about our ability to complete the 
+contract.”        
+
+       35.    In September 2009, Sutcliffe and his team updated the accounting model for the 
+NHS contract, using current deployment estimates.  This was CSC’s first updated model since 
+executing SARPA.  Whereas pre-SARPA models had forecasted CSC would earn a 16% profit 
+margin on the NHS contract, the initial September 2009 calculation showed the contract would 
+generate a significant loss.    
+
+       36.    Sutcliffe then led a fraudulent “gap closing” exercise to drive the profit margin back 
+to its previous level.  He and personnel working at his direction inserted into the accounting model 
+hundreds of millions of dollars of revenue associated with products CSC had stopped developing 
+and that the NHS had indicated it no longer intended to purchase.  When these steps failed to fully 
+restore the profit margin to 16%, Sutcliffe closed the remaining gap by assuming in the model that 
+the NHS would agree to future price increases sufficient to maintain CSC’s profit margin.  This 
+was a clear violation of GAAP, as there was no factual support of any kind for the assumed price 
+increases.  They were simply an artificial means of restoring the profit margin to the target level.   
+
+       37.    As a result of the fraudulent “gap closing” exercise, CSC continued to record a 16% 
+profit margin on the NHS contract when it reported its financial results for Q2FY2010, thereby 
+                                                             12
+avoiding a material adverse charge to its operating income.     
+
+C.     Laphen’s Statements During CSC’s November 2009 Investors Conference 
+
+                                                 
+12
+        This fraud also affected CSC’s financial results in subsequent periods.  As discussed below, in Q3FY2010, 
+CSC began to base its accounting model on CSC’s proposed contract amendments, which were designed to maintain 
+a 16% profit margin.  CSC’s independent auditors endorsed the new accounting model on the belief that it did not 
+result in any change in the existing margin.  Had Sutcliffe not engaged in the fraudulent gap closing exercise, neither 
+CSC nor its auditors could have employed that rationale to maintain the 16% profit margin. 
+ 
+
+                                                    
+                                                  10 
+---------------------Page 11---------------------
+
+                                                                                                   
+
+       38.    In early November 2009, the President of CSC International warned Laphen about 
+the team’s unsatisfactory progress on an important contract milestone.  Laphen also knew at that 
+point about the ongoing milestone dispute with the NHS and the broader contractual risks.  
+        
+       39.    Two weeks later, however, when CSC held an investor’s conference on November 
+18, 2009, Laphen again painted a misleadingly optimistic picture of the NHS contract, telling 
+investors, “there was skepticism around our NHS contract and CSC’s ability to succeed where 
+other prominent companies had failed.  We went on to accomplish the key development milestones 
+last year, and we are on track again this year.”  As with the Q1FY2009 earnings call, Laphen knew 
+or should have known these disclosures were misleading because they failed to inform investors 
+that CSC was not achieving the milestones set forth in the contract; that it had received numerous 
+“event of default” letters from the NHS; that it was engaged in an ongoing dispute with the NHS 
+about which milestones applied; that its deployment projections were falling far short of 
+expectations; and that additional negotiations with the NHS were required. 
+        
+D.     CSC’s Improper Change in Accounting Model for the NHS Contract 
+
+       40.    In November 2009, CSC entered into negotiations with the NHS to potentially 
+amend SARPA.  CSC offered to reduce the total price the NHS would pay by about 10% in 
+exchange for reducing the scope and volume of the products and services CSC was required to 
+provide by approximately 30%.  This lopsided proposal was driven by Laphen’s instruction that 
+any offers CSC made to the NHS had to preserve CSC’s 16% profit margin.  For this to happen, 
+any reductions in deployment volume had to be offset by price increases on the remaining 
+volumes.  Put simply, to preserve its profit margin, CSC had to persuade the NHS and the UK 
+                                         13
+government to agree to pay more for less.     
+
+       41.    The NHS rejected CSC’s offer.  Though it expressed a willingness to engage in 
+further discussions over potential contract amendments, the NHS cautioned that CSC “should not 
+assume that there is any agreement at this stage to any element of scope or volume reduction….”   
+The parties then entered into negotiations that would continue intermittently for the next two years.  
+Throughout this period, CSC continued to work on the project and the NHS continued to pay CSC 
+for work according to negotiated amended deployment dates.  However, the NHS repeatedly 
+advised CSC both orally and in writing that SARPA (which CSC recognized was enforceable) 
+remained the operative contract, and that CSC should not assume the parties would ever agree on 
+revised terms.  
+
+       42.    Nonetheless, in December 2009, CSC implemented a significant change to its 
+accounting model for the NHS contract.  It began to base the model on contract amendments CSC 
+had proposed rather than the existing terms of the contract.  In doing so, CSC incorporated in its 
+
+                                                 
+13
+        CSC’s internal models reflected an assumption that deployment unit prices would roughly double, and 
+service unit prices would increase as much as fivefold.       
+
+                                                  
+                                                11 
+---------------------Page 12---------------------
+
+                                                                                                             
+
+model s significantly   higher prices than what the parties had agreed to in SARPA and were 
+currently using.  This resulted in   CSC continu  ing to  recogniz e a 16% profit margin on the contract   
+despite ongoing deployment delays      and lower projected deployments.      On multiple occasions    
+during the relevant period, Laphen and Mancuso received information indicating that CSC’s use of 
+the new accounting model was allowing the company to achieve materially better financial results 
+in comparison to the previous, SARPA-based model 
+
+        43.     The accounting standards provide expressly that a contractor may not recognize 
+                                                                         14
+profit based on unapproved changes to a contract’s price and scope.          Laphen   knew or should have 
+known    that CSC’s shift to an accounting model based on its offering terms (rather than SARPA) 
+violated GAAP.  As a result of the improper accounting models used on the NHS contract, CSC 
+materially overstated its financial results during the period Q3FY2010 to Q2FY2012.   
+
+        44.     In violation of various disclosure rules, CSC, Laphen, and Mancuso failed to inform 
+investors that CSC was basing its accounting models on its proposed contract amendments, rather 
+than the terms of the enforceable contract, and that without the contract amendments, CSC’s 
+                                             15
+operating income would fall significantly.        This risk was heightened  by the need for various 
+levels of the UK government to approve the contract amendments CSC was seeking.              Laphen, who 
+characterized the NHS contract as a    “political football,” understood that the political environment 
+in the UK posed an additional obstacle to securing the contract amendments CSC was seeking.  In 
+May 2010, a conservative party that had been highly critical of the NHS’s IT program was elected.  
+A month before the election, Laphen wrote to CSC’s Board of Directors that the NHS “is under 
+tremendous political pressure as the [Conservative] party highlights the program....  We run a risk 
+that the upcoming election … and a potential change in government could complicate [the 
+negotiations].”  
+
+E.      CSC’s Improper Accounting and Disclosures in Q3FY2011 
+
+        45.     After fifteen months of intermittent negotiations — during which the NHS 
+consistently refused to agree to terms that would allow CSC to maintain its 16% profit margin — 
+Laphen finally ended his insistence that all offers to the NHS maintain that level of profitability.  
+
+                                                 
+14
+        For accounting purposes, CSC treated its proposals as “change orders.”  However, the accounting standards 
+provide that “[i]f change orders are in dispute or are unapproved in regard to both scope and price, they should be 
+evaluated as claims.”  See SOP 81-1 at Paragraph .63 (emphasis added).  CSC’s proposals were unapproved as to 
+both scope and price, and therefore should have been evaluated as “claims.”  CSC never evaluated its proposals as 
+such.  Those proposals could not have met the strict requirements of “claim” accounting (see SOP 81-1, at 
+Paragraphs .65-.67).  Further, even if CSC’s proposals had met those requirements, the accounting standards 
+prohibit a contractor from recording any profit on a claim.  See SOP 81-1 at Paragraph .65 (“If the foregoing 
+requirements [for claim accounting] are met, revenue from a claim should be recorded only to the extent that 
+contract costs relating to the claim have been incurred [i.e., no profit].”).  Indeed, as stated in CSC’s own POC 
+accounting training materials, it is “never appropriate to recognize [profit] margin on a claim.” 
+
+15
+        These disclosures were mandated by Regulation S-K Items 301, 303(a), and 303(b); ASC 275; and SOP 
+81-1, Paragraph .84. 
+
+                                                       
+                                                    12 
+---------------------Page 13---------------------
+
+                                                                                                      
+
+On February 7   or 8 , 2011,  Laphen  approved a new   offer to the NHS   which  would have resulted in 
+CSC earn ing  only a 12.7% profit margin.  CSC submitted this propos  al to the NHS o  n February 9, 
+2011.    
+
+       46.    Later that day, CSC filed its Form 10-Q for Q3FY2011.  As discussed above, 
+CSC’s use of the proposed contract amendments as the basis for its accounting models violated 
+GAAP.  Had CSC continued to follow its improper approach of basing its accounting models on 
+the most recent offer it had made to the NHS, the company would have recorded a $52 million 
+                                                        16
+negative adjustment to operating income in Q3FY2011.          
+
+       47.    But CSC did not do so.  Rather than preparing a new accounting model at that time 
+reflecting its most recent offer (that, if accepted, would have resulted in a 12.7% profit), CSC 
+instead prepared its financial statements for Q3FY2011 using the prior accounting model that had 
+forecasted CSC would continue to earn a 16% profit.   
+
+       48.    CSC failed to inform investors that it was basing its accounting models on offering 
+terms rather than the enforceable contract.  CSC further failed to inform investors that it was basing 
+its financial statements on an offer that had not only been rejected by the NHS, but that had been 
+superseded by a revised offer that would generate a significantly lower profit margin to the 
+company and would require a large inception-to-date adjustment that would reduce CSC’s 
+earnings. 
+
+       49.    In addition to its improper accounting and its failure to make required disclosures, 
+CSC affirmatively misled investors about the contract.  CSC stated in its Form 10-Q for 
+Q3FY2011 that “[t]otal contract value, based on proposals submitted to the NHS, is currently 
+estimated to be reduced between $800 and $950 million.”  In fact, the revised offer CSC had 
+submitted to the NHS proposed an approximately $1.2 billion reduction in total contract value.  
+
+       50.    CSC also held its Q3FY2011 earnings call on February 9, 2011.  During the 
+question-and-answer portion of the call, an analyst asked Laphen whether “there will be some kind 
+of a write-down or some kind of cost and hit to the P&L” in connection with the contract 
+amendments CSC was seeking.   In his answer, Laphen stated (among other things), “I can’t tell 
+you there is no chance for some sort of a P&L hit.  We don’t have that at this point in time.” 
+(emphasis added).  In fact, CSC’s new offer reflected the company expected a significant “P&L 
+hit” at that point in time.     
+
+       51.    On the same day that CSC made its revised proposal to the NHS and filed its Form 
+10-Q, Laphen signed a management representation letter to CSC’s independent auditors.  Among 
+other things, the representations falsely stated, “[c]ontract estimates have been prepared on the 
+basis of the most current and best available information and the underlying assumptions used in 
+those estimates are reflective of our intentions,” and “the Company’s [accounting model] on  the 
+                                                 
+16
+       As noted above, GAAP requires companies to reflect the impact of a decrease in the profit margin on a 
+contract such as this by recording an inception-to-date adjustment. 
+
+                                                   
+                                                 13 
+---------------------Page 14---------------------
+
+                                                                                                   
+
+NHS contract used to prepare the third quarter 2011 financial statements represents the best 
+estimate of the probable contract value, costs at completion, margin and margin rate based upon all 
+known facts and contractual risks.”   
+
+       52.    Laphen knew or should have known that CSC’s financial statements in Q3FY2011 
+were based on the wrong accounting model, and that his disclosures regarding the NHS contract to 
+investors and to CSC’s independent auditors were false.  Laphen knew the offer he authorized on 
+February 7 or 8, 2011 would result in a lower profit margin for CSC than the company had been 
+maintaining.  Laphen also knew or should have known that CSC’s updated offer to the NHS would 
+negatively impact the company’s earnings.  
+
+F.     CSC’s Continued Improper Accounting From Q4FY2011 Through Q2FY2012 
+
+       53.    One day after CSC made its revised offer on February 9, 2011, the NHS rejected 
+CSC’s proposal and made a counteroffer that would have resulted in CSC earning a negative profit 
+margin.  The parties then engaged in several additional months of negotiation.   
+
+       54.    On May 2, 2011, CSC issued a press release in which it announced that it expected 
+to sign a non-binding Memorandum of Understanding (“MOU”) with the NHS “in the next few 
+                                                                        17
+weeks pending final NHS and other government reviews and approvals.”   It was only then that 
+CSC updated its accounting model to reflect the current status of the negotiations.   
+
+       55.    The NHS could not amend SARPA without the approval of the UK government.  
+Though NHS personnel indicated at that time that they supported the contract amendments 
+envisioned in the draft non-binding MOU, they gave CSC no assurance that the required approvals 
+would be forthcoming.  Indeed, by the time CSC filed its FY2011 Form 10-K on June 15, 2011, 
+there had been significant developments that made the UK government’s required approval of the 
+proposed amendments unlikely.   
+
+       56.    In May 2010, the Conservative party, which had been highly critical of the NHS’s 
+IT program, won the UK general election.  By May 2011, the UK National Audit Office (“NAO”), 
+the House of Commons Public Accounts Committee (“PAC”), and the Major Projects Authority 
+(“MPA”) had all begun reviews of the program.   On May 11, 2011, while taking questions in the 
+House of Commons, UK Prime Minister David Cameron reported, “We are very concerned that 
+the NHS IT projects that we inherited were of poor value for money, an issue we raised repeatedly 
+in opposition.”  With regard to CSC’s contract, the Prime Minister said, “we are absolutely 
+determined to achieve better value for money….  [T]here are no plans to sign any new contract 
+with Computer Sciences Corporation until the [NAO] report has been reviewed, and until the 
+[PAC] meetings and [MPA] reviews have taken place.”  The Prime Minister further stated, “The 
+Department of Health and Cabinet Office will examine all available options under the current 
+contract, including the option of terminating some of, or indeed all of, the contract.”    
+                                                 
+17
+        The uncertainty about the contract amendments was underscored by the NHS’s unwillingness to sign even 
+a non-binding MOU with CSC.  This was in contrast to the binding MOU the NHS signed in 2008. 
+
+                                                  
+                                                14 
+---------------------Page 15---------------------
+
+                                                                                                   
+
+       57.    One week later, the NAO issued a report finding “the [$4.3] billion spent on care 
+records systems so far does not represent value for money, and we do not find grounds for 
+confidence that the remaining planned spend of [$6.9] billion will be different.”  The report was 
+critical of the performance of CSC and other IT contractors involved in the project.        
+
+       58.    On May 23, 2011, the PAC held a public hearing concerning (among other things) 
+the proposed contract amendments.  Consistent with the Prime Minister’s comments, NHS 
+representatives stated that “all options” were under consideration, including termination of CSC’s 
+contract.   
+
+       59.    Two days later, the Financial Times published an article reporting the findings of a 
+leaked UK Cabinet Office memorandum.  As quoted in the article, the Cabinet Office 
+memorandum “condemned” the proposed contract amendments as “unattractive,” in that the 
+proposed savings to the NHS were disproportionately small in comparison to the proposed 
+reductions in product scope and volume to be delivered by CSC.  As further quoted in the article, 
+when asked to comment on the leaked memorandum, the PAC Chair stated, “It would be 
+unspeakably unacceptable to think that in return for a one-third reduction in the cost, CSC would 
+do two-thirds less work.  If this is an opening gambit from the company, it should be given short 
+                                                                            18
+shrift.  There is no way these guys ought to be working for the government.”    
+
+       60.    Indeed, when CSC provided the NHS a proposed disclosure it intended to make in 
+its FY2011 Form 10-K that described the MOU as “substantially agreed,” the NHS refused to 
+agree to that characterization.  The NHS representative advised CSC’s General Counsel, “The 
+MOU remains unsigned and, at present, unagreed and in draft.  As you know, I’m afraid that there 
+is no guarantee that it will be signed in its current draft format or at all….   I cannot accept/agree if 
+asked that the draft MOU is substantially agreed.”             
+
+       61.    As a consequence of these developments, CSC and Laphen knew or should have 
+known that approval of its proposed contract amendments by the UK government was not 
+probable.  Nevertheless, when CSC filed its FY2011 Form 10-K on June 15, 2011, it continued to 
+base its accounting model on the assumption that the UK government would approve the contract 
+amendments and failed to write down the value of its contract-related assets as required.  
+Moreover, notwithstanding the NHS’s refusal to agree that the non-binding MOU was 
+“substantially agreed,” CSC provided CSC’s independent auditors a June 14, 2011 letter stating 
+(among other things) that “the parties had reached substantial agreement on the terms of the 
+MOU.” 
+
+       62.    On August 3, 2011, the PAC released a report with findings critical of CSC’s 
+performance.  The Committee recommended that the UK government consider whether to continue 
+
+                                                 
+18
+       The Financial Times article was circulated among CSC executives (including Laphen) on the date of its 
+publication. 
+
+                                                  
+                                                15 
+---------------------Page 16---------------------
+
+                                                                                                  
+
+the IT program. The Committee also advised the government should    “give[] serious consideration 
+to whether CSC has proved itself fit to tender for other Government work.” 
+
+       63.    Eight days later, CSC filed its Form 10-Q for Q1FY2012.  In violation of GAAP, 
+CSC continued to base its accounting model on the proposed MOU and to carry its contract-related 
+assets at their full value (approximately $1.4 billion).   
+
+       64.    On September 6, 2011, Laphen discussed the status of the MOU proposal with the 
+account team.  The account team provided Laphen with an assessment of NHS’s options and listed 
+seven possible options: “Do Nothing, Enforce SARPA, Negotiate TARPA, Whole Termination, 
+Partial Termination, Negotiate Whole Exit, or Negotiate Partial Exit.”  They informed him that the 
+MOU proposal was “probably best for the parties but politically not tenable.”  On September 7, 
+2011, NHS agreed to engage in further negotiations.  On September 22, 2011, however, the MPA 
+issued a report recommending several options, one of which included that the NHS’s IT program 
+should be “dismembered” and “reconstituted” under new management and organizational 
+structures.      
+
+       65.    On November 4, 2011, the NHS provided CSC written comments on a draft 
+earnings call script for Q2FY2012.  Those comments included the following:  “[CSC] make[s] a 
+number of revenue and profit estimations based on your view of how the contract will operate if 
+the draft, without prejudice MOU were to be signed.  Whilst this is a matter for CSC, in view of 
+your obvious historic and on-going stated doubt as to whether the draft, without prejudice MOU 
+would be signed and our recent discussions on the subject, we question whether financial 
+projections on that basis are appropriate.”  
+
+       66.    On the morning of November 9, 2011, NHS provided CSC with further written 
+comments on the proposed statement.  Those comments included the following:  “[W]e have a 
+concern that the tone of the proposed Q2 comments gives a misleadingly upbeat impression of a 
+project that is many years behind both its original schedule and the current contracted 
+schedule.  We are of the opinion that the comments could give the impression that the project is 
+‘on track’ with its delivery (which is clearly not the case).  They could also give the optimistic 
+impression that the outcome of the discussions we are about to enter will be the acceptance of 
+CSC’s ‘economic proposals.’  Again, it is for CSC to conclude how it must brief its shareholders 
+on the possible or likely outcomes of the project and our discussion, but it would be remiss of us 
+not to draw our concern to your attention, once more.   Whilst we adopt our usual stance of not 
+commenting on CSC’s affairs or disclosure, if asked, we will have to explain our (contrary) view 
+of the current state of affairs.” 
+
+       67.    Nevertheless, when CSC filed its Form 10-Q for Q2FY2012, the company 
+continued to base its accounting model on the MOU proposal, and still failed to write-down the 
+value of its contract-related assets in violation of GAAP. 
+
+       68.    On December 21, 2011, the NHS sent CSC a letter stating, “As you know, 
+consistent with previous concerns expressed by the PAC and the MPA, we have clearly rejected 
+
+                                                 
+                                               16 
+---------------------Page 17---------------------
+
+                                                                                                            
+
+the MoU on the grounds that it does not represent value for mone      y.”  The NHS further informed 
+                                                                         19
+CSC that recent proposals under discussion were also unacceptable.          On December 27, 2011     , the 
+company   filed a Form 8 - K announcing that neither the MOU proposal nor recent proposed 
+amendments under discussion with the NHS woul        d be approved.  CSC reported that, consequently, 
+the company   “will be required to recognize a material impairment of its net investment in the 
+contract in the third quarter of fiscal year 2012.”  On the day of the announcement, CSC’s common 
+stock declined by 9%.  On February 8, 2012, CSC filed its Form 10-Q for Q3FY2012.  For this 
+filing, CSC finally ceased basing its accounting models on its proposed contract amendments, and 
+returned to using the enforceable contract as the basis for its models.  CSC also wrote down 
+approximately $1.5 billion in NHS contract assets from its balance sheet.   
+
+                 Additional Disclosure Violations Relating to the NHS Contract 
+
+        69.     In addition to the misconduct described above, Mancuso also made misleading 
+statements to investors about the degree to which CSC had grown dependent on refundable cash 
+advances from the NHS to drive its fourth quarter and annual free cash flow results and failed to 
+make required disclosures about these advances.   
+
+A.     The Cash Advance Arrangement 
+         
+        70.     At the close of each fiscal year, CSC received cash advances from the NHS based 
+on an estimate of anticipated charges in the next fiscal year.  The sizes of these advances, which 
+were negotiated in the closing days of each fiscal year, were based on the total charges CSC 
+expected to bill under the contract in the following year.  The NHS had a contractual right to 
+suspend the advances if CSC committed an event of default.  Thus, amid ongoing project delays 
+and an unresolved contractual dispute, the arrangement became increasingly uncertain.   
+
+        71.     The cash advance arrangement between the NHS and CSC operated like a secured 
+                                                                       20
+loan.  CSC effectively paid the NHS 5% interest for the advances.          CSC secured the advances by 
+providing  the  NHS bank  - issued standby letters of credit.  CSC repaid the advances at the end of 
+each year to the extent they had not been fully offset by CSC    ’s actual charges (“the true-up”).  
+Unlike traditional loans, though, which companies record as cash flows from financing activities, 
+GAAP allowed CSC to record these advances as cash flows from operating activities.  This 
+
+                                                 
+19
+        During the period December 8 to 19, 2011, CSC made further proposals to the NHS that, had they been 
+accepted, would have limited CSC’s write-down to approximately $700 million. 
+ 
+20
+        At the NHS’s option, CSC could either provide the NHS a service credit valued at 5% of the advance 
+payment or an equivalent cash payment at the end of the contract.  The NHS told CSC it did not intend to use any of 
+the service credits, favoring the cash payment. 
+ 
+
+                                                      
+                                                    17 
+---------------------Page 18---------------------
+
+                                                                                                          
+
+provid ed  a significant boost to the company ’s fourth quarter and annual free cash flow results — a 
+                                        21
+metric that was important to investors.       
+
+        72.     The cash advance arrangement resulted in an economic loss to CSC.  In addition to 
+paying the 5% charge to the NHS, CSC had to pay an additional 1 to 1.25% charge to banks for the 
+standby letters of credit.  In October 2010, CSC’s Treasurer recommended to Mancuso and CSC’s 
+Vice President International Finance that CSC “should [not] push the cash advances higher but 
+rather attempt to lower them” because the arrangement “results in an economic loss to CSC.”  
+CSC’s Vice-President International Finance replied, “You’re right – it is an expensive drug we’re 
+on!”  Subsequently, however, Mancuso instructed that CSC should continue seeking the cash 
+advances.        
+
+        73.     The cash advances grew increasingly large over time, peaking in CSC’s fiscal year 
+2010, when the Company received a $580 million advance from NHS in the closing days of the 
+fiscal year.  The portions of the cash advances that CSC had to return to the NHS also grew larger 
+over time as CSC continued to fall short of its deployment goals.  CSC repaid approximately 22%, 
+72%, and 93% of its cash advances for fiscal years 2010, 2011, and 2012, respectively.  In other 
+words, CSC paid over 6% on hundreds of millions of dollars that it later returned to the NHS at a 
+time when the company could have borrowed from traditional lenders for considerably less.  
+
+        74.     Although CSC lost money from the cash advance arrangement, it was a boon to 
+senior executive compensation in fiscal year 2010.  That fiscal year, CSC replaced another metric 
+with free cash flow as one of four key performance measures in its Annual Management Incentive 
+Plan.  CSC’s free cash flow results exceeded the fiscal year 2010 plan target, resulting in 
+                                                       22
+significant payouts to Laphen, Mancuso, and others.         Absent the $5 8 0  million NHS cash advance, 
+CSC  ’s free cash flow results would have fallen hundreds of millions of dollars short of the bonus 
+plan target, resulting in no payout to the executives. 
+
+        75.     SEC disclosure rules required CSC to disclose the impacts of this unusual cash 
+                                                            23
+advance arrangement on the company’s financial results.         However , neither Laphen nor Mancuso 
+took any steps to ensure disclosure , and investors were kept in the dark about how CSC met its 
+cash flow targets.   
+
+        76.     Indeed, when the highest rated sell-side securities analyst covering CSC repeatedly 
+asked CSC executives about how the NHS contract was impacting the company’s results, and 
+expressed skepticism about the reliability of CSC’s reported free cash flow, Laphen and Mancuso 
+
+                                                 
+21
+        Financing cash flows were not a component of CSC’s free cash flow; operating cash flows were. 
+ 
+22
+        Laphen received a $630,000 bonus award for exceeding the FY2010 free cash flow target.  Mancuso 
+received   a $175,500 award.       
+
+23
+        Regulation S-K Item 303(a) mandated these disclosures. 
+
+                                                     
+                                                   18 
+---------------------Page 19---------------------
+
+                                                                                                 
+
+directed the company’s head of Investor Relations not to allow that analyst to ask any questions 
+during CSC’s earnings call question-and-answer period.   
+
+       77.    Moreover, on two occasions, Mancuso made public statements about the NHS 
+advances that he knew or should have known were false and misleading.        
+
+B.     Mancuso’s Statements During CSC’s Q4FY2009 Earnings Call 
+ 
+       78.    On the last day of CSC’s FY2009, CSC negotiated a cash advance from the NHS of 
+approximately $135 million.  Mancuso knew about this advance:  he wrote a “thank you” letter to a 
+regional executive who helped to secure the advance, specifically noting his significant 
+contribution to CSC’s year-end “Cash Project.”  This advance comprised over 15% of the 
+company’s fourth quarter free cash flow.   
+
+       79.    However, when a financial analyst asked Mancuso during CSC’s fourth quarter and 
+fiscal year-end 2009 earnings call in May 2009 whether CSC had received “any large 
+prepayments” from NHS or other clients during the fourth quarter of FY2009, Mancuso replied 
+that the company had not. 
+
+C.     Mancuso’s Statements During CSC’s Q4 FY2010 Earnings Call 
+ 
+       80.    At the end of FY2010, CSC worked hard to negotiate a large cash advance from the 
+NHS.  Because CSC had missed a key deployment deadline in March 2010, the NHS’s willingness 
+to give CSC a large cash advance was in doubt.  Public reports of the missed deadline led to 
+speculation that CSC would fall short of its cash flow guidance.   
+
+       81.    Mancuso understood this was important to investors.  On March 27, 2010, Mancuso 
+wrote to Laphen that CSC was “getting an endless string of questions from buyside and sellside 
+analysts reacting to the british press clips [reporting on the missed NHS milestone].”  Mancuso told 
+Laphen he was “having a continuing dialogue with [CSC’s Vice-President International Finance] 
+keeping me abreast by the hour” regarding negotiations with NHS over the cash advance.  
+Mancuso advised Laphen that the “cash is key to us being able to spin this story.”   
+
+       82.    On the morning of April 1, 2010, Mancuso informed Laphen that CSC had received 
+a $580 million cash advance from the NHS.  Hours later, CSC reaffirmed its fiscal year-end cash 
+flow guidance.  That afternoon, Mancuso sent his subordinates an email in which he referred to 
+CSC having “dodged a bullet.”  Shortly afterwards, CSC’s Vice President International Finance 
+told the NHS account team that CSC would not have been able to reaffirm its guidance “without 
+the NHS cash and [other] work on the Q4 items….”   He closed by noting, “Mike Mancuso 
+specifically asked me to pass on this thanks to the team.”  
+
+       83.    On May 20, 2010, during CSC’s fourth quarter earnings call, Mancuso boasted to 
+investors about the company’s cash flow results, claiming “Cash is the big story.”  Mancuso 
+specifically highlighted CSC’s fourth quarter free cash flow of $951 million.  During the earnings 
+
+                                                 
+                                               19 
+---------------------Page 20---------------------
+
+                                                                                                     
+
+call question  -and -answer period, an analyst asked Mancuso to “help us understand how you hit that 
+free cash flow number” assuming CSC “didn’t hit” its NHS milestone and “didn’t get a cash flow 
+payment” from NHS.  Mancuso did not disclose to the analyst that approximately 62% of CSC’s 
+fourth quarter free cash flow was attributable to the $580 million cash advance received from NHS 
+at the close of the fiscal year, for which the company was paying over 6%, and which the company 
+would need to repay to the NHS if it were not able to begin meeting its deployment goals.  Instead, 
+Mancuso replied that CSC had generated its free cash flow results “the old-fashioned hard way, 
+frankly,” attributing it to earnings, improvements in working capital, and “receivables.”  He further 
+described the result as “a glowing achievement” and “not unnatural.”      
+
+       84.    In addition to the accounting and disclosure fraud involving the NHS contract, two 
+of CSC’s international businesses engaged in accounting frauds as well.  CSC’s Australia 
+subsidiary and its Nordic region violated fundamental GAAP principles in a variety of ways to 
+manipulate their financial results.   
+ 
+                             CSC’s Accounting Fraud in Australia 
+ 
+       85.    CSC Australia’s two most senior finance executives, the subsidiary’s CFO Wayne 
+Banks and Controller Edward Parker, manipulated the company’s Q1FY2009 earnings through 
+excess accruals they maintained in “cookie jar” reserves and by failing to record expenses as 
+required.  This fraud materially overstated CSC’s consolidated pretax income by over 5%.  
+Banks’s fraud resulted in at least a 4.3% overstatement in Q1FY2009.  Parker’s fraud encompassed 
+all of Banks’s fraud and went further, resulting in an overstatement of CSC’s consolidated pretax 
+income by 5.4% for that period.  But for their misconduct, CSC would have missed analysts’ 
+earnings targets in Q1FY2009. 
+ 
+A.     CSC Australia’s “Cookie Jar” Reserves 
+ 
+       86.    To offset future shortfalls in budgeted operating performance, Banks and Parker 
+maintained excess, unsupportable balances in reserve accounts.  Banks and Parker built up these 
+reserve balances primarily during CSC Australia’s successful FY 2008.  For example, at the close 
+of FY2008, Banks and Parker intentionally over-accrued for “gift cards” CSC Australia was giving 
+its employees in recognition of their efforts in meeting annual budget targets.  Parker informed 
+Banks, “while it’s likely we’ll pay [AUD] $150 per employee, we have booked an accrual 
+equivalent to [AUD] $350 per employee, largely as a mechanism to carry forward a provision into 
+FY09.”  This resulted in an excess reserve balance of approximately AUD $1 million, which 
+Banks and Parker subsequently released to boost CSC Australia’s Q1FY2009 earnings when it 
+                                                   24
+appeared the subsidiary was falling short of targets.    
+
+                                                   
+24
+       GAAP prohibits companies from maintaining excess accruals or “general reserves.”  Under the applicable 
+accounting standards, a loss contingency should be recorded only if the loss is probable and reasonably estimable.  
+See ASC 450-20-25-2.   
+ 
+
+                                                   
+                                                 20 
+---------------------Page 21---------------------
+
+                                                                                                            
+
+ 
+        87.     As with the gift cards account, Banks and Parker fraudulently built up 
+approximately AUD $2.25 million in excess reserve balances in FY2008 in accounts related to 
+employee bonuses and a restructuring.  In violation of GAAP, they accrued AUD $590,000 for 
+bonuses when CSC Australia had no obligation or intention to pay the bonuses and AUD $1.65 
+million for restructuring costs despite not having a formal management restructuring plan and not 
+                                          25
+having notified the affected employees.        Banks and Parker released most of the     bonus and 
+restructuring accruals  in Q1FY2009    , which boost  ed  the subsidiary’s earnings. 
+         
+        88.     Banks and Parker also created excess accruals in CSC Australia’s labor accounts in 
+each quarter in FY2008.  CSC Australia estimated labor costs each month and accrued for those 
+expected costs.  Though they knew CSC Australia’s actual labor costs were significantly lower 
+than the subsidiary had estimated, Banks and Parker maintained those excess amounts in the labor 
+account for future use.  Banks and Parker created additional excess accruals in CSC Australia’s 
+labor accounts by reserving for fictitious training costs.  These improper labor accruals totaled 
+AUD $5.4 million by year-end FY2008.  Banks and Parker released AUD $3.5 million of these 
+accruals — and Parker released the remaining AUD $1.9 million in Q1FY2009 to improve CSC 
+Australia’s reported results. 
+         
+B.      CSC Australia’s Failure to Record Expenses as Required 
+         
+        89.     Banks and Parker further misstated CSC’s Q1FY2009 earnings by failing to record 
+costs as required.  GAAP permitted CSC Australia to capitalize “contract acquisition costs” – i.e. 
+                                                                   26
+expenses the company incurred in attempting to win business.           However, if CSC Australia were 
+                                                                                                      27
+unable to win this business, GAAP required the company to expense these costs           in that period .   In 
+Q1FY  20 09, Banks and Parker knew CSC Australia had failed to win a contract with a potential 
+customer on a project that had AUD $1.5 million in contract acquisition costs.  Nevertheless, CSC 
+Australia did not expense the AUD $1.5 million as GAAP re        quired.  
+
+                          CSC’s Accounting Fraud in the Nordic Region 
+
+        90.     During FY2010, finance personnel in CSC’s Nordics region fraudulently overstated 
+the region’s operating results.  Former Nordics Finance Director Paul Wakefield, and Nordics 
+Finance Managers Chris Edwards and Claus Zilmer improperly accounted for client disputes; 
+overstated assets; and failed to record expenses as required.  This fraud overstated CSC’s 
+
+                                                 
+25
+        GAAP requires management to commit to a plan of termination in order to record a termination reserve.  
+See ASC 420-10-25-4. 
+ 
+26
+        See ASC 605-20-25-4 and ASC 310-20-35-2; see also SAB Topic 13.A.3(f). 
+ 
+27
+        Id. 
+ 
+
+                                                      
+                                                    21 
+---------------------Page 22---------------------
+
+                                                                                                                
+
+consolidated   operating income by    5% in Q1FY2010, 3% in Q2FY2010,            4% in Q3FY2010, and 7% 
+in Q4FY2010  . 
+         
+A.      CSC’s Improper Accounting for Client Disputes 
+         
+        91.     By improperly accounting for a settlement with a Danish client, CSC overstated its 
+operating income by $9 million in Q4FY2010.  The client had agreed to forgo legal action against 
+CSC if the company gave it $165,000 in cash and $9 million in service credits.  In February 2010, 
+the Director of CSC Nordics’ Denmark Public Sector and the client signed three agreements:  a 
+settlement agreement reflecting the cash payment and two side agreements reflecting the much 
+larger service credits.   
+ 
+                                                                                                             28
+        92.     GAAP required CSC to record the entire $9,165,000 as an expense in Q4FY2010.                     
+However, CSC did not do so because the Director concealed the connection between the three 
+agreements.  The Director told local in    - house counsel that the    settlement agreement and two side 
+agreements were unrelated.  When an early version of the settlement agreement referenced the 
+price credits, he directed the attorney to remove that reference.  As a consequence of this 
+misrepresentation, CSC expensed only         the $165,000 portion of the settlement, thereby overstating 
+its operating income by $9 million.      
+         
+        93.      CSC also overstated its unbilled receivables in Q3FY2010 and Q4FY2010 in 
+connection with another client dispute.  In June 2009, a client terminated CSC Nordics’ work on a 
+project that CSC had forecast would generate $900,000 in revenue.  CSC Nordics asserted that the 
+client was liable for the $900,000.  Though the client had not agreed to pay this amount, Zilmer 
+recorded $900,000 as an unbilled receivable relating to this claim in November 2009.  This 
+violated GAAP requirements for gain contingencies and improperly increased CSC’s operating 
+                                        29
+income by $900,000 in Q3FY2010.           
+         
+        94.      In Q4FY2010, CSC Nordics agreed to accept only $90,000 from the client to 
+resolve this claim.  Zilmer, who was responsible for the accounting for this transaction, received a 
+copy of the settlement agreement during that period.  However, Zilmer waited to write-off the 
+$810,000 in uncollectable revenue until after CSC had closed its books for FY2010, thereby 
+overstating the company’s results. 
+         
+B.      CSC Nordics Manipulates its Earnings by Overstating the Value of an Asset 
+         
+
+                                                 
+28
+        GAAP provides that a loss contingency is recorded if the loss is probable and reasonably estimable.  Both 
+of these conditions were clearly met with the signed side agreements.  See ASC 450-20-25-2. 
+ 
+29
+        GAAP   generally prohibits recording gain contingencies in financial statements.  See ASC 450-30-25-1 
+ 
+
+                                                        
+                                                      22 
+---------------------Page 23---------------------
+
+                                                                                                          
+
+        95.     In Q3FY2010, CSC overstated its income by over $4 million by failing to write-
+down the value of an asset as required by GAAP.  In October 2009, CSC Nordics contracted with a 
+vendor to exchange one of the company’s mainframe computers.  At that time, CSC Nordics 
+valued the old mainframe at its net book value (cost minus accumulated depreciation) of $5.2 
+million though its fair market value was only a fraction of that amount.  When CSC Nordics 
+disposed of this mainframe in the exchange transaction, GAAP required the company to record a 
+                          30
+$4.5 million write-down.       
+ 
+        96.     To avoid this result, CSC Nordics and the vendor entered into a sham arrangement 
+that instead resulted in a gain from the transaction.  Rather than issue an invoice to CSC Nordics 
+for the true value of the new mainframe, the vendor significantly over-charged CSC Nordics, then 
+gave the company a credit note for the difference.  CSC Nordics personnel then used the credit 
+note (which was for $5.6 million) to offset the $5.2 million write-down of the old mainframe.  This 
+resulted in the company improperly recording a $400,000 gain from the deal, rather than a $4.5 
+million loss as required by GAAP.   
+         
+C.     The Improper Capitalization of Expenses 
+         
+        97.     Throughout FY2010, CSC Nordics improperly overstated its income by failing to 
+record expenses associated with certain labor costs.  These costs involved compensation the 
+company paid to employees who were not working on any company projects (“bench labor”).  
+Consistent with GAAP, CSC Nordics originally expensed the compensation it paid to these 
+employees.  To improve its operating results, however, CSC Nordics later reversed these expenses.  
+                                                                                                       31
+With Wakefield’s approval, Zilmer improperly capitalized bench labor costs totaling $8.2 million,         
+significantly reducing CSC Nordics’ FY2010 expenses and artificially improving CSC’s operating 
+income.   
+ 
+        98.     In addition, Wakefield, Zilmer, and Edwards improperly capitalized various other 
+                                           32
+expenses using “prepaid” asset accounts.      For example, Wakefield manipulated CSC Nordics’ 
+results in Q3FY2010 by directing that $1.4 million in office moving and capitalized server costs, 
+which GAAP required the company to expense, be moved to a prepaid asset account to be 
+                     33
+amortized over time.     In Q4FY2010, Zilmer improperly overstated CSC Nordics’ income simply 
+                                                 
+30
+        GAAP provides that the cost of a nonmonetary asset acquired in exchange for another nonmonetary asset is 
+the fair value of the asset surrendered to obtain it.  See ASC 845-10-30-1. 
+ 
+31
+        In violation of GAAP, Zilmer did this by improperly recording bench labor costs as “transition and 
+transformation costs.”  Under CSC policy, legitimate transition and transformation costs were capitalizable.   
+ 
+32
+        By the end of FY2010, CSC Nordics had over $30 million in prepaid assets that were unsupported.   
+ 
+33
+        GAAP prohibits recording current period expenses as prepaid expenses.  See ASC 340-10-5-4, “Other 
+Assets and Deferred Costs” (defining prepaid expenses as a category of assets that are paid in advance of their use or 
+consumption and providing that prepaid expenses should be deferred and expensed over time in the period in which 
+they are utilized).   
+ 
+                                                     
+                                                   23 
+---------------------Page 24---------------------
+
+                                                                                                      
+
+by reversing a journal entry that had properly expensed $1.4 million in contract costs, and re-
+recording these costs as prepaid assets on the company’s balance sheet.  Edwards also improperly 
+recorded current period costs in prepaid accounts, and mislabeled journal entries to make it appear 
+                                                                                          34
+as though those costs were prepaid assets that CSC could amortize over multiple periods.     
+        
+            Laphen’s and Mancuso’s Bonuses and Incentive-Based Compensation 
+        
+       99.    The misconduct described above resulted in material misstatements to CSC’s 
+financial statements in FY2010, FY2011, and FY2012.  CSC was required to restate its financial 
+statements in those periods.  During the 12-month periods that followed the filing of these periodic 
+reports, Laphen and Mancuso received bonuses and incentive-based compensation.  Neither 
+Laphen nor Mancuso has reimbursed those amounts to CSC. 
+ 
+                                          VIOLATIONS 
+
+       100.   Securities Act Section 17(a)(1), Exchange Act Section 10(b) and Rule 10b-5 
+thereunder prohibit fraudulent conduct in the offer or sale of securities and in connection with the 
+purchase or sale of securities. 
+ 
+       101.   Securities Act Section 17(a)(2) prohibits any person from obtaining money or 
+property in the offer or sale of securities by means of any untrue statement of a material fact or any 
+omission to state a material fact necessary in order to make the statements made, in light of the 
+circumstances under which they were made, not misleading. 
+        
+       102.   Securities Act Section 17(a)(3) prohibits any person from engaging in any 
+transaction, practice, or course of business which operates or would operate as a fraud or deceit 
+upon the purchaser in the offer or sale of securities. 
+        
+       103.   Exchange Act Section 13(a) and Rules 13a-1 and 13a-13 thereunder require that 
+every issuer of a security registered pursuant to Exchange Act Section 12 file with the 
+Commission, among other things, annual and quarterly reports as the Commission may require, 
+and, pursuant to Rule 13a-14, mandate, among other things, that an issuer’s principal executive 
+and principal financial officers certify each periodic report. 
+        
+       104.   Rule 12b-20 under the Exchange Act requires that, in addition to the information 
+expressly required to be included in a statement or report filed with the Commission, there shall be 
+added such further material information, if any, as may be necessary to make the required 
+statements, in light of the circumstances under which they are made not misleading. 
+        
+
+                                                                                                                                                             
+ 
+34
+       Id. 
+ 
+
+                                                   
+                                                 24 
+---------------------Page 25---------------------
+
+                                                                                                         
+
+        105.   Exchange Act Section 13(b)(2)(A) requires reporting companies to make and 
+keep books, records and accounts which, in reasonable detail, accurately and fairly reflect their 
+transactions and dispositions of their assets. 
+         
+        106.   Exchange Act Section 13(b)(2)(B) requires all reporting companies to devise and 
+maintain a system of internal accounting controls sufficient to provide reasonable assurances that 
+transactions are recorded as necessary to permit preparation of financial statements in accordance 
+with GAAP. 
+         
+        107.   Exchange Act Section 13(b)(5) prohibits any person from knowingly circumventing 
+or knowingly failing to implement a system of  internal accounting controls or knowingly 
+falsifying any book, record, or account described in Section 13(b)(2). 
+ 
+        108.   Rule 13b2-1 under the Exchange Act prohibits any person from, directly or 
+indirectly, falsifying or causing to be falsified, any book, record, or account subject to Exchange 
+Act Section 13(b)(2)(A). 
+         
+        109.   Section 304 of the Sarbanes-Oxley Act of 2002 requires the chief executive officer 
+and chief financial officer of an issuer that is required to prepare an accounting restatement due to 
+its material noncompliance, as a result of misconduct, with any financial reporting requirement 
+under the securities laws to reimburse the issuer for any bonus or other incentive-based or equity-
+based compensation the chief executive officer or chief financial officer received during the 12-
+month period following the first public issuance or filing of the financial document embodying 
+such financial reporting requirement, and any profits realized from the sale of the issuer’s securities 
+during that 12-month period. 
+         
+        110.   As a result of the conduct described above, CSC violated Securities Act Section 
+17(a) and Exchange Act Sections 10(b), 13(a), 13(b)(2)(A), and 13(b)(2)(B) and Rules 10b-5, 12b-
+20, 13a-1, and 13a-13. 
+ 
+                                                                               35
+        111.   As a result of the conduct described above, Laphen willfully       violated Securities 
+Act Sections 17(a)(2) and (a)(3) ,  Exchange Act  Rule  s  13a - 14  and 13b2- 1 , and   Sarbanes- Oxley Act 
+Section 304 , and caused CSC’s violations of Exchange Act Sections 13(a), 13(b)(2)(A), and 
+13(b)(2)(B) and Rules 12b-20, 13a-1, and 13a-13 thereunder. 
+ 
+        112.   As a result of the conduct described above, Mancuso violated Securities Act 
+Sections 17(a)(2) and (a)(3) and Exchange Act Rule 13a-14, and Sarbanes-Oxley Act Section 304, 
+
+                                                 
+35
+        This use of the word “willfully” does not reflect a finding that Laphen acted with the intention to violate the 
+law or knowledge that he was doing so.  As used in the governing provisions of law, “willfully” means only that the 
+actor “intentionally committed the act which constitutes the violation.”  Tager v. SEC, 344 F.2d 5, 8 (2d Cir. 1965); 
+see also Wonsover v. SEC, 205 F.3d 408, 414 (D.C. Cir. 2000).  “There is no requirement that the actor also be 
+aware that he is violating one of the Rules or Acts . . . .”  Tager, 344 F.2d at 8. 
+
+                                                     
+                                                   25 
+---------------------Page 26---------------------
+
+                                                                                                 
+
+and caused CSC’s violations of Exchange Act Section 13(a) and Rules 12b-20, 13a-1, and 13a-13 
+thereunder. 
+ 
+       113.   As a result of the conduct described above, Banks willfully violated Securities Act 
+Section 17(a), Exchange Act Sections 10(b) and 13(b)(5), and Rules 10b-5(a) and (c) and 13b2-1 
+thereunder, and willfully aided and abetted and caused CSC’s violations of Securities Act Section 
+17(a), Exchange Act Sections 10(b), 13(a), 13(b)(2)(A), and 13(b)(2)(B) and Rules 10b-5, 13a-1, 
+and 13a-13 thereunder. 
+        
+       114.   As a result of the conduct described above, Zilmer violated Exchange Act Rule 
+13b2-1 and caused CSC’s violations of Exchange Act Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) 
+and Rules 13a-1 and 13a-13 thereunder. 
+        
+       115.   As a result of the conduct described above, Wakefield willfully violated Securities 
+Act Section 17(a), Exchange Act Sections 10(b) and 13(b)(5), and Rules 10b-5(a) and (c) and 
+13b2-1 thereunder, and willfully aided and abetted and caused CSC’s violations of Securities Act 
+Section 17(a), Exchange Act Sections 10(b), 13(a), 13(b)(2)(A), and 13(b)(2)(B) and Rules 10b-5, 
+13a-1, and 13a-13 thereunder. 
+ 
+                               CSC’S REMEDIAL EFFORTS 
+
+       In determining to accept CSC’s Offer, the Commission considered remedial acts 
+undertaken by CSC and cooperation afforded the Commission staff in connection with the 
+misconduct in the Nordic region and Australia.   
+
+                                              IV. 
+                                                 
+       Respondent CSC has undertaken to: 
+ 
+       A.     Retain, at CSC’s expense within 30 days of issuance of this Order, qualified 
+independent ethics and compliance consultant (the “Consultant”) with extensive experience in 
+developing, implementing and overseeing organizational compliance and ethics programs, not 
+unacceptable to the staff, to conduct an ethics and compliance program assessment focused on 
+the components of the program delineated in (1)-(3) below.  The Consultant shall also have 
+expertise in, or retain someone with expertise in, internal accounting controls and public 
+company financial reporting as well as percentage of completion accounting.  Taking into 
+account the Company’s remedial actions to date, CSC shall cause the Consultant to analyze 
+whether the components of CSC’s ethics and compliance program as they relate to the areas 
+described in (1)-(3) below have been implemented successfully and are having the desired 
+effects.  The Consultant will determine whether the culture is supportive of ethical and compliant 
+conduct, including strong, explicit, and visible support and commitment by the Board and senior 
+management.  In discharging this undertaking, the Consultant shall: 
+
+                                                 
+                                               26 
+---------------------Page 27---------------------
+
+                                                                                                  
+
+               1.     evaluate and assess the effectiveness of the internal accounting controls 
+and financial reporting policies and procedures, including but not limited to: 
+
+                      a.      whether CSC’s internal accounting controls are sufficient to 
+provide reasonable assurances that the company is maintaining fair and accurate books, records 
+and accounts, with particular emphasis on whether they are designed to address the integrity of 
+its revenue accounting and ensure consistent accuracy and integrity given the global nature of 
+CSC’s business; 
+
+                      b.     whether CSC has specific accounting and financial reporting 
+controls and procedures sufficient to ensure that all accounting models comply with applicable 
+accounting rules and policies, and updated revenue accounting models are prepared as required.  
+
+               2.     evaluate and assess whether CSC has disclosure controls and procedures 
+designed to ensure that all material information necessary to understand CSC’s financial 
+condition and operating results, including material operational risks, uncertainties, and trends, 
+are appropriately disclosed on a timely basis.  The review shall include, but not be limited to, 
+
+                      a.      whether the work of CSC’s delivery assurance group receives 
+appropriate visibility and consideration for disclosure purposes; 
+
+                      b.     whether CSC’s disclosure committee is sufficiently independent to 
+ensure broad and robust consideration of all potentially material operational risks and 
+uncertainties; and  
+
+                      c.      whether CSC’s corporate culture has any impact (positive or 
+negative) on the company’s ability to comply fully with its disclosure obligations. 
+
+               3.     evaluate, for purposes of analyzing the areas addressed above in (1) and 
+(2), whether there are proper resources, oversight and independence of the compliance and ethics 
+function, including seniority of corporate executives responsible for implementation and 
+oversight, reporting lines, autonomy and independence, compensation and rewards, consistent 
+discipline, resources, and access to information and personnel.  The review shall include 
+sufficiency of training and guidance, including regarding anti-retaliation and whistleblowing. 
+
+       B.     Provide the Consultant with complete access and resources to review key 
+documents (e.g., business principles, Code of Conduct, policies and procedures, risk 
+assessments, performance evaluation forms, relevant internal training materials and internal 
+communications).  In reviewing the creation, administration and implementation of the 
+compliance and ethics program as it relates to the areas addressed in ¶ A, the Consultant shall 
+conduct an assessment survey and interview relevant personnel.  The assessment need not be a 
+comprehensive review of all business lines, activities and markets but can use a risk-based 
+approach.  The Consultant shall consider, however, the breakdown of internal controls in 
+multiple markets and continents during the relevant time period of this action; 
+
+                                                 
+                                               27 
+---------------------Page 28---------------------
+
+                                                                                                  
+
+       C.     Provide a report to the Commission staff and CSC’s General Counsel and Chief 
+Ethics and Compliance Officer, as described below, regarding the Consultant’s findings and 
+recommendations; 
+
+       D.     Provide a copy of the engagement letter detailing the Consultant’s responsibilities 
+to Stephen L. Cohen, Associate Director, Division of Enforcement, U.S. Securities and Exchange 
+Commission, 100 F Street, N.E., Washington, D.C. 20549; 
+
+       E.     Cooperate fully with the Consultant, including providing the Consultant with 
+access to its files, books, records and personnel as reasonably requested for the above-described 
+review except to the extent such files, books, or records are protected from disclosure by any 
+applicable protection or privilege such as the attorney-client privilege or the attorney work 
+product doctrine.  To the extent that the Consultant believes that documents are being withheld 
+unreasonably, CSC shall work cooperatively with the Consultant to resolve the matter, and if 
+they are unable to reach agreement, the Consultant shall promptly notify the Commission staff.  
+To ensure the independence of the Consultant, CSC shall not have the authority to terminate the 
+Consultant without prior written approval of the Commission’s staff and shall compensate the 
+Consultant and persons engaged to assist the Consultant for services rendered pursuant to this 
+Order at their reasonable and customary rates; 
+
+       F.     Require the Consultant to report to the Commission staff on his/her activities as 
+the staff shall request; 
+
+       G.     Permit the Consultant to engage such assistance, clerical, legal or expert, as 
+necessary and at reasonable cost, to carry out his/her activities, and the cost, if any, of such 
+assistance shall be borne exclusively by CSC; 
+
+       H.     Require, within 120 days of the issuance of this Order unless otherwise extended 
+by the Commission staff for good cause, the Consultant to complete the review and report to the 
+Commission staff and CSC’s General Counsel and Chief Ethics and Compliance Officer 
+concerning: 
+
+              1.     the scope and methodologies used by the Consultant in order to complete 
+the review; 
+
+              2.     CSC’s compliance with the review; 
+
+              3.     the adequacy of CSC’s existing policies, practices and procedures 
+regarding the matters assessed; and 
+
+              4.     the Consultant’s recommendations, if necessary, regarding modification or 
+supplementation of CSC’s policies, practices and procedures related to the matters assessed (the 
+“Recommendations”). 
+
+                                                 
+                                               28 
+---------------------Page 29---------------------
+
+                                                                                                  
+
+       I.      Adopt and implement, within 120 days of CSC’s receipt of the 
+Recommendations, all of the Recommendations; provided, however, that as to any 
+Recommendation that CSC considers to be, in whole or in part, unduly burdensome or 
+impractical, CSC may submit in writing to the Consultant and the Commission staff (at the 
+address set forth above), within 60 days of receiving the Recommendations, an alternative 
+policy, practice or procedure designed to achieve the same objective or purpose.  CSC and the 
+Consultant shall then attempt in good faith to reach an agreement relating to each 
+Recommendation that CSC considers to be unduly burdensome or impractical and the Consultant 
+shall reasonably evaluate any alternative policy, practice or procedure proposed by CSC.  Such 
+discussion and evaluation shall conclude within 90 days after CSC’s receipt of the 
+Recommendations, whether or not CSC and the Consultant have reached an agreement.  Within 
+14 days after the conclusion of the discussion and evaluation by CSC and the Consultant, CSC 
+shall require that the Consultant inform CSC and the staff (at the address set forth above) of 
+his/her final determination concerning any Recommendation that CSC considers to be unduly 
+burdensome or impractical.  CSC shall abide by the determinations of the Consultant and, within 
+60 days after final agreement between CSC and the Consultant or final determination by the 
+Consultant, whichever occurs first, CSC shall adopt and implement all of the Recommendations 
+that the Consultant deems appropriate;  
+
+       J.      Within 14 days of CSC’s adoption of all of the Recommendations that the 
+Consultant deems appropriate, CSC’s General Counsel and Chief Ethics and Compliance Officer 
+shall certify in writing to the staff (at the address set forth above) that CSC has adopted and 
+implemented all of the Consultant’s Recommendations and that CSC has established policies, 
+practices and procedures that are consistent with the findings of this Order; 
+
+       K.     Require the Consultant to enter into an agreement that provides that, for the 
+period of engagement and for a period of two years from completion of the engagement, the 
+Consultant shall not enter into any employment, consultant, attorney-client, auditing or other 
+professional relationship with CSC or any of their present or former affiliates, directors, officers, 
+employees or agents acting in their capacity as such.  The agreement will also provide that the 
+Consultant will require that any firm with which he/she is affiliated or of which he/she is a 
+member, and any person engaged to assist the Consultant in the performance of his/her duties 
+under this Order shall not, without the prior written consent of the Commission staff, enter into 
+any employment, consultant, attorney-client, auditing or other professional relationship with 
+CSC, or any of their present or former affiliates, directors, officers, employees or agents acting in 
+their capacity as such, for the period of the engagement and for a period of two years after the 
+engagement; 
+
+       L.     Certify in writing to the Commission staff (at the address set forth above), in the 
+second year following the issuance of this Order, that CSC has established and continues to 
+maintain policies, practices and procedures consistent with the findings of this Order; 
+
+                                                 
+                                               29 
+---------------------Page 30---------------------
+
+                                                                                                    
+
+CSC may apply to the   Commission staff for an extension of the deadlines described above before 
+their expiration, and upon a showing of good cause by CSC, the Commission staff may, in its 
+sole discretion, grant such extensions for whatever time period it deems appropriate;  
+ 
+                                                V. 
+                                                  
+       In connection with this action and any related judicial or administrative proceeding or 
+investigation commenced by the Commission or to which the Commission is a party, 
+Respondents Laphen, Mancuso, and Wakefield (i) agree to appear and be interviewed by 
+Commission staff at such times and places as the staff requests upon reasonable notice; (ii) will 
+accept service by mail or facsimile transmission of notices or subpoenas issued by the 
+Commission for documents or testimony at depositions, hearings, or trials, or in connection with 
+any related investigation by Commission staff; (iii) appoint Respondents’ undersigned attorneys 
+as agents to receive service of such notices and subpoenas; (iv) with respect to such notices and 
+subpoenas, waive the territorial limits on service contained in Rule 45 of the Federal Rules of 
+Civil Procedure and any applicable local rules, provided that the party requesting the interview or 
+testimony reimburses Respondents’ travel, lodging, and subsistence expenses at the then-prevailing 
+U.S. Government per diem rates; and (v) consent to personal jurisdiction over Respondents in any 
+United States District Court for purposes of enforcing any such subpoena. 
+ 
+       In determining whether to accept Laphen’s, Mancuso’s, and Wakefield’s Offers, the 
+Commission has considered these undertakings. 
+ 
+                                                VI. 
+ 
+        In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondents’ Offers. 
+ 
+        Accordingly, pursuant to Section 8A of the Securities Act, Sections 4C and 21C of the 
+Exchange Act, and Rule 102(e) of the Commission’s Rules of Practice, it is hereby ORDERED, 
+effective immediately, that: 
+ 
+       A.     CSC cease and desist from committing or causing any violations and any future 
+violations of Securities Act Section 17(a), Exchange Act Sections 10(b), 13(a), 13(b)(2)(A), and 
+13(b)(2)(B), and Rules 10b-5, 12b-20, 13a-1, and 13a-13 thereunder. 
+
+       B.     Laphen cease and desist from committing or causing any violations and any future 
+violations of Securities Act Sections 17(a)(2) and (a)(3), Exchange Act Sections 13(a), 
+13(b)(2)(A), and 13(b)(2)(B), Rules 12b-20, 13a-1, 13a-13, 13a-14, and 13b2-1 thereunder, and 
+Sarbanes-Oxley Act Section 304. 
+
+       C.     Laphen is denied the privilege of appearing or practicing before the Commission as 
+an accountant. 
+
+                                                  
+                                                30 
+---------------------Page 31---------------------
+
+                                                                                                    
+
+       D.      After three years from the date of this Order, Laphen may request that the 
+Commission consider his reinstatement by submitting an application (attention: Office of the Chief 
+Accountant) to resume appearing or practicing before the Commission as: 
+
+               1.     a preparer or reviewer, or a person responsible for the preparation or review, 
+of any public company’s financial statements that are filed with the Commission.  Such an 
+application must satisfy the Commission that Laphen’s work in his practice before the Commission 
+will be reviewed either by the independent audit committee of the public company for which he 
+works or in some other acceptable manner, as long as he practices before the Commission in this 
+capacity; and/or 
+                
+               2.     an independent accountant.  Such an application must satisfy the 
+Commission that: 
+                
+                      (a)     Laphen, or the public accounting firm with which he is associated, is 
+registered with the Public Company Accounting Oversight Board (“Board”) in accordance with the 
+Sarbanes-Oxley Act of 2002, and such registration continues to be effective; 
+                
+                      (b)     Laphen, or the registered public accounting firm with which he is 
+associated, has been inspected by the Board and that inspection did not identify any criticisms of or 
+potential defects in the respondent’s or the firm’s quality control system that would indicate that 
+the respondent will not receive appropriate supervision; 
+
+                      (c)     Laphen has resolved all disciplinary issues with the Board, and has 
+complied with all terms and conditions of any sanctions imposed by the Board (other than 
+reinstatement by the Commission); and 
+                       
+                      (d)     Laphen acknowledges his responsibility, as long as he appears or 
+practices before the Commission as an independent accountant, to comply with all requirements of 
+the Commission and the Board, including, but not limited to, all requirements relating to 
+registration, inspections, concurring partner reviews and quality control standards.   
+ 
+       E.     The Commission will consider an application by Laphen to resume appearing or 
+practicing before the Commission provided that his state CPA license is current and he has 
+resolved all other disciplinary issues with the applicable state boards of accountancy.  However, if 
+state licensure is dependent on reinstatement by the Commission, the Commission will consider an 
+application on its other merits.  The Commission’s review may include consideration of, in 
+addition to the matters referenced above, any other matters relating to Laphen’s character, integrity, 
+professional conduct, or qualifications to appear or practice before the Commission. 
+
+       F.     Mancuso cease and desist from committing or causing any violations and any future 
+violations of Securities Act Sections 17(a)(2) and (a)(3), Exchange Act Section 13(a) and Rules 
+12b-20, 13a-1, 13a-13, and 13a-14 thereunder, and Sarbanes-Oxley Act Section 304. 
+
+                                                  
+                                                31 
+---------------------Page 32---------------------
+
+                                                                                                   
+
+       G.     Zilmer cease and desist from committing or causing any violations and any future 
+violations of Exchange Act Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) and Rules 13a-1, 13a-13, 
+and 13b2-1 thereunder. 
+
+       H.     Banks cease and desist from committing or causing any violations and any future 
+violations of Securities Act Section 17(a), Exchange Act Sections 10(b), 13(a), 13(b)(2)(A), 
+13(b)(2)(B), and 13(b)(5), and Rules 10b-5, 13a-1, 13a-13, and 13b2-1 thereunder. 
+
+       I.      Banks be, and hereby is, prohibited for four years from the date of this Order from 
+acting as an officer or director of any issuer that has a class of securities registered pursuant to 
+Section 12 of the Exchange Act or that is required to file reports pursuant to Section 15(d) of the 
+Exchange Act. 
+
+       J.      Banks is denied the privilege of appearing or practicing before the Commission as 
+an accountant. 
+
+       K.     After four years from the date of this Order, Banks may request that the Commission 
+consider his reinstatement by submitting an application (attention: Office of the Chief Accountant) 
+to resume appearing or practicing before the Commission as: 
+
+                1.    a preparer or reviewer, or a person responsible for the preparation or 
+review, of any public company’s financial statements that are filed with the Commission.  Such 
+an application must satisfy the Commission that Banks’s work in his practice before the 
+Commission will be reviewed either by the independent audit committee of the public company 
+for which he works or in some other acceptable manner, as long as he practices before the 
+Commission in this capacity; and/or 
+ 
+               2.     an independent accountant.  Such an application must satisfy the 
+Commission that: 
+                
+                      (a)     Banks, or the public accounting firm with which he is associated, 
+is registered with the Public Company Accounting Oversight Board (“Board”) in accordance 
+with the Sarbanes-Oxley Act of 2002, and such registration continues to be effective; 
+                       
+                      (b)     Banks, or the registered public accounting firm with which he is 
+associated, has been inspected by the Board and that inspection did not identify any criticisms of 
+or potential defects in the respondent’s or the firm’s quality control system that would indicate 
+that the respondent will not receive appropriate supervision; 
+
+                      (c)     Banks has resolved all disciplinary issues with the Board, and has 
+complied with all terms and conditions of any sanctions imposed by the Board (other than 
+reinstatement by the Commission); and 
+                       
+
+                                                  
+                                                32 
+---------------------Page 33---------------------
+
+                                                                                                     
+
+                       (d)    Banks acknowledges his responsibility, as long as he appears or 
+practices before the Commission as   an independent accountant, to comply with all requirements 
+of the Commission and the Board, including, but not limited to, all requirements relating to 
+registration, inspections, concurring partner reviews and quality control standards.   
+                
+       L.     The Commission will consider an application by Banks to resume appearing or 
+practicing before the Commission provided that his practicing certificate is current, and he has 
+resolved all other disciplinary issues with Chartered Accountants Australia and New Zealand.  
+However, if licensure is dependent on reinstatement by the Commission, the Commission will 
+consider an application on its other merits.  The Commission’s review may include consideration 
+of, in addition to the matters referenced above, any other matters relating to Banks’s character, 
+integrity, professional conduct, or qualifications to appear or practice before the Commission. 
+
+       M.     Wakefield cease and desist from committing or causing any violations and any 
+future violations of Securities Act Section 17(a), Exchange Act Sections 10(b), 13(a), 13(b)(2)(A), 
+13(b)(2)(B), and 13(b)(5), and Rules 10b-5, 13a-1, 13a-13, and 13b2-1 thereunder. 
+
+       N.     Wakefield be, and hereby is, prohibited for three years from the date of this Order 
+from acting as an officer or director of any issuer that has a class of securities registered pursuant to 
+Section 12 of the Exchange Act or that is required to file reports pursuant to Section 15(d) of the 
+Exchange Act. 
+
+       O.     Wakefield is denied the privilege of appearing or practicing before the Commission 
+as an accountant. 
+
+       P.     After three years from the date of this Order, Wakefield may request that the 
+Commission consider his reinstatement by submitting an application (attention: Office of the Chief 
+Accountant) to resume appearing or practicing before the Commission as: 
+
+               1.      a preparer or reviewer, or a person responsible for the preparation or 
+review, of any public company’s financial statements that are filed with the Commission.  Such 
+an application must satisfy the Commission that Wakefield’s work in his practice before the 
+Commission will be reviewed either by the independent audit committee of the public company 
+for which he works or in some other acceptable manner, as long as he practices before the 
+Commission in this capacity; and/or 
+ 
+               2.      an independent accountant.  Such an application must satisfy the 
+Commission that: 
+                
+                       (a)    Wakefield, or the public accounting firm with which he is 
+associated, is registered with the Public Company Accounting Oversight Board (“Board”) in 
+accordance with the Sarbanes-Oxley Act of 2002, and such registration continues to be effective; 
+                        
+
+                                                   
+                                                 33 
+---------------------Page 34---------------------
+
+                                                                                                   
+
+                      (b)     Wakefield, or the registered public accounting firm with which he 
+is associated, has been inspected by the Board and that inspection did not identify any criticisms 
+of or potential defects in the respondent’s or the firm’s quality control system that would indicate 
+that the respondent will not receive appropriate supervision; 
+
+                      (c)     Wakefield has resolved all disciplinary issues with the Board, and 
+has complied with all terms and conditions of any sanctions imposed by the Board (other than 
+reinstatement by the Commission); and 
+                       
+                      (d)     Wakefield acknowledges his responsibility, as long as he appears 
+or practices before the Commission as an independent accountant, to comply with all 
+requirements of the Commission and the Board, including, but not limited to, all requirements 
+relating to registration, inspections, concurring partner reviews and quality control standards.   
+                
+       Q.     The Commission will consider an application by Wakefield to resume appearing 
+or practicing before the Commission provided that his practicing certificate is current, and he has 
+resolved all other disciplinary issues with the Institute of Chartered Accountants in England and 
+Wales.  However, if licensure is dependent on reinstatement by the Commission, the 
+Commission will consider an application on its other merits.  The Commission’s review may 
+include consideration of, in addition to the matters referenced above, any other matters relating 
+to Wakefield’s character, integrity, professional conduct, or qualifications to appear or practice 
+before the Commission. 
+
+       R.     Within 7 days of the entry of this Order, CSC shall pay a civil money penalty of 
+$190,000,000; Laphen shall pay a civil money penalty of $750,000; Mancuso shall pay a civil 
+money penalty of $175,000; and Banks shall pay disgorgement of $10,990, which represents 
+profits gained as a result of the conduct described herein, and prejudgment interest of $2,400, to the 
+Securities and Exchange Commission.  If timely payment is not made, additional interest shall 
+accrue pursuant to SEC Rule of Practice 600 or 31 U.S.C. § 3717.   
+
+       S.     Payments must be made in one of the following ways:   
+
+               (1)    Respondents may transmit payment electronically to the Commission, 
+                      which will provide detailed ACH transfer/Fedwire instructions upon 
+                      request;  
+                
+               (2)    Respondents may make direct payment from a bank account via Pay.gov 
+                      through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or  
+                
+               (3)    Respondents may pay by certified check, bank cashier’s check, or United 
+                      States postal money order, made payable to the Securities and Exchange 
+                      Commission and hand-delivered or mailed to:  
+ 
+                                 Enterprise Services Center 
+
+                                                  
+                                                34 
+---------------------Page 35---------------------
+
+                                                                                                   
+
+                                 Accounts Receivable   Branch  
+                                 HQ Bldg., Room 181, AMZ     -341  
+                                 6500 South MacArthur Boulevard     
+                                 Oklahoma City, OK 73169     
+ 
+       T.     Payments by check or money order must be accompanied by a cover letter 
+identifying the Respondent in these proceedings, and the file number of these proceedings; a copy 
+of the cover letter and check or money order must be sent to Stephen L. Cohen, Associate Director, 
+Division of Enforcement, Securities and Exchange Commission, 100 F St., NE, Washington, DC 
+20549. 
+
+       U.     Within 7 days of entry of this Order, Laphen shall pay CSC $3,771,000 and 
+Mancuso shall pay CSC $369,100 pursuant to Sarbanes-Oxley Act Section 304.  Laphen and 
+Mancuso shall deliver proof of satisfying payment to Stephen L. Cohen, Associate Director, 
+Division of Enforcement, Securities and Exchange Commission, 100 F St., NE, Washington, DC 
+20549. 
+
+       V.     Pursuant to Section 308(a) of the Sarbanes-Oxley Act of 2002, as amended, a Fair 
+Fund is created for the civil money penalties referenced in paragraph R above.  Regardless of 
+whether any such Fair Fund distribution is made, amounts ordered to be paid as civil money 
+penalties pursuant to this Order shall be treated as penalties paid to the government for all 
+purposes, including all tax purposes.  To preserve the deterrent effect of the civil penalty, each 
+Respondent agrees that in any Related Investor Action, Respondent shall not argue that it/he is 
+entitled to, nor shall it/he benefit by, offset or reduction of any award of compensatory damages by 
+the amount of any part of Respondent’s payment of a civil penalty in this action (“Penalty Offset”).  
+If the court in any Related Investor Action grants such a Penalty Offset, each Respondent agrees 
+that it/he shall, within 30 days after entry of a final order granting the Penalty Offset, notify the 
+Commission’s counsel in this action and pay the amount of the Penalty Offset to the Securities and 
+Exchange Commission.  Such a payment shall not be deemed an additional civil penalty and shall 
+not be deemed to change the amount of the civil penalty imposed in this proceeding.  For purposes 
+of this paragraph, a “Related Investor Action” means a private damages action brought against any 
+Respondent by or on behalf of one or more investors based on substantially the same facts as 
+alleged in the Order instituted by the Commission in this proceeding. 
+
+                               
+
+                                                  
+                                                35 
+---------------------Page 36---------------------
+
+                                                                                                      
+
+       W.      Respondent CSC shall comply with the undertakings enumerated above in Section 
+IV. 
+
+ 
+                    
+       By  the Commission. 
+ 
+ 
+ 
+                                                      Brent J. Fields 
+                                                      Secretary 
+
+                                                   
+                                                 36 

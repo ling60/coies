@@ -1,0 +1,402 @@
+---------------------Page 1---------------------
+
+                               UNITED STATES OF AMERICA 
+                                            before the 
+                       SECURITIES AND EXCHANGE COMMISSION 
+ 
+ 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 73243 / September 29, 2014 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3588 / September 29, 2014 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-16177 
+ 
+ 
+ 
+                                                  
+                                              ORDER    INSTITUTING      
+In the Matter of 
+                                              CEASE  - AND - DESIST PROCEEDINGS           
+                                                PURSUANT TO     SECTION     21C  
+     BANK OF AMERICA                  OF  THE   SECURITIES             EXCHANGE        
+     CORPORATION,                       ACT       OF  1934,  MAKING FINDINGS,          
+                                              AND  IMP  OSING    A CEASE    - AND -  
+Respondent.                                   DESIST  ORDER     
+
+ 
+ 
+                                                 I. 
+ 
+        The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities 
+Exchange Act of 1934 (“Exchange Act”) against Bank of America Corporation (“BAC” or 
+“Respondent”). 
+ 
+                                                II. 
+ 
+       In anticipation of the institution of these proceedings, BAC has submitted an Offer of 
+Settlement (the “Offer”), which the Commission has determined to accept.  Solely for the purpose 
+of these proceedings and any other proceedings brought by or on behalf of the Commission, or to 
+which the Commission is a party, and without admitting or denying the findings herein, except as to 
+the Commission’s jurisdiction over it and the subject matter of these proceedings, which are 
+admitted, BAC consents to the entry of this Order Instituting Cease-and-Desist Proceedings 
+Pursuant to Section 21C of the Securities Exchange Act of 1934, Making Findings, and Imposing a 
+Cease-and-Desist Order (the “Order”), as set forth below. 
+                                                   
+
+ 
+ 
+---------------------Page 2---------------------
+
+                                                        III. 
+ 
+                                                                                      1
+         On the basis of this Order and BAC’s Offer, the Commission finds  that: 
+ 
+    A.  Summary 
+ 
+        1.      The federal securities laws require public companies to make and keep books and 
+records in reasonable detail to, among other things, accurately and fairly reflect transactions in 
+which they engage.  The federal securities laws also require public companies to devise and 
+maintain a system of internal accounting controls sufficient to, among other things, provide 
+reasonable assurances that transactions are recorded as necessary to permit preparation of financial 
+statements in conformity with United States Generally Accepted Accounting Principles (“GAAP”).  
+These laws seek to ensure the integrity and accuracy of information that is eventually disclosed to 
+investors. 
+         
+        2.      As part of its acquisition of Merrill Lynch & Co., Inc. (“Merrill”) on January 1, 
+2009, BAC assumed (or acquired) a $52.5 billion portfolio of structured notes and other financial 
+                                                    2
+instruments (the “Notes”) that Merrill issued.          At  the  time of acquisition, BAC   recorded the Notes     
+at fair value, which was    a $5.9   billion discount to the Notes’ par value due to an adverse change in 
+Merrill’s creditworthiness. 
+         
+        3.      As of March 31, 2014, 87 percent of the Notes had either matured or been 
+repurchased by BAC.  Because BAC recorded the Notes at a discount to par when acquired, BAC 
+realized losses on the Notes upon their maturation or when BAC redeemed them at par.  
+         
+                                                                       3
+        4.      For purposes of calculating regulatory capital,          applicable rules required BAC to 
+deduct the realized losses on the Notes as they occurred.           From January 1, 2009 through March 31, 
+2014,   however,  BAC failed to deduct certain      realized losses on the Notes when       it calculated and 
+reported  its regulatory capital.  
+         
+        5.       From the first quarter of 2009 to the fourth quarter of 2013, the realized losses that 
+BAC incurred on the Notes increased over time as more Notes either matured or were redeemed.  
+Therefore, with each passing fiscal quarter and year starting in 2009, BAC overstated its Basel I and 
+
+                                                 
+1
+        The findings herein are made pursuant to BAC’s Offer of Settlement and are not binding on any other 
+entity or person in this or any other proceeding. 
+
+2
+        Gener  ally,  a structured note is a debt obligation where the return  typically is not based on an interest rate 
+like a bank note but instead pays a return based on an embedded derivative component.  For example, with a 
+structured note, the note holder will receive her  principal at a fixed maturity but may or may not receive income 
+based on the performance of a defined security, index or asset class over a period of time. 
+
+3
+        “Regulatory capital” is the amount of capital that a banking organization must maintain as required by, 
+among others, the Board of Governors of the Federal Reserve System (“FRB”).  Regulatory capital requirements 
+were put into place to ensure that banking organizations have sufficient capital to sustain operating losses while still 
+honoring withdrawals and so that they do not take on excessive leverage.  Regulatory capital typically is expressed 
+in the form of ratios (certain calculations or categories of regulatory capital over risk-weighted assets). 
+
+                                                         2 
+ 
+---------------------Page 3---------------------
+
+Basel III regulatory capital by a greater amount in each of its Form 10-Q and Form 10-K filings 
+                       4
+with the Commission.     
+ 
+        6.      BAC overstated its regulatory capital in all Form 10-Q filings that it made with the 
+Commission from 2009 to 2013 (15 filings).  BAC also overstated its regulatory capital in all Form 
+10-K filings that it made with the Commission for fiscal years 2009 through 2013 (5 filings). 
+         
+        7.      By year-end 2013, BAC overstated its Basel I regulatory capital by $3.714 billion.  
+In mid-April 2014, BAC internally discovered the regulatory capital overstatements and, after 
+analyzing the issue, BAC disclosed the overstatements in a Form 8-K filing that it made with the 
+Commission, dated April 28, 2014. 
+         
+        8.      To ensure it properly deducted the realized losses that it incurred on the Notes from 
+its regulatory capital starting in 2009, BAC should have made and kept accurate books and records 
+and also should have devised and maintained a system of internal accounting controls sufficient to 
+provide reasonable assurances that transactions were recorded as necessary to permit preparation of 
+financial statements in conformity with GAAP. 
+         
+        9.      As a result of its failure to do so, BAC violated Sections 13(b)(2)(A) and 
+13(b)(2)(B) of the Exchange Act. 
+         
+        10.     In response to the Commission’s investigation, BAC provided substantial 
+cooperation to Commission staff.  BAC also has voluntarily undertaken steps to remediate and 
+address, among other things, the inadequate books and records and internal accounting control 
+deficiencies that are the subject of this proceeding. 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         
+                                                 
+4
+        GAAP requires banking organizations to disclose regulatory capital ratios and requirements in notes to the 
+financial statements.  Basel I was the first international uniform framework developed to calculate regulatory capital 
+and became effective in 1988.  Basel III, which became effective for certain banking organizations, including BAC, 
+beginning with the quarter ended March 31, 2014, is the latest international uniform framework developed to 
+calculate regulatory capital.  Though disclosure and compliance with Basel III regulatory capital ratios only became 
+effective for these banking organizations effective January 1, 2014, many public banking organizations started 
+disclosing Basel III figures and ratios much earlier than required in light of investor interest in how banking 
+organizations’ capital ratios would change under the new requirements.  BAC first started disclosing its estimated 
+Basel III regulatory capital ratios in its Form 10-Q filing for the third quarter of 2012.  Under Regulations G and S-
+K, these Basel III estimated ratios were considered to be “non-GAAP” measures until BAC was required by 
+regulatory rules to comply with the Basel III capital ratio minimums. 
+
+                                                     3 
+ 
+---------------------Page 4---------------------
+
+    B.  Respondent 
+ 
+        11.     Bank of America Corporation is a bank holding company incorporated in 
+Delaware and a financial services holding company under the Gramm-Leach-Bliley Act.  BAC’s 
+common stock is registered with the Commission under Section 12(b) of the Exchange Act and 
+trades on the New York Stock Exchange under the symbol “BAC.”  BAC’s principal offices are 
+located in Charlotte, North Carolina. 
+ 
+    C.  Facts 
+ 
+The Overstatements 
+ 
+        12.     When BAC acquired Merrill on January 1, 2009, it acquired three types of Notes 
+with a total par value of $52.5 billion.  At the time BAC acquired the Notes from Merrill, the Notes 
+had a fair value below par due to a decline in Merrill’s creditworthiness.  Pursuant to GAAP, BAC 
+recorded the Notes at then-fair value—a $5.9 billion discount to par. 
+         
+        13.     Even though BAC acquired the Notes at a discount to par, BAC assumed liability on 
+the Notes to redeem them at par upon their maturation or when BAC otherwise repurchased them.  
+Because BAC acquired the Notes at a discount but redeemed them at par, BAC realized losses on 
+the Notes upon redemption or maturity. 
+         
+        14.     When calculating regulatory capital, BAC was required to include these realized 
+                                                 5
+losses that were recognized in GAAP equity.          When calculating its regulatory capital  from 2009 
+through 2013,   however,   BAC failed to do so.     In other words, BAC improperly     excluded   certain   
+realized losses related to the initial $5.9 billion discount when   calculating its regulatory capital , 
+which resulted in the  regulatory capital  overstat  em ents . 
+         
+        15.     As more Notes matured or BAC repurchased more Notes over time, BAC incurred 
+more realized losses.  Therefore, with each passing fiscal quarter and year starting in 2009, BAC 
+                                                                                                     6
+overstated its regulatory capital by a greater amount in its Form 10-Q and Form 10-K filings.          
+         
+         
+         
+         
+         
+         
+
+                                                  
+5
+        Calculation of regulatory capital begins with total common shareholders’ equity followed by adjustments as 
+required by the regulatory capital rules and frameworks. 
+
+6
+        As the regulatory capital amounts were only disclosed in the notes to the financial statements, the 
+overstatement s  of regulatory capital that BAC made had no effect on the company’s consolidated balance sheet, 
+consolidated statements of income, comprehensive income, changes in shareholders’ equity or cash flow statements. 
+
+                                                      4 
+ 
+---------------------Page 5---------------------
+
+        16.     As a result of its inaccurate books and records and its deficient internal accounting 
+controls, BAC overstated its Basel I regulatory capital in its Form 10-Q and Form 10-K filings.  At 
+                                                              7
+the end of each year, these overstatements were as follows:     
+         
+                             Form 10-K                        Overstatement 
+                           (for fiscal year)                    (in billions) 
+                                 2009                              $0. 888 
+                                 2010                              $1 .491 
+                                 2011                              $2 .131 
+                                 2012                              $2 .823 
+                                 2013                              $3 .714 
+         
+        17.     Correspondingly, by fiscal year end 2013, BAC overstated the following Basel I 
+ratios by the following percentages in its Form 10-K filing: 
+ 
+                                Ratio                         Overstatement 
+                       Tier 1 Common Capital                        0.3%   
+                            Tier 1 Capital                          0.2%   
+                            Total Capital                           0.3%   
+                           Tier 1 Leverage                          0.2%   
+         
+        18.     In addition to disclosing its regulatory capital under the Basel I framework, BAC 
+also first disclosed its regulatory capital under the Basel III framework starting in its Form 10-Q 
+filing for the third quarter of 2012.  Therefore, BAC made additional Basel III regulatory capital 
+overstatements in four Form 10-Q filings (third quarter of 2012 through third quarter of 2013) and 
+in two Form 10-K filings (for fiscal years 2012 and 2013). 
+         
+        19.     By fiscal year end 2013, BAC overstated the following Basel III ratios (pro-forma 
+                                                                                      8
+on a fully phased-in basis) by the following percentages in its Form 10-K filings:      
+         
+                                Ratio                         Overstatement 
+                       Common Equity Tier 1                               
+                       Capital—
+                                         
+                                                                          
+                           —                        
+        
+ 
+ 
+
+                                                 
+7
+        The dollar amounts associated with the regulatory capital overstatement that BAC made in its Form 10-Q 
+filings are not provided in this Order. 
+
+8
+        BAC overstated its Basel III regulatory capital (pro -forma on a fully phased-in basis) by $4.369 billion in its 
+Form 10  -K filing for fiscal year end 2013. 
+
+                                                    5 
+ 
+---------------------Page 6---------------------
+
+How the Overstatements Occurred 
+ 
+       20.    A number of groups within BAC had some involvement with regulatory capital 
+calculation and reporting.  Shortly after the acquisition of Merrill, a transition team created a 
+schedule that tracked cumulative gains and losses on certain liabilities.  In creating that schedule, 
+BAC correctly understood that pre-acquisition declines in fair value on the Notes relating to 
+Merrill’s own creditworthiness should not be included as an adjustment in BAC’s regulatory capital 
+calculation.  That schedule did not, however, contemplate or account for the fact that those Notes 
+would mature or otherwise be redeemed over time. 
+        
+       21.    BAC used this schedule each quarter, correctly excluding the difference in value of 
+the Notes at par and their fair value at the time of acquisition from its regulatory capital calculation.  
+The flaw in this process was that BAC continued to make this adjustment in BAC’s regulatory 
+capital calculation even after some of the Notes had matured or otherwise been redeemed, resulting 
+in a recurring overstatement of regulatory capital.  In other words, BAC never recognized and 
+reflected in its regulatory capital calculations the fact that some of the Notes had matured or were 
+redeemed, which were events that caused BAC to incur realized losses on the Notes.  It was this 
+oversight that led BAC to incorrectly exclude—or to improperly not include—these realized losses 
+for purposes of calculating regulatory capital. 
+        
+       22.    In sum, BAC’s regulatory capital overstatements arose from the rote application of 
+this process—quarter after quarter, year after year—since the acquisition of Merrill in January 2009. 
+        
+       23.    From 2009 through 2013, therefore, BAC did not adequately consider whether its 
+internal process for computing its regulatory capital was operating as intended or required.  As a 
+result, BAC failed to make and keep accurate books and records, and failed to devise and maintain a 
+system of internal accounting controls sufficient to provide reasonable assurances that transactions 
+were recorded as necessary to permit preparation of financial statements in conformity with GAAP, 
+over this time period. 
+        
+Identification of the Overstatements 
+        
+       24.    BAC released its earnings for the first quarter ending March 31, 2014 on April 16, 
+2014.  In the days that followed, BAC’s Corporate Tax Department was reviewing the earnings 
+release and made certain inquiries, which led to the identification of the error.  Between April 21, 
+2014 and April 28, 2014, BAC worked to analyze and resolve the issue. 
+        
+       25.    On April 28, 2014, BAC issued a press release announcing a downward revision to 
+the company’s previously disclosed regulatory capital amounts and ratios, and also filed a Form 8-K 
+with the Commission disclosing the company’s revised regulatory capital amounts and ratios.  In its 
+press release, BAC explained that at “the FRB’s request, the company is suspending its previously 
+announced 2014 capital actions, including the $4.0 billion common stock repurchase authorization 
+and the planned increase in the quarterly common stock dividend from $0.01 per common share to 
+$0.05 per share.” 
+        
+        
+
+                                                 6 
+ 
+---------------------Page 7---------------------
+
+       26.    Since discovery and disclosure of the computation error, BAC is developing 
+improved documentation and spreadsheet controls, as well as enhanced internal controls around 
+automation of processes, relating to its calculation and reporting of regulatory capital amounts and 
+ratios. 
+ 
+   D.  Violations 
+    
+       27.    As a result of the conduct described above, BAC violated Section 13(b)(2)(A) of the 
+Exchange Act, which requires public companies to “make and keep books, records, and accounts, 
+which, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the 
+assets of the issuer.” 
+        
+       28.    As a result of the conduct described above, BAC violated Section 13(b)(2)(B) of the 
+Exchange Act, which requires public companies to “devise and maintain a system of internal 
+accounting controls sufficient to provide reasonable assurances that . . . (ii) transactions are recorded 
+as necessary (I) to permit preparation of financial statements in conformity with generally accepted 
+accounting principles or any other criteria applicable to such statements, and (II) to maintain 
+accountability for assets.” 
+ 
+                                               IV. 
+ 
+       In view of the foregoing, the Commission deems it appropriate and in the public interest to 
+impose the sanctions agreed to in BAC’s Offer. 
+ 
+       Accordingly, pursuant to Section 21C of the Exchange Act, it is hereby ORDERED that: 
+ 
+       A.      BAC cease and desist from committing or causing any violations and any future 
+violations of Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act. 
+ 
+       B.      BAC shall, within twenty (20) days of the entry of this Order, pay a civil money 
+penalty in the amount of $7,650,000 to the Securities and Exchange Commission.  If timely 
+payment is not made, additional interest shall accrue pursuant to 31 U.S.C. 3717.  Payment must 
+be made in one of the following ways:   
+ 
+               (1)   BAC may transmit payment electronically to the Commission, which will 
+                    provide detailed ACH transfer/Fedwire instructions upon request;  
+                
+               (2)   BAC may make direct payment from a bank account via Pay.gov through 
+                    the SEC website at http://www.sec.gov/about/offices/ofm.htm; or 
+                
+                
+                
+                 
+                         
+
+                                                7 
+ 
+---------------------Page 8---------------------
+
+              (3)   BAC may pay by certified check, bank cashier’s check, or United States 
+                   postal money order, made payable to the Securities and Exchange 
+                   Commission and hand-delivered or mailed to:  
+ 
+                            Enterprise Services Center 
+                            Accounts Receivable Branch 
+                            HQ Bldg., Room 181, AMZ-341 
+                            6500 South MacArthur Boulevard 
+                            Oklahoma City, OK 73169 
+ 
+              Payments by check or money order must be accompanied by a cover letter 
+              identifying BAC as a Respondent in these proceedings, and the file number of 
+              these proceedings; a copy of the cover letter and check or money order must be 
+              sent to Michael J. Osnato, Chief, Complex Financial Instruments Unit, Division 
+              of Enforcement, Securities and Exchange Commission, 200 Vesey Street, Suite 
+              400, New York, New York 10281. 
+ 
+       By the Commission. 
+ 
+ 
+ 
+                                                  Brent J. Fields 
+                                                  Secretary 
+
+                                              8 
+ 

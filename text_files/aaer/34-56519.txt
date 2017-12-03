@@ -1,0 +1,453 @@
+---------------------Page 1---------------------
+
+ UNITED                            STATES OF AMERICA 
+
+ Before                                     the 
+
+                   SECURITIES AND EXCHANGE COMMISSION 
+
+
+SECURITIES EXCHANGE ACT OF 1934 
+Release No.  56519 / September 25, 2007 
+
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No.  2725 / September 25, 2007 
+
+ADMINISTRATIVE PROCEEDING 
+File No. 3-12825 
+
+In the Matter of                             ORDER INSTITUTING CEASE-AND-
+                                            DESIST PROCEEDINGS, MAKING 
+      ELECTRONIC DATA                       FINDINGS AND IMPOSING A CEASE-
+      SYSTEMS CORPORATION,                  AND-DESIST ORDER PURSUANT TO 
+                                            SECTION 21C OF THE SECURITIES 
+Respondent.                                 EXCHANGE ACT OF 1934 
+
+                                          I. 
+
+      The Securities and Exchange Commission (“Commission”) deems it appropriate that cease- 
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities 
+Exchange Act of 1934 (“Exchange Act”) against Electronic Data Systems Inc. (“Respondent” or 
+“EDS”). 
+
+                                         II. 
+
+      In anticipation of the institution of these proceedings, EDS has submitted an Offer of 
+Settlement (the “Offer”) which the Commission has determined to accept.  Solely for the purposes 
+of these proceedings and any other proceedings brought by or on behalf of the Commission, or to 
+which the Commission is a party, and without admitting or denying the findings herein, except as 
+to the Commission’s jurisdiction over it and the subject matter of these proceedings, which are 
+admitted, Respondent consents to the entry of this Order Instituting Cease-and-Desist Proceedings, 
+Making Findings and Imposing a Cease-and-Desist Order Pursuant to Section 21C of the 
+Exchange Act (“Order”), as set forth below.   
+---------------------Page 2---------------------
+
+                                              III. 
+
+       On the basis of this Order and Respondent’s Offer, the Commission finds that:1 
+
+A.     RESPONDENT 
+
+       EDS is a Delaware corporation headquartered in Plano, Texas.  EDS is in the business of 
+providing information technology services.  Its common stock is registered with the Commission 
+pursuant to Section 12(b) of the Exchange Act and trades on the New York Stock Exchange.  In 
+1995, EDS acquired A.T. Kearney, Inc., a management consulting firm with operations in 37 
+countries (“ATK”).  In January 2006, EDS completed the sale of ATK. 
+
+B.     SUMMARY 
+
+       This matter concerns reporting and books and records violations by EDS.  In the first 
+quarter of 2002, EDS failed to disclose the cost of certain derivatives contracts.  In the second 
+quarter of 2002, EDS failed to disclose adequately the cost of those contracts.  In the third quarter 
+of 2002, EDS selectively disclosed to certain analysts the cost and early settlement of the 
+outstanding derivatives contracts.  In addition, EDS failed to disclose adequately an extraordinary 
+transaction with a major customer that increased its reported cash flow by $200 million in the 
+second quarter of 2002.  Moreover, EDS maintained inaccurate books and records by employing 
+certain inaccurate assumptions in accounting models used to estimate revenues and expenses for 
+one of its largest contracts.  EDS also maintained inaccurate books and records between 2001 and 
+2003 as a result of a false invoicing scheme discovered by EDS and reported by EDS to the 
+Commission in early 2004, by which a former employee at a former subsidiary made improper 
+payments to officials of Indian government-owned customers. 
+
+C.     FACTS 
+
+   1.  EDS’s Derivatives Transactions 
+
+       In December 2001, EDS began entering into derivatives contracts with a financial 
+institution to reduce the expected cost of its employee stock option program in the event that 
+EDS’s share price increased.  These transactions involved EDS buying “capped collar contracts,” 
+which obligated EDS to purchase its shares on future dates at predetermined prices, and selling put 
+contracts, which gave the financial institution the option of selling EDS shares to the company on 
+future dates at predetermined prices if EDS’s share price fell below certain levels.  The transactions 
+included “trigger” provisions linked to EDS’s share price.  These provisions allowed the financial 
+institution to force immediate settlement of a contract if EDS’s share price fell below 50 percent of 
+the exercise price of that contract. 
+
+1 
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding on any other 
+person or entity in this or any other proceeding. 
+
+                                                2 
+
+---------------------Page 3---------------------
+
+       In December 2001, EDS disclosed in a press release that “it may occasionally repurchase 
+common shares in 2002 and 2003 to be held for reissuance under the company’s equity based 
+incentive and benefit plans . . . in the open market or in other transactions.” 
+
+       In its Form 10-K for the year ended December 31, 2001, EDS disclosed the extent of its 
+obligations under its stock incentive plans, including the fact that options for 15.1 million shares 
+were presently exercisable.  EDS also disclosed the derivatives contracts as follows: 
+
+              During 2001, the Company initiated a program to manage the 
+              future stock issuance requirements of the stock incentive plans 
+              described in Note 10 by utilizing equity investment contracts for 
+              EDS common stock.  At December 31, 2001, the Company owned 
+              equity contracts to purchase 539,000 shares of EDS common stock 
+              at a weighted-average price of $70.14.  The Company also had put 
+              obligations covering 821,000 shares of EDS common stock at a 
+              weighted-average price of $70.73.  All of these instruments expire 
+              in 2002.  These contracts permit cash or net share settlement at the 
+              Company’s option.   
+
+           a.  The First Quarter of 2002 
+
+       By March 31, 2002, EDS had entered into capped collar and put contracts to buy over four 
+million shares of its stock from the financial institution at an expected cost of over $265 million, an 
+increase of about $170 million from the expected cost at the end of 2001.  EDS did not include any 
+mention of these derivatives transactions in its Form 10-Q for the quarter ended March 31, 2002. 
+
+           b.  The Second Quarter of 2002 
+
+       During the second quarter of 2002, EDS entered into additional derivatives contracts with 
+the financial institution.  As of June 30, 2002, EDS had outstanding derivatives contracts to buy 
+over 5.1 million shares of its stock from the financial institution at an expected cost of over 
+$317 million.   
+
+       EDS made some limited disclosures regarding these derivatives contracts in its Form 10-Q 
+for the quarter ended June 30, 2002.  The filing states that EDS “owned equity contracts to 
+purchase” 2.6 million shares of its stock at a weighted average price of $61.58 and “had put 
+obligations covering” 2.5 million shares at a weighted average price of $62.90.  EDS intended at 
+all times to physically settle the transactions.  When EDS filed this Form 10-Q on July 26, 2002, its 
+share price was about $32.  The only disclosure regarding the timing of settlement was the phrase 
+“all of these instruments expire in 2002.” 
+
+           c.  Selective Disclosures of the $225 Million Derivatives Settlement 
+
+       After announcing on September 18, 2002 that its earnings and cash flow would fall far 
+short of prior guidance, EDS’s share price fell over 50 percent, causing the trigger provisions in all 
+
+                                                3 
+
+---------------------Page 4---------------------
+
+of EDS’s remaining derivatives contracts to go into effect.  Although all of the derivatives 
+contracts were required by their terms to be settled by year-end in the ordinary course of business, 
+the financial institution demanded that EDS immediately settle the outstanding transactions.  The 
+settlement occurred on September 20, 2002 and cost EDS over $225 million.   
+
+       EDS personnel disclosed this $225 million payment to securities analysts from one broker-
+dealer on September 19, 2002 and to analysts from two other broker-dealers on September 23, 
+2002.  EDS disclosed publicly on September 24, 2002 that it had closed out its position in these 
+obligations through the issuance of commercial paper, but did not publicly disclose the 
+$225 million cost of settlement until November 14, 2002 when it filed its Form 10-Q for the 
+quarter ended September 30, 2002.  
+
+   2.  EDS’s Failure to Disclose the Basis for Its Improving Cash Flow 
+
+       EDS did not adequately disclose the basis that led it to report a large one-time boost to its 
+free cash flow, a financial metric that was closely followed by EDS analysts.2 
+
+       Between April and mid-June, 2002, EDS and a major customer negotiated a $200 million 
+prepayment by the customer in return for monthly credits against EDS invoices for services 
+totaling approximately $221 million over 24 months.  Concurrently, EDS and the customer 
+negotiated a modification and a one-year extension of their computer outsourcing agreement. 
+
+       In its Form 10-Q for the quarter ended June 30, 2002, EDS included the prepayment as 
+deferred revenue on the statement of cash flows and included the following in the description of 
+“Liquidity and Capital Resources” in its Management Discussion and Analysis: 
+
+              Net cash provided by operating activities increased $178 million to 
+              $759 million for the six months ended June 30, 2002 compared with 
+              $581 million during the corresponding period of the prior year.  The 
+              increase in cash flow from operating activities was primarily due to 
+              increases in earnings, excluding depreciation, amortization and 
+              changes in accounting for derivatives, and changes in working 
+              capital items. The increase in the usage of cash for total receivables 
+              in 2002 as compared to 2001 was primarily due to unbilled revenue 
+              attributable to certain large government clients, somewhat offset by 
+              a decrease in trade receivables. This increase of receivables was 
+              more than offset by an increase in deferred revenue due to an 
+              increase in customer prepayments as well as lower payments on 
+              current liabilities. 
+
+       The reference to “an increase in deferred revenue due to an increase in customer 
+prepayments” was insufficient to convey the unusual nature of the $200 million prepayment.  
+Although EDS recorded several much smaller prepayments in the period, the Form 10-Q failed to 
+
+2 
+ Free cash flow is a non-GAAP measure that EDS defines as operating cash flow minus capital expenditures. 
+
+                                                4 
+
+---------------------Page 5---------------------
+
+disclose that a $200 million prepayment came from a single, existing customer and did not 
+represent additional business from a new customer.  The $200 million amount was unprecedented 
+to EDS, and comprised over 90 percent of EDS’s free cash flow in the second quarter of 2002, and 
+over one-quarter of its operating cash flow during the first six months of the year.  The 
+$200 million prepayment transaction included $21 million in discounts from future sales, as well as 
+a credit rating trigger found in no previous EDS prepayment agreement, that could require EDS to 
+refund the prepayment if EDS’s credit rating dropped by five levels.  At the time that the Form 10-
+Q for the second quarter of 2002 was filed, EDS’s credit rating was under review for possible 
+downgrade. 
+
+   3.  The NMCI Contract 
+
+       In October 2000, the U.S. Department of Defense awarded EDS a five year $6.9 billion 
+contract to build an intranet for the Navy and the Marine Corps (the “NMCI contract”).  Over the 
+term of the NMCI contract, EDS expected to deploy over 360,000 “seats,” or computer 
+workstations.  The contract required EDS to make a large up-front investment to build a secure and 
+highly-advanced infrastructure capable of supporting the 360,000 seat intranet.   
+
+       In accounting for the NMCI contract over the course of performance, Generally Accepted 
+Accounting Principles required EDS to prepare reasonably dependable estimates of revenues and 
+expenses over the life of the contract in order to determine whether the NMCI contract was in a 
+loss position. EDS’s internal policies and procedures required preparation of quarterly accounting 
+models that conformed to the terms of the NMCI contract and that reflected the most likely 
+outcome of the contract’s key assumptions, such as seat deployment levels.  In the first and second 
+quarters of 2002, EDS prepared NMCI contract accounting models reflecting that it would deploy 
+160,000 seats during the five-year contract term.   
+
+       At the time these models were employed, EDS had an insufficient basis to assume that only 
+160,000 seats would be deployed over the life of the contract, because that seat level assumption 
+was inconsistent with the higher seat levels contemplated by the NMCI contract and anticipated by 
+EDS. 
+
+   4.  EDS’s Recording of Payments on False Invoices at its A.T. Kearney, Inc. Subsidiary 
+
+       Beginning in September 2003, EDS discovered that the head of the ATK branch in India 
+(“ATKI”) was diverting cash by causing ATKI to pay false invoices from dummy vendors.  
+Between 2001 and 2003, the employee used some of the cash to pay numerous bribes totaling at 
+least $720,000 to high level employees of two Indian state-owned enterprises, who threatened to 
+cancel their contracts with ATKI after issues arose with those contracts’ implementation.  These 
+payments took the form of cash transfers, gifts and services and continued until discovered by EDS 
+in September 2003.  The Indian state-owned enterprises did not cancel the contracts, and ATKI 
+derived revenues from those contracts.  EDS investigated and reported this matter to the 
+Commission in February 2004. 
+
+                                               5 
+
+---------------------Page 6---------------------
+
+       By reason of this false invoicing scheme, EDS incorrectly recorded these amounts in its 
+accounting books and records.   
+
+D.     LEGAL ANALYSIS 
+
+   1.  Violations of the Reporting Provisions of the Exchange Act 
+
+       Section 13(a) of the Exchange Act and Rule 13a-13 thereunder require issuers with 
+securities registered under Section 12 of the Exchange Act to file quarterly reports with the 
+Commission on Form 10-Q.  These reports must be complete and accurate in all material respects. 
+See, e.g., SEC v. Savoy Indus., Inc., 587 F.2d 1149, 1165 (D.C. Cir. 1978), cert. denied sub nom. 
+Zimmerman v. SEC, 440 U.S. 913 (1979).  No showing of scienter is necessary to establish a 
+violation of Section 13(a).  Savoy Indus., Inc., 587 F.2d at 1167. 
+
+       Exchange Act Rule 12b-20 requires an issuer to include in its periodic reports any “material 
+information . . . necessary to make the required statements, in the light of the circumstances under 
+which they were made[,] not misleading.” 
+
+       Exchange Act Rule 13a-13 requires issuers’ quarterly reports to comply with the disclosure 
+requirements of Regulation S-K Item 303.  Item 303 requires issuers to include a “Management’s 
+Discussion and Analysis of Financial Condition and Results of Operations” (MD&A) section in 
+their periodic public filings.  Item 303(b) requires issuers’ filings to discuss material changes in the 
+items enumerated in Item 303(a).  Among other things, Item 303(a) requires issuers to discuss in 
+the MD&A sections of their public filings their financial condition, changes in their financial 
+condition, any known “commitments, events or uncertainties that will result in or that are 
+reasonably likely to result in the registrant’s liquidity increasing or decreasing in a material way” 
+(Item 303(a)(1)) and “any known trends or uncertainties that . . . the registrant reasonably expects 
+will have a material favorable or unfavorable impact on net sales or revenues or income from 
+continuing operations” (Item 303(a)(3)).  The instructions to Rule 303(a) specify that “liquidity” 
+for purposes of the rule “refers to the ability of an enterprise to generate adequate amounts of cash 
+to meet the enterprise’s needs for cash.” 
+
+       To comply with the Commission’s disclosure requirements, an issuer’s filings must be 
+understandable to ordinary investors.  See, e.g. Virginia Bankshare, Inc.  et al. v. Sandberg, 501 
+U.S. 1083, 1097 (1991) (“The point of a proxy statement, after all, should be to inform, not to 
+challenge the reader’s critical wits.”)  While “[c]orporations are not required to address their 
+stockholders as if they were children in kindergarten,” Richard v. Crandall, 262 F. Supp. 538, 554 
+(S.D.N.Y. 1967), “it is not sufficient that overtones might have been picked up by the sensitive 
+antennae of investment analysts.” Gerstle v. Gamble-Skohmo, Inc., 478 F.2d 1281, 1297 (2nd Cir. 
+1973). 
+
+       Exchange Act Rule 13a-13 also requires issuers to file quarterly reports that comply with 
+the Commission's Regulation S-X.  This mandates that financial statements be presented in 
+conformity with GAAP.  Consensus positions on accounting issues by the Emerging Issues Task 
+Force (“EITF”) of the FASB are GAAP. See In the Matter of Robert D. Potts, Release No. 34-
+
+                                                6 
+
+---------------------Page 7---------------------
+
+39126 (September 24, 1997).  Financial statements not prepared in accordance with GAAP are 
+presumed to be “misleading or inaccurate.”  See Regulation S-X, Section 4-01(a). 
+
+       On March 21, 2002, the EITF issued a revised consensus position that imposes various 
+disclosure requirements on issuers, like EDS, engaged in derivatives transactions indexed to their 
+own stock.  Accounting for Derivative Financial Instruments Indexed to, and Potentially Settled in, 
+a Company’s Own Stock, EITF Issue No. 00-19 (“EITF 00-19”).  EITF 00-19 requires issuers to 
+disclose, inter alia, the contracts’ current fair values, how changes in the price of the issuer’s stock 
+affects the fair values of the contracts, and the maximum number of shares that the company may 
+be required to issue in a net share settlement. 
+
+           a.	 EDS’s Failure to Disclose Material 
+
+              Information Regarding Its Derivatives Contracts
+
+
+                   i.	 EDS’s Failure to Disclose the Status of the Derivatives Contracts in its 
+                      Form 10-Q for the Quarter Ended March 31, 2002 
+
+       EDS’s Form 10-Q for the quarter ended March 31, 2002 failed to comply with the 
+disclosure requirements of Item 303(b) of Regulation S-K by failing to include any mention of the 
+derivatives contracts.  At the time that EDS filed its first quarter Form 10-Q, it expected the 
+aggregate cost of EDS shares to be purchased under these derivatives contracts to be over 
+$265 million.  This was material to EDS’s financial condition, including its liquidity, at that time.  
+By failing to disclose the status of its derivatives contracts in this filing, EDS violated Exchange 
+Act Section 13(a) and Rule 13a-13 thereunder. 
+
+                  ii.	 EDS’s Failure to Disclose the Status of the Derivatives Contracts in its 
+                      Form 10-Q for the Quarter Ended June 30, 2002 
+
+       EDS’s Form 10-Q for the quarter ended June 30, 2002 also failed to comply with the 
+disclosure requirements of Item 303(b) of Regulation S-K.  At the time that EDS filed its second 
+quarter Form 10-Q, it expected the cost of shares to be purchased under these derivatives contracts 
+to be $317 million. Though EDS included some disclosures regarding the derivatives contracts in 
+that filing, they were ambiguous and incomplete in that they failed to disclose adequately EDS’ 
+$317 million obligation under the derivatives contracts; the manner in which EDS intended to 
+settle the derivatives contracts; and that it could be accelerated due to a precipitous drop in EDS’s 
+share price. By failing to comply with Item 303(b) of Regulation S-K, EDS violated Exchange Act 
+Section 13(a) and Rule 13a-13 thereunder. 
+
+       EDS’s Form 10-Q for the quarter ended June 30, 2002 also failed to comply with EITF 00-
+19’s disclosure requirements.  EDS did not disclose adequately the derivatives contracts’ current 
+fair values or the maximum number of shares it could be required to issue in a net share settlement.  
+In addition, by failing to make any mention of the trigger provisions, EDS failed to disclose how 
+changes in its stock price would affect its contracts’ current fair values.  EDS’s failures to include 
+this information as required by EITF 00-19 caused it to violate Exchange Act Section 13(a) and 
+Rule 13a-13 thereunder. 
+
+                                                7 
+
+---------------------Page 8---------------------
+
+           b.	 EDS’s Failure to Comply with Regulation FD 
+
+       Regulation FD prohibits the selective disclosure of material nonpublic information to 
+securities professionals.  Issuers violate Regulation FD when they, or a person acting on their 
+behalf, disclose material nonpublic information to securities analysts or other enumerated persons 
+without making public disclosure of that information, simultaneously for intentional disclosures, or 
+promptly for non-intentional disclosures.  17 C.F.R. § 243.100.  See also Final Rule: Selective 
+Disclosure and Insider Trading, Exchange Act Release No. 34-43154, 65 Fed. Reg. 51,716 (Aug. 
+15, 2000) (“Adopting Release”).  An issuer’s failure to make a required public disclosure pursuant 
+to Regulation FD constitutes violations of both Regulation FD and Section 13(a) of the Exchange 
+Act.  See Adopting Release, 65 Fed. Reg. at 51726. 
+
+       Information is nonpublic if it has not been disseminated in a manner making it available to 
+investors generally.  See, e.g., SEC v. Texas Gulf Sulphur Co., 401 F.2d 833, 854 (2d Cir. 1968), 
+cert. denied, 394 U.S. 976 (1969).  “Information becomes public when disclosed ‘to achieve a 
+broad dissemination to the investing public generally and without favoring any special person or 
+group.’” SEC v. Mayhew, 121 F.3d 44, 50 (2d Cir. 1997) (citations omitted). 
+
+       Although the $225 million payment to settle the derivatives contracts did not directly affect 
+EDS’s earnings, it was nevertheless material to EDS at that time.  EDS personnel disclosed the 
+$225 million payment to settle the derivatives contracts to securities analysts on September 19, 
+2002 and September 23, 2002.  EDS did not disclose publicly until September 24, 2002 that it had 
+closed out its position in these obligations through the issuance of commercial paper, and did not 
+publicly disclose the $225 million cost of the settlement until November 14, 2002.  Consequently, 
+EDS violated Regulation FD and Section 13(a) of the Exchange Act. 
+
+           c.	 EDS’s Failure to Disclose Material Information Regarding its  
+              Cash Flow in its Form 10-Q for the Quarter Ended June 30, 2002 
+
+       In its Form 10-Q for the quarter ended June 30, 2002, EDS did not adequately disclose the 
+basis that led it to report a large one-time boost to its free cash flow.  The reference to “an increase 
+in deferred revenue due to an increase in customer prepayments” was insufficient to convey the 
+extraordinary nature of the $200 million prepayment.  By not providing additional information 
+regarding the terms of the advance, this disclosure suggested that EDS’s improving cash flow was 
+a consequence of ordinary business operations.  EDS consequently violated Exchange Act Section 
+13(a) and Rules 12b-20 and 13a-13 thereunder. 
+
+   2.	 Violations of the Books and Records Provisions of the Exchange Act 
+
+       Section 13(b)(2)(A) of the Exchange Act requires every Section 12 registrant to “make and 
+keep books, records, and accounts which, in reasonable detail, accurately and fairly reflect” the 
+issuer’s transactions. The Commission need not prove scienter to establish violations of Exchange 
+Act Section 13(b)(2). See “Promotion of the Reliability of Financial Information and Prevention of 
+the Concealment of Questionable or Illegal Corporate Payments and Practices,” Exchange Act Rel. 
+
+                                               8 
+
+---------------------Page 9---------------------
+
+No. 34-15570 (Feb. 15, 1979).  “[A]ccurate recordkeeping is an essential ingredient in promoting 
+management responsibility and is an affirmative requirement for publicly held American 
+corporations to strengthen the accuracy of corporate books and records, which are ‘the bedrock 
+elements of our system of corporate disclosure and accountability.’”  SEC v. World-Wide Coin 
+Investments, Ltd., et al., 567 F. Supp. 724, 746 (N.D. Ga. 1983) (citations omitted). 
+
+           a.  EDS’s Books and Records Violations Relating to the NMCI Contract 
+
+       In the first and second quarters of 2002, EDS prepared NMCI contract accounting models 
+reflecting that it would deploy 160,000 seats during the five-year contract term.  At the time these 
+models were employed, EDS had an insufficient basis to assume that only 160,000 seats would be 
+deployed over the life of the contract.  For this reason, EDS’s books, records and accounts did not, 
+in reasonable detail, accurately and fairly reflect the status of the NMCI contract.  Consequently, 
+EDS violated Exhange Act Section 13(b)(2)(A).   
+
+           b.  EDS’s Books and Records Violations Relating to ATKI 
+
+       The false invoicing scheme described above caused ATKI to make and keep inaccurate 
+books, records and accounts, and consequently caused EDS to violate Exchange Act Section 
+13(b)(2)(A). 
+
+                                    EDS’s Remedial Efforts 
+
+       In determining to accept the Offer, the Commission considered remedial acts promptly 
+undertaken by Respondent and cooperation afforded the Commission staff in connection with its 
+books and records violations related to ATKI.  
+
+                                              IV. 
+
+       In view of the foregoing, the Commission deems it appropriate to accept EDS’s Offer. 
+
+       Accordingly, it is hereby ORDERED:
+
+ Respondent        EDS cease and desist from committing or causing any violations and any future 
+violations of Sections 13(a) and 13(b)(2)(A) of the Exchange Act, and Rules 12b-20, 13a-13, and 
+Regulation FD thereunder. 
+       Respondent, in connection with its books and records violations related to ATKI, shall, 
+within fifteen (15) days of the entry of this Order, pay disgorgement in the amount of $358,800, and 
+prejudgment interest thereon in the amount of $132,102, for a total payment of $490,902 to the 
+United States Treasury.  This payment shall be: (A) made by United States postal money order, 
+certified check, bank cashier's check or bank money order; (B) made payable to the Securities and 
+Exchange Commission; (C) hand-delivered or mailed to the Office of Financial Management, 
+Securities and Exchange Commission, Operations Center, 6432 General Green Way, Stop 0-3,  
+
+                                               9 
+
+---------------------Page 10---------------------
+
+Alexandria, VA 22312; and (D) submitted under cover letter that identifies EDS as a Respondent 
+in these proceedings and the file number of these proceedings.  A copy of the cover letter and 
+money order or check shall be sent to Kenneth R. Lench, Assistant Director, Division of 
+Enforcement, Securities and Exchange Commission, 100 F Street N.E., Washington, DC 20549-
+6041. 
+ By       the Commission. 
+
+       N                                             ancy M. Morris
+       S                                            ecretary 
+
+                                              10 
+

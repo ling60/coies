@@ -1,0 +1,1862 @@
+---------------------Page 1---------------------
+
+                                                                                               
+
+                             UNITED STATES OF AMERICA 
+                                         Before the 
+                     SECURITIES AND EXCHANGE COMMISSION 
+ 
+
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 70458 / September 19, 2013 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3490 / September 19, 2013 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-15507 
+ 
+                                               
+
+In the Matter of                       ORDER INSTITUTING CEASE           -AND  -
+                                       DESIST PROCEEDINGS PURSUANT TO 
+                                       SECTION 21C OF THE SECURITIES 
+JPMorgan Chase & Co., 
+                                       EXCHANGE ACT OF 1934, MAKING 
+                                       FINDINGS, AND IMPOSING A CEASE            -
+Respondent. 
+                                       AND  -DESIST ORDER       
+
+                                              I. 
+
+       The Securities and Exchange Commission (“Commission”) deems it appropriate that 
+cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the 
+Securities Exchange Act of 1934 (“Exchange Act”) against JPMorgan Chase & Co. 
+(“JPMorgan”). 
+
+                                              II. 
+
+       In anticipation of the institution of these proceedings, JPMorgan has submitted an 
+Offer of Settlement (“Offer”) that the Commission has determined to accept.  JPMorgan admits 
+the facts contained in Annex A attached hereto, the Commission’s jurisdiction over it, and the 
+subject matter of these proceedings; and consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making 
+Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below. 
+
+                                                
+---------------------Page 2---------------------
+
+                                                                                                   
+
+                                               III. 
+
+       On the basis of this Order, the Offer, and the facts contained in Annex A attached hereto, 
+                      1
+the Commission finds    that:  
+
+       1.      Public companies are responsible for devising and maintaining a system of 
+internal accounting controls sufficient to, among other things, provide reasonable assurances that 
+transactions are recorded as necessary to permit preparation of reliable financial statements.  In 
+addition, the Sarbanes-Oxley Act of 2002 (“Sarbanes-Oxley”) established important 
+requirements for public companies and their management with respect to corporate governance 
+and disclosure.  For example, public companies are obligated to maintain disclosure controls and 
+procedures that are designed to ensure that important information flows to the appropriate 
+persons so that timely decisions can be made regarding disclosure in public filings.  Commission 
+regulations implementing Sarbanes-Oxley therefore require management to evaluate on a 
+quarterly basis the effectiveness of the company’s disclosure controls and procedures and the 
+company to disclose management’s conclusion regarding their effectiveness in its quarterly 
+filings. 
+
+       2.      On an investor call conducted in connection with the filing of its quarterly report 
+on May 10, 2012, JPMorgan publicly disclosed a trading loss of approximately $2 billion since 
+the start of the second quarter in a large portfolio of credit derivatives known as the Synthetic 
+Credit Portfolio (“SCP”) held by the firm’s Chief Investment Office (“CIO”).  In the quarterly 
+report, JPMorgan stated that, based upon management’s evaluation at the time, its disclosure 
+controls and procedures were effective as of the end of the quarter. 
+
+       3.      Over the next few months, as JPMorgan sought to bring down risk in the SCP, the 
+losses in the SCP grew to nearly $6 billion.  Nevertheless, the full extent of the trading losses 
+that had occurred during the first quarter was not detected and reported, in part, because of the 
+ineffectiveness of an internal control function within CIO, known as the Valuation Control 
+Group (“CIO-VCG”).  Within JPMorgan and other financial institutions and investment firms, 
+valuation control units frequently serve as an essential internal control by helping to ensure that 
+traders and other market professionals record accurate valuations for trading positions.  
+Valuation control units must be sufficiently independent from the trading desks, and clear and 
+effective written policies are necessary in order to guard against the risk that a company’s 
+investment assets will be improperly valued—and its public filings misstated.  
+
+       4.       In the case of CIO, its VCG unit was unequipped to cope with the increase in the 
+size and complexity of the SCP in early 2012, and did not function as an effective internal 
+control in the first quarter of the year.  The unit was understaffed, insufficiently supervised, and 
+did not adequately document its actual price-testing policies.  Moreover, the actual price-testing 
+methodology employed by CIO-VCG in the first quarter of 2012 was subjective and 
+insufficiently independent from the SCP traders, which enabled the traders to improperly 
+
+                                                           
+
+1
+   The findings herein are made pursuant to JPMorgan’s Offer and are not binding on any other 
+person or entity in this or any other proceeding. 
+
+                                                2 
+---------------------Page 3---------------------
+
+                                                                                                
+
+influence the VCG process.  In addition, during the first quarter of 2012, CIO-VCG failed to 
+escalate to CIO and JPMorgan management significant information that management required in 
+order to make informed decisions about disclosure of the firm’s financial results for the first 
+quarter of 2012.  As a result, JPMorgan did not timely detect or effectively challenge 
+questionable valuations by the SCP traders as the portfolio’s losses accumulated in the first 
+quarter of 2012 and publicly misstated its financial results for that period. 
+
+       5.     JPMorgan’s response to the CIO trading losses also was affected by inadequate 
+communication between JPMorgan’s Senior Management and the Audit Committee of 
+JPMorgan’s Board of Directors (the “Audit Committee”).  In April 2012, after learning of large 
+counterparty valuation disputes relating to SCP positions, JPMorgan Senior Management 
+initiated several reviews of the SCP marks and of CIO-VCG.  By early May 2012, the various 
+reviews had alerted JPMorgan Senior Management to serious issues about CIO-VCG’s 
+effectiveness in price-testing the values SCP traders had assigned to positions in the SCP during 
+the first quarter of 2012.  These issues, among others, prompted JPMorgan Senior Management 
+to take several actions, including recommending delaying the filing of the firm’s quarterly report 
+with the Commission, and substantially revising CIO-VCG policies in early May 2012 to 
+eliminate what Senior Management believed was an undue amount of subjectivity in a control 
+function.   
+
+       6.     Consistent with Sarbanes-Oxley’s emphasis on the role that the audit committee 
+of a public company’s board of directors should play in corporate governance, JPMorgan’s 
+internal controls include a requirement that its management keep the Audit Committee informed 
+of, among other things, the identification of any significant deficiencies or material weaknesses 
+in the firm’s internal control over financial reporting.  Such updates are necessary for the Audit 
+Committee to fulfill its oversight role and help to assure the integrity and accuracy of 
+information JPMorgan discloses in its public filings. 
+
+       7.     Before JPMorgan filed its quarterly report on May 10, 2012, however, JPMorgan 
+Senior Management did not adequately update the Audit Committee concerning the facts learned 
+during the reviews of CIO-VCG.  Nor did it adequately update the Audit Committee on 
+important observations made by the management-commissioned reviews of control breakdowns 
+at CIO-VCG that amounted to, at a minimum, a significant deficiency.  Three primary issues 
+relating to the sharing and synthesis of relevant information contributed to the inadequate 
+communications with the Audit Committee.  First, several employees involved in conducting the 
+reviews of CIO-VCG failed to timely escalate important facts regarding control deficiencies at 
+CIO-VCG.  Second, JPMorgan Senior Management was concerned about the market sensitivity 
+of the SCP positions and the confidential nature of the review, and required that the review teams 
+keep their work strictly confidential, which had the effect of impeding the exchange of 
+information among the review teams and their ability to analyze collectively the information 
+generated by these reviews.  Third, despite learning of important information concerning control 
+deficiencies at CIO-VCG, JPMorgan Senior Management did not make a considered assessment 
+of the significance of that information to determine if it revealed a significant deficiency or 
+material weakness at CIO-VCG that had to be disclosed to the Audit Committee.   
+
+       8.     On July 13, 2012, JPMorgan announced that it would restate its results for the 
+first quarter of 2012 because it was no longer confident that the SCP marks used to prepare the 
+
+                                               3 
+---------------------Page 4---------------------
+
+                                                                                                
+
+first quarter results, which CIO-VCG was responsible for price testing, “reflect good faith 
+estimates of fair value at quarter end.”  Also on this date, JPMorgan disclosed to investors that a 
+material weakness in internal control over financial reporting had existed at CIO as of March 31, 
+2012 based on deficiencies in the CIO-VCG process. 
+
+       9.     On August 9, 2012, JPMorgan filed an amended Form 10-Q with restated results 
+for the first quarter of 2012.  The restatement had the effect of moving certain SCP losses from 
+the second quarter to the first quarter.  These misstated first quarter results were disclosed not 
+only in the quarterly report filed on Form 10-Q on May 10, 2012, but also in JPMorgan’s 
+earnings release for the first quarter, which was filed on Form 8-K with the Commission on April 
+13, 2012.  Also on August 9, 2012, JPMorgan disclosed that its disclosure controls and 
+procedures as of March 31, 2012 were not effective and that management’s prior conclusion in 
+the firm’s May 10, 2012 quarterly report that they were effective was incorrect. 
+
+       10.    As a result of its failure to maintain effective internal control over financial 
+reporting as of March 31, 2012, and disclosure controls and procedures, and as a result of its 
+filing of inaccurate reports with the Commission (specifically, the Form 8-K filed on April 13, 
+2012, and the Form 10-Q filed on May 10, 2012), JPMorgan violated Sections 13(a), 
+13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 13a-11, 13a-13, and 13a-15 
+thereunder. 
+
+       11.    In response to the Commission’s investigation, JPMorgan provided substantial 
+cooperation to Commission staff.  JPMorgan has also voluntarily undertaken a comprehensive 
+program of remediation to address, among other things, the internal control deficiencies that are 
+the subject of this proceeding.  Most notably, JPMorgan has substantially strengthened the 
+valuation control function within CIO to ensure that price verification procedures are conducted 
+with the appropriate degree of independence and supervision. 
+
+                                              IV. 
+
+                          RELEVANT ENTITIES AND PERSONS 
+
+       12.    JPMorgan, a Delaware corporation headquartered in New York, New York, 
+is a global banking and financial services firm whose common stock is registered with the 
+Commission under Section 12(b) of the Exchange Act and traded on The New York Stock 
+Exchange under the symbol “JPM.” 
+
+       13.    CIO is a unit of JPMorgan and part of the firm’s Corporate/Private Equity 
+reporting segment.  Among other things, CIO is responsible for investing excess deposits from 
+JPMorgan’s banking arm.  CIO maintains offices in New York, New York and London, United 
+Kingdom.  
+
+       14.    JPMorgan “Senior Management,” as that term is used herein, refers to one or 
+more of the following individuals who held the listed positions as of May 10, 2012:  the 
+JPMorgan Chief Executive Officer, the JPMorgan Chief Financial Officer, the JPMorgan Chief 
+Risk Officer, the JPMorgan Controller, and the JPMorgan General Auditor. 
+
+                                               4 
+---------------------Page 5---------------------
+
+                                                                                                
+
+                         THE MISMARKING OF JPMORGAN’S 
+                           SYNTHETIC CREDIT PORTFOLIO 
+
+                    JPMorgan, CIO, and the Synthetic Credit Portfolio 
+
+       15.    In 2007, CIO created an investment portfolio, the SCP, which was designed to 
+provide a hedge against adverse credit events.  It invested in derivatives that could be expected to 
+generate profit during adverse credit events, such as widespread corporate defaults.  The 
+positions in the SCP consisted of credit derivative indices and portions (or “tranches”) of those 
+indices, both of which were constructed to track a collection of credit default swaps (“CDS”) 
+referencing the debt of corporate issuers. 
+
+       16.    The SCP was invested in two primary index groups: CDX, a group of North 
+American and Emerging Markets indices, and iTraxx, a group of European and Asian indices.  
+Some indices referenced companies considered to be investment grade and others referenced 
+companies considered to be high-yield (which generally means that their credit risk is viewed as 
+higher).  Investors in CDX and iTraxx indices, including CIO, can be “long” risk, which is 
+equivalent to being a seller of CDS protection, or “short” risk, which is equivalent to being a 
+buyer of CDS protection. 
+
+       17.    Beginning in 2008, the SCP’s investment strategy generally consisted of holding a 
+net short risk position in high-yield indices and tranches, which meant that the SCP was 
+positioned to realize gains if high-yield companies were to default on their corporate debt.  The 
+composition of the book changed from time to time in response to CIO’s assessment of market 
+conditions. 
+
+       18.    In December 2011, in preparation for complying with the capital adequacy 
+standards of the Third Basel Accord, the SCP traders were instructed to reduce the SCP’s use of 
+regulatory capital.  To achieve this—and, in light of improving economic conditions, to reduce 
+the SCP’s credit protection profile—CIO management and the traders in charge of the SCP 
+considered reducing the size of the SCP’s short risk position in high-yield investments.  There 
+were substantial costs associated with this strategy.  To avoid these costs, CIO management and 
+traders therefore decided to add investments to the SCP’s existing long risk investment-grade 
+positions to offset the short risk high-yield position.  However, as CIO built its long risk 
+investment-grade positions, which included a large investment in an index known as the CDX 
+North American Investment Grade Index Series 9 10-year, it also added substantially to its 
+existing high-yield short position.  JPMorgan did not have risk limits restricting the notional size 
+of the SCP, and CIO’s trading strategy led to a large increase in the notional size of the SCP.  
+During the first quarter of 2012, CIO tripled the net notional amount of the SCP.  As of March 
+31, 2012, the SCP contained 132 trading positions with a net notional amount of approximately 
+$157 billion. 
+
+                        Traders Mismark the SCP as Losses Mount 
+
+       19.    Like many other public companies, JPMorgan reported its results, which 
+incorporated the mark-to-market profit and loss of the SCP, at the end of each quarter in 
+accordance with U.S. Generally Accepted Accounting Principles (“GAAP”).  Under JPMorgan 
+
+                                               5 
+---------------------Page 6---------------------
+
+                                                                                                  
+
+policy, the SCP traders were required to assign valuations (or “marks”) to the positions in the 
+SCP at fair value.  Both GAAP and JPMorgan’s accounting policy required that the SCP traders 
+do so by making a good-faith estimate of the fair value of each SCP position based on 
+information available in the marketplace.  Under GAAP, the positions in the SCP had to be 
+marked “within the bid-ask spread” at the point that is “most representative of fair value in the 
+circumstances,” with a particular emphasis on the price where the traders could reasonably 
+expect to transact.  GAAP also allows for the use of mid-market pricing “as a practical expedient 
+for fair value measurements within a bid-ask spread.”  
+
+       20.    At the end of each business day, the SCP traders had to mark the positions in the 
+SCP and report to CIO management a summary of the portfolio’s mark-to-market profits and 
+losses for the day.  Additionally, the traders had to provide their valuations for the SCP to the 
+middle office at CIO so that the information could be incorporated into the books and records of 
+JPMorgan. 
+
+       21.    The SCP generated sizeable profits for JPMorgan over the period from 2007 to 
+2011.  In the first quarter of 2012, however, it began experiencing substantial mark-to-market 
+losses.  By early March 2012, the most senior SCP trader, who was a managing director within 
+CIO, instructed the other SCP traders to stop reporting losses to CIO management unless there 
+was a market-moving event that could easily explain the losses.  In response, a junior SCP trader 
+changed his daily marking methodology for the SCP.  Previously, he had derived for each SCP 
+position a bid-offer spread from dealer quotes he had received and then assigned a mark that was 
+generally equivalent to the mid-point in that spread.  In response to the most senior trader’s 
+instruction, the junior trader began to assign marks that often were at the most aggressive point 
+in the bid-offer spread received that day (i.e., the point that resulted in higher valuations of the 
+SCP positions).  For some SCP positions, the junior trader assigned marks in March that were 
+altogether outside every dealer’s bid and offer received that day. As a result of these marking 
+practices, the SCP traders intentionally understated mark-to-market losses in the SCP. 
+
+       22.    In March 2012, the junior trader began to maintain a spreadsheet which showed 
+that, by March 15, 2012, the difference between the daily prices he had assigned to the SCP and 
+the average mid-market point between the best bids and offers he had received from dealers had 
+grown to $292 million.  Within a few days, the difference had grown further to $432 million.  
+The traders, however, revealed significantly smaller losses in daily reports to CIO management 
+about the portfolio’s performance than were indicated by mid-market pricing. 
+
+       23.    On March 30, 2012, the last trading day in the first quarter of 2012, the SCP 
+traders informed the most senior trader in the morning that losses for that day alone could reach 
+$250 million.  In response, the most senior trader directed the junior trader not to mark the SCP 
+at the close of business in London, as JPMorgan policy required, but instead to wait for the 
+markets in New York to close because trading information from New York might support higher 
+valuations for the SCP positions. 
+
+       24.    The most senior trader also instructed the junior trader to use the “best” prices 
+(i.e., the most advantageous prices within the bid-offer spread) in marking the SCP.  On March 
+30, the junior trader marked the SCP positions in accordance with these instructions, and 
+reported to CIO management an estimated loss of $138 million.  Over the next several weeks, the 
+
+                                                6 
+---------------------Page 7---------------------
+
+                                                                                                
+
+traders continued to understate mark-to-market losses in the SCP until their authority over the 
+portfolio was taken away from them on or around April 29, 2012, when JPMorgan Senior 
+Management asked a senior Investment Bank (“IB”) trader and senior risk officer to take 
+responsibility for the portfolio. 
+
+                             JPMorgan Issues Its First Quarter  
+                       Results and Subsequently Issues a Restatement 
+
+       25.    On April 13, 2012, JPMorgan issued its earnings release for the quarter ending 
+March 31, 2012, which was filed on Form 8-K with the Commission.  Also on April 13, 
+JPMorgan Senior Management conducted an earnings call with analysts and investors.  The 
+earnings release disclosed that JPMorgan’s consolidated quarterly income before income tax 
+expense was $7.641 billion.  These results included the understated losses for the SCP, which 
+was based on the SCP traders’ marks as of March 30, 2012. 
+
+       26.    One month later, on May 10, 2012, JPMorgan filed on Form 10-Q its report for 
+the first quarter, which ended on March 31, 2012, disclosing that CIO had experienced 
+significant mark-to-market losses in the SCP during the second quarter to date.  Also on May 10, 
+2012, JPMorgan Senior Management conducted a call with analysts, during which the firm 
+disclosed that CIO had suffered losses of approximately $2 billion during the second quarter to 
+date and that there could be additional losses, that the trading strategy that resulted in the losses 
+was “flawed, complex, poorly reviewed, poorly executed, and poorly monitored,” that “we’ve 
+had teams from audit, legal, risk, and various control functions . . . involved in extensive review 
+of what happened,” and that “[w]e have more work to do but it’s obvious at this point that there 
+are many errors, sloppiness, and bad judgment.”  The $2 billion calculation was based on marks 
+for positions in the SCP that were derived from independent pricing sources and not from the 
+SCP traders; therefore, the full year-to-date loss figure was not affected by its subsequent 
+conclusions concerning the integrity of the SCP traders’ marks. 
+
+       27.    Two months later, on July 13, 2012, JPMorgan announced that it would restate its 
+results for the first quarter of 2012 because it had discovered “information that raises questions 
+about the integrity of the [SCP] marks” and was no longer confident that the marks used to 
+prepare the first quarter results “reflect good faith estimates of fair value at quarter end.”  On 
+August 9, 2012, JPMorgan filed an amended Form 10-Q with restated results for the first quarter.  
+The restatement had the effect of moving certain SCP losses from the second quarter to the first 
+quarter.  Specifically, the restatement reduced the revenues of JPMorgan’s Corporate/Private 
+Equity reporting segment in the first quarter by $660 million, from $1.689 billion to $1.029 
+billion, and the firm’s consolidated quarterly income before income tax expense from the 
+previously-reported $7.641 billion to $6.981 billion. 
+
+        JPMORGAN’S INEFFECTIVE INTERNAL ACCOUNTING CONTROLS  
+                 AND DISCLOSURE CONTROLS AND PROCEDURES 
+
+       28.    JPMorgan’s May 10, 2012 quarterly report on Form 10-Q contained its financial 
+statements for the first quarter of the year, management’s discussion of the firm’s various 
+businesses, and other information.  In addition, the report stated that JPMorgan’s management 
+
+                                               7 
+---------------------Page 8---------------------
+
+                                                                                                 
+
+evaluated the effectiveness of its disclosure controls and procedures and concluded that they 
+were effective. 
+
+       29.    As discussed below, between late April and May 10, 2012, JPMorgan engaged in 
+an extensive process involving work performed by the Controller’s office, the Internal Audit 
+department (“Internal Audit”), valuation experts from the Investment Banking Division (“IB”), 
+and in-house and outside counsel in an effort to evaluate the SCP’s quarter-end marks and to 
+understand the CIO valuation control process and the differences between that process and the 
+valuation control process of the IB.  As a result, by May 10, various executives and employees of 
+the firm had learned of deficiencies as of March 31, 2012 in CIO’s internal controls.  Due to 
+failures to timely escalate information and instructions that had the effect of hindering the 
+sharing of information, not all of these deficiencies had been escalated to JPMorgan Senior 
+Management prior to May 10, 2012.  And, as to the information that was escalated, JPMorgan 
+Senior Management did not make a considered assessment as to whether critical facts existed—
+including any significant deficiency or material weakness in internal controls—that had to be 
+disclosed to the Audit Committee.  Consequently, JPMorgan Senior Management did not 
+disclose the existence of any significant deficiencies or material weaknesses to the Audit 
+Committee before JPMorgan filed its quarterly report on May 10, 2012. 
+
+       30.    On July 13, 2012, at the same time JPMorgan disclosed to investors that it would 
+restate its results for the first quarter of 2012, the firm announced that a material weakness in 
+internal control over financial reporting had existed at CIO as of March 31, 2012.  As a result of 
+the material weakness, JPMorgan also announced that its management had concluded that 
+JPMorgan’s disclosure controls and procedures were not effective as of March 31, 2012. 
+
+                     CIO Internal Controls in the First Quarter of 2012 
+
+       31.    As part of fulfilling the requirements to devise and maintain systems of internal 
+accounting controls, financial institutions such as JPMorgan need to have internal controls that 
+adequately monitor and test the accuracy and integrity of, among other things, the valuations of 
+the firm’s trading portfolios such as the SCP.  CIO-VCG served as a significant control for 
+ensuring that certain assets and liabilities of CIO, including the positions in the SCP, were 
+measured at fair value in accordance with GAAP in JPMorgan’s books and records and in the 
+quarterly and annual reports the firm filed with the Commission. 
+
+       32.    For the SCP, CIO-VCG carried out its responsibility by price-testing the marks 
+that the SCP traders assigned to the portfolio’s positions on the last business day of every month.  
+Under firm policy applicable during the first quarter of 2012, CIO-VCG performed this price-
+testing function by undertaking the following steps: 
+
+           a.  First, CIO-VCG had to calculate, as a benchmark, an independent price for 
+              each of the SCP positions.  A CIO-VCG policy and procedure document 
+              indicates that, for index positions, these independent prices were to be 
+              obtained from Markit Limited Group (“Markit”), a service that provides 
+              consensus-based prices for indices.  For tranches, CIO-VCG obtained 
+              independent prices from dealer quotes, which it checked against Totem, 
+
+                                               8 
+---------------------Page 9---------------------
+
+                                                                                                 
+
+              another consensus pricing service offered by Markit, for any significant 
+              discrepancies. 
+
+           b.  After calculating an independent price for each SCP position, CIO-VCG 
+              had to establish and apply a threshold (or tolerance) around each price that 
+              represented the average bid-offer spread for the security based on quotes 
+              received from dealers.  While it had authority to make an adjustment to 
+              trader marks that fell within these thresholds, CIO-VCG considered such 
+              marks to be presumptively marked at fair value and would not make any 
+              adjustment to those marks. 
+
+           c.  If the SCP traders’ mark for a given position fell outside of the threshold, 
+              CIO-VCG would record the excess as a loss (or profit) and make a 
+              corresponding adjustment to the mark-to-market profit and loss for the 
+              SCP. 
+
+           d.  Finally, if CIO-VCG determined that the market for a particular position 
+              had become illiquid, CIO-VCG applied a pre-established formula to 
+              calculate and record a liquidity reserve to account for the risk that certain 
+              SCP positions could not be sold at fair value due to reduced liquidity in 
+              the marketplace. 
+
+       33.    The CIO-VCG staff actively involved in price-testing the SCP’s 132 positions at 
+the end of the first quarter of 2012 consisted of one person, who worked at CIO’s London office.  
+That person was also responsible for price testing all of CIO’s other London-based portfolios. 
+
+       34.    On April 4, 2012, CIO-VCG completed its price-testing process for the SCP for 
+the end of March 2012.  It applied the relevant thresholds to adjust downward the fair value of 
+the SCP by approximately $17 million compared to the traders’ marks and maintained the 
+previous month’s liquidity reserve of approximately $31 million.   
+
+       35.    During its price-testing process for quarter-end marks, CIO-VCG observed that 
+most of the SCP traders’ marks migrated to the aggressive end of the bid/offer spread.  CIO-
+VCG questioned one of the SCP traders about this shift.  The trader did not explain the shift but 
+merely stated, “Talk to management.”  CIO-VCG did not disclose to anyone its observations 
+concerning the shift in the SCP traders’ marking methodology until questions were being raised 
+about a collateral dispute, which is summarized below, on April 20, 2012.  CIO-VCG also did 
+not share the details of its exchange with the SCP trader. 
+
+       36.    CIO-VCG calculated a significant difference between its independent prices and 
+the SCP traders’ marks.  During its price-testing process, it calculated that the mid-market value 
+of the SCP based on its independent prices was approximately $192 million less than the value 
+based on the SCP traders’ marks.  It subsequently identified an error in its calculations, which 
+increased the difference from $192 million to approximately $275 million.  A March 30, 2012 
+Internal Audit report on CIO-VCG contained an Action Plan under which CIO-VCG should 
+disclose this discrepancy to CIO management.  However, that action plan was not required to be 
+fully implemented until June 30, 2012, and CIO-VCG only disclosed the $17 million fair value 
+
+                                               9 
+---------------------Page 10---------------------
+
+                                                                                                
+
+adjustment based on marks that fell outside of its thresholds.  Consequently, CIO management 
+was not alerted to the significant difference between the SCP traders’ marks and the CIO-VCG 
+calculated mid-market valuations, which warranted further analysis. 
+
+       37.    Shortly after April 4, 2012, CIO Finance, with the approval of CIO management 
+and JPMorgan Senior Management, increased the existing $31 million liquidity reserve by $155 
+million, based on a determination that certain tranches in the SCP portfolio had become illiquid 
+as of March 30.  The traders’ marks, as adjusted by CIO-VCG, were then incorporated in the 
+financial information provided for CIO in JPMorgan’s earnings release on April 13, 2012 and in 
+the firm’s May 10, 2012 report for the first quarter of 2012.   
+
+                    Large Collateral Calls and Increasing Losses Prompt  
+                  Multiple Reviews of CIO-VCG and the Traders’ Marks 
+
+       38.    On April 20, 2012, JPMorgan Senior Management was informed that the firm had 
+received several collateral calls—requests from trading counterparties for payment or the posting 
+of collateral based on their differing views of the fair value—concerning positions in the SCP.  
+The total amount in dispute was approximately $520 million. 
+
+       39.    A collateral dispute with a CDS counterparty can sometimes be an indication that 
+a firm’s internal price for an instrument does not accurately reflect its fair value.  Accordingly, in 
+April 2012, the size of the collateral disputes over the SCP raised concerns by JPMorgan Senior 
+Management about the pricing of the SCP positions.  In an April 20, 2012 email, a member of 
+JPMorgan Senior Management observed that the collateral disputes were not “a good sign on our 
+valuation process” in the SCP. 
+
+       40.    At the same time that the collateral disputes were being escalated to JPMorgan 
+Senior Management, the SCP was also sustaining large daily losses.  This development was 
+inconsistent with what CIO had told JPMorgan Senior Management to expect prior to the April 
+13 earnings release, and JPMorgan Senior Management was concerned about the losses and the 
+traders’ explanations of what was happening to the SCP positions and their strategy for dealing 
+with the risks to the SCP.  On or about April 27, JPMorgan Senior Management asked a senior 
+trader from the IB and a senior risk officer to evaluate the portfolio on an urgent basis.  Shortly 
+afterwards, the IB trader and risk officer were put in charge of managing and reducing the risk in 
+the SCP, and the SCP traders were relieved of all trading and pricing responsibilities.  
+Additionally, on a going-forward basis, positions in the SCP were to be marked to consensus 
+mid-market prices published by Markit. 
+
+       41.    In late April and early May, JPMorgan Senior Management mobilized resources 
+from various parts of the firm—the IB’s valuation experts, Internal Audit, which had prior 
+experience with CIO-VCG’s price-testing process, and the Controller’s office, which included 
+JPMorgan’s fair value accounting experts—as well as the Legal Department and an outside law 
+firm to conduct reviews of the SCP traders’ marks and CIO-VCG’s price-testing process.  At the 
+time, JPMorgan was planning to file with the Commission its report for the first quarter of 2012 
+in early May 2012.  In part due to the questions being raised about the valuation of the SCP, 
+JPMorgan Senior Management, with approval of the Audit Committee, decided to postpone the 
+filing to May 10.  JPMorgan Senior Management delayed the filing so that it had additional time 
+
+                                              10 
+---------------------Page 11---------------------
+
+                                                                                                
+
+to assess whether CIO’s first quarter results, which had been publicly released on April 13, were 
+in fact compliant with GAAP and should be disclosed again in the quarterly report. 
+
+                                The Investment Bank’s Review 
+
+       42.    On April 25, 2012, a member of JPMorgan Senior Management asked the 
+Valuation Control Group in the firm’s IB (“IB-VCG”) to price-test the SCP traders’ marks for 
+March 30, 2012 as if the positions had been held by the IB.  IB-VCG also reviewed the price-
+testing work that had been done by CIO-VCG at the end of March 2012.  The IB-VCG review 
+was conducted under the supervision of the IB’s Chief Financial Officer. 
+
+                     IB-VCG Valuation “In Line with the Counterparties” 
+
+       43.    The next day, IB-VCG performed a preliminary analysis of the SCP traders’ 
+marks.  On a conference call that day, IB-VCG staff informed CIO management and CIO-VCG 
+that “[t]he rough initial result [of its analysis] . . . seems to, to be in line with the mark-to-market 
+differences you see on the collateral calls. . . .  In terms of dollar value, the number seems pretty 
+much in line . . . with the counterparties.”  In other words, IB-VCG’s preliminary valuation of 
+the SCP positions was in line with those of CIO’s trading counterparties, who had valued the 
+SCP at several hundreds of millions of dollars less than the SCP traders did. 
+
+       44.    During the conference call, CIO-VCG explained to IB-VCG staff that in setting 
+thresholds around independent prices during its month-end price-testing process, it often 
+consulted with the SCP traders—whose valuations it was supposed to validate—“to see if they 
+have any market input to decide whether, you know, if it’s, that’s wrong, that’s correct, et 
+cetera.”  CIO-VCG also informed IB-VCG that, when completing its price-testing process, it 
+used dealer quotes selected by SCP traders.  IB-VCG staff believed that this process of 
+consulting the traders had the potential to significantly impair the independence and 
+effectiveness of the CIO-VCG process. 
+
+       45.    On Saturday, April 28, 2012, at a meeting with members of JPMorgan Senior 
+Management and CIO management, the IB’s CFO presented IB-VCG’s analysis of the SCP 
+traders’ marks.  He reviewed with the attendees a spreadsheet that detailed IB-VCG’s work to 
+date (“IB-VCG Spreadsheet”).  At that meeting, at least one of the positions in the IB-VCG 
+Spreadsheet was reviewed on a column-by-column basis in order to describe the data included in 
+each individual column. 
+
+       46.    As of this time, JPMorgan Senior Management and CIO management knew that 
+the SCP traders’ marks were $275 million greater than independent mid-market prices computed 
+by CIO-VCG based on a combination of broker quotes and data from consensus pricing services.  
+IB-VCG relied exclusively upon consensus pricing services, and the IB-VCG Spreadsheet 
+calculated that the SCP traders’ marks were approximately $767 million greater than the values 
+placed on the SCP positions by consensus mid-market prices published by Markit and Totem. 
+
+       47.    As part of its analysis, IB-VCG staff calculated an approximate bid-offer spread, 
+based on market information from March 30, 2012, for six SCP positions, including several of 
+the largest positions and some with the greatest total dollar value differences between trader 
+marks and IB-VCG’s consensus pricing.  The IB-VCG Spreadsheet contained data regarding 133 
+
+                                              11 
+---------------------Page 12---------------------
+
+                                                                                                
+
+positions and reflected, among other things, that for the six positions for which it calculated an 
+approximate bid-offer spread, the traders’ quarter-end marks were outside the bid-offer spreads 
+that IB-VCG had approximated.    
+
+       48.    After presenting IB-VCG’s analysis, the IB’s CFO began to calculate the profit-
+and-loss impact if CIO marked the SCP to the conservative end of the bid-offer spread, rather 
+than to mid-market prices, as a price-taker would have done (since price-takers often buy and sell 
+at prices that are inferior to the consensus, mid-market Markit or Totem prices).  This analysis 
+showed that adjusting marks to the conservative end of the bid-offer spread would have further 
+reduced the value of the SCP by approximately $250 million, resulting in an over $1 billion 
+difference between the traders’ marks and a price-taker’s marks at the conservative end of the 
+bid-offer spread.  JPMorgan Senior Management elected not to pursue this marking methodology 
+with respect to the March 2012 quarter-end marks because, among other reasons, it understood 
+that using mid-market prices was acceptable under GAAP. 
+
+                                      Spreadsheet Errors 
+
+       49.    IB-VCG also reviewed the process that CIO-VCG had applied to the traders’ 
+quarter-end marks.  During this review, IB-VCG learned that in March 2012 CIO-VCG used a 
+spreadsheet in its price-testing process into which data had been manually entered, and that this 
+spreadsheet contained certain errors and reflected differences from the IB-VCG methodology 
+that may have had the effect of understating the difference between the traders’ marks and the 
+independent mid-market prices derived by CIO-VCG.  On May 8, 2012, IB-VCG forwarded an 
+email to one member of JPMorgan Senior Management explaining these issues.  IB-VCG and 
+CIO-VCG were instructed to work together to address the errors and other issues. 
+
+       50.    The next day, IB-VCG corrected one such error, which involved the calculation of 
+the difference between the value of the SCP based on the traders’ marks and CIO-VCG’s 
+independent prices.  Before the correction, the difference was believed to be approximately $275 
+million.  After the correction, the difference increased to $512 million.  IB-VCG informed 
+JPMorgan Senior Management of the correction and the quantitative impact it had.   
+
+       51.    Based on the price-testing work of IB-VCG and other information, the 
+management of the IB expressed concerns to JPMorgan Senior Management about the potential 
+for mismarking of the SCP and whether CIO VCG was an effective control over the SCP.  On 
+May 6, 2012, for example, a senior IB executive explained to a member of JPMorgan Senior 
+Management that the securities in the SCP had “very good price discovery mechanisms” (i.e., 
+could effectively be priced in the marketplace) and that he could not recall a variance between 
+trader marks and independent prices in the IB “greater than $50mm that remained at any month 
+end across the ENTIRE IB’s positions.”  
+
+       52.    In light of their concerns relating to CIO, two senior IB executives initially 
+expressed some reservations regarding the scope of their sub-certifications that JPMorgan 
+required officers in the various business lines to provide in connection with its quarterly and 
+                
+annual filings. One of the executives apprised JPMorgan Senior Management that in light of the 
+CIO related information to which he was privy, he had a conversation with an outside lawyer 
+concerning the scope of his certification obligations.  After relaying that conversation to the 
+
+                                              12 
+---------------------Page 13---------------------
+
+                                                                                                 
+
+other Investment Bank executive with certification obligations, both executives signed their sub-
+certifications. 
+
+                                  The Internal Audit Review 
+
+       53.    In addition to the IB-VCG review, on or around May 2, 2012, JPMorgan Senior 
+Management instructed Internal Audit to review the CIO-VCG process, including whether it had 
+                                             
+been applied consistently over past quarters. Also on May 2, at the end of a meeting of the Audit 
+Committee of JPMorgan’s Board of Directors, the Audit Committee, having just been informed 
+of the losses recently suffered, separately requested that Internal Audit review CIO. 
+
+       54.    The Internal Audit team discovered deficiencies with the thresholds CIO-VCG 
+had applied at March 30.  As noted above, JPMorgan policy required that CIO-VCG set a 
+threshold around its independent price for each SCP position that was representative of the 
+average spread between the bids and the offers received from dealers for the position.  Because 
+the threshold was applied on each side of the independent price, in order to reflect the bid-offer 
+spread the threshold on each side would be one-half of the entire spread. 
+
+       55.    By May 9, 2012, the Internal Audit team learned that in validating the SCP 
+traders’ quarter-end marks in March 2012, CIO-VCG had in some cases applied the entire bid-
+                                                                                       
+offer spread (rather than one half of the spread) on each side of its independent prices. The result 
+was a threshold that was twice the size of the bid-offer spread and beyond the range of 
+reasonable fair value estimates.  The Internal Audit team calculated that, had CIO-VCG applied 
+the thresholds appropriately, it would have adjusted the traders’ quarter-end marks downward by 
+$307 million—$290 million more than the $17 million adjustment CIO-VCG had actually made 
+at month end. 
+
+       56.    On May 10, the Internal Audit team collected its work in a draft memo (“Internal 
+Audit Draft Memo”), which stated, among other things, that CIO-VCG was “inconsistent in the 
+application of [its] own thresholds.” 
+
+       57.    Although Internal Audit completed this work in the days prior to May 10, it did 
+not fully share this information with JPMorgan Senior Management and did not circulate the 
+Internal Audit Draft Memo to JPMorgan Senior Management or the Audit Committee. 
+
+                                   The Controller’s Review 
+
+       58.    On April 28, 2012, JPMorgan Senior Management asked the Controller’s staff to 
+assess whether the traders’ quarter-end marks complied with GAAP and to review the 
+effectiveness of CIO-VCG’s quarter-end internal control process. 
+
+       59.    The Controller’s staff made several significant observations.  One was that, as 
+losses in the SCP increased in March 2012, the traders departed from their historical practice of 
+marking the positions close to the mid-point between the bids and offers received from dealers.  
+Instead, they marked many positions at the aggressive end of the bid-offer spreads, i.e., they 
+marked the positions in a manner that resulted in smaller mark-to-market losses.  JPMorgan 
+Senior Management was informed of this fact in late April 2012.  The traders justified their 
+marks to the Controller’s staff by explaining that the market had become volatile and dislocated.  
+
+                                              13 
+---------------------Page 14---------------------
+
+                                                                                                
+
+This volatility, the SCP traders claimed, caused significant intraday price movements that may 
+help explain the difference between the SCP traders’ marks and consensus pricing services.  To 
+test the volatility explanation, the Controller’s staff analyzed intraday pricing information, and 
+determined that the difference between the SCP traders’ marks and the mid-market prices was 
+less than the average daily price movement.  While accepting the SCP traders’ justification, 
+however, the Controller’s staff failed to adequately assess whether CIO could transact at the 
+price where the SCP was marked. 
+
+       60.    For two quarter end marks assigned by the SCP traders, the Controller’s staff also 
+detected significant differences from mid-market consensus pricing that were not supported by 
+pricing data received by the SCP traders on the date that the mark was assigned.  When the 
+Controller’s staff questioned these marks, one of the SCP traders agreed that they were too wide 
+as compared to the mid-market price.  This fact had not been adequately considered by CIO-
+VCG during its actual price testing process in connection with the first quarter of 2012, nor was 
+this fact given appropriate scrutiny by the Controller’s staff.  Consequently, the Controller’s staff 
+did not escalate this information to JPMorgan Senior Management. 
+
+                           The Special Review by Outside Counsel 
+
+       61.    In addition to the foregoing reviews, on or around May 1, 2012, JPMorgan 
+retained an outside law firm to provide advice regarding disclosure and to review, among other 
+things, whether the independence of the CIO-VCG process had been improperly compromised 
+                                       
+by the involvement of the SCP traders. By May 10, 2012, when JPMorgan filed its first quarter 
+report, the law firm had interviewed the employee of CIO-VCG who had price-tested the SCP 
+                                                                                    
+marks, the executive to whom he reported, and other members of CIO management. The law 
+firm also had collected and reviewed a limited number of the relevant emails and Bloomberg 
+chats from the first quarter of 2012. 
+
+                              The Process for Synthesizing and  
+                     Escalating Information from the Various Reviews 
+
+       62.    JPMorgan Senior Management led a process that involved daily—sometimes 
+twice daily—meetings and calls in which participants involved in the different reviews discussed 
+what they and their teams were doing and learning. Despite that process, a number of significant 
+facts learned in the course of the various reviews were not shared in these group meetings and 
+calls and were not otherwise escalated to JPMorgan Senior Management.  This in turn led to 
+JPMorgan’s incomplete understanding of deficiencies relating to the CIO-VCG process in March 
+2012.   
+
+       63.    JPMorgan Senior Management’s emphasis on confidentiality and sharing 
+information on a need-to-know basis contributed to this incomplete understanding.  JPMorgan 
+Senior Management was concerned about sensitive information relating to CIO’s positions being 
+widely distributed and imposed restrictions on the creation and sharing of work product relating 
+to those positions.  These instructions affected the ability of those conducting the reviews to 
+share, learn from, and build upon each other’s work. 
+
+                                              14 
+---------------------Page 15---------------------
+
+                                                                                                 
+
+       64.    On April 29, 2012, the Controller’s staff was instructed not to “discuss [its work] 
+with people outside the immediate group” and to exercise caution in committing its findings to 
+writing. 
+
+       65.    A member of JPMorgan Senior Management also instructed IB-VCG to “keep 
+                                         
+[its] analysis in a relatively tight group.” On April 29, 2012, an IB executive confirmed to the 
+member of JPMorgan Senior Management that IB-VCG “speaks to no one,” including the 
+                                                               
+Controller’s staff, “without getting my express approval first.”  
+
+       66.    Finally, the Internal Audit team was instructed to maintain strict confidentiality in 
+                           
+connection with its review.  
+
+       67.    JPMorgan Senior Management did not receive all relevant information for another 
+reason: some employees conducting the reviews failed to appreciate the significance of certain of 
+the facts they had learned and their relevance to the quarterly report that was about to be filed.  
+For example, in looking back on his work after learning in late June that the integrity of the 
+traders’ marks was in question, a London-based employee primarily responsible for the 
+Controller’s review conducted an after-the-fact assessment, noting that he “[s]hould have better 
+understood the $767 [million] diff.,” i.e., IB-VCG’s calculation of the disparity between the SCP 
+                                                                                 
+traders’ quarter-end marks and Markit and Totem consensus, mid-market prices. The employee 
+further noted that he “[s]hould have pressed [CIO-VCG] more on how the tolerances (thresholds) 
+were determined” and “should have picked up that the tolerances determined by adding whole 
+bid-offer,” a fact already known to members of the Internal Audit team prior to May 10, 2012.  
+Although executives were in contact with those responsible for the various reviews, some of 
+those employees failed to timely analyze and escalate to JPMorgan Senior Management 
+important facts that they had discovered. 
+
+                              JPMorgan Senior Management’s  
+                          Response to the Information It Received 
+
+       68.    Despite the inadequate information sharing and escalation described above, 
+significant information learned in the management-commissioned reviews was escalated to 
+JPMorgan Senior Management.  This information, which related to the adequacy of the CIO-
+VCG process that produced the $17 million fair value adjustment to the traders’ quarter-end 
+marks, included the following: 
+
+           a.  As losses began to mount, SCP traders began consistently marking at or 
+              near the very edge of the advantageous side of the bid-offer spread. 
+
+           b.  There was a collateral dispute of over $500 million. 
+
+           c.  Independent analysis by IB-VCG of the SCP traders’ quarter-end marks 
+              was “in line with . . . the counterparties.”  Specifically, the value of the 
+              SCP based on trader marks was approximately $767 million more than the 
+              value based on mid-point consensus pricing. 
+
+       69.    Management also learned of the following facts that directly related to CIO-VCG 
+and the processes it was using in March 2012:  
+
+                                              15 
+---------------------Page 16---------------------
+
+                                                                                                
+
+          a.  The CIO-VCG process relied on manual spreadsheets that contained 
+              errors, one of which caused CIO-VCG to understate the disparity between 
+              its independent prices and the traders’ marks by $237 million. 
+
+          b.  The SCP traders provided some of the quotes that were used in CIO-
+              VCG’s price-testing process and this process “need[ed] to be enhanced to 
+              ensure independence.” 
+
+       70.    In response to what it was learning prior to May 10, JPMorgan Senior 
+                                                                 
+Management decided to enhance CIO-VCG’s valuation policies. To assist with this task, the 
+persons conducting the reviews recommended certain changes, and a member of JPMorgan 
+Senior Management drafted revisions to CIO-VCG procedures, which were shared with 
+                                                                       
+JPMorgan Senior Management and CIO management on May 5, 2012. On May 7, 2012, a senior 
+CIO executive circulated a “proposed operational approach to VCG price testing” that contained 
+additional policy revisions.  Both sets of changes were implemented before May 10, 2012. 
+
+       71.    Collectively, the new policies were intended to remediate several of the issues 
+discovered by the management-commissioned reviews of CIO-VCG and the traders’ marks: 
+
+          a.  Disparity between CIO-VCG independent prices and traders’ marks.  The 
+              revised policies significantly curtailed the size of thresholds that CIO-VCG 
+              could apply, directing that the difference between a trader’s mark and CIO-
+              VCG’s independent price could not exceed $500,000 for an index position 
+              and $2,000,000 for a tranche position. 
+
+          b.  Trader involvement in the VCG process.  The revised policies required CIO-
+              VCG to “source broker quotes independently from the market,” rather than 
+              through the traders, thereby “eliminating any reliance on [the traders] for 
+                                         
+              sourcing of market data.”  
+
+          c.  Variance between Markit and CIO-VCG’s independent prices.  The revised 
+              policies stated that, for positions where CIO-VCG could rely on dealer 
+              quotes in calculating independent prices, CIO-VCG must obtain at least two 
+              quotes and, if two are not available, it must use Markit or Totem as an input.  
+              The revised policies also provided that, even when dealer quotes are 
+              obtained, “mid prices derived from selected dealer quotes should be 
+              compared . . . to Markit/Totem sourced data and any material differences . . . 
+              must be reported to the CFO of CIO and must be reconciled.” 
+
+          d.  Inadequate oversight over sole CIO-VCG price-tester.  The revised policies 
+              introduced a new protocol for escalating to management valuation disputes 
+              between CIO-VCG and the traders, requiring the involvement of JPMorgan 
+              risk personnel and the Chief Financial Officer of CIO. 
+
+       72.    In addition to these policy changes, in early May the staff of IB-VCG prepared a 
+remedial plan to address the spreadsheet errors it had identified in CIO-VCG’s price-testing 
+                                                         
+process, and to ensure proper review of the spreadsheets. On May 8, 2012, after CIO finance 
+
+                                              16 
+---------------------Page 17---------------------
+
+                                                                                                
+
+management and CIO-VCG concurred in the remedial plan, IB-VCG described it to JPMorgan 
+Senior Management. 
+
+                             The Reviews of CIO-VCG Are Not 
+                            Addressed with the Audit Committee 
+
+       73.    The responsibility for overseeing JPMorgan’s management on behalf of the firm’s 
+stockholders—including oversight of management’s responsibilities for internal controls—
+                                                      
+ultimately rests with JPMorgan’s Board of Directors. The Board, in turn, discharges its oversight 
+function through several Board committees.  One of the principal committees is the Audit 
+Committee, which is charged with overseeing JPMorgan’s efforts to assure that it has effective 
+internal controls, which are critical to the integrity of the firm’s financial reports and compliance 
+with applicable policies and laws. 
+
+       74.    To assist the Audit Committee in carrying out its responsibility, the Audit 
+Committee’s Charter requires JPMorgan management to provide updates to the Committee on all 
+“significant operating and control issues in internal audit reports,” the “initiation and status of 
+significant special investigations,” the “identification and resolution status of material 
+weaknesses” in controls, and any “reportable conditions in the internal control environment, 
+including any significant deficiencies.”  These updates serve an important internal control 
+function, allowing the Audit Committee to fulfill its oversight role by, among other things, 
+keeping the Board up-to-date on significant matters, assessing whether to approve the filing of 
+quarterly and annual reports, and evaluating whether the Committee should conduct its own 
+independent investigation of any issues raised with it. 
+
+       75.    In late April and early May 2012, while JPMorgan’s Senior Management was 
+devoting daily attention to CIO-VCG and the SCP traders’ quarter-end marks—in large measure 
+to ensure that CIO results reported in its upcoming quarterly report would be accurate—it also 
+was in contact with members of the Audit Committee. 
+
+       76.    However, while JPMorgan Senior Management was informed of, and was 
+addressing, various issues with internal controls at CIO-VCG, JPMorgan Senior Management 
+did not engage in a considered assessment, before the firm filed its first quarter report on May 
+10, 2012, to determine if these matters constituted a significant deficiency or material weakness 
+in the firm’s internal control over financial reporting and therefore had to be disclosed to the 
+firm’s Audit Committee.  Nor, more broadly, did JPMorgan Senior Management disclose to the 
+Audit Committee its concerns regarding the operation of CIO-VCG. 
+
+       77.    On May 2, 2012, the Audit Committee met with some members of JPMorgan 
+Senior Management.  The focus of the meeting was on the mounting losses in the SCP portfolio. 
+Despite the requirement to keep the Audit Committee apprised of the significant control issues 
+that were under review, there was no discussion of the IB-VCG or Controller reviews related to 
+CIO-VCG and the traders’ marks, although that work was underway.  There was also no 
+discussion of the fact that an outside law firm had been retained to advise on disclosures to be 
+made in the first quarter Form 10-Q that related to CIO and to assess certain aspects of the CIO-
+                                                                                           
+VCG process, including whether the SCP traders exercised undue influence on the process.  
+
+                                              17 
+---------------------Page 18---------------------
+
+                                                                                                 
+
+       78.    During a full meeting of the Board of Directors hours before the filing of 
+JPMorgan’s first quarter report on May 10, 2012, JPMorgan Senior Management mentioned that 
+reviews of what occurred in CIO were underway, including by Internal Audit, legal, the 
+Controller’s staff, and risk management.  But, JPMorgan Senior Management did not discuss the 
+details of or facts learned in the IB-VCG, Controller, or Internal Audit reviews. 
+
+       79.    Because the Audit Committee was not apprised of the initiation of the reviews or 
+facts learned as a result of those reviews, it was unable to provide input on the issues before the 
+filing of JPMorgan’s first quarter report, and was unable to engage with those doing the work to 
+ensure that it was sufficient from the perspective of the Audit Committee. 
+
+       80.    As noted above, the Audit Committee was not made aware before JPMorgan filed 
+its first quarter report of the facts learned by various members of the review teams, including that 
+                                                                                       
+CIO-VCG’s March 2012 price-testing process was compromised by spreadsheet errors,that SCP 
+                                                     
+traders may have exerted influence over that process, or that CIO-VCG applied valuation 
+thresholds that were in some instances twice the applicable spread. 
+
+       81.    Other information learned by various members of the review teams that further 
+called into question CIO-VCG’s March 2012 quarter-end valuation process was not shared with 
+the Audit Committee.  At the end of the first quarter, CIO-VCG made a fair value adjustment of 
+$17 million to the traders’ marks.  However, certain facts raised issues as to the adequacy of this 
+adjustment and the process through which it was made, including the $520 million in collateral 
+                             
+disputes over SCP positions,the $767 million disparity between the SCP traders’ marks and 
+                               
+consensus, mid-market prices,the fact that the traders marked some of the largest notional SCP 
+                                                                 
+positions outside the bid-offer spread approximated by IB-VCG,and the fact that the traders 
+began to mark the SCP at the aggressive end of the bid-offer spread when losses began to mount. 
+
+       82.    Finally, the Audit Committee was not apprised of, or included in, JPMorgan 
+Senior Management’s efforts to remedy the control issues at CIO-VCG by revising valuation 
+                                                          
+policies to ensure proper oversight by CIO management. As a result, the Audit Committee did 
+not have any input into the proposed changes or an understanding of the reasons that motivated 
+them. 
+
+                            Subsequent Disclosures by JPMorgan 
+
+       83.    Based on the information available to it, the Audit Committee approved of the 
+content of JPMorgan’s quarterly report on Form 10-Q that was filed on May 10, 2012.  On July 
+13, 2012, JPMorgan disclosed that a material weakness existed in its internal control over 
+financial reporting stemming from the “effectiveness of CIO’s internal controls over valuation of 
+the synthetic credit portfolio.”  In its amended Form 10-Q for the first quarter of 2012 filed on 
+August 9, 2012, JPMorgan disclosed that this material weakness finding “was the result of issues 
+in certain interrelated and interdependent control elements comprising that process, including 
+insufficient engagement of CIO senior finance management in the valuation control process in 
+light of the increased size and heightened risk profile of the synthetic credit portfolio during the 
+first quarter of 2012, and in the effectiveness of certain procedures employed during the first 
+quarter of 2012 by the CIO Valuation Control Group in performing the price verifications.” 
+
+                                               18 
+---------------------Page 19---------------------
+
+                                                                                                
+
+       84.    JPMorgan also corrected prior statements concerning its disclosure controls and 
+procedures.  In its May 10 Form 10-Q, JPMorgan stated, “As of the end of the period covered by 
+this report, an evaluation was carried out under the supervision and with the participation of the 
+Firm’s management, including its Chairman and Chief Executive Officer and its Chief Financial 
+Officer, of the effectiveness of its disclosure controls and procedures (as defined in Rule 13a-
+15(e) under the Securities Exchange Act of 1934).  Based on that evaluation, the Chairman and 
+Chief Executive Officer and the Chief Financial Officer concluded that these disclosure controls 
+and procedures were effective.”  On August 9, 2012, when JPMorgan disclosed that it had 
+determined that a material weakness existed at CIO as of March 31, 2012, it also disclosed that, 
+“[a]s a result of that determination, the Firm’s Chairman and Chief Executive Officer and Chief 
+Financial Officer also concluded that the Firm’s disclosure controls and procedures (as defined 
+in Rule 13a-15(e) under the Securities Exchange Act of 1934) were not effective at March 31, 
+2012.” 
+
+                                              V. 
+
+       As a result of the conduct described above, JPMorgan violated Sections 13(a), 
+13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 13a-11, 13a-13, and 13a-15 
+thereunder. 
+
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in JPMorgan’s Offer. 
+
+       Accordingly, pursuant to Section 21C of the Exchange Act, it is hereby ORDERED that: 
+
+       A.     JPMorgan cease and desist from committing or causing any violations and any 
+future violations of Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 
+13a-11, 13a-13, and 13a-15 thereunder. 
+        
+       B.     JPMorgan shall, within ten (10) business days of the entry of this Order, pay a 
+civil money penalty in the amount of $200,000,000 to the Securities and Exchange Commission.  
+If timely payment is not made, additional interest shall accrue pursuant to 31 U.S.C. § 3717. 
+Payment must be made in one of the following ways: 
+        
+              (1)     JPMorgan may transmit payment electronically to the 
+                      Commission, which will provide detailed ACH transfer/ 
+                      Fedwire instructions upon request; 
+
+              (2)     JPMorgan may make direct payment from a bank account via 
+                      Pay.gov through the SEC website at 
+                      http://www.sec.gov/about/offices/ofm.htm; or 
+
+              (3)     JPMorgan may pay by certified check, bank cashier’s check, or 
+                      United States postal money order, made payable to the Securities 
+                      and Exchange Commission and hand- delivered or mailed to: 
+
+                              
+                              
+
+                                              19 
+---------------------Page 20---------------------
+
+                                                                                                 
+
+                             Enterprise Services Center 
+                             Accounts Receivable Branch 
+                             HQ Bldg., Room 181, AMZ-341 
+                             6500 South MacArthur Boulevard 
+                             Oklahoma City, OK 73169 
+               
+       Payments by check or money order must be accompanied by a cover letter identifying 
+JPMorgan Chase & Co. as Respondent in these proceedings, and the file number of these 
+proceedings; a copy of the cover letter and check or money order must be sent to Andrew M. 
+Calamari, Regional Director – New York Regional Office, Division of Enforcement, Securities 
+and Exchange Commission, 3 World Financial Center, Suite 400, New York, NY 10281. 
+
+       C.     Such civil money penalty may be distributed pursuant to Section 308(a) of the 
+Sarbanes-Oxley Act of 2002, as amended (“Fair Fund distribution”).  Regardless of whether any 
+Fair Fund distribution is made, amounts ordered to be paid as civil money penalties pursuant to 
+this Order shall be treated as penalties paid to the government for all purposes, including all tax 
+purposes.  To preserve the deterrent effect of the civil penalty, JPMorgan agrees that in any 
+Related Investor Action, it shall not argue that it is entitled to, nor shall it benefit by, offset or 
+reduction of any award of compensatory damages by the amount of any part of JPMorgan’s 
+payment of a civil penalty in this action (“Penalty Offset”).  If the court in any Related Investor 
+Action grants such a Penalty Offset, JPMorgan agrees that it shall, within 30 days after entry of a 
+final order granting the Penalty Offset, notify the Commission's counsel in this action and pay 
+the amount of the Penalty Offset to the United States Treasury or to a Fair Fund, as the 
+Commission directs.  Such a payment shall not be deemed an additional civil penalty and shall 
+not be deemed to change the amount of the civil penalty imposed in this proceeding.  For 
+purposes of this paragraph, a “Related Investor Action” means a private damages action brought 
+against Respondent by or on behalf of one or more investors based on substantially the same 
+facts as alleged in the Order instituted by the Commission in this proceeding. 
+        
+       D.     JPMorgan shall pay all reasonable administrative costs and expenses of any 
+distribution, including the fees and expenses of a tax administrator, within thirty (30) days after 
+receipt of an invoice for such services. 
+        
+       By the Commission. 
+
+        
+        
+        
+                                                    Elizabeth M. Murphy 
+                                                    Secretary 
+
+                                               20 
+---------------------Page 21---------------------
+
+                                                                                               
+
+                                         ANNEX A 
+                                                
+       JPMorgan Chase & Co. (“JPMorgan”) admits to the facts set forth below and 
+acknowledges that its conduct violated the federal securities laws: 
+ 
+                         RELEVANT ENTITIES AND PERSONS 
+
+       1.     JPMorgan, a Delaware corporation headquartered in New York, New York, 
+is a global banking and financial services firm whose common stock is registered with the 
+Commission under Section 12(b) of the Exchange Act and traded on The New York Stock 
+Exchange under the symbol “JPM.” 
+
+       2.     CIO is a unit of JPMorgan and part of the firm’s Corporate/Private Equity 
+reporting segment.  Among other things, CIO is responsible for investing excess deposits from 
+JPMorgan’s banking arm.  CIO maintains offices in New York, New York and London, United 
+Kingdom.  
+
+       3.     JPMorgan “Senior Management,” as that term is used herein, refers to one or 
+more of the following individuals who held the listed positions as of May 10, 2012:  the 
+JPMorgan Chief Executive Officer, the JPMorgan Chief Financial Officer, the JPMorgan Chief 
+Risk Officer, the JPMorgan Controller, and the JPMorgan General Auditor. 
+
+                         THE MISMARKING OF JPMORGAN’S 
+                           SYNTHETIC CREDIT PORTFOLIO 
+
+                    JPMorgan, CIO, and the Synthetic Credit Portfolio 
+
+       4.     In 2007, CIO created an investment portfolio, the SCP, which was designed to 
+provide a hedge against adverse credit events.  It invested in derivatives that could be expected to 
+generate profit during adverse credit events, such as widespread corporate defaults.  The 
+positions in the SCP consisted of credit derivative indices and portions (or “tranches”) of those 
+indices, both of which were constructed to track a collection of credit default swaps (“CDS”) 
+referencing the debt of corporate issuers. 
+
+       5.     The SCP was invested in two primary index groups: CDX, a group of North 
+American and Emerging Markets indices, and iTraxx, a group of European and Asian indices.  
+Some indices referenced companies considered to be investment grade and others referenced 
+companies considered to be high-yield (which generally means that their credit risk is viewed as 
+higher).  Investors in CDX and iTraxx indices, including CIO, can be “long” risk, which is 
+equivalent to being a seller of CDS protection, or “short” risk, which is equivalent to being a 
+buyer of CDS protection. 
+
+       6.     Beginning in 2008, the SCP’s investment strategy generally consisted of holding a 
+net short risk position in high-yield indices and tranches, which meant that the SCP was 
+positioned to realize gains if high-yield companies were to default on their corporate debt.  The 
+composition of the book changed from time to time in response to CIO’s assessment of market 
+conditions. 
+
+                                                
+---------------------Page 22---------------------
+
+                                                                                                  
+
+       7.     In December 2011, in preparation for complying with the capital adequacy 
+standards of the Third Basel Accord, the SCP traders were instructed to reduce the SCP’s use of 
+regulatory capital.  To achieve this—and, in light of improving economic conditions, to reduce 
+the SCP’s credit protection profile—CIO management and the traders in charge of the SCP 
+considered reducing the size of the SCP’s short risk position in high-yield investments.  There 
+were substantial costs associated with this strategy.  To avoid these costs, CIO management and 
+traders therefore decided to add investments to the SCP’s existing long risk investment-grade 
+positions to offset the short risk high-yield position.  However, as CIO built its long risk 
+investment-grade positions, which included a large investment in an index known as the CDX 
+North American Investment Grade Index Series 9 10-year, it also added substantially to its 
+existing high-yield short position.  JPMorgan did not have risk limits restricting the notional size 
+of the SCP, and CIO’s trading strategy led to a large increase in the notional size of the SCP.  
+During the first quarter of 2012, CIO tripled the net notional amount of the SCP.  As of March 
+31, 2012, the SCP contained 132 trading positions with a net notional amount of approximately 
+$157 billion. 
+
+                         Traders Mismark the SCP as Losses Mount 
+
+       8.     Like many other public companies, JPMorgan reported its results, which 
+incorporated the mark-to-market profit and loss of the SCP, at the end of each quarter in 
+accordance with U.S. Generally Accepted Accounting Principles (“GAAP”).  Under JPMorgan 
+policy, the SCP traders were required to assign valuations (or “marks”) to the positions in the 
+SCP at fair value.  Both GAAP and JPMorgan’s accounting policy required that the SCP traders 
+do so by making a good-faith estimate of the fair value of each SCP position based on 
+information available in the marketplace.  Under GAAP, the positions in the SCP had to be 
+marked “within the bid-ask spread” at the point that is “most representative of fair value in the 
+circumstances,” with a particular emphasis on the price where the traders could reasonably 
+expect to transact.  GAAP also allows for the use of mid-market pricing “as a practical expedient 
+for fair value measurements within a bid-ask spread.”  
+
+       9.     At the end of each business day, the SCP traders had to mark the positions in the 
+SCP and report to CIO management a summary of the portfolio’s mark-to-market profits and 
+losses for the day.  Additionally, the traders had to provide their valuations for the SCP to the 
+middle office at CIO so that the information could be incorporated into the books and records of 
+JPMorgan. 
+
+       10.    The SCP generated sizeable profits for JPMorgan over the period from 2007 to 
+2011.  In the first quarter of 2012, however, it began experiencing substantial mark-to-market 
+losses.  By early March 2012, the most senior SCP trader, who was a managing director within 
+CIO, instructed the other SCP traders to stop reporting losses to CIO management unless there 
+was a market-moving event that could easily explain the losses.  In response, a junior SCP trader 
+changed his daily marking methodology for the SCP.  Previously, he had derived for each SCP 
+position a bid-offer spread from dealer quotes he had received and then assigned a mark that was 
+generally equivalent to the mid-point in that spread.  In response to the most senior trader’s 
+instruction, the junior trader began to assign marks that often were at the most aggressive point 
+in the bid-offer spread received that day (i.e., the point that resulted in higher valuations of the 
+SCP positions).  For some SCP positions, the junior trader assigned marks in March that were 
+
+                                               2 
+---------------------Page 23---------------------
+
+                                                                                                 
+
+altogether outside every dealer’s bid and offer received that day. As a result of these marking 
+practices, the SCP traders intentionally understated mark-to-market losses in the SCP. 
+
+       11.    In March 2012, the junior trader began to maintain a spreadsheet which showed 
+that, by March 15, 2012, the difference between the daily prices he had assigned to the SCP and 
+the average mid-market point between the best bids and offers he had received from dealers had 
+grown to $292 million.  Within a few days, the difference had grown further to $432 million.  
+The traders, however, revealed significantly smaller losses in daily reports to CIO management 
+about the portfolio’s performance than were indicated by mid-market pricing. 
+
+       12.    On March 30, 2012, the last trading day in the first quarter of 2012, the SCP 
+traders informed the most senior trader in the morning that losses for that day alone could reach 
+$250 million.  In response, the most senior trader directed the junior trader not to mark the SCP 
+at the close of business in London, as JPMorgan policy required, but instead to wait for the 
+markets in New York to close because trading information from New York might support higher 
+valuations for the SCP positions. 
+
+       13.    The most senior trader also instructed the junior trader to use the “best” prices 
+(i.e., the most advantageous prices within the bid-offer spread) in marking the SCP.  On March 
+30, the junior trader marked the SCP positions in accordance with these instructions, and 
+reported to CIO management an estimated loss of $138 million.  Over the next several weeks, the 
+traders continued to understate mark-to-market losses in the SCP until their authority over the 
+portfolio was taken away from them on or around April 29, 2012, when JPMorgan Senior 
+Management asked a senior Investment Bank (“IB”) trader and senior risk officer to take 
+responsibility for the portfolio. 
+
+                              JPMorgan Issues Its First Quarter  
+                       Results and Subsequently Issues a Restatement 
+
+       14.    On April 13, 2012, JPMorgan issued its earnings release for the quarter ending 
+March 31, 2012, which was filed on Form 8-K with the Commission.  Also on April 13, 
+JPMorgan Senior Management conducted an earnings call with analysts and investors.  The 
+earnings release disclosed that JPMorgan’s consolidated quarterly income before income tax 
+expense was $7.641 billion.  These results included the understated losses for the SCP, which 
+was based on the SCP traders’ marks as of March 30, 2012. 
+
+       15.    One month later, on May 10, 2012, JPMorgan filed on Form 10-Q its report for 
+the first quarter, which ended on March 31, 2012, disclosing that CIO had experienced 
+significant mark-to-market losses in the SCP during the second quarter to date.  Also on May 10, 
+2012, JPMorgan Senior Management conducted a call with analysts, during which the firm 
+disclosed that CIO had suffered losses of approximately $2 billion during the second quarter to 
+date and that there could be additional losses, that the trading strategy that resulted in the losses 
+was “flawed, complex, poorly reviewed, poorly executed, and poorly monitored,” that “we’ve 
+had teams from audit, legal, risk, and various control functions . . . involved in extensive review 
+of what happened,” and that “[w]e have more work to do but it’s obvious at this point that there 
+are many errors, sloppiness, and bad judgment.”  The $2 billion calculation was based on marks 
+for positions in the SCP that were derived from independent pricing sources and not from the 
+
+                                               3 
+---------------------Page 24---------------------
+
+                                                                                                
+
+SCP traders; therefore, the full year-to-date loss figure was not affected by its subsequent 
+conclusions concerning the integrity of the SCP traders’ marks. 
+
+       16.    Two months later, on July 13, 2012, JPMorgan announced that it would restate its 
+results for the first quarter of 2012 because it had discovered “information that raises questions 
+about the integrity of the [SCP] marks” and was no longer confident that the marks used to 
+prepare the first quarter results “reflect good faith estimates of fair value at quarter end.”  On 
+August 9, 2012, JPMorgan filed an amended Form 10-Q with restated results for the first quarter.  
+The restatement had the effect of moving certain SCP losses from the second quarter to the first 
+quarter.  Specifically, the restatement reduced the revenues of JPMorgan’s Corporate/Private 
+Equity reporting segment in the first quarter by $660 million, from $1.689 billion to $1.029 
+billion, and the firm’s consolidated quarterly income before income tax expense from the 
+previously-reported $7.641 billion to $6.981 billion. 
+
+        JPMORGAN’S INEFFECTIVE INTERNAL ACCOUNTING CONTROLS  
+                  AND DISCLOSURE CONTROLS AND PROCEDURES 
+
+       17.    JPMorgan’s May 10, 2012 quarterly report on Form 10-Q contained its financial 
+statements for the first quarter of the year, management’s discussion of the firm’s various 
+businesses, and other information.  In addition, the report stated that JPMorgan’s management 
+evaluated the effectiveness of its disclosure controls and procedures and concluded that they 
+were effective. 
+
+       18.    As discussed below, between late April and May 10, 2012, JPMorgan engaged in 
+an extensive process involving work performed by the Controller’s office, the Internal Audit 
+department (“Internal Audit”), valuation experts from the Investment Banking Division (“IB”), 
+and in-house and outside counsel in an effort to evaluate the SCP’s quarter-end marks and to 
+understand the CIO valuation control process and the differences between that process and the 
+valuation control process of the IB.  As a result, by May 10, various executives and employees of 
+the firm had learned of deficiencies as of March 31, 2012 in CIO’s internal controls.  Due to 
+failures to timely escalate information and instructions that had the effect of hindering the 
+sharing of information, not all of these deficiencies had been escalated to JPMorgan Senior 
+Management prior to May 10, 2012.  And, as to the information that was escalated, JPMorgan 
+Senior Management did not make a considered assessment as to whether critical facts existed—
+including any significant deficiency or material weakness in internal controls—that had to be 
+disclosed to the Audit Committee.  Consequently, JPMorgan Senior Management did not 
+disclose the existence of any significant deficiencies or material weaknesses to the Audit 
+Committee before JPMorgan filed its quarterly report on May 10, 2012. 
+
+       19.    On July 13, 2012, at the same time JPMorgan disclosed to investors that it would 
+restate its results for the first quarter of 2012, the firm announced that a material weakness in 
+internal control over financial reporting had existed at CIO as of March 31, 2012.  As a result of 
+the material weakness, JPMorgan also announced that its management had concluded that 
+JPMorgan’s disclosure controls and procedures were not effective as of March 31, 2012. 
+
+                                               4 
+---------------------Page 25---------------------
+
+                                                                                                  
+
+                     CIO Internal Controls in the First Quarter of 2012 
+
+       20.    As part of fulfilling the requirements to devise and maintain systems of internal 
+accounting controls, financial institutions such as JPMorgan need to have internal controls that 
+adequately monitor and test the accuracy and integrity of, among other things, the valuations of 
+the firm’s trading portfolios such as the SCP.  CIO-VCG served as a significant control for 
+ensuring that certain assets and liabilities of CIO, including the positions in the SCP, were 
+measured at fair value in accordance with GAAP in JPMorgan’s books and records and in the 
+quarterly and annual reports the firm filed with the Commission. 
+
+       21.    For the SCP, CIO-VCG carried out its responsibility by price-testing the marks 
+that the SCP traders assigned to the portfolio’s positions on the last business day of every month.  
+Under firm policy applicable during the first quarter of 2012, CIO-VCG performed this price-
+testing function by undertaking the following steps: 
+
+           a.  First, CIO-VCG had to calculate, as a benchmark, an independent price for 
+              each of the SCP positions.  A CIO-VCG policy and procedure document 
+              indicates that, for index positions, these independent prices were to be 
+              obtained from Markit Limited Group (“Markit”), a service that provides 
+              consensus-based prices for indices.  For tranches, CIO-VCG obtained 
+              independent prices from dealer quotes, which it checked against Totem, 
+              another consensus pricing service offered by Markit, for any significant 
+              discrepancies. 
+
+           b.  After calculating an independent price for each SCP position, CIO-VCG 
+              had to establish and apply a threshold (or tolerance) around each price that 
+              represented the average bid-offer spread for the security based on quotes 
+              received from dealers.  While it had authority to make an adjustment to 
+              trader marks that fell within these thresholds, CIO-VCG considered such 
+              marks to be presumptively marked at fair value and would not make any 
+              adjustment to those marks. 
+
+           c.  If the SCP traders’ mark for a given position fell outside of the threshold, 
+              CIO-VCG would record the excess as a loss (or profit) and make a 
+              corresponding adjustment to the mark-to-market profit and loss for the 
+              SCP. 
+
+           d.  Finally, if CIO-VCG determined that the market for a particular position 
+              had become illiquid, CIO-VCG applied a pre-established formula to 
+              calculate and record a liquidity reserve to account for the risk that certain 
+              SCP positions could not be sold at fair value due to reduced liquidity in 
+              the marketplace. 
+
+       22.    The CIO-VCG staff actively involved in price-testing the SCP’s 132 positions at 
+the end of the first quarter of 2012 consisted of one person, who worked at CIO’s London office.  
+That person was also responsible for price testing all of CIO’s other London-based portfolios. 
+
+                                                5 
+---------------------Page 26---------------------
+
+                                                                                                
+
+       23.    On April 4, 2012, CIO-VCG completed its price-testing process for the SCP for 
+the end of March 2012.  It applied the relevant thresholds to adjust downward the fair value of 
+the SCP by approximately $17 million compared to the traders’ marks and maintained the 
+previous month’s liquidity reserve of approximately $31 million.   
+
+       24.    During its price-testing process for quarter-end marks, CIO-VCG observed that 
+most of the SCP traders’ marks migrated to the aggressive end of the bid/offer spread.  CIO-
+VCG questioned one of the SCP traders about this shift.  The trader did not explain the shift but 
+merely stated, “Talk to management.”  CIO-VCG did not disclose to anyone its observations 
+concerning the shift in the SCP traders’ marking methodology until questions were being raised 
+about a collateral dispute, which is summarized below, on April 20, 2012.  CIO-VCG also did 
+not share the details of its exchange with the SCP trader. 
+
+       25.    CIO-VCG calculated a significant difference between its independent prices and 
+the SCP traders’ marks.  During its price-testing process, it calculated that the mid-market value 
+of the SCP based on its independent prices was approximately $192 million less than the value 
+based on the SCP traders’ marks.  It subsequently identified an error in its calculations, which 
+increased the difference from $192 million to approximately $275 million.  A March 30, 2012 
+Internal Audit report on CIO-VCG contained an Action Plan under which CIO-VCG should 
+disclose this discrepancy to CIO management.  However, that action plan was not required to be 
+fully implemented until June 30, 2012, and CIO-VCG only disclosed the $17 million fair value 
+adjustment based on marks that fell outside of its thresholds.  Consequently, CIO management 
+was not alerted to the significant difference between the SCP traders’ marks and the CIO-VCG 
+calculated mid-market valuations, which warranted further analysis. 
+
+       26.    Shortly after April 4, 2012, CIO Finance, with the approval of CIO management 
+and JPMorgan Senior Management, increased the existing $31 million liquidity reserve by $155 
+million, based on a determination that certain tranches in the SCP portfolio had become illiquid 
+as of March 30.  The traders’ marks, as adjusted by CIO-VCG, were then incorporated in the 
+financial information provided for CIO in JPMorgan’s earnings release on April 13, 2012 and in 
+the firm’s May 10, 2012 report for the first quarter of 2012.   
+
+                    Large Collateral Calls and Increasing Losses Prompt  
+                  Multiple Reviews of CIO-VCG and the Traders’ Marks 
+
+       27.    On April 20, 2012, JPMorgan Senior Management was informed that the firm had 
+received several collateral calls—requests from trading counterparties for payment or the posting 
+of collateral based on their differing views of the fair value—concerning positions in the SCP.  
+The total amount in dispute was approximately $520 million. 
+
+       28.    A collateral dispute with a CDS counterparty can sometimes be an indication that 
+a firm’s internal price for an instrument does not accurately reflect its fair value.  Accordingly, in 
+April 2012, the size of the collateral disputes over the SCP raised concerns by JPMorgan Senior 
+Management about the pricing of the SCP positions.  In an April 20, 2012 email, a member of 
+JPMorgan Senior Management observed that the collateral disputes were not “a good sign on our 
+valuation process” in the SCP. 
+
+                                               6 
+---------------------Page 27---------------------
+
+                                                                                                 
+
+       29.    At the same time that the collateral disputes were being escalated to JPMorgan 
+Senior Management, the SCP was also sustaining large daily losses.  This development was 
+inconsistent with what CIO had told JPMorgan Senior Management to expect prior to the April 
+13 earnings release, and JPMorgan Senior Management was concerned about the losses and the 
+traders’ explanations of what was happening to the SCP positions and their strategy for dealing 
+with the risks to the SCP.  On or about April 27, JPMorgan Senior Management asked a senior 
+trader from the IB and a senior risk officer to evaluate the portfolio on an urgent basis.  Shortly 
+afterwards, the IB trader and risk officer were put in charge of managing and reducing the risk in 
+the SCP, and the SCP traders were relieved of all trading and pricing responsibilities.  
+Additionally, on a going-forward basis, positions in the SCP were to be marked to consensus 
+mid-market prices published by Markit. 
+
+       30.    In late April and early May, JPMorgan Senior Management mobilized resources 
+from various parts of the firm—the IB’s valuation experts, Internal Audit, which had prior 
+experience with CIO-VCG’s price-testing process, and the Controller’s office, which included 
+JPMorgan’s fair value accounting experts—as well as the Legal Department and an outside law 
+firm to conduct reviews of the SCP traders’ marks and CIO-VCG’s price-testing process.  At the 
+time, JPMorgan was planning to file with the Commission its report for the first quarter of 2012 
+in early May 2012.  In part due to the questions being raised about the valuation of the SCP, 
+JPMorgan Senior Management, with approval of the Audit Committee, decided to postpone the 
+filing to May 10.  JPMorgan Senior Management delayed the filing so that it had additional time 
+to assess whether CIO’s first quarter results, which had been publicly released on April 13, were 
+in fact compliant with GAAP and should be disclosed again in the quarterly report. 
+
+                                The Investment Bank’s Review 
+
+       31.    On April 25, 2012, a member of JPMorgan Senior Management asked the 
+Valuation Control Group in the firm’s IB (“IB-VCG”) to price-test the SCP traders’ marks for 
+March 30, 2012 as if the positions had been held by the IB.  IB-VCG also reviewed the price-
+testing work that had been done by CIO-VCG at the end of March 2012.  The IB-VCG review 
+was conducted under the supervision of the IB’s Chief Financial Officer. 
+
+                     IB-VCG Valuation “In Line with the Counterparties” 
+
+       32.    The next day, IB-VCG performed a preliminary analysis of the SCP traders’ 
+marks.  On a conference call that day, IB-VCG staff informed CIO management and CIO-VCG 
+that “[t]he rough initial result [of its analysis] . . . seems to, to be in line with the mark-to-market 
+differences you see on the collateral calls. . . .  In terms of dollar value, the number seems pretty 
+much in line . . . with the counterparties.”  In other words, IB-VCG’s preliminary valuation of 
+the SCP positions was in line with those of CIO’s trading counterparties, who had valued the 
+SCP at several hundreds of millions of dollars less than the SCP traders did. 
+
+       33.    During the conference call, CIO-VCG explained to IB-VCG staff that in setting 
+thresholds around independent prices during its month-end price-testing process, it often 
+consulted with the SCP traders—whose valuations it was supposed to validate—“to see if they 
+have any market input to decide whether, you know, if it’s, that’s wrong, that’s correct, et 
+cetera.”  CIO-VCG also informed IB-VCG that, when completing its price-testing process, it 
+
+                                               7 
+---------------------Page 28---------------------
+
+                                                                                                
+
+used dealer quotes selected by SCP traders.  IB-VCG staff believed that this process of 
+consulting the traders had the potential to significantly impair the independence and 
+effectiveness of the CIO-VCG process. 
+
+       34.    On Saturday, April 28, 2012, at a meeting with members of JPMorgan Senior 
+Management and CIO management, the IB’s CFO presented IB-VCG’s analysis of the SCP 
+traders’ marks.  He reviewed with the attendees a spreadsheet that detailed IB-VCG’s work to 
+date (“IB-VCG Spreadsheet”).  At that meeting, at least one of the positions in the IB-VCG 
+Spreadsheet was reviewed on a column-by-column basis in order to describe the data included in 
+each individual column. 
+
+       35.    As of this time, JPMorgan Senior Management and CIO management knew that 
+the SCP traders’ marks were $275 million greater than independent mid-market prices computed 
+by CIO-VCG based on a combination of broker quotes and data from consensus pricing services.  
+IB-VCG relied exclusively upon consensus pricing services, and the IB-VCG Spreadsheet 
+calculated that the SCP traders’ marks were approximately $767 million greater than the values 
+placed on the SCP positions by consensus mid-market prices published by Markit and Totem. 
+
+       36.    As part of its analysis, IB-VCG staff calculated an approximate bid-offer spread, 
+based on market information from March 30, 2012, for six SCP positions, including several of 
+the largest positions and some with the greatest total dollar value differences between trader 
+marks and IB-VCG’s consensus pricing.  The IB-VCG Spreadsheet contained data regarding 133 
+positions and reflected, among other things, that for the six positions for which it calculated an 
+approximate bid-offer spread, the traders’ quarter-end marks were outside the bid-offer spreads 
+that IB-VCG had approximated.    
+
+       37.    After presenting IB-VCG’s analysis, the IB’s CFO began to calculate the profit-
+and-loss impact if CIO marked the SCP to the conservative end of the bid-offer spread, rather 
+than to mid-market prices, as a price-taker would have done (since price-takers often buy and sell 
+at prices that are inferior to the consensus, mid-market Markit or Totem prices).  This analysis 
+showed that adjusting marks to the conservative end of the bid-offer spread would have further 
+reduced the value of the SCP by approximately $250 million, resulting in an over $1 billion 
+difference between the traders’ marks and a price-taker’s marks at the conservative end of the 
+bid-offer spread.  JPMorgan Senior Management elected not to pursue this marking methodology 
+with respect to the March 2012 quarter-end marks because, among other reasons, it understood 
+that using mid-market prices was acceptable under GAAP. 
+
+                                      Spreadsheet Errors 
+
+       38.    IB-VCG also reviewed the process that CIO-VCG had applied to the traders’ 
+quarter-end marks.  During this review, IB-VCG learned that in March 2012 CIO-VCG used a 
+spreadsheet in its price-testing process into which data had been manually entered, and that this 
+spreadsheet contained certain errors and reflected differences from the IB-VCG methodology 
+that may have had the effect of understating the difference between the traders’ marks and the 
+independent mid-market prices derived by CIO-VCG.  On May 8, 2012, IB-VCG forwarded an 
+email to one member of JPMorgan Senior Management explaining these issues.  IB-VCG and 
+CIO-VCG were instructed to work together to address the errors and other issues. 
+
+                                              8 
+---------------------Page 29---------------------
+
+                                                                                                 
+
+       39.    The next day, IB-VCG corrected one such error, which involved the calculation of 
+the difference between the value of the SCP based on the traders’ marks and CIO-VCG’s 
+independent prices.  Before the correction, the difference was believed to be approximately $275 
+million.  After the correction, the difference increased to $512 million.  IB-VCG informed 
+JPMorgan Senior Management of the correction and the quantitative impact it had.   
+
+       40.    Based on the price-testing work of IB-VCG and other information, the 
+management of the IB expressed concerns to JPMorgan Senior Management about the potential 
+for mismarking of the SCP and whether CIO VCG was an effective control over the SCP.  On 
+May 6, 2012, for example, a senior IB executive explained to a member of JPMorgan Senior 
+Management that the securities in the SCP had “very good price discovery mechanisms” (i.e., 
+could effectively be priced in the marketplace) and that he could not recall a variance between 
+trader marks and independent prices in the IB “greater than $50mm that remained at any month 
+end across the ENTIRE IB’s positions.”  
+
+       41.    In light of their concerns relating to CIO, two senior IB executives initially 
+expressed some reservations regarding the scope of their sub-certifications that JPMorgan 
+required officers in the various business lines to provide in connection with its quarterly and 
+                
+annual filings. One of the executives apprised JPMorgan Senior Management that in light of the 
+CIO related information to which he was privy, he had a conversation with an outside lawyer 
+concerning the scope of his certification obligations.  After relaying that conversation to the 
+other Investment Bank executive with certification obligations, both executives signed their sub-
+certifications. 
+
+                                  The Internal Audit Review 
+
+       42.    In addition to the IB-VCG review, on or around May 2, 2012, JPMorgan Senior 
+Management instructed Internal Audit to review the CIO-VCG process, including whether it had 
+                                             
+been applied consistently over past quarters. Also on May 2, at the end of a meeting of the Audit 
+Committee of JPMorgan’s Board of Directors, the Audit Committee, having just been informed 
+of the losses recently suffered, separately requested that Internal Audit review CIO. 
+
+       43.    The Internal Audit team discovered deficiencies with the thresholds CIO-VCG 
+had applied at March 30.  As noted above, JPMorgan policy required that CIO-VCG set a 
+threshold around its independent price for each SCP position that was representative of the 
+average spread between the bids and the offers received from dealers for the position.  Because 
+the threshold was applied on each side of the independent price, in order to reflect the bid-offer 
+spread the threshold on each side would be one-half of the entire spread. 
+
+       44.    By May 9, 2012, the Internal Audit team learned that in validating the SCP 
+traders’ quarter-end marks in March 2012, CIO-VCG had in some cases applied the entire bid-
+                                                                                      
+offer spread (rather than one half of the spread) on each side of its independent prices. The result 
+was a threshold that was twice the size of the bid-offer spread and beyond the range of 
+reasonable fair value estimates.  The Internal Audit team calculated that, had CIO-VCG applied 
+the thresholds appropriately, it would have adjusted the traders’ quarter-end marks downward by 
+$307 million—$290 million more than the $17 million adjustment CIO-VCG had actually made 
+at month end. 
+
+                                               9 
+---------------------Page 30---------------------
+
+                                                                                                 
+
+       45.    On May 10, the Internal Audit team collected its work in a draft memo (“Internal 
+Audit Draft Memo”), which stated, among other things, that CIO-VCG was “inconsistent in the 
+application of [its] own thresholds.” 
+
+       46.    Although Internal Audit completed this work in the days prior to May 10, it did 
+not fully share this information with JPMorgan Senior Management and did not circulate the 
+Internal Audit Draft Memo to JPMorgan Senior Management or the Audit Committee. 
+
+                                   The Controller’s Review 
+
+       47.    On April 28, 2012, JPMorgan Senior Management asked the Controller’s staff to 
+assess whether the traders’ quarter-end marks complied with GAAP and to review the 
+effectiveness of CIO-VCG’s quarter-end internal control process. 
+
+       48.    The Controller’s staff made several significant observations.  One was that, as 
+losses in the SCP increased in March 2012, the traders departed from their historical practice of 
+marking the positions close to the mid-point between the bids and offers received from dealers.  
+Instead, they marked many positions at the aggressive end of the bid-offer spreads, i.e., they 
+marked the positions in a manner that resulted in smaller mark-to-market losses.  JPMorgan 
+Senior Management was informed of this fact in late April 2012.  The traders justified their 
+marks to the Controller’s staff by explaining that the market had become volatile and dislocated.  
+This volatility, the SCP traders claimed, caused significant intraday price movements that may 
+help explain the difference between the SCP traders’ marks and consensus pricing services.  To 
+test the volatility explanation, the Controller’s staff analyzed intraday pricing information, and 
+determined that the difference between the SCP traders’ marks and the mid-market prices was 
+less than the average daily price movement.  While accepting the SCP traders’ justification, 
+however, the Controller’s staff failed to adequately assess whether CIO could transact at the 
+price where the SCP was marked. 
+
+       49.    For two quarter end marks assigned by the SCP traders, the Controller’s staff also 
+detected significant differences from mid-market consensus pricing that were not supported by 
+pricing data received by the SCP traders on the date that the mark was assigned.  When the 
+Controller’s staff questioned these marks, one of the SCP traders agreed that they were too wide 
+as compared to the mid-market price.  This fact had not been adequately considered by CIO-
+VCG during its actual price testing process in connection with the first quarter of 2012, nor was 
+this fact given appropriate scrutiny by the Controller’s staff.  Consequently, the Controller’s staff 
+did not escalate this information to JPMorgan Senior Management. 
+
+                            The Special Review by Outside Counsel 
+
+       50.    In addition to the foregoing reviews, on or around May 1, 2012, JPMorgan 
+retained an outside law firm to provide advice regarding disclosure and to review, among other 
+things, whether the independence of the CIO-VCG process had been improperly compromised 
+                                       
+by the involvement of the SCP traders. By May 10, 2012, when JPMorgan filed its first quarter 
+report, the law firm had interviewed the employee of CIO-VCG who had price-tested the SCP 
+                                                                                     
+marks, the executive to whom he reported, and other members of CIO management. The law 
+
+                                              10 
+---------------------Page 31---------------------
+
+                                                                                                 
+
+firm also had collected and reviewed a limited number of the relevant emails and Bloomberg 
+chats from the first quarter of 2012. 
+
+                              The Process for Synthesizing and  
+                     Escalating Information from the Various Reviews 
+
+       51.    JPMorgan Senior Management led a process that involved daily—sometimes 
+twice daily—meetings and calls in which participants involved in the different reviews discussed 
+what they and their teams were doing and learning. Despite that process, a number of significant 
+facts learned in the course of the various reviews were not shared in these group meetings and 
+calls and were not otherwise escalated to JPMorgan Senior Management.  This in turn led to 
+JPMorgan’s incomplete understanding of deficiencies relating to the CIO-VCG process in March 
+2012.   
+
+       52.    JPMorgan Senior Management’s emphasis on confidentiality and sharing 
+information on a need-to-know basis contributed to this incomplete understanding.  JPMorgan 
+Senior Management was concerned about sensitive information relating to CIO’s positions being 
+widely distributed and imposed restrictions on the creation and sharing of work product relating 
+to those positions.  These instructions affected the ability of those conducting the reviews to 
+share, learn from, and build upon each other’s work. 
+
+       53.    On April 29, 2012, the Controller’s staff was instructed not to “discuss [its work] 
+with people outside the immediate group” and to exercise caution in committing its findings to 
+writing. 
+
+       54.    A member of JPMorgan Senior Management also instructed IB-VCG to “keep 
+                                         
+[its] analysis in a relatively tight group.” On April 29, 2012, an IB executive confirmed to the 
+member of JPMorgan Senior Management that IB-VCG “speaks to no one,” including the 
+                                                               
+Controller’s staff, “without getting my express approval first.”  
+
+       55.    Finally, the Internal Audit team was instructed to maintain strict confidentiality in 
+                           
+connection with its review.  
+
+       56.    JPMorgan Senior Management did not receive all relevant information for another 
+reason: some employees conducting the reviews failed to appreciate the significance of certain of 
+the facts they had learned and their relevance to the quarterly report that was about to be filed.  
+For example, in looking back on his work after learning in late June that the integrity of the 
+traders’ marks was in question, a London-based employee primarily responsible for the 
+Controller’s review conducted an after-the-fact assessment, noting that he “[s]hould have better 
+understood the $767 [million] diff.,” i.e., IB-VCG’s calculation of the disparity between the SCP 
+                                                                                 
+traders’ quarter-end marks and Markit and Totem consensus, mid-market prices. The employee 
+further noted that he “[s]hould have pressed [CIO-VCG] more on how the tolerances (thresholds) 
+were determined” and “should have picked up that the tolerances determined by adding whole 
+bid-offer,” a fact already known to members of the Internal Audit team prior to May 10, 2012.  
+Although executives were in contact with those responsible for the various reviews, some of 
+those employees failed to timely analyze and escalate to JPMorgan Senior Management 
+important facts that they had discovered. 
+
+                                              11 
+---------------------Page 32---------------------
+
+                                                                                               
+
+                              JPMorgan Senior Management’s  
+                          Response to the Information It Received 
+
+       57.    Despite the inadequate information sharing and escalation described above, 
+significant information learned in the management-commissioned reviews was escalated to 
+JPMorgan Senior Management.  This information, which related to the adequacy of the CIO-
+VCG process that produced the $17 million fair value adjustment to the traders’ quarter-end 
+marks, included the following: 
+
+          a.  As losses began to mount, SCP traders began consistently marking at or 
+              near the very edge of the advantageous side of the bid-offer spread. 
+
+          b.  There was a collateral dispute of over $500 million. 
+
+          c.  Independent analysis by IB-VCG of the SCP traders’ quarter-end marks 
+              was “in line with . . . the counterparties.”  Specifically, the value of the 
+              SCP based on trader marks was approximately $767 million more than the 
+              value based on mid-point consensus pricing. 
+
+       58.    Management also learned of the following facts that directly related to CIO-VCG 
+and the processes it was using in March 2012:  
+
+          a.  The CIO-VCG process relied on manual spreadsheets that contained 
+              errors, one of which caused CIO-VCG to understate the disparity between 
+              its independent prices and the traders’ marks by $237 million. 
+
+          b.  The SCP traders provided some of the quotes that were used in CIO-
+              VCG’s price-testing process and this process “need[ed] to be enhanced to 
+              ensure independence.” 
+
+       59.    In response to what it was learning prior to May 10, JPMorgan Senior 
+                                                                
+Management decided to enhance CIO-VCG’s valuation policies. To assist with this task, the 
+persons conducting the reviews recommended certain changes, and a member of JPMorgan 
+Senior Management drafted revisions to CIO-VCG procedures, which were shared with 
+                                                                      
+JPMorgan Senior Management and CIO management on May 5, 2012. On May 7, 2012, a senior 
+CIO executive circulated a “proposed operational approach to VCG price testing” that contained 
+additional policy revisions.  Both sets of changes were implemented before May 10, 2012. 
+
+       60.    Collectively, the new policies were intended to remediate several of the issues 
+discovered by the management-commissioned reviews of CIO-VCG and the traders’ marks: 
+
+          a.  Disparity between CIO-VCG independent prices and traders’ marks.  The 
+              revised policies significantly curtailed the size of thresholds that CIO-VCG 
+              could apply, directing that the difference between a trader’s mark and CIO-
+              VCG’s independent price could not exceed $500,000 for an index position 
+              and $2,000,000 for a tranche position. 
+
+                                              12 
+---------------------Page 33---------------------
+
+                                                                                                 
+
+           b.  Trader involvement in the VCG process.  The revised policies required CIO-
+              VCG to “source broker quotes independently from the market,” rather than 
+              through the traders, thereby “eliminating any reliance on [the traders] for 
+                                          
+              sourcing of market data.”  
+
+           c.  Variance between Markit and CIO-VCG’s independent prices.  The revised 
+              policies stated that, for positions where CIO-VCG could rely on dealer 
+              quotes in calculating independent prices, CIO-VCG must obtain at least two 
+              quotes and, if two are not available, it must use Markit or Totem as an input.  
+              The revised policies also provided that, even when dealer quotes are 
+              obtained, “mid prices derived from selected dealer quotes should be 
+              compared . . . to Markit/Totem sourced data and any material differences . . . 
+              must be reported to the CFO of CIO and must be reconciled.” 
+
+           d.  Inadequate oversight over sole CIO-VCG price-tester.  The revised policies 
+              introduced a new protocol for escalating to management valuation disputes 
+              between CIO-VCG and the traders, requiring the involvement of JPMorgan 
+              risk personnel and the Chief Financial Officer of CIO. 
+
+       61.    In addition to these policy changes, in early May the staff of IB-VCG prepared a 
+remedial plan to address the spreadsheet errors it had identified in CIO-VCG’s price-testing 
+                                                          
+process, and to ensure proper review of the spreadsheets. On May 8, 2012, after CIO finance 
+management and CIO-VCG concurred in the remedial plan, IB-VCG described it to JPMorgan 
+Senior Management. 
+
+                             The Reviews of CIO-VCG Are Not 
+                            Addressed with the Audit Committee 
+
+       62.    The responsibility for overseeing JPMorgan’s management on behalf of the firm’s 
+stockholders—including oversight of management’s responsibilities for internal controls—
+                                                      
+ultimately rests with JPMorgan’s Board of Directors. The Board, in turn, discharges its oversight 
+function through several Board committees.  One of the principal committees is the Audit 
+Committee, which is charged with overseeing JPMorgan’s efforts to assure that it has effective 
+internal controls, which are critical to the integrity of the firm’s financial reports and compliance 
+with applicable policies and laws. 
+
+       63.    To assist the Audit Committee in carrying out its responsibility, the Audit 
+Committee’s Charter requires JPMorgan management to provide updates to the Committee on all 
+“significant operating and control issues in internal audit reports,” the “initiation and status of 
+significant special investigations,” the “identification and resolution status of material 
+weaknesses” in controls, and any “reportable conditions in the internal control environment, 
+including any significant deficiencies.”  These updates serve an important internal control 
+function, allowing the Audit Committee to fulfill its oversight role by, among other things, 
+keeping the Board up-to-date on significant matters, assessing whether to approve the filing of 
+quarterly and annual reports, and evaluating whether the Committee should conduct its own 
+independent investigation of any issues raised with it. 
+
+                                               13 
+---------------------Page 34---------------------
+
+                                                                                                
+
+       64.    In late April and early May 2012, while JPMorgan’s Senior Management was 
+devoting daily attention to CIO-VCG and the SCP traders’ quarter-end marks—in large measure 
+to ensure that CIO results reported in its upcoming quarterly report would be accurate—it also 
+was in contact with members of the Audit Committee. 
+
+       65.    However, while JPMorgan Senior Management was informed of, and was 
+addressing, various issues with internal controls at CIO-VCG, JPMorgan Senior Management 
+did not engage in a considered assessment, before the firm filed its first quarter report on May 
+10, 2012, to determine if these matters constituted a significant deficiency or material weakness 
+in the firm’s internal control over financial reporting and therefore had to be disclosed to the 
+firm’s Audit Committee.  Nor, more broadly, did JPMorgan Senior Management disclose to the 
+Audit Committee its concerns regarding the operation of CIO-VCG. 
+
+       66.    On May 2, 2012, the Audit Committee met with some members of JPMorgan 
+Senior Management.  The focus of the meeting was on the mounting losses in the SCP portfolio. 
+Despite the requirement to keep the Audit Committee apprised of the significant control issues 
+that were under review, there was no discussion of the IB-VCG or Controller reviews related to 
+CIO-VCG and the traders’ marks, although that work was underway.  There was also no 
+discussion of the fact that an outside law firm had been retained to advise on disclosures to be 
+made in the first quarter Form 10-Q that related to CIO and to assess certain aspects of the CIO-
+                                                                                           
+VCG process, including whether the SCP traders exercised undue influence on the process.  
+
+       67.    During a full meeting of the Board of Directors hours before the filing of 
+JPMorgan’s first quarter report on May 10, 2012, JPMorgan Senior Management mentioned that 
+reviews of what occurred in CIO were underway, including by Internal Audit, legal, the 
+Controller’s staff, and risk management.  But, JPMorgan Senior Management did not discuss the 
+details of or facts learned in the IB-VCG, Controller, or Internal Audit reviews. 
+
+       68.    Because the Audit Committee was not apprised of the initiation of the reviews or 
+facts learned as a result of those reviews, it was unable to provide input on the issues before the 
+filing of JPMorgan’s first quarter report, and was unable to engage with those doing the work to 
+ensure that it was sufficient from the perspective of the Audit Committee. 
+
+       69.    As noted above, the Audit Committee was not made aware before JPMorgan filed 
+its first quarter report of the facts learned by various members of the review teams, including that 
+                                                                                       
+CIO-VCG’s March 2012 price-testing process was compromised by spreadsheet errors,that SCP 
+                                                     
+traders may have exerted influence over that process, or that CIO-VCG applied valuation 
+thresholds that were in some instances twice the applicable spread. 
+
+       70.    Other information learned by various members of the review teams that further 
+called into question CIO-VCG’s March 2012 quarter-end valuation process was not shared with 
+the Audit Committee.  At the end of the first quarter, CIO-VCG made a fair value adjustment of 
+$17 million to the traders’ marks.  However, certain facts raised issues as to the adequacy of this 
+adjustment and the process through which it was made, including the $520 million in collateral 
+                             
+disputes over SCP positions,the $767 million disparity between the SCP traders’ marks and 
+                              
+consensus, mid-market prices,the fact that the traders marked some of the largest notional SCP 
+
+                                              14 
+---------------------Page 35---------------------
+
+                                                                                                  
+
+                                                                 
+positions outside the bid-offer spread approximated by IB-VCG,and the fact that the traders 
+began to mark the SCP at the aggressive end of the bid-offer spread when losses began to mount. 
+
+       71.    Finally, the Audit Committee was not apprised of, or included in, JPMorgan 
+Senior Management’s efforts to remedy the control issues at CIO-VCG by revising valuation 
+                                                          
+policies to ensure proper oversight by CIO management. As a result, the Audit Committee did 
+not have any input into the proposed changes or an understanding of the reasons that motivated 
+them. 
+
+                            Subsequent Disclosures by JPMorgan 
+
+       72.    Based on the information available to it, the Audit Committee approved of the 
+content of JPMorgan’s quarterly report on Form 10-Q that was filed on May 10, 2012.  On July 
+13, 2012, JPMorgan disclosed that a material weakness existed in its internal control over 
+financial reporting stemming from the “effectiveness of CIO’s internal controls over valuation of 
+the synthetic credit portfolio.”  In its amended Form 10-Q for the first quarter of 2012 filed on 
+August 9, 2012, JPMorgan disclosed that this material weakness finding “was the result of issues 
+in certain interrelated and interdependent control elements comprising that process, including 
+insufficient engagement of CIO senior finance management in the valuation control process in 
+light of the increased size and heightened risk profile of the synthetic credit portfolio during the 
+first quarter of 2012, and in the effectiveness of certain procedures employed during the first 
+quarter of 2012 by the CIO Valuation Control Group in performing the price verifications.” 
+
+       73.    JPMorgan also corrected prior statements concerning its disclosure controls and 
+procedures.  In its May 10 Form 10-Q, JPMorgan stated, “As of the end of the period covered by 
+this report, an evaluation was carried out under the supervision and with the participation of the 
+Firm’s management, including its Chairman and Chief Executive Officer and its Chief Financial 
+Officer, of the effectiveness of its disclosure controls and procedures (as defined in Rule 13a-
+15(e) under the Securities Exchange Act of 1934).  Based on that evaluation, the Chairman and 
+Chief Executive Officer and the Chief Financial Officer concluded that these disclosure controls 
+and procedures were effective.”  On August 9, 2012, when JPMorgan disclosed that it had 
+determined that a material weakness existed at CIO as of March 31, 2012, it also disclosed that, 
+“[a]s a result of that determination, the Firm’s Chairman and Chief Executive Officer and Chief 
+Financial Officer also concluded that the Firm’s disclosure controls and procedures (as defined 
+in Rule 13a-15(e) under the Securities Exchange Act of 1934) were not effective at March 31, 
+2012.” 
+
+                                               15 

@@ -1,0 +1,483 @@
+---------------------Page 1---------------------
+
+                                                                                              
+ 
+                           UNITED STATES OF AMERICA 
+                                       Before the 
+                    SECURITIES AND EXCHANGE COMMISSION 
+ 
+ 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 73839 / December 15, 2014 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3613 / December 15, 2014 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-16315 
+                                              ORDER INSTITUTING CEASE -AND-DESIST 
+In the Matter of                              PROCEEDINGS PURSUANT TO SECTION 
+                                              21C OF THE SECURITIES EXCHANGE ACT 
+      CANADIAN SOLAR, INC.                    OF 1934, MAKING FINDINGS, AND 
+      and YAN ZHUANG,                         IMPOSING A CEASE -AND-DESIST ORDER  
+                                              AND CIVIL PENALTIES  
+Respondents . 
+ 
+                                                
+ 
+                                           I.  
+ 
+       The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities 
+Exchange Act of 1934 (“Exchange Act”) against Canadian Solar, Inc. (“CSI” or “Canadian Solar”) 
+and Yan Zhuang (“Zhuang”) (collectively, “Respondents”).   
+                                             
+                                           II. 
+ 
+      In anticipation of the institution of these proceedings, Respondents have submitted Offers 
+of Settlement (the “Offers”), which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the findings 
+herein, except as to the Commission’s jurisdiction over them and the subject matter of these 
+proceedings, which are admitted, Respondents consent to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making 
+Findings, and Imposing a Cease-and-Desist Order and Civil Penalties (“Order”), as set forth below.   
+    
+---------------------Page 2---------------------
+
+                                                                                                  
+ 
+                                              III. 
+ 
+       On the basis of this Order and Respondents’ Offers, the Commission finds that: 
+ 
+  A.  SUMMARY 
+ 
+       This matter arises from Canadian Solar’s violations of the reporting, books and records, and  
+internal controls provisions of the Exchange Act resulting from CSI’s recognition of revenue for 
+certain transactions with United States  (“U.S.”)  customers  during the second, third, and fourth 
+quarters of 2009  even though  certain criteria for revenue recognition had not been met.   Yan 
+Zhuang, CSI’s Vice President of Global Sales and Marketing during the relevant period, was a 
+cause of CSI’s violations.  In addition, by directing a customer to make certain revisions to purchase 
+orders, Zhuang also violated Section 13(b)(5) of the Exchange Act.   
+ 
+  B.  RESPONDENTS 
+ 
+       Canadian Solar, Inc. is a Canadian corporation headquartered in Ontario that designs, 
+develops, manufactures and markets solar power products.  Canadian Solar has its principal place 
+of business in Suzhou, People’s Republic of China (“PRC”), and has a U.S. head office and 
+customer center in San Ramon, California.  Canadian Solar is a foreign private issuer of securities 
+registered with the Commission pursuant to Section 12(b) of the Exchange Act and quoted on 
+NASDAQ under the ticker symbol CSIQ. 
+
+       Yan Zhuang, age 49, is a resident of the PRC.  Zhuang has been Senior Vice President and 
+Chief Commercial Officer of Canadian Solar since May 2012.  From July 2011 until May 2012, 
+Zhuang was Senior Vice President of Global Sales and Marketing.  From June 2009 until July 
+2011, and during the relevant period, Zhuang was Vice President of Global Sales and Marketing.  
+From September 2007 until June 2009, Zhuang was an independent director of CSI. 
+
+  C.  FACTS 
+ 
+       Beginning in 2006 with its initial public offering in the United States, CSI—which, since 
+starting operations in 2001, had focused primarily on the European market— publicly stated its 
+intentions “to expand into the U.S. market” as a result of new government incentives in select 
+states.      
+
+       To facilitate its U.S. expansion, in 2007, by which time at least six states were offering 
+incentives to developers of solar projects, CSI set up an office in Phoenix, Arizona and 
+
+                                                2  
+---------------------Page 3---------------------
+
+                                                                                                         
+ 
+incorporated a U.S. subsidiary.   In 2007, however, CSI’s revenue from the U.S. was still only $2.6 
+                                                            1
+million or less than 1% of CSI’s reported annual revenue.        
+
+        In  2008 and 2009, CSI   continued its U.S. expansion efforts.  During   2008, CSI  entered into 
+a  distributorship wit h a California company  and by early 2009  opened a sales office in San Ramon, 
+California.  At the time, CSI   announced in a press release that it was “increasing its footprint in 
+anticipation of the U.S. becoming a significant market” and that it “expect[ed] to see substantial 
+growth in the U.S. in 2009.”  
+
+        By the end of 2008, CSI’s publicly reported U.S. revenue increased to $32.3 million and 
+accounted for approximately 4.6% of CSI’s revenue.  CSI continued to demonstrate growth in the 
+U.S. in 2009:   For the second quarter of 2009, CSI reported “strong sales growth in Asia and 
+America, with sequential gains of 188% and 500%, respectively, over Q109, resulting in a 
+diversified and balanced global market distribution.”  For the third quarter of 2009, CSI reported 
+U.S. revenue of $12.9 million or 6% of CSI’s revenues and for the fourth quarter of 2009, U.S. 
+revenue of $24.8 million, or 8.6% of revenues.  For the full year 2009, approximately 8.5% of 
+CSI’s revenue was generated from the U.S. 
+
+        However, CSI’s depiction of steady growth in the U.S. market in 2009 was inaccurate 
+because CSI recognized revenue from certain transactions during the second, third, and fourth 
+quarters of 2009 which failed to meet all of the criteria for revenue recognition.   
+
+        Relevant Accounting Standards 
+
+        In determining whether to recognize revenue during an accounting period, U.S. Generally 
+Accepted Accounting Principles (“GAAP”) require an entity to consider whether (1) the revenue 
+is realized or realizable and (2) the revenue is earned.    
+
+        Revenue is realizable when related assets received or held are readily convertible to 
+known amounts of cash or claims to cash.  Revenues are considered to have been earned when 
+the entity has substantially accomplished what it must do to be entitled to the benefits 
+represented by the revenues.  Revenue is realized and earned when all of the following criteria 
+are met: 
+
+    (i)     Persuasive evidence of an arrangement exists; 
+    (ii)     Delivery has occurred or services have been rendered; 
+    (iii)    The seller’s price to the buyer is fixed and determinable; and 
+    (iv)    Collectability is reasonably assured. 
+
+             
+
+        Each of the four conditions must be met by the end of an accounting period in order to 
+recognize revenue from a particular transaction.  If any condition fails to be satisfied, revenue 
+
+                                                 
+1
+        During the relevant period, CSI’s U.S. revenue was reported within the “America” geographic region.  
+While the “America” region included some revenue from Canadian customers, most of it was derived from U.S. 
+customers.  
+                                                   3  
+---------------------Page 4---------------------
+
+                                                                                                               
+ 
+recognition must be deferred until the period in which the condition is met.  See, e.g., 
+Accounting Standards Codification (“ASC”) 605-10-25-1.  See also ASC 605-10-S99-1. 
+ 
+        Customer A 
+
+        In April 2009, CSI began discussions to supply a California-based solar power contractor 
+(“Customer A”) with solar modules for two large-scale municipal projects in California and 
+Florida, transactions that CSI anticipated would yield over $7.7 million in revenue. 
+
+        Upon completion of the two projects, Customer A expected large U.S. government 
+subsidies and significant income, but Customer A required financing to cover the initial costs 
+associated with purchasing the solar modules.  CSI had access to financing from Chinese banks, in 
+addition to the ability to obtain credit insurance from a Chinese government-funded entity 
+                                        2
+established to promote foreign trade.       CSI   concluded that by utilizing these resources   it could 
+provide or arrange for the financing Customer A required        .  
+
+        While negotiations over the terms of the transaction      were   ongo  ing ,  CSI  began to 
+manufacture and ship    solar modules    to Customer A   .  On June 23, 2009, C   SI   shipped its first batch 
+                                                                                                            3
+of solar modules to Customer A’s Florida project, whereupon it recorded $1.2 million in revenue.   
+On June 30, 2009, CSI shipped a second batch of modules to Customer A’s Florida project, 
+recognizing an additional $1.2 million in revenue.  
+
+                                            Evidence of an arrangement 
+
+        It was improper for CSI to recognize this $2.4 million in revenue in the second quarter of 
+2009.  First, negotiations between Customer A and CSI regarding the final financing for the 
+transaction remained ongoing into the third quarter of 2009.  By the third quarter, the parties had 
+still not determined how Customer A would pay for the entirety of the panels required for the 
+large-scale projects.    
+
+                                                 
+2
+        This entity (the “Insurer”) provided insurance against losses from a particular customer for a defined 
+payment term and up to a specific amount.   For example, in a typical arrangement, the Insurer might agree to 
+provide credit insurance up to $3 million for a customer with a 90-day payment term.  If the customer defaulted, CSI 
+could file a claim with the Insurer seeking reimbursement of between 70% - 90% of its resulting loss.  Any amount 
+of credit CSI extended to a particular customer above the agreed credit limit would not be covered by the Insurer.   
+Accordingly, in the above example, if CSI allowed the customer to purchase $5 million worth of product, only $3 
+million would be covered by the Insurer.  In addition, allowing payment terms beyond those dictated by the Insurer 
+nullified the insurance.  Therefore, if CSI allowed the customer more than 90 days to pay for product, the Insurer 
+would not protect against losses upon the customer’s default.   
+ 
+3
+        Pursuant to its revenue recognition policy at the time, CSI recorded revenue for the sale of solar panels 
+when title had passed to the customer.  Under CSI’s customary shipping terms, this usually occurred when a product 
+shipped from its place of origin in China.   
+ 
+                                                      4  
+---------------------Page 5---------------------
+
+                                                                                                   
+ 
+                                          Collectability 
+
+       CSI recognized the revenue from sales to Customer A, even though CSI questioned 
+whether it would be able to collect payment for these sales.  In particular, at the time that CSI 
+shipped the first two batches of solar modules to Customer A and recognized the corresponding 
+revenue, CSI expressed reservations about Customer A’s ability to pay.  For example, shortly 
+before shipment, Zhuang noted Customer A’s poor Dun & Bradstreet credit report and “I am 
+raising several yellow flags about [Customer A] here – I have been watching them closely! . . . 
+                                                                                   st
+They are very short money.  They are not confident they can pay us on November 1  and not 
+confident enough to find money to finish the project.”  Nevertheless, CSI shipped the modules and 
+recognized revenue. 
+
+       Despite shipping modules to Customer A in June 2009 and recognizing $2.4 million in 
+revenue, and shipping additional modules in July and August 2009, negotiations between the 
+parties fell apart in mid-September 2009.  As a result, CSI repossessed all of the modules it had 
+already shipped. 
+
+       Customer B 
+
+               a.  Second Quarter 
+
+       CSI also recognized $3.4 million of revenue in the second quarter of 2009 from 
+transactions with Customer B, a preferred distributor of CSI, when not all the criteria for revenue 
+recognition had been met. 
+
+                                  Fixed and determinable price 
+
+       Commencing in the second quarter of 2009, in its transactions with Customer B, CSI at 
+times reduced the price of solar modules already shipped, even though revenue had already been 
+recognized.  This practice was a way for CSI to effectively guarantee Customer B against losses by 
+adjusting Customer B’s price below that which Customer B could expect on resale.  For example, 
+in June 2009, Zhuang directed sales personnel to “drop the price of [Customer B’s] inventory . . . 
+Need them to move the goods to pay us.”  Zhuang also indicated that CSI might further reduce 
+Customer B’s price in the future, directing sales personnel to “be prepared to further lower the 
+price if their inventory still does not move soon.  We need them to sell out to pay us back.”  Absent 
+a fixed or determinable price, it was improper for Canadian Solar to recognize revenue of $3.4 
+million on sales to Customer B in the second quarter of 2009. 
+
+                                          Collectability 
+
+       Collectability was also questionable for CSI’s sales to Customer B in the second quarter of 
+2009.  In particular, after initial shipments to Customer B in the second quarter, CSI’s outstanding 
+accounts receivable balance for Customer B exceeded the limit of the Insurer’s credit insurance 
+
+                                                5  
+---------------------Page 6---------------------
+
+                                                                                                       
+ 
+         4
+coverage.    Customer B  submitted additional purchase orders , one of which sought   an additional 
+$2.3 million in solar modules  to be shipped within the second quarter of 2009.  Although Customer 
+B committed to a payment   plan,   CSI  personnel  expressed  concern about further increasing CSI’s 
+credit risk by shipping additional product before Customer B paid down its account balance.   
+ 
+       Ultimately, CSI developed a plan to expand its warehouse capacity in Northern 
+California and, beginning in June 2009, ship product to this warehouse instead of shipping 
+directly to Customer B.  Pursuant to the plan, CSI would release solar modules to Customer B in 
+installments as Customer B paid down its outstanding balance pursuant to an agreed-upon 
+schedule.  At the time this plan was developed, Zhuang and others understood that CSI could not 
+recognize revenue associated with shipments to its own warehouse until Customer B made 
+payment and picked up the solar modules from CSI’s warehouse.   
+ 
+       After this plan was developed, the Insurer’s limit for Customer B was raised from $1 
+million to $3 million.  When CSI’s sales team learned this, they sought permission to ship 
+additional containers directly to Customer B rather than shipping to CSI’s warehouse.  By doing 
+so, CSI would avoid extra handling and storage fees.  Zhuang was firm, however, that CSI 
+should stick with the original storage and payment plan:  “We had a good plan! [Customer B] 
+still owe [sic] $1M and most of the panels are still sitting in their inventory.  We lowered our 
+price to help them to sell out.  I do not want to ship more to their warehouse without their 
+promised payment monthly before they clear their inventory significantly. . . I already gave the 
+final decision in my previous mail.  This is final!” 
+        
+       Despite this decision, CSI discovered that its Northern California warehouse could not 
+store as many containers as planned.  Therefore, rather than following the original storage and 
+payment plan, CSI released containers directly to Customer B and booked revenue for those 
+panels.  Although Zhuang earlier had insisted that the existing payment plan be followed, instead 
+he directed CSI personnel to “ask for a payment plan and try to ship more to [Customer B].  
+Revenue not recognized by shipping to our warehouse.”  
+        
+       In addition, the decision to abandon the original storage and payment plan and to ship the 
+containers directly to Customer B was not made until after the close of the second quarter of 2009.   
+However, revenue from solar modules shipped to Customer B in the third quarter of 2009 was 
+booked in the second quarter. 
+
+       The recognition of this revenue relating to Customers A and B was publicly reported in a 
+press release and filed with the Commission on Form 6-K.  This revenue accounted for 36% of 
+CSI’s second-quarter 2009 U.S. revenue and 5% of CSI’s second-quarter 2009 global revenue. 
+
+                                                 
+4
+       The Insurer subsequently raised the limit, although Customer B’s outstanding balance ultimately exceeded 
+the higher limit as well. 
+                                                  6  
+---------------------Page 7---------------------
+
+                                                                                                   
+ 
+               b.  Third Quarter 
+
+                                          Collectability 
+
+       In the third quarter of 2009, CSI recognized revenue of $3.7 million from sales to Customer 
+B even though collectability was doubtful. This transaction, which was booked at the very end of 
+the third quarter, resulted from CSI’s failure to finalize the deal with Customer A, described above.  
+Faced with the anticipated return of a large quantity of modules previously shipped to Customer A 
+during a period of falling prices and having to reverse revenue already recognized in the second 
+and third quarters of 2009, CSI sought to resell the solar modules repossessed from Customer A.  
+At Zhuang’s direction, all modules repossessed from Customer A that could not be resold to other 
+customers were resold to Customer B. 
+
+       Collectability, however, was questionable because Customer B already had a large 
+outstanding balance at the time of the transaction, as well as substantial unsold inventory from 
+prior purchases.  CSI committed its own sales force to help Customer B in reselling the 
+repossessed modules to end users, and CSI did not require Customer B to pay for the modules until 
+reselling them.   
+
+       Zhuang and others understood that Customer B owed substantial sums for prior purchases, 
+and questioned whether Customer B would be able to pay for additional shipments.  In fact, 
+immediately prior to redirecting the return from Customer A to Customer B, CSI personnel were 
+instructed, “If you can divert to other credible customers then it should be done first – let all sales 
+managers know and push them!!!! The rest goes to [Customer B] – as their [Accounts Receivable] 
+will be 5 month [sic] old soon (2 months overdue).”   
+
+       Further, CSI agreed as part of the transaction to reimburse Customer B for costs it incurred 
+in storing the inventory CSI shipped.  This agreement was reflected in a purchase order Customer 
+B sent to CSI, which indicated that CSI was to pay Customer B’s storage fees.  However, Zhuang 
+directed Customer B to “delete the storage fee from the PO.  We can not realize sales for Q3 with 
+this line.  We can have a separate contract on the storage fee and I will approve it.”  In addition, the 
+actual purchase orders for this transaction were not completed until October 2009.  At Zhuang’s 
+direction, Customer B dated the purchase orders for September 29, the date when some of the 
+panels were shipped to Customer B.   
+
+       The recognition of this revenue relating to Customer B was publicly reported in a press 
+release and filed with the Commission on Form 6-K.  This revenue accounted for 29% of CSI’s 
+third-quarter U.S. revenue and 1.7% of CSI’s third-quarter global revenue.  
+
+       Revision of Fourth Quarter 
+
+          On March 3, 2010, CSI publicly announced its financial results for the fourth quarter of  
+2009 in a press release filed with the Commission on Form 6-K.  CSI reported U.S. revenue of 
+$24.8 million and identified U.S. revenue as 8.6% of CSI’s total revenues.      
+ 
+                                                7  
+---------------------Page 8---------------------
+
+                                                                                                    
+ 
+       In August 2010, CSI revised its previously reported earnings for the fourth quarter of 2009.  
+One portion of the revision related to revenue recognition, resulting in a $19.5 million reduction in 
+CSI’s fourth-quarter 2009 U.S. revenue from $24.8 million to $5.3 million to account for (1) 
+products shipped in the fourth quarter of 2009 for which collection was not reasonably assured, and 
+(2) a sales return reserve that CSI began to accrue for the fourth quarter 2009 forward.  CSI did not 
+revise its previously reported earnings for the second and third quarters of 2009.   
+
+       Internal Controls  
+
+        CSI was able to recognize revenue from the above-described transactions, due to CSI’s 
+deficient internal control over financial reporting.  Both CSI’s management and its independent 
+auditor concluded that as of December 31, 2009, there were material weaknesses in the 
+effectiveness of CSI’s internal control over its financial reporting.  These deficiencies included, 
+among others, the failure to establish effective controls to ensure that all revenue recognition 
+criteria were met prior to recognizing revenue and a control to monitor sales returns and record a 
+reserve related to estimated sales returns.   
+ 
+   D.  VIOLATIONS 
+
+       Section 13(a) of the Exchange Act and Rule 13a-16 thereunder require every foreign 
+private issuer of a security registered pursuant to Section 12 of the Exchange Act to file with the 
+Commission such information, documents and reports as the Commission may require, and, 
+pursuant to Rule 12b-20 of the Exchange Act, mandate that such reports contain such further 
+material information as may be necessary to make the required statements not misleading. 
+
+       Section 13(b)(2)(A) of the Exchange Act requires reporting companies to make and keep 
+books, records and accounts, which, in reasonable detail, accurately reflect their transactions and 
+dispositions of their assets, and prohibit any person from, directly or indirectly, falsifying or 
+causing to be falsified, any book, record or account subject to Section 13(b)(2)(A). 
+
+       Section 13(b)(2)(B) of the Exchange Act requires all reporting companies to devise and 
+maintain a system of internal accounting controls sufficient to provide reasonable assurances that 
+transactions are recorded as necessary to permit preparation of financial statements in accordance 
+with GAAP.   
+
+       Section 13(b)(5) of the Exchange Act prohibits any person from knowingly circumventing 
+a system of accounting controls or knowingly falsifying any book, record, or account subject to 
+Section 13(b)(2)(A). 
+
+                                         Canadian Solar 
+
+       As a result of the conduct described above, CSI violated Section 13(a) of the Exchange Act 
+and Rules 12b-20 and 13a-16 thereunder by reporting inaccurate U.S. revenue in its quarterly 
+earnings reports for the second, third, and fourth quarters of 2009 by including revenue for certain 
+transactions when the criteria for revenue recognition had not been met.   
+                                                 8  
+---------------------Page 9---------------------
+
+                                                                                                  
+ 
+       As a result of the conduct described above, CSI violated Section 13(b)(2)(A) of the 
+Exchange Act because it did not keep books, records, or accounts that accurately reflected the 
+amount of U.S. revenue it had earned.   
+
+       As a result of the conduct described above, CSI violated Section 13(b)(2)(B) of the 
+Exchange Act because it failed to maintain a system of internal accounting controls sufficient to 
+provide reasonable assurances that it was recognizing revenue in accordance with GAAP.   
+
+                                          Yan Zhuang 
+ 
+       As a result of the conduct described above, Zhuang knew or should have known that CSI 
+was improperly recognizing revenue with respect to certain transactions with U.S. customers.  As a 
+result of the conduct described above, Zhuang caused or was a cause of CSI’s violations of Section 
+13(a) and 13(b)(2)(A) of the Exchange Act and Rules 12b-20 and 13a-16 thereunder.  In addition, 
+by directing Customer B to make certain revisions to purchase orders, Zhuang violated Section 
+13(b)(5) of the Exchange Act.   
+        
+   E.  CSI’S REMEDIAL MEASURES 
+       
+       In determining to accept the Offers of Settlement, the Commission considered remedial 
+acts undertaken by CSI. 
+ 
+                                               IV. 
+                                                 
+       In view of the foregoing, the Commission deems it appropriate and in the public interest to 
+impose the sanctions agreed to in Respondents’ Offers. 
+ 
+       Accordingly, pursuant to Sections 21C and 21B of the Exchange Act, it is hereby 
+ORDERED that: 
+ 
+       A.     Respondent Canadian Solar cease and desist from committing or causing any 
+violations and any future violations of Section 13(a) and Sections 13(b)(2)(A) and (B) of the 
+Exchange Act and Rules 12b-20 and 13a-16 thereunder. 
+
+       B.     Respondent Yan Zhuang cease and desist from committing or causing any violations 
+and any future violations of Sections 13(a), 13(b)(2)(A) and 13(b)(5) of the Exchange Act and 
+Rules 12b-20 and 13a-16 thereunder. 
+
+       C.     Within 30 days of the entry of this Order: 
+
+               a.  Respondent Canadian Solar shall pay to the United States Treasury a civil 
+                  money penalty in the amount of $500,000; 
+
+                                                9  
+---------------------Page 10---------------------
+
+                                                                                                 
+ 
+              b.  Respondent Yan Zhuang shall pay to the United States Treasury a civil money 
+                  penalty of $50,000. 
+
+       If timely payment is not made, additional interest shall accrue pursuant to 31 U.S.C. 3717.  
+Payment must be made in one of the following ways:  (1) Respondents may transmit payment 
+electronically to the Commission, which will provide detailed ACH transfer/Fedwire instructions 
+upon request; (2) Respondents may make direct payment from a bank account via Pay.gov through 
+the SEC website at http://www.sec.gov/about/offices/ofm.htm; or (3) Respondents may pay by 
+certified check, bank cashier’s check, or United States postal money order, made payable to the 
+Securities and Exchange Commission and hand-delivered or mailed to:  
+
+ 
+              Enterprise Services Center 
+              Accounts Receivable Branch 
+              HQ Bldg., Room 181, AMZ-341 
+              6500 South MacArthur Boulevard 
+              Oklahoma City, OK 73169 
+ 
+       Payments by check or money order must be accompanied by a cover letter identifying the 
+payer as a Respondent in these proceedings, and the file number of these proceedings; a copy of 
+the cover letter and check or money order must be sent to Amy L. Friedman, Assistant Director, 
+Division of Enforcement, Securities and Exchange Commission, 100 F St., NE, Washington, DC 
+20549-5010A.   
+
+       By the Commission. 
+ 
+ 
+ 
+                                                   Brent J. Fields 
+                                                   Secretary 
+ 
+
+                                              10   

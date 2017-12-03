@@ -1,0 +1,376 @@
+---------------------Page 1---------------------
+
+                             UNITED STATES OF AMERICA
+                                         Before the
+                    SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES ACT of 1933
+Release No.  8651 / January 4, 2006
+
+SECURITIES EXCHANGE ACT of 1934
+Release No.  53049 / January 4, 2006
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No.  2359 / January 4, 2006
+
+ADMINISTRATIVE PROCEEDING
+File No.  3-12138
+
+__________________________________________
+                                                 :
+In the Matter of                                                                      :             ORDER INSTITUTING
+                                                 : CEASE-AND-DESIST
+                                                 :             PROCEEDINGS, MAKING 
+       APPLIX, INC.,                                                               :             FINDINGS, AND IMPOSING
+                                                 :             CEASE-AND-DESIST ORDER
+Respondent.                                                                              :             PURSUANT TO SECTION 8A OF
+                                                 :             THE SECURITIES ACT OF 1933
+                                                 :             AND SECTION 21C 
+                                                 :             OF THE SECURITIES
+__________________________________________:             EXCHANGE ACT OF 1934
+
+ 
+
+                                             I. 
+ 
+       The Securities and Exchange Commission (Commission) deems it appropriate that
+cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the
+Securities Act of 1933 (Securities Act) and Section 21C of the Securities Exchange Act of
+1934 (Exchange Act), against Applix, Inc. (Applix or Respondent).
+
+ 
+---------------------Page 2---------------------
+
+                                              II. 
+ 
+       In anticipation of the institution of these cease-and-desist proceedings, Respondent has
+submitted an Offer of Settlement (the Offer) which the Commission has determined to accept. 
+Solely for the purpose of these proceedings and any other proceedings brought by or on behalf of
+the Commission, or to which the Commission is a party, and without admitting or denying the
+findings herein, except as to the Commissions jurisdiction over it and over the subject matter of
+these proceedings, which are admitted, Respondent consents to the entry of this Order Instituting
+Cease-and-Desist Proceedings, Making Findings, and Imposing Cease-and-Desist Order
+Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of the Securities Exchange
+Act of 1934 (Order), as set forth below. 
+
+                                              III.
+
+       On the basis of this Order and the Respondents Offer, the Commission finds  1
+                                                                                     that:
+
+A.          SUMMARY 
+
+       1.           Applix materially overstated net income in two periodic reports and a registration
+statement filed with the Commission.  The overstatements relate to two transactions.  In the first
+transaction, the Respondent improperly recognized $898,000 of software license revenue under a
+December 31, 2001 reseller agreement.  Because the agreement included the right to resell a
+future product that was currently in development, Applix should have recognized the license
+revenue ratably over the 12 month term of the agreement, i.e., throughout 2002.  By improperly
+recognizing all of the license revenue up-front, Applix met its 2001 revenue goals, and
+improperly understated its net loss for the year by 8.3%. 2
+                                                           In the second transaction, Applix
+improperly recognized $341,000 in revenue for the quarter ended June 30, 2002 under a sales
+contract, even though the customer had not yet accepted the product. 3
+                                                                       As a result, Applix
+understated its net loss for the quarter by 33.6%. 4
+                                                   
+
+1
+       The findings herein are made pursuant to Respondents Offer of Settlement and are not
+binding on any other person or entity in this or any other proceeding.
+
+2
+       The company also improperly included in its financial statements $333,333 as cash
+received as payment on the transaction even though those funds were not received until the
+following year.
+
+3
+       The customer did accept the product before year end 2002 and made the initial payment
+due on acceptance.  
+
+4
+       For the second quarter of 2002, the increase in revenue of $225,000 from the December
+31, 2001 software license revenue recognized in 2002 partially offset the decrease in revenue of
+$341,000 for a net decrease of $116,000.  Accordingly, the net overstatement of revenue for the
+quarter is 1.3% and the net understatement of net loss is 14.7%. 
+
+                                               2
+---------------------Page 3---------------------
+
+       2.           On February 28, 2003, Applix announced it would restate its periodic filings to 
+report correctly the revenue from the two transactions in the proper periods.  After the public
+announcement, Applixs stock price fell approximately 13%, or twenty-six cents, closing at
+$1.70 per share.  On March 31, 2003, Applix filed an amended Form 10-K for the year ended
+December 31, 2001 and amended Forms 10-Q for the first three quarters of 2002.  5
+
+B.          FACTS  
+
+       3.           Applix, a Massachusetts corporation based in Westborough, Massachusetts
+develops, sells and supports business performance management software.  Applix stock is
+registered under Section 12(g) of the Exchange Act and traded on the NASDAQ SmallCap Market.    
+Applix reports its results of operations on a calendar year basis.   
+
+              4.           Applix materially misstated the companys financial results of operation for the
+year ended December 31, 2001 and the quarter ended June 30, 2002.  The misleading financial
+information was included in press releases, periodic and current filings with the Commission and
+incorporated by reference into a registration statement filed with the Commission.
+
+       5.           For the year ended December 31, 2001, Applix improperly recognized $898,000
+in revenue under a reseller agreement with a privately held company headquartered in New York
+City (the Partner).  Applix originally entered a reseller agreement with the Partner in March
+2000.  The March 2000 reseller agreement granted the Partner the right to market, demonstrate
+and sublicense Applix software over a five-year period.  The agreement contemplated yearly
+amendments on the March anniversary date.  In March 2001, the parties entered into the first
+amendment.   On December 31, 2001, the parties entered into a second amendment ( the
+December 31, 2001 amendment) even though the March 2001 amendment was still in effect
+and not due to be amended until March 2002.  The December 31, 2001 amendment granted the
+Partner rights to resell additional products for a one-year term.  
+
+       6.           Under Statement of Position 97-2 (SOP 97-2), if the December 31, 2001
+amendment granted the Partner rights to any unspecified additional software products
+(emphasis in original) then the transaction would need to be accounted for as a subscription and
+revenue recognized ratably over the one-year term of the agreement. 
+
+       7.           However, Applix determined that it was appropriate to recognize the entire
+amount of the Partner license revenue as of December 31, 2001, even though the Respondent
+knew, or was reckless in not knowing, that the amendment granted the Partner the right to resell
+Applixs new product, Integra, which the company had recently announced (in late 2001) as its 
+next-generation product.  Revenue recognition was improper.  In late 2001, Applix expected
+Integra to become generally available during the one-year term covered by the December 31,
+
+5
+       On April 4, 2003, Applix filed a second amendment to the Form 10-Q for the third
+quarter of 2002 to include information that was inadvertently omitted in the first amendment.
+
+                                               3
+---------------------Page 4---------------------
+
+2001 amendment.  The Partner understood it obtained the rights to resell Integra as part of the
+December 31, 2001 amendment as did the Applix salesperson directly involved in negotiations
+with the Partner.    
+
+       8.           On January 29, 2002, Applix announced revenue of $40.3 million and a net loss
+of $9.9 million for the year ended December 31, 2001.  By improperly including the entire
+$898,000 license revenue amount in revenue for 2001, Applix overstated its revenue by 2.3%
+and understated its net loss by 8.3%.  The inclusion of that revenue enabled Applix to meet a
+previously announced $40 million revenue goal.  On April 1, 2002, Applix filed a Form 10-K
+with the Commission, that contained financial statements that included the improperly recorded
+revenue.
+
+       9.           During 2002, the Partner obtained license codes for Integra.  Although
+the Partner did not actually sell any Integra during the year, the Partner made Integra sales
+presentations to customers during 2002.   In fact, Applix marketing employees provided
+information to assist the Partner in drafting sales presentations.  Applix also prepared a business
+plan that specifically referenced the Partners rights to resell Integra pursuant to the terms of the
+December 31, 2001 amendment.  Lastly, in figuring the fee the Partner owed Applix at year end
+2002, under a formula based on a percentage of Applixs 2001 revenue from sales of goods the
+Partner was licensed to resell, Applix included Integra sales in the calculation, thereby increasing
+the amount the Partner was required to pay. 
+
+       10.        In the second improperly reported transaction, Applix included $341,000 of
+revenue for the second quarter of 2002 from a transaction with a German customer, even though
+the customer had approximately five additional months after quarter close to either accept or
+reject the software goods.  The payment terms on the transactions required the customer to pay
+50% on acceptance and 50% within ninety days.  Applix knew of the contingent sales provision,
+knew of the existence of a specified testing period that was scheduled to last for most of that five
+month period and knew of the payment terms.  Applix knew, or was reckless in not knowing,
+that the customer had not accepted the software product by the end of the second quarter of
+2002.  Applix generated an invoice dated June 30, 2002 falsely indicating that payment was due
+in thirty days.  
+
+       11.        On July 18, 2002, Applix announced revenue of $9.2 million and a net loss of
+$675,000 for the quarter ended June 30, 2002.  Applixs press release highlighted that the net
+loss was a 74% improvement over the net loss for the same quarter of the prior year.  By
+improperly including the German customer revenue, Applix overstated its revenue by 3.9% and
+understated its net loss by 33.6%.  The inclusion of the German customer revenue also enabled
+Applix to come within 1% of an internal quarterly revenue goal.  On August 14, 2002, Applix 
+
+                                               4
+---------------------Page 5---------------------
+
+filed a Form 10-Q with the Commission that contained financial statements that included the
+improperly recorded revenue.  6
+                               
+
+       12.        Applix prepared an audit confirmation dated November 26, 2002, for the
+transaction with the German customer.  The confirmation falsely indicated that the first 50%
+payment (i.e., the payment due on acceptance) was due December 31, 2002.  Upon review of the
+confirmation in early December 2002, the outside auditors questioned Applix as the auditors had
+been informed that payment was due within 30 days of the invoice date of June 30, 2002, the last
+day of the quarter.  In mid-January 2003, Applix informed the outside auditors of an issue
+concerning when the German customer had accepted under the terms of the agreement.  The
+outside auditors told Applix that the company needed to investigate the matter to determine what
+transpired.      
+
+       13.        Applix senior management informed the audit committee of the acceptance issue. 
+Following up on that information from management, on January 27, 2003, Applixs audit
+committee held a telephonic meeting concerning the transaction with the German customer.  At
+that meeting, Applix senior management failed to explain that when they made the revenue
+recognition decision, they knew of the existence of a specified testing period that was scheduled
+to last for approximately five months after the end of the second quarter.  Applix senior
+management failed to fully disclose and explain the generation of the false invoice and did not
+reveal the existence of the false audit confirmation or the fact that the outside auditors had raised
+questions when they reviewed the audit confirmation.  Two days after the meeting, Applixs
+audit committee met with the outside auditors and voted to retain the companys regular outside
+counsel to conduct an internal investigation of the German transaction.  
+
+       14.         On February 5, 2003, the audit committee met with the outside auditors
+concerning the Partner license revenue matter and voted to retain the companys regular outside
+counsel to conduct an internal investigation of the transaction.   
+
+       15.        After obtaining the results of counsels investigations, the Applix board of
+directors requested and obtained the chief executive officers resignation.  The board did not
+request the chief financial officers (CFO) resignation at that time.  Applix proposed to the
+outside auditors that the chairman of the audit committee oversee the CFOs activities and the
+auditors agreed to this arrangement.  In June 2003, the CFO was asked to and did resign.         
+
+6
+       On July 25, 2002, Applix filed a Form S-8 Registration Statement to register shares for a
+directors stock option plan.   The filing incorporated by reference the December 31, 2001 Form
+10-K and all reports filed subsequent to the Form S-8 until the filing of a post-effective
+amendment.    On February 5, 2003, Applix filed a Form 8-K related to the sale of a division. 
+That filing included a pro-forma statement of operations for the nine months ended September
+30, 2002 and accordingly included the improperly recorded June 30, 2002 revenue from the
+German customer.
+
+                                               5
+---------------------Page 6---------------------
+
+C.          VIOLATIONS
+
+       16.        As a result of the conduct described above, Applix violated Section 17(a) of the
+Securities Act and Section 10(b) of the Exchange Act and Rule 10b-5 thereunder, which prohibit
+fraudulent conduct in connection with the offer, sale or purchase of securities.
+
+       17.        Also as a result of the conduct described above, Applix violated Section 13(a) of
+the Exchange Act and Rules 13a-1, 13a-11, 13a-13 and 12b-20 thereunder.
+
+       18.        Because Applix improperly recorded revenue, its books, records and accounts did
+not, in reasonable detail, accurately and fairly reflect its transactions and dispositions of assets.
+
+       19.        In addition, Applix failed to implement internal accounting controls relating to its
+revenue accounts sufficient to provide reasonable assurances that these accounts were accurately
+stated in conformity with generally accepted accounting principles.    
+         
+       20.        As a result of the conduct described above, Applix violated Section 13(b)(2)(A)
+of the Exchange Act, which requires reporting companies to make and keep books, records, and
+accounts which, in reasonable detail, accurately and fairly reflect their transactions and
+dispositions of their assets. 
+
+       21.        Lastly, as a result of the conduct described above, Applix violated Section
+13(b)(2)(B) of the Exchange Act and Rule 13b2-1 thereunder, which require all reporting
+companies to devise and maintain a system of internal accounting controls sufficient to provide
+reasonable assurances that transactions are recorded as necessary to permit preparation of
+financial statements in conformity with generally accepted accounting principles; and prohibit
+persons from directly or indirectly falsifying or causing to be falsified any book, record, or
+account. 
+
+D.     ONGOING COOPERATION 
+
+       22.        In determining to accept the Offer, the Commission has considered the following
+undertaking by the Respondent -  Applix shall cooperate fully with the Commission in any
+and all investigations, litigations or other proceedings relating to or arising from the matters
+described in this Order.   Applix shall: (i) produce, without service of a notice or subpoena, any
+and all documents and other information requested by the Commissions staff; (ii) use its best
+efforts to cause its employees to be interviewed by Commissions staff at such times as the staff
+reasonably may direct; (iii) use its best efforts to cause its employees to appear and testify
+truthfully and completely without service of a notice or subpoena in such investigations,
+depositions, hearings or trials as may be requested by Commissions staff. 
+
+                                                6
+---------------------Page 7---------------------
+
+E.          UNDERTAKINGS  
+
+Respondent undertakes to: 
+
+        1.         Retain, through its Board of Directors, within thirty days after the entry of this
+Order, an Independent Financial Policies Consultant (Financial Policies Consultant), not
+unacceptable to to the staff of the Commission, to review Applixs financial and accounting
+policies and procedures relating to: (i) revenue recognition on software licensing agreements,
+including the consideration of SOP 97-2 and documentation of that consideration; (ii) the
+segregation of duties between sales and finance employees in revenue recognition
+determinations; (iii) the signing and dating of material sales contracts and purchase orders and
+the retention by Applix corporate finance organization of all such contracts and purchase orders;
+(iv) written documentation that all sales contingencies have been met in material revenue
+transactions; (v) the generation and issuance to customers of sales invoices; and (vi) the
+preparation and review of accounts receivable confirmations.  The Financial Policies Consultant
+shall also consider, based on his/her review, the nature and extent of Applix Board of Directors
+training required to minimize the possibility of future violations of the federal securities laws by
+Applix, acting through its finance and accounting employees.  At the conclusion of the review,
+which in no event shall be more than 90 days after the date of entry of this Order, the Financial
+Policies Consultant shall submit a Report to Applix and to the Boston District Office of the
+Commission.  The Report shall address the issues described above and shall include a
+description of the review performed, the conclusions reached and the Financial Policy
+Consultant's recommendations for changes in or improvements to policies and procedures,
+including recommendation as to the nature and extent of Board of Directors training.   
+
+       2.           Respondent shall adopt all of the Financial Policies Consultants
+recommendations for changes in or improvement to policies and procedures as set forth below;
+provided however, that within 135 days after the date of entry of the Order, Respondent shall in
+writing advise the Financial Policies Consultant and the staff of the Commissions Boston
+District Office of any recommendation that Respondent considers to be unnecessary,
+inappropriate, unreasonable, impractical or infeasible.  Respondent need not adopt any such
+recommendation at that time but shall propose in writing an alternative policy or procedure
+designed to achieve the same objective. 
+
+       3.           As to any recommendation with respect to Respondents policies and procedures
+on which Respondent and the Financial Policies Consultant do not agree, they shall make a good
+faith attempt to reach agreement within 165 days of the date of entry of the Order.  In the event
+the Respondent and the Financial Policies Consultant are unable to agree on an alternative
+proposal, Respondents will follow the recommendation of the Financial Policies Consultant.  To
+the extent the Financial Policies Consultant proposes, in his/her report, alternative
+recommendations, any one of which is intended to address a given matter, Respondent may
+adopt one of the proposed alternatives and need not notify the Financial Policies or the staff of
+the Commissions Boston District Office of alternative recommendations not adopted. 
+
+       4.           Applix (i) shall not have the authority to terminate the Financial Policies
+Consultant, without the prior written approval of the Commissions Boston District Office; (ii)
+shall compensate the Consultant, and persons engaged to assist the Consultant, for services
+
+                                                7
+---------------------Page 8---------------------
+
+rendered pursuant to this Order at their reasonable and customary rates; and, (iii) shall not be in
+and shall not have an attorney-client relationship with the Consultant and shall not seek to
+invoke the attorney-client or any other doctrine or privilege to prevent the Consultant from
+transmitting any information, reports, or documents to the staff of the Commission; and
+
+       5.           Applix shall require the Financial Policies Consultant to enter into an agreement
+that provides that for the period of engagement and for a period of two years from completion of
+the engagement, the Financial Policies Consultant shall not enter into any employment,
+consultant, attorney-client, auditing or other professional relationship with Applix, or any of its
+present or former affiliates, directors, officers, employees, or agents acting in their capacity as
+such.  The agreement will also provide that the Independent Consultant will require that any firm
+with which he/she is affiliated or of which he/she is a member, and any person engaged to assist
+the Financial Policies Consultant in performance of his/her duties under this Order shall not,
+without prior written consent of the Commissions Boston District Office, enter into any
+employment, consultant, attorney-client, auditing or other professional relationship with Applix,
+or any of its present or former affiliates, directors, officers, employees, or agents acting in their
+capacity as such for the period of the engagement and for a period of two years after the
+engagement.  
+
+                                               IV.
+
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondent Applixs Offer.
+
+       Accordingly, it is hereby ORDERED that:
+
+       A.           Respondent Applix cease and desist from committing or causing any violations
+and any future violations of Section 17(a) of the Securities Act and Sections 10(b), 13(a),
+13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 10b-5, 12b-20, 13a-1, 13a-11, 13a-13
+and 13b2-1 thereunder.
+
+       B.          Respondent shall comply with the undertakings enumerated in Section III. E,
+above.
+
+       C.          Deadlines:  For good cause shown, the Commission staff may extend any of the
+procedural deadlines set forth herein. 
+
+       By the Commission.
+
+                                                     Nancy M. Morris
+                                                     Secretary
+
+                                                8

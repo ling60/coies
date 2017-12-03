@@ -1,0 +1,438 @@
+---------------------Page 1---------------------
+
+ 
+
+                           UNITED STATES OF AMERICA  
+                                      Before the  
+                   SECURITIES AND EXCHANGE COMMISSION  
+ 
+SECURITIES EXCHANGE ACT OF 1934  
+Release No.  64498 / May 13, 2011 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No.  3283 / May 13, 2011 
+ 
+ADMINISTRATIVE PROCEEDING  
+File No.  3-14386 
+ 
+                                             
+In the Matter of                            ORDER INSTITUTING CEASE -AND-
+                                            DESIST PROCEEDINGS  PURSUANT TO 
+      GSI GROUP , INC.,                     SECTION 21C OF THE SECURITIES 
+                                            EXCHANGE ACT OF 1934  , MAKING 
+Respondent.                                 FINDINGS, AND IMPOSING A CEASE -
+                                            AND-DESIST ORDER   
+ 
+                                                
+                                           I. 
+                                            
+      The Securities and Exchange Commission (“Commission”) deems it appropriate that 
+cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the 
+Securities Exchange Act of 1934 (“Exchange Act”), against GSI Group, Inc. (“GSI” or 
+“Respondent”). 
+       
+                                          II.  
+      In anticipation of the institution of these proceedings, Respondent has submitted an Offer 
+of Settlement (the “Offer”), which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the 
+findings herein, except as to the Commission’s jurisdiction over it and the subject matter of these 
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting 
+Cease-and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, 
+Making Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below. 
+       
+
+ 
+---------------------Page 2---------------------
+
+ 
+
+                                               III.  
+                                                  
+                                                                                      1
+       On the basis of this Order and Respondent’s Offer, the Commission finds that:  
+        
+                                           Summary 
+                                                  
+       1.     From at least 2004 through at least June 2008 (the “Relevant Period”), GSI 
+improperly recognized revenue on certain transactions even though revenue recognition was 
+prohibited pursuant to generally accepted accounting principles (“GAAP”).  The improper 
+revenue recognition resulted in part from a deficient system of internal controls that included no 
+clear procedures to determine what deliverables the company owed its customers and whether it 
+had met those deliverables, along with a lack of understanding of the relevant accounting 
+principles among key employees.  In addition, for at least two material transactions that occurred 
+in 2007 and 2008, certain GSI employees engaged in misconduct by causing GSI to recognize 
+revenue when they knew or should have known that the revenue should not have been 
+recognized.  As a result, GSI overstated revenues by a total of approximately $1.9 million or 
+0.7% in 2004, $3.5 million, or 1.4%, in 2005; $43.1 million, or 16.6%, in 2006; $15.0 million, or 
+5.0%, in 2007 (including by $16.1 million, or 23.9%, for the fourth quarter of 2007); and by 
+approximately $7.8 million (12.7%) and $3.3 million (5.6%) during the first and second quarter 
+        2
+of 2008.  
+        
+                                          Respondent 
+                                                  
+       2.     GSI, a New Brunswick, Canada corporation with its principal place of business in 
+Bedford, Massachusetts, manufactures and sells laser systems and other technology products.  
+GSI’s stock was registered with the Commission pursuant to Section 12(g) of the Exchange Act 
+and traded on the NASDAQ National Market System until July 31, 2006.  From July 31, 2006 
+until April 15, 2010, GSI’s stock was registered with the Commission pursuant to Section 12(b) 
+of the Exchange Act and traded on the NASDAQ Global Market.  On April 15, 2010, GSI’s 
+stock was delisted from the NASDAQ Global Market because it was delinquent in its 
+Commission filings, deregistered from Section 12(b) of the Exchange Act, and reverted back to 
+its designation under Section 12(g) of the Exchange Act.  On November 20, 2009, GSI filed a 
+voluntary petition for relief under Chapter 11 of the United States Bankruptcy Code in the U.S. 
+Bankruptcy Court for the District of Delaware.  On May 27, 2010, the U.S. Bankruptcy Court for 
+the District of Delaware confirmed GSI’s plan for reorganization.  On July 23, 2010, GSI 
+completed a rights offering and emerged from the Chapter 11 proceeding.  On December 4, 
+2008, GSI announced that past financial statements filed with the Commission could no longer 
+be relied upon due to errors discovered with GSI’s recognition of revenue for those periods.  On 
+April 13, 2010, GSI filed restated annual and quarterly financial statements for the periods 
+contained within the fiscal years 2004, 2005, 2006, 2007, and 2008.  Effective February 14, 
+2011, GSI re-registered its common stock pursuant to Section 12(b) of the Exchange Act and is 
+currently listed on the Nasdaq Global Select Market.   
+
+                                                 
+1
+    The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding on any other 
+person or entity in this or any other proceeding. 
+ 
+2
+    Percentages are calculated based on restated revenues  less discontinued operations. 
+
+                                                2 
+---------------------Page 3---------------------
+
+ 
+
+ 
+                                             Facts 
+ 
+Background 
+ 
+       3.     During the Relevant Period, GSI’s Systems Division manufactured production 
+systems that it sold to both domestic and international customers.  GSI’s production systems 
+generally had both hardware (including lasers) and software components (including, in certain 
+instances, customized, vendor specific, factory automation software) and required on-site 
+installation by GSI personnel. 
+        
+       4.     From at least 2004 to mid-2007, the division controller for the Systems Division 
+made the determination when to recognize revenue from Systems Division sales.   In mid-2007, 
+pursuant to a reorganization of GSI’s finance department (the “Finance Department”), GSI’s 
+corporate controller, assisted by an assistant corporate controller, took over the revenue 
+recognition determination for the Systems Division.   
+        
+       5.     During the Relevant Period, Systems Division sales staff documented the basic 
+terms of a transaction in a Sales Order Approval Form (“Sales Order Form”) which, along with 
+other documents associated with the transaction, were to be collected by the Systems Division’s 
+sales order administration personnel.  Before booking an order, the documents were to be 
+reviewed and, depending on the size of the order, approved by varying levels of sales, finance 
+and management staff.  Transactions generally were automatically recognized as revenue upon 
+shipment.  Prior to the close of the quarter, the Finance Department reviewed the documents 
+related to each transaction and determined whether to recognize or defer any revenue.  
+        
+Internal Control Deficiencies 
+        
+       6.     During the Relevant Period, GSI had numerous deficiencies throughout its system 
+of internal controls that were attributable, in part, to its failure to understand and assess the risks 
+in the control environment and to design and execute monitoring procedures that evaluated the 
+controls over those risks.  Among other things, Systems Division personnel did not communicate 
+well with Finance Department employees, a problem that worsened after the mid-2007 
+reorganization.  Accordingly, Finance Department employees often had difficulty getting 
+information from Systems Division employees. 
+        
+       7.     The structure of the revenue recognition process did not ensure proper 
+communication of transaction terms to the Finance Department.  For example, sales 
+representatives agreed to provide additional items to customers after the company received a 
+purchase order, or offered customers other incentives, but frequently failed to properly document 
+or communicate those agreements to the Finance Department.  Because the Systems Division did 
+not have any clear process to ensure that any concessions, upgrades, or other terms agreed to in 
+the period between booking and recognizing revenue from a transaction were included with the 
+transaction documents, the Finance Department was often unaware of the actual transaction 
+terms.  Both the additional items and the incentives frequently impacted the timing of revenue 
+
+                                               3 
+---------------------Page 4---------------------
+
+ 
+
+recognition because the Finance Department often relied on incomplete information when 
+making the revenue recognition decisions.   
+        
+       8.      In addition, key sales and Finance Department employees did not sufficiently 
+understand the relevant accounting rules applicable to the multi-element arrangements.  The 
+corporate controller did not apply those accounting rules correctly, and he failed to apply proper 
+oversight over other employees involved in revenue recognition decisions. 
+                
+The Korean Transaction 
+        
+       9.      During November 2007, a Korean customer agreed to purchase from GSI ten 
+systems for nearly $1 million per system.  Each system was equipped with a laser previously 
+sold by GSI.  GSI agreed to upgrade these systems by replacing the original lasers with a laser 
+                                                                                        3
+that had not yet been developed (the “Undeveloped Laser”) when it became available.         As a 
+final condition, the customer demanded that GSI upgrade five systems that the customer had 
+previously purchased with Undeveloped Las     ers once they became available.    
+        
+       10.    In November 2007, one of GSI’s product line managers (the “PLM”) sent a letter 
+to the Korean customer confirming GSI’s obligation to upgrade the five systems with 
+Undeveloped Lasers.  The PLM did not copy anyone on the letter, and neither the letter nor the 
+terms therein were provided to the Finance Department.  The PLM completed the sales order 
+approval form for the transaction representing, among other things, that GSI had not made any 
+“promises or guarantees for future deliverables (systems improvements, software upgrades, 
+etc).”  The PLM also signed a quarterly certification for the Finance Department stating that he 
+was unaware of any side transactions or contingencies.  The PLM knew or should have known 
+that this certification (and the representations therein) would be used by GSI in preparing its 
+financial statements and would be provided to GSI’s independent auditor in connection with the 
+quarterly reviews of GSI’s financial statements. 
+        
+       11.    In December 2007, the PLM, members of the Finance Department staff, and the 
+the general manager of the Systems Division (the “Systems GM”) met to discuss whether they 
+could establish vendor specific objective evidence of value or fair value for the Undeveloped 
+Lasers and thus recognize revenue from the transaction.  During these discussions, they 
+concluded that GSI could establish fair value for the Undeveloped Laser if they could find a 
+substantially similar laser that GSI had previously sold.  Shortly thereafter, the PLM and others 
+identified a laser (the “Identified Laser”) as being substantially similar to the Undeveloped Laser. 
+        
+       12.    In fact, the Identified Laser was not substantially similar to the Undeveloped 
+Laser for the purposes of recognizing revenue.  Among other things, the Undeveloped Laser was 
+a unique, undeveloped product that had significantly different future application potential.  In 
+addition, on several occasions the PLM had communicated to the Finance Department and others 
+that the Undeveloped Lasers were worth substantially more than the Identified Laser.   
+
+                                                 
+3
+   During this period, GSI had two undeveloped  lasers – a Multiple Pulse Infrared Laser and a Multiple Pulse 
+Green Laser – that were to be upgraded in the production systems ordered by the Korean customer during 2007 and 
+2008.  Neither of the lasers were substantially similar to the original lasers in the production system and, for the 
+purposes of this Order, will be referred to collectively as the Undeveloped Laser(s).  
+
+                                                 4 
+---------------------Page 5---------------------
+
+ 
+
+        
+       13.    On December 20, 2007, the corporate controller emailed the PLM a draft of a 
+memo (the “Fair Value Memo”) concluding that the Undeveloped Laser and the Identified Laser 
+were substantially similar, which he asked the PLM to finalize and sign.  The PLM, however, 
+initially declined to sign the memo on the grounds that the lasers were different.  The corporate 
+controller then called the Systems GM and told him that if the PLM did not sign the memo, the 
+company would not recognize revenue from the sale.  The Systems GM indicated that he would 
+talk to the PLM and, that same evening, the PLM emailed the corporate controller the signed Fair 
+Value Memo.  The PLM knew or should have known that this Fair Value Memo (and the 
+representations therein) would be used by GSI in preparing its financial statements and would be 
+provided to GSI’s independent auditor in connection with the quarterly reviews of GSI’s 
+financial statements.   
+        
+       14.    In the first and second quarters of 2008, the Korean customer ordered eight 
+additional systems and corresponding upgrades for Undeveloped Lasers.  The PLM signed 
+another memo (to which the Fair Value Memo was attached) representing that the Undeveloped 
+Laser to be used in these systems was substantially similar to the Identified Laser when in fact 
+the lasers were not substantially similar.  As a result, the Finance Department again used the Fair 
+Value Memo to improperly recognize revenue for the systems. 
+        
+       15.    During the first and second quarter of 2008, GSI recorded in its books and records 
+and reported in its financial statements filed with the Commission over $8.9 million and $7.1 
+million in revenue, respectively, from the transactions with the Korean customer.  However, GSI 
+should not have recognized any revenue from these transactions during these periods because 
+GSI had not delivered the Undeveloped Lasers, nor had it properly established fair value for the 
+Undeveloped Laser in accordance with GAAP. 
+ 
+The Taiwanese Transaction 
+ 
+       16.     In or around January 2007, the PLM began negotiating a sale of six systems to a 
+Taiwanese customer.  The initial quotation specifically referenced a Tool Automation 
+Specifications (“TAS”) Agreement that related to the customer specifications or factory 
+automation software that GSI would be obligated to provide.   
+ 
+       17.    During this same time, the primary engineer responsible for creating the factory 
+automation software informed the PLM that implementing all the TAS specifications would be 
+“a huge task,” requiring over an additional 2000 hours of labor, would cost between $450,000 to 
+$600,000, and could “not possibly be accomplished in the required time frame.”   
+ 
+       18.    In March 2007, the Taiwanese customer ordered the six systems and specifically 
+                                                                
+referenced compliance with the TAS as part of the arrangement. The PLM never informed the 
+Finance Department that, as part of the transaction, the customer required customized software 
+that would not be completed until several months after the systems had been installed and were 
+operational.  GSI booked the order and, between May and October 2007, shipped the six 
+systems.   
+ 
+
+                                               5 
+---------------------Page 6---------------------
+
+ 
+
+       19.    In late September 2007, the GSI’s Finance Department told the PLM and other 
+Systems Division personnel that GSI could not agree to any upgrades, contingencies, or future 
+deliverables if it wished to recognize the revenue from the transaction.  The PLM responded with 
+an email specifically stating that “there are NO upgrades or contingencies,” even though he knew 
+that GSI had agreed to provide the customer with unique, customized software.   The PLM also 
+signed a quarterly certification stating that he was unaware of any contingencies or side 
+agreements.  When the customer accepted the first system during the fourth quarter of 2007, GSI 
+recognized nearly $5 million in revenue from the six systems that had shipped, even though GSI 
+still owed the customer the customized software.   Because GSI had not delivered the customized 
+software, and because it did not have fair value for the software, this revenue should not have 
+been recognized at that time.  The PLM knew or should have known that this certification (and 
+the representations therein) would be used by GSI in preparing its financial statements and would 
+be provided to GSI’s independent auditor in connection with the quarterly reviews of GSI’s 
+financial statements.   
+ 
+       20.    On March 20, 2008 GSI’s corporate controller emailed the PLM and others 
+asking whether there existed a factory automation issue with respect to the Taiwanese customer.  
+In response, the PLM told the corporate controller that GSI owed the customer “Phase II” factory 
+automation, which GSI hoped to complete by the second quarter of 2008.  The PLM provided the 
+corporate controller with a copy of the TAS, which he stated contained the Phase II factory 
+automation specifications. 
+        
+       21.    In or around March 2008, the assistant corporate controller informed the corporate 
+controller that the failure to provide factory automation may impact the revenue that GSI had 
+previously recognized, which could result in a restatement.  On April 3, 2008, the corporate 
+controller emailed the assistant corporate controller, stating: “Please don’t dig into these unless it 
+blows up down the road.  Let’s work on getting things right going forward.”  On April 6, 2008, 
+the corporate controller again emailed the assistant corporate controller:  “When we go to the 
+acceptance method this issue goes away.  Let’s dig into that once we get the quarter close behind 
+us.”  The corporate controller did not properly investigate the matter and did not disclose the 
+potential existence of undelivered factory automation software to the external auditors. 
+        
+       22.    During the fourth quarter of 2007, GSI recorded in its books and records and 
+reported in its financial statements filed with the Commission nearly $5 million in revenue from 
+sales to the Taiwanese customer.   However, GSI should not have recognized any revenue from 
+this transaction during this period because GSI had not delivered the customized, factory 
+automation software required under the customer agreement.   
+ 
+Impact on Financial Statements 
+        
+       23.    As a result of the conduct described above, GSI overstated revenues by 
+approximately $1.9 million (or 0.7%) in 2004, $3.5 million (1.4%) in 2005; $43.1 million 
+(16.6%) in 2006; $15.0 million (5.0%) in 2007 (including by $16.1 million (23.9%) for the 
+fourth quarter of 2007); and by approximately $7.8 million (12.7%) and $3.3 million (5.6%) 
+                                                         4
+during the first and second quarter of 2008, respectively.    
+                                                  
+4
+    Percentages are calculated based on restated revenues less discontinued operations. 
+
+                                                6 
+---------------------Page 7---------------------
+
+ 
+
+        
+       24.    The misleading financial information that resulted from the improper recognition 
+of revenue from the Korean and Taiwanese transactions alone was material because it (1) 
+overstated revenues by 7.1% in the fourth quarter of 2007, by 1.6% for fiscal year 2007, by 
+14.7% in the first quarter of 2008 and by 12.1% in the second quarter of 2008; and (2) overstated 
+revenues for GSI’s Systems Division by 21.5% in the fourth quarter of 2007, by 4.3% during 
+fiscal year 2007, by 39.3% in the first quarter of 2008, and by 48.0% in the second quarter of 
+     5
+2008.  
+        
+       25.    As a result of the conduct described above, GSI’s Form 10-K for the company’s 
+fiscal years 2004 through 2007, the Forms 10-Q for every quarter therein, as well as the Forms 
+10-Q for the quarters ended March 31, 2008 and June 30, 2008, contained false statements 
+concerning GSI’s financial results.  For many of the quarterly periods described above, GSI 
+issued press releases, subsequently filed with the Commission on Forms 8-K, containing the 
+false and misleading financial information.     
+        
+                                            Violations 
+        
+       26.    As a result of the conduct described above, GSI violated Section 13(a) of the 
+Exchange Act and Rules 13a-1, 13a-11, 13a-13 and 12b-20 thereunder, which require every 
+issuer of a security registered pursuant to Section 12 of the Exchange Act file with the 
+Commission information, documents, and annual and quarterly reports as the Commission may 
+require, and mandate that periodic reports contain such further material information as may be 
+necessary to make the required statements not misleading.  
+        
+       27.    As a result of the conduct described above, GSI violated Section 13(b)(2)(A) of 
+the Exchange Act, which requires reporting companies to make and keep books, records, and 
+accounts which, in reasonable detail, accurately and fairly reflect their transactions and 
+disposition of their assets.  
+        
+       28.    As a result of the conduct described above, GSI violated Section 13(b)(2)(B) of 
+the Exchange Act, which requires all reporting companies to devise and maintain a system of 
+internal accounting controls sufficient to provide reasonable assurances that transactions are 
+recorded as necessary to permit preparation of financial statements in conformity with generally 
+accepted accounting principles. 
+ 
+                                    Remedial Efforts by GSI 
+        
+       29.    In determining to accept GSI’s Offer, the Commission considered remedial acts 
+promptly undertaken by Respondent and cooperation afforded the Commission staff. 
+        
+
+                                                 
+5
+    GSI also overstated pre-tax income by $1.4 million (6.4%) for fiscal year 2007, $3.6 million (5,206.0%) for the 
+first quarter of 2008, and $2.9 million (1,443.1%) for the second quarter of 2008 as a result of the improper revenue 
+recognition for the Korean and Taiwanese transactions. 
+
+                                                 7 
+---------------------Page 8---------------------
+
+ 
+
+                                              IV. 
+                                                 
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondent GSI’s Offer.  
+        
+       Accordingly, pursuant to Section 21C of the Exchange Act, it is hereby ORDERED that 
+Respondent GSI cease and desist from committing or causing any violations and any future 
+violations of Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 12b-
+20, 13a-1, 13a-11, and 13a-13 thereunder. 
+        
+        
+       By the Commission.  
+ 
+ 
+ 
+                                                   Elizabeth M. Murphy 
+                                                   Secretary  
+ 
+
+                                               8 
+---------------------Page 9---------------------
+
+ 
+
+                                         Service List 
+ 
+       Rule 141 of the Commission's Rules of Practice provides that the Secretary, or another 
+duly authorized officer of the Commission, shall serve a copy of the Order Instituting Cease-and-
+Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making 
+Findings, and Imposing a Cease-and-Desist Order 
+("Order"), on the Respondent and its legal agent. 
+ 
+       The attached Order has been sent to the following parties and other persons entitled to 
+notice: 
+ 
+Honorable Brenda P. Murray                   
+Chief Administrative Law Judge               
+Securities and Exchange Commission           
+100 F Street, N.E. 
+Washington, DC 20549-2557                    
+ 
+Kevin M. Kelcourse, Esq.                     
+Boston Regional Office               
+Securities and Exchange Commission           
+                 rd
+33 Arch Street, 23  Floor                    
+Boston, MA  02110                                                  
+                                             
+GSI Group, Inc.                      
+c/o Caz Hashemi, Esq.                
+Wilson Sonsini Goodrich & Rosati PC 
+650 Page Mill Road 
+Palo Alto, CA 94304 
+                       
+Caz Hashemi, Esq.             
+Wilson Sonsini Goodrich & Rosati PC 
+650 Page Mill Road 
+Palo Alto, CA 94304 
+                                        
+ 
+
+                                               9 

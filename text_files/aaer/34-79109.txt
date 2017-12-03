@@ -1,0 +1,1811 @@
+---------------------Page 1---------------------
+
+                              UNITED STATES OF AMERICA 
+                                           Before the 
+                      SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 79109 / October 18, 2016 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3814 / October 18, 2016 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No.  3-17628 
+                                                 ORDER INSTITUTING PUBLIC 
+In the Matter of                                 ADMINISTRATIVE AND CEASE -AND-
+                                                 DESIST PROCEEDINGS PURSUANT TO 
+                                                 SECTIONS 4C AND 21C OF THE 
+ERNST & YOUNG LLP ,                              SECURITIES EXCHANGE ACT OF 1934 
+CRAIG  R. FRONCKIEWICZ, CPA,                     AND RULE 102(e) OF THE 
+AND                                            COMMISSION’S RULES OF PRACTICE,  
+SARAH E. ADAMS, CPA,                     
+                                                                                              
+Respondent s.                                          DESIST ORDER (“ORDER”) 
+ 
+ 
+                                                 
+
+                                               I. 
+
+       The Securities and Exchange Commission (“Commission”) deems it appropriate that 
+public administrative and cease-and-desist proceedings be, and hereby are, instituted against 
+Ernst & Young LLP (“Ernst & Young”), Craig R. Fronckiewicz, CPA (“Fronckiewicz”), and 
+                                                                            1
+Sarah E. Adams, CPA (collectively, “Respondents”), pursuant to Sections 4C    and 21C of the 
+                                                                      2
+Securities Exchange Act of 1934 (“Exchange Act”) and Rule 102(e)(1)     of the Commission’s 
+Rules of Practice. 
+
+                                               II. 
+
+                                                            
+1
+       Section 4C provides, in relevant part, that:  
+         The Commission may censure any person, or deny, temporarily or permanently, to any person the   
+       privilege of appearing or practicing before the Commission in any way, if that person is found . . . (1) not to 
+       possess the requisite qualifications to represent others; (2) to be lacking in character or integrity, or to have 
+       engaged in unethical or improper professional conduct; or (3) to have willfully violated, or willfully aided 
+       and abetted the violation of, any provision of the securities laws or the rules and regulations thereunder. 
+        
+2
+       Rule 102(e)(1)(ii) provides, in pertinent part, that: 
+         The Commission may censure a person or deny, temporarily or permanently, the privilege of appearing or 
+       practicing before it . . . to any person who is found . . . to have engaged in unethical or improper 
+       professional conduct. 
+        
+---------------------Page 2---------------------
+
+                                                  
+                                                                                                   
+
+       In anticipation of the institution of these proceedings, Respondents have submitted Offers 
+of Settlement (“Offers”) which the Commission has determined to accept.  Solely for the purpose 
+of these proceedings and any other proceeding brought by or on behalf of the Commission, or to 
+which the Commission is a party, and without admitting or denying the findings herein, except as 
+to the Commission’s jurisdiction over them and the subject matter of these proceedings, which 
+are admitted, Respondents consent to the entry of this Order, as set forth below. 
+
+                                               III. 
+
+                                                                                   3
+       On the basis of this Order and Respondents’ Offers, the Commission finds     that:  
+
+                                          SUMMARY 
+
+   1.  This matter involves violations of the federal securities laws and improper professional 
+conduct by Ernst & Young, Fronckiewicz, and Adams while serving as the external auditor, 
+coordinating (i.e., signing) partner, and tax partner, respectively, for Weatherford International 
+plc f/k/a Weatherford International Ltd. (“Weatherford”).  In connection with its 2007-2010 
+financial statements, Weatherford, a large multinational provider of oil and natural gas 
+equipment and services, issued false financial statements that inflated its earnings in violation of 
+U.S. Generally Accepted Accounting Principles (“GAAP”).  Weatherford improperly inflated its 
+earnings and materially understated its effective tax rate (“ETR”) and tax expense through the 
+use of deceptive intercompany tax accounting. 
+    
+   2.    During each of those years, Weatherford repeatedly and publicly disclosed ETR and 
+recorded tax expense it knew, or was reckless in not knowing, were fabricated.  Each year, 
+Weatherford made unsupported post-closing adjustments to accounting data that intentionally 
+lowered its actual ETR and tax expense.  To do so, Weatherford reversed accounting data that 
+had been correctly input into Weatherford’s consolidated tax provision from the company’s 
+accounting system.  Weatherford’s fraud created the misperception that the tax structure it 
+designed to reduce its tax expense and ETR was far more successful than it actually was.  From 
+2007 to 2010, Weatherford regularly touted its favorable ETR to analysts and investors as one of 
+its key competitive advantages, which it attributed to its superior international tax avoidance 
+structure.  The purportedly lower ETR rates that Weatherford reported throughout this period 
+proved illusory, however.   
+        
+   3.  On March 1, 2011, Weatherford announced that it would be restating its financial results 
+for 2007-2010 and that a material weakness existed in its internal control over financial reporting 
+(“ICFR”) for the accounting of income taxes.  That restatement, which was filed on March 8, 
+2011, reduced previously reported net income by approximately $500 million (the “First 
+Restatement”).  $461 million of the First Restatement resulted from a four-year income tax 
+accounting fraud.  After announcing the First Restatement, Weatherford’s stock price declined 
+nearly 11% in one trading day ($2.38 per share), closing at $21.14 per share on March 2, 2011.  
+The decline eliminated over $1.7 billion from Weatherford’s market capitalization.  
+
+                                                            
+3
+       The findings herein are made pursuant to Respondents’ Offers of Settlement and are not binding on any 
+other person or entity in this or any other proceeding.   
+ 
+
+                                                2 
+ 
+---------------------Page 3---------------------
+
+                                                
+                                                                                                
+
+     
+   4.  Ernst & Young’s audit team, including Fronckiewicz and Adams, did not detect the four-
+year fraud.  The audit team was aware of the existence of the post-closing adjustments each year.  
+However, they failed to perform audit procedures required by Public Company Accounting 
+Oversight Board (“PCAOB”) standards that would have likely uncovered the fraudulent scheme 
+as early as 2007 and in each year thereafter.  In addition, during 2010,  the audit team failed to 
+perform any additional inquiries or perform other appropriate procedures during quarterly reviews 
+of Weatherford’s financials to ascertain why the company was experiencing a huge unexplained 
+income tax receivable that grew to over $400 million by year-end 2010.   
+        
+   5.  Respondents failed to comply with PCAOB standards related to due professional care, 
+professional skepticism, supervision, staffing, training, and documentation.  Ernst & Young 
+issued audit reports, signed by Fronckiewicz, containing unqualified opinions on the financial 
+statements in Weatherford’s 2007, 2008, and 2009 Form 10-Ks, which contained material 
+misstatements.  Ernst & Young’s reports, which Respondents knew would be filed with 
+Weatherford’s Form 10-Ks, inaccurately stated that Ernst & Young conducted its audits in 
+accordance with PCAOB standards and that Weatherford’s financial statements were fairly 
+presented in all material respects in conformity with GAAP. 
+        
+   6.  Throughout the relevant period, Ernst & Young’s National Office issued annual findings 
+to its personnel recognizing the need for increased focus and expanded audit procedures due to 
+the audit teams’ failure on “more than an infrequent basis” to conduct audits of income tax 
+accounting in accordance with PCAOB standards.  The National Office also indicated that it was 
+an area requiring significant improvement.  However, Ernst & Young did not take effective 
+measures to minimize the likelihood of failed audits, which led to its failure to detect the 
+Weatherford fraud.       
+    
+   7.   By failing to comply with PCAOB standards, Respondents were a cause of 
+Weatherford’s issuance of materially false and misleading financial statements in its periodic 
+filings and submissions from 2007 through the third quarter of 2010 and, therefore, were a cause 
+of Weatherford’s violations of Exchange Act Section 13(a) and Exchange Act Rules 12b-20, 
+13a-1, and 13a-13 promulgated thereunder.   
+    
+   8.  As a result of the conduct described herein, Respondents also violated the federal 
+securities laws and rules and regulations thereunder pursuant to Section 4C of the Exchange Act 
+and Rule 102(e)(1)(ii) of the Commission’s Rules of Practice.   
+
+                                      RESPONDENTS 
+
+   9.  Ernst & Young LLP is a professional services limited liability partnership, 
+headquartered in New York City, with offices located throughout the United States.  It is a 
+member firm of Ernst & Young Global Limited and provides auditing, consulting, and tax 
+services to a variety of companies, including companies whose securities are registered with the 
+Commission and trade in the U.S. markets.  Ernst & Young was Weatherford’s auditor from 
+2001 to March 2013.  On March 7, 2013, Weatherford’s audit committee decided not to re-
+appoint Ernst & Young. 
+    
+
+                                               3 
+ 
+---------------------Page 4---------------------
+
+                                                  
+                                                                                                   
+
+   10. Craig R. Fronckiewicz, age 50, of Spring, Texas is an assurance partner at Ernst & 
+Young.  Fronckiewicz was the coordinating partner and had final responsibility for the audits and 
+quarterly reviews of Weatherford’s financial statements from 2006 through fiscal year-end 2010.  
+As the coordinating partner, Fronckiewicz supervised Ernst & Young’s engagements to audit and 
+review Weatherford’s financial statements throughout that period.  Fronckiewicz was an 
+engagement partner on the Weatherford audit in 2004 and 2005.  Throughout the relevant period, 
+Fronckiewicz was licensed as a Certified Public Accountant (“CPA”) by the State of Texas.  
+        
+   11. Sarah E. Adams, age 52 of Houston, Texas, was a tax partner at Ernst & Young until 
+July 2014 and a member of the firm’s federal tax group.  Adams served as the tax partner on the 
+Weatherford audit engagement team from 2007 through March 2013.  As the tax partner, Adams 
+reviewed the work of, and supervised Ernst & Young’s tax professionals on the audit 
+engagement team who performed audit and review procedures related to Weatherford’s income 
+tax accounting throughout that period.  Adams was the tax senior manager on the Weatherford 
+audit from 2001 through 2006.  Throughout the relevant period, Adams was licensed as a CPA 
+by the States of Alabama and Texas. 
+
+                                    RELEVANT ENTITY 
+
+   12. Weatherford International plc f/k/a Weatherford International Ltd. is a multinational 
+Irish public limited company based in Switzerland, with offices in Houston, Texas.  
+Weatherford’s   shares are registered with the Commission pursuant to  Exchange Act Section 
+12(b) and are listed on the NYSE under the symbol “WFT.”  Weatherford files periodic reports, 
+including Forms 10-K and 10-Q, with the Commission pursuant to Exchange Act Section 13(a) 
+and related rules thereunder. 
+
+                                            FACTS 
+
+                            Weatherford’s Aggressive Tax Strategy 
+
+   13. Throughout Ernst & Young’s tenure as Weatherford’s auditor, Weatherford employed an 
+aggressive strategy to become a top-tier multinational provider of oil and natural gas equipment 
+and services.  One part of that strategy was based on exponential revenue growth fueled by 
+hundreds of acquisitions designed to expand Weatherford’s multinational footprint.  During the 
+decade before its March 2011 restatement, Weatherford’s revenue increased from $1.8 billion to 
+$10.2 billion.   
+    
+   14. Another key component of Weatherford’s strategy was to develop a superior international 
+tax avoidance structure that reduced the company’s ETR and tax expense (and increased 
+Earnings Per Share (“EPS”) and cash flow) while providing a competitive advantage over U.S.-
+based peer companies.  In 2002, Weatherford changed its place of incorporation from the U.S. to 
+                                                                       4
+Bermuda, a 0% tax jurisdiction, through a process known as inversion.     From 2003 through 
+
+                                                            
+4
+       In 2009, Weatherford took steps to preserve the tax avoidance structure it created by changing its place of 
+incorporation from Bermuda to Switzerland through a series of share exchange transactions commonly referred to as 
+redomestication.  In 2014, Weatherford changed its place of incorporation from Switzerland to Ireland when, 
+through merger agreement, Weatherford International plc, an Ireland-based public limited company, became the 
+new public holding company/parent of Weatherford’s group of companies. 
+
+                                                4 
+ 
+---------------------Page 5---------------------
+
+                                                  
+                                                                                                    
+
+2006, Weatherford further refined its international tax structure by implementing a series of 
+hybrid instruments to facilitate the movement of revenue from higher tax rate jurisdictions (e.g., 
+Canada and United States) to lower tax rate jurisdictions (e.g., Hungary and Luxembourg). 
+    
+   15. While these international tax avoidance strategies reduced Weatherford’s ETR from 
+36.3% in 2001 to 25.9% by the end of 2006, its CFO remarked that Weatherford’s ETR 
+remained somewhat above that of other inverted peer companies in his response to an analyst’s 
+question during the company’s year-end earnings call on January 30, 2007.  Soon thereafter, 
+Weatherford started reporting ETR results that created a false perception that its international tax 
+structure was outperforming similarly-situated competitors by a significant margin.  For 
+example, in 2008 and 2009, fueled by its deceptive income tax accounting practices, 
+Weatherford reported pre-restatement ETRs of 17.1% and 6.5%, respectively.  
+        
+   16. In connection with fiscal years 2007 through 2010, Weatherford’s Vice President of Tax 
+(“VP of Tax”) and tax manager engaged in fraudulent practices relating to income tax accounting 
+that violated GAAP and made Weatherford’s financial statements materially false and 
+misleading.  Each year, they made or authorized unsupported post-closing adjustments within a 
+                                                                                         5
+line item on the consolidated tax provision labeled intercompany “dividend exclusion.”   These 
+dividend exclusion adjustments, which ranged from $286 million to $439 million per year, 
+involved different Weatherford entities within Weatherford’s corporate elimination account, 
+which was known as the “Eliminations region.”  These adjustments were then tax effected at 
+35%, which falsely lowered Weatherford’s year-end provision for income taxes by $100 million 
+to $154 million each year.  These dividend exclusion adjustments also overstated net income, 
+understated ETR and tax expense, and ultimately created a $461 million phantom income tax 
+receivable.  These adjustments were made to allow Weatherford’s reported ETR and earnings 
+results to better align with analysts’ expectations and Weatherford’s previously-announced 
+projected results.   
+
+                   Ernst & Young’s High-Risk Assessments of Weatherford 
+
+   17. In 2001, Weatherford became a client of Ernst & Young’s Southwest Region, with the 
+engagement team based in Houston.  Weatherford quickly became one of the largest clients in 
+the region.  It also had a widely-held reputation in Ernst & Young’s Southwest Region as a 
+particularly risky and difficult client.  From at least 2004, Ernst & Young concluded that 
+Weatherford posed a “significant risk to the firm; that is, there is a significant chance the firm 
+will suffer damage to its reputation, monetarily, or both.”  Accordingly, Ernst & Young 
+designated “close monitoring” status upon Weatherford, the highest-risk category that the firm 
+recognized.  Risk factors the firm specifically identified in reaching this assessment included 
+factors that were among the causes of the audit failure in this matter, including:   
+    
+         a history of completing significant or unusual transactions shortly before or at year-
+           end or quarter end;  
+         an ability to book journal entries without multiple levels of review;  
+
+                                                                                                                                                                                                
+ 
+5
+       Dividend exclusion represents the amount of intercompany dividends that a corporation must exclude from 
+its taxable income. 
+
+                                                 5 
+ 
+---------------------Page 6---------------------
+
+                                                 
+                                                                                                 
+
+         difficulties in auditing Weatherford’s complex tax structure in a timely manner; 
+         pressure on management to meet earnings and EPS requirements; and  
+         significant pressure for “marginal GAAP.” 
+
+Ernst & Young’s policies and procedures, which were not adhered to by Ernst & Young’s audit 
+team, required more detailed review by senior engagement professionals when auditing close-
+monitoring clients, in recognition of basic audit and quality control standards that required 
+heightened professional due care and scrutiny when faced with a higher risk of material 
+misstatement. 
+
+   18. Ernst & Young consistently perceived Weatherford as a challenging and demanding 
+client known for taking aggressive accounting positions.  This was particularly true in the area of 
+income tax accounting, where Weatherford employed a complex international tax structure that 
+raised significant concerns for Ernst & Young engagement personnel and required formal and 
+informal consultations with Ernst & Young’s National Professional Practice Group (“PPG”) 
+dating back to at least the 2006 fiscal year audit.   
+    
+   19. In 2005, the audit team was aware of numerous errors affecting deferred tax asset and 
+liability cumulative balances that were caused by Weatherford’s failure to maintain tax basis 
+balance sheets.  Ernst & Young ultimately determined that these errors reflected a single ICFR 
+significant deficiency and not a material weakness.  In 2006, PPG was consulted on material out-
+of-period income tax accounting errors identified by Ernst & Young tax engagement personnel 
+that enabled Weatherford to meet its fourth quarter earnings projections.  Ernst & Young 
+concluded, after consultation with PPG, that an ICFR deficiency existed because Weatherford’s 
+internal supervisory review of its consolidated tax provision was not being executed with 
+sensitivity high enough to detect or prevent a financial misstatement.  Weatherford’s income tax 
+accounting, therefore, warranted Respondents’ heightened skepticism as an area that presented a 
+high risk of financial misstatement.  
+        
+   20. These and other elevated risks associated with Weatherford’s tax accounting raised 
+considerable red flags for Respondents, in part, because they involved an audit area that was 
+inherently high risk and one that Ernst & Young itself had recognized was in need of significant 
+improvement due to recurrent issues on multiple audit engagements.  For example, Ernst & 
+Young’s policies and procedures required its auditors to conduct significantly more detailed 
+review of income tax workpapers than those in other, less risky, areas.  Ernst & Young’s policies 
+and procedures, which were not adhered to by the audit team, regarding tax workpapers required 
+the following heightened supervisory audit review by both assurance and tax professionals on all 
+Commission registrant engagements: 
+        
+         assurance professionals must perform a detailed and second (or executive) level 
+           review of the income tax working papers; and  
+         the tax review must be performed by a tax executive director, principal, or partner 
+           with the appropriate experience and background.  
+
+Ernst & Young’s policies and procedures made clear that audit procedures over income tax 
+accounting required a collaborative approach in which both tax and assurance personnel were 
+viewed as members of the engagement team, both responsible for performing their work in 
+
+                                               6 
+ 
+---------------------Page 7---------------------
+
+                                                  
+                                                                                                   
+
+accordance with PCAOB standards.  Under applicable PCAOB standards, Adams was an 
+assistant responsible for assisting Fronckiewicz in the planning and supervision of certain areas 
+of the audit. 
+
+   21. While these policies and procedures applied to all of Ernst & Young’s Commission 
+registrant clients, the need for extensive supervision and review in the area of income tax 
+accounting was especially important in the highest-risk environments of its close monitoring 
+engagements, such as the audit of Weatherford and its income tax accounting.  As described 
+herein, Respondents failed repeatedly to follow or adequately supervise that these policies and 
+procedures were followed.   
+
+                            Weatherford Engages in Fraud in 2007 
+
+   22. In December 2006, Weatherford, through its VP of Tax, initially forecasted an ETR of 
+29% for fiscal year 2007.  However, Weatherford emails among its senior management reflected 
+that the company was under pressure to meet Wall Street expectations and to offset shortfalls in 
+its quarterly earnings targets by lowering its ETR.   
+    
+   23. Throughout the first three quarters of 2007, Weatherford recorded ETR and tax expense 
+pursuant to FIN 18, “Accounting for Income Taxes in Interim Periods.”  FIN 18 prescribes an 
+estimated annualized ETR approach for computing the tax provisions for the first three quarters 
+of the year, which is based on a company’s best estimate of current year ordinary income.  
+GAAP, however, does not allow companies to use FIN 18 to calculate their year-end tax 
+provisions.  GAAP required Weatherford to record ETR and tax expense at year end pursuant to 
+                                          6
+FAS 109, “Accounting for Income Taxes.”   FAS 109 establishes standards on how companies 
+should account for and report the effects of income taxes, including the calculation of the year-
+end consolidated tax provision.   
+    
+   24. Shortly before Weatherford was scheduled to release its year-end financial results for 
+2007, Weatherford’s VP of Tax and its tax manager discovered the year-end ETR and tax 
+expense that had been calculated pursuant to FAS 109 far exceeded ETR estimates and tax 
+expense disseminated publicly to analysts and investors during the first three quarters of 2007 
+based on their FIN 18 estimates.  Faced with what they considered to be an immovable deadline 
+for reporting earnings, the Weatherford VP of Tax and tax manager falsified the year-end 
+consolidated tax provision by making an unsubstantiated manual $439.7 million post-closing 
+“plug” adjustment to two different Weatherford Luxembourg entities within Weatherford’s 
+Eliminations region.  To do so, they intentionally reversed accounting data that had been 
+correctly input to Weatherford’s consolidated tax provision via the company’s accounting 
+system, as follows: 
+        
+
+                                                            
+6
+       Effective for interim and annual periods ending after September 15, 2009, FASB codified authoritative 
+accounting literature in the Accounting Standards Codification.  As such, FIN 18 and FAS 109 were superseded by 
+ASC Topic 740.  The substantive provisions of the codified guidance are consistent with the superseded standards. 
+
+                                                7 
+ 
+---------------------Page 8---------------------
+
+                                                       
+                                                                                                        
+
+                                                                                         
+                                                         
+          25. The resulting plug adjustment, which the VP of Tax and tax manager then improperly 
+      applied a 35% tax rate to, allowed Weatherford to reduce its tax expense by $153.9 million for 
+      the year and to lower its ETR in line with previous estimates publicly disclosed during quarterly 
+      calls with analysts.  As a result, the ETR announced to analysts and investors during its year-end 
+      conference call allowed Weatherford to ultimately meet Wall Street’s earnings expectations.   
+
+                                   Respondents’ Fiscal Year 2007 Audit 
+      Unsupported Manual Entries - Fiscal Year 2007
+
+WFT Luxembourg SARL26. During 2007, when Weatherford’s fraud began, the company$195,430,220  was, based on audit fees, 
+
+WFT Financing (Luxembourg) SARLErnst & Young’s 14th largest close monitoring$244,298,216  client firm-wide and the fourth-largest close 
+      monitoring client in its Southwest Region, in terms of audit fees.  As part of its yearly client 
+Total Unsupported Adjustment                    $439,728,436
+      continuance process, Ernst & Young once again classified Weatherford as close monitoring 
+Tax Rate Improperly Applied                               35%
+      based, in part, upon the following characteristics:   
+2007 Plugged Tax Benefit                        $153,904,953 
+           
+                a domineering CEO,  
+                rapid growth and acquisitive nature of the company,  
+                a history of completing significant or unusual transactions at quarter-end or year-end,  
+                a concern that Weatherford “operates in a decentralized manner and has the ability to 
+                 book journal entries without multiple levels of review,” and  
+                the difficulty of auditing Weatherford’s complex tax structure in a timely fashion. 
+
+      Further, as noted above, the audit team had identified Weatherford as having a significant 
+      deficiency in 2005 for not maintaining tax basis balance sheets, and in consultation with PPG, 
+      made a 2006 deficiency determination regarding control issues over Weatherford’s tax provision.  
+      Despite the close monitoring high risk status and known deficiencies in its controls over income 
+      taxes, virtually all of the 2007 audit procedures regarding Weatherford’s income tax accounting 
+      were conducted by Ernst & Young’s tax professionals without sufficient detailed assistance 
+      from, or coordination with, assurance personnel, as required by Ernst & Young policies.   
+
+          27. During the audit, a tax senior under Adams who was tasked with reviewing 
+      Weatherford’s consolidated tax provision brought the $439 million manual post-closing 
+      adjustment to Adams’ attention.  Her emails to Adams (“This deserves a huh?”) and to the 
+      Weatherford tax manager (“. . . I do not mean to sound like a broken record, but I am not 
+      following this.”) made clear there were significant unanswered questions surrounding the 
+      dividend exclusion adjustment.   
+               
+          28. Although Weatherford, its VP of Tax, and its tax manager did not inform Respondents 
+      that they had backed into the ETR by putting in a plug to match what they expected the ETR to 
+
+                                                      8 
+       
+---------------------Page 9---------------------
+
+                                                
+                                                                                                
+
+be, their oral explanation of the reason for the adjustment (that it was made in order to achieve 
+better matching of intercompany activity per tax given the Eliminations region has a 35% ETR 
+and Luxembourg has a 0% ETR) did not make sense.  Nevertheless, the audit team, including 
+Adams, ultimately accepted oral representations from Weatherford regarding the basis for the 
+adjustment without any corroborating documents.  Adams then signed off on the income tax 
+audit workpapers.  Fronckiewicz signed off on the tax provision workpapers that reflected the 
+dividend exclusion adjustment, but did not sign off on the workpapers identifying Weatherford’s 
+oral explanations for the adjustment.     
+        
+   29. Fronckiewicz and Adams both were aware of the adjustment and its material impact on 
+reducing Weatherford’s ETR, yet they failed to review meaningfully or substantiate the 
+adjustment through basic reconciliation or other audit procedures that likely would have revealed 
+the error.  Fronckiewicz and Adams neither performed, nor asked others to perform, any 
+corroborating procedures to substantiate the $439 million dividend exclusion adjustment that 
+drove Weatherford’s ETR down by approximately nine percent for the year.  Despite signing off 
+on an audit checklist indicating that such steps had been performed, Fronckiewicz did not ensure 
+that assurance personnel performed “required detailed and second-level reviews” of the income 
+tax accounting workpapers prepared and reviewed by Ernst & Young tax engagement personnel.  
+This was contrary to Ernst & Young’s policies.   
+
+                  Weatherford’s Fraud Continues From 2008 Through 2010 
+
+   30. During 2008-2010, Weatherford’s tax department again observed large gaps between the 
+actual ETR and tax expense it calculated at year-end and the lower estimated ETR and resulting 
+tax expense that it had reported to analysts and investors.  During 2008-2010, Weatherford’s tax 
+department made additional unsubstantiated manual post-closing dividend exclusion 
+adjustments, or plugs, between $286.6 million to $303.6 million each year and overrode 
+accounting data that had been automatically and correctly input into Weatherford’s consolidated 
+tax provision.  These dividend exclusion adjustments, which involved Luxembourg and Bermuda 
+entities within Weatherford’s Eliminations region, improperly lowered Weatherford’s tax 
+expense by $106.3 million, $101.6 million, and $100.3 million during 2008, 2009, and 2010, 
+respectively.   
+    
+
+                                               9 
+ 
+---------------------Page 10---------------------
+
+                                                       
+                                                                                                      
+
+                                                                                        
+                                                         
+          31. In addition to year-end, Weatherford made an earlier plug adjustment each year to 
+      conceal its scheme during a “pretend” hard close of Weatherford’s third quarter tax accounts and 
+      tax provisions.  The pretend hard close was a “dry run” that permitted Ernst & Young’s audit 
+      Unsupported Manual Entries - Fiscal Year 2008
+      team to conduct early testing of tax accounts and identify potential control and financial 
+WFT Luxembourg SARLstatement issues in advance of the year-end audit.  $195,429,960 During both the pretend hard close and at 
+WFT Investment (Luxembourg) SARLyear-end, the audit team failed to obtain, review, and analyze supporting documentation for the $108,245,404 
+Total Unsupported Adjustmentdividend exclusion adjustments and then signed off on the reasonableness of Weatherford’s $303,675,364
+Tax Rate Improperly Appliedaccounting at year end.       35%
+              
+2008 Plugged Tax Benefit                       $106,286,377 
+          32. For three of the four fiscal years, the dividend exclusion adjustments involved different 
+      entities within Weatherford’s Eliminations region, a red flag missed by the audit team.  For 
+      example, the dividend exclusion adjustments made within Weatherford’s Eliminations region in Unsupported Manual Entries - Fiscal Year 2009
+Total Unsupported Adj. - WFT Bermuda Ltd.2009 and 2010 involved the same Bermuda entity, but the $290,407,796 dividend exclusion adjustments made 
+
+Tax Rate Improperly Appliedin 2007 and 2008 were associated with three different Luxembourg entities.  Weatherford 35%also 
+      aggravated the magnitude of the fraud by inappropriately tax-effecting these adjustments by 
+2009 Plugged Tax Benefit                       $101,642,729 
+      attributing a 35% tax rate to calculate the “tax benefit” purportedly associated with either 0%-
+      tax-rate (Bermuda) or low-single-tax-rate (Luxembourg) jurisdictions. 
+
+      Unsupported Manual Entries - Fiscal Year 2010
+                                   Respondents’ Fiscal Year 2008 Audit  
+Total Unsupported Adj. - WFT Bermuda Ltd.      $286,632,936 
+Tax Rate Improperly Applied33. As the fraud continued into 2008, Weatherford 35%was, based on audit fees, Ernst & 
+2010 Plugged Tax BenefitYoung’s 13th largest close monitoring client firm$100,321,528 -wide and the third-largest close monitoring 
+      client in its Southwest Region.  Prior to the initiation of the 2008 audit engagement, Ernst & 
+      Young reconfirmed Weatherford’s “close monitoring” status based on many of the same high-
+      risk characteristics identified in 2007, as well as some additional concerns, including low bond 
+
+                                                     10 
+       
+---------------------Page 11---------------------
+
+                                                 
+                                                                                                  
+
+                                                                    7
+ratings, a then-ongoing Foreign Corrupt Practices Act investigation,  and the risk that “pressure 
+exists for [Weatherford] management to meet the earnings and EPS requirements or expectations 
+of third parties.”  Indeed, the audit planning documents for 2008 explicitly identified concerns 
+about Weatherford’s “extreme sensitivity to earnings and the possible pressure that could be 
+imposed on the tax director to decrease the effective tax rate.”  Ernst & Young’s engagement 
+team, however, did not modify its audit plan or procedures to consider the significant risk of 
+material misstatement stemming from concerns regarding Weatherford’s tax director, who was 
+the VP of Tax, and its tax department until the 2010 audit.  
+ 
+   34. Ernst & Young’s fiscal year 2008 audit procedures for Weatherford’s income tax 
+accounting again were conducted by its tax engagement personnel without significant assistance 
+from, or coordination with, assurance personnel.  Once again, the tax senior from the prior year’s 
+engagement, now a first year tax manager, identified the tax adjustment and questioned 
+Weatherford’s responses regarding the $303.7 manual dividend exclusion adjustment, which 
+generated a tax benefit to Weatherford of $106.3 million and increased net income by the same 
+amount.   
+        
+   35. Ernst & Young’s first-year tax manager tried to corroborate the initial answers she 
+received from Weatherford’s tax manager by obtaining documentation and challenging 
+Weatherford’s tax treatment of the adjustment, which involved a different combination of 
+Luxembourg entities within Weatherford’s Elimination region than those used in 2007.  
+However, she was unable to corroborate Weatherford’s misleading explanations for the 
+adjustment.  The questions the first-year tax manager raised about the adjustments remained 
+unresolved as Weatherford’s Form 10-K filing date drew near.  As late as February 23, 2009, just 
+one day before Weatherford filed its fiscal year 2008 Form 10-K, she continued to receive 
+inconsistent and incomprehensible answers about the basis for the dividend exclusion adjustment 
+from Weatherford’s tax manager that neither she nor Adams could resolve. 
+    
+   36. The issues identified by the first-year tax manager should have raised red flags for the 
+audit team concerning the adjustment itself and why the adjustment was made to different 
+Luxembourg entities than those used in the prior year.  Instead, on February 23, 2009, 
+Fronckiewicz and Adams signed off on the engagement team’s Income Tax Review 
+Memorandum (“Memorandum”) summarizing the engagement team’s audit procedures over 
+Weatherford’s income tax accounting.  The Memorandum contained representations that “we 
+believe that all significant tax matters, tax exposure items, and financial statement presentation 
+and disclosure matters have been considered during our audit . . . and appropriately addressed.”  
+The Memorandum went on to state that “the income tax accounts are free of material error” and 
+that “we believe the tax working papers appropriately document the procedures performed, 
+evidence obtained, and conclusions reached by us in performing our tax review.” 
+        
+   37. On February 24, 2009, the day after Fronckiewicz and Adams signed off on the 
+Memorandum, the first-year tax manager performed additional work at Adams’ request.  That 
+
+                                                            
+7
+       In November 2013, the Commission and U.S. Department of Justice charged Weatherford with committing 
+widespread FCPA and sanctioned-country violations that led to Weatherford’s payment of nearly $253 million in 
+fines.  SEC Charges Weatherford International with FCPA Violations, SEC Press Release 2013-252 (November 26, 
+2013). 
+
+                                               11 
+ 
+---------------------Page 12---------------------
+
+                                                  
+                                                                                                    
+
+day, the first-year tax manager drafted an audit workpaper which demonstrated that 
+Weatherford’s post-closing, $303 million, manual adjustment was erroneously attributed to two 
+Luxembourg entities.  Rather than challenge the legitimacy of Weatherford’s adjustment, 
+however, Adams signed off, on February 24, 2009, on workpapers that changed the dividend 
+exclusion adjustment to a Weatherford Bermuda entity in a 0% tax jurisdiction rather than 
+Weatherford’s proposed Luxembourg entities.  The audit team then re-applied Weatherford’s 
+                                                                                         8
+application of a 35% tax rate benefit to the newly made adjustment involving Bermuda.        Later 
+that same day, Weatherford filed its Form 10 -K for fiscal year 2008.   There was no explanation  
+in the workpapers    for  why Weatherford appl ied  the 35% tax rate benefit to a Bermuda entity, 
+which the  audit team knew was a 0% tax jurisdiction.  
+        
+   38.  Although Weatherford, its VP of Tax, and its tax manager did not inform the audit team 
+of the true reason for the 2008 dividend exclusion adjustment, Fronckiewicz and Adams neither 
+performed, nor asked others to perform, any corroborating procedures to support the basis for the 
+adjustments.  Required reconciliation or other audit procedures would have likely identified the 
+error or, at a minimum, revealed that there was no reasonable basis for making this adjustment as 
+the Bermuda tax rate was 0%.  Fronckiewicz did not review the relevant workpapers and once 
+again failed to ensure his assurance personnel performed the required detailed and second-level 
+reviews of the income tax accounting workpapers, as required by Ernst & Young’s policies.  
+Fronckiewicz and Adams were both aware of the dividend exclusion adjustment before signoff.  
+Adams knew, and Fronckiewicz knew, or should have known, that Weatherford made similar 
+post-closing adjustments the year prior that lacked supporting documentation. 
+        
+                              Respondents’ Fiscal Year 2009 Audit 
+        
+   39. In 2009, Weatherford became, based on audit fees, Ernst & Young’s 8th largest close 
+monitoring client firm-wide and the largest close monitoring client in the Southwest Region.  
+Prior to the initiation of the 2009 engagement, Ernst & Young reconfirmed Weatherford’s “close 
+monitoring” status based on many of the same high-risk characteristics it identified in 2007 and 
+2008.  As in 2008, the engagement team did not appropriately modify its audit plan and 
+procedures over Weatherford’s income tax accounting despite the identified risks, including the 
+knowledge that Weatherford had made sizeable post-closing adjustments without supporting 
+documentation in the prior two years.  Ernst & Young’s 2009 audit procedures over 
+Weatherford’s income tax accounting again were conducted by tax personnel without significant 
+assistance from, or coordination with, assurance personnel, as required by Ernst & Young 
+policies.  Indeed, the budgeted audit plan prepared by Fronckiewicz, with input from Adams, 
+contemplated that virtually all of the audit procedures regarding Weatherford’s income tax 
+accounting would be conducted by Ernst & Young tax personnel. 
+        
+   40. In December 2009, just after the commencement of the fiscal year-end audit, the previous 
+year’s tax manager on the engagement resigned from Ernst & Young.  Adams understood that 
+this resignation required the engagement team members to perform work at levels higher than 
+what they thought they might be comfortable doing.  While a new tax senior manager was 
+
+                                                            
+8
+       Weatherford financial statements for year-end 2008 continued to reflect the $106 million fraudulent tax 
+benefit associated with the Luxembourg entities because the audit team deemed the difference between the 
+adjustments to be immaterial.  
+
+                                                12 
+ 
+---------------------Page 13---------------------
+
+                                                 
+                                                                                                  
+
+assigned to the Weatherford engagement for a portion of the 2009 year-end audit,  the audit work 
+for Weatherford’s consolidated tax provision principally fell to two tax seniors who had 
+previously worked on the Weatherford engagement, one of whom had not yet passed the CPA 
+exam.   
+        
+   41. During the fiscal year 2009 audit, Weatherford represented to Ernst & Young’s tax 
+personnel that its $101.6 million tax benefit was supported by a $290 million dividend exclusion 
+adjustment involving a Bermuda entity.  There is no evidence in the audit workpapers that the 
+engagement team questioned this adjustment or sought supporting documentation to corroborate 
+it.  The sole support for Weatherford’s 2009 dividend adjustment in the audit workpapers 
+consisted of an oral representation that appears to have been copied from the prior year’s audit 
+workpapers verbatim.  That purported oral representation does not even relate to the $290 
+million Bermuda adjustment, but inexplicably references $523 million in fiscal year 2009 
+dividend exclusions connected to Luxembourg entities and an explanation the audit team rejected 
+on the last day of the prior-year’s audit.     
+        
+   42. The 2009 audit workpapers and lead schedules addressing the dividend adjustment 
+evidence no review or sign-off by either Fronckiewicz or Adams, although both signed off on an 
+audit checklist and the final Memorandum certifying that they reviewed the work performed as a 
+basis for their representations that Weatherford’s income tax accounts were prepared in 
+conformity with GAAP.  This was contrary to Ernst & Young’s policies.  
+        
+   43. The audit team’s failure to obtain sufficient competent evidential matter for  
+Weatherford’s 2009 dividend exclusion adjustment is particularly troubling for several reasons.  
+First, as noted above, the audit documentation does not reflect any evidence of work performed 
+on the 2009 dividend exclusion adjustment involving Bermuda.  Instead, fourth quarter 2009 tax 
+provision audit workpapers prepared by one tax senior and reviewed by a second tax senior and 
+an assurance manager with no prior international tax experience erroneously identify a 
+previously rejected explanation from the prior year involving Luxembourg entities as support 
+that a $101.6 million tax benefit “is reasonable.”  There is no evidence that either Fronckiewicz 
+or Adams conducted any review of the tax workpapers associated with this issue at fiscal year-
+end 2009.   
+        
+   44. Second, the audit team failed to reconcile a $155.8 million debit in the income tax 
+payable account, which had accumulated within Weatherford’s Elimination region solely as a 
+result of the dividend exclusion adjustments.  Specifically, they failed to perform the following 
+steps necessary to audit the income tax accounts and thus failed to uncover Weatherford’s errors:  
+(i) a reconciliation of the current income tax payable/receivable accounts; (ii) a reconciliation of 
+the prior year income tax provisions to filed returns; (iii) an appropriately detailed ETR 
+reconciliation; or (iv) obtaining sufficient competent evidential matter to support the plug 
+adjustments.   
+        
+   45. While all Respondents should have exhibited heightened professional skepticism toward 
+Weatherford’s income tax accounting throughout the relevant period, they had an additional 
+reason to review Weatherford’s income tax accounting with such heightened due care and 
+professional skepticism during the 2009 audit.  Respondents, particularly Adams, had historically 
+
+                                               13 
+ 
+---------------------Page 14---------------------
+
+                                                 
+                                                                                                 
+
+viewed the Weatherford VP of Tax as difficult, intimidating to junior personnel, and stubborn; 
+particularly with respect to the tax positions he took on behalf of the company.  By year-end 
+2009, concerns regarding the VP of Tax, who was by then also a Weatherford officer, rose 
+considerably.  Adams made clear to others within Ernst & Young, including Fronckiewicz, that 
+she distrusted Weatherford’s VP of Tax and believed he was misrepresenting income tax 
+transactions in violation of GAAP in order to improve the company’s ETR and net income.  
+However, nothing was done to increase skepticism of Weatherford’s tax provision and Ernst & 
+Young’s engagement team continued to rely on oral explanations for the plug adjustments.             
+        
+   46. Third, PPG conducted three formal consultations directly or indirectly related to 
+Weatherford’s income tax accounting during 2009.  One consultation included a significant 
+deficiency determination involving internal control failures over the company’s tax accounting 
+that caused a $39 million out-of-period misstatement error to the consolidated tax provision.  The 
+audit team uncovered the $39 million out-of-period misstatement error on Weatherford’s 
+consolidated tax provision during the 2009 year-end audit of Weatherford.  The $39 million 
+error, which overstated Weatherford’s income tax liability and decreased its net income, arose 
+from Weatherford’s failure to follow GAAP accounting for certain deferred taxes.  Weatherford 
+management concluded, and Respondents ultimately agreed, that the underlying root cause of the 
+$39 million error did not constitute a material weakness in Weatherford’s ICFR for income tax 
+accounting, which would require disclosure.  Weatherford management concluded the error 
+stemmed from a significant deficiency in internal controls, which did not require disclosure.  
+After consultation with PPG, Respondents concluded the error arose from Weatherford’s internal 
+control failures, including “limited oversight from the financial reporting group over the income 
+tax process,” and “a lack of depth of experience in GAAP accounting for income taxes, which 
+limits the effectiveness of the reviews that are performed.”  Separate consultations included the 
+tax and book accounting for a multi-million dollar IP migration, and a formal consultation 
+regarding materiality and tolerable error thresholds (which impacted the work performed by the 
+audit team on all of Weatherford’s accounts, including income taxes).  
+    
+   47. Despite identifying these internal control deficiencies, the audit team  conducted 
+insufficient substantive testing of Weatherford’s consolidated tax provision, which could have 
+caused them to question the single largest downward driver of Weatherford’s ETR for the year:  
+the manual post-closing $290 million dividend exclusion adjustment to the company’s 
+consolidated tax provision involving an entity in Bermuda, a 0% tax jurisdiction, which was then 
+tax effected in the Eliminations region by 35% to produce a tax benefit of $101.6 million.  That 
+improper tax benefit increased Weatherford’s net income by 66% for the year.  
+ 
+                         Fiscal Year 2010 Quarterly Interim Reviews 
+ 
+   48. The fraudulent plug adjustments and the resulting improper tax benefits recorded from 
+2007 through 2010 created a $461 million debit balance to Weatherford’s current income tax 
+payable, which Weatherford reclassified as an income tax receivable for reporting purposes.  
+“Current income tax payable” is a balance sheet liability account with a credit balance comprised 
+of taxes to be paid within a year.  While income tax receivables with debit balances may arise for 
+short periods, such as when a company is due a tax refund, the multi-year large debit balance 
+
+                                               14 
+ 
+---------------------Page 15---------------------
+
+                                                  
+                                                                                                   
+
+Weatherford recorded should have raised red flags for the audit team long before the First 
+Restatement.   
+    
+   49. Weatherford’s $461 million income tax receivable balance was not the product of an 
+abnormally large anticipated tax refund.  Instead, this phantom income tax receivable occurred 
+because the current income tax payable accounts annually recorded from Weatherford’s 
+consolidated tax provision were understated by the amount of each year’s fraudulent tax benefit.  
+Over time, this disparity created a huge debit balance anomaly within Weatherford that was as 
+high as $155.8 million at December 31, 2009, grew to $279.2 million at June 30, 2010, and 
+                                                           9
+continued upward to $441.6 million at December 31, 2010.     
+    
+   50. Throughout 2010, the audit team saw Weatherford’s income tax receivable balance grow 
+without explanation by $286.8 million, from $155.8 million at the beginning of the year to 
+$441.6 million by December 31, 2010.  During the first six months of 2010, Weatherford’s tax 
+receivable balance grew by $123.4 million, to $279.2 million at June 30, 2010.  Ernst & Young’s 
+interim review workpapers for the second quarter of 2010 indicated the audit team did “not have 
+the detail of this account” and “will prove out these receivables as part of interim testing” during 
+the pretend hard close.  However, they failed to modify the review plan to include or otherwise 
+conduct sufficient inquiries or analytical procedures  related to the tax receivable as part of their 
+interim reviews.  Ernst & Young’s workpapers for its 2010 interim reviews contain no evidence 
+that even minimal review of Weatherford’s income tax receivable took place despite the glaring 
+tax receivable balance.   
+        
+   51. Notwithstanding the absence of audit documentation, Adams reviewed the large tax 
+receivable balance during the second quarter of 2010 and thought that the large -- $123.4 million 
+-- continued growth in that balance did not seem analytically possible.   She discussed the 
+receivable balance with Fronckiewicz and approached Weatherford’s VP of Tax for an 
+explanation about why the income tax receivable was so large, and why Weatherford would 
+continue to be making such large payments.  When the VP of Tax did not have a response to 
+those questions, however, Adams did not make any additional inquiries or perform other 
+appropriate procedures to provide a basis for communicating whether she was aware of any 
+material departures from GAAP as it pertains to the $279.2 million income tax receivable 
+balance during the second quarter review of Weatherford’s financials.  Instead, Adams indicated 
+to Weatherford’s VP of Tax that she would be expecting the company would reconcile their 
+payable/receivable balances for the year-end audit.  As a result, the audit team performed no 
+extended procedures regarding Weatherford’s income tax receivable during the third quarter 
+either, choosing to wait until the receivable swelled to $441.6 million at year end to address the 
+issue in February 2011.  It was not until February 2011, after concluding that a material 
+weakness in ICFR related to income tax accounting existed as of year-end, that Ernst & Young’s 
+engagement team performed additional review of Weatherford’s income tax receivable balance 
+and discovered the phantom $461 million receivable in the Eliminations region account that 
+occurred due to the four year fraud, which, in turn, led to the First Restatement. 
+    
+
+                                                            
+9
+       The year-end 2010 current income tax balance of $441,553,629 included the $461 million phantom 
+receivable and a $20 million credit balance to “U.S. Income Tax Payable.” 
+
+                                               15 
+ 
+---------------------Page 16---------------------
+
+                                                   
+                                                                                                     
+
+   52. The First Restatement did not correct all of the income tax accounting errors in 
+Weatherford’s financial statements.  After the First Restatement was announced in March 2011, 
+Weatherford announced two additional restatements in February and July 2012, respectively.  
+The two restatements resulted from multiple types of tax accounting errors that were uncovered 
+                                             10
+as part of Weatherford’s remediation efforts.   Weatherford initiated internal investigations after 
+filing its first and second restatements.  In August 2012, the company informed Ernst & Young 
+for the first time the true reason for the $461 million error in the First Restatement; namely, that 
+its VP of Tax and tax manager had backed into Weatherford’s ETR by putting in a plug to match 
+what they expected the estimated ETR to be for four years.  Ernst & Young then immediately 
+advised Weatherford’s Audit Committee that a possible illegal act had occurred and requested an 
+independent investigation into the matter, which was performed. 
+                                                   
+                            Respondents’ Audits and Interim Reviews 
+                   Were Not Performed in Accordance with PCAOB Standards 
+    
+   53. Respondents’ audits of Weatherford’s financial statements for fiscal years 2007, 2008, 
+and 2009 and their interim reviews of Weatherford’s financial statements during 2010 were 
+deficient.  The audit team failed to identify the material understatement of Weatherford’s tax 
+expense and the associated phantom income tax receivable, in part, because they failed to perform 
+procedures to obtain sufficient evidence to support Weatherford’s income tax accounting in 
+accordance with PCAOB standards.  In auditing Weatherford’s consolidated tax provision and 
+related income tax account balances and disclosures, the audit team failed to exercise due 
+professional care, and professional skepticism, and they failed to obtain sufficient competent 
+evidential matter to support a reasonable basis for an opinion regarding the financial statements.  
+The audit team knew they were auditing a high-risk area of a high-risk, close monitoring client, yet 
+they never insisted on, nor obtained, corroborating documentation to substantiate the abnormally 
+large dividend exclusion adjustments made by Weatherford’s VP of Tax and tax manager year after 
+year.  The audit team also never performed certain required substantive audit procedures, such as 
+reconciliations that would have possibly identified the material errors in Weatherford’s income tax 
+receivable balances. 
+    
+   54. Ernst & Young issued audit reports expressing unqualified opinions in connection with 
+its audits of Weatherford’s financial statements in fiscal years 2007 through 2009.  Ernst & 
+Young’s audit team, including Fronckiewicz and Adams, was aware of Weatherford’s manual 
+post-closing adjustments each year.  Further, Adams failed to obtain supporting documentation 
+to corroborate oral representations provided by Weatherford’s VP of Tax and tax manager.  In 
+2008 and 2009, Fronckiewicz and Adams missed two opportunities each year during the pretend 
+hard close and at year end to uncover these plug adjustments.  In 2010, Respondents conducted 
+interim reviews of Weatherford’s quarterly financial statements and failed to perform inquiries 
+and analytical procedures sufficient to ascertain why Weatherford’s $155.8 million income tax 
+
+                                                            
+10
+        The second restatement included fraudulent conduct involving Weatherford’s failure to accrue for $84 
+million in withholding taxes prior to 2012.  Specifically, before Weatherford filed its Form 10-Q for the period 
+ending September 20, 2011, Weatherford and the VP of Tax knew, or were reckless in not knowing, that their failure 
+to accrue for withholding taxes on intercompany transactions was a deviation from GAAP that would cause 
+Weatherford’s statements to be materially misstated.  
+
+                                                16 
+ 
+---------------------Page 17---------------------
+
+                                                  
+                                                                                                   
+
+receivable, which was already growing significantly by the end of 2009, increased by an 
+additional $285.8 million over a single year.   
+ 
+    Ernst & Young’s Recognition that its Auditing of Income Tax Accounting Was an Area 
+                               Requiring Significant Improvement 
+        
+   55. Beginning as early as 2004 and continuing throughout the relevant period, the national 
+office of Ernst & Young annually informed its personnel that, based on external and internal 
+inspection results, its auditing of income tax accounting was a firm-wide “specific focus” as a 
+top area requiring significant improvement.  In fact, between 2006 and 2009, Ernst & Young 
+issued at least six memos, including three in November 2009 alone, to its personnel addressing 
+deficiencies in its audits of income tax accounting.  Deficiencies in this area occurring on “more 
+than an infrequent basis” were typically highlighted, often in bold.  Ernst & Young consistently 
+stressed the following issues throughout its memos: 
+ 
+         Ineffective supervision and review by assurance and tax professionals, especially 
+           detailed and second-level review by assurance professionals; 
+         Inadequate exercise of due professional care and professional skepticism; and 
+         Insufficient audit documentation, including repeated observations that tax workpapers 
+           appeared to be carried forward from year to year and failed to include appropriate 
+           analyses and supporting documentation to support the auditors’ conclusions. 
+        
+   56. Ernst & Young failed to remediate longstanding failures in the audits of income tax 
+accounting.  Although Ernst & Young enhanced its policies and procedures in 2004, including 
+adding a tax supplement and audit procedures checklist with additional training, it continued to 
+observe issues with multiple engagement teams’ auditing of income tax accounting on an annual 
+basis.  Ernst & Young’s yearly “observations” of these issues and the firm’s reminders to 
+“necessitate a heightened level of professional skepticism and executive involvement on each 
+engagement” were insufficient to change behavior adequately during the relevant period.  In fact, 
+the very failings that Ernst & Young observed on a number of engagements over the auditing of 
+income taxes were the failures that Fronckiewicz, Adams, and their engagement team were making 
+year after year on the Weatherford audits.  Despite Ernst & Young’s recognition of these problems, 
+the firm did not develop specific training to effectively assist its assurance and tax professionals in 
+their review and documentation in the tax workpapers until 2010, at the earliest. 
+ 
+                               Staffing, Training, and Supervision 
+ 
+   57. Ernst & Young’s staffing, training, and supervision of engagement personnel on the 2007, 
+2008, and 2009 Weatherford audits were insufficient for a client with the complexity and risk 
+attributable to this company.  First, Ernst & Young consistently staffed tax personnel on the 2007, 
+2008, and 2009 Weatherford audits at levels significantly beyond their capabilities.  By doing so, 
+it also left the Weatherford audit significantly understaffed compared to prior years.  Ernst & 
+Young’s tax teams below the partner level were similarly inexperienced in 2008 and 2009.   
+        
+   58. Second, Ernst & Young’s tax team on the Weatherford audit lacked the necessary training 
+and proficiency to perform audit procedures to determine conformance with professional guidance 
+
+                                                17 
+ 
+---------------------Page 18---------------------
+
+                                                 
+                                                                                                  
+
+under GAAP related to tax provisions.  Key tax team personnel did not receive appropriate 
+training on due professional care and skepticism until 2009, at the earliest.  On the Weatherford 
+audits for 2007, 2008, and 2009, tax professionals lacking appropriate audit training and 
+experience were required to perform consolidated tax provision audit work that should have been 
+conducted by Ernst & Young assurance and tax personnel under the ultimate supervision of the 
+assurance partners.  
+        
+   59. Staffing and training issues on the Weatherford audits were not limited to tax personnel.  
+There was also a shortage of qualified assurance managers in Ernst & Young’s Houston office and, 
+because of Weatherford’s reputation as a “very adversarial” client, staffing the Weatherford audit 
+was a perennial issue.  Ernst & Young managers resisted working on the Weatherford audit and 
+threatened to quit if assigned to the engagement.  Senior management in Ernst & Young’s 
+Southwest Region were aware of managers’ reluctance to work on the Weatherford audit.  They 
+called Weatherford “one of the most challenging and demanding clients” in the region and noted:   
+        
+
+         “[T]he Weatherford . . . engagement has historically been difficult and hard on our 
+           people, frequently resulting in high turnover and generalized dissatisfaction within 
+           our team.” 
+         “Weatherford is an offshore company with a complex tax structure, and a tax 
+           accounting process that historically had had issues.” 
+ 
+   60. Despite these well-known concerns, Ernst & Young regional senior management denied 
+Fronckiewicz’s request for an assurance manager well suited to a difficult, public company like 
+Weatherford before the start of the 2009 fiscal year audit.  Ernst & Young assigned an assurance 
+manager who had limited previous public company experience and had little training or experience 
+in complex international tax accounting.  Notwithstanding that lack of experience, Fronckiewicz 
+assigned this manager the task of reviewing the income tax workpapers during the 2009 audit.   
+        
+   61. On March 29, 2011, shortly after the filing of the First Restatement, Ernst & Young’s 
+Quality Implementation Leader for the Southwest Region drafted an engagement quality 
+occurrence report that identified for PPG the following contributing factors as among the causes of 
+Weatherford’s March 8, 2011 restatement: (1) inconsistent and, at times, inadequate tax staffing; 
+and (2) performance issues regarding the coordination of work between the tax and assurance teams 
+on the engagement.  This draft report, which was not finalized, also found that there was a lack of 
+appropriate supervision and review over the audits of Weatherford’s income tax accounting 
+during the 2007, 2008, and 2009 audits.   
+        
+   62. For example, Fronckiewicz failed to consistently adhere to Ernst & Young policies and 
+procedures requiring a detailed and second-level review of income tax accounting workpapers by 
+sufficiently experienced assurance professionals.  When Fronckiewicz attempted to conduct that 
+review himself, he performed only a cursory review and failed to exercise the due professional 
+care and skepticism required under the circumstances.  He also failed to perform adequate 
+reviews to determine that others on the engagement team, particularly Adams, exercised the due 
+professional care and skepticism warranted by PCAOB standards.  Adams supervised Ernst & 
+Young tax professionals that she knew were inexperienced and untrained and did not seek 
+additional training for these individuals.  Adams and Fronckiewicz also knew that the 
+
+                                               18 
+ 
+---------------------Page 19---------------------
+
+                                                  
+                                                                                                    
+
+Weatherford audit required their tax staff to perform consolidated tax provision audit work in a 
+difficult, high-pressure environment under severe time constraints.  Adams and Fronckiewicz 
+also engaged in unreasonable conduct by requiring their junior and inexperienced tax staff to 
+audit tax accounting that should have been conducted by assurance and tax personnel under the 
+ultimate supervision of the assurance partners.  
+    
+   63. The staffing, training, and supervision on the Weatherford engagement identified above 
+were the responsibility of Fronckiewicz, Adams, and Ernst & Young.  At the time, Ernst & Young 
+had no mechanism to ensure that the highest-risk areas of its highest risk clients had a team 
+composed of assurance and tax professionals that was properly selected, trained and supervised.  
+Ernst & Young did not sufficiently monitor partner and manager workloads based on client 
+complexity and difficulty.  Similarly, Ernst & Young did not adequately screen the selection and 
+training of tax personnel to ensure appropriate staffing on complex, difficult, or high-risk audits 
+during the relevant period.  Until 2011, Ernst & Young also failed to conduct mandatory training for 
+tax managers and partners involving the coordination and execution of the audit of income tax 
+accounts. 
+ 
+                                         VIOLATIONS 
+                                                  
+                         Rule 102(e) and Section 4C of the Exchange Act 
+        
+   64. Respondents’ 2007, 2008, and 2009 audits and the 2010 interim reviews of Weatherford’s 
+                                                                                             11
+financial statements were deficient and not performed in accordance with PCAOB Standards.        
+Rule 102(e)(1)(ii) of the Commission’s Rules of Practice and Section 4C of the Exchange Act 
+authorize the Commission to censure or deny, temporarily or permanently, the privilege of 
+appearing or practicing before the Commission to accountants who are found to have engaged in 
+improper professional conduct.  Under Rule 102(e)(1)(iv), the term “improper professional 
+conduct” includes two types of negligent conduct: (1) a single instance of highly unreasonable 
+conduct that results in violation of professional standards in circumstances in which heightened 
+scrutiny is warranted: or (2) repeated instances of unreasonable conduct, each resulting in a 
+violation of applicable professional standards, that indicate a lack of competence to practice before 
+the Commission.   
+        
+   65. As set forth above, Respondents knew, or should have known, of Weatherford’s income 
+tax accounting errors prior to February 2011.  Ernst & Young engagement personnel did not 
+understand the basis for the dividend exclusion adjustment each year and failed to seek sufficient 
+competent evidential matter to discern the purpose, nature, and extent of the dividend exclusion 
+adjustments and the related phantom income tax receivable on the financial statements.  Instead, 
+oral representations by Weatherford’s tax manager were the sole basis for Ernst & Young’s 
+conclusions that the dividend exclusion adjustments were reasonable.  The audit team failed to 
+conduct procedures necessary for obtaining sufficient evidence for Weatherford’s income tax 
+accounting.  For example, the audit team did not reconcile the current income tax 
+payable/receivable accounts even though there was an unexpected, unusual, and unexplainable 
+large debit balance in the income tax payable account.  The audit team failed to take appropriate 
+                                                            
+11
+       References to auditing standards in this Order are to PCAOB Standards in effect at the time the audit work 
+was performed. 
+
+                                                19 
+ 
+---------------------Page 20---------------------
+
+                                                  
+                                                                                                   
+
+action in response to red flags regarding Weatherford’s evolving and inconsistent reasoning 
+behind its dividend exclusion adjustments.  Ernst & Young engagement personnel, including 
+Fronckiewicz and Adams, knew, or should have known, that the conclusions reached in the 
+workpapers did not make sense and were unsupported.  These repeated failures, taken together, 
+evidence a repeated disregard of some of the most important auditing principles.  That disregard 
+is especially troubling because these failures occurred over multiple years in an area – income 
+tax accounting – the firm had already identified as a significant issue, and while Respondents 
+audited the highest-risk area of one of its largest, high-risk, close monitoring clients.  Ernst & 
+Young’s review of the audits shortly after the filing of the First Restatement confirmed that the 
+Weatherford audits suffered from a lack of appropriate supervision and review, inadequate and 
+insufficient tax staffing, and unsatisfactory coordination between tax and assurance personnel on 
+the engagement. 
+        
+   66. Had Respondents conducted the Weatherford audits in accordance with PCAOB standards, 
+Respondents could have exposed and put an end to the company’s fraud.  Instead, Ernst & Young 
+issued audit reports in 2007, 2008, and 2009 containing unqualified opinions that were filed with 
+Weatherford’s financial statements in the Form 10-Ks.  In those reports, Ernst & Young 
+inaccurately stated the audit had been conducted in accordance with PCAOB Standards and that 
+Weatherford’s financial statements presented fairly, in all material respects, the company’s 
+position and results in conformity with GAAP.   
+    
+                         Failure to exercise due professional care and an  
+                          attitude of professional skepticism (AU § 230) 
+        
+   67. PCAOB standards require auditors to exercise due professional care in the planning and 
+performance of the audit and the preparation of the report.  (AU § 230.01)  An auditor must 
+exercise professional skepticism, which is an attitude that includes “a questioning mind and a 
+critical assessment of audit evidence.”  (AU § 230.07)  “Since evidence is gathered and evaluated 
+throughout the audit, professional skepticism should be exercised throughout the audit process.” 
+(AU § 230.08)  In exercising professional skepticism, an auditor should not be satisfied with less 
+than persuasive evidence because of a belief that management is honest.  (AU § 230.09, see also 
+AU § 316.13)  Whenever the auditor has concluded that there is significant risk of material 
+misstatement of the financial statements, the auditor should consider this conclusion in determining 
+the nature, timing, or extent of procedures.  “Higher risk may cause the auditor to expand the 
+extent of procedures applied, apply procedures closer to or as of year end, particularly in critical 
+audit areas, or modify the nature of procedures to obtain more persuasive evidence.”  (AU § 
+312.17)  In addition, PCAOB standards require auditors to exercise due professional care in the 
+“application of field work and reporting standards to a review of interim financial information.” 
+(AU § 722.01) 
+        
+   68. As a result of Respondents’ conduct described above, Respondents failed to exercise due 
+professional care and an attitude of professional skepticism in its 2007, 2008, and 2009 audits and 
+2010 interim reviews of Weatherford’s financials. 
+                               
+
+                                                20 
+ 
+---------------------Page 21---------------------
+
+                                                  
+                                                                                                    
+
+                      Failure to obtain sufficient competent evidential matter 
+                   concerning the dividend exclusion adjustment and phantom 
+                         income tax receivable balance (AU §§ 326, 333) 
+ 
+   69. PCAOB standards require auditors to obtain sufficient competent evidential matter to 
+afford a reasonable basis for an opinion with respect to the financial statements under audit.  (AU § 
+326.01)  To be “competent,” evidence, regardless of its form, “must be both valid and relevant.”  
+(AU § 326.21)  Auditors must be thorough in their search for evidential matter and unbiased in 
+their evaluation and consider relevant evidential matter regardless of whether it corroborates or 
+contradicts assertions in the financial statements.  (AU § 326.25)   
+ 
+   70. PCAOB standards also require an auditor to obtain sufficient competent evidential matter 
+concerning the assertions in an issuer's financial statements, and state that an auditor’s substantive 
+procedures should include examining material adjustments made during the course of preparing the 
+financial statements.  (AU § 326.19)   
+        
+   71. PCAOB standards also provide that management representations “are not a substitute for 
+the application of th[e] auditing procedures necessary to afford a reasonable basis for an opinion 
+regarding the financial statements under audit,” that “the auditor obtains written representations 
+from management to complement other auditing procedures,” and that “[i]n exercising professional 
+skepticism, the auditor should not be satisfied with less than persuasive evidence because of a 
+belief that management is honest.”  (AU §§ 333.02, 333.03, see also AU § 230.09)   
+        
+   72. As a result of the conduct described above, Respondents failed to obtain sufficient 
+competent evidential matter concerning the assertions in Weatherford’s financial statements with 
+regard to its consolidated tax provisions, despite the clear need for heightened scrutiny presented 
+by the Weatherford audits.  Instead, the audit team relied on the unverified oral statements of 
+Weatherford management, even though Weatherford provided explanations that were imprecise, 
+lacked sufficient detail, and were inconsistent with other audit evidence.  Respondents also did 
+not properly reconcile the tax provision and the income tax accounting balances during the 2007, 
+2008, and 2009 audits of Weatherford’s financials. 
+ 
+                  Failure to properly supervise the engagement team (AU § 311) 
+ 
+   73. PCAOB standards note that audit “assistants,” including firm personnel other than the 
+auditor with final responsibility for the audit, are to be “properly supervised.”  (AU §§ 311.01, 
+311.02, see also AU § 150.02)  Those standards further require that assistants be informed of their 
+responsibilities and the objectives of procedures assigned to them, and that the work of assistants 
+be reviewed to determine whether it was adequately performed.  (AU §§ 311.12, 311.13) 
+    
+   74. As a result of the conduct described above, Respondents failed to properly supervise the 
+engagement team on its 2007, 2008, and 2009 Weatherford engagements. 
+ 
+ 
+ 
+
+                                                21 
+ 
+---------------------Page 22---------------------
+
+                                                  
+                                                                                                   
+
+                Failure related to adequate training, competency, and proficiency 
+                               (AU §§ 210.01, 161, QC 20 and 40) 
+ 
+   75. PCAOB standards require that the audit be performed by “a person or persons having 
+adequate technical training and proficiency as an auditor.”  (AU § 210.01)  PCAOB quality control 
+standards require an auditing firm to establish policies and procedures which provide the firm with 
+reasonable assurance that (a) those hired possess the appropriate characteristics to enable them to 
+perform competently and (b) work is assigned to personnel having the degree of technical training 
+and proficiency required in the circumstances.  (QC 20.13 and QC 40.02)  PCAOB standards also 
+require that a firm of independent auditors has a responsibility to adopt a system of quality control, 
+including policies and procedures to provide reasonable assurance that its personnel comply with 
+PCAOB standards in its audit engagements.  (AU § 161)   
+    
+   76. As a result of the conduct described above, Respondents failed to meet the standard that 
+required adequate training, competency, and proficiency in staffing the 2007, 2008, and 2009 
+Weatherford audits. 
+ 
+             Failure to Make Additional Inquiries or Perform Additional Procedures 
+              In the Course of Reviewing Interim Financial Information (AU § 722) 
+        
+   77. PCAOB standards provide:  
+    
+       A review consists principally of performing analytical procedures and making inquiries 
+       of persons responsible for financial and accounting matters, and does not contemplate (a) 
+       tests of accounting records through inspection, observation, or confirmation; (b) tests of 
+       controls to evaluate their effectiveness; (c) obtaining corroborating evidence in response 
+       to inquiries; or (d) performing certain other procedures ordinarily performed in an audit. 
+       A review may bring to the accountant’s attention significant matters affecting the interim 
+       financial information, but it does not provide assurance that the accountant will become 
+       aware of all significant matters that would be identified in an audit. 
+        
+       (AU 722.07) 
+        
+       If, in performing a review of interim financial information, the accountant becomes aware 
+       of information that leads him or her to believe that the interim financial information may 
+       not be in conformity with generally accepted accounting principles in all material respects, 
+       the accountant should make additional inquiries or perform other procedures that the 
+       accountant considers appropriate to provide a basis for communicating whether he or she is 
+       aware of any material modifications that should be made to the interim financial 
+       information.  For example, if the accountant’s interim review procedures lead him or her 
+       to question whether a significant sales transaction is recorded in conformity with 
+       generally accepted accounting principles, the accountant should perform additional 
+       procedures, such as discussing the terms of the transaction with senior marketing and 
+       accounting personnel, reading the sales contract, or both, to resolve his or her questions. 
+        
+       (AU § 722.22) 
+
+                                                22 
+ 
+---------------------Page 23---------------------
+
+                                                 
+                                                                                                  
+
+    
+   78. As a result of Respondents’ conduct described above, Respondents violated AU § 722 
+when they failed to make any additional inquiries or perform other appropriate procedures to 
+provide a basis for communicating whether they were aware of any material departures from GAAP 
+during the course of their second and third quarter 2010 review of Weatherford’s income tax 
+receivable balance. 
+ 
+                       Failure to Prepare Required Documentation (AS 3) 
+ 
+   79. PCAOB standards mandate that an auditor’s documentation contain sufficient information 
+to enable an experienced auditor, having no previous connection to the engagement to: (1) 
+understand the nature, timing, extent and results of the procedures performed, evidence obtained 
+and conclusions reached; and (2) determine who performed the work and the date such work was 
+completed as well as the person who reviewed the work and the date of such review.  (AS 3.6)  
+Auditors are also required to document significant findings and issues, including the actions taken 
+to address them and the basis for the conclusions reached.  (AS 3.12)  Because it is the written 
+record supporting the representations in the auditor’s report, audit documentation should, among 
+other things, “[s]upport the basis for the auditor’s conclusions concerning every relevant financial 
+statement assertion, and … [d]emonstrate that the underlying accounting records agreed or 
+reconciled with the financial statements.”  (AS 3.5) 
+    
+   80. As a result of Respondents’ conduct described above, Respondents failed to prepare and 
+retain required audit documentation in sufficient detail to provide a clear understanding of its 
+purpose, source, and conclusions reached on its 2007, 2008, and 2009 Weatherford engagements. 
+        
+   81. The workpapers were not sufficient to enable a qualified professional who reviews them 
+to understand the work that Respondents performed, the analysis, or the conclusions reached.  
+Ernst & Young engagement personnel, including Fronckiewicz and Adams, could not explain 
+what the audit team had done, even after looking over workpapers that they had prepared or 
+reviewed themselves. 
+ 
+                                           Findings 
+
+   82. As a result of the conduct described above, the Commission finds that Respondents 
+engaged in improper professional conduct within the meaning of Sections 4C(a)(2) and 4C(b)(2) 
+of the Exchange Act and Rules 102(e)(1)(ii) and 102(e)(1)(iv)(B) of the Commission’s Rules of 
+Practice.  Respondents’ conduct during the 2007, 2008, and 2009 audits of Weatherford and 
+during the 2010 quarterly reviews of the company’s income tax receivable balance involved 
+repeated instances of unreasonable conduct, each resulting in violations of PCAOB standards 
+and indicated a lack of competence, and Respondents’ conduct also satisfies the standard of 
+highly unreasonable conduct resulting in violations of PCAOB standards in circumstances in 
+which heightened scrutiny was warranted. 
+
+                              
+
+                                               23 
+ 
+---------------------Page 24---------------------
+
+                                                
+                                                                                                
+
+          RESPONDENTS WERE A CAUSE OF WEATHERFORD’S VIOLATIONS  
+      OF EXCHANGE ACT SECTION 13(a) AND RELEVANT RULES THEREUNDER 
+                                                
+   83. Section 13(a) of the Exchange Act and Rules 12b-20, 13a-1, and 13a-13 thereunder require 
+every issuer of securities registered pursuant to Section 12 of the Exchange Act to file with the 
+Commission information, documents, and annual and quarterly reports as the Commission may 
+require, and mandate that periodic reports contain such further material information as may be 
+necessary to make the required statements not misleading.  The obligation to file such reports 
+embodies the requirement that they be true and correct.  See, e.g., SEC v. Savoy Indus., Inc., 587 
+F.2d 1149, 1165 (D.C. Cir. 1978). 
+    
+   84. Weatherford violated Section 13(a) of the Exchange Act and Rules 12b-20, 13a-1, and 
+13a-13 thereunder by including in numerous of its periodic filings and submissions financial 
+statements from fiscal year 2007 through the third quarter of 2010 that were materially false and 
+misleading.  For each of those years, Ernst & Young issued audit reports containing unqualified 
+opinions stating that Ernst & Young conducted an audit of the company’s annual financial 
+statements in accordance with PCAOB standards, and that Weatherford’s financial statements 
+were presented fairly, in all material respects, in conformity with GAAP.  Ernst & Young 
+consented to the inclusion of these audit reports in Weatherford’s Forms 10-K for fiscal years 2007 
+through 2009.  However, Ernst & Young’s audit reports were inaccurate because Respondents 
+failed to conduct these audits in accordance with PCAOB standards.  Respondents’ failure to 
+comply with PCAOB standards during 2007 through 2009 was a cause of Weatherford’s 
+violations. 
+    
+   85. As a result of the conduct described above, Respondents were a cause of Weatherford’s 
+issuance of materially false and misleading financial statements in its periodic filings and 
+submissions from 2007 through the third quarter of 2010 and, therefore, were a cause of 
+Weatherford’s violations of Section 13(a) of the Exchange Act and Rules 12b-20, 13a-1, and 
+13a-13 thereunder. 
+
+                                   REMEDIAL ACTIONS 
+
+   After the filing of the First Restatement, Ernst & Young took a series of remedial steps 
+intended to enhance its system of quality controls as they related to:  (a) identification and 
+assessment of, and response to, high-risk audits; (b) the staffing, training and oversight of 
+assurance and tax professionals assigned to engagements; (c) the coordination between assurance 
+and tax personnel; (d) guidance for the performance of audit and review procedures relating to 
+income tax accounting; and (e) internal quality reviews of audits on a pre-issuance and post-
+issuance basis.  These steps included the expansion of PPG, the development and expansion of 
+the Tax Accounting and Risk Advisory Services Network within the Tax Practice, the 
+development and expansion of a Quality Network within the Assurance Practice, revised 
+programs for the performance of audit procedures relating to tax provisions, improved 
+engagement staffing tools, an enhanced Engagement Quality Review process, and expanded 
+training, including in the area of fraud detection. 
+
+   In determining to accept Ernst & Young’s Offer, the Commission considered remedial acts 
+undertaken by Ernst & Young and significant cooperation afforded the Commission staff. 
+
+                                              24 
+ 
+---------------------Page 25---------------------
+
+                                                 
+                                                                                                  
+
+                                      UNDERTAKINGS 
+
+   Ernst & Young undertakes to complete the following actions: 
+
+        1.  Notification. Ernst & Young shall provide all audit personnel a copy of this Order 
+            within ten (10) business days after entry of the Order. 
+        
+        2.  Ernst & Young Policies Report and Validation Plan. 
+            
+           Within thirty (30) days after the entry of this Order, Ernst & Young shall submit to 
+           the Commission staff a report (the “Ernst & Young Policies Report”) describing in 
+           reasonable detail its quality controls set forth in its audit manual and audit- and 
+           quality-related guidance and policies, relating to its policies and procedures set forth 
+           therein for Ernst & Young’s quality management system and its audit and interim 
+           review procedures regarding the subject areas specified below (hereinafter referred to 
+           as “Specified Ernst & Young Policies”).  The Ernst & Young Policies Report shall 
+           also describe in reasonable detail Ernst & Young’s methodology and work plan to 
+           review, test, and assess whether the Specified Ernst & Young Policies are designed to 
+           provide reasonable assurance of compliance with Commission regulations and 
+           PCAOB standards and rules (the “Validation Plan”).  The Commission staff may 
+           make reasonable requests for further evidence of the quality controls and validation 
+           plan set forth in the Ernst & Young Policies Report and Validation Plan, and Ernst & 
+           Young agrees to provide such evidence.  The Validation Plan, not unacceptable to the 
+           Commission staff, shall include detailed review, testing, and assessment of the 
+           following Specified Ernst & Young Policies as they relate to high risk clients, 
+           including those clients designated as high risk because of their accounting for income 
+           taxes, that are subject to expanded monitoring procedures (“Close Monitoring 
+           Clients”): 
+
+           (a) client continuance practices, including, client designation, acceptance, retention, 
+           risk identification, and assessment of identified risk areas of such clients; 
+
+           (b) audit and interim review procedures for addressing identified risk areas; the 
+           coordination of relative responsibilities for audit and interim review procedures 
+           between Assurance and Tax personnel; and Ernst & Young’s tax provision 
+           supplement and related guidance materials and practice aids; 
+
+           (c) staffing and selection of audit personnel, workload reviews for audit personnel at 
+           or above senior manager; and obtaining reasonable assurance that coordinating (i.e., 
+           signing) partners, Assurance and Tax reviewers and supervisors have the appropriate 
+           experience and training to respond to identified risk areas for the audit; 
+            
+           (d) professional education in the following areas: due professional care, professional 
+           skepticism, detecting and reporting material misstatements caused by fraud, obtaining 
+           sufficient appropriate audit evidence, audit documentation, substantive and controls 
+           procedures over financial reporting for income taxes, tax training for Assurance 
+           personnel, and assurance training for Tax personnel; and 
+
+                                               25 
+ 
+---------------------Page 26---------------------
+
+                                                  
+                                                                                                   
+
+            
+           (e) regional and national office participation in, or supervision of, audit and interim 
+           review engagements, including responding to identified risk areas, implementation 
+           and monitoring of engagement milestones, quality network coaching, consultations 
+           with regional or national office technical oversight professionals, root cause analysis, 
+           engagement quality reviews, quality occurrence reviews, and other pre-issuance and 
+           post-issuance engagement reviews.   
+        
+        3.  Initial Validation Report and Certification.   
+        
+           a.  Initial Validation Report.  Within two hundred seventy (270) days after the 
+               issuance of the Ernst & Young Policies Report and Validation Plan, Ernst & 
+               Young shall submit to the Commission staff a written report setting forth a 
+               complete description of the testing, analysis, and results of its Validation Plan 
+               (“Initial Validation Report”).   
+                
+           b.  Initial Validation Certification.  The Initial Validation Report shall include a 
+               certification executed by:  (a) Americas Vice Chair of Professional Practice; (b) 
+               Americas Vice Chair of Assurance; and (c) Americas Vice Chair of Tax 
+               (collectively “Ernst & Young’s Americas Vice Chairs”) that the Specified Ernst 
+               & Young Policies are designed to provide reasonable assurance of compliance 
+               with Commission regulations and PCAOB standards and rules, and if deficiencies 
+               in the design or operation of the Specified Ernst & Young Policies are identified, 
+               shall report such deficiencies to the Commission staff (“Initial Validation 
+               Certification”).  The Commission staff may make reasonable requests for further 
+               evidence of compliance, including the testing results, and Ernst & Young agrees 
+               to provide such evidence.  If significant deficiencies are identified, Ernst & 
+               Young shall report such deficiencies to the Commission staff and state that it 
+               cannot certify compliance.   
+        
+        4.  Second Validation Plan.  Within sixty (60) days after the issuance of the Initial 
+            Validation Report, Ernst & Young shall submit to the Commission staff an updated 
+            validation plan not unacceptable to the Commission staff: (a) to review, test, and 
+            assess whether the Specified Ernst & Young Policies are designed to provide 
+            reasonable assurance of compliance with Commission regulations and PCAOB 
+            standards and rules; and (b) a remediation plan that contains a description of any 
+            deficiencies identified, and a schedule of remedial measures to correct significant 
+            deficiencies (collectively, the “Second Validation Plan”). 
+        
+        5.  Second Validation Report and Certification.   
+        
+           a.  Second Validation Report.  Within one (1) year after the issuance of the Initial 
+               Validation Report, Ernst & Young shall submit to the Commission staff a written 
+               report setting forth a complete description of the testing, analysis, and results of 
+               its Second Validation Plan (“Second Validation Report”).   
+
+                                               26 
+ 
+---------------------Page 27---------------------
+
+                                                 
+                                                                                                 
+
+               
+           b.  Second Validation Certification.  The Second Validation Report shall include a 
+              certification executed by the Ernst & Young’s Americas Vice Chairs that the 
+              Specified Ernst & Young Policies are designed to provide reasonable assurance of 
+              compliance with Commission regulations and PCAOB standards and rules, and if 
+              deficiencies in the design or operation of the Specified Ernst & Young Policies 
+              are identified, shall report such deficiencies to the Commission staff (“Second 
+              Validation Certification”). The Commission staff may make reasonable requests 
+              for further evidence of compliance, including the testing results, and Ernst & 
+              Young agrees to provide such evidence.  If significant deficiencies are identified, 
+              Ernst & Young shall report such deficiencies to Commission staff and state that it 
+              cannot certify compliance.   
+        
+        6.  Subsequent Plans, Reports, and Certifications.  If Ernst & Young identifies 
+            significant deficiencies in the design or operation of the Specified Ernst & Young 
+            Policies in the Second Validation Report, Ernst & Young shall repeat the 
+            undertakings described in Paragraphs 4 and 5 annually until such time that no 
+            significant deficiencies are identified.  At that time, Ernst & Young shall issue a 
+            Final Validation Report that includes a certification executed by Ernst & Young’s 
+            United States Chairman that Ernst & Young executed the Final Validation Plan and 
+            that the Specified Ernst & Young Policies are operating as designed and provide 
+            reasonable assurance of compliance with all Commission regulations and PCAOB 
+            standards and rules (“Final Validation Certification”). 
+        
+        7.  Internal Team Leader.  Ernst & Young shall appoint an Internal Team Leader 
+            (“ITL”) knowledgeable and experienced in U.S. GAAP, Commission regulations, 
+            and PCAOB standards and rules not unacceptable to Commission staff to oversee 
+            these undertakings.  The ITL shall continue in this role until all undertakings have 
+            been deemed satisfied by the Commission staff.  The ITL shall have overall 
+            responsibility for the planning and scope of all Validation Plans.  The ITL also shall 
+            have overall responsibility for developing the methodology for the selection of Ernst 
+            & Young controls subject to review not unacceptable to Commission staff.  The 
+            methodology used to select Ernst & Young controls subject to review shall be 
+            designed to include the operation of these controls on the audits of SEC Registrant 
+            clients designated as Close Monitoring Clients, including those clients designated as 
+            Close Monitoring Clients because of their accounting for income taxes.  The ITL 
+            shall also oversee testing to determine whether the controls result in SEC Registrant 
+            clients receiving the appropriate risk designations, including designation as Close 
+            Monitoring Clients, as appropriate.  The ITL shall engage Professional Practice 
+            personnel, Quality Implementation Leaders, Control & Methodology Leaders, and 
+            other Ernst & Young professionals with appropriate experience, and outside 
+            consultants or third-party support, if needed, to develop the Validation Plans and to 
+            perform all reviews, testing, and preparation of all reports described in these 
+            undertakings.  The ITL shall oversee the preparation of all reports submitted to the 
+            Commission staff.  Ernst & Young shall provide the ITL with staffing and other 
+            resources as necessary to accomplish these undertakings in a timely manner.  Ernst 
+
+                                               27 
+ 
+---------------------Page 28---------------------
+
+                                                  
+                                                                                                   
+
+            & Young shall not impose any planning or limitations on the ITL in the execution of 
+            his or her duties and shall not interfere or attempt to influence the ITL during the 
+            course of these undertakings.  
+             
+        8.  Submissions to the Commission Staff.  The Commission staff may request access to 
+            documents, internal review and PCAOB inspection materials, training materials, 
+            Ernst & Young personnel, and/or meetings with Ernst & Young, within thirty (30) 
+            days of receipt of any Report, Plan, or Certification.  Within fifteen (15) days of 
+            receipt of the above requested information or meetings, the Commission staff may  
+            submit to Ernst & Young any questions regarding the Reports, Plans, or 
+            Certifications, and Ernst & Young agrees to address all such questions within fifteen 
+            (15) days of receipt. Unless otherwise directed by the Commission staff, all Reports, 
+            Plans, Certifications, and other documents required to be provided to the 
+            Commission staff shall be sent to James Valentino, Senior Counsel, Division of 
+            Enforcement, Securities and Exchange Commission, 100 F Street, NE, Washington, 
+            DC 20549-5631, or such other address as the Commission may provide, with a copy 
+            to the Office of Chief Counsel of the Enforcement Division (the “Designees”).  Ernst 
+            & Young will make all Reports, Plans, and Certifications available to PCAOB staff 
+            upon request.  All such Reports, Plans, Certifications, and other documents provided to 
+            the Commission staff pursuant to these undertakings likely will include proprietary, 
+            financial, confidential, and competitive business information.  Public disclosure of the 
+            reports could discourage cooperation, impede pending or potential government 
+            investigations or undermine the objectives of the reporting requirement.  For these 
+            reasons, among others, the reports and the contents thereof are intended to remain and 
+            shall remain non-public, except (a) pursuant to court order, (b) as agreed by the parties 
+            in writing, (c) to the extent that the Commission staff determines in its sole discretion 
+            that disclosure would be in furtherance of the Commission’s discharge of its duties and 
+            responsibilities, or (d) is otherwise required by law.   
+             
+        9.  Unless otherwise notified by the Division of Enforcement, these undertakings are 
+            deemed satisfied upon the later of:  (a) two years after the entry of this Order; or (b) 
+            written confirmation by the Designees that they have received a Final Validation 
+            Certification free from Significant Deficiencies. 
+        
+        10. Recordkeeping.  Ernst & Young shall preserve and retain all documentation 
+            regarding all certifications and reports for seven (7) years and will make it available 
+            to the staffs of the Commission or the PCAOB upon request. 
+        
+        11. Deadlines.  For good cause shown, the Commission staff may in its sole discretion 
+            extend any of the procedural dates relating to the undertakings.  Deadlines for 
+            procedural dates shall be counted in calendar days, unless otherwise specified.  If the 
+            last calendar day falls on a weekend or a federal holiday, the next business day shall 
+            be considered to be the last day. 
+        
+        12. Petition to Reopen Matter.  In determining whether to accept Ernst & Young’s Offer, 
+            the Commission has considered these undertakings.  Ernst & Young agrees that if 
+
+                                                28 
+ 
+---------------------Page 29---------------------
+
+                                                 
+                                                                                                  
+
+            the Division of Enforcement believes that Ernst & Young has not satisfied these 
+            undertakings, it may petition the Commission to reopen the matter to determine 
+            whether additional sanctions are appropriate.  
+        
+        13. Ongoing Cooperation.  Ernst & Young (including its partners, principals, officers, 
+            agents, and employees) shall cooperate fully with the Commission with respect to 
+            this action and any related judicial or administrative proceeding or investigation 
+            commenced by the Commission or to which the Commission is a party and subject 
+            to compliance with applicable law.  Ernst & Young agrees that such cooperation 
+            shall include, but is not limited to: 
+        
+           a.  Production of Information.  At the Commission’s request, upon reasonable notice, 
+               and without subpoena, Ernst & Young (including its partners, principals, officers, 
+               agents, and employees) shall truthfully and completely disclose all information 
+               requested by the Commission staff in connection with the Commission’s 
+               investigation, litigation or other related proceedings, except with respect to 
+               information related to clients other than Weatherford, which information shall be 
+               produced in response to subpoena or other appropriate legal process; 
+                
+           b.  Production of Documents.  At the Commission’s request, upon reasonable notice, 
+               and without subpoena, Ernst & Young (including its partners, principals, officers, 
+               agents, and employees) shall provide any document, record or other tangible 
+               evidence requested by the Commission staff in connection with the Commission’s 
+               investigation, litigation or other related proceedings, except with respect to 
+               documents related to clients other than Weatherford, which information shall be 
+               produced in response to subpoena or other appropriate legal process; and 
+        
+           c.  Production of Cooperative Personnel.  At the Commission’s request, upon 
+               reasonable notice, and without subpoena, Ernst & Young (including its partners, 
+               principals, officers, agents, and employees) shall secure the attendance and 
+               truthful statements, deposition, or testimony of any Ernst & Young partner, 
+               principal, officer, agent, or employee, excluding any person who is a party to any 
+               related litigated judicial or administrative proceeding, at any meeting, interview, 
+               testimony, deposition, trial, or other legal proceeding. 
+
+               The foregoing obligations are subject to Ernst & Young’s reservation of rights: 
+
+               (i)     to claim that documents or information requested is subject to attorney-
+                      client privilege or attorney-work-product protection; and  
+               (ii)    to seek entry of a confidentiality order as to sensitive business documents 
+                      or information, sensitive personnel documents or information, or 
+                      confidential information pertaining to clients other than Weatherford. 
+                
+           d.  Service and Personal Jurisdiction Consents.  Ernst & Young further agrees that, 
+               with respect to this action and any related judicial or administrative proceeding or 
+               investigation commenced by the Commission or to which the Commission is a 
+               party, it will: (i) accept service by email, mail or facsimile transmission of notices, 
+
+                                               29 
+ 
+---------------------Page 30---------------------
+
+                                                 
+                                                                                                  
+
+              requests, or subpoenas issued by the Commission for documents or testimony at 
+              depositions, hearings, or trials, or in connection with any related investigation by 
+              the Commission staff (“Commission Service”); (ii) appoint Ernst & Young’s 
+              undersigned attorney as agent to receive Commission Service; (iii) with respect to 
+              Commission Service, waive the territorial limits upon service contained in Rule 
+              45 for the Federal Rules of Civil Procedure and any applicable local rules, 
+              provided that the party requesting the testimony reimburses Ernst & Young’s 
+              travel, lodging, and subsistence expenses at the then-prevailing U.S. Government 
+              per diem rates; and (iv) consent to personal jurisdiction over Ernst & Young in 
+              any United States District Court for purposes of enforcing any Commission 
+              Service. 
+
+                                              IV. 
+
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+       agreed to in Respondents’ Offers. 
+
+       Accordingly, it is hereby ORDERED, effectively immediately, that: 
+
+       A.  Pursuant to Section 21C of the Exchange Act, Ernst & Young shall cease and desist 
+           from committing or causing any violations and any future violations of Section 13(a) 
+           of the Exchange Act and Rules 12b-20, 13a-1, and 13a-13 promulgated thereunder. 
+            
+       B.  Ernst & Young is censured. 
+        
+       C.  Fronckiewicz shall cease and desist from committing or causing any violations and any 
+           future violations of Section 13(a) of the Exchange Act and Rules 12b-20, 13a-1, and 
+           13a-13 promulgated thereunder.   
+        
+       D.  Fronckiewicz is denied the privilege of appearing or practicing before the Commission 
+           as an accountant.  
+            
+       E.  After two years from the date of this Order, Fronckiewicz may request that the 
+           Commission consider his reinstatement by submitting an application (attention: Office 
+           of the Chief Accountant) to resume appearing or practicing before the Commission as: 
+               
+           1.  a preparer or reviewer, or a person responsible for the preparation or review, 
+              of any public company’s financial statements that are filed with the 
+              Commission.  Such an application must satisfy the Commission that 
+              Fronckiewicz’s work in his practice before the Commission will be 
+              reviewed either by the independent audit committee of the public company 
+              for which he works or in some other acceptable manner, as long as he 
+              practices before the Commission in this capacity; and/or 
+               
+           2.  an independent accountant.  Such an application must satisfy the Commission 
+              that: 
+      
+
+                                               30 
+ 
+---------------------Page 31---------------------
+
+                                                 
+                                                                                                  
+
+                      (a)     Fronckiewicz, or the public accounting firm with which he/she is 
+                              associated, is registered with the Public Company Accounting 
+                              Oversight Board (“Board”) in accordance with the Sarbanes-Oxley 
+                              Act of 2002, and such registration continues to be effective; 
+
+                      (b)     Fronckiewicz, or the registered public accounting firm with which 
+                              he is associated, has been inspected by the Board and that 
+                              inspection did not identify any criticisms of or potential defects in 
+                              the respondent’s or the firm’s quality control system that would 
+                              indicate that the respondent will not receive appropriate 
+                              supervision; 
+
+                      (c)     Fronckiewicz has resolved all disciplinary issues with the Board, 
+                              and has complied with all terms and conditions of any sanctions 
+                              imposed by the Board (other than reinstatement by the 
+                              Commission); and 
+ 
+                      (d)     Fronckiewicz acknowledges his responsibility, as long as 
+                              Fronckiewicz appears or practices before the Commission as an 
+                              independent accountant, to comply with all requirements of the 
+                              Commission and the Board, including, but not limited to, all 
+                              requirements relating to registration, inspections, concurring 
+                              partner reviews and quality control standards.   
+ 
+       F.  The Commission will consider an application by Fronckiewicz to resume appearing 
+           or practicing before the Commission provided that his state CPA license is current 
+           and he has resolved all other disciplinary issues with the applicable state boards of 
+           accountancy.  However, if state licensure is dependent on reinstatement by the 
+           Commission, the Commission will consider an application on its other merits.  The 
+           Commission’s review may include consideration of, in addition to the matters 
+           referenced above, any other matters relating to Fronckiewicz’s character, integrity, 
+           professional conduct, or qualifications to appear or practice before the Commission. 
+ 
+       G.  Adams shall cease and desist from committing or causing any violations and any future 
+           violations of Section 13(a) of the Exchange Act and Rules 12b-20, 13a-1, and 13a-13 
+           promulgated thereunder.   
+        
+       H.  Adams is denied the privilege of appearing or practicing before the Commission as an 
+           accountant.  
+            
+       I.  After one year from the date of this Order, Adams may request that the Commission 
+           consider her reinstatement by submitting an application (attention: Office of the Chief 
+           Accountant) to resume appearing or practicing before the Commission as: 
+                
+           1.  a preparer or reviewer, or a person responsible for the preparation or review, 
+               of any public company’s financial statements that are filed with the 
+               Commission.  Such an application must satisfy the Commission that Adams’ 
+
+                                               31 
+ 
+---------------------Page 32---------------------
+
+                                                 
+                                                                                                  
+
+              work in her practice before the Commission will be reviewed either by the 
+              independent audit committee of the public company for which she works or 
+              in some other acceptable manner, as long as she practices before the 
+              Commission in this capacity; and/or 
+               
+           2.  an independent accountant.  Such an application must satisfy the Commission 
+              that: 
+      
+                      (a)    Adams, or the public accounting firm with which she is associated, 
+                             is registered with the Public Company Accounting Oversight 
+                             Board (“Board”) in accordance with the Sarbanes-Oxley Act of 
+                             2002, and such registration continues to be effective; 
+
+                      (b)    Adams, or the registered public accounting firm with which she is 
+                             associated, has been inspected by the Board and that inspection did 
+                             not identify any criticisms of or potential defects in the 
+                             respondent’s or the firm’s quality control system that would 
+                             indicate that the respondent will not receive appropriate 
+                             supervision; 
+
+                      (c)    Adams has resolved all disciplinary issues with the Board, and has 
+                             complied with all terms and conditions of any sanctions imposed 
+                             by the Board (other than reinstatement by the Commission); and 
+ 
+                      (d)    Adams acknowledges her responsibility, as long as Adams appears 
+                             or practices before the Commission as an independent accountant, 
+                             to comply with all requirements of the Commission and the Board, 
+                             including, but not limited to, all requirements relating to 
+                             registration, inspections, concurring partner reviews and quality 
+                             control standards.   
+ 
+       J.  The Commission will consider an application by Adams to resume appearing or 
+           practicing before the Commission provided that her state CPA license is current and 
+           she has resolved all other disciplinary issues with the applicable state boards of 
+           accountancy.  However, if state licensure is dependent on reinstatement by the 
+           Commission, the Commission will consider an application on its other merits.  The 
+           Commission’s review may include consideration of, in addition to the matters 
+           referenced above, any other matters relating to Adams’ character, integrity, 
+           professional conduct, or qualifications to appear or practice before the Commission. 
+               
+       K.  Ernst & Young shall, within twenty-one (21) days of the entry of this Order, pay 
+           disgorgement in the amount of $9,000,000 and prejudgment interest of $1,840,107 to 
+           the Securities and Exchange Commission.  If timely payment is not made, additional 
+           interest shall accrue pursuant to SEC Rule of Practice 600. 
+        
+       L.  Ernst & Young shall, within twenty-one (21) days of the entry of this Order, pay a 
+           civil money penalty of $1,000,000 to the Securities and Exchange Commission.  If 
+
+                                               32 
+ 
+---------------------Page 33---------------------
+
+                                                 
+                                                                                                  
+
+           timely payment is not made additional interest shall accrue pursuant to 31 U.S.C. § 
+           3717. 
+        
+       M. Payment ordered in Paragraphs K. and L. above must be made in one of the following 
+           ways: 
+               
+              (1) Ernst & Young may transmit payment electronically to the Commission, 
+              which will provide detailed ACH transfer/Fedwire instructions upon request; 
+ 
+              (2) Ernst & Young may make direct payment from a bank account via Pay.gov 
+              through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or 
+            
+              (3) Ernst & Young may pay by certified check, bank cashier’s check, or United 
+              States postal money order, made payable to the Securities and Exchange 
+              Commission and hand-delivered or mailed to: 
+
+              Enterprise Services Center 
+              Accounts Receivable Branch 
+              HQ Bldg., Room 181, AMZ-341 
+              6500 South MacArthur Boulevard 
+              Oklahoma City, OK 73169 
+ 
+           Payments by check or money order must be accompanied by a cover letter identifying 
+           Ernst & Young as a Respondent in these proceedings, and the file number of these 
+           proceedings.  A copy of the cover letter and check or money order must be 
+           simultaneously sent to Tracy L. Price, Assistant Director, Division of Enforcement, 
+           Securities and Exchange Commission, 100 F St., N.E., Washington, DC 20549-5631. 
+            
+       N.  Pursuant to Section 308(a) of the Sarbanes-Oxley Act of 2002, as amended, a Fair Fund 
+           is created for the disgorgement, prejudgment interest and penalties referenced in 
+           Paragraphs K. and L. above.  Amounts ordered to be paid as civil money penalties 
+           pursuant to this Order shall be treated as penalties paid to the government for all 
+           purposes, including all tax purposes.  To preserve the deterrent effect of the civil 
+           penalty, Ernst & Young agrees that in any Related Investor Action, it shall not argue 
+           that it is entitled to, nor shall it benefit by, offset or reduction of any award of 
+           compensatory damages by the amount of any part of Ernst & Young’s payment of a 
+           civil penalty in this action (“Penalty Offset”).  If the court in any Related Investor 
+           Action grants such a Penalty Offset, Ernst & Young agrees that it shall, within 30 days 
+           after entry of a final order granting the Penalty Offset, notify the Commission’s counsel 
+           in this action and pay the amount of the Penalty Offset to the Securities and Exchange 
+           Commission.  Such a payment shall not be deemed an additional civil penalty and shall 
+           not be deemed to change the amount of the civil penalty imposed in this proceeding.   
+
+                              
+
+                                               33 
+ 
+---------------------Page 34---------------------
+
+                                                   
+                                                                                                     
+
+           For purposes of this paragraph, a “Related Investor Action” means a private damages 
+           action brought against Ernst & Young by or on behalf of one or more investors based 
+           on substantially the same facts as alleged in the Order instituted by the Commission in 
+           this proceeding. 
+            
+       O.  Ernst & Young shall comply with the undertakings enumerated in Section III. above. 
+            
+            
+       By the Commission. 
+                
+ 
+ 
+                                                       
+                                                                     Brent J. Fields 
+                                                                     Secretary 
+ 
+
+                                                 34 
+ 

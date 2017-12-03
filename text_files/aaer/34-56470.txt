@@ -1,0 +1,777 @@
+---------------------Page 1---------------------
+
+ UNITED                              STATES OF AMERICA 
+
+ Before                                       the 
+
+                    SECURITIES AND EXCHANGE COMMISSION 
+
+
+SECURITIES EXCHANGE ACT OF 1934 
+Release No.  56470 / September 19, 2007 
+
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No.  2721 / September 19, 2007 
+
+ADMINISTRATIVE PROCEEDING 
+File No. 3-12811 
+                                               ORDER INSTITUTING PUBLIC 
+                                               ADMINISTRATIVE PROCEEDINGS 
+                                                PURSUANT TO RULE 102(e) OF THE 
+In the Matter of                                COMMISSION’S RULES OF PRACTICE, 
+                                                MAKING FINDINGS, AND IMPOSING 
+PRESS C. SOUTHWORTH, CPA                        REMEDIAL SANCTIONS 
+
+Respondent. 
+
+                                           I. 
+
+      The Securities and Exchange Commission (“Commission”) deems it appropriate that public 
+administrative proceedings be, and hereby are, instituted against Press C. Southworth 
+(“Southworth” or “Respondent”), pursuant to Rule 102(e)(1)(ii) of the Commission’s Rules of 
+Practice.1 
+
+                                           II. 
+
+      In anticipation of the institution of these proceedings, Respondent has submitted an Offer 
+of Settlement (“Offer”) which the Commission has determined to accept.  Solely for the purpose of 
+these proceedings and any other proceedings brought by or on behalf of the Commission, or to 
+which the Commission is a party, and without admitting or denying the findings herein, except as 
+
+1 
+ Rule 102(e)(1)(ii) provides, in pertinent part, that: 
+
+      The Commission may . . . deny, temporarily or permanently, the privilege of appearing or practicing before 
+it . . . to any person who is found . . . to have engaged in unethical or improper professional conduct. 
+---------------------Page 2---------------------
+
+to the Commission’s jurisdiction over him and the subject matter of these proceedings, which are 
+admitted, Respondent consents to the entry of this Order Instituting Public Administrative 
+Proceedings Pursuant to Rule 102(e) of the Commission’s Rules of Practice, Making Findings, and 
+Imposing Remedial Sanctions (“Order”), as set forth below.   
+
+                                              III. 
+
+       On the basis of this Order and Respondent’s Offer, the Commission finds 2
+                                                                                that:
+
+ A.           SUMMARY 
+
+       1.     These proceedings arise out of Press C. Southworth’s improper professional conduct 
+in connection with the audit of the 1998 consolidated financial statements (“1998 audit”) of 
+National Century Financial Enterprises, Inc. (“NCFE”).  Located in Dublin, Ohio, NCFE was a 
+private healthcare finance company that ultimately went bankrupt in November 2002.  Southworth 
+was the engagement partner for PricewaterhouseCoopers LLP’s (“PwC”) audits of NCFE for the 
+years ended 1995 through 1998.  Southworth commenced work on the 1998 audit in approximately 
+the Fall of 1998 and completed the audit in August 1999.  
+
+       2.     NCFE created special purpose subsidiaries to operate separate investment 
+“programs” under which asset-backed notes were issued to institutional investors in private 
+offerings. NCFE represented to investors in the notes (“noteholders”) issued by nearly all 
+programs that the proceeds of those notes would be used exclusively for the purchase of patient-
+specific healthcare accounts receivable.  Although NCFE used some noteholder funds to purchase 
+such accounts receivable, NCFE used a substantial portion of the private placement proceeds to 
+make unsecured loans or loans secured by collateral other than healthcare accounts receivable 
+(“non-permitted loans”).  These loans violated the requirements of the master trust indentures 
+(“indentures”) that governed NCFE’s note offerings.  The quality of the receivables that the 
+programs purchased was material to noteholders because the pool of purchased receivables was the 
+sole source from which noteholders would be repaid.  NCFE concealed its non-permitted uses of 
+noteholder funds by, among other things, making false and misleading statements in its annual 
+financial statements, including the 1998 consolidated financial statements (“1998 Financials”).   
+
+       3.     During the course of the 1998 audit, Southworth was aware that NCFE was making 
+these non-permitted loans to various providers through the programs, which made up the vast 
+majority of NCFE’s business.  Many of those providers did not have the ability to repay those 
+loans.  The 1998 Financials did not adequately disclose the non-permitted loans, the resultant scope 
+of the violations of the indentures, or the consequences that such violations had on NCFE’s 
+liquidity and its ability to continue as a going concern.  NCFE’s 1998 Financials also did not 
+reflect a sufficient reserve for the material impairment of its receivables portfolio that existed as of 
+December 1998.  Yet, Southworth signed an unqualified audit report that erroneously stated that  
+
+2 
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding on any other 
+person or entity in this or any other proceeding. 
+                                               2
+
+---------------------Page 3---------------------
+
+NCFE’s 1998 Financials were prepared in accordance with Generally Accepted Accounting 
+Principles (“GAAP”) and that the audit had been conducted in accordance with Generally 
+Accepted Auditing Standards (“GAAS”). 
+
+       4.     During the course of the 1998 audit, Southworth learned information suggesting 
+that NCFE was reporting inaccurately aged receivables and including ineligible receivables in 
+monthly investor reports (“investor reports”) on the performance of the individual programs.  In 
+addition to PwC’s audit of NCFE’s consolidated financial statements, NCFE retained PwC to 
+perform certain non-audit, agreed–upon procedures on one investor report each year for each 
+individual program.  NCFE distributed the investor reports every month to the indenture trustees 
+(“trustees” or “indenture trustees”), who in turn provided them to ratings agencies.  NCFE also 
+provided copies of the investor reports to investors upon request.  This inaccurate reporting by 
+NCFE management should have caused Southworth to question management’s integrity and 
+triggered his obligations under GAAS to address evidence of possible fraud and illegal acts by 
+NCFE.  Southworth failed to do so and instead continued to place undue reliance on management 
+representations, including representations that non-permitted loans were collectible at the values 
+ascribed to them by NCFE and that the indenture trustees for the programs and noteholders were 
+aware of the non-permitted loans. 
+
+       5.     After NCFE fired PwC as its auditor in early 2000, the successor audit firm of 
+NCFE (the “Successor Auditor”) reviewed PwC’s workpapers and interviewed Southworth by 
+telephone.  In the interview, the Successor Auditor asked Southworth whether he had concerns 
+about NCFE management’s integrity.  Southworth stated that he had no such concerns.  
+Southworth did not respond fully because Southworth did not also disclose any of the following 
+matters that were relevant to management integrity: (i) NCFE was making non-permitted loans; (ii) 
+NCFE was reporting inaccurately aged receivables and including ineligible receivables on investor 
+reports; and (iii) PwC’s internal risk-assessment system rated NCFE’s integrity and ethics as “high 
+risk.” 
+
+       6.     After this discussion with Southworth, the Successor Auditor subsequently 
+accepted NCFE as a client. 
+
+       7.     NCFE’s fraud went undetected until 2002.  From early 2000 through 2002, NCFE 
+raised nearly $2.5 billion from noteholders in continuance of its fraud.  
+
+       B. RESPONDENT 
+
+       8.     Press C. Southworth, age 59, of Columbus, Ohio, was an audit partner at PwC 
+(and its predecessor, Coopers & Lybrand, LLP (“Coopers”)) from 1985 until he retired in 2001.  
+Southworth was the engagement partner on the audits for NCFE’s 1995-1998 financial statements.  
+Southworth is a certified public accountant, who was licensed in Ohio until his license lapsed in 
+December 2006, after his retirement from PwC. 
+
+                                              3
+
+---------------------Page 4---------------------
+
+       C.     OTHER RELEVANT ENTITY 
+
+       9.     PwC is a Delaware limited liability partnership with its principal offices located in 
+New York, New York.  PwC (and its predecessor, Coopers) served as NCFE’s auditor for NCFE’s 
+financial statements for the years 1995-1998.    
+
+       D.     FACTS 
+
+                                          NCFE Background 
+
+       10.    From 1991 through its bankruptcy in November 2002, NCFE acted through its 
+individual programs to purchase medical accounts receivable from healthcare providers.  The 
+programs raised the funds for the purchase of accounts receivable through private offerings of 
+notes to institutional noteholders under SEC Rule 144A, which exempts certain offerings to 
+“qualified institutional buyers” from the Securities Act.  Nearly all of the program indentures 
+required the programs to use the note proceeds exclusively to purchase patient-specific healthcare 
+accounts receivable from healthcare providers.  The programs and note offerings were structured as 
+asset-backed securitizations, with the notes being fully collateralized by the purchased medical 
+accounts receivable and cash reserves held in the programs.  From 1991 through 2002, NCFE’s 
+subsidiaries issued more than $17 billion in asset-backed notes through private placements. 
+
+       11.    NCFE’s programs were governed by indenture agreements among NCFE’s 
+servicing agent, the programs themselves, and the trustees. With the exception of one small 
+program, the indentures required all of the programs to engage only in one type of business 
+activity: the purchase of the “eligible” medical accounts receivable of a hospital, physicians’ group, 
+or other healthcare provider.  “Eligible receivables” were defined only to include the insured 
+portion of a receivable for which medical services had already been rendered.  The programs 
+purchased the receivables at a price equal to 97% of the receivables’ estimated collectible value.   
+
+       12.    The indentures also required the programs to comply with certain requirements 
+designed to protect noteholders from loss.  Failure to comply with certain key provisions of the 
+indentures constituted an event of default.  If NCFE could not cure the defaults within a specified 
+time period, the indentures required the program indenture trustees to declare a principal 
+amortization event, which would cause the program to cease purchasing receivables and would 
+require the trustee to begin distributing cash collections on the healthcare receivables to program 
+investors in repayment of their principal and interest.  For example, to ensure that the programs 
+always had sufficient collateral to cover the notes, the program agreements required that at all 
+times the programs have cash reserves and eligible receivables equal to at least 111% of the 
+amount of notes outstanding (“collateral coverage test”).  If the collateral dropped below 111% for 
+more than seven days, the programs were required to begin repayment of investors’ principal and 
+interest from the cash received on the repayment of the healthcare receivables.  The indentures also 
+required healthcare providers to immediately replace receivables that became older than 180 days 
+(“defaulted receivables”) with new eligible receivables.  If the provider did not, the value of the 
+defaulted receivables was to be deducted from the next funding to that provider, and the defaulted 
+receivables could not be counted as eligible collateral for purposes of the collateral coverage test. 
+
+                                               4
+
+---------------------Page 5---------------------
+
+       13.    The programs required an annual audit of NCFE’s consolidated financial 
+statements.  NCFE provided those consolidated financial statements to the program indenture 
+trustees, the rating agencies that rated the notes, and some of the noteholders upon request.3 
+
+        NCFE’s Use of Note Proceeds in Violation of the Indentures and Misrepresentations 
+                                        to Noteholders 
+
+       14.    From at least 1994 until 2002, NCFE used noteholder funds to make non-permitted 
+loans, which was in violation of the indentures and contrary to NCFE’s representations to 
+noteholders.  NCFE used significant amounts of noteholder funds to provide unsecured loans to 
+healthcare providers that had already sold all of their medical accounts receivable to NCFE and 
+had no additional such receivables to sell.  Most of these providers had incurred significant 
+operating losses over a period of years and required additional funding in order to avoid 
+bankruptcy. NCFE made many of these non-permitted loans to providers that were or became 
+owned in whole or in part by NCFE’s principals.  
+
+       15.    NCFE’s non-permitted loans were far riskier than purchased eligible accounts 
+receivable. Because eligible receivables were to be paid by highly rated third-party payors, such as 
+insurance companies, HMOs, and government programs such as Medicare and Medicaid, for 
+medical services that had already been rendered and billed to the payors, the eligible receivables 
+were of high credit quality. By contrast, NCFE’s ability to collect on non-permitted loans was in 
+many cases speculative, because the non-permitted loans were in substance unsecured loans to 
+severely financially distressed borrowers or loans secured by collateral other than healthcare 
+accounts receivable.  In fact, NCFE had very poor collection experience on its non-permitted loans, 
+and in some cases NCFE went more than a year without receiving any payments from certain 
+providers. 
+
+       16.    The amount and significance of the non-permitted loans, as a percentage of the 
+gross receivables reported on NCFE’s balance sheet, grew significantly during the period in which 
+PwC audited NCFE’s financial statements.  Non-permitted loans comprised over 50% of NCFE’s 
+receivables portfolio by the end of 1998. 
+
+       17.    NCFE’s practice of making non-permitted loans caused the programs to be 
+undercollateralized, with eligible receivables plus cash reserves falling well short of the required 
+111% value of the notes. This should have caused an immediate acceleration in the maturity of the 
+notes and early amortization of the programs. 
+
+       18.    NCFE obscured its non-permitted loans and the resulting indenture violations by 
+making false and materially incomplete disclosures in the 1998 Financials.  Footnote 8 to the 1998 
+Financials disclosed that “the Company is not in compliance with various provisions of the Trust 
+Indentures[.]”  Nonetheless, the 1998 Financials departed from GAAP because they did not 
+properly disclose the nature and scope of these indenture violations and that NCFE was in default 
+
+3
+ NCFE’s audited financial statements and PwC’s audit reports were not included in the offering documents for the 
+notes.  However, NCFE provided the audited financial statements and PwC’s audit reports to noteholders upon 
+request. 
+                                                5
+
+---------------------Page 6---------------------
+
+and could not cure many of these violations.  To the contrary, NCFE’s 1998 Financials stated that, 
+in the Company’s opinion, the indenture violations in the programs “can be cured or do not 
+represent material performance or covenant defaults.”  That statement was false and misleading, 
+notwithstanding NCFE’s statement that “no assurance can be given that violations will be cured.” 
+
+       19.    Footnotes 1 and 3 to the 1998 Financials divided NCFE’s healthcare receivables 
+into three categories: “provider receivables,” “other provider receivables,” and “provider 
+advances.”  The footnotes provided the following definitions for NCFE’s receivables: (1) 
+“Provider receivables consist of purchased account receivables including various components of 
+the client billing process such as third party settlements, disproportionate share, unbilled and 
+monthly capitation amounts;” and (2) “[o]ther provider receivables, notes receivable, and 
+equipment lease receivables represent advances against various forms of collateral including 
+accounts receivable, real property and equipment.” The term “provider advances” was not defined.  
+NCFE’s quantification and description of these three categories was inadequate to inform the 
+reader of the existence or extent of any non-permitted loans in any particular program.  The 
+disclosures: (1) did not state that any of these categories of receivables contained non-permitted 
+loans or the amount of the non-permitted lending; and (2) did not clearly define “provider 
+receivables,” “other provider receivables,” or “provider advances” so that a reader could 
+understand the nature and substance of each of those categories of receivables. 
+
+       20.    Further, NCFE failed to evaluate the impairment present in its receivables portfolio 
+resulting from NCFE’s non-permitted loans to severely financially distressed providers.  NCFE’s 
+allowance for loan losses was inadequate given its non-permitted lending activity.  
+
+       21.    Noteholders eventually uncovered NCFE’s fraud in October 2002, by which time 
+NCFE’s notes outstanding had grown to $2.9 billion from $1.25 billion in 1998, the year of PwC’s 
+last audit. The noteholders called their notes, which drove NCFE into bankruptcy in November 
+2002.  By that point, however, most of NCFE’s outstanding receivables were unsecured or backed 
+by collateral that was virtually worthless.  As a result, noteholders lost more than $2 billion from 
+NCFE’s fraudulent scheme. 
+
+                Southworth Knew That NCFE Was Using Investor Funds in  
+
+                                  Violation of the Indentures
+
+
+       22.    Through PwC’s audits of NCFE, Southworth knew about NCFE’s widespread 
+violations of the indenture agreements and also should have recognized the threats those violations 
+posed to the noteholders’ interests.  The amount of the non-permitted loans was material to the 
+programs’ assets and to the 1998 Financials.     
+
+       23.    Southworth’s concerns about NCFE’s business practices were highlighted in a June 
+25, 1999 memorandum to NCFE management entitled, “Open Items and Additional Audit 
+Procedures for NCFE As of June 25, 1999” (the “June 25 memo”).  That memorandum was 
+prepared by Southworth and others after NCFE’s principals revealed to Southworth their (later-
+withdrawn) plans to take NCFE public in the near future.  The June 25 memo stated the need to 
+“[m]eet with the Trustees and Investors to discuss the Indenture issues that we have noted in our  
+
+                                               6
+
+---------------------Page 7---------------------
+
+audit.  We need to ensure that all parties are aware of the items noted below and do not consider 
+them to be material breaches, which could result in an Event of Default.”  In the June 25 memo, 
+several “Indenture issues” were identified, including: 
+
+           •	 “Not forcing providers to repurchase all receivables that have aged out past 180 
+              days”; 
+
+           •	 “Inaccurately aged receivables being included on the Investor Reports (Location 
+              99)” 
+
+           •	 “Ineligible receivables brought on as collateral included in the Investor Reports 
+              (Location 99)”; and 
+
+           •	 “Whether the proformas, advances, and other items that are out of the ‘norm’ meet 
+              the definition of a purchased receivable pursuant to the sales and subservicing 
+              agreement.” 
+
+Southworth did not communicate with the trustees or noteholders about these issues before 
+completing the audit of NCFE’s 1998 Financials, based on his assumption, unsupported by 
+sufficient competent evidential matter, that the trustees and noteholders were already aware of 
+NCFE’s violations. 
+
+       24.    As reflected in the June 25 memo, Southworth was aware that NCFE management 
+included inaccurately aged and ineligible receivables on investor reports provided to the indenture 
+trustees and noteholders.  This inaccurate reporting allowed NCFE to show compliance with the 
+collateral coverage requirements of the indentures and conceal events of default from the indenture 
+trustees. Southworth should have known that the investor reports failed to reflect NCFE’s 
+indenture defaults as a result of its non-compliance with the collateral coverage test.  Southworth 
+also was aware that NCFE management had recorded on its books and records $175 million of 
+“Location 99” receivables.  PwC’s work papers documented that these Location 99 receivables 
+lacked any detailed information, generally were over one year old, and that the agings of these 
+receivables were “frozen.”  Southworth therefore was aware that NCFE was not forcing providers 
+to repurchase receivables that had aged out past 180 days, as required by the indentures.  
+Southworth also learned that NCFE entered into its system accounts receivable amounts that 
+represented “pro forma” revenues for medical services that providers might render in the future, 
+assuming that the providers continued to remain in business.  The pro forma receivables frequently 
+represented periods of four to six months of operating revenues for a particular healthcare provider; 
+these pro forma receivables inflated the medical accounts receivable and NCFE’s purported 
+collateral amounts.  Southworth should have known that the indentures did not permit the 
+programs to purchase “pro forma” receivables.  All of these facts should have indicated to 
+Southworth that there were serious questions about NCFE management’s integrity, the possibility 
+that NCFE management engaged in fraud or illegal acts, and whether NCFE’s 1998 financial 
+statements were in conformity with GAAP. 
+
+                                               7
+
+---------------------Page 8---------------------
+
+   NCFE’s Departures from GAAP and Incomplete and Misleading Financial Statement 
+
+                                           Disclosures
+
+
+       25.     In August 1999, Southworth signed an unqualified audit report on NCFE’s 1998 
+Financials, stating among other things, that NCFE’s financial statements were fairly presented in 
+all material respects in conformity with GAAP.  This statement was incorrect.  NCFE’s 1998 
+Financials included an allowance for losses at December 31, 1998 of $22.2 million against a 
+portfolio of provider receivables totaling $1.223 billion, more than half of which was comprised of 
+non-permitted loans to financially distressed healthcare providers.  The programs required NCFE 
+to establish holdback reserves from provider fundings that could be available to absorb up to 17% 
+of each provider’s credit and collection losses.4
+                                                 However, the credit and collection losses far 
+exceeded 17% of the receivables portfolio for many providers.  The financial statements were not 
+in conformity with GAAP because the holdback reserves and NCFE’s allowance for losses were 
+insufficient to cover the material losses arising from the impairment of unsecured loans that NCFE 
+had made to healthcare providers.  The financial statements also were not in conformity with 
+GAAP because, although they disclosed the fact of indenture violations, they provided incomplete 
+and misleading disclosure about the nature and significance of those violations, as discussed above.  
+NCFE’s violations of the indenture collateral coverage test constituted an event of default requiring 
+NCFE to engage in early amortization of the programs in which there were violations. 
+
+       26.     More than half of NCFE’s receivables portfolio consisted of non-permitted loans.  
+Many of NCFE’s customers had experienced significant operating losses over a period of several 
+years and were experiencing severe liquidity problems.  GAAP required NCFE to evaluate these 
+facts and the degree to which these unsecured loans were impaired so that an appropriate provision 
+for loss could be recorded in accordance with Statements of Financial Accounting Standards No. 5, 
+“Accounting for Contingencies,” and Statements of Financial Accounting Standards No. 114, 
+“Accounting by Creditors for the Impairment of a Loan.”  NCFE did not perform an impairment 
+evaluation in accordance with these accounting standards.  Instead, NCFE fabricated collateral and 
+ascribed excessive value to the collateral in order to avoid recognition of impairment losses.  
+Southworth failed to perform sufficient audit procedures to identify the impairment in NCFE’s 
+receivables portfolio. 
+
+       27.     In footnote 8 to NCFE’s 1998 Financials, NCFE provided additional detail on what 
+was by far the most significant liability on NCFE’s balance sheet -- “Notes Payable” -- and 
+discussed the indenture violations in the programs.  Although NCFE caused the programs to be in 
+violation of the core provisions of the indentures which prohibited nearly all of the programs from 
+engaging in any business other than the purchase of eligible healthcare receivables, NCFE’s 
+footnote description of the indenture violations minimized the significance of the indenture 
+violations and failed to describe or provide any additional substantive information about the nature 
+
+4 
+ NCFE’s programs withheld 17% of the amount funded to providers as cash reserves primarily to provide additional 
+collateral for noteholders, and secondarily to absorb credit or collection losses in the portfolio.  These reserves 
+totaled $237 million at the end of 1998.  These reserves could be used on a provider-by-provider basis to absorb the 
+first 17% of losses incurred for a particular provider.  However, the reserves for one provider could not be used to 
+absorb losses in another provider’s portfolio.  Furthermore, in the event of early amortization of NCFE’s programs, 
+the cash reserves were to serve as collateral to guard against noteholder losses rather than to absorb losses in specific 
+provider accounts or to be used as a receivables valuation account. 
+                                                 8
+
+---------------------Page 9---------------------
+
+and dollar magnitude of the indenture violations or the programs in which the violations were 
+occurring. Instead, NCFE’s footnote misleadingly included management’s false “opinion” that the 
+violations “can be cured or do not represent material performance or covenant defaults.”  That 
+footnote disclosure stated in pertinent part: 
+
+               The Company is not in compliance with various provisions of the 
+               Trust Indentures, however, no Event of Default as defined in the 
+               Trust Indentures has been declared by any of the noteholders or 
+               trustees. The Company does not expect that an Event of Default 
+               will be declared in the near-term under current circumstances 
+               because among other matters the Programs are current as to all 
+               required interest payments and the Company has successfully 
+               concluded six previous Programs.  Furthermore, in the opinion of 
+               the Company, the violations can be cured or do not represent 
+               material performance or covenant defaults, however, the 
+               determination of whether a violation is material is not entirely 
+               within the discretion of the Company and no assurance can be given 
+               that violations will be cured or that a Principal Amortization Event, 
+               as described below will not be declared by the trustees or 
+               noteholders.  
+
+               Should an Event of Default be declared with respect to any of the 
+               Programs, a Principal Amortization Event would occur under which 
+               the respective program would be required to cease purchasing new 
+               eligible receivables and to apply all cash received to the principal 
+               and interest due on the related notes.  This could negatively affect 
+               the Company’s ability to fund its operations and Programs as well as 
+               its ability to fund new programs and enter into relationships with 
+               new providers.  
+
+       28.     The footnote 8 disclosure was incomplete and misleading because it failed to 
+disclose information essential to an understanding of the nature of the indenture violations and that 
+those violations constituted events of default.  While the footnote stated that in the opinion of the 
+Company the indenture violations in the programs “can be cured or do not represent material 
+performance or covenant defaults,” in fact many of the indenture violations could not be cured and 
+were significant violations of the indentures.  The disclaimer that “no assurance can be given that 
+violations will be cured or that a Principal Amortization Event . . . will not be declared by the 
+trustees or noteholders” did not adequately remedy that misleading statement.  Absent the ability 
+by NCFE to cure the program defaults resulting from these violations or obtain a waiver of these 
+defaults, the indentures required the indenture trustees for the programs to commence a principal 
+amortization event for the particular programs in which the defaults occurred.    
+
+                                                9
+
+---------------------Page 10---------------------
+
+         NCFE Terminates PwC as NCFE’s Auditor, and Southworth Communicates With 
+                                        the Successor Auditor 
+
+       29.    After PwC completed the 1998 audit, the engagement team performed its annual 
+client continuance evaluation of NCFE to determine whether PwC should continue with NCFE as a 
+client. As part of this review, Southworth participated in preparing a computer-generated audit risk 
+assessment report for NCFE.  During this post-1998 audit assessment process, the risk rating 
+generated by PwC’s risk rating system for NCFE’s “Integrity and Ethics” increased from a mid-
+risk rating in 1998 to the highest risk rating as a result of the answers Southworth and others gave 
+to questions in the report-generation process.  Based in part on Southworth’s answers on the risk 
+assessment report and on the 1998 audit, PwC placed NCFE into a “high risk” category for 
+purposes of PwC’s risk assessment analysis. 
+
+       30.    In approximately February 2000, NCFE terminated PwC as NCFE’s auditor, citing 
+a litigation conflict between one of NCFE’s largest customers and PwC as the reason for 
+termination. 
+
+       31.    Upon PwC’s termination as auditor, NCFE hired the Successor Auditor in April 
+2000.  As part of the Successor Auditor’s new client acceptance process, the Successor Auditor 
+reviewed PwC’s workpapers and interviewed Southworth by telephone.  In this conversation, the 
+engagement partner asked Southworth, among other things, whether PwC had concerns about the 
+integrity of NCFE’s management.  Southworth responded that there were no such issues.  
+Southworth did not respond fully because Southworth did not also disclose any of the following 
+matters that were relevant to management integrity: (i) NCFE was making non-permitted loans; (ii) 
+NCFE was reporting inaccurately aged receivables and including ineligible receivables on investor 
+reports; and (iii) PwC’s internal risk-assessment system rated NCFE’s integrity and ethics as “high 
+risk.” 
+
+       32.    After this discussion with Southworth, the Successor Auditor subsequently 
+accepted NCFE as a client. 
+
+       E.     Southworth’s Departures From GAAS 
+
+  Failure to Properly Plan and Perform the Audit to Obtain Reasonable Assurance About 
+
+           Whether the Financial Statements Were Free of Material Misstatement
+
+
+       33.    GAAS requires that the auditor “plan and perform the audit to obtain reasonable 
+assurance about whether the financial statements are free of material misstatement, whether caused 
+by error or fraud.”  (AU § 110, Responsibilities and Functions of the Independent Auditor, at AU 
+110.02) In addition, the risk assessment process should “be ongoing throughout the audit” and 
+should consider whether the “nature of audit procedures performed may need to be changed to 
+obtain evidence that is more reliable or to obtain additional corroborative information.”  (AU § 
+316, Consideration of Fraud in a Financial Statement Audit5
+                                                         , at AU 316.33 & .28 (pre-
+
+5 
+ AU 316 was modified by Statement on Auditing Standards No. 99, Consideration of Fraud in a Financial 
+Statement Audit, which was integrated into AU 316 in October 2002 and applied to audits of financial statements for 
+                                              10
+
+---------------------Page 11---------------------
+
+amendment), AU 316.68 & .52 (post-amendment))  Among the actions available to an auditor who 
+uncovers evidence of possible fraud or illegal acts are: (1) considering whether the misstatements 
+are indicative of fraud (AU 316.34 (pre-amendment), AU 316.75 (post-amendment)) or illegal acts 
+(AU § 317, Illegal Acts by Clients, at AU 317.07); (2) evaluating the effect and considering 
+implications for other aspects of the audit (AU 316.35 (pre-amendment), AU 316.77 (post-
+amendment)); (3) attempting to obtain additional evidential matter (AU 316.35 (pre-amendment), 
+AU 316.77 (post-amendment)); (4) confirming significant information concerning the matter with 
+the other party to the transaction or with intermediaries, such as banks or lawyers (AU 317.11); (5) 
+informing the Audit Committee (AU 316.38 (pre-amendment), AU 316.79 (post-amendment)) or 
+equivalent authority (AU 317.17); (6) considering whether to withdraw from the engagement and 
+communicating the reasons to the Audit Committee (AU 316.36 (pre-amendment), AU 316.78 
+(post-amendment)); (7) consulting with the client’s legal counsel (AU 317.10) and the auditor’s 
+own legal counsel (AU 317.22); and (8) issuing an audit report that is not unqualified (AU § 508, 
+Reports on Audited Financial Statements, at AU 508.20-.63) 
+
+       34.    Contrary to GAAS, Southworth failed to adequately plan and perform the 1998 
+audit after learning of numerous facts that, either standing alone or in the context of other facts 
+learned during the audit, warranted heightened scrutiny that should have alerted him to the 
+possibility that NCFE’s financial statements were materially misleading in that they contained 
+insufficient disclosure of the nature and extent of NCFE’s indenture violations, including non-
+permitted loans to financially troubled borrowers, and were not in conformity with GAAP.  In 
+auditing the 1998 Financials, Southworth failed to properly consider the implications of the scope 
+and significance of the indenture violations.  He also failed to probe NCFE’s basis for asserting in 
+footnote 8 that, in the Company’s opinion, the violations were curable or immaterial.     
+
+       35.    Additionally, as described above, during the 1998 audit, Southworth became aware 
+of information that should have suggested to him that NCFE had falsely reported in monthly 
+investor reports that NCFE was using investor funds exclusively for the purchase of eligible 
+receivables. Such information triggered Southworth’s obligations under GAAS to inquire further 
+into possible fraud and illegal acts.   
+
+       36.    If Southworth had exercised due care and professional skepticism, he would have 
+taken significant steps to assess whether NCFE management was engaged in fraud or illegal acts.  
+This failure to properly plan and perform the audit violated AU 316 and AU 317. 
+
+Failure to Obtain Sufficient Competent Evidential Matter, Exercise Due Care, and Exercise 
+                                    Professional Skepticism 
+
+       37.    Auditors need to obtain sufficient competent evidence “to afford a reasonable basis 
+for an opinion regarding the financial statements under audit.”  (AU § 326, Evidential Matter, at 
+AU 326.01) The validity and sufficiency of required evidence depends on the circumstances and 
+the auditors’ judgment, but the evidence should be competent, sufficient, and persuasive.  (AU 
+
+periods beginning on or after December 15, 2002.  These amendments did not apply to the 1998 NCFE audit.  
+Therefore, all citations to AU 316 will include the pre-amendment citation in effect at the time of the audit, as well 
+as the post-amendment citation to the current AU 316. 
+                                               11 
+---------------------Page 12---------------------
+
+326.02 & .21-.22)  Further, GAAS requires that auditors exercise due professional care in planning 
+and performing an audit and in preparing the audit report.  (AU § 230, Due Professional Care in the 
+Performance of Work, at AU 230.01)  Due professional care requires that the auditor exercise 
+professional skepticism in performing audit procedures and gathering and analyzing audit 
+evidence.  (AU 230.07-.08)  “In exercising professional skepticism, the auditor should not be 
+satisfied with less than persuasive evidence because of a belief that management is honest.”  (AU 
+230.09) “Professional skepticism is an attitude that includes a questioning mind and a critical 
+assessment of audit evidence.”  (AU 230.07; see also AU 316.27 (pre-amendment), AU 316.13 
+(post-amendment)) 
+
+       38.    As set forth above, during the course of the 1998 audit, Southworth was aware that 
+a substantial portion of NCFE’s finance receivables consisted of non-permitted loans instead of 
+purchased eligible healthcare receivables.  The non-permitted loans consisted of unsecured loans 
+and loans secured by collateral such as real estate, equipment, and artwork.  The audit workpapers 
+documented that many of NCFE’s customers had incurred substantial operating losses over a 
+period of years and were not capable of meeting or honoring their business obligations without 
+continued financial support from NCFE; they were severely financially distressed and were 
+dependent on NCFE to fund their negative operating cash flows.  These providers did not possess 
+eligible receivables to sell to NCFE, nor did they generally possess other assets of value that could 
+serve as collateral.     
+
+       39.    Southworth did not properly assess the adequacy of NCFE’s allowance for losses.  
+Southworth failed to properly evaluate how the providers’ negative operating cash flows, negative 
+working capital, and negative net worth impaired their ability to repay the non-permitted loans made 
+to them.  Based on the evidence available to him, Southworth should have known that NCFE’s 
+financial statements failed to reflect a sufficient reserve for material losses arising from the 
+unsecured loans made to healthcare providers. 
+
+       40.    Southworth improperly accepted overvalued collateral such as pro forma 
+receivables and the Location 99 receivables as an alternative to the purchased accounts receivable 
+required by the indentures.  Southworth did not exercise due care or professional skepticism in 
+accepting fabricated collateral proffered by NCFE as an appropriate substitute for purchased 
+accounts receivable.  He failed to exercise appropriate professional skepticism or obtain sufficient 
+competent evidence in support of the values that NCFE ascribed to the alternative collateral.    
+
+       41.    Southworth failed to properly evaluate the risk posed to the collectibility of NCFE’s 
+finance receivables by the indenture violations in the programs.  Southworth knew or should have 
+known that if the indenture trustees for the programs declared a principal amortization event for the 
+programs, NCFE’s ability to continue to fund the providers who owed money to NCFE would 
+cease.  Southworth failed to properly consider these matters when evaluating the adequacy of 
+NCFE’s allowance for loan losses. 
+
+                                               12
+
+---------------------Page 13---------------------
+
+                        Issuance of an Unqualified Audit Report 
+
+       42.    GAAS requires that the auditor’s report contain an opinion on the financial 
+statements taken as a whole and contain a clear-cut indication of the character of the auditor’s 
+work.  (AU 508.04)  The auditor can determine that he is able to issue an audit report containing an 
+unqualified opinion only if he has conducted his audit in accordance with GAAS and the financial 
+statements comply with GAAP.  (AU 508.07 & .22) 
+
+       43.    GAAS further requires that “[t]he [audit] report shall state whether the financial 
+statements are presented in accordance with generally accepted accounting principles.”  (AU § 
+410, Adherence to Generally Accepted Accounting Principles, at AU 410.01)  An auditor’s report 
+that financial statements are presented in accordance with GAAP should be based on, among other 
+things, whether the financial statements “are informative of matters that may affect their use, 
+understanding, and interpretation.”  (AU § 411, The Meaning of “Present Fairly in Conformity 
+with Generally Accepted Accounting Principles”, at AU 411.04) 
+
+       44.    Under GAAS, “[i]nformative disclosures in the financial statements are to be 
+regarded as reasonably adequate unless otherwise stated in the report.”  (AU § 431, Adequacy of 
+Disclosure in Financial Statements, at AU 431.01)  “The presentation of financial statements in 
+conformity with generally accepted accounting principles includes adequate disclosure of material 
+matters. These matters relate to the form, arrangement, and content of the financial statements and 
+their appended notes, including, for example, the terminology used, the amount of detail given, the 
+classification of items in the statements, and the bases of amounts set forth.  An independent 
+auditor considers whether a particular matter should be disclosed in light of the circumstances and 
+facts of which he is aware at the time.”  (AU 431.02) 
+
+       45.    In auditing NCFE’s 1998 Financials, Southworth acted unreasonably in rendering an 
+audit report containing an unqualified audit opinion stating that the audit complied with GAAS and 
+the financial statements comported with GAAP.  As described above, NCFE’s 1998 Financials did 
+not comport with GAAP because they failed to reflect a sufficient reserve for the impairment of 
+unsecured loans that NCFE had made to healthcare providers and made materially misleading 
+disclosures regarding the NCFE program violations.  As described above and below, Southworth 
+did not comply with GAAS in conducting the audit.  
+
+                  Failure to Perform an Adequate Going Concern Analysis 
+
+       46.    AU § 341, The Auditor’s Consideration of an Entity’s Ability to Continue As a 
+Going Concern, states in pertinent part that “[t]he auditor has a responsibility to evaluate whether 
+there is substantial doubt about the entity’s ability to continue as a going concern for a reasonable 
+period of time, not to exceed one year beyond the date of the financial statements being audited.” 
+(AU 341.02) Among the conditions and events that may indicate substantial doubt about the 
+entity’s ability to continue as a going concern is “default on loan or similar agreements.”  (AU 
+341.06) “The auditor’s evaluation is based on his knowledge of relevant conditions and events that 
+exist at or have occurred prior to the completion of fieldwork.”  (AU 341.02)  If “the auditor 
+
+                                               13
+
+---------------------Page 14---------------------
+
+concludes that substantial doubt about the entity’s ability to continue as a going concern for a 
+reasonable period of time remains, the audit report should include an explanatory paragraph . . . to 
+reflect that conclusion.”  (AU 341.12) 
+
+       47.    Southworth mistakenly concluded that NCFE could continue as a going concern, 
+despite the material defaults in NCFE’s programs.  In doing so, he failed to adequately evaluate 
+whether there was a substantial doubt about NCFE’s ability to continue as a going concern for a 
+reasonable period of time when NCFE had acquired a substantial portion of the assets on its 
+balance sheet in violation of the indentures.     
+
+       48.    Moreover, to the extent that Southworth relied on management’s representations 
+that the indenture trustees and noteholders were aware of the indenture violations, such reliance 
+itself was a departure from GAAS, which states in pertinent part that “representations from 
+management are part of the evidential matter the independent auditor obtains, but they are not a 
+substitute for the application of those auditing procedures necessary to afford a reasonable basis for 
+an opinion regarding the financial statements under audit.”  (AU § 333, Management 
+Representations, at AU 333.02) 
+
+       49.    The significant and material indenture violations in the programs, and the 
+significant impairment of NCFE’s receivables, created a substantial doubt about NCFE’s ability to 
+continue as a going concern for a reasonable period of time, and Southworth’s analysis of NCFE’s 
+ability to continue as a going concern constituted a departure from GAAS. 
+
+                            Communications with the Successor Auditor 
+
+       50.    Under GAAS, a predecessor auditor “should respond promptly and fully, on the 
+basis of known facts, to the successor auditor’s reasonable inquiries.  However, should the 
+predecessor auditor decide, due to unusual circumstances such as impending, threatened, or 
+potential litigation; disciplinary proceedings; or other unusual circumstances, not to respond fully to 
+the inquiries, the predecessor auditor should clearly state that the response is limited.”  (AU § 315, 
+Communications Between Predecessor and Successor Auditors, at AU 315.10) 
+
+       51.    Southworth failed to respond fully to the Successor Auditor’s reasonable inquiries 
+about NCFE’s management.  In response to the Successor Auditor’s inquiries about NCFE 
+management’s integrity, Southworth told the Successor Auditor that there were no issues with 
+management integrity.  Southworth did not respond fully because Southworth did not also disclose 
+any of the following matters that were relevant to management integrity: (i) NCFE was making 
+non-permitted loans; (ii) NCFE was reporting inaccurately aged receivables and including 
+ineligible receivables on investor reports; and (iii) PwC’s internal risk-assessment system rated 
+NCFE’s integrity and ethics as “high risk.”  Southworth’s failure to respond fully to the Successor 
+Auditor’s inquiries constituted a departure from GAAS. 
+
+                                               14
+
+---------------------Page 15---------------------
+
+       F. VIO      LATIONS 
+
+       52.    Rule 102(e)(1)(ii) of the Commission’s Rules of Practice provides, in pertinent part, 
+that, “[t]he Commission may . . . deny, temporarily or permanently, the privilege of appearing or 
+practicing before it in any way to any person who is found . . . to have engaged in unethical or 
+improper professional conduct.” 
+
+       53.    With respect to persons licensed to practice as accountants, such as Southworth, 
+“improper professional conduct” under Rule 102(e)(1)(ii) includes, inter alia: 
+
+       (B)    negligent conduct, consisting of (1) a single instance of highly unreasonable conduct 
+       that results in a violation of applicable professional standards in circumstances in which an 
+       accountant knows, or should know, that heightened scrutiny is warranted, or (2) repeated 
+       instances of unreasonable conduct, each resulting in a violation of applicable professional 
+       standards, that indicate a lack of competence to practice before the Commission. 
+
+       54.    The conduct described above constitutes highly unreasonable conduct that resulted 
+in a violation of applicable professional standards in circumstances in which Southworth knew, or 
+should have known, that heightened scrutiny was warranted. 
+
+       G.     FINDINGS 
+
+       55.    Based on the foregoing, the Commission finds that Southworth engaged in improper 
+professional conduct pursuant to Rule 102(e)(1)(ii) of the Commission’s Rules of Practice. 
+
+                                              IV. 
+
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondent’s Offer. 
+
+       Accordingly, it is hereby ORDERED, effective immediately, that: 
+
+       A.     Southworth is denied the privilege of appearing or practicing before the 
+Commission as an accountant. 
+
+       B.     After two (2) years from the date of this order, Southworth may request that 
+the Commission consider his reinstatement by submitting an application (attention: Office of 
+the Chief Accountant) to resume appearing or practicing before the Commission as: 
+
+              1.      a preparer or reviewer, or a person responsible for the preparation or 
+review, of any public company’s financial statements that are filed with the Commission.  Such 
+an application must satisfy the Commission that Southworth’s work in his practice before the 
+Commission will be reviewed either by the independent audit committee of the public company 
+for which he works or in some other acceptable manner, as long as he practices before the 
+Commission in this capacity; and/or 
+
+                                               15
+
+---------------------Page 16---------------------
+
+              2.      an independent accountant.  Such an application must satisfy the 
+Commission that: 
+
+                      (a)    Southworth, or the public accounting firm with which he is 
+associated, is registered with the Public Company Accounting Oversight Board (“Board”) in 
+accordance with the Sarbanes-Oxley Act of 2002, and such registration continues to be effective; 
+
+                      (b)    Southworth, or the registered public accounting firm with which he 
+is associated, has been inspected by the Board and that inspection did not identify any criticisms 
+of or potential defects in Southworth’s or the firm’s quality control system that would indicate 
+that Southworth will not receive appropriate supervision;
+
+               (c)           Southworth has resolved all disciplinary issues with the Board, and 
+has complied with all terms and conditions of any sanctions imposed by the Board (other than 
+reinstatement by the Commission); and 
+
+                      (d)    Southworth acknowledges his responsibility, as long as he appears 
+or practices before the Commission as an independent accountant, to comply with all 
+requirements of the Commission and the Board, including, but not limited to, all requirements 
+relating to registration, inspections, concurring partner reviews and quality control standards.   
+
+       C.     The Commission will consider an application by Southworth to resume appearing 
+or practicing before the Commission provided that his state CPA license is current and he has 
+resolved all other disciplinary issues with the applicable state boards of accountancy.  However, 
+if state licensure is dependent on reinstatement by the Commission, the Commission will 
+consider an application on its other merits.  The Commission’s review may include consideration 
+of, in addition to the matters referenced above, any other matters relating to Southworth’s 
+character, integrity, professional conduct, or qualifications to appear or practice before the 
+Commission. 
+
+ By       the Commission. 
+
+       N                                              ancy M. Morris
+       S                                             ecretary 
+
+                                               16
+

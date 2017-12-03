@@ -1,0 +1,783 @@
+---------------------Page 1---------------------
+
+                                 UNITED STATES OF AMERICA 
+                                               Before the 
+                        SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 78030 / June 10, 2016 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3783 /June 10, 2016 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-17283 
+ 
+                                                      
+In the Matter of                                     
+                                                      
+       ICON CAPITAL  LLC  f/k/a               ORDER INSTITUTING CEASE                    -AND   -DESIST 
+       ICON CAPITAL                           PROCEEDINGS PURSUANT TO SECTION 
+       CORPORATION ,                         21C OF THE SECURITIES EXCHANGE ACT 
+                                                     OF 1934,   MAKING FINDINGS, AND 
+Respondent.                                        IMPOSING A CEASE           -AND   -DESIST ORDER       
+ 
+ 
+ 
+ 
+                                                 I.  
+
+        The Securities and Exchange Commission  (“Commission”)  deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities 
+Exchange Act of 1934 (“Exchange Act”) against ICON Capital LLC, formerly known as ICON 
+Capital Corporation (“Icon” or “Respondent”).   
+
+                                                 II. 
+
+       In anticipation  of the institution  of these proceedings, Respondent has submitted an Offer 
+of Settlement (“Offer”) which the Commission  has determined to accept.  Solely for the purpose of 
+these proceedings and any other proceedings brought by or on behalf of the Commission,  or to 
+which the Commission  is a party, and without admitting  or denying the findings  herein, except as 
+to the Commission’s jurisdiction  over Respondent and the subject matter of these proceedings, 
+which are admitted, Respondent consents to the entry of this Order Instituting Cease-and-Desist 
+Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934,  Making Findings, 
+and Imposing a Cease-and-Desist Order (“Order”), as set forth below.    
+
+ 
+ 
+ 
+---------------------Page 2---------------------
+
+                                                III. 
+
+                                                                                  1
+        On the basis of this Order and Respondent’s Offer, the Commission  finds  that:  
+
+                                         RESPONDENT 
+
+       1.      Icon is an unregistered investment manager organized as a limited  liability 
+company (“LLC”) under the laws of Delaware and based in New York, New York.  Today Icon is 
+wholly  owned by ICON Investment Group, LLC, a closely held corporation.  During the relevant 
+period, Icon’s primary activity was the development,  marketing, sponsorship and investment 
+management of a series of equipment leasing funds (“Icon Leasing Funds” or “Leasing Funds”), 
+which have registered their securities offerings pursuant to the Securities Act of 1933 and whose 
+securities are registered under Section 12(g) of the Exchange Act.  Each Icon Leasing Fund was 
+organized as a separate entity and was subject to the periodic reporting obligations  of Section 13 of 
+the Exchange Act and related rules.  The Leasing Fund interests are not publicly  traded. 
+
+                                RELEVANT FUND ENTITIES 
+
+       2.      The Leasing Funds relevant to this proceeding are Icon Income Fund Nine, LLC 
+(“Fund 9”), Icon Income Fund Ten, LLC (“Fund 10”), Icon Leasing Fund Eleven, LLC (“Fund 
+11”), and Icon Leasing Fund Twelve, LLC (“Fund 12”), which were formed by Icon as Delaware 
+LLCs between 2001 and 2007.  Each of the four Leasing Funds had a principal  place of business in 
+New York, New York and filed periodic reports pursuant to Section 13 of the Exchange Act.  
+Funds 9, 10, 11 and 12 held portfolios  that included,  among other things, tankers and container 
+vessels, aircraft, auto and refrigeration equipment,  rail support construction equipment, and 
+telecommunications  assets.  During the period at issue here, reported fund assets ranged up to $621 
+million  (Fund 12), with reported annual net income ranging from a profit of $13 million  (Fund 12) 
+to a loss of $45 million  (Fund 11), on reported annual revenues of up to $103 million  (Fund 11). 
+
+                                              FACTS 
+
+Overview 
+
+       3.      Over a number of years, Icon made accounting errors that resulted in material 
+inaccuracies in periodic reports filed by the four Icon Leasing Funds identified  above.  Due to 
+inadequate internal accounting controls and the misapplication  of Generally Accepted Accounting 
+Principles (“GAAP”) in certain instances, Icon did not report accurately financial results, and had 
+inaccuracies in books and records, for these four Leasing Funds from 2009 through 2012.  Icon’s 
+accounting errors resulted in, among other things,  one or more of the relevant Leasing Funds not 
+taking certain required asset value impairments,  overstating post-impairment  values or overstating 
+residual values in multiple  reporting periods.  As a result, there were material inaccuracies in 
+financial statements for the relevant Leasing Funds for annual and interim periods from 2009 
+through 2011, and some of these inaccurate financial results also appeared in the relevant Leasing 
+
+                                               
+1
+       T he findings  herein are made pursuant to Respondent's Offer of Settlement and are not 
+binding  on any other person or entity in this or any other proceeding. 
+
+                                                  2  
+---------------------Page 3---------------------
+
+Funds’ periodic reports for 2012.  Icon’s errors resulted in overstatements of net income (or 
+understatements of net loss) and overstated asset and Leasing Fund members’ equity values in the 
+amounts set forth herein.  As detailed below, Icon was therefore a cause of violations  of Sections 
+13(a), 13(b)(2)(A), and 13(b)(2)(B)  of the Exchange Act and Rules 12b-20, 13a-1 and 13a-13 
+                                                2
+thereunder by the relevant Leasing Funds.         
+
+Background 
+
+        4.      Icon markets each Leasing Fund to investors at the Leasing Fund’s inception 
+through various broker-dealers, acquires and manages the Leasing Fund’s assets, and then winds 
+down the Leasing Fund after a set period of time.  By design, the Leasing Funds have limited  life 
+spans, beginning  with an offering period, followed by an operational period and then a liquidation 
+period.  Each Leasing Fund sells interests to investors only during that Leasing Fund’s initial 
+offering period, and the Leasing Fund interests are not traded thereafter in a secondary trading 
+market, public  or private.  By contract, the ability  of Leasing Fund investors to sell, transfer or 
+redeem their interests during the operational and liquidation  periods was limited,  and all such 
+actions were subject to Icon’s approval.  Each Leasing Fund typically  begins filing  its periodic 
+reports after its registration statement is declared effective by the SEC (as the Leasing Funds at 
+issue here did).  Icon performs all of the accounting functions for each Leasing Fund, including  the 
+preparation of each Leasing Fund’s financial statements and periodic reports. 
+
+        5.      During the relevant period, one of Icon’s primary investment strategies for a 
+number of the Leasing Funds, including  the four Leasing Funds at issue in this proceeding, was to 
+purchase shipping  vessels and lease the vessels to commercial shipping  companies.  The Leasing 
+Funds collected the rental income, as well as the sale or other proceeds from the disposal of the 
+vessels and other Leasing Fund assets.  Icon, in turn, received management and acquisition  fees 
+from each Leasing Fund, calculated on the basis of rental payments received by the Leasing Fund 
+and acquisition  prices of assets.  Icon waived some or all of the management and acquisition  fees 
+and expense reimbursement payments due from three of the four Leasing Funds at issue during the 
+relevant period. 
+
+                                               
+2
+        Section 13(a) of the Exchange Act requires issuers whose securities are registered with 
+the Commission  under       the Exchange Act to file periodic  reports with the Commission  containing 
+such information  as the Commission  prescribes by rule, and the information  contained in such 
+reports is required to be   complete and     accurate.  Exchange Act Rule 13a       -1 requires regist  rants to 
+file annual reports on Form 10     -K, and Rule 13a    -13 requires issuers to file quarterly reports on 
+Form 10  -Q.  Rule 12b   -20  provides that these reports must contain,  in addition  to disclosures 
+expressly required by the pertinent statutes and rules, su       ch other information  as is necessary to 
+ensure that the statements made in the report are not, under the circumstances, materially 
+misleading.   Section 13(b)(2)(A) requires registrants to make and keep books, records and 
+accounts which, in reasonable detai      l,  accurately and fairly  reflect transactions and dispositions  of 
+assets.  Section 13(b)(2)(B) requires registrants to devise and maintain  a system of internal 
+accounting  controls sufficient to provide  reasonable assurances that transactions are recorded a             s 
+necessary to permit preparation of financial  statements in accordance with GAAP and to 
+maintain  accountability  for assets.    
+
+                                                        3  
+---------------------Page 4---------------------
+
+       6.      The values of the shipping  and other assets owned by the Leasing Funds, including 
+each of the vessels described below, were recorded on each Leasing Fund’s books at cost, net of 
+accumulated depreciation.  This value was referred to as the assets’ “carrying value” or “net book 
+value.”  Icon personnel were responsible for regularly reviewing carrying values and determining 
+whether those values were recoverable from (i.e. were equaled or exceeded by) estimated future 
+cash flows from the asset.  Under GAAP, Icon was required to perform such a “recoverability  test” 
+on each asset any time there was an “indicator of impairment,”  such as an appraisal below book 
+value or the renegotiation of lease terms.  ASC 360-10-35-21.  If the carrying value is estimated not 
+to be recoverable, GAAP requires that an impairment  loss be recorded, measured as the difference 
+between the asset’s carrying value and its fair value, with the fair value recorded as the new 
+carrying value.  ASC 360-10-35-17.   Under GAAP, fair value is defined as the “price that would be 
+received to sell an asset or paid to transfer a liability  in an orderly transaction between market 
+participants at the measurement date.”  ASC 820-10-20.    Under GAAP, Icon was also required to 
+evaluate the “residual” values of the Leasing Funds’ assets (i.e. an estimate of the remaining sale or 
+scrap values at the end of a vessel’s life) and adjust residual values when necessary.  ASC 360-10-
+35-22. 
+
+       7.      In early 2009, the drastic downturn in the world economy following  the global 
+financial crisis and other economic factors resulted in a significant  drop in shipping  lease rates and 
+vessel sale prices.  Although shipping  lease rates and vessel sale prices were historically  volatile, 
+often with significant swings in both directions within relatively short periods of time, the steep 
+downturn in the market triggered by the financial crisis did not follow historical patterns and 
+continued unabated for years.  The daily lease rates, known as “spot market rates,” did not return to 
+even the lower end of the typical range of pre-2009 levels until the end of 2014 and stayed well 
+below recent historic lows throughout most of this period.  In response to the depressed market, 
+and after discussions with the Leasing Funds’ outside auditor, Icon adopted a methodology  known 
+as the Hamburg Ship Evaluation  Standard (“Hamburg Method”) for certain accounting purposes in 
+2009. 
+
+       8.      The Hamburg Method was developed by members of the shipping  industry in early 
+2009 and relies on ten-year historical average prices to estimate future lease rates and scrap values.  
+The average prices used for the Hamburg Method are based on industry-wide averages provided by 
+an independent research resource and adjusted both for the type and age of the specific vessel in 
+question and for the costs and expenses associated with leasing those vessels.  In addition  to using 
+those averages, the Hamburg Method uses historical ten-year averages of bond and equity 
+premium rates in arriving at the rate at which to discount estimated future cash flows.   
+
+       9.      As detailed below, Icon’s reliance on the Hamburg Method to make fair value 
+determinations in situations where it possessed relevant contemporaneous market data contravened 
+GAAP and, along with other accounting errors and internal accounting control lapses, resulted in 
+Icon's not taking certain necessary impairments, overstating post-impairment  values and 
+overstating residual values, causing numerous material inaccuracies in the publicly  filed financial 
+statements and periodic reports for Funds 9, 10, 11 and 12 from 2009 through 2012.  During this 
+period, Icon also omitted certain disclosures required under GAAP relating to certain of the 
+Leasing Funds’ residual values and made inaccurate disclosures related to the methodology  used 
+for the Leasing Funds’ equity valuation  mandated under ERISA. 
+
+                                                 4  
+---------------------Page 5---------------------
+
+Improper Impairment of the Mayon and Samar Vessels 
+
+       10.    Icon erred by not taking an impairment  charge with respect to two vessels owned 
+and leased out by Funds 9, 10 and 12 (the Mayon and Samar) at the end of the Leasing Funds’ 
+2010 fiscal year and then failing  to take the appropriate impairment  for both vessels in the first 
+quarter of 2011.  As a result, the recorded values of the Mayon and the Samar was overstated on 
+the books and records of these three Leasing Funds starting as of December 31, 2010, which led to 
+inaccuracies in periodic reports subsequently filed by the three Leasing Funds. 
+
+       Non-Impairment of the Vessels at Year End 2010 
+
+       11.    The Mayon and the Samar were both scheduled to come off lease in July 2011.  In 
+November 2010, Icon received appraisals that indicated that the fair market value of each of the 
+two vessels, on a “charter free” basis (i.e. calculating fair market value in the absence of whatever 
+income-generating lease was actually in place), was $9.86 million  at the time of the appraisal and 
+$8 million  as of July 2011, when the current lease was to end.  These amounts were well below the 
+carrying value of $31.2 million  for each vessel and, as such, were an indicator of impairment under 
+GAAP.  Icon then conducted a recoverability analysis using  assumptions of future rental income 
+that were based on the Hamburg Method and determined that the Mayon and the Samar did not 
+need to be impaired.  However, Icon’s assumptions and methodology  were erroneous in at least 
+two respects. 
+
+       12.    First, Icon’s assumptions about future cash flow in conducting its recoverability 
+analysis were based on the Hamburg Method’s ten-year historical average, which was inconsistent 
+with future lease rates Icon anticipated it may actually be able to obtain for the two vessels in 2011.  
+In conducting its recoverability analysis, Icon relied on the Hamburg Method’s ten-year historical 
+average lease rate in assuming that it would be able to re-lease the Mayon and the Samar in July 
+2011 for three years at a daily rate of $11,267  and used that rate in its future cash flow analysis.  
+However, Icon’s own internal documentation and contemporaneous market communications  with 
+third parties (from January 2011 through the filing  of the relevant Leasing Funds’ Forms 10-Ks in 
+March 2011) regarding prevailing  lease rates and the remarketing of the vessels show that Icon 
+expected that a $3,000/day lease rate for a three year lease was more likely  when the vessels came 
+off lease in July 2011. 
+
+       13.    Under these circumstances, GAAP required that future cash flow estimates used to 
+test the recoverability of a long-term asset value incorporate the company’s own assumptions about 
+its use of the asset, consider all available evidence, and be reasonable in relation to the cash flow 
+assumptions used for other corporate purposes or for developing  information  communicated to 
+other parties.  ASC 360-10-35-30. 
+
+       14.    Second, Icon also did not account correctly for certain expenses in calculating 
+projected cash flows using the Hamburg Method.  Icon typically  allowed for up to an additional  $2 
+million  expense for any vessel that would require an expensive and lengthy form of mandatory 
+periodic “dry dock” maintenance (i.e. when the vessel is not in service) known as a “special 
+survey,” and which party (the lessor or the lessee) would bear responsibility  for such costs was 
+factored into lease negotiations.  Both GAAP and the Hamburg Method require this expense to be 
+
+                                                 5  
+---------------------Page 6---------------------
+
+included in future cash flow calculations,  where applicable.  However, Icon did not deduct this 
+expense from its future cash flow calculations for the Mayon and the Samar even though both 
+vessels were due for special surveys during the prospective lease period.  Reducing future cash 
+flows – even using $11,267  per day figure as the starting point – by the amount of this expense 
+alone would have caused both vessels to fail the recoverability test, requiring Icon to determine the 
+fair value of the vessels and record an impairment charge if the fair value of the vessels was less 
+than their carrying values.  In fact, in February 2011 – one month before the Forms 10-K were filed 
+– Icon shipping  personnel involved  in the new lease negotiations for the two vessels realized that 
+they had neglected to include the vessels’ special survey costs when estimating projected returns 
+on the vessels.  The shipping  personnel corrected this error in their work, which lowered expected 
+returns, and the projections they prepared for their work assumed a new lease rate consistent with 
+then current market conditions  rather than the much higher $11,267 rate – sans special survey costs 
+– that Icon accounting personnel used in the recoverability testing. 
+
+        15.     Using the valuation  methodology  that Icon employed when impairing  the value of a 
+different set of vessels in the prior year (discussed below at ¶¶ 25-29), the fair value of the Mayon 
+and Samar vessels as of December 31, 2010 (the relevant measurement date) was approximately 
+$13.3 million  each, or approximately  $18 million  below the carrying value of $31.2 million  per 
+       3
+vessel.    Accordingly, an impairment  charge of approximately  $18 million  each was required for 
+the Mayon and   the  Samar as of December 31, 2010     , for a total of  $36 million.   By not recording 
+the  $36 million  impairment  charge , Icon overstated the carrying value of the two vessels by that 
+amount, resulting in  inaccuracies in reported  net income (loss) and members’ equity in the Forms 
+10-K filed by Funds 9, 10 and 12 for the year ended December 31, 2010, which were filed in late 
+             4
+March 2011.     The  misstated 2010 year  - end financial results for Funds    9, 10 and 12 were also 
+reported  in those Leasing   Funds’ Forms 10-K for the year ended December 31, 2011, which were 
+filed in late March 2012. 
+
+        Insufficient Impairment of the Vessels in the First Quarter of 2011 
+
+        16.     In the quarter ended March 31, 2011, Icon did cause Funds 9, 10 and 12 to take an 
+impairment  charge for the Mayon and the Samar, but the charge was insufficient under GAAP and 
+
+                                               
+3
+        This method starts with the vessels’ appraised fair market value, which provides the 
+vessels’ “charter-free” (i.e., unleased) value, and then adds to that number the net present (i.e. 
+discounted) value of 100% of the existing lease rate through the end of the current lease to arrive at 
+fair value.  Here, the $13.3 million  estimate of the fair value of the Mayon and the Samar vessels as 
+of December 31, 2010 is the sum of the appraisal’s current fair market value of $9.86 million  and 
+the net present value of 100% of the existing lease rate of $17,000 per day through July 23, 2011, 
+the expiration date of the current lease.  The discount rate used for the net present value calculation 
+of the remaining  lease payments was 5.48%, which is the same rate that Icon used when 
+performing a discounted cash flow analysis to estimate the fair value of the Mayon and the Samar 
+at March 31, 2011. 
+
+4
+        The   quantitative  impact of the accounting errors discussed herein on each of the relevant 
+Leasing Fund  s’ financial  statements are presented below in paragraphs 34-37 for each affected 
+reporting  period. 
+
+                                                    6  
+---------------------Page 7---------------------
+
+resulted in each vessel’s recorded value still  being overstated by approximately $7.5 million,  which 
+led to inaccuracies in the same three Leasing Funds’ Forms 10-Q for the first quarter of 2011, 
+which were filed in mid-May 2011. 
+
+        17.     In May 2011 (before the first quarter Forms 10-Q were filed), Icon signed a three-
+year charter for both vessels that was to begin in July 2011 and that provided for $3,900 in daily 
+rental income, consistent with the offers it had received a few months earlier.  Having now locked 
+in a new lease rate far below the $11,267  average rate for the prior ten years, Icon conducted a cash 
+flow analysis using the new lease rate and, as a result, the Mayon and the Samar both failed the 
+recoverability test.  Icon recorded impairment  charges of approximately  $11 million  for each of the 
+vessels, reducing their carrying values from $30 million  to approximately  $19 million.   However, 
+these impairment charges were insufficient  under GAAP because Icon overestimated the vessels’ 
+fair value by using the ten-year historical average lease rate derived under the Hamburg Method 
+rather than relevant market data in selecting the measurement inputs and using a methodology  that 
+excluded the relevant market data as inputs. 
+
+        18.     Under GAAP, fair value accounting requires the maximum  utilization  of market 
+                                                                     5
+data and relevant, available market data cannot be disregarded.          In this instance, Icon had obtained 
+appraisals of both vessels in November 2010, and these appraisals, which were based on recent 
+sales of similar vessels, constituted relevant market data.  Comparable sales data are        generally 
+considered to be  observable,   level 2    valuation inputs under GAAP.  In addition,  in March 2011, 
+Icon had purchased two vessels similar to the Mayon and Samar, but two years n            ewer, for $13 
+million  each .  As part of that transaction, Icon received appraisals valuing  those    newer   vessels at 
+$13 - 15 million each, well above the   $9.86 mi  llion  appraised  value   of the older Mayon and Samar 
+vessels in November 2010 but still     far  below the $31.2 million  values recorded for each of the 
+older vessels on the  Leasing    Funds’ books as of December 31, 2010, just three months earlier. 
+
+        19.     Nevertheless, when valuing  the Mayon and the Samar in May 2011, Icon did not 
+use the observable inputs that it had available, in the form of recent, comparable sales transactions, 
+as its inputs.  Icon incorrectly assumed that in light  of the market downturn discussed above, the 
+vessel appraisals and the comparable sales relied on by the appraisers could be disregarded, and 
+Icon did not conduct any analysis of the circumstances pertaining to the sales on which the 
+
+                                               
+5
+        ASC 820   -10-35 -36  states that the methods    used to measure fair value “shall  maximize 
+the use of relevant  observable inputs  and minimize  the use of unobservable inputs.”  ASC 820 
+prioritizes  inputs used to measure fair value into three levels based on the observability  of the 
+inputs.  The highest,  and generally  most reliable,  level of inputs  – Level 1 – are “quoted  prices 
+(unadjusted)  in active markets for identical  assets or liabilities.”   ASC 820-10-35-40.   Level 2 
+inputs are “inputs  other than quoted prices included  within  Level 1 that are observable for the 
+asset or liability,  either directly  or indirectly.”   ASC 820-10-35-47.   Level 3 inputs,  generally  the 
+least reliable,  are “unobservable  inputs  for the asset or liability.”   ASC 820-10-35-52.   ASC 820-
+10-35-53  further notes as follows:   “Unobservable inputs  shall be used to measure fair value to 
+the extent that relevant observable inputs are not available, thereby allowing  for situations  in 
+which there is little,  if any market activity for the asset or liability  at the measurement date 
+[emphasis added].” 
+
+                                                      7  
+---------------------Page 8---------------------
+
+appraisals relied.  Instead, as was known to the Leasing Funds’ outside auditors, Icon used an 
+unobservable input in the form of an estimated “net charter” rate, calculated using the Hamburg 
+Method’s ten-year historical average.  This method resulted in a projected $11,164 per-day rate for 
+a prospective renewal lease assumed to begin in 2014.  The projected $11,164 daily rate was more 
+than double the $3,900 per day to which Icon had just agreed in the new lease scheduled to begin 
+in July 2011.  Icon’s use of this projected $11,164  rate for a prospective lease three years in the 
+future without giving  weight to the contemporaneous, and observable, market data described above 
+– the type of data that Icon itself had recently used in determining  similar vessels’ fair value – was 
+an improper use of a “Level 3” valuation input because, as noted above, GAAP mandates that 
+“[v]aluation  techniques used to measure fair value shall maximize  the use of observable inputs and 
+minimize  the use of unobservable inputs.”  In addition,  Icon’s own internal contemporaneous 
+documents and other evidence demonstrate that Icon lacked a reasonable basis for concluding  that 
+it would have actually been able to sell either the Mayon or the Samar at that time at a price near 
+the $19 million  calculated value figure yielded by its sole reliance on the “Level 3” inputs. 
+
+       20.    Using the methodology  described above in footnote 3, which maximizes use of the 
+observable market inputs available to Icon at the time by adding the net present value of 100% of 
+the remaining lease payments due under the existing lease to the appraisal’s current fair market 
+value of $9.86 million,  the fair value of the Mayon and the Samar vessels as of March 31, 2011 
+was approximately $11.8 million  each.  This valuation results in an impairment  charge of $18.5 
+million  per vessel, $7.5 million  higher than the $11 million  impairment charge taken by Icon for 
+each vessel in the first quarter of 2011.  By not recording a total impairment  charge of $37 million, 
+Icon overstated the carrying value of the two vessels by a total of approximately  $15 million, 
+resulting in inaccuracies in reported net income (loss) and members’ equity in the Forms 10-Q for 
+the quarter ended March 31, 2011 filed by Funds 9, 10 and 12.    The misstated first quarter 2011 
+financial results for Funds 9, 10 and 12 were also reported in those Leasing Funds’ Forms 10-Q for 
+the first quarter of 2012. 
+
+Reversal of Reduction in Estimated Residual Values of Vessels Leased to Companies A and B 
+
+       21.    An additional  accounting error involved  Icon’s failure to lower the residual values 
+(which are an estimate of the sale or scrap values at the end of a vessel’s useful life) of eight 
+vessels owned by Funds 9, 10, 11 and 12 and leased to two separate shipping companies 
+(“Companies A and B”), resulting in inaccuracies on those Leasing Funds’ books and records and 
+in their publicly  filed financial statements for interim and annual periods from 2010 through the 
+end of 2011. 
+
+       22.    In early 2010, Icon concluded that the residual values of the vessels leased to 
+Companies A and B needed to be reduced and depreciation expense therefore needed to be 
+increased.   Icon estimated that the residual value of the vessels to the four Leasing Funds had 
+decreased by amounts ranging from approximately  $4.9 million  to $11.1 million  per vessel, for an 
+aggregate reduction of $66.9 million.   However, after discussions with the Leasing Funds’ outside 
+auditor, Icon reversed those reductions before filing  the Leasing Funds’ Forms 10-Q for the quarter 
+ended March 31, 2010, and did not reinstate the reductions in any subsequent period, resulting in 
+inaccuracies in each of the relevant periodic reports through the end of 2011.  Based on Icon’s own 
+residual value analysis, the proposed reductions in residual values and corresponding  increases in 
+
+                                                 8  
+---------------------Page 9---------------------
+
+depreciation were appropriate, and there was no reasonable basis for forgoing those adjustments 
+from the first quarter of 2010 through the end of 2011. 
+
+       23.    By the beginning  of 2010, charter (i.e., lease) rates had been depressed for some 
+time and recent appraisals of vessels’ fair market value were coming in significantly  below their 
+carrying values, including  appraisals for the vessels leased to Companies A and B, an indication 
+under GAAP that the residual values may be too high and should be evaluated.  ASC 360-10-35-
+22.  Consequently, Icon adjusted residual values for the vessels leased to Companies A and B on 
+the four Leasing Funds’ books as of January 1, 2010 in the amounts set forth above.  The financial 
+statement impact of these adjustments would  occur over time, as depreciation expense increased in 
+order to depreciate the book value of the vessels to their new, lower residual value.  Icon recorded 
+these increases in depreciation expense, as reflected in the trial balances and drafts of the Leasing 
+Funds’ Forms 10-Q for the quarter ended March 31, 2010, which Icon provided to the Leasing 
+Funds’ outside auditor in connection with the quarterly review.  Contemporaneous Icon documents 
+and communications  between Icon and the auditor indicate that Icon’s accounting personnel were 
+confident in the accuracy of the new, reduced residual values.  However, after those 
+communications  with the auditor and shortly before the Forms 10-Q were filed, Icon reversed the 
+residual value and depreciation adjustments.  Neither Icon nor the auditor documented the reason 
+or factual basis for this change or that there was even an expectation, at that time, that the residual 
+values would recover. 
+
+       24.    Icon’s reversal of the reduction in residual values and increase in depreciation 
+expenses resulted in a number of inaccuracies in the four Leasing Funds’ financial statements and 
+periodic reports, as the residual values were overstated in multiple  subsequent reporting periods as 
+well.  The net income (loss) and members’ equity for all four Leasing Funds were misstated for 
+each quarter of 2010 and for the year ended December 31, 2010 due to these residual value errors.  
+The net income (loss) and members’ equity for Funds 10 and 12 were also misstated for the year 
+ended December 31, 2011 and each interim period therein due to these residual value errors.  In 
+addition,  the net income (loss) and members’ equity for Fund 11 was misstated for the first two 
+quarters of 2011 due to these residual value errors.  These misstated financial results were also 
+reported in each Leasing Fund’s subsequent corresponding periodic reports, as late as through year 
+end 2012 for Funds 10 and 12.  
+
+Insufficient Impairment of Vessels Leased to Company C 
+
+       25.    A further accounting error involved  Icon’s failure to sufficiently impair the 
+recorded value of four vessels owned by Fund 11 and leased to Company C (“Company C 
+vessels”).  Icon made an error in its impairment  analysis that resulted in an overstatement of the 
+value of the Company C vessels on Fund 11’s books and records and in inaccuracies in Fund 11’s 
+publicly  filed financial statements for interim and annual periods from the third quarter of 2009 
+through the end of 2010.   
+
+       26.    As of September 30, 2009, Fund 11 was carrying the Company C vessels at a value 
+of $81.1 million  on the Leasing Fund’s books.  In the third quarter of 2009, Company C was 
+experiencing financial difficulties  and the parties renegotiated the four leases, resulting in lower 
+lease payments to Fund 11.  Icon recognized this event as an indicator of impairment  under GAAP 
+
+                                                 9  
+---------------------Page 10---------------------
+
+and further determined that Fund 11 needed to recognize an impairment  loss.  Ultimately,  Icon 
+impaired the Company C vessels by approximately $35.1 million  and recorded their new carrying 
+value at $46 million.   However, Icon made an error in calculating the estimated fair value of the 
+vessels, which led to an insufficient impairment  and an overstatement of the recorded value for the 
+Company C vessels. 
+
+       27.    To estimate the Company C vessels’ fair value, Icon used the valuation method 
+described above in paragraph 15 and used “Level 2” observable inputs from different sources.  
+Icon had obtained independent appraisals of the Company C vessels’ fair market value as part of its 
+review of their carrying values, and Icon used one of the appraiser’s fair market value estimates as 
+an input in its valuation formula.  One appraisal estimated the current fair market value of the 
+Company C vessels ($22.1 million),  and the other appraisal estimated their fair market value at the 
+end of the existing lease term ($20.8 million),  both on a “charter free” basis (i.e. in the absence of 
+whatever income-generating lease was actually in place).  To determine fair value, Icon added the 
+appraiser’s current fair market value estimate to Icon’s own estimate of the net present value of the 
+rental cash flows it was entitled to receive from Company C during the term of the renegotiated 
+leases. 
+
+       28.    However, Icon failed to correctly calculate the net present value of the cash flows 
+from the leases.  Icon appropriately used the renegotiated lease rates and payment schedules and 
+then meant to apply a discount rate of 8% to determine the net present value of those future 
+payments.  Icon erred, however, by using an incorrect formula when discounting  cash flows in its 
+present value calculation, resulting in an overstated present value estimate.  This flawed present 
+value calculation,  recorded on the Leasing Fund’s books and records and in documents provided 
+by Icon to the Leasing Fund’s auditor, resulted in a suggested impairment  of $33.4 million,  leading 
+to a carrying value of $47.7 million.   For reasons unrelated to the fair value analysis,  Icon further 
+impaired the vessels by another $1.7 million  to a carrying value of $46 million,  but despite this 
+additional  impairment,  there was still an overstatement of the Company C vessels’ recorded value.  
+Applying  the 8% discount rate used by Icon, a correct calculation of the sum of the net present 
+value of the cash flows due over the course of the leases and the appraisal’s current fair market 
+value results in a fair value of approximately  $43.1 million,  $2.9 million  less than the $46 million 
+recorded by Icon.  The impairment  of the Company C vessels should therefore have been $2.9 
+million  greater than what Icon recorded, or $38 million. 
+
+       29.    By not recording the required $38 million  impairment  charge at that time or in 
+subsequent reporting periods, Icon overstated the carrying value of the Company C vessels by $2.9 
+million,  resulting in a number of inaccuracies in Fund 11’s financial statements and periodic 
+reports.  Due to these impairment errors, Fund 11’s net income and members’ equity were 
+misstated in financial statements in its Forms 10-K for both the year ended December 31, 2009, 
+and the year ended December 31, 2010, as well as in financial statements in its Forms 10-Q for the 
+third quarter of 2009 and the first three quarters of 2010.  These misstated financial results for 
+Fund 11 were also reported in that Leasing Fund’s subsequent corresponding periodic reports 
+through year end 2012. 
+
+                                                 10   
+---------------------Page 11---------------------
+
+Non-Impairment of Auto Equipment Owned by Fund 11 
+
+       30.    Icon also did not impair auto parts manufacturing equipment owned by Fund 11 
+and leased to a French company (“Auto Equipment”) at the time required by GAAP.  Icon’s failure 
+to impair the Auto Equipment resulted in an overstatement in the value of the Auto Equipment of 
+approximately  $3.1 million,  which led to an overstatement of Fund 11’s assets and net income in 
+its Forms 10-Q for the second and third quarters of 2010 and of 2011. 
+
+       31.    In early 2009, the lessee of the Auto Equipment  declared bankruptcy and the Auto 
+Equipment came under the jurisdiction  of a French bankruptcy court.  As a result, Icon recorded, as 
+of December 31, 2009, an allowance for the past due balances owed by the lessee on the lease and 
+disclosed that income from the lease would be recorded on a cash basis.  Nevertheless, Icon did not 
+impair the Auto Equipment assets at that time, even though the decision to record an allowance and 
+to record income on a cash basis – a clear indication  that Icon considered the collectability  of the 
+future lease payments to be in doubt – indicates that Icon may have had difficulty  establishing  that 
+future cash flows would have been sufficient to recover the asset’s value.  In fact, Icon did not 
+perform a recoverability analysis at all because it mistakenly used an incorrect (lower) book value 
+in its impairment  review.  That lower net book value led Icon to conclude incorrectly that the Auto 
+Equipment assets’ estimated fair value was greater than the recorded book value and that therefore 
+there was no indication  of impairment. 
+
+       32.    In June 2010, Icon signed an agreement with the original  lessee and a new lessee 
+transferring the Auto Equipment to the new lessee and amending the terms of the lease to provide 
+for lower rental payments to Fund 11.  At that point, impairment  was required because the reduced 
+lease rate resulted in future cash flows that were lower than the asset’s carrying value.  However, 
+Icon still did not record an impairment charge at that time because, according to Icon, the Icon 
+personnel who executed the new lease agreement failed to provide the lease to the relevant finance 
+and valuation personnel until  February 2011. 
+
+       33.    Icon eventually recorded an impairment  charge on the Auto Equipment for Fund 11 
+in the amount of approximately  $3.1 million,  but not until the fourth quarter of 2010.  Icon’s failure 
+to record the impairment charge by the second quarter of 2010 caused Fund 11’s books and records 
+to overstate the carrying value of the Auto Equipment in the second and third quarters of 2010, 
+resulting in inaccuracies in reported net income (loss) and members’ equity in Fund 11’s financial 
+statements and interim periodic reports for the second and third quarters of 2010, including  for the 
+nine months ended September 30, 2010.  These misstated financial results for Fund 11 were also 
+reported in its Forms 10-Q for the second and third quarters of 2011. 
+
+Impact of the Foregoing Errors on the Leasing Funds’ Financial Results 
+
+       34.    Fund 9’s reported financial results were misstated for the relevant periods due to 
+both Icon’s failure to lower the residual values of the vessels leased to Companies A and B (the 
+“RV” error) and by Icon’s failure to properly impair the recorded value of the Mayon and Samar 
+vessels (the “M/S” error), as follows: 
+
+                                                11   
+---------------------Page 12---------------------
+
+            Net Income/(Loss) Overstatement/      Members’ Equity    Accounting 
+            Understatement                            Overstatement         Errors 
+1Q2010      59 1%                                     4.0%                  RV 
+2Q2010      259%                                      8.0%                  RV 
+3Q2010      $1.3 million                                                    
+YE2010      $6.8 million                                                            
+1Q2011      (42.7%)                                   32.6%                 M/S 
+ 
+       35.     Fund 10’s reported financial results were misstated for the relevant periods due to 
+both the RV and M/S errors, as follows: 
+
+ 
+            Net Income/(Loss) Overstatement/      Members’ Equity    Accounting 
+            Understatement                            Overstatement         Errors 
+1Q2010      101%                                      1.6%                  RV 
+2Q2010      $0.36 million                                                   
+3Q2010      81.4%                                     5.0%                  RV 
+YE2010      $6.2 million                                                            
+1Q2011      (53.5%)                                   10.4%                 RV, M/S 
+2Q2011      (9.5%)                                    4.4%                  RV 
+3Q2011      290%                                      5 .2%                 RV 
+YE2011      (17.0%)                                   6.2%                  RV 
+ 
+       36.    Fund 11’s reported financial results statements were misstated for the relevant 
+periods due to Icon’s erroneous present value calculation with respect to the Company C vessels 
+(the “PVC” error), Icon’s failure to impair the Auto Equipment at the appropriate time (the “AE” 
+error), and the RV error, as follows: 
+
+ 
+            Net Income/(Loss) Overstatement/      Members’ Equity    Accounting 
+            Understatement                            Overstatement         Errors 
+3Q2009      (5.2%)                                    1.8%                  PVC 
+YE2009      (5.2%)                                    1.8%                  PVC 
+1Q2010      (41.5%)                                   3.3%                  RV, PVC 
+2Q2010      (43.5%)                                   8.5%                  RV, PVC, AE 
+3Q2010      (11.5%)                                   12.5%                 RV, PVC, AE 
+YE2010      (49.8%)                                   10.8%                 RV, PVC 
+1Q2011      17.1%                                     10.5%                 RV 
+2Q2011      $1.9 million                                                    
+
+            Fund 12’s reported financial results were misstated for the relevant periods due to 
+both the RV and M/S errors, as follows: 
+
+ 
+
+                                             12   
+---------------------Page 13---------------------
+
+             Net Income/(Loss) Overstatement/       Members’ Equity    Accounting 
+             Understatement                              Overstatement          Errors 
+1Q2010       100%                                        0.9%                   RV 
+2Q2010       78.8%                                       1.2%                   RV 
+3Q2010       208%                                        2.7%                   RV 
+YE2010       $11.9 million                                                              
+1Q2011       (80.8%)                                     5.1%                   RV; M/S 
+2Q2011       (44.1%)                                     4.2%                   RV 
+3Q2011       $1.47 million                                                      
+YE2011       $2.95 million                                                      
+
+Non-Disclosure of a Material Change in Estimate 
+
+       38.    In the second quarter of 2009, Icon reduced its estimate of the residual value of four 
+vessels leased by Fund 11 to Company D but failed to disclose that change in Fund 11’s 
+subsequent periodic reports, as required by GAAP.  This change in estimate did not have a material 
+impact on Fund 11’s financial statement results for the second quarter of 2009, but it was expected 
+to, and did, have a material impact on Fund 11’s reported results in future periods and, under 
+GAAP, was therefore required to be disclosed. 
+
+       39.    In Fund 11’s Form 10-Q for the second quarter of 2009 (and subsequent periodic 
+reports), Icon disclosed that Company D had terminated its lease for the four vessels on June 24, 
+2009, approximately two years before the end of the lease term.  While Icon did not impair those 
+vessels at that time, Icon reduced the residual value of the vessels by $14 million  on Fund 11’s 
+books and records.  Going forward, Icon projected an increase in depreciation expense of 
+approximately  $5.6 million  per quarter as a result of this reduction in the estimated residual value 
+of the vessels.  Because this change in estimate was not disclosed in Fund 11’s Form 10-Q for the 
+second quarter or in subsequent periodic reports, Fund 11’s financial statements for the quarter and 
+nine months ended September 30, 2009, and the year ended December 31, 2009 did not comply 
+with GAAP, which requires disclosure of changes that are expected to materially impact future 
+quarters.  ASC 250-10-50-4.   
+
+       40.    The additional  $5.6 million  in depreciation expense represented approximately 
+10.5% of the net loss for the quarter, and 23.5% for the nine months, ended September 30, 2009.  
+The total increase in depreciation expense due to the reduction in residual value was approximately 
+$11.2 million  for the year ended December 31, 2009, which was approximately 25.5% of the loss 
+reported for 2009 and 8% of members’ equity.  The disclosure  was also required to have been 
+included in Fund 11’s Form 10-K for the year ended December 31, 2010, as that periodic report 
+reiterated the financial statements at issue. 
+
+       41.    The reduction in the residual value estimate and the resulting impact on Fund 11’s 
+financial results was particularly relevant because residual values were a key component of the 
+Leasing Funds’ business model.  The Leasing Funds’ ability  to achieve their anticipated rates of 
+investment return depended in large part on Icon’s ability  to realize their assets’ value at the end of 
+the leases, and the possible inability  to realize the estimated residual asset values was identified  as 
+a risk factor in the Leasing Funds’ Forms 10-K. 
+                                               13   
+---------------------Page 14---------------------
+
+Inaccurate Disclosure of the Methodology for Calculating ERISA Valuation 
+
+       42.    In addition,  Icon failed to accurately disclose in multiple  Forms 10-K for Funds 9, 
+10, 11 and 12 the methodology  used to calculate the estimated value of Leasing Fund interests for 
+ERISA reporting purposes.  Under applicable rules, the Leasing Funds were required to calculate 
+and report the estimated value of their member interests for ERISA purposes in the event that the 
+Leasing Fund “assets were sold in an orderly liquidation  as of the close of [the] fiscal year and all 
+proceeds from such sales, without reduction for transaction costs and expenses, together with any 
+cash held by [the Leasing Fund], were distributed to the members upon liquidation.” 
+
+       43.    Until 2014, the relevant annual reports stated that this value was calculated as 
+follows:   
+
+       [W]e calculated the sum of:  (i) the unpaid finance lease and note receivable payments on 
+       our existing finance leases and notes receivable, discounted at the implicit  yield for each 
+       such transaction; (ii) the fair market value of our operating leases, equipment held for sale 
+       or lease, and other assets, as determined by the most recent third-party appraisals we have 
+       obtained for certain assets or our Manager’s estimated values of certain other assets, as 
+       applicable; and (iii) our cash on hand.  From this amount, we then subtracted our total debt 
+       outstanding and then divided  the difference by the total number of Shares outstanding 
+       [emphasis added]. 
+
+       44.    However, Icon did not disclose in the annual reports that to determine the “fair 
+market value” of assets for these purposes, Icon used the greater of net book value or fair market 
+value when impairment  was not taken.  For example, in the 2010 Forms 10-K for Funds 9, 10, 11 
+and 12, Icon’s ERISA methodology  resulted in Icon using the $31 million  net book value of the 
+Mayon as its “fair market value” for purposes of the ERISA calculation,  which was substantially 
+below the vessel’s appraised and fair values for the reasons discussed above in paragraphs 11-15. 
+
+       45.    Icon subsequently corrected this omission  and, beginning  with the year ended 
+December 31, 2013, changed the disclosure in the Leasing Funds’ Forms 10-K to expressly state 
+that the “greater of net book value or fair market value” was used in the ERISA calculation. 
+
+                                         VIOLATIONS 
+
+       46.    By reason of the foregoing,  Icon was a cause of the relevant Leasing Funds’ 
+violations  of Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 13a-1, 
+Rule 13a-13 and 12b-20 thereunder.  As described above, Funds 9, 10, 11 and 12 filed annual and 
+quarterly reports that included financial statements that were not prepared in accordance with 
+GAAP, as required by Regulation  S-X.  Those Leasing Funds also violated Section 13(b)(2)(A) by 
+not keeping accurate books and records, and violated Section 13(b)(2)(B) by not devising  and 
+maintaining  a sufficient system of internal accounting controls.  As the entity that performed and 
+was responsible for the Leasing Funds’ accounting functions, including  their recordkeeping and 
+internal control functions, and for the preparation of the Leasing Funds’ financial statements and 
+periodic reports, Icon caused the Leasing Funds’ violations  of these financial reporting, 
+recordkeeping and internal control provisions. 
+
+                                                14   
+---------------------Page 15---------------------
+
+                                               IV. 
+
+       In view of the foregoing, the Commission  deems it appropriate to impose the sanctions 
+agreed to in Respondent Icon’s Offer. 
+
+       Accordingly,  it is hereby ORDERED that: 
+
+       A.     Pursuant to Section 21C of the Exchange Act, Respondent Icon cease and desist 
+from committing  or causing any violations  and any future violations  of Sections 13(a), 13(b)(2)(A), 
+13(b)(2)(B) of the Exchange Act and Rules 12b-20, 13a-1, and 13a-13 thereunder.  
+
+       B.     Respondent shall pay a civil money penalty of $750,000  to the Securities and 
+Exchange Commission  for transfer to the general fund of the United States Treasury, subject to 
+Exchange Act Section 21F(g)(3).  Payment shall be made in installments  according to the 
+following  schedule: 
+
+             An initial  payment of $150,000  due within 10 days after the entry of this Order. 
+             An additional payment of $85,000 due within 90 days after the entry of this Order. 
+             An additional payment of $85,000 due within 180 days after the entry of this Order. 
+             An additional payment of $85,000 due within 270 days after the entry of this Order. 
+             An additional payment of $85,000 due within 360 days after the entry of this Order. 
+             An additional payment of $85,000 due within 450 days after the entry of this Order. 
+             An additional payment of $85,000 due within 540 days after the entry of this Order. 
+             An additional payment of $90,000 due within 630 days after the entry of this Order. 
+
+       C.     If any payment is not made by the date the payment is required by this Order, the 
+entire outstanding balance of civil penalties, plus any additional  interest accrued pursuant to 31 
+U.S.C. § 3717, shall be due and payable immediately,  without further application. 
+
+       D.     Payment must be made in one of the following  ways:   
+
+               (1)    Respondent may transmit payment electronically  to the Commission,  which 
+                      will provide detailed ACH transfer/Fedwire instructions upon request;  
+
+               (2)    Respondent may make direct payment from a bank account via Pay.gov 
+                      through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or  
+
+               (3)     Respondent may pay by certified check, bank cashier’s check, or United 
+                      States postal money order, made payable to the Securities and Exchange 
+                      Commission  and hand-delivered or mailed to:  
+
+               Enterprise Services Center 
+               Accounts Receivable Branch 
+               HQ Bldg., Room 181, AMZ-341 
+               6500 South MacArthur Boulevard 
+               Oklahoma City, OK 73169 
+
+                                                15   
+---------------------Page 16---------------------
+
+       E.     Payments by check or money order must be accompanied by a cover letter 
+identifying  Icon as a Respondent in these proceedings, and the file number of these proceedings; a 
+copy of the cover letter and check or money order must be sent to Sanjay Wadhwa, Division  of 
+Enforcement, Securities and Exchange Commission,  New York Regional Office, 200 Vesey Street, 
+Suite 400, New York, New York 10281. 
+
+       F.     Amounts ordered to be paid as civil money penalties pursuant to this Order shall be 
+treated as penalties paid to the government for all purposes, including  all tax purposes.  To 
+preserve the deterrent effect of the civil  penalty, Respondent agrees that in any Related Investor 
+Action, it shall not argue that it is entitled to, nor shall it benefit by, offset or reduction of any 
+award of compensatory damages by the amount of any part of Respondent’s payment of a civil 
+penalty in this action ("Penalty Offset").  If the court in any Related Investor Action grants such a 
+Penalty Offset, Respondent agrees that it shall, within  30 days after entry of a final order granting 
+the Penalty Offset, notify the Commission's counsel in this action and pay the amount of the 
+Penalty Offset to the Securities and Exchange Commission.   Such a payment shall not be deemed 
+an additional  civil  penalty and shall not be deemed to change the amount of the civil  penalty 
+imposed in this proceeding.  For purposes of this paragraph, a "Related Investor Action" means a 
+private damages action brought against Respondent by or on behalf of one or more investors based 
+on substantially  the same facts as alleged in the Order issued by the Commission  in this 
+proceeding. 
+
+       By the Commission. 
+
+ 
+ 
+                                                     Brent J. Fields 
+                                                     Secretary 
+
+                                                16   

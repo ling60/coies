@@ -1,0 +1,1023 @@
+---------------------Page 1---------------------
+
+ 
+
+                       UNITED STATES OF AMERICA 
+                                 Before the 
+                SECURITIES AND EXCHANGE COMMISSION 
+                                      
+SECURITIES ACT OF 1933 
+Release No. 10369 / June 9, 2017 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 80901 / June 9, 2017 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3874 / June 9, 2017 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-18020 
+ 
+ 
+                                  
+In the Matter of 
+                                        ORDER INSTITUTING PUBLIC 
+ 
+                                        ADMINISTRATIVE AND CEASE-AND-
+     MICHAEL B. HAYFORD, 
+                                        DESIST PROCEEDINGS PURSUANT 
+     KEVIN D. McCLELLAND, 
+                                        TO SECTIONS 8A OF THE 
+     CPA, and DANIEL L. 
+                                        SECURITIES ACT OF 1933, SECTIONS 
+     ROTHBAUM, CPA. 
+                                        4C AND 21C OF THE SECURITIES 
+                                        EXCHANGE ACT OF 1934 AND RULE 
+Respondents.                             102(e) OF THE COMMISSION’S 
+                                                    
+                                                                 
+                                                                     
+                                                            
+
+                                  
+ 
+ 
+ 
+                                    I. 
+
+      The Securities and Exchange Commission (“Commission”) deems it appropriate that 
+cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the 
+Securities Act of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 
+1934 (“Exchange Act”), against Michael B. Hayford, Kevin D. McClelland, CPA and Daniel L. 
+Rothbaum, CPA (collectively, “Respondents”), and that public administrative proceedings be, 
+
+ 
+---------------------Page 2---------------------
+
+ 
+
+                                                                                             1
+and hereby are, instituted against McClelland and Rothbaum pursuant to Section 4C              of the 
+                                                                                      2
+Exchange Act and Rule 102(e)      (1)(iii)   of the Commission’s Rules of Practice.     
+
+                                                    II. 
+
+        In anticipation of the institution of these proceedings, Respondents have submitted Offers 
+of Settlement (the “Offers”) which the Commission has determined to accept. Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the 
+findings herein, except as to the Commission’s jurisdiction over them and the subject matter of 
+these proceedings, which are admitted, and except as provided herein in Section V, Respondents 
+consent to the entry of this Order Instituting Administrative and Cease-and-Desist Proceedings 
+Pursuant to Section 8A of the Securities Act of 1933, Sections 4C and 21C of the Securities 
+Exchange Act of 1934 and Rule 102(e) of the Commission’s Rules of Practice, Making Findings 
+and Imposing Remedial Sanctions and Cease-and-Desist Orders (“Order”), as set forth below.  
+
+                                                    III. 
+
+                                                                                           3
+        On the basis of this Order and Respondents’ Offers, the Commission finds             that:  
+
+                                              SUMMARY 
+
+        1.      UniTek Global Services, Inc. (“UniTek”) was until August 2014 a NASDAQ-
+listed U.S. company that provided infrastructure services to telecommunications, broadband 
+cable, wireless, transportation and other industries.  In April 2011, UniTek purchased Pinnacle 
+
+                                                 
+ 
+
+1
+        Section 4C provides, in relevant part, that:  
+ 
+                The Commission may censure any person, or deny, temporarily or permanently, to any person the 
+                privilege of appearing or practicing before the Commission in any way, if that person is found . . . 
+                (1) not to possess the requisite qualifications to represent others . . . (2) to be lacking in character 
+                or integrity, or to have engaged in unethical or improper professional conduct; or (3) to have 
+                willfully violated, or willfully aided and abetted the violation of, any provision of the securities 
+                laws or the rules and regulations thereunder. 
+
+ 
+2
+        Rule 102(e)(1)(iii) provides, in pertinent part, that:   
+
+ 
+                The Commission may . . . deny, temporarily or permanently, the privilege of appearing or 
+                practicing before it . . . to any person who is found…to have willfully violated, or willfully aided 
+                and abetted the violation of any provision of the Federal securities laws or the rules and 
+                regulations thereunder. 
+
+ 
+3
+        The findings herein are made pursuant to Respondents’ Offers of Settlement and are not binding on any 
+other person or entity in this or any other proceeding. 
+
+                                                     2 
+ 
+ 
+---------------------Page 3---------------------
+
+ 
+
+                           4
+Wireless, Inc. (“Pinnacle”),  a company whose largest source of revenue was a contract with the 
+Port Authority of New York and New Jersey to provide equipment and services for rebuilding 
+portions of the World Trade Center.  As part of this project, Pinnacle entered into numerous 
+long-term contracts with subcontractors to provide equipment and systems for use in the 
+construction.   
+
+       2.     Between October 2011 and November 2012 (the “Relevant Period”), UniTek 
+materially overstated its earnings in public filings with the Commission by improperly 
+recognizing revenue generated by Pinnacle.  The inaccuracies in UniTek’s publicly filed 
+financial statements arose from the premature recognition of revenue based on goods and 
+services purchased from subcontractors using the percentage of completion accounting model.  
+These misstatements were the result of Respondents’ conduct described below and UniTek’s 
+lack of sufficient internal accounting controls regarding proper revenue recognition for such 
+goods and services. 
+
+       3.     On April 12, 2013, UniTek filed a Form 8-K with the Commission disclosing that 
+several Pinnacle employees had engaged in “fraudulent activities that resulted in improper 
+revenue recognition.”  The activities included requesting invoices from six different 
+subcontractors retained to provide goods and services to the company, and prematurely 
+recognizing revenue.  As a result, UniTek announced that its previously issued consolidated 
+financial statements for each of the quarters from October 1, 2011 through September 29, 2012, 
+and the fiscal year ended December 31, 2011 should no longer be relied on.  For reporting 
+purposes, Pinnacle’s financial information was consolidated with UniTek’s Engineering & 
+Construction Segment, which was one of two segments broken out separately in UniTek’s 
+quarterly and annual financial statements.  UniTek also announced that it had terminated certain 
+employees which included Respondents, among others.  The price of UniTek stock shares 
+dropped 50%, from $3.01 per share to $1.52 per share on the trading day following this 
+announcement. 
+
+       4.     On August 12, 2013, UniTek filed a 10-K restating its financial information for 
+the aforementioned periods, and disclosing material weaknesses in its internal control over 
+financial reporting related to: entity level monitoring controls over the Pinnacle division; internal 
+audit monitoring controls for the investigation and reporting of significant matters to the audit 
+committee and board of directors; revenue and cost recognition under the percentage-of-
+completion method of accounting; and maintaining sufficiently experienced accounting 
+personnel.  The combination of the above internal material weaknesses resulted in material 
+misstatements of UniTek’s financial statements that were not prevented or detected on a timely 
+basis.    
+
+                                                 
+ 
+
+4
+       After the acquisition, Pinnacle Wireless, Inc. became Pinnacle Wireless, USA, a division of UniTek.  
+Pinnacle, as used herein, refers to the division, not the predecessor company.   
+
+                                                3 
+ 
+ 
+---------------------Page 4---------------------
+
+ 
+
+       5.     Throughout the Relevant Period, UniTek utilized the percentage of completion 
+(“POC”) method as a model for recognizing revenue.  POC accounting is an accounting method 
+for incrementally recognizing revenue in connection with long-term contracts as progress is 
+achieved toward contract completion.  UniTek measured progress using the cost-to-cost method 
+under which costs incurred to date for the contract are divided by the total amount of costs 
+expected to be incurred upon completion of the contract.  The percentage completion figure is 
+then multiplied by the total project revenue to compute the amount of revenue that can be 
+recognized as of that date.       
+
+       6.     During the Relevant Period UniTek set internal quarterly financial targets and, as 
+Pinnacle’s President, Hayford was responsible for setting and monitoring Pinnacle’s internal 
+forecasts.  Hayford, who did not have a background in accounting and had no independent 
+knowledge of the POC method of accounting, approached Rothbaum, Pinnacle’s Controller, and 
+McClelland, UniTek’s Corporate Controller/Chief Accounting Officer to inquire whether costs 
+and associated revenue could be recognized based upon the receipt of an invoice from a 
+subcontractor under a long-term contract prior to the final delivery of goods or services.  This 
+inquiry was significant because under the POC method for long-term contracts, revenue is 
+incrementally recognized based on a ratio of costs incurred to date compared with estimated 
+contract costs.  In these facts and circumstances, recognizing costs based on receipt of an invoice 
+would have had the effect of allowing the company to recognize revenue earlier than it would 
+have if it properly waited to do so until goods and services were actually delivered.  
+
+       7.     McClelland, who received a Certified Public Accountant (“CPA”) certificate, and 
+Rothbaum, who is a CPA,  were inexperienced in the POC method of accounting as applied to 
+costs incurred for custom goods, and did not fully understand the relevant accounting principles 
+with respect to this issue.  Furthermore, neither individual sought advice from outside experts, 
+conducted research, or sought training on the issue.  As a result, they gave Hayford advice that 
+was vague and erroneously indicated that costs and associated revenue could be recognized 
+based upon the receipt of an invoice rather than upon the delivery of goods or services, provided 
+that the invoice matched the corresponding purchase order and certain other conditions were met.  
+Hayford, in turn, knew or should have known that, notwithstanding the advice he had received 
+from McClelland and Rothbaum, it was improper to recognize revenue based on several of the 
+invoices at issue because they contained inaccurate information about the value of goods 
+delivered, payment terms, and quantity of work already completed.    
+
+       8.     Not only was this accounting advice incorrect, McClelland, Rothbaum and 
+Hayford knew or should have known that UniTek lacked sufficient internal accounting controls 
+over its process for recording and monitoring Pinnacle purchase orders.  Hayford, as Pinnacle’s 
+President, was most knowledgeable about the inability to accurately track purchase orders for 
+comparison to invoices, yet he did not seek clarifying advice from Rothbaum, McClelland, or 
+anyone else, to determine whether the invoices could still be relied upon as a basis for 
+recognizing revenue.    
+
+       9.     Based on this erroneous advice, Hayford, Rothbaum, and others working at their 
+direction, contacted subcontractors with whom UniTek had contracted to build custom ordered 
+equipment or provide services, and requested they send invoices prematurely; i.e. before all, or in 
+
+                                               4 
+ 
+ 
+---------------------Page 5---------------------
+
+ 
+
+some cases any, of the invoiced equipment or services had been delivered and without regard to 
+the costs incurred by the subcontractor.  In many instances the invoices were also facially 
+inaccurate.  Erroneously believing to be in compliance with Generally Accepted Accounting 
+Principles (“GAAP”), the Respondents relied on these invoices as a basis to recognize revenue.  
+Because they misapplied GAAP and failed to confirm the accuracy of certain invoices, their 
+negligent conduct resulted in UniTek prematurely recognizing revenue and filing false and 
+misleading financial statements.            
+
+       10.    In the course of the foregoing, and by their respective acts and omissions detailed 
+below, Hayford, McClelland and Rothbaum committed or caused various violations of the 
+antifraud, internal accounting controls, books-and-records, and reporting provisions of the 
+federal securities laws.   
+
+                                      RESPONDENTS 
+
+       11.    Michael B. Hayford, age 48, is a resident of El Cajon, CA.  Hayford was 
+President and one of the founders of Pinnacle Wireless, Inc.  In April 2011, Pinnacle Wireless, 
+Inc. was acquired by UniTek and became Pinnacle Wireless, USA, a division of UniTek.  From 
+April 2011 through April 2013, Hayford served as Division President of Pinnacle Wireless, 
+USA.  In April 2013, UniTek terminated Hayford’s employment.    
+
+       12.    Kevin D. McClelland, age 53, is a resident of Newtown Square, PA.  From 2009 
+through 2013, McClelland served as UniTek’s Chief Accounting Officer and Corporate 
+Controller.  In April 2013, UniTek terminated McClelland’s employment.  He passed the CPA 
+exam and received a CPA certificate from the State of Illinois in 1987. 
+
+       13.    Daniel L. Rothbaum, age 49, is a resident of Stamford, CT.  From September 
+2011 through December 2012, Rothbaum served as Pinnacle’s Controller.  Between December 
+2012 and February 2013, Rothbaum served as Pinnacle’s Accounting Manager.  Rothbaum 
+reported to McClelland on accounting related matters, including revenue recognition issues.  In 
+April 2013, Rothbaum was terminated by UniTek.  He is a CPA licensed in New York. 
+
+          
+
+                             OTHER RELEVANT ENTITIES 
+
+       14.    UniTek was a publicly traded company incorporated in Delaware with its 
+principal executive offices in Blue Bell, PA.  From 2010 to 2014, UniTek’s common stock was 
+registered with the Commission pursuant to Section 12(b) of the Exchange Act and quoted under 
+the symbol “UNTK” on the NASDAQ Stock Market.  The Company’s shares were delisted from 
+NASDAQ in August 2014, and the company filed for bankruptcy protection in November 2014.  
+The company is now privately owned.  At all relevant times, UniTek’s fiscal year coincided with 
+the calendar year.  
+
+       15.    Pinnacle is a wholly owned subsidiary of UniTek that was acquired by the 
+company in April 2011.  Before being bought by UniTek, Pinnacle was privately owned by 
+
+                                              5 
+ 
+ 
+---------------------Page 6---------------------
+
+ 
+
+several individuals, including Hayford.  Pinnacle’s financial results and disclosures were 
+incorporated into UniTek’s public filings.   
+
+           APPLICABLE GAAP PROVISIONS AND UNITEK’S POLICY FOR  
+           PERCENTAGE OF COMPLETION METHOD OF ACCOUNTING 
+
+       16.    Throughout the Relevant Period, UniTek utilized the POC method of accounting 
+as the revenue recognition model for its long-term construction-type contracts.  Prior to the 
+Pinnacle acquisition in 2011, UniTek had limited experience with contract accounting for long-
+term construction-type contracts.   
+
+       17.    FASB Accounting Standards Codification 605 (“ASC 605”) states that the POC 
+methodology is one of two generally acceptable accounting methods for revenue recognition 
+over long-term construction-type contracts.  The POC method recognizes income incrementally 
+as progress is achieved toward contract completion using reasonably dependable estimates about 
+the extent of progress toward completion, contract revenues and contract costs. 
+
+       18.     Pursuant to GAAP, income is recognized as a percentage of estimated total 
+income either (a) that incurred costs to date bear to estimated total costs after giving effect to 
+estimates of costs to complete based on most recent information; or (b) that may be indicated by 
+another measure of progress toward completion as may be appropriate based on work performed.  
+See ASC 605-35-25-52.  When calculating progress toward completion, costs incurred that do 
+not relate to contract performance are not included in calculating progress toward completion.  
+These include the costs of items such as uninstalled materials not specifically produced or 
+fabricated for the project or of subcontracts that have not been performed.  ASC 605-35-25-75.    
+
+       19.    Using the POC method, UniTek applied the cost-to-cost method of measuring 
+progress toward contract completion.  Pursuant to this method, progress (the percentage 
+complete) is determined using cost input measures and involves dividing costs incurred to date 
+for the contract by the total amount of costs expected to be incurred for the contract. The 
+percentage completed figure is then multiplied by the total project revenue to compute revenue to 
+date.  The difference between revenue to date and costs incurred to date is the profit earned to 
+date. 
+
+       20.    UniTek’s internal accounting policy addressing its use of the cost-to-cost method 
+stated that with respect to the wireless portion of the Engineering and Construction Segment, 
+which included Pinnacle, “revenue from infrastructure equipment construction and installation 
+contracts is recorded under the percentage of completion method based on the percentage that 
+total direct costs incurred to date bear to estimated total costs at completion.”  The policy for 
+revenue recognition stated “revenue is recognized on a percentage of completion basis based on 
+costs incurred and invoiced upon completion of the job.  Revenue is recorded as Unbilled AR 
+until invoiced.”     
+
+       21.    Contract costs generally include all direct costs, such as materials, direct labor and 
+subcontracts, and indirect costs identifiable with or allocable to the contracts.  See ASC 605-35-
+25-34.  Costs are recognized under a POC model in the period in which the acquired asset is used 
+
+                                               6 
+ 
+ 
+---------------------Page 7---------------------
+
+ 
+
+                  5
+to produce output.   ASC 605  -35-25-32 requires that contract costs be identified, estimated, and 
+accumulated with a reasonable degree of accuracy in determining income earned.       GAAP 
+requires that entities using the cost-to -cost method periodically review and confirm cost inputs 
+using alternative measures that involve observation and ins  pection.  See ASC 605  -35-25-78.    
+
+                                              FACTS 
+
+                                 Premature Revenue Recognition 
+
+       22.     In April 2011, UniTek acquired Pinnacle for an aggregate purchase price of up to 
+$50.7 million, consisting of a base purchase price of $20.7 million in cash and UniTek securities 
+and earn out payments up to $30.0 million in contingent consideration pursuant to the Asset 
+Purchase Agreement (“Agreement”).  Under the terms of the Agreement, UniTek agreed to pay 
+Pinnacle’s prior owners, including Hayford, additional compensation if the division met certain 
+milestones.  Specifically, the Agreement provided that the owners would receive up to three 
+separate earn-out payments in an amount not to exceed an aggregate of $30 million in cash and 
+UniTek securities if they met performance milestones during the period April 3, 2011 to 
+September 30, 2011, April 3, 2011 to March 31, 2012, and April 1, 2012 to March 31, 2013.       
+
+       23.     During the Relevant Period, Pinnacle provided internal forecasts estimating 
+revenue for each quarter.  Because completion of the World Trade Center project was taking 
+longer than anticipated, it became apparent to Hayford and Rothbaum that Pinnacle would not 
+meet its late 2011 internal forecasts. 
+
+       24.    Hayford approached Rothbaum and McClelland to discuss whether Pinnacle 
+could recognize revenue based upon the receipt of an invoice from a subcontractor who had 
+agreed to provide custom equipment for Pinnacle, but had not yet performed under the contract.  
+Despite their inexperience with POC accounting, neither Rothbaum nor McClelland sought 
+advice from experts on the issue.  Rothbaum, Pinnacle’s Controller, did not do any independent 
+research on the topic nor did he review UniTek’s internal policies regarding revenue recognition.  
+Instead, Rothbaum, who reported to McClelland, relied entirely upon McClelland, UniTek’s 
+Chief Accounting Officer and Controller, for information on the topic.  McClelland did not 
+consult with outside experts or conduct independent research and instead provided advice to 
+Rothbaum that was vague and incorrect.  Rothbaum, in turn, provided that vague and incorrect 
+advice to Hayford. 
+
+       25.    McClelland told Rothbaum that it was acceptable to recognize revenue based 
+upon the receipt of an invoice for goods or services that had not yet been delivered so long as the 
+invoice “matched” the purchase order.  McClelland did not properly explain what this meant and 
+Rothbaum did not seek clarification.  McClelland further advised Rothbaum that if goods are not 
+received or shipped prior to the receipt of the invoice, Rothbaum needed to ensure the invoice 
+
+                                                 
+ 
+
+5
+ See FASB Statement of Concepts 6, Elements of Financial Statements. 
+
+                                                 7 
+ 
+ 
+---------------------Page 8---------------------
+
+ 
+
+followed the purchase order terms, the goods were not cancellable and the materials were 100% 
+custom for the World Trade Center project.  Rothbaum told Hayford that to recognize revenue 
+based upon receipt of the invoice, he needed to make sure the invoice stated “that the materials 
+are for custom built equipment for the World Trade Center project.”  
+
+       26.    Notwithstanding the guidance he received from McClelland and Rothbaum, 
+Hayford knew or should have known that it was improper to recognize revenue based on the 
+invoices because they contained inaccurate information about the value of goods delivered, 
+payment terms, and quantity of work already completed.  In particular, it was unreasonable for 
+Hayford to push for revenue recognition based on invoices that he knew: (a) inaccurately 
+reflected that goods had already been shipped or services had already been performed; or (b) 
+contained material terms that were inconsistent with the corresponding purchase orders.     
+
+       27.    Based on this advice, beginning in late 2011, in certain instances, UniTek 
+recorded costs as incurred for POC purposes upon receipt of invoices from subcontractors rather 
+than basing recognition of costs properly upon the related goods being received or services 
+rendered or upon the subcontractors incurring costs related to contract performance necessary to 
+allow UniTek to recognize the associated revenue.  Hayford, Rothbaum, and other Pinnacle 
+employees acting at their direction solicited invoices from six different subcontractors who were 
+in the process of building equipment or providing services to the company in connection with the 
+World Trade Center project.   
+
+       28.    This had the effect of increasing the cost-to-cost percentage complete calculation 
+and thus increased the revenue and resulting profit for UniTek’s Engineering and Construction 
+segment each fiscal quarter.  Hayford and Rothbaum solicited these invoices knowing that not all 
+of the billed costs were incurred by UniTek.  The invoices in question prematurely billed 
+Pinnacle for amounts ranging from approximately $20,000 to $1.7 million.   
+
+       29.    UniTek first recorded costs as incurred for POC purposes upon the receipt of an 
+invoice rather than upon the goods or services themselves being provided in December 2011.  In 
+this instance, Hayford requested the subcontractor issue an invoice for as much as possible 
+almost immediately after entering into a purchase agreement.  No equipment had been shipped, 
+and the subcontractor had not yet provided any services or incurred any costs.  UniTek 
+improperly recognized revenue of approximately $860,000 in the fourth quarter of 2011 based 
+upon the receipt of this invoice.   
+
+       30.    On March 27, 2012, after additional requests from Hayford and another Pinnacle 
+employee, this same subcontractor issued Pinnacle an invoice for approximately $310,000 
+despite only having shipped approximately $166,000 worth of equipment to Pinnacle.  UniTek 
+improperly recognized revenue of over $225,000 for the first quarter of 2012 based on this 
+invoice.   
+
+       31.    Further, Hayford knew or should have known that the invoices from this 
+subcontractor were inaccurate because the first invoice incorrectly stated that all equipment had 
+been delivered when it had not, and the second invoice over-reported the amount of equipment 
+that had been delivered.  Despite these inaccuracies and the difficulties with identifying original 
+
+                                               8 
+ 
+ 
+---------------------Page 9---------------------
+
+ 
+
+purchase order terms, Hayford did not seek clarifying information about whether inaccurate 
+invoices could be relied upon for purposes of POC accounting.  
+
+       32.    On several other occasions during the first three quarters of 2012, upon the 
+request of Hayford, Rothbaum and/or other Pinnacle employees, subcontractors issued invoices 
+to Pinnacle for dollar amounts in excess of the value of equipment provided to the company or 
+greater than Pinnacle was then obligated to pay.   
+
+       33.    For example, in the first quarter of 2012, Pinnacle hired a subcontractor to 
+produce custom radio and communications equipment.  The purchase order for this equipment, 
+dated February 15, 2012, included the following term:  “Request:  IMPORTANT NOTE:  SHIP 
+DATE MARCH 26, 2012.”  The purchase order did not set forth a payment schedule or require 
+Pinnacle to make any payments prior to delivery of equipment.  On March 12, 2012 this 
+subcontractor notified Rothbaum, Hayford, and others that it would not be shipping all of the 
+equipment by the “ship date” of March 26, or even the end of the month, i.e. end of the first 
+quarter, and that only a partial shipment would be made by quarter-end.   
+
+       34.    Hayford instructed a Pinnacle employee to request that the subcontractor issue an 
+invoice for the full amount of the order.  On March 16, 2012, the subcontractor issued an invoice 
+to Pinnacle for the full $345,690.  This invoice was premature because no equipment was 
+shipped as of that date.  By month’s end, a partial delivery had been made, but not the full 
+amount reported in the invoice.  As a result, UniTek improperly over-recognized revenue of 
+approximately $200,000 for the first quarter of 2012 based on the inflated costs associated with 
+this invoice.   
+
+       35.    In another instance, a subcontractor retained to provide engineering services to 
+Pinnacle in connection with the World Trade Center project issued invoices for services not yet 
+completed.  Under the terms of the purchase order, dated March 1, 2012, Pinnacle agreed to pay 
+the subcontractor on a bi-monthly basis for all engineering services provided.  The total costs to 
+Pinnacle for the agreed upon services was $565,275.   
+
+       36.    On May 25, 2012, the subcontractor issued an invoice to Pinnacle for $45,980; an 
+amount purporting to represent $19,980 of engineering services provided in May and $26,000 of 
+engineering services provided in June.  Although, over time, the subcontractor provided some 
+services to Pinnacle, the portion of the invoice related to part of May and all of June should not 
+have been recorded as a cost incurred for POC purposes since the services had not yet been 
+provided.   
+
+       37.    A Pinnacle employee acting at the direction of Hayford and Rothbaum instructed 
+the subcontractor to issue invoices every month for as much as possible.  From June 2012 
+through September 2012, Pinnacle received monthly invoices for $103,859 with each of the 
+invoices seeking payment in advance for services to be performed the following month.  For 
+example, the invoice issued July 27, 2012, stated it was for “August Office Engineering 
+Services.”   
+
+                                               9 
+ 
+ 
+---------------------Page 10---------------------
+
+ 
+
+       38.    Respondents knew, or should have known, that the invoices created by the 
+subcontractor were issued prematurely.  It was clear from the face of the invoices, which 
+Rothbaum and McClelland reviewed, that the invoices were sent monthly rather than bi-monthly 
+as agreed to, provided no detail about the work performed, were for future time periods, and 
+were for an identical amount of money each month.  Further, Hayford and Rothbaum were told 
+by Pinnacle staff that this subcontractor had not yet completed the services reflected on the 
+invoices.  UniTek overstated revenue of more than $150,000 in the second quarter of 2012 and 
+more than $350,000 in the third quarter of 2012 as a result of these invoices. 
+
+                UniTek’s Public Filings Contained Material Misrepresentations 
+
+       39.    Because UniTek prematurely recognized revenue, its quarterly and annual reports 
+with the Commission contained material misrepresentations regarding the financial performance 
+of the Engineering and Construction segment, which included Pinnacle.  The Engineering and 
+Construction segment represented 33% of UniTek’s fiscal year 2011 reported revenue and 30% 
+of UniTek’s fiscal year 2012 reported revenue.  The Engineering and Construction segment 
+played a significant role in UniTek’s operations and profitability.   
+
+       40.    On March 7, 2012, UniTek filed its Form 10-K with the Commission which 
+incorporated the 2011 fourth quarter results.  In its filing, UniTek included revenue from the 
+Engineering and Construction segment of approximately $143 million for the 2011 fiscal year of 
+which nearly $40 million related to revenue from the Engineering and Construction segment for 
+the last quarter of 2011.  As a result of the conduct described herein, this figure over-reported the 
+segment’s quarterly revenues by 2.2%.  Further, UniTek under-reported the Engineering and 
+Construction segment’s quarterly losses by 4.9%. 
+
+       41.    UniTek filed its Q1 2012 Form 10-Q with the Commission on May 9, 2012.  In its 
+filing, UniTek reported revenue of approximately $38 million from the Engineering and 
+Construction segment.  As a result of the conduct described herein, this figure over-reported the 
+segment’s quarterly revenues by 10.3%.  Further, UniTek under-reported the segment’s quarterly 
+losses by 38.9%. 
+
+       42.    UniTek filed its Q2 2012 Form 10-Q with the Commission on August 8, 2012. In 
+its filing, UniTek reported revenue of approximately $43.5 million from the Engineering and 
+Construction segment.  As a result of the conduct described herein, this figure over-reported the 
+segment’s quarterly revenues by 4.6%.  Further, UniTek under-reported the segment’s quarterly 
+losses by 224.9%. 
+
+       43.    UniTek filed its Q3 2012 Form 10-Q with the Commission on November 8, 2012. 
+In its filing, UniTek reported revenue of approximately $47.5 million from the Engineering and 
+Construction segment.  As a result of the conduct described herein, this figure over-reported the 
+segment’s quarterly revenues by 7.2%.  Further, UniTek overstated the segment’s quarterly 
+income by 73.4%. 
+
+                                                
+
+                                                
+                                              10 
+ 
+ 
+---------------------Page 11---------------------
+
+ 
+
+                    UniTek’s Lax Internal Accounting Control Environment 
+
+       44.    During the Relevant Period, UniTek had material weaknesses in its internal 
+control over financial reporting that compromised the company’s ability to prevent or detect 
+material misstatements of revenue and earnings on both a reportable segment and consolidated 
+basis.  Specifically, UniTek lacked the sufficiently trained accounting personnel necessary to 
+ensure that revenue was appropriately recognized. 
+
+       45.    With respect to the POC method of accounting, UniTek failed to implement 
+alternative measures involving observation or inspection to periodically review and confirm cost 
+inputs.  Neither UniTek nor Pinnacle had controls in place to verify cost inputs by validating the 
+receipt of goods and services invoiced by subcontractors or that the subcontractors had incurred 
+the costs necessary to allow UniTek to recognize the associated revenue.   
+
+       46.    UniTek also lacked the internal accounting controls necessary to track when 
+modifications to Pinnacle purchase orders were made and determine which version of the 
+purchase orders were final for purposes of determining UniTek’s costs incurred.  In addition, 
+UniTek lacked internal accounting controls necessary to ensure that payment terms included on 
+the purchase orders were clear and ascertainable.  In fact, many of Pinnacle’s purchase orders 
+were vague and unclear as to when the company would become financially liable to its 
+subcontractors.  Several purchase orders, for example, included billing milestones and payment 
+terms that were inconsistent and ambiguous. 
+
+       47.    Further, purchase orders and invoices relevant to the World Trade Center project 
+were stored on an internal database maintained by Pinnacle employees.  Although the terms of 
+purchase orders - including quantities ordered, delivery terms, and payment dates - were 
+modified by the parties over time, the internal database recorded the amended purchase orders 
+using the same date and purchase order number.  Accordingly, the database contained multiple 
+versions of identically dated purchase orders such that users were unable to determine when 
+change orders had taken place and which version of the purchase order was the most current.  
+Because UniTek and Pinnacle lacked policies or procedures to track the change order process 
+and maintain control over its purchase orders, the company’s employees were unable to identify 
+and confirm the final terms of the purchase order.     
+
+           Respondents Caused UniTek’s Failure to Devise and Maintain a Sufficient 
+                            System of Internal Accounting Controls 
+
+       48.    As Chief Accounting Officer and Corporate Controller, McClelland was 
+responsible for ensuring that he and his staff were adequately trained in revenue recognition, 
+including the POC method.  Similarly, Rothbaum, as Pinnacle’s Controller, was responsible for 
+ensuring that he was adequately trained in revenue recognition, including the POC method. 
+
+       49.    McClelland was also responsible for the accuracy of UniTek’s financial 
+statements, and for establishing and maintaining its internal accounting control environment.  
+McClelland, however, relied on Hayford and Rothbaum, and failed to ensure that the company 
+properly recorded revenue in compliance with GAAP.  McClelland also failed to implement 
+
+                                              11 
+ 
+ 
+---------------------Page 12---------------------
+
+ 
+
+sufficient internal accounting controls related to revenue recognition, notwithstanding his 
+awareness that Rothbaum was inexperienced in the POC method of accounting and that Hayford 
+had an incentive to prematurely recognize revenue. 
+
+       50.    Rothbaum, as Pinnacle’s Controller, was responsible for completing entries in 
+Pinnacle’s general ledger, which tracked costs that could impact revenue recognition at the 
+Pinnacle division and result in inaccurate financial statements filed by UniTek.  In addition, 
+Rothbaum was responsible for preparing the POC Checklist and POC Report, both of which 
+were reviewed by McClelland, and used by Rothbaum for completing the POC method 
+calculations.  The POC Checklist, which functioned as an internal control, included a list of tasks 
+to be completed monthly to track costs incurred, calculate progress completed and compute 
+revenue for the period.  For example, the POC Checklist required Rothbaum to review purchase 
+orders or signed contracts with subcontractors to determine whether UniTek could recognize 
+revenue based on costs incurred.    
+
+       51.    Rothbaum was aware that purchase order issues existed at Pinnacle that prevented 
+personnel from tracking change orders and confirming final contract terms.  Rothbaum was also 
+aware purchase orders were vague, incomplete, and often drafts.  Accordingly, Rothbaum knew 
+or should have known that Pinnacle could not reliably identify whether costs had been incurred 
+upon which UniTek could recognize revenue and that the POC Checklist was therefore 
+inherently flawed and could not satisfy its control objective.  The POC Report, also an internal 
+control, was a spreadsheet Rothbaum maintained to track costs and associated revenue.  Because 
+of the aforementioned change order tracking and purchase order issues and Rothbaum’s 
+inexperience in the POC method of accounting, Rothbaum and McClelland knew or should have 
+known that the POC Report was also inherently flawed and could not satisfy its control 
+objective.  
+
+       52.    Hayford, as Division President, was responsible for negotiating and approving 
+purchase orders and, at times, solicited premature invoices from Pinnacle’s subcontractors.  
+Hayford, like Rothbaum, was aware that final purchase orders were not easily identifiable within 
+the database, and that the payment terms identified in the purchase orders were often vague.  
+Further, Hayford knew that Rothbaum prepared the POC Checklist and POC Report based on 
+incomplete information saved on the database.  Thus, Hayford should have known that the POC 
+Checklist and POC Report could not satisfy their control objectives.    
+
+       53.    Rothbaum and Hayford executed quarterly sub-certifications during the Relevant 
+Period attesting that “adequate controls are in place and operating effectively for us to certify 
+that the revenue and EBITDA reported for the quarter are accurate representation of the 
+operations of the business” despite knowing, for example, that purchase orders were not 
+accurately tracked and maintained as they should have been and that UniTek and/or Pinnacle 
+otherwise lacked the information necessary to identify, estimate, and accumulate costs with a 
+reasonable degree of accuracy for, among other things, purposes of revenue recognition under 
+the POC method of accounting. 
+
+                                                
+
+                                              12 
+ 
+ 
+---------------------Page 13---------------------
+
+ 
+
+Respondents Caused UniTek’s Failure to Make and Keep Fair and Accurate Books and Records 
+
+       54.    During the Relevant Period, Respondents caused UniTek’s failure to maintain fair 
+and accurate books and records related to the POC method of accounting.  Respondents were 
+responsible for ensuring that all POC method revenue calculations and associated accounting 
+entries were appropriately performed, documented, and recorded.  Hayford and Rothbaum 
+solicited invoices that they knew did not accurately reflect timing of when the goods and services 
+were provided by the relevant subcontractors or when UniTek was obligated to pay the 
+associated costs, which led to the improper recording of revenue under GAAP.   
+
+       55.    Respondents were responsible for maintaining accurate records of transactions 
+with subcontractors and ensuring that the POC schedule was being properly maintained.  They 
+failed to maintain adequate records demonstrating that: (a) services had been provided by a 
+subcontractor; (b) materials related to the World Trade Center project had been shipped; or (c) 
+UniTek had otherwise incurred costs related to the World Trade Center project.   
+
+       56.    As a result of the conduct described above, Hayford, Rothbaum, and McClelland 
+caused UniTek’s reporting, record keeping, and internal accounting controls violations. 
+
+UniTek Registered the Offering of UniTek Shares Previously Issued to Hayford and Others  
+
+       57.    During the relevant period, UniTek filed a registration statement on Form S-3 to 
+register the offering of UniTek shares previously issued to Hayford and others.  The registration 
+statement incorporated certain filings, including, but not limited to, UniTek’s 2011 Form 10-K 
+and 2012 Form 10-Qs, which materially over-reported UniTek’s earnings and revenue.  
+
+                                          VIOLATIONS 
+
+       58.    As a result of the conduct described above, Hayford violated Securities Act 
+Section 17(a)(3), Exchange Act Section 13(b)(5), and Exchange Act Rule 13b2-1, and caused 
+UniTek to violate Exchange Act Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) and Rules 12b-20, 
+13a-1 and 13a-13 thereunder. 
+
+                                                                                   6
+       59.    As a result of the conduct described above, McClelland willfully       violated 
+Securities Act Section 17(a)(3), and  Exchange Act   Rule  13b2 -1, and caused  UniTek   to violate 
+Exchange Act Sections   13(a), 13(b)(2)(A), and 13(b)(2)(B) and Rules 12b    -20, 13a  -1  and  13a -13 
+thereunder. 
+
+                                                  
+ 
+
+6
+          A willful violation of the securities laws means merely “‘that the person charged with the duty knows what 
+he is doing.’” Wonsover v. SEC, 205 F.3d 408, 414 (D.C. Cir. 2000) (quoting Hughes v. SEC, 174 F.2d 969, 977 
+(D.C. Cir. 1949)). There is no requirement that the actor “‘also be aware that he is violating one of the Rules or 
+Acts.’” Id. (quoting Gearhart & Otis, Inc. v. SEC, 348 F.2d 798, 803 (D.C. Cir. 1965)).   
+
+                                                 13 
+ 
+ 
+---------------------Page 14---------------------
+
+ 
+
+       60.    As a result of the conduct described above, Rothbaum willfully violated Securities 
+Act Section 17(a)(3), Exchange Act Section 13(b)(5), and Exchange Act Rule 13b2-1, and 
+caused UniTek to violate Exchange Act Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) and Rules 
+12b-20, 13a-1, and 13a-13 thereunder. 
+
+       61.    As a result of the conduct described above, McClelland and Rothbaum willfully 
+violated the federal securities laws or rules and regulations thereunder pursuant to Section 4C of 
+the Exchange Act and Rule 102(e)(1)(iii) of the Commission’s Rules of Practice. 
+
+                                              IV. 
+
+       In view of the foregoing, the Commission deems it appropriate and in the public interest 
+to impose the sanctions agreed to in Respondents’ Offers. Accordingly, pursuant to Section 8A 
+of the Securities Act, Sections 4C and 21C of the Exchange Act and Rule 102(e) of the 
+Commission’s Rules of Practice, it is hereby ORDERED that: 
+
+              A.     Respondents Hayford, Rothbaum and McClelland cease and desist from 
+       committing or causing any violations and any future violations of Section 17(a)(3) of the 
+       Securities Act, Sections 13(a), 13(b)(2)(A) and (B) of the Exchange Act, and Rules 12b-
+       20, 13a-1, 13a-13, and 13b2-1 thereunder; and Respondents Hayford and Rothbaum 
+       further cease and desist from committing or causing any violations and any future 
+       violations of Section 13(b)(5) of the Exchange Act.  
+
+              B.     Respondent Hayford shall, within ten (10) days of the entry of this Order, 
+       pay disgorgement of $35,000 and prejudgment interest in the amount of $3,500, to the 
+       Securities and Exchange Commission for transfer to the general fund of the United States 
+       Treasury, subject to Exchange Act Section 21F(g)(3). Respondent Hayford shall pay a 
+       civil penalty of $125,000 to the Securities and Exchange Commission.  Payment of the 
+       civil penalty shall be made in the following installments:  one installment of $50,000 due 
+       within 10 days of the entry of this Order, and then three installments of $25,000 each plus 
+       post-judgment interest calculated in accordance with 28 U.S.C §1961(a) due within 90, 
+       180, and 270 days of the date of the entry of this Order.  If any payment is not made by 
+       the date the payment is required by this Order, the entire outstanding balance of 
+       disgorgement, prejudgment interest, and civil penalties, plus any additional interest 
+       accrued pursuant to SEC Rule of Practice 600 and/or 31 U.S.C. §3717, shall be due and 
+       payable immediately, without further application.    
+
+              C.     Respondent McClelland shall pay a civil money penalty in the amount of 
+       $75,000 to the Securities and Exchange Commission for transfer to the general fund of 
+       the United States Treasury, subject to Exchange Act Section 21F(g)(3). Payment shall be 
+       made in the following installments:  one installment of $25,000 due within 10 days of the 
+       entry of this Order, and then two installments of $25,000 each plus post-judgment interest 
+       calculated in accordance with 28 U.S.C §1961(a) due within 120, and 240 days of the 
+       date of the entry of this Order.  If any payment is not made by the date the payment is 
+       required by this Order, the entire outstanding balance of civil penalties, plus any 
+
+                                               14 
+ 
+ 
+---------------------Page 15---------------------
+
+ 
+
+       additional interest accrued pursuant to 31 U.S.C. §3717, shall be due and payable 
+       immediately, without further application.  
+
+              D.     Respondent Rothbaum shall, within ten (10) days of the entry of this 
+       Order, pay a civil money penalty in the amount of $25,000, to the Securities and 
+       Exchange Commission for transfer to the general fund of the United States Treasury, 
+       subject to Exchange Act Section 21F(g)(3). If payment of this civil penalty is not timely 
+       made, additional interest shall accrue pursuant to 31 U.S.C. §3717. 
+
+       Payment must be made in one of the following ways:  
+
+              1.     Respondents may transmit payment electronically to the Commission, 
+                     which will provide detailed ACH transfer/Fedwire instructions upon 
+                     request;  
+
+              2.     Respondents may make direct payment from a bank account via Pay.gov 
+                     through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or  
+
+              3.     Respondents may pay by certified check, bank cashier’s check, or United 
+                     States postal money order, made payable to the Securities and Exchange 
+                     Commission and hand-delivered or mailed to:  
+
+                     Enterprise Services Center  
+                     Accounts Receivable Branch  
+                     HQ Bldg., Room 181, AMZ-341  
+                     6500 South MacArthur Boulevard  
+                     Oklahoma City, OK 73169 
+
+              Payments by check or money order must be accompanied by a cover letter 
+       identifying Respondent as a Respondent in these proceedings, and the file number of 
+       these proceedings. A copy of the cover letter and check or money order, or 
+       documentation of whatever other form of payment is used, must be simultaneously sent 
+       to G. Jeffrey Boujoukos, Regional Director, Division of Enforcement, Securities and 
+       Exchange Commission, 1617 JFK Boulevard, Suite 520, Philadelphia, Pennsylvania 
+       19103. 
+
+              E.     Pursuant to Section 4C of the Exchange Act and Rule 102(e)(1)(iii) of the 
+       Commission’s Rules of Practice, Respondent McClelland is denied the privilege of 
+       appearing and practicing before the Commission as an accountant. 
+
+                     1.     After three (3) years from the date of this Order, Respondent 
+              McClelland may request that the Commission consider his reinstatement by 
+              submitting an application (Attention: Office of the Chief Accountant) to resume 
+              appearing or practicing before the Commission as: 
+
+                             a.  a preparer or reviewer, or a person responsible for the 
+                                preparation or review, of any public company’s financial 
+
+                                              15 
+ 
+ 
+---------------------Page 16---------------------
+
+ 
+
+                                 statements that are filed with the Commission (other than as a 
+                                 member of an audit committee, as that term is defined in 
+                                 Section 3(a)(58) of the Securities Exchange Act of 1934).  
+                                 Such an application must satisfy the Commission that 
+                                 Respondent McClelland’s work in his practice before the 
+                                 Commission as an accountant will be reviewed either by the 
+                                 independent audit committee of the public company for which 
+                                 he works or in some other acceptable manner, as long as he 
+                                 practices before the Commission in this capacity; and/or 
+
+                             b.  a preparer or reviewer, or a person responsible for the 
+                                 preparation or review, of any public company’s financial 
+                                 statements that are filed with the Commission as a member of 
+                                 an audit committee, as that term is defined in Section 3(a)(58) 
+                                 of the Securities Act of 1934.  Such an application will be 
+                                 considered on a facts and circumstances basis with respect to 
+                                 such membership, and the applicant’s burden of demonstrating 
+                                 good cause for reinstatement will be particularly high given the 
+                                 role of the audit committee in financial and accounting matters; 
+                                 and/or 
+
+                             c.  An independent accountant.  Such application must satisfy the 
+                                 Commission that: 
+
+                                 (1) Respondent McClelland, or the public accounting firm with 
+                                     which he is associated, is registered with the Public 
+                                     Company Accounting Oversight Board (“Board”) in 
+                                     accordance with the Sarbanes-Oxley Act of 2002, and such 
+                                     registration continues to be effective;  
+
+                                 (2) Respondent McClelland, or the registered public 
+                                     accounting firm with which he is associated, has been 
+                                     inspected by the Board and that inspection did not identify 
+                                     any criticisms of or potential defects in the respondent’s or 
+                                     the firm’s quality control system that would indicate that 
+                                     the respondent will not receive appropriate supervision;  
+
+                                 (3) Respondent McClelland has resolved all disciplinary issues 
+                                     with the Board, and has complied with all terms and 
+                                     conditions of any sanctions imposed by the Board (other 
+                                     than reinstatement by the Commission); and  
+
+                                 (4) Respondent McClelland acknowledges his responsibility, 
+                                     as long as Respondent McClelland appears or practices 
+                                     before the Commission as an independent accountant, to 
+                                     comply with all requirements of the Commission and the 
+
+                                               16 
+ 
+ 
+---------------------Page 17---------------------
+
+ 
+
+                                     Board, including, but not limited to, all requirements 
+                                     relating to registration, inspections, concurring partner 
+                                     reviews and quality control standards. 
+
+                      2.     The Commission will consider an application by Respondent 
+              McClelland to resume appearing or practicing before the Commission provided 
+              that his state CPA license is current and he has resolved all other disciplinary 
+              issues with the applicable state boards of accountancy.  However, if state 
+              licensure is dependent on reinstatement by the Commission, the Commission will 
+              consider an application on its other merits.  The Commission’s review may 
+              include consideration of, in addition to the matters referenced above, any other 
+              matters relating to Respondent McClelland’s character, integrity, professional 
+              conduct, or qualifications to appear or practice before the Commission as an 
+              accountant.  Whether an application demonstrates good cause will be considered 
+              on a facts and circumstances basis with due regard for protecting the integrity of 
+              the Commission’s processes. 
+
+              F.     Pursuant to Section 4C of the Exchange Act and Rule 102(e)(1)(iii) of the 
+       Commission’s Rules of Practice, Respondent Rothbaum is denied the privilege of 
+       appearing and practicing before the Commission as an accountant. 
+
+                      1.     After three (3) years from the date of this Order, Respondent 
+              Rothbaum may request that the Commission consider his reinstatement by 
+              submitting an application (Attention: Office of the Chief Accountant) to resume 
+              appearing or practicing before the Commission as: 
+
+                             a.  a preparer or reviewer, or a person responsible for the 
+                                 preparation or review, of any public company’s financial 
+                                 statements that are filed with the Commission (other than as a 
+                                 member of an audit committee, as that term is defined in 
+                                 Section 3(a)(58) of the Securities Exchange Act of 1934).  
+                                 Such an application must satisfy the Commission that 
+                                 Respondent Rothbaum’s work in his practice before the 
+                                 Commission as an accountant will be reviewed either by the 
+                                 independent audit committee of the public company for which 
+                                 he works or in some other acceptable manner, as long as he 
+                                 practices before the Commission in this capacity; and/or 
+
+                             b.  a preparer or reviewer, or a person responsible for the 
+                                 preparation or review, of any public company’s financial 
+                                 statements that are filed with the Commission as a member of 
+                                 an audit committee, as that term is defined in Section 3(a)(58) 
+                                 of the Securities Act of 1934.  Such an application will be 
+                                 considered on a facts and circumstances basis with respect to 
+                                 such membership, and the applicant’s burden of demonstrating 
+                                 good cause for reinstatement will be particularly high given the 
+
+                                               17 
+ 
+ 
+---------------------Page 18---------------------
+
+ 
+
+                                 role of the audit committee in financial and accounting matters; 
+                                 and/or 
+
+                             c.  An independent accountant.  Such application must satisfy the 
+                                 Commission that: 
+
+                                 (1) Respondent Rothbaum, or the public accounting firm with 
+                                     which he is associated, is registered with the Public 
+                                     Company Accounting Oversight Board (“Board”) in 
+                                     accordance with the Sarbanes-Oxley Act of 2002, and such 
+                                     registration continues to be effective;  
+
+                                 (2) Respondent Rothbaum, or the registered public accounting 
+                                     firm with which he is associated, has been inspected by the 
+                                     Board and that inspection did not identify any criticisms of 
+                                     or potential defects in the respondent’s or the firm’s quality 
+                                     control system that would indicate that the respondent will 
+                                     not receive appropriate supervision;  
+
+                                 (3) Respondent Rothbaum has resolved all disciplinary issues 
+                                     with the Board, and has complied with all terms and 
+                                     conditions of any sanctions imposed by the Board (other 
+                                     than reinstatement by the Commission); and  
+
+                                 (4) Respondent Rothbaum acknowledges his responsibility, as 
+                                     long as Respondent Rothbaum appears or practices before 
+                                     the Commission as an independent accountant, to comply 
+                                     with all requirements of the Commission and the Board, 
+                                     including, but not limited to, all requirements relating to 
+                                     registration, inspections, concurring partner reviews and 
+                                     quality control standards. 
+
+                      2.     The Commission will consider an application by Respondent 
+              Rothbaum to resume appearing or practicing before the Commission provided that 
+              his state CPA license is current and he has resolved all other disciplinary issues 
+              with the applicable state boards of accountancy.  However, if state licensure is 
+              dependent on reinstatement by the Commission, the Commission will consider an 
+              application on its other merits.  The Commission’s review may include 
+              consideration of, in addition to the matters referenced above, any other matters 
+              relating to Respondent Rothbaum’s character, integrity, professional conduct, or 
+              qualifications to appear or practice before the Commission as an accountant.  
+              Whether an application demonstrates good cause will be considered on a facts and 
+              circumstances basis with due regard for protecting the integrity of the 
+              Commission’s processes. 
+
+                                               18 
+ 
+ 
+---------------------Page 19---------------------
+
+ 
+
+               G.     Amounts ordered to be paid as civil money penalties pursuant to this 
+       Order shall be treated as penalties paid to the government for all purposes, including all 
+       tax purposes. To preserve the deterrent effect of the civil penalty, Respondents agree that 
+       in any Related Investor Action, they shall not argue that they are entitled to, nor shall 
+       they benefit by, offset or reduction of any award of compensatory damages by the 
+       amount of any part of Respondents’ payment of a civil penalty in this action (“Penalty 
+       Offset”). If the court in any Related Investor Action grants such a Penalty Offset, 
+       Respondents agree that they shall, within 30 days after entry of a final order granting the 
+       Penalty Offset, notify the Commission's counsel in this action and pay the amount of the 
+       Penalty Offset to the Securities and Exchange Commission. Such a payment shall not be 
+       deemed an additional civil penalty and shall not be deemed to change the amount of the 
+       civil penalty imposed in this proceeding. For purposes of this paragraph, a “Related 
+       Investor Action” means a private damages action brought against any Respondent by or 
+       on behalf of one or more investors based on substantially the same facts as alleged in the 
+       Order instituted by the Commission in this proceeding. 
+
+                                               V. 
+
+       It is further Ordered that, solely for purposes of exceptions to discharge set forth in 
+Section 523 of the Bankruptcy Code, 11 U.S.C. §523, the findings in this Order are true and 
+admitted by Respondents Hayford, McClelland, and Rothbaum, and further, any debt for civil 
+penalty or other amounts due by each of the aforementioned Respondents under this Order or 
+any other judgment, order, consent order, decree or settlement agreement entered in connection 
+with this proceeding, is a debt for the violation by said Respondents of the federal securities laws 
+or any regulation or order issued under such laws, as set forth in Section 523(a)(19) of the 
+Bankruptcy Code, 11 U.S.C. §523(a)(19). 
+
+       By the Commission. 
+
+        
+
+        
+
+                                             Brent J. Fields 
+                                             Secretary 
+
+                                               19 
+ 
+ 

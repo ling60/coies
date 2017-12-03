@@ -1,0 +1,1263 @@
+---------------------Page 1---------------------
+
+                      SECURITIES AND EXCHANGE COMMISSION
+                                     Washington, D.C.
+
+SECURITIES EXCHANGE ACT OF 1934
+Rel. No. 51950 / June 30, 2005
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Rel. No.  2271 / June 30, 2005
+
+Admin. Proc. File No. 3-11330
+
+                             In the Matter of 
+
+                         RITA J. McCONVILLE
+
+OPINION OF THE COMMISSION
+
+       CEASE-AND-DESIST PROCEEDING
+
+              Grounds for Remedial Action
+
+                     Antifraud and reporting violations
+
+       Corporate officer, who served as chief financial officer and then corporate controller,
+       falsely represented to auditors that corporation's consolidated financial statements were in
+       conformity with generally accepted accounting principles and that no events had occurred
+       within stated period that had a material effect on financial statements or should have been
+       disclosed in order to keep statements from being misleading; made misleading statements
+       and omitted to state facts that would make representations in corporation's annual report
+       not misleading; and failed to see that corporation implemented adequate internal controls,
+       resulting in inaccuracies in corporation's books, records, and accounts, thereby violating
+       and causing the corporation to violate antifraud and reporting provisions of the federal
+       securities laws and rules thereunder.  Held, it is in the public interest for respondent to be
+       ordered to cease and desist from committing or causing further antifraud and reporting 
+       violations.
+---------------------Page 2---------------------
+
+                                              2
+
+APPEARANCES:
+
+       Kenton E. Knickmeyer and John S. Kingston, of Thompson Coburn LLP, for Rita J.
+McConville.
+
+       Polly A. Atkinson and Elizabeth E. Krupa, for the Division of Enforcement.
+
+Appeal filed:  October 19, 2004 
+Last brief received:  January 18, 2005 
+Oral argument:  May 23, 2005  1/
+
+                                              I.
+
+       Rita J. McConville appeals from the decision of an administrative law judge.  The law
+judge found that McConville had significant responsibility for the financial statements in the
+Form 10-K for the year ended December 31, 2000 (the "2000 Form 10-K") filed by her employer,
+Akorn, Inc. ("Akorn" or "the Company"), which materially inflated Akorn's accounts receivable,
+net sales, and assets; caused Akorn to maintain inaccurate books and records; and falsely assured
+Akorn's auditors that the financial statements in the 2000 Form 10-K complied with Generally
+Accepted Accounting Principles ("GAAP") and that she did not know of any events that would
+materially impact those financial statements.  2/  In so doing, the law judge found, McConville
+violated Sections 10(b) and 13(b)(5) of the Securities Exchange Act of 1934  3/ and Rules 10b-5,
+13b2-1 and 13b2-2 thereunder,  4/ and caused Akorn to violate Sections 13(a) and 13(b)(2) of the
+
+1/     Rule of Practice 451(d), 17 C.F.R. § 201.451(d), provides that a member of the
+       Commission who does not attend an oral argument may participate in the decision of the
+       proceeding if that member reviews the oral argument transcript.  Commissioner
+       Glassman, who did not attend the oral argument in this matter, has performed the
+       requisite review.
+
+2/     The Financial Accounting Standards Board promulgates GAAP, which are the
+       "conventions, rules, and procedures that define accepted accounting practice."  Barron's
+       Dictionary of Finance and Investment Terms 234-35 (5th ed. 1998).   Regulation S-X, 17
+       C.F.R. § 210.1-02(d), requires that the financial statements of a public corporation must
+       be audited by an accountant in accordance with generally accepted auditing standards. 
+       United States v. Arthur Young & Co., 465 U.S. 805, 811 n.6 (1984).
+
+3/     15 U.S.C. §§ 78j(b), 78m(b)(5).
+
+4/     17 C.F.R. §§ 240.10b-5, 240.13b2-1, 240.13b2-2.
+---------------------Page 3---------------------
+
+                                              3
+
+Exchange Act and Rules 12b-20 and 13a-1 thereunder.  5/  The law judge ordered McConville to
+cease and desist from violating and causing violations of these provisions, and to pay
+disgorgement in the amount of $115,858, plus prejudgment interest.  We base our findings on an
+independent review of the record, except with respect to those findings not challenged on appeal.
+ 
+                                              II.
+
+Background
+
+       McConville served as chief financial officer ("CFO") of Akorn from February 28, 1997
+until March 20, 2001, when she was succeeded by Kevin M. Harris.  6/  From March 21 to July,
+2001, McConville was employed by Akorn as corporate controller.  During most of the time in
+question,  McConville reported to Floyd Benjamin, Akorn's president and chief executive officer
+("CEO").  As CFO, McConville supervised Akorn's corporate controller and its finance
+department, and was responsible for working with Deloitte & Touche LLP ("Deloitte"), Akorn's
+auditors.  As CFO, McConville, together with Akorn's controller, Thomas Costello, was
+responsible for Akorn's filings with the Commission.  In its 2000 Form 10-K,  filed with the
+Commission pursuant to Section 13(a) of the Exchange Act,  7/  Akorn reported net income of
+$2,187,000 in 2000.  Akorn reported current assets of $42,123,000 as of December 31, 2000, and
+accounts receivable of $24,144,000, which amounted to approximately 57% of Akorn's current
+assets.  
+
+       At all relevant times, Akorn was a corporation that, among other things, manufactured
+and sold diagnostic and therapeutic pharmaceuticals.  Although Akorn's customers included both
+pharmaceutical wholesalers and direct or end-use customers, a large portion of its sales were
+made to wholesale distributors.  In 2000, Akorn's sales to five such distributors (the "top five
+wholesale customers") accounted for 43% of its total sales in 2000 and approximately 60% of its
+gross accounts receivable as of December 31, 2000. 
+
+Akorn's Problems With Tracking Customer Account Status
+
+       Both Akorn's computer system and some of its business practices made keeping track of
+its customer accounts problematic.  When McConville arrived at Akorn in 1997, the company
+
+5/     15 U.S.C. §§ 78m(a), 78m(b)(2); 17 C.F.R. §§ 240.12b-20, 240.13a-1.
+
+6/     Harris was a respondent in this proceeding.  The law judge found that he willfully
+       violated Rule 13b2-2 and that he willfully aided and abetted and caused Akorn's
+       violations of Exchange Act Section 13(a) and Rules 13a-1, 13a-13, and 12b-20.  She
+       declined to impose sanctions on Harris.  Rita J. McConville, Initial Decision Rel. No. 259
+       (Sept. 27, 2004), 83 SEC Docket 3325, 3364-73.
+
+7/     15 U.S.C. § 78m.
+---------------------Page 4---------------------
+
+                                               4
+
+billed customers and processed cash remittances and credit claims against invoices at three
+different finance offices, each of which used a different accounting software system.  By late
+1999, however, Akorn had centralized its finance, billing, and accounts receivable records on a
+software program called Macola.  Later, primarily during 2000, Akorn shifted many of its
+records, at all of its locations, onto a J.D. Edwards software package, which allowed more
+sophisticated information recording.  In connection with this transition, Akorn recorded new
+receivables on the J.D. Edwards software, but did not transfer existing accounts receivable due to
+concerns that conversion might not preserve the integrity of the data.
+  
+       Akorn's terms of sale varied among customers, with payment schedules of between 30
+and 90 days.  Wholesalers generally enjoyed longer payment terms than direct customers.  Akorn
+did not charge interest on overdue bills.  Akorn classified its aging reports as current, 30-60 days
+past due, 60-90 days past due, and over 90 days past due.
+
+       Extensive paperwork was involved in keeping track of customer orders and payments. 
+With each shipment to a wholesaler, Akorn issued and sent an invoice.  A 25- or 30-page invoice
+was not uncommon.  A customer payment to Akorn was accompanied by a remittance advice of
+up to 400 lines in length, which explained the payment and asserted claims, where applicable, to
+a variety of credits.  8/  Akorn was unable to match customer payments or credits to invoice
+numbers, so it could not post a receipt against a particular invoice.  9/  
+
+8/     Kevin Harris, who succeeded McConville as CFO, testified that a 22-page remittance
+       advice would be considered short.  The credits, which were available under various terms
+       with varying deadlines,  included chargebacks, or credits for the difference between the
+       list price wholesalers were billed for products and the contract price to certain end users
+       who had special contractual arrangements with Akorn, as well as various rebates. 
+
+9/     McConville testified that chargebacks, for example, were identified by product batch
+       number, not invoice number, and that the same batch number could appear on 150 or
+       more invoices.  Thus, matching a chargeback to an invoice was impossible.  Customers
+       did not always use the same numbers Akorn used, which created further problems. 
+
+       Mario Delgado, a Deloitte auditor involved with Akorn's fiscal year 2000 audit, testified
+       that the Macola system "didn't link together a debit with a credit that may have
+       subsequently been issued or a payment that may have been subsequently received." 
+       Delgado explained: 
+
+              Typically  . . . you would want to link all that together and . . . simply understand
+              what is this customer still owing.  So I invoice them $100 and subsequently issued
+              a credit for $10 and a subsequent payment of $90, what you really are concerned
+              about is they owe zero.  . . .  Most companies do link those three together and 
+              just . . . wouldn't show anything for that customer because it's paid off.
+---------------------Page 5---------------------
+
+                                               5
+
+       Using the Macola software to review the aging of accounts receivable presented particular
+difficulties.  10/  In Macola as used at Akorn, the age of receivables was determined from when
+the invoices were issued.  The Macola software also kept track of payments, credits, and rebates,
+based on when they were applied to the account.  Akorn used the term "aging" indiscriminately
+to apply to receivables, payments, credits, and rebates, categorizing them in "buckets" or brackets
+to indicate how recently the invoice had been issued or the payment, credit, or rebate had been
+applied.  Thus, related items (original invoice, payment, and credit) often appeared in different
+aging "buckets" depending on the dates of the transactions.  11/  An "aging" report for a single
+customer, showing all transactions with that customer, by date, could have as many as 4000 lines. 
+Additionally, the Macola system was incapable of handling certain tasks that involved a high
+volume of transactions without ceasing to function.   Thus, a detailed review of the age of
+accounts receivable in Macola was virtually impossible.  12/
+
+McConville's Awareness Of And Attempts to Address Problems With Tracking Customer
+Accounts
+
+       On February 25, 2000, Deloitte sent a letter to Akorn's board of directors, to which it
+attached a report prepared in connection with Deloitte's audit of Akorn's financial statements for
+the year ended December 31, 1999.  The report commented on, among other things, Akorn's
+internal controls.  Under the heading "Accounts Receivable," the report noted management's
+failure to review the accounts receivable in detail, misapplication of credits and payments to
+
+10/    Although Akorn did not charge interest on overdue bills, the age of receivables was
+       nonetheless important because, as testified by Jack Maire, a consultant brought in to
+       analyze Akorn's receivables, the older a receivable is, the more difficult it becomes to
+       collect it.  Moreover, the passage of time sometimes made it difficult for Akorn to
+       produce documentation to prove what it was owed.  Nancy Phillips, Akorn's assistant
+       controller from March 1999 to September 2001, testified that proofs of delivery were
+       often unobtainable after nine months to a year and that Akorn "pretty often" lacked
+       documentation to support its assertion of amounts due.  Phillips also testified that in her
+       experience, wholesalers in some instances purposely waited to pay until the nine months
+       or year had passed so that proofs of delivery would be unobtainable.
+
+11/    As Delgado explained:  "[A]n invoice would typically be issued first and would age based
+       on the invoice date.  Subsequent to that a credit might be issued, say, a month later.  And
+       subsequent to that a payment might be received, let's say, a month after that.  In that
+       scenario the invoice would age one month before the credit which would age one month
+       before the payment.  And so you could find yourself in a situation where you could have
+       an invoice . . . in one aging bucket, a credit issued in a subsequent bucket, and a payment
+       issued in a third more recent bucket."
+
+12/    Akorn generated some summary aging reports, but Delgado testified that the reports had
+       "little or no value."
+---------------------Page 6---------------------
+
+                                               6
+
+customer accounts, and failure to collect on outstanding balances effectively and efficiently. 
+Deloitte recommended reconciling customer accounts with the customers, starting with the
+wholesaler accounts.  The corresponding section of the report captioned "Management
+Response," which was drafted in part by McConville, stated that management had begun an
+effort to reconcile all customer accounts and pursue payment of aged balances, with a goal of
+"significant collection resolution by June 30, 2000 and complete cleanup by August 31, 2000." 
+This management goal was not met.
+
+       Concerns were also expressed at both board and audit committee meetings that as Akorn's
+sales were growing, more and more receivables were moving into the older aging "buckets," i.e.,
+were remaining uncollected for longer times.  At McConville's request, Akorn's controller and its
+accounts receivable manager analyzed the available data and posited that a major factor for the
+increase in aging was the increase in percentage of sales to wholesalers, who were allowed more
+time to pay than Akorn's direct customers.  Nonetheless, the aging of receivables remained a
+management and audit committee concern.
+    
+       During 2000, Akorn realized approximately 12% of its net sales from Cardinal Health,
+Inc. ("Cardinal") , and Cardinal's accounts receivable balance represented approximately 22% of
+gross accounts receivable.  This made Cardinal both Akorn's largest customer and the customer
+with the largest accounts receivable balance.  In the fourth quarter of 2000,  John Kapoor,
+chairman of the board of Akorn and a major stockholder, instructed McConville and Benjamin to
+meet with Cardinal and try to collect some of the money Cardinal owed to Akorn.  In February,
+2001, when the meeting took place, Akorn's records showed that Cardinal owed it approximately
+$4 million, based on invoices going back at least as far as 1999.  Cardinal's own records showed
+that the balance was approximately $800,000 in Cardinal's favor, yielding a discrepancy of nearly
+$5 million.  13/  McConville took with her to the meeting copies of open invoices from various
+dates, selecting the invoices involving the largest dollar amounts so that resolution would yield
+the biggest results.  14/  After the meeting, Cardinal sent Akorn a check for approximately
+$913,000, which it viewed as resolving all open issues from the meeting.  15/  Cardinal informed
+
+13/    Witnesses explained the discrepancy as due in part to Akorn's practice of booking a
+       receivable as soon as the invoice was issued, while Cardinal forwarded the invoices it
+       received to its distribution centers for verification before submitting them for processing,
+       thus occasioning some delay.  Moreover, Cardinal did not record the invoice as a payable
+       until it was due, as much as 90 days later.  Additionally, McConville testified that some
+       of the invoices shown on Akorn's records did not appear on Cardinal's records.
+
+14/    McConville testified that she believed she took only invoices for more than $10,000.  
+       Other evidence suggests that the invoices were for more than $50,000. 
+
+15/    In an e-mail following up on the meeting, Cardinal stated that it had been unable to
+       research some of the 1999 invoices, but that those "accounted for immaterial amounts
+                                                                                   (continued...)
+---------------------Page 7---------------------
+
+                                               7
+
+Akorn that, having sent the $913,000 check, it regarded itself as in a credit position vis-a-vis
+Akorn. 
+
+       Although Cardinal thought the issues raised by the meeting had been resolved, Akorn
+believed that many issues were still outstanding.  A March 15, 2001 letter from Benjamin to
+Cardinal stated that there was still a discrepancy of more than $5 million to be reconciled
+between the Akorn records and the Cardinal records, opining that the $913,000 check represented
+only resolution of certain individual open invoices and there were still smaller open invoices to
+reconcile, as well as issues involving rebates.  16/ 
+ 
+       Despite the uncertainty of the situation, McConville told Deloitte that Cardinal had
+agreed to send Akorn a $913,000 check, and that indications were positive in terms of
+receivables.  17/  McConville also told Deloitte that there was little past due money owing from
+wholesalers because most of the old bills were offset by more recent credits. 
+ 
+       At around the time of McConville's and Benjamin's meeting with Cardinal,  Kapoor
+received a telephone call from The Northern Trust Company ("Northern Trust"), with which
+Akorn had a banking relationship, raising questions about Akorn's financial condition and
+requesting that Kapoor make an additional equity investment in Akorn of $3 million.  18/ 
+Kapoor promptly arranged to meet with Akorn management and its board of directors.  In a
+memorandum dated March 7, 2001, Kapoor assigned McConville and Harris to work with Jack
+Maire, a consultant brought in by Kapoor, on a thorough analysis of Akorn's accounts receivable
+and to submit a report discussing any potential write-offs of the receivables by the end of March.
+
+The Maire Report
+
+       By mid-March, 2001, Maire concluded that Akorn's need for a quick infusion of cash
+could not be satisfied by collecting past due receivables.  In a draft memorandum to Kapoor,
+
+15/    (...continued)
+       relative to the other invoices." 
+
+16/    Although it is unclear from the record that McConville saw Benjamin's March 15 letter,
+       she clearly knew that there was a $5 million discrepancy between Akorn's and Cardinal's
+       accounting prior to the payment of the $913,000 check. 
+
+17/    The record is unclear as to when McConville told Deloitte about the $913,000 check. 
+       Delgado testified that he received assurances "throughout our audit [that] things were
+       positive and the conversations indicated that collections were reasonable."
+
+18/    It is unclear from the record whether Akorn had defaulted on an existing loan or whether
+       the bank insisted on the additional investment as a condition of extending or renewing a
+       line of credit.
+---------------------Page 8---------------------
+
+                                               8
+
+Maire concluded that "there are no quick fixes available" (emphasis in original).  19/  Maire
+indicated that, due to the scope and complexity of the receivables problem, he was unable at that
+time to provide an assessment of what was collectible and what the magnitude of write-offs
+might be.  He concluded that "a determination on the collectibility will require a substantial
+amount of time (months) and work."
+
+       Maire recognized that, because Akorn's accounts receivable were concentrated among its
+top five wholesale customers, it might appear "that it should be relatively easy to collect on those
+five accounts and achieve the quick infusion of cash that we are looking for."  His analysis,
+however, revealed that this was not the case:
+
+       [T]he wholesaler accounts have never been worked. We are talking about an
+       accumulation of problems over a 3 or 4 year period.  This provides us with a legacy of
+       pages and pages of A/R reports on each of those five accounts, consisting of a maze of
+       transactions including:  open invoices, partially paid invoices, billbacks, credits for return
+       goods, credits for damaged goods, credits for shipments not received, credits for billing
+       errors, rebate credits, chargeback credits, deductions taken arbitrarily by the wholesaler,
+       situations where the wholesaler used credits multiple times, and unapplied cash.  These
+       transactions go back as far as 1996.
+
+(Emphasis in original).  In Maire's view, the failure to have systematically reconciled the
+accounts receivable "magnifies the task to an incredibly detailed undertaking."  20/  He identified
+"a wide array of process and system issues that severely complicate matters," including the
+following:
+
+       !     The Macola system and the J.D. Edwards system operated simultaneously, with
+              the pre-2001 accounts receivable on Macola.  "This duplicates work and
+              complicates matters considerably."
+
+       !     "No management reports exist that trend sales, cash, A/R aging, reserves,
+              unbilled, or [days sales outstanding].  Therefore, the A/R could not have been
+              properly monitored."
+
+       !     "A/R aging reports have not been previously printed.  The staff has had no way to
+              set collection priorities.  Producing a simple aging report in descending dollar
+              sequence proved to be a week-long task to accomplish, and then only with outside
+              consulting help because no one within the building knew how to do it."
+
+19/    McConville testified that she did not see the memorandum while employed at Akorn.
+
+20/    Maire thought that Akorn staff did not have sufficient skills and experience to handle the
+       work.  
+---------------------Page 9---------------------
+
+                                               9
+
+       !     "Daily reports need to be published to monitor all facets affecting receivables,
+              including unbilled, chargebacks processing backlogs, cash posting backlogs, and
+              returns good credit processing.  If any one of these is failing to be processed
+              timely, the customer will not pay.  The wholesaler will go ahead and take a
+              deduction in the absence of a timely credit due him, which only complicates the
+              maze of transactions already on the A/R." 
+
+Maire also noted, among other matters, problems with staffing, and stated that "[c]hargebacks
+may be a problem area." 
+
+       On March 20, 2001, the board voted to dismiss Benjamin as CEO, making him a vice
+president of Akorn, and to dismiss McConville as CFO.  Kapoor became interim CEO, and
+Kevin Harris, who had been asked by Kapoor to help address Akorn's financial situation
+following the telephone call from Northern Trust, was appointed interim CFO.  McConville was
+initially asked to work under Harris's direction on various projects, but shortly thereafter Harris
+asked her to work with him, Maire, and several other Akorn employees on reconciling the
+Cardinal account.  As of the end of April, 2001, McConville had identified Cardinal receivables
+totaling nearly $1.5 million from Akorn's aging report that were not included in a report showing
+amounts due and payable that she had obtained from Cardinal.
+  
+McConville's Involvement With The Fiscal Year 2000 Audit
+
+       While McConville was working on reconciling the Cardinal account, Deloitte was
+proceeding with work on its audit of Akorn for the year ended December 31, 2000.  As noted
+above, McConville's responsibilities as CFO had included working with Deloitte auditors as
+Deloitte performed Akorn's annual audits and quarterly reviews.  McConville attended meetings
+with Deloitte before Deloitte began its field work; at these meetings, Deloitte reviewed the
+proposed scope of the audit and projected time frames.  During the course of the field work,
+which Deloitte completed on February 23, 2001, McConville was generally available for
+discussions with Deloitte.  She attended the meetings at the end of the field work at which
+Deloitte discussed its findings.  She also attended audit committee meetings, which were held at
+the end of each quarter.  
+
+       McConville had begun preparation of Akorn's 2000 Form 10-K while serving as CFO.  
+She wrote a press release, dated February 20, 2001, that announced Akorn's fourth-quarter results
+and provided year-end net income and sales figures.  During February and early March, she
+reviewed drafts of the 2000 financial statements.  21/   The financial statements included the
+
+21/    McConville admitted in investigative testimony that she reviewed a draft of the 2000
+       Form 10-K as CFO.  Additionally, McConville's expert witness testified that McConville
+       "performed her normal procedures as a reviewer of the draft financial statements in
+       February" and that "she had seen drafts of the financial statements prior to her demotion"
+                                                                                  (continued...)
+---------------------Page 10---------------------
+
+                                               10
+
+numbers for year-end 2000 from the February 20 press release that McConville had authored.  By
+March 20, McConville's last day as CFO, the financial statements to be included in the Form 10-
+K were largely completed,  22/ and a draft of the Form 10-K had already been prepared.  The
+filing of the Form 10-K was delayed, however, while Akorn sought to resolve the questions
+raised by The Northern Trust Company. 
+
+       On approximately April 17, 2001, McConville was asked to sign, and did sign, two
+management representation letters, as corporate controller, in connection with Deloitte's annual
+audit of the financial statements filed with the 2000 Form 10-K.  The first letter, dated February
+23, 2001, stated that it was provided in connection with Deloitte's audit of Akorn's consolidated
+balance sheets as of December 31, 2000 and 1999, and the related consolidated statements of
+income, shareholders' equity, and cash flows for each of the three years in the period ended
+December 31, 2000.  The letter represented that, to the best of the knowledge and belief of those
+signing,
+
+21/    (...continued)
+       (from the position of CFO).  Although McConville testified at the hearing that she no
+       longer believed that she had reviewed a draft of the financial statements, the record
+       supports the conclusion that she did review a draft.  Moreover, the law judge, who had a
+       chance to observe McConville's demeanor at the hearing, cited her denial that she
+       reviewed the Form 10-K as one of a number of instances where McConville was not
+       credible.  The credibility determination of an initial fact finder is entitled to considerable
+       weight and deference because it is based on hearing the witnesses' testimony and
+       observing their demeanor.  See, e.g., Daniel Joseph Alderman, 52 S.E.C. 366, 368 (1995),
+       aff'd, 104 F.3d 285 (9th Cir. 1997); Jonathan Garrett Ornstein, 51 S.E.C. 135, 137 (1992). 
+
+       McConville contends that the law judge's determination that she reviewed a draft of the
+       Form 10-K is clearly erroneous "because it has no basis in evidence and is the product of
+       an impermissible inference drawn from Kevin Harris' Answer to the [Order Instituting
+       Proceedings ("OIP)]."  This characterization of the law judge's finding is inaccurate.  In
+       concluding that McConville reviewed a draft of the Form 10-K, the law judge cited,
+       quoted from, and discussed both McConville's investigative testimony that she believed
+       she had reviewed a draft of the Form 10-K and the testimony of McConville's expert
+       witness, as noted above.  The law judge's reference to Harris's Answer was not in
+       connection with her finding that McConville reviewed a draft of the Form 10-K, but
+       rather in connection with her finding that McConville had significant responsibility for it. 
+       Based on our de novo review of material in the record other than Harris's Answer, and
+       including the law judge's credibility determination, we find that McConville reviewed a
+       draft of the Form 10-K.
+
+22/    Disclosures regarding Akorn's relationship with The Northern Trust Company were
+       subsequently added.
+---------------------Page 11---------------------
+
+                                               11
+
+       (1)  The consolidated financial statements . . . are fairly presented in conformity with
+       [GAAP]. . . .
+
+       (18) Other than those disclosed, no events have occurred subsequent to December 31,
+       2000 that require consideration as adjustments to or disclosures in the consolidated
+       financial statements. 
+
+       (19)  The Company is responsible for determining and maintaining the adequacy of the
+       allowance for doubtful accounts receivable, chargebacks, rebates, returns and cash
+       discounts as well as estimates used to determine such amounts.  Management believes the
+       allowances are adequate to absorb currently estimated uncollectible receivables in the
+       account balances.  
+
+       The second letter, dated April 17, 2001, represented that, to the best of the knowledge and
+belief of the signers,
+
+       (1)  Other than the events described in paragraph 4 of Note G [relating to an April 6, 2001
+       amendment of the revolving credit agreement with The Northern Trust Co.], there are no
+       events which have occurred subsequent to February 23, 2001 that have a material effect
+       on the financial statements that are in the filing or that should be disclosed in order to
+       keep those statements from being misleading.
+
+       On April 17, 2001, Akorn filed the 2000 Form 10-K in which, as noted above, it reported
+net income of $2,187,000 and current assets of $42,123,000.  Akorn's current assets included
+$24,144,000 of "trade accounts receivable (less allowance for uncollectibles of [$801,000])."  23/ 
+Although sales to the top five wholesaler customers accounted for approximately 60% of Akorn's
+gross accounts receivable, the allowance for uncollectible accounts did not include any amount
+related to those customers.  Moreover, the Form 10-K did not note any impairment of the
+receivables.  Deloitte understood from McConville and others in Akorn management that the top
+five wholesaler customers did not present a collection risk because they had both the ability and
+the intent to pay.  In the Independent Auditors' Report, which was included in the Form 10-K,
+Deloitte repeated the assertion from the February 23, 2001 management representation letter that
+the consolidated financial statements presented Akorn's financial position fairly, in conformity
+with GAAP.  Deloitte issued an unqualified opinion as to the financials that were part of Akorn's
+Form 10-K for 2000.  24/ 
+
+23/    Akorn appears to have used the terms "allowance for uncollectibles" and "allowance for
+       doubtful accounts" interchangeably.  As indicated above, the allowance was reflected on
+       the financial statements as a reduction of the accounts receivable balance; it thus directly
+       affected Akorn's total assets.
+
+24/    McConville did not sign the 2000 Form 10-K.  
+---------------------Page 12---------------------
+
+                                               12
+
+       On May 22, 2001, slightly more than a month after filing the Form 10-K, Akorn filed its
+quarterly report, Form 10-Q, for the quarter ended March 31, 2001.  In its Form 10-Q, Akorn
+increased its allowance for doubtful accounts by $7,520,000.  On October 7, 2002, Akorn
+restated its financial statements for 2000 and 2001 by filing a Form 10-K/A.  The Form 10-K/A
+stated that Akorn "had not adequately considered all of the information available with respect to
+certain disputed receivables in establishing its allowance for uncollectible accounts as of
+December 31, 2000," that the $7,520,000 increase in its allowance for doubtful accounts should
+have been recorded at year end 2000 rather than in the first quarter of 2001, and that the bad debt
+expense in the 2000 financial statement was understated by a corresponding amount.  As a result
+of these adjustments, Akorn's restated financials for 2000 reported a net loss of $2.4 million, or
+$0.13 per share. 
+
+                                               III.
+
+A.     McConville violated Section 10(b) and Rule 10b-5.
+
+       Exchange Act Section 10(b) makes it unlawful "for any person, directly or indirectly, by
+the use of any means or instrumentality of interstate commerce or the mails, . . . [t]o use or
+employ, in connection with the purchase or sale of any security . . . any manipulative or deceptive
+device or contrivance in contravention of such rules and regulations as the Commission may
+prescribe as necessary or appropriate in the public interest or for the protection of investors." 
+Rule 10b-5 prohibits fraud, misleading statements or omissions, and any act, practice or course of
+business that operates as a fraud "in connection with the purchase or sale of any security."  To
+establish a violation of Section 10(b) and Rule 10b-5, it must be shown that a person acted with
+scienter, or "a mental state embracing intent to deceive, manipulate, or defraud."  25/  Reckless
+behavior satisfies the scienter requirement.  26/
+
+       1.      Akorn's 2000 Form 10-K contained materially misleading statements and
+               omissions.
+
+       The financial statements in Akorn's 2000 Form 10-K overstated Akorn's accounts
+receivable and current assets because its allowance for doubtful accounts did not include any
+amounts for Akorn's five largest wholesale customers.  Additionally, the balance sheet 
+overstated Akorn's accounts receivable, which represented 57% of Akorn's current assets, by
+failing to note the likelihood of a loss contingency.  27/ 
+
+25/    Ernst & Ernst v. Hochfelder, 425 U.S. 185, 193 n.12 (1976).  
+
+26/    Id., 425 U.S. at 193 n.12. 
+
+27/    We do not base our findings as to McConville's liability on the February 20, 2001 press
+       release, even though the press release contained figures that were incorporated into the
+                                                                                    (continued...)
+---------------------Page 13---------------------
+
+                                               13
+
+       As noted above, Akorn's current assets as reported in the 2000 Form 10-K included
+accounts receivable of approximately $24 million, with 60% of its gross accounts receivable
+attributable to the top five wholesale customers.  With a sum of approximately $5 million to be
+reconciled between Akorn and Cardinal alone, and with ample evidence that Akorn would not be
+able to collect on the entire amount it believed it was due, the amounts at issue were material.  
+The material overstatements rendered the financial statements materially false and misleading.
+  
+       The statement in the Form 10-K that the financial statements were prepared in accordance
+with GAAP was also materially false and misleading.  GAAP includes Statement of Financial
+Accounting Standards Number 5 ("FAS 5"), which deals with accounting for contingencies. 
+Under FAS 5, a loss contingency is defined as "an existing condition, situation, or set of
+circumstances involving uncertainty as to possible . . . loss . . . to an enterprise that will
+ultimately be resolved when one or more future events occur or fail to occur."  28/  Collectibility
+of receivables is given as an example of a loss contingency.  29/  FAS 5, paragraph 8, provides
+that an estimated loss from a loss contingency must be accrued by a charge to income if two
+conditions are met:
+
+       a.      Information available prior to issuance of the financial statements indicates that it
+               is probable that an asset has been impaired or a liability has been incurred at the
+               date of the financial statements.  It is implicit in this condition that it must be
+               probable that one or more future events will occur confirming the fact of the loss.
+
+       b.      The amount of loss can be reasonably estimated.  30/
+
+If information available prior to issuance of the financial statements indicates that it is probable
+that an asset has been impaired (satisfying paragraph 8(a)), but the amount of the loss cannot be
+reasonably estimated (as required by paragraph 8(b)), FAS 5 paragraph 10 requires that
+"disclosure of the contingency shall be made when there is at least a reasonable possibility that a
+
+27/    (...continued)
+       2000 Form 10-K.  The OIP did not charge misstatements in the press release.
+
+28/    Financial Accounting Standards Board, Original Pronouncements, vol. I, 34 (FAS  5,
+       par. 1) (2003/2004 edition).
+
+29/    Id. (FAS 5, par. 4).
+
+30/    Id., vol. I, 35 (FAS 5, par. 8)
+---------------------Page 14---------------------
+
+                                               14
+
+loss . . . may have been incurred."  31/  "Reasonably possible" is defined as meaning that "[t]he
+chance of the future event or events occurring is more than remote but less than likely."  32/
+
+       Information available before the financial statements were issued on April 17, 2001
+demonstrated that it was not only reasonably possible, but probable, that Akorn would fail to
+collect 100% of the receivables from its top five wholesale customers.  33/  Akorn's accounting
+records as to accounts receivable were in a shambles.  Akorn management knew that the 
+receivables were increasingly growing more aged, but it lacked the detailed, accurate reports that
+would permit a thorough analysis of aging.  Akorn was unable to tell which invoices had been
+paid (or offset by credits), so it could not convincingly demonstrate to its customers what
+payment was still owed.  Because Akorn had not monitored accounts receivable properly for
+years, it was not able to provide proofs of delivery for some shipments.  Akorn knew that
+reconciling its accounts receivable would be an enormous task.  And it knew that the one
+customer account that it had most thoroughly reviewed, the Cardinal account, still presented
+significant obstacles to collection, with Cardinal contesting approximately $5 million of the
+amount Akorn claimed was owing.  Thus, even if the amount of loss could not reasonably be
+estimated by April 17, the likelihood that complete collection would not be possible was
+sufficiently great that impairment should have been indicated.  Because no such impairment was
+noted, the financial statements were not in accordance with GAAP.  34/  Moreover, the failure to
+disclose that the receivables were impaired was an omission of a material fact necessary to
+ensure that the figures in the financial statements were not misleading. 
+
+       2.     McConville is liable for the material misrepresentations and omission in Akorn's
+              2000 Form 10-K.
+
+       McConville, as CFO, (working with Costello as controller) oversaw the drafting of the
+2000 Form 10-K, and reviewed a draft of the Form 10-K that was virtually identical to the 2000
+Form 10-K that Akorn filed with the Commission, which incorporated the fourth-quarter and
+year-end results that she included in the February 20, 2001 press release that she authored.  She
+also knew that Akorn's allowance for doubtful, or uncollectible, accounts as reported in the Form
+
+31/    Id., vol. I, 35-36 (footnote omitted) (FAS 5 par. 10).
+
+32/    Id., vol. I, 34 (FAS 5 par. 3(b)).
+
+33/    FAS 5 states that a future event is "probable" if it is "likely to occur."
+
+34/    McConville argues that she did not have adequate notice that the Division's allegations
+       regarding GAAP violations were based on an omitted disclosure concerning Akorn's
+       chargeback and rebate reserves.  Since we do not base our finding on this theory, we need
+       not reach this issue.  We note, however, that the OIP is replete with references to Akorn's
+       accounts receivable records, and that the treatment of chargebacks and rebates is an
+       aspect of Akorn's accounts receivable accounting.
+---------------------Page 15---------------------
+
+                                              15
+
+10-K did not contain any reserve with respect to Akorn's five largest customers, and that the
+Form 10-K omitted to disclose any impairment of the accounts receivable.  McConville signed
+the management representation letters reassuring Deloitte that the financial statements were in
+accordance with GAAP and that, with one exception not relevant here,  35/  no events had
+occurred subsequent to February 23, 2001 that had a material effect on the financial statements
+that are in the filing or that should be disclosed in order to keep those statements from being
+misleading.  At the time she signed the letters, McConville knew, or was reckless in not
+knowing, that the statements in those letters were false,  36/ and that Deloitte would rely on them
+in issuing the audit opinion that was included in the Form 10-K.
+
+       Well before the filing of the Form 10-K on April 17, 2001 McConville knew that Akorn's
+accounts receivables accounting was in terrible disarray.  Akorn's adoption of the Macola and
+J.D. Edwards software packages happened during McConville's tenure as CFO.  She was aware
+that there were accounts receivable records on each of those systems, and that Macola ran into
+problems and would not function when processing transactions that involved large volumes of
+data.  She knew that Akorn invoices were lengthy, that remittances were not matched with
+invoices, and that it was impossible to determine aging patterns accurately.  She knew from
+Deloitte's February 25, 2000 report that Deloitte was concerned about management's failure to
+review the accounts receivable in detail, misapplication of credits and payments to customer
+accounts, and failure to collect on outstanding balances effectively and efficiently.  She also
+knew that management had undertaken to achieve "significant collection resolution by June 30,
+2000 and complete cleanup by August 31, 2000," and she knew that these goals were not
+accomplished.  McConville further knew that as sales were growing, the distribution of the aging
+of receivables was getting older, and that during 2000, an increasingly large dollar amount was
+going uncollected for an increasingly long time.  37/  McConville knew that her February 2001
+
+35/    The subsequent event noted in the April 17 letter was the April 16, 2001 amendment of
+       Akorn's revolving credit agreement with The Northern Trust Company.
+
+36/    The record does not address whether McConville reviewed the draft Form 10-K at the
+       time she signed the representation letters, or at any time after she reviewed the draft that 
+       incorporated the erroneous numbers from the February press release.  Given the
+       assurances about the financial statements provided in those letters, however, it was at
+       least reckless if McConville did not actually review the documents about which she was
+       making representations.
+
+37/    The law judge found McConville's assertion that she did not remember exactly when
+       Akorn's board became concerned about the increased aging of the receivables not
+       credible, since she was responsible for reporting Akorn's financial results to the board
+       and, in 1999 and 2000, Akorn's accounts receivable were increasing at a much faster rate
+       than sales.  McConville also prepared the management response to the concerns about
+       accounts receivable expressed by Deloitte in its February 25, 2000 report to Akorn's
+                                                                                   (continued...)
+---------------------Page 16---------------------
+
+                                              16
+
+meeting with Cardinal resulted in payment by Cardinal of only $913,745 (at a time when she
+believed that Cardinal owed Akorn approximately $4 million), that after paying the $913,745
+Cardinal considered that it was in a credit position with Akorn, and that Akorn's records were in
+such disarray that Akorn would be unlikely to be able to provide proofs of delivery to
+substantiate at least some of the allegedly unpaid invoices. 
+ 
+       McConville knew that, in part because of computer problems and the volume of
+paperwork involved, reconciling the accounts receivable would be a monumental task. 
+Moreover, after her February meeting with Cardinal and Cardinal's response, she knew or was
+reckless in not knowing that Akorn was not going to be able to collect the entire amount Akorn
+believed was due from Cardinal and Akorn's other top wholesale customers, and that the failure
+to collect would adversely impact Akorn's financial statements.  Given this knowledge, we find
+that McConville acted with scienter in connection with her involvement in the preparation and
+filing of the 2000 Form 10-K.  38/
+
+       3.     McConville's misstatements and omissions were "in connection with" the
+              purchase or sale of a security, and the misstatements were made by jurisdictional
+              means.
+
+       The filing of false or misleading Forms 10-K with the Commission satisfies the
+requirement that misstatements or omissions be made "in connection with" the purchase or sale
+
+37/    (...continued)
+       board.  We find that McConville, who attended both board and audit committee meetings,
+       was aware of those concerns well before the 2000 Form 10-K was filed. 
+
+38/    McConville argues that the alleged misstatements in the Form 10-K are opinion
+       statements and as such are protected by the "bespeaks caution" doctrine.  We assume
+       McConville is relying on the cautionary language contained in Note A to the 2000 Form
+       10-K, which generally states that the preparation of financial statements requires
+       management to use estimates and assumptions and that actual results could differ
+       materially from estimates.  (McConville cites Note G on page 30 of the Form 10-K, but
+       this reference appears to have been an error on her part because Note G, which refers to
+       covenants involved in a revolving credit agreement, is irrelevant to the issues in this
+       case.)  The "bespeaks caution" doctrine does not permit a company to avoid Rule 10b-5
+       liability by the insertion of "boilerplate" cautionary language, like that contained in Note
+       A, into a filing.  See, e.g.,  In re Trump Casino Sec. Litig., 7 F.3d 357, 371-72 (3d Cir.
+       1993) (boilerplate disclaimer that merely warns that investment has risks will ordinarily
+       be inadequate to prevent misinformation; instead, cautionary statements must be
+       substantive and tailored to specific future projections, estimates, or opinions challenged). 
+       Moreover, many of the material misstatements in the Form 10-K are statements of fact
+       rather than opinion, including statements of the Company's annual net sales, net income,
+       and year-end accounts receivable.  
+---------------------Page 17---------------------
+
+                                               17
+
+of a security.  39/   McConville argues, however, that her involvement in the preparation of the
+financial statements contained in the Form 10-K was not sufficiently "in connection with" the
+purchase or sale of a security.  McConville argues that statements made to auditors "that might
+eventually find their way into a document distributed to investors" do not satisfy the "in
+connection with" requirement. 
+ 
+       McConville misperceives the basis of her liability.  Her liability under Section 10(b) and
+Rule 10b-5 is not based on statements to auditors that unexpectedly ended up in documents
+distributed to investors; it is based on misstatements and omissions in the financial statements
+contained in the 2000 Form 10-K filed with the Commission, which she was involved in drafting
+and reviewing.  40/  McConville prepared the press release containing the year-end figures that
+were included in the financial statements contained in the 2000 Form 10-K.  She reviewed a draft
+of the financial statements as part of the drafting of the 2000 Form 10-K; this draft was virtually
+identical to the financial statements that were ultimately filed with the Commission.  Between
+March and the April 17 filing of the Form 10-K, her substantial work on the reconciliation of the
+Cardinal account informed her that a significant portion of Cardinal's receivables would not be
+collectible.  She signed the management representation letters relied on by Deloitte stating that
+the financial statements were in accordance with GAAP and that no events had transpired that
+would require adjustments or disclosures in the financial statements.  This involvement in the
+dissemination of false and misleading information to investors was sufficient to satisfy the "in
+connection with" requirement. 
+
+       In a similar vein, McConville argues that the violations of Section 10(b) and Rule 10b-5
+charged were not established because the record does not show that any of her misleading
+statements to Deloitte were made by the use of jurisdictional means.  However, as discussed
+above, the misleading statements for purposes of Section 10(b) and Rule 10b-5 are not
+misstatements to Deloitte, but rather misstatements and omissions in the financial statements
+contained in the 2000 Form 10-K, which was filed with the Commission by electronic filing, 
+
+39/    See SEC v. Rana Research, Inc., 8 F.3d 1358, 1362 (9th Cir. 1993). 
+
+40/    McConville's situation is thus distinguishable from that in Zoelsch v. Arthur Andersen &
+       Co., 824 F.2d 27 (D.C. Cir. 1987) and Wessel v. Buhler, 437 F.2d 279 (9th Cir. 1971), on
+       which she relies. 
+---------------------Page 18---------------------
+
+                                               18
+
+through telephone lines or otherwise across state lines using interstate commerce.  Thus, the
+requirement of use of jurisdictional means was satisfied.  41/
+
+B.     McConville violated Exchange Act Section 13(b)(5) and Rule 13b2-1.
+
+       Exchange Act Section 13(b)(5) provides, in relevant part, that "[n]o person shall
+knowingly circumvent or knowingly fail to implement a system of internal accounting controls or
+knowingly falsify any book, record, or account" described in Section 13(b)(2).  Rule 13b2-1
+makes it unlawful for a person, directly or indirectly, to falsify or cause to be falsified any book,
+record, or account subject to Exchange Act Section 13(b)(2)(A).  Scienter is not required for a
+finding of violation of Rule 13b2-1.  42/
+
+       As discussed above, Akorn's internal controls fell far short of what would have been
+necessary for the preparation of accurate financial statements.  McConville's tenure as CFO
+encompassed the period during which Akorn adopted first the Macola, then the J.D. Edwards
+software programs.  She was well aware of the shortcomings of these programs and of the
+complexity and difficulty of accurately aging the accounts receivable and reconciling Akorn's
+accounts receivables records with its customers' accounts payable records.  Thus, McConville
+knew that Akorn did not have a system of internal accounting controls for its accounts receivable
+necessary for the preparation of accurate financial statements and knowingly failed to implement
+such a system, in violation of Section 13(b)(5).  Moreover, by failing to correct those
+shortcomings, McConville caused the falsification of Akorn's records, in violation of Rule 
+13b2-1.  43/
+
+41/    McConville does not deny that numerous cases find liability under Section 10(b) and
+       Rule 10b-5 against persons who did not personally "push the button" to transmit a filing
+       to the Commission.  See, e.g., Rana Research, 8 F.3d 1358 (consultant liable under
+       Section 10(b) and Rule 10b-5 for misrepresentations in press release that was transmitted
+       by facsimile by office manager).  She contends, however, that those cases do not present a
+       finding of violation by a person who "properly objects" to the failure of proof that he or
+       she used jurisdictional means in the manner prescribed by Section 10(b) and Rule 10b-5. 
+       We cannot discern from the opinions in question whether an objection to the use of
+       jurisdictional means was raised during those proceedings.  The cases hold that liability
+       attaches against persons whose involvement was comparable to McConville's.
+
+42/    SEC v. McNulty, 137 F.3d 732, 740-41 (2d Cir. 1988).
+
+43/    McConville argues that Section 13(b)(5) is silent as to the quality or characteristics of the
+       system of internal accounting controls required and that the standard required under
+       Section 13(b)(2) is inapplicable.  McConville cites no authority, and we are aware of
+       none, for the proposition that the term "internal accounting controls" means one thing in
+       one subsection of the statute and something else in another subsection.  
+                                                                                   (continued...)
+---------------------Page 19---------------------
+
+                                               19
+
+C.     McConville caused Akorn to violate Exchange Act Section 13(b)(2).
+
+       Exchange Act Section 13(b)(2)(A) requires, among other things, that every issuer of
+securities registered with the Commission pursuant to Section 12 make and keep books, records,
+and accounts, which, in reasonable detail, accurately and fairly reflect the transactions and
+dispositions of the assets of the issuer.  Exchange Act Section 13(b)(2)(B) requires, in relevant
+part, that every such issuer of securities devise and maintain a system of internal accounting
+controls sufficient to provide reasonable assurances that transactions are recorded as necessary to
+permit preparation of financial statements in accordance with GAAP and to maintain
+accountability for assets.  Scienter need not be shown to establish liability under Section
+13(b)(2).  44/ 
+
+       As discussed above, Akorn's accounts receivable records did not accurately show what
+invoices had been paid or what amounts were still owing on particular invoices and therefore did
+not accurately and fairly reflect the transactions and disposition of Akorn's assets.  The financial
+statements filed with the 2000 Form 10-K materially overstated Akorn's assets because of the
+failure to include in the allowance for doubtful accounts anything for the five largest wholesale
+customer accounts.  Additionally, as we have already found, the financial statements in the 2000
+Form 10-K were not in accordance with GAAP because they failed to disclose the impairment of
+the accounts receivable.  The inaccuracies in the accounts receivable were due to Akorn's
+inadequate internal controls, as discussed above.  Akorn violated Section 13(b)(2) by failing to
+keep records that accurately and fairly reflected the transactions and dispositions of its assets, and
+by failing to devise and maintain a system of internal accounting controls sufficient to provide
+reasonable assurances that transactions were recorded as necessary to permit preparation of
+financial statements in accordance with GAAP and to maintain accountability for assets. 
+
+       McConville can be found to have caused Akorn's violations of Section 13(b)(2) if she was
+responsible for an act or omission that she knew or should have known would contribute to the
+violation.  45/  As discussed above, McConville knew or was reckless in not knowing that her
+
+43/    (...continued)
+       McConville also argues she cannot be found to have falsified any book or record for
+       purposes of Rule 13b2-1 because she made no entries in Akorn's ledgers and did not
+       know how to make entries into Akorn's computerized accounting system.   Rule 13b2-1
+       does not limit liability to those who directly falsify books and records; it allows persons
+       to be held liable for having indirectly falsified, or caused to be falsified, books and
+       records.  McConville's failure to implement a system of internal controls to ensure that
+       transactions were properly recorded establishes her violation of the rule.  
+
+44/    See McNulty, 137 F.3d at 740-41 (citing authorities).
+
+45/    Exchange Act Section 21C; see Robert M. Fuller, Exchange Act Rel. No. 48406
+                                                                                   (continued...)
+---------------------Page 20---------------------
+
+                                               20
+
+failure to implement more adequate internal controls would result in inaccuracies in Akorn's
+books and records, and we thus find that McConville caused Akorn's violations of Section
+13(b)(2).  46/ 
+
+       McConville contends that Akorn's books, records, and accounts satisfied Section
+13(b)(2)(A) because they did reflect the transactions and dispositions of Akorn's assets "in
+reasonable detail," as the statute requires.  She contends that the evidence does not show any
+deliberate falsification of accounting entries; she argues that at most, it shows that Akorn's
+bookkeepers did not fully process remittance advices on as timely a basis as was desirable and
+that the accounts receivable personnel were less diligent than was desirable in pursuing
+collections.
+
+       We reject McConville's characterization of the evidence.  The magnitude of the problem
+went far beyond the description she offers.  As Maire noted, problems with Akorn's accounts
+receivable had been accumulating over a three- to four-year period, with "pages and pages of A/R
+reports" on each of the top five wholesaler accounts, consisting of a "maze of transactions" 
+going back as far as 1996.  This description is not one of books and records that accurately reflect
+transactions and disposition of assets "in reasonable detail."
+
+       McConville argues that the GAAP violation charged was "wholly unrelated to Akorn's
+internal accounting controls" because "the propriety of disclosure [of the impairment of
+receivables] and creation of additional reserves would turn on a judgment call as to whether
+Akorn's customers would duly pay submitted invoices," a judgment as to which, she contends,
+internal controls are irrelevant.  We disagree.  Any "judgment call" that Akorn might make about
+whether its customers would pay must depend heavily on the quality of the information on which
+the judgment is based.  The quality of that information depended, in turn, on its internal controls.  
+If Akorn did not know how much of which invoices remained unpaid, it was in a poor position to
+judge how much it was likely to collect.  Moreover, the question whether customers could be
+expected to pay invoices depends in significant part on how well substantiated those invoices
+
+45/    (...continued)
+       (Aug. 25, 2003), 80 SEC Docket 3539, 3545, pet. for review denied, No. 03-1334 (D.C.
+       Cir. Apr. 23, 2004); Erik W. Chan, Exchange Act Rel. No. 45693 (Apr. 4, 2002), 77 SEC
+       Docket 851, 859-60.  Contrary to McConville's argument, the Division was not required
+       to prove that her conduct was a proximate cause of the violations.
+
+46/     McConville argues that Costello, or persons who reported to Costello, were responsible
+       for the making and keeping of Akorn's books and records and that McConville therefore
+       cannot be held liable for the violations of Section 13(b)(2)(A) charged.  But Costello
+       reported to McConville, and McConville testified that she "indirectly . . . was responsible
+       for supervising the day-to-day financial operations of the company."  Having taken on
+       these responsibilities, McConville cannot evade the consequences of her failure to fulfill
+       them appropriately.
+---------------------Page 21---------------------
+
+                                               21
+
+were.  If Akorn could not match payments or credits to invoices in order to prove how much was
+due, and if it could not produce on demand proof of delivery, then it could not expect customers
+to pay.  Additionally, older invoices may be more difficult to collect.  The inadequacy of Akorn's
+internal controls made it impossible to track the aging of receivables in detail and therefore were
+not sufficient to provide reasonable assurances that transactions were recorded as necessary to
+permit preparation of financial statements in accordance with GAAP and to maintain
+accountability for assets, as required by Section 13(b)(2).  47/
+
+D.     McConville violated Rule 13b2-2.
+
+       Rule 13b2-2, in relevant part, makes it unlawful for an officer of an issuer to make or
+cause to be made a materially false or misleading statement to an accountant or omit or cause
+another person to omit any material information necessary to make the statements made not
+misleading in connection with an audit of financial statements or reports filed with the
+Commission.  The term "officer" includes a "comptroller or principal accounting officer, and any
+person routinely performing corresponding functions with respect to any organization whether
+incorporated or unincorporated."  48/  We have already found that the management
+representation letters signed by McConville and addressed to Deloitte contained false statements
+about the conformity of the financial statements with GAAP, the adequacy of the allowance for
+uncollectible accounts receivable, and the lack of need for further disclosures.  We also find that
+McConville falsely represented to Deloitte that indications were positive in terms of receivables
+and that there was little past due money owing from wholesalers because most of the old bills
+
+47/    McConville argues that, if the financial statements in the 2000 Form 10-K did not
+       conform to GAAP because of failure to disclose an impairment of Akorn's receivables,
+       the GAAP violation was "not caused by deficiencies in Akorn's internal controls," but
+       rather "caused by a failure of Akorn's accountants to assure that the potential impact of
+       the shortcomings in Akorn's internal controls was properly disclosed."  McConville's
+       argument would recast Section 13(b)(2)(B) as a statute about disclosure and shift the
+       blame to Akorn's auditors.  Neither argument is persuasive.  Section 13(b)(2)(B) is about
+       the adequacy of internal accounting controls.  The conduct of Akorn's auditors is not at
+       issue in this proceeding. 
+
+       McConville contends that Exchange Act Section 13(b)(2) is unconstitutionally vague,
+       citing SEC v. World-Wide Coin Investments, Ltd., 567 F.Supp. 724, 751 (N.D. Ga.
+       1983), a case that, in relevant part, concerns the applicability of the internal control
+       provisions of Section 13(b)(2)(B).  World-Wide Coin does not address whether Section
+       13(b)(2)(B) is unconstitutionally vague.  It simply states that "[a]ny ruling by a court with
+       respect to the applicability of both the accounting provisions and the internal accounting
+       control provisions should be strictly limited to the facts of each case."  We have engaged
+       in precisely that type of fact-sensitive analysis here.
+
+48/    Exchange Act Rule 3b-2, 17 C.F.R. § 240.3b-2.
+---------------------Page 22---------------------
+
+                                               22
+
+were offset by more recent credits.  By making these false representations to Deloitte,
+McConville violated Rule 13b2-2. 
+
+       McConville contends that she cannot be liable for the violation of Rule 13b2-2 because at
+the time of the alleged misstatements she was Akorn's "Corporate Controller," not its
+"comptroller."   The securities laws are to be construed broadly to effectuate their remedial 
+purpose.  49/  "Controller" and "comptroller" may be used interchangeably to describe the
+position in an agency or organization with oversight responsibilities for the agency's or
+organization's primary accounting functions.  50/  McConville's responsibilities, insofar as they
+related to the signing of the management representation letters, were commensurate with those of
+an officer.  51/
+
+E.     McConville caused Akorn to violate Exchange Act Section 13(a) and Rules 13a-1 and
+       12b-20.
+
+       Section 13(a) and Rule 13a-1 require the filing of annual reports with the Commission. 
+The contents of those reports must be complete and accurate.  52/   Rule 12b-20 mandates that
+periodic reports contain such further material information as may be necessary to make the
+required statements not misleading.  53/  
+
+       We have already found that Akorn's 2000 Form 10-K was inaccurate in that the current
+assets were materially overstated and that the impairment of the receivables should have been,
+but was not, disclosed.  For the reasons set forth in finding that McConville violated Section
+10(b), we find that she caused Akorn to violate Section 13(a) and Rules 13a-1 and 12b-20.
+
+49/     See SEC v. Capital Gains Research Bureau, Inc., 375 U.S. 180 (1963).  
+
+50/    Disclosure Required By Sections 404, 406 and 407 of the Sarbanes-Oxley Act of 2002,
+       Securities Act Rel. No. 8138 (Oct. 22, 2002), 78 S.E.C. Docket 2270, 2273 n.46; see also 
+       Albert Glenn Yesner, Initial Decision No. 184 (May 22, 2001), 75 S.E.C. Docket 220,
+       265 ("[C]ontroller is synonymous with comptroller.").
+
+51/    Albert  Glenn Yesner, on which McConville relies, is distinguishable on the facts.  While
+       a law judge found that Yesner was not an officer for purposes of Rule 3b-2, Yesner was
+       not a primary contact for his employer's accountants and was not involved in the
+       preparation of filings.  Yesner, 75 S.E.C. Docket at 265-66.  Moreover, Yesner did not
+       sign any management representations letters, as did McConville.
+
+52/    SEC v. Savoy Indus., Inc., 587 F.2d 1149, 1165 (D.C. Cir. 1978); SEC v. IMC Int'l, Inc.,
+       384 F. Supp. 889, 893 (N.D. Tex.), aff'd mem., 505 F.2d 733 (5th Cir. 1974). 
+
+53/    17 C.F.R. § 240.12b-20.  Violations of Section 13(a) or of the Commission's rules
+       thereunder do not require scienter.  McNulty, 137 F.3d at 740-41. 
+---------------------Page 23---------------------
+
+                                               23
+
+F.     McConville's procedural arguments are without merit.
+
+       McConville makes two related arguments that her due process rights were violated
+because she did not have adequate notice of the charges against her.  First, she argues that the law
+judge erred in refusing to grant her motion for a more definite statement.  Second, she claims
+that, because the law judge denied her motion to strike evidence and proffered findings relating
+to Akorn's chargeback and rebate reserves, the Division was able to present evidence outside the
+scope of the OIP of which she did not have notice.  These arguments are without merit.
+
+       Our rules require that the OIP set forth the factual and legal basis alleged for the order "in
+such detail as will permit a specific response thereto."  54/  The OIP must inform the respondent
+of the charges in enough detail to allow the respondent to prepare a defense, but it need not
+disclose to the respondent the evidence upon which the Division intends to rely.  55/  
+
+       The OIP in this proceeding alleged facts regarding McConville's employment at Akorn,
+her knowledge regarding deficiencies and problems related to Akorn's accounts receivable
+records, her review of the 2000 Form 10-K, the failure to create a reserve for Akorn's largest
+customer accounts receivable, her false statements in the management representation letters, her
+failure to make certain disclosures regarding accounts receivable to Akorn's auditors, the increase
+in the reserve for doubtful accounts in the 10-Q for the first quarter of 2001, and the statutes and
+rules violated.   The OIP also put McConville on notice that Akorn's accounting for chargebacks
+and rebates would be an issue in the proceeding.  56/  The OIP thus satisfied the due process
+requirement that a respondent be given fair notice of the claims lodged and the grounds upon
+which those claims rest, and the law judge did not err in denying her motion.  57/
+
+       McConville makes several additional unsubstantial procedural arguments.  For example,
+McConville argues that, because Commission sanctions are quasi-criminal, the Division was 
+
+54/    Rule of Practice 200(b)(3), 17 C.F.R. § 201.200(b)(3).
+
+55/    J. Logan & Co., 38 S.E.C. 827 (1959); Charles M. Weber, 35 S.E.C. 79 (1953). 
+       McConville does not dispute that she had access to the Division's investigatory record,
+       which provided information about the evidence on which the Division intended to rely.
+
+56/    See supra note 33. 
+
+57/    See, e.g., Jaffee & Co. v. SEC, 446 F.2d 387, 394 (2d Cir. 1971).  McConville complains
+       that the law judge denied her motion before considering her reply memorandum.  The law
+       judge reconsidered her ruling after considering McConville's reply and the cases cited
+       therein.  She then denied McConville's  motion.  McConville does not identify any
+       prejudice that resulted from the law judge's ruling, and we see none.  
+---------------------Page 24---------------------
+
+                                               24
+
+required to prove its case by clear and convincing evidence.  Under Steadman v. SEC it is well
+settled that the applicable standard, which we applied here,  is preponderance of the 
+evidence.  58/ 
+
+       McConville asserts that the Commission's settled administrative proceeding against
+Costello, who served as Akorn's controller during much of McConville's tenure as CFO,
+collaterally estops the Commission from finding that she committed the violations charged
+because the order in that proceeding found that Costello had significant responsibility for the
+preparation and contents of Akorn's 2000 Form 10-K.  59/   The doctrine of collateral estoppel
+protects litigants from relitigating an identical issue with the same party.  60/  The question
+whether McConville had significant responsibility for preparing the 2000 Form 10-K is not
+identical to the question whether Costello also had significant responsibility for that document,
+so it is not being relitigated here.  61/
+
+       McConville argues that the amended financial statements for fiscal year 2000 contained
+in the Form 10-K/A filed by Akorn on October 7, 2002 "represent the only concrete evidence of a
+quantifiable deficiency in the reserve for doubtful accounts" in Akorn's 2000 Form 10-K, and that
+"to the extent the Initial Decision suggests that such a quantifiable deficiency existed on April 17,
+2001, that suggestion rests on the erroneous admission of prior sworn testimony -- the Form 10-
+K/A -- representing an official change in Akorn's position into which McConville had no input." 
+She goes on to argue that, insofar as the Form 10-K/A represented prior sworn testimony, its
+admission was governed by our Rule 235; that the requirements of Rule 235 were not satisfied;
+and that the admission of the Form 10-K/A therefore "violated McConville's Sixth Amendment
+rights."    
+
+       McConville's argument is flawed in many respects.  To the extent the law judge made
+"suggestions," such "suggestions" are now irrelevant in light of our de novo review.  62/  We see
+
+58/    Steadman v. SEC, 450 U.S. 91, 103 (1980). 
+
+59/    Thomas D. Costello, Exchange Act Rel. No. 48906 (Dec. 11, 2003), 81 SEC Docket
+       3151. 
+
+60/    Parklane Hosiery Co. v. Shore, 439 U.S. 322, 326-27 (1979).
+
+61/    McConville argues that the law judge "turned the principle of collateral estoppel on its
+       head" and used the Costello order improperly against her.   The import of this argument is
+       unclear, but in any event, our de novo review would cure any error of this nature.
+
+62/    In a further argument of this nature, McConville contends that the law judge relied on
+       facts and arguments not explicitly identified in the Initial Decision.  McConville fails to
+       identify any portions of the Initial Decision that the law judge failed to support with
+                                                                                   (continued...)
+---------------------Page 25---------------------
+
+                                               25
+
+nothing in the Initial Decision that suggests that the law judge based any conclusions on a finding
+that there was a quantifiable deficiency in the reserve for doubtful accounts as of April 17, 2001. 
+We make no such finding, and we base no conclusion on any such finding.  None of the numbers
+contained in the Form 10-K/A are the basis for any finding against McConville.  We do not find
+that the amount of uncollectible receivables could be quantified by April 17; we find, however,
+that McConville knew or was reckless in not knowing that it was likely that Akorn would fail to
+collect a substantial amount of the receivables from the top five wholesale customers.  In any
+event, Rule 235 is irrelevant to the admission of the Form 10-K/A, a filing with the Commission,
+and compliance with the requirements of Rule 235 is consequently irrelevant.  The Sixth
+Amendment is irrelevant to non-criminal proceedings.  63/
+
+                                               IV.
+
+       Exchange Act Section 21C authorizes the Commission, where there is a finding that a
+person has violated or caused a violation of a provision of the Exchange Act or any rule
+thereunder, to order such person to cease and desist from committing or causing such violation
+and any future violation of the same provision or rule.  64/  In determining whether a cease-and-
+desist order is an appropriate sanction, we look to the risk of future violations and a variety of
+other factors, including the seriousness of the violation, the isolated or recurrent nature of the
+violation, whether the violation is recent, the degree of harm to investors or the marketplace
+resulting from the violation, the respondent's state of mind, the sincerity of assurances against
+future violations, recognition of the wrongful nature of the conduct, opportunity to commit future
+
+62/    (...continued)
+       references to specified facts.  But again, any errors of this sort in the Initial Decision are
+       of no consequence since our review is de novo.
+
+63/    McConville argues that the law judge improperly quashed her subpoena requiring the
+       Commission to produce certain materials related to its dealings with Akorn leading to the
+       filing of the Form 10-K/A.  As noted above, however, none of the numbers in the Form
+       10-K/A are the basis for any finding against McConville.
+
+64/    15 U.S.C. § 78u-3.  The law judge ordered McConville to pay disgorgement, based on the
+       salary she received from Akorn in 2000 and 2001.  Although we believe that imposing
+       disgorgement of salary is within our authority, as an exercise of discretion, we decline to
+       do so here.  
+
+       Our resolution of this matter makes it unnecessary to reach the question of McConville's
+       alleged inability to pay disgorgement.  McConville submitted a Form D-A, containing
+       personal financial information.  We grant her unopposed motion pursuant to Rule of
+       Practice 322(b), 17 C.F.R. § 201.322(b), for a protective order for the financial
+       information contained in this Form, based on our finding that the harm to McConville
+       resulting from disclosure would outweigh the benefits of disclosure. 
+---------------------Page 26---------------------
+
+                                               26
+
+violations, and remedial function to be served by the cease-and-desist order in the context of any
+other sanctions sought in the proceeding.  65/  We impose a cease-and-desist order only where
+we have determined that there is some risk of future violation.  66/
+
+       The violations here were significant.  McConville was responsible for misrepresentations
+and omissions in Akorn's Form 10-K, which was filed with the Commission and thus made
+available to investors.  As a result of the deficiencies in Akorn's recordkeeping and internal
+controls, Akorn's receivables were overstated, no impairment of the receivables was disclosed,
+and no reserve was created for customer accounts that represented 60% of the receivables. 
+McConville made misrepresentations to Deloitte in the management representation letters to
+Deloitte, knowing that Deloitte would be basing assumptions on those letters in its work on the
+2000 audit.  She also made oral misrepresentations to Deloitte about the collectibility of the
+receivables from the top five wholesale customers.
+ 
+       The deficiencies of Akorn's recordkeeping with regard to accounts receivable was an
+ongoing problem, not a one-time or limited occurrence.  The situation deteriorated for months, if
+not years, and McConville failed to take adequate action to improve matters.  The violations were
+relatively recent:  the deficiencies in internal controls became more pronounced over the years
+and came to a head in 2000 and early 2001, and McConville signed the management
+representation letters in 2001, and the 2000 Form 10-K was filed in 2001.  
+
+       McConville's actions caused harm to investors and the marketplace.  Fraudulent
+misstatements and omissions in financial statements and periodic reports mislead investors who
+buy or sell stock based on the information contained therein.  Moreover, exposure of the fraud
+results in an erosion of confidence in the marketplace in general.  67/ 
+ 
+       As we found above, McConville acted with scienter.  McConville continues to deny
+responsibility for the violations charged, and does not acknowledge any wrongdoing on her part. 
+Her primary assurance that she will not commit future violations is based on the fact that the
+bringing of this proceeding against her has damaged her reputation to such an extent that it is
+unlikely that she will be hired for a position where she could commit such violations.  However,
+
+65/    KPMG Peat Marwick, 54 S.E.C. 1134, 1192 (2001), reconsideration denied, 74 SEC
+       Docket 1351 (Mar. 8, 2001), pet. for review denied, 289 F.3d 109 (D.C. Cir. 2002). 
+
+66/    KPMG Peat Marwick, 54 S.E.C. at 1185.  The risk of future violations required to
+       support a cease-and-desist order is significantly less than that required for an injunction. 
+       Id. at 1191.
+
+67/    See, e.g., SEC v. Dresser Indus., Inc., 628 F.2d 1368, 1377 (D.C. Cir. 1980)
+       (dissemination of false or misleading information by companies to members of investing
+       public may distort efficient workings of securities markets and injure investors who rely
+       on the accuracy and completeness of companys public disclosures).
+---------------------Page 27---------------------
+
+                                              27
+
+merely instituting a proceeding does not preclude future employment in the securities industry. 
+A cease-and-desist order will serve the remedial purpose of encouraging McConville to take her
+responsibilities more seriously in the future.  68/  We find that the record as a whole, especially
+the evidence with regard to the seriousness of McConville's violations and her lack of
+acknowledgement of wrongdoing, establishes a sufficient risk that McConville would commit
+future violations to warrant imposition of a cease-and-desist order.   Based on all of these factors,
+we find a cease-and-desist order to be in the public interest.  69/
+
+       An appropriate order will issue.  70/
+
+       By the Commission (Chairman DONALDSON and Commissioners GLASSMAN,
+GOLDSCHMID, CAMPOS, and ATKINS).
+
+                                                   Jonathan G. Katz
+                                                      Secretary 
+
+68/    See McCurdy v. SEC, 396 F.3d 1258, 1265 (D.C. Cir. 2005) (recognizing that order
+       suspending auditor from practice before the Commission for one year had remedial
+       purpose of encouraging more rigorous compliance with generally accepted auditing
+       standards in future).
+
+69/    McConville suggests that under Section 21C of the Exchange Act, the Commission may
+       not enter a cease-and-desist order against McConville because the OIP did not also charge
+       Akorn, the primary violator.  McConville argues that Section 21C's use of the singular
+       "an order" indicates that cease-and-desist orders are permitted only where such an order
+       also is entered against the primary violator.
+
+       The Commission has never construed Section 21C as having such a requirement.  See,
+       e.g. Robert M. Fuller, 80 SEC Docket 3539 (entering cease-and-desist order for causing
+       violations of primary violator, where no cease-and-desist order was imposed on primary
+       violator).  To the contrary, the language in Section 21C providing that the Commission
+       "may" enter a cease-and-desist order against a primary violator and against a person that
+       is a cause of the violation supports our view that the Commission has the option of
+       entering a cease-and-desist order against an individual who causes a violation without
+       entering the same order against the primary violator.
+
+70/    We have considered all of the parties' contentions.  We have rejected or sustained them to
+       the extent that they are inconsistent or in accord with the views expressed in this opinion.
+---------------------Page 28---------------------
+
+                           UNITED STATES OF AMERICA
+                                      before the
+                    SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Rel. No. 51950 / June 30, 2005
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Rel. No.  2271 / June 30, 2005
+
+Admin. Proc. File No. 3-11330
+
+                           In the Matter of 
+
+                       RITA J. MCCONVILLE
+
+ORDER IMPOSING REMEDIAL SANCTIONS
+
+      On the basis of the Commission's opinion issued this day it is 
+
+      ORDERED that Rita J. McConville cease and desist from committing or causing any
+violations or future violations of Sections 10(b) and 13(b)(5) of the Securities Exchange Act of
+1934 and Rules 10b-5, 13b2-1, and 13b2-2 thereunder, and from causing any violations or future
+violations of Sections 13(a) and 13(b)(2) of the Securities Exchange Act of 1934 and Rules 12b-
+20 and 13a-1 thereunder.
+
+      By the Commission.
+
+                                              Jonathan G. Katz
+                                                 Secretary 

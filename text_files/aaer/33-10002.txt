@@ -1,0 +1,690 @@
+---------------------Page 1---------------------
+
+                          UNITED STATES OF AMERICA 
+                                     Before the 
+                   SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES ACT OF 1933  
+Release No. 10002 / January 12, 2016 
+ 
+SECURITIES EXCHANGE ACT OF 1934  
+Release No. 76876 / January 12, 2016 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT  
+Release No. 3731 / January 12, 2016 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-16729 
+ 
+                                              
+                                              
+                                              
+In the Matter of                           
+                                           
+      MILLER ENERGY                        
+      RESOURCES, INC., PAUL W.            ORDER MAKING FINDINGS AND 
+      BOYD, CPA, DAVID M. HALL,           IMPOSING A CEASE -AND-DESIST 
+      AND CARLTON W. VOGT, III ,          ORDER AND PENALTIES PURSUANT TO 
+      CPA                                 SECTION 8A OF THE  SECURITIES ACT 
+                                          OF 1933 AND SECTION 21C OF THE 
+Respondent s.                             SECURITIES EXCHANGE ACT OF 1934  
+                                          AS TO MILLER ENERGY RESOURCES, 
+                                          INC. 
+                                           
+ 
+                                              
+ 
+                                         I. 
+ 
+      On August 6, 2015, the Securities and Exchange Commission (“Commission”) instituted 
+proceedings pursuant to Section 8A of the Securities Act of 1933 (“Securities Act”) and Section 
+21C of the Securities Exchange Act of 1934 (“Exchange Act”) against Miller Energy Resources, 
+Inc. (“Miller Energy” or “Respondent”). 
+ 
+                                         II. 
+ 
+      Respondent has submitted an Offer of Settlement (the “Offer”) which the Commission has 
+determined to accept. Solely for the purpose of these proceedings and any other proceedings 
+brought by or on behalf of the Commission, or to which the Commission is a party and without 
+---------------------Page 2---------------------
+
+ 
+
+admitting or denying the findings herein, except as to the Commission's jurisdiction over it and the 
+subject matter of these proceedings, which are admitted, Respondent consents to the entry of this 
+Order Making Findings and Imposing a Cease-and-Desist Order and Penalties Pursuant to 
+Section 8A of the Securities Act of 1933 and Section 21C of the Securities Exchange Act of 
+1934 As To Miller Energy Resources, Inc. (the “Order”), as set forth below. 
+ 
+ 
+                                               III. 
+ 
+                                                                                1
+       On the basis of this Order and Respondent’s Offer, the Commission finds  that: 
+ 
+                                          SUMMARY 
+                                                  
+       1.      This case involves financial accounting and reporting fraud, as well as audit 
+failures, related to the valuation of certain oil and gas assets acquired by Miller Energy, an oil and 
+gas company headquartered in Knoxville, Tennessee.  Miller Energy purchased these assets, which 
+are located in Alaska, for $2.25 million in cash – along with the assumption of certain liabilities it 
+valued at approximately $2 million – during a competitive bid in a bankruptcy proceeding in 
+December 2009.   
+                                           
+       2.      The Company subsequently reported those assets at an overstated value of $480 
+million, and recognized a one-time “bargain purchase” gain of $277 million for its fiscal third 
+quarter ended January 2010 and fiscal year ended April 2010.   
+        
+       3.      Miller Energy failed to account for the acquisition in accordance with generally 
+accepted accounting principles (“GAAP”).  Accounting Standards Codification (“ASC”) 805, 
+Business Combinations, required Miller Energy to record the value of its acquired Alaska assets at 
+“fair value.”  However, contrary to authoritative accounting guidance, Miller Energy’s then-CFO 
+(“CFO”) used as fair value a reserve report that was prepared by a petroleum engineer firm using 
+the rules for supplemental oil and gas disclosures.  As set forth in GAAP, the numbers used in 
+these supplemental disclosures do not reflect fair value, and the reserve report used by the CFO 
+expressly disclaimed that the numbers therein represented the engineer firm’s opinion of fair value.  
+The reserve report the CFO used also contained expense numbers that were knowingly understated 
+by the CEO of Miller Energy’s Alaska operations (“Alaska CEO”).  In addition, the CFO double 
+counted $110 million of certain fixed assets that were already included in the reserve report.      
+
+                                        RESPONDENT 
+
+       4.      Miller Energy Resources, Inc. is a Tennessee corporation with its principal place 
+of business in Knoxville, Tennessee.  It operates and develops oil and gas wells in north and south 
+central Alaska.  The Company operated oil and gas assets in the Appalachian region of east 
+Tennessee until selling them in November 2014 for $3.3 million in cash.  It changed its name from 
+
+                                                 
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding 
+on any other person in this or any other proceeding. 
+
+                                                2  
+---------------------Page 3---------------------
+
+ 
+
+Miller Petroleum to Miller Energy Resources in April 2011.  Miller Energy’s securities, registered 
+pursuant to Exchange Act Section 12(b), were listed on the NYSE until September 2015, when the 
+securities were delisted.  On October 1, 2015, Miller Energy filed a voluntary petition for 
+reorganization under chapter 11 of title 11 of the U.S. Code in the United States Bankruptcy Court 
+for the District of Alaska (the “Bankruptcy Case”).     
+
+                                             FACTS 
+
+                                           Background 
+
+       5.      Miller Energy was founded in 1967 as an oil and gas exploration and production 
+company, and went public via a reverse merger in 1996.  Between early 2002 and December 2009, 
+Miller Energy’s stock price regularly traded below one dollar per share, falling to a low of $0.04 
+per share in December 2007.  In August 2008, Miller Energy named a new CEO.  Soon thereafter, 
+the Company began acquiring additional oil and gas properties. 
+        
+                   Miller Energy Acquires and Overvalues the Alaska Assets 
+
+       6.      In the fall of 2009, Miller Energy became aware of certain oil and gas properties in 
+Alaska that were in the process of being “abandoned” as part of the bankruptcy proceedings of a 
+California-based energy company.   
+
+       7.      Unable to service its heavy debt and pay the significant monthly costs required to 
+operate the properties, the bankrupt entity unsuccessfully sought for almost a year to sell its Alaska 
+assets.  Beginning in December 2008, months before it filed for bankruptcy, the former owner of 
+the assets, with the help of one of the world’s leading financial advisory and asset management 
+firms, marketed the same group of assets that Miller Energy ultimately bought to 40 potential 
+buyers.  This process failed to attract any bidders, and the assets were auctioned by the bankruptcy 
+court in July 2009, with the winning bidder agreeing to a total purchase price of $8 million for the 
+assets.  A second entity, who bid $7 million, was designated as the back-up purchaser.  Neither 
+bidder closed.    
+
+       8.      As a result, the former owner of the assets sought in August 2009, and was granted 
+in September, an order from the bankruptcy court allowing it to abandon title to the assets due to a 
+lack of interest.   
+
+       9.      Due to renewed interest in the assets following their abandonment from Miller 
+Energy, the bankruptcy court permitted the debtor to reacquire the Alaska assets and sell them to 
+Miller Energy in a competitive auction for $2.25 million in cash and the assumption of certain 
+limited liabilities.  The transaction closed on December 10, 2009.   
+
+       10.    On March 22, 2010, Miller Energy filed its quarterly report on Form 10-Q for its 
+fiscal third quarter ended January 31, 2010 and reported a value of $480 million for the Alaska 
+acquisition, which amount was comprised of $368 million for oil and gas properties and $110 
+million for fixed assets.  Miller Energy also reported an after-tax $277 million “bargain purchase 
+gain,” which boosted net income for the quarter to $272 million – an enormous increase over the 
+$556,097 loss reported for the same period the year before. 
+
+                                                3  
+---------------------Page 4---------------------
+
+ 
+
+       11.    As detailed below, these inflated balance sheet and income statement numbers were 
+repeated in numerous documents subsequently filed with the Commission.   
+
+       12.    The newly-booked value of the Alaska acquisition, which resulted in a nearly 
+5,000% increase in Miller Energy’s total assets, had a significant impact on Miller Energy’s stock 
+price.  On December 10, 2009, the date of the transaction, Miller Energy’s stock closed at $0.61 
+per share.  By March 31, 2010, Miller Energy’s stock closed 982% higher at $6.60 per share.  
+Weeks later, its stock began trading on NASDAQ and, after moving to the NYSE a year later, 
+reached an all-time high price on December 9, 2013 of $8.83 per share.   
+
+       13.    As described in detail below, Miller Energy materially overstated the value of its 
+Alaska assets by more than four hundred million dollars.     
+
+                           Under GAAP, Miller Energy Was Required 
+                          to Record the Alaska Acquisition at Fair Value 
+
+       14.    ASC 805, Business Combinations – formerly Statement of Financial Accounting 
+Standards (“SFAS”) 141(R) – became effective in December 2008.  Among its principal revisions, 
+ASC 805 requires acquisitions that result in a “bargain purchase,” e.g., entities purchased at fire 
+sales prices in non-orderly transactions, to be measured at fair value, with any resulting gain 
+recorded on the income statement.    
+
+       15.    ASC 820, Fair Value Measurements (formerly SFAS 157), provides the framework 
+for measuring fair value.  “Fair value” is defined in ASC 820 as “the price that would be received 
+to sell an asset or paid to transfer a liability in an orderly transaction between market participants at 
+the measurement date.”  A reporting entity must determine an appropriate fair value using one or 
+more of the valuation techniques described in accounting literature.  
+
+       16.    ASC 820 outlines three broad approaches to measure fair value: the market 
+approach, income approach, and cost approach.  Under the market approach, prices and other 
+relevant information generated by market transactions involving identical or comparable assets or 
+liabilities are used to measure fair value.  The income approach utilizes valuation techniques to 
+convert future amounts to a single discounted present value amount.  Finally, the cost approach is 
+based on the amount that currently would be required to replace the assets in service, i.e., current 
+replacement cost.   
+
+       17.    ASC 820 emphasizes that fair value is a market-based measurement, not an entity-
+specific measurement, and should be determined based on the assumptions market participants 
+would use in pricing the asset or liability.   
+
+       18.    ASC 820 emphasizes that when a price for an identical asset or liability is not 
+observable entities should use a “valuation technique that maximizes the use of relevant observable 
+
+                                                4  
+---------------------Page 5---------------------
+
+ 
+
+inputs and minimizes the use of unobservable inputs” and entities may not ignore assumptions 
+                                  2
+market participants would use.         
+
+        19.      When computing their estimate of fair value, Miller Energy and the CFO failed to 
+consider the existence of numerous, readily apparent data points strongly indicating that the assets 
+were worth substantially less than the $480 million value Miller Energy recorded.  In failing to do 
+so, Miller Energy and the CFO materially overstated the value of the newly acquired Alaska assets.   
+
+        20.     As described below, Miller Energy purported to value its Alaska acquisition using 
+the income approach for the oil and gas reserves and the cost approach for certain fixed assets. 
+
+                        The Valuation of the Acquired Oil and Gas Properties 
+            Was Based Upon a Reserve Report, Which Does Not Represent Fair Value 
+
+        21.     To record the value of the acquired oil and gas properties, Miller Energy and the 
+CFO requested and improperly used a reserve report prepared by an independent petroleum 
+engineer firm.   
+
+        22.     Reserve reports are commonly used in the oil and gas industry to estimate quantities 
+                                                                                        3
+of oil and gas (the reserves) expected to be recovered from existing properties.            Generally, these 
+reports list reserves in categories based on a minimum est      imated percentage probability of eventual 
+recovery and production,    i.e., proved, probable, and possible.  Information in reserve reports that 
+are prepared in accordance with Commission regulations is frequently used, for among other 
+purposes, to satisfy supplemental accounting disclosure requirements concerning estimates of 
+
+                                                 
+2
+ ASC 820 defines “unobservable inputs” as “inputs that reflect the reporting entity’s own assumptions about the 
+assumptions market participants would use in pricing the asset or liability developed based on the best information 
+available in the circumstances” and “observable inputs” as “inputs that reflect the assumptions market participants 
+would use in pricing the asset or liability developed based on market data obtained from sources independent of the 
+reporting entity.”  
+3
+ Oil and gas reporting companies are subject to two principal authoritative pronouncements governing financial 
+accounting and reporting for oil and gas activities: Rule 4-10 of Regulation S-X ( 17 C.F.R. 210.4 -10),  Financial 
+Accounting and Reporting for Oil and Gas Producing Activities Pursuant to the Federal Securities Laws and the 
+Energy Policy and Conservation Act of 1975 (“Rule 4-10”); and ASC 932-235-50-29 through 33 (formerly SFAS 
+19, Financial Accounting and Reporting by Oil and Gas Producing Companies and SFAS 69, Disclosures About Oil 
+and Gas Producing Activities).  ASC 932 establishes disclosure requirements for significant oil and gas activities, 
+including disclosure of the “standardized measure,” which is the future after-tax net cash flows discounted at 10%. 
+A non-GAAP measure known as “PV-10” is similar to the standardized measure but is typically presented on a 
+pretax basis.  The FASB has noted that the standardized measure supplies investors with useful information, 
+however, they also noted their concern “that users of financial statements understand that it is neither fair market 
+value nor the present value of future cash flows. It is a rough surrogate for such measures, a tool to allow for a 
+reasonable comparison of mineral reserves and changes through the use of a standardized method that recognizes 
+qualitative, quantitative, geographic, and temporal characteristics.”  Paragraph 83 of the Basis for Conclusions of 
+SFAS 69.     
+
+                                                       5  
+---------------------Page 6---------------------
+
+ 
+
+future oil and gas production.  However, the numbers used in reserve reports for this purpose are 
+                                                             4
+expressly not considered “an estimate of fair market value.”  
+
+       23.    Shortly after the acquisition, the CFO asked the Alaska CEO – a non-accountant 
+with no formal accounting training – to obtain a reserve report for the Alaska properties in order to 
+determine the fair value of the acquired assets to be reported on Miller Energy’s Form 10-Q for the 
+quarter ended January 31, 2010.   
+
+       24.    On January 5, 2010, the Alaska CEO hired a petroleum engineer firm to prepare a 
+reserve report using a pretax present value of net cash flows discounted at 10% (“PV-10”), which, 
+while appropriate with further adjustments for SEC supplemental disclosures, was not indicative of 
+fair value.   
+
+       25.    The petroleum engineer firm did not know Miller Energy intended to use the report 
+for fair value purposes and believed that the purpose of the report was for use as supplemental data 
+in the company’s SEC disclosures.  Indeed, the two page engagement letter with the engineer firm 
+includes no language about “fair value,” “fair market value” or authoritative accounting literature.     
+
+       26.    The reserve report was finalized in February 2010 and reflected PV-10 of $368 
+million.  
+
+       27.    Upon receiving the reserve report, the CFO, without undertaking any additional 
+analysis, merely recorded as the fair value of the acquired oil and gas properties the sum of the PV-
+10 estimates for 100% of the proved, probable, and possible reserves, which increased the book 
+value of Miller Energy’s oil and gas properties on its balance sheet by $368 million.   
+
+       28.    The reserve report itself clearly stated that the numbers therein were not an estimate 
+of fair market value.  Specifically, on page 3 of the report, it states that “[t]he discounted values 
+shown are for your information and should not be construed as our estimate of fair market value.”  
+the CFO never reviewed or questioned any of the reserve report’s assumptions or calculations, nor 
+did he communicate with the engineer firm about the reserve report.  
+
+       29.    The use of the PV-10 numbers as fair value conflicted with contemporaneous 
+representations Miller Energy made to investors.  Specifically, in its fiscal 2010 Form 10-K, which 
+was the first annual report that included the inflated values, Miller Energy expressly told investors 
+that “[o]ur PV-10 measure and the standardized measure of discounted future net cash flows do not 
+purport to present the fair value of our natural gas and oil reserves.”  Despite that disclosure, Miller 
+Energy had actually used its PV-10 measure in that very same report as the fair value of its 
+acquired properties.    
+
+       30.    The $368 million reserve report value did not represent fair value for several 
+reasons.   
+                                                 
+4
+ See Paragraph 77 of the Basis for Conclusion of  SFAS 69 (“Although it cannot be considered an estimate of fair 
+market value, the standardized measure of discounted net cash flows should be responsive to some of the key variables 
+that affect fair market value, namely, changes in reserve quantities, selling prices, production costs, and tax rates.”).   
+
+                                                  6  
+---------------------Page 7---------------------
+
+ 
+
+       31.    Despite showing years of net profit that market participants would expect to be 
+taxable, the reserve report did not make any adjustments for income taxes.    
+
+       32.    At Miller Energy’s request, the reserve report used a 10% discount rate that was 
+inappropriate under GAAP for determining fair value.  In a discounted cash flow model, a discount 
+rate is used to account for the uncertainties associated with risk and the time value of money.  A 
+discount rate is the required rate of return that an investor would demand – based on the risks 
+associated with the benefit stream under consideration – to induce the investor to make an 
+investment.  By failing to consider the discount rate using assumptions market participants would 
+use, Miller Energy materially overstated the value of the acquired oil and gas properties.       
+
+       33.    The valuation also overstated cash flows from certain categories of reserve 
+estimates (e.g., “probable” and “possible” reserves) by failing to apply any risk weight to such 
+reserves and the resulting cash flows.  Given the high degree of uncertainty associated with cash 
+flows from these reserve estimate categories, they are required to be risk weighted in order to 
+reflect an appropriate valuation. 
+
+       34.    The reserve report did not include amounts for certain asset retirement obligations, 
+i.e., the legal obligations associated with the retirement of tangible long-lived assets.    
+
+       35.    Finally, the $237 million of projected operating and capital expenses in the reserve 
+report, which were provided by Miller Energy and the Alaska CEO, were intentionally understated, 
+resulting in an overstated valuation.   
+
+       36.    In fact, one petroleum engineer firm contacted but not used by Miller Energy 
+thought that the expected level of expenses made a significant portion of the acquisition 
+unprofitable.  Initially, the Alaska CEO contacted the petroleum engineer firm who had previously 
+provided the past two owners of the properties with reserve reports, and thus had unfettered access 
+to past operating data, and requested a quote for “updating” a prior reserve report.  That firm told 
+the Alaska CEO that it would not assign any value to one of the largest fields acquired, the 
+Redoubt Shoal field, because it was uneconomical – i.e., expected future expenses exceeded 
+expected future cash flows – and explained that it would not put its “name on a report that implies 
+                                      5
+value exists where it likely does not.”    
+
+       37.    The CFO was aware that Miller Energy chose the new firm because the prior firm 
+would not assign any value to the Redoubt Shoal field.  The Redoubt Shoal field – which 
+represented $291 million of the $368 million in fair value recorded by Miller Energy – showed 
+positive future cash flows in the reserve report primarily because the Alaska CEO gave the new 
+engineer firm understated and unsubstantiated expense numbers.  The CFO had previously been 
+
+                                                 
+5
+ Unique among the oil and gas properties purchased by Miller Energy, Redoubt Shoal is an offshore field in Cook 
+Inlet, Alaska, which requires the use of an offshore platform that sits in seventy feet of water, is accessible only by 
+boat or helicopter, and drills to depths in excess of 12,000 feet.  Offshore drilling presents risks and costs not 
+associated with onshore operations.           
+
+                                                  7  
+---------------------Page 8---------------------
+
+ 
+
+advised by Miller Energy’s independent auditor that the lack of any controls over the Alaska 
+CEO’s expense estimates was a “concerning void.”             
+
+       38.    Miller Energy and the Alaska CEO provided expense projections that, in many 
+cases, were significantly lower than past actual experience.  For example, internal documents 
+maintained by the Alaska CEO indicate that the cost to drill a new well in the Redoubt field was 
+roughly $13 million.  However, the Alaska CEO told the engineer firm to use a cost of $4.6 million 
+per well in its reserve report.  And instead of using recent expense data the Alaska CEO gave the 
+engineer firm nearly three year old operating expense data, which he revised down on the pretext 
+that Miller Energy could run a leaner operation than former operators of the properties.  By way of 
+example, the Alaska CEO told the engineer firm that the offshore Redoubt field would cost 
+$399,000 per month to operate when it actually cost the seller more than $600,000 per month and 
+when internal estimates show that Miller Energy and the Alaska CEO expected the field to cost 
+more than $800,000 per month once fully operational.  Additionally, in some years, the report 
+included zero expenses for operating the facilities in Redoubt and another field.    
+
+       39.    Overall, the reserve report implied operating expenses of $4 per barrel of oil 
+equivalent (“boe”) for all categories of reserves.  That level of operating expenses was 
+unreasonable in light its predecessor’s actual operating expenses of $32.50/boe in 2008 and 
+$55.42/boe in the first half of 2009 before the wells were shut-in.   
+
+       40.    By understating the expense numbers, Miller Energy overvalued its oil and gas 
+properties by tens of millions of dollars. 
+
+       The Fair Value of the Acquired Fixed Assets Was Double-Counted and Overstated 
+
+       41.    In addition to the $368 million value recorded for the oil and gas properties, Miller 
+Energy also erroneously recorded a separate value of $110 million for acquired fixed assets, such 
+as facilities and pipelines ancillary to the oil and gas reserves.   
+
+       42.    In a February 8, 2010 email, the CFO informed the Alaska CEO that he needed an 
+amount to use as fair value for the fixed assets obtained as part of the Alaska acquisition.  He noted 
+that, ideally, the value should be what a willing buyer would pay for the assets, but “[i]n the 
+absence of that, replacement values or something similar would probably work.”  Two days later, 
+the CFO was sent an “asset replacement cost study” purportedly provided by an independent 
+insurance broker, which appeared to list the replacement cost for the assets as $110 million.  The 
+“study” was dated September 5, 2008, but “revised” on February 9, 2010.   
+
+       43.    Without any additional analysis, the CFO recorded the amount in the revised 
+insurance study on Miller Energy’s balance sheet.   
+
+       44.    The recording of assets at a value of $110 million was improper for several reasons.     
+
+       45.    Miller Energy’s use of the values in the insurance study resulted in counting the 
+value of the fixed assets twice, thereby overstating the value of such assets.  The reserve report 
+Miller Energy relied on to value the acquired oil and gas properties used a discounted cash flow 
+model.  Valuation specialists use such models to estimate the value of an enterprise’s “operating 
+
+                                                 8  
+---------------------Page 9---------------------
+
+ 
+
+assets” – i.e., the assets employed to generate future cash flows – by converting future benefit 
+streams into a net present value.  In Miller Energy’s case, the fixed assets in the insurance study 
+were the very same operating assets that were expected to generate the future cash flows in the 
+reserve report.  Accordingly, they should not have been separately valued.   
+
+       46.    Prior to the acquisition, all of the production from the offshore Redoubt Shoal field 
+ran through the Osprey platform, which had no processing facilities or power generating capability 
+of its own.  Power was sent from generators housed within the Kustatan Production Facility to the 
+platform via a subsea line, which was connected to an underground power grid that ran throughout 
+all of the acquired properties.  Moreover, production from the offshore platform was sent onshore 
+for processing through pipes to the Kustatan Production Facility.  Absent the platform, there would 
+have been no way to obtain oil and gas from Redoubt Shoal without incurring upfront capital 
+expenditures to replace the platform and its related infrastructure.  Similarly, without the other 
+production facilities, the platform would have lacked power and somewhere to process its oil and 
+gas.   
+
+       47.    The reserve report Miller Energy used for the valuation recognized the 
+interconnectedness of the properties, as it expressly listed the facilities and the offshore platform as 
+assets used to generate the future cash flows.   
+
+       48.    In short, because the fixed assets were integral to the operations of the acquired 
+properties, their values were captured in the reserve report’s cash flows.  Consequently, by 
+separately valuing the same operating assets, Miller Energy overstated the value of the Alaska 
+assets by as much as $110 million.   
+
+       49.    The insurance study also did not reflect fair value because the version of the 
+insurance study used by the CFO purported to show “asset replacement cost.”   Absent further 
+adjustments, replacement cost new does not qualify as fair value under GAAP.   
+
+       50.    Miller Energy, at the direction of the CFO and the Alaska CEO, also refashioned a 
+preexisting insurance study to make it appear that its own value of $110 million derived from a 
+third party.  The numbers in the fixed asset study were given to the insurance broker, and its 
+predecessor, by its clients (i.e., Miller Energy and the previous owners of the fixed assets) as far 
+back as 2007 and were used as starting points for other types of estimates, such as estimates for 
+possible losses resulting from fire or natural disasters.  The two employees at the insurance broker 
+who were most familiar with the original “Loss Estimates Study,” including the engineer who 
+authored it, confirmed that no one at the broker ever tested or in any way double-checked the 
+values given to them.   
+
+       51.    The CFO and the Alaska CEO knew or knowingly disregarded the fact that the 
+insurance study did not reflect fair value or any analysis by the insurance broker.   
+
+       52.    On February 8, 2010, the Alaska CEO directed Alaska personnel to contact the 
+insurance broker and another oil and gas consulting company to ask them for a report reflecting 
+fair value or replacement cost.  The insurance broker responded on February 9, and told Miller 
+
+                                                 9  
+---------------------Page 10---------------------
+
+ 
+
+Energy in an email copied to the Alaska CEO that it could not provide a report showing 
+replacement costs.   
+
+       53.    Miller Energy also contacted a separate consulting firm and sent it the insurance 
+broker’s original 2008 insurance report.  Late on February 8, the consulting firm informed Miller 
+Energy that the insurance study it sent was a “good reference” but the report did not state “value or 
+replacement cost.”  The firm offered to conduct its own analysis, but advised that the estimate 
+would take “approximately 2-3 weeks to complete” and “cost around $15,000-$18,000.”   
+
+       54.    Upon hearing the news that a new report might take two to three weeks, Alaska 
+personnel, including the Alaska CEO, called the CFO.  According to one participant on this call, 
+the CFO said he could not wait weeks for a new report.  He “needed it quickly and he needed to 
+base it on something . . . a professional had to sign off on it, not us, some third party. . . .”  During 
+the call, the CFO and the Alaska CEO decided to rely on numbers in the insurance report as 
+replacement costs, despite the Alaska CEO having been told by the broker that it could not provide 
+Miller Energy with replacement costs.   
+
+       55.    With the aim of making the report appear as though it reflected replacement costs, 
+the Alaska CEO provided a subordinate with edits to the 2008 insurance report that significantly 
+altered its appearance, including changing its name from “Loss Estimates Study” to “Asset 
+replacement cost study.”  The revised report, which Miller Energy gave to Sherb & Co., omitted 
+the insurance broker’s methodology and analysis.  As a result, the only numbers reflected in the 
+revised report were the ones provided to the broker by Miller Energy and its predecessors. 
+
+       56.    As a result of the foregoing, Miller Energy overvalued the Alaska assets by more 
+than $400 million. 
+
+       57.    As a result of the fraudulent valuation, Miller Energy filed with the Commission 
+financial reports that materially misstated the value of its assets, as follows:  Forms 10-Q for the 
+third quarter of fiscal year 2010 and all three quarters of fiscal years 2011 through 2015; Forms 10-
+K for fiscal years ended 2010 through 2014; the Form S-1 filed on August 8, 2010; the Forms S-3 
+filed on September 6, 2012 and October 5, 2012; and prospectuses filed between August 25, 2010 
+through August 21, 2014 pursuant to Rule 424.  The fraudulent valuation also resulted in Miller 
+Energy filing with the Commission financial reports that materially misstated its net income, as 
+follows: Forms 10-Q for the third quarter of fiscal year 2010, all three quarters of fiscal 2011, and 
+the first two quarter of 2012; Forms 10-K for fiscal years ended 2010 through 2012; the Form S-1 
+filed on August 8, 2010; the Forms S-3 filed on September 6, 2012 and October 5, 2012; and 
+prospectus supplements filed between August 25, 2010 through August 21, 2014 pursuant to Rule 
+424.  In addition, the fraudulent valuation rendered no fewer than 15 Forms 8-K filed between 
+March 2010 through at least December 2014 materially false and misleading.  
+
+                                         VIOLATIONS 
+
+       58.    As a result of the conduct described above, Miller Energy violated Section 17(a)(2) 
+and (3) of the Securities Act which prohibit fraudulent conduct in the offer or sale of securities.   
+
+                                                10   
+---------------------Page 11---------------------
+
+ 
+
+       59.      As a result of the conduct described above, Miller Energy violated Section 13(a) 
+of the Exchange Act, and Rules 13a-1, 13a-11, and 13a-13 thereunder, which require that every 
+issuer of a security registered pursuant to Exchange Act Section 12 file with the Commission, 
+among other things, annual, current, and quarterly reports as the Commission may require.    
+
+       60.    As a result of the conduct described above, Miller Energy violated Section 
+13(b)(2)(A) of the Exchange Act, which requires reporting companies to make and keep books, 
+records and accounts which, in reasonable detail, accurately and fairly reflect their transactions and 
+dispositions of their assets.   
+
+       61.    As a result of the conduct described above, Miller Energy violated Section 
+13(b)(2)(B) of the Exchange Act, which requires all reporting companies to devise and maintain a 
+system of internal accounting controls sufficient to provide reasonable assurances that transactions 
+are recorded as necessary to permit preparation of financial statements in accordance with GAAP.  
+
+       62.    As a result of the conduct described above, Miller Energy violated Rule 12b-20 
+under the Exchange Act which requires that, in addition to the information expressly required to be 
+included in a statement or report filed with the Commission, there shall be added such further 
+material information, if any, as may be necessary to make the required statements, in light of the 
+circumstances under which they are made not misleading.   
+
+                                       UNDERTAKINGS 
+
+       Miller Energy undertakes to: 
+
+       63.    Terminate the registration of any and all the Company’s securities with the 
+Commission and suspend any continuing reporting obligations of the Company by the earlier of  
+the effective date of Miller Energy’s Joint Plan of Reorganization [Docket No. 364 in Case No. 15-
+00236 (the “Bankruptcy Case”) pending in the United States Bankruptcy Court for the District of 
+Alaska (the “Bankruptcy Court”)], as approved by the Bankruptcy Court in the Bankruptcy Case, 
+or June 30, 2016 (or such later date as the Commission may agree to in its sole discretion); 
+        
+       64.    Cooperate fully with the Commission’s staff (“Staff”) in any and all respects 
+relating to or arising from the matters described in the Offer. In connection with such cooperation, 
+Miller Energy undertakes to:  
+
+               a.   produce, without service of a notice or subpoena, any and all documents and 
+                   other information requested by the Staff;  
+
+               b.   use its best efforts to cause its current and former employees to be interviewed 
+                   by the Staff at such times as the Staff reasonably may direct;  
+
+               c.   use its best efforts to cause its current and former employees to appear and 
+                   testify truthfully and completely without service of a notice or subpoena as may 
+                   be requested by the Staff;   
+
+                                                11   
+---------------------Page 12---------------------
+
+ 
+
+       65.    For good cause shown, the Staff may extend any  of the procedural dates relating 
+to the undertakings.  Deadlines for procedural dates shall be counted in calendar days, except that 
+if the last day falls on a weekend or federal holiday, the next business day shall be considered to 
+be the last day. 
+
+       66.    Miller Energy shall certify, in writing, compliance with the undertaking(s) set forth 
+above.  The certification shall identify the undertaking(s), provide written evidence of compliance 
+in the form of a narrative, and be supported by exhibits sufficient to demonstrate compliance.  The 
+Commission staff may make reasonable requests for further evidence of compliance, and 
+Respondent agrees to provide such evidence.  The certification and supporting material shall be 
+submitted to Peter J. Diskin,  Assistant Regional Director, U.S. Securities and  Exchange 
+Commission, 950 E. Paces Ferry Road, N.E., Atlanta, GA 30326, with a copy to the Office of 
+Chief Counsel of the Enforcement Division, no later than sixty (60) days from the date of the 
+completion of the undertakings.    
+
+       67.    In determining whether to accept Miller Energy’s Offer, the Commission has 
+considered these undertakings. 
+
+                                               IV. 
+
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in the Respondent’s Offer. 
+
+       Accordingly, it is hereby ORDERED that: 
+
+       A.      Respondent Miller Energy cease and desist from committing or causing any 
+violations and any future violations of Section 17(a)(2) and 17(a)(3) of the Securities Act, Sections 
+13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act, and Rules 12b-20, 13a-1, 13a-11, and 
+13a-13 thereunder.  
+
+       B.      Respondent Miller Energy shall pay a civil money penalty in the amount of 
+$5,000,000.  In the event Miller Energy’s Plan is confirmed by the Bankruptcy Court, the payment 
+of such $5,000,000 civil penalty shall be accomplished by the Commission having an allowed 
+general unsecured claim in Class 4 of the Plan in the amount of $5,000,000 and such claim shall be 
+paid consistently with the payments made to Miller Energy’s other general unsecured creditors in 
+Class 4 pursuant to the terms of the Plan.  In the event the Bankruptcy Case is dismissed without 
+the confirmation by the Bankruptcy Court in the Bankruptcy Case of either (i) the Plan, or (ii) any 
+other plan of reorganization for Miller Energy that treats the Commission’s $5,000,000 civil 
+penalty as a general unsecured claim consistently with other allowed general unsecured claims 
+against Miller Energy, then such civil penalty shall be paid by Miller Energy directly to the 
+Securities and Exchange Commission in the following installments:  (i) $625,000 within five 
+business days of the termination of the Bankruptcy Case, and (ii) three installments of $1,458, 
+333.33 each due no later than the first, second and third annual anniversary of the entry of the 
+Order, respectively. The Commission may distribute civil money penalties collected in this 
+proceeding if, in its discretion, the Commission orders the establishment of a Fair Fund pursuant to 
+15 U.S.C. § 7246, Section 308(a) of the Sarbanes-Oxley Act of 2002, as amended. The 
+Commission will hold funds paid pursuant to this paragraph in an account at the United States 
+
+                                                12   
+---------------------Page 13---------------------
+
+ 
+
+Treasury pending a decision whether the Commission, in its discretion, will seek to distribute funds 
+or, subject to Exchange Act Section 21F(g)(3), transfer them to the general fund of the United 
+States Treasury.   If timely payment is not made, additional interest shall accrue pursuant to 31 
+U.S.C. §3717, and the entire outstanding balance of civil penalty, plus any additional interest 
+accrued pursuant to 31 U.S.C. 3717, shall be due and payable immediately, without further 
+application.  
+
+       Any payment made outside of the Bankruptcy Case must be made in one of the following 
+ways:   
+
+               (1)    Respondent may transmit payment electronically to the Commission, which 
+                      will provide detailed ACH transfer/Fedwire instructions upon request;  
+                
+               (2)    Respondent may make direct payment from a bank account via Pay.gov 
+                      through the SEC website at  http://www.sec.gov/about/offices/ofm.htm; or  
+                
+               (3)     Respondent may pay by certified check, bank cashier’s check, or United 
+                      States postal money order, made payable to the Securities and Exchange 
+                      Commission and hand-delivered or mailed to:  
+ 
+               Enterprise Services Center 
+               Accounts Receivable Branch 
+               HQ Bldg., Room 181, AMZ-341 
+               6500 South MacArthur Boulevard 
+               Oklahoma City, OK 73169 
+ 
+       Payments by check or money order must be accompanied by a cover letter identifying 
+Miller Energy Resources, Inc. as a Respondent in these proceedings, and the file number of these 
+proceedings; a copy of the cover letter and check or money order must be sent to Peter J. Diskin, 
+Division of Enforcement, U.S. Securities and Exchange Commission, 950 East Paces Ferry Road, 
+N.E., Atlanta, GA 30326-1382 
+
+       D.      Regardless of whether the Commission in its discretion orders the creation of a Fair 
+Fund for the penalties ordered in this proceeding, amounts ordered to be paid as civil money 
+penalties pursuant to this Order shall be treated as penalties paid to the government for all 
+purposes, including all tax purposes.  To preserve the deterrent effect of the civil penalty, 
+Respondent agrees that in any Related Investor Action it shall not argue that it is entitled to, nor 
+shall it benefit by, offset or reduction of any award of compensatory damages by the amount of any 
+part of Respondent’s payment of a civil penalty in this action ("Penalty Offset").  If the court in any 
+Related Investor Action grants such a Penalty Offset, Respondent agrees that it shall, within 30 
+days after entry of a final order granting the Penalty Offset, notify the Commission's counsel in this 
+action and pay the amount of the Penalty Offset to the Securities and Exchange Commission.  Such 
+a payment shall not be deemed an additional civil penalty and shall not be deemed to change the 
+amount of the civil penalty imposed in this proceeding.  For purposes of this paragraph, a "Related 
+Investor Action" means a private damages action brought against Respondent by or on behalf of 
+
+                                                13   
+---------------------Page 14---------------------
+
+ 
+
+one or more investors based on substantially the same facts as alleged in the Order instituted by the 
+Commission in this proceeding. 
+
+       By the Commission. 
+
+        
+
+                                                              Brent J. Fields 
+                                                              Secretary 
+
+                                                 14   

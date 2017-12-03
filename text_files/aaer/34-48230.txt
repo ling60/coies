@@ -1,0 +1,469 @@
+Citigroup, Inc.: Admin. Proc. Rel. No. 34-48230; AAER-1821 / July 28, 2003
+Home | Previous Page
+United States of America
+before the
+Securities and Exchange Commission
+Securities Exchange Act Of 1934
+Release No. 48230 / July 28, 2003
+Accounting And Auditing Enforcement
+Release No. 1821 / July 28, 2003
+Administrative Proceeding
+File No. 3-11192
+In the Matter of
+Citigroup, Inc.
+Respondent.
+::::::::
+ORDER INSTITUTING A PUBLIC ADMINISTRATIVE PROCEEDING PURSUANT TO SECTION 21C OF THE SECURITIES EXCHANGE ACT OF 1934, MAKING FINDINGS, AND IMPOSING A CEASE-AND-DESIST ORDER AND OTHER RELIEF
+I.
+The Securities and Exchange Commission ("Commission") deems it appropriate to institute a public administrative proceeding pursuant to Section 21C of the Securities Exchange Act of 1934 ("Exchange Act") against Citigroup, Inc. ("Citigroup") and such a proceeding is hereby instituted.
+II.
+In anticipation of the institution of this proceeding, Citigroup has submitted an Offer of Settlement ("Offer") that the Commission has determined to accept.
+Solely for the purpose of this proceeding and any other proceeding brought by or on behalf of the Commission or in which the Commission is a party, and prior to a hearing pursuant to the Commission's Rules of Practice, 17 C.F.R.Sec. 201.100 et seq., Citigroup, without admitting or denying the findings contained herein, except that Citigroup admits to the jurisdiction of the Commission over it and over the subject matter of this proceeding, consents to the issuance of this Order Instituting a Public Administrative Proceeding Pursuant to Section 21C of the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order and Other Relief ("Order").
+III.
+The Commission makes the following findings:1
+A. Introduction
+Citigroup assisted two Houston-based energy companies, Enron Corp. ("Enron") and Dynegy Inc. ("Dynegy"), in enhancing artificially their financial presentations through a series of complex structured transactions whose purpose and effect, among other things, was to allow those companies to report proceeds of financings as cash from operating activities on their statements of cash flows.
+In these transactions, Enron and Dynegy received cash upfront and repaid that cash on terms that included a negotiated return in the nature of interest.2
+Nonetheless, Enron and Dynegy did not disclose that these transactions were financings or report them as such.
+Instead, these transactions were structured purportedly to take advantage of certain accounting rules so that Enron and Dynegy could report them on their balance sheets as "price risk management liabilities," "minority interest," or otherwise.
+1. Enron Corp.
+Enron used fair value accounting for certain contracts and financial instruments related to its trading activities; for hedging related to non-trading activities; and for merchant investments, described by Enron as providing capital primarily to energy and communications-related businesses seeking debt or equity financing.3
+Increases in the fair value of assets accounted for on a fair value basis can generate current period earnings without generating any associated cash flow from operating activities.
+A mismatch between earnings and cash flow from operating activities could have raised questions about the quality and sustainment of Enron's fair-value earnings; in other words, it could have created uncertainty over whether those earnings ultimately would convert into cash.
+Enron turned to structured-finance transactions to make proceeds from financings appear as cash from operating activities and thereby balance its earnings with its cash flow from operating activities.
+Specifically with respect to Citigroup, Enron executed Project Nahanni, Project Bacchus ("Bacchus"), and ten so-called prepay transactions to meet its financial reporting needs.
+As Citigroup knew, because it helped structure the transaction, the purpose of Project Nahanni was to generate cash from operating activities by selling Treasury bills ("T-bills") bought with the proceeds of a loan.
+The transaction took place over approximately five weeks spanning Enron's 1999 fiscal year end.
+The project was structured as a business partnership between Enron and an "investor" entity arranged by Citigroup to engage in this transaction.
+The investor entity was capitalized with a $485 million loan from a Citigroup affiliate and $15 million in equity contributed by a third party.
+The idea was that the "investor" entity would turn its capitalization into T-bills and contribute those T-bills into a partnership with Enron.
+The partnership would sell the T-bills (classified by Enron as "merchant investments"), thus generating cash flow from operating activities.
+Enron would consolidate the partnership's results on its financial statements and report the proceeds of T-bill sales as cash from operating activities on its consolidated statement of cash flows.
+The partnership was created in mid-December 1999.
+On December 29, 1999, Enron used this structure to increase its reported cash from operating activities by $500 million.
+Enron informed Citigroup that it would use this $500 million to decrease its reported debt by that amount.
+Three weeks later, in January 2000, Enron arranged to repay the $485 million loan in full with interest.
+Enron's purported disclosure of this transaction in its year-end 1999 filings failed to disclose fully that the partnership was created in December to fund a transaction that lasted just long enough to achieve a year-end financial reporting effect.
+Enron's disclosure was also misleading because it created the false impression that this transaction related to Enron's regular-course-of-business investments in energy and technology companies.
+Project Bacchus was structured by Enron as a sale of an interest in certain of its pulp and paper businesses to a special purpose entity ("SPE") capitalized by Citigroup with a $194 million loan and $6 million in equity.
+Citigroup understood that the $6 million in equity represented the three percent minimum capital investment by an independent, third party (here, Citigroup) considered necessary under the then existing accounting literature to avoid consolidating this entity with Enron for accounting purposes.
+(To protect Citigroup's loan, Enron and the entity entered into a total return swap, the effect of which was to make Enron responsible for paying Citigroup an amount equal to the principal and interest on the $194 million loan.)
+Enron and Citigroup signed documents that supported Enron's accounting treatment.
+Simultaneously, however, Citigroup obtained oral representations from Enron that Citigroup would not lose money in connection with its three percent equity investment.
+Citigroup understood that reducing this representation to a written contractual term would have negated Enron's accounting treatment.
+Consequently, in substance, Citigroup was not at risk for its equity investment, thus rendering Project Bacchus a $200 million financing from Citigroup, which should have been accounted as such.
+At the end of December 2000, Project Bacchus generated $200 million of cash from operating activities and $112 million in pre-tax income for Enron.
+Four months before Project Bacchus' maturity date, the Project Bacchus structure was terminated and the pulp and paper assets were moved into a different structure involving Enron and Citigroup.4
+The prepay transactions, as Citigroup understood, were financings structured as commodity trades.5
+Nominally, these transactions involved upfront cash payments (prepayments) to Enron in exchange for Enron's obligation to make future payments determined by multiplying the spot price of the referenced commodity by the contract volume.
+However, the structure effectively passed the commodity price risk back to Enron.
+If all the contracts were performed pursuant to their terms, Citigroup was entitled to receive repayment of its prepayment of the contract price, together with a negotiated return on that amount, on a specified schedule  i.e., the equivalent of an interest payment on the contract price.
+The negotiated return was unrelated to any price risk associated with owning a commodity contract.
+As Citigroup knew, Enron reported the receipt of cash generated from prepay transactions as cash flow from operating activities, rather than cash flow from financing activities, and it reported its repayment obligation as a price risk management liability, rather than debt.
+In net economic effect, Enron used these transactions to borrow, over a two and one-half year period, an aggregate amount of $3.8 billion (although at any particular point in time the amount of Enron's outstanding obligations was lower).
+During fiscal year 1998, $500 million out of $1.6 billion that Enron reported as net cash flow from operating activities on its consolidated statement of cash flows came from prepay transactions with Citigroup.
+During fiscal year 1999, the Project Nahanni and prepay structured transactions accounted for approximately $2 billion of Enron's reported net cash flow from operating activities.
+But for these transactions, in that year, Enron would have reported that it used $800 million in net cash in operating activities (a negative amount in its statement of cash flows) instead of reporting that it generated $1.2 billion in net cash from operating activities (a positive amount in its statement of cash flows).
+For fiscal 2000 the Bacchus and prepay structured transactions accounted for approximately $1 billion of $4.7 billion net cash generated by operating activities.
+For the second quarter of 2001 prepay structured transactions accounted for approximately $1 billion of $1.3 billion that Enron reported as net cash flow used in operating activities.
+But for the prepay structured transactions reported net cash flow used in operating activities (a negative amount in the statement of cash flows) would have been $2.3 billion.6
+Citigroup knew or should have known that the acts or omissions described in this Order would contribute to Enron's violations of Exchange Act Section 10(b) and Exchange Act Rule 10b-5.
+Consequently, Citigroup was a cause of Enron's violations within the meaning of Exchange Act Section 21C.
+2. Dynegy Inc.
+Dynegy also turned to a structured-finance transaction to address the mismatch between its earnings and operating cash flow resulting from fair value accounting for trading-related contracts and financial instruments.
+Dynegy, too, was concerned that the mismatch between earnings and cash flow from operations would raise questions about the quality of Dynegy's earnings and its ability to sustain those earnings.
+In addition, Dynegy sought to lower its effective tax rate through a transaction-based tax benefit.
+Project Alpha ("Alpha") was a complex financing, structured as a two-phase long-term natural gas contract.
+The transaction was conceived and marketed to Dynegy by Dynegy's then auditor-consultant; Citigroup's role was to raise the financing and assist in facilitating the transaction.
+As Citigroup understood, essentially, Alpha was a loan to Dynegy, pursuant to which Dynegy purchased gas at a discount from a sponsored SPE during the initial nine months of Alpha's five-year term and then sold the gas for a profit; Dynegy is currently repaying the loan, with interest, over the remaining 51 months by purchasing gas at above-market prices from the SPE.
+The commodity price and interest rate risks associated with the loan repayment are hedged through a series of derivative transactions.
+Citigroup knew that Dynegy used Alpha to borrow a total of $300 million and generate a $79 million tax benefit.
+As Citigroup also knew, Dynegy recorded the Alpha-derived loan proceeds in its statement of cash flows as operating cash flow.
+In fiscal year 2001, Alpha accounted for $300 million of Dynegy's reported cash flow from operating activities, out of a gross reported figure of $811 million.
+The Alpha-related cash flows represented 37 percent of Dynegy's reported operating cash flow.
+The Alpha-based $79 million tax benefit comprised 12 percent of 2001 Dynegy's net income.
+Citigroup knew or should have known that the acts or omissions described in this Order would contribute to Dynegy's violations of Section 10(b) of the Exchange Act and Rule 10b-5 thereunder.
+Consequently, Citigroup was a cause of Dynegy's violations within the meaning of Section 21C of the Exchange Act.
+B. Respondent
+Citigroup, Inc.
+Citigroup is a Delaware corporation with its principal place of business in New York, New York.
+Citigroup is a diversified global financial services holding company whose businesses provide a broad range of financial services to consumer and corporate customers.
+At all times pertinent to this Order, the common stock of Citigroup was registered with the Commission pursuant to Section 12(b) of the Exchange Act and traded on the New York Stock Exchange under the symbol "C".
+C. Issuers
+1. Enron Corp.
+Enron Corp. is an Oregon corporation with its principal place of business in Houston, Texas.
+At all times pertinent to this Order, the common stock of Enron was registered with the Commission pursuant to Section 12(b) of the Exchange Act and traded on the New York Stock Exchange under the symbol "ENE".
+Until its bankruptcy filing in December 2001, Enron was the seventh largest corporation in the United States based on reported revenue.
+In the previous ten years, Enron had evolved from a regional natural gas provider to a commodity trader of natural gas, electricity, and other physical commodities with retail operations in energy and other products.
+The Company also created and traded financial products.
+2. Dynegy Inc.
+Dynegy is an Illinois corporation headquartered in Houston, Texas.7
+At all times pertinent to this Order, the common stock of Dynegy was registered with the Commission pursuant to Section 12(b) of the Exchange Act and traded on the New York Stock Exchange under the symbol "DYN".
+Dynegy produces and delivers energy, including natural gas, electricity, natural gas liquids, and coal, to customers in North America, the United Kingdom, and Continental Europe.
+In addition to energy production and delivery, energy trading was a key component of Dynegy's business during the relevant period.
+D. Discussion
+1. Enron-Related Conduct
+Project Nahanni
+At a September 1999 meeting between Enron and Citigroup, Enron explained that it projected a year-end shortfall in its cash flow from operating activities because of a delay in a sale of one of its merchant investments.
+Enron indicated to Citigroup that it wanted to develop and execute a transaction with Citigroup before the year end to generate cash flow from operating activities to make up for the shortfall.
+Citigroup developed Project Nahanni and presented it to Enron as a financial statement solution to that operating cash flow shortfall.
+The basic concept behind Project Nahanni was to generate cash flow from operating activities by selling T-bills bought with the proceeds of a loan arranged by Citigroup, using a minority interest structure.
+In this structure, a third party provides capital by acquiring a minority interest in a consolidated subsidiary of a sponsor.
+Accordingly, cash flow associated with the activities of the consolidated subsidiary appears as cash flow from operating activities on the sponsor's financial statements.
+The third party's financial contribution to the consolidated subsidiary appears as a minority interest on the sponsor's balance sheet, rather than debt.
+Here, Citigroup fashioned a structure whereby an investor entity would purchase T-bills primarily with proceeds of a loan.
+The investor entity would then use those T-bills to acquire a minority interest in a consolidated subsidiary of Enron created specifically to effectuate this transaction.
+The Enron subsidiary would then sell the T-bills.
+The sale of the T-bills, in turn, would generate cash that would appear as cash from operating activities on Enron's statement of cash flows.
+In addition, Enron told Citigroup that it would use the proceeds of this transaction to pay down certain of its debt obligations.
+In effect, in addition to increasing its reported cash flow from operating activities, Enron intended to use Project Nahanni to improve its reported debt to equity ratio by replacing debt with a minority interest in a consolidated subsidiary.
+More specifically, the Project Nahanni transaction was structured as follows:
+The consolidated subsidiary of Enron that sold the T-bills was a partnership called Marengo Assets, L.P. ("Marengo").
+Marengo was a partnership between Enron and an entity called Nahanni Investors L.L.C. ("Nahanni").
+Enron was the general partner of Marengo.
+For its general partner interest, Enron contributed $400 million in Enron unsecured interest-bearing notes and $100 million worth of preferred stock in one of Enron's wholly owned subsidiaries.
+Nahanni was the limited partner of Marengo.
+Nahanni was arranged by Citigroup to act as the third party, minority interest investor in this transaction.
+Citigroup arranged for Nahanni to be capitalized with a $485 million loan8 and a $15 million investment by a third party.9
+In order to execute a cash-less transaction with Marengo, Nahanni used its cash capitalization to buy T-bills and contributed $500 million worth of T-bills into Marengo in exchange for its partnership interest.10
+As the general partner, Enron consolidated Marengo into its financial statements: Marengo's sale of T-bills appeared as cash flow from operating activities on Enron's consolidated statement of cash flows.11
+The principal and interest on the loan to Nahanni were indirectly paid by Enron via Nahanni's partnership interest in Marengo.
+The Marengo Partnership Agreement required Marengo to make payments to Nahanni in amounts and at times corresponding to Nahanni's payment obligations under its loan.
+Project Nahanni's structure contemplated that assets contained in Marengo would generate sufficient proceeds to cover interest on the loan to Nahanni, Nahanni's operating expenses, and the current return to the third-party equity investors in Nahanni.
+Although Enron used the Project Nahanni structure only once, at year-end 1999, it was available to be used each year at Enron's option for up to the entire five-year term.
+The loan to Nahanni was revolving.
+In any one year, Enron could redeem up to $485 million of Nahanni's interest in Marengo, thereby causing Nahanni to repay the portion of its loan representing the redeemed interest.12
+Thereafter, Enron could cause Nahanni to draw on Nahanni's revolving loan by calling upon Nahanni to make a capital contribution to Marengo.
+By operation of the revolving loan agreement, any such capital contribution would be limited to an amount representing any previously redeemed Nahanni interest in Marengo (up to $485 million).
+Nahanni and Marengo were specifically prohibited from engaging in any other business or activity.
+As originally contemplated, Enron could withdraw the proceeds of the T-bill sales by borrowing from Marengo, after contributing into Marengo sufficient assets to assure eventual redemption of Nahanni's interest.
+(Since Enron consolidated Marengo, any such loan would be eliminated in consolidation, i.e., it would be an unreported inter-company loan.)
+Alternatively, the cash proceeds would remain in Marengo or could be used to effectuate the repayment of the $485 million Nahanni loan by partially redeeming Nahanni's interest in Marengo.
+While the initiation of the transaction was designed to be reported as an increase in cash flow from operating activities, its wind-down was designed to be reported as a reduction in cash flow from financing activities.
+As noted, the repayment of the loan to Nahanni was triggered by the partial redemption of Nahanni's interest in Marengo.
+Generally, under GAAP, redemption of a partnership interest has to be reported as cash used for financing activity.
+Nahanni was formed on December 17, 1999.
+The entire structure was put in place on December 21, 1999.
+On December 29, 1999, Enron generated  for financial statement purposes  $500 million in cash from operating activities by directing Marengo to liquidate all of its T-bills.
+Shortly before the transaction was to close, Enron's then-Treasurer informed Citigroup that Enron wanted access to the $500 million cash proceeds of the T-bill sales to pay down its outstanding debt.
+However, Enron did not post collateral that was acceptable to Citigroup.
+Instead, Citigroup agreed to make some modifications to the structure that allowed Enron to borrow the $500 million from Marengo, provided that Enron obtained a letter of credit from a highly rated financial institution to guarantee the $500 million loan.
+The term of the loan could not exceed the term of the letter of credit that Enron obtained.
+Enron provided a letter of credit expiring on January 24, 2000, and borrowed the $500 million.
+Since the transaction with Marengo was an inter-company loan and was eliminated in consolidation, Enron was able to reduce, at year-end, its reported debt by $500 million.
+On January 24, 2000, Enron drew on the letter of credit and repaid the $500 million loan from Marengo, with interest.
+Enron then caused Marengo to partially redeem Nahanni's limited partnership interest.
+To do so, Marengo paid Nahanni approximately $487.1 million, representing $485 million in principal borrowed by Nahanni on the revolving loan and approximately $2.1 in interest.13
+At year-end 1999, Enron reported in its Statement of Cash Flows an increase of approximately $1.2 billion in cash flow from operating activities.
+The $500 million Project Nahanni transaction accounted for 41 percent of that amount.
+Project Bacchus
+In December 2000, Enron recorded a $112 million gain on a $200 million sale to Citigroup of an equity interest in certain entities holding pulp and paper assets.
+This transaction, referred to as Project Bacchus, was purportedly effected as a Statement of Financial Accounting Standards No. 125 ("SFAS 125") transaction.14
+Enron had executed similar SFAS 125 transactions with other financial institutions.
+In asking Citigroup to execute Project Bacchus, Enron provided template transaction documentation for the deal.
+Under the circumstances of this particular transaction, Enron had to transfer control of the subject asset to an entity in which a third party had made a minimum three percent equity investment.15
+Enron transferred an equity method investment in an entity it created to hold an interest in its pulp and paper assets to an SPE called the Caymus Trust ("Caymus") though a multi-layered structure.
+Caymus was capitalized with a Citigroup loan for $194 million and $6 million of equity contributed by another financial institution.
+Although this institution made the equity contribution, it transferred the equity risk to Citigroup in a total return swap.
+Citigroup was required under GAAP to be at risk for its $6 million equity investment in Caymus throughout the transaction.
+Citigroup's debt contribution was protected by a total return swap between Caymus and Enron that effectively required Enron to pay Citigroup, through Caymus, a fixed amount of cash equal to principal and interest on the $194 million debt portion.
+In return, Enron received a return based on the value of the equity interest in the pulp and paper assets subject to the transaction.
+The transaction was given a nine-month term, at which time the assets Enron transferred to Caymus were to be sold.
+Citigroup signed written agreements that were drafted to allow Enron to achieve sale treatment pursuant to SFAS 125.
+Simultaneously, Citigroup received oral representations from Enron that it would not lose money in connection with its equity investment.
+Citigroup understood that reducing this representation to a written contractual term would have negated Enron's accounting treatment.
+In addition, to induce Citigroup to enter into the transaction, Enron indicated that it would take Citigroup out of the transaction well before the expiration of its nine-month term.
+(In fact, four months before Project Bacchus' maturity date, Enron and Citigroup formed a joint venture that purchased Citigroup's interest in Project Bacchus.16)
+In substance, Enron was economically at risk for 100 percent of the assets as a result of Enron's oral commitment regarding Citigroup's three percent equity investment and by application of the total return swap.
+Citigroup, on the other hand, contributed $200 million in cash in return for repayment of that amount with interest.
+In economic reality, therefore, Bacchus was a $200 million financing structured as a sale for the sole purpose of allowing Enron to characterize its proceeds as cash flow from operating activities17 and to record a gain of $112 million.18
+Project Bacchus accounted for four percent of Enron's reported cash flow from operating activities for year-end 2000 and 11 percent of its net pre-tax income.
+Prepay Transactions
+As noted, the prepay transactions were financings structured as commodity trades so that their proceeds could be reported by Enron on its statement of cash flows as cash flow from operating rather than financing activities.
+To accomplish this objective, prepays were structured as three sets of separate transactions among Enron, Citigroup, and a third party.
+(In some cases, the third party was an established financial institution; in other cases, the third party was Delta Energy Corporation ("Delta"), which was a Citigroup-sponsored special purpose vehicle.)
+Each set of these separate transactions purported to transfer commodity risk.
+When all the contracts were taken together, however, the net effect was that Enron received an up-front cash payment from Citigroup and Citigroup was entitled to receive repayment of this sum, together with a set negotiated return, on a specified schedule (i.e., the equivalent of a fixed interest rate).
+The negotiated return was unrelated to any price risk associated with owning a commodity contract.
+(The third parties received a nominal fee, paid by Enron, for participating in the transaction.)
+Enron reported the cash it received from prepay transactions as cash flow from operating activities, rather than cash flow from financing, and it reported its repayment obligation as price risk management liability, rather than debt.
+In all, Citigroup and Enron executed ten prepay transactions between December 1998 and June 2001.
+In all of these transactions, Citigroup was aware that Enron's primary motive was to receive cash financings, but characterize the proceeds from the transactions on its financial statements as cash from operating (instead of financing) activities.
+Through these ten prepay transactions, Citigroup made available to Enron a total of $3.8 billion over a two and one-half year period (although at any particular point in time, the amount of Enron's outstanding obligations was lower).
+In its simplest form, the structure of the Enron-Citigroup prepay transactions involved three separate swap agreements: between Enron and a third party; the third party and Citigroup; and Citigroup and Enron.
+The following illustrates the operation of this structure in the context of a $249.5 million Enron-Citigroup prepay transaction executed in June 2001.
+Leg 1:
+Enron  Delta Swap
+In this leg of the transaction, in exchange for an upfront cash payment, Enron agreed to pay Delta an amount determined by multiplying the future index price of the referenced commodity by the contract volume.
+The amount of the future payment from Enron to Delta "floated" with variations in the future index price (known as the "spot price").
+If the spot price fell below a certain level, under the terms of the agreement, Delta would be entitled to less than its $249.5 million upfront payment.
+However, as illustrated below, this price risk was eliminated through another simultaneous transaction.
+LEG 2:
+Delta  Citigroup Swap
+In this leg, in connection with the prepay transaction, Citigroup funded the Delta payment to Enron.
+Citigroup made a $249.5 million upfront payment to Delta on June 28, 2001  the same day that Delta made its $249.5 million upfront payment to Enron.
+Delta's commodity price risk was passed through to Citigroup: the future floating payment from Enron to Delta exactly mirrored the future floating payment from Delta to Citigroup (i.e., same amounts and payment schedule).
+Leg 3:
+Citigroup  Enron Swap
+In this leg, Enron agreed to pay Citigroup $255.6 million six months after June 28, 2001.
+Citigroup, in turn, passed the commodity price risk back to Enron.
+Overall, the substance of the transaction was that Citigroup funded a $249.5 million disbursement to Enron and six months later Enron was obligated to repay Citigroup $255.6 million  an approximate five percent return to Citigroup exclusive of its arrangement fee.
+The future floating payment from Enron to Delta, Delta to Citigroup, and Citigroup to
+Enron exactly mirrored each other (i.e., same amounts and payment schedule)  canceling each other out.
+The combined operative effect of the three agreements was to pass the commodity price risk back to Enron.19
+The third party in many of these transactions, Delta, was a nominally capitalized SPE established by Citigroup, whose sole purpose in these transactions was to facilitate Enron's accounting treatment.20
+Delta had no material independent resources available to engage in commodity trades.
+The only transactions that Delta participated in were those transactions that Citigroup asked it to execute and for which funding was provided by Citigroup.
+For the relevant transactions, Citigroup and Enron prepared the necessary documentation for Delta's signature.
+Moreover, whenever Enron needed to communicate with Delta (e.g., when Enron needed Delta to provide certain written representations for its auditors), Enron contacted Citigroup.21
+Further, in certain of these transactions, Citigroup requested cross-default provisions so that if Enron defaulted on the Enron-Delta leg of the prepays, all of the legs would collapse simultaneously.
+Enron advised Citigroup that its auditors would not permit cross-default provisions in which documents relating to one leg of the transaction would specifically reference other legs of the transaction.
+Citigroup satisfied Enron's auditors' concerns by structuring certain more generalized termination provisions that would ensure termination of all legs of the transactions in case Enron defaulted.
+Finally, the amount of the commodity subject to a prepay was based on the amount Enron wanted to borrow.
+That amount was determined by taking the principal amount required by Enron, adding interest for the number of days the transaction was to last, and dividing that sum by the per-unit price of the referenced commodity.
+The Yosemite Transactions
+In the beginning of 1999, Citigroup and Enron created a way for Enron to use the domestic and foreign capital markets to fund its prepay transactions.
+At this time, Enron was looking to move some of its financings into the capital markets to free up its capacity to borrow from banks.
+Citigroup welcomed a structure that would maintain its banking relationship with Enron without increasing its credit exposure.
+The structure, called Project Yosemite, accomplished this goal by using proceeds of sales of privately placed notes to fund blind pool trusts that either funded prepay transactions or served as security for Citigroup's funding of prepay transactions.22
+Specifically, Citigroup underwrote and privately placed certain notes with large sophisticated investors.
+The proceeds of those notes were deposited in trusts that were allowed to make certain permitted investments.
+These permitted investments could have taken a variety of forms generally consisting of highly rated securities or bank deposits, and certain obligations of Enron.
+The trusts were set up such that Citigroup made the periodic interest payments on the notes.
+In turn, Citigroup received the returns on permitted investments.
+Citigroup also entered into credit default swaps with the trusts whereby, in case of an Enron bankruptcy, Citigroup would deliver to the note holders senior unsecured obligations of Enron and Citigroup would receive the trust investments.
+In the first two structures, the trusts invested in prepay transactions by replacing Citigroup as the source of Delta's funding.
+In the later variation of this structure, Citigroup funded the prepays and the trusts invested in highly rated bank deposits.
+In this iteration of the structure, Citigroup's extension of credit to Enron under the prepay arrangement was fully secured with highly rated bank deposits by operation of the credit default swap with the relevant trust.
+Using the Yosemite structure, Enron and Citigroup raised approximately $2.3 billion in the capital markets, which provided the financing for additional Enron-Citigroup prepay transactions.
+The effect of the prepay transactions involving Enron and Citigroup on Enron's statement of cash flows for the relevant periods were as follows:23
+For the year ended December 31, 1998, prepay transactions totaling approximately $500 million increased reported net cash purportedly generated by operating activities from $1.1 billion to $1.6 billion.
+For the second quarter of 1999, a prepay transaction totaling approximately $250 million reduced reported net cash reportedly used in operating activities from ($288) million to ($38) million.
+For the third quarter of 1999, a prepay transaction totaling approximately $337 million reduced reported net cash purportedly used in operating activities from ($380) million to ($43) million.
+For the year ended December 31, 1999, prepay transactions totaling approximately $904 million increased reported net cash purportedly generated by operating activities from $296 million to $1.2 billion.
+For the first quarter of 2000, a prepay transaction totaling approximately $305 million reduced reported net cash purportedly used in operating activities from ($762) million to ($457) million.
+For the third quarter of 2000, a prepay transaction totaling approximately $475 million made it appear as if Enron generated $100 million rather than used ($375) million in reported net cash in its operating activities.
+For the second quarter of 2001, prepay transactions totaling approximately $1 billion reduced reported net cash purportedly used in operating activities from ($2.3) billion to ($1.3) billion.
+2. Dynegy-Related Conduct
+Project Alpha
+In 2000, Citigroup marketed to Dynegy Enron-style prepay transactions.
+Although interested in the prepays, Dynegy concluded that a competing transaction under consideration by Dynegy's tax department offered Dynegy superior benefits.
+Dynegy selected that transaction  which became known as Project Alpha.
+In its final form, Alpha was a complex financing structured to achieve joint tax and financial statement benefits.
+Dynegy turned to Citigroup to (i) arrange Alpha's financing and the equity contribution of a Dynegy-sponsored SPE; (ii) provide a portion of Alpha's financing; and (iii) participate as a party in a number of Alpha-supporting derivative transactions.
+Project Alpha involved, in essence, a $300 million loan to Dynegy.
+Dynegy would benefit from the loan by receiving cash up-front, and by recording the loan proceeds, for accounting purposes, as cash flows from operating activity  the purchases and sales of natural gas.
+The $300 million flowed to Dynegy at Alpha's inception in April 2001; Dynegy is currently repaying the loan, along with a negotiated return, and will continue to do so through the end of Alpha's five-year term.
+The natural gas component of Alpha unfolds in two phases: in the first phase  the initial nine months of Alpha  Dynegy purchased gas from an SPE at below-market prices and then sold the gas into the market for a profit.
+In Alpha's second phase  the remaining 51 months of Alpha's five-year term  Dynegy is repaying the loan, along with the negotiated return, by purchasing gas from the SPE at above-market prices.
+The commodity price and interest rate risks associated with the loan repayment are hedged through a series of complex derivative transactions.
+Alpha was designed to address the disconnect between Dynegy's operating cash flow and net income  a consequence of mark-to-market accounting.
+Consistent with this purpose, and despite Alpha's financing nature, Dynegy recorded as operating cash flow in its 2001 Form 10-K the Alpha-derived $300 million, comprising 37 percent of Dynegy's total 2001 operating cash flow.
+Alpha also provided a $79 million increase, in 2001, to Dynegy's net income.
+The increase, flowing from a tax benefit built into the Alpha transaction, hinged on two factors.
+First, to recognize the benefit, Dynegy was required to demonstrate a "non-tax business purpose."
+This took the form of Dynegy's use of Alpha to redress the "disconnect," by enabling Dynegy to record $300 million in operating cash flow.
+Second, Dynegy recognized the $300 million "losses" Alpha would generate in its latter phase and used it as an offset against its 2001 income, garnering thereby the $79 million net income enhancement, comprising 12 percent of Dynegy's total 2001 net income.
+Dynegy's ultimate restatement, negating Alpha's $300 million operating cash flow benefit, also negated the $79 million net income enhancement.
+Accordingly, Dynegy restated its financial statements to reverse the net income enhancement.
+Citigroup was aware of Dynegy's purpose in conducting Alpha, and was aware of Alpha's anticipated accounting treatment.
+Citigroup was also aware that Dynegy sought to achieve a large Alpha-based net income enhancement through the Alpha-linked tax benefit.
+Citigroup arranged Alpha's $300 million funding by assembling a syndicate of approximately eight institutional lenders and then establishing a mechanism for the syndicate's funding of Alpha in the form of a "Credit-Linked Note" ("CLN") structure.
+By means of the CLN structure, Dynegy accomplished the funding of Alpha without incurring any obligation to explain the various components of Alpha's complex structure to the syndicate members.24
+In addition to arranging the lending syndicate, Citigroup facilitated Alpha by other means:
+by participating in the syndicate through contribution of $60 million of Citigroup's own funds to Alpha's financing; by assisting in hedging market risk to the lending syndicate through direct participation, as a party, in the Alpha hedge transactions; by helping attract certain financial institutions to make the requisite equity investment in the gas-trading SPE; by arranging for the physical supply of gas to the SPE, for purchase by Dynegy; and, finally, by participating in the drafting of the Alpha-related contracts and schedules.
+Alpha can be conceptualized as a flow-through matrix involving two SPEs, three interconnected loans, a gas purchase agreement, hedging transactions, and a linked tax benefit.
+The first Alpha "loan" took the form of a $300 million capital contribution by an SPE, NGAI Funding, L.L.C. ("NGAI Funding"), to a limited partnership, DMT Supply  a gas trading partnership.
+NGAI Funding's source of funding for its loan to DMT Supply was the Citigroup-assembled lending syndicate.
+The second Alpha "loan" essentially routed to Dynegy the proceeds of the first loan.
+Specifically, DMT Supply loaned $300 million to Dynegy, payable by Dynegy upon demand of DMT Supply.
+By Alpha's April 2001 inception, Dynegy had received, indirectly, $300 million from the lending syndicate.
+The other integral component of Alpha was a five-year gas purchase contract ("Gas Contract") between DMT Supply (later subsumed by Dynegy) and the second Alpha SPE, ABG Gas Supply L.L.C. ("ABG Supply").
+The Gas Contract is the mechanism for repaying the syndicate of lenders its $300 million loan to Dynegy.
+Pursuant to the Gas Contract, which commenced in April 2001, DMT Supply bought natural gas from ABG Supply at below-market prices for the first nine months of the Gas Contract  for re-sale by DMT Supply on the open market at a profit.
+DMT Supply used the gas sale profits, approximately $300 million, generated during the first nine months of the Gas Contract to repay its loan to NGAI Funding, which, in turn, funneled the money back to the lending syndicate.
+However, the lending syndicate did not at that point remove itself from the transaction with its $300 million intact.
+Instead, it re-circulated the $300 million, in the form of a third Alpha "loan," consisting of monthly advances to ABG Supply over the first nine months of Alpha, to subsidize the losses ABG Supply sustained over those first nine months in selling gas to DMT Supply at a pre-determined $300 million discount.
+Consequently, nine months into Alpha, the status of the transacting parties was as follows: Dynegy retained the $300 million it had received, indirectly, from the lending syndicate at Alpha's inception; DMT Supply had repaid its $300 million "loan" from NGAI Funding, which, in turn, forwarded the $300 million to the lending syndicate; ABG Supply had "borrowed" from the lending syndicate the $300 million the syndicate had received back from NGAI Funding, to subsidize ABG Supply's $300 million losses over Alpha's first nine months; and the lending syndicate was still owed the $300 million it loaned to ABG Supply.
+ABG Supply is repaying the loan from the lending syndicate over Alpha's remaining 51 months.
+ABG Supply is accomplishing this by selling gas to Dynegy at a pre-determined $300 million total premium above the market price, generating $300 million in losses to Dynegy by the end of Alpha's five-year term, and $300 million in profits to ABG Supply.
+ABG Supply will then transmit its profits over this second phase of Alpha to the lending syndicate, thereby satisfying ABG Supply's $300 million debt to the syndicate.25
+Dynegy's treatment of the Alpha cash flow as operating cash flow did not conform to GAAP.
+Under Financial Accounting Standard 95 ("FAS 95"), the cash flow associated with Alpha should have been classified as cash flow from financing activities  not operations.26
+The Alpha proceeds should have been classified as cash flow from financing activities for two additional reasons.
+First, the owners of ABG Supply did not maintain at risk at least 3 percent of their equity investment in ABG Supply.
+In fact, as part of the transaction, the owners of ABG Supply avoided all commodity price risk by engaging in hedging transactions with Citigroup.
+Consequently, ABG Supply, as an SPE, should have been consolidated with Dynegy in Dynegy's financial statements, and the syndicate's $300 million loan to ABG Supply  covering ABG Supply's losses during the first nine months of the Gas Contract  should have been reflected by Dynegy, on a consolidated basis, as cash flow from financing.27
+Second, Citigroup was a party in the "middle" of various back-to-back swap transactions with ABG Supply's parent holding company and Dynegy (the "swap counter parties").
+These swap transactions included, at Citigroup's insistence, cross-termination provisions that relieved Citigroup of the obligation to perform in the event of default by either swap counter party.28
+The cross-termination provisions were also indicative of a financing, requiring Dynegy to record the Alpha-based proceeds as cash flow from financing, not operations.
+The following diagram illustrates the flow of Alpha loan proceeds.
+Project Alpha
+During the first 9 months, DMT Supply purchased gas from ABG Supply at below-market prices. During months 10 - 60, the lenders are repaid through above-market purchases by DMT Supply.
+3. Legal Analysis
+Section 10(b) of the Exchange Act and Exchange Act Rule 10b-5 prohibit, inter alia, engaging in a "course of business which operates or would operate as a fraud or deceit upon any person, in connection with the purchase or sale of any security."
+Throughout the period described in this Order, Enron and Dynegy structured certain transactions whose purpose and effect was, among other things, to present the proceeds of these transactions as cash flow from operating activities when in economic reality they were proceeds of financing activities.
+Enron and Dynegy also did not disclose that these transactions were financings.
+As a result, Enron's and Dynegy's reported results of operations and financial condition presented a more favorable picture than was the case.
+Specifically, among other things, Enron's and Dynegy's financial statements overstated Enron's and Dynegy's cash flows from operating activities and understated the amount of cash Enron and Dynegy had received in financing transactions from financial institutions.
+Additionally, Enron's and Dynegy's financial statements overstated their net incomes.
+As a further consequence of these transactions, neither Enron's and Dynegy's balance sheets nor their disclosures reflected all of the companies' obligations that were in the nature of debt.
+Enron and Dynegy engaged in this conduct, among other reasons, in order to maintain and increase the market price of their securities.
+Section 21C of the Exchange Act provides that a person is a "cause" of another's violation if the person "knew or should have known" that his or her acts or omissions would contribute to such a violation.
+Citigroup knew or should have known that its conduct would contribute to Enron's and Dynegy's violations of Section 10(b) of the Exchange Act and Exchange Act Rule 10b-5.
+Section 21C(e) of the Exchange Act authorizes the Commission to order Citigroup to disgorge any fees associated with its unlawful conduct.
+IV.
+Findings
+Based on the foregoing, the Commission finds that Citigroup knew or should have known that the acts or omissions described in this Order would contribute to Enron's and Dynegy's violations of Exchange Act Section 10(b) and Exchange Act Rule 10b-5.
+Consequently, Citigroup is a cause of Enron's and Dynegy's violations within the meaning of Exchange Act Section 21C.
+V.
+Acceptance of Citigroup's Offer of Settlement
+Citigroup has made an Offer of Settlement in order to resolve fully the Commission's investigation of Citigroup's involvement in executing structured finance transactions with Enron and executing Project Alpha with Dynegy.
+In determining to accept the Offer, the Commission considered certain remedial acts undertaken by Citigroup.
+Specifically, in August 2002, Citigroup initiated a series of policies and procedures that support the goal of greater transparency in the disclosure of structured finance transactions.
+Citigroup requires that all its public company clients commit to disclose promptly to the public the net effect of any financing transaction proposed to be executed by Citigroup if that transaction is material to the client and is intended not to be accounted for as debt on the client's financial statements.
+Citigroup has further instituted new guidelines for the use of special purpose vehicles and the use of tax-sensitive financial products.
+Citigroup has further taken steps to ensure that these new policies are implemented and carried out in a consistent manner by all business groups, and that senior management plays an ongoing role in monitoring compliance with these policies.
+In determining to accept the Offer, the Commission also considered that Citigroup cooperated with the Commission's investigation in a timely and comprehensive manner, including production of witnesses and documents without delay, responsiveness to other requests for information, and timely efforts to resolve this matter.
+VI.
+Undertakings
+In accepting Citigroup's Offer of Settlement in this matter, the Commission has taken into consideration, and is relying upon, Citigroup's express agreement to undertake to make the following payments:
+A. Citigroup undertakes to make a payment of $48,500,000 as a penalty, in connection with its Enron-related conduct.
+This payment shall be available for allocation in accordance with Section 308 of the Sarbanes-Oxley Act of 2002, Pub. L. No. 107-204 (2002) (hereinafter "Sarbanes-Oxley Act").
+B. This payment, plus $52,750,000 in disgorgement and prejudgment interest, stemming from its Enron-related conduct, described in Section VII(B) below, shall be deposited in the Registry of the Court for the United States District Court for the Southern District of Texas by wire transfer or certified check made payable to Clerk, United States District Court, in the amount of
+$101,250,000.
+See Rule 611(b) of the Commission's Rule of Practice (hereinafter "Rule 611(b)") [17 C.F.R. Sec. 201.611(b)].
+Such funds shall thereafter be distributed in the course of litigation pending in United States District Court for the Southern District of Texas, captioned United States Securities and Exchange Commission v. Merrill Lynch Co., Inc., et al., Civil Action No. H-03-0946 (hereinafter "SEC v. MLCO, et al.").
+Rule 611(b) [17 C.F.R. Sec. 201.611(b)].
+Simultaneously, Citigroup shall transmit by facsimile or hand delivery to Andy Gould, Clerk's Office, United States District Court for the Southern District of Texas, a letter that describes the fact and purpose of the wire transfer or certified check, identifies the respondent Citigroup, and identifies the case name and number of SEC v. MLCO, et al.
+A copy of documentary proof of the wire transfer or certified check and a copy of the letter to Mr. Gould, shall be simultaneously transmitted by facsimile to Charles J. Clark, Assistant Director, Division of Enforcement, U.S. Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20549-0703, (202) 942-9583 (facsimile).
+C. Citigroup undertakes to make a payment of $9,000,000 as a penalty, in connection with its Dynegy-related conduct.
+This payment shall be available for allocation in accordance with Section 308 of the Sarbanes-Oxley Act.
+D. This payment, plus $9,750,000 in disgorgement and prejudgment interest, stemming from its Dynegy-related conduct, described in Section VII(C) below, shall be delivered into the Registry of the Court for the United States District Court for the Southern District of Texas by a wire transfer or certified check made payable to Clerk, United States District Court, in the amount of $18,750,000.
+Rule 611(b) [17 C.F.R. Sec. 201.611(b)].
+Such funds shall thereafter be distributed in the course of litigation pending in United States District Court for the Southern District of Texas, captioned Securities and Exchange Commission v. Dynegy Inc., Civ. No. H-02-3623 (S.D. Tex. 2002) (hereinafter "Dynegy litigation").
+Rule 611(b) [17 C.F.R. Sec. 201.611(b)].
+Simultaneously, Citigroup shall transmit by facsimile or hand delivery to Andy Gould, Clerk's Office, United States District Court for the Southern District of Texas, a letter that describes the fact and purpose of the wire transfer or certified check, identifies the respondent Citigroup, and identifies the case name and number of the Dynegy litigation.
+A copy of documentary proof of the wire transfer or certified check and a copy of the letter to Mr. Gould, shall be simultaneously transmitted by facsimile to Spencer Barasch, Associate District Administrator, Division of Enforcement, U.S. Securities and Exchange Commission, Burnett Plaza, Suite 1900, 801 Cherry Street, # 18, Fort Worth, TX 76102-6882, (817) 978-2700 (facsimile).
+E. Citigroup represents that each of the amounts to be paid pursuant to the Order is not a specific corpus or separate identifiable asset derived from Citigroup's transactions with Enron, and will be paid out of the general corporate funds of Citigroup.
+Citigroup further represents that this settlement shall not release or impair the claims, if any, that any other person or entity may have against Citigroup and its affiliates, nor shall this settlement constitute evidence of or any admission by Citigroup or its affiliates as to the validity or amount of any such claims.
+VII.
+Order
+In view of the foregoing, the Commission deems it appropriate and in the public interest to accept the Offer of Settlement submitted by Citigroup.
+ACCORDINGLY, IT IS HEREBY ORDERED, that:
+A. Citigroup is hereby ordered pursuant to Section 21C of the Exchange Act to cease and desist from committing or causing, within the meaning of Exchange Act Section 21C, any violation of, and any future violations of, Exchange Act Section 10(b) and Exchange Act Rule 10b-5;
+B. Citigroup is hereby ordered pursuant to Section 21C(e) of the Exchange Act to pay disgorgement and prejudgment interest, stemming from its Enron-related conduct, in the amount of $52,750,000.
+Immediately upon entry of this Order, Citigroup shall deliver this payment into the Registry of the Court for the United States District Court for the Southern District of Texas in accordance with the procedures described in Section VI(B) above.
+In accordance with Rule 611(b) [17 C.F.R. Sec. 201.611(b)], the procedures set forth in Section VI(B) above shall govern the distribution of any funds paid in accordance with this Order, rather than the general provisions set forth in Rules 610 through 620 [17 C.F.R. Sec. 201.610 through 620];
+C. Citigroup is hereby ordered pursuant to Section 21C(e) of the Exchange Act to pay disgorgement and prejudgment interest in the amount of $9,750,000, stemming from its Dynegy-related conduct.
+Immediately upon entry of this Order, Citigroup shall deliver this payment into the Registry of the Court for the United States District Court for the Southern District of Texas in accordance with the procedures described in Section VI(D) above.
+In accordance with Rule 611(b) [17 C.F.R. Sec. 201.611(b)], the procedures set forth in Section VI(D) above shall govern the distribution of any funds paid in accordance with this Order, rather than the general provisions set forth in Rules 610 through 620 [17 C.F.R. Sec. 201.610 through 620].
+By the Commission.
+Jonathan G. Katz
+Secretary
+Endnotes
+1
+The findings herein are made pursuant to the Offer that Citigroup has submitted and are not binding on any other person or entity in this or any other proceeding by the Commission.
+2
+While these transactions took the form of commodity trades, investments in partnerships, and sales of assets, in each transaction, Citigroup made its decision to participate largely on the basis of its analysis of credit risk.
+3
+Fair value accounting (sometimes referred to as mark-to-market accounting) generally refers to the practice of recording certain types of assets and liabilities at their current fair value rather than their historical cost, such that any changes in the fair value of those assets and liabilities are reflected as gains or losses for the reporting period in which the changes occurred.
+4
+Enron and Citigroup formed a joint venture that purchased the pulp and paper assets that were the subject of Project Bacchus.
+The terms of this joint venture reduced Citigroup's exposure to Enron by replacing a funded commitment with a mostly un-funded contingent commitment.
+Specifically, Citigroup's investment in the joint venture  consisting of a relatively small cash investment and a contingent equity commitment  would be at risk only if the relevant pulp and paper assets lost their entire value.
+5
+This type of transaction is referred to as a "prepay" because as originally developed it involved an immediate payment of funds by one party in return for the future delivery of a commodity by the counter-party.
+6
+The net effect of the prepay structured transactions executed during the second quarter of 2001 also carried over to the third quarter of 2001 when reported net cash flow used in operations was $753 million (a negative amount in the statement of cash flows).
+7
+In September 2002, the Commission issued a settled cease-and-desist order against Dynegy, In the Matter of Dynegy Inc., Securities Exchange Act of 1934, Rel. No. 34-46537, and filed a settled civil suit against the company in the Southern District of Texas, Houston Division, SEC v. Dynegy Inc., Civil Action No. H-02-3623 (S.D. Tex. 2002); Lit. Rel. No. 17744 (Sep. 25, 2002).
+The Commission made findings in the cease-and-desist order (and alleged in the civil complaint) that Dynegy committed securities fraud, among other violations, in connection with its failure to disclose and to account properly for Project Alpha.
+In settlement of the Commission's enforcement action, Dynegy, without admitting or denying the Commission's findings, agreed to the issuance of the cease-and-desist order and paid a civil penalty in the related civil suit.
+8
+The initial lender in the Project Nahanni transaction was CXC Incorporated, a AAA-rated asset securitization company administered by Citigroup but owned by independent third parties.
+CXC raises funds by selling short-term commercial paper to third parties.
+In Project Nahanni, Citigroup provided a liquidity funding commitment to CXC.
+The purpose of the funding commitment was for Citigroup to fund the transaction, thus avoiding premature unwinding, if CXC was unable to raise enough funds in the commercial paper market.
+An insurance company provided a AAA-rated surety bond to CXC in favor of Citigroup.
+9
+Citigroup arranged for the third-party investors to make a three percent equity investment in Nahanni to avoid consolidation under the Generally Accepted Accounting Principles ("GAAP") guidance then in effect.
+10
+The parties used T-bills with maturity of 120 days on the theory that they were non-cash "merchant investments."
+To include sales of these T-bills in its cash from operating activities, Enron broadened the description of its "merchant investments"  set forth in the Consolidated Financial Statements accompanying Enron's 1999 Annual Report on Form 10-K  to include government securities with maturities of more than 90 days.
+The broadening of the description of "merchant investments" made it appear that Enron invested in T-bills in the normal course of its merchant investment business which was described as "provid[ing] capital primarily to energy and communications-related businesses seeking debt or equity financing."
+11
+Enron disclosed certain aspects of the Project Nahanni transaction in the notes to its 1999 Consolidated Financial Statements.
+However, this disclosure, especially when combined with the broadened description of merchant investments, was incomplete and misleading.
+While Citigroup was not involved with drafting Enron's disclosure, complete and candid disclosure of the way the Project Nahanni transaction used T-bills to create cash flow from operating activities would have defeated the purpose of the structure.
+12
+The redemption of Nahanni's interest was only partial because the third-party investors' $15 million equity contribution had to remain invested and at risk throughout the term of the transaction to keep the structure in place.
+13
+Citigroup charged Enron a one-time fee of $5 million to structure Project Nahanni.
+In addition, Citigroup charged a program fee in connection with the loan to Nahanni and a return on the liquidity facility, which remained un-drawn during the transaction.
+14
+To treat a transfer of assets as a sale under SFAS 125, the transferor must surrender control of those assets.
+The transferor is considered to have surrendered control, under SFAS 125, if the transferred assets have been isolated from the transferor; the transferee has the unconstrained right to pledge or exchange the transferred assets or the transferee is a qualifying special-purpose entity and the holders of beneficial interests in that entity have the unconstrained right to pledge or exchange those interests; the transferor does not maintain effective control over the transferred assets through an agreement that both entitles and obligates the transferor to repurchase or redeem them before their maturity or an agreement that entitles the transferor to repurchase or redeem transferred assets that are not readily obtainable.
+SFAS 125 has been superseded by Statement of Financial Accounting Standards No. 140, "Accounting for Transfers and Servicing of Financial Assets and Extinguishments of Liabilities  a Replacement of FASB Statement No. 125."
+15
+Because Enron did not use a qualifying special purpose entity, it was required to apply other consolidation accounting rules to any entity to which the assets were transferred to determine whether that entity would have to be consolidated.
+See EITF Issue 96-20, "Impact of FASB Statement No. 125 on Consolidation of Special-Purpose Entities," and "A Guide to Implementation of Statement 125 on Accounting for Transfers and Servicing of Financial Assets and Extinguishments of Liabilities," Question 35.
+The accounting literature that applies to consolidation of non-qualifying special purpose entities requires among other things, that the majority owner of the entity be an independent third party who has made a substantial capital investment in the SPE.
+See EITF Abstracts, Appendix D, Topic D-14, and EITF Issue Nos. 90-15 and 96-21.
+The minimum capital investment generally considered necessary under the then existing literature was three percent of capitalization.
+See EITF Issue No. 90-15, the Response to Question 3.
+This minimum investment must remain at risk throughout the life of the SPE.
+See EITF Issue No. 90-15 and EITF Abstracts, Appendix D, Topic D-14.
+16
+Enron and Citigroup formed this joint venture as part of a larger transaction, called Project Sundance ("Sundance"), that Enron designed to allow it to obtain off-balance sheet treatment for all of its pulp and paper assets.
+Citigroup's funding in the Sundance joint venture included a $28 million equity investment that could be lost only if the assets Enron contributed to the Sundance joint venture lost their entire value, and an additional $160 million contingent equity commitment that Citigroup would be required to fund only if, among other things, the assets Enron contributed to the Sundance joint venture lost their entire value.
+The net effect of Sundance was to replace Citigroup's $200 million exposure to Enron in Bacchus with a low-probability contingent-funding obligation.
+In addition, Enron used Sundance to record a $20 million profit.
+17
+Enron classified the equity interest as a "merchant investment."
+As a result, the sale of the equity interest in these pulp and paper assets would generate cash flow from operating activities.
+18
+Many significant aspects of Bacchus are not discussed in this Order because they are not relevant for purposes of this Order.
+This Order does not address whether those aspects of the transaction were appropriate.
+19
+While certain structural details of the other Enron-Citigroup transactions varied, all had the following characteristics:
+(1) The commodity price risk was transferred back to Enron;
+(2) Enron received an upfront payment that it immediately classified as cash from operating activities;
+(3) Citigroup received fixed installment payments over a specified period of time;
+(4) The installment payments were structured so as to provide a pre-determined return that was independent of any fluctuations in prices for the referenced underlying commodity; and
+(5) A third party was inserted in the structure in order for Enron to satisfy its auditors' criteria for treating prepay transactions as operating activities.
+20
+As noted, in some of the transactions, other financial institutions participated as the necessary third party.
+The role of those institutions was no different than the role of Delta: they participated solely to achieve the accounting treatment Enron sought.
+21
+In connection with these transactions, Enron's auditors requested that Enron obtain a letter signed by Delta containing certain representations relating to Delta's status and operations.
+The letter, the form and content of which were negotiated and approved by Enron's auditors, and which Citigroup helped draft and get executed, made the requested representations as follows:
+There is no restriction in the corporate documentation of [Delta] limiting the number of entities with which [Delta] may conduct business.
+[Delta] has undertaken business with a number of entities.
+[Delta] has assets other than those acquired through transactions with Enron Corp. and its subsidiaries and affiliates (collectively "Enron").
+[Delta] has unencumbered assets, which are available for application towards obligations owed to its creditors.
+These representations, while perhaps technically true, supported Enron's desired accounting treatment by ignoring the fact that Delta had little substance, concentrating instead on its form, i.e., the appearance that it was an independent entity.
+22
+The offering memoranda specifically advised that the structure employed "blind-pool trusts" whereby investors would not know the exact nature of the trust investments.
+23
+Enron prepared its statements of cash flows using a method that reconciled net income to the amount of net cash generated by (or used in) operations that indicated whether, on a net basis, Enron's cash inflows and outflows from operations were positive or negative; i.e., generating or using cash.
+Enron's prepay transactions had the effect of overstating this balance  either by causing net cash generated by operating activities (a positive cash flow) to be higher or by causing net cash used in operating activities (a negative cash flow) to be less than what otherwise would have been reported.
+24
+By investing in the Alpha CLN, the financial institutions assumed Dynegy credit risk.
+To hedge that risk, Citigroup also entered into credit default swaps, whereby in the event of a Dynegy bankruptcy, Citigroup was required to compensate the institutions in an amount equivalent to the recovery of an unsecured creditor of Dynegy.
+25
+The purchase price of the gas under the Gas Contract has a 86 percent variable component and 14 percent fixed component.
+Specifically, for the first nine months, the 86 percent variable component was at market price, minus a pre-determined discount (i.e., NYMEX settlement price less a Base Period Price Adjustment).
+For the remaining 51 months, the 86 percent variable component is to be at market price, plus a pre-determined premium (i.e., NYMEX settlement price plus a Term Period Price Adjustment).
+For all 60 months, the remaining 14 percent is at a fixed price.
+26
+Where certain cash receipts and payments may have aspects of different types of cash flow, "the appropriate classification shall depend on the activity that is likely to be the predominant source of cash flow for the item."
+27
+ABG Supply's equity investors also hedged all interest rate risk associated with Alpha, by entering into interest rate swaps and credit default swaps with Citigroup.
+The net effect of these swaps is that, in connection with Alpha, the only risk the ABG Supply equity investors face is the risk of Dynegy's default, in which event the equity owners' claims against Dynegy would be subordinate to claims of the CLN syndicate lenders.
+28
+The cross-termination provisions evidence the fact that the swaps were not conducted in the ordinary course, but rather, to facilitate Alpha.
+Dynegy's accounting advisors specifically told Dynegy representatives that the cross-termination provisions would require recording the Alpha-based proceeds as cash flow from financing.
+http://www.sec.gov/litigation/admin/34-48230.htm
+Home | Previous Page
+Modified: 07/28/2003

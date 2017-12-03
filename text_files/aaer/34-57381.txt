@@ -1,0 +1,405 @@
+---------------------Page 1---------------------
+
+ UNITED                              STATES OF AMERICA 
+
+ Before                                       the 
+
+                    SECURITIES AND EXCHANGE COMMISSION 
+
+
+SECURITIES EXCHANGE ACT OF 1934 
+Release No.  57381 / February 26, 2008 
+
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No.  2792 / February 26, 2008 
+
+ADMINISTRATIVE PROCEEDING 
+File No. 3-12971 
+
+In the Matter of                              ORDER INSTITUTING PUBLIC 
+                                              ADMINISTRATIVE PROCEEDINGS 
+      NICHOLAS DIFAZIO, CPA,                  PURSUANT TO RULE 102(e) OF THE 
+                                              COMMISSION’S RULES OF PRACTICE, 
+Respondent.                                   MAKING FINDINGS, AND IMPOSING 
+                                              REMEDIAL SANCTIONS 
+
+                                            I. 
+
+      The Securities and Exchange Commission (“Commission”) deems it appropriate that public 
+administrative proceedings be, and hereby are, instituted against Nicholas Difazio, CPA 
+(“Respondent” or “Difazio”) pursuant to Rule 102(e)(1)(ii) of the Commission’s Rules of Practice.1 
+
+                                           II. 
+
+      In anticipation of the institution of these proceedings, Respondent has submitted an Offer 
+of Settlement (the “Offer”) which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the findings 
+herein, except as to the Commission’s jurisdiction over him and the subject matter of these 
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Public 
+
+1 
+ Rule 102(e)(1)(ii) provides, in pertinent part, that: 
+
+      The Commission may . . . deny, temporarily or permanently, the privilege of appearing or practicing before 
+it . . . to any person who is found . . . to have engaged in unethical or improper professional conduct. 
+---------------------Page 2---------------------
+
+Administrative Proceedings Pursuant to Rule 102(e) of the Commission’s Rules of Practice, 
+Making Findings, and Imposing Remedial Sanctions (“Order”), as set forth below.   
+
+                                              III. 
+
+       On the basis of this Order and Respondent’s Offer, the Commission finds2
+                                                                                that: 
+
+A.     SUMMARY 
+
+       This Order concerns the conduct of Nicholas Difazio, an audit partner at Deloitte & Touche 
+LLP (“D&T”), in connection with fiscal year 2000 and 2001 audits of the financial statements of 
+Delphi Corporation (“Delphi”).  On October 30, 2006, the Commission brought actions against 
+Delphi and 13 individuals in connection with their role in widespread accounting violations at 
+Delphi.  Difazio, then the lead engagement partner on the Delphi audits, engaged in improper 
+professional conduct, as detailed below. 
+
+B.     RESPONDENT 
+
+       Nicholas Difazio, 44, a resident of Bloomfield, Michigan, has been an audit partner at 
+D&T since 1995 and served as lead client service partner on the Delphi engagement for the fiscal 
+year 1999 through 2002 audits of Delphi’s financial statements.  In that role, Difazio was directly 
+responsible for providing audit services, and oversaw the provision of tax, mergers and 
+acquisitions and consulting services, to Delphi.  He currently serves in D&T’s New York office. 
+Difazio has been licensed as a CPA in the State of Michigan since 1987 and in the State of New 
+York since 2003. 
+
+C.    FACTS 
+      1.      Difazio’s Review and Audit of Delphi Warranty Costs Charged to Equity 
+       In the second quarter of 2000, Delphi misclassified a $112 million increase in its warranty 
+reserves as a charge to stockholders’ equity, rather than to current-period warranty expenses, as 
+required by Generally Accepted Accounting Principles (“GAAP”).  The misclassification was 
+reflected in Delphi’s second quarter 2000 Form 10-Q and in its fiscal year 2000 Form 10-K.  
+Delphi’s improper treatment of the warranty reserve allowed it to increase the reserve and avoid a 
+material increase in expenses.  Later, Delphi restated the accounting for this transaction and D&T 
+signed off on the restatement. 
+
+       Delphi was spun-off from its former parent effective January 1, 1999.  By May 2000, 
+Delphi’s former parent company had asserted as much as $800 million in warranty claims under 
+Delphi’s supply agreement with the former parent company.  Many claims related to parts that 
+Delphi had manufactured and the former parent company had incorporated into its products prior 
+to Delphi’s spin-off from the former parent company in 1999.  Delphi disputed the former parent 
+company’s right to recover these warranty costs, but ultimately determined during the second 
+
+2 
+       The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding on any 
+other person or entity in this or any other proceeding. 
+                                               2
+
+---------------------Page 3---------------------
+
+quarter of 2000 that it would likely offer the former parent company $100 million to settle the 
+claims.  Delphi incorrectly accounted for the warranty claims using an accounting method afforded 
+to certain post-employment benefit liabilities that received special treatment under the agreement 
+governing the spin-off of Delphi from the former parent company.  Payments from Delphi to the 
+former parent company made within one year of the spin-off to offset the “true up” of those post-
+employment benefit liabilities were accounted for as a direct charge to Delphi’s shareholders’ 
+equity, rather than as a charge to income, and certain other adjustments were similarly charged 
+directly to equity because they were considered to be the resolution of open items in accordance 
+with the original intent of the agreement between Delphi and its former parent.  Delphi treated the 
+warranty claims by the former parent company the same way: Delphi recorded an increase to its 
+warranty reserve of approximately $112 million, and improperly accounted for the accrual as a 
+charge to stockholders’ equity of $69 million, which was $112 million net of taxes.   
+
+       Difazio should not have accepted Delphi’s view that it could use these special accounting 
+rules and not the accounting rules that apply broadly to contingencies and changes in estimates on 
+this warranty matter.  Although Difazio provided a memorandum regarding the transaction to the 
+Concurring Review Partner with regard to this warranty matter, he did not consult with D&T’s 
+national office concerning Delphi’s application of the special spin-off accounting treatment to the 
+former parent company’s warranty claims.  Delphi’s warranty liability did not qualify for such 
+special treatment.  Although the warranty claims related to parts produced by Delphi prior to the 
+spin-off, and were referred to as such by the parties, they arose in the normal course of the 
+customer-supplier relationship between Delphi and the former parent company.  The spin-off 
+agreement expressly provided that Delphi was liable for warranty defects, regardless of a part’s 
+date of manufacture, and did not include provisions comparable to the true-up mechanism for post-
+employment benefits.  Under these circumstances, changes in the estimated warranty liability 
+should have been accounted for through the income statement of the current period, in accord with 
+Statement of Financial Accounting Standards (“SFAS”) No. 5, “Accounting for Contingencies.” 
+Difazio did not correctly identify the appropriate accounting guidance for the warranty accrual and 
+unreasonably accepted Delphi’s method which avoided recognition of the warranty expense.  For 
+these reasons, Difazio’s audit did not conform to Generally Accepted Auditing Standards 
+(“GAAS”). 
+
+       2.     Difazio’s Review and Audit of the September 2000 Settlement Agreement 
+
+       In the third quarter of 2000, Delphi paid the former parent company $237 million to resolve 
+its warranty claims.  Delphi misclassified $202 million of the $237 million payment to the former 
+parent company as relating to pension and other post-employment benefits rather than warranty 
+expense.  This enabled Delphi to avoid recognizing the warranty expense in the third quarter and 
+instead to defer that charge over many years.  By accounting for only $35 million of the payment 
+as settlement of warranty issues and the remaining $202 million as a pension “actuarial loss” that 
+would be amortized as a charge to earnings over the next decade or more, Delphi did not comply 
+with GAAP. 
+
+       By September 2000, Delphi determined to pay the former parent company to settle 27 
+identified warranty claims, and it drafted a settlement agreement according to which Delphi would 
+
+                                               3
+
+---------------------Page 4---------------------
+
+pay the former parent company $237 million, which, unknown to Difazio, was the parties’ estimate 
+of the present value of Delphi’s share of the former parent company’s anticipated warranty outlays.  
+Although the agreement negotiated orally between the parties covered only warranty claims, 
+Delphi’s management drafted and the former parent company signed a written settlement 
+agreement, dated September 22, 2000, that mischaracterized the $237 million settlement as 
+resolving two issues – warranty claims and increased pension and other post-employment benefit 
+costs due to changes in healthcare assumptions – instead of just warranty claims.  Three weeks 
+before the agreement was executed, Delphi management discussed with Difazio a request by its 
+former parent for adjustments to offset certain healthcare and other cost trends.  Prior to the 
+consultation, a Delphi manager had mentioned to Difazio that the former parent was expected to 
+raise such an issue. Difazio did not know, however, that the former parent company had never 
+asserted a claim involving changes in healthcare assumptions.  In fact, the former parent company 
+believed the separation agreements governing Delphi’s spin-off from the former parent company 
+would not allow such a claim.  Delphi management told Difazio that it intended to attribute 
+$202 million of the $237 million to the release of true-up assumption claims. 3
+                                                                              As support for its 
+valuation of the other post-employment benefit claims, Delphi furnished Difazio with the deceptive 
+written agreement and a September 6, 2000, letter from an actuarial consultant stating that $202 
+million was a “rough estimate of the impact” of using certain updated and forecasted assumptions 
+for healthcare claims and health care trend rates in the calculation of the true-up between Delphi 
+and the former parent company. 
+
+       When Delphi presented the executed agreement as simultaneously settling two issues, 
+Difazio should have made greater inquiry into Delphi’s representations supporting the allocation 
+which was now necessary.  Difazio should have known that the separation agreements provided 
+that the 1998 assumptions should be used for the true-up calculations.  Difazio did not request or 
+receive any documentation of the former parent company’s purported claim or any legal 
+assessment of its merits, and instead relied on the representations of members of Delphi 
+management whom he believed were knowledgeable about the negotiations.  Difazio should have 
+known that updating the assumptions would result in Delphi’s paying that incremental cost for 
+employees assigned to the former parent company, even though the spin-off agreement limited 
+Delphi’s responsibility to benefits earned by its own employees who were active at the spin-off 
+date and had not retired during a brief period following the spin-off.  
+
+       Difazio also placed undue reliance on Delphi’s actuarial consultant in support of the 
+reasonableness of the other post-employment benefit claim.  Although he had oral discussions with 
+the actuary in which the actuary explained the calculation and his understanding of the agreement, 
+Difazio should have known that the actuary did not participate in any negotiations with the former 
+parent company and therefore could only be relaying information received from Delphi, and that 
+the actuary was not interpreting Delphi’s agreements with the former parent company, but merely 
+performing a requested calculation using inputs provided by Delphi.  Moreover, D&T requested a 
+separate letter from the actuary during its year-end audit to confirm the valuation in the settlement 
+agreement and the approach used in determining the amount.  In response, the actuary faxed a copy 
+
+3 
+       True-up calculations were designed to restore Delphi to its initially agreed-upon capitalization as of 
+January 1, 1999, after adjustments for the post-employment liabilities recorded for employees that returned to 
+Delphi’s former parent company or retired as former parent company employees during a window period. 
+                                                4
+
+---------------------Page 5---------------------
+
+of its original September 6 letter with a cover sheet noting:  “Attached is a note we prepared in 
+September regarding the impact of alternative actuarial assumptions on certain true-up amounts.  
+Please see [Delphi] for further information regarding the September agreement.”  In accordance 
+with Delphi’s instruction, the actuary included the amount Delphi attributed to resolution of the 
+post-employment assumptions within the deferred pension balances in his year-end valuation.  
+Difazio unreasonably concluded that the actuary’s sending a copy of the original September 6 letter 
+and the year-end valuation was sufficient confirmation. 
+
+       Additionally, in connection with the $237 million payment, Difazio unreasonably did not 
+object to Delphi’s method of allocating the settlement, and Difazio did not gather evidence as to 
+whether the $202 million allocation reflected the fair value of the release in the settlement 
+agreement.  Further, Difazio unreasonably relied on Delphi’s warranty cost experience as a wholly 
+owned subsidiary as evidence supporting the residual attribution of $35 million to the 27 settled 
+warranty claims, despite his awareness that the parent company’s claims against Delphi as an 
+independent company could be different. 
+
+       In addition, Difazio failed to apply adequate professional skepticism in light of indications 
+that the former parent company could be accounting for a much greater portion of the $237 million 
+as payment for the former parent company’s warranty claims against Delphi.  First, Difazio did not 
+sufficiently scrutinize a “clawback” provision in the settlement agreement under which, if the 
+former parent company’s warranty expense turned out to be less than anticipated, Delphi might be 
+able to recover from the former parent company amounts in excess of the $35 million it supposedly 
+paid for warranty.  Difazio also failed to recognize the implications of a side letter to the agreement 
+which was necessary only because the former parent company and Delphi both understood that the 
+former parent company would be treating the $237 million as a warranty payment and that this 
+would have certain tax implications relating to the spin-off. 4
+                                                               Finally, Difazio did not perform any 
+additional procedures in response to a call from the lead D&T engagement partner on the audit of 
+the former parent company that he received after the opinion on Delphi’s fiscal year 2000 financial 
+statements had been issued.  The engagement partner told Difazio to make sure he had 
+documentation for the accounting position taken by Delphi.  In light of this call, Difazio should 
+have made further inquiries prior to the subsequent reissuance of D&T’s audit report for fiscal year 
+2000 in Delphi’s May 2001 prospectus offering debt securities. 
+
+       In sum, Difazio’s performance on the Delphi audit was deficient because he did not 
+challenge sufficiently Delphi’s unreasonable approach to the allocation of the settlement amount or 
+gather sufficient evidence supporting the allocation.  Difazio mistakenly assured the Delphi audit 
+committee regarding the completeness of D&T’s review of the settlement agreement and that D&T 
+
+4 
+       For liquidity reasons, Delphi could not pay $237 million in addition to a previously agreed $800 million for 
+true-up.  The former parent company was willing to defer part of the amount due from Delphi, but the tax-free status of 
+the spin-off would have been jeopardized if the amount deferred related to warranty reimbursement rather than the true-
+up agreement.  Therefore, the former parent company and Delphi executed a separate agreement in conjunction with 
+the settlement agreement specifying that $237 million of the $800 million true-up payment would be deferred, and that 
+Delphi would immediately pay the $237 million due under the settlement agreement.  Difazio should have recognized 
+that this side agreement would not have been necessary had the former parent company also intended to account for the 
+bulk of the settlement payment as relating to true-up. 
+                                                 5
+
+---------------------Page 6---------------------
+
+believed it had obtained sufficient evidence to conclude that “the accounting is reasonable.”  In 
+reality, for the reasons given above, Difazio’s audit did not conform to GAAS. 
+
+       3.	    Difazio’s Response to New Information Concerning the 
+              Repurchase of Generator Cores and Batteries from the Consulting Company 
+
+       In a December 27, 2000 transaction, Delphi purported to sell $70 million of bulk 
+inventories consisting of substantially all of Delphi’s inventories of generator cores and finished 
+automotive batteries to a company that was primarily engaged in providing consulting assistance to 
+troubled automotive industry suppliers and automotive companies engaged in turnaround efforts 
+(the “Consulting Company”). The written agreement between Delphi and the Consulting 
+Company expressly stated that it constituted the entire agreement, and that any oral discussions in 
+connection with the agreement were not enforceable.  The written agreement contained no 
+commitment to repurchase the cores or batteries.  Nevertheless, pursuant to an oral side agreement 
+made at the time of the original sale and not revealed to D&T or Difazio, Delphi purchased the 
+identical inventory of cores and batteries back from the Consulting Company on January 5, 2001, 
+at its original price, plus a transaction fee.  Because Delphi committed to repurchase the cores and 
+batteries at a price that covered the Consulting Company’s costs and paid it a fee, GAAP 
+required the arrangement to be accounted for as a product financing under SFAS No. 49, but 
+Delphi improperly accounted for the transactions as a separate sale and purchase. Delphi did not 
+recognize any revenue or direct profit on the sale, but nevertheless recognized $27 million in last 
+in, first out (“LIFO”) inventory liquidation gains, which were included by Delphi as part of its 
+year-end disclosure of $96 million in LIFO gains that Delphi attributed in part to “aggressive 
+inventory management.” 
+
+       A D&T partner other than Difazio performed and documented the year-end audit 
+procedures in connection with this transaction. However, Difazio was aware of the transaction and 
+his notes prepared for January and February 2001 audit committee meetings describe his 
+understanding that the sale of the generator cores was in anticipation of a sale of the generator 
+business with which the inventory was associated.  
+
+       Later, however, in the course of D&T’s review of Delphi’s first quarter 2001 financial 
+statements, in April or May 2001, Difazio became aware that at least a significant portion of the 
+generator cores sold in the final days of 2000 had been repurchased during the first quarter.  As 
+part of his quarterly review, Difazio asked senior members of Delphi’s management why a 
+repurchase had occurred, and was told that Delphi had changed its view as to its need for 
+possession of the cores in light of its plans regarding the sale of the generator business.  Delphi 
+management also orally reaffirmed to Difazio that there had been no prior repurchase commitment 
+to the Consulting Company.  Difazio accepted this explanation, based on the facts known to him, 
+but did not document his consideration of this issue, and performed no additional procedures. 
+
+       The response of Difazio to the discovery of inventory repurchased in the first quarter so 
+soon after the year-end bulk sale, particularly in the face of a prior management representation that 
+there was no obligation to repurchase the inventory, was inadequate.  It indicated insufficient 
+concern about facts that could have contradicted important management representations or 
+otherwise indicated the possible presence of fraud.  Difazio recalls knowing that “some” inventory 
+                                               6
+
+---------------------Page 7---------------------
+
+was repurchased at some time in the first quarter, but had no recollection that the sale or repurchase 
+also involved batteries.  Difazio had a duty in those circumstances to learn more about the 
+unexpected repurchase so that the inquiries of management could be sufficiently probative, but he 
+did not seek out additional facts.  D&T’s work papers showed that the repurchase comprised all, or 
+substantially all, of the original bulk sale of both generator cores and batteries.  The invoice for the 
+repurchase, which D&T neither requested nor received, showed that it occurred nine days after the 
+sale.  The invoice price, compared to the original sale price, showed that the purported value of the 
+inventory increased over those nine days (representing the fee to the Consulting Company).  In 
+addition, Delphi’s records reveal that Delphi itself had provided the cash with which the 
+Consulting Company purchased the inventories.  In light of facts which were known to him, 
+GAAS required Difazio to make additional inquiries or conduct additional procedures. 
+
+D.     VIOLATIONS 
+
+       Rule 102(e)(1)(ii) provides that the Commission may temporarily or permanently 
+deny an accountant the privilege of appearing or practicing before it, if it finds, after notice 
+and opportunity for hearing, that the accountant engaged in “improper professional 
+conduct.” Such improper professional conduct includes, as applicable here, negligent 
+conduct, defined as “repeated instances of unreasonable conduct, each resulting in a 
+violation of applicable professional standards, that indicate a lack of competence to practice 
+before the Commission.”  Rule 102(e)(1)(iv)(A)-(B).  Difazio failed (i) to obtain sufficient 
+competent evidential matter to afford a reasonable basis for the opinion rendered, Auditing 
+Standards §AU 326, (ii) to exercise due professional care in the planning and performance 
+of the audit, Auditing Standards § AU 230, and (iii) in performing the audit to identify 
+material departures from GAAP in the financial statements, Auditing Standards § AU 410.  
+In addition, he wrongly stated that the audit conformed to GAAS, Auditing Standards § AU 
+508.  As a result of the actions detailed above, for Delphi’s fiscal year 2000 and 2001, 
+Difazio engaged in improper professional conduct on the second and third quarter 2000 
+warranty and batteries/cores transactions. 
+
+E.     FINDINGS 
+
+       Based on the foregoing, the Commission finds that Difazio engaged in improper 
+professional conduct pursuant to Rule 102(e)(1)(ii) of the Commission’s Rules of Practice. 
+
+                                              IV. 
+
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondent Difazio’s Offer. 
+
+       Accordingly, it is hereby ORDERED, effective immediately, that: 
+
+       A.     Difazio is denied the privilege of appearing or practicing before the Commission as 
+an accountant. 
+
+                                               7
+
+---------------------Page 8---------------------
+
+       B.     After three (3) years from the date of this order, Respondent may request that 
+the Commission consider his reinstatement by submitting an application (attention: Office of 
+the Chief Accountant) to resume appearing or practicing before the Commission as: 
+
+              1.      a preparer or reviewer, or a person responsible for the preparation or 
+review, of any public company’s financial statements that are filed with the Commission.  Such 
+an application must satisfy the Commission that Respondent’s work in his practice before the 
+Commission will be reviewed either by the independent audit committee of the public company 
+for which he works or in some other acceptable manner, as long as he practices before the 
+Commission in this capacity; and/or 
+
+              2.      an independent accountant.  Such an application must satisfy the 
+Commission that: 
+
+                      (a)    Respondent, or the public accounting firm with which he is 
+associated, is registered with the Public Company Accounting Oversight Board (“Board”) in 
+accordance with the Sarbanes-Oxley Act of 2002, and such registration continues to be effective; 
+
+                      (b)    Respondent, or the registered public accounting firm with which he 
+is associated, has been inspected by the Board and that inspection did not identify any criticisms 
+of or potential defects in the respondent’s or the firm’s quality control system that would indicate 
+that the respondent will not receive appropriate supervision;
+
+               (c)           Respondent has resolved all disciplinary issues with the Board, and 
+has complied with all terms and conditions of any sanctions imposed by the Board (other than 
+reinstatement by the Commission); and 
+
+                      (d)    Respondent acknowledges his responsibility, as long as 
+Respondent appears or practices before the Commission as an independent accountant, to 
+comply with all requirements of the Commission and the Board, including, but not limited to, all 
+requirements relating to registration, inspections, concurring partner reviews and quality control 
+standards. 
+
+       C.     The Commission will consider an application by Respondent to resume appearing 
+or practicing before the Commission provided that his state CPA license is current and he has 
+resolved all other disciplinary issues with the applicable state boards of accountancy.  However, 
+
+                                               8
+
+---------------------Page 9---------------------
+
+if state licensure is dependent on reinstatement by the Commission, the Commission will 
+consider an application on its other merits.  The Commission’s review may include consideration 
+of, in addition to the matters referenced above, any other matters relating to Respondent’s 
+character, integrity, professional conduct, or qualifications to appear or practice before the 
+Commission. 
+
+ By        the Commission. 
+
+       N                                              ancy M. Morris
+       S                                              ecretary 
+
+                                                9
+

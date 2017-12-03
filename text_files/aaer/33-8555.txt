@@ -1,0 +1,988 @@
+---------------------Page 1---------------------
+
+                     SECURITIES AND EXCHANGE COMMISSION
+                                    Washington, D.C.
+
+SECURITIES ACT OF 1933
+Rel. No. 8555 / March 18, 2005
+
+SECURITIES EXCHANGE ACT OF 1934
+Rel. No. 51393 / March 18, 2005
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Rel. No. 2214 / March 18, 2005
+
+Admin. Proc. File No. 3-11194
+
+                    In the Matter of 
+
+              PHILIP L. PASCALE, CPA
+
+OPINION OF THE COMMISSION
+
+      CEASE-AND-DESIST PROCEEDING
+
+             Grounds for Remedial Action
+
+                    Causing Violations of Reporting and Recordkeeping Provisions
+
+      RULE 102(e) PROCEEDING
+
+             Grounds for Remedial Action
+
+                    Improper Professional Conduct
+
+      Auditor caused company's violations of Section 15(d) of the Securities Exchange Act of
+      1934 and Exchange Act Rules 15d-1 and 15d-13 by auditing or reviewing financial
+      statements included in company's annual reports, several quarterly reports, and
+      registration statements filed with the Commission, which financial statements
+      misrepresented the financial condition and results of operations of company by materially
+      overstating assets and equity and understating losses.  Auditor also failed to maintain an
+      attitude of professional skepticism; obtain sufficient competent evidential matter; render
+      an accurate audit report; and exercise due professional care.  Held, it is in the public
+      interest to order that auditor cease and desist from causing any violations or future
+---------------------Page 2---------------------
+
+                                               2
+
+       violations of Section 15(d) of the Exchange Act and Exchange Act Rules 15d-1 and  
+       15d-13.  
+
+APPEARANCES:
+
+       Robert F. Van der Waag, of Van der Waag and Gray, for Philip L. Pascale.
+
+       Thomas M. Melton and Karen L. Martinez, for the Division of Enforcement.
+
+Appeal filed: June 9, 2004 
+Last brief received: September 7, 2004 
+
+                                               I.
+
+       The Division of Enforcement and the Office of the Chief Accountant (collectively, the
+"Division") appeal from the decision of an administrative law judge dismissing this proceeding. 
+The law judge found that Philip L. Pascale did not willfully violate Section 17(a) of the
+Securities Act of 1933, 1/ Section 10(b) of the Securities Exchange Act of 1934, 2/ or Exchange
+Act Rule 10b-5. 3/  The law judge further found that Pascale did not willfully aid and abet or
+cause violations of Exchange Act Section 15(d) 4/ and Exchange Act Rules 15d-1 and 15d-13. 5/ 
+Because the law judge found that Pascale did not willfully commit or aid and abet the alleged
+violations, the law judge found that Pascale was not subject to discipline under Rule
+102(e)(1)(iii) of the Commission's Rules of Practice. 6/  The law judge further concluded that
+Pascale did not engage in improper professional conduct within the meaning of Rule 102(e)(1)(ii)
+
+1/     15 U.S.C. § 77q(a).
+
+2/     15 U.S.C. § 78j(b).
+
+3/     17 C.F.R. § 240.10b-5.
+
+4/     15 U.S.C. § 78o(d).
+
+5/     17 C.F.R. §§ 240.15d-1 and 15d-13, respectively.
+
+6/     17 C.F.R. § 201.102(e)(1)(iii).  Rule 102(e)(iii) permits the Commission to censure or
+       deny, permanently or temporarily, the privilege of appearing or practicing before it to
+       persons found to have willfully violated, or willfully aided and abetted the violation of
+       any provision of the federal securities laws or the rules and regulations thereunder. 
+---------------------Page 3---------------------
+
+                                               3
+
+of the Commission's Rules of Practice. 7/  We base our findings on an independent review of the
+record, except with respect to those findings not challenged on appeal.
+
+                                               II.
+
+                                          Background
+
+       Pascale has been a certified public accountant since 1980.  He is licensed to practice in
+New York.  His firm, Pascale, Razzino, Alexanderson & Company ("the Firm"), concentrates in
+auditing not-for-profit entities, 401(k) pensions, and certain private companies.  Before founding
+the Firm in 1999, Pascale worked for several years at major accounting firms and was also the
+chief financial officer and senior vice president of a real estate development firm.  
+
+       The allegations against Pascale arose in connection with audits of the financial statements
+of Composite Holdings, Inc. ("New Composite" or the "Company") for the fiscal years ending
+June 30, 1999, through December 31, 2001.  The financial statements were included in annual
+reports filed by the Company on Forms 10-KSB and incorporated by reference into several
+registration statements on Forms S-8.  Pascale also reviewed quarterly financial statements
+
+7/     17 C.F.R. § 201.102(e)(1)(ii).  Rule 102(e)(1)(ii) permits the Commission to censure or
+       deny, permanently or temporarily, the privilege of appearing or practicing before it to
+       persons found to have engaged in improper professional conduct.  As applied to
+       accountants, "improper professional conduct" includes, in relevant part, 
+
+              (A) intentional or knowing conduct, including reckless conduct, that results in a
+              violation of applicable professional standards; or 
+
+              (B) . . . negligent conduct [consisting of]:  
+
+                      (1) a single instance of highly unreasonable conduct that results in a
+                      violation of applicable professional standards in circumstances in which an
+                      accountant knows, or should know, that heightened scrutiny is warranted.
+
+                      (2) repeated instances of unreasonable conduct, each resulting in a
+                      violation of applicable professional standards, that indicate a lack of
+                      competence to practice before the Commission.
+
+       17 C.F.R. § 201.102(e)(1)(iv).
+---------------------Page 4---------------------
+
+                                              4
+
+included in the Company's quarterly reports on Forms 10-QSB for the quarters ending
+September 30, 2000, through December 31, 2001. 8/
+
+                                             III.
+
+                                 The Valuation of the Merger
+
+A.     New Composite was created from the April 1999 merger of Composite Industries, Inc.
+("Old Composite"), a Nevada corporation, into Affordable Homes of America, Inc.
+("Affordable"), a Nevada corporation. 9/  Pascale served as the engagement partner for the Firm's
+audits of the financial statements of Affordable for the year ending December 31, 1998, and of
+Old Composite from its inception (June 12, 1997) through June 30, 1998.  
+
+       Merle Ferguson founded Old Composite in 1997.  Old Composite acquired patent rights 
+to a construction material called Z-Mix from Z-Mix's inventor, Joseph Zawada.  In filings with
+the Commission, the Company described Z-Mix as a "cementitious product that combines
+diatomaceous earth and used tires to create a lightweight building material that reduces the time
+and the cost for constructing a house."  At Old Composite's 1997 organizational meeting, Old
+Composite issued its founders 10,000,000 shares of common stock.  Zawada received 6,370,000
+of these shares (the "Zawada shares") in exchange for the Z-Mix patent rights. 10/  All 6,370,000
+of the Zawada shares were to carry a voting legend, specified and required by the Old Composite
+organizational minutes.  The restriction vested the voting rights for the Zawada shares with Old
+Composite's board of directors for a period of five years.  
+
+       Ferguson founded Affordable in February 1997.  Affordable engaged in no business
+activities until November 1998, when it received an initial capital infusion of $100,000.  In
+March 1999, Kowtow, Inc., a public shell corporation, merged with Affordable.  Kowtow's 1998
+Annual Report, filed with the Commission on Form 10-K on March 19, 1999, states, "The
+Company has had no operational history and has yet to engage in business of any kind."  In the
+merger, Kowtow issued Affordable's sole shareholder, a corporation owned entirely by Ferguson,
+4,000,000 shares of Kowtow common stock, which represented approximately 80% of Kowtow's
+
+8/     After the 2001 audit, the Firm ceased performing audit work for New Composite because
+       New Composite owed the Firm fees.
+
+9/     The combined entity originally kept Affordable's name after the Affordable-Old
+       Composite merger.  It changed its name to World Homes, Inc. in October 2000.  World
+       Homes, Inc. then changed its name to Composite Holdings, Inc. in August 2001.  For
+       purposes of this opinion, "New Composite" refers to the entity, regardless of its name at
+       any point in time, that resulted from the merger of Old Composite into Affordable. 
+
+10/    Zawada allocated the Zawada shares among various persons, many of whom appear to
+       have been members of his family.
+---------------------Page 5---------------------
+
+                                              5
+
+issued and outstanding shares.  Two days after the completion of the merger, on March 19, 1999,
+Kowtow changed its name to Affordable. 11/  On April 13, 1999, Affordable common stock
+began to trade on the Over-the-Counter Bulletin Board.
+
+       Old Composite merged into Affordable on April 28, 1999, 12/ forming New Composite. 
+Affordable exchanged approximately 6,514,000 shares of its common stock for all of the
+approximately 13,028,000 shares of Old Composite's common stock then issued and outstanding. 
+As a result of the merger, New Composite owned the patent rights to Z-Mix.
+
+       During the 1999 audit, Ferguson suggested to Pascale that the Z-Mix patent was worth
+$6,500,000, or approximately the equivalent of $1.00 per share.  Pascale testified that Ferguson
+stated that he would obtain an appraisal of the patent.  However, Pascale never saw an appraisal.  
+
+       Instead of accepting the patent value Ferguson provided him, Pascale, on behalf of the
+Firm, certified New Composite's 1999 financial statements, in which the Company valued
+Affordable's acquisition of Old Composite's assets at historical cost. 13/  The Company recorded
+the value of the Z-Mix patent at $394,313, reflecting the amount Old Composite spent to acquire
+the patent, plus other related costs.  Quarterly reports filed by the Company with the Commission
+in the remainder of 1999 and early 2000 reflect this historical cost accounting treatment.  The
+Company's 1999 Commission filings and the financial statements of Old Composite and
+Affordable certified by Pascale referred to the two companies as "entities under common
+control." 14/
+
+11/    Ferguson became the merged Affordable's president, chief executive officer, and
+       chairman of the board.  Susan Donohue was the only other member of Affordable's board.
+
+12/    As of November 1998, Ferguson was chairman of the board of directors of Old
+       Composite.  The parties dispute whether Ferguson was an officer or director of Old
+       Composite at the time of the Old Composite/ Affordable merger.
+
+13/    If companies that are parties to a business combination are under common control, the
+       assets of the acquired company should be recorded at historical cost.  AICPA Accounting
+       Interpretation of Accounting Principles Board ("APB") Opinion No. 16, "Business
+       Combinations," Question No. 39, Paragraph 5.
+
+14/    An example of that common control is set forth in Note 11 to Old Composite's June 30,
+       1998 financial statement.  According to the note, under an "Entire Output Agreement,"
+       Old Composite agreed to sell its entire output of Z-Mix to Affordable (which had no
+       then-current operations) for a ten-year period.  In fact, the note itself referred to
+       Affordable as a "company under common control."  The sale was to be made at Old
+       Composite's cost of production, thus producing no profit for Old Composite. These
+                                                                                  (continued...)
+---------------------Page 6---------------------
+
+                                               6
+
+       At the hearing, Pascale testified that he had based his determination to value the patent at
+its historical cost on his understanding that Affordable and Old Composite were under common
+control at the time of the merger.  Asked how he came to this conclusion, Pascale stated that he
+based his determination on "discussions with management, understanding that they were both
+giving me answers having to do with both companies . . . ."  Moreover, both companies used the
+same mailing address in Las Vegas, Nevada.
+
+       During Pascale's 2000 audit of the Company, Schulman, the Company's chief financial
+officer beginning in June 2000, requested that Pascale reconsider the historical cost treatment of
+the merger in the 1999 audit.  According to Pascale, Schulman asserted that Old Composite and
+Affordable were not under common control at the time of the merger because Ferguson did not
+own a majority of Old Composite's voting stock.  Pascale testified that, in addition to Schulman's
+representations with respect to Ferguson's ownership, Pascale received a letter from Old
+Composite's outside counsel, Donald J. Stoecklein, confirming this assertion. 15/  
+
+       Under Generally Accepted Accounting Principles ("GAAP") in effect at the time of the
+merger transaction, if Old Composite and Affordable were not under common control, a proper
+accounting treatment for the merger was purchase accounting, which would result in valuing the
+transaction at fair value, rather than at its historical cost. 16/  The acquisition cost is to be
+assigned to the assets acquired, and this would result in stepping up the value of the Z-Mix patent
+rights.   Based on Schulman's assertions that Old Composite and Affordable were not under
+common control at the time of the merger, Pascale determined that it was appropriate to restate
+the 1999 financial statements in connection with the 2000 audit. 17/   
+
+14/(...continued)
+       financial statements were incorporated into New Composite's Form 8-K announcing the
+       merger transaction.
+
+15/    Pascale testified that he understood that Ferguson owned 16 % of Old Composite's stock
+       at the time of the merger.  He now claims that he subsequently discovered that Ferguson
+       owned only 3.5% of Old Composite's stock at that time.  The only evidence of this
+       reduction in Ferguson's holdings is testimony by Pascale's expert witness, who stated that
+       he spoke to Ferguson.  The expert was unable to obtain access to Old Composite's stock
+       records to confirm Ferguson's assertions.  The documentary evidence in the record places
+       Ferguson's holdings at 16% of Old Composite's issued and outstanding stock.
+
+16/    APB 16, paragraph 8 provided that a business combination of entities not under common
+       control could be accounted for as a purchase or, if several criteria were met, as a "pooling
+       of interests."  APB 16 has been superseded by Statement of Financial Accounting
+       Standards ("FAS") No. 141.  FAS 141 no longer permits pooling.
+
+17/    In this proceeding, Pascale asserts that this determination that Affordable and Old
+       Composite were not under common control was based on his determination that Ferguson
+                                                                                  (continued...)
+---------------------Page 7---------------------
+
+                                                7
+
+       Pascale acquiesced in Schulman's request that the transaction should be recorded as a
+purchase and that the value of the transaction, including the patent, should be stepped up. 
+Pascale valued the Affordable shares used to purchase Old Composite at approximately
+$18,000,000, of which Pascale's audit assigned $17,198,099 as the cost to acquire the patent. 
+The Company's quarterly reports for the remainder of 2000 and early 2001 reflected this restated
+valuation of the patent. 
+
+       Under Accounting Principles Board Opinion 16 ("APB 16"), paragraph 67, when assets
+are acquired in a business combination in exchange for consideration other than cash, including
+stock, the transaction is to be valued at the fair value of the consideration given or the property
+acquired, whichever of the two is more evident.  That value must be assigned to the assets
+acquired.  The Firm's analysis of the valuation of the transaction attempted to address the value
+both of the Affordable stock used to purchase Old Composite and also of the Z-Mix patent 
+rights.
+
+       Neither Pascale nor the Company obtained an appraisal to serve as the basis for the
+valuation assigned to the Affordable shares.  Nor did the Company provide a valuation for the
+
+17/(...continued)
+       owned a minority of the shares of Old Composite at the time of the merger, thus requiring
+       that he restate the Company's 1999 financial statements to record the merger transaction
+       at fair value.  In Note 2 to the restatement, the Company explained the basis for the
+       restatement differently.  
+
+       The note to the restatement states, "During the fiscal year ended June 30, 1999,
+       Affordable originally recorded the patent at the accumulated out-of-pocket costs incurred
+       by [Old] Composite to secure the patent ($394,313).  That cost basis was subsequently
+       deemed to be incorrect as there was crucial information about the legal form of the
+       transaction that was not presented until the current year and which mandated a different
+       accounting treatment.  Specifically, it was originally reported that Composite Industries
+       merged into Affordable and the transaction was recorded similar to a pooling of interests. 
+       In fact, Affordable acquired [Old] Composite by issuing 6,514,720 shares of its stock to
+       acquire all of the shares of Composite Industries and then merged.  The resultant fair
+       market value assigned to the patent was $17,198,099 and a corresponding deferred tax
+       liability of $5,713,287 was recorded.  Management believes that in light of the new
+       information and the resultant accounting ramifications that a correction is required to the
+       financial statements for the year ended June 30, 1999."
+
+       The Division asserts that Pascale erred when, in 2000, he changed his 1999 opinion that
+       Old Composite and Affordable were under common control at the time of their merger. 
+       In light of Pascale's other violations discussed below, we do not address the Division's
+       charge with respect to Pascale's common control determination in this opinion.  
+---------------------Page 8---------------------
+
+                                                8
+
+shares.  Instead, although neither Pascale nor his partners had expertise in the valuation of
+restricted stock, Pascale, in consultation with one of his partners at the Firm, attempted to
+establish the value of the Affordable shares used to purchase Old Composite after examining the
+average price at which Affordable's stock traded on April 26, 1999, and May 3, 1999, dates that
+bracketed the merger.  
+
+       Prior to the April 28, 1999 merger, Affordable was closely held.  Ferguson's corporation
+and the former Kowtow shareholders held approximately 96% of the outstanding shares of
+Affordable prior to the merger.  Affordable's shares began trading on the Over-the-Counter
+Bulletin Board on April 13, 1999, less than three weeks before the merger date.  The average
+daily volume of trading in Affordable's shares during the weeks surrounding the merger was
+approximately 12,500 shares, although Affordable's shares did not trade every day during this
+period.  On April 26, 1999, the shares traded at $3.75 per share, and on May 3, 1999, the shares
+traded at $3.438 per share, for an average stock price of $3.59 per share.  The Firm's calculation
+excluded, as an "anomaly," trades of approximately 200 shares between these two dates at a
+closing price of $2.125 per share.  Pascale's work papers do not discuss why the trades were
+deemed to be anomalous.
+
+       Pascale, after consultations with "several people," including his partners and Robert
+Cheskes, whom he asked to function as a third-party reviewer, 18/ determined to discount the
+$3.59 average share price by 24% (12% because transfer of the shares used in the merger
+transaction was restricted and 12% because Affordable's shares were relatively thinly traded). 
+Pascale's work papers in the record include a single, handwritten reference to the restriction as a
+"144 restriction," presumably referring to Rule 144 under the Securities Act, 19/ but there is
+nothing else in the record that indicates that Pascale inquired further into the nature of the
+restrictions imposed on the Affordable shares transferred in the merger. 20/  With the 24%
+discount, Pascale and the Firm determined that the fair value of Affordable's stock at the time of
+the merger was $2.73 per share.  Pascale then multiplied this $2.73 share price by the
+approximately 6,514,000 Affordable shares used to purchase Old Composite to arrive at a value
+
+18/    Cheskes was not a member of the Firm.  He previously had performed a peer review of
+       the Firm.  Cheskes testified before the law judge.  
+
+       Pascale also testified that he spoke to Art Kappel at the American Institute of Certified
+       Public Accountants.  According to Pascale, Kappel confirmed that a discount was
+       appropriate.  Kappel did not testify.
+
+19/    17 C.F.R. § 230.144 (permitting public sale in ordinary trading transactions of limited
+       amounts of securities by affiliates of the issuer and by persons who have acquired
+       restricted securities from the issuer).
+
+20/    For example, Pascale did not inquire whether the shares of Affordable issued to the
+       holders of the Zawada shares were restricted as to voting rights.
+---------------------Page 9---------------------
+
+                                               9
+
+of nearly $18,000,000.  After costs were assigned to other Old Composite assets acquired in the
+merger, Pascale determined that the patent's value was $17,198,099.  Pascale acknowledges that
+this was a material change to the value of the patent.  The cost of acquiring the patent represented
+more than eighty percent of Affordable's assets in 2000.
+
+       Around the time of the merger, the Company also issued stock for services by vendors
+and consultants.  The Company's June 30, 1999 annual report on Form 10-K describes these
+transactions as "arm's length" transactions.  On May 24, 1999, the Company issued 550,000
+shares of Common Stock for services rendered valued at approximately $39,000, or
+approximately $0.0545 per share.  On June 23, 1999, according to the 1999 Form 10-K, the
+Company issued 19,149 shares of Common Stock for consulting services rendered to the
+Company valued at $9,575, or approximately $0.50 per share. 21/  Pascale ignored these
+issuances.  Moreover, when the Company restated its 2000 financial statements, he certified the
+Company's increase in the value of these issuances.  Note 13 to the Company's 2000 financial
+statements states, "Further, 569,149 shares of common stock that was issued for services
+rendered has been increased by $1,300,000 consistent with the value of the stock issued." 22/ 
+
+B.     Under Generally Accepted Auditing Standards ("GAAS"), as specified in Statement of
+Auditing Standards ("SAS") 150.02 and 230.01, an auditor is required to exercise due
+professional care in the conduct of audits.  In exercising due professional care, an auditor is
+required to maintain "professional skepticism," defined in SAS 230.07 as "an attitude that
+includes a questioning mind and a critical assessment of audit evidence."  Under SAS 150.02 and
+326.01, an auditor is required to obtain sufficient evidential matter through inspection,
+observation, inquiries, and confirmation to afford a reasonable basis for his opinion regarding
+financial statements. 23/  SAS 333.02 provides that management's representations are part of the
+evidential matter an auditor must consider, but are not a substitute for the application of the
+auditing procedures necessary to provide the auditor with a reasonable basis for its opinion.
+
+21/    On June 28, 1999, the Company issued 215,983 shares of "restricted Common Stock"
+       valued at $2.43 per share to acquire Big Mountain Construction Company, Inc. 
+
+22/    The market price of Affordable stock began to decline after the merger.  During June 
+       1999, Affordable's shares traded at prices generally between $2.00 and $3.00 per share. 
+       After June 1999, the shares never again traded over $2.00 per share.  From the end of
+       August 1999 through February 2000, Affordable shares traded at prices under $1.00 per
+       share, and, less than a year after the date of the merger, in March and April of 2000, the
+       Affordable shares were trading at around $1.00 per share.
+
+23/    AICPA, Codification of Statements on Auditing Standards, AU ("AICPA, AU") § 326.01
+       requires that "[sufficient] competent evidential matter . . . be obtained through inspection,
+       observation, inquiries, and confirmations to afford a reasonable basis for an opinion
+       regarding the financial statements."
+---------------------Page 10---------------------
+
+                                               10
+
+       As an initial matter, an auditor should review financial statements prepared by a
+company's management, not make those determinations for management.  Pascale's own expert
+witness and Pascale himself recognized that the Firm's determination of the value of Affordable's
+shares, and its subsequent audit of its own work, deviated significantly from GAAS.  When an
+auditor finds itself in the position of reviewing its own valuation determination, it is extremely
+difficult for the auditor to have obtained the "sufficient competent evidential matter" or for it to
+exercise the due professional skepticism required for it to issue a reasonably based opinion. 24/  
+
+       Pascale admits that he had no expertise in valuation.  SAS 326.21 states that evidence
+from independent sources outside the entity being audited provides greater assurance of
+reliability.  Pascale asserts correctly that APB 16 does not require the use of an appraiser or
+outside expert to value stock transferred in a business combination.  However, the Third Standard
+of Field Work under GAAS requires an auditor to obtain "[s]ufficient competent evidential
+matter . . . to afford a reasonable basis for an opinion regarding the financial statements under
+audit."  GAAS cautions that an auditor is not expected to have the expertise of a person qualified
+in another profession, such as valuation.  Under SAS 336.06 and 336.07, when the auditor faces
+issues that require expertise to be able to make a competent valuation, the auditor may use a
+specialist to obtain competent evidential matter for such purposes.
+
+       APB 16, paragraph 67 provides that an asset acquired by issuing stock should be recorded
+at "cost."  APB 16, paragraph 67 further provides that "cost may be determined either by the fair
+value of the consideration given or by the fair value of the property acquired, whichever is the
+more clearly evident."  While, under APB 16, paragraph 67, "the quoted market price" may be
+used "to approximate the fair value of the company," APB 16, paragraph 23 warns that the fair
+value of stock "is not always objectively determinable."  The quoted market price may not be a
+reliable indicator of fair value "because the number of shares issued is relatively large, the market
+for the security is thin, the stock price is volatile, or other uncertainties influence the quoted
+price." 25/  Where the quoted market price is not reliable, under APB 16, paragraph 75,
+"independent appraisals may be used as an aid in determining the fair value of the securities
+issued."
+
+       Although Pascale claims that his analysis was reasonable, he did not comply with APB
+16.  He used an average of selected prices.   He approved his partner's exclusion as "anomalous"
+of two trades at $2.125 per share from this average, although there is nothing in the work papers
+explaining that conclusion.  Pascale failed to consider evidence that this "average" price per share
+was questionable. 
+
+24/    Pascale was not charged in the OIP with violations of the independence rules under 
+       GAAS. 
+
+25/    APB 16, paragraph 23.
+---------------------Page 11---------------------
+
+                                               11
+
+       Pascale also failed to weigh factors indicating that the contemporaneous trades of
+Affordable shares were not indicative of its fair value.  Affordable was closely held prior to the
+merger.  The market for Affordable shares was very thin, and it did not trade every day during the
+period immediately before the merger.  Only a small percentage of the total shares of Affordable
+were freely tradeable during April 1999, and Pascale should have considered that the price was
+very likely to drop appreciably as ownership of the shares became more diffuse and existing
+restrictions on resale were lifted.  
+
+       Under APB 16, paragraphs 74 and 75, Pascale and the Firm needed to investigate
+thoroughly and understand the nature of the restrictions that served as the basis for half of the
+discount they applied to the Affordable share price.  Pascale noted that the Affordable shares
+issued to acquire Old Composite bore a "144 restriction" on resale, but there is little evidence in
+the record to establish that Pascale attempted to understand the nature of the restriction, or
+whether the shares bore other restrictions, such as the voting restriction on the Old Composite
+Zawada shares.
+
+       We are particularly troubled by Pascale's disregard of issuances of restricted New
+Composite stock around the time of the merger from $0.05 per share to $2.43 per share.  In 2000,
+the Company, in financial statements certified by Pascale, restated the issuances at $0.05 and
+$0.50 per share to $2.43 per share.  Because these issuances were for services rendered and the
+dollar amount of these services had been set in 1999, there was no basis to revisit their value. 
+The significant increase in the value of these issuances  in one instance from approximately
+$39,000 to $1,300,000   as a result of the restatement should have caused Pascale to review the
+valuation of the Affordable shares exchanged in the merger with considerable professional
+skepticism.  Pascale also failed to consider that, beginning shortly after the merger, the market
+price for New Composite shares began to fall.  By the time Pascale was preparing the
+restatement, the price of New Composite's shares had fallen to $1.00 or below.
+
+       Pascale notes that Cheskes approved the 24% discount the Firm applied to the Affordable
+"average" share price.  We recognize that Cheskes was aware of the discount and told Pascale
+that "some" discount was appropriate.  At the hearing, Cheskes testified that he eventually agreed
+that the discount was a "fair discount."  As Pascale was aware, Cheskes did not review Pascale's
+2000 work papers.  Moreover, Cheskes acknowledged that he personally had no expertise in the
+valuation of restricted stock.  
+
+       Pascale's own expert witness conceded that the discount did not comply with GAAP.  
+Pascale acknowledges that the valuation methodology that the Firm employed (averaging
+Affordable's price on the Over-the-Counter Bulletin Board on selected days and applying a
+---------------------Page 12---------------------
+
+                                               12
+
+discount to this figure) was the invention of one of Pascale's partners and that the 24% discount
+to the average share price of Affordable around the merger was not supported by GAAP. 26/   
+
+                                              IV.
+
+                       Impairment of Carrying Value of the Z-Mix Patent
+
+A.     APB 16, paragraph 67 requires that the cost of a transaction be assigned in proportion to
+the assets acquired in a purchase transaction.  Pascale, not New Composite, assigned the majority
+of the value of the Affordable shares used to purchase Old Composite to the Z-Mix patent rights,
+which were valued at $17,198,099.  Pascale failed to consider that Ferguson had told Pascale that
+the value of the patent rights was $6,500,000 only a year earlier in connection with the 1999
+audit.  Instead, Pascale stepped up the patent's value from $394,313 to over $17,000,000 without
+any question, even though the Company lacked any operating history, governmental approvals
+for the use of its patent, or contracts for the use, sale, or manufacture of the key product. 
+
+       Statement of Financial Accounting Standards No. 121 ("FAS 121") required New
+Composite to review long-lived, non-cash assets, such as the patent rights.  If the auditor
+determines that the carrying amount is unrecoverable, under FAS 121 the expected future cash
+flows expected to be generated from the asset (in this case, the Z-Mix patent rights) must be
+compared to the carrying value of the asset.  The difference between these two figures is to be
+recorded as an impairment.  In considering whether an impairment exists, under FAS 121,
+paragraph 5(e), the auditor should determine whether the company in question has experienced "a
+current period operating or cash flow loss combined with a history of operating or cash flow
+losses or a projection or forecast that demonstrates continuing losses associated with an asset
+used for the purpose of producing revenue."
+
+         In reviewing the patent values in both 2000 and 2001, Pascale was required to consider
+whether the carrying amount assigned to the patent was recoverable.  At the end of New
+Composite's 2000 fiscal year, Z-Mix had not been used commercially.  New Composite had no
+machinery for the production of Z-Mix, nor did it have a facility in which the manufacture could
+occur.  Z-Mix had received no governmental or regulatory approval for use in construction of
+buildings in any jurisdiction, domestic or international.  Pascale testified that the Company
+needed approval from Underwriters' Laboratory in order for the product to be used in the United
+States, but Pascale understood that the Company had not obtained that approval.
+
+       For the 2000 audit, Pascale determined not to require an impairment to the patent's value,
+based on revenue projections related to the patent that Pascale received from Schulman.  On a
+
+26/    The parties debate whether Ferguson's 16% interest in Old Composite should have been
+       stepped up or should have been recorded at historical cost.  Given our conclusion that the
+       overall valuation of the Affordable stock was flawed, we do not reach this issue.
+---------------------Page 13---------------------
+
+                                              13
+
+single page, Schulman forecast revenue streams from two joint ventures the Company had
+entered with Tristar USA, Inc. ("Tristar") and AL NASR Trading & Industrial Corporation, LLC
+("AL NASR") for the use of Z-Mix in construction of low-cost housing in countries outside the
+United States.  The projections anticipated gross sales over the lives of the agreements (five years
+in one case and three years in another) totaling approximately $550,000,000.  During the 2000
+audit year, the projections expected that the company would earn profits of approximately
+$14,000,000.  However, the projections included no basis for these conclusions, such as a
+detailed business plan, a budget, or evidence of cost of goods, operations, and expenses.  Pascale
+relied exclusively on his conversations with Schulman and the projections provided by
+Schulman.
+
+       Schulman also gave Pascale copies of the joint venture agreements.  However, Pascale
+did not review the agreements or contact representatives of Tristar or AL NASR.  The joint
+venture agreement with AL NASR required the Company to engage in a private placement to pay
+the costs of the joint venture itself.  These joint venture agreements were contingent on factors
+including the receipt of financing, government approvals for the use of Z-Mix, the establishment
+of relationships with buyers of Z-Mix, and the establishment of a facility for the production of Z-
+Mix.  The joint venturers had not agreed to purchase Z-Mix from the company or to use the
+product in construction projects.  Neither joint venturer had any contracts to construct houses
+using Z-Mix.  Pascale relied on the projections as the basis for supporting the carrying value of
+the patent without an impairment. 27/ 
+
+       In the Company's 2001 audit, Pascale once again included no impairment to the Z-Mix
+patent.  At the time of Pascale's 2001 audit, the Company still had no contracts for the sale or
+manufacture of Z-Mix.  Z-Mix had received no domestic or foreign governmental or regulatory
+approvals for its use in construction.  New Composite had met none of its 2000 projections. 
+William Morris, who replaced Schulman as New Composite's chief financial officer, provided
+Pascale with a new set of projections for revenue derived from the patent rights through the joint
+ventures with Tristar and AL NASR.  These projections anticipated total gross profits from the
+joint ventures of over $15,000,000; they were based on the assumption that the joint venture
+projects would be operational and that home construction would have begun during the 2001
+fiscal year.  These projections were premised on the Company's obtaining governmental
+approvals for the use of Z-Mix and on the Company obtaining financing.  Because the Company
+had failed to achieve the joint venture revenue and profit projections from 2000, in connection
+with the 2001 audit Pascale requested additional information to verify the projections.  
+
+       Pascale asked for the names of contact persons at the offices of the joint venturers. 
+Pascale spoke to the president of Tristar, Rodney Whitney, and John Switzer, an official at AL
+
+27/    In notes accompanying his 2000 review, Cheskes raised the issue of whether an
+       impairment to the patent value was appropriate.  The response to his inquiry is not
+       recorded.
+---------------------Page 14---------------------
+
+                                               14
+
+NASR.  While Tristar was in the home construction business, Pascale discovered that AL NASR
+was engaged solely in the packaging of financing for others to purchase or construct homes. 
+Although Whitney and Switzer expressed slight concerns about the strength and capability of the
+business, both ultimately told Pascale that their companies desired to go forward with their joint
+ventures with New Composite and that they were generally optimistic about the Company's
+prospects.  After these conversations with the parties to the Company's joint ventures, and
+although the joint ventures had not resulted in contracts to sell Z-Mix, Pascale calculated his own
+projections, which differed from those provided to him by the Company.  Pascale's own
+projections expected gross sales of $92,000,000 from the Tristar joint venture (projection of the
+sale of 4,000 units at an average price of $23,000 per unit) and $1,200,000,000 from the AL
+NASR joint venture (100,000 units sold at an average price of $12,000 per unit).  Pascale did not
+review detailed business plans or budgets in connection with his review of the joint ventures and
+his preparation of the revenue projections.  Pascale determined that it was appropriate to
+maintain the carrying value of the patent without impairment. 28/
+
+       Because of the lack of evidence to support the likelihood of the revenue projections,
+Pascale expressed some concern to Ferguson about the ability of the Company to continue as a
+going concern.  Pascale requested, and received from Ferguson, a letter saying that Ferguson
+personally would supply sufficient working capital to allow the Company to continue to operate,
+if such a move became necessary.  Pascale reviewed no corroborating evidence, such as tax
+returns or financial statements, from Ferguson that would have substantiated his actual ability to
+make such payments. 29/  Pascale testified that he believed that the Company could be run "on a
+shoestring" if necessary, because of its lack of operations.  Despite all of these concerns, Pascale
+gave an unqualified certification of the Company's two sets of financial statements in 2000 and
+2001, each of which projected annual revenues from the patent rights in the tens of millions of
+dollars.
+
+       In the third quarter of New Composite's 2002 fiscal year, Pascale requested that New
+Composite provide evidence that the revenues it projected for Z-Mix would be realized or, in the
+alternative, that Ferguson could infuse the Company with adequate cash to allow it to continue as
+a going concern.  Pascale received no such assurance.  Ultimately, the Company determined in
+2002 to write off the entire value of the Z-Mix patent rights, and Pascale resigned the New
+Composite account shortly thereafter. 30/
+
+28/    Cheskes reviewed the financial statements and some of Pascale's work papers in 2001 and
+       concurred with Pascale's efforts in patent valuation in 2001.
+
+29/    In 2000, Ferguson wrote to Pascale, stating that the Company intended to make a private
+       placement pursuant to Regulation D or Regulation S.  Pascale testified that he did not
+       know whether that private placement occurred.
+
+30/    In a separate proceeding, the Company and Ferguson were permanently enjoined from
+                                                                                   (continued...)
+---------------------Page 15---------------------
+
+                                               15
+
+B.     Pascale failed to exercise due care or professional skepticism or to obtain sufficient,
+competent evidential material to support the conclusion that the carrying value of the Z-Mix
+patent was not impaired.  During each of his audits, New Composite remained a development
+stage company.  It had no operations or revenues from operations.  Z-Mix was never approved
+for use in construction anywhere.  The Company neither had contracts to sell Z-Mix nor the
+ability to manufacture it.
+
+       Pascale asserts that his determination that the value of the Z-Mix patent was not impaired
+was reasonable based on the Company's projections.  Given the Company's situation, those
+projections were unreasonable on their face.  The 2000 projections consisted of a single page,
+with no back-up for the revenue and profit assumptions.  Although Pascale received the joint
+venture agreements, he did not read them, and he did not attempt to contact New Composite's
+joint venturers.  Had he reviewed them, Pascale would have discovered the various contingencies
+and the fact that New Composite was to pay the costs of the AL NASR joint venture.
+
+       During the 2001 audit, Pascale learned that the Company had made no progress on its
+2000 projections.  It still had neither operations nor contracts to sell Z-Mix.  Pascale's 2001
+contacts with the principals of the joint ventures were insufficient to provide back-up for either
+the Company's projections or Pascale's re-computed projections.  The principals expressed
+enthusiasm for Z-Mix, but the joint ventures had not resulted in contracts for the Company to sell
+Z-Mix or even contracts to construct houses that might use Z-Mix.  Moreover, we note that
+Pascale concluded his audit after the first quarter of the succeeding fiscal year (i.e., after the first
+quarter of the 2001 fiscal year for the 2000 fiscal audit).  Yet, in the case of each audit, the
+Company had made no progress on its projections for the then-current year.  For example, the
+Company had made no sales of Z-Mix in the first quarter of 2001, which was inconsistent with
+the projections that Schulman had given Pascale in connection with the 2000 audit. 
+
+       Pascale appears not to have considered the nature of the construction industry in which
+New Composite intended to operate.  Because construction projects are typically long-range in
+
+30/(...continued)
+       future violations of the securities registration provisions of Section 5 of the Securities
+       Act, 15 U.S.C. § 77e, and the antifraud provisions of Section 17(a) of the Securities Act
+       and Section 10(b) of the Exchange Act and Exchange Act Rule 10b-5.  Ferguson was also
+       ordered to pay a civil money penalty in the amount of $120,000.  The complaint alleged
+       that the Company and Ferguson had distributed false press releases about the Company's
+       progress in manufacturing Z-Mix, obtaining financing for the Company, and generating
+       contracts for the use of Z-Mix, and that these false press releases resulted in an increase in
+       the price of the Company's common stock and an increase in the volume of the
+       Company's shares traded on the Over-the-Counter Bulletin Board.  SEC v. World Homes,
+       Inc., Merle Ferguson, and Susan Donohue, Litigation Rel. No. 17328 (Jan. 22, 2002), 76
+       SEC Docket 2364.
+---------------------Page 16---------------------
+
+                                               16
+
+nature, Pascale should have exercised considerable professional skepticism at management
+projections that were based on the production of a nearly immediate flow of revenues from the
+joint ventures.  In addition, Pascale accepted the revenue projections from Schulman in the first
+quarter of New Composite's 2001 fiscal year.  Although a portion of the time covered by the
+projections had run, New Composite still had no contracts for the use or production of Z-Mix. 
+Professional skepticism should have pushed Pascale to question the projections rather than
+simply to accept them at that time.
+
+       Pascale recognized that there was a legitimate issue as to whether the Company could
+continue as a going concern.  Pascale claimed that he received assurances from Ferguson that
+Ferguson would supply the shortfall to make up for any lack of working capital.  Pascale
+obtained no evidential material to support that assertion until well into the 2002 fiscal year. 
+Pascale testified that he was not concerned because he concluded that Ferguson could operate the
+Company from his home on a "shoestring."  However, that conclusion further undercuts Pascale's
+reliance on the projections.  Pascale had to know that the Company could not generate the
+projected levels of revenue from a "shoestring" operation.
+
+       Pascale notes that his expert witness testified that it "would have been extraordinarily
+unusual" to step up the value of an asset and then write it down in the same period. 31/  This
+testimony has no implication for Pascale's failure to assess an impairment in 2001.  In any event, 
+FAS 121 clearly dictates that companies are required to assess assets such as the patent rights for
+impairment when events indicate that the carrying value is likely not to be recoverable.  Pascale
+failed to do so in both his 2000 and 2001 audits.
+
+        In basing his analysis on the projections, Pascale did not exercise adequate professional
+skepticism and did not exhibit the proper degree of professional care.  The acceptance of the
+projections served as the basis for Pascale's determination that no impairment to the patent rights
+needed to be recorded in the Company's financial statements.
+
+31/    Pascale's expert witness characterized a statement by a member of the Commission staff
+       that the staff would not "expect to see write-downs in the year after acquisition," warning
+       practitioners to "[g]et your accounting right."  Pascale concedes that his expert "did not
+       state that GAAP precludes taking an impairment loss in the year of a restatement."  
+
+       As shown above, Pascale did not "get the accounting right" on the patent's value.  The 
+       record and the Division's expert witness demonstrated that the 2000 valuation of the 1999
+       acquisition of the patent lacked competent evidential matter to support it.  The evidence
+       here of impairment also indicates that the restatement had substantially inflated the
+       patent's value.  The Division's expert witness further corroborated that the revenue
+       projections without any back-up were not sufficient to support a determination that the
+       patent's value was unimpaired.
+---------------------Page 17---------------------
+
+                                               17
+
+                                               V.
+
+                                    The Deferred Tax Asset
+
+       Under FAS 109, an entity may carry forward net operating losses as a deferred tax asset, 
+as long as those losses are more likely than not (i.e. more than 50% likely) to be recovered in
+future periods.  This determination is based on projections of future taxable income, derived from
+revenue projections.  In the event that some portion of a deferred tax asset is not likely to be
+realized, that portion of the deferred tax asset should be reduced by a valuation allowance.  FAS
+109 also requires that a deferred tax asset be netted against any deferred tax liabilities.  
+
+       New Composite recorded net operating losses as deferred tax assets of $496,638 in 1999,
+$2,260,000 in 2000, and $2,390,000 in 2001.  At the time, New Composite had also recorded a
+deferred tax liability because the recorded carrying value of the Z-Mix patent rights was greater
+than its tax basis.  The deferred tax liability should have offset the deferred tax asset and, because
+the deferred tax liability was always greater than the deferred tax asset, there should have been no
+deferred tax asset recorded for the Company.  Pascale's expert witness testified, and Pascale
+concedes, that reporting the deferred tax asset was inconsistent with GAAP. 
+
+       Moreover, even if a deferred tax asset had been proper, Pascale should have reduced the
+amount of the deferred tax asset by a valuation allowance.  For the same reasons discussed in
+Section IV above, the projections of future revenues and profits on which Pascale relied were
+without basis, and there were substantial questions as to whether the Company could continue as
+a going concern.  The Company was considerably more likely than not to fail to have taxable
+income from future operations that would allow it to use the deferred tax asset.  By relying
+exclusively on projections of these revenues and very brief conversations with the joint venturers,
+Pascale failed to exercise due care or professional skepticism, and to acquire sufficient competent
+evidential material.
+
+                                               VI.
+
+                          Reporting and Recordkeeping Requirements
+
+       Under Exchange Act Section 21C(a), we may order a person to cease and desist from
+certain conduct if the person "is violating, has violated, or is about to violate" any provision of
+the Exchange Act, or any rule or regulation thereunder. 32/  The section also authorizes us to
+order a person to cease and desist from certain conduct if the person "is, was or would be a cause
+of [a] violation [of the Exchange Act or the rules and regulations thereunder], due to an act or
+omission the person knew or should have known would contribute to such violation."
+
+32/    15 U.S.C. § 78u-3(a).
+---------------------Page 18---------------------
+
+                                              18
+
+        For the reasons discussed above, Pascale acted at least negligently, and his conduct
+resulted in his being a "cause" of the Company's violations of Section 15(d) of the Exchange Act
+and Exchange Act Rules 15d-1 and 15d-13.  Rules 15d-1 and 15d-13 require that public
+companies file annual and quarterly reports with the Commission.  The reporting mandates
+contain within them the requirement that the reports to be filed must be accurate. 33/  As
+established above, Pascale's audits were at least negligent, and this caused the Company to file
+materially misleading financial statements in numerous filings made on Forms 10-K, 10-KSB,
+and 10-QSB with the Commission. 34/  Both the audited financial statements certified by the
+Firm, with Pascale as engagement partner, and the quarterly financial statements reviewed by
+Pascale, which continued to apply the accounting principles approved in Pascale's audits, were
+materially false and misleading for the reasons discussed above. 35/
+
+                                              VII.
+
+                                       Rule 102(e)(1)(ii)
+
+       Improper professional conduct by an accountant includes a single instance of highly
+unreasonable conduct that results in a violation of applicable professional standards in
+circumstances in which the accountant knows, or should know, that heightened scrutiny is
+warranted.  We have held that an accountant's conduct is highly unreasonable when he fails to
+
+33/    SEC v. Savoy Indus., 587 F.2d 1149, 1165 (D.C. Cir. 1978) ("The reporting provisions of
+       the Exchange Act are clear and unequivocal, and they are satisfied only by the filing of
+       complete, accurate, and timely reports") (citing SEC v. IMC Int'l, Inc., 384 F.Supp. 889,
+       893 (N.D. Tex.), aff'd mem., 505 F.2d 733 (5th Cir. 1974), cert. denied sub nom. Evans v.
+       SEC, 420 U.S. 930 (1975).
+
+34/    See KPMG Peat Marwick LLP, 54 S.E.C. 1135, 1175-76 (2001) (finding that negligence
+       may establish a determination that a respondent caused a violation of Exchange Act
+       reporting requirements because the underlying primary violations are not scienter-based
+       violations), petition denied, 289 F.3d 109 (D.C. Cir. 2002).
+
+35/    The OIP also charged Pascale with violations of Section 10(b) of the Exchange Act and
+       Exchange Act Rule 10b-5, and Section 17(a) of the Securities Act.  The OIP also charged
+       Pascale with aiding and abetting the Company's reporting violations under Exchange Act
+       Section 15(d) and Exchange Act Rules 15d-1 and 15d-13.  As a result, the OIP also
+       alleged that Pascale is subject to discipline under Commission Rule of Practice
+       102(e)(1)(iii).  Based on our determinations set forth in this opinion, we do not address
+       these issues.
+---------------------Page 19---------------------
+
+                                               19
+
+employ heightened scrutiny with regard to matters that are "important or material, or when
+warning signals or other factors should alert an accountant" to a heightened risk. 36/  
+
+       Pascale failed to employ heightened scrutiny in conducting the audits of New Composite
+in question in this matter.  Pascale ignored numerous indicia that should have alerted him to the
+possibility that his audits would result in materially misleading financial statements.  He signed
+audit opinions that improperly represented that the Company's financial statements were
+presented in accordance with GAAP and that he conducted his audits in accordance with GAAS.  
+
+       Pascale's work papers indicate that he understood that the valuation of the Affordable
+shares exchanged in the merger transaction and the valuation of the patent rights were critical
+audit topics.  The patent was the Company's chief asset.  Nevertheless, despite his and his Firm's
+lack of expertise in valuation issues, Pascale and the Firm undertook both of these valuations on
+their own.  Pascale did not consider the factors identified in APB 16, paragraphs 23, 74, and 75,
+in his valuation.  He ignored ample evidence that the trading price of Affordable's shares around
+the time of the merger did not provide useful guidance as to their fair value.  Pascale agreed to a
+24% discount of that price that had no basis and, as he admits, was inconsistent with GAAP.  
+
+       In 2000, Pascale accepted unsubstantiated management projections of the future revenues
+to be derived from the patent rights.  In 2001, Pascale made his own projections after receiving a
+new set of unsubstantiated management projections that were provided by the Company's chief
+financial officer, but Pascale's own projections nonetheless appear to continue to rely
+significantly on the management projections provided at the time, although Pascale knew that the
+Company had no operating history, no governmental or regulatory approvals for use of Z-Mix, its
+key product, and no contracts for the use or manufacture of Z-Mix.  This lack of an operational
+history of the Company should have led Pascale to realize that an impairment to the patent value
+was necessary.  Furthermore, Pascale allowed the Company to record a deferred tax asset that
+was not netted against the deferred tax liability that arose from the step-up in the patent's value. 
+Even if the deferred tax asset had been appropriate, Pascale did not require the Company to take
+a valuation allowance against the deferred tax asset, although it was not likely that the Company
+could generate sufficient revenues to use the deferred tax asset, for the same reasons cited above
+in connection with the impairment analysis.  Pascale, as a result, is subject to discipline under
+Commission Rule of Practice 102(e)(1)(ii). 
+
+36/    James Thomas McCurdy, Exchange Act Rel. No. 49182 (Feb. 4, 2004), 82 SEC Docket
+       271, 286, aff'd, McCurdy v. SEC, 396 F.3d 1258 (D.C. Cir. 2005).  Heightened scrutiny
+       was clearly warranted here.  As the Court of Appeals for the District of Columbia Circuit
+       observed in McCurdy, "[A]n auditor must exercise, not his 'inclination,' but his
+       'professional judgment' and that judgment must be 'guided by sound' auditing principles,
+       among which are a 'thorough . . . search for evidential matter,' AU § 326.23, and an
+       'attitude that includes a questioning mind and a critical assessment of audit evidence,' AU
+       § 230.07." McCurdy, 396 F.3d at 1263.
+---------------------Page 20---------------------
+
+                                               20
+
+       Pascale notes that he sought out Cheskes, who concurred in his audits.  However, as
+Pascale was aware, Cheskes's involvement was limited. 37/  Cheskes testified that he spent
+approximately five hours on the 2000 audit and did not review the work papers.  The record is
+unclear about whether Cheskes reviewed Pascale's methodology for valuing the Affordable stock
+exchanged in the merger beyond concurring in the discount applied by Pascale.  It is also unclear
+what Cheskes knew about the basis for Pascale's determinations not to assess an impairment
+against the value of the Z-Mix patent or a valuation allowance against the deferred tax asset.  As
+the engagement partner at the Firm, Pascale was responsible for the audit.  He had ample
+evidence that the value of the Z-Mix patent was inflated and that the Company had not received
+the necessary regulatory approvals to develop the patent and had no contracts for the sale or
+manufacture of the product.  As discussed in Section IV above, the Company's revenue
+projections did not provide an adequate basis for maintaining the carrying value of the patent. 
+
+       We conclude that Pascale's failures to apply due care, to exercise professional skepticism,
+and to obtain sufficient competent evidential information to support his audits were highly
+unreasonable.  His failures resulted in his improperly representing that his audits complied with
+GAAS and that the Company's financial statements comported with GAAP.  His conduct further
+demonstrates repeated instances of unreasonable conduct, each a violation of applicable
+professional standards, indicating a lack of competence to practice before the Commission.   
+
+37/    It is unclear from the record what Cheskes or Pascale understood to be Cheskes's role.  To
+       the extent that Cheskes was supposed to act in a role similar to a "concurring partner" in
+       an audit, we believe that Pascale should have known that Cheskes's efforts were
+       inadequate.  A concurring partner is obligated to make an objective review of significant
+       accounting, auditing, or reporting considerations.  That review includes review of
+       selected working papers, as well as conversations with the engagement partner.  He or she
+       is to exercise due care and to bring professional skepticism to bear on that review.  When
+       a concurring partner identifies material errors or irregularities, the concurring partner
+       should obtain sufficient competent evidential matter to determine their effect.  Robert D.
+       Potts, CPA, 53 S.E.C. 187, 195-97 (1997), aff'd, 151 F.3d 810 (8th Cir. 1998).  
+---------------------Page 21---------------------
+
+                                               21
+
+                                              VIII.
+
+       We have determined to impose a cease-and-desist order.  Pascale argues that his conduct
+of the audit, while not perfect, was reasonable.  He asserts that his interpretation of the authority
+in the area of common control provided a reasonable basis for the restatement in 2000 of the
+1999 audit.  Pascale points to the approval granted by Cheskes, the Firm's independent reviewing
+accountant, as indicating that his certification of the New Composite financial statements had an
+adequate evidential basis and that his treatment of the impairment and the deferred tax asset were
+not unreasonable.   
+
+       Pascale was a cause of violations of the reporting and recordkeeping requirements in
+Section 15(d) of the Exchange Act and Exchange Act Rules 15d-1 and 15d-13 by New
+Composite.  Pascale's conduct of the New Composite audits had serious deficiencies.  Highly
+unreasonable failures to comply with auditing standards, such as those of Pascale, "jeopardize the
+achievement of the objectives of the securities laws and can inflict great damage on public
+investors." 38/  Pascale's audits did not comply with GAAS, and, contrary to his representations,
+the financial statements deviated from GAAP.  Pascale's conduct continued over three years in
+the face of numerous indications that his step-up of the valuation of the Z-Mix patent rights
+transferred in the merger transaction (which Pascale concedes was material), his failure to record
+an impairment to the Z-Mix patent, and the treatment of the deferred tax asset were without
+basis.  These failures resulted in materially misstated financial statements.    
+
+       Pascale's conduct demonstrates a highly unreasonable disregard of his duties as an
+independent auditor.  His failures adversely affected the Commission's processes.  In addition to
+the factors discussed above, Pascale asserts that he has not engaged in another public company
+audit since ceasing his relationship with New Composite, but Pascale could return to public
+company audits in the future.  In addition, Pascale appears not to recognize the seriousness of his
+failures that attended the determinations at issue here.  The reliability and integrity of information
+provided in public financial statements is essential to the functioning of the markets, 39/ and 
+
+38/    Touche Ross & Co. v. SEC, 609 F.2d 570, 581 (2d Cir. 1979).
+
+39/    See, e.g. McCurdy, 396 F.3d at 1261 ("Investor confidence is bolstered by the knowledge
+       that public financial statements have been subjected to the rigors of independent and
+       objective investigation and analysis.").
+---------------------Page 22---------------------
+
+                                              22
+
+Pascale's conduct calls his credibility in this area into question.   Thus, there is a sufficiently high
+level of risk of future violations that would endanger the public to warrant a cease-and-desist
+order.  A cease-and-desist order under Section 21C of the Exchange Act is therefore warranted to
+protect the public. 40/ 
+
+       An appropriate order will issue. 41/
+
+       By the Commission (Chairman DONALDSON and Commissioners GLASSMAN,
+GOLDSCHMID and ATKINS); Commissioner CAMPOS not participating.
+
+                                                          Jonathan G. Katz
+                                                                Secretary 
+
+40/    In light of our issuance of a cease and desist order, under the particular circumstances of
+       this case, we have determined not to sanction Pascale for his improper professional
+       conduct under Rule 102(e)(1)(ii). 
+
+41/    We have considered all of the parties' contentions.  We have rejected or sustained them to
+       the extent that they are inconsistent or in accord with the views expressed in this opinion.
+---------------------Page 23---------------------
+
+                           UNITED STATES OF AMERICA
+                                     before the
+                    SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES ACT OF 1933
+Rel. No. 8555  / March 18, 2005
+
+SECURITIES EXCHANGE ACT OF 1934
+Rel. No. 51393 / March 18, 2005
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Rel. No. 2214 / March 18, 2005
+
+Admin. Proc. File No. 3-11194
+
+                   In the Matter of 
+
+              PHILIP L. PASCALE, CPA
+
+ORDER IMPOSING REMEDIAL SANCTIONS
+
+      On the basis of the Commission's opinion issued this day, it is 
+
+      ORDERED that Philip L. Pascale cease and desist from causing any violation of the
+reporting provisions of Section 15(d) of the Securities Exchange Act of 1934 and Exchange Act
+Rules 15d-1 and 15d-13.
+
+      By the Commission.
+
+                                                   Jonathan G. Katz
+                                                         Secretary 

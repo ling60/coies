@@ -1,0 +1,945 @@
+---------------------Page 1---------------------
+
+                           UNITED STATES  DISTRICT  COURT
+ 
+                                DISTRICT     OF  COLUMBIA
+ 
+
+SECURITIES  AND EXCHANGE  COMMISSION,                       Case:  1:1 0-cv-0~908           I L 
+                                                            ASsigned   To  : Fnedman, pau   . 
+                                    Plaintiff,               Assign. Date:  6121201  ~ . 
+                                                                   .  t·on· General CIvil
+                                                             Descnp I     . 
+                      v. 
+                                                                 COMPLAINT 
+DIEBOLD,  INCORPORATED, 
+
+                                    Defendant. 
+
+       Plaintiff Securities and Exchange Commission  (the "Commission")  alleges: 
+
+                                         SUMMARY 
+
+       1.     This action concerns an earnings management fraud  by Diebold, Incorporated 
+
+("Diebold"),  an Ohio corporation  that manufactures  and sells automated teller machines 
+
+("ATMs"),  bank security systems,  and electronic  voting machines.  From at least 2002 to 2007, 
+
+Diebold engaged in fraudulent accounting  practices in order to inflate earnings to meet forecasts. 
+
+These practices included (i) improper use of "bill and hold" accounting; (ii) recognition of 
+
+revenue on a lease agreement subject to a side buy-back agreement; (iii) manipulating  reserves 
+
+and accruals; (iv) improperly delaying and capitalizing  expenses; and (v) writing up the value of 
+
+used inventory. 
+
+       2.     As a result of these practices, Diebold filed at least 40 annual, quarterly, and 
+
+current reports with the Commission,  and issued dozens of press releases, that contained  material 
+
+misstatements and omissions concerning  the company's  financial performance.  Diebold's 
+
+improper, and in many instances fraudulent, accounting  practices misstated the company's 
+
+reported pre-tax earnings by at least $127 million.  To correct the recent misstatements,  on 
+---------------------Page 2---------------------
+
+September  30, 2008, Diebold restated  its financial  statements  for the years 2003 through  2006, 
+
+and the first quarter of 2007, in its Form  10-K for 2007. 
+
+        3.      By engaging  in the practices and transactions  alleged in this Complaint,  Diebold 
+
+violated Sections  lOeb), 13(a), 13(b)(2)(A)  and 13(b)(2)(B) of the Securities  Exchange  Act of 
+
+1934 ("Exchange  Act")  [15  U.S.c.§§   78j(b), 78m(a), 78m(b)(2)(A),  and 78m(b)(2)(B)]  and 
+
+Rules  lOb-5, 12b-20,  13a-l, 13a-ll, and 13a-13 thereunder  [17 C.F.R.  §§  240.lOb-5, 
+
+240. 12b-20, 240.13a-l,  240.13a-ll,  and 240.13a-13]. 
+
+        4.     The Commission  seeks entry    of a final judgment  permanently  enjoining  Diebold 
+
+from further  violations of these federal securities  laws and imposing a civil monetary  penalty. 
+
+                                 JURISDICTION  AND VENUE 
+
+       5.      This Court has jurisdiction  over this matter pursuant to Exchange  Act Sections  21 
+
+and 27 [15 U.S.C.  §§ 78u and 78aa].  Diebold, directly or indirectly, made use  of the means or 
+
+instrumentalities of interstate  commerce or the mails  in connection  with the conduct  alleged 
+
+herein. 
+
+       6.      Venue   is proper because certain of the acts, practices, and courses of business 
+
+constituting  the violations  occurred  within this judicial  district. 
+
+                                          DEFENDANT 
+
+       7.      Diebold  is an Ohio corporation  headquartered  in North Canton,  Ohio.  Diebold 
+
+manufactures  and sells ATMs, bank security  systems,  and electronic  voting machines.  Diebold's 
+
+common  stock   is registered  with the Commission  pursuant  to Exchange  Act Section  12(b) and is 
+
+listed on the New York Stock Exchange. 
+
+                                              FACTS 
+
+       8.      During the relevant  time period, Diebold regularly  manipulated  earnings  to meet 
+
+forecasts.  As quarters came to a close, Diebold's  financial  management  received "flash  reports," 
+
+                                                 2
+ 
+---------------------Page 3---------------------
+
+sometimes   on a daily basis, comparing Diebold's  actual earnings  to analyst earnings  forecasts, 
+
+which certain Diebold management  often referred to    as "required"  or "necessary"  earnings. 
+
+        9.      Toward the end   of certain quarters,the  company's  financial  management 
+
+prepared "opportunity  lists" of ways to close the gap between the company's  actual financial 
+
+results and analyst forecasts.  While some items on the "opportunity  lists" represented  legitimate 
+
+business opportunities,  others were fraudulent  accounting transactions  designed  to improperly 
+
+recognize revenue or otherwise inflate Diebold's  financial  performance.  As described  below, 
+
+these fraudulent  accounting practices  included, but were not limited to, (i) improper  use of "bill 
+
+and hold"  accounting; (ii)recognitionof   revenue on a lease agreement  subject to a side buy-back 
+
+agreement;  (iii) manipulating reserves and accruals;  (iv) improperly delaying  and capitalizing 
+
+expenses;  and (v)  writing up the value of used inventory. 
+
+                      Fraudulent  Revenue Recognition       --F-Term Orders 
+
+        10.    From at least 2002 through 2007, Diebold prematurely  recognized  revenue on 
+
+many  of the transactions  it called "F-tenn"  orders.  Diebold  recognized  revenue on F-tenn 
+
+orders, or Factory orders, when it shipped products  from its factory to a Diebold  warehouse. 
+
+Under generally  accepted accounting principles ("GAAP"),  normally a product must       be shipped 
+
+to the customer  or services must be rendered before revenue can be  recognized. 
+
+        11.    With a "bill and hold" transaction,  however,  revenue can be recognized  on the 
+
+sale of products  prior to delivery to a customer if the "bill and hold" criteria are met.  The criteria 
+
+for a bill and hold transaction include:  (i) the buyer, not the seller, requests that the transaction 
+
+be on a bill and hold basis; (ii) the buyer has a substantial  business purpose for ordering  on a bill 
+
+and hold basis; (iii) there is a fixed delivery schedule  that is reasonable  and consistent  with the 
+
+buyer's  business  purpose; (iv) the seller does not retain any specific  performance  obligations 
+
+such that the earnings process is incomplete;  and (v) the products are ready for shipment. 
+
+                                                  3
+ 
+---------------------Page 4---------------------
+
+        12.     Diebold  prematurely  recognized  revenue on certain F-term orders by improperly 
+
+using bill and hold accounting.  A significant  number   of Diebold's  F-term orders failed to satisfy 
+
+the stringent  bill and hold criteria. 
+
+        13.     Under GAAP, to use bill and hold accounting,  the customer,  not Diebold,  must 
+
+request that the transaction  be on a bill and hold basis, and the customer  must have a substantial 
+
+business purpose for ordering   on a bill and hold basis.  Many of Diebold's  F-term orders failed  to 
+
+satisfy these criteria. 
+
+        14.     With many F-term orders, Diebold  asked customers  to sign Diebold's  form 
+
+contract -~ its standard  Memorandum   of Agreement  ("MOA")  -- which contained  a boilerplate 
+
+clause stating  that the customer  had requested  Diebold to hold items for the customer's 
+
+convenience.  Diebold  then recognized  revenue  when the company  shipped the products  from its 
+
+factory to its warehouse  in accordance  with a "ship  to warehouse"  date contained  in the MOA 
+
+Notwithstanding  the language  in the MOA, Diebold's  accounting  was not in accordance  with 
+
+GAAP because  generally  Diebold's  customers  had not requested  that the transaction  be on a bill 
+
+and hold basis. 
+
+        15.    In addition,  certain F-term orders also failed to meet other bill and hold criteria. 
+
+For example,  to recognize  revenue on  a bill and hold basis, there must be a fixed delivery 
+
+schedule,  the seller must not retain any specific performance  obligations  such that the earnings 
+
+process is incomplete,  and the products  must be complete  and ready for shipment. 
+
+        16.    Many   of Diebold's  F-term contracts  often failed to meet these criteria.  For 
+
+instance, these transactions  generally did not have fixed delivery schedules.  Moreover,  in certain 
+
+instances when Diebold recognized  revenue    on ATMs shipped from its factory     to its warehouse, 
+
+the ATMs were not complete  because software  had not yet been installed and/or quality testing 
+
+                                                  4
+ 
+---------------------Page 5---------------------
+
+had not yet been performed.   In addition, on certain occasions, Diebold recognized  revenue on a 
+
+bill and hold basis on certain products and services for which bill and hold accounting  is never 
+
+appropriate, including software orders and professional services. 
+
+        17.    The bill and hold criteria are well established.  Certain Diebold management 
+
+knew, or were reckless  in not knowing, that many F-term orders failed to satisfy the criteria  for 
+
+bill and hold accounting, and that Diebold was prematurely recognizing revenue on those 
+
+transactions. 
+
+                                    "Pulling  in" F-Term orders 
+
+        18.    At certain times from the period 2004 through 2006, in connection  with Diebold's 
+
+efforts to meet its earnings forecasts, Diebold management looked for ways to recognize  revenue 
+
+even earlier on some F-term orders.   In some instances, Dieboldmanufactured  and shipped 
+
+products to the warehouse before the shipment dates contained    in the MOAs.  Diebold would 
+
+then record revenue on the products it shipped  to its warehouse prematurely.  This practice was 
+
+known as "pulling  in" F-terms. 
+
+        19.    The amount   of orders "pulled in" varied by quarter, but in many instances  was 
+
+done purposely to inflate earnings in order to meet forecasts. In these instances, Diebold's 
+
+management instructed Diebold's  manufacturing  personnel to manufacture products early, 
+
+without customer notice or approval, for the purpose  of recognizing revenue   in an earlier 
+
+reporting period.  For example, in June 2004 (the last month  of the second quarter), Diebold 
+
+"pulled in" about $3.4 million of F-term orders that were scheduled to ship to the warehouse    in 
+
+July 2004, and in December 2004 (the last month    of the fourth quarter), Diebold "pulled  in" 
+
+about $3.8 million of F-term orders that were scheduled to ship to the warehouse in January· 
+
+2005.  These "pull ins" inflated Diebold's  earnings in these quarters by about $1.1 million  and 
+
+about $1.3 million, respectively. 
+
+                                                 5 
+---------------------Page 6---------------------
+
+        20.     Diebold  finance  and manufacturing  personnel  raised concerns  about this  practice 
+
+on several  occasions.  Indeed, in a March 2005 email to company  management,  a Diebold 
+
+manufacturing  manager  raised concerns  and stated  that "my  employees  in scheduling  believe  that 
+
+manufacturing  these orders without customer  approval  to pull the order  in is a violation of 
+
+Sarbanes-Oxley."  Notwithstanding  these concerns,  no action was taken at the time  to end this 
+
+practice.  Diebold mew,   or was reckless  in not knowing,  that "pulling  in" F-term  orders  was not 
+
+in accordance  with GAAP,  and that Diebold  was prematurely     recog~izing  revenue on  these 
+
+transactions. 
+
+                            Converting I-Term  Drdersto    F-Term orders 
+
+        21.    In 2004, Diebold created  a standard  form contract  to convert  I-term orders  -­
+
+orders for which Diebold  recognized revenue  upon installation  at the customer  site -- to bill and 
+
+hold transactions.  When a Diebold customer  agreed to sign this form, Diebold  improperly 
+
+recognized  revenue  on the transaction  when the product  shipped  from its factory  to its 
+
+warehouse.  Under GAAP,  to use bill and hold accounting,  the customer,  not Diebold,  must 
+
+request  that the transaction  be on a bill and hold basis, and the customer  must have  a substantial 
+
+business  purpose  for ordering  on a bill and hold  basis.  Diebold's  conversion  practice  was 
+
+inconsistent  with GAAP.  Diebold  routinely  requested  that customers  execute  these contract 
+
+modification  forms to convert  I-term orders  to purported  bill and hold transactions,  in order to 
+
+inflate earnings. 
+
+       22.     For example,  in the fourth  quarter of 2004, at the direction of company 
+
+management,  a Diebold  sales representative  had Customer  A sign a bill and hold form to convert 
+
+a $4 million  I-term order to a purported  bill and hold  transaction.  On a conference  call, the sales 
+
+representative  advised  company  management  that Customer  A had signed  the bill and hold  form 
+
+(which  by its terms required  payment  upon receipt of the invoice sent when Diebold  shipped  the 
+
+                                                  6
+ 
+---------------------Page 7---------------------
+
+ products to its warehouse),  but that Customer  A would not pay for the ATMs before they were 
+
+ installed.  Company  management  nevertheless  improperly  recognized revenue  on the transaction. 
+
+         23.     Diebold recognized  revenue on this transaction  in the fourth quarter of 2004. 
+
+ Even though Customer  A was invoiced in the fourth quarter     of 2004, it did not pay for this 
+
+ transaction until the second quarter of 2005 (after Diebold delivered  and installed  the products), 
+
+ This transaction  inflated Diebold's  earnings  in the fourth quarter of 2004 by about $2 million. By 
+
+ prematurely  including the revenue from the Customer  A transaction,  Diebold  was able to report 
+
+ that it met the low end of the quarter's  projected  earnings.  Without the revenue from the 
+
+ Customer  A transaction,  Diebold would have  missed  its projected earnings. 
+
+         24.    Diebold  management  encouraged  its sales force, often on "make  the quarter" 
+
+. calls, to requestthat  customers  execute these forms notwithstanding concerns  raised by sales' 
+
+ personnel.  For example,  in June 2005, a Diebold sales manager wrote an email     to Diebold 
+
+ management  stating that the sales staff was "trying  to help Diebold's  revenue recognition  drive," . 
+
+ but raised concerns  about asking customers  to sign bill and hold forms in instances  when 
+
+ Diebold was at fault for installation  delays.  The email was forwarded  to an officer of the 
+
+ company, who took no action at the time    to correct  this improper practice.  Another employee 
+
+ responded to the sales manager's original  email stating:  "This  is like the crazy aunt in the cellar 
+
+ no one wants to talk about." 
+
+                       Diebold's   $7.5 Million Revenue Recognition Reserve 
+
+        25.     In January 2004, as part  of its 2003 year-end audit, Diebold's  auditor tested a 
+
+ sample  of Diebold's  2003 bill and hold transactions.  This testing found that Diebold  had' 
+
+ prematurely recognized  revenue on certain transactions,  and that in certain instances Diebold had 
+
+ recognized revenue on transactions  inconsistent  with company policy.    In response,  Diebold 
+
+ established  a reserve representing  $7.5 million of profit margin  in the last quarter of 2003.  This 
+
+                                                   7
+ 
+---------------------Page 8---------------------
+
+reserve was derived by extrapolating  the errors found in the auditor's  sample.  The creation of 
+
+this reserve was not in accordance  with GAAP as the revenue errors identified  in the audit should 
+
+have been reversed. 
+
+        26.     In February 2004, management  learned that Diebold had prematurely  recognized 
+
+revenue in the fourth quarter of 2003, on a $5.2 million order from Customer    B.  This had not 
+
+been identified as an error by the company's  auditor during its testing.  Notwithstanding,  Diebold 
+
+management  did not correct this error or adjust the $7.5 million profit margin reserve that the 
+
+company had established  to account for errors the auditor had found during its audit, even though 
+
+this error demonstrated  that the reserve was inadequate. 
+
+                 Diebold's  Failure to Disclose Its Revenue Recognition Practices 
+
+        27.     Prior to 2007, Diebold  never disClosed tbshareholders  that it had any bill and 
+
+hold transactions,  even though purported  bill and hold transactions constituted  a material portion 
+
+of Diebold's  revenues. 
+
+        28.    After Staff Accounting  Bulletin  104 was published in December  2003 (which, 
+
+among other things, reiterated  the criteria for bill and hold accounting), Diebold  management 
+
+became concerned  that its revenue recognition  practices would not withstand scrutiny.   In 2004, 
+
+Diebold  made changes to its revenue recognition  practices.  Although these changes did not 
+
+eliminate  Diebold's  improper use of bill and hold accounting on certain F-term transactions,  the 
+
+changes did reduce the number    of F-term transactions. 
+
+       29.     Under Diebold's  revised revenue recognition  practices, in North America an order 
+
+could only be designated  as an F-term order  if the customer signed a new standard  MOA, which 
+
+required a larger percentage of payment from the customer before delivery and installation.  The 
+
+MOA also contained  a new boilerplate Clause stating that "Customer  requests that Diebold hold 
+
+Items purchased  for the Customer's  convenience  until shipment to the Customer's  destination." 
+
+                                                 8
+ 
+---------------------Page 9---------------------
+
+        30.    Diebold management knew that these changes would result in fewer F-term 
+
+orders, as they envisioned  that many customers would not be willing to agree to the new terms. 
+
+Diebold's  internal financial analysts informed  management  that the proposed changes to the 
+
+company's  revenue recognition  practices  --with the predicted sharp drop-off ofF-term   contracts 
+
+--would significantly reduce 2004 revenues. 
+
+        31.    To improperly smooth the negative impact to earnings from these changes, 
+
+Diebold financial management  decided to stagger the implementation     of the new practices. 
+
+Starting in April 2004, Diebold started applying the new practices to orders from its larger 
+
+national bank customers.  Diebold decided to wait untilJuly  2004 to apply the practices  to orders 
+
+from its smaller regional bank customers. 
+
+        32.    However,certainDieboldpersonnel       began applying the new revenue recognition 
+
+practices to some regional bank orders earlier than management planned, resulting in fewer 
+
+orders being designated as F-term, and thus less revenue being recognized.  When management 
+
+discovered this and realized that the company would not meet its earnings forecast for the third 
+
+quarter of 2004, Diebold improperly made an $18.8 million  top-level journal  entry that pulled in 
+
+revenue that would not have been recognized until subsequent quarters under    its new practices. 
+
+As a result of this improper entry, Diebold met its revised earnings forecast in the third quarter of 
+
+2004. 
+
+       33.     Diebold never disclosed in 2004 these changes   to its revenue recognition 
+
+practices, or the impact these changes had on Diebold's  reported revenues.  In at least one 
+
+meeting Diebold management discussed the issue     of publicly disclosing these revenue 
+
+recognition changes.  Diebold management, however, decided against disclosure  because they 
+
+were concerned disclosure  would create an "investor  relations issue." 
+
+                                                 9 
+---------------------Page 10---------------------
+
+                 The Impact  of Diebold's Premature  Revenue Recognition  Practices 
+
+         34.     In 2008, Diebold  restated  its financial  statements  for the reporting  periods  from 
+
+ 2003 through  the first quarter of 2007, and announced  that going forward  it would  recognize 
+
+" revenue  upon customer  acceptance  of products  at a customer  location.  In its restatement, 
+
+ Diebold  retroactively  applied  this new revenue  recognition  policy  which alone  resulted  in a 
+
+ decrease  of the company's  total earnings  before  taxes of $56.2 million;  Diebold's  premature 
+
+ recognition of revenue  on  certain F-term  orders  resulted  in revenue  and earnings  misstatements 
+
+ in each of Diebold's  quarterly  and annual  financial  statements  from 2003 through  the first 
+
+ quarter of2007.   In 2003 alone,  Diebold  overstated  its earnings  before  taxes  by $29.5  million 
+
+ due to premature  recognition  of revenue. 
+
+                Fraudulent   Revenue  Recognition     --The  Cash Depot Transaction 
+
+         35.     In the first quarter of 2005,  D"iebold entered  into an agreement  to lease a portfolio 
+
+ of ATMs  located  in Company  C stores  to a private  company,  Cash Depot,  for $5 million"    In this 
+
+ transaction,  Diebold  entered  into a side agreement  with Cash Depot, giving  Cash  Depot  the right 
+
+ to sell the ATMs  back to Diebold  at a later date. 
+
+        36.     Diebold  improperly  recognized  all $5 million  in revenue  on this transaction  in the 
+
+ first quarter of 2005, which accounted  for approximately  8%   of Diebold's  total  pretax earnings 
+
+ that quarter. 
+
+        37.     Under GAAP,  revenue  cannot  be recognized  on a transaction  that has significant 
+
+future obligations  or contingencies,  such as a buy-back  agreement.  Accordingly,  as the Cash 
+
+Depot  transaction  was subject  tb buy-back  agreement,  it was improper  for Diebold  to recognize 
+
+$5 million  in revenue  on this transaction  in the first quarter of 2005.  At the time Diebold 
+
+recognized  revenue  on this transaction,  Diebold  management  knew, or was reckless  in not 
+
+                                                   10
+ 
+---------------------Page 11---------------------
+
+knowing, that the sale was subject  to a buy-back agreement,  and that the company's  recognition 
+
+of revenue on the transaction was improper. 
+
+                              Manipulating    Reserves  and Accruals 
+
+                     Release  ofthe $7.5 Million  Revenue Recognition  Reserve 
+
+        38.     As described in paragraphs  25 to 26, Diebold established a reserve  of profit 
+
+margin  of $7.5 million in the last quarter of 2003.  Under GAAP, ifthis  had been a properly 
+
+recorded deferred revenue liability, Diebold should have released the reserve when the 
+
+extrapolated  revenue associated  with these transactions  was properly earned by Diebold. 
+
+However, over the course   of 2004, Diebold management  released the reserve,  without: any 
+
+legitimate accounting  analysis, to fill shortfalls  in operating results. 
+
+        39.    Diebold released   $1 million of the reserve in the first quarter 2004, $1.25 million 
+
+in the second quarter of 2004, and the remaining $5.25 million in the third quarter  of 2004. 
+
+Diebold exactly met analyst earnings  consensus  for the firsttwo  quarters and revised analyst 
+
+earnings consensus  in the third quarter.  Diebold knew, or was reckless in not knowing,  that 
+
+these entries had no legitimate accounting  basis, and they were recorded to fraudulently  manage 
+
+Diebold's  reported earnings. 
+
+                                     Under-accrued  Liabilities 
+
+       40.     Under GAAP,  an issuer   is required to accrue for anticipated  liabilities.  During the 
+
+relevant time period, Diebold inflated earnings  by failing to accrue for known liabilities. For 
+
+example, Diebold management knew that the liability account for the company's  Long Term 
+
+Incentive Plan ("LTIP")  -- an employee  benefit plan intended  to reward long term company 
+
+performance  -- was under-accrued  for much   of 2002 and 2003.  Diebold's  management  knew, or 
+
+was reckless in not knowing, that the company  had not properly accounted  for the LTIP liability. 
+
+For example,  in a May  9,2003  email from one officer to another, the officer explained  that 
+
+                                                 11
+ 
+---------------------Page 12---------------------
+
+"GAAP requires variable accounting for the LTIP,  so technically each quarter we should  be 
+
+adjusting the accrual to reflect expected shares to be earned on a pro-rata basis times the price  of 
+
+the stock at quarter-end."  At the time of this email, the officer's  calculations  indicated  that the 
+
+LTIP accrual was under-accrued  by at least $5 million. 
+
+        41.    To accrue for the LTIP in 2003 without negatively impacting earnings,  Diebold 
+
+offset the liability by improperly reducing other accounts,  including an unreconciled  accounts 
+
+payable account and an unreconciled  deferred  revenue account.  Indeed, when Diebold 
+
+management made one such $1.2 million off-setting journal  entry in May 2003, the description 
+
+in the notes to that journal entry was:  "to fund aLTIP  reserve."  In 2003 alone, Diebold 
+
+management's  manipulation    of these accounts had the effect of improperly  under-accruing 
+
+Diebold's  liabilities; arid overstatingDiebold's  reported pre-tax earnings by at least $16 million. 
+
+       42.     From at least 2002 through  2005, Diebold also knew, or was reckless  in not 
+
+knowing, that it failed to properly accrue for other liabilities,  including its North American  sales 
+
+commission  accrual (commissions  to be paid to sales personnel) and its team incentive accrual 
+
+(incentive pay to be paid to service personnel).  In 2005, Diebold  restated  its financial  statements 
+
+to correct errors in certain accounts for the years 2002 to 2004 and the first quarter of 2005, 
+
+including the North American sales commission  accrual account (which in 2005 had been 
+
+materially underaccrued  by $11.4 million).   In a letter to the audit committee,  a Diebold officer 
+
+acknowledged  that this account was underaccrued because  "[an accounting  manager]  felt that 
+
+given the need to meet forecast, these [commission  accrual] adjustments  should  be deferred  until 
+
+a later date." 
+
+                                   Manipulating  Other Reserves 
+
+       43.     Under GAAP,  a liability should be released upon the occurrence     of a specified 
+
+event or when the estimate should  be revised in response to  new information.  Moreover, 
+
+                                                 12
+ 
+---------------------Page 13---------------------
+
+maintaining general  or excess reserves (i.e., cookie jar reserves) are expressly  prohibited  under 
+
+GAAP. 
+
+        44.     From 2002 to 2006, Diebold management  manipulated certain  reserves     in order to 
+
+manage earnings.  For example, to meet internal forecasts, a Diebold accounting  manager 
+
+improperly reduced the Master Purchase Agreement  accrual (a liability account established  for 
+
+payment   of customer rebates) to inflate net income in both the fourth quarter of 2003 and the 
+
+fourth quarter of 2004.  Diebold knew, or was reckless   in not knowing that, there was no 
+
+legitimate accounting basis for either of these entries.  Indeed, both entries were subsequently 
+
+reversed in later quarters. 
+
+        45.     Diebold also used cookie  jar reserves to manage earnings.  For example, Diebold 
+
+.established a $4;5 million corporate obsolescence  and excess inventory account.  This corporate 
+
+inventory account was a cookie jar reserve that Diebold knew, or was reckless in not knowing, 
+
+had no  legitimate accounting ba~is. 
+
+                        Improperly  Delaying  and Capitalizing    Expenses
+ 
+
+                                     Division 35 and CAP 250
+ 
+
+        46.    During the relevant time period, Diebold management failed to recognize certain 
+
+expenses as incurred, and instead improperly deferred these expenses or spread the expenses 
+
+over several reporting periods, which artificially  increased net income in several fiscal years. 
+
+Diebold engaged in improper expense deferrals in at least two accounts:  the "Division  35" and 
+
+"CAP 250" accounts. 
+
+       47.     Division 35 was a finished goods inventory account.  From 2003 through 2005, 
+
+Diebold management  knew, or was reckless in not knowing, that the value     of the account was 
+
+overstated.  Nevertheless,  Diebold improperly failed to reconcile the account until 2005.  Then, 
+
+in 2005, instead of restating its prior financial statements to correct the material error in the 
+
+                                                 13
+ 
+---------------------Page 14---------------------
+
+account and record expenses  in the proper reporting  periods  as required under GAAP, Diebold 
+
+fraudulently  spread $15 million  of expenses over two quarters in 2005.  The overstatement   of the 
+
+Division 35 account inflated Diebold's earnings  by $4.3 million in 2003, and more than $6.2 
+
+million in periods prior to 2003. 
+
+        48.     CAP 250 was an installation accounting  system, primarily consisting   of two 
+
+accounts accruing for the cost  of installation.  By  at least 2004, Diebold's  management  knew 
+
+that one of the CAP 250 accounts was unreconciled  since at least 2002.    As with Division 35, 
+
+Diebold management  did not reconcile the account until 2005.  Then,    as with Division 35, 
+
+Diebold management  did not restate its prior financial statements to correct the material erroras 
+
+was required under GAAP, but instead improperly  booked a series     of entries totaling 
+
+approximately  $9 million during 2005.  The overstatement    of this  CAP 250 account inflated 
+
+Diebold's  earnings by $2.1 million in 2004, $2.2 million in 2003, and $4.4 million  in periods 
+
+prior to 2003. 
+
+                                        The Oracle Project 
+
+       49.     In 2002, Diebold began a project,  which   is still ongoing, to replace many of its 
+
+older internal software systems  with Oracle software.  Under GAAP, capitalization    of a software 
+
+asset requires companies  to properly capture internal and external costs involved  with the various 
+
+stages of software development.  Consequently,  Dieboldwas  permitted to capitalize  certain costs 
+
+associated with the Oracle project.  However, from 2003 through 2006, Diebold  improperly 
+
+capitalized  information  technology  costs that should have been expensed  in the periods they 
+
+were incurred. 
+
+       50.     In certain quarters when Diebold's  earnings were short offorecast,  Diebold 
+
+management  made top-level entries to fraudulently  capitalize additional expenses  to the Oracle 
+
+project.  These improper  "additions,"  which often were round numbers such    as $1 million, had 
+
+                                                 14
+ 
+---------------------Page 15---------------------
+
+the effect of materially  reducing  reported  expenses,  and thus increasing reported  earnings. 
+
+Diebold's  improper  capitalization of expenses  to the Oracle project  increased  Diebold's  pre-tax 
+
+earnings  in 2003,2004,  and 2005, by $.5 million,  $3 million,  and $6.8 million,  respectively. 
+
+                                   Used  Equipment  Write-Ups 
+
+        51.    Under GAAP,  used equipment  inventory  should be valued at the lower      of cost or 
+
+market.  From 2003 to 2005,  Diebold management  improperly  "wrote-up"  the value      of certain 
+
+used inventory,  such as used ATMs.  These  "write-ups"  had the effect   of reducing cost of goods 
+
+sold and thus inflating  earnings. The company  used these "write-ups"  in order to meet forecasts. 
+
+        52.    For example,  in the second  quarter of 2004, Diebold  wrote up the value   of used 
+
+equipment  inventory  by $1 million  (and thus increased  net income by $1 million)  to inflate 
+
+earnings  to meetfbr.ecasts.. Inde~d, an accounting  manager  wrote in a July 13,2004   email: 
+
+        I followed  up with [a company  officer]  this morning,  the primary  reason  we needed  to 
+       book  the used equipmentre-valuation   was due to two issues: 
+        1-TFE   [a recent Diebold  acquisition]  missing  their OP forecast by 300k 
+       2 - The overall  corp tax rate was a little higher than forecast  causing  an approx  $500K 
+        problem  at Net Income (as a result  we need  a little more NIBT to deliver  the required Net 
+       Income.  [sic] 
+
+       53.     In another  example,  in the fourth quarter of 2003, Diebold  improperly  wrote up 
+
+the value of parts contained  in some used  ATMs   by $650,000.  Tellingly,  these parts were never 
+
+removed  from the ATMs,  and the ATMs      were  later scrapped. 
+
+       54.     Furthermore,  Diebold  improperly  wrote up the value   of other used equipment 
+
+inventory (and inflated  earnings)  by $750,000  in the fourth quarter of 2004 and $1.2  million in 
+
+the first quarter of 2005. 
+
+       55.     Diebold  knew, or was reckless  in not knowing,  that these used equipment  "write­
+
+ups," which were listed  on several  "opportunity  lists,"  had no legitimate  accounting  basis and 
+
+were used improperly  to inflate Diebold's  earnings. 
+
+                                                 15 
+---------------------Page 16---------------------
+
+                                     Diebold's  2008  Restatement 
+
+         56.     As result of Diebold's  improper, and in many instances fraudulent,  accounting 
+
+ practices from at least 2002 to 2007, the financial statements that Diebold incorporated  into its 
+
+ periodic filings and other materials  disseminated  to the investing public were materially  false and 
+
+ misleading.  Diebold's  improper accounting practices  inflated the company's  reported pre-tax 
+
+ earnings  by at least $127 million.  To correct the more recent misstatements,  on September  30, 
+
+ 2008, Diebold  restated  its financial statements  for the years 2003 through 2006, and the first 
+
+ quarter of 2007, in its Form 10-K for 2007. 
+
+                                   FIRST   CLAIM FOR RELIEF
+ 
+                   Violations  of the Antifraud   Provisions  of the Exchange    Act
+ 
+           (Section  10(b) [15 U.S.c.  § 78j(b)] and  Rule  lOb-5 [17 C.F.R.  § 240.10b-5])
+ 
+
+         57.     Paragraphs  1 through 56 are realleged and incorporated by reference. 
+
+         58.     By reason  of the conduct described above, Diebold,   in connection  with the 
+
+. purchase or sale of securities,  by the use of any means or instrumentalities of interstate 
+
+ commerce  or  of the mails, or of any facility of any national securities exchange,  directly  or 
+
+ indirectly (a) employed  devices, schemes, or artifices to defraud; (b) made untrue statements   of 
+
+ material fact or omitted  to state material facts necessary in order to make the statements  made, in 
+
+ light of the circumstances  under which they were made, not misleading; or (c) engaged  in acts, 
+
+ practices, or course of business which operates or would operate    as a fraud or deceit upon any 
+
+ persons, including purchasers  or sellers of the securities. 
+
+         59.    By reason   of the conduct described above, Diebold violated Exchange Act
+ 
+
+ Section lOeb)  (15 v.s.c. § 78j(b)] and Exchange Act Rule  lOb-5 [17 C.F.R.     § 240.lOb-5].
+ 
+
+                                                  16
+ 
+---------------------Page 17---------------------
+
+                                SECOND     CLAIM    FOR   RELIEF
+ 
+                  Violations of the Reporting   Provisions  of the Exchange   Act
+ 
+       (Section  13(a) [15 U.S.c. § 78m(a)]  and  Rules  12b-20, 13a-l, 13a-11,  and  13a-13
+ 
+              [17 C.F.R.  §§ 240.12b-20,  240.13a-l,  240.13a-11,  and  240.13a-13])
+ 
+
+        60.    Paragraphs  1 through 56 are realleged and incorporated by reference. 
+
+        61.    By reason  of the conduct described above, Diebold,  whose securities  were 
+
+registered pursuant  to Section 12 of the Exchange Act [15  U.S.c. § 781], failed to file annual, 
+
+current, and quarterly reports (on Forms 10-K, 8-K, and 10-Q) with the Commission  that were 
+
+true and correct,  and failed to include material information  in its required statements  and reports 
+
+as was necessary  to make therequired  statements,  in the light of the circumstances  under which 
+
+they were made, not misleading. 
+
+       62.     Byreason   of the conduct described above, Diebold violated Section  13(a)  of the 
+
+Exchange Act [15 U.S.c.   § 78m(a)] and Exchange Act Rules  12b-20,     13a-l, 13a-ll, and 13a-13 
+
+[17 C.F.R. §§ 240. 12b-20, 240.13a-l,  240.13a-ll,  and 240.13a-13]. 
+
+                                THIRD    CLAIM     FOR   RELIEF
+ 
+            Violations  of the Books  and Records   and  Internal Control   Provisions
+ 
+                                      of the Exchange    Act
+ 
+    (Sections  13(b)(2)(A) and  13(b)(2)(B)  [15 U.S.c.  §§ 78m(b)(2)(A)   and  78m(b)(2)(B)]
+ 
+
+       63.     Paragraphs  1 through 56 are realleged and incorporated by  reference. 
+
+       64.     By reason  of the conduct described above, Diebold,  whosesecuri ties were 
+
+registered pursuant to Section 120f the Exchange Act [15 U.S.C.    § 781]: 
+
+               a)     failed to make and keep books, records, and accounts, which,  in 
+
+       reasonable detail, accurately and fairly reflected the transactions  and dispositions of its 
+
+       assets; 
+
+               b)     failed to devised and maintain a system  of internal controls  sufficient  to 
+
+       provide reasonable  assurances that (i) transactions  were recorded as necessary  to permit 
+
+       preparation of financial statements  in conformity  with generally  accepted  accounting 
+
+                                                17 
+---------------------Page 18---------------------
+
+        principles  or any other criteria  applicable  to such statements,  and (ii) to maintain 
+
+        accountability of assets. 
+
+        65.    By  reason  of the conduct  described  above,  Diebold  violated  Sections  13(b)(2)(A) 
+
+and 13(b)(2)(B)  of the Exchange  Act [15  U.S.c.  §§ 78m(b)(2)(A)  and 78m(b)(2)(B)]. 
+
+                                     PRAYER FOR RELIEF 
+
+               WHEREFORE,  the Commission  respectfully  requests  that this Court  enter  a final 
+
+judgment: 
+
+                                                  I. 
+
+       Permanently  enjoining  Diebold  from violating,  directl)/or  indirectly: 
+
+       J.      Exchange  Act Section  lOeb) [15   u.s.c. § 78j(b)]  and Exchange  Act Rule  lOb-5 
+
+       [17  C.P.R. § 240.lOb-5]; 
+
+       2.      Section  13(a) of the Exchange  Act [15  U.S.c.  § 78m(a)]  and Exchange  Act 
+
+       Rules  12b-20,  13a-l, 13a-ll, and  13a-13 [17 C.P.R.  §§  240.12b-20,  240.13a-l, 
+
+       240.13a-ll,  and 240.13a-13]; 
+
+       3.      Sections  13(b)(2)(A)  and  13(b)(2)(B) of the Exchange  Act [15  U.S.c. 
+
+       §§  78m(b)(2)(A)  and 78m(b)(2)(B)]. 
+
+                                                 II. 
+
+       Ordering  Diebold  to pay a civil penalty  pursuant  to Section 2l(d)(3) of the Exchange  Act 
+
+[15 U.S.c. § 78u(d)(3)]; and 
+
+                                                 18
+ 
+---------------------Page 19---------------------
+
+                                                III. 
+
+       Granting  such other  and further relief as the Court deems just and appropriate. 
+
+                                                 Respectfully  submitted, 
+
+                                                 Scott W.  Friestad 
+                                                 Robert  B. Kaplan 
+                                                 Brian  O. Quinn (DC Bar No. 450013) 
+                                                 David  J. Gottesman 
+                                                 Chris  pher G. Swart 
+
+                                                 Attorneys  for Plaintiff 
+                                                 Securities  and Exchange  Commission 
+
+                                                 SEC Division   of Enforcement 
+                                                 100 F. Street, NE 
+                                                 Washington,  DC  20549-4010 
+                                                 (202) 551-4535  (Bender) 
+
+Dated:  June 2, 2010 
+
+                                                19
+ 

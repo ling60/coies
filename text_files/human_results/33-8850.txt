@@ -1,0 +1,217 @@
+﻿---------------------Page 1---------------------
+
+ UNITED                             STATES OF AMERICA 
+
+ Before                                      the 
+
+                   SECURITIES AND EXCHANGE COMMISSION 
+
+
+SECURITIES ACT OF 1933 
+Release No. 8850 / September 27, 2007 
+
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 2729 / September 27, 2007 
+
+ADMINISTRATIVE PROCEEDING 
+File No. 3-12842 
+
+In the Matter of                            ORDER INSTITUTING  
+                                            CEASE-AND-DESIST PROCEEDINGS, 
+      ROBERT C. DEAN                         MAKING FINDINGS, AND IMPOSING 
+                                             REMEDIAL SANCTIONS AND A 
+Respondent.                                  CEASE-AND-DESIST ORDER 
+                                             PURSUANT TO SECTION 8A OF THE 
+                                             SECURITIES ACT OF 1933  
+
+                                          I. 
+
+      The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, institu ted pursuant to Section 8A of the Securities of 
+1933 (“Securities Act”) against Robert C. Dean (“Dean” or “Respondent”). 
+
+                                         II. 
+
+      In anticipation of these proceedings, Respondent has submitted an Offer of Settlement to 
+the Commission (herein “Offer”), which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the findings 
+herein, except as to the Commission’s jurisd  iction over hi m and the subject matter of thes  e 
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings, Making  Findings, and I mposing Remedial Sanctions and a Cease-and-
+Desist Order Pursuant to Section 8A of the Securities Act of 1933 (“Order”), as set forth below.   
+---------------------Page 2---------------------
+
+                                              III. 
+
+       On the basis of this Order and Respondent’s Offer, the Commission finds that: 
+
+                                          Summary
+
+  This             matter concerns Respondent’s role in altering the method by which the <comp.>Federal 
+Home Loan Mortgage Corpora tion</> (“Freddie Mac” or “Company” ) valued certai n derivatives 
+known as swaptions at year-end for its fiscal year <date.>2000</>.  As a result of the change in methodology, 
+Freddie Mac issued materially false and misleading financial statements. 
+
+                                         Respondent 
+
+       1.     Robert C. Dean, age 42, was a Vice President of Freddie Mac from February 1998 
+through June 2000 and a Senior Vice President of the Company from June 2000 through October 
+2003, when he resigned from the  Company.  His duties included work in Freddie Ma c’s Market 
+Risk Oversight department. 
+
+                                     Other Relevant Entities 
+
+       2.     Freddie Mac, was ch artered by Congress in 1970 by the      Federal Hom e Loan 
+Mortgage Corporation Act (“Act”) .  Its princi pal place of business is in McLean, Virginia. 
+Congress created Freddie Mac to   provide stability in the seco   ndary m arket f or residential 
+mortgages by increasing the liquidity of mortgage investments and improving the distribution of 
+investment capital available for residential mortgage financing. 
+
+                                         Background 
+
+       3.     In June 1998, t  he Financial Accounti ng Standards Boar d (“FASB”)  released 
+Statement of Financial Accounting Standards No. 133 (“SFAS 133”), which related to accounting 
+for derivative instruments  and hedging activities.   Derivatives are financial instruments, such as 
+options or futures contracts, whose value depends on the value of another “underlying” security or 
+asset.  Financial companies such as Freddie Mac frequently use derivatives to manage <item.>interest rate</> 
+and other risk.   SFAS 133 provi ded generally  that, commencing January 1, 2001, holders of 
+derivatives must acc ount for s uch assets at fai r value.   SFAS 133 also set out detailed rules 
+concerning when a company could use hedge accounting to account for the changes in the value of 
+a derivative as hedging the change  in the fair valu e or fut ure cash flows of a he dged asset or 
+liability.  The requirements of SFAS 133 represen ted a signif icant change from the accounting 
+practices required by GAAP before SFAS 133 was issued.  
+
+      4.      For Freddie Mac, a ma jor holder of de rivatives subject to SFAS 133, the ne  w 
+standard required the Company to revalue and “  mark to market” (i.e ., report at actual quoted 
+market prices or esti mated m arket value) its portfolio of derivatives   every reporting period. 
+Changes in the fair value of c ertain derivatives were required by SFAS 133 to be r  ecorded as 
+income or loss on the Company’s income statement. 
+
+                                               2
+
+---------------------Page 3---------------------
+
+      5.      Absent action by Freddie Mac, the adoption of SFAS 133 would have re sulted in 
+the Company reporting a large one-time gain effective January 1, 2001, because the fair value of its 
+derivatives portfolio greatly exceeded the book value and, thereafter, it would have been required 
+to mark to market certa in derivatives, thereby introducing a ne w c omponent of volatility that 
+complicated the Company’s ability to maintain steady and predictable reported earnings. 
+
+                       Changes in the Methodology for Valuing Swaptions 
+
+       6.     Consistent with the Company’s general policy of reporting steady a nd predictable 
+earnings growth, the Company reacted to SFAS 133 by setting a goal to minimize the transitional 
+effects of SFAS 133 – i.e., the transition gain that would be reported effective January 1, 2001.  On 
+December 12, 2000, several days after brainstorming alternative ways to reduce the transition gain, 
+Respondent suggested that the Company coul d record a lower valuation – and thus reduce its 
+<item.>transition gain</> – if it altered the method by which it valued its swaptions.  Beginning on or about 
+December 22, 2000, in a series of me moranda written by or in consultation with Respondent, the 
+Company undertook to revise its methodology for valuing its swaptions portfolio, incorporating the 
+unproven premise that prevailing market prices were not indicative of where the Compa ny could 
+conduct transactions in the swaptions market. 
+
+       7.     On January 2, 2 001, the Company for mally adopted a revised methodology for 
+valuing swaptions.  The new methodology – which the Company used to calculate the fair value 
+that was reported in its year-end financial statements – used volatility values from November 20, 
+2000, a date six wee ks prior to  January 1, 2001.   This contributed to t he Company’s swaptions 
+portfolio being valued approximately $731 million less than it would have been had the Company 
+used current market implied volatilities, i.e., values from December 29, 2000, the last business day 
+of the year.   The Company premised its use of November 20 pric ing data on (i) the m arket for 
+swaptions purportedly being illiquid as of December 29, 2000 to a degree seen only during certain 
+historic events, and (ii) the Company purportedly being unable to transact business in swaptions at 
+prices derived through implied volatility reported in the then-current market.   
+
+       8.     Respondent and others developed a test to support the illiquidity premise.  The test 
+involved retroactively c omparing the daily percentage changes in i  mplied volatility levels of 
+swaptions to their five-year historical standard  deviation, or differences from mean values.   The 
+stated purpose of this te st was to show that  the frequency and magnitude of changes in i mplied 
+volatilities during November and D ecember 2000 were unprecedented versus other prior m arket 
+liquidity crises.  When the critical standard deviation parameter of this t est failed to “prove” t he 
+requisite historic market illiquidity at three standard deviations, the test was altered until it showed 
+the swaptions market was at historically illiquid levels.  The final test used two standard deviations. 
+
+       9.     Respondent initiated the concept a nd significantly contributed to the development 
+of the Company’s revised methodology for calculating the fair value of its swaptions portfolio.  It 
+was formally approved by Respondent and ot hers, and it was adopted i n the preparation of the 
+Company’s year-end financial statements. 
+
+                                               3
+
+---------------------Page 4---------------------
+
+       10.    Respondent negligently approved the use of the  methodology that resulted in the 
+swaptions valuation bei ng materially under stated,  despite his knowledge of c  ertain facts tha t 
+should have called into question the validity of the methodology and its suitability for determining 
+the fair value of the Company’s swaptions.  Among other things, Respondent: 
+
+              a.	 knew the Company had not previously deviated from the use of current market 
+                  implied volatilies, but rather, the Comp any generally used f or its swaptions 
+                  valuation model current  end-of-da y  market inputs from the Indepe      ndent 
+                  Swaptions Pricing Service. 
+
+              b.	 was not aware of a ny company that had ever used historica l data to price a 
+                  portfolio of swaptions. 
+
+              c.	 knew the methodol ogy was not use d in c onnection with the  Company’s risk 
+                  management practices and activities throughout the period whereas the revised 
+                  methodology was used for accounting purposes. 
+
+              d.	 should have known that the methodology improperly reduced the Company’s 
+                  reported transition gain and there fore did not  result in the swaptions  being 
+                  reported at a reasonable estimate of their fair value at year-end as required by 
+                  GAAP, and that the circum      stances  surrounding the  development of th  e 
+                  valuation methodology created substantial risk that the swaptions would not be 
+                  disclosed at their fair value on the balance sheet date as required by GAAP. 
+
+                                    Effect on Reported Results 
+
+       11.    The changed valuation me thod enabled Freddie Mac to val ue its s waptions at a 
+value approxim ately $731 m illion lower than w  ould have been if   current m arket im plied 
+volatilities (i.e., December 29, 2000 volatilities) had been used, thus offsetting approximately $731 
+million of the SFAS 133 transition gain and causing the following reported financial metrics to be 
+materially misstated in Freddie Mac’s Information Statement and Annual Report for 2000: 
+
+              a.	 “<item.>Futures and Options</>” in  Table 10 were valued at  $2.008 billion; the value 
+                  using year-end volatilities (the historically utilized method) was $2.739 billion – 
+                  a 26.7% understatement. 
+
+              b.	 “<item.>Total—Net Fair Value</> ” of deri vatives in t he same table was negati ve $257 
+                  million; this figure should have been $474 million. 
+
+              c.	 “<item.>Gross Positive Fair Value</>” of Futures and Options in Table 9-3 in the notes to 
+                  the financia l state ments shows a va  lue of $2.187 billion; using year-end 
+                  volatilities, it would have been $2.918 billion – a 25.1% understatement. 
+
+                                               4
+
+---------------------Page 5---------------------
+
+              d.	 The “<item.>Gross Positive Fair Value</>” of  Freddie Mac’s derivatives portfolio in the 
+                  same table was $6.312 billi on; using year-end volatilities, it would have been 
+                  $7.033 billion – a 10.4% understatement. 
+
+   These misstated financial statements were included in offerings of debt securities by Freddie 
+   Mac. 
+
+       12.    As a result of the conduct described above, Respondent violated Sections 17(a)(2) 
+and (3) of the Securities Act. 
+
+                                              IV. 
+
+       In view of the foregoi  ng, the Commission  deems it appropriate to accept the Offer 
+submitted by Respondent and to impose the sanctions agreed to in Respondent’s Offer. 
+
+       Accordingly, it is hereby ORDERED that:  
+
+       Pursuant to Section 8A of the Securities Act, Respondent Dean shall cease and desist from 
+committing or causing any violations and any future violations of Sections 17(a)(2) and (3) of the 
+Securities Act. 
+
+ By       the Commission. 
+
+       N                                              ancy M. Morris
+       S                                             ecretary 
+
+                                               5
+

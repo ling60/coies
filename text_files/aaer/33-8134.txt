@@ -1,0 +1,302 @@
+Dynegy Inc.: Admin. Proc. Rel. No. 33-8134 / September 24, 2002
+Home | Previous Page
+United States of America
+Before the
+Securities and Exchange Commission
+Securities Act of 1933
+Release No. 8134 / September 24, 2002
+Securities Exchange Act Of 1934
+Release No. 46537 / September 24, 2002
+Accounting And Auditing Enforcement
+Release No. 1631 / September 24, 2002
+Administrative Proceeding
+File No.
+3-10897
+In the Matter of
+Dynegy Inc.,
+Respondent.
+:::::::::
+ORDER INSTITUTING
+PROCEEDINGS PURSUANT TO
+SECTION 8A OF THE SECURITIES
+ACT OF 1933 AND SECTION 21C OF
+THE SECURITIES EXCHANGE ACT
+OF 1934, MAKING FINDINGS AND
+IMPOSING A CEASE-AND-DESIST ORDER
+I.
+The Securities and Exchange Commission ("Commission") deems it appropriate to institute cease-and-desist proceedings pursuant to Section 8A of the Securities Act of 1933 (the "Securities Act") and Section 21C of the Securities Exchange Act of 1934 (the "Exchange Act") against Dynegy Inc. ("Dynegy" or "Respondent").
+II.
+In anticipation of the institution of these proceedings, Dynegy has submitted an Offer of Settlement ("Offer") that the Commission has determined to accept.
+Solely for the purpose of these proceedings or any other proceeding brought by or on behalf of the Commission, or to which the Commission is a party, and without admitting or denying the findings contained herein, except that Dynegy admits the Commission's jurisdiction over it and over the subject matter of these proceedings, Dynegy consents to the entry of this Order Instituting Proceedings Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of the Securities Exchange Act of 1934, Making Findings and Imposing a Cease-and-Desist Order.
+III.
+Findings
+On the basis of this Order and Respondent's Offer, the Commission makes the following findings:1
+A. Respondent
+Dynegy is an Illinois corporation headquartered in Houston, Texas.
+Dynegy's shares are registered with the Commission under Section 12(b) of the Exchange Act and trade on the New York Stock Exchange under the symbol DYN.
+Dynegy produces and delivers energy, including natural gas, electricity, natural gas liquids and coal, to customers in North America, the United Kingdom and Continental Europe.
+In addition to energy production and delivery, energy trading is a key component of Dynegy's business.
+B. Other Relevant Entities
+ABG Gas Supply LLC ("ABG Supply") is a Delaware limited liability company headquartered in New York, New York.
+It is a special-purpose entity sponsored by Dynegy.
+Dynegy has no direct or indirect ownership interest in ABG Supply, nor is Dynegy affiliated with any of ABG Supply's owners.
+ABG Holding LLC ("ABG Holding") is a Delaware limited liability company.
+It is the immediate parent company of ABG Supply.
+ABG Holding is a special-purpose entity sponsored by a member of the syndicate of lenders involved in Alpha.
+Dynegy has no ownership interest in ABG Holding.
+NGAI Funding LLC ("NGAI Funding") is a Delaware limited liability company headquartered in San Francisco, California.
+NGAI Funding is a special-purpose entity sponsored by Dynegy.
+Dynegy has no ownership interest in NGAI Funding.
+DMT Supply LP ("DMT Supply") is a Delaware limited partnership and is a wholly-owned subsidiary of Dynegy.
+C. Facts
+1. Introduction
+This matter involves Dynegy's materially misleading (i) use of special-purpose entities ("SPEs") and (ii) pre-arranged, "wash" or "round-trip" energy transactions.
+First, in a series of transactions code-named "Project Alpha" ("Alpha"), Dynegy used SPEs to report as cash flow from operations what was in actuality nothing more than a loan.
+Specifically, Dynegy implemented Alpha to enhance cash flow from operations by $300 million in 2001, and to achieve an Alpha-linked $79 million tax benefit.
+Dynegy failed to disclose the financing transactions underlying Alpha, and failed to otherwise clarify that the $300 million Alpha-related cash flow enhancing Dynegy's 2001 Statement of Cash Flows derived from financing, not operations.
+These omissions by Dynegy were materially misleading.
+Moreover, even when Dynegy admitted Alpha's existence following an April 3, 2002 newspaper article, Dynegy's then - now former - Chief Financial Officer ("CFO") claimed falsely that Alpha's primary purpose was to ensure a stable supply of gas, and Dynegy continued to assert that its obtaining a long-term gas supply was a principal purpose of Alpha.
+It was not until Dynegy filed its Form 8-K that Dynegy acknowledged that Alpha's principal purposes were to minimize the gap between Dynegy's reported net income and reported operating cash flow and to realize an associated tax benefit.
+Dynegy then announced that it would reverse Alpha's impact by restating its 2001 financial statements.
+According to Dynegy, the restatement will include, at least, the following: 1) reclassification of the cash flow associated with Alpha as deriving from financing activities, rather than operations - reducing, as a consequence, Dynegy's cash flow from operations in 2001 by 37%; 2) consolidation in Dynegy's financial statements of a certain SPE with Dynegy; and 3) reduction of Dynegy's 2001 net income by 12% - the amount of the purported $79 million tax benefit. Alpha's impact on Dynegy's financial statements was especially significant because the Statement of Cash Flows has historically been considered immune from cosmetic tampering.
+Second, Dynegy issued materially misleading information to the investing public about the amount of trading on its electronic trading platform, Dynegydirect. On November 15, 2001, Dynegy entered into two massive "round-trip" electricity transactions - simultaneous, pre-arranged buy-sell trades at the same price, terms and volume, in which neither Dynegy nor its trading counterparty earned a profit or incurred a loss.
+In a January 2002 press release, Dynegy included the volume from one of these trades in a discussion of an increase in trading traffic on Dynegydirect.
+Information in this press release was included in a February 19, 2002 prospectus supplement of Dynegy Holdings Inc ("Dynegy Holdings").
+In an April 2002 press release, Dynegy included the results of these trades in its reported energy trading volume and in its first quarter 2002 revenues and cost of sales.
+Copies of the textual portion of this press release were e-mailed to Dynegy's employees, who were offerees pursuant to an ongoing registration statement with the Commission.
+In both instances, Dynegy failed to disclose that the resulting increases were materially attributable to the round-trip trades.
+Because the round-trip trades lack economic substance, Dynegy's press releases were materially misleading.
+Background
+2. Dynegy's Business, Mark-to-Market Accounting and the Growing Disparity between Dynegy's Net Income and Operating Cash Flow
+Energy trading is a prominent part of Dynegy's business.
+Accounting rules require Dynegy and other energy traders to record today the value of contracts for the future delivery of gas, electricity and other commodities.2
+Under this "mark-to-market" accounting, the total contract values are recorded as assets (or liabilities) on the balance sheet.
+Likewise, an increase (decrease) in a contract's value is recorded as unrealized gain (loss) and reflected as net income on the income statement, even though it generates no current cash flow.
+By 2000, some energy analysts following Dynegy had noticed the widening gap between Dynegy's net income and operating cash flow.
+Some analysts viewed this widening gap as possible evidence that Dynegy's energy contracts were overvalued, and that Dynegy's liquidity and access to capital were potentially impaired.
+Dynegy's Use of Special Purpose Entities
+3. Project Alpha
+a. Dynegy Entered into Project Alpha to Reduce the Growing Disparity between Dynegy's Net Income and Operating Cash Flow and to Reap a Tax Benefit
+In late 2000, Dynegy began exploring means of narrowing the gap between its net income and operating cash flow.
+After months of high-level discussion, meetings and document exchanges among Dynegy's independent auditor-consultant ("auditor-consultant") and other outside consultants, Alpha emerged as the chosen strategy for accomplishing Dynegy's purpose of narrowing that gap, while at the same time securing for Dynegy an Alpha-linked tax benefit.
+In its final form, Alpha embodied both a basis-shifting tax structure marketed to Dynegy by its auditor-consultant, and a "pre-paid" natural gas transaction.
+Internal Dynegy documents make clear that one of Alpha's principal purposes was to address the "disconnect . . . between book and cash earnings" and to improve "quality of earnings" - i.e., to create the appearance that Dynegy's operations were generating far more cash than they actually were.
+In 2001, Dynegy recorded $300 million in operating cash flow from Alpha. The $300 million was 37% of Dynegy's reported cash flow from operations in 2001.
+In addition, through Alpha, Dynegy recorded a tax savings in 2001 of $79 million, or 12% of its net income.
+The lengths to which Dynegy went to reap Alpha's accounting and tax benefits are best conveyed by Alpha's inordinate complexity and its $35.8 million cost.
+Alpha can be conceptualized as a flow-through matrix involving two SPEs, three interconnected loans, a gas purchase agreement, hedging transactions, and a transfer of basis and intended tax benefit.
+The first Alpha "loan" was effected through a capital contribution made by an SPE, NGAI Funding, to a limited partnership, DMT Supply - a trading partnership established to conduct natural gas trades with another SPE, ABG Supply.
+NGAI Funding received in return for its capital contribution a 99%, 9-month term limited partnership interest in DMT Supply; Dynegy held a 1% general partnership and remainder interest in DMT Supply.
+NGAI Funding borrowed $310 million from a syndicate of lenders and, of that amount, contributed $307 million to DMT Supply's capitalization. By making the $307 million capital contribution to DMT Supply, NGAI Funding created $307 million in initial tax basis.
+The second Alpha "loan" was from DMT Supply to Dynegy in the amount of $300 million and payable by Dynegy upon demand of DMT Supply.
+When NGAI Funding's interest in the partnership expired at the end of the first nine months of the Alpha transaction, its $307 million tax basis migrated to a wholly-owned subsidiary of Dynegy as the sole limited partner with the remainder interest in DMT Supply.
+Through this tax basis shift, Dynegy planned to save $79 million in taxes and increase its net income by an equal amount in 2001.
+Under this second loan arrangement, Dynegy is required to repay the "demand" loan to DMT Supply - noting however, that by that time, DMT Supply will be wholly owned by Dynegy.
+In the gas purchase portion of Alpha, ABG Supply entered into a five-year trading contract (the "Gas Contract") with DMT Supply, commencing in April 2001.
+The purchase price of the gas under the Gas Contract was 86% variable and 14% fixed.
+Under the Gas Contract, DMT Supply bought natural gas from ABG Supply at below-market prices for the first nine months of the Gas Contract - for re-sale by DMT Supply on the open market at a profit.
+ABG Supply borrowed from various lenders (the third Alpha loan) to fund the losses it would incur over these first nine months of the Gas Contract.3
+DMT Supply allocated 99% of the profits generated during the first nine months of the Gas Contract to NGAI Funding and distributed cash of approximately $300 million to NGAI Funding, thereby enabling NGAI Funding to repay a portion of its loan payable to the syndicate of lenders.
+After this initial nine-month period, NGAI Funding ceased to hold an interest in DMT Supply, and Dynegy became DMT Supply's sole owner.
+For the remaining 51 months of the Gas Contract, DMT Supply will pay ABG Supply above-market prices for gas, incurring losses.4
+As owner of DMT Supply, Dynegy will incur the losses generated during the latter 51 months of the Gas Contract.
+Dynegy's classification of Alpha's $300 million cash flow as operations-based was materially misleading: in essence, the $300 million transaction was a loan to Dynegy, not the result of Dynegy's operations.
+Moreover, Dynegy's classification of the $300 million as cash flow from operations was inconsistent with generally accepted accounting principles ("GAAP") (see Section III.C.3.c. of this Order).
+b. Dynegy Failed to Disclose Alpha and the Financing Nature of the Alpha-Related Cash Flow
+Alpha reduced by a significant amount the gap between Dynegy's net income and operational cash flow, thereby concealing from the investing public the true extent of this gap.
+Furthermore, Dynegy failed to disclose the true financing nature of the $300 million Alpha-related cash flow, which Dynegy could have done by disclosing the complex financing transactions underlying Alpha.
+Instead of making this disclosure, Dynegy made no reference to the underlying transactions in its second and third quarter 2001 Forms 10-Q or its 2001 Form 10-K, even though Alpha fell outside Dynegy's normal course of business.5
+Alpha first came to light on April 3, 2002, in a newspaper article critical of the transaction.
+On April 9, 2002, Dynegy posted on its website a misleading letter to the "investment community" from its then - now former - CFO.
+In the letter, the CFO asserted that Dynegy had not entered into "any questionable transactions" although he acknowledged that Dynegy had executed Alpha.
+He further stated in the letter that a former Dynegy employee, who had disclosed Alpha to the press, had "seriously mischaracterized both the nature and disclosure of the transaction."
+Also misleading was the CFO's statement in the letter that the "primary purpose" of Alpha was "to secure [a] long-term natural gas supply."
+The statement was false: Alpha's primary purpose, as Dynegy was aware, was to enhance Dynegy's cash flow from operations and provide an Alpha-linked tax benefit.
+The letter was removed from Dynegy's website within two days of its posting.
+c. Dynegy's Accounting for Project Alpha does not Conform to GAAP
+i. According to FAS 95, Alpha's Cash Flow Derived from Financing Activities, not Dynegy's Operations
+The substance of Alpha was a $300 million loan to Dynegy.
+That loan was funded indirectly through contractually assured profits on the resale of gas at below-market prices in the first nine months of the Gas Contract.
+Dynegy's promise to repay the loan was embedded in its promise to pay above-market prices for the remaining term of the Gas Contract.
+Consequently, under Financial Accounting Standard 95 ("FAS 95"), the cash flow associated with Alpha should have been classified as cash flow from financing activities - not operations.
+Where certain cash receipts and payments may have aspects of different types of cash flow, "the appropriate classification shall depend on the activity that is likely to be the predominant source of cash flow for the item."
+(FAS 95, ¶ 24, emphasis added).
+ii. An Alpha Special Purpose Entity Violated GAAP
+Dynegy's treatment of the Alpha cash flow as operating cash flow did not conform to GAAP for an additional reason: the equity investment in the SPE, ABG Supply, by its owners did not meet the requisite minimal exposure to the "substantive risks and rewards of ownership" during the entire term of the Gas Contract between ABG Supply and DMT Supply.
+Accounting guidelines state that independent owners of an SPE must make a substantive capital investment in the SPE, and that a prescribed minimum portion of the investment must demonstrate the substantive risks and rewards of ownership during the entire term of the transaction.
+This minimum is 3% of the total capital invested in the SPE, but the appropriate level for any particular SPE depends on the prevailing facts and circumstances.
+Investments are not at risk if they are supported by a letter of credit or other form of guaranty on the initial investment or have a guaranteed return.6
+Rather than maintain the requisite 3% risk exposure, the owners of ABG Supply avoided all commodity price risk using hedging transactions entered into by ABG Supply or ABG Holding with a member of the lending syndicate.
+As a result, ABG Supply should have been consolidated in Dynegy's financial statements, and the $300 million loan to ABG Supply - covering its initial losses under the Gas Contract - should have been reflected by Dynegy, on a consolidated basis, as cash flow from financing.
+Dynegy's auditor-consultant instructed Dynegy that improper hedging of the risk to the equity investment in ABG Supply would require consolidation of ABG Supply with Dynegy, requiring Dynegy to classify the Alpha-related cash flow as financing.
+Dynegy knew, or was reckless in not knowing, that its presentation of its financial statements - without consolidating ABG Supply - was not in conformity with GAAP.
+In April 2001, in connection with closing on Alpha, Dynegy obtained a letter from its auditor-consultant, pursuant to Statement on Auditing Standards 50 (the "SAS 50 letter").
+In the SAS 50 letter, the auditor-consultant states that, based on specified assumptions, Dynegy's accounting for Alpha was in conformity with GAAP.
+One of these express assumptions was that ABG Supply would engage in certain hedging activities, but those hedging activities would not exceed the 3% limit.
+In paragraph 8 of the SAS 50 letter, the auditor-consultant states:
+It is anticipated that ABG [ABG Supply] will enter into certain hedging transactions to minimize ABG's exposure to future price risk, consisting of fixed price and interest rate swaps.
+The unhedged fixed price exposure is in an amount sufficient to refute an assertion that ABG is a `special purpose entity lacking economic substance...'
+SAS 50 letter, ¶ 8 (emphasis added).
+Certain representatives of Dynegy knew that the ABG Supply owners' equity-at-risk never reached the requisite minimum 3% threshold - due to hedging activity by the owners.7
+Internal Dynegy documents show that certain representatives of Dynegy were aware, as early as April 2001- when Alpha closed - that the residual 3% equity investment in ABG Supply would not be at risk because of the ABG Holding hedge.
+Dynegy has acknowledged that it expected that this hedge would occur because the ABG Supply owners, as sophisticated investors, would not expose their investment to undue risk by failing to hedge.
+Moreover, Dynegy knew, based on the SAS 50 letter, that it had a duty to retain sufficient equity at risk within ABG Supply, that it would have the burden of proving that fact, and that it would have to consolidate ABG Supply if at least 3% of its owners' equity did not remain "at risk" over the course of the Gas Contract.
+As stated in the SAS 50 letter:
+The [Emerging Issues Task Force]8 believed that transactions would include documentation that would enable the lessee (in the transaction, DMT Partnership) to determine the lessor (in the Transaction, the equity investors in NGAI Funding and ABG) had maintained its minimum equity capital at risk.
+The SEC thus placed the burden of proving the presence of initial and continuing equity squarely upon the sponsor of the SPE, such as DMT Partnership in this Transaction.
+SAS 50 letter, p. 10 (emphasis added).
+In spite of the SAS 50 letter, Dynegy took no action to ensure that the equity investors did not hedge their minimum equity risk.
+Certain representatives of Dynegy knew that ABG Supply or its parent hedged its full exposure under the Gas Contract.
+Therefore, consistent with the SAS 50 letter, Dynegy should have consolidated ABG Supply in Dynegy's financial statements.
+If ABG Supply had been consolidated, its $300 million borrowing from the lender to cover the below-market sale of natural gas to DMT Supply in the first nine months of the Gas Contract would not have been recorded as operating cash flow, but rather, as cash flow from financing.
+In addition, there would have been accompanying changes to Dynegy's balance sheet and income statement.
+iii. Dynegy Failed to Disclose the True Basis of the Alpha-Linked $79 Million Tax Benefit
+Dynegy did not adequately disclose to the investing public the basis for its increasing in its financial statements its net income in 2001 by $79 million.
+In conjunction with the SAS 50 letter, the auditor-consultant issued to Dynegy a tax opinion, dated April 6, 2001, regarding a large tax benefit associated with Alpha.
+The Internal Revenue Service requires that structured tax transactions, at a minimum, have some non-tax business justification.
+According to the tax opinion, Dynegy's desired accounting treatment of the Alpha cash flow - as flowing from operations, as opposed to financing - constituted the primary non-tax business justification for Alpha.
+Consequently, when Dynegy publicly disclosed that it would restate its 2001 cash flow statement to reflect the Alpha cash flow as financing, rather than operating cash flow, the auditor-consultant withdrew its tax opinion.
+As a result, Dynegy announced that it would restate its 2001 income statement to eliminate the previously reported tax savings of $79 million, reducing Dynegy's 2001 net income by 12%, but that it would continue to report its original tax position to the Internal Revenue Service.
+Dynegy's Round-Trip Transactions
+4. Dynegy Misled Investors by Reporting Revenue, and Volume on its Dynegydirect Platform, Resulting from Undisclosed Round-Trip Transactions
+Dynegy also overstated in public disclosures the amount of trading on its electronic trading platform, Dynegydirect.9
+On November 15, 2001, Dynegy entered into two massive round-trip trades of electricity with another energy trading company on Dynegydirect.
+The round-trip trades, in which Dynegy simultaneously bought and sold power at the same price, terms and volume, resulted in neither profit nor loss to either transacting party.10
+Dynegy conducted the trades on Dynegydirect, which Dynegy was developing with an eye toward its potential for rapid growth.
+The two round-trip trades - the largest power trades, by volume, that Dynegy had ever conducted on Dynegydirect - required for their execution that Dynegy override the platform's normal volume limits.
+The trades involved the simultaneous purchase and sale of 5000 megawatts of on-peak electricity at $34/mwh for calendar year 2002, and the simultaneous purchase and sale of 15,000 megawatts of on-peak electricity at $25.50 for December 2001 (a combined total of over 25 million megawatt hours of electricity).
+Dynegy understood that the round-trip trades were not part of its ordinary business operations.
+Although Dynegy took some steps to ensure that the results of the round-trip trades were not publicly reported, Dynegy's failure to implement comprehensive safeguards caused Dynegy to disclose to the public certain results from its round-trip trades.
+In a January 23, 2002 press release, Dynegy reported on Dynegydirect, for the fourth quarter of 2001, $13 billion in notional trading value (absolute value of all trading traffic), of which $1.7 billion was attributable to the round-trip trades.11
+Later, in an April 30, 2002 press release, Dynegy reported 89.7 million megawatt hours of electricity traded in the first quarter of 2002, of which approximately five million megawatt hours were the product of round-trip trades.12
+In that same press release, Dynegy improperly reported $236 million in revenue (and $236 million in offsetting costs) from the round-trip trades.
+Dynegy's disclosures of results attributable to the round-trip transactions conveyed a false picture of Dynegy's financial status and business activity.
+IV.
+Discussion
+A. Dynegy's Antifraud Violations: Sections 17(a)(1), 17(a)(2) and 17(a)(3) of the Securities Act, and Section 10(b) of the Exchange Act and Rule 10b-5, thereunder
+Section 17(a) of the Securities Act prohibits employing a fraudulent scheme or making material misrepresentations and omissions in the offer or sale of a security.
+Section 10(b) of the Exchange Act and Rule 10b-5, thereunder, prohibit the same conduct, if committed in connection with the purchase or sale of securities.
+To violate these provisions, the alleged misrepresentations or omitted facts must be material.
+Information is deemed material upon a showing of a substantial likelihood that the omitted facts would have assumed significance in the investment deliberations of a reasonable investor.
+Basic, Inc. v. Levinson, 485 U.S. 224 (1988).
+Establishing violations of Section 17(a)(1) of the Securities Act and Section 10(b) of the Exchange Act and Rule 10b-5 thereunder requires a showing of scienter.
+Aaron v. SEC, 446 U.S. 680 (1980).
+However, actions pursuant to Sections 17(a)(2) and 17(a)(3) of the Securities Act do not require such a showing.
+Id. Scienter is the "mental state embracing intent to deceive, manipulate or defraud."
+Ernst & Ernst v. Hochfelder, 425 U.S. 185, 193 (1976).
+The Fifth Circuit Court of Appeals has held that scienter is established by a showing that the defendants acted intentionally or with severe recklessness.
+See Broad v. Rockwell International Corp., 642 F.2d 929 (5th Cir.) (en banc), cert. denied, 454 U.S. 965 (1981).
+Dynegy violated the antifraud provisions of the Securities Act and the Exchange Act.13
+As demonstrated in this Order's findings, Alpha was an undisclosed, highly complex transaction that incorrectly reported Dynegy's true cash position and dramatically overstated Dynegy's cash flow from operations -- in violation of Sections 17(a)(1), 17(a)(2) and 17(a)(3) of the Securities Act and Section 10(b) of the Exchange Act and Rule 10b-5 thereunder.
+In addition, as a result of inadequate internal controls, Dynegy negligently disclosed to the public material information concerning the results of the round-trip trades, specifically, volumes and revenues, in violation of Sections 17(a)(2) and 17(a)(3) of the Securities Act.
+As a consequence of Alpha's impact on Dynegy's financial statements, Dynegy's failure to disclose the financing transactions underlying Alpha, and the negligent disclosure of the results of the round-trip trades, Dynegy materially misrepresented its financial performance.
+There is a substantial likelihood that these false representations and associated omissions would have assumed actual significance in the investment deliberations of a reasonable investor by casting doubt on Dynegy's financial position, credit-worthiness and management team.
+Dynegy's false accounting treatment and inadequate disclosure of Alpha would have violated the antifraud provisions, even if Alpha had technically conformed to GAAP - which it did not.
+As the Fourth Circuit pointed out in Malone v. Microdyne Corp.:
+The Financial Accounting Standards of GAAP and the antifraud rules promulgated under § 10(b) of the 1934 Act serve similar purposes, and courts have often treated violations of the former as indicative that the latter were also violated.
+The prohibitions contained in GAAP and in Rule 10b-5, however, are not perfectly coextensive.
+In some circumstances, courts have found defendants liable for securities fraud under Rule 10b-5 despite having complied with GAAP.
+26 F.3d 471, 478 (4th Cir. 1994)(citations omitted).
+Consistent with Malone, a public company cannot wield technical conformity with GAAP as a shield against substantiated charges that the underlying transaction materially misled investors.14
+Because Dynegy failed to disclose Alpha, and the financing nature of the $300 million Alpha-related cash flow Dynegy presented in its 2001 Statement of Cash Flows, Dynegy violated the antifraud provisions - notwithstanding any argument that Alpha's accounting treatment conformed to GAAP.
+In fact, Alpha's accounting treatment failed to conform to GAAP in two important respects.
+First, pursuant to FAS 95, the predominant characteristic of the cash flow associated with Alpha was financing, not operations.
+Alpha was essentially a $300 million loan, disguised as operating cash flow.
+Second, certain representatives of Dynegy knew that the equity investors did not maintain the requisite 3% minimum investment at risk in the SPE.
+The improper hedging rendered Dynegy's accounting treatment of Alpha inconsistent with GAAP.
+B. Dynegy's Reporting Violations: Section 13(a) of the Exchange Act and Rules 12b-20, 13a-1 and 13a-13 thereunder
+Section 13(a) of the Exchange Act requires issuers such as Dynegy to file periodic reports with the Commission containing such information as the Commission prescribes by rule.
+Exchange Act Rule 13a-1 requires issuers to file annual reports, and Exchange Act Rule 13a-13 requires issuers to file quarterly reports.
+Under Exchange Act Rule 12b-20, the reports must contain, in addition to disclosures expressly required by statute and rules, such other information as is necessary to ensure that the statements made are not, under the circumstances, materially misleading.
+The obligation to file reports includes the requirement that the reports be true and correct.
+United States v. Bilzerian, 926 F.2d 1285, 1298 (2d Cir.), cert. denied, 502 U.S. 813 (1991).
+The reporting provisions are violated if false and misleading reports are filed.
+SEC v. Falstaff Brewing Corp., 629 F.2d 62, 67 (D.C. Cir. 1980).
+Scienter is not an element of a Section 13(a) violation.
+SEC v. Savoy Indus., Inc., 587 F.2d 1149,1167 (D.C. Cir. 1978).
+Dynegy violated these provisions by filing second and third quarter 2001 Forms 10-Q and a 2001 Form 10-K that were false and misleading.
+Dynegy's false accounting treatment of Alpha, and the absence of any clarifying disclosure of Alpha's true purpose and effect, caused the violations.
+Dynegy should have treated the cash flow from Alpha as a loan and ABG Supply should have been consolidated in Dynegy's financial statements, which would have had numerous material effects on Dynegy's financial statements.
+If consolidated, ABG Supply's $300 million borrowing to fund the losses during the first nine months of the Gas Contract would have been reflected as cash flow from financing activities, rather than operations, on Dynegy's Statement of Cash Flow; the liability associated with Alpha would have appeared as debt on Dynegy's Balance Sheet, rather than risk-management liability; and the
+tax benefit would not have been available to Dynegy, meaning that Dynegy's net income would have been reduced by $79 million on Dynegy's Income Statement.
+C. Dynegy's Books and Records and Internal Controls Violations: Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act
+Section 13(b)(2)(A) of the Exchange Act requires all issuers to make and keep books, records, and accounts that, in reasonable detail, accurately and fairly reflect their transactions and dispositions of their assets.
+Scienter and materiality are not elements of primary violations of this provision.
+SEC v. World-Wide Coin Inv., Ltd., 567 F. Supp. 724, 749-50 (N.D. Ga. 1983).
+Dynegy, through its treatment of Alpha and the round-trip energy trades, violated Section 13(b)(2)(A) by failing to keep books, records and accounts that accurately and fairly reflected its assets and financial results.
+Section 13(b)(2)(B) of the Exchange Act requires issuers to devise and maintain an adequate system of internal accounting controls. Scienter and materiality are not elements of a violation of this provision.
+World-Wide Coin, 567 F. Supp. at 749-50.
+Dynegy violated Section 13(b)(2)(B) by failing to devise and maintain a system of internal controls sufficient to provide reasonable assurances that structured transactions involving special purpose entities are recorded as necessary to permit preparation of financial statements in conformity with GAAP.
+Dynegy violated Section 13(b)(2)(B) for the additional reason that it failed to ensure against the inclusion of results from round-trip trades in Dynegy's computation and public disclosure of its trading volume and trading revenues.
+Dynegy's reporting of revenue derived from these transactions was inconsistent with GAAP.
+(Statement of Financial Accounting Concepts No. 5; see also Staff Accounting Bulletin 101).
+D. Dynegy's Falsification of Accounting Records Violation: Exchange Act Rule 13b2-1
+Exchange Act Rule 13b2-1 (promulgated under Section 13(b)(2) of the Exchange Act) prohibits any person from falsifying or causing to be falsified any accounting books and records of reporting public companies.
+Scienter is not an element of a violation of Rule 13b2-1.
+SEC v. McNulty, 137 F.3d 732 (2d Cir. 1998).
+Dynegy's falsification of its books in connection with Alpha effectively disguised a loan as operating cash flow.
+Dynegy's failure to maintain adequate controls caused Dynegy to falsify its books in connection with the round-trip trades, effectively inflating Dynegy's trading volume and revenues.
+Both falsifications were violations of Rule 13b2-1.
+V.
+The Commission finds that Dynegy violated Section 17(a) of the Securities Act, and Sections 10(b), 13(a) and 13(b)(2) of the Exchange Act, and Rules 10b-5, 12b-20, 13a-1, 13a-13 and 13b2-1 thereunder.
+VI.
+In determining to accept Dynegy's Offer, the Commission considered the events set forth in footnote 5, as well as Dynegy's cooperation in the staff's investigation.
+Additionally, the Commission considered the steps Dynegy has taken to ensure its employees' compliance with Dynegy's new policy prohibiting round-trip trades, and the internal procedures Dynegy has implemented to ensure exclusion of illicit round-trip trade results from Dynegy's public disclosures regarding its business activities.
+VII.
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions agreed to in the Offer.15
+Accordingly, IT IS HEREBY ORDERED, pursuant to Section 8A of the Securities Act and Section 21C of the Exchange Act, that Respondent Dynegy cease and desist from committing or causing any violation and any future violation of Section 17(a) of the Securities Act, and Sections 10(b), 13(a) and 13(b)(2) of the Exchange Act and Rules 10b-5, 12b-20, 13a-1, 13a-13 and 13b2-1 thereunder; and
+IT IS HEREBY FURTHER ORDERED that Dynegy shall comply with the following undertakings in its Offer:
+1. Dynegy shall continue cooperating with the staff of the Commission in the staff's ongoing investigation in this matter; and
+2. Dynegy shall restate its financial statements for its fiscal year 2001 in a manner that conforms to Generally Accepted Accounting Principles, which shall include the consolidation of ABG Gas Supply LLP in Dynegy's financial statements.
+By the Commission.
+Jonathan G. Katz
+Secretary
+Endnotes
+1
+The findings herein are made pursuant to Respondent's Offer and are not binding on any other person or entity in these or any other proceedings.
+2
+Financial Accounting Standard 133 and EITF 98-10.
+3
+Dynegy was not one of the lenders, and did not otherwise fund ABG Supply.
+4
+Specifically, for the first nine months, the 86% variable component is to be at market price, minus a pre-determined discount (i.e., NYMEX settlement price less a Base Period Price Adjustment, as defined in the Gas Contract between DMT Supply and ABG Supply).
+For the remaining 51 months, the 86% variable component is to be at market price, plus a pre-determined premium (i.e., NYMEX settlement price plus a Term Period Price Adjustment, as defined in the Natural Gas Purchase Agreement between DMT Supply and ABG Supply).
+For all 60 months, the remaining 14% was to be at a fixed price.
+5
+Dynegy disclosed Alpha's impact on its financial performance in a Form 8-K Dynegy filed with the Commission on April 25, 2002, only after the Commission staff expressed to Dynegy concerns about Alpha.  After those concerns were first raised, but before the filing of the Form 8-K, Dynegy's CFO falsely stated to the public that Alpha's "primary purpose" was to secure a long-term natural gas supply, and Dynegy continued to assert that its obtaining a long-term gas supply was a principal purpose of Alpha.
+Dynegy officials did not, prior to Dynegy's filing the Form 8-K, acknowledge that Alpha's principal purposes were, in fact, to minimize the gap between Dynegy's reported net income and reported operating cash flow and to realize an associated tax benefit.  In a television interview, Dynegy's former Chief Executive Officer ("CEO") admitted that Dynegy "could have disclosed [Alpha] earlier."
+6
+The Financial Accounting Standards Board is currently reviewing these guidelines and is expected to issue new guidance in the near future.
+7
+The Gas Contract called for 86% of the purchase price to be contingent on the prevailing market price, and 14% fixed.
+If the risks in the 14% fixed-price component were not hedged, that component would be exposed to market price volatility.
+For example, during months 10-60, when DMT Supply is expected to buy at above-market prices, if natural gas prices were to rise, the unhedged portion of the 14% fixed-price component would result in increased cost to ABG Supply.
+8
+The Emerging Issues Task Force ("EITF") was formed in 1984 in response to the recommendations of the Financial Accounting Standards Board's ("FASB") task force on timely financial reporting guidance and a FASB Invitation to Comment on those recommendations.
+Task Force members are drawn primarily from public accounting firms, but also include representatives of various non-accounting industries.
+9
+Dynegy understood that energy industry analysts use trading volume as a measure of the activity of energy trading firms; an additional volumetric measure, "notional" volume, is also used by analysts and by Dynegy to denote the total amount of "traffic" on Dynegy's electronic trading platform.
+Notional volume is computed by multiplying, for a given energy transaction, the term and amount.
+10
+Dynegy entered into the trades at the other party's request.
+11
+The January press release's round-trip notional trading value results also appear in the "Recent Developments" section of a prospectus supplement which Dynegy Holdings, a wholly-owned subsidiary of Dynegy, filed with the Commission on February 19, 2002, in connection with a $500 million bond offering Dynegy Holdings commenced in 2000, and which closed on February 21, 2002.
+Dynegy Holdings filed with the Commission Form S-3 covering its bond offering.
+The February 19 filing supplements the prospectus Dynegy Holdings filed with the Commission on August 23, 2001, as part of its Form S-3 registration statement.
+12
+Before, during and after both the January 2002 and April 2002 press releases, Dynegy was conducting an ongoing offering of its common stock, in connection with its employee stock option plans, pursuant to a Form S-8 registration statement filed with the Commission.
+The April 30 press release included text, which contained the round-trip volume information, and a financial attachment, which included both the round-trip volume information and the round-trip revenue information.
+Dynegy posted the complete press release (text and attachment) on its website where it was readily accessible to the general public.
+Dynegy also e-mailed the textual portion of the April 30 press release to all of its employees, including participants in Dynegy's stock option plans.
+13
+Dynegy's misrepresentations and omissions relating to Alpha were committed in connection with purchases and sales of Dynegy securities on the secondary market, and violated, therefore, Section 10(b) of the Exchange Act and Rule 10b-5, thereunder.
+Because Dynegy's Alpha-related misrepresentations and omissions were contained in Dynegy's second and third quarter 2001 Forms 10-Q and its 2001 Form 10-K, which are incorporated by reference in the registered securities offerings Dynegy was conducting during the period, and in the Dynegy financial statements distributed in connection with those offerings, those Alpha-related misrepresentations and omissions also violated Sections 17(a)(1), 17(a)(2) and 17(a)(3) of the Securities Act.
+That the round-trip related misrepresentations and omissions in Dynegy's January 23 press release violated Sections 17(a)(2) and 17(a)(3) of the Securities Act is demonstrated by their inclusion in Dynegy Holdings' February 19 prospectus supplement.
+The round-trip related misrepresentations and omissions in Dynegy's April 30 press release also violated Sections 17(a)(2) and 17(a)(3) of the Securities Act because Dynegy e-mailed the textual portion of the release to all of its employees, including participants in Dynegy's stock option plans.
+14
+See, e.g., In the Matter of The PNC Financial Services Group, Inc., 2002 SEC LEXIS 1847 (Admin Proc. File No. 3-10838, July 18, 2002); In the Matter of Caterpillar, Inc., 51 S.E.C. Docket 147 (Admin. Proc. File No. 3-7692, March 31, 1992).
+15
+Dynegy has agreed to pay a $3 million civil penalty in connection with a parallel civil action.
+http://www.sec.gov/litigation/admin/33-8134.htm
+Home | Previous Page
+Modified: 09/24/2002

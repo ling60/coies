@@ -1,0 +1,168 @@
+i2 Technologies, Inc. : Admin. Proc. Rel. No. 33-8428 / June 9, 2004
+Home Previous Page
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No.
+8428 / June 9, 2004
+SECURITIES EXCHANGE ACT OF 1934
+Release No.
+49839 / June 9, 2004
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No.
+2033 / June 9, 2004
+Administrative Proceeding
+File No.
+3-11518
+In the Matter of
+i2 Technologies, Inc.
+Respondent.
+::::::::::
+ORDER INSTITUTING
+PROCEEDINGS PURSUANT TO
+SECTION 8A OF THE SECURITIES
+ACT OF 1933 AND SECTION 21C OF
+THE SECURITIES EXCHANGE ACT
+OF 1934, MAKING FINDINGS, AND
+IMPOSING A CEASE-AND-DESIST
+ORDER
+I.
+The Securities and Exchange Commission ("Commission") deems it appropriate to institute cease-and-desist proceedings pursuant to Section 8A of the Securities Act of 1933 (the "Securities Act") and Section 21C of the Securities Exchange Act of 1934 (the "Exchange Act") against i2 Technologies, Inc. ("i2" or "Respondent").
+II.
+In anticipation of the institution of these proceedings, i2 has submitted an Offer of Settlement ("Offer") that the Commission has determined to accept.
+Solely for the purpose of these proceedings or any other proceeding brought by or on behalf of the Commission, or to which the Commission is a party, and without admitting or denying the findings contained herein, except that i2 admits the Commission's jurisdiction over it and over the subject matter of these proceedings, i2 consents to the entry of this Order Instituting Proceedings Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order.
+III.
+On the basis of this Order and Respondent's Offer, the Commission finds1 that:
+A.	Respondent
+i2 is a Delaware corporation headquartered in Dallas, Texas that develops and markets enterprise supply chain management solutions, including supply chain software and service offerings.
+i2's common stock is registered with the Commission pursuant to Section 12(g) of the Exchange Act and currently is quoted in the OTC Pink Sheets.
+During the periods relevant to this matter, i2's common stock traded on the Nasdaq National Market.
+B.	Summary
+For the four years ended December 31, 2001, and the first three quarters of 2002 (the "restatement period"), i2 misstated approximately $1 billion of software license revenues.
+As a result, i2's periodic filings with the Commission and earnings releases during the restatement period materially misrepresented i2's revenues and earnings.
+Historically, i2 favored up-front recognition of software license revenues, purportedly in accordance with AICPA Statement of Position 97-2, "Software Revenue Recognition" ("SOP 97-2").
+However, immediate recognition of revenue was inappropriate for some of i2's software licenses because they required lengthy and intense implementation and customization efforts to meet customer needs.
+See SOP 97-2, ¶
+7.2 In some cases, i2 shipped certain products and product lines that lacked functionality essential to commercial use by a broad range of users. In other cases, the company licensed certain software that required additional functionality to be usable by particular customers.
+On still other occasions, i2 exaggerated certain product capabilities, or entered into side agreements with certain customers that were not properly reflected in the accounting for those transactions.
+In each case, significant modification and customization efforts were necessary to provide the required functionality.
+i2 knew or was reckless in not knowing that these facts precluded up-front recognition under generally accepted accounting principles ("GAAP").
+i2 also improperly recorded software license revenue from four nonmonetary, or "barter," transactions.
+i2's inclusion of these revenues in its filings with the Commission and earnings releases was materially misleading.
+On July 21, 2003, following an internal investigation, i2 restated its financial statements for the restatement period.
+The net effect of the revenue adjustments that were made in connection with the restatement was to decrease total revenue by $130.9 million, $477.0 million and $137.6 million in 1999, 2000 and 2001, respectively, and to increase total revenue by $385.8 million in 2002 (the cumulative impact of the revenue adjustments for the restatement period was to reduce revenue by $359.7 million, $232.4 million of which was deferred and could be recognized in the future). i2 also made certain adjustments to its expenses. The cumulative impact of all the revenue and expense adjustments for the restatement period was to increase net loss by $207.1 million.
+C.	Accounting for Software Sales
+SOP 97-2 specifies the circumstances in which a company may recognize software license revenue up-front, and when a company must recognize such revenues in accordance with contract accounting principles.
+Software license revenue is generally recognizable up-front under SOP 97-2 if no significant production, customization or modification of software is required, if the remaining undelivered elements of the parties' arrangement are not essential to the functionality of the software, and if the following four basic criteria are met: (i) persuasive evidence of an arrangement exists, (ii) delivery of the software has occurred, (iii) the vendor's fee is fixed or determinable and (iv) collectibility is probable.3
+If significant production, modification or customization is necessary, or if the additional services are essential to the functionality of delivered software, the vendor may not recognize software license revenue at the time of the sale but instead must apply contract accounting principles under ARB 45and SOP 81-1.
+Moreover, if software arrangements (1) do not require significant production, customization or modification and (2) do not include undelivered elements that are essential to the functionality of the software, then up-front recognition is still precluded under SOP 97-2 if the four basic criteria are not met.
+In assessing whether software delivered to a customer possesses the necessary functionality for immediate revenue recognition, it is irrelevant that the customer physically possesses and may use the delivered software at the outset of the arrangement; what matters is whether the customer has been delivered software with the functionality the customer agreed to purchase under the software license.
+If further significant services or modifications are necessary to permit the customer to effectively use the delivered software in the agreed manner, then the vendor is prohibited from up-front revenue recognition under GAAP.
+D.	Factual Background
+1.	i2 Becomes a
+Billion Dollar Company
+In 1988, i2's founders created the company's first software program in a two-bedroom Dallas apartment.
+Their work was groundbreaking in what later came to be known as the supply chain management industry.
+i2 went public in April 1996 and thereafter reported ever-increasing annual revenues, which grew from approximately $101 million in 1996 to more than $1.1 billion in 2000.
+This growth was fueled in part by numerous acquisitions, including a $68 million acquisition of Smart Technologies, Inc. in July 1999, a $390 million acquisition of SupplyBase, Inc. in May 2000, and an $8.8 billion acquisition of Aspect Development, Inc. in June 2000.
+Large software license agreements provided the bulk of i2's revenue.
+i2 favored up-front recognition of the fees from these licenses.
+i2's compensation structure fostered this preference, because compensation of sales and pre-sales personnel was largely based on the amount of revenue recognized and cash collected in the current period.
+Hence, there was a bias toward structuring large license agreements to permit up-front revenue recognition.
+2.	i2's Increased Complexity Leads to Overstated Revenues
+i2's stock price peaked at over $110 per share in 2000, the same year it first reported $1 billion in sales.
+The rise in i2's stock price was powered in part by the company's ability to meet or exceed analyst expectations for revenue growth.
+It also benefited from the general increase in technology stock values during this period.
+Simultaneously, the company experienced rapid and tremendous growth in its customer base, number of employees and product offerings.
+From 1996 through 2000, i2's customer base grew to over 1,000, its employee base grew to more than 6,300, and its price list grew to more than 140 products.
+In addition to becoming more numerous, i2's products also grew more complex.
+Some of i2's software solutions were not "off-the-shelf" but instead were sophisticated enterprise solutions requiring significant efforts to implement and scale to customer needs.4
+These products frequently demanded extensive adaptation to unique customer specifications, which often required customization by i2 technicians.
+Accordingly, license revenue for those transactions was ineligible for up-front revenue recognition under SOP 97-2, and the company should instead have recognized revenue in conformity with contract accounting principles.
+i2, however, knowingly or recklessly failed to do so and therefore its financial statements during the restatement period failed to comply with GAAP.
+i2's improper revenue recognition occurred under four basic scenarios: (a) i2 recorded revenue from certain products that, while on its price list, lacked essential functionality to a broad range of users; (b) i2 recognized revenue from certain products that required additional functionality to be usable by particular customers; (c) i2 exaggerated certain product capabilities, which required significant customization efforts to provide; and (d) i2 entered into side agreements with certain customers that were not reflected in the corresponding license documentation.
+a.	i2 Recorded Revenue from Certain Products Lacking Essential Functionality
+On some occasions, i2 recorded license revenue from certain products and product lines that lacked basic functionality, and instead required considerable code-writing, modification and customization efforts to be usable by a broad range of customers.
+Consequently, recognition of license revenues from these transactions at the time of sale was inappropriate under SOP 97-2.
+i2 should instead have recognized license revenue from these transactions under contract accounting principles, which would in these cases have required deferral of license revenue over time.
+b.	i2 Recorded Revenue from Certain Products that Required Additional Functionality to be Usable by Particular Customers
+i2 licensed certain software that required development of additional customer-specific functionality.
+Certain i2 sales management and sales representatives knew about the functionality problems, at times describing the i2 products involved as "vapor" (i.e., non-functional software) and discussing instances of "rewriting entire code" in front of customers.
+These problems were known to the company and should have precluded up-front recognition of all or most license revenue from these transactions.
+i2, however, continued to recognize all revenue on these transactions up-front under SOP 97-2, rather than applying contract accounting principles.
+c.	i2 Exaggerated Certain Product Capabilities
+To close certain sales, i2 sales representatives exaggerated or oversold what certain software products could actually do.
+After these deals closed, i2 technicians were, in many instances, able to write code to create the promised functionality, but these efforts took much time, effort and expense. Given these substantial post-license development and modification activities, i2 should have recognized revenue from these transactions applying contract accounting principles.
+Instead, i2 recognized all such revenues up-front.
+d.	i2 Executed Side Agreements and Altered Contract Language,
+but Failed Properly to Account for Such Changes
+i2 also entered into undisclosed side agreements with certain customers.
+These side agreements outlined significant additional work and customization necessary for i2's software to meet customer specifications.
+i2 did not include the side agreement terms in the original license agreements, and did not provide the side agreements to its auditors.
+Under GAAP, these side agreements would have required i2 to defer license revenues from the transactions.
+i2, however, recognized license revenue from these transactions entirely up-front.
+In addition, on multiple occasions, i2 replaced contractual terms such as "development" with "implementation," "gap analysis" with "fit analysis," and "functionality" with "features."
+i2 believed that these terms, if unchanged, could endanger up-front recognition of license fees under the agreements.
+3.	Barter Transactions
+i2 also improperly recorded revenue from four barter transactions during the restatement period.
+These transactions involved third-party purchases of software licenses from i2, from which i2 recognized revenue immediately, in exchange for i2's agreement to purchase from the other parties in the future a comparable amount of products or services.
+In some of these transactions, i2 paid a premium over the prevailing rates for those products or services, in an effort to equalize both sides of the deal.
+When i2 recorded revenue from these transactions, it could not determine the fair value of the items exchanged within reasonable limits.
+Accordingly, i2's recognition of license revenue from these transactions at the time of delivering software was improper.
+See AICPA Accounting Principles Board Opinion No. 29, Accounting for Nonmonetary Transactions.
+Moreover, i2's financial statements and Commission filings failed to disclose the true nature of these transactions, which improperly inflated i2's reported revenues by approximately $44 million.
+i2
+knew, or was reckless in not knowing, that immediate recognition of revenues from these transactions in its financial statements was improper.
+4.	i2 Fails to Act on
+Revenue Recognition Warnings in 2001
+During the Summer of 2001, i2 received two documents flagging issues impacting software license revenue recognition.
+First, in June 2001, i2 generated a summary of revenue recognition risks, outlining such potential problems as identifying products to meet customer needs after licenses were signed; including wrong or incorrectly positioned products in deals; substantial underestimation of implementation services necessary to meet customer needs; the provision of development and customization services without separate formal agreements; and barter transactions.
+Second, also in June 2001, i2 received the initial report of a Massachusetts Institute of Technology professor whom it had hired to analyze i2's release management and product marketing processes.
+This report - entitled "Product Development at i2 Technologies:
+Problems and Recommendations" - identified deficiencies within the organization, from shortcomings in its product and technology strategy to weaknesses in its sales practices, product release management, and quality assurance.
+This report specifically identified problems with certain software products that, according to the report, had become largely custom software requiring significant post-license development and implementation services to meet customer's needs.
+i2 ignored, or was
+reckless in not recognizing, the revenue recognition implications of these two presentations.
+In fact, neither i2's auditors nor Audit Committee learned of the MIT professor's report until September 2002.
+5.	i2's Public Misrepresentations of its Financial Results
+For the four years ended December 31, 2001, and the first three quarters of 2002, i2's reports to the Commission on Forms 10-K and 10-Q materially misrepresented i2's revenues and earnings.
+During this period, i2 also filed numerous registration statements on Forms S-4 and S-8, each incorporating by reference the misleading periodic reports, and offered and sold securities to the public during the restatement period.
+i2 repeated these misstatements in quarterly and annual earnings releases to the public.
+In its earnings releases, i2 focused heavily on its continuing growth in revenues, increasing pro forma net income, and its positive relationships with its existing customers.
+In reality, these representations were misleading.
+During this period, i2's revenue was being significantly inflated by the inclusion of ineligible up-front licensing revenues, i2 was losing money, even on a pro forma basis in many quarters, and i2's relationship with some customers had been strained, due in part to the substantial post-license work i2 had to perform to make its software deliver what had been agreed upon.
+6.	i2 Restates Prior Results
+On July 21, 2003, following an internal investigation, i2 restated its financial statements for the restatement period.
+The net effect of the revenue adjustments that were made in connection with the restatement was to decrease total revenue by $130.9 million, $477 million and $137.6 million in 1999, 2000 and 2001, respectively, and to increase total revenue by $385.8 million in 2002 (the cumulative impact of the revenue adjustments for the restatement period was to reduce revenue by $359.7 million, $232.4 million of which was deferred and could be recognized in the future).
+i2 also made certain adjustments to expenses.
+The cumulative impact of all the revenue and expense adjustments for the restatement period was to increase net loss by $207.1 million.
+These restatements were material.
+E.	Conclusion
+Based on the foregoing, the Commission finds that Respondent i2 violated Section 17(a) of the Securities Act and Sections 10(b), 13(a), 13(b)(2)(A), 13(b)(2)(B) and 13(b)(5) of the Exchange Act, and Rules 10b-5, 12b-20, 13a-1, 13a-13 and 13b2-1 thereunder.
+F.	Remedial Acts
+In determining to accept i2's Offer, the Commission considered remedial acts undertaken by Respondent and cooperation afforded the Commission staff.
+G.	Undertakings
+Respondent has undertaken to:
+1.	Continue cooperating with the staff of the Commission in the staff's ongoing investigation in this matter; and
+2.	Produce all documents requested by subpoena duces tecum currently outstanding or subsequently issued in this case, except to the extent of good faith assertions of the attorney-client privilege, work product doctrine, or other applicable privilege or exemption.
+IV.
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions agreed to in the Offer.5
+Accordingly, it is hereby ORDERED, pursuant to Section 8A of the Securities Act and Section 21C of the Exchange Act, that Respondent i2 cease and desist from committing or causing any violation and any future violation of Section 17(a) of the Securities Act and Sections 10(b), 13(a), 13(b)(2)(A), 13(b)(2)(B), and 13(b)(5) of the Exchange Act and Rules 10b-5, 12b-20, 13a-1, 13a-13, and 13b2-1 promulgated thereunder.
+By the Commission.
+Jonathan G. Katz
+Secretary
+Endnotes
+1The findings herein are made pursuant to Respondent's Offer and are not binding on any other person or entity in this or any other proceeding.
+2	This paragraph provides: "If an arrangement to deliver software or a software system … requires significant production, modification, or customization of software, the entire arrangement should be accounted for in conformity with Accounting Research Bulletin No. 45, Long-Term Construction-Type Contracts ("ARB 45"), using the relevant guidance herein, and in AICPA Statement of Position 81-1, Accounting for Performance of Construction-Type and Certain Production-Type Contracts" ("SOP 81-1").
+3
+There are other factors that may further preclude up-front recognition under SOP 97-2.
+For example, in multiple element software arrangements, vendor-specific evidence of fair value ("VSOE") must exist for up-front recognition of the delivered elements.
+4
+"Off-the-shelf" software is defined under SOP 97-2 as "software marketed as a stock item that customers can use with little or no customization."
+5
+i2 has agreed to pay $1 in disgorgement and a $10 million civil penalty in connection with a parallel civil action.
+See In the Matter of i2 Technologies, Inc., Lit. Rel. No. 18741 (June 9, 2004).
+http://www.sec.gov/litigation/admin/33-8428.htm
+Home Previous Page
+Modified: 06/09/2004

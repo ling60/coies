@@ -1,0 +1,250 @@
+Warren Martin, CPA: Admin. Proc. Rel. No. 34-48311 / August 8, 2003
+Home | Previous Page
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No.
+48311 / August 8, 2003
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No.
+1835 / August 8, 2003
+ADMINISTRATIVE PROCEEDING
+File No.
+3-11211
+In the Matter of
+WARREN MARTIN, CPA,
+Respondent.
+:::::
+ORDER INSTITUTING PUBLIC
+ADMINISTRATIVE PROCEEDINGS
+PURSUANT TO RULE 102(e) OF THE
+COMMISSION'S RULES OF PRACTICE,
+MAKING FINDINGS AND IMPOSING
+REMEDIAL SANCTIONS
+I.
+The Securities and Exchange Commission ("Commission") deems it appropriate that public administrative proceedings be, and hereby are, instituted against Warren Martin ("Respondent" or "Martin") pursuant to Rule 102(e)(1)(ii) of the Commission's Rules of Practice [17 C.F.R.§ 201.102(e)].1
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer of Settlement ("Offer"), which the Commission has determined to accept.
+Solely for the purpose of these proceedings and any other proceeding brought by or on behalf of the Commission or to which the Commission is a party, and without admitting or denying the findings herein, except that he admits the jurisdiction of the Commission over him and the subject matter of these proceedings, Respondent consents to the entry of this Order Instituting Public Administrative Proceedings Pursuant to Rule 102(e) of the Commission's Rules of Practice, Making Findings and Imposing Remedial Sanctions, as set forth below.2
+II.
+FACTS
+On the basis of this Order and Respondent's Offer, the Commission finds that:
+A. Respondent
+Warren Martin, age 50, is a certified public accountant licensed in Virginia and Connecticut.
+Martin joined Coopers and Lybrand in 1983 and became an audit partner on October 1, 1991.
+In 1996, MicroStrategy, Inc.3 ("MicroStrategy" or "the Company") became a client of Coopers and Lybrand, and Martin began to serve as the partner on that engagement.
+Coopers and Lybrand merged with Price Waterhouse in July of 1998 to become PricewaterhouseCoopers ("PwC").
+Martin continued as the MicroStrategy engagement partner until the Company's restatement in April of 2000.
+B. Summary
+On March 20, 2000, MicroStrategy announced that it intended to restate its financial results for the fiscal years 1998 and 1999.
+MicroStrategy stock, which had reached a high of $333 per share only ten days previously, lost over 60% of its value, dropping from $260 per share to close at $86 per share.
+The stock price continued to drop in the following weeks.
+By April 13, 2000, after MicroStrategy announced that it would also restate its fiscal year 1997 financial results, the Company's stock closed at $33 per share.
+The Company's eventual restatements reduced revenues over the 1997-1999 period by approximately $66 million of the $365 million it had initially reported.
+Approximately $54 million, or 80%, of these restated revenues were in 1999.
+The Company's reporting failures primarily derived from its premature recognition of revenue arising from the misapplication of Statement of Position 97-2 ("SOP 97-2") in connection with multiple element arrangements in which significant services or future products to be provided by MicroStrategy were not separable from the upfront sale of a license to MicroStrategy's existing software products.
+Additional restatements resulted from arrangements in which MicroStrategy had not properly executed contracts in the same fiscal period that revenue was recorded from those contracts, as well as other accounting errors.
+The restated financial results corrected consolidated financial statements of the Company for the years ended December 31, 1997, 1998, and 1999, and registration statements filed in connection with a June 1998 initial public offering and a pending public offering filed in February 2000 that was subsequently withdrawn.
+Martin served as the MicroStrategy engagement partner during the entire period covered by the restatements and caused PwC to issue the audit reports containing unqualified opinions filed with the Company's inaccurate financial statements.
+Prior to the issuance of the audit reports, Martin did not develop sufficient competent evidentiary support for the critical revenue recognition issue, and failed to consider properly language in MicroStrategy's contracts that conflicted with the Company's revenue recognition.
+He also failed to consider properly concerns raised by PwC personnel that should have alerted him to the audit failures.
+C. Accounting For Software Sales
+Subsequent to December 31, 1997, MicroStrategy began recognizing revenue in accordance with SOP 97-2.
+SOP 97-2 contains specific guidance on whether a company may recognize revenue from a software license sale at the time of the sale (that is, "immediately" or "upfront") or whether revenue must be deferred.
+Typically, arrangements with software companies consist of a number of elements, only one of which is the delivery of the actual software.
+Modifying and customizing the software to customers' satisfaction are common additional elements of such arrangements.
+For these multiple element arrangements, SOP 97-2 requires that the vendor have vendor specific objective evidence of fair value ("VSOE") for each of the delivered elements in order to recognize any upfront revenue.
+VSOE is the specific price that a given vendor charges for each of the delivered elements when sold separately.
+If one of the elements to be delivered as part of a multiple element arrangement involves future consulting services, even if VSOE is known for all elements including the services, no upfront revenue can be recognized if the services to be provided in the future are essential to the functionality of the delivered software.
+This is based on a fundamental accounting concept that until the customer receives the essential value purchased, the vendor has not completed the earnings process.
+It is not relevant if the customer may use the software delivered at the outset of the arrangement.
+What is relevant is the "functionality" that the customer is buying.
+If the customer needs the services or modifications to effectively use the delivered software in the manner desired, all revenue must be deferred.4
+The concept that SOP 97-2 requires the functionality determination to be made from the customer's perspective is not controversial.
+Indeed, the PwC User-Friendly Guide to Understanding Software Revenue Recognition states:
+A key factor in this analysis is the impact that the customization will have on the functionality of the software.
+This analysis should be done from the customer's perspective, not that of the vendor.
+(Emphasis added.)
+D. Departures from GAAP
+STRATEGY.COM
+In late 1998, MicroStrategy began developing an information network supported by MicroStrategy's software.
+The network was initially known as Telepath but later renamed Strategy.com.
+As conceived, the network would deliver personalized finance, news, weather, traffic, travel, and entertainment information to individuals through cell phones, fax machines, e-mails, and other devices.
+For a fee, an entity could become a Strategy.com affiliate that could offer the service on a co-branded basis directly to its customers, and in turn share with MicroStrategy a percentage of the subscription revenues from end-users.
+MicroStrategy completed several such arrangements between the fourth quarter of 1998 and the end of 1999.
+The arrangements ranged from the relatively simple purchase of the right to offer customers access to the Strategy.com channels for a flat fee to much more complex transactions involving, in addition to an affiliation with MicroStrategy, a large scale commitment of consulting and development services to build custom information delivery systems.
+With the exception of ShopKo Stores, Inc. ("ShopKo") and Sybase, Inc. ("Sybase"), all of the transactions discussed below included Strategy.com elements.
+Early on, Martin knew that MicroStrategy lacked VSOE for certain elements of Strategy.com transactions.
+Indeed, the co-leader of PwC's Accounting Consulting Services used by PwC's engagement teams told Martin that the Company's lack of VSOE for these elements was an obstacle to upfront revenue recognition with respect to the transactions.
+In addition, Martin knew of the Company's significant obligations in Strategy.com relationships as set forth in the Company's filings (as well as various contracts):
+The Strategy.com network leverages the MicroStrategy software platform and is organized around a suite of information channels.
+The network currently operates a finance channel and plans to launch additional channels on subjects such as weather, news, politics, arts, travel and entertainment....Strategy.com also provides application maintenance, development, customer billing and support services for these channels, enabling affiliates to focus on their core businesses.
+Since VSOE for the obligations described in the excerpt was not available, revenue from Strategy.com transactions should have been deferred.
+Notwithstanding this evidence, Martin did not object to MicroStrategy's immediate recognition of all revenue obtained from the Strategy.com transactions as software license revenue.
+SHOPKO
+MicroStrategy's arrangement with ShopKo was the earliest transaction that signaled the Company's shift in focus from generating primarily software license revenue to also generating significant service revenue.
+The Company's eventual restatement reversed the $4.5 million initially recognized for the ShopKo transaction in the fourth quarter of 1998, and recognized only $934,000, because the transaction had required MicroStrategy to provide software licenses, extensive consulting and development services that could not be accounted for separately.
+MicroStrategy's then CFO had informed Martin that the Company desired to structure the transaction in such a way that it could recognize the $4.5 million in contract revenue immediately.
+In order to do so in accordance with GAAP, the software and services segments of the arrangement had to be separate and distinct, and all contract revenue had to be attributable to software.
+However, even a casual reading of the ShopKo contractual documents revealed that the software and services were part of a single arrangement.
+First, the various contractual documents cross-referenced the software and service elements at numerous points.
+Second, the arrangement involved the licensing of MicroStrategy's software in object code form, as opposed to a "shrink wrapped" or "off the shelf" version.
+Licensing of software in object code form is often an indication that the software is to be modified in some way prior to use, or otherwise used to develop a new application.5
+Third, according to the ShopKo transaction documents, the majority of the services to be provided by MicroStrategy as part of the arrangement between the two companies related to the implementation of ShopKo's "decision support environment" utilizing MicroStrategy's software.
+In fact, Martin was aware at the time of the original audit of the transaction that at least a portion of the services that MicroStrategy would provide ShopKo related to its software.
+This suggested some application of deferral accounting.
+Martin, however, failed to consider properly this information and allowed MicroStrategy to recognize the entire $4.5 million fee received in the transaction as software license revenue, without allocating even a portion of the fee to the extensive service obligations.
+In addition, Martin allowed MicroStrategy to immediately recognize the entire $4.5 million transaction fee despite payment terms with ShopKo that extended beyond two years.
+In doing so, he failed to consider properly the GAAP presumption that any licensing fee that is not due for more than 12 months is presumed not to be fixed or determinable.6
+The difference between the $4.5 million in revenue improperly recognized and the restated revenue for this transaction in the fourth quarter of 1998 was material to MicroStrategy's reported financial results for the quarter.
+METROCALL
+The Metrocall contract was a $1 million transaction in the fourth quarter of 1998 that obligated MicroStrategy to provide services related to the development of "channels" that would disseminate information to Metrocall's customers.
+MicroStrategy initially recognized the full amount of the contract in that quarter but later reversed the entry because it lacked VSOE of fair value for the services required under the arrangement.
+Martin concluded during the 1998 year-end audit that any services and software exchanged as part of the arrangement were separate and distinct and, thus, MicroStrategy could immediately recognize all fees from the transaction as software license revenue.
+However, Martin's conclusion failed to consider properly the fact that MicroStrategy did not grant a software license but rather a "services" license to Metrocall as part of the transaction.
+He also failed to consider properly several contract provisions that indicated MicroStrategy's significant and ongoing service obligations under the contract.
+For example:
+[Metrocall] desires to acquire a license from MicroStrategy to market and sell personalized programming services developed by MicroStrategy....
+MicroStrategy grants to [Metrocall] a non-transferable and non-exclusive (except as set forth herein) license to market and sell the Services....[emphasis added]
+MicroStrategy shall form the Network to deliver the Services and provide maintenance and support of the Services, including customer service, telephone support and engineering support.
+The Network shall provide the operational infrastructure necessary for the delivery of the Services, including all required hardware, information feeds, software and databases.
+MicroStrategy shall make three Channels available under this Agreement:
+a business channel, an investment channel and a news channel ("Initial Channels").
+The Initial Channels shall be available by no later than November 30, 1999....
+Despite this unambiguous contractual language, especially as to the "services" element of the contract, Martin improperly allowed MicroStrategy to immediately recognize the $1 million contract fee as software license revenue.
+The $1 million was material to the Company's reported financial results for the quarter.
+AMERITRADE and PRIMARK
+The MicroStrategy arrangements with Ameritrade Holding Corporation ("Ameritrade") and Primark Holding Corporation ("Primark") in the second and fourth quarters of 1999 similarly involved the delivery of information services to third party users.
+Additionally, however, the arrangements obligated MicroStrategy to build proprietary infrastructures that would allow Ameritrade and Primark to deliver the information services independent of MicroStrategy.
+The information services were to be powered with MicroStrategy software.
+MicroStrategy's restatement reversed nearly $8 million in revenue it recognized in the second and fourth quarters of 1999 and $5 million it recognized in the fourth quarter of 1999 in connection with the Ameritrade and Primark transactions, respectively, because the arrangements required the Company to provide significant services over time that were inseparable from the software it licensed in the transactions.
+Both the Ameritrade and Primark contracts went into extensive detail regarding MicroStrategy's obligations in connection with building proprietary information services using the licensed software.
+Those obligations unambiguously included modification of the software.
+For example, the Ameritrade contract provided that:
+MicroStrategy grants to Ameritrade a fully paid perpetual, worldwide, nonexclusive, irrevocable object code license to use, copy and modify and transmit the [Decision Support Systems ("DSS")] Any Interface Bundle (for internal use only) and DSS Infrastructure Enterprise Bundle (to support internal users and Ameritrade Customers).
+(Emphasis added.)
+The contract also provided that up to 360 man-months of services to be performed by MicroStrategy were included in the fee structure outlined in the contract.
+The contract defined these services as, "[a]ny services, including software modifications, installation, implementation and training, and development and compilation of the Telepath Financial Channel."
+(Emphasis added.)
+As in the case of Ameritrade, MicroStrategy granted Primark a license to use "the Software in object code form solely for the purpose of (i) internal data processing operations; (ii) for supporting and operating the [Premium Financial Services ("PFS")] in conjunction with MicroStrategy or (iii) with a service substantially similar to the PFS...."
+As stated previously, a license to use software in object code form is often an indication that the software is to be modified in some way prior to use, or otherwise used to develop a new application.
+In addition to granting the object code license, MicroStrategy also obligated itself to provide 18 "full time equivalency professionals" to build the PFS using its software.
+Despite the foregoing, Martin allowed MicroStrategy to immediately recognize all contract fees as software license revenue.
+In addition, Martin allowed MicroStrategy to recognize revenue from the Primark transaction in the fourth quarter of 1999 although the Company did not sign the contract until January 7, 2000.
+The $8 million in revenue for the Ameritrade transaction and $5 million in revenue for the Primark transaction that MicroStrategy recorded in the second and fourth quarters of 1999 were material to the Company's financial results for those quarters.
+SYBASE
+MicroStrategy's restatement reversed $5 million in revenue it recognized from a transaction with Sybase, in which the two companies essentially swapped software.
+Consistent with GAAP, this transaction should have been accounted for as a barter transaction and should have resulted in no revenue being recognized until such time as the software was used by MicroStrategy internally or was sold to another partner.7
+Martin and the engagement team were told by MicroStrategy on two separate occasions that the Company would resell a portion of the Sybase software received in the swap.
+Further, MicroStrategy's arrangement with Sybase made it evident that the Company would resell some of the Sybase software it received.
+For example, the Sybase licensing agreement states, inter alia:
+This Agreement provides for [MicroStrategy] to (i) license certain Sybase Programs for internal use; (ii) develop and distribute Applications based upon the Sybase [Industry Warehouse Studios ("IWS") Programs; and (iii) develop and distribute Applications based upon Sybase Database Programs.
+During the term, and subject to the terms, conditions and fees set forth in this Agreement, Sybase grants to [MicroStrategy] a non-exclusive, non-transferable, right to use and reproduce in the Territory an unlimited number of copies of the IWS Programs, and the Database Programs in object code form, solely for (i) [MicroStrategy's] development, distribution, marketing and support of [certain] Applications...in accordance with the terms of this Agreement; and (ii) [MicroStrategy's] business use.
+(Emphasis added.)
+On the basis of the foregoing, it was improper for Martin to allow MicroStrategy to record the fair value of all the software swapped in this barter transaction as revenue in the third quarter of 1999, prior to the Company's resale of the Sybase software it received in the swap.
+The $5 million of revenue improperly recorded was material to the Company's reported financial results for the quarter.
+NCR CORPORATION and EXCHANGE APPLICATIONS, INC.
+In the latter part of 1999, MicroStrategy separately signed $27.5 million and $65 million agreements with NCR Corporation ("NCR") and Exchange Applications, Inc. ("Exchange Applications") respectively, and immediately recognized a portion of the revenue from these transactions.
+Each agreement was the largest ever concluded by MicroStrategy when it was signed.
+The Company reported fees from the NCR transaction as revenue in the third quarter of 1999, although negotiations on the contract had not concluded and the contract had not been signed until the first day of the following quarter. Relying on a draft of the NCR contract, Martin issued a favorable opinion of the transaction's accounting.
+He did so even though he had received the draft NCR contract on the 28th of September with the understanding that negotiations were ongoing.
+In addition, it was evident from language in both the NCR and Exchange Applications contracts that it was improper to recognize any upfront revenue on the transactions.
+MicroStrategy's agreement with NCR granted a license to "all current and future generally available software products in MicroStrategy's product line."
+The agreement with Exchange Applications granted a license to copy, market, sublicense, and distribute MicroStrategy software that it defined as "the entire MicroStrategy product suite which is made generally available to end users during the term of this [3.5 year] Agreement."
+Because a company cannot provide VSOE for unspecified future products, SOP 97-2 requires the application of deferral accounting to arrangements containing unspecified future product obligations.
+Thus, Martin improperly allowed MicroStrategy to immediately recognize fees allocated to software delivered pursuant to these arrangements, even though the arrangements required MicroStrategy to deliver additional future product.
+The $17.5 million in revenue improperly recorded in connection with the NCR transaction in the third quarter of 1999, and the $14.1 million improperly recorded in connection with the Exchange Applications transaction during the fourth quarter, were material to the Company's reported financial results for those quarters.
+E. Departures from Generally Accepted Auditing Standards ("GAAS")
+Contrary to Martin's representations (made in audit opinion reports that he caused to be issued by PwC) that the 1998 and 1999 audits of MicroStrategy's financial statements were performed in accordance with GAAS, significant departures from GAAS contributed to the necessity for restatement, including Martin's failure to obtain sufficient competent evidential matter, his failure to maintain an attitude of professional skepticism, and his failure to act with due professional care.
+Martin did not obtain sufficient competent evidential matter.
+GAAS required Martin, at a minimum, to develop sufficient competent evidential matter for his opinion regarding the customers' desired functionality for delivered software.
+See Statements on Auditing Standards No. 1 AU § 330.
+Instead, Martin relied on what MicroStrategy told him the contracts meant.
+The 1998 and 1999 MicroStrategy contracts audited by Martin ranked among the largest in the Company's history at the time.
+Martin was aware of the consequences of recording the revenue from these transactions incorrectly.
+He was aware that a crucial revenue recognition question surrounding the transactions involved whether the services provided by MicroStrategy as part of the arrangements were essential to the functionality of the delivered software.
+Martin understood that the customer's desired functionality of the software was the most important factor in evaluating the software's functionality.
+However, while he considered the relevant contracts to have been convoluted and self-contradictory, there is only one documented attempt to confirm the terms of a contract with the customer.
+That confirmation, sent to Ameritrade, however, did not ask the important revenue recognition question regarding Ameritrade's desired functionality for the MicroStrategy software.
+Martin did not maintain an attitude of professional skepticism.
+An audit of financial statements in accordance with generally accepted auditing standards should be planned and performed with an attitude of professional skepticism.
+The auditor neither assumes that management is dishonest nor assumes unquestioned honesty.
+Rather, the auditor recognizes that conditions observed and evidential matter obtained, including information from prior audits, need to be objectively evaluated to determine whether the financial statements are free of material misstatement.
+See AU § 230.8
+Martin's conduct of the 1998 and 1999 MicroStrategy audits did not meet this standard.
+He placed almost exclusive reliance on management's representations about the transactions that were being audited.
+Besides the fact that the details of even MicroStrategy's largest transactions were either inadequately confirmed or not confirmed at all with its customers, management representations were apparently believed even when they contradicted other available information, including contract language, PwC staff9, and the press.10
+Martin's repeated reliance on management's representations in the face of contradictory information from multiple sources revealed a lack of professional skepticism that undoubtedly contributed to the failed audit.
+Martin did not act with due professional care.
+GAAS requires that an auditor act with due professional care in the performance of the audit and the preparation of the report.
+Due professional care imposes a responsibility upon the auditor to observe the standards of fieldwork and reporting.
+The matter of due professional care concerns what the auditor does and how well he does it.
+See AU § 230.
+The 1998 and 1999 MicroStrategy audits supervised by Martin were replete with omissions that demonstrated a lack of due professional care in carrying them out:
+representations by management were not documented even when they contradicted the language of contracts; with one exception, confirmations were never sent to verify the details of even the largest transactions; and oral and written accounting guidance was not appropriately considered more than once without explanation.
+III.
+LEGAL DISCUSSION
+Rule 102(e) authorizes the Commission to "deny, temporarily or permanently, the privilege of appearing or practicing before it in any way to any person who is found... (ii) to be lacking in character or integrity or to have engaged in unethical or improper professional conduct...."
+The rule defines improper professional conduct to mean, "[i]ntentional or knowing conduct, including reckless conduct, that results in a violation of applicable professional standards."
+A single instance of highly unreasonable conduct and repeated instances of unreasonable conduct also meet the definition of improper professional conduct.
+By failing to obtain documentary evidence of transactional intent, failing to consider properly colleagues' concerns, and approving audits based on unprobed, untested representations by management, Martin engaged in improper professional conduct.
+See Potts v. SEC, 151 F.3d 810, 811 (8th Cir. 1998) (upholding the Commission's 102(e) sanction based on finding that auditor engaged in reckless professional conduct because he failed to obtain documentary evidence, ignored red flags, and relied on unsupported management representations).
+IV.
+Based on the foregoing, the Commission finds that Martin engaged in improper professional conduct within the meaning of Rule 102(e)(1)(ii) of the Commission's Rules of Practice.
+V.
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions agreed to in Martin's Offer.
+Accordingly, IT IS HEREBY ORDERED, effective immediately, that Martin is denied the privilege of appearing or practicing before the Commission as an accountant.
+IT IS FURTHER ORDERED that after two (2) years from the date of this Order, Martin may request that the Commission consider his reinstatement by submitting an application (attention:
+Office of the Chief Accountant) to resume appearing or practicing before the Commission as:
+a preparer or reviewer, or a person responsible for the preparation or review, of any public company's financial statements that are filed with the Commission.
+Such an application must satisfy the Commission that Respondent's work in his practice before the Commission will be reviewed either by the independent audit committee of the public company for which he works or in some other acceptable manner, as long as he practices before the Commission in this capacity; and/or
+an independent accountant.
+Such an application must satisfy the Commission that:
+(a) Martin, or the firm with which he is associated, is a member of the SEC Practice Section of the American Institute of Certified Public Accountants Division for CPA Firms ("SEC Practice Section") or an organization providing equivalent oversight and quality control functions ("equivalent organization"); (b) Martin, or the firm, has received an unqualified report relating to his, or the firm's, most recent peer review conducted in accordance with the guidelines adopted by the SEC Practice Section or equivalent organization; and (c) as long as Martin appears or practices before the Commission as an independent accountant he will remain either a member of the SEC Practice Section or equivalent organization, or associated with a member firm of the SEC Practice Section or equivalent organization, and will comply with all applicable SEC Practice Section or equivalent organization requirements, including all requirements for periodic peer reviews, concurring partner reviews, and continuing professional education.
+IT IS FURTHER ORDERED that the Commission will consider an application by Respondent to resume appearing or practicing before the Commission provided that his state CPA license is current and he has resolved all other disciplinary issues with the applicable state boards of accountancy.
+However, if state licensure is dependant on reinstatement by the Commission, the Commission will consider an application on its other merits. The Commission's review may include consideration of, in addition to the matters referenced above, any other matters relating to Martin's character, integrity, professional conduct, or qualifications to appear or practice before the Commission.
+By the Commission.
+Jonathan G. Katz
+Secretary
+_______________________
+1
+Rule 102(e)(1)(ii) provides, in relevant part, that:
+The Commission may...deny, temporarily or permanently, the privilege of appearing or practicing before it...any person who is found...to have engaged in...improper professional conduct.
+2
+This matter is related to SEC v. Michael Jerry Saylor, Sanjeev Kumar Bansal and Mark Steven Lynch (Civ. Action No. 1: 00CV02995); In the Matter of MicroStrategy, Inc.
+(Admin. Proc. No. 3-10388), In the Matter of Antoinette A. Parsons and Stacy L. Hamm (Admin. Proc. No. 3-10389); and In the Matter of Mark Steven Lynch (Admin. Proc. No. 3-10406).
+3
+MicroStrategy is a Delaware corporation with principal offices in Vienna, Virginia.
+From its IPO on June 11, 1999, to the present, MicroStrategy's common stock has been registered pursuant to Section 12(g) of the Securities Exchange Act of 1934 and quoted on the NASDAQ National Market System.
+The Company was incorporated in November 1989.
+4
+Under Generally Accepted Accounting Principles ("GAAP"), revenue may be recognized at the time of sale only if an arrangement to deliver software or a software system does not require significant production, modification, or customization, provided the following four criteria are met: (i) there is persuasive evidence of the arrangement, (ii) delivery has occurred, (iii) the vendor's fee is fixed or determinable, and (iv) collectibility is probable.
+5
+This fact is recognized by the PwC software revenue recognition manual that was available to Martin.
+The manual states, "a critical factor in determining whether services are essential to the functionality of any other element of the software arrangement is whether the software is considered core [object code] software or off-the-shelf software....Arrangements involving a core software product generally do not qualify for separate accounting, because the services are considered essential to the functionality of the software...."
+See The User-Friendly Guide to Understanding Software Revenue Recognition at page 147.
+PwC 15639.
+6
+According to SOP 97-2, paragraph 28, "...if payment of a significant portion of the software licensing fee is not due until...more than twelve months after the delivery, the licensing fee should be presumed not to be fixed or determinable."
+(Emphasis added).
+7
+According to Paragraph 21a of Accounting Principles Board Opinion No. 29, no immediate revenue may be recognized when businesses swap inventory held for sale, if the inventory received in the swap is to be sold in the same line of business as the inventory given in the swap.
+This is based on the principle that the earning process is not culminated until such time as the inventory received in a swap is used or resold.
+8
+"Auditors should be skeptical about the answers they receive from management.
+Explanations received from an entity's management are merely the first step in an audit process, not the last.
+Listen to the explanation, then examine or test it by looking at sufficient competent evidential matter.
+The familiar phrase healthy skepticism should be viewed as a show-me attitude and not a predisposition to accepting unsubstantiated explanations."
+See AICPA Audit Risk Alert-1993, General Update on Economic Regulatory, Accounting and Auditing Matters.
+Similar Audit Risk Alerts were issued for 1994 and 1995/1996 regarding auditor skepticism.
+9
+In addition to pointing out obstacles to upfront revenue recognition with respect to the Strategy.com transactions, the co-leader of the in-house Accounting Consulting Services used by the PwC engagement teams also pointed out the aspects of the Exchange Application arrangement in the final quarter of 1999 that were problematic for upfront revenue recognition.
+Further, a senior manager of the MicroStrategy engagement team identified for Martin accounting guidance that contraindicated upfront recognition of revenue received for the Exchange Application arrangement.
+10
+On February 21, 2000, Forbes.com published an article on its website regarding MicroStrategy's explosive revenue growth.
+The article, which later appeared in Forbes' March 6, 2000 print version, raised questions related to the appropriate accounting periods, as well as the barter aspects, of several MicroStrategy's transactions.
+Martin was faxed a copy of the article on February 21 by MicroStrategy's controller.
+Soon after receiving the fax, he requested a copy of the final NCR contract but never received it before causing PwC to issue an unqualified audit opinion.
+http://www.sec.gov/litigation/admin/34-48311.htm
+Home | Previous Page
+Modified: 08/08/2003

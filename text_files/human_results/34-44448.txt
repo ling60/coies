@@ -1,0 +1,120 @@
+﻿Robert G. Kutsenda, CPA: Administrative Proceeding No. 34-44448 / June 19, 2001
+Home | Previous Page
+UNITED STATES OF AMERICA
+Before The
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No.
+44448 / June 19, 2001
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 1409 / June 19, 2001
+ADMINISTRATIVE PROCEEDING
+File No.
+3-10517
+In the Matter of
+ROBERT G. KUTSENDA, CPA,
+Respondent.
+:
+:
+:
+:
+:
+:
+:
+:
+ORDER INSTITUTING PUBLIC ADMINISTRATIVE PROCEEDINGS, MAKING FINDINGS AND IMPOSING REMEDIAL SANCTIONS PURSUANT TO RULE 102(e) OF THE COMMISSION'S RULES OF PRACTICE
+I.
+The Securities and Exchange Commission ("Commission") deems it appropriate and in the public interest that public administrative proceedings be, and hereby are, instituted against Robert G. Kutsenda ("Kutsenda" or "Respondent") pursuant to Rule 102(e) of the Commission's Rules of Practice [17 C.F.R. § 201.102(e)(1)] ("Rule 102(e)").1
+II.
+In anticipation of the institution of these administrative proceedings, Respondent has submitted an Offer of Settlement ("Offer"), which the Commission has determined to accept.
+Solely for the purpose of these proceedings, and any other proceeding brought by or on behalf of the Commission or in which the Commission is a party, and without admitting or denying the Commission's findings contained herein, except for the jurisdiction of the Commission over him and over the subject matter of these proceedings, which Respondent admits, Respondent consents to the entry of the findings and the imposition of the remedial sanctions set forth in this Order Instituting Public Administrative Proceedings, Making Findings, and Imposing Remedial Sanctions Pursuant to Rule 102(e) of the Commission's Rules of Practice ("Order").
+III.
+On the basis of this Order and the Respondent's Offer, the Commission makes the following findings:2
+A. Respondent
+Robert G. Kutsenda, 58, is a certified public accountant licensed in Illinois.
+Kutsenda joined Arthur Andersen LLP ("Andersen" or the "Firm") in 1964 and has been a partner since 1975.
+Between 1992 and 1995, he was the Central Region Audit Practice Director responsible for Andersen's Chicago, Kansas City, Indianapolis and Omaha offices.
+As a practice director at Andersen, Kutsenda was responsible for, among other things, oversight of "quality and risk management processes," and consulting on "significant auditing, accounting, financial statement presentation and reporting problems encountered during an audit."
+He remains a partner in the Firm today.
+B. Issuer
+<comp.>Waste Management, Inc.</>, ("Waste Management" or the "Company"), was a Delaware corporation with its principal place of business in Oak Brook, Illinois.3
+Through its subsidiaries, Waste Management provided comprehensive solid and hazardous waste services, energy recovery services, and environmental technologies, engineering and consulting services.
+At all times pertinent to the period covered by this Order, the common stock of Waste Management was registered with the Commission pursuant to Section 12(b) of the Securities Exchange Act of 1934 and traded on the New York Stock Exchange.
+C. Facts
+1. Summary
+This action arises out of Kutsenda's determination, in the context of a consultation on a particular accounting matter, that Andersen could issue an unqualified audit report on Waste Management's <date.>1995</> financial statements.4
+The engagement team consulted with Kutsenda in his capacity as Practice Director. Kutsenda's conduct resulted in a violation of applicable professional standards because he did not require Andersen to withhold or qualify its audit report on the company's 1995 financial statements in light of Waste Management's
+"netting"- i.e. offsetting -- of misstatements against an unrelated one-time in violation of generally accepted accounting principles ("GAAP").
+The undisclosed netting or offsetting distorted the Company's financial picture and caused the Company's 1995 income statement to be materially misstated.
+Kutsenda's conduct was highly unreasonable because he knew, or should have known, that the Company's netting violated GAAP, that prior-period misstatements of which he was aware would not be disclosed to investors, that the impact of the netting on the Company's 1995 financial statements was material and that an unqualified audit report was not warranted.			
+2. Background to Kutsenda's 1995 Audit Decision
+During Andersen's audit of Waste Management's 1993 and 1994 financial statements, Kutsenda became aware of non-GAAP accounting practices resulting in current and prior period misstatements in the Company's financial statements. 5
+These misstatements were the subject of Proposed Adjusting Journal Entries (PAJEs)6 prepared by Andersen's audit team that the Company declined to correct in its books and records. In both years, Kutsenda and other Andersen partners decided that the Firm would issue unqualified audit reports based on the conclusion that they were not material.
+3. The 1995 Audit
+On December 31, 1995, Waste Management exchanged its interest in a privately held subsidiary of ServiceMaster Master Limited Partnership ("ServiceMaster") known as Consumer Services for an interest in ServiceMaster itself, a publicly traded entity.
+This transaction resulted in a $160 million gain to Waste Management.
+In its 1995 financial statements, the Company used the <item.>gain</> to offset $160 million of, among other things, unrelated operating expenses and misstatements that, in most instances, had been the subject of PAJEs in 1994 and earlier.
+The Company offset the misstatements against the gain in its income statement in Sundry Income, Net.
+The misstatements that were netted were 10% of 1995 <item.>pre-tax income</>. The Company made no disclosure of the netting in the notes to its financial statements or in management's discussion and analysis ("MD&A").
+Waste Management consulted Robert E. Allgyer ("Allgyer"), the Andersen engagement partner for the Waste Management account, and Walter Cercavschi ("Cercavschi"), an Andersen partner working on the audit team, with respect to the accounting treatment for the ServiceMaster transaction, and informed them of its intent to net the misstatements against the one-time gain without disclosure in the financial statements.
+Allgyer and Cercavschi recognized that the Company's proposed treatment did not conform with GAAP and that "theoretically, the gain and the provisions [i.e. the current and prior period misstatements] should be reported separately in the consolidated income statement with discussion in the MD&A and footnotes."
+Nevertheless, they reached a preliminary determination that the matter was not material but recognized the need to consult with Kutsenda.
+GAAP did not and does not allow prior-period misstatements to be offset against unrelated one-time gains.7 With respect to the correction of prior period misstatements, GAAP required that these misstatements, if material to the current period, be corrected in their proper expense category in the appropriate period with disclosure.
+Allgyer and Cercavschi consulted Kutsenda about the netting and whether Andersen would be required to qualify or withhold its audit report if the Company netted the ServiceMaster gain and did not disclose the netting.
+Kutsenda concluded that, although the netting did not conform with GAAP and the netted items would not be disclosed, Andersen did not need to qualify or withhold its audit report.
+He reasoned that the netting and the non-disclosure of the misstatements and the unrelated gain did not prevent the issuance of the unqualified audit report because he concluded, for various reasons, that they were not material to the Company's 1995 financial statements taken as a whole.
+In fact, these items were material.
+For example, the misstatements represented 10% of pre-tax income.
+Kutsenda did insist that, with respect to the gain and the charges, the Company "book [them] broad" on its general ledger, that is, record the gain and expenses to their respective categories for internal record keeping purposes, and that offsetting should occur only in the reported financial statements.
+Kutsenda agreed that Andersen could issue an unqualified audit report on Waste Management's 1995 financial statements.
+D. Kutsenda Engaged in Improper Professional Conduct Within the Meaning of Rule 102(e)
+When Kutsenda was consulted concerning the Company's use of netting in 1995, he knew that if netting were allowed, the prior period misstatements that were netted would not be disclosed to investors and that those misstatements represented 10% of the Company's 1995 pre-tax income.
+He further knew or should have known that the netting did not conform to GAAP.
+Indeed, he advised the Andersen engagement team that the Company should record the gain and expenses properly in its books and records and that the netting should occur only in the reported financial statements.
+Generally Accepted Auditing Standards (GAAS) make clear that all auditors, not just those on the engagement team, must perform their work with due care:
+"Due care imposes responsibility upon each person within an independent auditor's organization to observe the standards of field work and reporting." AICPA, Codification on Statements of Auditing Standards, AU § 230.02.
+Although not part of the engagement team, when he was consulted by Allgyer and Cercavschi, Kutsenda was required under GAAS to exercise due professional care so that an unqualified audit report was not issued on financial statements that were materially misstated.
+Here, when Kutsenda was informed of the non-GAAP netting of a $160 million one-time gain against unrelated prior-period misstatements and that the amount represented 10% of the Company's 1995 pre-tax income, he knew or should have known that the Company's use of netting warranted heightened scrutiny.
+Under these circumstances, GAAS required him to consider that "there should be stronger grounds to sustain the independent auditor's opinion with respect to those items which are relatively more important and with respect to those in which the possibilities of material misstatement are greater than with respect to those of lesser importance or those in which the possibility of material misstatement is remote."
+AICPA, AU § 150.04.
+In this case, although Kutsenda recognized that netting did not conform to GAAP, knew that prior period misstatements of which he was aware would not be disclosed to investors, knew or should have known that the impact of the netting was material to the Company's 1995 financial statements, he nevertheless wrongly concluded that Andersen was not required to withhold or qualify its audit report.
+In reaching this result, Kutsenda engaged in highly unreasonable conduct that resulted in a violation of applicable professional standards.
+IV.
+On the basis of this Order and Respondent's Offer, the Commission finds that Kutsenda engaged in improper professional conduct within the meaning of Rule 102(e)(1)(ii) of the Commission's Rules of Practice.
+V.
+Based on the foregoing, the Commission deems it appropriate and in the public interest to accept the Respondent's Offer and accordingly,
+IT IS HEREBY ORDERED, effective immediately, that
+A. Kutsenda be, and hereby is, denied the privilege of appearing or practicing before the Commission as an accountant;
+B. After one (1) year from the date of this Order, Kutsenda may request that the Commission consider his reinstatement by submitting an application (attention: Office of the Chief Accountant) to resume appearing or practicing before the Commission as:
+1. a preparer or reviewer, or a person responsible for the preparation or review, of any public company's financial statements that are filed with the Commission.
+Such an application must satisfy the Commission that Kutsenda's work in his practice before the Commission will be reviewed either by the independent audit committee of the public company for which he works or in some other acceptable manner, as long as he practices before the Commission in this capacity; and/or
+2.
+an independent accountant.
+Such an application must satisfy the Commission that:
+a. Kutsenda, or any firm with which he is or becomes associated, is a member of the SEC Practice Section of the American Institute of Certified Public Accountants Division for CPA Firms ("SEC Practice Section");
+b.
+Kutsenda, or the Firm, has received an unqualified report relating to his or the firm's most recent peer review conducted in accordance with the guidelines adopted by the SEC Practice Section; and
+c.
+as long as Kutsenda appears or practices before the Commission as an independent accountant, he will remain either a member of the SEC Practice Section or associated with a member firm of the SEC Practice Section, and will comply with all applicable SEC Practice Section requirements, including all requirements for periodic peer reviews, concurring partner reviews, and continuing professional education.
+C. The Commission's review of any request or application by Kutsenda to resume appearing or practicing before the Commission may include consideration of, in addition to the matters referenced above, any other matters relating to Kutsenda's character, integrity, professional conduct, or qualifications to appear or practice before the Commission.
+By the Commission
+Jonathan G. Katz
+Secretary
+Footnotes
+1
+Under Rule 102(e) of the Commission's Rules of Practice, 17 C.F.R. 201.102(e), "[t]he Commission may censure a person or deny, temporarily or permanently, the privilege of appearing or practicing before it in any way to any person who is found by the Commission after notice and opportunity for hearing in the matter . . . to have engaged in . . . improper professional conduct."
+With respect to licensed accountants,
+"improper professional conduct" under
+§ 201.102(e)(1)(ii) means, among other things, "[a] single instance of highly unreasonable conduct that results in a violation of applicable professional standards in circumstances in which an accountant knows, or should know, that heightened scrutiny is warranted . . . ."
+2 The findings herein are made pursuant to the Offer that Respondent submitted and are not binding on any other person or entity in this or any other proceeding.
+3 On July 16, 1998, Waste Management merged with USA Waste Services, Inc.
+The newly formed company retained the Waste Management name.
+4 Other conduct by Andersen and Andersen partners relating to the audits of Waste Management's financial statements for the years 1992 through 1996 is described in the Commission's Order Instituting Public Administrative Proceedings, Making Findings and Imposing Remedial Sanctions Pursuant to Rule 102(e) of the Commission's Rules of Practice in In The Matter of Arthur Andersen LLP
+[Release No. 34-44444] (June 19, 2001) and the Commission's complaint in the matter entitled SEC v. Arthur Andersen LLP et al., Civil Action No. 1:01CV01348 (JR) (D.D.C. ) [Release No. LR-17039] (June 19, 2001).
+5 Kutsenda was among the partners with whom audit engagement partners in Andersen's Central Region offices were required to consult when PAJEs exceeded 8% of net income from continuing operations.
+6 A proposed adjusting journal entry is an adjustment proposed by the auditor to the company during the audit which, if accepted by the company, would correct a misstatement in an account balance or class of transactions contained in the company's books and records.
+7 Kutsenda understood that only prior period misstatements would be netted against the ServiceMaster gain and provided his consultation on the basis of such information.
+In fact, some current period expenses and misstatements were netted. GAAP required the Company to record its current period expenses and misstatements in their proper operating expense categories and not net them against an unrelated gain in "other income and expense."
+http://www.sec.gov/litigation/admin/34-44448.htm
+Home | Previous Page
+Modified: 06/19/2001

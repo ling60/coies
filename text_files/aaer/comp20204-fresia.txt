@@ -1,0 +1,1882 @@
+---------------------Page 1---------------------
+
+                     IN THE  UNITED  STATES DISTRICT COURT  
+                         FOR THE  DISTRICT OF COLORADO 
+                                                              @u     p~$      \ c E  PBcoUR~ 
+v    Action No    07   -   cv      -   0   1   5   4   9   '                gflES D  \  O~  ~  ~
+                                                                      UN\TE\~~~,, COLO"~ 
+SECURITIES AND EXCHANGE       COMMISSION, 
+                          Plaintiff, 
+
+RICHARD   E. FRESIA, 
+
+                          Defendant. 
+
+                                    COMPLAINT 
+
+Plaintiff Securities and Exchange Commission ("Commission"), for its complaint, alleges: 
+
+                                 I.     SUMMARY 
+       1.  During the second and third quarters of 2002, Defendant Richard E. Fresia, the 
+
+former chief financial officer ("CFO') of Expanets, Inc. ("Expanets"), a large 
+
+telecommunications subsidiary of Northwestern Corporation ("NorthWestern"), participated in a 
+
+scheme to hide from the investing public Expanets' ongoing operational problems and poor 
+
+financial performance. 
+
+       2.  First, Fresia failed to properly account for Expanets' uncollectible receivables and 
+
+adjustments to customer bills that resulted from computer system problems, causing 
+
+overstatements of Northwestern's reported income of 90% and 109% in the second and third 
+
+quarters of 2002, respectively. Alternatively, Fresia caused Northwestern's failure to properly 
+
+disclose the possibility of losses relating to Expanets'uncollectible receivables and adjustments 
+
+to customer bills. 
+---------------------Page 2---------------------
+
+       3.   Second, Fresia and Northwestern  senior executives misled investors about the 
+
+nature of Expanets' and Northwestern's  reported income. While Northwestern publicly claimed 
+
+that Expanets had achieved profitability and met earnings targets through its operations and cost 
+
+savings, Fresia and Northwestern  senior executives concealed from the public that in fact, 
+
+Expanets' reported income during 2002 was derived, in large part, from non-recurring and 
+
+undisclosed reserve reductions, and from its receipt of unusual non-compete payments. 
+
+       4.   Fresia's misconduct helped facilitate Northwestern's  completion of more than $800 
+
+million in securities offerings in September and October 2002, including raising approximately 
+
+$87.5 million in an equity offering that provided the company with badly needed operating 
+
+capital to temporarily improve its liquidity position. 
+
+       5.   However, just two months later, in December 2002, Northwestern disclosed that 
+
+Expanets would take more than $50 million of charges for uncollectible accounts receivable and 
+
+adjustments to customer bills. 
+
+       6.   In April 2003, Northwestern restated its Forms 10-Q for the first three quarters of 
+
+2002 and erased Expanets' previously reported income for those periods.  The company also 
+
+disclosed significant ongoing problems with the EXPERT system, and the impact of unusual 
+
+non-compete payments on Expanets' 2002 financial results. 
+
+       7.   Also in April 2003, Northwestern  filed its 2002 Form 10-K, in which it wrote off 
+
+substantially all of its past investment of hundreds of millions of dollars in Expanets. In that 
+
+filing, Northwestern announced that, despite past assurances, Expanets would not generate 
+
+future cash flow in sufficient amounts to help service Northwestern's  elevated debt. 
+
+       8.   Over the next five months, NorthWestern's liquidity situation continued to 
+
+deteriorate until the company declared bankruptcy in September 2003. 
+---------------------Page 3---------------------
+
+                           11.     JURISDICTION  AND VENUE 
+
+       9.   The Commission brings this action pursuant to the authority conferred upon it by 
+
+Section 20(b) of the Securities Act of 1933 ("Securities Act") [15 U.S.C. 5 77t(b)] and Sections 
+
+2l(d)  and (e) of the Securities Exchange Act of 1934 ("Exchange Act") [15 U.S.C. $$78u(d) 
+
+and (e)] for an order permanently restraining and enjoining Defendant and granting other 
+
+equitable relief. 
+
+       10.  This Court has jurisdiction over this action pursuant to Section 22(a) of the 
+
+Securities Act [15 U.S.C. 5 77v(a)] and Sections 21(e) and 27 of the Exchange Act [15 U.S.C. $5 
+
+78u(e) and 78aal. 
+
+       11.  Venue lies in this Court pursuant to Section 22(a) of the Securities Act and Section 
+
+27 of the Exchange Act [15 U.S.C.  $5 77v(a) and 78aal. 
+
+       12.  In connection with the transactions, acts, practices, and courses of business 
+
+described in this Complaint, Fresia directly or indirectly, made use of the means or 
+
+instrumentalities of interstate commerce, of the mails, of the facilities of a national securities 
+
+exchange, and/or of the means and instruments of transportation or communication in interstate 
+
+commerce. 
+
+       13.  Certain of the transactions, acts, practices and courses of business constituting the 
+
+violations of law alleged herein occurred within this judicial district. Moreover, Fresia resides in 
+
+this judicial district. 
+
+                                    111.    DEFENDANT 
+
+       14.  Richard  E. Fresia, age 52, is a resident of Evergreen, Colorado. Fresia served as 
+
+Expanets' CFO from April 2002 through May 2003.  Fresia was licensed as a certified public 
+
+accountant in Colorado in 1985, but his license is now inactive.  Fresia is currently an officer of a 
+
+public company. 
+---------------------Page 4---------------------
+
+                               IV.    RELATED PARTIES  
+
+       15.    Northwestern,   a Delaware corporation with its principal executive offices in 
+
+Sioux Falls, South Dakota, operates a regulated utility business in South Dakota, Nebraska and 
+
+Montana.  During the period described herein, Northwestern  controlled and consolidated the 
+
+financial results of Expanets. Northwestern's  common stock was registered with the 
+
+Commission under Section 12(b) of the Exchange Act and was required to file periodic reports 
+
+with the SEC on Forms 10-K and 10-Q. Northwestern  stock traded on the New York Stock 
+
+Exchange until it was delisted shortly before Northwestern  declared bankruptcy in September 
+
+2003.  In November 2004, Northwestern  emerged from bankruptcy.  Its common stock is now 
+
+registered with the Commission pursuant to Section 12(b) of the Exchange Act and trades on the 
+
+NASDAQ Global Select Market. 
+
+       16. Expanets,  a Delaware corporation formerly headquartered in Englewood, Colorado, 
+
+provided networked telecommunications equipment and services to medium-sized businesses 
+
+nationwide.  Expanets was comprised of approximately 26 small telecommunications equipment 
+
+resellers and a former sales division of Lucent Technologies. Northwestern  wrote off 
+
+substantially all of its investment in Expanets in its 2002 Form 10-K and announced its intent to 
+
+sell Expanets in April 2003.  In the second quarter of 2003, Expanets' operations were 
+
+discontinued, and in May 2004, Expanets filed for bankruptcy.  Proceeds from the sale of 
+
+Expanets' assets were distributed in bankruptcy. 
+
+        V.  SUMMARY OF VIOLATIONS AND MATERIALLY FALSE STATEMENTS 
+
+       17.  Fresia violated Section 17(a) of the Securities Act [15 U.S.C. 5 77q(a)] and Sections 
+
+10(b) and 13(b)(5) of the Exchange Act [15 U.S.C. $5 78j(b) and 78m(b)(5)] and Rules lob-5 
+
+and 13b2-1 thereunder [17 C.F.R. $9 240.10b-5 and 240.13b2-11, and aided and abetted 
+
+Northwestern's  violations of Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act 
+---------------------Page 5---------------------
+
+[15 U.S.C. $5 78m(a), 78m(b)(2)(A) and 78m(b)(2)(B)] and Rules 12b-20, 13a-11 and 13a-13 
+
+thereunder [17 C.F.R. $5 240.12b-20,240.13a-11  and 240.13a-131, and unless restrained and 
+
+enjoined will violate or aid and abet violations of such provisions. 
+
+       18.  Fresia's violations as alleged below occurred in connection with the following 
+
+Commission filings: Northwestern's  Form 10-Q for the period ended June 30,2002,  filed on 
+
+August 14,2002 ("NorthWestern7s Form 10-Q for the second quarter of 2002"), and 
+
+Northwestern's  Amended Form 10-Q for the period ended June 30,2002, filed on September 
+
+20,2002;  Northwestern's  Form 10-Q for the period ended September 30,2002,  filed on 
+
+November 14,2002 ("NorthWestern7s Form 10-Q for the third quarter of 2002"); 
+
+Northwestern's  Forms 8-K with attached press releases filed on August 8,2002,  September 20, 
+
+2002, and November 7,2002; Northwestern's  Form S-4lAmendment #2 filed August 16,2002; 
+
+Form     S-4lAmendment #3 filed September 9,2002;  and Northwestern's  equity offering 
+
+prospectus supplements filed with the Commission on September 30,2002 and October 3,2002. 
+
+       19.  Fresia caused the misstatement of Northwestern's  financial statements filed with its 
+
+Forms 10-Q for the second and third quarters of 2002.  Fresia also reviewed and assisted in the 
+
+preparation of Northwestern's  false and misleading disclosures pertaining to Expanets in the 
+
+company's Forms 10-Q for second and third quarters of 2002. 
+
+       20.  Fresia knew or was reckless in not knowing that Northwestern's  misstated financial 
+
+results for the second and third quarters were also disseminated to the public in Northwestern's 
+
+corresponding press releases attached to Northwestern's  Forms 8-K filed on August 8,2002, 
+
+September 20,2002,  and November 7,2002. 
+---------------------Page 6---------------------
+
+       21.  Fresia knew or was reckless in not knowing that Northwestern's  misstated financial 
+
+results and false and misleading disclosures pertaining to Expanets were repeated in 
+
+Northwestern's  amended second quarter Form 10-Q filed on September 20,2002. 
+
+       22.  Fresia also knew or was reckless in not knowing that Northwestern's  false financial 
+
+statements and false and misleading disclosures pertaining to Expanets in the company's Form 
+
+10-Q for the second quarter of 2002 was incorporated by reference into Northwestern's 
+
+amended Forms S-4 filed with the Commission on August 16,2002 and September 9,2002,  as 
+
+well as the equity offering prospectus supplements that Northwestern  filed with the Commission 
+
+on September 30,2002  and October 3,2002. 
+
+                                       VI.    FACTS 
+
+A.     Background   --Northwestern's  Expansion And Expanets' Poor Performance Prior 
+       to 2002 
+
+       23.  For more than seventy years, Northwestern  operated a public utility business, 
+
+providing electricity and natural gas to customers in South Dakota and Nebraska. 
+
+       24.  In approximately 1998, Northwestern  formed a non-utility entity, Expanets, to 
+
+diversify into the potentially high-growth sector of telecommunications. Northwestern intended 
+
+for Expanets to acquire telecommunications companies and then make the combined businesses 
+
+more profitable. 
+
+       25.  Northwestern  expected that following an initial growth phase, Expanets would 
+
+provide substantial additional earnings and cash flow to Northwestern  through dividends on 
+
+Northwestern's  preferred stock holdings in Expanets.  However, despite Northwestern's 
+
+investment of hundreds of millions of dollars in Expanets, Expanets incurred large losses in most 
+
+years and posted only small profits in other years.  By December 3 1,2001, Northwestern had 
+---------------------Page 7---------------------
+
+invested $3 14.1 million in Expanets.  Notwithstanding this sizeable investment, Expanets had 
+
+not returned significant cash to Northwestern. 
+
+       26.  Despite the poor performance of Expanets, in February 2002, Northwestern 
+
+quadrupled its customer base for utility operations by acquiring Montana Power Company 
+
+("Montana Power") for  approximately $1.1 billion.  Northwestern  financed a substantial part of 
+
+this acquisition with debt through the company's issuance of $720 million in unregistered notes. 
+
+B.     Fresia Knew That Northwestern's  Planned Equity Offerine Placed Heightened 
+       Pressure on Expanets to Meet Financial Performance Targets During 2002 
+
+       27.  Northwestern's  markedly increased debt used to acquire Montana Power threatened 
+
+the company's historically stable liquidity and top-tier credit ratings.  Therefore, in early 
+
+February 2002, Northwestern  publicly announced its intention to conduct an equity offering, and 
+
+then use the proceeds to pay down a portion of its elevated debt. Northwestern  senior 
+
+executives also repeatedly confirmed the company's public guidance of between $2.30 and $2.55 
+
+earnings per share for 2002. 
+
+       28.  Throughout his employment with Expanets, Fresia knew that the historical poor 
+
+performance of Expanets and Northwestern's  expansion of its utility operations together placed 
+
+enormous pressure on Expanets' 2002 financial performance.  Throughout his employment with 
+
+Expanets, Fresia also knew that Northwestern's  equity offering planned for later in 2002 was 
+
+critical to Northwestern's  consolidated liquidity situation. 
+
+       29.  Throughout his employment with Expanets, Fresia knew that Northwestern's  ability 
+
+to meet its public earnings per share guidance for 2002 was dependent in part upon achieving 
+
+markedly increased profitability at Expanets. Notwithstanding Expanets' 2001 earnings before 
+
+interest, taxes, depreciation and amortization ("EBITDA") loss of approximately $48 million, 
+---------------------Page 8---------------------
+
+Northwestern publicly projected that Expanets' 2002 EBITDA would be between $80 and $87 
+
+million. 
+
+C.     Fresia's Role in the Preparation of Expanets' Financial Statements And 
+       Northwestern's Public Disclosures 
+
+       30.  Fresia began his employment as CFO of Expanets on or about April 15,2002. 
+
+Throughout his tenure as CFO of Expanets, Fresia was responsible for the preparation of 
+
+Expanets' financial statements and for overseeing Expanets' accounting and finance 
+
+organization. 
+
+       3 1.  Although Expanets did not file reports with the Commission, Expanets maintained 
+
+its own books and records, and prepared its own separate financial statements. Throughout his 
+
+employment with Expanets, Fresia knew or was reckless in not knowing that Expanets' financial 
+
+results were reported as a segment and consolidated into Northwestern's  financial statements 
+
+which were filed with the Commission and otherwise disseminated to the public. 
+
+       32.  Fresia communicated frequently with Northwestern  senior management and other 
+
+accounting and finance personnel regarding, among other things, Expanets' operations and 
+
+financial results.  For example, Fresia reviewed and approved Expanets' detailed monthly 
+
+operations reports to Northwestern and attended corresponding monthly operations review 
+
+meetings with Northwestern senior management. 
+
+       33.  Fresia actively participated in the preparation of Northwestern's  Forms 10-Q for the 
+
+second and third quarters of 2002.  Fresia knew or was reckless in not knowing that 
+
+Northwestern's  financial statements in those filings, as well as Northwestern's  disclosures 
+
+pertaining to Expanets, would be disseminated to the public. 
+
+       34.  Following passage of the Sarbanes-Oxley Act ("SOX)  and before Northwestern's 
+
+filing of its Form 10-Q for the second quarter of 2002, Northwestern instituted internal SOX 
+---------------------Page 9---------------------
+
+disclosure procedures designed to support the certification of Northwestern's  Commission 
+
+filings by Northwestern's  CEO and CFO pursuant to Section 906 of SOX and Commission 
+
+Order 4-460. 
+
+       35.  Northwestern's  SOX disclosure process primarily consisted of due diligence 
+
+sessions in which Fresia, along with various other individuals affiliated with Northwestern and 
+
+its subsidiaries, drafted, reviewed, and internally confirmed, among other things, the accuracy of 
+
+the financial statements and disclosures included within Northwestern's  Forms 10-Q for the 
+
+second and third quarters.  By virtue of his participation in Northwestern's  SOX process alone, 
+
+Fresia knew or was reckless in not knowing that false or misleading financial statements or 
+
+disclosures in the company's Forms 10-Q would be filed with the Commission and otherwise 
+
+disseminated to the public. 
+
+       36.  Fresia substantially participated in the preparation of Northwestern's  2002 second 
+
+quarter Form 10-Q because he supervised the preparation of Expanets' financial statements, 
+
+reviewed the Form 10-Q, participated in at least one due diligence session with other individuals, 
+
+and confirmed that Expanets' financial statements were consistent with generally accepted 
+
+accounting principles ("GAAP")  and that Northwestern's  Form 10-Q did not contain any 
+
+material misstatements or omissions, and was accurate and complete. 
+
+       37.  Prior to the filing of Northwestern's  2002 third quarter Form 10-Q, the company 
+
+enhanced its SOX disclosure procedures by creating more formalized committees to draft, 
+
+review and internally attest to, among other things, that the disclosures of that filing were 
+
+accurate and complete.  Specifically, Northwestern  formed a disclosure committee at the parent 
+
+level and also various disclosure subcommittees at the subsidiary levels.  Fresia was a member of 
+
+Expanets' disclosure subcommittee. 
+---------------------Page 10---------------------
+
+       38.  Fresia substantially participated in the preparation of NorthWestern7s 2002 third 
+
+quarter Form 10-Q because he supervised the preparation of Expanets' financial statements and, 
+
+as a member of Expanets' disclosure subcommittee, he reviewed Northwestern's  Form 10-Q, 
+
+participated in due diligence sessions with other individuals, confirmed that Expanets' financial 
+
+statements were consistent with GAAP  and that Northwestern's  Form 10-Q did not contain any 
+
+material misstatements or omissions, and signed an internal certification attesting that, among 
+
+other things, the disclosures of that filing relating to Expanets were accurate and complete. 
+
+       39.  Because of his role during Northwestern's  internal SOX disclosure procedures for 
+
+the second and third quarters of 2002, Fresia was obligated to ensure the accuracy and 
+
+completeness of the financial statements and disclosures within those filings as they related to 
+
+Expanets.  Furthermore, as CFO of Expanets during the second and third quarters of 2002, Fresia 
+
+was similarly obligated to ensure that Expanets' financial statements conformed with GAAP 
+
+D.     Throughout His Employment With Expanets, Fresia Knew Of The Ongoing, 
+       Problems With Expanets' Computer System 
+
+       40.  During 2000 and 2001, Expanets developed a new computer system called 
+
+"EXPERT" to serve as a platform for virtually all of its operations, including sales, inventory, 
+
+project management, billing, collections and financial statement preparation. Because of 
+
+EXPERT'S planned scope and impact across operations, the functionality of the system was 
+
+critical to Expanets' operations and financial results. 
+
+       4 1.  Following the implementation of EXPERT in November 200 1, the system was 
+
+unable to perform many of the basic tasks for which it had been designed. In particular, the 
+
+EXPERT system experienced severe problems in generating timely and accurate customer bills 
+
+and tracking customer payments. 
+---------------------Page 11---------------------
+
+       42.  For example, for approximately one month following implementation, EXPERT 
+
+could not generate any customer bills.  Even after EXPERT could generate customer bills, until 
+
+approximately May 2002, the bills did not contain beginning or ending balances notifying 
+
+customers of payment history or amounts past due. 
+
+       43.  From its implementation until the third quarter of 2002, EXPERT also could not 
+
+perform basic accounting functions.  For example, EXPERT could not accurately track the aging 
+
+of accounts receivable or accurately apply customer payments to particular invoices. 
+
+       44.  Almost immediately after he began his employment with Expanets, through various 
+
+communications, including emails, written reports, analyses, and/or verbal discussions, Fresia 
+
+became aware of the ongoing problems with the EXPERT system. 
+
+       45.  Throughout the remainder of 2002, Fresia was constantly kept apprised of ongoing 
+
+functionality problems with the EXPERT system. Among other things, EXPERT functionality 
+
+problems were a standing agenda item for every monthly operations review meeting between 
+
+Expanets and Northwestern throughout 2002. 
+
+       46.  Fresia also received more detailed periodic reports regarding EXPERT functionality 
+
+problems and proposed repairs.  For example, in June 2002, Fresia received an extensive briefing 
+
+from Expanets' chief information officer ("CIO") as to ongoing EXPERT problems, particularly 
+
+relating to billing and collections. Among other things, Expanets' CIO explained that EXPERT 
+
+problems and planned fixes would persist at least through the end of 2002. 
+
+       47.  Emails and other internal documents authored by Fresia demonstrate that he was 
+
+well aware of EXPERT functionality problems and their impact on operations, particularly 
+
+Expanets' customer billing and collections. For example, in a July 3,2002  email to 
+
+Northwestern personnel, Fresia stated "I know the cash flow pressures that you guys are facing 
+---------------------Page 12---------------------
+
+and I want this fix as badly as anyone.  Collecting from these pre-fix bills is a disaster.  This 
+
+billing system (and other modules as well) our [sic] VERY hosed." 
+
+       48.  Similarly, in an August 27, 2002 email, Fresia wrote "It's an unfortunate situation, 
+
+but the EXPERT system is an absolute [expletive] disaster." 
+
+       49.  As alleged below, the inability of the EXPERT system to generate accurate or timely 
+
+customer bills caused a spike in both Expanets' uncollectible receivables and adjustments to 
+
+customer bills. 
+
+E.     Fresia Was Responsible For Expanets' Material Understatement Of Its Bad Debt 
+       Reserve and Northwestern's  Related False and Misleading Disclosures 
+
+       50.  In anticipation that some customer accounts might prove uncollectible, Expanets 
+
+maintained a "bad debt" reserve, which had the effect of reducing Expanets' operating income. 
+
+       5 1.  Under GAAP, if Expanets' additional losses from uncollectible accounts receivable 
+
+were probable and could be reasonably estimated, Expanets should have increased its bad debt 
+
+reserve even if the particular receivables that were uncollectible were not identifiable. 
+
+Furthermore, under GAAP, Northwestern was required to disclose contingent losses relating to 
+
+Expanets' uncollectible receivables, even if the amount of the probable losses was not reasonably 
+
+estimable, as long as the loss was considered at least reasonably possible. 
+
+       52.  With respect to the second and third quarters of 2002, Fresia failed to ensure that the 
+
+published financial statements of Northwestern  conformed with GAAP applicable to Expanets' 
+
+uncollectible receivables. 
+
+       53.  Prior to the filing of Northwestern's  Form 10-Q for the second quarter of 2002, 
+
+Fresia knew or was reckless in not knowing that millions of dollars of Expanets receivables pre- 
+
+dated the implementation of the EXPERT system in November 200 1, and therefore likely were 
+
+uncollectible because they had aged more than 180 days. 
+---------------------Page 13---------------------
+
+       54.  Fresia knew and acknowledged that Expanets had millions of dollars of 
+
+uncollectible receivables pre-dating EXPERT implementation through various communications, 
+
+including emails, written reports, analyses and/or verbal discussions. 
+
+       55.  For example, on May 30,2002, Fresia drafted a memorandum in which he stated 
+
+that 47% of Expanets' receivables were more than 90 days old.  Similarly, in an August 2002 
+
+email, Fresia again admitted to Expanets personnel that Expanets had nearly a quarter of a billion 
+
+dollars within its receivables account, some of which dated back to Thanksgiving of 2001. 
+
+       56.  With respect to the second quarter of 2002, Fresia also knew or was reckless in not 
+
+knowing that millions of dollars of Expanets receivables generated after the implementation of 
+
+the EXPERT system likely were uncollectible because of EXPERT'S delayed and inaccurate 
+
+customer billing, and other fbnctionality problems. 
+
+       57.  Fresia was repeatedly informed that Expanets was unable to collect millions of 
+
+dollars of receivables generated after EXPERT implementation through various communications, 
+
+including emails, written reports, analyses and/or verbal discussions. 
+
+       58.  For example, in a June 17,2002 email to other Expanets personnel, Fresia provided 
+
+a progress report on Expanets' collections for June in which he acknowledged that "to say that 
+
+month to date results are not good would be an understatement." 
+
+       59.  Similarly, in an August 9, 2002 email entitled "Collections" sent to Fresia just days 
+
+before Northwestern filed its Form 10-Q for the second quarter, an Expanets employee within 
+
+the company's collections group wrote: 
+
+       Based on my learning's [sic] over the past two months, the greater majority of our 
+       collections problems and poor receivable performance is directly related to the 
+       Expert system and our lack of knowledge company wide [sic] on how we should 
+       be using it.  Notice Expanets receivables prior to November of last year were in 
+       line with most providers [sic] aging within our space. Now, our receivable is 
+       completely out of control. We have dedicated over 400 people from care & 
+---------------------Page 14---------------------
+
+       collections over a 3 month period to address the problem and we are seeing little 
+       upturn in cash. 
+                                           * * * * * 
+       We are all aware we currently have a significant issue with the Maintenance 
+       billing, however our Expert problems go much deeper from a receivable  & cash 
+       collection perspective. We currently do not have the appropriate tools within 
+       Expert & Precise to then manage the collections process & customer related 
+       issues through to resolution. The overall expert system is currently lacking 
+       quality reports, data integrity, workflow tools, system performance, end user 
+       interface, system stability, & training of these systems to appropriately service our 
+       customer base.  We are hamstrung in our ability to use the system to help up [sic] 
+       perform our jobs effectively. 
+
+       60.  Based upon his receipt of information regarding the status of Expanets' receivables 
+
+that both pre-dated and post-dated the implementation of EXPERT, Fresia knew or was reckless 
+
+in not knowing that Expanets' bad debt reserve policy was inadequate and that Expanets should 
+
+have increased its bad debt reserve prior to Northwestern's  filing of its 2002 Form 10-Q for the 
+
+second quarter. 
+
+       61.  For example, prior to the implementation of EXPERT, Expanets' bad debt reserve 
+
+policy was to reserve 25% of receivables that were more than 90 days old.  However, because 
+
+EXPERT could not generate an accurate aging report through at least the first two quarters of. 
+
+2002, Expanets implemented an interim policy during those periods which required Expanets to 
+
+reserve 0.8% of current monthly sales. This percentage was based on the historical bad debt rate 
+
+in existence prior to implementation of EXPERT. 
+
+       62.  Fresia knew or was reckless in not knowing that Expanets' interim policy was not 
+
+appropriate for calculating Expanets' bad debt reserve for at least two reasons. 
+
+       63.  First, use of the 0.8% rate assumed that Expanets was experiencing the same level of 
+
+collections on its 2002 sales as it had experienced during 2001. However, through various 
+
+communications, including emails, written reports, analyses, andlor verbal discussions, Fresia 
+---------------------Page 15---------------------
+
+knew or was reckless in not knowing that information available to Expanets contradicted this 
+
+assumption. 
+
+       64.  For example, a key performance indicator of Expanets' ability to collect on its 
+
+accounts receivable was the "days sales outstanding" metric ("DSO").  DSO is the measure of 
+
+the average number of days that a company takes to collect revenue after a sale has been made. 
+
+Expanets tracked this metric and included it within its monthly operations reports that were 
+
+shared with Northwestern during Fresia's employment with Expanets as its CFO. As compared 
+
+with 2001 metrics, Expanets' 2002 DSO had essentially doubled during the first six months of 
+
+2002, indicating that it was taking Expanets twice as long to collect on its receivables as it had 
+
+taken the previous year. 
+
+       65.  Second, the interim bad debt reserve policy applied to future bad debt associated 
+
+only with current monthly sales, and it did not apply to the continued deterioration of the aging 
+
+of prior months' receivables, including those receivables that pre-dated Expanets' 
+
+implementation of EXPERT. Accordingly, Fresia knew or should have known that Expanets' 
+
+interim reserve policy was inadequate for this alternative reason. 
+
+       66.  In addition to the inadequacy of Expanets' interim policy during at least the first six 
+
+months of 2002, Fresia knew or should have known that Expanets' bad debt reserve was 
+
+materially understated by the filing of Northwestern's  Form 10-Q for the second quarter based 
+
+on the aging information that was available to Expanets. 
+
+       67.  For example, an Expanets' aging report for the month ended June 2002 showed that 
+
+Expanets had over $80 million in receivables that were more than 90 days old.  However, 
+
+Expanets' bad debt reserve as of the month ended June 2002 was only approximately  $6.4 
+---------------------Page 16---------------------
+
+million, far short of the reserve that would be required if Expanets had reserved 25% of the $80 
+
+million under the old policy. 
+
+       68.  Accordingly, based on Expanets' prior bad debt policy of reserving 25% of such 
+
+outstanding receivables, Fresia knew or was reckless in not knowing that Expanets' current 
+
+reserve levels were materially understated. 
+
+       69.  Based upon his receipt of accounts receivable aging information and his failure to 
+
+properly adjust Expanets' bad debt reserve for badly aged receivables, Fresia knew or was 
+
+reckless in not knowing that the failure to increase Expanets' bad debt reserve in the second 
+
+quarter of 2002 would and did cause a material misstatement of Expanets' and Northwestern's 
+
+reported income for that period. 
+
+       70.  Fresia reviewed and affirmed Northwestern's  disclosures pertaining to Expanets 
+
+during Northwestern's  SOX disclosure process for the second quarter of 2002. Accordingly, in 
+
+the alternative, based on his role in reviewing and approving that Commission filing, Fresia 
+
+knew or was reckless in not knowing that Northwestern's  Form 10-Q for the second quarter of 
+
+2002 was false and misleading in that it failed to disclose the reasonable possibility of any 
+
+contingent losses relating to Expanets' uncollectible receivables. 
+
+       71.  Fresia knew or was reckless in not knowing that Northwestern's  amended second 
+
+quarter Form 10-Q filed on September 20,2002, Northwestern's  Form S-4lAmendment #2 filed 
+
+August 16,2002; Form S-4lAmendment #3 filed September 9,2002;  and Northwestern's  equity 
+
+offering prospectus supplements filed with the Commission on September 30,2002 and October 
+
+3,2002 were false and misleading in that they included the materially misstated financial 
+
+statements of Expanets regarding its understated bad debt reserve or, in the alternative, failed to 
+---------------------Page 17---------------------
+
+disclose the reasonable possibility of any contingent losses relating to Expanets' uncollectible 
+
+receivables. 
+
+       72.  Prior to the filing of Northwestern's  Form 10-Q for the third quarter of 2002, 
+
+through various communications, including emails, written reports, analyses, andlor verbal 
+
+discussions, Fresia also knew or was reckless in not knowing that millions of dollars of Expanets 
+
+receivables from before and after EXPERT implementation had aged further and likely remained 
+
+uncollectible. 
+
+       73.  For example, on or about September 19,2002, approximately two weeks before 
+
+Northwestern's  equity offering, Fresia met with Northwestern personnel to discuss the status of 
+
+Expanets' accounts receivable.  At that meeting, Fresia provided Northwestern personnel with a 
+
+written report which indicated that $52 million of Expanets' receivables were over 180 days old, 
+
+including $21 million of receivables that were over 300 days old. 
+
+       74.  Because these severely aged receivables were not likely to be collected, standard 
+
+collection parameters, as indicated within the report, suggested either writing off Expanets' 
+
+receivables or increasing its bad debt reserve by approximately $46 million.  Because many of 
+
+Expanets'  aged receivables resulted from billing lapses and delays, Fresia informed 
+
+Northwestern  personnel that Expanets believed its bad debt reserve was understated by a lesser 
+
+amount, approximately $32 million.  Accordingly, the analysis within the report ultimately 
+
+quantified a bad debt write-off of approximately $32 million.  However, following this meeting, 
+
+Fresia did not increase Expanets' bad debt reserve by any amount. 
+
+       75.  In other internal communications authored by Fresia prior to Northwestern's  filing 
+
+of its Form 10-Q for the third quarter, Fresia repeatedly acknowledged his belief that losses 
+---------------------Page 18---------------------
+
+stemming from the need to increase Expanets' bad debt reserve were both probable and 
+
+reasonably estimable. 
+
+       76.  For example, in an October 6,2002 email to other Expanets personnel regarding a 
+
+working capital analysis, Fresia stated that he "believe[s] that a $30M writedown of the really 
+
+old stuff is inevitable." 
+
+       77.  Similarly, in an October 8, 2002 email to other Expanets personnel, Fresia wrote the 
+
+following about the status of Expanets' level of days sales outstanding ("DSO"): 
+
+       DSO -we  are preparing a normalized view of the DSO after a $30M write-down for 
+       really old A/R accounts. Our more detailed aging has resulted in our having a much 
+       better handle on what is and is not realizable. A typical D&B [Dunn & Bradstreet] 
+       assessment would say $46M is at risk.  Due to our situation, I'm subjectively saying that 
+       only 213 of that number is at risk ($46M * 213 = $30M). If the $30M is subtracted from 
+       the A/R balances for each Q in 2003 the DSO is substantially lower (like two weeks 
+       lower).  This makes improvement more difficult than what one might otherwise think.  In 
+       my opinion, DT [Deloitte  & Touche  LLP]  will not accept our $7M bad debt reserve as 
+       adequate for the age of the AIR that we currently have.  Therefore, I believe that the 
+       $30M adjustment will need to be a 4th~ charge. 
+
+       78.  On or about October 22,2002,  Fresia met with Northwestern personnel and 
+
+informed them that Expanets' accounts receivable balance had shown virtually no improvement 
+
+since his September 19 report and presentation.  During this meeting, Fresia made a new 
+
+presentation to Northwestern personnel regarding Expanets' accounts receivables, the unlikely 
+
+event of collecting them all, and the need to increase Expanets' bad debt reserve by 
+
+approximately $30 million to account for this loss.  However, following this meeting, Fresia did 
+
+not increase Expanets' bad debt reserve by any amount. 
+
+       79.  Based upon his receipt of accounts receivable aging information and his failure to 
+
+adjust the bad debt reserve for badly aged receivables, Fresia knew or was reckless in not 
+
+knowing that the failure to increase Expanets' bad debt reserve in the third quarter of 2002 would 
+---------------------Page 19---------------------
+
+and did cause a material misstatement of Expanets' and Northwestern's  reported income for that 
+
+period. 
+
+       80.  As a member of Expanets' disclosure subcommittee for purposes of Northwestern's 
+
+internal SOX disclosure process for the third quarter of 2002, Fresia reviewed and assisted 
+
+Northwestern  personnel in drafting the company's Form 10-Q as it pertained to Expanets.  As 
+
+part of that process, Fresia affirmed the accuracy of the following disclosure in Northwestern' 
+
+Form 10-Q filed with the Commission: 
+
+       In the integration of customers and the migration to Expert, Expanets experienced 
+       billing lapses and data conversion issues that may cause a need to increase the 
+       current reserve for bad debt, which could negatively impact financial performance 
+       in future quarters. 
+
+       8 1.  Fresia knew or was reckless in not knowing that this disclosure was false and 
+
+misleading because, by that time, Expanets' bad debt reserve was, in fact, already materially 
+
+understated. 
+
+       82.  In April 2003, Northwestern  filed its 2002 Form 10-K which included fourth 
+
+quarter 2002 charges of approximately $20 million relating to Expanets' uncollectible accounts 
+
+receivable, and simultaneously restated its financial results for the second and third quarters of 
+
+2002, increasing Expanets' bad debt reserve for each of these periods by approximately $5.1 
+
+million and $6.3 million, respectively. 
+
+        83.  As a result of Fresia's improper accounting for Expanets' uncollectible accounts 
+
+receivable, Northwestern  overstated its income from continuing operations by approximately 
+
+19% and 39% for the second and third quarters of 2002, respectively, as reported in its Forms 
+
+ 10-Q and corresponding earnings releases attached to Forms 8-K.  Moreover, in its segment 
+
+reporting for Expanets, Northwestern  overstated Expanets' operating income by approximately 
+
+86% and 270%' respectively, for the second and third quarters of 2002. 
+---------------------Page 20---------------------
+
+F.     Fresia Was Responsible For Expanets' Material Understatement        Of Its Reserve For 
+       Adiustments to Customer Bills For the Second and Third Quarters of       2002 
+
+       84.  As a result of the inaccurate customer bills generated by the EXPERT system, 
+
+Expanets issued partial credits to affected customers. Expanets recorded these credits as "billing 
+
+adjustments," which reduced both its revenue and income in the current period.  Since Expanets 
+
+credited customer accounts in periods after it initially recognized revenue from a transaction, 
+
+Expanets maintained a "billing adjustment reserve" for anticipated credits to customer accounts. 
+
+       85.  Under GAAP, if Expanets' additional losses from billing adjustments were probable 
+
+and could be reasonably estimated, Expanets should have increased its billing adjustment 
+
+reserve.  With respect to the second and third quarters of 2002, Fresia failed to ensure that the 
+
+published financial statements of Northwestern  conformed with GAAP applicable to Expanets' 
+
+billing adjustments. 
+
+       86.  In the second quarter of 2002, Expanets personnel repeatedly informed Fresia that 
+
+due to the serious ongoing problems with EXPERT'S billing function, year-to-date actual billing 
+
+adjustments, as well as billing adjustments forecasted through the remainder of 2002, were 
+
+continuing to far outpace the higher levels anticipated for 2002. 
+
+       87.  For example, on August 14,2002, the same day Northwestern  filed its Form 10-Q 
+
+for the second quarter of 2002, Fresia received a report from Expanets personnel indicating that 
+
+Expanets' billing adjustments for July 2002 alone were approximately $9.6 million, which was 
+
+an increase from June's billing adjustments of approximately $6.3 million.  That report also 
+
+estimated that Expanets' billing adjustments for the third and fourth quarters of 2002 would be 
+
+approximately $28.7 million and $18 million, respectively. 
+
+       88.  Furthermore, emails and other internal documents authored by Fresia demonstrate 
+
+that he knew or was reckless in not knowing of the magnitude of Expanets' actual year-to-date 
+---------------------Page 21---------------------
+
+billing adjustments, forecasted billing adjustments during the remainder of 2002, and their 
+
+negative impact on Expanets' financial results. 
+
+       89.  For example, during a July 2002 meeting, Fresia warned Northwestern  senior 
+
+executives that Expanets' billing adjustment reserve might be understated by as much as $30 
+
+million for 2002. 
+
+       90.  Despite Fresia's knowledge and internal correspondence reflecting his belief that 
+
+Expanets' billing adjustment reserve was already likely understated, with Fresia's knowledge 
+
+and approval, for the second quarter of 2002, Expanets reduced its billing adjustment reserve by 
+
+$2.3 million for the purpose of enhancing Expanets' reported income. 
+
+       91.  At the time of the second quarter reduction of Expanets' billing adjustment reserve, 
+
+Expanets' assistant controller told Fresia that she was uncomfortable with the decision to reduce 
+
+the reserve because, among other things, Expanets' billing adjustments were trending upwards. 
+
+       92.  Fresia therefore knew or was reckless in not knowing that the reduction of Expanets' 
+
+billing adjustment reserve in the second quarter of 2002 would and did cause a material 
+
+misstatement of Expanets' and Northwestern's  reported income for that period. 
+
+       93.  In the third quarter of 2002, Expanets personnel repeatedly informed Fresia that due 
+
+to the serious ongoing problems with EXPERT'S billing function, Expanets' existing billing 
+
+adjustment reserve would not be sufficient to absorb year-to-date actual billing adjustments, and 
+
+billing adjustments forecasted through the remainder of 2002. As a result, Expanets personnel 
+
+told Fresia that "extraordinary billing adjustments," that is, billing adjustments in excess of 
+
+existing or planned reserves, would negatively impact Expanets' reported revenue and income. 
+
+       94.  For example, in an August 2002 report to Northwestern that Fresia reviewed and 
+
+approved, Expanets estimated that it would experience $14 million in "extraordinary billing 
+---------------------Page 22---------------------
+
+adjustments" for the remainder of the year.  These projected extraordinary billing adjustments 
+
+were material since they decreased Expanets' projected 2002 EBITDA at that time from 
+
+approximately $94 million down to approximately $80 million. 
+
+       95.  Similarly, in reports distributed in September and October to Northwestern  that 
+
+Fresia reviewed and approved, Expanets estimated that it would experience $14.2 million and 
+
+$15.5 million, respectively, in extraordinary billing adjustments for the period June through 
+
+December 2002.  Again, these extraordinary billing adjustments were material to Expanets' 
+
+projected 2002 EBITDA which, by October 2002, had decreased to approximately      $71.2 million. 
+
+       96.  Fresia's internal correspondence prior to the filing of Northwestern's  Form 10-Q for 
+
+the third quarter reflected his belief that Expanets' billing adjustment reserve was already likely 
+
+understated.  For example, in an October 13,2002 email in which Fresia discussed his current 
+
+projections for Expanets' 2002 operating results, Fresia wrote: "I've assumed another $2M in 
+
+BAS [billing adjustments].  We came in at $6M overall in September. That's an extraordinary 
+
+$3.4M  - $300K more than we'd anticipated.  I think that the $2.5M (extra) that we have 
+
+forecasted for the 4thQ is light." 
+
+       97.  Despite Fresia's knowledge and internal correspondence reflecting his belief that 
+
+Expanets' billing adjustment reserve was already likely understated, with Fresia's knowledge 
+
+and approval, for the third quarter of 2002, Expanets reduced its billing adjustment reserve by an 
+
+additional $4.0 million for the purpose of enhancing Expanets' reported income. 
+
+       98.  At the time of the third quarter reduction of Expanets' billing adjustment reserve, 
+
+Expanets' assistant controller again told Fresia that she was uncomfortable with the decision to 
+
+reduce the reserve because, among other things, the reserve did not appear sufficient to absorb 
+
+forecasted billing adjustments during the remainder of 2002. 
+---------------------Page 23---------------------
+
+       99.  Fresia therefore knew or was reckless in not knowing that Expanets' reduction of its 
+
+billing adjustment reserve and Expanets' failure to increase the billing adjustment reserve to 
+
+account for forecasted billing adjustments during the remainder of 2002 in the third quarter of 
+
+2002 would and did cause a material misstatement of Expanets' and Northwestern's  reported 
+
+income for that period. 
+
+       100. In April 2003, Northwestern restated its financial results for the first three quarters 
+
+of 2002, increasing the billing adjustment reserve by $33 million.  For the second and third 
+
+quarters of 2002, Northwestern's  restated financial results corrected the understatement of 
+
+Expanets' billing adjustment reserve by reducing reported quarterly revenue by approximately 
+
+$10.1 million and $5.4 million, respectively. 
+
+       101.As a result of Expanets' improper accounting for billing adjustments, Northwestern 
+
+overstated its income from continuing operations by approximately 46% and 3 1% for the second 
+
+and third quarters of 2002, respectively, as reported in its Forms 10-Q and corresponding 
+
+earnings releases attached to Forms 8-K. In its segment reporting for Expanets, Northwestern 
+
+overstated Expanets' operating income by approximately 1094% and 164%' respectively, for the 
+
+second and third quarters of 2002 based on this improper accounting. 
+
+G.     In the Alternative, Fresia Was Responsible For Northwestern's  Failure to Disclose 
+       Expanets' Continpent Losses Regarding Billing Adjustments in the Company's 
+       Form 10-0  for the Third Quarter of 2002 
+
+       102. Under GAAP, even if the amount of the probable losses was not reasonably 
+
+estimable, Northwestern was required to disclose contingent losses relating to Expanets' billing 
+
+adjustments, as long as the loss was considered at least reasonably possible. 
+
+       103. Therefore, in the alternative, Fresia was responsible for Northwestern's  failure to 
+
+disclose the reasonable possibility of contingent losses relating to Expanets' billing adjustments. 
+---------------------Page 24---------------------
+
+       104. Fresia knew or was reckless in not knowing that Expanets faced at least the 
+
+reasonable possibility of material contingent losses relating to its billing adjustments by at least 
+
+August of 2002.  For example, just hours before Northwestern filed its 2002 second quarter 
+
+Form 10-Q with the Commission, Fresia proposed that Northwestern make the following 
+
+disclosure regarding Expanets' billing adjustments: 
+
+       While the EXPERT system implementation and migration of historical data from Avaya 
+       was successful overall, we experienced some conversion anomalies with regard to 
+       maintenance billing.  The rate modifications are currently being addressed via an 
+       electronic automated solution throughout the third quarter.  An increase in billing 
+       adjustments related to this process is expected during this period.  Beginning in the fourth 
+       quarter of 2001, the company increased the rate of billing adjustment reserves.  It is 
+       anticipated that these additional reserves will be consumed in the third quarter through 
+       the correction of these maintenance anomolies [sic]. 
+                      f 
+       105.Northwestern personnel declined to include this proposed language in the 
+
+company's 2002 second quarter Form 10-Q, at least in part, on the grounds that Fresia's 
+
+proposed disclosure was submitted too late for inclusion. Therefore, Northwestern made no 
+
+disclosure as to the reasonable possibility of any contingent losses relating to Expanets' billing 
+
+adjustments in its second quarter Form 10-Q. 
+
+       106. In a September 1,2002 email to Northwestern's  CFO, Fresia explained his 
+
+motivation for his belated recommendation that Northwestern make some disclosure regarding 
+
+Expanets' billing adjustment exposure as follows: 
+
+        We're all working harder than we ever have and we'll get it done, but we need to 
+        consider resetting expectations with the Street. I know that we're somewhat painted 
+        into a corner by the need to issue equity, but other than the (non-recurring) billing 
+        setbacks, Expanets has a great success story in this economy. . . . [W]e don't know each 
+        other well and I'm trying to be straight with you. I tried to create a glide path in the 
+        [Northwestern's second quarter Form]      10Q  with that subtle comment on billing 
+        adjustments.   I wanted to be able to demonstrate (down the road) that we had 
+        made a previous disclosure.   (emphasis added) 
+---------------------Page 25---------------------
+
+       107. As a member of Expanets' disclosure subcommittee for purposes of Northwestern's 
+
+internal SOX disclosure process for the third quarter of 2002, Fresia reviewed and assisted 
+
+Northwestern personnel in drafting the company's Form 10-Q as it pertained to Expanets. As 
+
+part of that process, Fresia and other Expanets disclosure subcommittee personnel noted to 
+
+Northwestern that "[wle continue to experience higher than expected levels of billing 
+
+adjustments into the fourth quarter of 2002, perhaps as much as $4.OM in excess of projections. 
+
+The adjustments experience is attributable to continuing problems with our Expert System." 
+
+However, as to the final draft, Fresia signed an internal certification attesting to the accuracy of 
+
+Northwestern's  third quarter Form 10-Q pertaining to Expanets which did not include any 
+
+disclosures concerning Expanets' billing adjustments. 
+
+       108. In the alternative, even if the amount of the probable losses was not reasonably 
+
+estimable, Northwestern's  Form 10-Q for the third quarter was false and misleading in that it 
+
+failed to disclose the reasonable possibility of any contingent losses relating to Expanets' billing 
+
+adjustments. 
+
+       109. Due to Fresia7s knowledge and his participation in Northwestern's  internal SOX 
+
+disclosure process for the third quarter, he was responsible for Northwestern's  failure to disclose 
+
+in its 2002 third quarter Form 10-Q the reasonable possibility of any contingent losses relating to 
+
+Expanets' billing adjustments. 
+
+H.     Fresia Was Responsible for Northwestern's  Failure to Disclose That a Material 
+       Portion of Expanets' Reported Income During the Second and Third Ouarters 
+       Constituted Non-recurring; Reserve Reductions 
+
+       110. In February 2002, Northwestern publicly announced that, due to softness in the 
+
+telecommunications sector, it expected Expanets' annual revenues to be lower in 2002 compared 
+
+to 2001.  However, Northwestern also told investors that, even with less revenue, Expanets 
+---------------------Page 26---------------------
+
+would be profitable because Expanets had reduced its workforce and expected to realize other 
+
+cost savings as a result of the implementation of the EXPERT system. 
+
+       11 1. Due to an even softer economy than expected and the problems experienced by the 
+
+EXPERT system, Expanets' financial performance each quarter lagged the aggressive 2002 
+
+earnings targets set by Northwestern. 
+
+       112. Therefore, during the second and third quarters of 2002, with Fresia's knowledge 
+
+and approval, Expanets reduced approximately 14 different reserve accounts for the purpose of 
+
+materially improving Expanets' earnings. 
+
+       113. Fresia knew or was reckless in not knowing that Northwestern's  Forms 10-Q and 
+
+other public statements regarding the second and third quarters were false and misleading 
+
+because the company failed to disclose that Expanets' non-recuning reserve reductions 
+
+constituted a material portion of Expanets' and Northwestern's  reported income. 
+
+       114. In May 2002, just weeks after beginning his employment with Expanets, Fresia 
+
+asked his accounting staff to prepare a schedule showing the status of Expanets' reserve 
+
+accounts.  In response, the Expanets accounting staff identified more than $40 million that, 
+
+depending upon the outcome of contingencies, could possibly be reversed out of the reserve 
+
+accounts, thereby improving Expanets' and Northwestern's  reported income. 
+
+       1 15. Thereafter, Fresia and Northwestern's  senior management repeatedly discussed 
+
+during the second quarter of 2002 how Expanets could meet or exceed its earnings targets in 
+
+large part through the use of reductions in reserve accounts. 
+
+       116.For example, in a May   8, 2002 email to Expanets personnel, Fresia wrote: "I'm 
+
+particularly interested in your thoughts on Q2 (i.e. the organic miss of $4M vs the $19.5M 
+---------------------Page 27---------------------
+
+forecast) -do you really think that we'll need to unwind that much from the B.S. [Balance 
+
+Sheet]?" 
+
+       117. Similarly, in a May 16,2002 email to Expanets personnel in which Fresia discussed 
+
+various ways in which Expanets could achieve its 2002 earnings targets, Fresia wrote: "assume 
+
+B.S. helps (where needed) to shore up the $83M EBITDA up to $92M." 
+
+       118. Furthermore, in a May 19,2002 email to Expanets personnel in which Fresia 
+
+discussed what earnings Expanets should report for the month of April and the resulting effects 
+
+on the second quarter results, Fresia wrote: 
+
+        I think that we should consider reporting EBITDA at $6.1M (with $lM B.S. help).   If it 
+        turns out that the field was being overly consistent [sic] in their last minute accruals, it 
+        will reverse out next month.  Also, if [Northwestern] wants $24M for 24  it will provide 
+        a smoother monthly trend. 
+
+       119. Despite Fresia's frank internal discussions with Expanets and NorthWestern 
+
+personnel throughout 2002 about the significance of Expanets' reserve reductions on Expanets' 
+
+and Northwestern's  reported income, Fresia knew or was reckless in not knowing that 
+
+Northwestern  and Expanets planned to conceal this information from the public. 
+
+       120. For example, in a May 30,2002 email to Fresia, an Expanets senior executive wrote: 
+
+       Rick, 
+
+       I would suggest that this be lead [sic] by you and we all have an opportunity to 
+       word smith it, we need to give NOR [Northwestern] a [sic] answer that they can 
+       be using with the street (and we can use it as well) that answer the question: 
+
+       If Revenues aren't ramping to the   $919M   level by the end of the year, why 
+       are you so certain that the EBITDA    target is going to be reached? 
+
+       The answer as we all know it is on the balance sheet but that isn't the answer I 
+       would like to use -the basis for the answer needs to lie in improving systems, 
+       operating efficiencies, etc that allow us to more tightly manage our balance sheet 
+       with the highest degree of confidence (i.e allowing us to unwind what we need). 
+       (Bold in the original) 
+---------------------Page 28---------------------
+
+       12 1. Furthermore, Fresia knew or was reckless in not knowing that disclosure of material 
+
+non-recurring items was required. 
+
+       122. For example, in an August 18,2002 email to Expanets personnel, Fresia admitted 
+
+that "[v]irtually all publicly traded companies separate material non-recurring problems from the 
+
+results from their continuing operations." 
+
+       123. Fresia knew of and approved Expanets' reduction of its reserve accounts by 
+
+approximately $8.8 million in the second quarter of 2002 -an amount that represented 80% of 
+
+Expanets' reported operating income of $1 1 million and 27% of Northwestern's  reported 
+
+income from continuing operations of $2 1 million. 
+
+       124. Due to Fresia's knowledge and his participation in Northwestern's  internal SOX 
+
+disclosure process for the second quarter, he was responsible for Northwestern's  failure to 
+
+disclose in its 2002 second quarter Form 10-Q the material impact of Expanets' reserve 
+
+reductions. 
+
+       125. With Fresia's knowledge and approval, Expanets' reserve reductions accelerated 
+
+sharply in the third quarter of 2002 as Expanets' results from operations continued to badly lag 
+
+its internal targets. 
+
+       126.Fresia's own internal correspondence continued to demonstrate that he was taking 
+
+personal responsibility for Expanets' reserve reductions and that he understood their materiality 
+
+to Expanet's and Northwestern's  reported income. 
+
+       127. For example, in an August 18,2002 email to Expanets personnel, Fresia outlined 
+
+ways in which Expanets could still meet its 2002 earnings targets despite Expanets' problems 
+
+with its billing adjustments. Among other things, Fresia wrote that "[blalance sheet is my call 
+
+and I'm taking it." 
+---------------------Page 29---------------------
+
+       128. In a separate August 18,2002 email to Expanets personnel, Fresia acknowledged the 
+
+significance of Expanets' reserve reductions to July reported EBITDA by explaining that:  "The 
+
+BS [balance sheet] number was $1 1M. We used $5M (leaving $7M left) to pump EBITDA from 
+
+$lM to $6M in July." 
+
+       129. Furthermore, in a September 5,2002 email to Expanets and Northwestern 
+
+personnel, Fresia indicated that, to view Expanets' 2003 budget plan accurately, Expanets and 
+
+Northwestern  senior executives had to consider that almost 25% of Expanets' 2002 projected 
+
+EBITDA would most likely consist of approximately $19 million in "helps" such as "unwinding 
+
+balance sheet accruals." 
+
+       130. In addition, in preparing its reported income and EBITDA for the third quarter of 
+
+2002, Expanets informed Northwestern  that it planned to report EBITDA which was several 
+
+million dollars short of quarterly and nine-month year-to-date targets set by Northwestern. 
+
+       13 1. Ultimately, after discussion with Northwestern personnel on October 22,2002 
+
+regarding Expanets' quarterly and nine-month year-to-date results, Fresia agreed to reduce 
+
+Expanets' reserves by an additional $4.2 million, thereby increasing Northwestern's  and 
+
+Expanets' reported income by the same amount. 
+
+       132. The day after the October 22 meeting, Expanets, with Fresia's knowledge and 
+
+approval, sent a spreadsheet to Northwestern personnel setting forth all of the reserve reductions 
+
+made by Expanets through the first three quarters of 2002.  Expanets' spreadsheet to 
+
+Northwestern  showed that, year-to-date, Expanets had reduced its reserve accounts by $38.5 
+
+million to report $17 million in operating income and approximately $56.2 million in EBITDA 
+
+over the first three quarters of 2002. 
+---------------------Page 30---------------------
+
+       133.With respect to the third quarter, Expanets' spreadsheet demonstrated that in the 
+
+third quarter alone, Expanets had reduced its reserves by approximately $27 million, enabling 
+
+both Northwestern  and Expanets to report positive income rather than losses.  Accordingly, 
+
+Fresia knew that the amount of Expanets' reserve reductions for the third quarter 2002 was 
+
+material to both Northwestern's  and Expanets' results of operations for that period. 
+
+       134.With respect to the third quarter of 2002, Fresia further knew or was reckless in not 
+
+knowing that without the $27 million of reserve reductions, Expanets would have reported a 
+
+substantial loss rather than the $8.7 million in operating income it originally reported for that 
+
+quarter.  The amount of Expanets' reserve reductions also represented approximately 120% of 
+
+Northwestern's  reported income from continuing operations of $15 million for that quarter, and 
+
+enabled Northwestern  to report a profit rather than a loss. 
+
+       135.Due to Fresia's knowledge and his participation in Northwestern's  internal SOX 
+
+disclosure process for the third quarter, he was responsible for Northwestern's  failure to disclose 
+
+in its 2002 third quarter Form 10-Q the material impact of Expanets' reserve reductions. 
+
+       136.Fresia also knew or was reckless in not knowing that Northwestern's 
+
+Northwestern's  amended second quarter Form 10-Q filed on September 20,2002, 
+
+Northwestern's  Form S-4lAmendment #2 filed August 16,2002; Form S-41Amendment         #3 filed 
+
+September 9,2002;  and Northwestern's  equity offering prospectus supplements filed with the 
+
+Commission on September 30,2002  and October 3,2002 were false and misleading in that they 
+
+failed to disclose that Expanets' non-recurring reserve reductions constituted a material portion 
+
+of Expanets' and NorthWestern's reported income during the second quarter of 2002. 
+---------------------Page 31---------------------
+
+.      Fresia Was Responsible for Northwestern's  Failure to Disclose That a Material 
+       Portion of Expanets' Reported Income During; the Second and Third Quarters Was 
+       Derived From Its Receipt of Unusual Non-Compete Payments From a Competitor 
+
+       137. In conjunction with Expanets' acquisition of certain assets of a competitor, Expanets 
+
+agreed that, in exchange for payments from the competitor, Expanets would not solicit specific 
+
+business of the competitor's customers.  Expanets' competitor was obligated to make these "non- 
+
+compete" type of payments to Expanets until March 2005.  These payments were not 
+
+characteristic of Expanets' regular operations and therefore represented unusual transactions. 
+
+       138. During the second and third quarters of 2002, and through various communications, 
+
+including email, written reports, analyses, and verbal discussions, Fresia knew or was reckless in 
+
+not knowing that Expanets had received these non-compete payments and that they would 
+
+materially impact Expanets' reported results for those periods. 
+
+       139. For example, from April through September 2002, Fresia reviewed and approved 
+
+Expanets' monthly reports to Northwestern  each of which demonstrated the amount of monthly 
+
+income earned by Expanets for these non-compete payments and their resulting effect on 
+
+Expanets' results. 
+
+       140. In the second quarter of 2002, Northwestern  reported in its segment disclosures that 
+
+Expanets had operating income of approximately $1 1 million.  Approximately $10 million of 
+
+Expanets' income came from the non-compete payments.  The $10 million also represented 
+
+approximately 3 1% of Northwestern's  consolidated income from continuing operations for the 
+
+quarter.  Accordingly, the amount of these non-compete payments was material to the operating 
+
+results of both Northwestern  and Expanets for that period. 
+
+       141. In the third quarter of 2002, Northwestern  reported in its segment disclosures that 
+
+Expanets had operating income of approximately $8.7 million.  Approximately $15.3 million of 
+---------------------Page 32---------------------
+
+Expanets' income came from the non-compete payments.  The $15.3 million also represented 
+
+approximately 68% of Northwestern's  consolidated income from continuing operations for the 
+
+quarter. Accordingly, the amount of these non-compete payments was material to the operating 
+
+results of both Northwestern  and Expanets for that period. 
+
+       142.Northwestern's  Forms 10-Q for the second and third quarters of 2002 were false 
+
+and misleading because they failed to properly disclose Expanets' receipt of these unusual non- 
+
+compete payments and their material effect on Expanets' and Northwestern's  reported results of 
+
+operations for those periods. 
+
+       143.Due to Fresia's knowledge and his participation in Northwestern's  internal SOX 
+
+disclosure process for the second and third quarters of 2002, he was responsible for 
+
+Northwestern's  failure to disclose in its Forms 10-Q the impact of the unusual non-compete 
+
+payments to Northwestern's  and Expanets' reported results of operations. 
+
+       144.Fresia also knew or was reckless in not knowing that NorthWestern's amended 
+
+second quarter Form 10-Q filed on September 20,2002, Northwestern's  Form S-4lAmendment 
+
+#2 filed August 16,2002; Form S4lAmendment  #3 filed September 9,2002;  and 
+
+Northwestern's  equity offering prospectus supplements filed with the Commission on 
+
+September 30,2002  and October 3,2002 were false and misleading in that they failed to 
+
+properly disclose the impact of the unusual non-compete payments to Northwestern's  and 
+
+Expanets' reported results of operations. 
+
+                               FIRST CLAIM FOR RELIEF  
+                        Fraud  -Violations  of Section 17(a)(l) of the  
+                           Securities Act 115 U.S.C. 6 77q(a)(l)l)  
+
+       145. Paragraphs 1 through 144 are hereby realleged and incorporated by reference. 
+---------------------Page 33---------------------
+
+       146.As a result of the foregoing, Fresia, directly and indirectly, with scienter, in the offer 
+
+or sale of Northwestern  securities, by use of the means or instruments of transportation or 
+
+communication in interstate commerce or by use of the mails, has employed a device, scheme, or 
+
+artifice to defraud. 
+
+       147. Defendant Fresia violated Section 17(a)(l) of the Securities Act because, among 
+
+other things, he improperly accounted for Expanets' uncollectible receivables and adjustments to 
+
+customer bills, causing material overstatements of the reported income of Expanets and 
+
+Northwestern  in the second and third quarters of 2002.  Fresia also violated Section 17(a)(l) 
+
+because, as part of Northwestern's  internal SOX disclosure process for the second quarter of 
+
+2002, he caused NorthWestern's failure to disclose in its 2002 Form 10-Q for that period 
+
+Expanets' reasonably possible losses from uncollectible receivables and adjustments to customer 
+
+bills, and that a material portion of Expanets' and Northwestern's  reported income during the 
+
+quarter was derived from non-recurring, reserve reductions and Expanets' receipt of unusual 
+
+non-compete payments. 
+
+       148. Fresia knew or was reckless in not knowing that Northwestern's  materially false 
+
+and misleading financial statements and disclosures contained in its Form 10-Q for the second 
+
+quarter of 2002 was incorporated into Northwestern's  following Securities Act filings: 
+
+Northwestern's  Form S-4lAmendment #2 filed August 16,2002; Form S-4lAmendment #3 filed 
+
+September 9,2002;  and Northwestern's  equity offering prospectus supplements filed with the 
+
+Commission on September 30,2002  and October 3,2002. 
+
+       149.Fresia thereby violated, and unless restrained and enjoined, will violate Section 
+
+17(a)(l) of the Securities Act. 
+---------------------Page 34---------------------
+
+                              SECOND CLAIM FOR RELIEF  
+                    [Fraud  - Violations of Sections 17(a)(2) and 17(a)(3)  
+                    of the Securities Act 115 U.S.C. 6 77q(a)(2) and (3)1)  
+
+       150.Paragraphs 1 through 144 are hereby realleged and incorporated by reference. 
+
+       15 1. As a result of the foregoing, Fresia, directly and indirectly, with scienter, in the offer 
+
+or sale of Northwestern  securities, by use of the means or instruments of transportation or 
+
+communication in interstate commerce or by use of the mails, has obtained money or property by 
+
+means of untrue statements of material fact or omissions to state material facts necessary in order 
+
+to make the statements made, in light of the circumstances under which they were made, not 
+
+misleading; or engaged in transactions, practices, or courses of business which have been or are 
+
+operating as a fraud or deceit upon the purchasers of Northwestern  securities. 
+
+       152. Defendant Fresia violated Sections 17(a)(2) and 17(a)(3) of the Securities Act 
+
+because, among other things, he improperly accounted for Expanets' uncollectible receivables 
+
+and adjustments to customer bills, causing material overstatements of the reported income of 
+
+Expanets and Northwestern  in the second quarter of 2002.  Fresia also violated Sections 17(a)(2) 
+
+and 17(a)(3) because, as part of Northwestern's  internal SOX disclosure process for the second 
+
+quarter of 2002, he caused Northwestern's  failure to disclose in its 2002 Form 10-Q for that 
+
+period Expanets' reasonably possible losses from uncollectible receivables and adjustments to 
+
+customer bills, and that a material portion of Expanets' and Northwestern's  reported income 
+
+during the quarter was derived from non-recurring, reserve reductions and Expanets' receipt of 
+
+unusual non-compete payments. 
+
+        153. Fresia knew or was reckless in not knowing that Northwestern's  materially false 
+
+and misleading financial statements and disclosures contained in its Form 10-Q for the second 
+
+quarter of 2002 was incorporated into Northwestern's  following Securities Act filings: 
+---------------------Page 35---------------------
+
+Northwestern's  Form S-4lAmendment #2 filed August 16,2002; Form S-4lAmendment #3 filed 
+
+September 9,2002;  and Northwestern's  equity offering prospectus supplements filed with the 
+
+Commission on September 30,2002  and October 3,2002. 
+
+       154.Fresia violated, and unless restrained and enjoined, will violate Sections 17(a)(2) 
+
+and 17(a)(3) of the Securities Act. 
+
+                               THIRD   CLAIM FOR RELIEF  
+               [Fraud  - Violations of Section 10(b) of the Exchange Act and  
+              Rule 10(b)(5) thereunder 115 U.S.C. 66 78i(b) and 6240.10b-51)  
+
+       155. Paragraphs 1 through 144 are hereby realleged and incorporated by reference. 
+
+       156.Fresia, directly and indirectly, with scienter, in connection with the purchase or sale 
+
+of Northwestern  securities, by use of the means or instrumentalities of interstate commerce or by 
+
+use of the mails, employed devices, schemes, or artifices to defraud; made untrue statements of 
+
+material fact or omitted to state material facts necessary in order to make the statements made, in 
+
+light of the circumstances under which they were made, not misleading; or engaged in acts, 
+
+practices, or courses of business which had been and are operating as a fraud or deceit upon the 
+
+purchasers or sellers of such securities. 
+
+       157. Fresia's violations occurred in connection with the following Northwestern  filings 
+
+pursuant to the Exchange Act:  Northwestern's  Form 10-Q for the period ended June 30,2002, 
+
+filed on August 14,2002, and the Amended Form 10-Q for the period ended June 30,2002,  filed 
+
+on September 20,2002; Northwestern's  Form 10-Q for the period ended September 30,2002, 
+
+filed on November 14,2002; and Northwestern's  Forms 8-K with attached press releases filed 
+
+on August 8, September 20 and November 7,2002.  Fresia knew or was reckless in not knowing 
+
+that the misstated financial results within Northwestern's  Forms 10-Q filed on August 8, 
+
+September 20 and November    7 for the second and third quarters were incorporated into 
+---------------------Page 36---------------------
+
+Northwestern's  corresponding press releases attached to Northwestern's  Forms 8-K filed on 
+
+August 8, September 20 and November 7,2002. 
+
+       158. Defendant Fresia violated Section 10(b) of the Exchange Act and Rule lob-5 
+
+thereunder because, among other things, he improperly accounted for Expanets' uncollectible 
+
+receivables and adjustments to customer bills, causing material overstatements of the reported 
+
+income of Expanets and Northwestern in the second and third quarters of 2002. Fresia also 
+
+violated Section 10(b) and Rule lob-5 because, as part of Northwestern's  internal SOX 
+
+disclosure process for the second and third quarters of 2002, he caused Northwestern's  failure to 
+
+disclose Expanets' reasonably possible losses from uncollectible receivables and adjustments to 
+
+customer bills, and that a material portion of Expanets' and Northwestern's  reported income 
+
+during those quarters was derived from non-recurring, reserve reductions and Expanets' receipt 
+
+of unusual non-compete payments. 
+
+       159. Fresia violated, and unless restrained and enjoined, will violate Section 10(b) of the 
+
+Exchange Act and Rule lob-5 thereunder. 
+
+                             FOURTH CLAIM FOR RELIEF 
+                        (Falsified Books and Records  --Violations of 
+            Section 13(b)(5) of the Exchan~e Act 115 U.S.C.  6 78m(b)(5)1 
+                   and Rule 13b2-1 thereunder 117 C.F.R.   6 240.13b2-1b 
+
+       160. Paragraphs 1 through 144 are hereby realleged and incorporated by reference. 
+
+       16 1. Fresia knowingly circumvented or knowingly failed to implement a system of 
+
+internal accounting controls or knowingly falsified books, records, or accounts described in 
+
+Section 13(b)(2) of the Exchange Act and directly or indirectly falsified or caused to be falsified, 
+
+books, records or accounts subject to Section 13(b)(2)(A) of the Exchange Act. 
+
+       162. The violations occurred because, as CFO of Expanets during the second and third 
+
+quarters of 2002, Fresia knowingly failed to adequately adjust Expanets' reserves for bad debt 
+---------------------Page 37---------------------
+
+and billing adjustments in conformity with GAAP and knowingly circumvented or knowingly 
+
+failed to implement a system of internal accounting controls by failing to establish and maintain 
+
+sufficient internal controls to adequately track the level of such reserves. 
+
+       163.Fresia violated, and unless restrained and enjoined, will violate Section 13(b)(5) of 
+
+the Exchange Act [15 U.S.C. 5 78m(b)(5)] and Rule 13b2-1 thereunder [17 C.F.R. 5 240.13b2-
+
+                              FIFTH CLAIM FOR RELIEF 
+iFalse SEC Filings --Aiding and Abetting of Northwestern's  Violations of Section 13(a) of 
+the Exchange Act 115 U.S.C.  6 78m(a)l and Rules 12b-20,  13a-11 and 13a-13 thereunder 
+117 C.F.R. 86 240.12b-20,240.13a-11 and 240.13a-131) 
+
+       164. Paragraphs 1 through 144 are hereby realleged and incorporated by reference. 
+
+       165.Northwestern,  an issuer of a security registered pursuant to Section 12(b) of the 
+
+Exchange Act, filed materially misleading quarterly and current reports with the Commission. 
+
+       166. By reason of the foregoing, Northwestern violated Section 13(a) of the Exchange 
+
+Act [15 U.S.C. 5 78m(a)] and Rules 12b-20, 13a-11 and 13a-13 thereunder [17 C.F.R. $5 
+
+240.12b-20,240.13a-11 and 240.13a-131. 
+
+       167. As to Fresia, the violations occurred in connection with Northwestern's  Form 10-Q 
+
+for the period ended June 30,2002, filed on August 14,2002, and its Amended Form 10-Q for 
+
+the period ended June 30,2002, filed on September 20,2002; Northwestern's  Form 10-Q for the 
+
+period ended September 30,2002, filed on November 14,2002; and Northwestern's  Forms 8-K 
+
+with attached press releases filed on August 8, September 20 and November 7,2002. 
+
+       168.Fresia knew of Northwestern's  violations of Section 13(a) of the Exchange Act and 
+
+Rules 12b-20, 13a- 1 1 and 13a- 13 thereunder and substantially assisted Northwestern in 
+
+committing these violations by, among other things: 
+---------------------Page 38---------------------
+
+        (a)  improperly accounting for Expanets' uncollectible receivables and adjustments to 
+
+            customer bills, causing material overstatements of the reported income of Expanets 
+
+            and Northwestern  in the second and third quarters of 2002; and 
+
+        (b) causing Northwestern's  failure to disclose in its Forms 10-Q for the second and 
+
+            third quarters of 2002, and the company's Amended Form 10-Q for the second 
+
+            quarter of 2002: 
+
+                    1   Expanets' reasonably possible losses from uncollectible receivables and 
+
+                       adjustments to customer bills; and 
+
+                    2   that a material portion of Expanets' and Northwestern's  reported 
+
+                       income during the quarter was derived from non-recurring, reserve 
+
+                       reductions and Expanets' receipt of unusual non-compete payments. 
+
+       169.Fresia aided and abetted Northwestern's  violations of Section 13(a) of the Exchange 
+
+Act and Rules 12b-20, 13a- 1 1 and 13a- 13 thereunder, and unless restrained and enjoined will 
+
+continue to aid and abet violations of these provisions. 
+
+                               SIXTH CLAIM FOR RELIEF 
+          (False Books and Records   -- Aiding and  Abetting Northwestern's Violations of 
+                Section 13(b)(Z)(A) of the Exchange Act r15   U.S.C. 6 78m(b)(Z)(A)l) 
+
+       170.Paragraphs 1 through 144 are hereby realleged and incorporated by reference. 
+
+       171.By reason of Expanets' materially under-reserved accounts for uncollectible 
+
+receivables and adjustment to customer bills in the second and third quarters of 2002, 
+
+Northwestern failed to make and keep books, records, and accounts, which, in reasonable detail, 
+
+accurately and fairly reflected the company's transactions and dispositions of its assets. 
+
+       172.By reason of the foregoing, Northwestern violated Section 13(b)(2)(A) of the 
+
+Exchange Act [15 U.S.C.  5 78m(b)(2)(A)]. 
+---------------------Page 39---------------------
+
+       173. Fresia knew of Northwestern's  violations of Section 13(b)(2)(A) of the Exchange 
+
+Act and substantially assisted Northwestern  in committing these violations by, among other 
+
+things, improperly accounting for Expanets' uncollectible receivables and adjustments to 
+
+customer bills, causing material overstatements of the reported income of Expanets and 
+
+Northwestern  in the second and third quarters of 2002. 
+
+       174. Fresia aided and abetted Northwestern's  violations of Section 13(b)(2)(A) of the 
+
+Exchange Act, and unless restrained and enjoined will continue to aid and abet violations of 
+
+these provisions. 
+
+                             SEVENTH CLAIM        FOR   RELIEF  
+     JInternal Accounting Controls Violations   -- Aiding and Abetting Northwestern's  
+     Violations of Section 13&)(2)(B) of the Exchange Act   r15 U.S.C. 6 78m(b)(2)@)))  
+
+       175.Paragraphs 1 through 144 are hereby realleged and incorporated by reference. 
+
+       176. Northwestern  failed to devise and maintain a system of internal accounting controls 
+
+sufficient to provide reasonable assurances that transactions are recorded as necessary to permit 
+
+preparation of financial statements in conformity with generally accepted accounting principles 
+
+or any other criteria applicable to such statements and to maintain accountability for assets. 
+
+       177. By reason of the foregoing, Northwestern  violated Section 13(b)(2)(B) of the 
+
+Exchange Act [15  U.S.C. 3 78m(b)(2)(B)]. 
+
+       178.The violations occurred because Expanets, a subsidiary of Northwestern,  failed to 
+
+devise and maintain a system of internal accounting controls as to its uncollectible receivables 
+
+and adjustments to customer bills sufficient to provide reasonable assurances that transactions 
+
+were recorded as necessary to permit preparation of financial statements in conformity with 
+
+GAAP or any other criteria applicable to such statements and to maintain accountability for 
+---------------------Page 40---------------------
+
+assets, and that the recorded accountability for assets was compared with the existing assets at 
+
+reasonable intervals and appropriate action was taken with respect to any differences. 
+
+       179. Fresia knew of NorthWestern's violations of Section 13(b)(2)(B) of the Exchange 
+
+Act and substantially assisted Northwestern  in committing these violations. 
+
+       180. Fresia aided and abetted Northwestern's  violations of Section 13(b)(2)(B) of the 
+
+Exchange Act, and unless restrained and enjoined will continue to aid and abet violations of 
+
+these provisions. 
+
+                                   PRAYER FOR RELIEF 
+
+The Commission respectfully requests that this Court: 
+
+                                               I. 
+
+       Find that Defendant Fresia committed the violations alleged. 
+
+                                               11. 
+
+       Enter an Injunction, in a form consistent with Rule 65(d) of the Federal Rules of Civil 
+
+Procedure, permanently restraining and enjoining Defendant Fresia from violating, directly or 
+
+indirectly, or aiding and abetting violations of the law and rules alleged in this Complaint. 
+
+                                              111. 
+
+       Order Defendant Fresia to disgorge all ill-gotten gains in the form of any benefits of any 
+
+kind derived from the illegal conduct alleged in this Complaint, plus pre-judgment and post 
+
+judgment interest. 
+
+                                              IV. 
+
+       Order Defendant Fresia to pay third tier civil penalties, including post-judgment interest, 
+
+pursuant to Section 20(d) of the Securities Act [15 U.S.C. 5 77t(d)] and Section 2l(d)(3)  of the 
+
+Exchange Act [15 U.S.C.   5 78u(d)(3)]. 
+---------------------Page 41---------------------
+
+                                             v. 
+
+       Order pursuant to Section 2 1 (d)(2) of the Exchange Act, as amended by Section 305 of 
+
+the Sarbanes-Oxley Act [15 U.S.C. 5 78u(d )(2)], or pursuant to the equitable authority of the 
+
+court, that Defendant Fresia be permanently barred from serving as an officer or director of any 
+
+public company. 
+
+                                             VI. 
+
+       Order such other relief as is necessary and appropriate. 
+
+DATED: July 23,2007 
+
+                                                 Respectfully submitted, 
+
+                                                   S/ Kurt L. Gottschall 
+                                                 Elizabeth Espinosa Krupa 
+                                                 303.844.1056 
+                                                 Kurt L. Gottschall 
+                                                 303.844.1 119 
+                                                 Attorneys for Plaintiff 
+                                                 Securities and Exchange Commission 
+                                                 1801 California Street, Suite 1500 
+                                                 Denver, CO  80202 
+                                                 Switchboard 
+                                                 303.844.1000 
+                                                 Fax 
+                                                 303.844.1068 

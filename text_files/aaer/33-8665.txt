@@ -1,0 +1,573 @@
+---------------------Page 1---------------------
+
+ 
+ UNITED                            STATES OF AMERICA 
+ Before                                     the 
+                   SECURITIES AND EXCHANGE COMMISSION 
+ 
+ 
+SECURITIES ACT OF 1933 
+Release No.  8665 / February 27, 2006 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No.  53381 / February 27, 2006 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 2386 / February 27, 2006 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No.  3-12221 
+ 
+                                             
+In the Matter of                             
+                                             
+             SUN COMMUNITIES, INC.          ORDER INSTITUTING CEASE-AND-DESIST 
+             and SUN COMMUNITIES            PROCEEDINGS PURSUANT TO SECTION 8A 
+             OPERATING LIMITED              OF THE SECURITIES ACT OF 1933 AND 
+             PARTNERSHIP,                   SECTION 21C OF THE SECURITIES 
+                                                  EXCHANGE ACT OF 1934, MAKING 
+Respondents.                                FINDINGS AND IMPOSING A CEASE-AND-
+                                            DESIST ORDER  
+
+ 
+ 
+ 
+ 
+                                          I. 
+ 
+              The Securities and Exchange Commission (SEC or Commission) deems it appropriate 
+that cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the 
+Securities Act of 1933 (Securities Act) and Section 21C of the Securities Exchange Act of 1934 
+(Exchange Act), against Sun Communities, Inc. (Sun) and Sun Communities Operating 
+Limited Partnership (SCOLP) (collectively Respondents).   
+                                           
+                                         II. 
+ 
+              In anticipation of the institution of these proceedings, Respondents have submitted Offers 
+of Settlement (the Offers) which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+---------------------Page 2---------------------
+
+Commission, or to which the Commission is a party, and without admitting or denying the findings 
+herein, except as to the Commissions jurisdiction over them and over the subject matter of these 
+proceedings, which are admitted, Respondents consent to the entry of this Order Instituting  Cease-
+and-Desist Proceedings Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of 
+the Securities Exchange Act of 1934, Making Findings and Imposing a Cease-and-Desist Order 
+(Order), as set forth below.   
+ 
+                                               III. 
+ 
+              On the basis of this Order and Respondents Offers, the Commission finds1
+                                                                                  that:  
+ 
+A.     RESPONDENTS 
+ 
+        Sun Communities, Inc. is a self-administered and self-m anaged real estate investment 
+trust.  Sun, as the general partner of Sun Communities Operating Limited Partnership, owns, 
+operates, develops and finances manufactured housing communities concentrated in the 
+Midwestern and Southeastern United States.  Sun went public in 1993.  The common stock of Sun 
+is registered pursuant to Section 12(b) of the Exchange Act and is listed on the New York Stock 
+Exchange.  Sun incorporated their Forms 10-K and 10-Q in offers of their securities from 2000 
+through 2002.  
+  
+       Sun Communities Operating Limited Partnership is the main operating subsidiary 
+through which Sun owns, operates, develops and finances manufactured housing communities.  
+SCOLP was a separate SEC filer until May 2004 when it suspended its SEC filings.  Sun also 
+consolidated SCOLPs financial statements in its own financial statements during the time at issue 
+in this Order.  SCOLP incorporated their Forms 10-K and 10-Q in offers of their securities during 
+the time at issue. 
+                
+ 
+B. SUMMARY 
+ 
+       This matter involves false and misleading financial reporting in Suns financial statements 
+and in SCOLPs separate financial statements included in the periodic reports filed with the 
+Commission for fiscal years 2000 through 2002.  As a result of this improper reporting, Sun and 
+SCOLP violated Sections 17(a)(2) and 17(a)(3) of the Securities Act2
+                                                                     and various reporting, 
+record-keeping and internal control provisions of the Exchange Act.  In all three years, Sun 
+(through SCOLP) failed to properly account for losses in its investment in SunChamp, LLC 
+(SunChamp), a limited liability company it formed with Champion Enterprises, Inc. 
+(Champion) to develop manufactured housing communities. 
+        
+                                                 
+1
+       The findings herein are made pursuant to Respondents Offers of Settlement and are not binding 
+on any other person or entity in this or any other proceeding. 
+2
+               Establishing violations of Section 17(a)(2) and 17(a)(3) does not require a showing of scienter.  Aaron v. 
+SEC, 446 U.S. 680, 697 (1980).  
+                                                2 
+---------------------Page 3---------------------
+
+       In particular, during the relevant periods, through sales of its members interests in 
+SCOLP-controlled limited liability companies that held the SunChamp interests, SCOLP sold 
+portions of its interests in SunChamp to four outside investors.  While these transactions had 
+economic substance as between the parties, Sun should have applied Accounting Principles Board 
+Opinion No. 18, The Equity Method of Accounting for Investments In Common Stock (March 
+1971), (APB 18), Statement of Position 78-9, Accounting for Investments in Real Estate 
+Ventures (SOP 78-9) and Statement of Financial Accounting Standards No. 66, Accounting 
+for Sales of Real Estate (FAS 66) in recognizing its share of SunChamp losses when applying 
+the equity method of accounting.  Under APB 18, SOP 78-9 and FAS 66, ownership did not 
+transfer to the outside investors and therefore, Sun should have recorded additional SunChamp 
+losses to reflect its share of SunChamp. 
+        
+       Sun and SCOLP also failed to comply with other generally accepted accounting principles 
+(GAAP) during that time.  For example, Sun used a 90-day lag in recording SunChamps losses 
+and recorded the effect of certain of the sale agreements with investors prior to the closing dates.  
+In addition, Sun erroneously established reserves, unrelated to SunChamp.  The effect of some of 
+these entries was to shift earnings and losses between quarters. 
+          
+              As a consequence of these actions, Sun and SCOLP have violated Sections 17(a)(2) and (3) 
+of the Securities Act and Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and 
+Rules 12b-20, 13a-1, 13a-13, and 13b2-1 thereunder.  
+ 
+C. FACTS 
+ 
+              1.        Creation of SunChamp 
+ 
+       Sun acquires, operates and expands manufactured housing communities.    SunChamp is a 
+joint venture that was formed in 1999 by a subsidiary of SCOLP (Sun/Forest, LLC) and a 
+subsidiary of Champion Enterprises (MHCDC), a large producer of manufactured homes.  
+SunChamp was organized to purchase and develop manufactured housing communities.  Pursuant 
+to the terms of the agreement, SCOLP ceded day-to-day management of SunChamp to a Champion 
+subsidiary.  SCOLP retained rights and responsibilities as to SunChamp: 1) SCOLP had the right 
+to approve operating and construction budgets, 2) SCOLP had the right to approve all new 
+acquisitions of properties, 3) SCOLP was obligated to fund 50% of the operating losses, 4) SCOLP 
+was obligated to fund 75% of budgeted capital costs for acquiring, developing, and expanding 
+communities and 5) Suns affiliates provided loans to SunChamp as additional financing.  
+ 
+       2.     Transactions with Outside Investors 
+ 
+       In late September 2000, Sun completed the transfer of a portion of its investment in 
+SunChamp to an entity owned by a Champion executive for $3.2 million cash.  In October 2000, 
+Sun completed the transfer of an additional portion of its SunChamp ownership to another outside 
+investor for $2 million in cash and $4 million in non-recourse promissory notes.  Finally, in July 
+2001, Sun completed the transfers of a portion of its SunChamp ownership to two outside investors 
+for a total of $2 million cash and $4 million in non-recourse promissory notes.  In these July 2001 
+
+                                               3 
+---------------------Page 4---------------------
+
+transfers, Sun exercised its right to redeem the interest sold in the October sale by $2 million and 
+reduced the note received in that transaction from $4 million to $2 million.  In total, the transfers in 
+October 2000 and July 2001 to three outside investors that involved seller (SCOLP) financing 
+resulted in SCOLPs selling interests in SunChamp totaling $10 million in exchange for $4 million 
+in cash and $6 million in non-recourse notes.  SCOLPs ownership in SunChamp increased during 
+this period as a result of several capital contributions it made to SunChamp during the year. 
+ 
+        3.      Application of APB 18  Cost and Equity Method Accounting 
+         
+        Pursuant to APB 18, when an investor does not hold a controlling interest of an investment 
+in a corporate subsidiary, there are two recommended methods to account for the investment - the 
+cost method or the equity method of accounting.    3
+                                                      If the investor has the ability to exercise 
+significant influence over the investment, then it must use equity method accounting for that 
+investment.  If the investor owns 20% or more of a corporations voting stock, it is presumed to 
+have the ability to exercise significant influence over the investment and thus, unless demonstrated 
+otherwise, it is required to use the equity method. 4
+                                                       If the investor owns less than 20% of a 
+corporations voting stock, it is presumed to not have the ability to exercise significant influence 
+over the investment unless demonstrated otherwise.     5
+                                                          
+
+        The 20% ownership measure is not a bright line test.  APB 18 outlines several other factors 
+to consider in determining whether a company has significant influence over an investment in a 
+corporate subsidiary.  Those factors include: 1) representation on the board of directors; 2) 
+participation in the policy-making processes; 3) significant intercompany transactions; and 4) 
+investee dependence on the investor.  Finally, GAAP guidance concludes that the equity method is 
+the preferred method for investors in corporate joint ventures to reflect the nature of their 
+investment in the venture. 6
+
+                                                 
+3
+               APB No. 18, ¶ 17.  The usual condition for control is ownership of a majority (over 50%) of the 
+outstanding voting stock.  The power to control may also exist with a lesser percentage of ownership. 
+ 
+4
+        The equity method requires a company to record its initial investment at cost on its balance sheet.  When the 
+equity interest generates earnings or incurs losses, the investors proportionate share of those earnings or losses must be 
+recorded in the investors income statement and the investment amount on the balance sheet is adjusted by the amount 
+of earnings and/or losses.  Under the cost method, an investor records its investment on its balance sheet at cost and 
+recognizes as income dividends received that are distributed from net accumulated earnings of the investee since the 
+date of acquisition by the investor.  APB 18 ¶6a.  
+ 
+5
+               Emerging Issues Task Force 00-01, Investor Balance Sheet and Income Statement Display under the 
+Equity Method for Investments in Certain Partnerships and Other Ventures, states that investors in unincorporated 
+entities such as partnerships and other unincorporated joint ventures generally account for their investments using 
+the equity method of accounting by analogy to APB 18 if the investor has the ability to exercise significant influence 
+over the investee.  Guidance as to the accounting for investments in limited liability companies was issued in March 
+2004 in EITF Issue No. 03-16, Accounting for Investments in Limited Liability Companies.  EITF 03-16 
+concluded that the provisions of SOP 78-9 and related guidance also apply to such limited liability companies.    
+ 
+6
+               APB 18 ¶16 and Statement of Position 78-9, "Accounting for Investments in Real Estate Ventures, 
+December 1974 (SOP 78-9) ¶4.   
+ 
+                                                    4 
+---------------------Page 5---------------------
+
+       4.           Suns Non-GAAP Accounting for SunChamp 
+        
+               a.      Incorrect Use of Bright Line Test 
+ 
+              Sun improperly accounted for its investment in SunChamp from January 1, 2000 through 
+December 31, 2002, primarily by recognizing for accounting purposes sales of its SunChamp 
+interest to outside investors.  Beginning in the third quarter of 2000, SCOLP transferred portions of 
+its SunChamp ownership to outside investors to, among other things, reduce its ownership below 
+20%, with the belief that doing so would allow Sun to not apply the equity method of accounting 
+and thereby not record SunChamp losses in its financial statements.  After recognizing each of the 
+transfers of SunChamp ownership to four outside investors, Sun determined that it owned less than 
+20% of SunChamp.  However, Sun failed to properly consider whether it had the ability to exercise 
+significant influence over SunChamp.  Hence Sun did not record any of SunChamps operating 
+losses during the third and fourth quarters of 2000 and all of 2001.  This determination was not 
+supported by GAAP.  
+ 
+                     b.          Equity method accounting under SOP 78-9  
+ 
+       In this case, because Sun transferred portions of its interest in SunChamp to outside 
+investors -- transfers that were in substance transfers of real estate  Suns interest in SunChamp 
+should have been calculated based on the substantive economic rights and obligations as set forth 
+in the SunChamp Operating Agreement.  Sun was required to consider whether the transactions 
+transferred the risks and rewards of ownership for accounting purposes.   
+
+              SOP 78-9 requires that Sun record its proportionate share of the SunChamp losses 
+otherwise allocable to the outside investors if it is probable that those investors will not bear their 
+share of the losses.  Thus, Sun should not have reduced its proportionate share of SunChamp 
+ownership represented by the non-recourse promissory notes because it is not probable that the 
+outside investors will bear their share of the losses associated with that portion of ownership.   
+ 
+       SOP 78-9 also presents recommendations on accounting for investments in real estate 
+ventures.  It states that the sale of an investment in a real estate venture is the equivalent of a sale of 
+an interest in the underlying real estate and should be evaluated under the guidelines set forth in 
+FAS 66. 7
+
+               c.           Transactions not sales under FAS 66 
+
+              Sun was required to consider whether the transactions transferred ownership under FAS 
+66.8
+     Pursuant to FAS 66, ¶ 5, a seller may not recognize gains or losses on real estate sales 
+transactions by the full accrual method until all of the following criteria are met:  
+                                                 
+7
+               SOP 78-9 ¶ 39. 
+  
+8
+               Emerging Issues Task Force No. 98-8, Accounting for Transfers of Investments That Are in Substance Real 
+Estate (May 21, 1998), states that the sale or transfer of an investment in the form of a financial asset that is in 
+substance real estate should be accounted for in accordance with FAS 66.  As noted, neither the accounting personnel at 
+Sun nor, despite full disclosure of the agreements and details regarding the sales transactions, their outside auditor 
+                                                  5 
+---------------------Page 6---------------------
+
+ 
+   1.  A sale is consummated.  
+   2.  The buyers initial and continuing investments are adequate to demonstrate a commitment 
+       to pay for the property.  
+   3.  The sellers receivable is not subject to future subordination.  
+   4.  The seller has transferred to the buyer the usual risks and rewards of ownership in a 
+       transaction that is in substance a sale and does not have a substantial continuing 
+       involvement with the property.  
+  
+                       (1)         Three of the four buyers did not demonstrate a commitment to 
+                               pay  
+
+       SCOLPs last three transfers did not satisfy the criterion of FAS 66 requiring that the 
+buyers initial and continuing investments are adequate to demonstrate a commitment to pay for 
+the property, because the payments of three of the buyers were from one half to two thirds funded 
+by non-recourse notes.  The notes were drafted so that the investors could accrue, rather than pay, 
+interest until the due dates and required accelerated payment of principal and interest only from 
+money returned to them from the operations of SunChamp or from cash distributions from the 
+SunChamp properties.   9
+                         If the investors fail to pay the notes when due, SCOLPs sole recourse is to 
+look to the investors interests in SunChamp for payment.  Thus, the outside investors continuing 
+investment is not adequate to demonstrate a commitment to pay for the property over and above 
+the cash portion they put down.   
+
+                       (2)         Sun did not transfer risks and rewards and had continuing 
+                               involvement with SunChamp 
+
+              SCOLPs transfers of interests to all of the outside investors also did not satisfy the 
+criterion of FAS 66 requiring that the seller has transferred to the buyer the usual risks and 
+rewards of ownership in a transaction that is in substance a sale and does not have a substantial 
+continuing involvement with the property.  After the transfers of the members interests, SCOLP 
+still had continuing involvement with the SunChamp properties.  SCOLP retained the right to 
+purchase certain eligible properties once they reach 92% occupancy, at a price set by a specific 
+formula.  Once certain eligible properties reach 95% occupancy, SCOLP has a similar purchase 
+right and MHCDC has the right to require SCOLP to purchase those eligible properties, at a price 
+set by a specific formula.  SCOLPs continuing involvement with the underlying SunChamp real 
+estate properties constitutes a continuing involvement with the members interests sold by SCOLP 
+to the investors.  Finally, Sun did not give the outside investors the right to pledge or exchange 
+their interest in the assets they received.  Therefore, this transaction should be accounted for as a 
+financing, leasing or profit-sharing arrangement rather than as a sale.    
+                                                                                                                                                             
+recommended or considered the application of FAS 66 to the sales during their review of the relevant period financial 
+statements. 
+ 
+9
+               In addition, the notes were not supported by irrevocable letters of credit from independent established lending 
+institutions, one of the criteria listed in FAS 66 as establishing adequate initial investments.  Further, the outside 
+investors were not contractually required to pay each year on their non-recourse notes to Sun, one criteria of FAS 66 
+for establishing adequate continuing investment.   
+                                                  6 
+---------------------Page 7---------------------
+
+ 
+              5.           Sun Should Have Used Equity Method Accounting at All Times 
+
+              Because Sun never should have treated the transfers to outside investors as sales under 
+APB 18, SOP 78-9 and FAS 66, Sun retained ownership of greater than 20% of SunChamp for 
+accounting purposes at all times prior to consolidating SunChamp.  Thus, under APB 18, Sun was 
+presumed to exercise significant influence over SunChamp during that time.  In fact, Sun did 
+exercise significant influence over SunChamp.  Aside from its ownership interest, Suns significant 
+influence is evidenced by numerous facts which did not change after the transactions with the 
+outside investors.  SCOLP relinquished none of its managerial rights to the outside investors, who 
+were purely passive investors.  SCOLP continued to participate in the policy-making processes of 
+SunChamp by exercising its voting rights on half the seats on the equivalent of SunChamps Board 
+of Directors.  SCOLP approved operating and construction budgets and all new acquisitions of 
+properties by SunChamp.  Sun also engaged in significant related party transactions with 
+SunChamp, by providing subordinated debt financing to SunChamp.  Finally, SunChamp was 
+financially dependent on Sun because, unlike the outside investors, Sun provided financing to 
+SunChamp and SCOLP was required to provide financial support through equity contributions.   
+
+       6.           Improper application of GAAP resulted in materially overstated financial 
+              statements 
+ 
+              Because Sun incorrectly determined not to apply equity method accounting to SunChamp 
+from July 1, 2000 to December 31, 2001, it did not record SunChamps losses for those years.  
+Thus, Sun materially overstated its income from July 1, 2000 through December 31, 2001, as 
+reported in its SEC periodic filings.  Thus, Suns Form 10-K for fiscal year 2000 and its Form 10-
+Q for the third quarter of 2000 contained material overstatements of income.  Likewise, Suns 
+Form 10-K for fiscal year 2001 and its Forms 10-Q for all quarters of 2001 contained material 
+overstatements of income. 
+ 
+              In 2002, SCOLP made additional capital contributions to SunChamp.  The outside 
+investors made no additional cash contributions nor were they required to contribute additional 
+cash unless they wished to maintain their percentage ownership in the SunChamp interests.  Sun 
+believed its contributions would eventually increase its ownership of SunChamp to greater than 
+20%.  Thus, beginning in the first quarter of 2002, Sun applied equity method accounting for its 
+interest in SunChamp.  However, Sun continued to improperly account for the SunChamp 
+investment by, among other things, failing to disregard the transfers to the outside investors when 
+determining what percentage of SunChamp losses to record under the equity method.  Sun thus 
+recorded a smaller amount of SunChamp losses on its financial statements than required under 
+GAAP.  This incorrect determination led Sun to materially overstate its income on its Form 10-K 
+for 2002 and all of its Forms 10-Q for 2002, as filed with the SEC.  These financial statements all 
+were reviewed (as to quarters) and audited (as to years) by Suns outside auditor and Suns annual 
+financial statements for the periods were opined on by its outside auditor without qualification. 
+ 
+     
+    
+    
+                                               7 
+---------------------Page 8---------------------
+
+          7.          Suns Other Non-GAAP Accounting from January 1, 2000 to December 31, 
+               2002 
+ 
+                     a.  90-Day Lag 
+        
+              During 2000 and 2002, Sun used a 90-day lag in recording SunChamps losses on its 
+financial statements because it believed that there were impediments to timely recordation of 
+accurate numbers.  This belief was not justified.  Suns improper use of a 90-day lag enabled Sun 
+to avoid recording SunChamps second quarter losses in the third quarter of 2000.   
+
+       Suns auditor told Sun that the SEC was generally opposed to reporting on a lag because 
+of its interest in real time reporting.  The auditor recommended that Sun consider a shorter lag 
+period.  Sun did not employ a shorter lag period or forego the lag.  Suns application of a 90-day 
+lag was not factually supported and thus was not justified under GAAP.   
+
+                            b.   Premature Recognition of Transactions with Outside Investors 
+ 
+              During 2000 and 2001, Sun made the agreements with three outside investors effective 
+months before all of the details of the agreements were finalized, the papers were signed, or money 
+changed hands.  Thus, Sun accounted for transactions with the outside investors before the parties 
+had reached final agreement.  Sun considered the transactions effective at the time of alleged oral 
+agreements, despite having nothing in writing to record the transactions, and no down payment.  
+Accounting for these transactions before they were finalized had the effect of reducing Suns 
+perceived ownership percentage in SunChamp prematurely in several quarters.  Suns application 
+of this method reduced Suns perceived ownership below 20%, thereby, in Suns view at the time, 
+avoiding equity method accounting, and thus avoiding the recording of any SunChamp losses in 
+several quarters.  These accounting conclusions were not justified and were in violation of GAAP.  
+Thus, Sun materially overstated its income for those quarters, as reported in its SEC periodic 
+filings.    
+
+       For example, Sun accounted for one of the transactions in the third quarter of 2000 
+although the investor did not sign a binding letter of intent until the fourth quarter of 2000 (October 
+6, 2000) and the deal did not close until October 26, 2000.  According to Sun, this transaction had 
+the effect of reducing Suns ownership percentage below 20% for the third quarter of 2000.  Thus, 
+even under Suns flawed view of the equity method (i.e., utilizing a 20% bright line approach and 
+treating the transfers to the outside investors as sales), Sun should not have changed to the cost 
+method in the third quarter of 2000 since the investment was not finalized until after September 30, 
+2000. 
+
+                           c.  General Reserve Account and Expense Accrual 
+ 
+           Sun maintained reserves for which either the justification was not sufficient under GAAP, 
+or for which the justifications had ceased to exist.  For example, in 2000 and 2001, Sun 
+maintained improper reserves as well as reserves for expenses against a gain on sale of real estate 
+assets unrelated to SunChamp in an account called accrued expenses.   
+
+                                                8 
+---------------------Page 9---------------------
+
+ 
+              Statement of Financial Accounting Standards No. 5, Accounting for Contingencies, 
+(FAS 5), ¶8, states that a loss contingency...shall be accrued...if...it is probable that an asset 
+had been impaired or a liability had been incurred at the date of the financial statements 
+...[and]...the amount of the loss can be reasonably estimated.  Moreover, FAS 5, ¶14 expressly 
+prohibits general reserves.  Because Suns potential exposure wa s not reasonably estimable, the 
+reserves were not recorded in conformity with FAS 5 and resulted in a misstatement of net 
+income on Suns financial statements in the period the reserve was recorded.  
+ 
+              Further, Sun violated GAAP by releasing excess reserves without appropriate 
+justification.  While expenses related to the reserve were recorded against the reserve, unrelated 
+expenses also were offset against the reserve, resulting in understatements of revenues and 
+expenses.   
+ 
+       Sun improperly recorded accrued expenses to match expenses related to seasonal revenue.  
+FASB Concepts Statement No. 6, Elements of Financial Statements, (Concept 6) states that a 
+liability can be released only at a determinable date, upon the occurrence of a specified event, or 
+upon demand.  A change in an accounting estimate should be acc ounted for in the period of change 
+if the change affects that period only, or the period of change and future periods if the change 
+affects both.  GAAP does not allow for the deferral of accounting adjustments arising from a 
+change in estimate or the correction of an error. 
+        
+              8.           Impact of Accounting Misstatements on Operating Earnings 
+        
+       As a result of Suns non-GAAP accounting, for the years ended December 31, 2000, 2001 
+and 2002, Sun overstated its income by approximately $3.7 million (9%), $4.7 million (11%) and 
+$2.7 million (13%), respectively. 
+ 
+D. LEGAL ANALYSIS 
+ 
+       As a result of the conduct described above, and given that Sun and SCOLP incorporated 
+their Forms 10-K and 10-Q in offers of their securities from 2000 through 2002, Sun and SCOLP 
+violated Sections 17(a)(2) and 17(a)(3) of the Securities Act from 2000 through 2002.  Suns 
+accounting misstatements based on improper application of FAS 66 and equity accounting were 
+material.  These accounting errors directly or indirectly increased reported income during a period 
+by causing Sun not to record SunChamps losses properly.  Similarly, Sun and SCOLP violated 
+Section 13(a) of the Exchange Act and Rules 12b-20, 13a-1, and 13a-13 thereunder by filing with 
+the Commission Forms 10-Q and 10-K containing materially false and misleading financial 
+statements for the period January 1, 2000 through December 31, 2002.  Suns financial statements 
+were false and misleading because they were not presented in conformity with GAAP by virtue of 
+the fact that Sun: 1) failed to properly account for losses in Suns investment in SunChamp, 2) 
+delayed recording SunChamps losses for 90 days and prematurely recognized transactions, and 3) 
+released reserves, unrelated to SunChamp, for expenses unrelated to the establishment of the 
+reserve, and 4) accrued expenses prior to the period in which they actually were expended.  
+                                               9 
+---------------------Page 10---------------------
+
+Finally, Sun and SCOLP violated Sections 13(b)(2)(A) and (B) in 2000 through 2002 by failing to 
+make and keep accurate books and records and failing to devise and maintain sufficient internal 
+accounting controls.  Sun and SCOLP also violated Rule 13b2-1 in 2000 through 2002 in 
+connection with its improper use of reserves.   
+        
+              Based on the foregoing, the Commission finds that Sun and SCOLP have violated Sections 
+17(a)(2) and (3) of the Securities Act and Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the 
+Exchange Act and Rules 12b-20, 13a-1, 13a-13, and 13b2-1 thereunder.  
+ 
+                                              IV. 
+ 
+                                         Undertakings 
+ 
+       Respondent Sun has undertaken to: 
+        
+       1.     Employ an independent consultant ("Independent Consultant "), not unacceptable to 
+              the staff of the Commission, to review and evaluate its internal controls, record-
+              keeping, and financial reporting policies and procedures as they relate to its 
+              compliance with the books and records, internal accounting controls provisions of 
+              the Exchange Act in connection with its accounting for its investment in 
+              SunChamp.   
+        
+       2.     Cooperate fully with the Independent Consultant and provide the Independent 
+              Consultant with access to its files, books, records, and personnel as reasonably 
+              requested for the review. 
+ 
+       3.           Require, at the conclusion of the Independent Consultant's review of the 
+              Policies and Procedures, which in no event will be more than 180 days after the 
+              date of entry of the Order, the Independent Consultant to submit to Sun and to the 
+              Commission staff a written report regarding the Suns compliance with its Policies 
+              and Procedures and the adequacy of those Policies and Procedures. The report 
+              shall include a description of the review performed, the conclusions reached and, if 
+              necessary, make recommendations for changes in or improvements to the Policies 
+              and Procedures and provide a procedure for implementing the recommended 
+              changes or improvements. 
+  
+       4.           Within 30 days after the date of issuance of the report of the Independent 
+              Consultant ("Report Date"), adopt all recommendations contained in the report and 
+              remedy any deficiencies in its Policies and Procedures; provided, however, that as 
+              to any recommendation that Sun believes is unnecessary or inappropriate, Sun 
+              may, within 45 days of the Report Date, advise the Independent Consultant and 
+              Commission staff in writing of any recommendations that it considers to be 
+              unnecessary or inappropriate. With respect to any recommendation that Sun 
+              considers unnecessary or inappropriate, Sun need not adopt that recommendation 
+              at that time but shall propose in writing an alternative policy, procedure, or system 
+
+                                               10 
+---------------------Page 11---------------------
+
+               designed to achieve the same objective or purpose.  In the event Sun and the 
+               Independent Consultant are unable to agree on an alternative proposal acceptable 
+               to the Commission staff, Sun will abide by the original recommendation of the 
+               Independent Consultant; 
+  
+       5.           Within 120 days of the Report Date, submit an affidavit to the Commission staff 
+               stating that it has implemented any and all actions recommended by the 
+               Independent Consultant, or explaining the circumstances under which it has not 
+               implemented such actions; 
+        
+       6.           Require the Independent Consultant to enter into an agreement that provides that 
+               for the period of engagement and for a period of two years from completion of the 
+               engagement, the Independent Consultant shall not enter into any employment, 
+               consultant, attorney-client, auditing or other professional relationship with SUN, or 
+               any of its present or former affiliates, directors, officers, employees, or agents 
+               acting in their capacity.  The agreement will also provide that the Independent 
+               Consultant  will require that any firm with which he/she is affiliated or of which 
+               he/she is a member, and any person engaged to assist the Independent Consultant 
+               in performance of his/her duties under this Order shall not, without prior written 
+               consent of the Commission, enter into any employment, consultant, attorney-
+               client, auditing or other professional relationship with Sun, or any of its present or 
+               former affiliates, directors, officers, employees, or agents acting in their capacity 
+               as such for the period of the engagement and for a period of two years after the 
+               engagement. 
+        
+       7.           Sun: (a) shall not have the authority to terminate the Independent Consultant 
+               without the prior written approval of the Commission staff; (b) shall compensate 
+               the Independent Consultant, and persons engaged to assist the Independent 
+               Consultant, for services rendered pursuant to the Order at their reasonable and 
+               customary rates; and (c) shall not be in and shall not have an attorney-client 
+               relationship with the Independent Consultant and shall not seek to invoke the 
+               attorney-client or any other doctrine or privilege to prevent the Independent 
+               Consultant from transmitting any information, reports, or documents to the 
+               Commission. 
+                                                  
+                                               V. 
+                                                  
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondents Sun and SCOLPs Offers. 
+ 
+       Accordingly, it is hereby ORDERED that: 
+ 
+              A.       Respondents Sun and SCOLP cease and desist from committing or causing any 
+violations and any future violations of Sections 17(a)(2) and (3) of the Securities Act and Sections 
+
+                                               11 
+---------------------Page 12---------------------
+
+13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 12b-20, 13a-1, 13a-13, and 
+13b2-1 thereunder; and 
+ 
+ B. Respondent Sun comply                                                                                                                                    with the undertakings in Section IV., above. 
+ 
+ By the Commission. 
+ 
+ 
+ 
+       Nancy M. Morris 
+       Secretary 
+ 
+ 
+ 
+
+                                                                                                                                                                                              12 

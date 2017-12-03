@@ -1,0 +1,691 @@
+---------------------Page 1---------------------
+
+                                UNITED STATES OF AMERICA 
+
+                                            Before the 
+
+                         SECURITIES AND EXCHANGE COMMISSION 
+
+                                                  
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No.  51517 / April 11, 2005 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 2231 / April 11, 2005                               
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-11891 
+____________________________________ 
+                                         : 
+In the Matter of : 
+                                         :      ORDER INSTITUTING CEASE-AND-DESIST  
+GLOBAL CROSSING LTD.,            :             PROCEEDINGS, MAKING FINDINGS, 
+THOMAS J. CASEY,                    :          AND IMPOSING A CEASE-AND- DESIST 
+DAN J. COHRS, and                    :         ORDER PURSUANT TO SECTION 21C 
+JOSEPH P. PERRONE,                 :           OF THE SECURITIES EXCHANGE ACT OF 1934 
+                                         :   
+             Respondents.                       : 
+____________________________________: 
+
+                                                  
+                                                 I. 
+ 
+      The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-and-
+desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities Exchange Act of 
+1934 (“Exchange Act”), against Global Crossing Ltd. (“GX” or the “company”), Thomas J. Casey 
+(“Casey”), Dan J. Cohrs (“Cohrs”), and Joseph P. Perrone (“Perrone”) (collectively, the “Respondents”). 
+       
+                                                II. 
+ 
+      In anticipation of the institution of these proceedings, Respondents have submitted Offers of 
+Settlement (“Offers”), which the Commission has determined to accept.  Solely for the purpose of these 
+proceedings and any other proceedings brought by or on behalf of the Commission or to which the 
+Commission is a party, and without admitting or denying the findings herein, except as to the Commission’s 
+jurisdiction over them and the subject matter of these proceedings, which are admitted, Respondents consent 
+to the entry of this Order Instituting Cease-and-Desist Proceedings, Making Findings, and Imposing a 
+Cease-and-Desist Order Pursuant to Section 21C of the Securities Exchange Act of 1934 (“Order”), as set 
+forth below. 
+                                                  
+                                                III. 
+       
+      On the basis of this Order and the Respondents’ Offers, the Commission finds that: 
+---------------------Page 2---------------------
+
+        
+       A.      SUMMARY   
+
+       This case concerns the failure of GX and its senior management to ensure that the company provided 
+complete and accurate disclosure to investors concerning certain significant transactions entered into by the 
+company in the first half of 2001.  Because of GX’s inadequate disclosure, investors were not given the 
+opportunity to fairly judge the quality of GX’s financial results and the likelihood that its past performance 
+would be indicative of its future performance.  These significant transactions involved GX’s sales of 
+telecommunications capacity to other carriers that were linked to, and in some cases dependent on, its 
+purchase of capacity from the same carrier.  GX referred to these transactions as “reciprocal transactions.” 
+In early 2001, GX was increasingly reliant on the reciprocal transactions as a substantial source of GX’s 
+announced “pro forma” results, i.e., results of operations that were prepared on a basis defined by GX, and 
+that were not in accordance with generally accepted accounting principles (“GAAP”).  For example, GX had 
+a pro forma measurement called “Cash Revenue” that GX defined as revenue calculated in accordance with 
+GAAP, plus the cash portion of the change in deferred revenue.  Without these reciprocal transactions, GX 
+would not have met securities analysts’ estimates for its first and second quarter 2001 pro forma results.   
+
+       In its quarterly filings with the Commission for the first and second quarters of 2001, GX included 
+the money it received from the reciprocal transactions in its pro forma results, and it included the money it 
+received and paid in its statements of cash flows.  Because GX included the cash it received from reciprocal 
+transactions in its pro forma results and its statements of cash flows, it was required to disclose completely 
+and accurately material information regarding the reciprocal transactions and the effect of that information 
+on the interpretation of its financial results.  While GX did disclose (i) that GX sold telecommunications 
+capacity to carriers from which GX also purchased capacity, (ii) the gross dollar amounts of the sales and 
+purchases of capacity, and (iii) that the cash derived therefrom was a significant component of GX’s pro 
+forma results, GX’s disclosure was nevertheless inadequate. 
+        
+       Specifically, in the Management’s Discussion and Analysis of Financial Condition and Results of 
+Operations (“MD&A”) portion of its first and second quarter of 2001 Forms 10-Q, GX failed adequately to 
+disclose: 
+ 
+       •	   That the transactions were reciprocal in nature, i.e., that GX’s sale depended in whole or in part 
+           on GX’s purchase from the same carrier; 
+       •	   That GX’s pro forma results were increasingly dependent on these reciprocal transactions, and 
+           that, given market trends, GX likely would not be able to sustain these results in the future; 
+       •	   In presenting its statements of cash flows, that the reciprocal transactions did not enhance GX’s 
+           liquidity; and 
+       •	   Material information concerning GX’s purchase of capacity as part of certain reciprocal 
+           transactions that affected GX’s ability to integrate the purchased capacity into the GX network, 
+           including that (1) GX and certain contra parties still had to negotiate and agree upon important 
+           additional issues, (2) GX purchased certain capacity that would not be ready for service for a 
+           substantial time after the end of the quarter, (3) in certain reciprocal transactions GX had not 
+           designated the specific capacity to be purchased, and (4) GX had purchased certain capacity with 
+           the stated purpose of reselling the capacity. 
+    
+       This information was material to investors because GX ultimately could not sustain its heavy 
+reliance on deriving cash revenue from the reciprocal transactions, as these transactions did not enhance 
+
+                                                      2
+ 
+ 
+---------------------Page 3---------------------
+
+GX’s liquidity and, ultimately, GX could not fund the capital commitments required to integrate the 
+purchased capacity into the GX network and thereby derive future service revenues.  Thus, investors were 
+denied material information not contained in its financial statements but nonetheless necessary for a fair 
+understanding of GX’s financial performance and condition in light of the circumstances, namely in light of 
+the pro forma financial information and the information reflected in its statements of cash flows that GX 
+disclosed. 
+ 
+       GX’s Chief Executive Officer, Thomas J. Casey, its Chief Financial Officer, Dan J. Cohrs, and its 
+Executive Vice President of Finance, Joseph P. Perrone, knew material information regarding the reciprocal 
+transactions and their past and likely future effect on the company’s financial condition and results of 
+operations.  Casey, Cohrs, and Perrone reviewed and approved the MD&A portion of GX’s periodic reports 
+which failed to disclose this information.  Although GX’s counsel, independent auditor, and audit committee 
+chairman participated in reviewing the MD&A, Casey, Cohrs, and Perrone each had particular knowledge 
+because of their respective positions that the reciprocal transactions would cause GX’s reported financial 
+information not to be necessarily indicative of its future operating results or financial condition.  The 
+Respondents therefore knew or should have known that the disclosure was inadequate and failed to satisfy 
+their affirmative obligation to ensure that the disclosure was complete and accurate. 
+         
+       As a result, GX violated, and Casey, Cohrs, and Perrone caused violations of, the reporting 
+provisions of Section 13(a) of the Exchange Act and Rules 12b-20 and 13a-13 thereunder because GX’s 
+MD&A in its first and second quarters Forms 10-Q contained inadequate disclosure regarding the reciprocal 
+transactions. 
+ 
+       B. RESPONDENTS     
+
+              1.      Global Crossing Ltd. is a Bermuda corporation with its principal offices in 
+Hamilton, Bermuda and Florham Park, New Jersey, and formerly in Madison, New Jersey and Beverly 
+Hills, California.  GX was founded in 1997, and its initial public stock offering was in 1998.  At all relevant 
+times, GX’s common stock was registered with the Commission under Section 12(b) of the Exchange Act.  
+Currently, GX’s common stock   is registered with the Commission under Section 12(g) of the Exchange Act 
+and trades on the Nasdaq Stock Market.  GX’s common stock previously traded on the Nasdaq Stock 
+Market from August 1998 through November 5, 2000, on the New York Stock Exchange from November 6, 
+2000 through January 28, 2002, and through the OTC Bulletin Board from January 29, 2002 though January 
+21, 2004.  On January 28, 2002, GX and certain of its affiliates filed bankruptcy under Chapter 11 of the 
+United States Bankruptcy Code and coordinated proceedings under Bermuda law.  On December 26, 2002, 
+the bankruptcy court entered an order confirming a Joint Plan of Reorganization.  On December 9, 2003, 
+GX emerged from bankruptcy.   1 
+                                 
+
+                                                 
+1 
+ Prior to emergence from bankruptcy, GX filed with the Commission a Form 10-K for the year ended 
+December 31, 2002 which included, among other things, audited financial statements as of and for the years 
+ended December 31, 2002, 2001 and 2000 and selected quarterly data required by Item 302(a) of Regulation 
+S-K, for 2002 and 2001, not having filed a Form 10-K for the year ended December 31, 2001.  After 
+emergence from bankruptcy, a newly formed Bermuda company named Global Crossing Limited (“New 
+GX”) filed Exchange Act reports as successor issuer to GX under the Exchange Act.  On December 23, 
+2003, New GX filed with the SEC a Form 8-K which contained an audited balance sheet as of the date of 
+emergence.  On December 23, 2003, New GX filed with the SEC a Form 10-Q for each of the quarters 
+(footnote cont.) 
+
+                                                    3
+ 
+ 
+---------------------Page 4---------------------
+
+                
+               2.     Thomas J. Casey was GX’s CEO from October 2000 to October 2001, a GX 
+managing director from September 1998 to October 2000, and a GX vice chairman from December 1998 to 
+October 2001.  In addition, from September 1998 to October 2000, Casey was president and a managing 
+director of a private merchant bank.  He previously was an investment banker at a major registered broker-
+dealer and a partner at two major law firms.  He also was an attorney at the Federal Communications 
+Commission and at the U.S. Department of Justice.  Casey received a B.A. from Boston College and a J.D. 
+from George Washington University Law School. 
+                
+               3.     Dan J. Cohrs was GX’s CFO from May 1998 to July 2003, Senior Vice President 
+from May 1998 to December 2000, and a GX Executive Vice President from December 2000 to July 2003.  
+Previously, Cohrs was an officer in the finance departments at several major corporations.  Cohrs also was 
+an assistant professor of finance at the business school of a major university.  Cohrs received a B.S. from  
+Michigan State University and a Ph.D. in Finance from Cornell University, Johnson School of Management.   
+                
+               4.     Joseph P. Perrone   was GX’s Executive Vice President, Finance from December 
+2000 to November 2002 and its Senior Vice President, Finance from May 2000 to December 2000.  He was 
+GX’s Executive Vice President, Business Performance until August 2003.  Previously, Perrone worked for 
+over 30 years at a major accounting firm, at which he was a partner.  He is a certified public accountant 
+licensed in New Jersey.  Perrone received a B.S. in accounting from Seton Hall University. 
+ 
+       C. FACTS         
+ 
+        1.            Background  
+        
+                      a.      GX’s Business and Reciprocal Transactions   
+        
+       GX is a telecommunications company whose business plan, as it evolved over time, was to construct 
+and/or acquire a state-of-the-art global fiber-optic network and to sell fiber optic capacity and 
+telecommunications services (collectively “capacity”) on that network to other providers and users of 
+telecommunications services.  GX sold this capacity through contracts in the form of “Indefeasible Rights of 
+Use,” or “IRUs.”  An IRU is an irrevocable right to use a specific amount of capacity for a specified time 
+period.  GX also purchased specific capacity in the form of IRUs and used that capacity in part to extend 
+and enhance its network.   
+ 
+       By early 2001, an increasing number of GX’s carrier customers were requesting that GX buy 
+capacity from them, and it was becoming increasingly difficult for GX to sell capacity to carrier customers 
+unless, at the same time, GX purchased a similar dollar amount of capacity from the same carrier.  In other 
+words, GX’s ability to sell capacity often became linked to, and in some cases dependent on, GX’s 
+simultaneous purchase of a nearly equal dollar amount of capacity.  GX referred to the simultaneous 
+purchase and sale of capacity with other carriers as “reciprocal transactions.” 
+                                                                                                                                                                                
+(footnote cont.) 
+
+ended  March 31, 2003, June 30, 2003 and September 30, 2003, with GX not having filed Forms 10-Q since 
+
+the quarter ended September 30, 2001.  GX has informed the SEC that it and New GX have made such 
+
+filings under the Exchange Act as are described above.
+  
+
+                                                     4 
+ 
+---------------------Page 5---------------------
+
+        
+       The purchase and sale of capacity was documented through separate and independent contracts. 
+These contracts typically provided for the purchaser to immediately pay the seller the full purchase price.  
+Accordingly, except in two instances, GX and the other carrier exchanged cash for the IRUs, even if the 
+amounts exchanged were the same or similar.  The purchase and sale contracts did not contain cross-default 
+provisions; thus, they created independently enforceable rights and liabilities as to each party. 
+ 
+                      b.     GX’s Reporting of GAAP and Pro Forma Financial Information  
+        
+       GX announced its operating results in periodic reports filed with the Commission (as well as in 
+earnings press releases disseminated to the public).  In Forms 10-Q and earnings releases for the first and 
+second quarters of 2001, GX reported financial information that it stated was prepared in accordance with 
+GAAP.  The Forms 10-Q included GAAP balance sheets, statements of operations (income statement), and 
+statements of cash flows, while the earnings releases included GAAP results of operations. 
+        
+       In addition to its GAAP financial statements, GX also reported “pro forma” financial results.  GX 
+reported to the public two principal measurements of its pro forma financial results – “Cash Revenue” and 
+“Recurring Adjusted Earnings Before Interest, Taxes, Depreciation, and Amortization,” also known as 
+“Recurring Adjusted EBITDA.”  GX stated in its Forms 10-Q and earnings releases that Cash Revenue 
+consisted of revenue calculated in accordance with GAAP, plus the cash portion of the change in deferred 
+revenue, and that Recurring Adjusted EBITDA consisted of operating income or loss plus goodwill and 
+intangibles amortization, depreciation and amortization, non-cash cost of capacity sold, stock related 
+expense, merger-related expenses, certain other non-recurring expenses, and the cash portion of the change 
+in deferred revenue.  Securities analysts who covered GX analyzed the company’s performance and 
+established target operating results based primarily on its Cash Revenue and Recurring Adjusted EBITDA 
+pro forma results. 
+        
+       The principal difference between GX’s pro forma results of operations (i.e., Cash Revenue and 
+Recurring Adjusted EBITDA) and its GAAP results of operations was that Cash Revenue and Recurring 
+Adjusted EBITDA included the entire amount of cash that GX had collected during the period from GX’s 
+IRU sales to other carriers (i.e., the cash portion of the change in deferred revenue).  By comparison, GX’s 
+GAAP revenue did not include the entire amount of cash that GX had collected during the period from IRU 
+sales.  Rather, GX recorded a liability (deferred revenue) corresponding to the amount of cash collected 
+during the period from an IRU sale and recognized GAAP revenue ratably over the term of the IRU (often 
+in excess of 20 years) once the circuit was activated.  GX realized little to no GAAP net income from  
+reciprocal transactions because GX amortized revenues from IRU sales over many years, and because the 
+revenues recognized from reciprocal sales were in similar amounts to its depreciation of expenses for IRU 
+purchases over the term of the IRUs.  
+        
+       GX’s Forms 10-Q also included statements of cash flows that it stated were prepared in accordance 
+with GAAP.  In the statements of cash flows, GX included the cash it received from the reciprocal 
+transactions in its cash flows from operating activities and the cash it expended in the reciprocal transactions 
+in its cash flows from investing activities. 
+        
+
+                                                     5
+ 
+ 
+---------------------Page 6---------------------
+
+              2. 	    GX’s Reciprocal Transactions in the First and Second Quarters of  
+                      2001  
+        
+       GX’s reciprocal transactions reached their peak in the first and second quarters of 2001.  In the first 
+quarter of 2001, GX entered into 43 IRU transactions in which GX sold capacity to other carriers.  Nine of 
+these transactions were reciprocal transactions, and they accounted for $375 million of the $567 million (or 
+66%) of the IRU sales included in Cash Revenue and Recurring Adjusted EBITDA that GX reported in the 
+quarter.  Reciprocal transactions accounted for 23% of Cash Revenue and 85% of Recurring Adjusted 
+EBITDA for the quarter.  As part of these reciprocal transactions, GX committed to make capital 
+expenditures totaling $625 million, purchasing $383 million in capacity from the other carriers in the first 
+quarter and committing to spend in future quarters another $242 million to purchase additional new capacity 
+from the carriers and to possibly construct a new fiber optic system on which another carrier had committed 
+to purchase capacity.  Without these reciprocal transactions, GX would not have met securities analysts’ 
+estimates for Cash Revenue and Recurring Adjusted EBITDA in the first quarter. 
+         
+       In the second quarter of 2001, GX entered into 45 IRU transactions in which GX sold capacity to 
+other carriers.  Fourteen of these transactions were reciprocal transactions, and they accounted for $516 
+million of the $567 million (or 91%) of IRU sales for the quarter.  Reciprocal transactions accounted for 
+32% of Cash Revenue; without the reciprocal transactions, GX’s Recurring Adjusted EBITDA for the 
+quarter would have gone from the reported $472 million to a negative $43 million.  As part of these 
+reciprocal transactions, GX paid cash or agreed to pay cash totaling $437 million to purchase capacity from  
+its carrier customers in the second quarter.  Without these reciprocal transactions, GX would not have met 
+securities analysts’ estimates for Cash Revenue and Recurring Adjusted EBITDA in the second quarter. 
+        
+              3.      The Process By Which GX Came to Disclose the Reciprocal Transactions  
+        
+       Because GX’s reciprocal transactions had increased significantly in the first quarter of 2001, Perrone 
+came to the conclusion that separate disclosure of the reciprocal transactions should be made.  Various 
+internal discussions among GX management and the chairman of GX’s audit committee ensued during 
+March 2001.  Eventually, at an audit committee meeting on April 11, 2001, GX management (including 
+Casey, Cohrs, and Perrone) reviewed the list of IRU transactions provided to the committee and 
+recommended that the reciprocal transactions be separately disclosed, and the Chairman of the Board, the 
+audit committee, the in-house general counsel, and GX’s independent auditor concurred.  The Chairman of 
+the Board stated, and the audit committee concurred, that the chairman of the audit committee should review 
+and approve the disclosure.  The disclosure was also raised at a full Board meeting that same day, and the 
+Board also asked that the audit committee or its chairman review the disclosure.   
+        
+       Various GX employees participated in drafting the proposed disclosure regarding the first quarter 
+2001 reciprocal transactions.  In preparing the disclosure, GX employees, including Casey, Cohrs, and 
+Perrone, sought review by GX’s in-house counsel, GX’s outside counsel, GX’s independent auditor, and the 
+chairman of the audit committee, among others.  None of those consulted raised any objection to the 
+proposed disclosure with Casey, Cohrs, or Perrone. 2
+                                                     The respondents thus relied on a process that had been 
+established for the preparation of the disclosure. 
+                                                 
+2
+ This process was not repeated in preparing the second quarter 2001 disclosure, as the second quarter’s 
+disclosure essentially mirrored that of the first quarter. 
+
+                                                     6
+ 
+ 
+---------------------Page 7---------------------
+
+        
+       Eventually, Casey, Cohrs, and Perrone reviewed and approved the disclosure for the first and second 
+quarters of 2001.  As discussed below, this disclosure was inadequate in several important respects. 
+        
+              4.      GX’s Disclosure Regarding the Reciprocal Transactions  
+        
+                     a.      First Quarter 2001  
+        
+       In a Form 10-Q filed on May 15, 2001 (as well as in an earnings release issued on May 9, 2001, and 
+a conference call with analysts and investors on May 10, 2001), GX reported its first quarter 2001 financial 
+results and made various statements regarding GX’s IRU sales and purchases. 
+        
+       GX stated in the Form 10-Q and the earnings release that its quarterly Cash Revenue was $1.613 
+billion, Recurring Adjusted EBITDA was $441 million, and Recurring Net Loss was $608 million, or $0.69 
+per share.  These results exceeded the securities analysts’ consensus estimates.  The earnings release further 
+reported that Recurring Adjusted EBITDA was up 43% and Cash Revenue was up 39% from the first 
+quarter of 2000. 
+        
+       In the footnotes to the financial statements in the Form 10-Q as well as in the earnings release, GX 
+further stated that the Cash Revenue and Recurring Adjusted EBITDA amounts included $375 million 
+received from significant carrier customers who signed contracts during the quarter to purchase $500 
+million of capacity on GX’s network and to whom GX “made substantial capital commitments during the 
+quarter.” 
+        
+       In the MD&A portion of the Form 10-Q and in the earnings release, GX stated that it had entered 
+into several agreements with various carrier customers for the purchase of capacity “in order to acquire cost-
+effective local network expansions; to provide for cost-effective alternatives to new construction in certain 
+markets in which [GX] anticipates shortages of capacity; and to provide additional levels of physical 
+diversity in the network as [GX] implements its global mesh architecture.”  The Form 10-Q and the earnings 
+release  further stated that GX’s capital commitments under these contracts totaled an estimated $625 
+million.  
+        
+       In the statement of cash flows included in GX’s Form 10-Q, GX reported a positive $21 million in 
+net cash from operating activities, which included an increase in cash from the sale of IRUs as compared to 
+the first quarter of 2000.  With respect to cash flows from investing activities, GX reported increases over 
+the prior period in its purchases of property and equipment and net cash used in investing activities 
+primarily as a result of GX’s continued expansion of its network. 
+        
+                     b.      Second Quarter 2001    
+        
+       In a Form 10-Q filed on August 14, 2001 (as well as in an earnings release issued on August 1, 2001, 
+and a conference call with analysts and investors on August 2, 2001), GX reported its second quarter 2001 
+financial results and made various statements regarding GX’s IRU sales and purchases.  
+        
+       GX stated in the Form 10-Q and the earnings release that its quarterly Cash Revenue was $1.620 
+billion, Recurring Adjusted EBITDA was $472 million, and Recurring Net Loss was $607 million, or $0.69 
+per share.  These results were close to the analysts’ consensus estimates of $1.674 billion for Cash Revenue 
+
+                                                     7
+ 
+ 
+---------------------Page 8---------------------
+
+and $464 million for Recurring Adjusted EBITDA.  The earnings release further reported that Recurring 
+Adjusted EBITDA was up 33% and Cash Revenue was up 26% from the second quarter of 2000. 
+        
+       The Form 10-Q and the earnings release further stated that Cash Revenue and Recurring Adjusted 
+EBITDA included $345 million received from significant carrier customers who signed contracts during the 
+quarter to purchase $381 million of capacity on GX’s network and to whom GX made substantial cash 
+commitments during the quarter. 
+        
+       Elsewhere in the disclosure, including in the MD&A portion of the Form 10-Q, GX stated that it had 
+entered into several agreements with various carrier customers for the purchase of capacity.  The Form 10-Q 
+and the earnings release again explained that GX entered into these contracts “in order to acquire cost-
+effective local network expansions; to provide for cost-effective alternatives to new construction in certain 
+markets in which [GX] anticipates shortages of capacity; and to provide additional levels of physical 
+diversity in the network as [GX] implements its global mesh architecture.”  The Form 10-Q and the earnings 
+release also stated that GX’s cash commitments under these contracts totaled an estimated $358 million. 
+        
+       GX also reported in the Form 10-Q its statement of cash flows for the six months ended June 30, 
+2001.  GX reported a positive $677 million in net cash from operating activities, up from $330 million for 
+the same period in 2000, with the increase “primarily due,” among other reasons, to “an increase in revenue 
+from [its] . . . carrier business[] resulting from . . . an increase in the number of capacity agreements 
+executed by [GX’s] carrier customers.”  With respect to cash flows from investing activities in the first and 
+second quarters, GX reported that it had increased its capital spending from the prior year to purchase 
+capacity to build out and complete its network. 
+        
+       In reporting the amounts received in reciprocal transactions, GX excluded a reciprocal transaction 
+with one carrier.  GX included, however, this transaction in its pro forma metrics, Cash Revenue and 
+Recurring Adjusted EBITDA.  This reciprocal transaction related to an earlier IRU transaction between GX 
+and the other carrier.  In the second quarter, however, GX and the other carrier renegotiated the earlier 
+transaction and entered into new reciprocal agreements to purchase capacity, under which GX sold $170 
+million in capacity to the other carrier and committed to purchase $79.2 million in capacity from that carrier.  
+Had GX included this transaction in its totals for reciprocal transactions, the amount that GX received from  
+significant carrier customers for capacity would have been $515 million (instead of $345 million), a 49% 
+increase, and the amount that GX paid these carrier customers for capacity would have been $436.9 million 
+(instead of $358 million), a 22% increase.   
+        
+              5. 	    The Inadequate Disclosure  
+        
+       GX’s first and second quarters Forms 10-Q were inadequate in the following respects:  
+ 
+                      a. 	   Reciprocal Nature of the Transactions and GX’s Increasing Reliance  
+                             on Them  
+                              
+       In its disclosures regarding IRUs, GX disclosed that it had sold substantial amounts of capacity to 
+customers to whom it had also made substantial cash commitments.  GX also disclosed the gross dollar 
+amounts of these purchases and sales.  This disclosure, however, was inadequate.  GX’s disclosure failed to 
+state explicitly that these IRU transactions were reciprocal in nature, i.e., that GX’s IRU sale depended at 
+least in part on GX’s simultaneous purchase of a similar dollar amount of capacity from the same carrier.  
+
+                                                     8
+ 
+ 
+---------------------Page 9---------------------
+
+As a result, investors were not provided with the information necessary to adequately judge the quality of 
+GX’s financial results.  In addition, investors were not informed that GX’s future sales growth was limited 
+by its ability to incur future capital expenditures. 
+         
+       Moreover, GX also did not specify that it was becoming increasingly reliant on the reciprocal 
+transactions as a source of Cash Revenue and Recurring Adjusted EBITDA.  In the first and second quarters 
+of 2001, GX’s Cash Revenue and Recurring Adjusted EBITDA from reciprocal transactions increased 
+significantly from the corresponding periods of 2000. 
+        
+                      b.      The Reciprocal Transactions’ Effect on Liquidity  
+ 
+       One measure of a company’s liquidity is its cash flows from operating activities in its statements of  
+cash flows.  In its first and second quarters Forms 10-Q, GX included the cash that it received from the 
+reciprocal transactions in the cash flows from operating activities and included the cash it spent in the 
+reciprocal transactions in its cash flows from investing activities.  By presenting the reciprocal transactions 
+in the statements of cash flows in this manner and not disclosing adequately the reciprocal nature of the 
+transactions, GX failed to disclose that the reciprocal transactions did not enhance its liquidity from  
+operating activities. 
+        
+       Specifically, GX disclosed in its statements of cash flows net cash provided by operating activities of  
+$21 million for the first quarter and $677 million for the first and second quarters.  GX, however, did not 
+disclose adequately in its MD&A that these amounts included as proceeds from reciprocal transactions $375 
+million in the first quarter and $890 million in the first and second quarters and that, without these 
+reciprocal transactions, GX would have had a negative cash flow from operating activities of $354 million 
+in the first quarter and a positive cash flow from operating activities of only $213 million in the first and 
+second quarters. 
+        
+       With respect to GX’s cash flow from investing activities, GX reported purchases of property and 
+equipment of $1.262 billion in the first quarter and $2.286 billion in the first and second quarters.  GX, 
+however, did not disclose adequately in the statements of cash flows, or in the notes to the financial 
+statements, that these items included the amounts disclosed as the cash commitments made in connection 
+with reciprocal transactions ($383 million (or 30% of the total) in the first quarter and $819 million (or 35% 
+of the total) in the first and second quarters). 
+ 
+                       c.     Information Concerning the Purchased Capacity  
+ 
+       GX’s disclosure regarding its purchases of capacity was also deficient because it failed to disclose 
+material information about those transactions.  First, in five reciprocal transactions, although GX had 
+written arrangements which GX regarded as binding with its contra parties, GX and the contra party still had 
+to negotiate and agree upon important additional operational or business issues, including, in some cases, 
+what capacity was to be exchanged between the parties and when they were to do so. 
+        
+       Second, in eight reciprocal transactions, GX purchased capacity that would not be ready for service 
+until sometime after the end of the quarter, and in some cases not for weeks, months or, occasionally, even a 
+year or more, because the capacity was not yet constructed, was still under construction (including in one 
+instance because the carrier was in severe financial difficulty and in danger of declaring bankruptcy), 
+required governmental approvals, and/or required substantial future additional capital expenditures by GX. 
+
+                                                      9
+ 
+ 
+---------------------Page 10---------------------
+
+         
+       Third, in four reciprocal transactions, GX had not designated the specific capacity that it was 
+purchasing at the time of the purchase.  Rather, GX entered into commitments to purchase capacity 
+anywhere on the other carrier’s network, on certain segments of those networks, or for certain types of 
+capacity, the specifics of which GX would designate in the future.  Under these transactions, GX had 
+substantial amounts of time to designate the actual capacity. 
+         
+       Finally, in five reciprocal transactions, GX purchased capacity in which the stated purpose for the 
+capacity was to resell it to other carriers.  In some of these reciprocal transactions, GX was, at the time of 
+the purchase, negotiating with other carriers to resell the capacity; however, GX never completed these 
+negotiations and did not resell any of this capacity. 
+ 
+       GX did not disclose this information in its first and second quarter 2001 Forms 10-Q.  This 
+information was material to investors because it affected GX’s ability to integrate the purchased capacity 
+into the GX network and thereby derive future revenues.  Moreover, GX failed to disclose to investors that, 
+in light of GX’s increasing dependence on reciprocal transactions for the sale of IRUs, the limitations on its 
+ability to integrate its purchased capacity could adversely impact its ability to sustain its increasing reliance 
+on reciprocal IRU transactions. 
+ 
+              6. 	    The Individual Respondents’ Knowledge of the Reciprocal Transactions  
+                      and Responsibility for the Disclosure  
+        
+       Casey, Cohrs, and Perrone knew of GX’s reciprocal transactions and of the business purposes for the 
+purchases and understood that in many instances GX could not sell the capacity to the other carriers without 
+also concurrently purchasing capacity from the other carriers.  Casey and Cohrs also knew that a factor in 
+determining whether to buy capacity from another carrier was the fact that the other carrier was concurrently 
+buying capacity from GX.  Casey, Cohrs, and Perrone were also aware of the amount of reciprocal 
+transactions in the first and second quarters, and that in most of the reciprocal transactions, the amount of 
+GX’s sale was close to the amount of GX’s purchase.  Casey, Cohrs, and Perrone knew that GX needed the 
+reciprocal transactions to meet analysts’ estimates in the first and second quarters of 2001. 
+        
+       Casey, Cohrs, and Perrone also knew that in some  of the reciprocal transactions, GX had purchased 
+capacity (1) that would not be ready for service until substantially after the end of the quarter; (2) in the first 
+quarter from another carrier that then was in severe financial difficulty; and (3) that GX could designate for 
+use in the future.  In addition, Perrone knew that in some of the reciprocal transactions, although GX and the 
+contra party had written arrangements that Perrone regarded as binding, GX and the contra party had yet to 
+negotiate and agree upon important additional operational or business issues.   
+        
+       Casey, Cohrs, and Perrone reviewed and approved the disclosure regarding the reciprocal 
+transactions.  Although they knew that GX’s counsel, its independent auditor, and its audit committee 
+chairman had also participated in reviewing the disclosure and had not expressed any objections to them or 
+anyone else at GX about the disclosure, they had an affirmative obligation to go beyond the established  
+procedures (including the legal and accounting advice they received) to ensure the accuracy and 
+completeness of GX’s periodic reports.  In light of their particular knowledge about the reciprocal 
+transactions and their past and likely future effect on the company’s financial condition and results of 
+operations, the respondents knew or should have known that the disclosure was inadequate. 
+ 
+
+                                                     10
+ 
+ 
+---------------------Page 11---------------------
+
+       D. 	   LEGAL ANALYSIS:  VIOLATIONS OF THE REPORTING PROVISIONS OF 
+              SECTION 13(a) OF THE EXCHANGE ACT AND RULES 12b-20 AND 13a-13 
+              THEREUNDER  
+        
+       Section 13(a) of the Exchange Act and Rule 13a-13 thereunder require issuers of securities 
+registered pursuant to Section 12 of the Exchange Act, like GX, to file certain quarterly reports with the 
+Commission.  Implicit in these provisions is the requirement that the reports accurately reflect the issuer’s 
+financial condition and operating results.  See SEC v. IMC Int’l, Inc., 384 F. Supp. 889, 893 (N.D. Tex.), 
+aff’d mem., 505 F.2d 733 (5th Cir. 1974).  Rule 12b-20 under the Exchange Act further requires the 
+inclusion of any additional material information that is necessary to make required statements, in light of the 
+circumstances under which they were made, not misleading.  A fact is material if there is a substantial 
+likelihood that a reasonable investor would consider the information important in making an investment 
+decision.  Basic Inc. v. Levinson, 485 U.S. 224, 231-32 (1988); TSC Indus., Inc. v. Northway, Inc., 426 U.S. 
+438, 449 (1976).  Information concerning a company’s financial condition is material.  See, e.g., SEC v. 
+Murphy, 626 F.2d 633, 653 (9th Cir. 1980).  No showing of scie nter is required to establish a violation of 
+Section 13(a) of the Exchange Act.  See SEC v. Savoy Indus., Inc., 587 F.2d 1149, 1167 (D.C. Cir. 1978). 
+ 
+       Form 10-Q requires MD&A disclosure that includes information required by Item 303 of Regulation 
+S-K.  17 C.F.R. § 229.303.  Item 303 requires that management discuss and analyze the registrant’s financial 
+condition, changes in financial condition, and results of operations, with a specific focus on “material events 
+and uncertainties known to management that would cause reported financial information not to be 
+necessarily indicative of future operating results or of future financial condition.”  17 C.F.R. § 229.303(a), 
+Instruction 3.  Among other things, Item 303 requires management to (1) “[i]dentify any known trends or 
+any known demands, commitments, events or uncertainties that will result in or that are reasonably likely to 
+result in the registrant’s liquidity increasing or decreasing in any material way”; and (2) “[d]escribe any 
+known trends or uncertainties that have had or that the registrant reasonably expects will have a material 
+favorable or unfavorable impact on net sales or revenues or income from continuing operations.”  17 C.F.R. 
+§ 229.303(a)(1), (3)(ii). 
+ 
+       The purpose of MD&A is “to give the investor an opportunity to look at the company through the 
+eyes of management by providing both a short and long-term analysis of the business of the company.”  
+SEC Interpretation:  Management’s Discussion and Analysis of Financial Condition and Results of 
+Operations; Certain Investment Company Disclosures, Exchange Act Release No. 26831 (May 18, 1989) 
+(“MD&A Release”); see also In re Caterpillar Inc., Exchange Act Release No. 30532 (Mar. 31, 1992).  As 
+the Commission has stated, “It is the responsibility of management to identify and address those key 
+variables and other qualitative and quantitative factors which are peculiar to and necessary for an 
+understanding and evaluation of the individual company.”  MD&A Release. 
+ 
+       One of MD&A’s primary objectives is to enhance overall financial disclosure and provide the 
+context within which financial information should be analyzed.   In the absence of complete and accurate 
+MD&A, a company’s financial statements and accompanying footnotes “may be insufficient for an investor 
+to judge the quality of earnings and the likelihood that past performance is indicative of future 
+performance.”  MD&A Release. 
+ 
+       While counsel, an auditor, or other third party may review the MD&A section, the substance of the 
+MD&A remains firmly the non-delegable responsibility of management.  See MD&A Release. 
+“Management has a unique perspective on its business that only it can present.”  Interpretation: 
+
+                                                    11
+ 
+ 
+---------------------Page 12---------------------
+
+Commission Guidance Regarding Management’s Discussion and Analysis of Financial Condition and 
+Results of Operations, Exchange Act Release No. 48960 (Dec. 29, 2003). 
+        
+       Corporate officers have “affirmative responsibilities . . . to ensure that the shareholders whom they 
+serve receive accurate and complete disclosure of information required by the proxy solicitation and 
+periodic reporting provisions of the federal securities laws.”  Report of Investigation Pursuant to Section 
+21(a) of the Securities Exchange Act of 1934 Concerning the Conduct of Certain Former Officers and 
+Directors of W.R. Grace & Co., Exchange Act Release No. 39157 (Sept. 30, 1997).  “Officers . . . who 
+review, approve, or sign their company’s proxy statements or periodic reports must take steps to ensure the 
+accuracy and completeness of the statements contained therein, especially as they concern those matters 
+within their particular knowledge or expertise.”  Id.  “To fulfill this responsibility, officers . . . must be 
+vigilant in exercising their authority throughout the disclosure process.”  Id.  
+ 
+               1. GX       
+ 
+       GX violated Section 13(a) of the Exchange Act and Rules 12b-20 and 13a-13 thereunder, which 
+require issuers of securities registered pursuant to Section 12 of the Exchange Act, like GX, to file accurate 
+and not misleading quarterly reports with the Commission.  GX failed to adequately disclose material 
+events, trends, and uncertainties relating to its past and future financial condition and results of operations. 
+GX thus failed to provide the context within which financial information should be analyzed.  As a result, 
+investors did not have the ability to judge the quality of GX’s financial results and the likelihood that its past 
+performance would be indicative of future performance. 
+        
+       Specifically, GX omitted to disclose in its MD&A in the first and second quarters Forms 10-Q the 
+reciprocal nature of a substantial amount of its IRU transactions, its increased use of reciprocal transactions, 
+and its increasing reliance on such reciprocal transactions as a source of Cash Revenue and Recurring 
+Adjusted EBITDA. 
+        
+       In addition, in presenting its statements of cash flows, GX omitted to disclose that the reciprocal 
+transactions did not enhance GX’s liquidity from operating activities.  By including reciprocal transaction 
+sales in the cash flows from operating activities, GX reported cash flows from operating activities of a 
+positive $21 million for the first quarter and $677 million for the first and second quarters.  GX did not 
+disclose in its statements of cash flows that a substantial amount of the cash flows from operating activities 
+resulted from reciprocal transaction sales and that the reciprocal purchases were reported as part of cash 
+flows from investing activities. 
+        
+       GX also omitted to disclose that in the reciprocal transactions, it often purchased capacity that would 
+not be able to be integrated into its network, and thereby derive future service revenues, for some time.  In 
+particular, GX failed to disclose that in certain of these reciprocal transactions, GX had not completely  
+negotiated important operational and business issues, including what was to be exchanged between the 
+parties and when they were to do so; GX had purchased capacity that would not be ready for service until 
+sometime after the quarter, and in some cases not for weeks, months or, occasionally, even a year or more; 
+in the first quarter, GX had purchased capacity from another carrier that was then in severe financial 
+difficulty and in danger of declaring bankruptcy; and GX had purchased capacity that GX could designate 
+for use in the future. 
+        
+
+                                                      12
+ 
+ 
+---------------------Page 13---------------------
+
+       The omitted information was material because it was necessary for a complete understanding of 
+GX’s financial results, the quality of its financial results, reasons for purchasing assets, and its ability to 
+integrate the purchased capacity into the GX network and thereby derive future service revenues. 
+Reasonable investors would have considered this information important in making an investment decision. 
+        
+               2.       Casey, Cohrs, and Perrone  
+        
+       Casey, Cohrs, and Perrone were a cause of GX’s violations of Section 13(a) of the Exchange Act and 
+Rules 12b-20 and 13a-13 thereunder.  Casey, Cohrs, and Perrone knew that a substantial amount of GX’s 
+IRU sales in the first and second quarters were part of reciprocal transactions and, as discussed above, that 
+in certain of the reciprocal transactions, GX (1) had purchased capacity that would not be ready for service 
+until sometime after the quarter; (2) in the first quarter, had purchased capacity from another carrier that was 
+then in severe financial difficulty; (3) had purchased capacity that GX could designate for use in the future; 
+and/or (4) had not completely negotiated important operational or business issues.  Casey, Cohrs, and 
+Perrone also knew that GX needed the reciprocal transactions to meet analysts’ estimates for the first and 
+second quarters of 2001.  Despite knowing this information, they reviewed and approved the disclosure in 
+the MD&A in the Forms 10-Q that omitted this material information. 
+        
+       E. GX’S COOPERATION                 
+        
+       During the course of its investigation, the Commission staff received significant cooperation from  
+GX, including waivers of the attorney-client privilege concerning certain key transactions and the 
+company’s public disclosure process. 
+        
+                                                           IV. 
+        
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions specified in 
+the Respondents’ Offers.  3 
+                           
+ 
+        Accordingly, it is hereby ORDERED that:  
+ 
+       A.      GX cease and desist from committing or causing any violations and any future violations of 
+Section 13(a) of the Exchange Act and Rules 12b-20 and 13a-13 thereunder.  
+ 
+       B.      Casey, Cohrs, and Perrone cease and desist from causing any violations and any future                                     
+violations of Section 13(a) of the Exchange Act and Rules 12b-20 and 13a-13 thereunder. 
+ 
+       By the Commission. 
+        
+        
+             Jonathan                                              G. Katz
+                                                Secretary 
+
+                                                 
+3
+ Casey, Cohrs, and Perrone have each agreed to pay a $100,000 civil penalty in connection with a parallel 
+civil action. 
+
+                                                        13
+ 
+ 

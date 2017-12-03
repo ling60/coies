@@ -1,0 +1,588 @@
+---------------------Page 1---------------------
+
+                                                                                     
+                          UNITED STATES OF AMERICA 
+                                     Before the 
+                   SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES ACT OF 1933 
+Release No. 9490 / December 4, 2013 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 70983 / December 4, 2013 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3514 / December 4, 2013 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-15635  
+ 
+                                           ORDER INSTITUTING PUBLIC 
+In the Matter of                          ADMINISTRATIVE AND CEASE-AND-
+                                          DESIST PROCEEDINGS PURSUANT TO 
+      FIFTH THIRD BANCORP                 SECTION 8A OF THE SECURITIES ACT 
+      and DANIEL POSTON                   OF 1933 AND SECTIONS 4C AND 21C OF 
+                                          THE SECURITIES EXCHANGE ACT OF 
+Respondents.                              1934 AND RULE 102(e) OF THE 
+                                          COMMISSIONS RULES OF PRACTICE, 
+                                          MAKING FINDINGS, AND IMPOSING  
+                                          REMEDIAL SANCTIONS AND CEASE-
+                                          AND-DESIST ORDERS AND  PENALTIES 
+                                           
+                                         I. 
+ 
+      The Securities and Exchange Commission (Commission) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act 
+of 1933 (Securities Act) and Section 21C of the Securities Exchange Act of 1934 (Exchange 
+Act), against Fifth Third Bancorp (Fifth Third) and Daniel Poston (Poston) (collectively, 
+Respondents) , and that public administrative proceedings be, and hereby are, instituted against 
+Poston pursuant to Section 4C of the Securities Exchange Act of 1934 (Exchange Act) and Rule 
+102(e)(1)(iii) of the Commissions Rules of Practice. 
+                                           
+                                         II. 
+ 
+      In anticipation of the institution of these proceedings, Respondents have submitted Offers 
+of Settlement (the Offers) which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the findings 
+herein, except as to the Commissions jurisdiction over them and the subject matter of these 
+proceedings, which are admitted, Respondents consent to the entry of this Order Instituting Public 
+---------------------Page 2---------------------
+
+Administrative and Cease-and-Desist Proceedings Pursuant to Section 8A of the Securities Act of 
+1933 and Section s 4C and 21C of the Securities Exchange Act of 1934 and Rule 102(e) of the 
+Commissions Rules of Practice, Making Findings, and Imposing Remedial Sanctions and Cease        -
+and-Desist Orders and Penalties (Order), as set forth below.   
+ 
+                                                III. 
+ 
+       On the basis of this Order and Respondents Offers, the Commission finds    1
+                                                                                     that:  
+ 
+                                           SUMMARY 
+        
+       This proceeding results from Fifth Thirds failure to record substantial losses during the 
+financial crisis by not properly accounting for a portion of its commercial real estate loan portfolio.  
+In the third quarter of 2008, Fifth Third decided to sell large pools of non-performing commercial 
+loans.  When Fifth Third  decided to sell the loans, Generally Accepted Accounting Principles 
+(GAAP) required  the company to reclassify them from held for investment to held for sale, 
+and to carry them at fair value.2
+                                  Because  the fair values of these loans were significantly below 
+Fifth Thirds carrying values, classifying them as held for sale would have resulted in a $169 
+million impairment, and increased Fifth Thirds pretax  loss in the third quarter of 2008 by 132 
+percent.  Fifth Thirds Chief Financial Officer Daniel Poston was familiar with  the companys loan 
+sale efforts and understood the relevant accounting rules.  Nevertheless, he failed to direct that 
+Fifth Third classify the loans as required, and made statements in a Fifth Third management 
+representation letter to Fifth Thirds auditors that, in light of the companys loan sale activities, 
+were not true.  Fifth Thirds and Postons accounting violations operated to deceive investors 
+during a time of significant upheaval and financial distress for the company. 
+        
+       As the real estate market declined in 2007 and 2008, Fifth Thirds non-performing assets 
+(NPAs) increased substantially.  In the third quarter of 2008, it became clear that Fifth Third 
+would no longer be able to rely on its collections and related work-out efforts to significantly 
+reduce its NPAs .  The only alternative the company meaningfully considered was sell   ing some of 
+its non-performing loans.  In July 2008, Poston and the other members of Fifth Thirds Corporate 
+Credit Committee authorized the he  ad of Fifth Thirds commercial banking division (the EVP) 
+to determine the likely sales prices for certain pools of non-performing loans.  At the time, Fifth 
+Third was carrying these loans at about 75 percent of unpaid balances (as a result of allowances  for 
+incurred credit losses and charge-offs taken against the unpaid principal balances).  Loan brokers 
+
+                                                 
+1
+       The findings herein are made pursuant to Respondents Offers of Settlement and are not binding on any 
+other person or entity in this or any other proceeding.  
+   
+2
+       GAAP prescribes that loans held for sale must be reported at the lower of cost or fair value.  Because the 
+fair values of all the loans in this matter were below cost, references herein to such reclassification only refer to fair 
+value.  See SOP 01-6, Accounting by Certain Entities (Including Entities With Trade Receivables) That Lend to or 
+Finance the Activities of Others.  
+ 
+
+                                                   
+                                                  2 
+---------------------Page 3---------------------
+
+told Fifth Third that the loans would likely sell, on average, for 30 to 41 percent of unpaid 
+balances.   
+        
+       With Fifth Thirds NPAs continuing to increas e, the companys senior management 
+decided to pursue a large sale of non-performing commercial loans.  In September 2008, Fifth 
+Third executed engagement agreements with two loan brokers to market and    sell loans with 
+combined balances of $1.5 billion.3
+                                     Poston  was aware that the companys commercial banking 
+division had engaged the loan brokers.  
+        
+       Despite all of the actions that Fifth Third had taken with respect to these loans  including 
+signing engagement agreements with brokers to sell the loans  the company did not classify the 
+loans as held for sale and record them accordingly in its Form 10-Q for the third quarter of 2008.  
+Instead, Fifth Third continued to classify the loans as held for investment, which  incorrectly 
+suggested that the company had not made the decision to sell the loans.  Poston certified the 
+accuracy and completeness of Fifth Thirds Form 10 -Q for the third quarter of 2008 despite his 
+knowledge of the companys loan sales activities and the relevant accounting rules. 
+        
+       In addition, Poston represented to the companys auditors in Fifth Thirds November 7, 
+2008 management representation letter for the third quarter of 2008 that the company had no plans 
+or intentions that may affect the classification of loans, and that the loans Fifth Third had classified 
+as held for investment were those that the company had the intent and ability to hold until maturity 
+or for the foreseeable future.  In light of  Fifth Thirds intent to sell the loans, these representations 
+were not true.  Fifth Third began receiving and accepting bids for loans that the brokers marketed 
+about two weeks after Fifth Thirds management representation letter was submitted to the 
+companys auditor. 
+        
+       In December 2008, Fifth Third senior management consulted with the companys board of 
+directors about managements decision to sell the non-performing commercial real estate loans 
+discussed above, as well as additional loans that Fifth Third decided in December 2008 to sell.  
+Fifth Third did not disclose the impairments resulting from the reclassification of all the loans until 
+January 22, 2009.  The reclassifications resulted in a cumulative $800 million loss.  Fifth Third 
+sold most of the loans at issue in December 2008 and in 2009.   
+        
+                                        RESPONDENTS 
+ 
+       1.      Fifth Third Bancorp, a diversified financial services company, is an Ohio 
+corporation headquartered in Cincinnati, Ohio.  With $121 billion in assets, Fifth Third is the 
+twenty-second largest bank holding company in the United States.  Fifth Thirds common stock is 
+registered with the Commission pursuant to Exchange Act Section 12(b) and trades on NASDAQ.       
+    
+       2.      Daniel Poston, 55, is a resident of Cincinnati, Ohio, and was Fifth Thirds CFO 
+from 2009 to October 2013.  Poston was previously Fifth Thirds interim CFO (May 2008 to 
+                                                 
+3
+       After receiving bids, Fifth Third had the option not to sell any of the loans at issue.  Fifth Third began 
+receiving bids on those loans in November 2008. 
+
+                                                  
+                                                3 
+---------------------Page 4---------------------
+
+November 2008), Controller (August 2007 to May 2008 and November 2008 to September 2009), 
+and Director of Audit (October 2001 to August 2007).  Before joining Fifth Third, Poston was a 
+partner with a large public accounting firm.  Poston was a licensed CPA in Ohio until he left public 
+accounting in September 2001.  
+
+                                              FACTS 
+ 
+    Fifth Third Considers Loan Sales as NPAs Rise and  then Takes Steps to Prepare     for a Sale 
+ 
+       3.      From the third quarter of 2007 through the second quarter of 2008, Fifth Third 
+considered selling pools of non-performing commercial real estate loans.  4
+                                                                             Though it had generally 
+held its commercial loans until maturity, Fifth Third considered selling certain of these loans to 
+deal with a substantial increase in its NPAs.5
+                                                By selling these loans, Fifth Third would save the 
+carrying costs of the loans, such as maintaining the properties and paying property taxes; mitigate 
+the need for additional impairments if workout strategies failed or real estate values continued to 
+decline; avoid the expenses and delays of foreclosure; and allow Fifth Third to report a stronger 
+balance sheet.  Fifth Third chose not to sell the loans during this period, however, because it 
+deemed the prices it expected to receive from such sales too low. 
+        
+       4.      In the third quarter of 2008, it became clear that Fifth Thirds efforts to work out 
+the non-performing loans with the borrowers would not be sufficient to significantly reduce  the 
+companys NPAs, and that the company      needed to pursue a large loan sale.  In July 2008, Poston 
+and the other members of Fifth Thirds Corporate Credit Committee authorized the EVP      to 
+determine the likely sales prices for four pools of non-performing loans and review the results with 
+the Committee.  That day, the EVP inst  ructed his staff to prepare for loan sales.  The EVPs direct 
+report and the head of the commercial banks Special Assets Group (SAG VP), then told 
+commercial bank employees, [o]ur intention is to do a large sale using [loan] brokers .  By the 
+end of July 2008, Fifth Third had decided to use two loan brokers  (Broker A and  Broker B) to 
+handle a potential  sale of loans with combined balances of $700 million.    
+        
+                    Fifth Thirds Interim Controller Informs Poston of Potential  
+                Accounting Consequences from Fifth Thirds Loan Sale Activities      
+                                                   
+       5.      In July and August 2008, Broker A and Broker B both     discussed with Fifth Third 
+the potential accounting consequences of the company obtaining    indicative pricing  i.e. the 
+brokers expert opinions of what the sales prices were likely to be for the loans.  Broker A told the 
+                                                 
+4
+       All of the loans discussed in this matter involved commercial properties in Michigan and Florida.  During 
+the relevant period, the value of the collateral securing these loans, which were primarily homebuilder-related 
+properties, was declining at a significant rate. 
+ 
+5
+       Fifth Thirds NPAs were loans on which the ultimate collectability of the full amount of principal and 
+interest was uncertain or that had been renegotiated to provide for a reduction or deferral of interest or principal 
+because of a deterioration in the financial position of the borrower.  At year -end 2006, Fifth Third had $271 million 
+in commercial NPAs.  By year-end 2007, commercial NPAs had more than doubled to $672 million.    
+ 
+
+                                                   
+                                                  4 
+---------------------Page 5---------------------
+
+SAG VP that one of Fifth Thirds competitors had told Broker A that an audit firm had required 
+the competitor to re-classify loans from held for investment to held for sale when it had obtained 
+indicative pricing from a loan broker, and, consistent with the  GAAP requirement to report the 
+loans at fair value, to mark the loans down to the indicative prices it had received from the loan 
+broker, regardless of whether the company sold the loans.  After learning of this development, an 
+employee in Fifth Thirds risk group sought advice from Fifth Thirds interim Controller, noting 
+[a]s we continue to work on potential commercial loan sales  we want to be sure that if we go 
+out to get indicative prices from brokers that we do not need to mark those loans to market based 
+on those bids.   
+        
+       6.      Broker B asked the SAG VP whether Fifth Third even wanted [indicative] 
+pricing on the loans it was considering selling.  Broker B told the SAG VP that their early 
+indications are very low and that Fifth Thirds peers have not wanted this info, because of the 
+accounting rulings.  Broker B also asked   the SAG VP whether Fifth Third had the budget set 
+forth for such a large potential [charge-off].6
+                                                 The  risk group employee forwarded an email from 
+the SAG VP summarizing this discussion to the interim Controller, and again asked for 
+confirmation from Accounting before we have the vendor send the pricing information that we 
+will not be forced to take a mark on the loans based on indicative pricing quotes.   
+        
+       7.      In the same email chain, the risk group employee expressed his understanding to 
+the interim Controller that Fifth Third should not have to classify these loans as held for sale 
+because the company had not decided to sell them, and would be using the indicative pricing to 
+help it decide whether to proceed with a sale.   
+
+       8.      On August 4, the   interim Controller recommended to his colleagues that they hold 
+off on receiving any specific pricing information since it may imply an intent to sell, [and] thereby 
+require us to classify them as [held for sale] and take a mark to adjust the loans to those prices. . .  
+(emphasis in original).  The interim Controller then forwarded the emails to Poston, who was 
+serving as Fifth Thirds Chief Financial Officer on an interim basis, and explain  ed that he had 
+provided verbal/tentative guidance to [the risk group employee] that the receipt of bids on specific 
+loans or pools of loans may be viewed as being inconsistent with the positive intent to hold a loan 
+to maturity and therefore might call into serious question the classification of such loans to the 
+extent they remained [classified as held for investment]. 7
+                                                               
+
+                                                 
+6
+       The reference to potential charge-off refers to the impairment that Fifth Third would need to recognize to 
+record the loans at fair value upon the reclassification of the loans from held for investment to held for sale.   
+ 
+7
+       The interim Controller also indicated that he and his team would research the issue and report back.   The 
+interim Controller and his team consulted, among other things, Fifth Thirds draft policy regarding loan 
+classification, which mirrors the Interagency Guidance on Certain Loans Held for Sale (2001) and a 2007 speech by 
+an SEC accounting fellow on loan classification, which conveys the SEC staffs belief that the classification of loans 
+as held for investment or held for sale is de pendent on management intent, and that management should make a 
+positive assertion regarding its ability and intent to hold or sell loans and classify them accordingly.  The  interim 
+Controller, who believed that the company continued to have the intent to hold the loans until maturity or for the 
+foreseeable future, concluded that a receipt of indicative bids was not, by itself, a bright light indicator that an issuer 
+had decided to sell loans.   
+
+                                                    
+                                                   5 
+---------------------Page 6---------------------
+
+       9.       Fifth Third subsequently obtained indicative pricing only    orally from the two loan 
+brokers.  On August 5, Broker A prepared two pricing analyses for Fifth Third: one containing 
+Broker As most current pricing analysis and a second that we can send to Fifth Third[].  Pricing 
+information has been removed. . . .  The following day,   one of Broker As principals informed his 
+colleagues that he had given Fifth Third pricing orally, by broad categories.  On August 5, Broker 
+B sent the SAG VP a list of loans that Broker B recommended   for sale that included the unpaid 
+customer balances for each loan, but no pricing information.  In an August 7 email, the SAG VP 
+stated he received verbal numbers from Broker B .   
+
+       10.     Poston, who had previously served as Fifth Thirds Controller and would return to 
+that role in November 2008, understood the relevant accounting rules. 
+ 
+                         Fifth Third Retains Loan Brokers to Sell Loans 
+        
+       11.     During the August 15 meeting of the Fifth Third Enterprise Committee (which was 
+comprised of Fifth Thirds Chief Executive Officer and his direct reports, including Poston and the 
+EVP, but not the interim Controller), the EVPs team presented an analysis of the potential loan 
+sales estimating that, based on the brokers indicative pricing, selling the $700 million of loans 
+they had identified would result in Fifth Third recording a $272 million impairment.  The 
+Enterprise Committee decided to delay a decision on whether to proceed with the contemplated 
+loan sales until the following weeks meeting. 
+        
+       12.     As it saw its commercial NPAs continuing to increase , Fifth Third began 
+considering an even larger loan sale.  Bank executives considered two options:  proceeding with 
+the $700 million loan sale they had been contemplating or pursuing a $2 billion loan sale, which 
+would include the $700 million in loans they had already been discussing with the brokers.   
+
+       13.     During the August 22 Enterprise Committee meeting that Poston and other senior 
+executives attended, Fifth Third decided to pursue a larger sale than the company had been 
+discussing with the loan brokers.  After identifying additional loans to include in a larger sale, Fifth 
+Third entered into engagement agreements with Broker A and Broker B     in September 2008, which 
+evidenced that the company had formed the  intent to sell the loans.  The agreements provided that 
+the brokers would help Fifth Third market and sell loans totaling about $1.5 billion.  Poston was 
+aware that the companys commercial banking division had engaged the    loan brokers.8
+                                                                                        
+        
+                        Fifth Third Fails to Reclassify Loans as Required 
+ 
+       14.     Though Fifth Third had entered into engagement agreements with the brokers to 
+facilitate a sale, which evidenced that the company had formed the intent to sell the loans, the 
+company did not reclassify the loans from held for investment to held for sale prior to the filing of 
+its Form 10-Q for the quarter ended September 30, 2008.   
+                                                 
+8
+       In October 2008, Fifth Third received additional pricing information from the brokers and authorized them 
+to begin marketing the loans and soliciting bids from potential buyers. 
+ 
+
+                                                  
+                                                6 
+---------------------Page 7---------------------
+
+        
+       15.     During its earnings call in October 2008 and in the Form 10-Q that it filed in 
+November 2008  which occurred during a time of significant economic upheaval and financial 
+distress for Fifth Third  Fifth Third reported a pretax loss of $128 million for the third quarter of 
+2008.  Had Fifth Third reclassified the loans that were the subject of the engagement agreements as  
+required by GAAP, it would have reported a pretax loss of $ 297 million.9
+                                                                           As Fifth Thirds Chief 
+Financial Officer, Poston signed the companys Form 10-Q for the quarter ended September 30, 
+2008 and certified the accuracy and completeness of its contents.   
+        
+                     Poston Makes Representations    to Fifth Thirds Auditors  
+               that, in Light of the Companys Loan Sale Activities, were Not True 
+        
+       16.     Though he was familiar with Fifth Thirds loan sale activities and understood that 
+another audit firm may have required a competitor to reclassify loans based on having received 
+indicative pricing, neither Poston, nor anyone else at Fifth Third, sought advice from the 
+companys outside auditor, Deloitte & Touche, regarding the appropriate classification of the loans 
+at issue.   
+        
+       17.     On November 7, Poston    signed Fifth Thirds management representation letter to 
+Deloitte, which states,  [t]he Bancorp has no plans or intentions that may affect the carrying value 
+or classification of assets and liabilities and [t]he Bancorp has properly classified loans on the 
+condensed consolidated balance sheets as held for sale or held for investment, based on the 
+Bancorps intent with respect to those loans.  In light of Fifth Thirds intent to sell the loans, these 
+representations were not true. 
+        
+       18.     Fifth Third began receiving and accepting bids for loans that the brokers marketed 
+about two weeks after Fifth Thirds management representation letter was submitted to Deloitte.  
+Fifth Thirds senior management consulted with the companys board of directors in December 
+2008 about its decision to sell the loans discussed above along with additional loans that Fifth 
+Third decided in December 2008 to sell.  Fifth Third did not disclose the impairment resulting 
+from the reclassification of all the loans until  January 22, 2009, when it released its earnings for the 
+fourth quarter of 2008.  Fifth Third sold most of the loans at issue in December 2008 and in 2009.   
+        
+                                             VIOLATIONS 
+        
+       19.     Securities Act Section 17(a)(2) prohibits any person from obtaining money or 
+property in the offer or sale of securities by means of any untrue statement of a material fact or any 
+omission to state a material fact necessary in order to make the statements made, in light of the 
+circumstances under which they were made, not misleading.    
+        
+
+                                                 
+9
+       The impairment from the reclassification was $169 million.  This was less than the $272 million expected 
+impairment as of August 15 because Fifth Third increased its partial charge-offs and reserves for the loans at issue 
+between then and September 30. 
+
+                                                  
+                                                 7 
+---------------------Page 8---------------------
+
+       20.    Securities Act Section 17(a)(3) prohibits any person from engaging in any 
+transaction, practice, or course of business which operates or would operate as a fraud or deceit 
+upon the purchaser in the offer or sale of securities. 
+        
+       21.    Exchange Act Section 13(a) and Rule 13a   -13 thereunder require that every issuer 
+of a security registered pursuant to Exchange Act Section 12 file with the Commission, among 
+other things, quarterly reports as the Commission may require, and, pursuant to Rule 13a-14, 
+mandate, among other things, that an issuers principal financial officer certify each periodic 
+report. 
+        
+       22.    Exchange Act Section 13(b)(2)(A) requires reporting companies to make and 
+keep books, records and accounts which, in reasonable detail, accurately and fairly reflect their 
+transactions and dispositions of their assets. 
+        
+       23.    Exchange Act Section 13(b)(2)(B) requires all reporting companies to devise and 
+maintain a system of internal accounting controls sufficient to provide reasonable assurances that 
+transactions are recorded as necessary to permit preparation of financial statements in accordance 
+with GAAP. 
+ 
+       24.    Exchange Act Rule 13b2-1 prohibits any person from directly or indirectly 
+falsifying or causing to be falsified any book, record or account subject to Exchange Act Section 
+13(b)(2)(A). 
+        
+       25.    Exchange Act Rule 13b2-2 prohibits, among other things, officers of issuers from 
+directly or indirectly making or causing to be made a materially false or misleading statement, or 
+omitting to state any material fact necessary in order to make statements made, in light of the 
+circumstances under which such statements were made, not misleading to an accountant in 
+connection with any quarterly review or the preparation or filing of any document or report 
+required to be filed with the Commission. 
+        
+       26.    As a result of the conduct described above, Fifth Third violated Securities Act 
+Sections 17(a)(2) and 17(a)(3), and Exchange Act Sections 13(a) and Rule 13a-13 because its 
+financial statements failed to record its commercial real estate loans appropriately under GAAP. 
+        
+       27.    As a result of the conduct described above, Fifth Third violated Exchange Act 
+Sections 13(b)(2)(A) and  13(b)(2)(B) because it failed to make and keep appropriate books and 
+records and devise and maintain a system of internal accounting controls sufficient to provide 
+reasonable assurances that it valued its commercial real estate loans in accordance with GAAP. 
+        
+       28.    As a result of the conduct described above, Poston willfully violated Securities Act 
+Section 17(a)(3) and Exchange Act Rules 13a-14, 13b2-1, and 13b2-2 and caused  and willfully 
+aided and abetted Fifth Thirds violations of Securities Act Sections 17(a)(2) and 17(a)(3) and 
+Exchange Act Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) and Rule 13a-13 because he failed to 
+ensure that Fifth Third appropriately recorded its commercial real estate loans; certified that Fifth 
+Thirds financial statements were prepared in accordance with GAAP; and made representations in 
+
+                                                 
+                                                8 
+---------------------Page 9---------------------
+
+a Fifth Third management representation letter to Fifth Thirds auditors regarding the companys 
+classification of commercial loans that, in light of Fifth Thirds intent to sell loans, were not true.10
+                                                                                                     
+        
+                                                 IV. 
+                                                   
+        In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondent Fifth Third Bancorps and Respondent Daniel Postons Offer     s. 
+ 
+        Accordingly, it is hereby ORDERED, effective immediately, that: 
+ 
+       A.      Fifth Third Bancorp shall cease and desist from committing or causing any 
+violations and any future violations of Securities Act Sections 17(a)(2) and 17(a)(3) and Exchange 
+Act Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) and Rule 13a-13 thereunder.   
+
+       B.      Daniel Poston shall cease and desist from committing or causing any violations and 
+any future violations of Securities Act Sections 17(a)(2) and 17(a)(3) and Exchange Act Sections 
+13(a), 13(b)(2)(A) and 13(b)(2)(B) and Rules 13a-13, 13a-14, 13b2-1, and 13b2-2 thereunder. 
+ 
+       C.      Daniel Poston is denied the privilege of appearing or practicing before the 
+Commission as an accountant.   
+        
+       D.      After one year from the date of this order, Respondent Poston may request that 
+the Commission consider his reinstatement by submitting an application (attention: Office of 
+the Chief Accountant) to resume appearing or practicing before the Commission as: 
+      
+               1.      a preparer or reviewer, or a person responsible for the preparation or 
+review, of any public companys financial statements that are filed with the Commission.  Such 
+an application must satisfy the Commission that Respondent Postons work in his  practice before 
+the Commission will be reviewed either by the independent audit committee of the public 
+company for which he works or in some other acce ptable manner, as long as he practices before 
+the Commission in this capacity; and/or 
+      
+               2.      an independent accountant.  Such an application must satisfy the 
+Commission that: 
+      
+                       (a)     Respondent Poston, or t  he public accounting firm with which he is 
+associated, is registered with the Public Company Accounting Oversight Board (Board) in 
+accordance with the Sarbanes-Oxley Act of 2002, and such registration continues to be effective; 
+ 
+
+                                                 
+10
+       This use of the word willful does not reflect a finding that Poston acted with the intention to violate the 
+law or knowledge that he was doing so.  As used in the governing provisions of law, willfully means only that the 
+actor intentionally committed the act which constitutes the violation. Tager v. SEC                                                              , 344 F.2d 5, 8 (2d Cir. 1965); 
+see also Wonsover v. SEC, 205 F.3d 408, 414 (D.C. Cir. 2000). There is no requirement that the actor also be aware 
+that he is violating one of the Rules or Acts . . . . Tager, 344 F.2d at 8.   
+
+                                                   
+                                                  9 
+---------------------Page 10---------------------
+
+                      (b)    Respondent Poston, or the registered public accounting firm with 
+which he is associated, has been inspected by the Board and that inspection did not identify any 
+criticisms of or potential defects in the respondents or the firms quality control system that 
+would indicate that the respondent will not receive appropriate supervision;                
+
+                      (c)    Respondent Poston has resolved all disciplinary issues with the 
+Board, and has complied with all terms and conditions of any sanctions imposed by the Board 
+(other than reinstatement by the Commission); and  
+ 
+                      (d)    Respondent Poston acknowledges his    responsibility, as long as 
+Respondent Poston appears or practices before the Commission as an independent accountant, to 
+comply with all requirements of the Commission and the Board, including, but not limited to, all 
+requirements relating to registration, inspections, concurring partner reviews and quality control 
+standards.   
+ 
+       E.     The Commission will consider an application by Respondent Poston to resume 
+appearing or practicing before the Commission provided that his state CPA license is current and 
+he has resolved all other disciplinary issues with the applicable state boards of accountancy.  
+However, if state licensure is dependent on reinstatement by the Commission, the Commission 
+will consider an application on its other merits.  The Commissions review may include 
+consideration of, in addition to the matters referenced above, any other matters relating to 
+Respondent Postons character, integrity, professional conduct, or qualifications to appear or 
+practice before the Commission. 
+        
+       F.     Respondent Fifth Third shall, within 14 days of the entry of this Order, pay a civil 
+money penalty in the amount of $6,500,000 to the United States Treasury.  If timely payment is not 
+made, additional interest shall accrue pursuant to 31 U.S.C. §3717.  Payment must be made in one 
+of the following ways:   
+ 
+       (1) Respondent may transmit payment electronically to the Commission, which will 
+       provide detailed ACH transfer/Fedwire instructions upon request;  
+       (2) Respondent may make direct payment from a bank account via Pay.gov through the 
+       SEC website at http://www.sec.gov/about/offices/ofm.htm; or  
+       (3) Respondent may pay by certified check, bank cashiers check, or United States postal 
+       money order, made payable to the Securities and Exchange Commission and hand-
+       delivered or mailed to:  
+ 
+              Enterprise Services Center 
+              Accounts Receivable Branch 
+              HQ Bldg., Room 181, AMZ-341 
+              6500 South MacArthur Boulevard 
+              Oklahoma City, OK 73169 
+ 
+       Payments by check or money order must be accompanied by a cover letter identifying Fifth 
+Third as a Respondent in these proceedings, and the file number of these proceedings; a copy of 
+the cover letter and check or money order must be sent to Stephen L. Cohen, Esq.,  Associate 
+                                                 
+                                               10 
+---------------------Page 11---------------------
+
+Director, Division of Enforcement, Securities and Exchange Commission, 100 F St., NE, 
+Washington, DC 20549.  
+        
+       G.     Respondent Daniel Poston shall, within 14 days of the entry of this Order, pay a 
+civil money penalty in the amount of $100,000 to the United States Treasury.  If timely payment is 
+not made, additional interest shall accrue pursuant to 31 U.S.C. §3717.  Payment must be made in 
+one of the following ways:   
+ 
+       (1) Respondent may transmit payment electronically to the Commission, which will 
+       provide detailed ACH transfer/Fedwire instructions upon request;  
+       (2) Respondent may make direct payment from a bank account via Pay.gov through the 
+       SEC website at http://www.sec.gov/about/offices/ofm.htm; or  
+       (3) Respondent may pay by certified check, bank cashiers check, or United States postal 
+       money order, made payable to the Securities and Exchange Commission and hand-
+       delivered or mailed to:  
+ 
+              Enterprise Services Center 
+              Accounts Receivable Branch 
+              HQ Bldg., Room 181, AMZ-341 
+              6500 South MacArthur Boulevard 
+              Oklahoma City, OK 73169 
+ 
+       Payments by check or money order must be accompanied by a cover letter identifying 
+Poston as a Respondent in these proceedings, and the file number of these proceedings; a copy of 
+the cover letter and check or money order must be sent to Stephen L. Cohen, Esq.,  Associate 
+Director, Division of Enforcement, Securities and Exchange Commission, 100 F St., NE, 
+Washington, DC 20549.   
+ 
+       H.     Pursuant to Section 308(a) of the Sarbanes-Oxley Act of 2002, as amended, the 
+Commission may order that any civil money pe nalty paid by Fifth Third and Poston be used to 
+create a Fair Fund for the benefit of injured investors.  If the Commission does not create a Fair 
+Fund, the Commission will order the transfer of any civil money penalty paid by Respondents to 
+the United States Treasury in accordance with Section 21F(g) of the Securities Exchange Act of 
+1934 for the Investor Protection Fund.  Regardless of whether any such Fair Fund distribution is 
+made, amounts ordered to be paid as civil money penalties pursuant to this Order shall be treated as 
+penalties paid to the government for all purposes, including all tax purposes.  To preserve the 
+deterrent effect of the civil penalty, Respondents agree that in any Related Investor Action, they 
+shall not argue that they are entitled to, nor shall they benefit by, offset or reduction of any award 
+of compensatory damages by the amount of any part of Respondents payments of civil penalties in 
+this action ("Penalty Offsets").  If the court in any Related Investor Action grants such Penalty 
+Offsets, Respondents agree that they shall, within 30 days after entry of a final order granting 
+Penalty Offsets, notify the Commission's counsel in this action and pay the amounts of Penalty 
+Offsets to the United States Treasury or as the Commission directs.  Such payments shall not be 
+deemed additional civil penalties and shall not be deemed to change the amounts of the civil 
+penalties imposed in this proceeding.  For purposes of this paragraph, a "Related Investor Action" 
+
+                                                
+                                              11 
+---------------------Page 12---------------------
+
+means a private damages action brought against either Fifth Third or Poston by or on behalf of one 
+or more investors based on substantially the same facts as alleged in the Order instituted by the 
+Commission in this proceeding. 
+ 
+               By the Commission. 
+ 
+ 
+ 
+                                                     Elizabeth M. Murphy 
+                                                     Secretary 
+
+                                                  
+                                                12 

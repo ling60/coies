@@ -1,0 +1,2884 @@
+---------------------Page 1---------------------
+
+                            UNITED STATES OF AMERICA
+
+                                       before the
+
+                     SECURITIES AND EXCHANGE COMMISSION
+
+
+SECURITIES EXCHANGE ACT OF 1934 
+Rel. No. 57244 / January 31, 2008 
+
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Rel. No. 2779 / January 31, 2008 
+
+Admin. Proc. File No. 3-12064 
+
+                      In the Matter of
+
+
+             GREGORY M. DEARLOVE, CPA
+
+
+OPINION OF THE COMMISSION 
+
+      CEASE-AND-DESIST PROCEEDING 
+
+             Grounds for Remedial Action 
+
+                    Causing Violations of Reporting Provisions 
+
+      RULE 102(e) PROCEEDING 
+
+             Grounds for Remedial Action 
+
+                    Improper Professional Conduct 
+
+      Certified public accountant acting as engagement partner engaged in improper 
+      professional conduct in the audit of the financial statements of a public company and 
+      caused company's violations of Section 13(a) of the Securities Exchange Act of 1934 and 
+      Exchange Act Rules 13a-1 and 12b-20.  Held, it is in the public interest to order that 
+      accountant cease and desist from causing any violations or future violations of Exchange 
+      Act Section 13(a) and Exchange Act Rules 13a-1 and 12b-20, and to deny the accountant 
+      the privilege of appearing or practicing before the Commission with a right to reapply 
+      after four years. 
+---------------------Page 2---------------------
+
+APPEARANCES: 
+
+       Joseph V. Sedita, Benjamin M. Zuffranieri, Michelle Merola Kane, and Robert J. 
+Fluskey, Jr., of Hodgson Russ LLP, for Gregory M. Dearlove. 
+
+       Nancy A. Brown, Alistaire Bambach, Jack Kaufman, and Panayiota K. Bougiamas, for 
+the Division of Enforcement. 
+
+Appeal filed: August 30, 2006 
+Last brief received: December 4, 2006 
+Oral argument: July 24, 2007 
+---------------------Page 3---------------------
+
+                                  TABLE OF CONTENTS 
+
+I.	    Introduction 
+
+II.	   Background 
+
+III.	  Applicable Professional Standards: The Requirements of GAAS 
+
+IV.	   Netting of Related Party Payables and Receivables 
+       A.	    Facts 
+       B.	    Analysis 
+
+V.	    Co-Borrowed Debt 
+       A.	    Facts 
+       B.	    Dearlove's Audit of Adelphia's FAS 5 Determination 
+       C.	    Adequacy of the Note Disclosure of Adelphia's Contingent Liability 
+
+VI.	   Debt Reclassification 
+       A.	    Facts 
+       B. 	   Analysis 
+
+VII.	  Direct Placements of Stock 
+       A.	    Facts 
+              1.	    The July 2000 Direct Placement 
+              2.	    The January 2000 Direct Placement 
+       B.	    Analysis 
+
+VIII.	  Analysis of Liability and Appropriate Sanction Under Rule 102(e) 
+       A.	    Liability 
+       B.	    Denial of the Privilege of Appearing or Practicing Before the Commission 
+
+IX.	   Causing Violations of the Reporting, Recordkeeping, and Internal Accounting Control 
+       Provisions of the Exchange Act 
+       A.	    Liability 
+       B.	    Cease-and-Desist Order 
+
+X.	    Dearlove's Due Process Argument 
+       A.	    Facts 
+       B.	    Dearlove's Contentions on Appeal 
+       C.	    Denial of Sixty-Day Extension 
+       D.	    Commission Rule of Practice 360 
+
+XI.	   Conclusion 
+---------------------Page 4---------------------
+
+                                               1
+
+
+I.	    Introduction 
+
+       Gregory M. Dearlove, a certified public accountant and formerly a partner with the 
+accounting firm Deloitte & Touche LLP ("Deloitte"), appeals from the decision of an 
+administrative law judge.  The law judge found that Dearlove, who served as the engagement 
+partner on Deloitte's audit of the financial statements of Adelphia Communications Corporation 
+("Adelphia"), a public company, for the fiscal year ended December 31, 2000, engaged in 
+improper professional conduct within the meaning of Rule of Practice 102(e). 1/  The law judge 
+found that Adelphia's financial statements were not in accordance with generally accepted 
+accounting principles ("GAAP"), and that Dearlove violated generally accepted auditing 
+standards ("GAAS"). 2/  The law judge also found that Dearlove was a cause of Adelphia's 
+
+1/	    17 C.F.R. § 201.102(e).  Rule 102(e) permits the Commission to censure or deny, 
+       permanently or temporarily, the privilege of appearing or practicing before it to persons 
+       found to have engaged in improper professional conduct.  As applied to accountants, 
+       "improper professional conduct" includes the following: 
+
+           (A)	   intentional or knowing conduct, including reckless conduct, that results in a 
+                  violation of applicable professional standards; or 
+           (B) 	  either of the following two types of negligent conduct:  
+                  (1)	    a single instance of highly unreasonable conduct that results in a 
+                          violation of applicable professional standards in circumstances in 
+                          which an accountant knows, or should know, that heightened scrutiny 
+                          is warranted. 
+                  (2)	    repeated instances of unreasonable conduct, each resulting in a 
+                          violation of applicable professional standards, that indicate a lack of 
+                          competence to practice before the Commission. 
+
+       Rule 102(e)(1)(iv), 17 C.F.R. § 201.102(e)(1)(iv).  With the passage in 2002 of Section 
+       602 of the Sarbanes Oxley Act, Pub. L. No. 107-204, 116 Stat. 745, 794, this language 
+       was codified in Exchange Act Section 4C, 15 U.S.C. § 78d-3. 
+
+2/	    The law judge concluded that Dearlove engaged in repeated instances of unreasonable 
+       conduct as well as a single instance of highly unreasonable conduct under 
+       Rule 102(e)(iv)(B)(1).  However, it is unclear which conduct constituted the single 
+       instance of highly unreasonable conduct.  We therefore decline to consider whether any 
+       of Dearlove's conduct was "highly unreasonable."  We limit ourselves to the question of 
+       whether Dearlove engaged in "repeated instances of unreasonable conduct, each resulting 
+       in a violation of applicable standards, that indicate a lack of competence to practice 
+       before the Commission."  Rule of Practice 102(e)(iv)(B)(2). 
+---------------------Page 5---------------------
+
+                                               2
+
+
+violations of the reporting and recordkeeping provisions of the Exchange Act. 3/  The law judge 
+permanently denied Dearlove the privilege of appearing or practicing in any capacity before the 
+Commission.  We base our findings on an independent review of the record, except with respect 
+to those findings not challenged on appeal. 
+
+II.    Background 
+
+       Adelphia, a cable television company incorporated in Delaware and headquartered in 
+Coudersport, Pennsylvania, was founded in 1952 by John Rigas and went public in 1986. 
+Adelphia had several large subsidiaries, some of which were public companies, and Adelphia 
+consolidated its financial statements with those of its subsidiaries.  The Rigas family retained 
+control over Adelphia through their exclusive ownership of Adelphia's Class B shares. 4/ 
+Whenever Adelphia raised capital by issuing Class A shares, the Rigas family would arrange for 
+Adelphia to make a direct placement of Class B shares so that the Rigases' ownership and 
+majority voting interests would not be diluted.  The Rigases' Class B stock was convertible into 
+shares of Class A stock.  In addition to their controlling ownership of Adelphia, the Rigas family 
+held five of nine seats on Adelphia's board of directors. 
+
+       Members of the family also owned several dozen private companies ("Rigas Entities"). 
+The largest of these Rigas Entities also were engaged in the cable television business, and 
+Adelphia used its own personnel, inventory, trucks, and equipment to provide services to the 
+customers of these companies.  Adelphia, its subsidiaries, and the Rigas Entities shared a 
+centralized treasury system organized using cost centers, in which the cash balances of each 
+company were separately maintained.  Adelphia charged a fee for providing the Rigas Entities 
+management, accounting, and other services. 
+
+       By 2000, Adelphia was among the largest cable television and telecommunications 
+providers in the United States.  Adelphia had grown substantially at the end of 1999 by acquiring 
+several other cable companies (more than doubling Adelphia's cable subscribers), and Adelphia 
+continued to grow in 2000.  Concomitant with this growth in assets, Adelphia's debt increased 
+significantly.  Between 1996 and 2000, Adelphia, its subsidiaries, and some Rigas Entities 
+entered as co-borrowers into a series of credit agreements.  By 1999, Adelphia and the Rigas 
+Entities had obtained $1.05 billion in credit; in 2000, they tripled their available credit and drew 
+down essentially all of the funds then available under the agreements. 
+
+       Deloitte served as the independent auditor for Adelphia, one of its largest audit clients, 
+from 1980 through 2002.  The audits were complex.  Several of Adelphia's subsidiaries filed 
+their own Forms 10-K, and Adelphia frequently acquired other companies.  For several years, 
+Deloitte had concluded that the Adelphia engagement posed a "much greater than normal" risk of 
+
+3/     15 U.S.C. §§ 78m(a), 78m(b)(2)(A).
+
+
+4/     Class A shares each received one vote; Class B shares each received ten.
+
+---------------------Page 6---------------------
+
+                                               3
+
+
+fraud, misstatement, or error; this was the highest risk category that Deloitte recognized.  Risk 
+factors that Deloitte specifically identified in reaching this assessment for the 2000 audit included 
+the following: 
+
+       •	     Adelphia operated in a volatile industry, expanded rapidly, and had a large 
+              number of decentralized operating entities with a complex reporting 
+              structure; 
+
+       •	     Adelphia carried substantial debt and was near the limit of its financial 
+              resources, making it critical that the company comply with debt covenants; 
+
+       •	     Management of Adelphia was concentrated in a small group without 
+              compensating controls; 
+
+       •	     Adelphia management lacked technical accounting expertise but 
+              nevertheless appeared willing to accept unusually high levels of risk, 
+              tended to interpret accounting standards aggressively, and was reluctant to 
+              record adjustments proposed by auditors; and 
+
+       •	     Adelphia engaged in significant related party transactions with affiliated 
+              entities that Deloitte would not be auditing. 
+
+To help manage the audit risk, Deloitte planned, among other things, to increase Deloitte's 
+management involvement at all stages of the audit "to ensure that the appropriate work is planned 
+and its performance is properly supervised."  It also proposed to heighten professional skepticism 
+"to ensure that accounting estimates, related party transactions and transactions in the normal 
+course of business appear reasonable and are appropriately identified and disclosed." 
+
+       In 1999 and 2000, the American Institute of Certified Public Accountants ("AICPA") 
+required that member firms rotate an engagement partner off the audit of a public company after 
+seven years to bring a fresh perspective and maintain auditor independence. 5/  To replace Don 
+Cottrill, the engagement partner who had conducted Adelphia's audits from 1993 to 1999, 
+Deloitte asked Dearlove to assume responsibility as engagement partner for the audit of 
+Adelphia's 2000 financial statements.  
+
+       Dearlove, a Deloitte partner since 1986, had been an accountant working for the firm 
+since he graduated from college in 1976.  In 1997, Dearlove had become the managing partner 
+for Deloitte's Buffalo and Rochester offices.  Dearlove had served as the engagement partner on 
+ten public company audits and the concurring review partner on several others.  Nevertheless, 
+Dearlove had no prior experience auditing companies in the cable television industry, and did not 
+
+5/     See A MERICAN   INSTITUTE OF  CERTIFIED  PUBLIC A CCOUNTANTS    ("AICPA"), SEC 
+       PRACTI CE S ECTION  REFERENCE   M ANUAL   § 1000.08(e). 
+---------------------Page 7---------------------
+
+                                               4 
+
+immediately accept the assignment because Dearlove had not dealt before with audits of 
+Adelphia's "complexity or sensitivity."  Dearlove testified that, prior to the Adelphia audit, he 
+"had never been in a greater than normal risk environment."  After meeting with Cottrill and 
+others on Adelphia's audit team, reviewing Adelphia's most recent financial statements and 
+quarterly reports, and reading trade publications about the cable industry, Dearlove accepted the 
+assignment in October 1999. 
+
+       Dearlove began by shadowing Cottrill as he worked on Adelphia's 1999 financial 
+statements.  When the 1999 audit was completed, Deloitte's senior manager on the Adelphia 
+audit team reviewed Adelphia's 1999 financial statements with Dearlove and explained the 
+theory and history behind the accounting presentations therein.  Dearlove also participated in the 
+audit of the 1999 financial statements of one of Adelphia's subsidiaries that was considered to 
+present the least sensitivity and risk.  Dearlove assumed full responsibility for Adelphia's audit 
+beginning with the quarterly review for the first quarter of 2000.  Dearlove and other Deloitte 
+partners agreed that the "much higher than normal risk" assessment continued to apply to the 
+2000 audit. 
+
+       The staffing of Deloitte's audit team for the 2000 audit remained largely unchanged from 
+prior years.  The team consisted of about twenty staff accountants and tax professionals, divided 
+into subgroups that were supervised by ten Deloitte managers and headed by senior manager 
+William Caswell, who reported directly to Dearlove.  Several of the Deloitte managers had 
+significant prior experience auditing and reviewing Adelphia's annual and quarterly reports: 
+Caswell had spent six years working on Adelphia engagements; Ivan Hofmann and Robert 
+Fitzgerald, both audit managers, had each spent five years.  In addition, Michael Lindsey served 
+as the concurring partner as he had on Adelphia audits since 1996, and Stephen Biegel was 
+assigned as risk review partner after serving in that capacity for the 1999 Adelphia audit. 
+Dearlove had once met Caswell at a firm meeting but did not otherwise know any members of 
+the Adelphia audit team when he assumed his role as engagement partner. 
+
+       Deloitte devoted an estimated 21,000 hours to the audit of Adelphia's 2000 financial 
+statements and related accounting advisory activities; Dearlove himself spent over 700 hours. 
+Dearlove spent a total of ten to fifteen days on-site in Coudersport with the audit team.  Dearlove 
+participated in discussions with the team, reviewed workpapers and underlying Adelphia 
+documents when the team brought them to his attention, and "worked through the issues" with 
+his staff in what Dearlove characterized as a "consultative process."  At the end of the audit, 
+Dearlove looked at certain workpapers and drew conclusions as to whether the team completed 
+its review.  Dearlove testified that he also consulted Deloitte's national office on a number of 
+accounting issues during the course of the audit, mostly involving revenue recognition. 
+
+       On March 29, 2001, Deloitte issued its independent auditor's report, signed by Dearlove, 
+which stated that it had conducted its audit in accordance with GAAS and that such audit 
+---------------------Page 8---------------------
+
+                                                5
+
+
+provided a reasonable basis for its opinion that Adelphia's 2000 financial statements fairly 
+presented Adelphia's financial position in conformity with GAAP. 6/ 
+
+       In January 2002, following the collapse of Enron Corporation, the Commission released 
+guidance clarifying the disclosures that issuers should consider making with respect to, among 
+other things, related party transactions. 7/  In reaction, Adelphia disclosed for the first time in a 
+press release the extent of the Rigas Entities' co-borrowed debt.  The disclosure alarmed 
+investors and analysts, leading to a formal investigation by a special committee of Adelphia's 
+board of directors into related party transactions between Adelphia and the Rigases that resulted 
+in the public disclosure of the Rigas family's related party transactions as well as various 
+accounting irregularities.  Adelphia's stock price declined from about $30 per share in January 
+2002 to $0.30 per share in June 2002, and the stock was delisted from the Nasdaq market.  After 
+defaulting on various credit agreements, Adelphia filed for bankruptcy under Chapter 11 in June 
+2002. 
+
+       In the wake of Adelphia's decline, the Department of Justice brought criminal fraud 
+charges against several members of the Rigas family and other Adelphia officials. 8/  The 
+Department of Justice declined to file criminal charges against Adelphia as part of a settlement in 
+which Adelphia agreed to pay $715 million in stock and cash to a victims' restitution fund once 
+the company emerged from bankruptcy. 9/ 
+
+       The Commission also brought several actions related to the decline of Adelphia.  On 
+April 25, 2005, Adelphia, John Rigas, and Rigas's three sons settled a civil injunctive action in 
+which the respondents, without admitting or denying the allegations against them, were enjoined 
+from committing or causing further violations of the antifraud, reporting, recordkeeping, and 
+
+6/	    Dearlove resigned his position with Deloitte in September 2001 and accepted an offer of 
+       employment to serve as a senior vice president and chief financial officer of a public 
+       company.  There is no evidence in the record to suggest that the Adelphia audit was a 
+       cause of Dearlove's departure from Deloitte. 
+
+7/	    Statement About Management's Discussion and Analysis of Financial Condition and 
+       Results of Operations, 67 Fed. Reg. 3,746 (Jan. 25, 2002). 
+
+8/	    James Brown, Adelphia's vice president of finance, and Tim Werth, Adelphia's director of 
+       accounting, both pled guilty.  John and Timothy Rigas were convicted and sentenced to 
+       lengthy prison terms by the United States District Court for the Southern District of New 
+       York.  The Court of Appeals for the Second Circuit affirmed the convictions on all but 
+       one of twenty-three counts and remanded the case for sentencing.  See United States v. 
+       Timothy J. Rigas and John J. Rigas, 490 F.3d 208 (2d. Cir. 2007). 
+
+9/	    See United States v. Rigas, 371 F. Supp. 2d 474 (S.D.N.Y.), aff'd, 409 F.3d 555 (2d Cir. 
+       2005); In re Adelphia Commc'ns Corp., 327 B.R. 143 (Bankr. S.D.N.Y. 2005). 
+---------------------Page 9---------------------
+
+                                               6
+
+
+internal controls provisions of the federal securities laws. 10/  The next day, the Commission 
+instituted and settled administrative proceedings against Deloitte under Rule 102(e). 11/  Without 
+admitting or denying the Commission's allegations, Deloitte consented to the entry of findings 
+that it engaged in repeated instances of unreasonable conduct with respect to the audit of 
+Adelphia's 2000 financial statements.  Deloitte also consented to a finding that it caused 
+Adelphia's violations of those provisions of the Exchange Act that require issuers to file annual 
+reports, make and keep accurate books and records, and devise and maintain a system of 
+sufficient internal controls.  Deloitte agreed to pay a $25 million penalty and to implement 
+various prophylactic policies and procedures.  The Commission also settled a civil action based 
+on the same conduct in which Deloitte agreed to pay another $25 million penalty. 12/  Senior 
+manager Caswell consented to Commission findings that he committed repeated instances of 
+unreasonable conduct and agreed to a bar from appearing or practicing as an accountant before 
+the Commission with a right to apply for reinstatement after two years. 13/ 
+
+III.	  Applicable Professional Standards: The Requirements of GAAS 
+
+       In determining whether to discipline an accountant under Rule 102(e)(1)(iv), the 
+Commission has consistently measured auditors' conduct by their adherence to or deviation from 
+GAAS. 14/  There are ten fundamental generally accepted auditing standards, consisting of three 
+
+10/	   See In re Adelphia Commc'ns Corp., 327 B.R. at 156-58; SEC and U.S. Attorney Settle 
+       Massive Financial Fraud Case Against Adelphia and Rigas Family for $715 Million, 
+       Press Rel. No. 2005-63 (Apr. 25, 2005), available at http://www.sec.gov/news/press/ 
+       2005-63.htm. 
+
+11/	   See Deloitte & Touche LLP, Securities Exchange Act Rel. No. 51606 (Apr. 26, 2005), 85 
+       SEC Docket 1111. 
+
+12/	   See SEC v. Deloitte & Touche LLP, No. 05-Civ.-4119 (PKC) (Apr. 26, 2005 S.D.N.Y.); 
+       SEC Charges Deloitte & Touche for Adelphia Audit, Press Rel. No. 2005-65 (Apr. 26, 
+       2005), available at http://www.sec.gov/news/press/2005-65.htm. 
+
+13/	   See William E. Caswell, CPA, Exchange Act Rel. No. 52538 (Sept. 30, 2005), 86 SEC 
+       Docket 1257. 
+
+14/	   See, e.g., James Thomas McCurdy, CPA, 57 S.E.C. 277, 295 (2004) (basing Rule 102(e) 
+       finding on auditor's deviation from "fundamental principles of auditing," which included, 
+       among other things, failure to obtain sufficient competent evidential matter, render an 
+       accurate audit report, maintain an attitude of professional skepticism, and exercise due 
+       care), aff'd, 396 F.3d 1258 (D.C. Cir. 2005); Barry C. Scutillo, 56 S.E.C. 714, 746 (2003) 
+       (basing Rule 102(e) finding on auditor's "[r]eckless failures to comply with auditing 
+       standards," including, among other things, failure to maintain professional skepticism and 
+                                                                                  (continued...) 
+---------------------Page 10---------------------
+
+                                               7
+
+
+General Standards, three Standards of Field Work, and four Standards of Reporting. 15/  As 
+explained by the Division of Enforcement's ("Division's") expert, 
+
+       [t]he General Standards require the auditor to have adequate technical training and audit 
+       proficiency, maintain independence and exercise due professional care.  The Standards of 
+       Fieldwork set forth the requirements for adequate planning and supervision of assistants, 
+       gaining an understanding of the company's internal controls, and gathering sufficient 
+       competent evidential matter.  The Standards of Reporting provide that the auditor's report 
+       state the financial statements are presented in accordance with GAAP and if not, it must 
+       identify circumstances where GAAP is not observed. 
+
+These ten fundamental standards are amplified by Statements on Auditing Standards issued and 
+codified by AICPA's Auditing Standards Board. 
+
+       GAAS require auditors to plan the audit adequately and to properly supervise any 
+assistants. 16/  Auditors must exercise due professional care in performing an audit and preparing 
+a report. 17/  They must maintain an attitude of professional skepticism, which includes "a 
+questioning mind and a critical assessment of audit evidence." 18/  They must obtain sufficient 
+
+14/	   (...continued) 
+       to exercise due care); Michael J. Marrie, CPA, 56 S.E.C. 760, 791-93 (2003) (basing Rule 
+       102(e) finding on auditors' reckless failure to conduct the audit in accordance with 
+       GAAS, including their failure to exercise professional skepticism and to obtain sufficient 
+       competent evidential matter), rev'd on other grounds, 374 F.3d 1196 (D.C. Cir. 2004) 
+       (reversing based on retroactive application of amended rule but noting that the 
+       requirements of GAAS to exercise due care and professional skepticism and to obtain 
+       sufficient evidential matter are "'standards to which all accountants must adhere'") (citing 
+       Potts v. SEC, 151 F.3d 810, 813 (8th Cir. 1998)). 
+
+       As discussed in Section IX, the question of whether Dearlove caused Adelphia's 
+       violations of the reporting provisions of the securities laws is also informed by the degree 
+       to which he departed from the applicable standard of care, i.e., whether he acted 
+       negligently. 
+
+15/	   AICPA, C  ODIFICATION OF   STATEMENTS OF   A UDITING  STANDAR DS   § 150.02 (2000) 
+       (hereinafter, "AU § ___"). 
+
+16/	   AU §§ 311.01, 311.11. 
+
+17/	   AU § 230.01. 
+
+18/	   AU §§ 230.07-08. 
+---------------------Page 11---------------------
+
+                                                8
+
+
+competent evidential matter to afford a reasonable basis for an opinion with respect to the 
+financial statements under review. 19/ 
+
+       Certain audit conditions require auditors to increase their professional care and 
+skepticism, as when the audit presents a risk of material misstatement or fraud. 20/  When an 
+audit includes review of related party transactions, auditors must tailor their examinations to 
+obtain satisfaction concerning the purpose, nature, and extent of those transactions on the 
+financial statements. 21/  Unless and until an auditor obtains an understanding of the business 
+purpose of material related party transactions, the audit is not complete. 22/  As we have 
+previously observed, these standards can overlap somewhat, and one GAAS failure may 
+contribute to another. 23/ 
+
+       Dearlove urges us to compare the reasonableness of his conduct to a somewhat different 
+standard.  Dearlove argues, citing pattern jury instructions used by New York state courts in 
+professional negligence cases, that the standard for determining negligence by an accountant 
+should be based on whether the respondent "use[d] the same degree of skill and care that other 
+[accountants] in the community would reasonably use in the same situation."  Dearlove asks us to 
+evaluate his actions in the context of the large, complex Adelphia audit and to determine whether 
+Dearlove exercised the degree of skill and care that a reasonable engagement partner would have 
+used in similar circumstances.  Dearlove contends that this analysis "necessarily includes . . . 
+conclusions previously reached by other professionals," a reference to the Adelphia audits 
+Deloitte conducted from 1994 through 1999.  Dearlove asserts that he could place some reliance 
+on audit precedent.  Moreover, in his view, the fact that prior auditors reached the same 
+conclusions is "compelling evidence" that Dearlove acted reasonably. 
+
+       The complexity of the Adelphia audit, the number of accountants assigned to it, the risk 
+that Deloitte attributed to it, and the conclusions of prior auditors certainly provide context to our 
+review.  However, we reject any suggestion that the conduct of prior auditors should be a 
+
+19/    AU § 326.22. 
+
+20/    AU §§ 312.17, 316.27. 
+
+21/    AU § 334.09. 
+
+22/    AU § 334.09(a) & n.6. 
+
+23/    McCurdy, 57 S.E.C. at 286 ("For example, a failure to maintain professional skepticism 
+       about information obtained from management can result in a failure independently to 
+       verify that information and gather sufficient competent evidential matter.  Similarly, if an 
+       auditor fails to exercise due professional care, he may not obtain sufficient competent 
+       evidential matter to support an audit conclusion that the financial statements were 
+       prepared in compliance with GAAP."). 
+---------------------Page 12---------------------
+
+                                               9
+
+
+substitute for the standards established by GAAS.  GAAS are the fundamental standards of 
+auditing promulgated by auditors themselves.  AICPA membership approved and adopted the ten 
+fundamental auditing standards, i.e., the General, Field Work, and Reporting Standards. 24/ 
+AICPA's Auditing Standards Board has developed and issued subsequent auditing standards 
+"through a due process that includes deliberation in meetings open to the public, public exposure 
+of proposed [standards], and a formal vote." 25/  These standards apply to audits of all sizes and 
+all levels of complexity and describe the conduct that the accounting profession itself has 
+established as reasonable, "provid[ing] a measure of audit quality and the objectives to be 
+achieved in an audit." 26/  We therefore decline to create a separate standard of professional 
+conduct for auditors that depends in each case on the behavior of a particular auditor's 
+predecessors.  The accounting profession itself has already prescribed the applicable standards. 
+
+       Moreover, as required at the time by AICPA, Dearlove was assigned to the Adelphia 
+audit to replace the incumbent engagement partner for the specific purpose of bringing a fresh 
+perspective to the audit.  The rotation of audit partners assigned to the audits of public companies 
+has long been required of most independent auditors by AICPA and, more recently, by federal 
+law. 27/  Deloitte itself recognized that audit partner rotation is "vital" to an auditor's objectivity 
+and that "[t]he impartiality of the external audit is a critical component of the function auditors 
+perform for issuers, their investors, and their potential investors, and measures that militate 
+against complacency and reinforce the external auditor's professional skepticism can protect that 
+impartiality." 28/  Reliance on prior audit conclusions, especially in areas of high risk, without 
+
+24/	   AU § 150.02. 
+
+25/	   AU § 150.03. 
+
+26/	   AU § 150.01.  See also SEC v. Dain Rauscher, Inc., 254 F.3d 852, 857 (9th Cir. 2001) 
+       (noting that GAAS are a "time-honored standard set by an authoritative source recognized 
+       and followed throughout the profession" against which auditors' conduct can be judged); 
+       Potts v. SEC, 151 F.3d at 812 (stating that GAAS are "well-established norms of the 
+       accounting profession"). 
+
+27/	   See AICPA, SEC P   RACTI CE S ECTION R EFERENCE   M ANUAL   § 1000.08(e) (promulgated in 
+       1977 and requiring members, excepting small firms with few public-company clients, to 
+       rotate engagement partner from audit of public company every seven years); Sarbanes-
+       Oxley Act of 2002, Pub. L. No. 107-204, § 203, 116 Stat. 745, 773 (codified at 15 U.S.C. 
+       § 78j-1(j)) (making it unlawful for registered accounting firms to audit public companies 
+       if the lead audit partner or reviewing partner performed audit services for the company for 
+       the five preceding years). 
+
+28/    Deloitte & Touche LLP, Comment Letter of Deloitte & Touche LLP on the Commission's 
+       Proposed Rule Implementing Sections 201, 202, 203, 204, and 206 of the Sarbanes-Oxley 
+                                                                                   (continued...) 
+---------------------Page 13---------------------
+
+                                               10
+
+
+questioning whether that reliance was appropriate under the circumstances, defeats the purpose 
+of auditor rotation – i.e., to preserve auditor independence and encourage critical thinking. 29/ 
+
+       On the record before us, we find that prior Deloitte audit conclusions offered little 
+support for the conclusions reached in the 2000 audit.  The record does not describe how the 
+audits of prior financial statements were performed or what evidential matter supported those 
+audit conclusions.  Moreover, Dearlove's expert, while arguing that partner rotation does not 
+require the new auditor to perform a "de novo audit of the client," nevertheless explained that an 
+engagement partner "would perform . . . new audit procedures or GAAP research and 
+consultation . . . to address changed conditions or professional standards."  In 2000, Dearlove 
+was presented with markedly different circumstances from those presented to prior teams: since 
+1999, Adelphia had tripled its co-borrowed debt, doubled its revenues and operating expenses, 
+and acquired more cable subscribers.  The changes implicated areas of the Adelphia audit that 
+Deloitte had specifically identified as posing high risk, namely, its rapid expansion, substantial 
+debt load, and significant related party transactions.  Therefore, we reject Dearlove's argument 
+that the similarity of prior audit conclusions lends reasonableness to his own audit, and we find 
+no reason to reject GAAS as the standard by which we judge all audits. 
+
+IV.	   Netting of Related Party Payables and Receivables 
+
+       A.	     Facts 
+
+       Since the company went public in 1986, Adelphia netted, or offset against each other, 
+accounts payable to and receivable from various Rigas Entities on its consolidated financial 
+statements.  Adelphia calculated its net receivable balance by subtracting the balances of all 
+accounts payable that Adelphia and its subsidiaries owed to Rigas Entities from the balances of 
+all the accounts receivable that the Rigas Entities owed to Adelphia and its subsidiaries. 
+Dearlove testified that when he was transitioning onto the Adelphia audit engagement in the 
+spring of 2000, he discussed Adelphia's practice of netting with the Deloitte senior manager who 
+had worked on Adelphia's 1999 financial statement audit.  Dearlove "learned about the history of 
+it," and testified that netting wasn't "something that I dealt with often in my history."  Dearlove 
+"hadn't had a client that did that" before, at least not one that "had these types of related parties 
+that netted."  Dearlove testified that, in approving Adelphia's use of netting in the 2000 financial 
+statements, he relied on the fact that prior Deloitte auditors, whom Dearlove considered "highly 
+technically competent," had permitted it in the past.  He also took "some comfort from the fact 
+that the concurring partner and the risk partner in '99 were going to be the concurring partner and 
+
+28/	   (...continued) 
+       Act of 2002 (Jan. 10, 2003), available at http://www.sec.gov/rules/proposed/s74902/ 
+       deloitte1.htm#P400_127619. 
+
+29/	   Strengthening the Commission's Requirements Regarding Auditor Independence, 68 Fed. 
+       Reg. 6,006, 6,017 (Feb. 5, 2003). 
+---------------------Page 14---------------------
+
+                                               11
+
+
+risk partner in 2000," because Dearlove "was the only one . . . coming up to speed.  They had 
+already gotten there.  The issues were similar, the client was similar.  The industry was the 
+same." 
+
+       Dearlove had been told by Adelphia management that they were concerned about the 
+growing net receivable balance in the second quarter review, and that they would seek to reduce 
+it through additional related party borrowing.  Indeed, the audit team reviewed the net receivables 
+Adelphia presented during each quarterly review and knew that Adelphia's net related party 
+receivables were reported as $178 million at the end of 1999, $254 million at the end of the first 
+quarter in 2000, $263 million at the end of the second quarter, and $19 million at the end of the 
+third quarter.  Ultimately, a line item titled "Related Party Receivables - Net" on Adelphia's 
+balance sheet and Form 10-K for 2000 reported $3,071,000. 
+
+       Adelphia's 2000 year-end gross related party accounts payable and receivable, however, 
+totaled more than $1 billion each.  Dearlove was aware of the dramatic reduction of the net 
+balance and testified that the balance had dropped "as we expected it."  However, Dearlove could 
+not recall whether or how the audit team tested Adelphia's affiliate receivables, could not explain 
+how his team tested management's explanations for the fluctuations in Adelphia's reported net 
+balance, and could not recall having any discussions with his team about the propriety of 
+Adelphia's netting. 
+
+       B.	     Analysis 
+
+       Accounting Principles Board Opinion No. 10 states that "[i]t is a general principle of 
+accounting that the offsetting of assets and liabilities in the balance sheet is improper except 
+where a right of setoff exists." 30/  Rule 5-02 of the Commission's Regulation S-X requires that 
+issuers "state separately" amounts payable and receivable. 31/  FASB Interpretation 39, 
+Offsetting of Amounts Related to Certain Contracts ("FIN 39"), defines a right of setoff as "a 
+debtor's legal right, by contract or otherwise, to discharge all or a portion of the debt owed to 
+
+30/	   Accounting Principles Board Opinion No. 10, ¶ 7.1. 
+
+31/	   17 C.F.R. §§ 210.5-02.3, 210.5-02.19.  For Commission registrants, the rules 
+       promulgated under Regulation S-X have an authority similar to the highest-level GAAP 
+       pronouncements.  See AU § 411.10 n.3. 
+---------------------Page 15---------------------
+
+                                                12
+
+
+another party by applying against the debt an amount that the other party owes to the debtor." 32/ 
+It also provides that a right of setoff exists only when all of four conditions are met: 
+
+               a.     each of two parties owes the other determinable amounts; 
+
+               b.     the reporting party has the right to set off the amount owed with the 
+                      amount owed by the other party; 
+
+               c.     the reporting party intends to set off; and 
+
+               d.     the right of setoff is enforceable at law. 33/ 
+
+       We conclude that Adelphia's presentation of a net figure for its related party payables and 
+receivables violated GAAP.  Because Adelphia netted the accounts payable and receivable of its 
+various subsidiaries against the accounts payable and receivable of various Rigas Entities on a 
+global basis, it did not comport with FIN 39's basic requirement that netting is appropriate only 
+when two parties are involved.  
+
+       Dearlove argues that FIN 39 prohibits only unilateral offsetting; that is, FIN 39 requires 
+that at least two entities seek to offset, but it does not prohibit more than two entities from 
+offsetting.  We disagree.  The "two-party" limitation on circumstances in which netting is 
+permitted by FIN 39 is unambiguous.  Moreover, FIN 39 is an exception to the general 
+accounting rule that financial statements should present related party payables and receivables as 
+gross figures; it is an exception that should be construed narrowly. 34/  FIN 39 itself specifically 
+rejects the notion that offsetting is permissible among more than two parties except in very 
+limited circumstances, none of which is applicable here. 35/ 
+
+32/	   An Interpretation issued by the Financial Accounting Standards Board ("FIN") is 
+       considered authoritative GAAP.  See AU § 411.10(a). 
+
+33/	   FIN 39 ¶ 5 (emphasis in original). 
+
+34/	   FIN 39 ¶ 43 ("Some respondents indicated that the number of entities involved in the 
+       transaction is not relevant to the decision to offset.  The general principle of a right of 
+       offset involves only two parties, and exceptions to that general principle should be limited 
+       to practices specifically permitted by the pronouncements indicated in paragraph 7 of this 
+       Interpretation."). 
+
+35/	   FIN 39 ¶ 7 cites to certain provisions that permit offsetting regarding leases, insurance 
+       enterprises, pensions, income taxes, and other specialized situations.  Dearlove has not 
+       argued that any of these provisions applies to Adelphia's netting, and we find that none 
+       applies. 
+---------------------Page 16---------------------
+
+                                               13
+
+
+       Dearlove also suggests that Adelphia and its subsidiaries should be deemed to constitute 
+one entity, while the Rigas Entities as a group constitute the other, thereby satisfying FIN 39's 
+two-party requirement.  However, FIN 39 allows offsetting only by two parties, and not by 
+groups of entities claiming to be functionally equivalent to one party.  Moreover, even if FIN 39 
+could be construed to permit a group of similarly-situated entities to be considered one "party" 
+for purposes of FIN 39, such a construction is not acceptable here.  Although Dearlove argues 
+that "[t]he private entities were all owned by the Rigas family," the scant evidence in the record 
+about the ownership of the Entities demonstrates that not every Rigas Entity whose accounts 
+were netted with Adelphia's was owned in equal proportions by the same members of the Rigas 
+family.  For example, a Rigas Entity called Eleni Interiors was owned by John Rigas's wife, Doris 
+Rigas, but she is not named as a member of the Rigas family partnership that owned several other 
+Rigas Entities whose accounts Adelphia netted.  There is no evidence in the record that Dearlove 
+took any steps to determine the ownership structures of the Rigas Entities. 
+
+       FIN 39 requires compliance with all four of its conditions; therefore, because Adelphia 
+could not satisfy the first condition, FIN 39 was not available to Adelphia. 36/  Accordingly, we 
+find that, based on Adelphia's failure to satisfy FIN 39's fundamental requirement that only two 
+parties may offset, Adelphia's failure to report its related party payables and receivables as gross 
+figures was a GAAP violation. 
+
+       We also find that Dearlove's conduct in his audit of Adelphia's net presentation of 
+affiliate accounts payable and receivable was at least unreasonable, resulting in several GAAS 
+violations.  As we have previously noted, Deloitte considered the Adelphia audit to present much 
+greater than normal risk; under such circumstances, GAAS require "more extensive supervision 
+by the auditor with final responsibility for the engagement during both the planning and conduct 
+of the engagement" and should cause the auditor to "expand the extent of procedures applied, 
+apply procedures closer to or as of year end, particularly in critical audit areas, or modify the 
+nature of procedures to obtain more persuasive evidence." 37/  Where, as with Adelphia's 
+practice of netting, a specific audit area involves related party transactions, GAAS require 
+auditors to obtain an understanding of the business purpose of those transactions; if the auditor 
+"lacks sufficient specialized knowledge to understand a particular transaction, he should consult 
+
+36/    We note, however, that the record does not appear to support the conclusion that 
+       Adelphia could satisfy the remaining requirements.  FIN 39 requires that the right of 
+       offset must be enforceable at law, and, although written agreements are not necessary to 
+       demonstrate enforceability, see FIN 39 ¶ 47, there is a dearth of evidence showing that 
+       such agreements existed.  Moreover, the parties have not addressed how "legal 
+       constraints" such as state law and the federal bankruptcy code might have affected the 
+       legal enforceability of a right of offset.  See FIN 39 ¶ 6 ("Legal constraints should be 
+       considered to determine whether the right of setoff is enforceable."). 
+
+37/    AU § 312.17. 
+---------------------Page 17---------------------
+
+                                               14
+
+
+with persons who do have the requisite knowledge." 38/  Dearlove, who admittedly had little 
+experience with netting, knew that Adelphia management tended to embrace aggressive 
+accounting interpretations and that they succeeded in dramatically reducing Adelphia's reported 
+net affiliate receivables to deflect investor criticism.  
+
+       Despite the need for increased attention to this audit area, there is no evidence, in the 
+audit workpapers or elsewhere in the record, that Dearlove gave any consideration to the 
+propriety of Adelphia's netting during the 2000 audit or that the audit team conducted any 
+analysis of FIN 39's requirements. 39/  There is no evidence, in fact, that Dearlove made any 
+attempt to determine the gross amounts of Adelphia's related party accounts payable and 
+receivable, which each totaled more than $1 billion.  
+
+       Instead, Dearlove accepted Adelphia's accounting treatment primarily, if not solely, 
+because prior auditors had done so.  This reliance on prior auditing conclusions was unreasonable 
+because this audit generally called for heightened skepticism and because this account, in 
+particular, involved related party transactions and a precipitous drop in the amount of net 
+receivables that Adelphia reported compared to prior years.  Moreover, Dearlove's unquestioning 
+reliance on prior audit conclusions is precisely the result that audit partner rotation was designed 
+to remedy. 40/  We also find that Dearlove's inattention to Adelphia's net presentation of related 
+party receivables resulted in violations of applicable professional standards: Dearlove did not 
+obtain sufficient competent evidential material to support his conclusion that Adelphia's netting 
+was properly done, he did not exercise appropriate skepticism despite circumstances requiring 
+heightened scrutiny, and he did not properly supervise the audit team to ensure that significant 
+related party transactions like these were afforded appropriate review. 41/ 
+
+       Dearlove argues that the law judge's decision essentially attributed an alleged overall 
+audit failure to Dearlove without identifying the conduct on which that responsibility is based. 
+He contends that the law judge cannot hold Dearlove accountable for every audit failure simply 
+
+38/    AU § 334.09(a) & n.6. 
+
+39/    An auditor does not violate GAAS simply by failing to document the basis for his audit 
+       conclusions in audit workpapers, and the Order Instituting Proceedings in this case did 
+       not charge Dearlove with having violated GAAS by failing to adequately document his 
+       work.  Nevertheless, workpapers are ordinarily the foundation on which support for audit 
+       conclusions is demonstrated.  See AU § 339 ("Audit documentation is the principal 
+       record of auditing procedures applied, evidence obtained, and conclusions reached by the 
+       auditor in the engagement.").  We consider the absence of work papers to be evidence that 
+       the audit team did not devote substantial, if any, effort to review the areas in question. 
+
+40/    See supra note 27 and accompanying text. 
+
+41/    AU §§ 230.07-08, 311.01, 311.11, 312.17, 316.27, 326.22, 334.09. 
+---------------------Page 18---------------------
+
+                                               15
+
+
+by saying that Dearlove was the individual in charge and is therefore liable.  Even if we agreed 
+that the law judge so erred, our de novo review cures any error that the law judge may have 
+made. 42/  Our own review leads us to conclude that Dearlove's conduct was deficient because, 
+despite the need for heightened scrutiny and despite his admitted lack of experience with the 
+practice of netting in general, he did not pursue, or direct his team to pursue, the reason behind 
+the dramatic reduction in Adelphia's net receivable balance; he did not consult with members of 
+the audit team or anyone in Deloitte's national office about the issue; and he could not confirm 
+that he ever considered FIN 39 during the audit.  Taking note of the fact that Adelphia's practice 
+of netting effectively defeated investor scrutiny of over $2 billion of related party accounts, we 
+find that Dearlove's lack of attention to the issue was inconsistent with the requirements of 
+GAAS. 
+
+V.     Co-Borrowed Debt 
+
+       A.     Facts 
+
+       As noted above, between 1996 and 2000, several Adelphia subsidiaries and some of the 
+Rigas Entities had entered as co-borrowers into a series of three credit agreements with a 
+consortium of banks.  Although the agreements differed in the amount of credit available, their 
+terms were substantially the same: each borrower provided collateral for the loan; each could 
+draw funds under the loan agreement; and each was jointly and severally liable for the entire 
+amount of funds drawn down under the agreement regardless of which entity drew down the 
+amount. 
+
+       Combining the features of term loans and revolving credit lines, the agreements permitted 
+co-borrowers to draw funds and repay the loans at will and required almost no principal 
+payments until the loans began to mature in 2004.  The amount of debt outstanding under the 
+agreements therefore could fluctuate as co-borrowers drew down and made payments on the 
+loans.  Cross-default provisions in the agreements provided that it was considered an event of 
+default if the borrowers failed to timely pay any other substantial debts – co-borrowed or 
+otherwise – they had assumed, which would permit the banks to demand immediate payment of 
+
+42/    See Robert M. Fuller, 56 S.E.C. 976, 989 n.30 (2003), petition denied, 95 Fed. Appx. 361 
+       (D.C. Cir. 2004).  The law judge's opinion ceased to have any force or effect once 
+       Dearlove filed his petition for review.  See Fundamental Portfolio Advisers, Inc., 56 
+       S.E.C. 651, 679 n.44 (2003); 17 C.F.R. §§ 201.360(d), (e).  For the same reason, we 
+       reject as moot Dearlove's complaint that certain of the law judge's findings of GAAS 
+       violations were ill-founded because the law judge, in finding that Dearlove failed to 
+       supervise the audit team, cited two auditing standards that were not specifically cited in 
+       the OIP.  Similarly, we reject his complaint that the law judge appeared to base a GAAS 
+       failure on the fact that the audit team created no workpaper on the netting issue, which 
+       violation was not pled in the OIP. 
+---------------------Page 19---------------------
+
+                                                16
+
+
+all outstanding amounts. 43/  The agreements also provided that an event of default occurred if 
+the Rigas family lost its majority control of the co-borrowing companies. 
+
+       By year-end 2000, the total amount of co-borrowed funds drawn under the credit 
+agreements was $3.751 billion, more than triple the $1.025 billion borrowed at year-end 1999. 
+Of this amount, Adelphia subsidiaries had drawn approximately $2.1 billion, and Rigas Entities 
+had drawn $1.6 billion.  
+
+       Generally, an issuer must accrue on its balance sheet a debt for which it is the primary 
+obligor.  However, when an issuer deems itself to be merely contingently liable for a debt, 
+Statement of Accounting Standards No. 5 ("FAS 5") provides the appropriate accounting and 
+reporting treatment for that liability. 44/  FAS 5 establishes a three-tiered system for determining 
+the appropriate accounting treatment of a contingent liability, based on the likelihood that the 
+issuer will suffer a loss – that is, be required to pay the debt for which it is contingently liable.  If 
+a loss is "probable" (i.e., "likely") and its amount can be reasonably estimated, the liability should 
+be accrued on the issuer's financial statements as if the issuer were the primary obligor for the 
+debt. 45/  If the likelihood of loss is only "reasonably possible" (defined as "more than remote but 
+less than likely"), or if the loss is probable but not estimable, the issuer need not accrue the loss 
+but should disclose the nature of the contingency and give an estimate of the possible loss or 
+range of loss, or state that such an estimate cannot be made.  Even if the likelihood of loss is only 
+"remote" (or "slight"), the issuer must still disclose the "nature and amount" of the liability. 
+From 1997 through 1999, Adelphia had included in the liabilities recorded on its balance sheet 
+the amount its own subsidiaries had borrowed, but it did not consider itself the primary obligor 
+for the amount that the Rigas Entities had borrowed and therefore did not include that amount on 
+its balance sheet.  Instead, Adelphia accounted for the amounts borrowed by the Rigas Entities by 
+making the following disclosure in the footnotes to its financial statements: 
+
+43/	   The 2000 agreement provided that it was an event of default if "(a) Any Company fails to 
+       pay when due (after lapse of any applicable grace periods) any Debt of such Company 
+       (other than the Obligation) in excess (individually or collectively) of $25,000,000; or (b) 
+       the acceleration of any Debt of any Company, the principal amount of which Debt 
+       exceeds (individually or collectively) $25,000,000."  "Debt" was defined as "all liabilities, 
+       obligations, and indebtedness . . . which in accordance with GAAP should be classified 
+       upon [the] balance sheet as liabilities. . . ."  The 1999 and 1996 agreements contained 
+       similar provisions but applied to debts in the amount of $10 million or more and $7.5 
+       million or more, respectively. 
+
+44/	   A Statement of the Financial Accounting Standards Board ("FAS") is considered 
+       authoritative GAAP.  See AU § 411.10(a). 
+
+45/	   FAS 5 ¶ 8. 
+---------------------Page 20---------------------
+
+                                            17 
+
+               Certain subsidiaries of Adelphia are co-borrowers with Managed 
+               Partnerships [i.e., Rigas Entities] under credit facilities for borrowings of 
+               up to [the total amount of all co-borrowed debt available to Adelphia and 
+               the Rigas Entities that year].  Each of the co-borrowers is liable for all 
+               borrowings under this credit agreement, although the lenders have no 
+               recourse against Adelphia other than against Adelphia's interest in such 
+               subsidiaries. 
+
+Deloitte had approved this treatment in the audits it conducted from 1997 to 1999. 
+
+       In its 2000 financial statements, Adelphia planned to account for its co-borrowed debt in 
+the same way it had in prior years.  Adelphia concluded that it was the primary obligor for only 
+the amount of co-borrowed debt that its own subsidiaries had drawn.  Therefore, Adelphia 
+included $2.1 billion as a liability on its balance sheet. 46/  Adelphia considered itself only 
+contingently liable as a guarantor for the $1.6 billion that the Rigas Entities had drawn, and again 
+concluded that disclosure of the co-borrowed debt in the notes to its financial statements would 
+be adequate. 
+
+       Dearlove knew that Adelphia considered the Rigas Entity debt to be a contingent liability 
+for which its chances of suffering a loss were merely "remote," making accrual on the balance 
+sheet unnecessary pursuant to FAS 5.  Deloitte created no workpapers documenting its 
+examination of Adelphia's decision.  However, from the record, it appears that Deloitte 
+considered the matter and focused its review on the likelihood, as defined by FAS 5, that 
+Adelphia would have to pay the Rigas Entities' share of co-borrowed debt.  
+
+       Dearlove estimated the value of the Rigas Entities' cable systems and assets by 
+multiplying the number of Rigas Entity basic cable subscribers by the market value per 
+subscriber as established by industry transactions in 1999 and 2000 and concluded that the 
+Entities' subscriber assets were worth approximately $1 billion.  Dearlove did not consider 
+whether the Rigas Entities' cash flow was sufficient to service the debt, did not perform a cash 
+flow analysis for the Rigas Entity co-borrowers, and did not know if the Rigas Entities serviced 
+any portion of their co-borrowed debt with funds provided by Adelphia. 
+
+       Dearlove also believed that, although the Rigas family was not legally obligated to 
+contribute funds in the event of a default by the co-borrowers, the family would be economically 
+compelled to protect their Adelphia holdings by stepping in to prevent a default by the Entities. 
+Dearlove did not, however, conduct any inquiry into whether the family would, in fact, use their 
+personal assets to prevent a default by Adelphia.  Dearlove estimated the value of the Rigas 
+family's holdings of Adelphia stock by multiplying the number of shares the Rigases owned by 
+the price per Class A share, resulting in a figure of approximately $2.3 billion, which he 
+
+46/	   The $2.1 billion in co-borrowed debt was included as part of the $9.1 billion figure 
+       reported on Adelphia's 10-K as "subsidiary debt." 
+---------------------Page 21---------------------
+
+                                               18
+
+
+concluded was by itself ample to cover the debt and conclude his FAS 5 analysis.  However, 
+Dearlove did not determine if these Rigas family assets were already encumbered by other debt; 
+he saw no financial statements or other proof of the family's financial condition other than local 
+media reports that the Rigases "were billionaires."  Dearlove testified that he "never asked them: 
+Are you worth 2 billion, 3 billion or 10 billion?"  Dearlove also did not consider whether 
+disposing of some or all of the family's stock might result in a downward spiral in the stock's 
+value or in a change in their control of Adelphia, an event of default under the co-borrowing 
+agreements. 
+
+       Dearlove testified that, at the end of the 2000 audit, he spoke to senior manager Caswell 
+for about fifteen minutes regarding the requirements of FAS 5.  During this meeting, they 
+concluded that "the assets of the cable systems and the Adelphia common stock that the Rigases 
+owned exceeded the amount of debt that was on the co-borrowed entities, and the overhang . . . 
+exceeded the co-borrowing by hundreds of millions if not billions of dollars."  Dearlove testified 
+that, although other assets could have been included in a FAS 5 analysis, these two assets alone 
+were sufficient to allow the auditors to conclude that Adelphia's contingent liability was remote. 
+Deloitte therefore approved Adelphia's decision to exclude the Rigas Entities' $1.6 billion in co­
+borrowed debt from its balance sheet and to instead disclose the debt in a footnote to the 
+financial statements. 
+
+       When it reviewed the adequacy of the note disclosure that Adelphia planned to use 
+(which was identical to the language it had used in previous years), the audit team initially 
+believed the disclosure should be revised.  During the 2000 quarterly reviews, audit manager 
+Hofmann and others had repeatedly encouraged Adelphia management to disclose the specific 
+dollar amount of Rigas Entity co-borrowings, but Adelphia continually ignored Deloitte's 
+suggestions.  Although Deloitte was unaware of it at the time, Adelphia management was 
+purposefully working to obfuscate the disclosure of Rigas Entity co-borrowed debt. 
+
+       In November 2000, at a third-quarter wrap-up meeting attended by Dearlove, Caswell, 
+and Hofmann, Adelphia management (including Adelphia's vice president of finance, James 
+Brown), agreed to make disclosures regarding the amounts borrowed by the Rigas Entities under 
+the co-borrowing agreements.  Caswell and Hofmann subsequently suggested improvements to 
+the note disclosure in written comments on at least six drafts of the 10-K; they proposed adding 
+language that would distinguish the amount of borrowings by Adelphia subsidiaries and Rigas 
+Entities, such as the following: "A total of $__  related to such credit agreements is included in 
+the Company's consolidated balance sheet at December 31, 2000.  The [Rigas] Entities have 
+outstanding borrowings of $__ as of December 31, 2000 under such facilities."  
+
+       At the end of March 2001, as Deloitte was concluding its audit of the 2000 financials, 
+Brown – despite his agreement in November 2000 to disclose the amount of Rigas Entity 
+borrowing – informed the audit team that he did not think the additional disclosure was 
+necessary.  Instead, Brown proposed adding a phrase explaining that each of the co-borrowers 
+"may borrow up to the entire amount available under the credit facility."  Brown argued that his 
+---------------------Page 22---------------------
+
+                                               19
+
+
+proposed language was more accurate than Deloitte's proposal, because the lines of credit could 
+fluctuate and, as a result, it would be better to disclose Adelphia's maximum possible exposure. 
+Caswell agreed to take Brown's language back to the engagement team, but he told Brown that he 
+did not agree with Brown and did not think Deloitte would accept his proposed language. 47/ 
+
+       Notwithstanding Caswell's reaction, Brown soon afterwards presented his proposed 
+language to the audit team, including Dearlove, Caswell, and Hofmann, during the audit exit 
+meeting on March 30, 2001.  Brown claimed that his proposed disclosure language had been 
+discussed with, and approved by, Adelphia's outside counsel.  Although Dearlove characterized 
+the disclosure issue as "really one of the more minor points that [the audit team was] trying to 
+reconcile at that point," the law judge did not credit this testimony.  Dearlove testified that he 
+was "concerned" about "making it clear to the reader how much Adelphia could be 
+guaranteeing," and that Brown's language was "more conservative" but "wasn't necessarily what 
+we were attempting to help clarify."  Dearlove also testified that he told Brown, "I don't 
+understand how that [proposed change] enhances the note" but that, after "an exchange back and 
+forth relative to that," Dearlove "couldn't persuade him as to what he wanted."  Nevertheless, 
+Dearlove told Brown that he agreed with the proposal and approved the change.  Caswell and 
+Hofmann also indicated their agreement.  
+
+       Dearlove did not understand, and did not ask, why Brown opposed full disclosure of the 
+Rigas Entity debt.  Dearlove did not seek Adelphia's permission to speak directly with Adelphia's 
+outside counsel about Brown's proposed language.  Nor did Dearlove attempt to verify that 
+Brown actually presented the issue to Buchanan Ingersoll. 48/  Although Dearlove testified that 
+he "believe[d] that we had communicated to both [risk reviewer] Steve Biegel through Bill 
+Caswell and to [concurring partner] Mike Lindsey through Ivan Hofmann that we had proposed 
+changes to various things in the document," he did not contact Lindsey or Biegel directly to 
+ensure that they understood the changes to the disclosure language. 49/  Nevertheless, Dearlove 
+
+47/	   Caswell testified that he later discussed Brown's proposal with Dearlove and Hofmann, 
+       but Caswell does not recall the substance of the conversation, and no other testimony in 
+       the record illuminates the specifics of the engagement team's discussion. 
+
+48/	   In fact, Brown had not consulted outside counsel about this issue. 
+
+49/	   Moreover, neither Hofmann nor Caswell, during testimony, confirmed that they 
+       consulted, or were asked to consult, Biegel or Lindsey on this issue.  Although Lindsey 
+       remembered reading a draft of the 10-K that included the team's recommended disclosure 
+       of the co-borrowed and guaranteed amounts, Lindsey did not recall seeing any draft of the 
+       10-K that included Brown's language.  Biegel testified that although he believed he had 
+       discussions with the audit team about co-borrowed debt, he did not recall any specific 
+       discussions; he also testified that he was not aware of any disagreement between Deloitte 
+       and Adelphia over the note disclosure. 
+---------------------Page 23---------------------
+
+                                               20
+
+
+testified that he believed the disclosure was GAAP compliant, and therefore Deloitte "didn't have 
+a basis to force a change." 
+
+       Adelphia's note disclosure of the co-borrowed debt, as it appeared in its 2000 Form 10-K 
+with Brown's added language, read as follows: 
+
+               Certain subsidiaries of Adelphia are co-borrowers with Managed Entities 
+               under credit facilities for borrowings of up to $3,751,250[,000].  Each of 
+               the co-borrowers is liable for all borrowings under the credit agreements, 
+               and may borrow up to the entire amount of the available credit under the 
+               facility.  The lenders have no recourse against Adelphia other than against 
+               Adelphia's interest in such subsidiaries. 
+
+       B.	     Dearlove's Audit of Adelphia's FAS 5 Determination 
+
+       The law judge found that the Division failed to prove that Adelphia violated GAAP by 
+treating the Rigas Entities' co-borrowed debt as a contingent rather than a primary liability in its 
+financial statements, or that Adelphia wrongly determined that its chances of having to repay that 
+debt was only remote under FAS 5.  The Division did not appeal the law judge's decision, and 
+therefore we do not consider whether Adelphia violated GAAP by mis-applying FAS 5. 50/ 
+Nevertheless, our inquiry does not end here: even assuming that Adelphia's accounting treatment 
+
+50/	   On July 23, 2007, Dearlove filed a motion to adduce additional evidence, seeking to add 
+       to the record on appeal excerpts of testimony given by James Brown in another 
+       proceeding that came to the attention of Dearlove's counsel when it was attached as an 
+       exhibit to a motion made by the Rigases in their criminal trial pending before the District 
+       Court for the Southern District of New York.  Dearlove believes the testimony establishes 
+       two things. 
+
+       As relevant here, Dearlove argues that one excerpt of the testimony establishes that the 
+       Rigas Entities had the financial wherewithal to pay their share of co-borrowed debt. 
+       Although Dearlove characterizes this as a "central issue in this proceeding," as we have 
+       just explained, whether Adelphia violated GAAP by incorrectly estimating its chances of 
+       having to pay the Rigas Entity debt is not before the Commission.  Therefore, Dearlove 
+       does not meet the requirement of Commission Rule of Practice 452, 17 C.F.R. § 201.452, 
+       that the evidence he seeks to adduce be "material," and we decline to consider the 
+       proffered testimony in this context.  
+
+       Dearlove next argues that a second excerpt establishes that a certain reclassification of 
+       debt was not a "sham" transaction.  We deal with this portion of Dearlove's motion in our 
+       discussion of Adelphia's debt reclassifications, infra at note 72. 
+---------------------Page 24---------------------
+
+                                               21
+
+
+of the Rigas Entities' co-borrowed debt was GAAP-compliant, we may still find, as we do here, 
+that an auditor's review of that accounting treatment violated GAAS. 51/ 
+
+       Deloitte, with Dearlove's participation and agreement, had concluded that the Adelphia 
+audit generally presented a "much greater than normal risk" based on several factors, including 
+its multiple related party transactions, recent significant growth in the company, and substantial 
+debt load.  Adelphia's accounting for co-borrowed debt, specifically, implicated all of these risk 
+factors.  GAAS require that when an audit presents an increased risk, the auditor must increase 
+the professional care and skepticism he applies to his review, which may include, for example, 
+"increased sensitivity in the selection of the nature and extent of documentation to be examined 
+in support of material transactions." 52/  Despite the clear need for increased care and skepticism, 
+Dearlove conducted only a cursory review of Adelphia's accounting for the Rigas Entities' share 
+of co-borrowed debt.  There is no evidence in the workpapers that Dearlove or the audit team 
+conducted an analysis of Adelphia's potential for liability under the credit agreements; nor is 
+there any evidence in the workpapers that he directed his team to conduct such an analysis. 53/ 
+Instead, Dearlove's conclusion was based on a series of assumptions about the Rigas Entities' and 
+the Rigas family's willingness and ability to pay the co-borrowing Rigas Entities' debt – 
+assumptions that were either untested or inadequately tested. 
+
+       First, Dearlove and the audit team assumed that all Rigas Entities were willing to 
+liquidate their assets to cover other Entities' debts.  There is no evidence that the team made any 
+effort to confirm this assumption, or at least to confirm that the Rigas Entities whose assets were 
+being pooled had identical ownership structures.  Having made this untested assumption, the 
+audit team did not analyze whether each Rigas Entity could service its own share of the debt, but 
+instead examined only whether all the Rigas Entities taken together – including non-co­
+borrowers – owned sufficient assets to cover the debt.  Although Dearlove concluded that the 
+collective value of Rigas Entity cable subscribers and accounts receivable was sufficient to cover 
+the debt, he did so without examining the consequences of liquidating those assets.  Moreover, 
+there is no evidence in the record that Dearlove considered that, in order to prevent default by 
+
+51/	   See Michael J. Marrie, CPA, 56 S.E.C. at 776 ("An auditor who fails to audit properly 
+       under GAAS should not be shielded because the audited financial statements fortuitously 
+       are not materially misleading.  An auditor who skips procedures designed to test a 
+       company's reports or looks the other way despite suspicions is a threat to the 
+       Commission's processes.  Even if an auditor's improper professional conduct does not 
+       result in false financial statements, it damages the integrity of the Commission's processes 
+       because filings with the Commission are unreliable if auditors certify that their audits 
+       were conducted in accordance with GAAS when in fact they were not.").  Dearlove does 
+       not argue that he cannot be sanctioned under Rule 102(e) if no GAAP violation is found. 
+
+52/	   AU § 316.27; see also AU § 312.17. 
+
+53/	   See supra note 39. 
+---------------------Page 25---------------------
+
+                                                22
+
+
+virtue of the cross-default provisions in the co-borrowing agreements, the Rigas Entities' 
+available assets would have to prove sufficient to service all significant debts of the co­
+borrowers. 54/ 
+
+       Dearlove also assumed that, if the Rigas Entities could not pay their share of co-borrowed 
+debt, the apparently wealthy Rigas family would step in to cover any impending default on the 
+debt.  Dearlove did nothing to confirm the Rigases' willingness to pay the Entities' debt, instead 
+relying on a general presumption that all persons can be assumed to act in an economically 
+rational manner.  Dearlove further concluded that the Rigases were, in fact, financially able to 
+cover the debt, but based this conclusion on incomplete information: Dearlove's understanding of 
+the Rigas family's wealth was based only upon their holdings of Adelphia stock and the media's 
+portrayal of the family as "billionaires."  Dearlove did not evaluate the liquidity of the Rigases' 
+shares and did not address whether their liquidation might be so large as to cost them majority 
+ownership of Adelphia, thereby triggering a default under the debt agreements.  Further, he failed 
+to consider or make any inquiry into the possibility that the Rigas family's assets – however 
+substantial – were already encumbered by other obligations and therefore unavailable for use 
+against the Entities' co-borrowed debt.  Finally, Dearlove did not discuss his FAS 5 conclusion 
+with anyone at Adelphia or consult with Deloitte's risk review or concurring partner. 
+
+       Dearlove's failures in examining the critical assumptions underlying his FAS 5 
+determination were at least unreasonable in light of the circumstances of this audit area that 
+clearly called for increased care and scrutiny.  Adelphia's co-borrowed debt was a multi-billion­
+dollar related-party transaction used, in part, to finance recent significant growth in the company, 
+and it represented a substantial portion of the company's total debt load of approximately $12 
+billion.  Adelphia's accounting treatment of the debt warranted more than a brief discussion about 
+assets potentially available for liquidation: it called, at least, for testing and analysis of the actual 
+availability, liquidity, and encumbrances of those assets.  
+
+       Each of Dearlove's failures to meaningfully review Adelphia's chances of suffering a loss, 
+moreover, resulted in a violation of professional standards.  Dearlove's cursory treatment of co­
+borrowed debt did not comport with the generally-applicable requirements of GAAS to exercise 
+due professional care and professional skepticism, adequately plan the audit, and obtain 
+sufficient competent evidential matter to afford a reasonable basis for his opinion that Adelphia's 
+chances of incurring a loss were remote. 55/  Nor did Dearlove's review satisfy the GAAS 
+requirement to apply increased professional care and skepticism to audit areas presenting 
+
+54/    See supra note 43.  If Dearlove or the audit team attempted to identify for FAS 5 purposes 
+       the amounts of all significant debt (as defined by the co-borrowing agreements) carried by 
+       the Rigas Entities and Adelphia subsidiaries, there is no evidence of this in the record. 
+
+55/    AU §§ 311.01, 311.11, 230.01, 230.07 - 08, 326.22. 
+---------------------Page 26---------------------
+
+                                               23
+
+
+increased risk. 56/  To the contrary, Dearlove failed to apply even basic – let alone heightened – 
+scrutiny to Adelphia's accounting for co-borrowed debt. 
+
+       Dearlove argues that it was reasonable for the audit team to base a FAS 5 analysis on a 
+comparison of the debt of the borrower to the value of the borrower's assets, and that his 
+consideration of FAS 5 was adequate given that Dearlove knew that the co-borrowers held 
+substantial assets and that the Rigases were economically compelled to respond with their own 
+substantial, personal assets to prevent default.  Dearlove's argument fails to address the fact that 
+the team's reliance on the value of these assets is unfounded because Dearlove did not confirm, 
+nor ask his team to confirm, that the assets were actually available for application against the co­
+borrowed debt as well as unencumbered.  
+
+       Dearlove also argued in his brief and at oral argument that his consideration of Adelphia's 
+chances of incurring a loss, though consuming only fifteen minutes at year-end, was supported by 
+"extensive liquidity testing and debt-covenant testing of the co-borrowing groups" that had 
+occurred during Deloitte's quarterly reviews.  Dearlove cites to his own testimony to prove that 
+he "considered the contingency and potential for loss on a quarterly basis when reviewing the 
+financial statements."  However, there is no evidence in the workpapers that the team specifically 
+considered Adelphia's contingent liability under FAS 5 during the quarterly reviews. 57/ 
+Moreover, the quarterly debt testing evidenced in the workpapers focused on confirming 
+principal due under various loan agreements and other debt, calculation of interest, and proper 
+entry of the debt on the books of Adelphia and its subsidiaries.  Dearlove testified that these 
+quarterly reviews helped him become "knowledgeable about" the value of Adelphia stock owned 
+by the Rigases, subscriber assets owned by various Rigas Entities, and receivables owed to Rigas 
+Entities.  As we have explained, any knowledge that Dearlove gained about the value of various 
+Rigas Entity and Rigas family assets through quarterly reviews still required testing as to whether 
+those assets were in fact unencumbered and available for use against the Rigas Entities' share of 
+co-borrowed debt.  
+
+       C.     Adequacy of the Note Disclosure of Adelphia's Contingent Liability 
+
+       We next consider whether Adelphia's footnote disclosure of Rigas Entity co-borrowings 
+was appropriate under GAAP.  As explained above, FAS 5 states that, when the likelihood of 
+loss arising from a contingent liabilty is only remote, a company need not accrue the amount of 
+debt on its balance sheet.  However, FAS 5 requires that a company must still disclose the 
+"nature and amount" of the liability when it is a guarantee of another's indebtedness. 58/ 
+
+56/    AU § 316.27; see also AU § 312.17. 
+
+57/    See supra note 39. 
+
+58/    The law judge declined to consider whether Adelphia's footnote properly disclosed the 
+       "nature" of the guarantee, because he believed the Division had presented its argument 
+                                                                                    (continued...) 
+---------------------Page 27---------------------
+
+                                               24
+
+
+Adelphia disclosed the total amount of credit available to the co-borrowers ("up to" $3.75 billion) 
+without indicating whether any portion of that available credit had actually been drawn down, 
+much less that all of it had.  This disclosure was inadequate to inform the investing public that 
+Adelphia was already primarily liable for $2.1 billion and a guarantor for the remaining $1.6 
+billion that had been borrowed by Rigas Entities.  Therefore, it did not comply with the 
+requirement in FAS 5 to disclose the amount of the contingent liability. 
+
+       We believe that Dearlove acted at least unreasonably in his audit of Adelphia's note 
+disclosure, resulting in several violations of GAAS.  In high-risk audit environments such as that 
+presented by the Adelphia engagement, GAAS specifically recommend "increased recognition of 
+the need to corroborate management explanations or representations concerning material matters 
+– such as further analytical procedures, examination of documentation, or discussion with others 
+within or outside the entity" when audit risk increases. 59/  The accounting for Adelphia's co­
+borrowed debt implicated the extensive related party transactions and high debt load that were 
+part of the basis for Deloitte's high-risk assessment for the Adelphia audit.  Management's 
+insistence on its own accounting interpretation was precisely the behavior identified by the audit 
+plan as presenting a much higher than normal risk of misstatement in the audit.  
+
+       Moreover, Dearlove knew that the audit team believed that the previous years' footnote 
+disclosure was inadequate and had urged additional disclosure that would have made clear the 
+extent of Rigas Entity actual borrowings and Adelphia's potential liability therefor.  Dearlove did 
+not think Brown's language helped achieve Deloitte's goal of clarifying the extent of Rigas Entity 
+debt and Adelphia's obligation as guarantor.  Yet Dearlove accepted Brown's language without 
+probing his reasons for the change, without understanding Adelphia's reasons for rejecting 
+Deloitte's language, and without discussing the issue with the concurring or risk review partners 
+assigned to the audit.  This unquestioning acceptance of Brown's proposed disclosure language 
+was a clear – and at least unreasonable – departure from the requirements of GAAS to apply 
+greater than normal skepticism and additional audit procedures in order to corroborate 
+management representations in a high-risk environment.  Dearlove's conduct resulted in 
+violations of applicable professional standards: Dearlove failed to exercise the level of 
+professional care called for by the high-risk account and failed to employ professional skepticism 
+in analyzing the note disclosure, 60/ and he failed to apply audit procedures necessary to afford a 
+reasonable basis for an opinion regarding the financial statements. 61/ 
+
+58/    (...continued) 
+       too late when it raised the issue in its post-hearing reply brief.  That decision has not been 
+       appealed and, as a result, is not before us. 
+
+59/    AU § 316.27. 
+
+60/    AU §§ 230.01, 230.07-08, 312.17, 316.27, 334.09; McCurdy, 396 F.3d at 1261-62. 
+
+61/    AU § 333.02. 
+---------------------Page 28---------------------
+
+                                               25
+
+
+       Dearlove asserts that disclosure of the amount that the Rigas Entities could theoretically 
+borrow (up to $3.75 billion) was more conservative than disclosure of the $1.6 billion that they 
+had actually borrowed.  We think the footnote disclosure was materially misleading to investors.  
+"[M]ateriality depends on the significance the reasonable investor would place on the withheld or 
+misrepresented information." 62/  If "there is a substantial likelihood that a reasonable investor 
+would consider the information important in making an investment decision," the information is 
+material. 63/  A reasonable investor would think it significant that the footnote disclosure spoke 
+only in terms of potential debt when, in fact, the entire line of credit had been borrowed and $1.6 
+billion of it was excluded from Adelphia's balance sheet but potentially payable by Adelphia.  It 
+was especially important for this information to appear in Adelphia's financial statements 
+because investors had no access to the financial statements of the privately-held Rigas Entities. 
+We therefore reject Dearlove's argument that Adelphia's note complied with FAS 5's requirement 
+to disclose the amount of debt that Adelphia guaranteed.  
+
+       Dearlove also contends that Financial Accounting Standards Board Interpretation 
+("FIN") 45, issued in November 2002, contains accounting guidance that supports his view that 
+the disclosure was adequate under GAAP.  In the alternative, Dearlove argues, FIN 45 evidences 
+enough uncertainty about the appropriate GAAP treatment that we cannot second-guess the 
+reasonableness of his conclusions.  FIN 45, which interprets the requirements of FAS 5, specifies 
+that the disclosure of a guarantee should state (a) the nature of the guarantee, (b) the maximum 
+potential amount of future payments (undiscounted) the guarantor could be required to make 
+under the guarantee, (c) the current carrying amount of the liability, and (d) the nature of certain 
+third-party assets against which the guarantor could use to cover a loss. 64/  Dearlove argues that 
+disclosure of "up to $3.75 billion" represented the "maximum potential amount of future 
+payments" that FIN 45 presents as the disclosure "most relevant to a reader." 
+
+       FIN 45 does not alter our conclusion that Adelphia's disclosure was not GAAP-
+compliant.  As an initial matter, FIN 45 was enacted after the 2000 Adelphia audit, and therefore 
+is of only uncertain applicability here.  To the extent FIN 45 has any relevance to Adelphia's 
+disclosure, FIN 45 explains that, in disclosing the nature of a guarantee, an issuer should present 
+"the approximate term of the guarantee, how the guarantee arose, and the events or circumstances 
+
+62/    Basic Inc. v. Levinson, 485 U.S. 224, 240 (1988); TSC Indus., Inc. v. Northway, Inc., 426 
+       U.S. 438, 449 (1976); see also SEC v. Capital Gains Research Bureau, Inc., 375 U.S. 180, 
+       186 (1963) (stating that a fundamental purpose of the federal securities laws is "to 
+       substitute a philosophy of full disclosure for the philosophy of caveat emptor"). 
+
+63/    SEC v. Rogers, 790 F.2d 1450, 1458 (9th Cir. 1986). 
+
+64/    FIN 45 ¶ 13. 
+---------------------Page 29---------------------
+
+                                               26
+
+
+that would require the] guarantor to perform under the guarantee." 65/  Whether Adelphia 
+properly disclosed the nature of its guarantee of the Rigas Entities' co-borrowed debt is not 
+before us; 66/ however, FIN 45's description of the factors relevant to the nature of the guarantee 
+also informs the disclosure of the amount of the guarantee.  Here, Adelphia's liability arose from 
+a co-borrowing agreement under which Adelphia itself actually borrowed and recorded $2.1 
+billion and actually guaranteed $1.6 billion borrowed by Rigas Entities; Adelphia knew that it 
+might have to pay this $1.6 billion if the Rigas Entities could not.  In these circumstances, FIN 45 
+indicates that Adelphia should have disclosed that the amount of the guarantee was $1.6 billion, 
+the maximum potential future payments for which Adelphia was then obligated as guarantor, 
+rather than a hypothetical amount based on payoffs and borrowings that might never occur.  In 
+FIN 45, the FASB "observed that there are differing interpretations about the disclosures required 
+of guarantors under [FAS 5]." 67/  However, under these circumstances, FAS 5's requirement to 
+disclose the amount of the guarantee, a known sum, could not have been subject to differing 
+interpretations by reasonable auditors.  Accordingly, nothing in FIN 45 leads us to conclude that 
+Dearlove reasonably exercised his professional judgment in deciding that the disclosure was 
+adequate. 
+
+VI.    Debt Reclassification 
+
+       A.     Facts 
+
+       After the end of the second, third, and fourth quarters of 2000, Adelphia's accounting 
+department transferred the reporting of approximately $296 million of debt from the books of 
+Adelphia's subsidiaries to the books of various Rigas Entities.  In exchange, Adelphia eliminated 
+from its books receivables owed to it by the respective Rigas Entities in the amount of debt 
+transferred.  The three transfers were in the amounts of $36 million, approximately $222 million, 
+and more than $38 million, respectively. 68/  In each instance, the transaction took place after the 
+
+65/    FIN 45 ¶ 13(a). 
+
+66/    See supra note 58. 
+
+67/    FIN 45 ¶ 1. 
+
+68/    Although these amounts were clearly recorded as debts on the books of the subsidiaries, 
+       the record does not make clear from whom the money was borrowed.  See Gregory M. 
+       Dearlove, Initial Dec. Rel. No. 623 (July 27, 2006), 88 SEC Docket 1808, 1841 n.33 
+       (finding that although the OIP implied, and the parties assumed, that all of the reclassified 
+       debt was co-borrowed debt, the Division did not establish that to be true). 
+---------------------Page 30---------------------
+
+                                                27
+
+
+end of the quarter, and each transfer involved a post-closing journal entry that was retroactive to 
+the last day of the quarter. 69/ 
+
+       A checklist prepared by Deloitte in anticipation of the 2000 audit showed that Deloitte 
+was aware of a significant number of related party transactions that had arisen outside the normal 
+course of business and that past audits had indicated a significant number of misstatements or 
+correcting entries made by Adelphia, particularly at or near year-end.  An audit overview 
+memorandum recognized as a risk area that "Adelphia records numerous post-closing adjusting 
+journal entries" and provided as an audit response, "[Deloitte] engagement team to review post-
+closing journal entries recorded and review with appropriate personnel.  Conclude as to 
+reasonableness of entries posted."  An audit planning memorandum provided that "[p]rofessional 
+skepticism will be heightened to ensure that . . . related party transactions . . . are appropriately 
+identified and disclosed" and that auditors should "increase professional skepticism in [areas] 
+where significant related party transactions could occur."  
+
+       Dearlove testified that Deloitte had identified the Rigases' control of both Adelphia and 
+the Rigas Entities as posing a special risk. 70/  Dearlove also testified that he believed it was 
+important to know whose debt was whose, as between Adelphia and the Rigas Entities.  He 
+testified that he was "generally aware the debt was audited," but that he did not review the debt 
+workpapers directly.  He also testified: "I don't recall [debt] being [a] particularly sensitive 
+area, . . . I don't recall issues raised to me of difficulties we had.  I don't recall any particular 
+conversation [I] had with the team" concerning the audit of the debt.  The record does not show 
+that Dearlove knew of the three journal entries involving debt reclassification at the time of the 
+audit. 
+
+       B. 	    Analysis 
+
+       Paragraph 16 of Statement of Accounting Standards No. 125 ("FAS 125"), Accounting 
+for Transfers and Servicing of Financial Assets and Extinguishment of Liabilities, permits a 
+
+69/	   For example, after the end of the second quarter of 2000, Adelphia transferred the 
+       reporting of $36 million of debt from the books of UCA Corporation, an Adelphia 
+       subsidiary, to the books of Hilton Head Communications, a Rigas Entity.  The entry was 
+       booked on July 14, 2000, and it involves a post-closing journal entry that was made 
+       retroactive to June 30, 2000. 
+
+70/	   In planning the audit, Deloitte had identified Adelphia's complex organizational structure 
+       and the concentration of its management in a small group as factors contributing to the 
+       "much greater than normal" risk of fraud, misstatement, or error posed by the Adelphia 
+       engagement.  See supra Section II (discussing general risk factors identified in audit 
+       planning). 
+---------------------Page 31---------------------
+
+                                               28
+
+
+debtor to derecognize a liability "if and only if it has been extinguished." 71/  FAS 125 ¶ 16 
+provides that a liability is extinguished if either (a) the debtor pays the creditor and is relieved of 
+its obligation for the liability, or (b) the debtor is legally released from being the primary obligor 
+under the liability, either judicially or by the creditor.  
+
+       When the Adelphia subsidiaries posted the debt in question to their books, they 
+acknowledged their primary liability for the amounts posted.  They could not properly remove 
+the debt from their books without first satisfying the requirements of FAS 125 ¶ 16 that either (1) 
+the Adelphia subsidiaries repaid the debt to the creditor during the relevant reporting periods, or 
+(2) a creditor had released the subsidiaries from their liability for repayment.  The evidence does 
+not show, and Dearlove does not contend, that either of these events occurred.  Adelphia's 
+attempt to extinguish the debt unilaterally merely by shifting the reporting to the Rigas Entities 
+violated GAAP and rendered its financial statements materially misleading by making Adelphia's 
+debt appear less than it was. 72/ 
+
+       Dearlove points out that Elliot Lesser, the Division's expert, offered no opinion as to the 
+alleged debt reclassifications, and made no assertion of any GAAP violation with respect to 
+FAS 125. 73/  Without the support of expert testimony, Dearlove argues, the law judge, and by 
+implication the Commission, may not find a violation of FAS 125. 74/  Dearlove's argument is 
+incorrect.  The Commission may consider expert testimony, but it is not bound by such testimony 
+
+71/	   FAS 125 was superceded by FAS 140, effective for extinguishments of liabilities 
+       occurring after March 21, 2001.  The provisions discussed here were carried over 
+       unchanged into FAS 140. 
+
+72/	   The law judge found that the $38 million debt reclassification after the end of the fourth 
+       quarter of 2000 was a sham transaction that had no rational purpose other than to reduce 
+       the level of debt that Adelphia reported in its public filings.  We reach no conclusion as to 
+       whether that transaction was a sham because the resolution of that question does not alter 
+       our FAS 125 analysis.  The Brown testimony that Dearlove seeks to introduce through his 
+       Rule 452 motion, see supra note 50, is irrelevant because we do not need to make a 
+       finding as to whether the transaction was a sham. 
+
+73/	   Dearlove characterizes Lesser's testimony as an "obvious refusal" to adopt the Division's 
+       theory of a FAS 125 violation.  The testimony to which Dearlove refers, however, was 
+       not related to the alleged FAS 125 violations.  Rather, Lesser was responding to a request 
+       that he identify factors supporting his conclusion that the Rigas Entities' co-borrowed 
+       debt should have been booked as Adelphia's primary obligation under FAS 5. 
+
+74/	   Dearlove makes a similar argument regarding the law judge's (and the Commission's) 
+       purported inability to find a GAAP violation with respect to Adelphia's accounting 
+       treatment of direct placements without expert testimony.  See infra note 88. 
+---------------------Page 32---------------------
+
+                                               29
+
+
+even where it is available, and the absence of expert testimony does not preclude the 
+Commission from making necessary findings with respect to principles of accounting. 75/ 
+
+       Dearlove does not dispute that "certain debt which had been posted to Adelphia was later 
+posted to a Rigas entity."  However, focusing on the statement in the Initial Decision that "[o]nce 
+Adelphia's subsidiaries had posted this debt to their books they became primary obligors for the 
+amounts posted," Dearlove argues that FAS 125 does not define the circumstances under which 
+an entity recognizes debt that may be derecognized only under the FAS 125 criteria.  He claims 
+that the Initial Decision improperly "assumed without analysis" that the posting of debt in a 
+ledger is such a circumstance.  Dearlove argues that the application of FAS 125 is complex 
+where entities are jointly and severally liable for an obligation.  He argues that FAS 125 does not 
+apply where an entity is secondarily or contingently rather than primarily liable.  He asserts that 
+Adelphia was arguably not required to recognize debt in cases where co-borrowed funds were 
+intended to be used by other co-borrowers. 76/  He stops short, however, of saying that the funds 
+at issue were so intended, and our review of the record yields nothing to support such a 
+contention. 
+
+75/	   Cf., e.g., Pagel, Inc., 48 S.E.C. 223, 230 (1985) (stating that law judge "highly 
+       sophisticated in securities matters with many years of experience in determining issues 
+       under the securities laws" could determine that manipulation occurred without expert 
+       testimony), aff'd, 803 F.2d 942, 947 (8th Cir. 1986) ("There is no reason to believe that 
+       the [proffered] expert's testimony would have added anything to this administrative 
+       adjudication directed and decided by a person already knowledgeable in securities 
+       regulation matters.").  See also Haskins & Sells, Accounting Series Release No. 73 (Oct. 
+       30, 1952), 1952 SEC LEXIS 1062, at *28 ("[W]hile the opinions of qualified expert 
+       accountants may be helpful, this Commission must in the last analysis weigh the value of 
+       expert testimony against its own judgment of what is sound accounting practice.").  This 
+       conclusion also applies to the similar argument Dearlove asserts in connection with 
+       Adelphia's accounting for certain direct placements.  See infra note 88. 
+
+       Despite Dearlove's argument that FAS 125 is a "highly technical standard," we find its 
+       application to the facts at issue straightforward, and well within our expertise.  We do not 
+       read For Liability Extinguishment, a December 2003 document by the Financial 
+       Accounting Standards Advisory Committee cited in Dearlove's reply brief and by his 
+       counsel at oral argument, as endorsing Adelphia's accounting treatment of the reclassified 
+       debt.  Although that document indicates that there is some ambiguity as to the application 
+       of FAS 140 (the successor to FAS 125) where there is joint and several liability for a 
+       debt, nothing in that document supports the accounting treatment by Adelphia of its 
+       reclassified debt in this case. 
+
+76/	   Dearlove adduces no support for his contention that the debts were not recognized when 
+       Adelphia booked them. 
+---------------------Page 33---------------------
+
+                                               30
+
+
+       The record does not establish that all of the reclassified debt was co-borrowed debt, and 
+the law judge correctly concluded that the impropriety of Adelphia's debt reclassification was 
+unaffected by the question whether the debt was co-borrowed.  In addition, Dearlove cites no 
+authority to support his contention that FAS 125 is applicable only where primary obligors were 
+required to recognize a liability, and we are aware of none.  
+
+       In any event, the original recording of the debt on the subsidiaries' books is, at a 
+minimum, circumstantial evidence of their receipt of money, whether co-borrowed or otherwise 
+borrowed.  Moreover, Adelphia gave up something of value when it transferred the reporting of 
+the debt: it removed from its books corresponding amounts of receivables owed to it by Rigas 
+Entities.  The removal of the receivables is most reasonably viewed as a quid pro quo for the 
+transfer of debt that was properly Adelphia's.  Adelphia's subsequent transfer of that debt to the 
+Rigas Entities was tied to the removal from Adelphia's books of receivables owed to it by the 
+Rigas Entities and supports the conclusion that the subsidiaries received the money at issue from 
+the lender. 
+
+       The crucial question for the FAS 125 analysis is whether the debt was extinguished in one 
+of the enumerated ways.  If the debt was not extinguished as provided in FAS 125, the debtor 
+may not derecognize it.  We find that the debts were recognized when booked and that, because 
+there was no evidence that the debts were extinguished under FAS 125 ¶ 16, the accounting 
+treatment violated GAAP. 
+
+       We also find that Dearlove's conduct in his audit of Adelphia's accounting for debt was at 
+least unreasonable, resulting in several GAAS violations.  As explained above, Dearlove knew 
+that Adelphia had a large number of decentralized operating entities with a complex reporting 
+structure, carried substantial debt, and engaged in significant related party transactions with 
+affiliated entities that Deloitte would not be auditing.  He also knew that Adelphia management 
+tended to interpret accounting standards aggressively.  Moreover, the audit plan specifically 
+required that post-closing journal entries be examined in particular detail and that the audit team 
+conclude as to their reasonableness.  Dearlove knew that these factors, together with others, led 
+Deloitte to identify the Adelphia audit as posing a "much greater than normal" risk of fraud, 
+misstatement, or error.  Additionally, Dearlove knew that Adelphia management netted its 
+affiliate accounts payable and receivable and sought to reduce the amount of related party 
+receivables it reported. 
+
+       In this context, GAAS required Dearlove to consider the "much greater than normal" risk 
+of the audit in determining the extent of procedures, assigning staff, and requiring appropriate 
+levels of supervision. 77/  Additionally, he was required to "direct the efforts of assistants who 
+[were] involved in accomplishing the objectives of the audit and [to] determin[e] whether those 
+
+77/    AU § 312.17.
+
+---------------------Page 34---------------------
+
+                                               31
+
+
+objectives were accomplished." 78/  He was required to exercise "an attitude that includes a 
+questioning mind and a critical assessment of audit evidence," 79/ "to obtain sufficient competent 
+evidential matter to provide . . . a reasonable basis for forming a conclusion," 80/ and, after 
+identifying related party transactions, to "apply the procedures he consider[ed] necessary to 
+obtain satisfaction concerning the purpose, nature, and extent of these transactions and their 
+effect on the financial statements." 81/ 
+
+       A reasonable engagement partner, under the circumstances present here, would have 
+developed a much more thorough understanding of Adelphia's accounting for debt than Dearlove 
+did and would have paid more attention to ensuring that the engagement team was asking the 
+sorts of questions that would have brought matters like the accounting for reclassified debt to 
+light (for example, questions about how Adelphia recorded debt or decided where debt belonged, 
+how related party receivables were audited, and how Adelphia managed to reduce the receivable 
+line item on its balance sheet by 98% over the prior year).  A reasonable engagement partner 
+would have specifically ensured that the requirement in the audit plan concerning post-closing 
+journal entries was followed.  Instead, Dearlove paid only cursory attention to the audit of 
+Adelphia's debt and thus remained unaware of the existence – and thus the accounting 
+treatment – of the debt reclassifications. 
+
+       The reclassified debt involved post-closing journal entries of a magnitude significant 
+enough to require the auditors to confront management and request an explanation, as required 
+by Deloitte's audit planning documents.  After discussing the entries with appropriate Adelphia 
+personnel, Deloitte should have documented management's explanation, and Deloitte's 
+conclusions as to whether the accounting treatment was reasonable, in the audit workpapers.  The 
+record does not show that any of these steps was taken.  The failure to take them was, at the very 
+least, unreasonable. 82/ 
+
+       Dearlove reiterates his general argument that his active involvement in the audit 
+represented the reasonable conduct of an engagement partner in an audit of this complexity.  He 
+argues that he never learned of the three accounting events characterized as debt reclassification 
+until after the conclusion of the audit and that, "although [he] was active in the audit, he did not 
+have the clairvoyance to ask every question that is now at issue in this proceeding, or the ability, 
+[six] years hence, to remember every question he did ask." 
+
+78/	   AU § 311.11. 
+
+79/	   AU § 230.07. 
+
+80/	   AU § 326.22. 
+
+81/	   AU § 334.09. 
+
+82/	   Dearlove's view that FAS 125 is a "highly technical standard," see supra note 75, should 
+       have given him even more reason to devote particular attention to its application. 
+---------------------Page 35---------------------
+
+                                               32
+
+
+       As the engagement partner, however, Dearlove was responsible for assigning tasks to and 
+supervising assistants. 83/  He was required to review the work performed by each assistant to 
+determine whether it was adequately performed and to evaluate whether the results were 
+consistent with the conclusions to be presented in the auditor's report. 84/  Dearlove could not 
+satisfy his duty to supervise by waiting passively for his subordinates to bring these matters to his 
+attention.  The audit plan itself directed the audit team to examine related party transactions and 
+post-closing journal entries, and Dearlove himself admitted that he believed it was important to 
+know whose debt was whose.  In light of these facts,  we find that Dearlove's failure to apprise 
+himself of the circumstances of the debt reclassification was a clear violation of his GAAS 
+obligations to exercise due professional care, supervise assistants, and gather sufficient 
+competent evidential matter to support his audit conclusions.  Dearlove's failure to be more 
+proactive was at least unreasonable. 
+
+       Accordingly, we find that Dearlove acted at least unreasonably in signing an unqualified 
+audit opinion stating that Deloitte had conducted its audit in accordance with GAAS and that 
+such audit provided a reasonable basis for its opinion that Adelphia's 2000 financial statements 
+fairly presented Adelphia's financial position in conformity with GAAP. 
+
+VII.	  Direct Placements of Stock 
+
+       A.	    Facts 
+
+       During 2000, the Rigases acquired Adelphia Class B common stock through two direct 
+placements. 85/  The first of these occurred in January 2000, when Adelphia issued $368 million 
+of such stock to Highland 2000 L.P., a Rigas Entity partnership that was not a co-borrower 
+("Highland 2000-Rigas"). 86/  The second occurred in July 2000, when the Rigases acquired 
+additional Adelphia Class B common stock through the issuance of approximately $145 million 
+of such stock also to Highland 2000-Rigas.  The Rigases financed both transactions with co­
+borrowed funds for which Adelphia was jointly and severally liable. 
+
+83/	   AU § 311.01, 311.11. 
+
+84/	   AU § 311.11. 
+
+85/	   See supra Section II (describing the Rigas family's maintenance of control over Adelphia 
+       through direct placements of Class B shares). 
+
+86/	   To help the reader more easily understand the series of transactions involved in the direct 
+       placements of stock, we have appended "-Rigas" or "-Adelphia," as appropriate, to names 
+       of entities. 
+---------------------Page 36---------------------
+
+                                              33
+
+
+              1.      The July 2000 Direct Placement 
+
+       In July 2000, Highland Prestige Georgia, a Rigas Entity co-borrower ("Highland Prestige-
+Rigas"), drew down $145 million under the 2000 credit agreement.  Highland Prestige-Rigas 
+transferred the money to Highland Holdings, a Rigas Entity that was not a co-borrower 
+("Highland Holdings-Rigas").  Highland Holdings-Rigas then transferred $144,537,533 to 
+Adelphia in exchange for shares of Adelphia stock.  Adelphia recorded an increase in equity. 
+Highland Holdings-Rigas assigned the Adelphia shares to its subsidiary, Highland 2000-Rigas. 
+
+              2.      The January 2000 Direct Placement 
+
+                      a.     The Loan Transaction 
+
+       The January 2000 direct placement used a similar model to the one in July, but was more 
+complicated.  In January, the co-borrowers collectively drew down $368 million under the 1999 
+credit agreement.  At the request of the co-borrowers, the lenders wired the funds to the account 
+of UCA, an Adelphia subsidiary ("UCA-Adelphia").  UCA-Adelphia recorded on its books the 
+receipt of the $368 million in cash and a corresponding note payable in the same amount, 
+evidencing debt owed by UCA-Adelphia to the lenders.  
+
+       Adelphia later claimed that the co-borrowers mistakenly entered an incorrect account 
+number in their wiring instructions and that the co-borrowers had intended that the $368 million 
+drawn down under the credit agreement go to Hilton Head Communications, a Rigas Entity co­
+borrower ("Hilton Head-Rigas"), not to UCA-Adelphia.  There is no indication that the co­
+borrowers notified the lenders of this alleged mistake in the wiring instructions.  Adelphia did not 
+return the $368 million to the lenders, nor did it transfer the cash to Hilton Head-Rigas, allegedly 
+the intended recipient.  Instead, Adelphia retained the money and used it to pay down preexisting 
+debt of UCA-Adelphia and another Adelphia subsidiary. 
+
+       In an attempt to make its books show that Hilton Head-Rigas, not UCA-Adelphia, was 
+primarily responsible for the borrowed $368 million, Adelphia made journal entries on the books 
+of both of these entities.  Adephia transferred the $368 million "draw" (the recordation of debt 
+from the lenders) from UCA-Adelphia to Hilton Head-Rigas, resulting in the removal of that 
+debt from UCA-Adelphia's books and the recordation of that debt on Hilton Head-Rigas's books. 
+There is no indication either that Adelphia tried to notify the lenders of this attempt to reallocate 
+responsibility for the borrowed $368 million or that the lenders knew about (much less approved) 
+the reallocation.  To reflect UCA-Adelphia's retention of the $368 million it received from the 
+lenders, Adelphia also recorded on UCA-Adelphia's books a note payable to Hilton Head-Rigas 
+in the amount of $368 million, representing the $368 million that UCA-Adelphia "owed" Hilton 
+Head-Rigas for the "miswired" cash it had retained.  The borrowed $368 million had not been 
+repaid to the lenders or given to Hilton Head-Rigas, but, at least as far as the journal entries were 
+concerned, that debt was now the responsibility of Hilton Head-Rigas, not UCA-Adelphia. 
+---------------------Page 37---------------------
+
+                                               34
+
+
+                      b.     The Stock Transaction 
+
+       Also in January 2000, Adelphia issued $368 million worth of shares of Class B common 
+stock to Highland Holdings-Rigas.  Highland Holdings-Rigas did not pay Adelphia cash for the 
+shares; instead, it gave Adelphia a note in the amount of $368 million, payable to Adelphia. 
+Highland Holdings-Rigas then assigned the Class B shares to its subsidiary Highland 2000­
+Rigas.  Adelphia increased its equity by $368 million and recorded the $368 million note 
+receivable from Highland Holdings-Rigas as an asset in exchange for the stock, thus treating the 
+transaction as a sale of stock. 
+
+                      c.     Netting 
+
+       As explained above, Adelphia's accounting for the January loan transaction resulted in the 
+creation of a note payable by Adelphia to Hilton Head-Rigas in the amount of $368 million, and 
+its accounting for the January stock transaction resulted in the creation of a $368 million note 
+receivable from Highland Holdings-Rigas to Adelphia.  Consistent with its practice of netting 
+affiliate payables and receivables discussed above, Adelphia netted the $368 million note payable 
+by Adelphia to Hilton Head-Rigas against the $368 million note receivable from Highland 
+Holdings-Rigas to Adelphia, and both the payable and the receivable disappeared from 
+Adelphia's books. 
+
+       B.     Analysis 
+
+       As discussed above, 87/ FAS 125 ¶ 16 permits a debtor to derecognize a liability "if and 
+only if it has been extinguished," and provides that a liability is extinguished only if either (a) the 
+debtor pays the creditor and is relieved of its obligation for the liability, or (b) the debtor is 
+legally released from being the primary obligor under the liability, either judicially or by the 
+creditor.  When UCA-Adelphia received the borrowed $368 million and booked the loan, it 
+became the primary obligor for that amount.  At that point, FAS 125 applied, and Adelphia 
+therefore could not properly remove the debt from UCA-Adelphia's books without first satisfying 
+the requirements of FAS 125 ¶ 16.  In other words, UCA-Adelphia could not extinguish the debt 
+without showing either (1) that it repaid the debt to the lenders, or (2) that the lenders had 
+released UCA-Adelphia from its liability for repayment.  The evidence does not show, and 
+Dearlove does not contend, that either of these events occurred.  Neither Adelphia nor UCA-
+Adelphia repaid the debt to the lenders, and although Adelphia revised the books of both UCA-
+Adelphia and Hilton Head-Rigas to show a transfer of the liability, there is no indication that 
+Adelphia notified the lenders that it no longer viewed UCA-Adelphia as liable, much less that the 
+lenders agreed to the purported transfer or released UCA-Adelphia from liability.  Thus, the 
+liability was not extinguished as required by FAS 125, and Adelphia should have shown the 
+liability on its balance sheet.  Adelphia's attempt to extinguish the debt unilaterally merely by 
+transferring the "draw" from UCA-Adelphia to Hilton Head-Rigas, rather than obtaining a release 
+
+87/    See supra Section VI.B. 
+---------------------Page 38---------------------
+
+                                               35
+
+
+from the lender or otherwise satisfying the requirements of FAS 125, violated GAAP and 
+rendered Adelphia's financial statements materially misleading. 88/ 
+
+       Emerging Issues Task Force Consensus No. 85-1, Classifying Notes Received for Capital 
+Stock (1985) ("EITF 85-1") provides that, when an enterprise receives a note, rather than cash, 
+for the sale of capital stock, the enterprise should generally report the note receivable as a 
+reduction of shareholders' equity and not as an asset. 89/  EITF 85-1 further provides that notes 
+received for the sale of stock "may be recorded as an asset if collected in cash prior to issuance of 
+the financial statements."  Rule 5-02.30 of Regulation S-X requires public companies to show on 
+the face of their balance sheets the dollar amount of any common stock shares subscribed but 
+unissued, and to show subscriptions receivable as a deduction from shareholders' equity; these 
+two entries offset each other, resulting in no net change to the total amount of equity shown on 
+the balance sheet. 90/ 
+
+       Applying EITF 85-1 and Rule 5-02.30, we find that the January direct placement should 
+have been treated as a stock subscription, with resulting reduction to shareholder equity, rather 
+than as a stock sale. 91/  Adelphia received only a note, not cash, in payment for the shares it 
+issued.  The note therefore should have been recorded as a receivable, with a corresponding, 
+offsetting reduction to equity.  
+
+       We further find that netting the $368 million receivable against the $368 million payable 
+that resulted from the loan transaction did not cause the receivable to be "collected in cash" for 
+
+88/	   The analytic basis for this finding is the same as that for the three instances of debt 
+       reclassification discussed supra in Section VI.B. 
+
+       We have already rejected Dearlove's argument that we cannot find a violation of FAS 125 
+       without expert testimony.  See supra notes 74 and 75 and accompanying text. 
+
+89/	   Consensus positions of the FASB Emerging Issues Task Force have a recognized position 
+       within the GAAP hierarchy.  AU § 411.10.  They represent the consensus position of the 
+       best thinking of the accounting profession on areas for which there are no specific 
+       standards.  AU § 411.10 ¶ 3. 
+
+90/	   17 C.F.R. § 210.5-02.30.  For Commission registrants, Commission rules have an 
+       authority similar to the most authoritative pronouncements within the GAAP hierarchy. 
+       AU § 411.10 n.3. 
+
+91/	   The Division argued before the law judge that, under EITF 85-1, the July direct 
+       placement also should have been treated as a stock subscription rather than a stock 
+       purchase.  The law judge found no GAAP violations with respect to Adelphia's 
+       accounting treatment of the July direct placement.  Because the Division did not appeal, 
+       this issue is not before us. 
+---------------------Page 39---------------------
+
+                                               36
+
+
+purposes of EITF 85-1 analysis and thus did not permit Adelphia to report the receivable as an 
+asset.  Adelphia's netting of its payable to Hilton Head-Rigas against its receivable from 
+Highland Holdings-Rigas was inappropriate, at the very least, because more than two parties 
+were involved: Highland Holdings-Rigas, to whom Adelphia issued the Class B shares, was not 
+the same entity as Hilton Head-Rigas, to whom Adelphia attempted to transfer the co-borrowed 
+debt. 92/  Thus, even if the transfer of the borrowed funds from UCA-Adelphia to Hilton Head-
+Rigas and the resulting creation of a payable owed by Adelphia to Hilton Head-Rigas had been 
+allowed under FAS 125, the netting was improper, the receivable was not satisfied in cash, and 
+Adelphia therefore should have treated the stock transaction as a stock subscription. 93/ 
+
+       The effect of treating the transaction as a stock sale was that Adelphia showed an increase 
+to equity of $368 million, with no offsetting reduction.  In reality, Adelphia's financial position 
+was not improved by either the January loan transaction or the January stock transaction.  As 
+discussed above, the $368 million that Adelphia received in January was borrowed from the 
+lenders, and because the debt was not properly extinguished, Adelphia still owed the lenders that 
+money.  Moreover, until the receivable was collected, the increase to equity that Adelphia 
+showed had to be offset by a reduction in equity because payment was in the form of a 
+receivable, not cash. 
+
+92/	   See supra Section IV.B (discussing two-party requirement for netting under FIN 39 and 
+       also stating that the record does not demonstrate that the Rigas Entities were owned in 
+       equal proportions by the same members of the Rigas family). 
+
+93/	   Moreover, even if appropriate, Adelphia's netting of the payable to Hilton Head-Rigas 
+       against the receivable from Highland Holdings-Rigas in this case merely canceled out 
+       both amounts; it did not create cash. 
+
+       Dearlove asserts that the Division raises the argument for the first time on appeal "that the 
+       stock purchase should have been recorded as a stock subscription because the receivable 
+       from [Highland Holdings-Rigas] to Adelphia could not be netted against the [note] 
+       payable from [UCA-Adelphia] to [Hilton Head-Rigas] under FIN 39."  Contrary to 
+       Dearlove's assertion, neither the propriety of the netting nor the propriety of recording the 
+       transaction as a stock subscription was raised for the first time on appeal.  The OIP 
+       charged that "Highland paid nothing [for the $368 million in Class B shares] and 
+       Adelphia booked an affiliate receivable from Highland [Holdings] for the purchase price 
+       of the shares . . . . [T]his receivable was never satisfied for cash, but, along with other 
+       affiliate receivables, was netted against, and reduced by, the fake affiliate payables 
+       created by Adelphia's reclassifications of co-borrowed debt."  (Moreover, Dearlove 
+       testified at the hearing, "The Rigases collectively had $368 million worth of debt.  They 
+       also owned $368 million worth of stock.  The affiliated payable and the affiliated 
+       receivable netted to zero.")  In the same paragraph, the OIP charged that Adelphia's 
+       receipt of a receivable that was not satisfied for cash in connection with the January direct 
+       placement "created a stock subscription." 
+---------------------Page 40---------------------
+
+                                              37 
+
+       Dearlove contends that the record shows that the $368 million borrowed in January 
+should have gone to Hilton Head-Rigas originally, and that "the July direct placement looks 
+exactly the way the January direct placement would have in the absence of a misposting," i.e., 
+with the money drawn going to a Rigas Entity co-borrower rather than an Adelphia subsidiary. 
+He argues that, if we accept his argument that the $368 million loan was originally intended for 
+Hilton Head-Rigas, we cannot find a GAAP violation with respect to the January 2000 direct 
+placement.  On appeal, Dearlove moved to admit into evidence the supposedly exculpatory 
+testimony of Adelphia treasury supervisor James Helms, which Dearlove claims to have 
+discovered after the hearing.  According to Dearlove, the testimony "conclusively establishes" 
+that Hilton Head-Rigas rather than UCA-Adelphia was the intended recipient of the $368 million 
+draw. 94/ 
+
+       The question whether the loan was intended for Hilton Head-Rigas rather than 
+UCA-Adelphia does not affect our analysis under FAS 125.  Whether or not the co-borrowers 
+wanted the money to go to UCA-Adelphia, that is what happened:  UCA-Adelphia received the 
+money and booked the loan.  UCA-Adelphia also kept the money and used the money.  Having 
+thus become the primary obligor, Adelphia was required to comply with FAS 125 ¶16 in order to 
+extinguish its liability.  As discussed above, it failed to do so.  Because the co-borrowers' intent 
+as to where the money should have been wired is irrelevant, Dearlove's newly introduced 
+evidence, the Helms testimony, is also irrelevant. 95/ 
+
+       Dearlove's argument that "the July direct placement looks exactly the way the January 
+direct placement would have in the absence of a misposting" is conjectural.  We do not know 
+what might have happened if the borrowed funds had gone directly to Hilton Head-Rigas or how 
+the Class B shares might have been paid for under those circumstances.  We base our conclusions 
+on what did happen:  Adelphia got a receivable in exchange for the shares and booked the 
+
+94/	   See Commission Rule of Practice 452, 17 C.F.R. § 201.452 (stating that a motion to 
+       introduce new evidence "shall show with particularity that such additional evidence is 
+       material and that there were reasonable grounds for failure to adduce such evidence 
+       previously").  The Office of the General Counsel, acting pursuant to delegated authority, 
+       granted Dearlove's motion on September 13, 2006.  Dearlove's allegedly belated 
+       discovery of this testimony is the lynchpin of his argument that he was denied due process 
+       by the failure to continue the hearing date.  See infra Section X. 
+
+95/	   Dearlove argues that the journal entries for the January direct placement had been 
+       "corrected" long before Deloitte began its audit of Adelphia's books, so there is no 
+       evidence that "any record of journal entries made many months earlier would have 
+       emerged at year end."  This argument is unclear.  To the extent Dearlove refers to the 
+       alleged misposting of $368 million to UCA-Adelphia and the subsequent journal entries 
+       Adelphia made allegedly to correct the mistake, for the reasons discussed in the text, this 
+       argument is irrelevant to our analysis. 
+---------------------Page 41---------------------
+
+                                               38
+
+
+transaction as a stock sale, although the receivable was not collected in cash.  That violated 
+GAAP. 
+
+       Statement of Accounting Standards No. 57 ("FAS 57") requires disclosure of material 
+related party transactions. 96/  Such disclosures must include the nature of the relationship 
+involved, a description of the transactions (including the amounts thereof), and amounts due 
+from or to related parties as of the date of the balance sheet. 
+
+       The disclosure of the January direct placement in the notes to Adelphia's 2000 financial 
+statements was incomplete because it did not disclose that a stock subscription was involved, or 
+that co-borrowed funds drawn by an Adelphia subsidiary had been used to fund the direct 
+placement.  The disclosure, therefore, failed to comply with FAS 57. 
+
+       As for the GAAS violations charged, Dearlove knew that both direct placements had 
+occurred; the dates and amounts of both transactions had been disclosed in Adelphia's quarterly 
+and annual reports.  Dearlove testified, however, that the engagement team did not bring to his 
+attention the mechanics of the two direct placements, and neither Caswell nor Hofmann recalled 
+discussing the direct placements with Dearlove during the audit. 97/  With respect to the January 
+direct placement, Dearlove understood that $368 million in cash went to Adelphia and that equity 
+was issued to the Rigases, but he did not understand "the misposting and the directing issues and 
+the netting," which were not brought to his attention.  Similarly, with respect to the July direct 
+placement, Dearlove understood that Highland Holdings-Rigas paid Adelphia $145 million for 
+the Class B shares, but he was not aware "that the $145 million was borrowed by [Highland 
+Prestige-Rigas] and lent to an entity that we didn't have visibility to so that they could make that 
+payment." 
+
+       As was true with respect to the issues discussed above, GAAS required Dearlove to 
+consider the "much greater than normal" risk of the audit in determining the extent of procedures, 
+assigning staff, and requiring appropriate levels of supervision. 98/  Additionally, he was 
+required to direct the efforts of assistants working under his supervision and to evaluate their 
+work as it pertained to accomplishing the objectives of the audit. 99/  He was required to exercise 
+
+96/    FAS 57 ¶ 2. 
+
+97/    The record contains conflicting testimony as to whether Brown and Werth discussed with 
+       Caswell and Hofmann the question whether one or both of the direct placements 
+       discussed above should be recorded as stock subscriptions rather than stock sales.  The 
+       law judge credited the testimony of Brown and Werth that such conversations took place. 
+
+98/    AU § 312.17. 
+
+99/    AU § 311.11. 
+---------------------Page 42---------------------
+
+                                                39
+
+
+professional skepticism, 100/ to obtain sufficient competent evidential matter to provide 
+reasonable support for his conclusions, 101/ and, after identifying related party transactions, to 
+apply necessary procedures to obtain satisfaction concerning the purpose, nature, and extent of 
+these transactions and their effect on the financial statements. 102/ 
+
+       The direct placements involved many of the factors that Deloitte recognized had 
+contributed to the high risk level assigned to the audit: they were significant transactions 
+involving related parties, including affiliates that Deloitte was not auditing.  The transactions 
+were unusual in that the co-borrowers that drew down the funds were not the entities that 
+received the Class B shares.  Moreover, they were large transactions, totaling more than half a 
+billion dollars, and the sources of funds paid for the shares were unclear.  Both auditing standards 
+and Deloitte's own audit plan required the engagement team to understand the impact of such 
+transactions on Adelphia's financial statements and to investigate the sources of financial 
+resources supporting significant or unusual transactions.  Yet Dearlove failed to question the 
+facts that underlay the direct placements, accepting as adequate the superficial explanation that 
+Adelphia got $368 million and issued $368 million in equity without seeking to understand the 
+transactions involved.  In doing so, he acted at least unreasonably. 
+
+       With respect to the direct placements, as in other areas, Dearlove needed to do more than 
+wait for other Deloitte personnel to inform him of potential issues.  He had a duty to inquire in 
+more detail about the direct placements, or to direct his staff to do so, rather than rely on his 
+assistants to make the judgment on their own.  While Dearlove could appropriately delegate 
+much of the hands-on work of the Adelphia audit to his team, he was nonetheless bound by his 
+duty to supervise that work, and he retained responsibility for doing so.  Under the circumstances 
+present here, we find that Dearlove violated his obligation under GAAS to supervise.   
+
+       The record shows that the engagement team was aware that Adelphia had recorded the 
+direct placements as stock purchases rather than stock subscriptions, but the team did not test this 
+decision, nor did it take steps to ascertain the source of funds used for the stock purchases.  The 
+large amount of money involved and the fact that the transactions involved related parties 
+(including ones that Deloitte would not be auditing) rendered Dearlove's acceptance of the 
+transactions at face value unreasonable.  In failing to probe further into the facts pertaining to the 
+direct placements and their accounting treatment, Dearlove failed to employ the increased 
+professional skepticism that the known risks of the audit required, and thus violated GAAS. 103/ 
+
+100/   AU § 230.07. 
+
+101/   AU § 326.22. 
+
+102/   AU § 334.09. 
+
+103/   Although we have found that the accounting treatment of the January direct placement 
+       violated FAS 57, see text accompanying note 96, supra, we decline to find that Dearlove's 
+                                                                                     (continued...) 
+---------------------Page 43---------------------
+
+                                               40
+
+
+VIII.	  Analysis of Liability and Appropriate Sanction Under Rule 102(e) 
+
+       A.	    Liability 
+
+       Rule of Practice 102(e)(1)(iv) provides that the Commission may discipline a person 
+licensed to practice as an accountant if we find that the accountant has engaged in any of three 
+types of improper professional conduct. 104/  However, as applied to this case, we need 
+determine only whether Dearlove engaged in "repeated instances of unreasonable conduct, each 
+resulting in a violation of applicable professional standards, that indicate a lack of competence to 
+practice before the Commission." 105/  We have already discussed our findings that Dearlove 
+repeatedly engaged in at least unreasonable conduct during his audit of four critical areas of 
+Adelphia's financial statements and that his conduct resulted in violations of GAAS.  We must 
+now determine whether Dearlove's conduct, though only negligent, nonetheless demonstrates a 
+lack of competence to practice before the Commission.  
+
+       This case presents to us the first litigated proceeding in which a respondent's conduct is 
+being judged solely against Rule 102(e)'s third definition of improper professional conduct.  We 
+are guided in our analysis by the 1998 release accompanying the amendments to Rule 102(e), 
+which explained that 
+
+              [t]he term "unreasonable," as distinguished from the term "highly 
+              unreasonable" used in subparagraph B(1), connotes an ordinary or simple 
+              negligence standard.  The lower standard of culpability is justified in this 
+              instance because the repetition of the unreasonable conduct may show the 
+
+103/	  (...continued) 
+       failure to include the appropriate disclosure regarding that direct placement in the notes to 
+       the financial statements was a separate violation of GAAS.  Moreover, because we 
+       believe the OIP was somewhat ambiguous in identifying the other transactions that are 
+       alleged to have been inadequately disclosed under FAS 57, we decline to consider 
+       whether any of the other three accounting areas at issue in this case (i.e., netting, co­
+       borrowed debt, and debt reclassifications) involve violations of FAS 57.  Although we 
+       find that the OIP provided adequate notice to Dearlove that he was charged with failing to 
+       review Adelphia's disclosure under FAS 57 of the common treasury system it used to 
+       manage its own accounts and the accounts of its subsidiaries and the Rigas Entities, it is 
+       not clear to us that such disclosure was necessary under FAS 57.  Given the several 
+       examples in this case of accounting presentations that depart from GAAP, as well as the 
+       several examples of conduct that already form a basis for finding that Dearlove departed 
+       from GAAS, we decline to decide whether disclosure of the common treasury system was 
+       necessary or whether Dearlove gave appropriate consideration to the issue. 
+
+104/	  See supra note 1. 
+
+105/	  Commission Rule of Practice 102(e)(1)(iv)(B)(2); see supra note 2. 
+---------------------Page 44---------------------
+
+                                           41 
+
+               accountant's lack of competence to practice before the Commission.  If an 
+               accountant fails to exercise reasonable care on more than one occasion, the 
+               Commission's processes may be threatened.  More than one violation of 
+               applicable professional standards ordinarily will indicate a lack of 
+               competence. 106/ 
+
+The Commission distinguished such conduct from, for example, "two isolated violations of 
+applicable professional standards . . . that may not pose a threat to the Commission's 
+processes." 107/  Upon review of the totality of the circumstances of this case, we conclude that 
+the frequency and gravity of Dearlove's negligent failures on the Adelphia audit demonstrate that 
+he engaged in improper professional conduct under this standard. 
+
+       As discussed above, Dearlove approved Adelphia's net presentation of over $1 billion 
+each in related party payables and receivables without devoting any attention to the matter, 
+despite his admitted inexperience with the issue and despite knowing that management sought to 
+reduce the net balance to improve its financial picture.  He also summarily approved Adelphia's 
+accounting for $1.6 billion in related party contingent debt while failing to test any of several 
+assumptions underlying his conclusion that Adelphia was unlikely to have to repay that debt.  
+Dearlove also approved the company's obfuscatory disclosure of that obligation; despite audit 
+plan warnings about aggressive management accounting positions, he acquiesced in 
+management's formulation of the disclosure without probing its reasons for rejecting Deloitte's 
+proposed language, and he took no steps to confirm with Deloitte's risk or reviewing partners that 
+the disclosure was GAAP compliant.  Dearlove did not himself review, or ensure that his team 
+reviewed, three significant reclassifications of related party debt that did not comply with GAAP 
+and that should have been subject to careful attention as post-closing journal entries.  He 
+approved the accounting treatment for two sizeable direct placements of Adelphia stock with 
+related parties involving unspecified sources of funds without inquiring about, or instructing his 
+audit team to inquire about, the specifics of those transactions.  Dearlove conducted his review of 
+Adelphia's financial statements with these serious failings despite the need for heightened 
+scrutiny called for generally by the high-risk engagement, and despite the special care with which 
+GAAS required Dearlove to review these significant, related party transactions. 
+
+       These repeated failures, taken together, evidence a troubling disregard of some of the 
+most basic auditing principles.  GAAS require auditors to adequately plan the audit and to 
+
+106/   Amendment to Rule 102(e) of the Commission's Rules of Practice, 63 Fed. Reg. 57,164, 
+       57,166 (Oct. 26, 1998). 
+
+107/   Id. 
+---------------------Page 45---------------------
+
+                                               42
+
+
+properly supervise any assistants, 108/ to exercise due professional care, 109/ maintain an 
+attitude of professional skepticism, 110/ and obtain sufficient competent evidential matter to 
+afford a reasonable basis for an opinion with respect to the financial statements under 
+review. 111/  As audit risk increases, so does the need for care and skepticism. 112/  Although 
+there may be room for debate among auditors regarding the best way to tailor an audit to satisfy 
+these requirements, no reasonable auditor could conclude that Dearlove satisfied them here, 
+where Dearlove, in a high-risk audit environment, neglected to ask what gross dollar amounts 
+were behind the net related party receivables presented on Adelphia's balance sheet, relied on 
+media reports as evidence of the Rigases' financial status, made no inquiry into post-closing 
+journal entries that were specifically identified by Deloitte as requiring attention, and made no 
+effort to ensure his team identified the source of funds used for multi-million-dollar stock 
+placements to affiliated companies.  Dearlove repeatedly ignored rudimentary audit principles 
+not just with respect to one auditing area, but several: his failures were extensive.  We conclude, 
+therefore, that Dearlove engaged in repeated instances of conduct that were at least unreasonable, 
+that departed from GAAS in fundamental respects, and that indicate a lack of competence to 
+practice before the Commission. 
+
+       Dearlove argues that the record contains evidence of Dearlove's "overall diligence and 
+competence," including that Dearlove was involved in Deloitte's risk identification process, and 
+that Dearlove was an active, engaged, and accessible supervisor who reviewed and signed off on 
+numerous workpapers.  Dearlove contends that it would be unreasonable to hold him to a 
+standard that would require him "to have personally reviewed over 32,000 pages of the audit 
+documentation and to have participated in all conversations that related to any audit 
+conclusions."  We believe that Dearlove's argument misapprehends the requirements of GAAS. 
+We agree that GAAS do not require engagement partners to review every workpaper, analyze 
+every transaction, or supervise every task, and our findings in this opinion are not intended to 
+suggest otherwise.  However, in deciding which audit areas deserve more of his or her attention, 
+the auditor must be mindful of the GAAS requirement to exercise special care in high-risk audit 
+environments 113/ and to ensure that the staff devotes appropriate attention to all audit 
+
+108/   AU §§ 311.01, 311.11. 
+
+109/   AU § 230.01. 
+
+110/   AU §§ 230.07-08. 
+
+111/   AU § 326.22. 
+
+112/   AU §§ 312.17, 316.27. 
+
+113/   AU §§ 312.17, 316.27. 
+---------------------Page 46---------------------
+
+                                               43
+
+
+areas. 114/  In any audit, areas that present more risk will demand more attention.  We find fault 
+with Dearlove not because he failed to review every workpaper but because he failed to devote 
+enough care and attention to certain significant audit issues that presented him with clear, 
+previously-identified risks of fraud, misstatement, or error.  Evidence that Dearlove spent 
+substantial time and effort on some auditing areas does not insulate him from liability for his 
+failure to spend enough time and effort on others that were so material to Adelphia's financial 
+statements. 
+
+       We find, therefore, that Dearlove engaged in repeated instances of at least unreasonable 
+conduct during his audit of four critical areas of Adelphia's financial statements, that his conduct 
+resulted in violations of GAAS, and that his conduct indicates a lack of competence to practice 
+before the Commission. 
+
+       B.	    Denial of the Privilege of Appearing or Practicing Before the Commission 
+
+       In determining the appropriate sanction, we are mindful of the remedial nature of 
+Rule 102(e) and our purpose in promulgating the rule to ensure that the Commission's "processes 
+continue to be protected, and that the investing public continues to have confidence in the 
+integrity of the financial reporting process." 115/  In the Commission's release adopting the 1998 
+amendments to Rule 102(e), we recognized that 
+
+       [i]nvestors have come to rely on the accuracy of the financial statements of public 
+       companies when making investment decisions.  Because the Commission has limited 
+       resources, it cannot closely scrutinize every financial statement.  Consequently, the 
+       Commission must rely on the competence and independence of the auditors who certify, 
+       and the accountants who prepare, financial statements.  In short, both the Commission 
+       and the investing public rely heavily on accountants to assure corporate compliance with 
+       federal securities law and disclosure of accurate and reliable financial information. 116/ 
+
+Further, we stated that "a negligent auditor can do just as much harm to the Commission's 
+processes as one who acts with an improper motive." 117/  We thus recognized that, under some 
+circumstances, unreasonable conduct is not necessarily a less egregious discplinary matter than 
+either intentional or reckless conduct, or highly unreasonable conduct in circumstances 
+warranting heightened scrutiny.  The requirement that we make a finding that an auditor's 
+
+114/	  AU §§ 311.01, 311.11. 
+
+115/	  Amendment to Rule 102(e), 63 Fed. Reg. at 57,164; see also Robert W. Armstrong, III, 
+       Exchange Act Rel. No. 51920 (June 24, 2005), 85 SEC Docket 3011, 3041. 
+
+116/	  Id. at 57,165. 
+
+117/	  Amendment to Rule 102(e), 63 Fed. Reg. at 57,167. 
+---------------------Page 47---------------------
+
+                                               44
+
+
+negligent conduct indicates a lack of competence to practice before us would justify, under 
+appropriate circumstances, permanently barring the auditor from doing so. 
+
+       Here, Dearlove violated fundamental principles of auditing.  He failed to exercise due 
+care and appropriate professional skepticism.  He also failed to collect sufficient competent 
+evidential matter to provide the basis for the expression of an audit opinion with respect to 
+several significant related party transactions despite the clear need for heightened scrutiny 
+presented by the Adelphia audit.  The frequency of Dearlove's failures far exceed the minimum 
+threshold established by Rule 102(e)(1)(iv)(B)(2): he engaged in many instances of unreasonable 
+conduct resulting in several GAAS violations in each of four auditing areas. Unreasonable 
+failures to comply with auditing standards that so pervasively compromise an audit, such as those 
+of Dearlove, "jeopardize the achievement of the objectives of the securities laws and can inflict 
+great damage on public investors." 118/  Moreover, Dearlove's lengthy audit experience makes 
+his failure to conduct the Adelphia audit in accordance with applicable professional standards all 
+the more troubling. 119/  Dearlove's repeated, substantial departures from his professional duties 
+establish that the Commission cannot, at present, rely upon him to perform diligently and with 
+reasonable competence his audit responsibilities.  
+
+       We have determined under these circumstances to deny Dearlove the privilege of 
+appearing or practicing before the Commission coupled with a right to apply for reinstatement 
+after four years.  We conclude that this sanction is necessary to protect the integrity of the 
+Commission's processes and encourage more rigorous compliance with auditing standards both 
+by Dearlove and by other independent auditors, without being punitive. 120/ 
+
+118/	  Touche Ross & Co. v. SEC, 609 F.2d 570, 581 (2d Cir. 1979). 
+
+119/	  See, e.g., McCurdy v. SEC, 396 F.3d at 1265 (upholding Commission's finding that 
+       respondent's "'signficant experience in audit work'" rendered his audit failures 
+       "'particularly troublesome,'" and affirming sanction based on its demonstrated remedial 
+       purpose to "protect the public from his demonstrated capacity for recklessness in the 
+       present, and presumably to encourage his more rigorous compliance with GAAS in the 
+       future"); Marrie, 56 S.E.C. at 799 (finding respondent's lengthy audit experience made his 
+       failure to conduct audit in accordance with generally accepted auditing standards 
+       particularly troublesome). 
+
+120/	  Cf. McCurdy v. SEC, 396 F.3d at 1265 (recognizing that, where auditor departed from 
+       GAAS in the audit of one asset during the audit of one year's financial statements, order 
+       suspending auditor from practice before the Commission for one year served remedial 
+       purpose of encouraging more rigorous compliance with generally accepted auditing 
+       standards in future); Marrie, 56 S.E.C. at 798-99 (imposing permanent bar on auditors 
+       who failed to conduct an adequate review of three critical audit areas during the audit of 
+       one year's financial statements and noting that "substantial departures from their 
+                                                                                   (continued...) 
+---------------------Page 48---------------------
+
+                                               45
+
+
+IX.	   Causing Violations of the Reporting, Recordkeeping, and Internal Accounting Control 
+       Provisions of the Exchange Act 
+
+       A.	    Liability 
+
+       Section 13(a) of the Exchange Act and Exchange Act Rule 13a-1 require issuers of 
+securities to file annual reports with the Commission. 121/  The reports must comply with 
+Commission Regulation S-X, 122/ which in turn requires that financial statements be prepared in 
+conformity with GAAP. 123/  The obligation to file these reports includes an obligation that the 
+filings be accurate. 124/  Under Exchange Act Rule 12b-20, an issuer has a duty to provide any 
+additional material information necessary to make the required statements, in the light of the 
+
+120/	  (...continued) 
+       professional duties establish[ed] that the Commission [could] not rely upon Marrie and 
+       Berry to perform diligently and with reasonable competence their audit responsibilities in 
+       the future"), rev'd on other grounds, 374 F.3d 1196, see supra note 13; Russell Ponce, 54 
+       S.E.C. 804, 825 (2000) (imposing on auditor bar with right to reapply after five years for 
+       failing, during audit of one year's financial statements, to adequately review two critical 
+       audit areas and maintain auditor independence), aff'd, 345 F.3d 722 (9th Cir. 2003). 
+
+121/	  15 U.S.C. § 78m(a) and 17 C.F.R. § 240.13a-1. 
+
+122/	  17 C.F.R. Part 210.  Title 17 C.F.R. Section 249.310 requires generally that a Form 10-K 
+       be used for annual reports pursuant to Exchange Act Section 13.  Form 10-K (Item 8) in 
+       turn requires issuers to furnish financial statements meeting the requirements of 
+       Regulation S-X, including the requirement in Rule 2-02 that an accountant's report 
+       (defined in 17 C.F.R. § 210.1-02(a) as a document in which an "independent" public or 
+       certified public accountant sets forth certain information) state whether the audit was 
+       made in accordance with GAAS.  See also Rule 1-01(a)(2) of Regulation S-X, 17 C.F.R. 
+       210.1-01(a)(2) (directing that Regulation S-X govern "the form and content of and 
+       requirements for financial statements required to be filed as part of" annual reports, 
+       among other filings). 
+
+123/	  Rule 4-01(a)(1) of Regulation S-X, 17 C.F.R. § 201.4-01(a)(1) ("Financial statements 
+       filed with the Commission which are not prepared in accordance with generally accepted 
+       accounting principles will be presumed to be misleading or inaccurate, despite footnote or 
+       other disclosures, unless the Commission has otherwise provided."). 
+
+124/	  See, e.g., SEC v. Savoy Indus., Inc., 587 F.2d 1149, 1165 (D.C. Cir. 1978) ("The 
+       reporting provisions of the Exchange Act are clear and unequivocal, and they are satisfied 
+       only by the filing of complete, accurate, and timely reports") (citing SEC v. IMC Int'l, 
+       Inc., 384 F. Supp. 889, 893 (N.D. Tex.), aff'd mem., 505 F.2d 733 (5th Cir. 1974). 
+---------------------Page 49---------------------
+
+                                              46
+
+
+circumstances under which they are made, not misleading. 125 /  No showing of scienter is 
+necessary to establish a violation of Section 13(a) and Rules 13a-1 and 12b-20. 126/ 
+
+       Under Section 21C(a) of the Exchange Act, 127/ the Commission may impose a cease-
+and-desist order on a person who is a cause of another's violation.  Being a cause of another's 
+violation under Section 21C(a) requires findings that: (1) a primary violation occurred; (2) the 
+respondent engaged in an act or omission that contributed to the violation; and (3) the respondent 
+knew, or should have known, that his or her conduct would contribute to the violation. 128/ 
+Negligence is sufficient to establish "causing" under Section 21C(a) where the underlying 
+primary violation does not require scienter. 129/  Negligence is the failure to exercise reasonable 
+care. 130/  Here, as discussed above in Section III, GAAS establish the standard of care against 
+which we measure Dearlove's conduct. 
+
+       As discussed above, we find that the financial statements included in Adelphia's 2000 
+Form 10-K contained several violations of GAAP.  The lack of conformity with GAAP rendered 
+the annual report misleading.  Adelphia's filing of the Form 10-K, together with the financial 
+
+125/   17 C.F.R. § 240.12b-20; see also Armstrong, 85 SEC Docket at 3029 & n.58; Ponce v. 
+       SEC, 345 F.3d 722, 735 (9th Cir. 2003). 
+
+126/   SEC v. McNulty, 137 F.3d 732, 740-41 (2d Cir. 1998); SEC v. World-Wide Coin Inv., 
+       Ltd., 567 F. Supp. 724, 751 (N.D. Ga. 1983); SEC v. Wills, 472 F. Supp. 1250, 1268 
+       (D.D.C. 1978). 
+
+127/   15 U.S.C. § 78u-3. 
+
+128/   See, e.g., Gateway Int'l Holdings, Inc., Exchange Act Rel. No. 53907 (May 31, 2006), 88 
+       SEC Docket 430, 444; Armstrong, 85 SEC Docket at 3029;   Robert M. Fuller, 56 S.E.C. 
+       926, 984 (2003), petition denied, 95 Fed. Appx. 361 (D.C. Cir. 2004); Erik W. Chan, 55 
+       S.E.C. 715, 725-33 (2002). 
+
+129/   See, e.g., Gateway Int'l Holdings, 88 SEC Docket at 444-45 & n.48; KPMG Peat 
+       Marwick LLP, 54 S.E.C. 1135, 1175 & n.100 (2001), petition denied, 289 F.3d 109 (D.C. 
+       Cir. 2002); see also KPMG Peat Marwick, LLP v. SEC, 289 F.3d 109, 120 (D.C. Cir. 
+       2002) ("[T]he Commission was virtually compelled by Congress' choice of language in 
+       enacting Section 21C to interpret the phrase 'an act or omission the person knew or 
+       should have known would contribute to such violation' as setting a negligence standard.") 
+       (emphasis in original). 
+
+130/   IFG Network Sec., Inc., Exchange Act Rel. No. 54127 (July 11, 2006), 88 SEC Docket 
+       1374, 1389 (citing SEC v. Hughes Capital Corp., 124 F.3d 449, 453-54 (3d Cir. 1997)). 
+---------------------Page 50---------------------
+
+                                              47
+
+
+statements and Deloitte's audit report, was a primary violation of Exchange Act Section 13(a) and 
+Rules 13a-1 and 12b-20 thereunder. 131/ 
+
+       By signing the audit report, Dearlove engaged in an act that contributed to Adelphia's 
+primary violation. 132/  Because of the requirement in Regulation S-X that financial statements 
+filed with annual reports be prepared in conformance with GAAP, without an unqualified audit 
+opinion, Adelphia could not have filed its Form 10-K.  Thus, Dearlove should have known that 
+his conduct of the audit (which, as noted above, failed to satisfy GAAS in a variety of ways) and 
+his signature on the unqualified audit opinion contributed to the violation by allowing Adelphia 
+to proceed to file the Form 10-K and the non-GAAP-compliant financial statements.  In the high-
+risk auditing environment presented by the circumstances attending Deloitte's audit of Adelphia's 
+2000 financial statements, with the array of potential problem areas discussed above, it is likely 
+that an audit conducted in accordance with GAAS would have brought to Dearlove's attention 
+some, if not all, of the GAAP violations we have found.  Dearlove, whose departures from 
+GAAS were at least negligent, should have known that his deficient audit would contribute to 
+Adelphia's primary violation.  For these reasons, we find that Dearlove was a cause of Adelphia's 
+violations of Exchange Act Section 13(a) and Exchange Act Rules 13a-1 and 12b-20. 133/ 
+
+       B.	    Cease-and-Desist Order 
+
+       Exchange Act Section 21C(a) authorizes the Commission to impose a cease-and-desist 
+order upon any person who "is violating, has violated, or is about to violate" any provision of the 
+Exchange Act or any rule or regulation thereunder, or against any person who "is, was, or would 
+be a cause of [a] violation, due to an act or omission the person knew or should have known 
+
+131/	  Armstrong, 85 SEC Docket at 3029; KPMG, 54 S.E.C. at 1173-74 & n.97.  For the 
+       reasons discussed above, we reject Dearlove's arguments that the financial statements 
+       complied with GAAP and that there was therefore no primary violation of Exchange Act 
+       Section 13(a) and Rules 13a-1 and 12b-20 thereunder by Adelphia. 
+
+132/	  See KPMG, 54 S.E.C. at 1174-83 (holding that accounting firm's negligent conclusion 
+       that it was independent from audit client was a cause of audit client's violation of 
+       Exchange Act Section 13(a) and Rule 13a-1 thereunder based on filing of annual report 
+       that included financial statements that were not, as required, audited by independent 
+       accountants). 
+
+133/	  Section 13(b)(2)(A) of the Exchange Act, 15 U.S.C. § 78m(b)(2)(A), requires issuers to 
+       make and keep books, records, and accounts that, in reasonable detail, accurately and 
+       fairly reflect their transactions and dispositions of assets.  The OIP charged, and the law 
+       judge found, that Adelphia violated Exchange Act Section 13(b)(2)(A) and that Dearlove 
+       was a cause of Adelphia's violation.  As a discretionary matter, we decline to reach the 
+       question whether Dearlove engaged in an act or omission that was a cause of an 
+       Exchange Act Section 13(b)(2)(A) violation within the meaning of Exchange Act Section 
+       21C(a). 
+---------------------Page 51---------------------
+
+                                               48
+
+
+would contribute to such violation." 134/  To determine whether a cease-and-desist order is an 
+appropriate sanction for Dearlove's role in Adelphia's violations of the reporting requirements 
+contained in Exchange Act Section 13(a) and related rules, we must look to whether there is 
+some risk of future violations. 135/  The existence of a violation raises an inference that the 
+violation will be repeated, and where the misconduct that results in the violation is egregious, the 
+inference is justified. 136/  We also consider whether other factors demonstrate a risk of future 
+violations.  Beyond the seriousness of the violation, these may include the isolated or recurrent 
+nature of the violation, whether the violation is recent, the degree of harm to investors or the 
+marketplace resulting from the violation, the respondent's state of mind, the sincerity of 
+assurances against future violations, the opportunity to commit future violations, and the 
+remedial function to be served by the cease-and-desist order in the context of any other sanctions 
+sought in the proceeding. 137/  Not all of these factors need to be considered, and none of them, 
+by itself, is dispositive. 
+
+       The law judge declined to impose a cease-and-desist order because, having imposed a 
+permanent bar on Dearlove's ability to appear or practice before the Commission that would have 
+effectively precluded Dearlove from serving in any position in which he might cause future 
+violations of Exchange Act Section 13(a) and related rules, the law judge concluded that the 
+Division did not meet the minimum threshold required to impose a cease-and-desist order, i.e., 
+that there exists some risk of future violations.  Because we are permitting Dearlove to apply for 
+reinstatement after four years, that sanction does not obviate the need for a cease-and-desist 
+order.  Dearlove may resume appearing or practicing before the Commission should he apply for, 
+and be granted, reinstatement.  Dearlove may eventually, therefore, be once again in a position to 
+violate or cause violations of the reporting requirements of the Exchange Act. 
+
+       The violations Dearlove caused were serious and of substantial import to investors.  His 
+signature on Deloitte's unqualified audit opinion was a cause of Adelphia's filing of financial 
+statements that were inaccurate in a number of ways and that masked the true financial condition 
+of Adelphia as well as the company's interdependency with the Rigas Entities.  Revelation of the 
+accounting deficiencies in Adelphia's financial statements would eventually result in harm to 
+
+134/   15 U.S.C. § 78u-3(a). 
+
+135/   KPMG Peat Marwick LLP, 54 S.E.C. at 1185.  The risk of future violations required to 
+       support a cease-and-desist order is significantly less than that required for an injunction. 
+       Id. at 1191; see also KPMG, 289 F.3d at 124 (finding that the plain language of Exchange 
+       Act Section 21C and its legislative history support the Commission's issuance of a cease-
+       and-desist order on the basis of a lower risk of future violation than that required for an 
+       injunction). 
+
+136/   See Geiger v. SEC, 363 F.3d 481, 489 (D.C. Cir. 2004) and cases cited therein. 
+
+137/   KPMG, 54 S.E.C. at 1192. 
+---------------------Page 52---------------------
+
+                                               49
+
+
+investors estimated to be at least $715 million, the amount of cash and stock Adelphia agreed to 
+pay into a victims' restitution fund to help recompense harmed investors. 138/  Dearlove signed 
+his unqualified opinion despite having conducted an audit that was seriously deficient in the face 
+of numerous and obvious risk factors that called for increased professional care.  Although 
+Dearlove's audit encompassed only one year's financial statements, the failures on this one audit 
+were several and occurred in several auditing areas, the responsibility for which Dearlove 
+consistently attempts to shift to others.  Moreover, while several years have elapsed since 
+Dearlove completed the audit of Adelphia, this case is not so aged as to give comfort that the 
+conduct will not be repeated, and, in any event, the other factors weigh strongly in favor of 
+imposing a cease-and-desist order. 139/  We believe that the issuance of a cease-and-desist order 
+will serve the important remedial purpose of encouraging Dearlove to discharge his 
+responsibilities with more care in the future, thereby contributing to the integrity of, and investor 
+confidence in, the financial reporting process. 
+
+       We find that the record as a whole, especially the evidence with regard to the gravity of 
+the violations and the harm to the marketplace and the regulatory scheme, establishes a sufficient 
+risk that Dearlove would commit future violations to warrant imposition of a cease-and-desist 
+order.  Based on all of these factors, we find a cease-and-desist order against Dearlove to be in 
+the public interest. 140/ 
+
+X.	    Dearlove's Due Process Argument 
+
+       We conclude this opinion by addressing Dearlove's argument that the proceedings against 
+him are defective because he was denied due process.  As explained in detail below, we reject his 
+argument and find no basis for relief. 
+
+138/	  See supra note 9 and accompanying text. 
+
+139/	  See Armstrong, 85 SEC Docket at 3040 (imposing cease-and-desist order based on 
+       conduct that occurred more than twelve years prior to the issuance of the Commission's 
+       opinion, noting that, although the age of the violations militated against imposition of the 
+       order, "this consideration [was] outweighed by the other factors" discussed in the 
+       opinion); Rita J. McConville, Exchange Act Rel. No. 51950 (June 30, 2005), 85 SEC 
+       Docket 3127, 3152 (imposing cease-and-desist order based on "relatively recent" conduct 
+       that occurred more than five years prior to issuance of the Commission's opinion), aff'd, 
+       465 F.3d 780 (7th Cir. 2006). 
+
+140/	  See McConville, 85 SEC Docket at 3151-52 (imposing cease-and-desist order on 
+       corporate officer for causing Section 13 violations based on, among other things, the 
+       significance of the violations, harm caused to investors, and denial of responsibility for 
+       violations charged), aff'd, 465 F.3d 780 (7th Cir. 2006). 
+---------------------Page 53---------------------
+
+                                               50
+
+
+       A.      Facts 
+
+       We issued the Order Institutuing Proceedings ("OIP")  in this matter on September 30, 
+2005.  The OIP directed, pursuant to Commission Rule of Practice 360(a)(2), 141/ that the law 
+judge issue an initial decision in this proceeding within 300 days from the date of service of the 
+OIP.  The OIP was served on October 5, 2005, giving the law judge until August 5, 2006, to issue 
+his initial decision.  
+
+       On November 1, 2005, the law judge entered a scheduling order setting a January 23, 
+2006, hearing date. 142/  On December 8, 2005, Dearlove moved for a sixty-day postponement 
+of the hearing date on the ground that he did not have adequate time to prepare for the hearing. 
+Dearlove argued that if he had to go forward on January 23, 2006, he would be prejudiced in his 
+ability to defend himself, in violation of his Fifth Amendment right to due process. 
+
+       Under Commission Rule of Practice 161(a), 143/ a law judge may, for good cause shown, 
+postpone a hearing, consistent with Commission Rule of Practice 161(b).  Rule 161(b) states that 
+a law judge must adhere to a policy of strongly disfavoring postponement motions, except in 
+circumstances where the moving party makes a "strong showing" that denial of the motion would 
+"substantially prejudice" its case. 144/  In determining whether to grant a motion for a 
+postponement, the law judge should consider, in addition to any other relevant factors: (1) the 
+length of the proceeding to date; (2) the number of postponements already granted; (3) the stage 
+of the proceeding at the time of the request; (4) the impact of the request on the law judge's 
+ability to complete the proceeding in the time specified by the Commission; and (5) such other 
+matters as justice may require. 145/  The law judge weighed these factors and found that 
+Dearlove failed to make the required "strong showing of substantial prejudice" to warrant a 
+postponement. 
+
+141/   Under Rule 360(a)(2), we must specify in the OIP a deadline for completion of the 
+       hearing and issuance of the initial decision.  17 C.F.R. § 201.360(a)(2).  This deadline 
+       will be either 120, 210, or 300 days, in our discretion, "after consideration of the nature, 
+       complexity, and urgency of the subject matter, and with due regard for the public interest 
+       and the protection of investors."  Id. 
+
+142/   The order also recited that the parties had agreed to this schedule. 
+
+143/   17 C.F.R. § 201.161(a). 
+
+144/   17 C.F.R. § 201.161(b)(1). 
+
+145/   17 C.F.R. § 201.161(b)(1)(i)-(v). 
+---------------------Page 54---------------------
+
+                                               51
+
+
+       Dearlove petitioned for interlocutory review of the law judge's denial of a postponement. 
+We denied the petition, finding no "extraordinary circumstances." 146/ 
+
+       The hearing commenced on January 23, 2006, as scheduled, and extended over nine days. 
+Dearlove was represented by counsel of his choice and submitted evidence about the merits of 
+the allegations against him.  After the hearing, Dearlove renewed his argument that the denial of 
+a sixty-day postponement deprived him of due process.  He also argued that the Commission's 
+Rules of Practice, and Rule 360(a)(2) in particular, violated his right to due process. 
+
+       In the initial decision, the law judge ruled that the denial of a sixty-day postponement did 
+not violate Dearlove's due process rights.  The law judge declined to rule on Dearlove's claim that 
+the Rules of Practice are unconstitutional.  He asserted that "any claim that the Rules of Practice 
+are unconstitutional must be addressed to the Commission." 
+
+       B.     Dearlove's Contentions on Appeal 
+
+              1.      Dearlove argues that the denial of a sixty-day postponement deprived him 
+of due process because he did not have adequate time to prepare for the hearing.  He cites the 
+complexity of the case, as well as the large size of the investigative file, which "prevented 
+effective preparation and caused exculpatory material to lie unreviewed."  Dearlove argues that 
+he was given "less than four months" to prepare for the hearing, whereas the Division had "over 
+three and a half years" to investigate the case.  He points to Helms's testimony, which was 
+provided by the Division along with "millions of pages" of other documents in advance of the 
+hearing, as "[t]he clearest example of undiscovered, and therefore unpresented, exculpatory 
+evidence." 147/  Dearlove contends that, had he been afforded adequate time to prepare, he 
+would have uncovered Helms's testimony among the mass of material provided to him, which 
+would have refuted the law judge's finding, in connection with the January 2000 direct placement 
+of stock, that "the $368 million loan [directed to Adelphia] was originally intended for UCA." 
+
+       Dearlove additionally contends that the task of preparing for the hearing "was made more 
+difficult by the Division's late production of adequate witness and exhibit lists, and its eleventh-
+hour inclusion of allegations not specified in the OIP."  The failure of third parties, i.e., Adelphia, 
+PricewaterhouseCoopers, and other Adelphia advisors, to produce documents in response to his 
+subpoenas assertedly compounded the prejudice to his case. 
+
+146/   Gregory M. Dearlove, CPA, Order Denying Application for Interlocutory Review, 
+       Admin. Proc. File No. 3-12064 (Jan. 6, 2006) (citing 17 C.F.R. § 201.400(a) (providing 
+       that "[t]he Commission will not review a hearing officer's ruling prior to its consideration 
+       of the entire proceeding in the absence of extraordinary circumstances")). 
+
+147/   See discussion supra at note 94 and accompanying text. 
+---------------------Page 55---------------------
+
+                                               52 
+
+       Dearlove uses the United States Supreme Court's due process analysis in Mathews v. 
+Eldridge 148/ to argue that the denial of a sixty-day postponement deprived him of due process. 
+In Mathews, the Supreme Court spoke of a balancing of three factors to determine what process 
+is due in a given case: (1) the nature of the private interest affected by the official action; (2) the 
+risk of erroneous deprivation of such an interest through the procedures used and the probable 
+value of additional or substitute procedural safeguards; and (3) the government's interest, 
+including the "function involved and the fiscal and administrative burdens that the additional or 
+substitute procedural safeguards would entail." 149/  Dearlove characterizes the private interest at 
+stake as his protected property interest in appearing and practicing before the Commission. 150/ 
+He asserts that, "[b]ecause of the private interest at stake, the risk of an erroneous deprivation of 
+the interest, and the Government's interest in the accurate determination of this matter, Dearlove 
+was entitled to sufficient time to prepare his defense, and therefore to a continuance."  
+
+               2.     Dearlove argues, without citation to any authority, that Rule of Practice 
+360(a)(2) violates due process.  He characterizes the hearing schedules in Commission 
+administrative proceedings as "rigid" and "inflexible."  Dearlove argues that Rule 360(a)(2) takes 
+"a one-size-fits-all approach [that] does not adequately safeguard an individual's due process 
+rights."  Dearlove finds support for his constitutional challenge to Rule 360(a)(2) in the law 
+judge's finding that his argument "echoed" some of the public comments submitted during the 
+rulemaking proceeding that led to Rule 360(a)(2)'s adoption. 151/ 
+
+148/	  424 U.S. 319 (1976). 
+
+149/	  Id. at 335. 
+
+150/	  Dearlove cites various licensing cases, as well as the Ninth Circuit Court of Appeals' 
+       decision in Sartain v. SEC, 601 F.2d 1366 (9th Cir. 1979), to support his claim of a 
+       protected property interest.  In Sartain, the court held that due process entitled a broker-
+       dealer’s registered representative to a fair hearing before the Commission and the right to 
+       be represented by independent counsel where the registered representative stood to lose 
+       the "valuable privilege" of being employed in the securities industry.  Id. at 1375; see also 
+       Michael J. Crane, Note, Disciplinary Proceedings Against Accountants: The Need for a 
+       More Ascertainable Improper Professional Conduct Standard in the SEC's Rule 2(e), 53 
+       Fordham L. Rev. 351 (1984) (stating that an accountant has a property interest in his right 
+       to practice before the Commission that may not be terminated without due process).  
+
+151/	  See Letter from the District of Columbia Bar, Corporation, Finance and Securities Law 
+       Section to the Commission (Mar. 21, 2003); Letter from the American Bar Association, 
+       Section of Business Law, Committee on Federal Regulation of Securities to the 
+       Commission (May 13, 2003), available at http://www.sec.gov/rules/proposed/ 
+       s70403.html. 
+---------------------Page 56---------------------
+
+                                               53
+
+
+       C.	     Denial of Sixty-Day Extension 
+
+       In Ungar v. Sarafite, 152/ the Supreme Court articulated the standard for analyzing a due 
+process challenge to the denial of a continuance: 
+
+               The matter of a continuance is traditionally within the discretion of the trial judge, 
+               and it is not every denial of a request for more time that violates due process even 
+               if the party fails to offer evidence or is compelled to defend without counsel. 
+               Contrariwise, a myopic insistence upon expeditiousness in the face of a justifiable 
+               request for delay can render the right to defend with counsel an empty formality. 
+               There are no mechanical tests for deciding when a denial of a continuance is so 
+               arbitrary as to violate due process.  The answer must be found in the 
+               circumstances present in every case, particularly in the reasons presented to the 
+               trial judge at the time the request is denied. 153/ 
+
+       We have consistently followed the principles articulated in Ungar.  We have recognized 
+that the trier of fact has discretion in deciding whether to grant a motion for a postponement or 
+continuance. 154/  We have stated that our inquiry on review of a denial of a postponement or 
+continuance is whether the denial constituted "an unreasoning and arbitrary insistence upon 
+expeditiousness in the face of a justifiable request for delay." 155/ 
+
+152/	  376 U.S. 575 (1964). 
+
+153/	  Id. at 589-90; accord Morris v. Slappy, 461 U.S. 1, 11-12 (1983) ("[B]road discretion 
+       must be granted trial courts on matters of continuances; only an unreasoning and arbitrary 
+       'insistence upon expeditiousness in the face of a justifiable request for delay' violates the 
+       right to assistance of counsel.") (citing Ungar). 
+
+154/	  See, e.g., Underhill Sec. Corp., 42 S.E.C. 689, 699 (1965) (stating that "[t]he 
+       determination whether to grant a continuance was a matter resting in the sound discretion 
+       of the [hearing] examiner"; examiner's denial of one-month adjournment to give counsel 
+       more time to prepare his defense was a proper exercise of that discretion where any lack 
+       of preparation by respondents' counsel was a result of their own dilatory conduct, and 
+       where counsel conducted a vigorous defense in the course of the hearings which extended 
+       over many weeks and was afforded the opportunity to recall any witness and to request 
+       additional time). 
+
+155/   See, e.g., Richard W. Suter, 47 S.E.C. 951, 963 (1983) (holding that law judge's refusal to 
+       grant further postponements of hearing was not an abuse of discretion or "unreasoning 
+       and arbitrary insistence upon expeditiousness" where hearing already had been delayed 
+       for a long period of time); Gary L. Jackson, 48 S.E.C. 435, 441 (1986) (holding that law 
+       judge's refusal to permit respondent's various requests for postponement of the hearing 
+       was not an abuse of discretion or "unreasoning and arbitrary insistence upon 
+                                                                                    (continued...) 
+---------------------Page 57---------------------
+
+                                               54
+
+
+       A review of our precedent applying this standard reveals that most cases have held that 
+the trier of fact's denial of a postponement was not an abuse of discretion and did not violate due 
+process. 156/  In the "rare" cases where the denial was deemed to be improper, we have found 
+that there were "extraordinary circumstances" supporting a postponement, i.e., the respondent 
+was left without assistance of counsel at or near the hearing date. 157/ 
+
+155/	  (...continued) 
+       expeditiousness"; "[w]hile a respondent has the right to be represented by counsel, the 
+       law does not require endless postponements of judicial proceedings while respondents 
+       attempt to secure legal representation"). 
+
+156/	  See, e.g., Falcon Trading Group, Ltd., 52 S.E.C. 554, 560-61 (1995) (finding no due 
+       process violation in NASD's denial of applicants' motions for continuance and adherence 
+       to the previously-scheduled hearing date where applicants were given six weeks' notice of 
+       the hearing date, and they had sufficient time to obtain new counsel after discovering that 
+       joint counsel had potential conflict of interest), aff'd, 102 F.3d 579 (D.C. Cir. 1996); 
+       Alexander V. Stein, 52 S.E.C. 296, 300-01 (1995) (finding no due process violation in 
+       law judge's denial of a postponement where respondent had well over a month to prepare 
+       any defense to the allegations in the OIP, he failed to claim that he could not defend 
+       himself without certain materials or witnesses, and he failed to specify those materials 
+       that he claimed to need);  Michael Markowski, 51 S.E.C. 553, 558-59 (1993) (finding no 
+       due process violation in NASD's refusal to grant an additional continuance of the second 
+       hearing date where hearing panel had already granted counsel a continuance of the second 
+       hearing date, and attorneys gave no indication to panel prior to rescheduled hearing that 
+       they would not be ready to go forward at that time), aff'd, 34 F.3d 99 (2d Cir. 1994).  
+
+157/	  See, e.g., Philip L. Pascale, CPA, Order Granting Postponement of Administrative 
+       Hearing, Admin. Proc. File No. 3-11194 (Nov. 24, 2003) (holding, on interlocutory 
+       review of a law judge's denial of a postponement request, that respondent demonstrated 
+       substantial prejudice warranting a short postponement of the hearing where the medical 
+       condition of respondent's counsel was incapacitating, and counsel learned about this 
+       condition so close to the hearing that substitute counsel could not be obtained; the 
+       Commission acknowledged that "[t]he substantial prejudice test is a difficult one to 
+       meet," but found, in this "rare" case, that respondent's request presented "extraordinary 
+       circumstances"); Carleton Wade Fleming, Jr., 52 S.E.C. 409, 415 (1995) (holding that 
+       NASD's refusal to grant a continuance was improper where counsel had withdrawn and 
+       respondent was required to proceed and present his case for three days of hearing, without 
+       assistance of counsel, despite NASD Code of Procedure provision granting a right to be 
+       heard by counsel); James Elderidge Cartwright, 50 S.E.C. 1174, 1178 (1992) (holding 
+       that NASD's refusal to grant a continuance was unreasonable where respondent was ill on 
+       the hearing date and demonstrated his inability to proceed, and NASD Code of Procedure 
+       gave the respondent the right to be heard in person and by counsel).  
+---------------------Page 58---------------------
+
+                                               55
+
+
+       This proceeding is not one of those "rare" cases.  Dearlove received notice of the charges 
+no later than October 5, 2005, when he was served with the OIP, and had three and a half months 
+to prepare for the hearing.  The schedule here provided 121 days from service of the OIP to 
+completion of the hearing; 82 days for the parties to review the transcript and submit post-
+hearing briefs; and 92 days for the law judge to prepare and file an initial decision. 158/  This 
+schedule was consistent with the guidelines in Rule 360(a)(2).  In fact, it afforded the parties 
+more time than allotted.  Moreover, at a pre-hearing conference on October 28, 2005, Dearlove's 
+counsel agreed with the law judge's statement that this case did not "just drop[] on [counsel's] 
+desk" for the first time on October 5, 2005, when Dearlove was served with the OIP.  Dearlove's 
+counsel acknowledged that he had been formally involved in this proceeding since at least 2003 
+when the Division took Dearlove's investigative testimony.  In Dearlove's counsel's words, he 
+was no "stranger[]" to any of the issues raised in the proceeding.  
+
+       On appeal, Dearlove cites his failure to find and review Helms's testimony prior to the 
+hearing as the only evidence that the denial of a postponement prejudiced his case. 159/  Any 
+prejudice resulting from the omission of this evidence has been cured by our admission of this 
+testimony under Rule 452.  In any event, our review of Helms's testimony leads us to conclude 
+that this testimony is irrelevant to the issues of Dearlove's liability. 160/
+
+        In our order denying Dearlove's motion for interlocutory review, we rejected Dearlove's 
+claim that the complexity of the case and large size of the investigative file justified a 
+postponement.  Observing that many Commission proceedings involve complicated issues 
+resulting in voluminous files, we stated that we already had considered the complexity of the case 
+when, pursuant to Rule 360(a)(2), we selected the 300-day timeline for issuing the initial 
+decision.  We considered and rejected Dearlove's argument that the law judge believed the only 
+"barrier" to his postponement request was the 300-day deadline, stating that "[t]he deadlines for 
+issuing initial decisions are not [absolute] 'barriers' to requests for postponements." 161/  The law 
+judge considered the 300-day deadline as one of several factors in determining whether to grant a 
+request for a postponement and denied the postponement request only after weighing all of the 
+
+158/   For a 300-day timeline, Rule 360(a)(2) provides that there should be 120 days from the 
+       date of service of the OIP to completion of the hearing, 60 days for the parties to obtain 
+       the transcript and submit post-hearing briefs; and 120 days after briefing for the law judge 
+       to prepare and file an initial decision.  17 C.F.R. § 201.360(a)(2). 
+
+159/   Cf. DWS Sec. Corp., 51 S.E.C. 814, 822-23 (1993) (finding no due process violation in 
+       NASD's refusal to grant applicants' requests for a continuance; applicants, who had 
+       approximately two months to prepare for their initial hearing before NASD, failed to 
+       explain how they were specifically prejudiced by the denial of their requests). 
+
+160/   See supra note 92 and accompanying text. 
+
+161/   Dearlove, Order Denying Application for Interlocutory Review, supra note 146, at 3-4 
+       n.10. 
+---------------------Page 59---------------------
+
+                                               56
+
+
+relevant factors. 162/  Moreover, under Rule 360(a)(3), a law judge who decides that it will not 
+be possible to issue an initial decision within the time specified in the OIP should consult with 
+the chief law judge who, in turn, may submit a motion to us requesting an extension. 163/  Rule 
+360(a)(3) states that the motion should "explain[] why circumstances require an extension and 
+specify[] the length of the extension."  It further provides that we may authorize an extension if 
+we determine that "additional time is necessary or appropriate in the public interest."  Although 
+the law judge did not avail himself of these procedures, the option to do so provided some 
+flexibility if he decided that the case required more than 300 days to complete.  
+
+       The record does not support Dearlove's contention that his hearing preparation was 
+frustrated by the Division's late production of adequate witness and exhibit lists.  The law judge 
+required the Division to amend its witness and exhibit lists because those lists were 
+deficient. 164/  To minimize any possible prejudice, the law judge modified his scheduling order 
+to give Dearlove several extra weeks to identify his proposed exhibits and fact witnesses. 
+Although Dearlove also complains about what he characterizes as the Division's "eleventh-hour" 
+inclusion of allegations not specified in the OIP, the law judge refused to entertain those 
+allegations.  Dearlove cannot now claim that they caused him any harm.
+
+        The record shows that the delays Dearlove encountered in obtaining documents from 
+third parties were foreseeable.  The law judge encouraged Dearlove to submit his applications for 
+document subpoenas at an early date, but Dearlove delayed doing so for one month. 
+
+       Furthermore, we reject Dearlove's use of the balancing test in Mathews.  The Supreme 
+Court has stated that it has "never viewed Mathews as announcing an all-embracing test for 
+deciding due process claims." 165/  As discussed above, Ungar supplies the proper analytical 
+framework.  We, as well as the federal courts, have used Ungar's principles in assessing a due 
+process challenge to the denial of a postponement.  Dearlove has not offered any grounds to 
+justify a departure from this well-established practice, and we perceive no basis for doing so. 
+
+162/	  See Rule 161(b)(1), 17 C.F.R. § 201.161(b)(1) (setting forth several factors the 
+       decisionmaker must consider in determining whether to grant an extension of time). 
+
+163/	  17 C.F.R. § 201.360(a)(3).  See, e.g., Raymond James Fin. Serv., Inc., Securities Act Rel. 
+       No. 8597 (July 29, 2005), 85 SEC Docket 4318, 4320 (granting forty-five-day extension 
+       "[i]n light of the complexity of the case, the scheduling conflict identified by the Chief 
+       Administrative Law Judge, and the reasonableness of the requested extension"). 
+
+164/	  Gregory M. Dearlove, CPA, Order Following Prehearing Conference, Admin. Proc. File 
+       No. 3-12064 (Dec. 9, 2005). 
+
+165/	  Dusenbery v. United States, 534 U.S. 161, 168 (2002). 
+---------------------Page 60---------------------
+
+                                               57
+
+
+       Even if we were to find that Mathews supplies the proper analysis, we believe application 
+of Mathews' three-factor balancing test also leads to the conclusion that the process provided to 
+Dearlove was adequate.  Although the nature of the private interest affected, i.e., Dearlove's right 
+to practice before the Commission, militates in Dearlove's favor, the other factors do not.  As 
+demonstrated above, the risk that Dearlove was erroneously deprived of his right to practice was 
+negligible: he received notice of the allegations against him, a full administrative hearing, the 
+opportunity to respond to the allegations, and the opportunity for our review of the proceedings. 
+In addition, the government's interest in the timely resolution of its administrative hearings was 
+balanced against Dearlove's need for a meaningful process, as evidenced by the many 
+concessions made by the law judge in Dearlove's favor detailed above.  Mathews does not require 
+us to provide more process than Dearlove received. 166/ 
+
+       D.      Commission Rule of Practice 360
+
+        In the June 2003 release adopting Rule 360(a)(2), we rejected a "one-size-fits-all" 
+approach to timely disposition of administration proceedings. 167/  As a result, we established 
+three different deadlines for the completion of administrative proceedings.  Moreover, as 
+discussed above, Rule 360(a)(3) allows for the possibility of an extension of time where 
+circumstances warrant.  Although it is true that two of eleven commenters suggested that the 
+proposed timeline implicated due process concerns, neither one offered any case authority 
+holding that an agency's establishment of deadlines for the timely disposition of cases violates 
+due process, and our research has uncovered no such authority.  In response to these commenters' 
+concerns, we amended Rule 230(d) to provide for the earlier production of the investigative 
+record to respondents.  Under Rule 230(d), the Division of Enforcement is required to make its 
+investigative file available to a respondent within seven days after service of the OIP, or, in this 
+case, by October 12, 2005.  The Division notified Dearlove that the investigative file was 
+available for his review on October 5, 2005, one week before it was required to do so by 
+Rule 230(d).  In sum, we find Dearlove's due process challenge to these proceedings to be 
+without merit. 
+
+166/   See Mathews, 424 U.S. at 333 ("The fundamental requirement of due process is the 
+       opportunity to be heard at a meaningful time and in a meaningful manner.") (internal 
+       quotations omitted). 
+
+167/   See Rules of Practice, Securities Act Rel. No. 8240 (June 11, 2003), 80 SEC Docket 
+       1463. 
+---------------------Page 61---------------------
+
+                                              58
+
+
+XI.    Conclusion 
+
+       We find that Dearlove engaged in improper professional conduct within the meaning of 
+Rule of Practice 102(e)(1)(iv)(B)(2) and that he caused Adelphia's violations of Exchange Act 
+Section 13(a) and related rules.  We therefore deny Dearlove the privilege of appearing or 
+practicing before the Commission with a right to reapply after four years, and we order him to 
+cease and desist from causing violations of Exchange Act Section 13(a) and related rules. 
+
+       An appropriate order will issue. 168/ 
+
+       By the Commission (Chairman COX and Commissioners ATKINS, NAZARETH, and 
+CASEY). 
+
+                                                   Nancy M. Morris
+                                                          Secretary 
+
+168/   We have considered all of the parties' contentions.  We have rejected or sustained them to 
+       the extent that they are inconsistent or in accord with the views expressed in this opinion. 
+---------------------Page 62---------------------
+
+                             UNITED STATES OF AMERICA
+
+                                        before the
+
+                     SECURITIES AND EXCHANGE COMMISSION
+
+
+SECURITIES EXCHANGE ACT OF 1934 
+Rel. No. 57244 / January 31, 2008 
+
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Rel. No. 2779 / January 31, 2008 
+
+Admin. Proc. File No. 3-12064 
+
+                    In the Matter of
+
+
+           GREGORY M. DEARLOVE, CPA
+
+
+ORDER IMPOSING REMEDIAL SANCTIONS 
+
+      On the basis of the Commission's opinion issued this day, it is 
+
+      ORDERED that, effective immediately: 
+
+      A.     Gregory M. Dearlove cease and desist from causing any violation of the reporting 
+provisions of Section 13(a) of the Securities Exchange Act of 1934 and Exchange Act Rules 
+13a-1 and 12b-20. 
+
+      B.     Gregory M. Dearlove is denied the privilege of appearing or practicing before the 
+Commission as an accountant. 
+
+      C.     After four years from the date of this order, Dearlove may request that the 
+Commission consider his reinstatement by submitting an application (attention: Office of the 
+Chief Accountant) to resume appearing or practicing before the Commission as: 
+
+             1.     A preparer or reviewer, or a person responsible for the preparation or 
+review, of any public company's financial statements that are filed with the Commission.  Such 
+an application must satisfy the Commission that Dearlove's work in his practice before the 
+Commission will be reviewed either by the independent audit committee of the public company 
+for which he works or in some other acceptable manner, as long as he practices before the 
+Commission in this capacity; and/or 
+---------------------Page 63---------------------
+
+                                                2 
+
+              2.      An independent accountant.  Such an application must satisfy the 
+Commission that: 
+
+                      (a)    Dearlove, or the public accounting firm with which he is 
+associated, is registered with the Public Company Accounting Oversight Board ("Board") in 
+accordance with the Sarbanes-Oxley Act of 2002, and such registration continues to be effective; 
+
+                      (b)    Dearlove, or the registered public accounting firm with which he is 
+associated, has been inspected by the Board and that inspection did not identify any criticisms of 
+or potential defects in the respondent's or the firm's quality control system that would indicate 
+that the respondent will not receive appropriate supervision or, if the Board has not conducted an 
+inspection, has received an unqualified report relating to his, or the firm's, most recent peer 
+review conducted in accordance with the guidelines adopted by the former SEC Practice Section 
+of the American Institute of Certified Public Accountants Division for CPA Firms or an 
+organization providing equivalent oversight and quality control functions; 
+
+                      (c)    Dearlove has resolved all disciplinary issues with the Board, and 
+has complied with all terms and conditions of any sanctions imposed by the Board (other than 
+reinstatement by the Commission); and 
+
+                      (d)    Dearlove acknowledges his responsibility, as long as Dearlove 
+appears or practices before the Commission as an independent accountant, to comply with all 
+requirements of the Commission and the Board, including, but not limited to, all requirements 
+relating to registration, inspections, concurring partner reviews, and quality control standards. 
+
+       D.     The Commission will consider an application by Dearlove to resume appearing or 
+practicing before the Commission provided that his state CPA license is current and he has 
+resolved all other disciplinary issues with the applicable state boards of accountancy.  However, 
+if state licensure is dependent on reinstatement by the Commission, the Commission will 
+consider an application on its other merits.  The Commission's review may include consideration 
+of, in addition to the matters referenced above, any other matters relating to Dearlove's character, 
+integrity, professional conduct, or qualifications to appear or practice before the 
+Commission. 
+
+       By the Commission. 
+
+                                                    Nancy M. Morris
+                                                          Secretary 

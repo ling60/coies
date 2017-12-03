@@ -1,0 +1,117 @@
+Conseco, Inc.: Admin. Proc. Rel. No. 34-49392 / March 10, 2004
+Home | Previous Page
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No.
+49392 / March 10, 2004
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 1973 / March 10, 2004
+Admin. Proc. File No. 3-11428
+In the Matter of
+Conseco, Inc.,
+Respondent.
+:::::::::
+ORDER INSTITUTING CEASE-AND-DESIST PROCEEDINGS, MAKING FINDINGS, AND IMPOSING A CEASE-AND-DESIST ORDER PURSUANT TO SECTION 21C OF THE SECURITIES EXCHANGE ACT OF 1934
+I.
+The Securities and Exchange Commission ("Commission") deems it appropriate that cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities Exchange Act of 1934 ("Exchange Act"), against Conseco, Inc. ("Conseco" or "Respondent").
+II.
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer of Settlement (the "Offer") that the Commission has determined to accept.
+Solely for the purpose of these proceedings and any other proceedings brought by or on behalf of the Commission, or to which the Commission is a party, and without admitting or denying the findings herein, except as to the Commission's jurisdiction over it and the subject matter of these proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-and-Desist Proceedings, Making Findings, and Imposing a Cease-and-Desist Order Pursuant to Section 21C of the Securities Exchange Act of 1934 ("Order"), as set forth below.
+III.
+On the basis of this Order and Respondent's Offer, the Commission finds
+that:
+FINDINGS OF THE COMMISSION
+Respondent
+1.	Conseco is a financial services holding company, incorporated in Indiana with its principal place of business in Carmel, Indiana.
+At all relevant times, Conseco's common stock was registered with the Commission pursuant to Section 12(b) of the Exchange Act and was traded on the New York Stock Exchange.
+At all relevant times, Conseco was required to file periodic reports with the Commission pursuant to Section 13(a) of the Exchange Act.
+In August 2002, Conseco's common stock was delisted.
+In December 2002, Conseco filed for protection under Chapter 11 of the U.S. Bankruptcy Code, reorganizing around its insurance operations and selling all of Conseco Finance Corporation's ("Conseco Finance") assets.
+Conseco emerged from bankruptcy protection in September 2003, and is no longer engaged in the business that is the subject of this Order.
+Related Entity and Persons
+2.	At all relevant times, Conseco Finance was a Delaware corporation with its principal place of business in Saint Paul, Minnesota.
+Conseco Finance was previously known as Green Tree Financial Corporation ("Green Tree").
+Green Tree merged with Conseco in June of 1998, became one of Conseco's wholly owned subsidiaries and later changed its name to Conseco Finance.
+At all relevant times, certain of Conseco Finance's securities were registered with the Commission pursuant to Section 12(b) of the Exchange Act.
+At all relevant times, Conseco Finance was required to file periodic reports with the Commission pursuant to Section 13(a) of the Exchange Act.
+In December 2002, Conseco Finance filed for protection under Chapter 11 of the U.S. Bankruptcy Code, and thereafter, sold all of its assets.
+3.	Rollin Dick ("Dick"), age 72, is a resident of Zionsville, Indiana and a certified public accountant.
+From 1986 to April 2000, Dick was Conseco's Chief Financial Officer.
+From June 1998 to April 2000, Dick was also Conseco Finance's Chief Financial Officer.
+Dick signed each of Conseco and Conseco Finance's Forms 10-Q filed with the Commission during 1999.
+4. 	James Adams ("Adams"), age 43, is a resident of Carmel, Indiana and a certified public accountant.
+From 1996 to September 2000, Adams was Conseco Inc.'s Treasurer and Chief Accounting Officer.
+From June 1998 to September 2002, Adams was also Conseco Finance's Treasurer and Chief Accounting Officer.
+Adams prepared Conseco and Conseco Finance's financial statements included in the Forms 10-Q filed with the Commission during 1999.
+Summary
+5.	Throughout fiscal 1999, Conseco and its wholly owned subsidiary Conseco Finance made materially false and misleading statements about their earnings in Commission filings and in public statements announcing their earnings, overstating their results by hundreds of millions of dollars.
+This massive overstatement occurred primarily because Dick and Adams conducted a fraudulent accounting scheme to avoid writing down the value of certain securities held by Conseco Finance and the resulting charges to earnings.
+In addition, in each quarter of 1999, Dick and Adams made a number of unsupported and improper adjustments ("top-side adjustments") to the books and records of Conseco and Conseco Finance in order to increase earnings.
+Conseco Finance's Business and the IO Securities
+6.	At all relevant times, Conseco's business consisted of insurance, fee-based businesses (such as mutual funds), and finance operations.
+All of Conseco's finance operations were conducted through Conseco Finance.
+Conseco included Conseco Finance's financial results in its consolidated financial statements.
+Conseco Finance originated, purchased, sold and serviced consumer and commercial loans.
+As part of its business, Conseco Finance put its loans into groups (called "pools"), and sold the pools to a special purpose entity ("SPE").
+The SPE, in turn, sold bonds to the public backed by the principal and interest payments due from the pools.
+Conseco Finance received back the proceeds of the bond sales, and an interest-only security ("IO security) that represented the right to receive any principal and interest due from the pool after the other bondholders and servicing fees were paid.
+Conseco Finance carried the IO securities on its books as assets and was supposed to adjust them to their fair value each quarter.
+Conseco Finance purportedly determined the fair value of the IO securities each quarter by using a discounted cash flow method, estimating the cash flows due on each IO security and discounting them to their present value.
+The Conseco Finance accounting department determined these cash flows using computer models that relied on assumptions that Dick and Adams selected and controlled.
+7.	At the time that it received each IO security, Conseco Finance established its initial basis.
+Thereafter, if the fair value of any IO security became less than its basis, Generally Accepted Accounting Principles ("GAAP") required Conseco Finance to determine whether the decline in value was "other than temporary" (i.e., "permanent impairment").
+Specifically, GAAP required Conseco Finance to compare the IO security's basis with the present value of the cash flows due on the security, discounted at a risk-free rate.
+If the basis was greater, the IO security was permanently impaired, and GAAP required Conseco Finance to write down the value of the IO security and take a corresponding charge against earnings (called an "impairment charge").
+During fiscal 1999, Dick and Adams manipulated both sides of this comparison (i.e., the IO securities' basis and the IO securities' estimated cash flows) to avoid having to take impairment charges.
+Dick and Adams Manipulate
+The Accounting For the IO Securities to Avoid Charges to Earnings
+8.	At the end of each of the first three quarters of 1999, Conseco Finance's accounting department determined that some of its IO securities were permanently impaired.
+Instead of writing down the value of these securities and taking the impairment charges, as GAAP required, Dick and Adams instructed the Conseco Finance accounting department to go back and change the historical basis of each IO security in order to make it falsely appear that none of the IO securities were permanently impaired.
+These changes to the basis of each of the IO securities were not made in accordance with GAAP, and eliminated all of the permanent impairments initially found by the Conseco Finance accounting department in each of the first three quarters of 1999.
+As a result, Conseco and Conseco Finance recorded no impairment charges and reported inflated earnings in public statements and in financial statements included in their Forms 10-Q for these periods.
+Conseco and Conseco Finance also failed to disclose the improper changes to the IO securities' basis or their beneficial effect on current period earnings.
+9.	For the fourth quarter of 1999, Dick and Adams again directed the Conseco Finance accounting department to make changes to the basis of each of the IO securities as described above.
+In addition and in order to avoid impairment charges in the fourth quarter, Dick and Adams manipulated the computer models used to produce the IO securities' cash flows to produce inflated cash flows, thereby inflating the value of the IO securities.
+Thus at the end of the fourth quarter of 1999, Conseco Finance compared the improperly adjusted basis of its IO securities to the inflated cash flows in order to falsely claim that none of its IO securities were permanently impaired.
+As a result, Conseco and Conseco Finance released inflated fourth quarter and full-year 1999 earnings results to the public in press releases on February 23, 2000.
+Conseco and Conseco Finance's Improper Accounting
+For the Top-side Adjustments
+10.	In addition to the above, during the first three quarters of 1999, Dick and Adams ordered Conseco Finance's accounting department to make certain top-side adjustments to Conseco Finance's financial statements after Conseco Finance's accounting department had prepared preliminary financial statements.
+Dick and Adams' top-side adjustments increased earnings in each of the first three quarters of 1999, and many were inconsistent with GAAP or lacked supporting documentation.
+Discovery of the Scheme
+11.	In March of 2000 during the 1999 year-end audit, PricewaterhouseCoopers, L.L.P. ("PwC"), the auditors for Conseco and Conseco Finance, discovered the improper changes to the IO securities' basis and that the fourth quarter valuation was inflated as described above.
+At that time, PwC determined that the changes to basis and the fourth quarter valuation were improper and needed to be corrected.
+PwC also required Conseco and Conseco Finance to reverse the improper topside adjustments.
+In addition, PwC determined there were deficiencies in Conseco Finance's internal controls and notified Conseco's Board.
+These deficiencies in internal controls permitted the activities described above.
+12.	On March 31, 2000, Conseco and Conseco Finance announced that they were reviewing the value of their IO securities and expected to record a charge to earnings, estimated at $350 million after taxes, to write-down the carrying value of its interest only securities.
+Conseco's stock fell more than 16% that day.
+13.	On April 14, 2000, Conseco and Conseco Finance filed their respective Forms 10-K's for 1999, which included restated results for the first three quarters of 1999, and revised results for the fourth quarter and full-year 1999.
+Specifically, Conseco disclosed that it had overstated its net income as reported in its Forms 10-Q for the first three quarters of 1999 by $9.3 million (3.2%), $84.2 million (39.5%) and $37.8 million (24.3%), respectively, and inflated its publicly announced net income for the fourth quarter and full-year 1999 by $236.3 million (383%) and $367 million (61.7%) respectively.
+Conseco Finance also disclosed that it had overstated net income as reported in its Forms 10-Q for the first three quarters of 1999 by $7.5 million (5.8%), $56.1 million (49.9%) and $14.8 million (26.2%), respectively, and inflated its publicly announced operating income for the fourth quarter and year-end 1999 by $378.3 million (112.9%) and $562.6 million (1,654.7%), respectively.
+Conseco's stock price fell more than 10% following these disclosures.
+Conseco's Violations of the Exchange Act
+14.	As a result of the conduct described above, Conseco violated Section 13(a) of the Exchange Act and Rules 12b-20 and 13a-13 thereunder which require companies whose securities are registered under Section 12 of the Exchange Act to file, among other things, accurate quarterly reports with the Commission, to keep this information current and to include in such quarterly reports such further material information, if any, as may be necessary to make the required statements, in the light of the circumstances in which they are made, not misleading.
+15 U.S.C. § 78m; 17 C.F.R. § 240.13a-13; 17 C.F.R. § 240.12b-20.
+15.	As a result of the conduct described above, Conseco also violated Section 13(b)(2)(A) of the Exchange Act, which requires companies whose securities are registered under Section 12 of the Exchange Act to make and keep books, records and accounts, which, in reasonable detail, accurately and fairly reflected the transactions and disposition of its assets.
+15 U.S.C. § 78m.
+Conseco also violated Section 13(b)(2)(B) of the Exchange Act, which requires companies whose securities are registered under Section 12 of the Exchange Act to devise and maintain a system of internal controls sufficient to: (1) permit the preparation of its financial statements in conformity with GAAP; and (2) assure that the recorded accountability for assets was compared with the existing assets at reasonable intervals and that appropriate action was taken with respect to any differences.
+15 U.S.C. §78m.
+Further, as a result of the conduct described above, Conseco violated Section 13(b)(5) of the Exchange Act and Rule 13b2-1 thereunder, which prohibit any person, including any entity, from knowingly circumventing or failing to implement a system of internal accounting controls or from falsifying any book, record, or account, and from, directly or indirectly, falsifying or causing to be falsified any book, record or account that is required to be kept pursuant to Section 13(b)(2) of the Exchange Act.
+15 U.S.C. 78m; 17 C.F.R. 240.13b2-1.
+Undertakings
+16.	In connection with this proceeding and any related judicial or administrative proceeding or investigation commenced by the Commission or to which the Commission is a party, Respondent (i) agrees to have its officers, directors, employees and agents appear and be interviewed by Commission staff at such times and places as the staff requests upon reasonable notice; (ii) will accept service by mail or facsimile transmission of notices or subpoenas issued by the Commission for documents or testimony at depositions, hearings, or trials, or in connection with any related investigation by Commission staff; (iii) appoints Respondent's attorneys at Kirkland & Ellis, L.L.P. as agent to receive service of such notices and subpoenas; (iv) with respect to such notices and subpoenas, waives the territorial limits on service contained in Rule 45 of the Federal Rules of Civil Procedure and any applicable local rules, provided that the party requesting the testimony reimburses Respondent's travel, lodging, and subsistence expenses at the then-prevailing U.S. Government per diem rates; and (v) consents to personal jurisdiction over Respondent in any United States District Court for purposes of enforcing any such subpoena.
+Cooperation and Other Acts
+17.	In determining to accept the Offer, the Commission considered certain remedial acts promptly undertaken by Conseco, and Conseco's cooperation with the Commission's staff.
+IV.
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions specified in Respondent Conseco's Offer.
+Accordingly, it is hereby ORDERED that:
+Pursuant to Section 21C of the Exchange Act, Respondent Conseco cease and desist from committing or causing any violations and any future violations of Sections 13(a), 13(b)(2)(A), 13(b)(2)(B), and 13(b)(5) of the Exchange Act and Rules 12b-20, 13a-13, and 13b2-1 thereunder.
+By the Commission.
+Jonathan G. Katz
+Secretary
+http://www.sec.gov/litigation/admin/34-49392.htm
+Home | Previous Page
+Modified: 03/10/2004

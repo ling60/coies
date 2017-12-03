@@ -1,0 +1,549 @@
+---------------------Page 1---------------------
+
+                         UNITED STATES OF AMERICA 
+                                   Before the 
+                  SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES ACT OF 1933 
+Release No. 9919 / September 18, 2015 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 75949 / September 18, 2015 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3701 / September 18, 2015 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-16339 
+ 
+                                        
+In the Matter of                       ORDER  MAKING FINDINGS AND 
+                                       IMPOSING REMEDIAL SANCTIONS  AND A 
+ JOHN BRINER, ESQ.,                    CEASE-AND-DESIST ORDER  PURSUANT 
+ DIANE DALMY,  ESQ.,                   TO SECTION  8A OF THE SECURITIES ACT 
+ DE JOYA GRIFFITH, LLC ,               OF 1933 AND SECTION S 4C AND 21C OF 
+ ARTHUR DE JOYA,  CPA,                 THE SECURITIES EXCHANGE ACT OF 
+ JASON GRIFFITH,  CPA,                 1934, AND RULE 102(e) OF THE 
+ CHRIS WHETMAN,  CPA,             COMMISSION’S RULES OF PRACTICE 
+ PHILIP ZHANG,  CPA,                                    
+ M&K CPAS, PLLC,  
+ MATT MANIS,  CPA, 
+ JON RIDENOUR,  CPA, and 
+ BEN ORTEGO , CPA, 
+ 
+Respondent s. 
+ 
+ 
+ 
+ 
+                                            
+                                       I.  
+ 
+      On January 15, 2015, the Securities and Exchange Commission (“Commission”) deeming 
+it appropriate, instituted public administrative and cease-and-desist proceedings pursuant to 
+Section 8A of the Securities Act of 1933 (“Securities Act”), Sections 4C and 21C of the Securities 
+Exchange Act of 1934 (“Exchange Act”), and Rule 102(e) of the Commission’s Rules of Practice 
+against Ben Ortego (“Ortego” or “Respondent”).  
+ 
+
+                                         
+---------------------Page 2---------------------
+
+                                               II. 
+                                                  
+       Respondent has submitted an Offer of Settlement (the “Offer”), which the Commission has 
+determined to accept.  Solely for the purpose of these proceedings and any other proceedings 
+brought by or on behalf of the Commission, or to which the Commission is a party, and without 
+admitting or denying the findings herein, except as to the Commission’s jurisdiction over him and 
+the subject matter of these proceedings, which are admitted, Respondent consents to the entry of 
+this Order, as set forth below. 
+ 
+                                               III. 
+                                                  
+                                                                                1
+       On the basis of this Order and Respondent’s Offer, the Commission finds  that: 
+ 
+                                        RESPONDENT 
+
+       1.      Ortego, 35, of Houston, Texas, is a CPA licensed in the state of Texas and, for the 
+relevant time period, a partner of M&K. 
+
+                        RELEVANT ENTITIES AND INDIVIDUALS 
+
+       2.      John Briner (“Briner”), 35, is an attorney and a Canadian citizen who resides in 
+Vancouver, British Columbia.  Briner’s law firm was MetroWest Law Corporation (“MetroWest”).  
+Briner also controlled Jervis Explorations Inc. (“Jervis”), a British Columbia corporation.  In 2010, 
+to resolve a Commission action against him alleging a pump-and-dump and market manipulation 
+scheme, Briner consented to the entry of a federal court judgment that enjoined him from violating 
+the antifraud and securities registration provisions of the federal securities laws; barred him for five 
+years from participating in penny stock offerings; and ordered him to disgorge ill-gotten gains of 
+$52,488.32 plus prejudgment interest and pay a civil penalty of $25,000.  SEC v. Golden Apple Oil 
+and Gas, Inc., et al., 09-Civ-7580 (S.D.N.Y.) (HB).  The Commission subsequently suspended 
+Briner from appearing or practicing before it as an attorney, with a right to apply for reinstatement 
+after five years.  John Briner, Exchange Act Release No. 63371, 2010 WL 4783445 (Nov. 24, 
+2010). 
+
+       3.      Diane Dalmy (“Dalmy”), 58, is an attorney who resides in Denver, Colorado and is 
+admitted to practice law in Colorado.  Dalmy issued opinion letters for the issuers identified below. 
+
+       4.      Jervis is a British Columbia corporation whose sole director is John Briner.  Jervis 
+purportedly sold certain British Columbia mineral claims to each of the issuers. 
+
+       5.      M&K CPAS, PLLC (“M&K”) is a registered public accounting firm based in 
+Houston, Texas.  For all relevant times, Ortego was a partner of M&K. 
+
+       6.      Chum Mining Group Inc. (“Chum”) is a Nevada corporation organized in June 
+2012.  On November 30, 2012, Chum filed a Form S-1 registration statement with the Commission 
+
+                                                 
+       1
+         The findings herein are made pursuant to Respondent’s Offer of Settlement and are not 
+binding on any other person or entity in this or any other proceeding. 
+
+                                                  
+---------------------Page 3---------------------
+
+seeking to register management’s common shares for resale in a $20,000 public offering.  Its 
+registration statement states that it has its principal offices in Edmonton, Alberta, Canada. 
+        
+       7.      Eclipse Resources Inc. (“Eclipse”) is a Nevada corporation organized in May 
+2012.  On December 3, 2012, Eclipse filed a Form S-1 registration statement with the Commission 
+seeking to register management’s common shares for resale in an $18,000 public offering.  Its 
+registration statement states that it has its principal offices in Winnipeg, Manitoba, Canada.   
+        
+       8.      PRWC Energy Inc. (“PRWC”) is a Nevada corporation organized in May 2012.  
+On December 6, 2012, PRWC filed a Form S-1 registration statement with the Commission 
+seeking to register management’s common shares for resale in a $20,000 public offering.  Its 
+registration statement states that it has its principal offices in Salt Lake City, Utah. 
+        
+       9.      The issuers identified in paragraphs 6 through 8 are collectively defined herein as 
+the “Issuers.” 
+        
+              ORTEGO CONDUCTED MATERIALLY DEFICIENT AUDITS 
+
+       Background 
+
+       10.    In or about November 2011, Briner contacted M&K to conduct audits of certain 
+ issuers’ financial statements that were to be included in Form S-1 registration statements.  Ortego 
+ was the engagement partner for the Issuers’ audits. 
+
+       11.    Ortego knew that Briner did the accounting and created the financial statements to 
+ be used in the Form S-1 registration statements for each of the Issuers.  Ortego also knew that 
+ Briner maintained all of the Issuers’ purported funds “in trust” in an account Briner controlled (the 
+ “Master Trust Account”). 
+
+       12.    Briner and his assistant were the exclusive contacts between M&K and each 
+ Issuer’s officer.  Ortego did not directly communicate with any of the Issuers’ officers.  Ortego 
+ knew that Briner provided all of the information concerning the Issuers and all of the supporting 
+ evidence for their audits.   
+
+       13.    The Issuers two largest transactions consisted of the officer’s purchase of Issuer 
+ stock for $30,000 and the Issuer’s purchase of British Columbia mineral claims for between 
+ $7,500 and $8,500 from Jervis. 
+
+       14.    Ortego conducted the Issuers’ audits, including auditing the above transactions, and 
+ consented to the inclusion of M&K’s audit report in each of the Issuers’ Form S-1 registration 
+ statements filed with the Commission.  M&K was paid a total of $49,500 in fees for the audits, 
+ including $9,900 for the Issuers’ audits.  Each audit report stated that “[w]e conducted our audit in 
+ accordance with the standards of the Public Company Accounting Oversight Board (United 
+ States)” and that the financial statements present the Issuers’ financial position “in conformity 
+ with U.S. generally accepted accounting principles.” 
+
+                                                  
+---------------------Page 4---------------------
+
+       Ortego Failed to Detect Red Flags in Accepting 
+       and Continuing with the Issuers as Clients 
+
+       15.    Under PCAOB Auditing Standard No. 12 (Identifying and Assessing Risks of 
+Material Misstatement) (“AS 12”), auditors should “evaluate whether information obtained from 
+the client acceptance and retention evaluation process or audit planning activities is relevant to 
+                                                  2
+identifying risks of material misstatement” (¶ 41).  
+
+       16.    Also, auditors must meet PCAOB standard AU Section 230 (Due Professional Care 
+in the Performance of Work) (“AU 230”), which requires that auditors “exercise professional 
+skepticism” (at .07), “consider the competency and sufficiency of the evidence” (at .08), and 
+“neither assume[] that management is dishonest nor assume[] unquestioned honesty” (at .09). 
+
+       17.    M&K’s policy called for “background checks on all significant owners and chief 
+executives.”  In practice, such check consisted of a simple Internet search.     
+
+       18.    Ortego failed to sufficiently question or otherwise investigate the Issuers’ 
+management, which would have revealed Briner’s undisclosed role as a control person.  Nor did he 
+conduct a background check of Briner or Dalmy, which at minimum would have turned up, among 
+other things, the Commission’s complaint alleging fraud and suspension order against Briner, and 
+that Briner had been on the OTC Market’s Prohibited Attorney List since March 15, 2006, and that 
+Dalmy had also been on the list since September 25, 2009. 
+
+       19.    Upon referring the Issuers, Briner’s assistant provided M&K with the names of the 
+officers, the inception dates, and the year-end dates for each of the Issuers.  From this, Ortego was 
+on notice that the three Issuers were incorporated the same day or within one day of each other 
+(May 31, 2012 or June 1, 2012).   
+
+       20.    This information should have at least caused Ortego to question why the Issuers’ 
+dates of incorporation appeared to be coordinated.  Ortego failed to ask any questions with respect 
+to this information. 
+
+       21.    For the above reasons, Ortego failed to meet AS 12 and AU 230. 
+
+       Ortego Failed to Obtain an Understanding of the Issuers 
+
+       22.    Under AS 12, auditors should “obtain an understanding of the company and its 
+environment . . . to understand the events, conditions, and company activities that might reasonably 
+be expected to have a significant effect on the risks of material misstatement,” including “[t]he 
+nature of the company” (¶ 7.b.) and “[t]he company’s objectives and strategies and those related 
+business risks that might reasonably be expected to result in risks of material misstatement” (¶ 
+7.d.).  Further, obtaining an understanding of the nature of the company includes understanding 
+“[t]he company’s organizational structure and management personnel; [t]he sources of funding of 
+the company’s operations and investment activities, including the company’s capital structure[, 
+t]he company’s operating characteristics, including its size and complexity” (¶ 10), and “an 
+                                                 
+       2
+         The PCAOB standards referenced herein are the standards that were in effect during the 
+time of   relevant conduct. 
+
+                                                   
+---------------------Page 5---------------------
+
+understanding of internal control includes evaluating the design of controls that are relevant to the 
+audit and determining whether the controls have been implemented” (¶ 20). 
+
+       23.    Additionally, auditors must meet AU 230, which requires that auditors “exercise 
+professional skepticism” (at .07) and engagement partners “should be knowledgeable about the 
+client” and are responsible for the “supervision of[] members of the engagement team” (.06). 
+
+       24.    Ortego failed to obtain a sufficient understanding of the Issuers.  What little 
+understanding of the Issuers he obtained came almost entirely from draft Form S-1 registration 
+statements and responses to certain questionnaires from the Issuers, both provided by Briner.  
+Ortego did not obtain an understanding of the Issuers through direct communication with the 
+Issuers’ officers.   
+
+       25.    In obtaining an understanding of the Issuers, Ortego did not question the substantial 
+similarities among the Issuers.  The Issuers filed three nearly identical Form S-1 registration 
+statements.  Using almost exactly the same language, each stated the following: (1) the Issuers are 
+not blank check companies; (2) the Issuers’ officers purchased Issuer stock for $30,000; (2) the 
+Issuers purchased British Columbia mineral claims from Jervis; (3) Jervis supplied nearly all the 
+Issuers’ with their business plans; (4) the officers “solely” control the company; (5) the officers 
+planned to devote only 4 to 5 hours each week to the business; and (6) the officers have not 
+inspected the land comprising the mineral claims.   
+
+       26.    Despite reviewing all three of the Issuers’ registration statements within a six-week 
+period, Ortego did not raise any concern about the similarities among the registration statements, or 
+perform any enhanced procedures to respond to the level of risk presented. 
+
+       27.    For the above reasons, Ortego failed to meet AS 12 and AU 230.   
+
+               Ortego Failed to Properly Audit the Issuers’ Cash 
+
+       28.      Under PCAOB standard AU Section 330 (The Confirmation Process) (“AU 330”), 
+when “information about the respondent’s [i.e., the person or entity from which a confirmation is 
+requested] competence, knowledge, motivation, ability, or willingness to respond, or about the 
+respondent’s objectivity and freedom from bias with respect to the audited entity comes to the 
+auditor’s attention, the auditor should consider the effects of such information on designing the 
+confirmation request and evaluating the results” and, in circumstances where “the respondent is the 
+custodian of a material amount of the audited entity’s assets,” the auditor should exercise “a 
+heightened degree of professional skepticism” and “should consider whether there is sufficient 
+basis for concluding that the confirmation request is being sent to a respondent from whom the 
+auditor can expect the response will provide meaningful and appropriate audit evidence” (at .27).  
+
+       29.    Additionally, under PCAOB Auditing Standard No. 15 (Audit Evidence) (“AS 
+15”), “[t]he auditor must plan and perform audit procedures to obtain sufficient appropriate audit 
+evidence to provide a reasonable basis for his or her opinion” (¶ 4).  To be appropriate, audit 
+evidence must be both relevant and reliable in providing support for the conclusions on which the 
+auditor’s opinion is based.  “The reliability of evidence depends on the nature and source of the 
+evidence and the circumstances under which it is obtained” (¶ 8).  Under PCAOB Auditing 
+Standard No. 13 (The Auditor’s Responses to the Risks of Material Misstatement) (“AS 13”), 
+
+                                                  
+---------------------Page 6---------------------
+
+“[t]he auditor’s responses to the assessed risks of material misstatement, particularly fraud risks, 
+should involve the application of professional skepticism in gathering and evaluating audit 
+evidence” (¶ 7). 
+
+       30.    Ortego exhibited no concern about Briner’s handling of the Issuers’ alleged cash.  
+Ortego knew that Briner held all of the Issuers’ purported funds in the Master Trust Account and 
+that none of the Issuers had their own bank account.  Ortego also knew that Briner was a 
+“consultant” to the Issuers and that MetroWest was a law firm.  Ortego did not seek any 
+appropriate audit evidence about what, if any, limitations governed Briner’s use of the cash in his 
+Master Trust Account.  Nor did he ask for a reconciliation between Briner’s Master Trust Account 
+and the schedules Briner provided purportedly showing how much cash in his account was 
+attributable to each Issuer. 
+
+       31.    In addition, Ortego violated the above standards by failing to apply professional 
+skepticism in gathering and evaluating the evidence obtained, such as Briner’s confirmation of 
+Issuer cash, and consider Briner’s “objectivity and freedom from bias with respect to the audited 
+entity” in relation to the Issuers’ cash confirmation Briner provided. 
+
+       Ortego Disregarded Red Flags that Briner’s Services to 
+       the Issuers Were Not Given Accounting Recognition 
+
+       32.    Under PCAOB standard AU Section 334 (Related Parties) (“AU 334”), transactions 
+that are indicative of the existence of related parties include, among other things, “transactions 
+[that] are occurring, but are not being given accounting recognition, such as receiving or providing 
+accounting, management or other services at no charge” (at .08(f)).  Further, under AS 15, “[i]f 
+audit evidence obtained from one source is inconsistent with that obtained from another, or if the 
+auditor has doubts about the reliability of information to be used as audit evidence, the auditor 
+should perform the audit procedures necessary to resolve the matter and should determine the 
+effect, if any, on other aspects of the audit” (¶ 29).  Finally, auditors must exercise professional 
+skepticism throughout the course of the engagement consistent with standard AU 230. 
+
+       33.    Ortego failed to question Briner’s fee arrangement with the Issuers.  Instead, he 
+relied on legal confirmation letters from Briner that conflicted on their face with what ledgers in 
+his possession showed to be true about the services Briner provided.   
+
+       34.    These letters each stated that “[a]s of the date of inception and up to the present 
+date, the [Issuers were] not indebted to us for services and expenses (billed or unbilled) of which 
+we are aware.”  Ortego knew that Briner provided substantial services to the Issuers, such as, 
+among other things, performing accounting functions (paying expenses and recording 
+transactions), drafting the Issuers’ registration statements, and preparing the Issuers’ financial 
+statements for their registration statements.  Ortego also knew that the Issuers’ financial statements 
+and general ledgers did not reflect payment for Briner’s services.  Despite this, Ortego did not ask 
+Briner for any invoices, agreements, engagement letters, or any details about his fee arrangements 
+with the Issuers.  Nor did he conduct any related party analysis. 
+
+       35.    For the above reasons, Ortego failed to meet AU 334, AS 15, and AU 230. 
+
+                                                   
+---------------------Page 7---------------------
+
+       Ortego Did Not Investigate the Issuers’ Failures to Account For Audit Fees 
+
+        36.   Under AS 15, “[t]he auditor must plan and perform audit procedures to obtain 
+sufficient appropriate audit evidence to provide a reasonable basis for his or her opinion” (¶ 4).  In 
+doing so, the auditor must exercise professional skepticism throughout the course of the 
+engagement consistent with AU 230. 
+
+        37.   Additionally, under PCAOB Auditing Standard No. 14 (Evaluating Audit Results) 
+(“AS 14”), the “auditor should take into account all relevant audit evidence, regardless of whether 
+it appears to corroborate or to contradict the assertions in the financial statements” (¶ 3) and should 
+take into account “[t]ransactions that are not recorded in a complete or timely manner or are 
+improperly recorded as to amount, accounting period, classification, or company policy” 
+(Appendix C, C1.a.(1)). 
+
+        38.   Ortego did not question the Issuers’ failures to account for audit fees paid during 
+the audit period, or failures to account for audit fees paid during the subsequent events period. 
+
+        39.   Specifically, Ortego failed to investigate conflicting evidence regarding the audit 
+fees received for the Issuers: Chum, Eclipse, and PRWC.  Even though M&K received $9,900 on 
+August 14, 2012 from Briner to cover the Issuers’ audit fees ($3,300 each), Ortego did not question 
+why Briner accounted only for the payment he made for Chum in the schedules he provided and 
+not the payments he made for Eclipse and PRWC.  Ortego was the engagement partner for all three 
+Issuers.  Yet he did not investigate this discrepancy. 
+
+        40.   For the above reasons, Ortego failed to meet AS 14, AS 15, and AU 230. 
+
+       Ortego Failed to Detect Basic Accounting Errors and Inconsistencies 
+       Between the Financial Statements and the Registration Statements 
+
+       41.    Under AU 230, “[a]n auditor should possess ‘the degree of skill commonly 
+possessed’ by other auditors and should exercise it with ‘reasonable care and diligence’ (that is, 
+with due professional care)” (at .05). 
+
+       42.    During the audits, the Ortego failed to detect inconsistencies between the financial 
+statements and information contained in other parts of the registration statements.  Specifically, in 
+the Eclipse Form S-1 registration statement, the NOL listed in Note 2 on page F-7 as $11,175 is 
+not consistent with Note 7 on page F-11, which lists the NOL as $2,675.  Additionally, in the 
+Chum Form S-1 registration statement, the NOL listed in Note 2 on page F-7 as $10,175 is not 
+consistent with the table in Note 7 on page F-12, which lists the net loss before taxes as $2,675.  
+These errors may constitute material misstatements and reflect Ortego’s apparent lack of due care 
+in conducting the Issuers’ audits. 
+
+       43.    For these reasons, Ortego failed to meet AU 230. 
+
+       Ortego Disregarded Red Flags that the Issuers’ 
+       Stock Sales to Their Officers Were Shams 
+
+       44.    Under PCAOB Auditing Standard No. 10 (Supervision of the Audit Engagement) 
+
+                                                  
+---------------------Page 8---------------------
+
+(“AS 10”), the engagement partner “is responsible for proper supervision of the work of 
+engagement team members and for compliance with PCAOB standards” (¶ 3) and should “[d]irect 
+engagement team members to bring significant accounting and auditing issues arising during the 
+audit to the attention of the engagement partner or other engagement team members performing 
+supervisory activities so they can evaluate those issues and determine that appropriate actions are 
+taken in accordance with PCAOB standards” (¶ 5 b.). 
+
+       45.    Briner provided an M&K staff member with schedules for each of the Issuers 
+(prepared by Briner) purportedly listing all transactions that the M&K staff member reviewed (the 
+same person reviewed the audit evidence for all of the Issuers’ audits).   
+
+       46.    Each of the schedules appeared to indicate that individuals or entities named “Luke 
+Pretty” or “Dhaliwal” supplied the funds to pay for the officers’ stock purchases and characterized 
+these transactions as “investments.”  The Issuers’ registration statements and stock purchase 
+agreements (also reviewed by the same M&K staff member referred to above), by contrast, 
+indicated that the Issuers’ respective officers paid for and purchased the Issuers’ stock. 
+
+       47.    Additionally, these schedules contained contradictions, such as dates listed for stock 
+purchases that occurred (1) before the Issuers were incorporated or (2) after the Issuers purchased 
+their mineral claims.   
+
+       48.    Ortego disregarded these inconsistencies and contradictions in the audit evidence in 
+violation of AS 15, AS 12, and AU 230.  Ortego also failed to meet AS 10 by failing to direct the 
+M&K staff member reviewing the audit evidence to bring significant accounting and auditing 
+issues to his attention and by otherwise failing to supervise the M&K Issuers’ audits. 
+
+   ORTEGO VIOLATED SECTION 17(a) OF THE SECURITES ACT, RULE 2-02 OF 
+   REGULATION S-X, AND ENGAGED IN IMPROPER PROFESSIONAL CONDUCT 
+ 
+       49.    As a result of the conduct described above, Ortego violated Sections 17(a)(2) and 
+(3) of the Securities Act by claiming that the audits he conducted the Issuers audits in accordance 
+with PCAOB standards when in fact he did not. 
+
+       50.    Additionally, for failing to meet the PCAOB audit standards identified above in 
+auditing the Issuers, Ortego engaged in improper professional conduct pursuant to the 
+Commission’s Rules of Practice Rule 102(e)(1)(ii) by each engaging in at least one instance of 
+highly unreasonable conduct or at least two instances of unreasonable conduct under Rule 
+102(e)(1)(iv).  Ortego also caused violations of Rule 2-02(b)(1) of Regulation S-X by consenting 
+to the provision of audit reports included in the Issuers’ Form S-1 Registration statements that state 
+that the Issuers’ audits were conducted in accordance with PCAOB standards when in fact they 
+were not.   
+
+       51.    Further, as described above, Ortego willfully violated Sections 17(a)(2) and (3) of 
+the Securities Act thereby engaging in conduct subject to the Commission’s Rules of Practice Rule 
+102(e)(1)(iii). 
+
+                                                 
+---------------------Page 9---------------------
+
+                                  COMMISSION FINDINGS 
+
+       Based on the foregoing, the Commission finds that Respondent: 
+
+       A.     willfully violated Sections 17(a)(2) and (3) of the Securities Act;  
+
+       B.     engaged in improper professional conduct pursuant to Section 4C(a)(2) of the 
+Exchange Act and Rule 102(e)(1)(ii) of the Commission’s Rules of Practice;  
+
+       C.     caused violations of Rule 2-02(b)(1) of Regulation S-X; and  
+
+       D.     willfully violated Sections 17(a)(2) and (3) of the Securities Act thereby engaging 
+in conduct subject to Section 4C(a)(3) of the Exchange Act and Practice Rule 102(e)(1)(iii) of the 
+Commission’s Rules of Practice. 
+
+                                               IV. 
+        
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondent Ortego’s Offer. 
+        
+       Accordingly, pursuant to Section 8A of the Securities Act and Sections 4C and 21C of the 
+Exchange Act, it is hereby ORDERED that: 
+        
+       A.     Respondent shall cease and desist from committing or causing any violations and 
+any future violations of Sections 17(a)(2) and (3) of the Securities Act and Rule 2-02(b)(1) of 
+Regulation S-X. 
+
+       B.     Respondent is denied the privilege of appearing or practicing before the Commission 
+as an accountant. 
+
+       C.     After  three  years from the date of this Order,  Respondent  may request that the 
+Commission consider his reinstatement by submitting an application (attention: Office of the Chief 
+Accountant) to resume appearing or practicing before the Commission as:      
+
+                      1.      a preparer or reviewer, or a person responsible for the preparation or 
+review, of any public company’s financial statements that are filed with the Commission.  Such an 
+application  must  satisfy  the  Commission  that  Respondent’s  work  in  his  practice  before  the 
+Commission will be reviewed either by the independent audit committee of the public company for 
+which he works or in some other acceptable manner, as long as he practices before the Commission 
+in this capacity; and/or 
+        
+                      2.      an  independent  accountant.    Such  an  application  must  satisfy  the 
+Commission that: 
+             
+                              (a)    Respondent, or the public accounting firm with which he is 
+associated,  is  registered  with  the  Public  Company  Accounting  Oversight  Board  (“Board”)  in 
+accordance with the Sarbanes-Oxley Act of 2002, and such registration continues to be effective; 
+        
+
+                                                  
+---------------------Page 10---------------------
+
+                             (b)     Respondent,  or  the  registered  public  accounting  firm  with 
+which he is associated, has been inspected by the Board and that inspection did not identify any 
+criticisms of or potential defects in the respondent’s or the firm’s quality control system that would 
+indicate that the respondent will not receive appropriate supervision; 
+        
+                             (c)     Respondent  has  resolved  all  disciplinary  issues  with  the 
+Board, and has complied with all terms and conditions of any sanctions imposed by the Board 
+(other than reinstatement by the Commission); and 
+        
+                             (d)     Respondent  acknowledges  his  responsibility,  as   long  as 
+Respondent appears or practices before the Commission as an independent accountant, to comply 
+with  all  requirements  of  the  Commission  and  the  Board,  including,  but  not  limited  to,  all 
+requirements relating to registration, inspections, concurring partner reviews and quality control 
+standards.   
+        
+       D.     The Commission will consider an application by Respondent to resume appearing or 
+practicing before the Commission provided that his state CPA license is current and he has resolved 
+all other disciplinary issues with the applicable state boards of accountancy.  However, if state 
+licensure is dependent  on  reinstatement  by  the  Commission, the  Commission  will  consider  an 
+application on its other merits.  The Commission’s review may include consideration of, in addition 
+to the matters referenced above, any other matters relating to Respondent’s character, integrity, 
+professional conduct, or qualifications to appear or practice before the Commission. 
+        
+       E.     Respondent shall, within  10  days of the entry of this Order, pay a civil money 
+penalty in the amount of $50,000 to the Securities and Exchange Commission for transfer to the 
+general fund of the United States Treasury, subject to Exchange Act Section 21F(g)(3).   If timely 
+payment is not made, additional interest shall accrue pursuant to 31 U.S.C. § 3717.  Payment must 
+be made in one of the following ways:   
+        
+              (1)     Respondent may transmit payment electronically to the Commission, which 
+will provide detailed ACH transfer/Fedwire instructions upon request;  
+        
+              (2)     Respondent may make direct payment from a bank account via Pay.gov 
+through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or  
+               
+              (3)     Respondent may pay by certified check, bank cashier’s check, or United 
+States postal money order, made payable to the Securities and Exchange Commission and hand-
+delivered or mailed to:  
+        
+       Enterprise Services Center 
+       Accounts Receivable Branch 
+       HQ Bldg., Room 181, AMZ-341 
+       6500 South MacArthur Boulevard 
+       Oklahoma City, OK 73169 
+        
+       Payments by check or money order must be accompanied by a cover letter identifying 
+
+                                                 
+---------------------Page 11---------------------
+
+Ortego as a Respondent in these proceedings, and the file number of these proceedings; a copy of 
+the cover letter and check or money order must be sent to Lara Shalov Mehraban, Division of 
+Enforcement, Securities and Exchange Commission, 200 Vesey Street, NY 10281. 
+        
+       F.     Amounts ordered to be paid as civil money penalties pursuant to this Order shall be 
+treated as penalties paid to the government for all purposes, including all tax purposes.  To preserve 
+the deterrent effect of the civil penalty, Respondent agrees that in any Related Investor Action, he 
+shall not argue that he is entitled to, nor shall he benefit by, offset or reduction of any award of 
+compensatory damages by the amount of any part of Respondent’s payment of a civil penalty in this 
+action (“Penalty Offset”).  If the court in any Related Investor Action grants such a Penalty Offset, 
+Respondent agrees that he shall, within 30 days after entry of a final order granting the Penalty 
+Offset, notify the Commission’s counsel in this action and pay the amount of the Penalty Offset to 
+the Securities and Exchange Commission.  Such a payment shall not be deemed an additional civil 
+penalty  and  shall  not  be  deemed  to  change  the  amount  of  the  civil  penalty  imposed  in  this 
+proceeding.  For purposes of this paragraph, a “Related Investor Action” means a private damages 
+action brought against Respondent by or on behalf of one or more investors based on substantially 
+the same facts as alleged in the Order instituted by the Commission in this proceeding. 
+ 
+                                                V. 
+                                                  
+       It is further Ordered that, solely for purposes of exceptions to discharge set forth in Section 
+523 of the Bankruptcy Code, 11 U.S. C. §523, that the findings in this Order are true and admitted 
+by Respondent, and further, any debt for disgorgement, prejudgment interest, civil penalty or other 
+amounts due by Respondent under this Order or any other judgment, order, consent order, decree or 
+settlement agreement entered in connection with this proceeding, is a debt for the violation by 
+Respondent of the federal securities laws or any regulation or order issued under such laws, as set 
+forth in Section 523(a)(19) of the Bankruptcy Code, 11 U.S.C. §523(a)(19). 
+        
+        
+       By the Commission. 
+ 
+ 
+                                                             Brent J. Fields 
+                                                             Secretary 
+
+                                                  

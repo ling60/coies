@@ -1,0 +1,439 @@
+---------------------Page 1---------------------
+
+ UNITED                             STATES OF AMERICA 
+ Before                                      the 
+ SECURITIES                      AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 63818 / February 2, 2011 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3237 / February 2, 2011 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No.  3-14216 
+ 
+                                            ORDER INSTITUTING CEASE-AND-
+In the Matter of                            DESIST PROCEEDINGS PURSUANT TO 
+                                            SECTION 21C OF THE SECURITIES 
+      Deerfield Capital Corp. and           EXCHANGE ACT OF 1934, MAKING 
+      Danielle Valkner, CPA,                FINDINGS, AND IMPOSING REMEDIAL 
+                                            SANCTIONS AND A CEASE-AND-DESIST 
+Respondents.                                ORDER  
+ 
+ 
+ 
+ 
+  
+ 
+                                           I. 
+ 
+              The Securities and Exchange Commission (Commission) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities 
+Exchange Act of 1934 (Exchange Act), against Deerfield Capital Corp. (Deerfield Capital) 
+and Danielle Valkner (collectively Respondents).   
+                                            
+                                          II. 
+ 
+              In anticipation of the institution of these proceedings, Respondents have submitted Offers 
+of Settlement (the Offer) which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the findings 
+herein, except as to the Commissions jurisdiction over them and the subject matter of these 
+proceedings, which are admitted, Respondents consent to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making 
+Findings,  and Imposing Remedial Sanctions and a Cease-and-Desist Order (Order), as set forth 
+below.   
+ 
+---------------------Page 2---------------------
+
+                                                                                                   
+ 
+                                               III. 
+ 
+              On the basis of this Order and Respondents Offer, the Commission finds1
+                                                                                  that:  
+        
+                                            Summary 
+        
+       1.           Deerfield Capital Corp. (Deerfield Capital) violated the books and records and 
+internal control provisions of the Exchange Act in connection with three transactions involving 
+securities issued by a Real Estate Mortgage Investment Conduit (REMIC)an investment 
+vehicle used for the pooling of mortgage loans and the issuance of mortgage-backed securities.  In 
+each of the transactions, one of which occurred in December 2005 and two in March 2006, 
+Deerfield Capital improperly recognized a gain from the purported sales of the REMIC while 
+simultaneously purporting to purchase a new security (or re-REMIC) representing nearly the 
+same rights to nearly the same stream of payments.  Deerfield Capitals recognition of a gain on 
+the sale of the REMIC was contrary to Generally Accepted Accounting Principles (GAAP).   
+ 
+              2.           For the December 2005 transaction, Deerfield Capital recognized $3.9 million of 
+gain on the sale of the REMIC, which constituted 15 percent of Deerfield Capitals reported net 
+income for the fourth quarter of 2005 and 6 percent of its net income for the year ended December 
+31, 2005.  For the March 2006 transactions, Deerfield Capital recognized gains of $3.6 million, 
+which constituted 14 percent of its net income for the quarter ended March 31, 2006 and 4 percent 
+of its net income for the year ended December 31, 2006. 
+ 
+       3.           The misstatement related to the December 2005 transaction caused an excess 
+payment of $977,000 in performance fees to Deerfield Capital Management LLC (Deerfield 
+Management), which by virtue of its provision of investment management and administrative 
+services to Deerfield Capital, made the decision to account for the December 2005 transaction as a 
+sale.  
+        
+                                          Respondents 
+                                                  
+       4.      Deerfield Capital Corp. is a Maryland corporation with its principal place of 
+business located in Rosemont, Illinois.  At all relevant times, Deerfield Capital traded on the New 
+York Stock Exchange (NYSE) and was a specialty finance company that invested in real-estate 
+securities and various other asset classes and elected to be taxed as a real estate investment trust 
+(REIT), which meant that it was required to distribute to investors at least 90 percent of its 
+taxable income.  The companys stated objective was to provide attractive returns to its investors 
+through a combination of dividends and capital appreciation.  At all times relevant to this Order, 
+Deerfield Capital was externally managed by Deerfield Management .  As an externally-managed 
+                                                 
+       1
+         The findings herein are made pursuant to Respondents Offer of Settlement and are not binding 
+on any other person or entity in this or any other proceeding.   
+
+ 
+                                                2 
+---------------------Page 3---------------------
+
+                                                                                                  
+ 
+company, Deerfield Capital had its own CEO and CFO, but it had no employees and relied on 
+Deerfield Management to conduct its business and operations.  On December 21, 2007, Deerfield 
+Management became a wholly-owned subsidiary of Deerfield Capital.  On October 1, 2008, 
+Deerfield Capital terminated its REIT status retroactive to January 1, 2008.  Deerfield Capital is 
+now a Nasdaq-listed company.   
+        
+       5.      Danielle Valkner (Valkner), age 41, is a CPA and was the CFO of Deerfield 
+Management during the relevant time period.  During the relevant time period, Valkner worked 
+closely with Deerfield Capitals CFO and the staff responsible for Deerfield Capitals accounting.  
+Valkner did not sign any of Deerfield Capitals public filings, but signed management 
+representation letters in connection with the 2005 and 2006 audits and quarterly reviews of 
+Deerfield Capital by its outside auditor.   
+        
+                                          Background 
+ 
+       6.           The three REMIC securities at issue in this matter were digital interest-only 
+(IO) securities, which paid an annualized return of 8.375 percent when the one-month LIBOR 
+exceeded 4.0 percent, but nothing when LIBOR was at or below 4.0 percent.  During 2005, as the 
+one-month LIBOR rose, these digital IOs increased in value.   
+        
+              7.           Due to differences in tax accounting for the original issue discount on the digital 
+IO, Deerfield Capitals reported taxable income was greater than its reported GAAP income.  
+Deerfield Capitals REIT status required it to distribute substantially all of its taxable income to its 
+shareholders, and the difference in taxable income and GAAP income would have led to Deerfield 
+Capital showing negative retained earnings on its GAAP balance sheet.  Deerfield Capitals board 
+was concerned about the tax/GAAP disparity and the possibility of shareholder confusion, as 
+shareholders might have interpreted dividend payments in excess of GAAP earnings as a 
+premature return of capital.   In October 2005, Deerfield Capitals board of directors requested that 
+Deerfield Management attempt to resolve the difference between Deerfield Capitals GAAP and 
+taxable income, and Deerfield Management then began exploring the possible sale of the digital 
+IOs.  Thus, in late 2005, Deerfield Management personnel explored the option of selling one of the 
+digital IOs in order to eliminate a difference between the income reported for tax purposes and the 
+income reported for GAAP purposes and to capture the gain on the increasing value of the digital 
+IO.  
+        
+              8.           The trader responsible for Deerfield Capitals mortgage-backed securities portfolio 
+did not want to sell the digital IO because he felt that the security provided an effective hedge 
+against increased funding costs of Deerfield Capitals portfolio.  The trader wanted either to retain 
+the digital IO or to acquire an identical or similar security to provide that hedge.  In order to 
+accommodate the divergent goals of realizing a gain with respect to the digital IO, preserving its 
+perceived hedge value, and more closely aligning Deerfield Capitals GAAP and tax income, 
+Deerfield Capital explored a number of options during the last quarter of 2005.   
+        
+
+                                                3 
+---------------------Page 4---------------------
+
+                                                                                                   
+ 
+       9.           The efforts to consummate a transaction or series of transactions, which had begun 
+in October, intensified as the year end approached.  During December, Deerfield Management 
+personnel continued their attempts to sell the digital IO but were unable to obtain what they felt 
+was a fair price.   
+        
+       10.        Finally, on December 28, a sales person for a third-party broker-dealer proposed the 
+following transaction:  
+        
+           •  The third-party broker-dealer would purchase the digital IO by the end of 2005, 
+               with settlement on January 24, 2006. 
+           •  The third-party broker-dealer would re-securitize the digital IO cash flows by 
+               combining the cash flows with those from an unrelated stream of principal-only 
+               (PO) payments representing approximately 10 percent of the total value of the 
+               new security.   
+           •  Deerfield Capital would purchase the new security for settlement on January 30, 
+               2006.  
+           •  The price of the digital IO component would be the same in both the sale and 
+               purchase transactions.  Deerfield Capital and the third-party broker-dealer agreed 
+               upon a price halfway between the bid and ask price of the security on the date of the 
+               transaction.  Since the third-party broker-dealers purchase and sale of the IO 
+               component would be at the same price, the third-party broker-dealers salesman 
+               told Deerfield Managements trader that he was indifferent to the pricing of the 
+               security.  
+                   
+       11.        On December 29, the parties agreed to the transaction described above.  In its 
+financial statements for the year ended December 31, 2005, Deerfield Capital recognized a gain of 
+$3.9 million as a result of the transaction. 
+        
+                                     Application of GAAP 
+        
+       12.        These transactions do not qualify for sale treatment under SFAS 140, Accounting 
+for the Transfers and Servicing of Financial Assets and Extinguishments of Liabilities, the 
+applicable generally accepted accounting principle.  Under SFAS 140(9)(a)-(c), a transaction may 
+be accounted for as a sale, and a gain or loss recognized, only if all of certain conditions are met.  
+Otherwise, the sale must be treated as a financing, upon which a gain or loss cannot be recognized.   
+
+       13. Deerfield Capitals three    REMIC transactions in late 2005 and early 2006 did not 
+meet the requirements of SFAS 140(9)(b) and therefore should not have been treated as sales under 
+GAAP.  SFAS 140(9)(b) requires that the transferee have the right to pledge or exchange the 
+transferred assets it received and that no conditions both constrain the transferee from taking 
+advantage of its right to pledge or exchange and provide more than a trivial benefit to the 
+transferor. Deerfield Capital agreed to purchase a re-REMIC security that included the same cash 
+flows represented by the IOs sold through a forward purchase contract concurrent with the third-
+
+                                                4 
+---------------------Page 5---------------------
+
+                                                                                                   
+ 
+party broker-dealers purchase, effectively constraining the third-party broker-dealer from pledging 
+or exchanging the assets.  Further, the IOs Deerfield Capital purportedly sold represented all 
+payments from the underlying REMIC trust, constraining the third-party broker-dealers ability to 
+obtain a similar security.  SFAS 140(32) states that, A free standing forward purchase-sale 
+contract between the transferor and the transferee on transferred assets not readily obtainable in the 
+marketplace would benefit the transferor and is likely to constrain a transferee in much the same 
+manner as a free standing call option.    
+        
+       14.        In addition, neither Deerfield Capital nor Deerfield Management performed a 
+sufficient analysis or obtained the legal advice necessary to determine if the transactions satisfied 
+SFAS 140(9)(a), which requires that the assets be presumptively beyond the reach of the 
+transferor and its creditors.  The third-party broker-dealer had a contractual obligation to deliver a 
+security for which 90 percent of the price represented the same stream of payments from the same 
+pool of specifically identified assets.   Deerfield Capital and Deerfield Management did not fully 
+analyze the available evidence or obtain a legal opinion and therefore did not have reasonable 
+assurance that the transactions would be deemed a true sale at law.   
+        
+                     Deerfield Capitals Accounting for the Transactions 
+        
+       15.        In late December 2005, Valkner played a significant role in the operations of 
+Deerfield Capital.  Although others participated in the structuring of the December 2005 
+transaction, Deerfield Capitals management relied primarily upon Valkner, the CFO of Deerfield 
+Management, to determine whether the transaction qualified for sales treatment under GAAP.  
+Valkner was aware of the difficulties that Deerfield Capital faced in executing a transaction that 
+met all the previously stated objectives.  Additionally, Deerfield Managements head of trading 
+told Valkner in a December 21 email that an outright sale of the IO security was very 
+challenging as no one wanted to provide a firm bid at a reasonable level in an acceptable time 
+frame.   
+        
+       16.        In a series of December 29 communications between Valkner and other members 
+of Deerfield Management personnel, including the mortgage trader who had negotiated the 
+transaction, and after consultation with other Deerfield Capital accounting personnel, Valkner 
+stated she believed that the December 29 transaction qualified for sale treatment.   Deerfield 
+Capital had not previously engaged in a transaction similar to the December 29 transaction, and 
+Valkner did not correctly analyze the application of SFAS 140.  When analyzing the transaction, 
+Valkner did not ask the trader how the terms of the sale of the digital IO and the purchase of the re-
+REMIC were negotiated; never reviewed the Bloomberg message reflecting the terms of the 
+transaction; and did not determine whether the digital IO represented an entire tranche of a pool of 
+collateral, thereby making it unique. 
+         
+       17. Deerfield Capitals accounti   ng staff failed to document its analysis of the complex 
+accounting issues raised by the transaction.  Although Deerfield Capitals outside auditors had 
+been consulted concerning previous efforts to conduct a transaction concerning the IO, Deerfield 
+
+                                                5 
+---------------------Page 6---------------------
+
+                                                                                                   
+ 
+Capital did not consult its outside auditor in connection with the December 2005 transaction and 
+did not bring the transaction to the auditors attention in connection with the audit of Deerfield 
+Capitals accounts for the year ended December 31, 2005.   
+        
+       18.        Valkner did not review the transaction after December 29.  Although she did not 
+sign the filings containing Deerfield Capitals financial statements, she signed management 
+representation letters addressed to Deerfield Capitals outside auditors, in which she stated to the 
+best of her knowledge, that Deerfield Capitals financial statements were presented in accordance 
+with GAAP, for the audit of the year ended December 31, 2005, the year ended December 31, 
+2006 and the quarter ended March 31, 2006.   
+        
+       19.        At the close of the quarter ended March 31, 2006, Deerfield Capital sold two 
+additional digital IO securities in similar transactions.  Deerfield Capitals new CFO did not 
+undertake any independent review of the transactions, purportedly relying instead upon the work 
+done by Valkner and others to ensure compliance with GAAP in connection with the December 29 
+transaction.  Deerfield Capital did not inform its outside auditor of the transaction.  In connection 
+with the March 2006 transactions, Deerfield Capital recognized $3.6 million in gains on the sales. 
+        
+                      Impact on Deerfield Capitals Financial Statements 
+                                                  
+       20.        In connection with the December 2005 transactions, Deerfield Capital recognized a 
+gain on sale of $3.9 million and recorded a related expense of $977,000 for an incentive fee paid to 
+Deerfield Management.  In connection with the March 2006 transactions, Deerfield Capital 
+recognized a gain on sale of $3.6 million and recorded an incentive fee expense of $915 thousand; 
+however, Deerfield Management did not ultimately collect that fee at the time of its year-end 
+calculation, due to losses arising from the impairment of the re-REMICs later in 2006. 
+        
+       21.        In its audited Statement of Operations included in its Form 10-K for the year ended 
+December 31, 2005, Deerfield Capital represented that it had realized a net gain of $5.372 million 
+on the sale of available-for-sale securities, which was a component of $5.435 million in other 
+income and gain.  Deerfield Capital failed to disclose that $3.9 million of that gain represented the 
+sale of the IO security and there was an agreement to purchase a newly created re-REMIC 
+security that included the cash flows of the IO sold combined with cash flows from a PO security. 
+Similarly, in the Form 10-Q for the three months ended March 31, 2006, Deerfield Capital 
+represented that it had realized a gain of $2.092 million on the sale of available-for-sale securities.  
+Again, Deerfield Capital failed to disclose that $3.6 million of that gain related to the sale of the 
+digital IOs and that there was an agreement to purchase a newly created re-REMIC security that 
+included the cash flows of those IOs.   
+          
+       22.        Correcting the improper accounting requires that the gain on sale be excluded from, 
+and that the incentive fee be added back to, the income statement. As a result of the accounting 
+errors, Deerfield Capital overstated its net income for the fourth quarter of 2005 by $2.9 million, or 
+15 percent, and for the first quarter of 2006 by $2.7 million, or 14 percent.  As a result of the 
+
+                                                6 
+---------------------Page 7---------------------
+
+                                                                                                    
+ 
+errors, Deerfield Capital also overstated its net income for the year ended December 31, 2005 by 6 
+percent.   
+                                                  
+                                            Violations 
+        
+       23.        As a result of the conduct described above, Deerfield Capital violated Section 
+13(a) of the Exchange Act and Rules 12b-20, 13a-1, and 13a-13 thereunder, and Valkner was a 
+cause of Deerfields violations of Section 13(a) of the Exchange Act and Rules 12b-20, and 13a-
+1 thereunder, which require every issuer of a security registered pursuant to Section 12 of the 
+Exchange Act to file with the Commission information, documents, and annual and quarterly 
+reports as the Commission may require, and mandate that periodic reports contain such further 
+material information as may be necessary to make the required statements not misleading.  
+Deerfield Capital violated those provisions by filing quarterly and annual reports that misstated 
+its net income and gain on sale of available-for-sale securities and by failing to disclose that it 
+was obligated to reacquire certain assets for which it had recognized revenue on a purported sale 
+that should have been accounted for as a financing.   
+        
+              24.        As a result of the conduct described above, Deerfield Capital violated Section 
+13(b)(2)(A) of the Exchange Act, and Valkner was a cause of Deerfield Capitals violations of 
+Section 13(b)(2)(A) of the Exchange Act, which requires reporting companies to make and keep 
+books, records, and accounts which, in reasonable detail, accurately and fairly reflect their 
+transactions and dispositions of their assets.  Because Deerfield Capital incorrectly recorded the 
+transactions described above as sales, rather than financings, its books, records and accounts did 
+not, in reasonable detail, accurately and fairly reflect its transactions and dispositions of assets. 
+ 
+              25.        Lastly, as a result of the conduct described above, Deerfield Capital violated 
+Section 13(b)(2)(B) of the Exchange Act, which requires all reporting companies to devise and 
+maintain a system of internal accounting controls sufficient to provide reasonable assurances that 
+transactions are recorded as necessary to permit preparation of financial statements in accordance 
+with generally accepted accounting principles.  Deerfield Capital failed to implement internal 
+accounting controls relating to its transactions in sales and purchases of re-securitizations sufficient 
+to provide reasonable assurances that these accounts were accurately stated in accordance with 
+generally accepted accounting principles.       
+        
+ 
+                                               IV. 
+                                                  
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondents Offers. 
+ 
+       Accordingly, it is hereby ORDERED that: 
+ 
+
+                                                7 
+---------------------Page 8---------------------
+
+                                                                                                               
+ 
+              A.          Pursuant to Section 21C of the Exchange Act, Respondent Deerfield Capital cease 
+and desist from committing or causing any violations and any future violations of Sections 13(a), 
+13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 12b-20, 13a-1, and 13a-13 thereunder.   
+ 
+              B.          Pursuant to Section 21C of the Exchange Act, Respondent Valkner cease and desist 
+from causing any violations and any future violations of Sections 13(a) and 13(b)(2)(A) of the 
+Exchange Act and Rules 12b-20 and 13a-1 thereunder.   
+ 
+        C.          Respondent Deerfield Capital shall, within 15 days of the entry of this Order, pay 
+disgorgement of $977,000 and prejudgment interest of $300,070.36 to the United States Treasury.  
+If timely payment is not made, additional interest shall accrue pursuant to SEC Rule of Practice 
+600.  Payment shall be: (A) made by wire transfer, United States postal money order, certified 
+check, bank cashier's check or bank money order; (B) made payable to the Securities and 
+Exchange Commission; (C) hand-delivered or mailed to the Office of Financial Management, 
+Securities and Exchange Commission, Operations Center, 6432 General Green Way, Stop 0-3, 
+Alexandria, VA 22312; and (D) submitted under cover letter that identifies Respondent Deerfield 
+Capital as a Respondent in these proceedings, the file number of these proceedings, a copy of 
+which cover letter and money order or check shall be sent to Gerald Hodgkins, Associate Director, 
+Division of Enforcement, Securities and Exchange Commission, 100 F St., N.E., Washington, DC 
+20549-6010.   
+         
+ By the Commission. 
+ 
+ 
+       Elizabeth M. Murphy 
+       Secretary 
+
+                                                      8 
+---------------------Page 9---------------------
+
+                                                                                                        
+ 
+                                             Service List 
+ 
+              Rule 141 of the Commission's Rules of Practice provides that the Secretary, or another duly 
+authorized officer of the Commission, shall serve a copy of the Order Instituting Cease-and-Desist 
+Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making Findings, 
+Imposing Remedial Sanctions and a Cease-and-Desist Order ("Order"), on the Respondents and 
+their legal agents. 
+ 
+              The attached Order has been sent to the following parties and other persons entitled to 
+notice: 
+ 
+Honorable Brenda P. Murray                               
+Chief Administrative Law Judge                         
+Securities and Exchange Commission  
+100 F Street, N.E. 
+Washington, DC 20549-2557                       
+ 
+Douglas McAllister, Esq. 
+Enforcement Division     
+Securities and Exchange Commission                
+100 F Street, N.E. 
+Washington, DC 20549-6561                      
+                                                   
+Ms. Danielle Valkner    
+c/o Kevin J. McCall, Esq. 
+Jenner & Block LLP  
+353 N. Clark Street 
+Chicago, IL 60654-3456 
+ 
+Kevin J. McCall, Esq. 
+Jenner & Block LLP  
+353 N. Clark Street 
+Chicago, IL 60654-3456 
+(Counsel for Danielle Valkner) 
+ 
+Deerfield Capital Corp. 
+c/o William R. Baker III 
+Latham & Watkins LLP 
+555 Eleventh Street, N.W. 
+Suite 1000 
+Washington, DC 20004 
+ 
+ 
+
+                                                  9 
+---------------------Page 10---------------------
+
+                                                                                              
+ 
+ 
+ 
+ 
+William R. Baker III 
+Latham & Watkins LLP 
+555 Eleventh Street, N.W. 
+Suite 1000 
+Washington, DC 20004 
+(Counsel for Deerfield Capital Corp.) 
+ 
+
+                                             10 

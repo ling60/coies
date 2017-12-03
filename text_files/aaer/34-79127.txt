@@ -1,0 +1,792 @@
+---------------------Page 1---------------------
+
+                               UNITED STATES OF AMERICA 
+                                           Before the 
+                      SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 79127 / October 20, 2016 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3816 / October 20, 2016 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-17639 
+ 
+                                                  ORDER INSTITUTING  PUBLIC 
+In the Matter of                                  ADMINISTRATIVE AND  CEASE-AND-
+                                                  DESIST PROCEEDINGS PURSUANT TO 
+       FMC TECHNOLOGIES,                          SECTION S 4C AND 21C OF THE 
+       INC., JEFFREY FAVRET,                      SECURITIES EXCHANGE ACT OF 1934   
+       CPA, and STEVEN K .                        AND RULE 102(e) OF THE 
+       CROFT, CPA ,                           COMMISSION’S RULES OF PRACTICE
+                                                                                    
+Respondent s.                                                                                  
+                                                                                            
+        
+                                                I.  
+ 
+       The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities 
+Exchange Act of 1934 (“Exchange Act”), against FMC Technologies, Inc. (“FMCTI”), Jeffrey 
+Favret, CPA (“Favret”), and Steven K. Croft, CPA (“Croft”) (collectively, “Respondents”), and 
+that public administrative proceedings be, and hereby are, instituted against Favret and Croft 
+                      1                                            2
+pursuant to Section 4C  of the Exchange Act and Rule 102(e)(1)(iii)  of the Commission’s Rules of 
+Practice.   
+                                                 
+1
+       Section 4C provides, in relevant part, that:  
+ 
+               The Commission may censure any person, or deny, temporarily or permanently, to any person the 
+               privilege of appearing or practicing before the Commission in any way, if that person is found . . . 
+               (1) not to possess the requisite qualifications to represent others . . . (2) to be lacking in character 
+               or integrity, or to have engaged in unethical or improper professional conduct; or (3) to have 
+               willfully violated, or willfully aided and abetted the violation of, any provision of the securities 
+               laws or the rules and regulations thereunder. 
+ 
+2
+       Rule 102(e)(1)(iii) provides, in pertinent part, that: 
+ 
+               The Commission may . . . deny, temporarily or permanently, the privilege of appearing or 
+               practicing before it . . . to any person who is found…to have willfully violated, or willfully aided 
+               and abetted the violation of any provision of the Federal securities laws or the rules and 
+               regulations thereunder. 
+---------------------Page 2---------------------
+
+                                                   
+                                                 II. 
+ 
+       In anticipation of the institution of these proceedings, Respondents have submitted Offers 
+of Settlement (the “Offers”) which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the findings 
+herein, except as to the Commission’s jurisdiction over them and the subject matter of these 
+proceedings, which are admitted, Respondents consent to the entry of this Order Instituting Public 
+Administrative and Cease-and-Desist Proceedings Pursuant to Sections 4C and 21C of the 
+Securities Exchange Act of 1934 and Rule 102(e) of the Commission’s Rules of Practice, Making 
+Findings and Imposing Remedial Sanctions, Cease-and-Desist Orders and Penalties (“Order”), as 
+set forth below.   
+                                                   
+                                                III. 
+ 
+                                                                                   3
+       On the basis of this Order and Respondents’ Offers, the Commission finds      that:    
+ 
+                                           SUMMARY 
+                                                   
+       This matter involves various books and records and internal accounting controls violations 
+by FMC Technologies, Inc. and two of its former executives: segment controller Jeffrey Favret and 
+his subordinate, business unit controller Steven Croft.   
+        
+       During the first quarter of 2013, Favret and Croft improperly reversed required accruals to 
+improve their segment’s results.  Their improper adjustments, which overstated their segment’s 
+pre-tax operating profits by $800,000 in that period, enabled the segment to meet its internal target.  
+Favret and Croft continued to understate this accrual inappropriately in part of the second quarter 
+of 2013. 
+        
+       Favret and Croft also failed to comply with FMCTI’s internal accounting controls by not 
+reporting internally, as required, that they had corrected a $730,000 error recorded in 2012 that 
+increased their segment’s operating results in the first quarter of 2013.  Within about two weeks of 
+discussing this correction, Favret and Croft signed management representation letters attesting 
+there had been no out-of-period adjustments larger than $250,000 recorded during the period 
+ending March 31, 2013.   
+        
+       Separately, Croft failed to comply with FMCTI’s internal accounting controls by directing 
+that his business unit switch to a new accounting system before obtaining assurance that the new 
+system would operate properly.  This failure resulted in errors that significantly overstated the 
+segment’s results in two quarterly periods in 2014.     
+
+                                                 
+3
+       The findings herein are made pursuant to Respondents’ Offers of Settlement and are not binding on any 
+other person or entity in this or any other proceeding.   
+ 
+ 
+                                                   
+                                                 2 
+---------------------Page 3---------------------
+
+        
+       FMCTI committed other books and records and internal accounting controls violations as 
+well.  Another business that FMCTI acquired in 2012 failed to account properly for the same 
+accrual account that Favret and Croft used improperly.  And FMCTI improperly accounted for 
+interest income associated with certain large intercompany loans, which resulted in an $8 million 
+out-of-period adjustment in 2014. 
+ 
+                                         RESPONDENTS 
+ 
+       1.      FMC Technologies, Inc., a Delaware corporation headquartered in Houston, Texas, 
+describes itself as a global provider of technology solutions for the energy industry.  FMCTI is a 
+Fortune 500 company whose common stock is registered with the Commission pursuant to Section 
+12(b) of the Securities Act of 1933 and trades on the New York Stock Exchange.  FMCTI has 
+three reporting segments: Subsea Technologies, Surface Technologies, and Energy Infrastructure.  
+Energy Infrastructure is FMCTI’s smallest segment.  During most of the relevant period, Jeffrey 
+Favret was Energy Infrastructure’s controller.  During 2012, Energy Infrastructure acquired 
+Automation & Control (“A&C”) as a new business unit.  Steven Croft was A&C’s controller.  
+
+       2.      Jeffrey Favret, CPA, 55, is a resident of Spring, Texas and holds a Louisiana CPA 
+license, which expired in 2012.  From May 2012 until May 2013, Favret was the controller of 
+FMCTI's Energy Infrastructure segment. 
+
+       3.      Steven K. Croft, CPA, 42, is a resident of Manhattan, Kansas and holds an inactive 
+Louisiana CPA license.  Croft is currently the controller of a private company.  Croft served as 
+FMCTI’s consolidations and reporting manager from April 2010 until mid-2012, when he became 
+the controller of Automation & Control (“A&C”), a newly acquired FMCTI business unit in the 
+company’s Energy Infrastructure segment.  As controller of A&C, Croft reported to Segment 
+Controller Jeffrey Favret until Favret’s departure from FMCTI in May 2013. 
+
+                                              FACTS 
+
+Favret’s and Croft’s Manipulation of a Paid Time Off Account to Improve Segment Results 
+
+FMCTI’s Paid Time Off Policy 
+
+       4.      FMCTI has an atypical paid time off ("PTO") policy in that employees earn their 
+full-year PTO allowances on January 1 of each year, instead of ratably in each pay period.  For 
+example, whereas in most companies, an employee who receives 12 days of PTO per year earns 1 
+day of leave each month, an FMCTI employee with the same amount of PTO would earn the entire 
+12 days on January 1.  If that employee were to resign from FMCTI on January 2, she would be 
+paid for all 12 days.  Because this liability accrues on January 1, Generally Accepted Accounting 
+Principles (“GAAP”) require FMCTI to establish a reserve for its full-year PTO liabilities as of 
+          4
+January 1.    Throughout the relevant period, FMCTI   had internal accounting policies, described as 
+"Financial Standards ," which   specified that PTO accruals must be maintained in this manner.    
+                                                   
+4
+       ASC 710-10-25-1 Compensated Absences, states that “An employer shall accrue a liability for employees’ 
+compensation for future absences if . . . [t]he obligation relates to rights that vest or accumulate.” 
+                                                   
+                                                 3 
+---------------------Page 4---------------------
+
+        
+        
+       5.     Like many employers, FMCTI allowed its employees to roll over a certain amount 
+of unused PTO from one year to the next.  GAAP required FMCTI's PTO accounts to hold the full 
+year PTO liabilities for the current year as well as the amount of unused PTO employees were 
+allowed to carry from the prior year (the "roll-over") on January 1 of each year. 
+
+Croft Records the Required PTO Accruals. 
+
+       6.     In May 2012, FMCTI acquired a private company that it renamed Automation and 
+Control ("A&C").  A&C had a traditional PTO policy wherein employees earned their leave over 
+the course of each year.  A&C accrued this liability ratably.  A&C continued using this PTO policy 
+throughout 2012.   
+        
+       7.     FMCTI required A&C to adopt FMCTI's PTO policy as of January 1, 2013.  
+Consequently, on January 1, 2013, A&C was required to record an accrual for its full-year 2013 
+PTO liability, while also maintaining an accrual for the 2012 PTO roll-over. 
+        
+       8.     As A&C's controller, Croft was responsible for ensuring that the business unit was 
+appropriately accounting for its PTO liability.  Because he was new to the role, Croft consulted in 
+January 2013 with a long-time FMCTI employee to determine what accrual he needed to establish 
+for A&C's 2013 PTO liability.  At that point, FMCTI's PTO accrual included only the 2012 roll-
+over ($223,000).  They concluded that A&C was required to also accrue the entire amount of its 
+full-year 2013 PTO liability ($928,000).  In late January 2013, Croft directed his staff to accrue this 
+additional liability.   
+
+Favret and Croft Revise A&C's Approach to the PTO Accrual. 
+
+       9.     The 2013 PTO accrual had a significant, negative impact on not only A&C's 
+January results, but on the Energy Infrastructure segment's results as well.  Favret and other 
+executives in the segment were under pressure from the head of Energy Infrastructure to "push" 
+their teams "to discomfort" to make up for lower revenues and earnings, and Favret began to 
+question whether it was necessary for A&C to record the entire 2013 PTO accrual in January.   
+
+       10.    In early February 2013, Favret and Croft decided – without consulting FMCTI's 
+corporate accounting office – to accrue for A&C's 2013 PTO liability ratably over the course of 
+2013, instead of accruing the liability all at once.  Croft then directed a subordinate to reduce 
+A&C's 2013 PTO accrual by almost $800,000, leaving only the 2012 roll-over accrual ($223,000) 
+plus two-twelfths (representing two months' worth of accruals) of the full-year 2013 accrual 
+($154,667).  This method of accruing for A&C’s PTO liability did not comply with FMCTI’s 
+accounting policy and resulted in an understatement of the required liability, which was not in 
+compliance with GAAP. 
+        
+       11.    Neither Favret nor Croft ever sought or received guidance, much less approval, 
+from FMCTI’s corporate accounting office before adopting this new approach.     
+        
+
+                                                 
+                                                4 
+---------------------Page 5---------------------
+
+       12.    In mid-March 2013, an FMCTI internal audit manager conducting a review of 
+A&C advised Croft that his business unit needed to record the full 2013 PTO accrual. 
+
+Favret and Croft Revise the Approach Again, Completely Eliminating the 2013 PTO Accrual. 
+
+       13.    During the quarterly closing process in April 2013, Favret and Croft again sought to 
+improve results for the first quarter.  The head of Energy Infrastructure directed Favret to "push 
+everyone for a couple of hundred k each above their stretch" and to "[s]ee if you can scratch out 
+100k somewhere" and told Favret to "keep following up with [Croft] please - has to be more 
+there."   
+        
+       14.    During this effort, Croft informed Favret that A&C's results may be even lower 
+than they had anticipated.  Croft warned Favret that A&C's bonus accrual was not sufficient to 
+cover a larger-than-expected bonus payout for 2012.   
+        
+       15.    To improve the segment's results, Favret and Croft decided during early April 2013 
+to eliminate A&C's 2013 PTO accrual entirely.  Doing so left only the 2012 roll-over accrual 
+($223,000) on A&C's general ledger for the quarter ended March 31, 2013.  
+        
+       16.    The failure to accrue anything for A&C’s 2013 PTO liability meant FMCTI’s 
+accrued liability for PTO was understated and was not in compliance with GAAP.  
+        
+       17.    By not accruing anything for the 2013 PTO liability, Favret and Croft overstated 
+the Energy Infrastructure segment's operating profits by about 10 percent for the quarter ended 
+March 31, 2013 and allowed the company to claim that the segment's operating profit as a 
+percentage of revenue had increased from 6.8 percent to 7.4 percent as compared to the prior year’s 
+first quarter.  But for Favret and Croft's misconduct, Energy Infrastructure's operating profit as a 
+percentage of revenue would have decreased to 6.7 percent. 
+        
+       18.    Croft eliminated the 2013 PTO accrual at Favret's direction.  After Favret and Croft 
+“scrubbed” A&C’s quarterly numbers together, Favret reported to the head of the Energy 
+Infrastructure segment that he had changed Croft’s computation for PTO, which subsequently 
+reflected no accrual for 2013.  Croft did not seek advice from anyone in FMCTI's internal audit or 
+corporate accounting group even though an FMCTI internal audit manager had recently told him 
+that A&C needed to have the full 2013 PTO accrual on its books and even though Croft was in 
+contact with FMCTI's corporate accounting group at that time on other issues. 
+        
+       19.    One of FMCTI’s internal accounting controls required segment and business unit 
+controllers to certify whether all significant liabilities, including accounts payable and payroll, had 
+been properly recorded.  Both Favret and Croft signed quarterly management representation letters 
+to FMCTI’s corporate controller on April 15, 2013 and April 11, 2013, respectively, in which they 
+represented that all such liabilities had been properly recorded.  
+
+                                                  
+                                                5 
+---------------------Page 6---------------------
+
+Favret and Croft Revise the Approach Yet Again, Using the 2012 Rollover Accrual to Improve 
+April 2013 Results. 
+
+       20.    During April 2013, Favret and Croft reduced A&C's PTO accrual yet again.  With 
+nothing left on the books for A&C's 2013 PTO liability, this time they decided to release most of 
+the 2012 PTO rollover.  The new approach was to accrue the 2012 PTO rollover ratably such that 
+A&C would not be fully accrued for this liability, which clearly existed as of the end of 2012, until 
+the end of 2013.   
+
+       21.    After discussing with Favret, Croft directed a subordinate to reverse all but one-
+third ($74,357) of the 2012 PTO rollover ($223,000) that had remained on A&C's books at the end 
+of the first quarter.  This action improved A&C's income by nearly $150,000 for the month.   
+        
+       22.    The change in methodology to a ratable accrual of the 2012 rollover and the failure 
+to accrue anything for A&C’s 2013 PTO liability, meant FMCTI was not in compliance with 
+GAAP.   
+
+FMCTI Re-Establishes A&C's 2013 PTO Accrual and the 2012 Roll-Over. 
+
+       23.    FMCTI's corporate accounting group learned about the issues with A&C's PTO 
+accrual in late May or early June 2013.   Before the end of the second quarter, the corporate 
+accounting group directed A&C to re-establish its full-year 2013 PTO accrual and the 2012 
+rollover accrual by adding $1.18 million to A&C's vacation accrual account. 
+
+             Schilling Robotics' Improper Accounting for its 2013 PTO Liability 
+
+       24.    Schilling Robotics was another entity FMCTI acquired in 2012 that, like A&C, 
+adopted FMCTI's PTO policy on January 1, 2013.  Schilling, which was part of FMCTI's Subsea 
+segment, also failed to properly accrue for its PTO liabilities in accordance with GAAP and 
+FMCTI's accounting policies.  Upon adoption of FMCTI’s benefits program, Schilling took ratable 
+accruals for its PTO liability throughout 2013 rather than recording the entire 2013 PTO liability 
+($1.4 million) as of January 1, 2013.   
+
+  Favret and Croft Fail to Report Internally an Out-of-Period Adjustment as Required by 
+                                 FMCTI’s Internal Controls. 
+
+       25.    On March 30, 2013, during the same quarter in which Favret and Croft eliminated 
+A&C's 2013 PTO accrual, Croft sought approval from Favret to capitalize $730,000 in research 
+and development costs that A&C had previously expensed in 2012.  This spending should have 
+been capitalized as incurred during 2012.  Favret approved the capitalization, which corrected the 
+earlier accounting treatment.  Favret directed Croft to reverse the $730,000 into income and 
+capitalize the research and development costs.  Though FMCTI's corporate accounting office had, 
+only three weeks earlier, notified Favret that FMCTI's threshold for reporting internally out of 
+period adjustments was $250,000 (pre-tax), he instructed Croft that the $730,000 was "not material 
+enough to call an out of period charge."   
+        
+                                                 
+                                               6 
+---------------------Page 7---------------------
+
+       26.    One of FMCTI's internal accounting controls was to require segment and business 
+unit controllers to certify whether they had made accounting entries during any given quarter over 
+the $250,000 threshold that related to a prior period.  Both Favret and Croft signed quarterly 
+management representation letters to FMCTI's corporate controller on April 15, 2013 and April 11, 
+2013, respectively, in which they represented that they had made no such entries.  These statements 
+were false.  Both Favret and Croft knew that A&C had recorded the $730,000 adjustment related to 
+2012 less than two weeks prior.   
+
+            Croft's Additional Failure to Comply with FMCTI's Internal Controls 
+
+       27.    In January 2014, A&C implemented a new accounting system to replace a legacy 
+accounting system that required the business unit to calculate revenue manually.  FMCTI's internal 
+accounting controls required that A&C either adequately test the new system before relying on it or 
+maintain the old and new systems in parallel until the new system proved reliable.  Despite this, 
+Croft discontinued the legacy system as soon as the new accounting system became operable, 
+before it was tested and found to be working reliably.   
+        
+       28.    During A&C's transition to the new system, contractors made errors in using the 
+new system that resulted in the Energy Infrastructure segment improperly recognizing $6.7 million 
+in revenue.  These errors went undetected for two quarters, causing overstatements in the Energy 
+Infrastructure segment's operating results in FMCTI's Forms 10-Q for the quarters ended March 
+31, 2014 and June 30, 2014. 
+
+Internal Controls Failures in Recording Inter-Company Loans Result in Additional Out-of-
+                                      Period Adjustments. 
+
+       29.    As part of an April 2012 tax restructuring of FMC subsidiaries in Europe, FMC’s 
+Luxembourg subsidiary, which functions in U.S. dollars, made an 11.5 billion Norwegian Kroner 
+(NOK) inter-company loan to FMC’s Norwegian subsidiary, which functions in NOK.  The loan 
+between the two subsidiaries was considered to be part of FMC’s net investment in the Norwegian 
+subsidiary under GAAP within FMCTI’s consolidated financial statements, which meant that only 
+the interest income and accrued interest receivable (and not the principal balance) needed to be re-
+                                            5
+measured quarterly for currency fluctuations.       
+        
+       30.    FMCTI's Luxembourg entity did not, however, perform the required re-
+measurements.  Due to a lack of internal accounting controls for non-routine tax transactions, the 
+Luxembourg entity recorded its interest income receivable along with the loan principal in a 
+general ledger account that did not automatically re-measure for currency fluctuations.  As a result, 
+the entity failed to re-measure the interest payments from NOK into U.S. dollars from the time of 
+the loan's inception in April 2012 until the accounting error was discovered in the third quarter of 
+2014.  The Norwegian entity also failed to make the necessary interest payments to the 
+Luxembourg entity, triggering penalties that also needed to be re-measured.  The required re-
+measurement of the penalties and interest required FMCTI to record an unrealized foreign currency 
+
+                                                 
+5
+       See ASC 830-20-35-2 through 35-4. 
+                                                  
+                                                7 
+---------------------Page 8---------------------
+
+loss of $20.9 million in the quarter ended September 30, 2014, $8.1 million of which was an out-
+of-period adjustment to correct the prior failures to re-measure. 
+
+                                         VIOLATIONS 
+        
+       31.    Exchange Act Section 13(b)(2)(A) requires reporting companies to make and keep 
+books, records, and accounts which, in reasonable detail, accurately and fairly reflect their 
+transactions and the dispositions of their assets. 
+
+       32.    Exchange Act Section 13(b)(2)(B) requires all reporting companies to devise and 
+maintain a system of internal accounting controls sufficient to provide reasonable assurances that 
+transactions are recorded as necessary to permit preparation of financial statements in accordance 
+with GAAP. 
+
+       33.    Exchange Act Section 13(b)(5) provides that no person shall knowingly circumvent 
+or knowingly fail to implement a system of internal accounting controls or knowingly falsify any 
+book, record, or account. 
+
+       34.    Exchange Act Rule 13b2-1 provides that no person shall, directly or indirectly, 
+falsify or cause to be falsified, any book, record or account subject to Exchange Act Section 
+13(b)(2)(A). 
+
+       35.    As a result of the conduct described above, FMCTI violated Exchange Act Sections 
+13(b)(2)(A) and 13(b)(2)(B) because it failed to make and keep appropriate books and records and 
+devise and maintain a system of internal accounting controls sufficient to provide reasonable 
+assurances that its newly acquired business units recorded the necessary accruals for their PTO 
+liabilities, reported out-of-period adjustments, appropriately tested new revenue calculation 
+systems before discontinuing old systems, and properly recorded inter-company loans. 
+
+       36.    As a result of the conduct described above, Favret violated Exchange Act Section 
+13(b)(5) and Exchange Act Rule 13b2-1 and caused FMCTI’s violations of Exchange Act Sections 
+13(b)(2)(A) and 13(b)(2)(B) because he willfully manipulated FMCTI’s PTO accrual and failed to 
+report an out-of-period adjustment. 
+
+       37.    As a result of the conduct described above, Croft violated Exchange Act Section 
+13(b)(5) and Exchange Act Rule 13b2-1 and caused FMCTI’s violations of Exchange Act Sections 
+13(b)(2)(A) and 13(b)(2)(B) because he willfully manipulated FMCTI’s PTO accrual, failed to 
+report an out-of-period adjustment, and discontinued A&C’s old revenue calculation system before 
+the new system was found to be working properly. 
+
+                                                 
+                                                8 
+---------------------Page 9---------------------
+
+                                          FINDINGS 
+
+       38.    Based on the foregoing, the Commission finds that FMCTI violated 
+Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act. 
+
+       39.    Based on the foregoing, the Commission finds that Favret (a) willfully violated 
+Section 13(b)(5) of the Exchange Act and Exchange Act Rule 13b2-1; and (b) willfully aided and 
+abetted and caused FMCTI’s violations of Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange 
+Act. 
+
+       40.    Based on the foregoing, the Commission finds that Croft (a) willfully violated 
+Section 13(b)(5) of the Exchange Act and Exchange Act Rule 13b2-1; and (b) willfully aided and 
+abetted and caused FMCTI’s violations of Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange 
+Act. 
+
+                                      UNDERTAKINGS 
+
+Respondent FMCTI undertakes to: 
+
+       41.    Cooperate fully with the Commission in any and all investigations, litigations, or 
+other proceedings relating to or arising from the matters described in the Order.  In connection with 
+such cooperation, Respondent FMCTI shall: 
+
+               a.      Produce, without service of a notice or subpoena, any and all non-privileged 
+       documents and other information requested by the Commission staff subject to any 
+       restrictions under the law of any foreign jurisdiction; 
+
+               b.     Use its best efforts to cause its officers, employees, and directors to be 
+       interviewed by Commission staff at such times and places as the staff reasonably may 
+       direct; 
+
+               c.      Use its best efforts to cause its officers, employees, and directors to appear 
+       and testify without service of a notice or subpoena in such investigations, depositions, 
+       hearings, or trials as may be requested by the Commission staff; and 
+
+               d.     In connection with any testimony of Respondent FMCTI’s officers, 
+       employees, and directors to be conducted at deposition, hearing, or trial pursuant to a notice 
+       or subpoena, Respondent FMCTI: 
+
+                     i.  Agrees that any such notice or subpoena for Respondent FMCTI’s 
+               officers’, employees’, and directors’ appearance and testimony may be served by 
+               regular or electronic mail on: John C. Wander, Esq., Vinson & Elkins LLP, 2001 
+               Ross Avenue, Suite 3700, Dallas, Texas 75201-2975; jwander@VELaw.com; and 
+
+                    ii.  Agrees that any such notice or subpoena for Respondent FMCTI’s 
+               officers’, employees’, and directors’ appearance and testimony in any action 
+               pending in a United States District Court may be served, and may require 
+
+                                                 
+                                                9 
+---------------------Page 10---------------------
+
+               testimony, beyond the territorial limits imposed by the Federal Rules of Civil 
+               Procedure. 
+
+Respondent Favret undertakes to: 
+
+       42.    Cooperate fully with the Commission in any and all investigations, litigations, or 
+other proceedings relating to or arising from the matters described in the Order.  In connection with 
+such cooperation, Respondent Favret shall: 
+
+               a.      Produce, without service of a notice or subpoena, any and all non-privileged 
+                      documents and other information requested by the Commission staff subject 
+                      to any restrictions under the law of any foreign jurisdiction; 
+
+               b.      Appear and be interviewed by Commission staff at such times and places as 
+                      the staff reasonably may direct; 
+
+               c.      Appear and testify without service of a notice or subpoena in such 
+                      investigations, depositions, hearings, or trials as may be requested by the 
+                      Commission staff; and 
+
+               d.      In connection with any testimony of Respondent to be conducted at 
+                      deposition, hearing, or trial pursuant to a notice or subpoena, Respondent 
+                      Favret: 
+
+                     i.  Agrees that any such notice or subpoena for Respondent Favret’s 
+               appearance and testimony may be served by regular or electronic mail on: Kenneth 
+               P. Held, Esq., Schiffer Odom Hicks & Johnson PLLC, 700 Louisiana St., Suite 
+               1200, Houston, TX 77002; kheld@sohjlaw.com; and 
+
+                    ii.  Agrees that any such notice or subpoena for Respondent Favret’s 
+               appearance and testimony in any action pending in a United States District Court 
+               may be served, and may require testimony, beyond the territorial limits imposed by 
+               the Federal Rules of Civil Procedure. 
+
+Respondent Croft undertakes to: 
+
+       43.    Cooperate fully with the Commission in any and all investigations, litigations, or 
+other proceedings relating to or arising from the matters described in the Order.  In connection with 
+such cooperation, Respondent Croft shall: 
+
+               e.      Produce, without service of a notice or subpoena, any and all non-privileged 
+                      documents and other information requested by the Commission staff subject 
+                      to any restrictions under the law of any foreign jurisdiction; 
+
+               f.      Appear and be interviewed by Commission staff at such times and places as 
+                      the staff reasonably may direct; 
+
+                                                  
+                                                10 
+---------------------Page 11---------------------
+
+               g.     Appear and testify without service of a notice or subpoena in such 
+                      investigations, depositions, hearings, or trials as may be requested by the 
+                      Commission staff; and 
+
+               h.     In connection with any testimony of Respondent to be conducted at 
+                      deposition, hearing, or trial pursuant to a notice or subpoena, Respondent 
+                      Croft: 
+
+                   iii.  Agrees that any such notice or subpoena for Respondent Croft’s 
+               appearance and testimony may be served by regular or electronic mail on: Josh 
+               Roseman, Esq., Jones Day, 2727 N. Harwood Street, Dallas, Texas 75201; 
+               jsroseman@JonesDay.com; and 
+
+                    iv.  Agrees that any such notice or subpoena for Respondent Croft’s 
+               appearance and testimony in any action pending in a United States District Court 
+               may be served, and may require testimony, beyond the territorial limits imposed by 
+               the Federal Rules of Civil Procedure. 
+
+       In determining whether to accept the Respondents’ Offers, the Commission has considered 
+these undertakings.  
+
+                                               IV. 
+                                                 
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondent FMCTI’s, Respondent Favret’s and Respondent Croft’s Offers. 
+ 
+       Accordingly, it is hereby ORDERED, effective immediately, that: 
+ 
+       A.     FMCTI Technologies, Inc. shall cease and desist from committing or causing any 
+violations and any future violations of Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act. 
+
+       B.     Jeffrey Favret shall cease and desist from committing or causing any violations and 
+any future violations of Sections 13(b)(2)(A), 13(b)(2)(B), and 13(b)(5) of the Exchange Act and 
+Exchange Act Rule 13b2-1. 
+
+       C.     Favret is denied the privilege of appearing or practicing before the Commission as 
+an accountant.  After two years from the date of this order, Favret may request that the Commission 
+consider his reinstatement by submitting an application (attention: Office of the Chief Accountant) 
+to resume appearing or practicing before the Commission as: 
+
+               1.     a preparer or reviewer, or a person responsible for the preparation or 
+       review, of any public company’s financial statements that are filed with the Commission.  
+       Such an application must satisfy the Commission that Favret’s work in his practice before 
+       the Commission will be reviewed either by the independent audit committee of the public 
+       company for which he works or in some other acceptable manner, as long as he practices 
+       before the Commission in this capacity; and/or 
+
+                                                 
+                                               11 
+---------------------Page 12---------------------
+
+               2.     an independent accountant.  Such an application must satisfy the 
+       Commission that: 
+
+                      (a)       Favret, or the public accounting firm with which he is associated, 
+               is registered with the Public Company Accounting Oversight Board (“Board”) in 
+               accordance with the Sarbanes-Oxley Act of 2002, and such registration continues 
+               to be effective; 
+
+                      (b)      Favret, or the registered public accounting firm with which he is 
+               associated, has been inspected by the Board and that inspection did not identify 
+               any criticisms of or potential defects in Favret’s or the firm’s quality control 
+               system that would indicate that Favret will not receive appropriate supervision; 
+
+                      (c)       Favret has resolved all disciplinary issues with the Board, and has 
+               complied with all terms and conditions of any sanctions imposed by the Board 
+               (other than reinstatement by the Commission); and 
+
+                      (d)      Favret acknowledges his responsibility, as long as Favret appears 
+               or practices before the Commission as an independent accountant, to comply with 
+               all requirements of the Commission and the Board, including, but not limited to, 
+               all requirements relating to registration, inspections, concurring partner reviews 
+               and quality control standards.   
+
+       D.     The Commission will consider an application by Favret to resume appearing or 
+practicing before the Commission provided that his state CPA license is current and he has 
+resolved all other disciplinary issues with the applicable state boards of accountancy.  However, 
+if state licensure is dependent on reinstatement by the Commission, the Commission will 
+consider an application on its other merits.  The Commission’s review may include consideration 
+of, in addition to the matters referenced above, any other matters relating to Favret’s character, 
+integrity, professional conduct, or qualifications to appear or practice before the Commission. 
+
+       E.     Steven K. Croft shall cease and desist from committing or causing any violations 
+and any future violations of Sections 13(b)(2)(A), 13(b)(2)(B), and 13(b)(5) of the Exchange Act 
+and Exchange Act Rule 13b2-1. 
+
+       F.     Croft is denied the privilege of appearing or practicing before the Commission as an 
+accountant.  After two years from the date of this order, Croft may request that the Commission 
+consider his reinstatement by submitting an application (attention: Office of the Chief Accountant) 
+to resume appearing or practicing before the Commission as: 
+
+               1.     a preparer or reviewer, or a person responsible for the preparation or 
+       review, of any public company’s financial statements that are filed with the Commission.  
+       Such an application must satisfy the Commission that Croft’s work in his practice before 
+       the Commission will be reviewed either by the independent audit committee of the public 
+       company for which he works or in some other acceptable manner, as long as he practices 
+       before the Commission in this capacity; and/or 
+
+                                                  
+                                               12 
+---------------------Page 13---------------------
+
+               2.     an independent accountant.  Such an application must satisfy the 
+       Commission that: 
+
+                      (a)       Croft, or the public accounting firm with which he is associated, 
+               is registered with the Public Company Accounting Oversight Board (“Board”) in 
+               accordance with the Sarbanes-Oxley Act of 2002, and such registration continues 
+               to be effective; 
+
+                      (b)      Croft, or the registered public accounting firm with which he is 
+               associated, has been inspected by the Board and that inspection did not identify 
+               any criticisms of or potential defects in Croft’s or the firm’s quality control 
+               system that would indicate that Croft will not receive appropriate supervision; 
+
+                      (c)       Croft has resolved all disciplinary issues with the Board, and has 
+               complied with all terms and conditions of any sanctions imposed by the Board 
+               (other than reinstatement by the Commission); and 
+
+                      (d)      Croft acknowledges his responsibility, as long as Croft appears or 
+               practices before the Commission as an independent accountant, to comply with all 
+               requirements of the Commission and the Board, including, but not limited to, all 
+               requirements relating to registration, inspections, concurring partner reviews and 
+               quality control standards.   
+
+       G.     The Commission will consider an application by Croft to resume appearing or 
+practicing before the Commission provided that his state CPA license is current and he has 
+resolved all other disciplinary issues with the applicable state boards of accountancy.  However, 
+if state licensure is dependent on reinstatement by the Commission, the Commission will 
+consider an application on its other merits.  The Commission’s review may include consideration 
+of, in addition to the matters referenced above, any other matters relating to Croft’s character, 
+integrity, professional conduct, or qualifications to appear or practice before the Commission. 
+
+       H.     FMCTI shall, within 10 days of the entry of this Order, pay a civil money penalty in 
+the amount of $2,500,000.00 to the Securities and Exchange Commission for transfer to the 
+general fund of the United States Treasury, subject to Exchange Act Section 21F(g)(3).  If timely 
+payment is not made, additional interest shall accrue pursuant to 31 U.S.C. §3717.   
+
+ Payment must be made in one of the following ways:   
+ 
+               (1)    Respondent FMCTI may transmit payment electronically to the 
+                      Commission, which will provide detailed ACH transfer/Fedwire 
+                      instructions upon request;  
+                
+               (2)    Respondent FMCTI may make direct payment from a bank account via 
+                      Pay.gov through the SEC website at 
+                      http://www.sec.gov/about/offices/ofm.htm; or  
+                
+
+                                                 
+                                               13 
+---------------------Page 14---------------------
+
+              (3)     Respondent FMCTI may pay by certified check, bank cashier’s check, or 
+                      United States postal money order, made payable to the Securities and 
+                      Exchange Commission and hand-delivered or mailed to:  
+ 
+                                          Enterprise Services Center 
+                                         Accounts Receivable Branch 
+                                       HQ Bldg., Room 181, AMZ-341 
+                                      6500 South MacArthur Boulevard 
+                                          Oklahoma City, OK 73169 
+ 
+       Payments by check or money order must be accompanied by a cover letter identifying 
+FMC Technologies, Inc. as a Respondent in these proceedings, and the file number of these 
+proceedings; a copy of the cover letter and check or money order must be sent to Rami Sibay, 
+Division of Enforcement, Securities and Exchange Commission, 100 F St., NE, Washington, DC 
+20549.   
+ 
+       I.      Respondent Favret shall, within 10 days of the entry of this Order, pay a civil 
+money penalty in the amount of $30,000.00 to the Securities and Exchange Commission for 
+transfer to the general fund of the United States Treasury, subject to Exchange Act Section 
+21F(g)(3).  If timely payment is not made, additional interest shall accrue pursuant to 31 U.S.C. 
+§3717.   
+
+ Payment must be made in one of the following ways:   
+ 
+              (1)     Respondent Favret may transmit payment electronically to the Commission, 
+                      which will provide detailed ACH transfer/Fedwire instructions upon 
+                      request;  
+               
+              (2)     Respondent Favret may make direct payment from a bank account via 
+                      Pay.gov through the SEC website at 
+                      http://www.sec.gov/about/offices/ofm.htm; or  
+               
+              (3)     Respondent Favret may pay by certified check, bank cashier’s check, or 
+                      United States postal money order, made payable to the Securities and 
+                      Exchange Commission and hand-delivered or mailed to:  
+ 
+                                          Enterprise Services Center 
+                                         Accounts Receivable Branch 
+                                       HQ Bldg., Room 181, AMZ-341 
+                                      6500 South MacArthur Boulevard 
+                                          Oklahoma City, OK 73169 
+ 
+       Payments by check or money order must be accompanied by a cover letter identifying 
+Jeffrey Favret as a Respondent in these proceedings, and the file number of these proceedings; a 
+copy of the cover letter and check or money order must be sent to Rami Sibay, Division of 
+Enforcement, Securities and Exchange Commission, 100 F St., NE, Washington, DC 20549. 
+                                                
+                                              14 
+---------------------Page 15---------------------
+
+       J.      Respondent Steven K. Croft shall pay civil penalties of $10,000.00, to the 
+Securities and Exchange Commission for transfer to the general fund of the United States 
+Treasury, subject to Exchange Act Section 21F(g)(3).  If timely payment is not made, additional 
+interest shall accrue pursuant to 31 U.S.C. § 3717.  Payment shall be made in installments 
+according to the following schedule:  (1) $2,500.00 within 14 days of the entry of this Order; (2) 
+$1,500.00 by December 31, 2016; (3) $1,500.00 by March 31, 2017; (4) $1,500.00 by June 30, 
+2017; (5) $1,500.00 by September 30, 2017; and (6) $1,500.00 by December 31, 2017.  Payments 
+shall be deemed made on the date they are received by the Commission and shall be applied first to 
+post judgment interest, which accrues pursuant to 31 U.S.C. § 3717 on any unpaid amounts due 
+after 14 days of the entry of this Order.  Prior to making the final payment set forth herein, 
+Respondent shall contact the staff of the Commission for the amount due for final payment.  If any 
+payment is not made by the date the payment is required according the schedule set forth above, 
+the entire outstanding balance of civil penalties, plus any additional interest accrued pursuant to 31 
+U.S.C. § 3717, shall be due and payable immediately, without further application.   
+
+Payment must be made in one of the following ways:   
+ 
+               (1)    Respondent Croft may transmit payment electronically to the Commission, 
+                      which will provide detailed ACH transfer/Fedwire instructions upon 
+                      request;  
+                
+               (2)    Respondent Croft may make direct payment from a bank account via 
+                      Pay.gov through the SEC website at 
+                      http://www.sec.gov/about/offices/ofm.htm; or  
+                
+               (3)    Respondent Croft may pay by certified check, bank cashier’s check, or 
+                      United States postal money order, made payable to the Securities and 
+                      Exchange Commission and hand-delivered or mailed to:  
+ 
+                                           Enterprise Services Center 
+                                          Accounts Receivable Branch 
+                                        HQ Bldg., Room 181, AMZ-341 
+                                       6500 South MacArthur Boulevard 
+                                           Oklahoma City, OK 73169 
+ 
+       Payments by check or money order must be accompanied by a cover letter identifying 
+Steven Croft as a Respondent in these proceedings, and the file number of these proceedings; a 
+copy of the cover letter and check or money order must be sent to Rami Sibay, Division of 
+Enforcement, Securities and Exchange Commission, 100 F St., NE, Washington, DC 20549. 
+
+       K.     Amounts ordered to be paid as civil money penalties pursuant to this Order shall be 
+treated as penalties paid to the government for all purposes, including all tax purposes.  To 
+preserve the deterrent effect of the civil penalties, Respondents agree that in any Related Investor 
+Action, they shall not argue that they are entitled to, nor shall they benefit by, offset or reduction of 
+any award of compensatory damages by the amount of any part of Respondents’ payment of civil 
+penalties in this action ("Penalty Offset").  If the court in any Related Investor Action grants such a 
+
+                                                  
+                                               15 
+---------------------Page 16---------------------
+
+Penalty Offset, Respondents agree that they shall, within 30 days after entry of a final order 
+granting the Penalty Offset, notify the Commission's counsel in this action and pay the amount of 
+the Penalty Offset to the Securities and Exchange Commission.  Such a payment shall not be 
+deemed an additional civil penalty and shall not be deemed to change the amount of the civil 
+penalty imposed in this proceeding.  For purposes of this paragraph, a "Related Investor Action" 
+means a private damages action brought against Respondents by or on behalf of one or more 
+investors based on substantially the same facts as alleged in the Order instituted by the 
+Commission in this proceeding. 
+
+                                                V. 
+
+       It is further Ordered that, solely for purposes of exceptions to discharge set forth in Section 
+523 of the Bankruptcy Code, 11 U.S.C. §523, the findings in this Order are true and admitted by 
+Respondents Jeffrey Favret and Steven K. Croft, and further, any debt for disgorgement, 
+prejudgment interest, civil penalty or other amounts due by Respondents Favret and Croft under 
+this Order or any other judgment, order, consent order, decree or settlement agreement entered in 
+connection with this proceeding, is a debt for the violation by Respondents Favret and Croft of the 
+federal securities laws or any regulation or order issued under such laws, as set forth in Section 
+523(a)(19) of the Bankruptcy Code, 11 U.S.C. §523(a)(19). 
+
+        
+       By the Commission. 
+ 
+ 
+                                                     Brent J. Fields 
+                                                     Secretary 
+
+                                                  
+                                                16 

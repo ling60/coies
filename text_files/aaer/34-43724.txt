@@ -1,0 +1,297 @@
+Release No.
+43724 / December 14, 2000 (Microstrategy)
+Home | Previous Page
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No.
+43724 / December 14, 2000
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No.
+1350 / December 14, 2000
+ADMINISTRATIVE PROCEEDING
+File No.
+3-10388
+In the Matter of
+MICROSTRATEGY, INC.
+Respondent.
+ORDER INSTITUTING PUBLIC PROCEEDINGS PURSUANT TO SECTION 21C OF THE SECURITIES EXCHANGE ACT OF 1934, MAKING FINDINGS, REMEDIAL SANCTIONS AND IMPOSING A CEASE-AND-DESIST ORDER
+I.
+The Securities and Exchange Commission ("Commission") deems it appropriate
+that public administrative proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities Exchange Act of 1934 ("Exchange Act") to determine whether MicroStrategy, Inc. ("MicroStrategy") violated or caused violations of Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder.1
+II.
+In anticipation of the institution of these administrative proceedings, MicroStrategy has submitted an Offer of Settlement ("Offer") that the Commission has determined to accept.
+Solely for the purposes of these proceedings and any other proceedings brought by or on behalf of the Commission or to which the Commission is a party, and without admitting or denying the findings contained herein, except as to jurisdiction over it and over the subject matter of these proceedings, which MicroStrategy admits, MicroStrategy consents to the entry of this Order Instituting Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making Findings, Remedial Sanctions and Imposing a Cease-and-Desist Order ("Order").
+The Commission has determined that it is appropriate to accept the Offer of MicroStrategy and accordingly is issuing this Order.
+III.
+FACTS
+Based on the foregoing, the Commission finds that:2
+A. Respondent
+MicroStrategy, Inc. is a Delaware corporation with principal offices in Vienna, Virginia.
+From its IPO on June 11, 1998 to the present, MicroStrategy's common stock was registered pursuant to Section 12(g) of the Exchange Act [15 U.S.C. § 77l(g)] and was quoted on the NASDAQ National Market System.
+B. Summary
+From the time of its initial public offering in June 1998 through March 2000, MicroStrategy, Inc., a software company whose securities are listed on NASDAQ, materially overstated its revenues and earnings contrary to Generally Accepted Accounting Principles ("GAAP").
+The company's public financial reports during this time showed a growing software and information services company enjoying positive net income.
+In fact, as investors later learned, MicroStrategy should have reported net losses from 1997 through the present.
+The company's restatement reduced revenues over the three-year period by approximately $66 million of the $365 million reported.
+Approximately $54 million, or 80%, of these restated revenues were in 1999.
+The company's reporting failures primarily derived from its premature recognition of revenue arising from the misapplication of AICPA Statement of Position 97-2 in connection with multiple element deals in which significant services or future products to be provided by MicroStrategy were not separable from the upfront sale of a license to MicroStrategy's existing software products.
+Additional restatements resulted from deals in which MicroStrategy had not properly executed contracts in the same fiscal period that revenue was recorded from those deals, as well as other accounting errors.
+The incorrect financial results were reported in various periodic reports filed with the Commission and disseminated to the investing public from the fourth quarter of 1998 through year-end 1999, and in registration statements filed in connection with a June 1998 initial public offering and a pending public offering filed in February 2000 that was subsequently withdrawn.
+On March 20, 2000, MicroStrategy announced that it intended to restate its financial results for the fiscal years 1998 and 1999.
+MicroStrategy stock, which had recently reached a high of $333 per share, dropped over 60% of its value in one day, dropping from $260 per share to close at $86 per share on March 20, 2000.
+The stock price continued to drop in the following weeks.
+By April 13, 2000, after MicroStrategy announced that it would also restate its fiscal 1997 financial results, the company's stock closed at $33 per share.
+C. MicroStrategy's Background
+MicroStrategy was incorporated in Delaware in November 1989.
+The company's primary business in the early years consisted of providing software consulting services to help customers build custom software systems to access, analyze and use information contained in large-scale transaction-level databases.
+During 1994 and 1995, MicroStrategy began focusing its efforts on the development and sale of data-mining and decision support software and related products.
+By 1996 a majority of MicroStrategy's revenues resulted from software license sales.
+The company licensed its software through its direct sales force and through value added resellers ("VAR") and original equipment manufacturers ("OEM").
+By 1997 sales through VARs and OEMs, sometimes known as "channel partners," accounted for more than 25% of MicroStrategy's total revenues.
+Since 1996, MicroStrategy's revenues have been derived primarily from three sources: (i) product licenses; (ii) fees for maintenance, technical support and training; and (iii) consulting and development services.
+Shortly after going public in June 1998, MicroStrategy began in the third quarter 1998 to engage in a series of increasingly larger and more complex transactions involving the sale of software as well as extensive software application development and consulting services.
+By late 1998, MicroStrategy began developing an information network - initially known as Telepath, now known as Strategy.com - supported by the MicroStrategy software platform.
+The network as conceived would deliver personalized finance, news, weather, traffic, travel and entertainment information to individuals through cell phones, fax machines, e-mails, etc.
+For a fee, an entity could become a Strategy.com affiliate and offer the Strategy.com channels and services on a co-branded basis directly to their customers and in turn share with MicroStrategy a percentage of the subscription revenues from end-users.
+During the relevant time period, Strategy.com affiliate deals ranged from the relatively simple purchase of the right to offer customers access to the Strategy.com channels for a flat fee to much more complex transactions involving, in addition to an affiliation with MicroStrategy, a large scale commitment of consulting and development services to build custom information delivery systems.
+D. Accounting For Software Sales
+Generally Accepted Accounting Principles require that revenue from the sale of software be recognized consistent with Statement of Position 97-2.
+SOP 97-2 contains specific guidance on whether a company may recognize revenue from a software license sale at the time of the sale, or whether the sale must be recognized consistent with contract accounting principles.
+If an arrangement to deliver software or a software system does not require significant production, modification, or customization, SOP 97-2 specifies that the following four criteria must be met prior to recognizing revenue for a single-element arrangement or for amounts allocated to individual elements of a multiple-element arrangement: (i) persuasive evidence of an arrangement, (ii) delivery has occurred, (iii) vendor's fee is fixed or determinable, and (iv) collectibility is probable.
+SOP 97-2 further requires that if the software being licensed requires significant production, modification, or customization or any of the above four criteria are not present the company may not recognize revenue from the software or software system at the time of the transaction but instead must apply contract accounting.
+Where the software transaction contains multiple-elements (i.e., software, upgrades/enhancements and/or consulting services) SOP 97-2 provides guidance concerning when the software license component may be considered a separate element and thus permit the company to recognize some revenue at the time of the transaction.
+SOP 97-2 provides that when an arrangement contains multiple-elements, the company must also assess whether the services being sold as part of the arrangement are considered by the customer to be integral to the functionality of the software product license component.
+If the company determines that the service component of the arrangement is integral to the functionality of the software license component, the company must apply contract accounting.
+MicroStrategy's Form 10-K and Annual Report for the fiscal year-end December 31, 1998 and subsequent public filings all stated that "subsequent to December 31, 1997, the Company began recognizing revenue in accordance with SOP 97-2, `Software Revenue Recognition'."
+In addition, MicroStrategy's internal revenue recognition policy in effect during the relevant time period stated that the company recognized revenue in accordance with SOP 97-2.
+MicroStrategy, however, had not complied with SOP 97-2, instead recognizing revenue earlier than allowed under GAAP.
+E. Accounting Errors
+Contract Signing By MicroStrategy
+As is common in the software industry, the majority of MicroStrategy's transactions closed in the final days of the fiscal period.
+As a result, at the end of a quarter MicroStrategy's contracts department received numerous contracts signed by customers that needed (according to company policy) to be signed by MicroStrategy.
+To maintain maximum flexibility to achieve the desired quarterly financial results, MicroStrategy held, until after the close of the quarter, contracts that had been signed by customers but had not yet been signed by MicroStrategy.
+Only after MicroStrategy determined the desired financial results were the unsigned contracts apportioned, between the just-ended quarter and the then-current quarter, signed and given an "effective date."
+In some instances, the contracts were signed without affixing a date, allowing the company further flexibility to assign a date at a later time.
+GAAP and MicroStrategy's own accounting policies required the signature of both MicroStrategy and the customer prior to recognizing revenue.
+Other Contracts Not Signed by Quarter Close
+In at least three instances, MicroStrategy recognized revenue on transactions that were not completed or signed by either party prior to the close of the quarter.
+On December 31, 1999, MicroStrategy was engaged in final negotiations with Primark Corporation, a Massachusetts based financial, economic and market research information company.
+Sometime prior to midnight negotiations broke down over an issue that was not resolved until the following week.
+Although neither the Primark representative nor MicroStrategy signed the final contract until the week of January 3, 2000, $5 million was recognized by MicroStrategy in its quarter ended December 31, 1998.
+As discussed below, the Primark transaction was ultimately restated due to a misapplication of the multiple-element transaction requirements of SOP 97-2.
+Revenue improperly recognized from this contract was material to MicroStrategy's reported financial results for the quarter.
+Similarly, on September 30, 1999, the last day of MicroStrategy's 1999 third quarter, negotiations with NCR Corporation over a $27.5 million transaction continued past midnight.
+MicroStrategy signed the final contract sometime in the early hours of October 1, 1999.
+Although the contract had not been signed by the end of the quarter, MicroStrategy recognized $17.5 million in revenue from the transaction in the quarter ended September 30, 1999.
+The NCR transaction was ultimately restated due to a misapplication of SOP 97-2's provisions regarding the delivery of future products in a multiple-element arrangement.
+Revenue improperly recognized from this contract was material to MicroStrategy's reported financial results for the quarter.
+For the quarter ended March 31, 1999, MicroStrategy recognized $956,000 in revenue from a contract with Choicepoint, Inc. that had been signed by Choicepoint on April 2, 1999 but dated March 31, 1999.
+Revenue improperly recognized from this contract was material to MicroStrategy's reported financial results for the quarter.
+Accounting for Multiple Element Transactions
+After the IPO, MicroStrategy's business moved increasingly away from the straight-forward sale of software toward multi-faceted increasingly complex transactions with extensive service obligations.
+Generally for accounting purposes, product revenue is recognized immediately, while revenue from services is recognized as the services are provided.
+Consistent with SOP 97-2, in a transaction with software and service elements, revenue is recognized on the software only if the software sale is separable from the sale of services and only after revenue attributable to the service element is deducted.
+In a number of the restated transactions, MicroStrategy improperly (i) separated product license sales from service elements, and (ii) characterized revenue in multiple element transactions as product or software revenue and recognized it at the time of the transaction.
+For example, in the fourth quarter of 1998, MicroStrategy negotiated a $4.5 million transaction with ShopKo Stores, Inc. to provide software licenses as well as, among other things, extensive consulting and development services and a warrant permitting ShopKo to purchase 50,000 shares of MicroStrategy common stock.
+The services were, in part, to develop software applications for the MicroStrategy software platform.
+The overwhelming majority of the software licenses purchased by Shopko were to be used in conjunction with the to-be-developed applications.
+Although the product and the service elements were interdependent, MicroStrategy accounted for the software product element as though it were separate from the service and warrant obligations.
+In addition, MicroStrategy recognized the entire $4.5 million received in the transaction as software product license revenue, allocating no revenue to the extensive service obligations or the warrant.
+The $4.5 million in revenue improperly recognized was material to MicroStrategy's reported financial results for the quarter.
+In the fourth quarter of 1999, MicrStrategy negotiated a multiple element transaction with Exchange Applications, Inc. which included, among other things, software and extensive consulting and development service elements.
+The focus of the transaction was the development of "Customer Relationship Management" software and applications leveraging existing MicroStrategy and Exchange Applications software technology.
+Exchange Applications agreed to pay MicroStrategy $65 million dollars for the: (i) right to resell MicroStrategy's product line as a VAR; (ii) consulting and development services of a dedicated business unit of MicroStrategy employees; and (iii) intellectual property rights to product developed by the dedicated business unit.
+Again, MicroStrategy improperly separated the software product element of the transaction from the service component and as a result recognized $14.1 million in the fourth quarter of 1999.
+The $14.1 improperly recognized was material to MicroStrategy's reported financial results for the quarter.
+Strategy.com Transactions
+The Strategy.com transactions combine similar service and software elements and thus presented similar revenue recognition issues as those discussed in the preceding section.
+In the fourth quarter of 1998, when the company began to sell the first Strategy.com affiliations, Strategy.com was in the development stage.
+At the time, only a single preliminary version of a finance channel existed.
+For the affiliation fee, the affiliate had access to certain MicroStrategy software for the limited purpose of providing access to the Strategy.com network. This software was not delivered to the affiliate, nor did the affiliate have the ability to use the software outside the context of the network.
+MicroStrategy, in essence, hosted the network.
+Since there was little initially to host or to offer affiliate subscribers, many of the early Strategy.com transactions had a development component - some required that MicroStrategy develop additional or specialized channels, others required the development of customized applications for the channels.
+These often involved additional software, licenses and services. MicroStrategy improperly recognized revenue up front on certain Strategy.com transactions by improperly characterizing transactions as the sale of software product.
+For example, in the second quarter of 1999, MicroStrategy recognized $6 million in product revenue from a Strategy.com transaction with Ameritrade Holding Corporation.
+As part of the arrangement, MicroStrategy agreed to develop customized systems for Ameritrade to provide certain channels to its customers.
+Ameritrade also purchased from MicroStrategy the software product licenses necessary in order to eventually provide its customers with access to the to-be-developed applications.
+Since the service element of the transaction was not separable from the software element, MicroStrategy should have recognized revenue over the term of the contract.
+Instead, MicroStrategy characterized the entire $6 million received from Ameritrade at the time of the transaction as software product license and recognized it at the time of the transaction. The $6 million in revenue improperly recognized was material to MicroStrategy's reported financial results for the quarter.
+The same issue arises in several other Strategy.com deals, including Metrocall, Inc. in the fourth quarter of 1998, and Primark in the fourth quarter of 1999.
+In each of these transactions, MicroStrategy was obligated to provide services related to the development or delivery of channels.
+In both cases, MicroStrategy improperly recognized the full contract revenue ($1 million for Metrocall, $5 million for Primark) as product revenue, rather than recognizing the revenue over the term of the agreement.
+Other Accounting Issues
+MicroStrategy's financial statements suffered from other revenue recognition problems.
+For example, MicroStrategy's agreement with NCR included a license to "all current and future generally available software products in MicroStrategy's product line."
+Because a company cannot provide "Vendor Specific Objective Evidence" of the fair market value for unspecified future products, SOP 97-2 requires the application of contract accounting to arrangements containing unspecified future product obligations.
+The $17.5 million in revenue improperly recognized from this transaction was material to MicroStrategy's reported financial results for the third quarter of 1999.
+In the third quarter of 1999, MicroStrategy recognized $5 million of revenue from a transaction with Sybase, Inc. in which the two companies essentially swapped $5 million of software.
+Consistent with GAAP, this transaction should have been accounted for as a barter transaction and would have resulted in no revenue being recognized until such time as the software was used by MicroStrategy internally or was sold to another party.
+The $5 million in revenue improperly recognized was material to MicroStrategy's reported financial results for the quarter.
+In the first quarter of 1999, MicroStrategy entered into an arrangement with KMart Corporation to provide software licenses, maintenance and services.
+In connection with the transaction, the sales staff issued a side letter to KMart promising the delivery of future product at no cost.
+MicroStrategy improperly recognized approximately $2.3 million in revenue that quarter. The revenue was later deferred since the value of the future product could not be determined and the product had yet to be delivered.
+The $2.3 million in revenue improperly recognized was material to MicroStrategy's reported financial results for the quarter.
+F. MicroStrategy's Share Price
+MicroStrategy's June 12, 1998 IPO was priced at $6 per share (adjusting for a January 2000 2 for 1 stock split) and on the first day of trading the shares rose approximately $4.50.
+During January 1999, MicroStrategy shares traded in a range between $15 and $18 per share.
+The shares continued to trade in this range through September 1999.
+During the first week of October 1999, MicroStrategy shares rose to between $30 and $35 per share and by mid-December the shares traded for more than $110 per share.
+MicroStrategy shares continued to rise, eventually reaching $333 per share on March 10, 2000.
+G. MicroStrategy's Reported Financial Results and Restatement
+On March 20, 2000 MicroStrategy announced that it would restate its reported financial results for the fiscal years 1998 and 1999.
+MicroStrategy thereafter restated its reported financial results for the fiscal years 1997, 1998 and 1999 as follows:
+Revenue(In thousands)
+Net Income
+Reporting period
+Original
+Restated
+Original
+Restated
+Year ended:
+December 31, 1997
+53,557
+52,551
+121
+(885)
+Quarter ended:
+March 31, 1998
+19,895
+19,160
+542
+(193)
+June 30, 1998
+23,790
+21,138
+942
+(1,133)
+September 30, 1998
+27,014
+25,960
+1,928
+2,055
+December 31, 1998
+35,731
+29,231
+2,766
+(2,984)
+Year ended:
+December 31, 1998
+106,430
+95,489
+6,178
+(2,255)
+Quarter ended:
+March 31, 1999
+35,784
+29,322
+1,859
+(3,804)
+June 30, 1999
+45,638
+40,465
+3,211
+(3)
+September 30, 1999
+54,555
+35,309
+3,794
+(12,774)
+December 31, 1999
+69,352
+46,162
+3,756
+(17,162)
+Year ended:
+December 31, 1999
+205,329
+151,258
+12,620
+(33,743)
+IV.
+LEGAL DISCUSSION
+A. MicroStrategy Violated the Reporting Provisions of the Exchange Act
+Section 13(a) of the Exchange Act requires issuers to file such annual and quarterly reports as the Commission may prescribe and in conformity with such rules as the Commission may promulgate.
+Rules 13a-1 and 13a-13 require the filing of annual and quarterly reports that comply with the Commission's Regulation S-X, which requires that financial statements be presented in conformity with GAAP.
+As described above, the periodic reports and registration statements filed by MicroStrategy between June 1998 and January 2000 were not in conformity with GAAP.
+Consequently, MicroStrategy violated Section 13(a) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder.
+B. MicroStrategy Violated the Record-Keeping and
+Internal Controls Provisions of the Exchange Act
+Section 13(b)(2)(A) of the Exchange Act requires public companies such as MicroStrategy to make and keep books and records which accurately and fairly reflect its transactions and dispositions of assets.
+As discussed above, MicroStrategy failed to keep accurate books and records reflecting, among other things, the quarter in which revenue was recognized and the amount of recognizable revenue. MicroStrategy violated Section 13(b)(2)(A) of the Exchange Act.
+Section 13(b)(2)(B) of the Exchange Act requires MicroStrategy to devise and maintain a system of internal accounting controls sufficient to provide reasonable assurance that, among other things, transactions are recorded as necessary to permit preparation of financial statements in conformity with GAAP and to maintain accountability of assets.
+As described above, MicroStrategy's internal accounting controls were inadequate.
+Specifically, MicroStrategy routinely affixed earlier dates to contracts signed after the close of a quarter and had inadequate procedures to ensure appropriate revenue recognition in conformity with GAAP.
+Thus, MicroStrategy violated Section 13(b)(2)(B) of the Exchange Act.
+V.
+The Commission finds that MicroStrategy violated Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder.
+VI.
+ACCORDINGLY, IT IS HEREBY ORDERED, pursuant to Section 21C of the Exchange Act, that MicroStrategy:
+Cease and desist from committing or causing any violations and any future violations of Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder; and
+Comply with, and take steps to effect future compliance with, Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder upon such terms and conditions as MicroStrategy has undertaken to implement the following:
+Corporate Governance Undertakings
+1. Corporate Governance and Audit Committee Composition
+MicroStrategy's Board of Directors currently includes Saylor, Bansal and four independent directors.
+MicroStrategy shall add one additional independent director to the Board who is independent of the company and is not objectionable to the Commission.
+The new director shall have prior experience as a Chief Financial Officer of a public company (or other officer primarily responsible for external financial reporting) or as a member of an Audit Committee of a public company.
+2. Non-Management Board Members Departures
+MicroStrategy shall for a period of three years report to the Commission within ten days on the full facts and circumstances surrounding the departure (for any reason whatsoever) of any non-management member of the Board of Directors including, but not limited to, any disagreements with the departing director on accounting principles, practices or procedures employed by MicroStrategy or over the quality of MicroStrategy's internal control environment.
+The statement shall be shown to the departing director before its submission to the Commission and the departing director shall be given the opportunity to comment to the Commission on the statement.
+3. Audit Committee and Charter Enhancements
+MicroStrategy shall adopt an updated charter for the Audit Committee consistent with the recommendations of the Blue Ribbon Committee on Improving the Effectiveness of Corporate Audit Committees and the Commission's recently adopted rules on Audit Committee disclosure.
+The Charter shall include provisions relating to:
+the independence of Audit Committee members;
+the oversight responsibilities of the Audit Committee, including those with respect to the positions and functions of the Chief Financial Officer and Director of Internal Audit; and
+the reporting obligations of the Audit Committee under Item 306 of Regulation S-K and Item7(e)(3) of Schedule 14(a).
+Management Undertakings
+MicroStrategy shall add to its management a Director of Internal Audit.
+In addition, MicroStrategy shall create an Internal Audit Department appropriate for the size and business.
+The Director of Internal Audit shall be an individual with appropriate qualifications and experience for the position and shall be hired after consultation with and approval by the Audit Committee.
+Compliance Undertakings
+1. Corporate Code of Conduct
+MicroStrategy shall adopt and implement through a comprehensive worldwide training effort a Code of Conduct appropriate for the Company's size and business within 30 days of the date of these undertakings.
+Prior to its adoption the Code of Conduct shall be reviewed and approved by the Board of Directors.
+The Code of Conduct shall at a minimum include policies relating to financial reporting, documentation of transactions, confidentiality of Company information, compliance with the Foreign Corrupt Practices Act, transactions in Company securities and communications with investors, analysts and the media about Company matters.
+The Code of Conduct shall also contain procedures by which employees may report suspected violations of the Code of Conduct or other Company policies.
+The Company shall require that each officer, director and employee sign a certification of compliance with the Code of Conduct on an annual basis.
+2. Global Revenue Recognition Policy
+MicroStrategy shall adopt and implement a Global Revenue Recognition Policy within 30 days of the date of these undertakings.
+The Policy shall include procedures to ensure compliance with U.S. generally accepted accounting principles including, but not limited to, AICPA Statement of Position 97-2 and any future amendments.
+3. Contract Approval, Execution and Processing Policy and Procedures
+MicroStrategy shall adopt and implement Contract Approval, Execution and Processing Policies and Procedures within 60 days of the date of these undertakings.
+The policy shall require the development of standard contract forms complying in all respects with the Company's Global Revenue Recognition Policy and will establish procedures for the Chief Financial Officer's approval prior to execution of any non-standard agreement.
+The policy shall reflect the requirement in the Company's Global Revenue Recognition Policy that all material terms of all contracts (except purchase orders issued against previously executed reseller or other similar agreements) shall be signed by all parties to the transaction at least by the end of the period in which revenue on the contract will be recognized.
+The Policy shall also, at a minimum:
+formalize procedures governing the signing and dating of contracts, including the creation and maintenance of a contract signature log to track contracts through the approval and execution process,
+establish procedures requiring the delivery of contracts signed by all parties (or valid purchase orders) to the appropriate accounting personnel prior to revenue recognition, invoicing or delivery of software, and
+implement procedures for the retention of all necessary contract documents, including drafts and correspondence.
+4. Comprehensive Policies and Procedures Manual
+MicroStrategy shall adopt and implement within 90 days of the date of these undertakings a Comprehensive Policies and Procedures Manual for its accounting, finance, contracts and other related operations personnel.
+In addition to the Global Revenue Recognition Policy and the Contract Approval, Execution and Processing Policies and Procedures described above, the Manual shall include polices and procedures relating to the following:
+reporting and review of material transactions entered into by the Company's foreign subsidiaries,
+establishment and documentation of subjective reserves and allowances,
+bank, payroll and other account reconciliation,
+fixed asset inventories, accounting and security,
+customer credit policies and due diligence,
+collections and accounts receivable,
+non-monetary, barter or reciprocal arrangements,
+documentation or controls relating to reseller arrangements, and
+documentation of estimates used in contract accounting and other accounting areas dependent on estimates.
+5. Training and Education on Policies and Procedures
+MicroStrategy shall provide all officers, directors and employees subject to the policies and procedures in these undertakings with the necessary training and education on the new policies and procedures.
+In addition to the provision of the policies and procedures, together with relevant background materials, such training and education will include, at a minimum, both initial training sessions immediately following adoption of the policy (as part of the implementation process) and annual training updates.
+Compliance with the Undertakings
+The new independent member of the Board of Directors, appointed pursuant to these undertakings, shall review the Company's implementation of and compliance with these undertakings.
+The new director's review shall begin no earlier than six months from the date of these undertakings and the new director shall report the results of the review to the Company and the Commission within three months after the start of the review.
+By the Commission.
+Jonathan G. Katz
+Secretary
+Footnotes
+1
+This matter is related to SEC v. Michael Jerry Saylor, Sanjeev Kumar Bansal and Mark Steven Lynch, (Civ. Action No. 1:00CV02995) and In the Matter of Antoinette A. Parsons and Stacy L. Hamm (Admin Proc. No. 3-10389).
+2
+The findings herein are made pursuant to the Respondent's Offer and are not binding on any other person or entity in this or any other proceeding.
+http://www.sec.gov/litigation/admin/34-43724.htm
+Home | Previous Page
+Modified:12/15/2000

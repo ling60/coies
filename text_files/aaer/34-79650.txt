@@ -1,0 +1,379 @@
+---------------------Page 1---------------------
+
+                           UNITED STATES OF AMERICA 
+                                       Before the 
+                    SECURITIES AND EXCHANGE COMMISSION 
+                                                       
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 79650 / December 21, 2016 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3835 / December 21, 2016 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-17742 
+ 
+                                               
+In the Matter of                              ORDER INSTITUTING CEASE -AND-DESIST 
+                                              PROCEEDINGS, PURSUANT TO SECTION 
+      JACK HENRY &                            21C OF THE SECURITIES EXCHANGE ACT 
+      ASSOCIATES, INC.                        OF 1934, MAKING FINDINGS, AND 
+                                              IMPOSING REMEDIAL SANCTIONS AND A 
+Respondent.                                   CEASE-AND-DESIST ORDER   
+ 
+ 
+                                                
+                                           I.  
+ 
+       The Securities and Exchange Commission (“Commission”) deems it appropriate and in the 
+public interest that public administrative and cease-and-desist proceedings be, and hereby are, 
+instituted pursuant to Section 21C of the Securities Exchange Act of 1934 (“Exchange Act”) 
+against Jack Henry & Associates, Inc. (“Respondent”).   
+                                             
+                                          II. 
+ 
+      In anticipation of the institution of these proceedings, Respondent has submitted an Offer 
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the 
+findings herein, except as to the Commission’s jurisdiction over it and the subject matter of these 
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting 
+Cease-and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, 
+Making Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below. 
+                                             
+                                                                        
+---------------------Page 2---------------------
+
+                                                III. 
+ 
+                                                                                 1
+        On the basis of this Order and Respondent’s Offer, the Commission finds  that: 
+ 
+                                           SUMMARY 
+ 
+       During the time period from fiscal year ended June 30, 2012 through fiscal year ended June 
+30, 2014, Jack Henry & Associates, Inc. (“JKHY”), a banking software company, materially 
+misstated its revenue, net income, and other financial metrics in certain of its annual and quarterly 
+reports filed with the Commission and in certain of its earnings releases. In particular, JKHY failed 
+to properly record and report revenue from its software license sales in the correct accounting 
+periods because it: (1) improperly separated contracts so closely related that they should have been 
+considered to be parts of a single arrangement; and (2) prematurely recognized revenue from sales 
+of software given its lack of vendor-specific objective evidence (“VSOE”) of the fair value of 
+undelivered services related to implementation and post-contract support. JKHY’s failures in these 
+areas were caused by inadequate internal control surrounding revenue recognition.  
+ 
+       Ultimately, in June 2015, JKHY restated its financial statements for fiscal years June 30, 
+2012 through June 30, 2014, and in its restatement acknowledged, among other things, material 
+weaknesses in its internal control over financial reporting. By engaging in the foregoing conduct, 
+JKHY violated the reporting, books and records, and internal control provisions of the federal 
+securities laws, namely Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 
+12b-20, 13a-1, 13a-11, and 13a-13 thereunder. 
+ 
+                                       RESPONDENT 
+ 
+        Jack Henry & Associates, Inc., a Delaware corporation headquartered in Monett, 
+Missouri, is a provider of core and complementary information processing solutions for banks and 
+credit unions, including internal and consumer banking software. JKHY’s restated 2014 revenue 
+was approximately $1.17 billion, and its current market capitalization is approximately $6.4 billion. 
+At all relevant times, JKHY’s common stock has been registered with the Commission pursuant to 
+Section 12(b) of the Exchange Act and traded on the NASDAQ Global Select Market. Because 
+JKHY had stock registered under Section 12, it was required to file reports with the Commission 
+pursuant to Section 13(a) of the Exchange Act. 
+        
+                                        BACKGROUND 
+ 
+       1.      During the relevant period, JKHY sold a variety of software to banks and credit 
+unions. JKHY also offered two key services typically purchased alongside the software licenses: 
+implementation services and post-contract support. Most contracts signed with customers included 
+all three of these items, each with their own contracted prices: (1) the software licenses for the 
+various products purchased; (2) implementation services; and (3) post-contract support. Some 
+contracts included different products installed over a number of months or even years. 
+
+                                                 
+1
+       The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding on 
+       any other person or entity in this or any other proceeding. 
+ 
+                                                 2 
+---------------------Page 3---------------------
+
+       2.     The software products offered by JKHY included core processing platforms (“core 
+software”) used internally by financial institutions to maintain information relating to customer 
+accounts. JKHY also offered various software products that integrated with the core software, such 
+as software for bank tellers, ATM software and online banking software (known as 
+“complementary software”). These different categories of complementary software were 
+commonly referred to as “families” of software products, and each family had its own operating 
+group within JKHY that was responsible for tasks such as sales, installation and support for that 
+family of products. 
+        
+       3.     Implementation services consisted of JKHY software technicians for each product 
+family who would install, implement, and integrate the software products into the customer’s 
+existing software and hardware systems.  
+        
+       4.     Post-contract support consisted of ongoing software patches, tech support, user 
+support, and other post-installation maintenance of the software programs. The post-contract 
+support in a customer's initial contract was effective from the software implementation date 
+through the next June 30th (JKHY’s fiscal year end). As a result, post-contract support in the initial 
+contracts was almost always provided for less than one year. Customers would then renew their 
+post-contract support on an annual or multi-year basis as part of a separate contract. These later 
+contracts for post-contract support were recorded properly and revenue earned from these contracts 
+was not restated. 
+        
+       5.     Many contracts included licenses for both core software and various 
+complementary software products. Each software license was accompanied by its own 
+implementation services and post-contract support, tailored for the particular product and 
+negotiated and priced separately within an exhibit to the contract form. 
+        
+       6.     When a contract included both core software and complementary software, the core 
+software was often installed first. Once the core software was fully installed and implemented, then 
+the other complementary software products would be installed according to a schedule agreed upon 
+by JKHY and the customer. 
+        
+       7.     In some instances in which the contract included complementary software, the 
+customer already had a license for a JKHY competitor’s version of contracted-for complementary 
+software that would not expire for a year or more. In such instances, the customer typically would 
+still enter into a contract with JKHY for that complementary software. Although the core software 
+would be installed promptly, the complementary software would not be scheduled for installation 
+until it was needed, which could be several months or even years after the core software 
+installation. 
+        
+                              JKHY’S ACCOUNTING ERRORS 
+                                                     
+       8.     In 1997, the American Institute of Certified Public Accountants (“AICPA”) 
+issued Statement of Position 97-2, Software – Revenue Recognition (“SOP 97-2”), the first 
+industry specific GAAP guidance on revenue recognition for software and software-related 
+products. Following the issuance of SOP 97-2, the AICPA also released numerous standards and 
+ 
+                                                3 
+---------------------Page 4---------------------
+
+Technical Practice Aids (“TPAs”) clarifying specific aspects of software revenue recognition. In 
+June 2009, all existing GAAP pronouncements were codified into the Accounting Standards 
+Codification, effective for periods ending after September 15, 2009. SOP 97-2, its related 
+amendments and related TPAs were codified at ASC 985-605 (hereinafter “ASC 985-605”). 
+        
+       9.     ASC 985-605 refers to arrangements in which software vendors bundle their 
+software products with myriad services or other products as “multiple-element arrangements.” 
+The provisions for license, implementation, and post-contract support in JKHY’s contracts 
+constituted the elements in these multiple-element arrangements. 
+        
+       10.    Due to the separate negotiation, pricing, and operational support provided for 
+each product family, JKHY treated the contractual provisions governing the sale and support of 
+each such family as a separate and distinct arrangement for license revenue recognition purposes. 
+For example, if a contract included licenses for core software and three complementary software 
+products, each in a different family, then JKHY treated this as four separate arrangements. As a 
+result, when the core software was fully installed, JKHY would recognize revenue for that 
+software license during that quarter. JKHY would then wait to recognize the license revenue for 
+the other three software products as they were installed. 
+        
+       11.    JKHY’s revenue recognition policy described in the prior paragraph was 
+inconsistent with ASC 985-605, which requires that all elements of a contract be treated as a 
+“single arrangement.” JKHY was thus required to wait until all elements of the arrangement were 
+delivered before recognizing any of the revenue. As a result, in many instances during the 
+relevant period, JKHY’s revenue recognition policy caused JKHY to recognize revenue from 
+license sales one or more quarters before it was appropriate to do so. 
+        
+       12.    Further, under ASC 985-605, in order to recognize the residual amount of revenue 
+from the sale of a software license in the quarter in which the software was delivered, JKHY had 
+to establish that it had VSOE of fair value to establish market pricing for all undelivered 
+elements of the bundled services, i.e. both implementation and post-contract support. If JKHY 
+was unable to establish VSOE of fair value for either undelivered element, it would lack any 
+objective way to allocate total contract revenues amongst the various elements and would thus be 
+required to defer recognizing revenue from delivered elements until the last item was delivered. In 
+this case, the last item to be delivered was generally post-contract support, which was delivered 
+ratably over the term of the contract. As such, absent VSOE of fair value for post-contract support, 
+JKHY was required to recognize revenue from the software license ratably over the term of the 
+services agreement as post-contract support was ultimately delivered. 
+        
+       13.    According to its revenue recognition policies, JKHY claimed VSOE of fair value 
+for the pricing of its implementation and post-contract support services. Because JKHY claimed 
+VSOE of fair value, it could recognize the VSOE-supported price of its license sale as revenue 
+once the software was delivered, even if the implementation and post-contract support services 
+were not yet delivered. For example, if software was installed in October of a given year, the 
+                                                         th
+post-contract support would be provided through June 30  of the following year. In such a 
+scenario, JKHY, claiming VSOE of fair value, could recognize the license and implementation 
+
+ 
+                                               4 
+---------------------Page 5---------------------
+
+services revenue as each element was delivered. This is in fact how JKHY recognized its 
+revenue. 
+        
+       14.    In reality, JKHY could not produce sufficient data to establish that VSOE of fair 
+value existed for either implementation or post-contract support services. As a result, for fiscal 
+years 2012 through 2014, JKHY improperly recognized license revenue before it was 
+appropriate to do so for many of its contracts. For these contracts, JKHY should have instead 
+recognized revenue for license sales ratably over the period between the time of delivery and 
+when the last element was delivered, often the end of the post-contract support services under the 
+contract, but sometimes when complementary software was installed months or years later.  
+        
+       15.    As a result of the three above accounting errors (incorrect “single arrangement” 
+contract treatment, insufficient VSOE of fair value for implementation, and insufficient VSOE of 
+fair value for post-contract support services), JKHY’s revenue was materially misstated for the 
+fiscal years ending June 30, 2013 and June 30, 2014. None of the revenue recognized by JKHY 
+during that timeframe was illegitimate – only the timing of recognizing that revenue was incorrect. 
+ 
+                                    THE RESTATEMENT 
+        
+       16.    On June 25, 2015, JKHY restated its financial statements for fiscal years 2012 
+through 2014.  JKHY originally misstated its revenues, gross profit, net income, and other financial 
+metrics in these reporting periods. Because the accounting errors caused revenue to be prematurely 
+recognized, this decreased reported revenue and increased deferred revenue during the reported 
+periods. The chart below summarizes JKHY’s misstatements on its Income Statement:  
+ 
+                         Table 1: Changes to Financials from Restatement 
+                                                          Fiscal year (ending June 30) 
+                        in $000s                      2012          2013          2014 
+
+              Revenue Originally Reported           1,027,109       1,129,386       1,210,053       
+                   Revenue Restated                1,017,667      1,107,524     1,173,173  
+                Revenue Over Statement              9,442           21,862       36,880  
+               Percentage Over Statement             0.92%          1.94%         3.05% 
+
+             Gross Profit Originally Reported           423,730    476,992       518,629   
+                  Gross Profit Restated               418,823      461,394       493,801  
+              Gross Profit Over Statement             4,907         15,598       24,828  
+               Percentage Over Statement             1.16%          3.27%         4.79% 
+
+             Net Income Originally Reported           154,984      176,645       201,136   
+                  Net Income Restated               152,040        167,610       186,715  
+              Net Income Over Statement             2,944           9,035        14,421  
+               Percentage Over Statement             1.90%          5.11%         7.17% 
+
+                                                                                      
+ 
+                                                5 
+---------------------Page 6---------------------
+
+             Diluted EPS Originally Reported          $        1.78     $        2.04     $        2.36  
+
+                  Diluted EPS Restated               $        1.74     $        1.94     $        2.19  
+
+               Diluted EPS Over Statement            $        0.04     $        0.10     $        0.17  
+
+               Percentage Over Statement             2.30%           5.15%         7.76% 
+ 
+       17.    In its restatement, JKHY identified the following deficiencies in the design and 
+operating effectiveness of internal control over financial reporting that JKHY concluded 
+constituted a material weakness taken together, which resulted in the misstatements: 
+   A.  The lack of training and continuing education related to multiple element software 
+       arrangements led to a lack of knowledge of the individuals tasked with understanding 
+       various technical accounting matters associated with JKHY’s multiple element 
+       arrangement revenue recognition policies; 
+   B.  Appropriate accounting and reporting policies and procedures related to bundled multiple 
+       element arrangements were not designed and implemented; 
+   C.  Appropriate internal accounting controls over financial reporting for bundled multiple 
+       element arrangements were not designed and implemented; and 
+   D.  Monitoring, including use of internal audit, was not appropriately designed to identify 
+       errors in accounting for revenue recognition for multiple element software arrangements. 
+ 
+                                         VIOLATIONS 
+                                                  
+       18.    Under Section 21C of the Exchange Act, the Commission may impose a cease-and-
+desist order upon any person who is violating, has violated, or is about to violate any provision of 
+the Act and upon any other person that is, was, or would be a cause of the violation, due to an act 
+or omission the person knew or should have known would contribute to such violation. 
+        
+       19.    Section 13(a) of the Exchange Act requires issuers to file such periodic and other 
+reports as the Commission may prescribe and in conformity with such rules as the Commission 
+may promulgate. Exchange Act Rules 13a-1, 13a-11, and 13a-13 require the filing of annual, 
+current, and quarterly reports, respectively. In addition to the information expressly required to be 
+included in such reports, Rule 12b-20 of the Exchange Act requires issuers to add such further 
+material information, if any, as may be necessary to make the required statements, in the light of 
+the circumstances under which they are made not misleading.  
+ 
+       20.    Section 13(b)(2)(A) of the Exchange Act requires issuers to “make and keep books, 
+records, and accounts, which, in reasonable detail, accurately and fairly reflect the transactions and 
+dispositions of the assets of the issuer.”  
+        
+       21.    Section 13(b)(2)(B) of the Exchange Act requires issuers to devise and maintain a 
+system of internal accounting controls sufficient to provide reasonable assurances that transactions 
+are recorded as necessary to permit the preparation of financial statements in conformity with 
+generally accepted accounting principles. 
+        
+       22.    By engaging in the conduct above, Respondent violated Section 13(a), 13(b)(2)(A), 
+and 13(b)(2)(B) of the Exchange Act and Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder. 
+ 
+                                                 6 
+---------------------Page 7---------------------
+
+        
+       23.    In determining to accept the Offer, the Commission considered remedial acts 
+undertaken by Respondent, including its enhancement of internal accounting controls, retention of 
+additional accounting personnel, and cooperation with the staff’s investigation. 
+        
+                                               IV. 
+                                                 
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondent’s Offer. 
+ 
+       Accordingly, pursuant to Section 21C of the Exchange Act, it is hereby ORDERED that: 
+ 
+       A.     Respondent cease and desist from committing or causing any violations and any 
+future violations of Section 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 12b-
+20, 13a-1, 13a-11, and 13a-13 thereunder. 
+ 
+       B.     Respondent shall, within 30 days of the entry of this Order, pay a civil money 
+penalty in the amount of $780,000 to the Securities and Exchange Commission for transfer to the 
+general fund of the United States Treasury, subject to Exchange Act Section 21F(g)(3). If timely 
+payment is not made, additional interest shall accrue pursuant to 31 U.S.C. §3717. Payment must 
+be made in one of the following ways:   
+ 
+              (1)     Respondent may transmit payment electronically to the Commission, which 
+                      will provide detailed ACH transfer/Fedwire instructions upon request;  
+               
+              (2)     Respondent may make direct payment from a bank account via Pay.gov 
+                      through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or  
+               
+              (3)     Respondent may pay by certified check, bank cashier’s check, or United 
+                      States postal money order, made payable to the Securities and Exchange 
+                      Commission and hand-delivered or mailed to:  
+ 
+              Enterprise Services Center 
+              Accounts Receivable Branch 
+              HQ Bldg., Room 181, AMZ-341 
+              6500 South MacArthur Boulevard 
+              Oklahoma City, OK 73169 
+ 
+       Payments by check or money order must be accompanied by a cover letter identifying Jack 
+Henry & Associates, Inc. as a Respondent in these proceedings, and the file number of these 
+proceedings; a copy of the cover letter and check or money order must be sent to Robert J. Burson, 
+Division of Enforcement, Securities and Exchange Commission, 175 W. Jackson Blvd. Suite 900, 
+Chicago, IL 60604. 
+ 
+       C.     Amounts ordered to be paid as civil money penalties pursuant to this Order shall be 
+treated as penalties paid to the government for all purposes, including all tax purposes.  To 
+ 
+                                                7 
+---------------------Page 8---------------------
+
+preserve the deterrent effect of the civil penalty, Respondent agrees that in any Related Investor 
+Action, it shall not argue that it is entitled to, nor shall it benefit by, offset or reduction of any 
+award of compensatory damages by the amount of any part of Respondent’s payment of a civil 
+penalty in this action ("Penalty Offset").  If the court in any Related Investor Action grants such a 
+Penalty Offset, Respondent agrees that it shall, within 30 days after entry of a final order granting 
+the Penalty Offset, notify the Commission's counsel in this action and pay the amount of the 
+Penalty Offset to the Securities and Exchange Commission.  Such a payment shall not be deemed 
+an additional civil penalty and shall not be deemed to change the amount of the civil penalty 
+imposed in this proceeding.  For purposes of this paragraph, a "Related Investor Action" means a 
+private damages action brought against Respondent by or on behalf of one or more investors based 
+on substantially the same facts as alleged in the Order instituted by the Commission in this 
+proceeding. 
+ 
+ 
+                    
+       By the Commission. 
+ 
+ 
+ 
+                                                      Brent J. Fields 
+                                                      Secretary 
+ 
+ 
+ 
+ 
+
+ 
+                                                 8 

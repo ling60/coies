@@ -1,0 +1,609 @@
+---------------------Page 1---------------------
+
+                                 UNITED STATES OF AMERICA 
+                                               Before the 
+                        SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 80548 / April 28, 2017 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3868 / April 28, 2017 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-17950 
+ 
+                                                     ORDER INSTITUTING 
+In the Matter of                                     ADMINISTRATIVE AND CEASE -AND-
+                                                     DESIST PROCEEDINGS PURSUANT TO 
+        David Pruitt , CPA                           SECTIONS  4C AND 21C OF THE 
+                                                     SECURITIES EXCHANGE ACT OF 1934                  , 
+Respondent.                                          AND RULE 102(e) OF THE 
+                                                     COMMISSION’                                      
+                                                                                      
+                                                          
+                                                    I.  
+ 
+        The Securities and Exchange Commission (“Commission”) deems it appropriate that public 
+administrative and cease-and-desist proceedings be, and hereby are, instituted against David Pruitt, 
+                                                            1
+CPA (“Pruitt” or “Respondent”) pursuant to Sections 4C        and  21C of the Securities Exchange Act 
+                                                                                               2
+of 1934 (“Exchange Act”) and Rule 102(e)(1)(iii) of the Commission’s Rules of Practice.    
+
+                                                 
+1
+  Section 4C provides, in relevant part, that:   
+ 
+        The Commission may censure any person, or deny, temporarily or permanently, to any 
+person the  privilege of appearing or practicing before the Commission in any way, if that person 
+is found . . . (1) not to possess the requisite qualifications to represent others . . . (2) to be lacking 
+in character or integrity, or to have engaged in unethical or   improper professional conduct; or (3) 
+to have willfully violated, or willfully aided and abetted the violation of, any provision of the 
+securities laws or the rules and regulations thereunder.    
+ 
+2
+  Rule 102(e)(1)(iii) provides, in pertinent part, that: 
+ 
+                The  Commission may . . . deny, temporarily or permanently, the privilege of 
+                appearing or practicing before it . . . to any person who is found…to have 
+                willfully violated, or willfully aided and abetted the violation of any provision of 
+                the Federal securities laws or the rules and regulations thereunder. 
+ 
+---------------------Page 2---------------------
+
+                                               II. 
+                                                 
+       After an investigation, the Division of Enforcement alleges that: 
+                                                 
+A.     SUMMARY 
+ 
+       1.     These proceedings arise out of L3 Technologies, Inc.’s (formerly known as L-3 
+Communications Holdings, Inc.) (“L3”) improper recognition of $17.9 million in revenue at its 
+Army Sustainment Division (“ASD”) subsidiary in 2013 and Q1 2014.  The improperly 
+recognized revenue was related to a fixed-price aircraft maintenance contract between ASD and 
+the U.S. Army, referred to as the C-12 Contract.   
+
+       2.     In late December 2013, Pruitt—the VP of Finance at ASD—instructed a 
+subordinate to create 69 invoices related to unresolved claims under the C-12 Contract in L3’s 
+internal accounting system (“SAP”), and withhold delivery of those invoices from the U.S. 
+Army.  However, other than a handful of invoices that were delivered to the U.S. Army in early 
+2014, the vast majority of these invoices were never submitted to the U.S. Army, but instead 
+were discovered during an investigation of ASD’s finances approximately six months later.  By 
+entering the invoices in SAP, ASD improperly recognized approximately $17.9 million in 
+additional revenue at the end of 2013, and in Q1 2014. 
+
+       3.     On October 10, 2014, L3 filed a Form 10-K/A for the fiscal year ended December 
+31, 2013, and a Form 10-Q/A the first quarter of 2014.  Among other things, L3 disclosed in its 
+amendments that it was revising its financial statements to record aggregate pre-tax charges of 
+$94 million in the Aerospace Systems segment for periods prior to 2011 up to 2013, and 
+approximately $75 million for the first and second quarters of 2014.  Of the adjustments, $69 
+million were attributable to the C-12 Contract, and $15.4 million of the adjustments were related 
+to the improper revenue recognition related to the invoices. 
+
+B.     RESPONDENT 
+ 
+       4.     Pruitt, 60 years old, is a resident of Owens Cross Roads, AL.  Pruitt began working 
+for L3 in 2003, and served as the VP of Finance for ASD from January 2013 until January 2014.  In 
+January 2014, he was reassigned to the position of Senior Director of Finance for Army Fleet 
+Support at ASD, and served in that role until his termination from L3 on July 30, 2014.  Pruitt is a 
+certified public accountant (“CPA”) (licensed in Kentucky), certified management accountant, 
+certified government financial manager, and certified defense financial manager.     
+
+C.     OTHER RELEVANT ENTITY 
+ 
+       5.     L3, (NYSE ticker: LLL), a Delaware corporation with its principal place of business 
+in New York, NY, is a prime contractor for various foreign and U.S. Government agencies, 
+including the U.S. Department of Defense.  L3’s securities are registered with the Commission 
+pursuant to Section 12(b) of the Exchange Act.  L3 is a prime contractor in aerospace systems and 
+national security solutions.  For fiscal year 2013, L3 reported net sales of $12.6 billion and an 
+operating income of $1.2 billion on its consolidated statements of operations.  
+
+                                               2 
+---------------------Page 3---------------------
+
+D.     BACKGROUND 
+
+       6.      Aerospace Systems is one of four business segments of L3, delivering integrated 
+solutions for the global intelligence market and providing maintenance and logistics support for a 
+wide variety of aircraft and ground systems.  Each business segment is comprised of multiple 
+business “sectors,” and each business sector is comprised of multiple business “divisions.”  Of 
+relevance to this matter are the Logistics Solutions sector of Aerospace Systems, which provides, 
+among other things, logistics support and aircraft maintenance services to its military customers, 
+and ASD, a subsidiary of Logistics Solutions, which provides support for United States Army 
+aircraft at bases throughout the United States and around the world.   
+
+       7.      L3, through its subsidiary Vertex, and later ASD, contracted to maintain a fleet of 
+approximately 100 fixed-wing C-12 airplanes for the U.S. Army pursuant to the C-12 Contract.  
+The contract had a five year term, commencing on June 2, 2010, and ending on January 31, 2015, 
+with the partial initial year referred to as a “base year” and each subsequent twelve-month period 
+referred to as an “option year.”  Almost immediately after receiving the results of its first quarter of 
+operations under the C-12 Contract, Vertex realized that it underbid for the contract, and that the 
+margins going forward would be very low—in the range of 1-2%—creating significant obstacles 
+for Vertex’s management.  ASD was formed at the beginning of 2013, in large part to take over the 
+C-12 Contract from Vertex, and improve L3’s performance under the contract.  ASD, and 
+particularly Pruitt, worked through 2013 to resolve various issues with the C-12 Contract.   
+
+E.     THE REVENUE RECOVERY INITIATIVE AND LEGAL ENTITLEMENT 
+
+       8.      In the summer of 2013, Pruitt and the President of ASD (“ASD President”) learned 
+that ASD had unaccounted for costs on its balance sheet related to the C-12 Contract in the range 
+of $30 to $35 million.  The business manager on the C-12 contract (the “C-12 Business Manager”) 
+believed the growth in that particular balance was a result of cost overruns that would result in a 
+large loss to ASD.  The C-12 Business Manager informed Pruitt of the costs, and prepared him for 
+a meeting with the ASD President and the President of Logistics Solutions—the corporate parent 
+of ASD—to discuss the potential loss.   
+
+       9.     On or about September 20, 2013, Pruitt, the ASD President, and the C-12 Business 
+Manager reported to the President of Logistics Solutions that they had identified a growing work in 
+progress (“WIP”) balance on ASD’s books arising from the C-12 Contract, and that the Division 
+may need to write off some of the WIP (approximately $8-9 million).  The report angered the 
+President of Logistics Solutions, and he asked members of ASD to re-check their numbers and 
+verify that it was true.  The President of Logistics Solutions also directed ASD to determine what 
+work the WIP balance related to, and asked Pruitt, the ASD President, and other members of ASD 
+to determine how to bill it to the U.S. Army.  The President of Logistics Solutions requested 
+weekly meetings—and later, daily meetings—with ASD officers, including the ASD President and 
+Pruitt, to obtain a better understanding of the WIP balance.  Pruitt and the ASD President were in 
+constant communication with each other from September to December 2013 concerning the status 
+of the review.  During the September time period, Pruitt and the ASD President were aware that 
+ASD would not likely meet its annual operating plan EBIT (Earnings Before Interest and Taxes), 
+and it was also evident at the time that ASD was at risk of falling below the required EBIT 
+threshold (i.e., 75% of plan) necessary for management to receive incentive bonuses.   
+
+                                                3 
+---------------------Page 4---------------------
+
+       10.    The ASD President directed the C-12 Contract team at ASD to review the contract 
+in detail to determine if there were items not billed to the Army that should have been billed.  This 
+became known as the Revenue Recovery Initiative.  By mid-November 2013, the C-12 Contract 
+Manager identified approximately $50.6 million in work performed by ASD under the contract that 
+was not billed to the Army.  The $50.6 million value was comprised of nine different work stream 
+items and costs under the C-12 Contract.   
+
+       11.    During the fall of 2013, the focus of the Revenue Recovery Initiative turned to 
+identifying ways to recognize revenue on the unbilled $50.6 million.  Based on the President of 
+Logistics Solutions’ words and conduct, Pruitt and the ASD President believed that the President 
+of Logistics Solutions expected ASD to achieve some accounting benefit on the $50.6 million 
+revenue recovery items by the end of 2013.  On November 8, 2013, after reviewing operations 
+review slides prepared by the ASD President, the President of Logistics Solutions sent an email 
+(copying Pruitt) directing the ASD President to “please identify with coordination with [the VP of 
+Finance and CFO of the Aerospace Systems segment (“Aerospace Systems CFO”)] the C-12 Army 
+accounting to be used for Q4, specifically, which costs will be deferred related to the claims, and 
+take this accounting into consideration on your LRE [i.e. long range estimate] so we know where 
+we expect to get to in EBIT for 2013.”   
+
+       12.    Also during the fall of 2013, certain individuals at ASD and Logistics Solutions 
+began discussing the possibility of recognizing revenue on the $50.6 million in claims based on a 
+concept called “legal entitlement,” even though the claims had not been resolved with the Army.  
+Pruitt and the ASD President both participated in discussions concerning the recognition of 
+revenue based on legal entitlement.   
+
+       13.    On November 22, 2013, there was a conference call among Pruitt, the Aerospace 
+Systems CFO, and others to discuss certain options for how to record revenue pursuant to legal 
+entitlement.  The Aerospace Systems CFO recalled that the task was for the C-12 Contract 
+experts—i.e., the General Counsel of ASD and the General Counsel of Logistics Solutions —to 
+find clauses in the C-12 Contract that entitled ASD to payment, show that the government did not 
+follow its obligations under the clauses, determine what to submit as a request for equitable 
+adjustment (“REA”), and estimate based on the contract’s history how much the Army would pay.  
+REAs were formal methods under the C-12 Contract by which ASD could request an equitable 
+adjustment to the funding amounts for each Contract Line Item (“CLIN”).   
+
+       14.    At Pruitt’s request, the General Counsels of ASD and of Logistics Solutions 
+estimated that ASD was likely to recover approximately $30 million of the entire $50.6 million, 
+based on their history of negotiations with the government.  Between Thanksgiving and December 
+5, 2013, Pruitt asked the General Counsels of ASD and of Logistics Solutions to prepare letters of 
+legal entitlement that would be used to support the revenue recognition.  The General Counsel of 
+ASD indicated that as to one legal entitlement letter, Pruitt drafted it and put the General Counsel 
+of ASD’s name on the signature block, asking him to sign it.  Because the letter was drafted 
+without his permission, the General Counsel of ASD refused to sign it, and indicated that he was 
+upset that Pruitt had attempted to draft a letter purporting to be from him.  
+
+       15.    Pruitt recalls discussing three options with the President of Logistics Solutions and 
+the Aerospace Systems CFO about how to address the revenue recovery items in November 2013: 
+
+                                                4 
+---------------------Page 5---------------------
+
+(1) record the transactions as inventory, increasing the WIP balance; (2) accrue the revenue 
+associated with the legal entitlement issues; and (3) invoice the Army for amounts to which ASD 
+believed it was legally entitled.  While no contemporaneous documents corroborate Pruitt’s 
+account that invoicing was considered, Pruitt further claims that he input the transactions in L3’s 
+live SAP system to analyze and evaluate the output before a decision was made with respect to 
+recording legal entitlement.  After the analysis was complete, according to Pruitt, the transactions 
+were reversed out of SAP.   
+
+       16.    In November 2013, a decision was made by the ASD President and the President of 
+Logistics Solutions to reassign Pruitt from his role as VP of Finance at ASD, based on his 
+performance related to working through several accounting issues including disclosure statements.  
+The ASD President notified Pruitt in early December 2013 of the decision, but kept Pruitt on in his 
+role until the end of January 2014.   
+
+       17.    The Aerospace Systems CFO learned in or around May 2014 that Pruitt was not 
+preparing estimates at completion (“EACs”) for the C-12 Contract while the contract was in effect 
+as he was required to do.  EACs allowed divisions to project revenue and EBIT, and were therefore 
+relied on by ASD to create forecasts and the annual operating plan.  Pruitt falsely represented to the 
+Aerospace Systems CFO and others at group meetings that EACs were completed for each option 
+year.    
+
+       18.    On December 3, 2013, the ASD President presented an operations review regarding 
+ASD to the President of Logistics Solutions.  Included was a slide entitled, “Army C-12 Contract 
+Dispute Summary,” which listed a table of ten rows with separate “REA/Claim Values” adding up 
+to $50.6 million.  A column on the table was entitled “Legal Entitlement” and applied a discount of 
+either 50% or 60% to each claim value that comprised the $50.6 million.  The presentation also 
+included detailed slides on six of the claims, and noted that ASD planned to meet with the 
+government to reach an amicable resolution and that, “[a]fter the negotiations with the government, 
+L3 is postured to immediately invoice and bill the government.” 
+
+       19.    The revenue recovery claims were presented by ASD to the U.S. Army in meetings 
+that took place in late November and early December 2013.  On December 5, 2013, the C-12 
+Contract Manager and the General Counsel of ASD met with representatives of the U.S. Army to 
+discuss the C-12 contract disputes.  An email from the C-12 Contract Manager to the President of 
+Logistics Solutions reporting on this meeting indicates that the U.S. Army planned to meet 
+internally on December 17, 2013, and begin meeting with L3 after the new year with the “intent [] 
+to resolve every one of the disputes outside of the REA/Claim process… as quickly as possible.”  
+Nothing in the email indicates any request by the U.S. Army to invoice any of the claims before the 
+end of the year.  In fact, neither Pruitt nor the ASD President expected to resolve the disputes 
+concerning the revenue recovery items by the end of 2013.   
+
+F.     GENERATION OF INVOICES AND IMPROPER REVENUE RECOGNITION 
+
+       20.    In late December 2013, Pruitt approached the C-12 Business Manager and asked 
+him to explain how revenue was recorded on ASD’s books.  The C-12 Business Manager told 
+Pruitt that it was either billed or accrued.  Pruitt subsequently asked him at what point along the 
+path revenue was recognized.  With respect to the unresolved claims concerning the C-12 Contract, 
+
+                                                5 
+---------------------Page 6---------------------
+
+the C-12 Business Manager explained that in order to recognize revenue, a sales order must be 
+created and then released to the Billing Clerk at ASD.  The Billing Clerk then generated an invoice 
+in SAP, at which point revenue was recognized on ASD’s books.  The invoice was then supposed 
+to be submitted into Wide Area Work Flow (“WAWF”), which transmits invoices to the customer, 
+but the submission of the invoice into WAWF did not have to occur in order for ASD to recognize 
+revenue.   
+
+       21.    Pruitt and the Aerospace Systems CFO had a telephone call on or about Friday, 
+December 20, 2013.  Pruitt claims they discussed a one-page list of the revenue recovery claims 
+that he purportedly emailed  the Aerospace Systems CFO prior to the call.  Pruitt claims that he 
+and the Aerospace Systems CFO went down the list and the Aerospace Systems CFO instructed 
+Pruitt which items to invoice and which to accrue.  The Aerospace Systems CFO denies giving 
+Pruitt blanket authority to invoice for the claims, but does recall a conversation in which he told 
+Pruitt that he could invoice for work performed during option year 3 (i.e., 2013). 
+
+       22.    On Monday, December 23, 2013, Pruitt emailed the C-12 Business Manager 
+“billing amounts” for seven of the revenue recovery items.   The C-12 Business Manager emailed 
+ASD’s Controller, copying the C-12 Contract Manager and Pruitt, asking the individual to 
+“[p]lease add planned revenue . . . for the revenue recovery billings that I did today,” and further 
+stating, “I believe the current course of action is that they are not to be released to the 
+government.”   
+
+       23.    To physically generate the invoices, ASD had to seek the assistance of Vertex’s 
+Shared Services department in Madison, AL, because ASD’s invoicing specialist was out of the 
+office.  Two clerks in Vertex’s billing department indicated that not entering invoices through 
+WAWF was unusual, and one conferred with a supervisor, the Controller of Vertex.  The 
+Controller of Vertex had seen this type of practice on other smaller accounts while working for an 
+audit firm, but had never seen it at L3 and recognized that not submitting the invoices through 
+WAWF would violate certain “work procedures.”  The Controller of Vertex called Pruitt, and 
+Pruitt said that based on an agreement with the U.S. Army, ASD and the U.S. Army were going to 
+negotiate each invoice before submitting it through WAWF.  The Controller of Vertex was 
+appeased by this conversation, and 69 invoices were generated in SAP but withheld from WAWF, 
+causing ASD to recognize approximately $17.9 million in revenue, without delivery of the related 
+invoices to the Army by WAWF.   
+
+       24.    The C-12 Business Manager reported concerns with Pruitt’s invoicing request to 
+the C-12 Contract Manager on Friday, December 27, 2013, in a conversation that was 
+memorialized in an email that night: 
+
+       It appears as thought [sic] the Revenue Recovery items are being handled outside of 
+       the L3 corporate policy.  I cannot quote the policy, however, I know that a revenue 
+       accrual the size of the one that it would take to account for the Revenue Recovery 
+       would require Corporate approval.  To avoid that Corporate approval, we have been 
+       directed to cut invoices through the billing system, but not send the invoices to the 
+       government.  I believe that is being done to avoid Corporate policy and try to 
+       “hide” this from the auditors.  I could be mistaken, but this doesn’t pass the smell 
+       test.   
+
+                                                6 
+---------------------Page 7---------------------
+
+       25.    That same day, the C-12 Contract Manager had a conversation with Pruitt in which 
+the C-12 Contract Manager relayed the C-12 Business Manager’s issues, and also noted that 
+certain employees were concerned regarding “invoice directives” from ASD.  Pruitt explained, as 
+the C-12 Contract Manager later wrote in a report to L3’s ethics office on December 31, 2013 
+(“Ethics”), that: 
+
+       [I]nvoicing  in  SAP  with  no  immediate  intent  to  extend  the  invoice  to  the 
+       Government was a “technique” to utilize since New York had forbid [ASD] to 
+       accrue the designated Army C-12 Revenue Recovery amounts.  This technique had 
+       the same year and effect on the financials that accrual would have had—potentially 
+       up  to  $18M  revenue  and  associated  EBIT  recognition.    I  asked  [Pruitt]  if  this 
+       “technique” was known to and approved by New York.  [Pruitt] answered that he 
+       did not know, but that Group had directed him to take this path.  I asked if we had 
+       this direction in writing and the answer was no. 
+
+       26.    In that same December 31, 2013 email, the C-12 Contract Manager also reported on 
+a conversation that occurred on Monday, December 30, 2013, stating: 
+
+       Yesterday  in  a  conversation  with  [the  C-12  Business  Manager]  and  the  [ASD 
+       Controller]  over  year  end  close  outs,  [Pruitt],  according  to  the  [C-12  Business 
+       Manager], stated that the Army C-12 year end numbers needed to be whatever they 
+       had  to  be  in  order  for  Division  to  make  $40M  EBIT.    I’m  sure  [Pruitt]  meant 
+       something other than how the comment was taken.  However, we, and especially the 
+       CFO, need to be careful with what we say—in particular in this current environment.   
+
+       27.    ASD, with the revenue from the invoices, met the required 75% of their plan to 
+make bonuses.  Pruitt received a bonus of $62,100 on a base salary of $189,673 attributable to 
+ASD achieving 75% of plan.  This bonus was later rescinded by L3.   
+
+G.     JANUARY 2014 ISSUES REGARDING ACCRUALS AND INVOICES 
+
+       28.    As part of the year-end close, Pruitt also requested that the C-12 Business Manager 
+enter $8.8 million of accruals related to three revenue recovery items.  In connection with these 
+accruals, the Aerospace Systems CFO sought approval from the head of audit and the Corporate 
+Controller to reverse costs charged in prior option years based on anticipated recovery from the 
+government.   
+
+       29.    The Corporate Controller did not allow the accrual of these items.  As the 
+Aerospace Systems CFO explained to Pruitt on January 7, 2014, “[b]ased on consultation with [the 
+Corporate Controller and another individual from L3 Corporate] … the following needs to take 
+place: 1. reverse the [$8.8M] entries [ ]…[and] Record as billed A/R and revenue the Option Year 
+3 amounts that are approximately $2.8M for the PMO Support and $450k for the Reduced 
+Payments.”  The Aerospace Systems CFO further explained, “[t]he reversal of cost of sales 
+charged in prior option years is not allowed under [Staff Accounting Bulletin] 104, so we will not 
+be allowed to pick up that profit.”   
+
+       30.    The Controller’s office requested through the Aerospace Systems CFO that ASD 
+obtain a letter from the U.S. Army indicating that ASD had permission to bill for the $3.2 million 
+
+                                                7 
+---------------------Page 8---------------------
+
+Option Year 3 claims.  In connection with seeking this letter, Pruitt received from the C-12 
+Contract Manager two separate email chains from late December and early January, neither of 
+which Pruitt had been copied on previously, discussing whether L3 should invoice for all of the 
+revenue recovery items (i.e., not just the $3.2 million).  Both email chains suggest that the U.S. 
+Army intended for L3 to send invoices that would be paid if justified or denied.  In one of the 
+email chains, the C-12 Contract Manager specifically asks, “[j]ust to be clear . . . .are you telling 
+me to invoice (bill) the government for what we believe we are owed to start the conversation?  Or 
+are you telling me to file a claim?  I see those as two different actions.”  The response was, “I think 
+the first step is to invoice the Government, then a claim will follow if the invoice is denied.”  
+Neither email chain mentioned invoicing in L3’s SAP system but withholding the invoice from the 
+U.S. Army. 
+
+H.     PRUITT MISLEADS L3’s AUDITORS 
+
+       31.    While ASD was focused on obtaining the letter from the U.S. Army, L3’s external 
+auditor sampled ASD invoices and noticed 12 were “pending coordination with the government.”  
+L3’s auditor requested “the WAWF acceptance document or proof of cash receipt as proof of the 
+billing.”  On January 14, Pruitt sent a draft explanation to ASD’s Controller (copying the General 
+Counsels of ASD and Logistics Solutions) stating, “[l]et’s review prior to providing to [L3’s 
+auditor].”  The document states, in part: 
+
+       The   USG   Fixed   Wing   Division   Chief   of   Contracting  [“Army   Contracting 
+       Officer”]has requested that we coordinate certain 2013 invoices with her prior to 
+       submitting  to  the  ACO  via  WAWF.    These  invoices  are  related  to  contractual 
+       interpretation of the contract for which we have a legal basis for our interpretation.  
+       This is a slight change in the invoice approval routing process since [the Army 
+       Contracting  Officer]  is  not  currently  in  the  WAWF  routing  and  she  desires  to 
+       review these invoices prior to the ACO, who is the first level of USG approval in 
+       the WAWF.   
+
+       32.    This statement, provided to L3’s auditor, was false and misleading in several 
+respects.  First, it omitted that the invoices had not been delivered to the U.S. Army, through 
+WAWF or otherwise.  Notably, when the invoices had been generated, Pruitt told the C-12 
+Business Manager and the C-12 Contract Manager that the procedure was a “technique” to utilize 
+since Corporate had forbidden ASD from accruing revenue.  Pruitt told the C-12 Contract Manager 
+that group was directing it, not that the U.S. Army had requested the change (as noted in the 
+email).  Later, when the Controller of Vertex questioned why ASD was withholding the invoices 
+from WAWF, Pruitt said that they were going to negotiate each invoice.  Moreover, after having 
+just seen the two email chains the C-12 Contract Manager had sent him indicating confusion as to 
+whether or not to invoice the U.S. Army, Pruitt understood that the Army Contracting Officer had 
+not requested ASD to follow the detailed procedure he explained to L3’s auditor.  But Pruitt’s 
+misleading statement had the intended effect. –L3’s auditor took comfort that the invoices in 
+question would in fact be presented to the U.S. Army.   
+
+                               
+
+                                                8 
+---------------------Page 9---------------------
+
+I.     THE MISLEADING LETTER TO L3 CORPORATE 
+
+       33.    On January 17, 2014 – three days after Pruitt sent the above explanation to L3’s 
+auditor – the General Counsel of ASD met with the Army Contracting Officer regarding three 
+revenue recovery issues.  Pruitt reported to the Aerospace Systems CFO that the General Counsel 
+of ASD “addressed the letter on the invoicing process [with the Army Contracting Officer] and 
+[the Army Contracting Officer] stated [they] would [get ASD a letter] but needed to route through 
+their legal prior to release” and that the General Counsel of ASD “believes it may be possible when 
+they meet legal next Friday.”  The Aerospace Systems CFO spoke to the President of Logistics 
+Solutions, who then called the President of ASD to reiterate the importance of urgently getting the 
+letter from the U.S. Army.  The General Counsel of ASD then sent the Army Contracting Officer 
+an e-mail – drafted by Pruitt – requesting the Army Contracting Officer’s  acknowledgment that 
+ASD could issue invoices to the U.S. Army.  The e-mail reads as follows:  
+
+       We appreciate the opportunity to address our contract status with you today.  We 
+       would like to confirm our understanding of the process going forward.  L3 intends 
+       to present each contract request with supporting documentation and invoice to the 
+       USG Contracting Office for review prior to submitting into WAWF for system 
+       processing.  We agree this is the most efficient manner to resolve pass [sp.] due 
+       invoice actions and we intend to follow the same format presented to you today for 
+       Option Year 3.  We would appreciate your understanding and acknowledgment of 
+       this process.   
+
+       34.    The Army Contracting Officer responded the same day with the following message: 
+
+       I acknowledge that this is the process we agreed to earlier.  It would be an exercise 
+       in futility to submit invoices for these requested contract funding adjustments at this 
+       point, as they would be rejected by the DCMA Administrative Contracting Officer.  
+       If we are able to reach resolution on these issues (which is the ultimate goal), my 
+       office will do one of two things: 1) Prepare a modification to the contract, adding 
+       additional funding if required; 2) Communicate our acknowledgment/acceptance of 
+       the proposed invoices to the DCMA ACO. (emphasis added)   
+
+       35.    The General Counsel of ASD then forwarded the Army Contracting Officer’s reply 
+to Pruitt and the President of ASD.  Pruitt asked the General Counsel of ASD to delete the sentence 
+stating that “[i]t would be an exercise in futility to submit invoices . . .” and forward the doctored 
+e-mail to L3 Corporate.  The General Counsel of ASD told Pruitt he was “out of [his] freaking 
+mind.”  Pruitt and the President of ASD then asked the General Counsel of ASD to go back to the 
+Army Contracting Officer to ask the Army Contracting Officer to remove that sentence.  Initially, 
+the General Counsel of ASD adamantly opposed going back to the Army Contracting Officer, and 
+even threatened to quit, but eventually agreed to do so.  The Army Contracting Officer then sent a 
+new e-mail to the General Counsel of ASD removing the “exercise in futility” sentence, which was 
+satisfactory to Pruitt and the President of ASD.  The e-mail was later forwarded to L3 Corporate.  
+L3’s auditor claims that based in part on the e-mail exchange between ASD and the U.S. Army, it 
+believed that the Army Contracting Officer was aware of the revenue recovery invoices, but that 
+the invoices were being reviewed by the U.S. Army before they were submitted into WAWF.   
+
+                                               9 
+---------------------Page 10---------------------
+
+       36.    The modified e-mail that Pruitt and the President of ASD procured from the Army 
+Contracting Officer is deceptive, however, because it gave L3 Corporate and L3’s auditor the 
+impression that ASD had permission to invoice the U.S. Army for unresolved claims, when that 
+was not actually the case.  Pruitt knew, based on his prior conversations with the General Counsel 
+of ASD, as well as the Army Contracting Officer’s original e-mail, that the U.S. Army was not 
+prepared to accept invoices.   
+
+J.      PRUITT’S ADDITIONAL MISSTATEMENTS TO L3’s AUDITOR 
+
+       37.    In April 2014, L3’s auditor requested information from L3 to explain why the 
+accounts receivable balance at ASD had grown by $18.5 million from Q1 2013 to Q1 2014.  Pruitt 
+drafted the below explanation, which was communicated to L3’s auditor: 
+
+       The   Army   C-12   Program   has   experienced   a   $18.5M   growth   in   Accounts 
+       Receivable (AR) bills created in SAP for the period ending 3-28-14 compared to 
+       the previous year’s Q1 ending AR balance.  Of this variance, $17.9M is directly 
+       associated with L3 and the USG regarding contract technical review.  The USG has 
+       requested extensive documentation beyond the normal requirements to complete 
+       their review.  These invoices cross multiple contract years and involve technical 
+       over and above requirements that also cross over functional government oversight 
+       boundaries.  Although we expected a reasonable response time from the USG, we 
+       understand their requirement to conduct due diligence.   
+
+       38.    The statement is misleading because it suggested that invoices had already been 
+delivered to the U.S. Army.  Also the sentence that “[t]he USG has requested extensive 
+documentation beyond the normal requirements to complete their review” was not accurate 
+because there was no expectation for the government to respond and perform due diligence on 
+claims that had not yet been submitted. 
+
+K.     L3’s INVESTIGATION AND DISCOVERY OF IMPROPER ACCOUNTING 
+
+       39.    In June 2014 – approximately six months after the invoice allegations were first 
+raised – L3 investigators discovered a billing supervisor at L3 had kept the hard copy revenue 
+invoices on a shelf in her office.  The invoices had not been delivered to the U.S. Army, in 
+violation of a specific internal control of L3 that required delivery of invoices.   
+
+       40.    Accounting Standards Codification 605-10-25-1 provides that revenue can be 
+recognized when it is realized or realizable and earned.  Consistent with the authoritative literature, 
+paragraph (A)(1) of the Codification of Staff Accounting Bulletins, Topic 13: Revenue 
+Recognition (which provides guidance on the C-12 Contract) states (“Topic 13(A)(1)”)  that 
+collectability be reasonably assured and that the amount of revenue be fixed or determinable as 
+conditions to recognizing revenue.  By failing to deliver the invoices, ASD’s recognition of the 
+$17.9 million in revenue violated these standards and therefore did not comply with U.S. GAAP.   
+
+       41.    L3 filed its Form 10-K for the fiscal year ending December 31, 2013 on February 
+25 and its Form 10-Q for the quarter ending March 31, 2014 on May 1, 2014.  These filings were 
+inaccurate.  
+
+                                              10 
+---------------------Page 11---------------------
+
+L.     L3’s REVISED FINANCIAL STATEMENTS 
+
+       42.    On October 10, 2014, L3 filed a Form 10-K/A for the fiscal year ended December 
+31, 2013, and a Form 10-Q/A the first quarter of 2014.  Among other items, the amended filings 
+disclosed that with respect to its Aerospace Systems segment, L3 identified and recorded pre-tax 
+charges of $60 million for 2013; $25 million for 2012; $5 million for 2011; $4 million for periods 
+prior to 2011; $20 million for 1Q:14; and $55 million for 2Q:14, for a total of $169 million in the 
+segment.  Of the adjustments, $69 million were attributable to the C-12 Contract due to “cost 
+overruns inappropriately deferred, sales invoices inappropriately prepared, and the failure to timely 
+and accurately perform contract estimates at completion and valuation assessments of inventories 
+and receivables,” at the Army Sustainment Division.  Of the $69 million, $15.4 million in pre-tax 
+income was related to the creation of invoices related to unresolved claims. 
+
+M.     VIOLATIONS 
+ 
+       43.    As a result of the conduct described above, Pruitt caused L3’s violations of Section 
+13(b)(2)(A) of the Exchange Act, which requires an issuer to make and keep books, records, and 
+accounts, which in reasonable detail, accurately and fairly reflect the transactions and dispositions 
+of the assets of the issuer. 
+
+       44.    As a result of the conduct described above, Pruitt willfully violated Section 13(b)(5) 
+of the Exchange Act, which prohibits any person from knowingly circumventing or knowingly 
+failing to implement a system of internal accounting controls or knowingly falsifying any book, 
+record, or account of an issuer. 
+
+       45.    As a result of the conduct described above, Pruitt willfully violated Rule 13b2-1 of 
+the Exchange Act, which prohibits any person from, directly or indirectly, falsifying or causing to 
+be falsified, any book, record, or account that the Exchange Act requires an issuer to maintain. 
+
+                                               III. 
+        
+       In view of the allegations made by the Division of Enforcement, the Commission deems it 
+appropriate that public administrative and cease-and-desist proceedings be instituted to determine: 
+        
+       A.      Whether the allegations set forth in Section II hereof are true and, in connection 
+therewith, to afford Respondent an opportunity to establish any defenses to such allegations;  
+        
+       B.      Whether, pursuant to Section 21C of the Exchange Act, Respondent should be 
+ordered to cease and desist from committing or causing any violations and any future violations of 
+Sections 13(b)(2)(A) of the Exchange Act, and Rule 13b2-1 thereunder; Respondent should be 
+ordered to cease and desist from committing or causing any violations and any future violations of 
+Section 13(b)(5) of the Exchange Act; and whether Respondent should be ordered to pay a civil 
+penalty pursuant to Section 21B(a) of the Exchange Act. 
+        
+       C.      Whether, pursuant to Section 4C of the Exchange Act, and Rule 102(e) of the 
+Commission’s Rules of Practice, Respondent should be censured or denied, temporarily or 
+permanently, the privilege of appearing or practicing before the Commission as an accountant. 
+
+                                                11 
+---------------------Page 12---------------------
+
+        
+                                                IV. 
+ 
+       IT IS ORDERED that a public hearing for purposes of taking evidence on the questions set 
+forth in Section III hereof shall be convened not earlier than 30 days and not later than 60 days from 
+service of this Order at a time and place to be fixed and before an Administrative Law Judge to be 
+designated by further order as provided by Rule 110 of the Commission’s Rules of Practice, 17 
+C.F.R. § 201.110. 
+        
+       IT IS FURTHER ORDERED that Respondent shall file an Answer to the allegations 
+contained in this Order within twenty (20) days after service of this Order, as provided by Rule 220 
+of the Commission's Rules of Practice, 17 C.F.R. § 201.220. 
+        
+       If Respondent fail to file the directed answer, or fails to appear at a hearing after being duly 
+notified, the Respondent may be deemed in default and the proceedings may be determined against 
+them upon consideration of this Order, the allegations of which may be deemed to be true as 
+provided by Rules 155(a), 220(f), 221(f) and 310 of the Commission's Rules of Practice, 17 C.F.R.  
+§§ 201.155(a), 201.220(f), 201.221(f) and 201.310. 
+ 
+       This Order shall be served forthwith upon Respondent as provided for in the Commission’s 
+Rules of Practice.   
+        
+       IT IS FURTHER ORDERED that, pursuant to Rule 360(a)(2) of the Commission’s Rules 
+of Practice, 17 C.F.R. § 201.360(a)(2), the Administrative Law Judge shall issue an initial 
+decision no later than 120 days from the occurrence of one of the following events:  (A) The 
+completion of post-hearing briefing in a proceeding where the hearing has been completed; (B) 
+Where the hearing officer has determined that no hearing is necessary, upon completion of 
+briefing on a motion pursuant to Rule 250 of the Commission’s Rules of Practice, 17 C.F.R. § 
+201.250; or (C) The determination by the hearing officer that a party is deemed to be in default 
+under Rule 155 of the Commission’s Rules of Practice, 17 C.F.R. § 201.155 and no hearing is 
+necessary.   
+        
+       In the absence of an appropriate waiver, no officer or employee of the Commission engaged 
+in the performance of investigative or prosecuting functions in this or any factually related 
+proceeding will be permitted to participate or advise in the decision of this matter, except as witness 
+or counsel in proceedings held pursuant to notice.  Since this proceeding is not “rule making” within 
+the meaning of Section 551 of the Administrative Procedure Act, it is not deemed subject to the 
+provisions of Section 553 delaying the effective date of any final Commission action. 
+        
+       By the Commission. 
+ 
+ 
+ 
+ 
+                                                             Brent J. Fields 
+                                                             Secretary 
+
+                                                12 

@@ -1,0 +1,1888 @@
+---------------------Page 1---------------------
+
+          Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  1 of 36.  PageID #: 1  
+
+        
+        
+ 
+                            UNITED STATES DISTRICT COURT 
+
+                              NORTHERN DISTRICT OF OHIO 
+
+ 
+                                                       :    
+UNITED STATES SECURITIES                               :    
+AND EXCHANGE COMMISSION,                               :    
+                                                       :    
+     Plaintiff,                                        :   CIVIL ACTION NO. 
+                                                       :    
+   v.                                                  :    
+                                                       :   COMPLAINT 
+GREGORY GESWEIN,                                       :    
+KEVIN KRAKORA, and                                     :   DEMAND FOR JURY TRIAL 
+SANDRA MILLER,                                         : 
+                                                       : 
+     Defendants.                                       : 
+                                                       : 
+ 
+ 
+       Plaintiff United States Securities and Exchange Commission (the “Commission”) alleges:  
+
+                                           SUMMARY  
+
+       1.       This action involves earnings management fraud by the financial management of 
+
+Diebold, Incorporated (“Diebold”), an Ohio corporation that manufactures and sells automated 
+
+teller machines (“ATMs”), bank security systems, and electronic voting machines.  Gregory 
+
+Geswein, Diebold’s former Chief Financial Officer (“CFO”), Kevin Krakora, Diebold’s former 
+
+Controller and later its CFO, and Sandra Miller, Diebold’s former Director of Corporate 
+
+Accounting, engaged in fraudulent accounting practices to inflate earnings to meet forecasts.  
+
+From at least 2002 to 2007, these fraudulent practices included (i) improper use of “bill-and-
+
+hold” accounting; (ii) improper recognition of revenue on a lease agreement subject to an 
+
+undisclosed side buy-back agreement; (iii) manipulating reserves and accruals; (iv) improperly 
+
+delaying and capitalizing expenses; and (v) improperly writing up the value of used inventory. 
+
+ 
+---------------------Page 2---------------------
+
+         Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  2 of 36.  PageID #: 2  
+
+       2.      As a result of these practices, Diebold filed at least 40 annual, quarterly, and 
+
+current reports with the Commission, issued dozens of press releases, and otherwise made public 
+
+statements that contained material misstatements and omissions concerning the company’s 
+
+financial performance.  Diebold’s improper, and in many instances fraudulent, accounting 
+
+practices misstated the company’s reported pre-tax earnings by at least $127 million.  To correct 
+
+the most recent misstatements, on September 30, 2008, Diebold restated its financial statements 
+
+for the years 2003 through 2006, and the first quarter of 2007, in its Form 10-K for 2007. 
+
+       3.      By engaging in the practices and transactions alleged in this Complaint, Geswein, 
+
+Krakora, and Miller violated Section 17(a) of the Securities Act of 1933 (“Securities Act”) [15 
+
+U.S.C. §77q(a)], Sections 10(b) and 13(b)(5) of the Securities Exchange Act of 1934 (“Exchange 
+
+Act”) [15 U.S.C. §§ 78j(b) and 78m(b)(5)] and Exchange Act Rules 10b-5 and 13b2-1 [17 
+
+C.F.R. §§ 240.10b-5 and 240.13b2-1] and aided and abette                                 d Diebold’s violations of  Exchange 
+
+Act Sections 13(a), 13(b)(2)(A) and13(b)(2)(B) [15 U.S.C. §§ 78m(a), 78m(b)(2)(A), and 
+
+78m(b)(2)(B)] and Exchange Act Rules 12b-20, 13a-1, 13a-11, and 13a-13 [17 C.F.R. §§ 
+
+240.12b-20, 240.13a-1, 240.13a-11, and 240.13a-13].   Geswein and Krakora also violated 
+
+Exchange Act Rules 13a-14 and 13b2-2 [17 C.F.R. §§ 240.13a-14 and 240.13b2-2], and Section 
+
+304 of the Sarbanes-Oxley Act of 2002 [15 U.S.C. § 7243].   
+
+       4.      The Commission seeks entry of a final judgment permanently enjoining each 
+
+defendant from further violations of these federal securities laws, ordering disgorgement of ill-
+
+gotten gains with prejudgment interest, imposing civil monetary penalties, and, with respect to 
+
+Geswein and Krakora, ordering that they reimburse Diebold for bonuses and other incentive and 
+
+equity compensation that they received, and that the Court impose an officer-and-director bar. 
+
+        
+
+        
+
+                                               2 
+
+---------------------Page 3---------------------
+
+         Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  3 of 36.  PageID #: 3  
+
+                               JURISDICTION AND VENUE
+  
+                                                    
+       5.      This Court has jurisdiction over this matter pursuant to Securities Act Sections 20 
+
+and 22(a) [15 U.S.C. §§ 77(t) and 77v(a)] and Exchange Act Sections 21 and 27 [15 U.S.C. §§ 78u 
+
+and 78aa].  Defendants, directly or indirectly, made use of the means or instrumentalities of 
+
+interstate commerce or the mails, or a facility of a national securities exchange, in connection 
+
+with the conduct alleged herein. 
+
+       6.      Venue is proper because certain of the acts, practices, and courses of business 
+
+constituting the violations occurred within this judicial district.   
+
+                                       DEFENDANTS  
+
+       7.      Gregory Geswein, 55, is a resident of Toledo, Ohio.  He was the CFO of Diebold 
+
+from 2000 to 2005.  He was Diebold’s principal accounting officer from 2000 to 2002 and 
+
+principal financial officer from 2000 to 2005. 
+
+       8.      Kevin Krakora, 54, is a resident of Canton, Ohio.  He was Diebold’s Controller 
+
+from 2001 through 2005, and the company’s CFO from 2005 through April 2009.  Krakora was 
+
+Diebold’s principal accounting officer from 2003 to 2006 and principal financial officer from  
+
+2005 to 2009.  When Krakora was Diebold’s Controller, he reported directly to Geswein.  
+
+Krakora stepped down as Diebold’s CFO in April 2009, but remains an employee of Diebold.  
+
+Krakora was a certified public accountant licensed in Ohio, but his license is now inactive. 
+
+       9.      Sandra Miller, 42, is a resident of Paris, Ohio.  She was Diebold’s Director of 
+
+Corporate Accounting from 2002 to 2006.  During her tenure at Diebold, Miller reported to 
+
+Krakora.  Miller is a certified public accountant licensed in Ohio.   
+
+                                   RELEVANT ENTITY  
+
+       10.     Diebold is an Ohio corporation headquartered in North Canton, Ohio.  Diebold 
+
+manufactures and sells ATMs, bank security systems, and electronic voting machines.  Diebold’s 
+
+                                               3 
+
+---------------------Page 4---------------------
+
+         Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  4 of 36.  PageID #: 4  
+
+common stock is registered with the Commission pursuant to Exchange Act Section 12(b) and is 
+
+listed on the New York Stock Exchange. 
+
+                                           FACTS  
+
+       11.     From 2002 to 2007, Diebold management conducted meetings known as monthly 
+
+business reviews (“MBRs”), in which each Diebold business unit would review the past month’s 
+
+financial performance and that quarter’s projected results.  Geswein, and later Krakora, would 
+
+then compare the company’s projections to stock analysts’ consensus earnings projections for  
+
+Diebold.  Typically, Diebold’s internally projected earnings were lower than the analyst  
+
+consensus earnings projection.  Toward the end of most quarters, Krakora compiled “opportunity  
+
+lists” of ways to close the gap between the company’s actual financial results and analyst 
+
+forecasts.  Krakora reviewed such lists with Geswein. While some items on the “opportunity 
+
+lists” represented legitimate business opportunities, others were fraudulent accounting 
+
+transactions designed to improperly recognize revenue or otherwise inflate Diebold’s financial 
+
+performance.  
+
+       12.     As quarters came to a close, Geswein and Krakora received “flash reports,” 
+
+sometimes on a daily basis, comparing Diebold’s actual earnings to analyst consensus earnings 
+
+forecasts, which were often referred to as “required” or “necessary” earnings.  Geswein and 
+
+Krakora used the often improper “opportunities” from the “opportunity lists” that they devised to 
+
+reach this earnings target.  Miller made various manual accounting entries corresponding to these 
+
+“opportunities” to Diebold’s books.  Miller knew, or was reckless in not knowing, that these 
+
+“opportunities” and the corresponding manual journal entries were improper.  The Defendants 
+
+knew or were reckless in not knowing that their actions were causing Diebold to report 
+
+materially false financial results to the public. 
+
+                                               4 
+
+---------------------Page 5---------------------
+
+         Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  5 of 36.  PageID #: 5  
+
+       13.     As described below,  Geswein, Krakora, and Miller, acting knowingly or 
+
+recklessly, each orchestrated and/or participated in one or more of the following fraudulent 
+
+accounting practices, which caused Diebold to report materially false and misleading financial 
+
+results to the public: (i) improper use of “bill-and-hold” accounting; (ii) improper recognition of 
+
+revenue on a lease agreement subject to an undisclosed side buy-back agreement; 
+
+(iii) manipulating reserves and accruals; (iv) improperly delaying and capitalizing expenses; 
+
+and/or (v) improperly writing up the value of used inventory.  As a result of these fraudulent 
+
+accounting schemes, Geswein and Krakora made numerous material false and misleading 
+
+statements and omissions of material fact in press releases, to investment analysts on conference 
+
+calls, and in Diebold’s Forms 8-K, 10-Q, and 10-K filed with the Commission.  
+
+     Improper Use of “Bill-and-Hold” Accounting to Prematurely Recognize Revenue  
+
+                 Background on Diebold’s Use of “Bill-and-Hold” Accounting 
+
+       14.     Under Generally Accepted Accounting Principles (“GAAP”), a seller of goods 
+
+generally may not recognize revenue until, among other things, the product is delivered to the 
+
+customer.  An exception exists, however, for what is known as “bill-and-hold” transactions.  If a 
+
+transaction meets the criteria for “bill-and-hold” treatment, the seller may be permitted to 
+
+recognize the revenue under GAAP before delivery of the product to the customer.  
+
+       15.     For a transaction to qualify as “bill-and-hold” (thus allowing revenue recognition 
+
+under GAAP before delivery to the customer), the following criteria must be satisfied:  (i) the             
+
+buyer, not the seller, requests that the transaction be on a bill-and-hold basis, (ii) the buyer has a 
+
+substantial business purpose for ordering on a bill-and-hold basis, (iii) there is a fixed delivery 
+
+schedule that is reasonable and consistent with the buyer’s business purpose, (iv) the seller does  
+
+                                                5 
+
+---------------------Page 6---------------------
+
+         Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  6 of 36.  PageID #: 6  
+
+not retain any specific performance obligations such that the earnings process is incomplete, and 
+
+(v) the products are ready for shipment. 
+
+       16.     From at least 2002 through 2007, Diebold designated numerous of its sales 
+
+contracts as “F-term” orders, or “Factory” orders.  Diebold recognized revenue on F-term orders 
+
+when the products were shipped from Diebold’s factory to a Diebold warehouse, rather than when 
+
+the products were delivered and installed at the customer’s location.  Thus, Diebold recognized 
+
+revenue under all of its F-term  orders on a bill-and-hold basis. 
+
+       17.     To satisfy the delivery requirement under GAAP, as described above, recognition 
+
+of revenue when the products were shipped from Diebold’s factory to its warehouse – such as in  
+
+Diebold’s F-term orders – would only be proper if those transactions met the criteria for bill-and-
+
+hold transactions. 
+
+                      Diebold Improperly Used Bill-and-hold Accounting 
+
+       18.     As detailed below, during at least the period of 2002 through early 2007, Diebold 
+
+routinely recognized revenue on products before the company delivered the products to the 
+
+customer (i.e., under F-term orders), even though many of those transactions did not meet the bill-
+
+and-hold criteria for doing so.  As a result, Diebold prematurely recognized material amounts of 
+
+revenue and earnings.  This caused Diebold’s reported financial results to be materially false and 
+
+misleading.   
+
+       19.       Geswein, Krakora, and Miller knew or were reckless in not knowing that Diebold 
+
+systematically recognized revenue on F-term orders prematurely, in violation of GAAP, and that, 
+
+therefore, Diebold’s reports filed with the Commission, as well as Diebold’s press releases and 
+
+other statements to the public, made false and misleading statements and omissions of material fact  
+
+about Diebold’s financial performance. 
+
+                                               6 
+
+---------------------Page 7---------------------
+
+         Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  7 of 36.  PageID #: 7  
+
+       20.     Geswein and Krakora knew or were reckle   ss in not knowing that F-term orders did 
+
+not meet the bill-and-hold criteria, but did not want to eliminate this improper accounting because 
+
+it would reduce Diebold’s reported revenue in the short-term, and also force the disclosure of  
+
+Diebold’s widespread bill-and-hold practices.  
+
+       21.     After the Commission’s Staff Accounting Bulletin 104 was published in 
+
+December 2003 (which, among other things, reiterated the criteria for bill-and-hold accounting), 
+
+Defendants became concerned that Diebold’s revenue recognition practices would not withstand  
+
+scrutiny. 
+
+       22.     Beginning in 2004, Defendants carried out plans to create and rely on form 
+
+documents that purported to show that many of Diebold’s sales supposedly met the criteria for 
+
+bill-and-hold revenue recognition under GAAP, even though the Defendants knew or were 
+
+reckless in not knowing that the documents were untrue in many transactions, and those 
+
+transactions did not legitimately qualify for bill-and-hold treatment. 
+
+       23.     For example, in early 2004, Krakora, with Miller’s assistance, redrafted the 
+
+company’s form sales contract, known as a Memorandum of Agreement (“MOA”) in an effort to 
+
+make it appear that Diebold customers using the MOA were requesting a product on a bill-and-
+
+hold basis for the customer’s business purposes even if the customers had not actually requested 
+
+this and/or did not have a business purpose for bill-and-hold. 
+
+       24.      Geswein, Krakora, and Miller knew, or were reckless in not knowing, that 
+
+notwithstanding the revisions to the MOA, the transactions did not meet the criteria for bill-and-
+
+hold treatment to recognize revenue under GAAP because, for example, customers were not 
+
+generally requesting products on a bill-and-hold basis, and bill-and-hold treatment was not being 
+
+used for the customers’ own business purposes.   Thus, Geswein, Krakora and Miller knew or 
+
+                                               7 
+
+---------------------Page 8---------------------
+
+          Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  8 of 36.  PageID #: 8  
+
+were reckless in not knowing that Diebold could not properly recognize revenue before delivery 
+
+of the products to the customer.   
+
+                    Improperly Converting Contracts to Bill-and-Hold Status 
+
+       25.     In 2004, Krakora and Miller also drafted a standard form contract to convert “I-
+
+term” orders – orders for which Diebold recognized revenue upon installation at the customer 
+
+site – to purported bill-and-hold transactions.  With regard to customers who agreed to sign this 
+
+form at Diebold’s request, rather than at the customer’s request and for the customer’s business 
+
+purposes, Diebold improperly recognized revenue on the transaction when the product was 
+
+shipped from Diebold’s factory to its warehouse.   
+
+       26.     As discussed previously, the accounting criteria for bill-and-hold transactions 
+
+require that, in order for Diebold to recognize revenue before delivery to the customer, the 
+
+customer – not Diebold – must request that the transaction be on a bill-and-hold basis, and the 
+
+buyer must have a substantial business purpose for ordering on a bill-and-hold basis.   
+
+       27.     Contrary to the above requirements for bill-and-hold accounting, Geswein, 
+
+Krakora, and other Diebold management encouraged its sales force to request that customers  
+
+execute the forms to convert “I-term” orders to bill-and-hold transactions.  Geswein and Krakora 
+
+often did this on “make the quarter” calls, notwithstanding concerns raised by sales personnel.  For          
+
+example, in June 2005, a Diebold sales manager wrote an email that was forwarded to Krakora 
+
+stating that the sales staff was “trying to help Diebold’s revenue recognition drive,” but raised 
+
+concerns about asking customers to sign bill-and-hold forms in instances when Diebold was at 
+
+fault for installation delays.  Krakora took no action at the time to correct this improper practice.  
+
+Another employee responded to the sales manager’s original email stating:  “This is like the 
+
+crazy aunt in the cellar no one wants to talk about.” 
+
+                                                8 
+
+---------------------Page 9---------------------
+
+         Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  9 of 36.  PageID #: 9  
+
+       28.     As an example of the improper efforts to create the false appearance that 
+
+customers had requested bill-and-hold transactions in the fourth quarter of 2004, a Diebold sales 
+
+representative had a customer, Charter One Bank (“Charter One”), sign a bill-and-hold form to 
+
+convert a $4 million I-term order into a purported bill-and-hold transaction.  The sales  
+
+representative was carrying out instructions from his superiors to get a bill-and-hold form from  
+
+Charter One, rather than responding to a request from Charter One for bill-and-hold treatment. 
+
+       29.     In late 2004, Diebold personnel informed Geswein that Charter One would sign a 
+
+bill-and-hold form but that Charter One was unwilling to actually pay for the equipment until it 
+
+was installed.   
+
+       30.     Geswein nevertheless instructed his subordinates to have Charter One sign the 
+
+bill-and-hold form, even though he knew that Charter One had not requested bill-and-hold and 
+
+would not pay until installation. 
+
+       31.     The Charter One transaction did not meet the criteria for bill-and-hold treatment 
+
+and recognition of the revenue from the sale in the fourth quarter of 2004. 
+
+       32.     In a later conference call among Geswein and other Diebold personnel in early 
+
+2005, Geswein was again told that Charter One had signed the bill-and-hold form (which by its 
+
+terms required payment upon receipt of the invoice sent when Diebold shipped the products to its 
+
+own warehouse), but that Charter One would not pay for the ATMs before they were installed.  
+
+Geswein’s response was that the company should take the revenue, and “we’ll worry about the 
+
+receivables later.”  Geswein thus caused Diebold to improperly recognize revenue on the 
+
+transaction in the fourth quarter of 2004. 
+
+       33.     Geswein knew or was reckless in not knowing that Diebold could not properly 
+
+recognize the revenue from the Charter One transaction in the fourth quarter of 2004.  Even 
+
+                                               9 
+
+---------------------Page 10---------------------
+
+        Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  10 of 36.  PageID #: 10  
+
+though Charter One was invoiced in the fourth quarter of 2004, it did not pay for this transaction 
+
+until the second quarter of 2005 (after Diebold delivered and installed the products).  This 
+
+transaction inflated Diebold’s earnings in the fourth quarter of 2004 by about $2 million. 
+
+       34.     By prematurely including the revenue from the Charter One transaction, Diebold 
+
+was able to report that it met the low end of its projected earnings for the fourth quarter of 2004.  
+
+Without the revenue from the Charter One transaction in that quarter, Diebold would have 
+
+missed its projected earnings.         
+
+       35.     Geswein announced Diebold’s revenues and earnings for the fourth quarter of 
+
+2004 in a conference call with analysts on January 26, 2005.  On or about March 4, 2005, 
+
+Geswein signed Diebold’s Form 10-K for 2004, which also reported Diebold revenues and 
+
+earnings for the fourth quarter of 2004.  Geswein knew or was reckless in not knowing that 
+
+financial figures Diebold announced and reported were materially false and misleading because, 
+
+among other things, they included prematurely recognized revenue from the transaction 
+
+described above.       
+
+               Improperly Recognizing Revenue Regarding Incomplete Products 
+
+       36.     By at least 2005, Krakora and Miller knew or were reckless in not knowing that 
+
+many of Diebold’s supposed bill-and-hold sales of ATMs failed to meet another of the bill-and-
+
+hold criteria:  That the products must be complete and that the seller must not retain any specific 
+
+performance obligations.  In fact, many of the ATMs sold under purported bill-and-hold terms 
+
+were not complete because key software had not been loaded by the time that Diebold 
+
+recognized revenue from the sales.  Krakora and Miller knew, or were reckless in not knowing, 
+
+that Diebold was prematurely recognizing revenue on such incomplete products.   
+
+           Improperly Recognizing Revenue For Professional Services and Upgrades 
+
+                                              10 
+
+---------------------Page 11---------------------
+
+        Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  11 of 36.  PageID #: 11  
+
+       37.     Additionally, by at least 2005, Krakora and Miller knew or were reckless in not 
+
+knowing that Diebold was recognizing revenue for professional services and upgrades on a bill-
+
+and-hold basis.   Krakora and Miller knew, or  were reckless in not knowing, that revenue cannot 
+
+be recognized on services and upgrades on a bill-and-hold basis.       
+
+                                   “Pulling in” F-Term orders 
+
+       38.     At certain times during the period 2004 through 2006, in connection with 
+
+Diebold’s efforts to meet its earnings forecasts, Geswein and Krakora resorted to recognizing 
+
+revenue even earlier on some F-term orders by directing the manufacturing and shipment of 
+
+products to the warehouse before the shipment dates contained in the MOAs.  Diebold would 
+
+then record revenue on the products it shipped to its warehouse early.  This practice was known 
+
+as “pulling in” F-terms. 
+
+       39.     The amount of F-term orders “pulled in” varied by quarter, but in many instances 
+
+was done purposely to inflate earnings in order to meet forecasts.  In these instances, Geswein 
+
+and Krakora instructed Diebold’s manufacturing personnel to manufacture products early, 
+
+without customer notice or approval, for the purpose of recognizing revenue in an earlier 
+
+reporting period.  For example, in June 2004 (the last month of the second quarter), Diebold 
+
+“pulled in” about $3.4 million of F-term orders that were scheduled to be shipped to the 
+
+warehouse in July 2004, and in December 2004 (the last month of the fourth quarter), Diebold 
+
+“pulled in” about $3.8 million of F-term orders that were scheduled to ship to the warehouse in 
+
+January 2005.   These “pull ins” inflated Diebold’                                    s earnings in these quarters by about $1.1 
+
+million and about $1.3 million, respectively.  
+                                               
+
+                                               11 
+
+---------------------Page 12---------------------
+
+        Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  12 of 36.  PageID #: 12  
+
+       40.      Geswein and Krakora knew, or were reckless in not knowing, that “pulling in” 
+
+F-term orders was not in accordance with GAAP,  and that Diebold was prematurely recognizing 
+
+revenue on these transactions and, therefore, falsely reporting its revenues and earnings.   
+
+                         The $7.5 Million Revenue Recognition Reserve 
+
+       41.     In January 2004, as part of its 2003 year-end audit, Diebold’s auditor tested a 
+
+sample of Diebold’s 2003 bill-and-hold transactions.  This testing found that Diebold had 
+
+prematurely recognized revenue on certain transactions, and that in certain instances Diebold had 
+
+recognized revenue on transactions inconsistent with company policy.  In response, Diebold 
+
+established a reserve representing $7.5 million of profit margin in the last quarter of 2003.  This 
+
+reserve was derived by extrapolating the errors found in the auditor’s sample.   
+
+       42.     In February 2004, Krakora and Miller learned that Diebold had prematurely 
+
+recognized revenue in the fourth quarter of 2003, on a $5.2 million order from PNC Bank.  This 
+
+had not been identified as an error by the company’s auditor during its testing.  Notwithstanding, 
+
+Krakora and Miller did not correct this error or adjust the $7.5 million profit margin reserve that 
+
+the company had established to account for errors the auditor had found during its audit, even 
+
+though this error demonstrated that the reserve was inadequate.  
+
+       43.     Krakora and Miller knew or were reckless in not knowing that GAAP required 
+
+Diebold to correct the applicable 2003 financial statements to reflect the effect of this known 
+
+error of $5.2 million.  Yet, Krakora and Miller failed to do so.    
+
+                          Improper “Smoothing” of Earnings Impact 
+
+       44.     In 2004, when Defendants began using the revised MOA, Geswein and Krakora 
+
+knew that this would result in fewer F-term orders and less revenue in 2004, as it was envisioned 
+
+that many customers would not agree to the new terms.   
+
+                                               12 
+
+---------------------Page 13---------------------
+
+        Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  13 of 36.  PageID #: 13  
+
+       45.     To improperly “smooth” the negative impact to earnings from these changes, 
+
+Geswein and Krakora decided to stagger the implementation of the new practices.  Starting in 
+
+April 2004, Diebold started applying the new practices to orders from its larger national bank 
+
+customers.  Diebold decided to wait until July 2004 to apply the practices to orders from its 
+
+smaller regional bank customers.  
+                                   
+
+       46.     However, certain Diebold personnel began applying the new revenue recognition 
+
+practices to some regional bank orders earlier than Geswein and Krakora had planned, resulting 
+
+in fewer orders being designated as F-term, and thus less revenue being recognized early.  
+
+Geswein and Krakora discovered this and realized that the company would not meet its earnings 
+
+forecast for the third quarter of 2004.  In or about August and September 2004, Geswein and 
+
+Krakora instructed Diebold financial personnel to make a significant “top line” journal entry that 
+
+would prematurely and artificially pull revenue into the third quarter of 2004 with regard to sales 
+
+that, based upon the new bill-and-hold procedures, actually would not generate revenue until 
+
+later.  In accordance with Geswein’s and Krakora’s direction, Diebold financial personnel made 
+
+an $18.8 million top line journal entry that prematurely recognized revenue that otherwise would 
+
+not and should not have been recognized until later quarters.  
+
+       47.     As a result of this improper $18.8 top line entry, Diebold met its revised earnings 
+
+forecast in the third quarter of 2004.  Geswein and Krakora knew, or were reckless in not 
+
+knowing, that the making of such a top line entry had no accounting basis, violated GAAP, and 
+
+was solely used to “smooth” or mitigate the impact of Diebold’s 2004 revenue recognition 
+
+changes. 
+
+        
+
+        
+
+        
+
+                                               13 
+
+---------------------Page 14---------------------
+
+        Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  14 of 36.  PageID #: 14  
+
+                      False and Misleading Statements and Omissions of 
+
+                       Material Fact Involving Bill-and-Hold Accounting 
+
+                                                 
+       48.     Diebold’s premature recognition of revenue on certain F-term orders, based upon 
+
+the many improper actions of Defendants Geswein, Krakora and Miller, described above, 
+
+resulted in revenue and earnings misstatements in each of Diebold’s quarterly and annual 
+
+financial statements from 2003 through the first quarter of 2007.  In 2003 alone, Diebold 
+
+overstated its earnings before taxes by $29.5 million (or over 11%) due to premature recognition 
+
+of revenue on supposed bill-and-hold transactions.  
+
+       49.     In 2008, Diebold restated its financial statements for the reporting periods from  
+
+2003 through the first quarter of 2007, and announced that going forward it would recognize 
+
+revenue upon customer acceptance of goods or services, and not on an F-term basis.  In its 
+
+restatement, Diebold retroactively applied this new revenue recognition policy which alone 
+
+resulted in a decrease of the company’s total earnings before taxes of $56.2 million. 
+
+       50.     As a result of the misuse of bill-and-hold accounting and the resulting premature 
+
+recognition of revenue, as described above, Geswein and Krakora signed and caused Diebold to 
+
+file materially false and misleading Forms 10-K, 10-Q, and 8-K with the Commission during the 
+
+periods from 2003 through the first quarter of 2007, and made materially false and misleading 
+
+statements and omissions of material fact in those reports, in statements in press releases issued 
+
+to the public and in statements by Geswein and Krakora during conference calls with stock 
+
+analysts. 
+
+       51.     As a result of the foregoing, Geswein and Krakora knowingly or recklessly made 
+
+misrepresentations or omissions of material fact when they signed Diebold’s Forms 10-K for the 
+
+years 2003 and 2004 (signed by Geswein and Krakora), the Forms 10-K for the years 2005 and 
+
+2006 (signed by Krakora), and each of Diebold’s Form 10-Q reports covering the quarterly 
+
+                                              14 
+
+---------------------Page 15---------------------
+
+        Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  15 of 36.  PageID #: 15  
+
+periods within those years and the first quarter of 2007.  Geswein and Krakora also made 
+
+materially false and misleading statements and omissions of material fact in statements in press 
+
+releases issued to the public and in statements by Geswein and Krakora during conference calls 
+
+with stock analysts with regard to those same periods of time.  
+
+       52.     As Geswein and Krakora knew or were reckless in not knowing, those reports and 
+
+statements contained false and misleading statements and omissions of material fact about 
+
+Diebold’s revenues and earnings, and failed to disclose the material facts surrounding Diebold’s 
+
+use of bill-and-hold accounting, including but not necessarily limited to the fact that Diebold was 
+
+improperly using bill-and-hold accounting, that Diebold had prematurely recognized material 
+
+amounts of revenue and was not complying with GAAP requirements, that Diebold changed its 
+
+procedures and documentation for bill-and-hold transactions in 2004 and anticipated a significant 
+
+drop in revenue as a result, and that in 2004 Diebold was staggering its implementation of its 
+
+revised policies regarding revenue recognition in order to smooth earnings and hide the impact of 
+
+its changed policies. 
+
+       53.     As examples of the foregoing, on or about February 27, 2004, Geswein and 
+
+Krakora signed Diebold’s Form 10-K for 2003, on or about August 12, 2005, Geswein and 
+
+Krakora signed a restatement of Diebold’s income for 2003, and on or about March 13, 2006, 
+
+Krakora signed Diebold’s Form 10-K for 2005, all of which stated Diebold’s revenues and 
+
+earnings for years including 2003.  Each of those reports – which were filed with the 
+
+Commission – materially overstated Diebold’s revenues and earnings figures for 2003 because 
+
+they included material amounts of revenue and earnings from bill-and-hold transactions that did 
+
+meet the applicable criteria.  For example, according to Diebold’s 2008 restatement, Diebold’s 
+
+                                              15 
+
+---------------------Page 16---------------------
+
+        Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  16 of 36.  PageID #: 16  
+
+net income for 2003 had been overstated by $29.5  million attributable to improper bill-and-hold 
+
+accounting. 
+
+       54.     
+               Miller, as Director of Corporate Accounting, was responsible along with Geswein 
+
+and Krakora for ensuring that Diebold’s revenue recognition policies, including its policies 
+
+regarding bill-and-hold, complied with GAAP, and for overseeing Diebold’s filings with the 
+
+Commission.  Miller, acting knowingly or recklessly, through actions including but not 
+
+necessarily limited to those described above, participated in and helped enable the practices by 
+
+which Diebold misused bill-and-hold accounting and by which Diebold made the resulting 
+
+materially false and misleading statements and omissions of material fact in reports filed with the 
+
+Commission as discussed herein. 
+
+   Recognition of Revenue on a Lease Agreement Subject to a Side Buy-back Agreement  
+        
+       55.     Under GAAP, the full amount of revenue from a transaction cannot be recognized 
+
+if the transaction is subject to significant future obligations or contingencies, such as a buy-back 
+
+agreement. 
+
+       56.     As detailed below, Geswein and Krakora participated in a scheme to prematurely 
+
+recognize revenue from a transaction that was subject to a buy-back agreement.  
+
+       57.     In the first quarter of 2005, Diebold entered into an agreement to lease a portfolio 
+
+of ATMs located in WalMart stores to a private company, Cash Depot, for $5 million.  In this 
+
+transaction, Diebold entered into a side agreement with Cash Depot, giving Cash Depot the right 
+
+to “sell” the ATMs back to Diebold at a later date.  
+
+       58.     Geswein agreed to the buy-back provision when he met with Cash Depot’s CEO to  
+
+negotiate the transaction in the first quarter of 2005.  Geswein told the Diebold sales representative 
+
+working on the transaction to speak with Krakora about how to draft the agreement with Cash 
+
+                                              16 
+
+---------------------Page 17---------------------
+
+        Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  17 of 36.  PageID #: 17  
+
+Depot with a buy-back provision, so that the company ostensibly could still recognize all the 
+
+revenue from the transaction in the first quarter of 2005.   
+
+       59.     In the first quarter of 2005, Krakora advised the Diebold sales representative that 
+
+two agreements would be needed:  an agreement for the sale of the ATMs to Cash Depot and a  
+
+separate side agreement regarding the buy-back provision.  After meeting with Krakora, the sales 
+
+representative told Geswein that Krakora said that a separate side agreement regarding the buy-
+
+back provision was needed for revenue recognition in the first quarter of 2005.  
+                                                                              
+
+       60.     Because the Cash Depot transaction was subject to significant future obligations 
+
+or contingencies (i.e., the buy-back agreement), it was improper under GAAP for Diebold to 
+
+recognize the entire $5 million in revenue on this transaction in the first quarter of 2005.  
+
+       61.     Geswein and Krakora failed to inform Diebold’s auditors of the existence of the 
+
+side agreement with Cash Depot. 
+
+       62.     Notwithstanding the foregoing, Diebold improperly recognized all $5 million in 
+
+revenue on this transaction in the first quarter of 2005.  Approximately $3.3 million of that 
+
+amount represented earnings, which accounted for approximately 8% of Diebold’s total pretax 
+
+earnings that quarter. 
+
+       63.     At all relevant times, Geswein and Krakora knew, or were reckless in not 
+
+knowing, that Diebold was recognizing the $5 million in revenue from the Cash Depot 
+
+transaction, that the sale was subject to a buy-back agreement, and that therefore the company’s 
+
+recognition of the full amount of revenue and earnings on the transaction was improper.    
+
+       64.     As a result of the foregoing, Diebold’s revenue and earnings figures for the first 
+
+quarter of 2005 were materially false and misleading.  Geswein, knowingly or recklessly, gave 
+
+such false and misleading figures to the public through various means, including but not 
+
+                                               17 
+
+---------------------Page 18---------------------
+
+        Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  18 of 36.  PageID #: 18  
+
+necessarily limited to Diebold’s Form 10-Q for the first quarter of 2005, which was signed by 
+
+Geswein on or about May 5, 2005, as well as in a conference call with analysts on April 20, 
+
+2005.  Geswein knew or was reckless in not knowing that the Form 10-Q and his statements 
+
+were materially false and misleading in that they included the $5 million in revenue and resulting 
+
+earnings from the Cash Depot transaction, which could not all properly be included under 
+
+GAAP, and he failed to disclose that the Cash Depot transaction was subject to the side  
+
+agreement, as described above. 
+
+                            Manipulating Reserves and Accruals  
+
+       65.     Under GAAP, an issuer is required to                 accrue for anticipated liabilities, and a  
+
+liability should only be released in appropriate circumstances such as the occurrence of a 
+
+specified event or when the estimate should be revised in response to new information.  
+
+Moreover, maintaining general or excess reserves (i.e., cookie jar reserves) is prohibited under 
+
+GAAP. 
+
+       66.     From 2002 to 2006, as discussed below, Geswein, Krakora, and Miller routinely 
+
+manipulated Diebold’s reserves and accruals in order to manage earnings in violation of GAAP 
+
+requirements, as detailed below. 
+
+                                   Under-accrued Liabilities 
+
+       67.     During the relevant time period, Geswein, Krakora and Miller inflated Diebold’s 
+
+earnings by failing to accrue for known liabilities, in violation of GAAP.  As detailed below, this 
+
+caused Diebold’s financial results to be materially inflated.  
+
+       68.     For example, Geswein and Krakora knew, or were reckless in not knowing, the 
+
+liability account for the company’s Long Term Incentive Plan (“LTIP”) – an employee benefit 
+
+plan intended to reward long term company performance – was under-accrued for much of 2002 
+
+and 2003.  For example, in a May 9, 2003 email from Krakora to Geswein, Krakora explained 
+
+                                              18 
+
+---------------------Page 19---------------------
+
+        Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  19 of 36.  PageID #: 19  
+
+that “GAAP requires variable accounting for the LTIP, so technically each quarter we should be 
+
+adjusting the accrual to reflect expected shares to be earned on a pro-rata basis times the price of 
+
+the stock at quarter-end.” 
+                           In fact, as Krakora knew, Diebold was not making the required 
+
+adjustments each quarter.  Moreover, at the time of this email, Krakora’s calculations indicated 
+
+that the LTIP accrual was under-accrued by at least $5 million.    
+
+       69.     In order to accrue for the LTIP in 2003 without negatively impacting earnings, 
+
+Diebold, through the actions of Defendants, offset the liability by improperly reducing other 
+
+accounts, including an unreconciled accounts payable account and an unreconciled deferred 
+
+revenue account. 
+
+       70.     For example, in May 2003, Miller, acting in concert with Geswein and Krakora, 
+
+made a manual journal entry in which she funded the LTIP accrual by reducing an inventory 
+
+account even though, contrary to the requirements of GAAP, she had no accounting basis to 
+
+justify reducing the inventory account. 
+
+       71.     Miller made another improper entry by reducing the deferred revenue account 
+
+(internally named “Account 270”) to fund the LTIP reserve.  One of Miller’s staff members 
+
+raised questions concerning the proposed entry.  Notwithstanding these questions, Miller made 
+
+the inappropriate entry. 
+
+       72.     Geswein, Krakora and Miller knew or were reckless in not knowing that making 
+
+improper journal entries regarding such accrual accounts was in violation of GAAP and would 
+
+cause the revenues and/or earnings that Diebold reported to the public to be overstated and false. 
+
+       73.     In 2003 alone, Geswein, Krakora, and Miller’s manipulation of various accrual 
+
+accounts had the effect of improperly under-accruing Diebold’s liabilities, and overstating 
+
+Diebold’s reported pre-tax earnings by at least $16 million.  
+                                                                
+                                                               
+
+                                               19 
+
+---------------------Page 20---------------------
+
+        Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  20 of 36.  PageID #: 20  
+
+       74.     By reason of the foregoing, as a result of the actions of Geswein, Krakora and 
+
+Miller, Diebold’s statements of its earnings for 2003 were materially false and misleading.  Such 
+
+statements were included in Diebold’s Form  10-K for 2003, which Geswein and Krakora signed 
+
+on or about February 27, 2004, and were included in a restatement of Diebold’s income for 2003,  
+
+which Geswein and Krakora signed on or about August 12, 2005, and in the Form 10-K for 
+
+2005, which Krakora signed on or about March 13, 2006. 
+
+       75.      From at least 2002 through 2005, Geswein knew, or was reckless in not 
+
+knowing, that Diebold, in violation of GAAP,  failed to properly accrue for other liabilities, 
+
+including its North American sales commission accrual (commissions to be paid to sales 
+
+personnel) and its team incentive accrual (incentive pay to be paid to service personnel).  In 
+
+2005, Diebold restated its financial statements to correct errors in certain accounts for the years 
+
+2002 to 2004 and the first quarter of 2005, including the North American sales commission 
+
+accrual account (which in 2005 had been materially underaccrued by $11.4 million).      
+
+       76.     Prior to the 2005 restatement, a Diebold vice president had informed Geswein that 
+
+the commission accrual account was materially underaccrued.  Geswein took no action to correct 
+
+the underaccrual. 
+
+       77.     In 2005 and thereafter, as detailed below, Geswein and Krakora made statements 
+
+to the public that were materially false and misleading in that they misrepresented and failed to 
+
+disclose the truth about the commission accrual account and its impact on Diebold’s finances.  
+
+These false statements and omissions include but are not necessary limited to the following 
+
+instances:  
+
+              (a)     On June 30, 2005, Geswein signed a Form 8-K stating that “the company 
+
+       has identified a reconciliation issue in its North American sales commission accrual 
+
+                                               20 
+
+---------------------Page 21---------------------
+
+        Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  21 of 36.  PageID #: 21  
+
+       account.”  Geswein further stated on a conference call with analysts that same day that 
+
+       “during management’s review of the second quarter, we noted an error in the 
+
+       reconciliation process of the North American commission accrual.”  He also said “it’s  
+
+       something that, certainly, the process is in place and documentation is in place, but 
+
+       mechanically, the reconciliations weren’t doing the job.”  Geswein knew, or was reckless 
+
+       in not knowing, that his representations in the June 30, 2005 Form 8-K and conference 
+
+       call were materially misleading because the sales commission accrual account was 
+
+       underaccrued due to his desire to meet forecasted targets, not due to an “error” or  
+
+       “reconciliations [that] weren’t doing the job.”  
+
+              (b)     On August 15, 2005, Krakora signed Diebold’s Form 10-Q for the second 
+
+       quarter of 2005, stating that the company needed to restate its financial statements due to 
+
+       a “reconciliation issue in its North America sales commission accrual account.”  On 
+
+       November 4, 2005, Krakora signed Diebold’s Form 10-Q for the third quarter of 2005, 
+
+       which repeated the misleading information that the need to restate Diebold’s financial 
+
+       statements was due to a “reconciliation issue.”  Krakora knew, or was reckless in not 
+
+       knowing, that his representations were materially false and misleading because the sales 
+
+       commission accrual account was underaccrued due to a desire to meet forecasted targets, 
+
+       not due to a “reconciliation issue.”   
+
+                                      Cookie Jar Reserves 
+
+       78.     Geswein, Krakora, and Miller used “cookie jar” reserves to manage earnings, in 
+
+violation of GAAP.  As described above, Diebold established a reserve of profit margin of $7.5 
+
+million in the last quarter of 2003.  Over the course of 2004, acting in concert with Geswein and 
+
+Krakora, Miller released the reserve to fill shortfalls in operating results.  Geswein, Krakora and 
+
+                                               21 
+
+---------------------Page 22---------------------
+
+        Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  22 of 36.  PageID #: 22  
+
+Miller knew or were reckless in not knowing that releasing the reserve in order to cover 
+
+shortfalls in operating results, rather than based upon a legitimate accounting basis, was in 
+
+violation of GAAP. 
+
+       79.     Miller, acting in concert with Geswein and Krakora, released $1 million of the 
+
+$7.5 million reserve in the first quarter 2004, $1.25 million in the second quarter of 2004, and the 
+
+remaining $5.25 million in the third quarter of 2004.  As a result, Diebold exactly met analyst 
+
+earnings consensus for the first two quarters and the revised analyst earnings consensus in the 
+
+third quarter. 
+
+       80.     Geswein, Krakora, and Miller knew, or were reckless in not knowing, that these 
+
+entries had no legitimate accounting basis, and they were recorded to fraudulently manage 
+
+Diebold’s reported earnings.  
+                               
+
+       81.     Geswein, Krakora and Miller knew or were reckless in not knowing that making 
+
+improper journal entries regarding such accrual accounts would cause the revenues and/or 
+
+earnings that Diebold reported to the public to be overstated and false.    
+
+       82.     In another example, in or about January 2004, Miller, acting in concert with 
+
+Krakora and Geswein, established a $4.5 million corporate obsolescence and excess inventory 
+
+account effective December 31, 2003.  This corporate inventory account was used as a cookie jar 
+
+reserve that Geswein, Krakora, and Miller knew, or were reckless in not knowing, had no 
+
+legitimate accounting basis and violated GAAP.   
+
+                       Improperly Delaying and Capitalizing Expenses  
+
+                                   Division 35 and CAP 250 
+
+       83.     As detailed below, Diebold failed to recognize certain expenses as incurred, and 
+
+instead improperly deferred these expenses or spread the expenses over several reporting 
+
+periods, which artificially increased net income in several fiscal years.  With regard to recording 
+
+                                               22 
+
+---------------------Page 23---------------------
+
+        Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  23 of 36.  PageID #: 23  
+
+expenses, Geswein had a saying he used with subordinates: “take it by the drink.” The 
+
+expression meant that instead of recording the whole expense, Diebold would recognize its 
+
+expenses a drink at a time.  Diebold engaged in improper expense deferrals in at least two 
+
+accounts:  the “Division 35” and “CAP 250” accounts. 
+
+       84.     Division 35 was a finished goods inventory account.  From 2003 through 2005, 
+
+Geswein and Krakora knew, or were reckless in not knowing, that the value of the account was 
+
+overstated.  Various meetings had taken place in which Geswein and Krakora discussed that the 
+
+Division 35 account had a large unexplained balance, and that the account needed to be 
+
+reconciled. 
+
+       85.     Nevertheless, Diebold improperly failed to reconcile the account until 2005.  
+
+Then, in 2005, instead of restating its prior financial statements to correct the material errors in 
+
+the account and record expenses in the proper reporting periods as required under GAAP, 
+
+Diebold spread $15 million of expenses over two quarters in 2005.  
+                                                                     
+
+       86.      Geswein and Krakora knew, or were reckless in not knowing, that the 
+
+overstatement of the Division 35 account inflated Diebold’s earnings by $4.3 million in 2003, 
+
+and more than $6.2 million in periods prior to 2003. 
+
+       87.     CAP 250 was an installation accounting system, primarily consisting of two 
+
+accounts accruing for the cost of installation.  Geswein and Krakora knew, or were reckless in 
+
+not knowing, that the overstatement of this CAP 250 account inflated Diebold’s earnings by $2.1 
+
+million in 2004, $2.2 million in 2003, and $4.4 million in periods prior to 2003.     
+
+                                      The Oracle Project 
+
+       88.     In 2002, Diebold began a project to replace many of its older internal software 
+
+systems with Oracle software.  Under GAAP, capitalization of a software asset requires 
+
+companies to properly capture internal and external costs involved with the various stages of 
+
+                                               23 
+
+---------------------Page 24---------------------
+
+        Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  24 of 36.  PageID #: 24  
+
+software development.  Consequently, Diebold was permitted to capitalize certain costs 
+
+associated with the Oracle project.  However, from 2003 through 2006, Diebold improperly 
+
+capitalized costs that should have been expensed in the periods they were incurred. 
+
+       89.     In certain quarters when Diebold’s earnings were short of forecast, Miller, acting 
+
+in concert with Geswein and Krakora, made top-level entries to fraudulently capitalize additional 
+
+expenses to the Oracle project.  These improper “additions,” which often were round numbers 
+
+such as $1 million, had the effect of materially reducing reported expenses, and thus increasing 
+
+reported earnings.  Geswein, Krakora, and Miller knew, or were reckless in not knowing, that 
+
+Diebold had been improperly capitalizing expenses related to the Oracle project since at least 
+
+2004.  For example, Miller made top-level entries to increase capitalization of Oracle expenses in  
+
+the amounts of  $1 million effective September 30, 2004, and $1.6 million effective March 31, 
+
+2005. 
+
+       90.     Diebold’s improper capitalization of expenses to the Oracle project increased 
+
+Diebold’s pre-tax earnings in 2003, 2004, and 2005, by at least $0.5 million, $3 million, and $6.8 
+
+million, respectively.      
+
+       91.     Geswein, Krakora, and Miller knew, or were reckless in not knowing, that making 
+
+such improper journal entries would cause the revenue and/or earnings figures reported by 
+
+Diebold to the public to be overstated and false.  
+
+                                 Used Equipment Write-Ups  
+
+       92.     Under GAAP, used equipment inventory should be valued at the lower of cost or 
+
+market value.  From 2003 to 2005, Diebold often improperly “wrote-up” the value of certain used 
+
+inventory, such as used ATMs.  These “write-ups” had the effect of reducing cost of goods sold 
+
+and thus inflating earnings, and were used by Geswein and Krakora in order to meet earnings 
+
+forecasts.  
+
+                                               24 
+
+---------------------Page 25---------------------
+
+        Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  25 of 36.  PageID #: 25  
+
+       93.     For example, in the second quarter of 2004, Geswein and Krakora directed the 
+
+write-up of value of used equipment inventory by $1 million (and thus increased net income by 
+
+$1 million) to inflate earnings to meet forecasts.   
+
+       94.     Miller improperly booked this $1 million entry without any legitimate accounting 
+
+basis. 
+
+       95.     Furthermore, Diebold improperly wrote up the value of other used equipment 
+
+inventory (and inflated earnings) by $750,000 in the fourth quarter of 2004, $1.2 million in the 
+
+first quarter of 2005, and $1 million in the second quarter of 2005.   
+
+       96.     Geswein, Krakora, and Miller knew, or were reckless in not knowing, that these 
+
+used equipment “write-ups,” which were listed on several “opportunity lists,” had no legitimate 
+
+accounting basis, violated GAAP and were used improperly to inflate Diebold’s earnings.  
+
+       97.     Geswein, Krakora, and Miller knew, or were reckless in not knowing, that the 
+
+making of such improper journal entries would cause the revenue and/or earnings figures 
+
+reported by Diebold to the public to be overstated and false.   
+
+                                 Diebold’s 2008 Restatement  
+
+       98.     As result of Diebold management’s improper, and in many instances fraudulent, 
+
+accounting practices from at least 2002 to 2007, the financial statements that Diebold 
+
+incorporated into its periodic filings and other materials disseminated to the investing public 
+
+were materially false and misleading.  Diebold’s improper accounting practices significantly 
+
+inflated the company’s reported earnings.  To correct the more recent misstatements, on 
+
+September 30, 2008, Diebold restated its financial statements for the years 2003 through 2006, 
+
+and the first quarter of 2007, in its Form 10-K for 2007. 
+
+        
+
+        
+
+                                               25 
+
+---------------------Page 26---------------------
+
+        Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  26 of 36.  PageID #: 26  
+
+                      Impact of the Defendants’ Fraudulent Schemes–
+  
+                  Materially Misleading Financial Reports and Statements
+  
+                                                 
+       99.     The improper accounting entries that resulted from all of Defendants’ improper 
+
+schemes as discussed above were material, individually or collectively.  This caused Diebold’s 
+
+statements of its revenues and/or earnings from at least 2003 through the first quarter of 2007 to 
+
+present a materially false and misleading picture of Diebold’s financial performance.  Such 
+
+statements appeared in Diebold’s Forms 8-K, 10-K,  and10-Q filed with the Commission and 
+
+available to the public, appeared in other presentations of Diebold’s finances in press releases 
+
+distributed to the public, and were stated in conference calls with stock analysts with respect to 
+
+that time period. 
+
+       100.    The false statements about Diebold’s revenues and/or earnings, which resulted 
+
+from the conduct of Geswein, Krakora and Miller, as described above, included but are not 
+
+limited to the false reports and statements described above, and the following additional 
+
+examples: 
+
+              (a)     After Diebold announced its fourth quarter 2003 earnings results, on 
+
+       January 28, 2004, Geswein stated on a conference call with investment analysts, “let me  
+
+       echo Wally’s sentiments of how pleased we are to report record revenue and profits with 
+
+       EPS of 81 cents per share, which is near the high end of our previous guidance of 78 
+
+       cents to 83 cents per share.”  Diebold’s Form 10-K for 2003 (signed by Geswein and 
+
+       Krakora on or about February 27, 2004), repeated the EPS figure of $0.81 for the fourth 
+
+       quarter of 2003.   However, Diebold’s earnings would not have met the company’s  
+
+       previous guidance without Miller’s improper manual journal entries made in concert with 
+
+       Geswein and Krakora.  Miller made a $14.8 million entry to an unreconciled deferred  
+
+       revenue account and an $8.5 million entry to an unreconciled accounts payable account, 
+
+                                              26 
+
+---------------------Page 27---------------------
+
+ Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  27 of 36.  PageID #: 27  
+
+increasing Diebold’s pre-tax income by over $23 million.  Without these journal entries, 
+
+Diebold’s reported fourth quarter 2003 EPS would have been about 25% lower, which 
+
+would have been well outside its previous guidance range.  
+
+       (b)    After Diebold announced its fourth quarter 2004 earnings results, on 
+
+January 26, 2005, Geswein stated on a conference call with investment analysts, “We are 
+
+pleased to report record revenue, earnings, and free cash flow for the quarter.  Reported 
+
+revenue was $717 million, up 10.6 percent while reported EPS was 87 cents, an increase 
+
+of 7.4 percent and within previous guidance of 87 to 92 cents a share.”  However, 
+
+Diebold’s earnings would not have been within Diebold’s previous guidance but for 
+
+several of the Defendants’ fraudulent schemes described above.  For example, Diebold’s 
+
+pre-tax income was increased by over $8 million by “pulling-in” $1.3 million of earnings 
+
+from F-term transactions, switching orders from F-terms to I-terms resulting in an 
+
+increase in $5.6 million of earnings, writing-up inventory by $750,000, and improperly 
+
+capitalizing $1 million of expenses related to the Oracle project.   Without these entries,  
+
+Diebold’s fourth quarter 2004 EPS would have been over 10% lower, and would have 
+
+been well outside its previous guidance range. 
+
+       (c)    In Diebold’s Form 10-Q for the first quarter of 2005 (signed by Geswein 
+
+on or about May 5, 2005), the company reported EPS of $.37, which met its earnings 
+
+forecast for that quarter of $.35 to $.40.  Diebold’s reported EPS was inflated by 
+
+improper transactions and accounting entries described above, including but not 
+
+necessarily limited to the premature recognition of revenue from the Cash Depot 
+
+transaction, improper capitalization of expenses on the Oracle project, and improper 
+
+reversal of a portion of the “cookie jar” excess and obsolescence reserve.  Without this 
+
+                                       27 
+
+---------------------Page 28---------------------
+
+        Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  28 of 36.  PageID #: 28  
+
+       fraudulent accounting, Diebold’s reported EPS would have been well below the quarterly 
+
+       earnings forecast. 
+
+                           Geswein and Krakora Misled Auditors  
+ 
+       101.    Throughout their scheme, Geswein and Krakora misled Diebold’s external 
+
+auditors by making materially false and misleading statements and omissions in connection with 
+
+the quarterly reviews and annual audits of the financial statements.  Geswein and Krakora 
+
+submitted management representation letters to the auditors with respect to the annual and 
+
+quarterly reports and financial statements referred to herein.  Geswein’s and Krakora’s letters 
+
+concealed their numerous fraudulent schemes and made false statements which included that the 
+
+affected quarterly and annual financial statements were presented in conformity with GAAP and 
+
+that they had no knowledge of any fraud that could have a material effect on the financial 
+
+statements. 
+
+                        Krakora and Geswein Received Bonuses and 
+
+                  Other Incentive-Based and Equity-Based Compensation
+  
+                                                    
+       102.    During the 12-month period following the issuance of Diebold’s 2003 financial 
+
+statements, Geswein received from the company incentive-based and equity-based compensation,  
+
+including cash bonuses, shares of Diebold stock and stock options. 
+
+       103.    During the 12-month period following the issuance of Diebold’s 2005 financial 
+
+statements, Krakora received incentive-based and equity-based compensation, including cash 
+
+bonuses, shares of Diebold stock and stock options.    
+
+       104.    During the 12-month period following the issuance of Diebold’s 2006 financial 
+
+statements, Krakora received incentive-based and/or equity-based compensation, including 
+
+shares of Diebold stock and stock options.  
+                                           
+
+ 
+
+                                              28 
+
+---------------------Page 29---------------------
+
+        Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  29 of 36.  PageID #: 29  
+
+                                FIRST CLAIM FOR RELIEF
+   
+                                                 
+                Violations of Securities Act Section 17(a) [15 U.S.C. §77q(a)] 
+
+                                                 
+       105.    Paragraphs 1 through 104 are realleged and incorporated by reference. 
+
+       106.    By reason of the conduct described above, Defendants Geswein, Krakora, and 
+
+Miller, in connection with the offer or sale of securities, by the use of any means or 
+
+instrumentalities of interstate commerce or of the mails, or of any facility of any national 
+
+securities exchange, directly or indirectly (a) employed devices, sche mes, or artifices to defraud; 
+
+(b) made untrue statements of material fact or om  itted to state material facts necessary in order to 
+
+make the statements made, in light of the circumstances under which they were made, not 
+
+misleading; or (c) engaged in acts, practices, or course of business which operates or would 
+
+operate as a fraud or deceit upon any persons, including purchasers or sellers of the securities. 
+
+       107.    By reason of the conduct described above, Defendants Geswein, Krakora, and 
+
+Miller violated Securities Act Section 17(a) [15 U.S.C. §77q(a)]. 
+
+                              SECOND CLAIM FOR RELIEF  
+                                                 
+             Violations of Exchange Act Section 10(b) [15 U.S.C. § 78j(b)] and  
+
+                              Rule 10b-5 [17 C.F.R. § 240.10b-5] 
+
+                                                 
+       108.    Paragraphs 1 through 107 are realleged and incorporated by reference. 
+
+       109.    By reason of the conduct described above, Defendants Geswein, Krakora, and 
+
+Miller, in connection with the purchase or sale of securities, by the use of the means or 
+
+instrumentalities of interstate commerce or of the mails, or of any facility of any national 
+
+securities exchange, directly or indirectly (a) employed devices, sche mes, or artifices to defraud; 
+
+(b) made untrue statements of material fact or om  itted to state material facts necessary in order to 
+
+make the statements made, in light of the circumstances under which they were made, not 
+
+                                               29 
+
+---------------------Page 30---------------------
+
+        Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  30 of 36.  PageID #: 30  
+
+misleading; or (c) engaged in acts, practices, or course of business which operates or would 
+
+operate as a fraud or deceit upon any persons, including purchasers or sellers of the securities. 
+
+       110.    By reason of the conduct described above, Defendants Geswein, Krakora, and 
+
+Miller violated Exchange Act Section 10(b) [15 U.S.C. § 78j(b)] and Exchange Act Rule 10b-5 
+
+[17 C.F.R. § 240.10b-5]. 
+
+                              THIRD CLAIM FOR RELIEF   
+                                               
+        Violations of the Exchange Act Section 13(b)(5) [15 U.S.C. § 78m(b)(5)] and  
+
+                   Exchange Act Rule 13b2-1 [17 C.F.R. §§ 240.13b2-1] 
+
+                                               
+       111.    Paragraphs 1 through 110 are realleged and incorporated by reference. 
+
+       112.    By reason of the conduct described above, Defendants Geswein, Krakora, and 
+
+Miller knowingly circumvented or knowingly failed to implement a system of internal 
+
+accounting controls or knowingly falsified books, records, or accounts subject to Exchange Act 
+
+Section 13(b)(2). 
+
+       113.    By reason of the conduct described above, Defendants Geswein, Krakora, and 
+
+Miller directly or indirectly, falsified or caused to be falsified books, records or accounts subject 
+
+to Exchange Act Section 13(b)(2). 
+
+       114.    By reason of the conduct described above, Defendants Geswein, Krakora, and 
+
+Miller violated Exchange Act Section 13(b)(5) [15 U.S.C. § 78m(b)(5)] and Exchange Act Rule 
+
+13b2-1 [17 C.F.R. §§ 240.13b2-1]. 
+
+                             FOURTH CLAIM FOR RELIEF  
+                                               
+             Violations of Exchange Act Rule 13b2-2 [17 C.F.R. § 240.13b2-2] 
+                          (Defendants Geswein and Krakora only) 
+                                               
+       115.    Paragraphs 1 through 114 are realleged and incorporated by reference. 
+
+                                             30 
+
+---------------------Page 31---------------------
+
+        Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  31 of 36.  PageID #: 31  
+
+       116.    By reason of the conduct described above, Defendants Geswein and Krakora 
+
+directly or indirectly, (i) made or caused to be made materially false or misleading statements or 
+
+(ii) omitted to state, or caused others to omit to state, material facts necessary in order to make 
+
+the statements made, in light of the circumstances under which they were made, not misleading, 
+
+to an accountant in connection with an audit, review or examination of financial statements or 
+
+the preparation or filing of a document or report required to filed with the Commission. 
+
+       117.    By reason of the conduct described above, Defendants Geswein and Krakora 
+
+violated Exchange Act Rule 13b2-2 [17 C.F.R. §§ 240.13b2-2]. 
+
+                               FIFTH CLAIM FOR RELIEF  
+                                                 
+              Violations of Exchange Act Rule 13a-14 [17 C.F.R. § 240.13a-14] 
+                          (Defendants Geswein and Krakora only) 
+
+       118.    Paragraphs 1 through 117 are realleged and incorporated by reference.  
+
+       119.    Defendant Geswein certified in Diebold’s 2002, 2003, and 2004 Forms 10-K that, 
+
+among other things, he reviewed each of these reports, and based on his knowledge, these 
+
+reports:  (i) did not contain any untrue statement of material fact or omit to state a material fact 
+
+necessary to make the statements made, in light of the circumstances under which they were 
+
+made, not misleading and (ii) included financial statements and other information which fairly 
+
+present, in all material respects, Diebold’s financial condition, results of operations and cash 
+
+flows. 
+
+       120.    Defendant Krakora certified in Diebold’s 2005 and 2006 Forms 10-K that, among 
+
+other things, he reviewed each of these reports, and based on his knowledge, these reports:  (i) 
+
+did contain any untrue statement of material fact or omit to state a material fact necessary to 
+
+make the statements made, in light of the circumstances under which they were made, not 
+
+                                              31 
+
+---------------------Page 32---------------------
+
+        Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  32 of 36.  PageID #: 32  
+
+misleading and (ii) included financial statements and other information which fairly present, in 
+
+all material respects, Diebold’s financial condition, results of operations and cash flows. 
+
+       121.    By reason of the conduct described above, Defendants Geswein and Krakora 
+
+violated Exchange Act Rule 13a-14 [17 C.F.R. §§ 240.13a-14]. 
+
+                               SIXTH CLAIM FOR RELIEF  
+                                                
+    Aiding and Abetting Diebold’s Violations of Exchange Act Section 13(a) [15 U.S.C. 
+
+§ 78m(a)] and Rules 12b-20, 13a-1, 13a-11, and 13a-13 [17 C.F.R. §§ 240.12b-20, 240.13a-1, 
+
+                                240.13a-11, and 240.13a-13]
+  
+                                                   
+       122.    Paragraphs 1 through 121 are realleged and incorporated by reference. 
+
+       123.    Diebold, whose securities were registered pursuant to Section 12 of the Exchange 
+
+Act [15 U.S.C. § 781], failed to file annual, current, and quarterly reports (on Forms 10-K, 8-K, 
+
+and 10-Q) with the Commission that were true and correct, and failed to include material 
+
+information in its required statements and reports as was necessary to make the required  
+
+statements, in the light of the circumstances under which they were made, not misleading. 
+
+       124.    Diebold violated Section 13(a) of the Exchange Act [15 U.S.C. § 78m(a)] and 
+
+Exchange Act Rules 12b-20, 13a-1, 13a-11, and l3a-13 [17 C.F.R. §§ 240.12b-20, 240.13a-1, 
+
+240.13a-11, and 240.13a-13]. 
+
+       125.    By reason of the conduct described above, Defendants Geswein, Krakora, and 
+
+Miller knowingly provided substantial assistance to and thereby aided and abetted Diebold in its 
+
+violations of Exchange Act Section 13(a) [15 U.S.C. § 78m(a)] and Rules 12b-20, 13a-1, 13a-11, 
+
+and 13a-13 [17 C.F.R. §§ 240.12b-20, 240.13a-1, 240.13a-11, and 240.13a-13]. 
+
+                             SEVENTH CLAIM FOR RELIEF  
+                                                
+                 Aiding and Abetting Diebold’s Violations of Exchange Act  
+
+    Sections 13(b)(2)(A) and 13(b)(2)(B) [15 U.S.C. §§ 78m(b)(2)(A) and 78m(b)(2)(B)] 
+
+                                                   
+       126.    Paragraphs 1 through 125 are realleged and incorporated by reference. 
+
+                                             32 
+
+---------------------Page 33---------------------
+
+        Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  33 of 36.  PageID #: 33  
+
+       127.    Diebold, whose securities were registered pursuant to Section 12 of the Exchange 
+
+Act [15 U.S.C. § 781]: 
+
+              (a)     failed to make and keep books, records, and accounts, which, in 
+
+       reasonable detail, accurately and fairly reflected the transactions and dispositions of its  
+
+       assets; or 
+
+              (b)     failed to devised and maintain a system of internal controls sufficient to 
+
+       provide reasonable assurances that (i) transactions were recorded as necessary to permit 
+
+       preparation of financial statements in conformity with generally accepted accounting 
+
+       principles or any other criteria applicable to such statements, and (ii) to maintain 
+
+       accountability of assets. 
+
+       128.    Diebold violated Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act [15 
+
+U.S.C. §§ 78m(b)(2)(A) and 78m(b)(2)(B)]. 
+
+       129.    By reason of the conduct described above, Defendants Geswein, Krakora, and 
+
+Miller knowingly provided substantial assistance to and thereby aided and abetted Diebold in its 
+
+violations of Exchange Act Sections 13(b)(2)(A) and 13(b)(2)(B) [15 U.S.C. §§ 78m(b)(2)(A) 
+
+and 78m(b)(2)(B)]. 
+
+                              EIGHTH CLAIM FOR RELIEF  
+                                                
+                                   Failure to Reimburse –
+  
+       Violations of Section 304 of the Sarbanes-Oxley Act of 2002 [15 U.S.C. § 7243] 
+
+                          (Defendants Geswein and Krakora only) 
+
+
+       130.    Paragraphs 1 through 129 are realleged and incorporated by reference. 
+ 
+                 Geswein’s Failure to Make the Required Reimbursement  
+        
+       131.    Diebold was required to prepare an accounting restatement of its 2003 and 2004 
+
+financial statements due to the material noncompliance of Diebold, as a result of misconduct, 
+
+with financial reporting requirements under the securities laws, as described above. 
+
+                                              33 
+
+---------------------Page 34---------------------
+
+        Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  34 of 36.  PageID #: 34  
+
+       132.    Geswein, as Diebold’s Chief Financial Officer in 2003 and 2004, among other 
+
+times, received cash bonuses or other incentive-based or equity-based compensation during the 
+
+12-month periods following the first public issuance or filing with the Commission of Diebold’s 
+
+2003 and 2004 financial statements embodying such financial reporting requirements. 
+
+       133.    Geswein has failed to reimburse Diebold for such cash bonuses, or other 
+
+incentive-based or equity-based compensation. 
+
+       134.    Accordingly, Geswein has violated Section 304 of the Sarbanes-Oxley Act of 
+
+2002 [15 U.S.C. § 7243]. 
+
+                 Krakora’s Failure to Make the Required Reimbursement  
+
+       135.    Diebold was required to prepare an accounting restatement of its 2005 and 2006 
+
+financial statements due to the material noncompliance of Diebold, as a result of misconduct, 
+
+with financial reporting requirements under the securities laws, as described above. 
+
+       136.    Krakora, as Diebold’s Chief Financial Officer in 2005 and 2006, among other 
+
+times, received cash bonuses or other incentive-based or equity-based compensation during the 
+
+12-month periods following the first public issuance or filing with the Commission of Diebold’s 
+
+2005 and 2006 financial statements embodying such financial reporting requirements. 
+
+       137.    Krakora has failed to reimburse Diebold for such cash bonuses, or other 
+
+incentive-based or equity-based compensation. 
+
+       138.    Accordingly, Krakora has violated Section 304 of the Sarbanes-Oxley Act of 
+
+2002 [15 U.S.C. § 7243]. 
+
+                                  PRAYER FOR RELIEF  
+
+       WHEREFORE, the Commission respectfully requests that this Court enter a final 
+
+judgment: 
+
+                                              34 
+
+---------------------Page 35---------------------
+
+        Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  35 of 36.  PageID #: 35  
+
+       (a)    Permanently enjoining each defendant from violating, directly or indirectly, 
+
+Securities Act Section 17(a), Exchange Act Sections 10(b) and 13(b)(5) and Exchange Act Rules 
+
+10b-5 and 13b2-1 and from aiding and abetting violations of Exchange Act Sections 13(a), 
+
+13(b)(2)(A), and 13(b)(2)(B) and Exchange Act Rules 12b-20, 13a-1, 13a-11, and 13a-13; 
+
+       (b)    Permanently enjoining Geswein and Krakora from violating, dire ctly or indirectly, 
+
+Exchange Act Rules 13a-14 and 13b2-2; 
+
+       (c)    Ordering each defendant to disgorge ill-gotten gains, with prejudgment interest, 
+
+including, but not limited to, salaries, bonuses, and other benefits wrongfully obtained as a result 
+
+of their fraudulent conduct;   
+
+       (d)    Imposing civil monetary penalties against each defendant pursuant to Securities 
+
+Act Section 20(d) [15 U.S.C. § 77t(d)] and Exchange Act Section 21(d)(3) [15 U.S.C. § 
+
+78u(d)(3)]; 
+
+      (e)     Pursuant to Securities Act 20(g) [15 U.S.C. § 77t(g)] and Exchange Act Section 
+
+21(d)(2) [15 U.S.C. § 78u(d)(2)], prohibiting Geswein and Krakora from acting as an officer or 
+
+director of any issuer that has a class of securities registered pursuant to Exchange Act Section 
+
+12 [15 U.S.C. § 78l], or that is required to file reports pursuant to Exchange Act Section 15(d) 
+
+[15 U.S.C. § 78o(d)]; 
+
+       (f)    Ordering Geswein and Krakora to reimburse Diebold for bonuses and other 
+
+incentive-based and equity-based compensation that each received from Diebold, pursuant to 
+
+Section 304 of the Sarbanes-Oxley Act of 2002 [15 U.S.C. § 7243]; and  
+
+                                              35 
+
+---------------------Page 36---------------------
+
+        Case: 5:10-cv-01235  Doc #: 1   Filed:  06/02/10  36 of 36.  PageID #: 36  
+
+       (g)     Granting such other and further relief as the Court deems just and appropriate.  
+
+Dated:  June 2, 2010                           Respectfully submitted,                   
+
+                                                   /s/ David J. Gottesman                 
+                                               David J. Gottesman  
+Of Counsel:                                    Assistant Chief Litigation Counsel  
+                                                    Tel.: (202) 551-4470 
+Scott W. Friestad                              Fax: (202) 772-9245 
+Robert B. Kaplan                                Email:  gottesmand@sec.gov 
+Brian O. Quinn                                        
+Christopher G. Swart                           Robyn R. Bender 
+U.S. Securities and                            Senior Counsel 
+Exchange Commission                            Tel.:  (202) 551-4535 
+                                               Fax:  (202) 772-9346 
+                                               Email:  benderr@sec.gov  
+                                                                                         
+                                               United States Securities and Exchange 
+                                               Commission 
+                                               100 F Street NE 
+                                               Washington, DC 20549-4030 
+                                                     
+                                               Attorneys for Plaintiff  
+
+ 
+
+                                               36 
+

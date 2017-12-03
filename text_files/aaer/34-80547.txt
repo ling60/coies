@@ -1,0 +1,547 @@
+---------------------Page 1---------------------
+
+                            UNITED STATES OF AMERICA 
+                                       Before the 
+                    SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 80547 / April 28, 2017 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3867 / April 28, 2017 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-17949 
+ 
+                                             ORDER INSTITUTING CEASE -AND-
+In the Matter of                             DESIST PROCEEDINGS PURSUANT TO 
+                                             SECTION 21C OF THE SECURITIES 
+      Mark Wentlent ,                        EXCHANGE ACT OF 1934, MAKING 
+                                             FINDINGS, AND IMPOSING A CEASE -
+Respondent.                                  AND-DESIST ORDER  
+ 
+ 
+                                                 
+   
+                                            I.  
+ 
+      The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities 
+Exchange Act of 1934 (“Exchange Act”), against Mark Wentlent (“Wentlent” or “Respondent”).  
+
+                                           II. 
+                                             
+      In anticipation of the institution of these proceedings, Respondent has submitted an Offer 
+of Settlement (the “Offer”) which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the findings 
+herein, except as to the Commission’s jurisdiction over him and the subject matter of these 
+proceedings, which are admitted, and except as provided herein in Section V, Respondent consents 
+to the entry of this Order Instituting Cease-and-Desist Proceedings Pursuant to Section 21C of the 
+Exchange Act, Making Findings and Imposing a Cease-and-Desist Order (“Order”), as set forth 
+below. 
+                            
+---------------------Page 2---------------------
+
+ 
+
+        
+                                               III. 
+                                                  
+                                                                               1
+       On the basis of this order and Respondent’s Offer, the Commission finds  that: 
+                                                  
+A.     SUMMARY 
+ 
+       1.     These proceedings arise out of L3 Technologies, Inc.’s (“L3”) (formerly known 
+as “L3 Communications Holdings, Inc.”) improper recognition of $17.9 million in revenue at its 
+Army Sustainment Division (“ASD”) subsidiary in 2013 and Q1 2014.  The improperly 
+recognized revenue was related to unresolved claims under a fixed-price aircraft maintenance 
+contract between ASD and the U.S. Army, referred to as the C-12 Contract.   
+
+       2.     In late December 2013, the VP of Finance at ASD (“VP of Finance”) instructed a 
+subordinate to create 69 invoices related to disputed claims under the C-12 Contract in L3’s 
+internal accounting system (“SAP”), and withhold delivery of those invoices from the U.S. 
+Army.  However, other than a handful of invoices that were delivered to the U.S. Army in early 
+2014, the vast majority of these invoices were never submitted to the U.S. Army, but instead 
+were discovered during an investigation of ASD’s finances approximately six months later.  By 
+entering the invoices in SAP, ASD improperly recognized approximately $17.9 million in 
+additional revenue at the end of 2013, and in Q1 2014. 
+
+       3.     Wentlent—the President of ASD—claims that he has little knowledge of 
+accounting rules, but relied on the VP of Finance’s assurances that he had approval from L3’s 
+corporate headquarters in New York (“L3 Corporate”), and from the VP of Finance and CFO of 
+the Aerospace Systems segment of L3 (“Aerospace Systems CFO”), ASD’s indirect corporate 
+parent, to create the invoices, withhold delivery, and recognize the associated revenue.  
+However, Wentlent—who was integrally involved in ASD’s effort to recover revenue on the 
+unresolved claims—decided to demote the VP of Finance during this time, which officially 
+occurred in January 2014, and Wentlent disregarded certain red flags that should have put him on 
+notice that the revenue was not properly recognized.  Wentlent also helped procure a misleading 
+e-mail from the Army which suggests—contrary to the truth—that the U.S. Army was prepared 
+to accept invoices on the disputed claims. 
+
+       4.     On October 10, 2014, L3 filed a Form 10-K/A for the fiscal year ended December 
+31, 2013, and a Form 10-Q/A the first quarter of 2014.  Among other things, L3 disclosed in its 
+amendments that it was revising its financial statements to record aggregate pre-tax charges of 
+$94 million in the Aerospace Systems segment for periods prior to 2011 up to 2013, and 
+approximately $75 million for the first and second quarters of 2014.  Of the adjustments, $69 
+million were attributable to the C-12 Contract, and $15.4 million of the adjustments were related 
+to the improper revenue recognition related to the invoices. 
+
+                                                 
+1
+       The findings herein are made pursuant to Respondent   ’s Offer of Settlement and are not 
+
+       binding on any other person or entity in this or any other proceeding. 
+ 
+
+                                                2 
+---------------------Page 3---------------------
+
+ 
+
+B.     RESPONDENT 
+ 
+       5.     Wentlent, 67 years old, is a resident of Raleigh, NC.  Wentlent began working for 
+L3 in 2010, and served as President of ASD from September 2012 until his termination on July 30, 
+2014.   
+
+C.     OTHER RELEVANT ENTITIES 
+ 
+       6.     L3, (NYSE ticker: LLL), a Delaware corporation with its principal place of business 
+in New York, NY, is a prime contractor for various foreign and U.S. Government agencies, 
+including the U.S. Department of Defense.  L3’s securities are registered with the Commission 
+pursuant to Section 12(b) of the Exchange Act.  L3 is a prime contractor in aerospace systems and 
+national security solutions.  For fiscal year 2013, L3 reported net sales of $12.6 billion and an 
+operating income of $1.2 billion on its consolidated statements of operations. 
+
+D.     BACKGROUND 
+
+       7.     Aerospace Systems is one of four business segments of L3, delivering integrated 
+solutions for the global intelligence market and providing maintenance and logistics support for a 
+wide variety of aircraft and ground systems.  Each business segment is comprised of multiple 
+business “sectors,” and each business sector is comprised of multiple business “divisions.”  Of 
+relevance to this matter are the Logistics Solutions sector of Aerospace Systems, which provides, 
+among other things, logistics support and aircraft maintenance services to its military customers, 
+and ASD, a subsidiary of Logistics Solutions, which provides support for United States Army 
+aircraft at bases throughout the United States and around the world. 
+
+       8.     L3, through its subsidiary Vertex, and later ASD, contracted to maintain a fleet of 
+approximately 100 fixed-wing C-12 airplanes for the U.S. Army pursuant to the C-12 Contract.  
+The contract had a five year term, commencing on June 2, 2010, and ending on January 31, 2015, 
+with the partial initial year referred to as a “base year,” and each subsequent year referred to as an 
+“option year.”  Almost immediately after receiving the results of its first quarter of operations 
+under the C-12 Contract, Vertex realized that it underbid for the contract, and that the margins 
+going forward would be very low—in the range of 1-2%—creating significant obstacles for 
+Vertex’s management.  ASD was formed at the beginning of 2013, in large part to take over the C-
+12 Contract from Vertex, and improve L3’s performance under the contract.  ASD, particularly 
+ASD’s VP of Finance, as well as others, worked through 2013 to resolve various issues with the C-
+12 Contract. 
+
+E.     THE REVENUE RECOVERY INITIATIVE AND LEGAL ENTITLEMENT 
+
+       9.     In the summer of 2013, Wentlent, the VP of Finance, and others within ASD, 
+learned that ASD had unaccounted for costs on its balance sheet related to the C-12 Contract in the 
+range of $30 to $35 million.  The C-12 Contract Business Manager (“C-12 Business Manager”) 
+believed the growth in that particular balance was a result of cost overruns that would result in a 
+large loss to ASD.  The C-12 Business Manager informed the VP of Finance of the costs, and 
+prepared him for a meeting with Wentlent and the President of Logistics Solutions—the corporate 
+parent of ASD—to discuss the potential loss. 
+
+                                                3 
+---------------------Page 4---------------------
+
+ 
+
+       10.    On or about September 20, 2013, the VP of Finance, Wentlent, and the C-12 
+Business Manager reported to the President of Logistics Solutions that they had identified a 
+growing work in progress (“WIP”) balance on ASD’s books arising from the C-12 Contract, and 
+that the Division may need to write off some of the WIP (approximately $8-9 million).  The report 
+angered the President of Logistics Solutions, and he asked members of ASD to re-check their 
+numbers and verify that it was true.  The President of Logistics Solutions also directed ASD to 
+determine what work the WIP balance related to, and asked Wentlent, the VP of Finance and other 
+members of ASD to determine how to bill it to the U.S. Army.  The President of Logistics 
+Solutions requested weekly—and later, daily—meetings with ASD officers, including Wentlent 
+and the VP of Finance, to obtain a better understanding of the WIP balance.  Wentlent and the VP 
+of Finance were in constant communication with each other from September to December 2013 
+concerning the status of the review.  During the September time period, the VP of Finance and 
+Wentlent were aware that ASD would not meet its annual operating plan EBIT (Earnings Before 
+Interest and Taxes), and it was also evident at the time that ASD was at risk of falling below the 
+required EBIT threshold (i.e., 75% of plan) necessary for management to receive incentive 
+bonuses.  
+
+       11.    Wentlent directed the C-12 Contract team at ASD to review the contract in detail to 
+determine if there were items not billed to the Army that should have been billed.  This became 
+known as the Revenue Recovery Initiative.  By mid-November 2013, the C-12 Contract Manager 
+identified approximately $50.6 million in work performed by ASD under the contract that was not 
+billed to the Army.  The $50.6 million value was comprised of nine different work stream items 
+and costs under the C-12 Contract. 
+
+       12.    During the fall of 2013, the focus of the Revenue Recovery Initiative turned to 
+identifying ways to recognize revenue on the unbilled $50.6 million.  Based on the President of 
+Logistics Solutions’ words and conduct, Wentlent and the VP of Finance believed that the 
+President of Logistics Solutions expected ASD to achieve some accounting benefit on the $50.6 
+million revenue recovery items by the end of 2013.  On November 8, 2013, after reviewing 
+operations review slides prepared by Wentlent, the President of Logistics Solutions sent an email 
+(copying the VP of Finance) directing Wentlent to “please identify with coordination with [the VP 
+of Finance and Aerospace Systems CFO], the C-12 Army accounting to be used for Q4, 
+specifically, which costs will be deferred related to the claims, and take this accounting into 
+consideration on your LRE [i.e. long range estimate] so we know where we expect to get to in 
+EBIT for 2013.”   
+
+       13.    Also during the fall of 2013, certain individuals at ASD and Logistics Solutions 
+began discussing the possibility of recognizing revenue on the $50.6 million in claims based on a 
+concept called “legal entitlement,” even though the claims had not been resolved with the Army.  
+Wentlent and the VP of Finance both participated in discussions concerning the recognition of 
+revenue based on legal entitlement. 
+
+       14.    On November 22, 2013, there was a conference call among the VP of Finance, the 
+CFO of Aerospace Systems, and others to discuss certain options for how to record revenue 
+pursuant to legal entitlement.  The CFO of Aerospace Systems recalled that the task was for the C-
+12 Contract experts—i.e., the General Counsel of ASD and the General Counsel of Logistics 
+Solutions—to find clauses in the C-12 Contract that entitled ASD to payment, show that the 
+
+                                                4 
+---------------------Page 5---------------------
+
+ 
+
+government did not follow its obligations under the clauses, determine what to submit as a request 
+for equitable adjustment (“REA”), and estimate based on the contract’s history how much the 
+Army would pay.  REAs were formal methods under the C-12 Contract by which ASD could 
+request an equitable adjustment to the funding amounts for each Contract Line Item (“CLIN”). 
+
+       15.    At the VP of Finance’s request, the General Counsel of ASD and the General 
+Counsel of Logistics Solutions estimated that ASD was likely to recover approximately $30 
+million of the entire $50.6 million, based on their history of negotiations with the government.   
+
+       16.    The VP of Finance recalls discussing three options with the President of Logistics 
+Solutions and the Aerospace Systems CFO about how to address the revenue recovery items in 
+November 2013: (1) record the transactions as inventory, increasing the WIP balance; (2) accrue 
+the revenue associated with the legal entitlement issues; and (3) invoice the Army for amounts to 
+which ASD believed it was legally entitled.  While no contemporaneous documents corroborate 
+the VP of Finance’s account that invoicing was considered, the VP of Finance further claims that 
+he input the transactions in L3’s live SAP system to analyze and evaluate the output before a 
+decision was made with respect to recording legal entitlement.  After the analysis was complete, 
+according to the VP of Finance, the transactions were reversed out of SAP.  
+
+       17.    In November 2013, a decision was made by Wentlent and the President of Logistics 
+Solutions to reassign the VP of Finance from his role at ASD, based on his performance related to 
+working through several accounting issues including disclosure statements.  Wentlent notified the 
+VP of Finance in early December 2013 of the decision, but kept him on in his role until the end of 
+January 2014.   
+
+       18.    On December 3, 2013, Wentlent presented an operations review regarding ASD to 
+the President of Logistics Solutions.  Included was a slide entitled, “Army C-12 Contract Dispute 
+Summary,” which listed a table of ten rows with separate “REA/Claim Values” adding up to $50.6 
+million.  A column on the table was entitled “Legal Entitlement” and applied a discount of either 
+50% or 60% to each claim value that comprised the $50.6 million.  The presentation also included 
+detailed slides on six of the claims, and noted that ASD planned to meet with the government to 
+reach an amicable resolution and that “[a]fter the negotiations with the government, L3 is postured 
+to immediately invoice and bill the government.” 
+
+       19.    The revenue recovery claims were presented by ASD to the U.S. Army in meetings 
+that took place in late November and early December 2013.  On December 5, 2013, the C-12 
+Contract Manager and the General Counsel of ASD met with representatives of the U.S. Army to 
+discuss the C-12 contract disputes.  An email from the C-12 Contract Manager to the President of 
+Logistics Solutions reporting on this meeting indicates that the U.S. Army planned to meet 
+internally on December 17, 2013, and begin meeting with L3 after the new year with the “intent [] 
+to resolve every one of the disputes outside of the REA/Claim process… as quickly as possible.”  
+Nothing in the email indicates any request by the U.S. Army to invoice any of the claims before the 
+end of the year.  In fact, neither Wentlent nor the VP of Finance expected to resolve the disputes 
+concerning the revenue recovery items by the end of 2013, and Wentlent did not expect to resolve 
+some disputes until the end of 2014.   
+
+                               
+
+                                                5 
+---------------------Page 6---------------------
+
+ 
+
+F.     GENERATION OF INVOICES AND IMPROPER REVENUE RECOGNITION 
+
+       20.    In late December 2013, the VP of Finance approached the C-12 Business Manager 
+and asked him to explain how revenue was recorded on ASD’s books.  The C-12 Business 
+Manager told the VP of Finance that it was either billed or accrued.  The VP of Finance 
+subsequently asked the C-12 Business Manager at what point along the path revenue was 
+recognized.  With respect to the unresolved claims concerning the C-12 Contract, the C-12 
+Business Manager explained that in order to recognize revenue, a sales order must be created and 
+then released to the Billing Clerk at ASD.  The Billing Clerk then generated an invoice in SAP, at 
+which point revenue was recognized on ASD’s books.  The invoice was then supposed to be 
+submitted into Wide Area Work Flow (“WAWF”), which transmits invoices to the customer, but 
+the submission of the invoice into WAWF did not have to occur in order for ASD to recognize 
+revenue.   
+
+       21.    The VP of Finance and the Aerospace Systems CFO had a telephone call on or 
+about Friday, December 20, 2013.  The VP of Finance claims they discussed a one-page list of the 
+revenue recovery claims that he purportedly emailed the Aerospace Systems CFO prior to the call.  
+The VP of Finance claims that he and the Aerospace Systems CFO went down the list and the 
+Aerospace Systems CFO instructed him on which items to invoice and which to accrue.  The 
+Aerospace Systems CFO denies giving the VP of Finance blanket authority to invoice for the 
+claims, but does recall a conversation in which he told the VP of Finance that he could invoice for 
+work performed during option year 3 (i.e., 2013). 
+
+       22.    On Monday, December 23, 2013, the VP of Finance emailed the C-12 Business 
+Manager “billing amounts” for seven of the revenue recovery items.  The C-12 Business Manager 
+emailed ASD’s Controller, copying the C-12 Contract Manager and the VP of Finance, asking the 
+individual to “[p]lease add planned revenue . . . for the revenue recovery billings that I did today,” 
+and further stating, “I believe the current course of action is that they are not to be released to the 
+government.” 
+
+       23.    To physically generate the invoices, ASD had to seek the assistance of Vertex’s 
+Shared Services department in Madison, AL, because ASD’s invoicing specialist was out of the 
+office.  Two clerks in Vertex’s billing department indicated that not entering invoices through 
+WAWF was unusual, and one conferred with a supervisor, the Controller of Vertex.  The 
+Controller of Vertex had seen this type of practice on other smaller accounts while working for an 
+audit firm, but he had never seen it at L3 and recognized that not submitting the invoices through 
+WAWF would violate certain “work procedures.”  The Controller of Vertex called the VP of 
+Finance, and the VP of Finance said that based on an agreement with the U.S. Army, ASD and the 
+U.S. Army were going to negotiate each invoice before submitting it through WAWF.  The 
+Controller of Vertex was appeased by this conversation, and 69 invoices were generated in SAP, 
+but withheld from WAWF, causing ASD to recognize approximately $17.9 million in revenue, 
+without delivery of the related invoices to the Army by WAWF. 
+
+       24.    The C-12 Business Manager reported concerns with the VP of Finance’s invoicing 
+request to the C-12 Contract Manager on Friday, December 27, 2013, in a conversation that was 
+memorialized in an email that night: 
+
+                                               6 
+---------------------Page 7---------------------
+
+ 
+
+       It appears as thought [sic] the Revenue Recovery items are being handled outside of 
+       the L-3 corporate policy….I know that a revenue accrual the size of the one that it 
+       would take to account for the Revenue Recovery would require Corporate approval.  
+       To avoid that Corporate approval, we have been directed to cut invoices through the 
+       billing system, but not send the invoices to the government.  I believe that is being 
+       done to avoid Corporate policy and try to “hide” this from the auditors.  I could be 
+       mistaken, but this doesn’t pass the smell test. 
+
+       25.    That same day, the C-12 Contract Manager had a conversation with the VP of 
+Finance in which he relayed the C-12 Business Manager’s concerns, and also noted that certain 
+employees were concerned regarding “invoice directives” from ASD.  The VP of Finance 
+explained, as the C-12 Contract Manager later wrote in a report to L3’s ethics office (“Ethics”), 
+that: 
+
+       [I]nvoicing  in  SAP  with  no  immediate  intent  to  extend  the  invoice  to  the 
+       Government was a  “technique”  to utilize since New York had forbid [ASD] to 
+       accrue the designated Army C-12 Revenue Recovery amounts.  This technique had 
+       the same year and effect on the financials that accrual would have had—potentially 
+       up to $18M revenue and associated EBIT recognition.  I asked [the VP of Finance] 
+       if this “technique” was known to and approved by New York.  [The VP of Finance] 
+       answered that he did not know, but that Group had directed him to take this path.  I 
+       asked if we had this direction in writing and the answer was no. 
+
+       26.    In that same December 31, 2013 email, the C-12 Contract Manager also reported on 
+a conversation that occurred on Monday, December 30, 2013, stating: 
+
+       Yesterday  in  a  conversation  with  [the  C-12  Business  Manager]  and  the  [ASD 
+       Controller] over year end close outs, [the VP of Finance], according to the [C-12 
+       Business  Manager],  stated  that  the  Army  C-12  year  end  numbers  needed  to  be 
+       whatever they had to be in order for Division to make $40M EBIT.  I’m sure [the 
+       VP of Finance] meant something other than how the comment was taken.  However, 
+       we, and especially the CFO, need to be careful with what we say—in particular in 
+       this current environment.   
+
+       27.    Wentlent was on vacation in Antarctica from December 9 to December 23, 2013.  
+His first day back in the office was after the Christmas holiday, on or around December 27, 2013.  
+The recognition of revenue on the C-12 Contract was a priority of Wentlent’s, driven by his 
+perception that the President of Logistics Solutions wanted the revenue recognized by the end of 
+2013, and by the fact that without the additional revenue, ASD would likely fall short of meeting 
+its annual plan.  Thus, upon returning to the office from vacation, Wentlent asked the VP of 
+Finance how things were going with the year-end close out.  The VP of Finance informed 
+Wentlent that L3 Corporate would not allow ASD to record revenue on the revenue recovery items 
+a certain way, but that he came up with an alternative method, and that corporate had approved his 
+method.  Despite having been told by the President of Logistics Solutions to coordinate the 
+accounting with the Aerospace Systems CFO, and knowing that the VP of Finance had been 
+performing unsatisfactorily, Wentlent did not take any steps to confirm that the Aerospace Systems 
+CFO or L3 Corporate approved of the VP of Finance’s methods. 
+
+                                               7 
+---------------------Page 8---------------------
+
+ 
+
+       28.    Late in the evening on Monday, December 30, 2013, Wentlent emailed the 
+President of Logistics Solutions stating that the end of year close is “going well” and “December’s 
+numbers will be a little better than STF [short term forecast].”  He further noted “[s]ales are up 
+$11.4 M the major driver is C-12 and the posting to account for the revenue recovery.”  Although it 
+was unclear at that time whether ASD would meet the required 75% of their plan to make bonuses 
+(in part because the financial statements were not yet finalized with all accruals posted), the 
+additional revenue recognized by ASD in late December 2013 allowed ASD to achieve the 75% 
+threshold.  Consequently, the VP of Finance received a bonus of $62,100 on a base salary of 
+$189,673, and Wentlent received a bonus of $183,500 on a base salary of $258,654, each 
+attributable to ASD achieving 75% of plan.  Both of these bonuses were later rescinded by L3. 
+
+G.     JANUARY 2014 ISSUES REGARDING ACCRUALS AND INVOICES 
+
+       29.    As part of the year-end close, the VP of Finance also requested that the Business 
+Manager on the C-12 Contract enter $8.8 million of accruals related to three revenue recovery 
+items.  In connection with these accruals, the CFO of Aerospace Systems sought approval from the 
+head of audit and the L3 Corporate Controller to reverse costs charged in prior option years based 
+on anticipated recovery from the government.   
+
+       30.    The L3 Corporate Controller did not allow the accrual of these items.  As the 
+Aerospace Systems CFO explained to the VP of Finance on January 7, 2014, “[b]ased on 
+consultation with [the L3 Corporate Controller and another individual from L3 corporate] … the 
+following needs to take place: 1. reverse the [$8.8M] entries [ ]…[and] Record as billed A/R and 
+revenue the Option Year 3 amounts that are approximately $2.8M for the PMO Support and $450k 
+for the Reduced Payments.”  The Aerospace Systems CFO further explained, “[t]he reversal of 
+cost of sales charged in prior option years is not allowed under SAB [Staff Accounting Bulletin] 
+104, so we will not be allowed to pick up that profit.” 
+
+       31.    The Controller’s office requested through the Aerospace Systems CFO that ASD 
+obtain a letter from the U.S. Army indicating that ASD had permission to bill for the $3.2 million 
+Option Year 3 claims.  In connection with seeking this letter, the VP of Finance received from the 
+C-12 Contract Manager two separate email chains from late December and early January, neither 
+of which the VP of Finance had been copied on previously, discussing whether L3 should invoice 
+for all of the revenue recovery items (i.e., not just the $3.2 million).  Both email chains suggest that 
+the U.S. Army intended for L3 to send invoices that would be paid if justified or denied.  In one of 
+the email chains, the C-12 Contract Manager specifically asks, “[j]ust to be clear . . . are you telling 
+me to invoice (bill) the government for what we believe we are owed to start the conversation?  Or 
+are you telling me to file a claim?  I see those as two different actions.”   The response was, “I 
+think the first step is to invoice the Government, then a claim will follow if the invoice is denied.”  
+Neither email chain mentioned invoicing in L3’s SAP system but withholding the invoice from the 
+U.S. Army. 
+
+H.     L3’s INVESTIGATION AND DISCOVERY OF IMPROPER ACCOUNTING 
+
+       32.    In June 2014 – approximately six months after the invoice allegations were first 
+raised – L3 investigators discovered a billing supervisor at L3 had kept the hard copy revenue 
+
+                                                8 
+---------------------Page 9---------------------
+
+ 
+
+invoices on a shelf in her office.  The invoices had not been delivered to the U.S. Army, in 
+violation of a specific internal control of L3 that required delivery of invoices. 
+
+I.     RELEVANT PROFESSIONAL STANDARDS 
+
+       33.    Accounting Standards Codification 605-10-25-1 provides that revenue can be 
+recognized when it is realized or realizable and earned.  Consistent with the authoritative literature, 
+paragraph (A)(1) of the Codification of Staff Accounting Bulletins, Topic 13: Revenue 
+Recognition (which provided guidance on the C-12 Contract) states that collectability be 
+reasonably assured and that the amount of revenue be fixed or determinable as conditions to 
+recognizing revenue.  By failing to deliver the invoices at the time, ASD’s recognition of the $17.9 
+million in revenue violated these standards and therefore did not comply with U.S. GAAP.   
+
+       34.    L3 filed its Form 10-K for the fiscal year ending December 31, 2013 on February 
+25 and its Form 10-Q for the quarter ending March 31, 2014 on May 1, 2014.  These filings were 
+inaccurate.  
+
+J.     L3’s REVISED FINANCIAL STATEMENTS 
+
+       35.    On October 10, 2014, L3 filed a Form 10-K/A for the fiscal year ended December 
+31, 2013, and a Form 10-Q/A the first quarter of 2014.  Among other items, the amended filings 
+disclosed that with respect to its Aerospace Systems segment, L3 identified and recorded pre-tax 
+charges of $60 million for 2013; $25 million for 2012; $5 million for 2011; $4 million for periods 
+prior to 2011; $20 million for 1Q:14; and $55 million for 2Q:14, for a total of $169 million in the 
+segment.  Of the adjustments, $69 million were attributable to the C-12 Contract due to “cost 
+overruns inappropriately deferred, sales invoices inappropriately prepared, and the failure to timely 
+and accurately perform contract estimates at completion and valuation assessments of inventories 
+and receivables,” at the Army Sustainment Division.  Of the $69 million, $15.4 million in 
+improperly recognized revenue was related to the creation of invoices related to disputed claims. 
+
+K.     VIOLATIONS 
+ 
+       36.    As a result of the conduct described above, Wentlent caused L3’s violations of 
+Section 13(b)(2)(A) of the Exchange Act, which requires an issuer to make and keep books, 
+records, and accounts, which in reasonable detail, accurately and fairly reflect the transactions and 
+dispositions of the assets of the issuer. 
+
+       37.    As a result of the conduct described above, Wentlent violated Rule 13b2-1 of the 
+Exchange Act, which prohibits any person from, directly or indirectly, falsifying or causing to be 
+falsified, any book, record, or account that the Exchange Act requires an issuer to maintain. 
+
+                                               IV. 
+
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondent’s Offer. 
+
+       Accordingly, it is hereby ORDERED that:  
+        
+
+                                                9 
+---------------------Page 10---------------------
+
+ 
+
+       A.      Pursuant to Section 21C of the Exchange Act, Respondent Wentlent cease and desist 
+from committing or causing any violations and any future violations of Sections 13(b)(2)(A) of the 
+Exchange Act, and Rule 13b2-1 thereunder. 
+        
+       B.     Respondent Wentlent shall, within 30 days of the entry of this Order, pay a civil 
+money penalty in the amount of $25,000.00 to the Securities and Exchange Commission for 
+transfer to the general fund of the United States Treasury, subject to Exchange Act Section 
+21F(g)(3).  If timely payment is not made, additional interest shall accrue pursuant to 31 U.S.C. 
+§3717. 
+        
+       Payment must be made in one of the following ways:   
+ 
+               (1)    Respondent may transmit payment electronically to the Commission, which 
+                      will provide detailed ACH transfer/Fedwire instructions upon request;  
+                
+               (2)    Respondent may make direct payment from a bank account via Pay.gov 
+                      through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or  
+                
+               (3)     Respondent may pay by certified check, bank cashier’s check, or United 
+                      States postal money order, made payable to the Securities and Exchange 
+                      Commission and hand-delivered or mailed to:  
+ 
+               Enterprise Services Center 
+               Accounts Receivable Branch 
+               HQ Bldg., Room 181, AMZ-341 
+               6500 South MacArthur Boulevard 
+               Oklahoma City, OK 73169 
+ 
+       Payments by check or money order must be accompanied by a cover letter identifying 
+Wentlent as a Respondent in these proceedings, and the file number of these proceedings; a copy 
+of the cover letter and check or money order must be sent to Sanjay Wadhwa, Senior Associate 
+Director, Division of Enforcement, New York Regional Office, Securities and Exchange 
+Commission, 200 Vesey Street, New York, NY 10281. 
+        
+       Amounts ordered to be paid as civil money penalties pursuant to this Order shall be treated 
+as penalties paid to the government for all purposes, including all tax purposes.  To preserve the 
+deterrent effect of the civil penalty, Respondent agrees that in any Related Investor Action, he shall 
+not argue that he is entitled to, nor shall he benefit by, offset or reduction of any award of 
+compensatory damages by the amount of any part of Respondent’s payment of a civil penalty in 
+this action (“Penalty Offset”).  If the court in any Related Investor Action grants such a Penalty 
+Offset, Respondent agrees that he shall, within 30 days after entry of a final order granting the 
+Penalty Offset, notify the Commission’s counsel in this action and pay the amount of the Penalty 
+Offset to the Securities and Exchange Commission.  Such a payment shall not be deemed an 
+additional civil penalty and shall not be deemed to change the amount of the civil penalty imposed 
+in this proceeding.  For purposes of this paragraph, a “Related Investor Action” means a private 
+
+                                               10 
+---------------------Page 11---------------------
+
+ 
+
+damages action brought against Respondent by or on behalf of one or more investors based on 
+substantially the same facts as alleged in the Order instituted by the Commission in this 
+proceeding. 
+
+                                                V. 
+ 
+       It is further Ordered that, solely for purposes of exceptions to discharge set forth in Section 
+523 of the Bankruptcy Code, 11 U.S.C. §523, the findings in this Order are true and admitted by 
+Respondent, and further, any debt for disgorgement, prejudgment interest, civil penalty or other 
+amounts due by Respondent under this Order or any other judgment, order, consent order, decree or 
+settlement agreement entered in connection with this proceeding, is a debt for the violation by 
+Respondent of the federal securities laws or any regulation or order issued under such laws, as set 
+forth in Section 523(a)(19) of the Bankruptcy Code, 11 U.S.C. §523(a)(19). 
+ 
+       By the Commission. 
+ 
+ 
+ 
+ 
+ 
+                                                             Brent J. Fields 
+                                                             Secretary 
+
+                                                11 

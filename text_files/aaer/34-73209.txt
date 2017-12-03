@@ -1,0 +1,435 @@
+---------------------Page 1---------------------
+
+ 
+                          UNITED STATES OF AMERICA 
+                                      Before the 
+                   SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 73209 / September 25, 2014 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3585 / September 25, 2014 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-16164 
+ 
+                                             ORDER INSTITUTING ADMINISTRATIVE 
+In the Matter of                             AND CEASE-AND-DESIST PROCEEDINGS, 
+                                             PURSUANT TO SECTION 21C OF THE 
+   JDA SOFTWARE GROUP, INC.,                 SECURITIES EXCHANGE ACT OF 1934, 
+                                             MAKING FINDINGS, AND IMPOSING 
+Respondent.                                  REMEDIAL SANCTIONS AND A CEASE-
+                                             AND-DESIST ORDER  
+ 
+                                               
+ 
+                                          I. 
+ 
+      The Securities and Exchange Commission (Commission) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities 
+Exchange Act of 1934 (Exchange Act) against JDA Software Group, Inc. (Respondent).   
+                                           
+                                         II. 
+ 
+      In anticipation of the institution of these proceedings, Respondent has submitted an Offer 
+of Settlement (the Offer) which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the findings 
+herein, except as to the Commissions jurisdiction over it and the subject matter of these 
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting 
+Administrative and Cease-and-Desist Proceedings, Pursuant to Section 21C of the Securities 
+Exchange Act of 1934, Making Findings, and Imposing Remedial Sanctions and a Cease-and-
+Desist Order (Order), as set forth below. 
+ 
+ 
+ 
+ 
+ 
+---------------------Page 2---------------------
+
+                                               III. 
+                                                  
+       On the basis of this Order and Respondents Offer, the Commission finds  1
+                                                                                 that: 
+ 
+                                          SUMMARY 
+ 
+       During the time period from fiscal year 2008 through the third quarter of fiscal year 2011, 
+JDA Software Group, Inc. (JDA), a software solutions company, materially misstated its revenue, 
+net income, and other financial metrics in certain of its annual and quarterly reports filed with the 
+Commission and in certain of its earnings releases.  In particular, JDA failed to properly record and 
+report revenue from its software license sales in the correct accounting periods because it did not 
+establish vendor specific objective evidence of fair value (VSOE) for Managed Services and 
+certain types of consulting arrangements sold in conjunction with its software licenses.  In addition, 
+JDA failed to accurately record and report revenues from the sale of software licenses and certain 
+services agreements that were linked to each other.  JDAs failures in these areas were caused by 
+inadequate internal controls surrounding revenue recognition.  JDA lacked adequate revenue 
+recognition policies and procedures and failed to identify all service-related contracts needed for 
+VSOE testing to determine the fair value of certain services. 
+ 
+       Ultimately, in August 2012, JDA restated its financial results for fiscal years 2008 through 
+the third quarter of fiscal year 2011, and in its restatement acknowledged, among other things, 
+material weaknesses in its internal controls over financial reporting.  By engaging in the foregoing 
+conduct, JDA violated the reporting, books and records, and internal controls provisions of the 
+federal securities laws, namely Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act 
+and Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder. 
+ 
+                                        RESPONDENT 
+ 
+       JDA Software Group, Inc. (JDA), a Delaware corporation headquartered in Scottsdale, 
+Arizona, is a leading provider of business software solutions for a broad range of industry groups 
+ranging from foods, manufacturing, retail, government and defense contracting.  In December 2012, 
+JDA was acquired by RedPrairie, a privately held software company for approximately $1.9 billion.  
+Both JDA and RedPrairie are owned by New     Mountain Capital, LLC, a private investment 
+company.  Prior to its acquisition by RedPrairie, JDAs common stock was registered with the 
+Commission pursuant to Section 12(b) of the Securities Act of 1933 (Securities Act) and traded 
+on the NASDAQ Global Select Market.  Since JDA had stock registered under Section 12 of the 
+Securities Act, it was required to file reports with the Commission pursuant to Sections 13(a) of the 
+Exchange Act. 
+
+ 
+
+                                                 
+1
+       The findings herein are made pursuant to Respondents Offer and are not binding on any other 
+person or entity in this or any other proceeding. 
+ 
+
+                                                2 
+---------------------Page 3---------------------
+
+                                       BACKGROUND 
+        
+       1.      
+               In 1997, the American Institute of Certified Public Accountants (AICPA) issued 
+Statement of Position 97-2, Software  Revenue Recognition (SOP 97-2), the first industry-
+specific GAAP guidance on revenue recognition for software and software-related products.  
+Following the issuance of SOP 97-2, the AICPA also released numerous standards and Technical 
+Practice Aids (TPAs) clarifying specific aspects of software revenue recognition.   In June 2009, 
+existing GAAP pronouncements were codified into the Accounting Standards Codification, 
+effective for interim and annual periods ending after September 15, 2009.  SOP 97-2, its related 
+amendments and related TPAs were codified at ASC 985-605 (hereinafter ASC 985-605).    
+
+       2.     JDAs business involved selling computer software licenses and services related to 
+those software licenses to various customers located throughout the world.  The primary related 
+services were: (i) Managed (Hosting/Cloud) Services; (ii) Consulting Services; (iii)  Post Contract 
+Customer Support (Maintenance); and (iv) Education/Training.  Managed Services involve  d, 
+among other things, JDA hosting the software for customers on JDAs servers.  Consulting 
+Services involves assisting customers in all phases of systems implementation, including program 
+and project management.   
+
+       3.     JDA sold its software licenses and related services in three ways: (i) it bundled the 
+software license and some, if not all, of the related services and sold them as a single contract, 
+known as a multiple element arrangement under the accounting literature; (ii) it sold the software 
+license and the related services in separate contracts that were linked; or (iii) it sold the software 
+license and related services in separate contracts that were not linked.  These services contracts 
+were typically offered for a set period of time.    
+
+       4.     As a computer  software company, JDAs ability to recognize revenue from the sale 
+of software and related services in a multiple element arrangement was governed broadly by ASC 
+985-605.  In order to recognize the full amount of revenue from the sale of a software license 
+immediately in the quarter in which the sale occurred, JDA had to establish that it had VSOE for 
+each undelivered element of the bundled services.  If JDA  was unable to establish VSOE for any 
+undelivered element, it had to recognize revenue from the software license ratably over the term of 
+the services agreement.  
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+                                               3 
+---------------------Page 4---------------------
+
+       5.      ASC 985-605 limits the information that a company may use to establish the fair 
+value of a particular element.   This information is limited to:  
+
+           a.  The price charged when the same element    is sold separately2
+                                                                            ; or 
+
+           b.  For an element not yet being sold separately, the price established by management 
+               having the relevant authority; it must be probable that the price, once established, 
+               will not change before the separate introduction of the element into the market 
+               place (management authority). 
+
+                             VSOE FOR MANAGED SERVICES 
+                                                  
+       6.      JDA offered Managed Services to its customers.  In fiscal years 2008 and 2009, 
+JDA did not conduct any VSOE studies using    stand-alone transactions to determine whether it had 
+established VSOE for its Managed Services.  Rather than using   stand-alone transactions, JDA 
+relied solely on management authority to establish VSOE for its Managed Services. 
+
+       7.      To establish VSOE using   management authority, a company must demonstrate that 
+the actual prices charged for the services in multiple element arrangements conform to the prices 
+set by management.  In fiscal years 2008 and 2009, however, JDA did not have adequate    policies 
+and procedures to determine whether   the sales prices for Managed Services in its multiple element 
+arrangements complied with the prices that were set by JDAs management.  JDA conducted no 
+testing to make this determination.  Thus, as part of its restatement process  and specifically with 
+regard to Managed Services  JDA determined that it had not established VSOE for Managed 
+Services in fiscal years 2008 and 2009 because it did not sell its Managed Services offerings at 
+prices that were consistent with prices set by management.  
+
+       8.      For fiscal year 2010, JDA conducted its  first-ever VSOE study for Managed 
+Services using stand-alone transactions.  JDA initially identified five stand-alone Managed 
+Services transactions and determined that those transactions demonstrated sufficient clustering to 
+establish VSOE.  As part of its 2010 annual audit, JDAs auditor determined that one of the 
+transactions was not a stand-alone transaction, and JDA concluded that the remaining four were 
+sufficient to establish VSOE.   
+
+       9.      As part of the restatement process, however, JDA determined that one of those four 
+transactions was not a stand-alone transaction because it was linked to a software license 
+agreement.  JDA determined that the remaining three transactions did  not constitute an acceptable 
+population by which VSOE for Managed Services could be established     .  In particular,  JDA noted 
+that the objective testing populations of stand-alone transactions [the remaining three transactions] 
+
+                                                 
+2
+       For ease of reference in the Order, we refer to contracts in which services are sold separately as stand-alone 
+transactions.  An analysis of stand -alone transactions for VSOE purposes involves:  (i) identifying transactions in 
+which a particular service is sold separately (not in a multiple element arrangement); (ii) identifying the actual prices 
+at which those services were sold; and (iii) determining whether those prices demonstrate sufficient clustering (i.e. 
+prices that are tightly grouped around the average price) to establish VSOE. 
+ 
+
+                                                 4 
+---------------------Page 5---------------------
+
+were not substantial enough to establish VSOE.  Thus, JDA did not properly record revenue from 
+the sale of certain software licenses in which Managed Services were a bundled or linked service. 
+
+                           VSOE FOR CONSULTING SERVICES 
+                                                 
+       10.    During the relevant period, JDA offered C onsulting Services to its customers 
+throughout the world, including in Japan, Australia, and Europe.  JDA offered its Consulting 
+Services typically through fixed bid contracts or contracts based on a time and material 
+arrangements with set hourly rates.   
+
+       11.    In fixed bid contracts, JDA set a fixed total dollar amount for a particular consulting 
+arrangement, which was based on an estimate of the number of hours that were expected to be 
+spent by the consultants on the project.  During the relevant period  and as they had with 
+Managed Services arrangements   in fiscal years 2008 and 2009  JDA did not conduct  VSOE   
+testing to determine whether the actual contract rates in fixed bid contracts complied with the 
+consulting rates set by management authority. 
+
+       12.    As part of its restatement process, JDA concluded that from fiscal year 2008 through 
+fiscal year 2010, JDAs fixed bid contracts lacked consistency in pricing.  In particular, for fixed bid 
+contracts in fiscal year 2010, JDA found that it only had a 13% compliance rate, and therefore JDA 
+concluded that VSOE for fixed bid contracts did not exist.  
+
+       13.    With respect to consulting services based upon time and material arrangements, 
+because consulting and currency rates varied depending on the customers geographic region, JDA 
+was required to establish VSOE for Consulting Services on a geographic basis.  JDA, however, did 
+not conduct any VSOE analysis for certain geographic regions. 
+
+       14.     During its restatement process, JDA conducted an analysis on a geographic basis 
+and determined that for certain regions it did not have a sufficient volume of consulting contracts to 
+establish VSOE in certain foreign currencies.   Thus, JDA did not properly record revenue from the 
+sale of certain software licenses in which Consulting Services were a bundled or linked service. 
+
+                                   LINKED CONTRACTS 
+                                                 
+       15.    With respect to services offered in stand-alone arrangements, ASC 985-605-55-4 3
+                                                                                                
+requires computer software companies to analyze whether the services offered to a customer are 
+linked to a software license sold to the same customer. 
+
+       16.    Pursuant to ASC 985-605-55-4, a group of contracts or agreements may be so 
+closely related that they are, in effect, parts of a single arrangement.  The form of an arrangement is 
+not necessarily the only indicator of the substance of an arrangement. The existence of any of the 
+following factors (which are not all-inclusive) may indicate that a group of contracts should be 
+
+                                                 
+3
+       Prior to the accounting standards codification, TPA 5100.39 provided authoritative 
+guidance for the analysis of linked contracts. 
+
+                                               5 
+---------------------Page 6---------------------
+
+accounted for as a single arrangement:  (i) the contracts or agreements are negotiated or executed 
+within a short timeframe of each other; (ii) the different elements are closely interrelated or 
+interdependent in terms of design, technology, or function; (iii) the fee for one or more contracts or 
+agreements is subject to refund, forfeiture, or other concession if another contract is not completed 
+satisfactorily; (iv) one or more elements in one contract or agreement are essential to the 
+functionality of an element in another contract or agreement; (v) payment terms under one contract 
+or agreement coincide with performance criteria of another contract or agreement; and (vi) the 
+negotiations are conducted jointly with two or more parties (for example, from different divisions 
+of the same company) to do what in essence is a single project. 
+
+       17.    Whether contracts are linked has significant implications from a VSOE, and in turn, 
+a revenue recognition perspective.  If two contracts are deemed to be linked, they are treated as part 
+of a multiple element arrangement.  As noted earlier, software companies are unable to recognize 
+the full amount of the license revenue in the quarter in which the revenue is obtained unless they 
+have VSOE for each service that is linked to the license agreement.               
+
+       18.    Moreover, if a service contract is linked to a license agreement, that service 
+agreement cannot be used as a stand-alone transaction for purposes of establishing VSOE.  In fact, 
+as noted above, JDA determined in connection with its restatement that one of the stand-alone 
+transactions relied upon in its VSOE study of Managed Services for fiscal year 2010 was linked, 
+and therefore, could not be included in a population of stand-alone transactions. 
+
+       19.    During the relevant period, JDAs internal controls and testing for linked contracts 
+were deficient.  JDAs controls were not adequately designed to identify all of the service contracts 
+that were in the process of being negotiated with customers.  Specifically, JDA did not maintain any 
+centralized database to track such contracts.  In addition, JDAs controls were not adequately 
+designed to systematically identify  by customer  any services contracts that were signed within a 
+defined period of the software license agreement.  Accordingly, JDA was unable to conduct 
+adequate testing for linked contracts in compliance with ASC 985-605-55-4. 
+
+       20.    As JDA determined during its restatement process, any linkage analysis that 
+occurred was rarely documented.  Accordingly, even in those instances where it appeared that 
+linkage was purportedly considered, it was very difficult to determine what if any analysis was done 
+or whether the software license was linked to any service due to the lack of documentation. 
+
+       21.    JDAs linkage analysis was largely limited to determining whether an obligation 
+existed to deliver services and whether a carve-out from license revenue was necessary where rates 
+in a related services agreement were below VSOE, and did not consider all of the other factors set 
+forth in ASC 985-605-55-4. 
+
+       22.    Accordingly, JDA did not properly assess contracts for linkage.  Consequently, JDA 
+reported a material weakness in its internal controls over financial reporting. 
+
+        
+
+        
+                                                6 
+---------------------Page 7---------------------
+
+                                   THE RESTATEMENT 
+
+       23.    On August 6, 201 2, JDA restated its financial statements for fiscal years 2008, 2009, 
+2010 and the first three quarters of fiscal year 2011.  JDA misstated its revenues, net income and 
+other financial metrics in all reporting periods.  In particular, JDA determined in the restatement that 
+revenue was not recognized in the correct reporting periods.  Thus, in some reporting periods, 
+JDAs financial results were materially overstated and in others they were materially understated.  
+The chart below summarizes JDAs material misstatements: 
+
+ Financial Metric (figures in$000)              2008         2009         2010         2011 
+ Revenue - Originally Reported                 390,332     385,800      617,209      671,753 
+ Revenue  Restated                            381,516     390,968      593,742      691,243 
+ Revenue - Over/(Under) Statement               8,816       (5,168)      23,467      (19,490) 
+ Percentage Over/(Under) Statement              2.31%       -1.32%       3.95%        -2.82% 
+
+  Gross Profit- Originally Reported                        240,129      363,675           
+ Gross Profit  Restated                                   245,543      338,996           
+ Gross Profit - Over/(Under) Statement                      (5,414)      24,679           
+ Percentage Over/(Under) Statement               N/A        -2.20%       7.28%         N/A   
+
+  Net Income/(Loss) - Originally Reported       3,124       17,746       17,718       71,000    
+ Net Income/(Loss)  Restated                   (386)       18,982        2,141       82,688 
+ Net Income /(Loss) - Over/(Under) 
+ Statement                                      3,510       (1,236)      15,577      (11,688) 
+ Percentage Over/(Under) Statement            909.33%       -6.51%      727.56%      -14.14% 
+
+  EBITDA - Originally Reported                 97,354       96,846      160,851      179,637  
+ EBITDA  Restated                             88,538      102,461      135,786      201,608 
+ EBITDA - Over/(Under) Statement                8,816       (5,615)      25,065      (21,971) 
+ Percentage Over/(Under) Statement              9.96%       -5.48%       18.46%      -10.90% 
+        
+
+       24.    In the restatement, JDA identified control failures that constituted material 
+weaknesses, and a significant deficiency, in its internal controls  over financial reporting   
+specifically related to multiple element arrangements and VSOE for certain services . 
+Specifically, JDA acknowledged that material weakness existed in its internal controls over the 
+application of revenue recognition criteria required by ASC 985-605.  
+
+       25.    JDA noted that the material weakness related to both the insufficient design and 
+ineffective operation of certain internal controls over the identification of license agreements 
+linked to consulting agreements and Managed Services, as well as testing and documentation of 
+VSOE for Managed Services and   Consulting Services products. 
+
+        
+                                              7 
+---------------------Page 8---------------------
+
+                                        VIOLATIONS 
+
+       26.    Under Section 21C of the Exchange Act, the Commission may impose a cease-and-
+desist order upon any person who is violating, has violated, or is about to violate any provision of 
+the Act and upon any other person that is, was, or would be a cause of the violation, due to an act 
+or omission the person knew or should have known would contribute to such violation.   
+
+       27.    Section 13(a) of the Exchange Act requires issuers to file such periodic and other 
+reports as the Commission may prescribe and in conformity with such rules as the Commission may 
+promulgate.  Exchange Act Rules 13a-1, 13a-11, and 13a-13 require the filing of annual, current, 
+and quarterly reports, respectively.  In addition to the information expressly required to be included 
+in such reports, Rule 12b-20 of the Exchange Act requires issuers to add such further material 
+information, if any, as may be necessary to make the required statements, in the light of the 
+circumstances under which they are made not misleading.  The reporting provisions of the 
+Exchange Act are clear and unequivocal, and they are satisfied only by the filing of complete, 
+accurate, and timely reports.  SEC v. Savoy Industries, 587 F.2d 1149, 1165 (D.C. Cir. 1978) 
+(citing SEC v. IMC Intl, Inc., 384 F. Supp. 889, 893 (N.D. Tex. 1974)).  A violation of the reporting 
+provisions is established if a report is shown to contain materially false or misleading information. 
+SEC v. Kalvex, Inc., 425 F. Supp. 310, 316 (S.D.N.Y. 1975).                    
+
+       28.    Section 13(b)(2)(A) of the Exchange Act requires issuers to make and keep books, 
+records, and accounts, which, in reasonable detail, accurately and fairly reflect the transactions and 
+dispositions of the assets of the issuer.  Section 13(b)(2)(B) of the Exchange Act requires issuers to 
+devise and maintain a system of internal accounting controls sufficient to provide reasonable 
+assurances that transactions are recorded as necessary to permit the preparation of financial 
+statements in conformity with generally accepted accounting principles.   
+
+       29.    By engaging in the conduct above, JDA violated Section 13(a) of the Exchange Act 
+and Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder, and Sections 13(b)(2)(A) and 13(b)(2)(B) 
+of the Exchange Act.  
+
+       30.    In determining to accept Respondents Offer, the Commission considered remedial 
+acts undertaken by JDA, including its enhancement of internal controls, retention of additional 
+accounting personnel, and JDAs cooperation with the staffs investigation. 
+
+                                              IV. 
+                                                 
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondents Offer. 
+ 
+       Accordingly, it is hereby ORDERED that: 
+ 
+       A.     Pursuant to Section 21C of the Exchange Act, Respondent   cease and desist from 
+committing or causing any violations and any future violations of Section 13(a), 13(b)(2)(A), and 
+13(b)(2)(B) of the Exchange Act and Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder. 
+        
+
+                                               8 
+---------------------Page 9---------------------
+
+       B.     Respondent shall, within 30 days of the entry of this Order, pay a civil money 
+penalty in the amount of $750,000 to the United States Treasury.  If timely payment is not made, 
+additional interest shall accrue pursuant to 31 U.S.C. § 3717.  Payment must be made in one of the 
+following three ways: 
+        
+              (1) Respondent may transmit payment electronically to the Commission, which 
+                  will provide detailed ACH transfer/Fedwire instructions upon request;  
+                   
+              (2) Respondent may make direct payment from a bank account via Pay.gov through 
+                  the SEC website at http://www.sec.gov/about/offices/ofm.htm; or  
+        
+              (3) Respondent may pay by certified check, bank cashiers check, or United States 
+                  postal money order, made payable to the Securities and Exchange Commission 
+                  and hand-delivered or mailed to:  
+ 
+              Enterprise Services Center 
+              Accounts Receivable Branch 
+              HQ Bldg., Room 181, AMZ-341 
+              6500 South MacArthur Boulevard 
+              Oklahoma City, OK 73169 
+
+       Payments by check or money order must be accompanied by a cover letter identifying JDA 
+Software as a Respondent in these proceedings, and the file number of these proceedings; a copy of 
+the cover letter and check or money order must be sent to Antonia Chion, Division of 
+Enforcement, Securities and Exchange Commission,100 F Street, NE, Washington, DC 20549-
+5030. 
+                   
+       By the Commission. 
+ 
+                                                  Brent J. Fields 
+                                                  Secretary 
+
+                                              9 

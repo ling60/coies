@@ -1,0 +1,470 @@
+---------------------Page 1---------------------
+
+ UNITED                                 STATES OF AMERICA 
+
+ Before                                           the 
+
+ SECURITIES                          AND EXCHANGE COMMISSION 
+
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 64289A / April 8, 2011 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT  
+Release No. 3269A / April 8, 2011 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-14339 
+ 
+                                                      
+In the Matter of                                    CORRECTED 
+                                                    ORDER INSTITUTING CEASE-AND-
+            Kempisty & Company, CPAs,               DESIST PROCEEDINGS PURSUANT 
+       P.C., Philip C. Kempisty, CPA                TO SECTION 21C OF THE 
+       and John Anthony Rubino, CPA,                SECURITIES EXCHANGE ACT OF 
+                                                    1934 AND PUBLIC  ADMINISTRATIVE 
+Respondents.                                        PROCEEDINGS PURSUANT TO 
+                                                     SECTION 4C OF THE SECURITIES 
+                                                     EXCHANGE ACT OF 1934 AND RULE 
+                                                    102(e) OF THE COMMISSION’S  
+                                                    RULES OF PRACTICE, AND NOTICE 
+                                                    OF HEARING  
+                                                     
+ 
+                                               I.  
+ 
+       The Securities and Exchange Commission (“Commission”) deems it appropriate and in the 
+public interest that cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 
+21C of the Securities Exchange Act of 1934 (“Exchange Act”) and that public administrative 
+proceedings be, and hereby are, instituted pursuant to Section 4C(2) and (3)1
+                                                                           of the Exchange Act 
+and Rule 102(e)(1)(ii) and (iii)2 
+                               of the Commission’s Rules of Practice against Kempisty and 
+
+                                                 
+1 
+       Section 4C provides, in relevant part, that:    
+The Commission may censure any person, or deny, temporarily or permanently, to any person the privilege of  
+appearing or practicing before the Commission in any way, if that person is found . . . (2) to be lacking in character or   
+integrity, or to have engaged in unethical or improper professional conduct; or (3) to have willfully violated, or 
+willfully aided and abetted the violation of, any provision of  the securities laws or the rules and regulations thereunder. 
+2 
+       Rule 102(e)(1)(ii) and (iii) provide, in relevant part, that:   
+The Commission may . . . deny, temporarily or permanently, the privilege of appearing or practicing before the  
+Commission  . . . to any person who is found . . . (ii) to be lacking in character or integrity or to have engaged in    
+unethical or improper professional conduct; or  . . . (iii) to have willfully violated, or willfully aided and abetted the 
+violation of any provision of the Federal securities  laws or the rules and regulations thereunder.  
+ 
+---------------------Page 2---------------------
+
+Company, CPAs, P.C., Philip C. Kempisty and John Anthony Rubino (collectively, 
+“Respondents”).    
+                                            Summary  
+ 
+       These proceedings arise out of quarterly reviews and an audit performed by Kempisty & 
+Company, CPAs, P.C. (“Kempisty & Company”), of the financial statements of its client, 
+Kentucky Energy, Inc. (“Kentucky Energy”),   3
+                                               for the year ended December 31, 2005.  In these  
+financial statements, Kentucky Energy improperly accounted for warrants and convertible notes it  
+had issued to third parties.  Kempisty & Company rendered an unqualified report stating that, in 
+the firm’s opinion, the financial statements presented fairly the financial position of the company in  
+conformity with 4
+                  generally accepted accounting principles (“GAAP”).  In fact, the financial 
+statements were not presented in conformity with GAAP and the resulting errors were material.  
+Moreover, the respondents failed to comply with Public Company Accounting Oversight Board 
+(“PCAOB”) auditing standards (“AU”)    5
+                                         in carrying out the relevant audits and reviews.   
+ 
+                                                II.  
+ 
+       After an investigation, the Division of Enforcement alleges that: 
+ 
+A. RESPONDENTS             
+ 
+       Kempisty & Company, CPAs, P.C. (“Kempisty & Company”), is an audit firm with 
+offices in New York City.  It is a public accounting firm registered with the Public Company 
+Accounting Oversight Board.  Kempisty & Company was the independent auditor for Kentucky 
+Energy at all relevant times from 2003 until the company dismissed it on February 13, 2009.   
+        
+       Philip C. Kempisty, CPA, 61 (“Kempisty”), is the founding partner and majority 
+shareholder of Kempisty & Company.  He has been licensed as a CPA in the state of New York  
+since 1974. 
+        
+       John Anthony Rubino, CPA, 67 (“Rubino”), has been a partner/member in Kempisty & 
+Company since 1989.  He is licensed as a CPA in the states of New York and Nevada.  Rubino 
+worked for a series of CPA firms in the New York City area before joining Kempisty & Company 
+in approximately 1980.   
+
+                                                 
+3 
+       The company was named Quest Minerals and Mining Corp. during the relevant time.     
+4 
+       The Kempisty report did contain an explanatory paragraph describing substantial doubt about the entity’s  
+ability to continue as a going concern and an emphasis of  matter paragraph describing that potential adverse rulings  
+in ongoing litigation could result in a loss of the company’s operating assets. 
+5 
+       “AU” refers to the specific sections of the codification of the Am  erican Institute of Certified Public 
+Accountants (“AICPA”) professional standards, known as the Statements on Auditing Standards, as issued by the  
+Auditing Standards Board of the AICPA.  These standards have been adopted by the PCAOB following passage of   
+the Sarbanes-Oxley Act of 2002 (“SOx”).  References in this order are to the standards in effect at the time of the 
+relevant conduct.  
+                                                 2
+  
+---------------------Page 3---------------------
+
+ 
+B. FACTS        
+ 
+Issuance of convertible notes and warrants by Kentucky Energy  
+       
+      1.       Kentucky Energy’s 2005 financial statements, like those for the preceding year, 
+were prepared by a consultant to the company.  This consultant’s father was the Vice President, 
+Secretary and a director of Kentucky Energy.  Kempisty and Rubino had no specific knowledge 
+of the consultant’s education or experience in accounting but were aware that he was not a CPA.  
+       
+      2.       Beginning in 2004 and continuing into 2005, Kentucky En   ergy obtained a series of  
+loans from third parties evidenced by notes convertible into common stock. 6
+                                                                              As an additional 
+incentive to the lenders, Kentucky Energy issued warrants along with each note.  Kentucky 
+Energy’s consultant needed to account for warrants for the first time in preparing the company’s 
+financial statements for inclusion in its Form  10-KSB for the year ended December 31, 2004.   
+Rubino had never previously dealt with the issue of how to account for warrants or a beneficial  
+conversion feature of a convertible note, both of which are derivatives.   
+       
+Improper accounting for warrants and beneficial conversion feature 
+        
+       3.      Rubino told the consultant that he would need to value the warrants using the  
+Black-Scholes option pricing model.  Accordingly, the consultant found a Black-Scholes 
+calculator on the internet.  This calculator called for him to fill in variables for the warrants’ 
+“equity price,” “strike price,” “volatility,” “riskless interest rate,” and “time to maturity,” and 
+would then generate a Black-Scholes valuation.  For “volatility” and “interest rate,” however, the 
+consultant simply inserted the generic numbers provided as an example by the website, rather 
+than calculate the actual volatility of Kentucky Energy stock and determine the real riskless 
+interest rate.  In fact, Kentucky Energy’s stock price was far more volatile than that listed in the 
+website example. 
+        
+       4.      Using this method, the consultant arrived at a value for the warrants issued during 
+the last quarter of 2004.  He recorded that value as an expense on the company’s statement of 
+operations and sent his draft financial  statements to Kempisty & Company.   
+        
+       5.      Rubino, however, contacted the consultant and told him that he should have 
+recorded the warrant valuation as an asset on the company’s balance sheet, rather than as an 
+expense on its statement of operations, and that he should then have amortized that amount over 
+the life of the underlying convertible notes.  Not only was this accounting treatment incorrect, but 
+both Rubino and the consultant ignored the necessity to provide for the beneficial conversion 
+feature of the notes. 
+        
+       6.      In fact, accounting for the warrants in accordance with GAAP required that the 
+proper inputs be used in the Black-Scholes option pricing model.  Kentucky Energy should have 
+                                                 
+6 
+       One series of notes issued during 2005 was not convertible and one note did not have warrants attached,                               
+however.  
+                                                 3
+  
+---------------------Page 4---------------------
+
+allocated the loan proceeds first to the notes and the warrants; and then, from the portion 
+allocated to the notes, reallocated that to the notes and the beneficial conversion feature of the 
+notes.  The amount of proceeds allocable to the warrants and the beneficial conversion feature 
+would be accounted for as paid-in-capital and as a discount to the face amount of the note.  The 
+note should have been recorded net of this discount on the balance sheet and the discount should 
+have been amortized to interest expense in the statement of operations over the life of the notes.  
+        
+       7.      Rubino testified that he did not know whether or not the consultant was a CPA, 
+what his accounting background was, or whether he was familiar with GAAP.  Even after he 
+decided that the consultant’s first set of financial statements was incorrectly prepared, Rubino took 
+no further steps to verify the consultant’s competence.   
+        
+GAAP failures  
+        
+       8.      For the first quarter of 2005, using the same methodology esta blished in 2004, the  
+consultant arrived at a value of $15,694,422 for the warrants, and that amount less amortization of 
+$1,881,139, or $13,813,283 was recorded as an asset on the company’s balance sheet.  In the 
+subsequent quarters of 2005, the consultant continued to calculate the warrant valuation improperly 
+and to record it as an asset which, for each of the first two quarters, amounted to over 60% of 
+Kentucky Energy’s total assets.  On the company’s statements of operations, the warrant 
+amortization expense increased correspondingly, and on its 2005 year-end statement of operations  
+amounted to 70% of Kentucky Energy’s net loss.  Throughout this period, the consultant continued 
+to fail to consider the effect of the beneficial conversion feature of the promissory notes.  The 
+combined valuation of the warrants and the beneficial conversion features should not have 
+exceeded the proceeds the company had received from the notes, which amounted to $1,875,000 at 
+the end of the first quarter and $3,105,000 at the  end of 2005, and they should not have been 
+recorded as an asset. 
+        
+       9.      For its year ended December 31, 2005, as a result of its improper accounting for the 
+warrants and convertible notes, Kentucky Energy recorded the warrant asset in the amount of 
+$3,097,903 on its balance sheet, reflecting the ensuing quarters’ amortization as an expense on its 
+statements of operations.  In so doing, the company overstated total assets by 43% and overstated 
+its net loss by 197%.  It also materially overstated paid-in capital, retained deficit, shareholders’ 
+equity and expenses.  This improper accounting was material to balance sheets and statements of  
+operations contained in its quarterly filings for 2005 as well.  For example, its assets were 
+overstated by approximately $13.8 million, or 213%, in the financial statements contained in its 
+Form 10-Q for the first quarter of 2005 and its net loss was overstated by approximately 174% for  
+the second quarter of 2005. 
+   
+Audit and Reviews 
+        
+       10.     Kempisty & Company, Kempisty and Rubino conducted quarterly reviews and a 
+year-end audit of Kentucky Energy’s financial statements for the 2005 year.  In the report filed 
+with the Form 10-KSB filed by the company on May 9, 2006, Kempisty and Co. stated that the 
+financial statement presented fairly the financial position of the company at December 31, 2005.  
+
+                                                4
+  
+---------------------Page 5---------------------
+
+On these engagements, Rubino was the engagement partner and Kempisty was the concurring 
+review partner.  They were the only auditors who worked on this engagement, and in fact were 
+the only partners and auditors in the firm at the time. 
+        
+PCAOB auditing standards failures by Rubino as the engagement partner 
+        
+       Lack of training and proficiency. 
+        
+       11.    Rubino lacked the necessary training and proficiency as an auditor to properly 
+interpret the professional guidance under GAAP having to do with accounting for warrants and 
+convertible notes.  The workpapers reflect no analysis to support treating the warrants as assets on 
+Kentucky Energy’s balance sheet.  Nevertheless, he sought no outside advice on these issues.  In 
+fact, Rubino did not realize that in accounting for the warrants he was dealing with derivative 
+instruments requiring a careful analysis for proper accounting.   
+        
+       12.    PCAOB auditing standards require that the audit be performed by "a person or 
+persons having adequate technical training and proficiency as an auditor."  AU § 210.01.  PCAOB 
+Auditing Standards further require that “[t]he auditor with final responsibility for the engagement 
+should know, at a minimum, the relevant professional accounting and auditing standards . . . .”  AU 
+§ 230.06. 
+        
+       Failure to exercise due professional care and skepticism 
+
+       and to obtain sufficient competent  evidential matter. 
+
+        
+       13.    Rubino also failed to obtain and sufficiently examine, read and understand all of 
+the underlying documents evidencing the note/warrant transactions.  The workpapers did not 
+contain copies of all the relevant agreements underlying the convertible note financings.  There 
+is no evidence that Rubino evaluated this documentation to understand how the transactions 
+should be accounted for under GAAP. 
+        
+       14.    Rubino knew that Kentucky Energy’s  consultant had limited knowledge of 
+accounting and GAAP, yet he failed to review in sufficient detail the Black-Scholes assumptions 
+and analysis the consultant had used, therefore failing to discover that he had merely used the 
+generic volatility and interest rate numbers off the website rather than obtain the correct numbers 
+for Kentucky Energy.   
+ 
+       15.    PCAOB auditing standards require that "[d]ue professional care is to be exercised 
+in the planning and performance of the audit and the preparation of the report."  AU § 230.01. 
+Among other things, due professional care requires that an auditor exercise professional 
+skepticism, defined as "an attitude that includes a questioning mind and a critical assessment of  
+audit evidence."  AU § 230.07. Gathering and objectively evaluating audit evidence requires the  
+auditor to consider the competency and sufficiency of the evidence.  AU § 230.08.  In exercising 
+professional skepticism, the auditor should not be satisfied with less than persuasive evidence 
+because of a belief that management is honest.  AU § 230.09. 
+         
+
+                                               5
+  
+---------------------Page 6---------------------
+
+       16.     PCAOB auditing standards also require that "[s]ufficient competent evidential 
+matter is to be obtained through inspection, observation, inquiries, and confirmations to afford a 
+reasonable basis for an opinion regarding the financial statements under audit."  AU § 326.01.  To 
+be competent, evidence, regardless of its form, must be both valid and relevant.  AU § 326.21.  In 
+addition, the auditor should "recognize the possibility that the financial statements may not be 
+fairly presented in conformity with generally accepted accounting principles ..." and should 
+"consider relevant evidential matter regardless of whether it appears to corroborate or contradict 
+the assertions in the financial statements."  AU § 326.25.  Management representations "are part of 
+the evidential matter the independent auditor obtains, but they are not a substitute for the 
+application of those auditing procedures necessary to afford a reasonable basis for an opinion 
+regarding the financial statements under audit."  AU § 333.02. 
+        
+       Failure to comply with relevant PCAOB auditing standards regarding auditing of 
+derivatives 
+ 
+       17.     In fact, PCAOB auditing standards provide specific guidance to auditors in  
+planning and performing auditing procedures for assertions about derivative instruments that are 
+made in an entity’s financial statements.  AU§ 332.  This guidance states that the auditor may 
+need special skills or knowledge to plan and perform auditing procedures for certain assertions 
+about derivatives and securities.  AU§ 332.05. 
+        
+       18.     Rubino failed to, among other things: 
+        
+           •	   Understand the application of generally accepted accounting principles for 
+               assertions about derivatives (AU§ 332.05) 
+           •	   Understand the determination of fair value of derivatives, including the 
+               reasonableness of key assumptions (AU§ 332.05 and AU§ 332.40) 
+           •	   Alter its risk assessment and audit procedures based on the entity’s inexperience 
+               with a derivative (AU§ 332.08) 
+           •	   Obtain evidence supporting management’s assertion about fair value of the 
+               derivative (AU§ 332.35) and 
+           •	   Evaluate whether the presentation and disclosure of derivatives are in conformity 
+               with generally accepted accounting principles (AU§ 332.49). 
+ 
+Thus, Rubino failed to fulfill  his responsibilities under PCAOB auditing standards for auditing 
+those instruments.   
+   
+PCAOB auditing standards review failures by Rubino as the engagement partner 
+ 
+       19.     In addition to the audit failures, Rubino failed to comply with the specific 
+standards applicable to interim reviews of Kentucky Energy’s 2005 quarterly financial 
+statements.  These standards, set forth in AU § 722, provide guidance on the nature, timing and 
+extent of the procedures to be performed by an independent accountant when conducting a 
+review of interim financial information.   
+                
+                                                6
+  
+---------------------Page 7---------------------
+
+       20.      The objective of a review of interim financial information is to provide the 
+accountant with a basis for communicating whether he or she is aware of any material 
+modifications that should be made to the interim financial information for it to conform with 
+GAAP.   AU § 722.07.  The standards specificall  y require the accountant to perform certain 
+procedures when conducting a review of interim financial information, including, but not limited 
+to inquiring of management about unusual or complex situations that may have an effect on the 
+interim financial information, and matters about which questions have arisen in the course of 
+applying the review procedures and significant journal entries and other adjustments.  AU § 
+722.18.   
+                
+       21.     The unusual or complex situations, referred to in the above paragraph, specifically 
+include the use of derivative instruments and unique terms for debt that could affect 
+classification.  AU § 722.55 (Appendix B).  Rubino, however, did not give adequate 
+consideration to the analysis and classification of the derivative instruments recorded in the 
+financial statements. 
+                
+       22.     Finally, the same standards relating to adequate technical training and proficiency, 
+due professional care and professional skepticism apply to reviews as well as audits.  AU § 
+722.01.   Therefore, Rubino’s audit failures for Kentucky Energy’s year ended 2005 apply 
+equally to the quarterly reviews.      
+ 
+ PCAOB auditing standards failures by Kempisty as the concurring review partner  
+       23.     Kempisty, as the concurring review partner, was responsible for performing an 
+objective review of significant auditing, accounting, and financial reporting matters that came to 
+his attention, and was an integral part of the resolution of matters prior to the issuance of the firm's 
+audit report.  SEC Practice Section (“SECPS”)  §1000.39 (Appendix E).  7
+                                                                         On the basis of that 
+review, Kempisty was required to conclude that no matters came to his attention that caused him to 
+believe that the financial statements of Kentucky Energy were not in conformity with GAAP in all 
+material respects, and that the firm's audit was performed in accordance with the standards of the  
+PCAOB. 
+       24.     Kempisty was required, among other things, to review documentation of the 
+resolution of significant accounting, auditing and financial reporting matters.  His review of the  
+financial statements and management documentation should have alerted him to the mistakes in 
+valuing and classifying the warrant.  
+       25.     Kempisty had additional specific responsibilities with respect to the concurring 
+review of Kentucky Energy’s interim financial statements.  For a review conducted on interim  
+financial information on financial statements in an SEC client’s quarterly Form 10-Q or 10-QSB 
+filing, a member firm's policies and procedures should require discussion with the concurring 
+partner reviewer, prior to the completion of the review, about any matters identified in the review  
+that involve a significant risk of material misstatement of the financial statements.  Any such  
+involvement should be documented.  SECPS §1000.39 (Appendix E).   
+                                                 
+7 
+                         This references concurring partner review standards set by the AICPA which were adopted by the PCAOB   
+following passage of SOx.  Kempisty & Company was a member of the SEC Practice Section of the AICPA from    
+1991until the formation of the PCAOB, making it subject to these standards.  
+                                                 7
+  
+---------------------Page 8---------------------
+
+       26.    Although testimony indicates that Kempisty did discuss the warrant/convertible 
+note accounting issue with Rubino, the workpapers for the interim reviews do not contain any 
+documentation of such discussions nor of matters identified in the review that involve a significant 
+risk of material misstatement of the financial statements.   
+       27.    Finally, as a general matter, Kempisty as concurring reviewer was required to have 
+“sufficient relevant technical expertise and experience” to perform his duties.  SECPS §1000.39 
+(Appendix E).  In this matter he was therefore required to have technical expertise and experience  
+in the area of accounting for derivatives, including warrants and convertible notes.  The standards 
+also require that a concurring reviewer seek assistance from other individuals to supplement his 
+knowledge when necessary.   
+       28.    As concurring reviewer for both the interim reviews and year-end audit, Kempisty  
+lacked the expertise and experience necessary to understand that the instruments involved in the 
+transactions were derivatives.  He also failed to seek outside professional assistance to understand 
+how to properly account for such items.  
+Misstatement in Audit Report 
+       29.    In this matter, Kempisty & Company, Kempisty and Rubino’s audit report falsely 
+states that they conducted their audit in accordance with the standards of the PCAOB, and that in 
+their opinion the financial statements of Kentucky Energy were presented fairly, in all material 
+respects, in conformity with accounting principles generally accepted in the United States of  
+America.  In fact, they were not. 
+ 
+C. VIOLATIONS           
+        
+       1.     As a result of the conduct described above, Kempisty & Company, Kempisty and 
+Rubino willfully aided and abetted and caused Kentucky Energy’s violations of Sections 13(a) of  
+the Exchange Act and Rules 12b-20, 13a-1 and13a-13 thereunder. 
+ 
+       2.     As a result of the conduct described above, Kempisty & Company, Kempisty and 
+Rubino engaged in improper professional conduct pursuant to Section 4C(a)(2) of the Exchange 
+Act and Rule 102(e)(1)(ii) of the Commission’s Rules of Practice, and willfully aided and abetted 
+and caused Kentucky Energy’s violation of the federal securities laws, pursuant to Section  
+4C(a)(3) of the Exchange Act and Rule 102(e)(1)(i ii) of the Commission’s Rules of Practice. 
+ 
+                                              III. 
+ 
+       In view of the allegations made by the Division of Enforcement, the Commission deems it 
+necessary and appropriate that public administrative and cease-and-desist proceedings be  
+instituted, to determine  
+        
+       A.     Whether the allegations set forth in Section II are true and, in connection therewith, 
+to afford Respondents an opportunity to establish defenses to such allegations; 
+        
+
+                                               8
+  
+---------------------Page 9---------------------
+
+       B.     Whether, pursuant to Section 21C of the Exchange Act, Respondents should be 
+ordered to cease and desist from committing or causing any violation and any future violation of  
+Sections 13(a) of the Exchange Act and Rules 12b-20, 13a-1 and13a-13 thereunder; and 
+        
+       C.     Whether, pursuant to Section 4C of the Exchange Act and Rule 102(e) of the 
+Commission’s Rules of Practice, Respondents should be censured or denied, temporarily or 
+permanently, the privilege of appearing or practicing before the Commission as accountants. 
+   
+                                              IV. 
+ 
+       IT IS ORDERED that a public hearing for the purpose of taking evidence on the 
+questions set forth in Section III hereof shall be convened at a time and place to be fixed, and 
+before an Administrative Law Judge to be designated by further order as provided by Rule 110 
+of the Commission's Rules of Practice, 17 C.F.R. § 201.110. 
+  
+       IT IS FURTHER ORDERED that Respondents shall file an Answer to the allegations 
+contained in this Order within twenty (20) days after service of this Order, as provided by Rule 
+220 of the Commission's Rules of Practice, 17 C.F.R. § 201.220.  
+ 
+       If any Respondent fails to file the directed answer, or fails to appear at a hearing after 
+being duly notified, that Respondent may be deemed in default and the proceedings may be 
+determined against it or him upon consideration of this Order, the allegations of which may be 
+deemed to be true as provided by Rules 155(a), 220(f), 221(f) and 310 of the Commission's 
+Rules of Practice, 17 C.F.R.  §§ 201.155(a), 201.220(f), 201.221(f) and 201.310. 
+ 
+       This Order shall be served forthwith upon each Respondent personally or by certified 
+mail. 
+ 
+       IT IS FURTHER ORDERED that the Administrative Law Judge shall issue an initial 
+decision no later than 300 days from the date of service of this Order, pursuant to Rule 360(a)(2) 
+of the Commission’s Rules of Practice.  
+ 
+       In the absence of an appropriate waiver, no officer or employee of the Commission 
+engaged in the performance of investigative or prosecuting functions in this or any factually 
+related proceeding will be permitted to participate or advise in the decision of this matter, except 
+
+                                               9
+  
+---------------------Page 10---------------------
+
+as witness or counsel in proceedings held pursuant to notice.  Since this proceeding is not “rule  
+making” within the meaning of Section 551 of the Administrative Procedure Act, it is not 
+deemed subject to the provisions of Section 553 delaying the effective date of any final 
+Commission action. 
+ 
+       By the Commission. 
+ 
+ 
+ 
+      Elizabeth M. Murphy 
+                                               Secretary  
+ 
+
+                                                 10
+  

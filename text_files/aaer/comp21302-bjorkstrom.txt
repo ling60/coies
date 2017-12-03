@@ -1,0 +1,681 @@
+---------------------Page 1---------------------
+
+  1  MARC   1. FAGEL (Cal. Bar No. 154425)
+ 
+    fagelm@sec.gov
+ 
+ 2  SAHIL   W. DESAI (Cal. Bar No. 197358)
+ 
+    desais@sec.gov
+ 
+ 3
+ 
+    Attorneys for Plaintiff
+ 
+ 4	  SECURITIES AND EXCHANGE COMMISSION
+ 
+    44 Montgomery Street, Suite 2600
+ 
+ 5 San Francisco, California  94104
+ 
+    Telephone:  (415) 705-2500
+ 
+ 6	  Facsimile:  (415) 705-2501 
+
+ 7 
+
+ 8 
+
+ 9 
+
+10                             UNITED  STATES  DISTRICT  COURT 
+11                          NORTHERN      DISTRICT    OF CALIFORNIA 
+
+12.	                                   SAN  JOSE   DIVISION 
+13                                           e'V       nO 
+    SECURITIES AND EXCHANGE COMMISSION,                ~~o.               5394f>l'1'
+14 
+           Plaintiff, 
+15                                                     COMPLAINT 
+        vs. 
+16 
+    DIANE BJORKSTROM, 
+17 
+           Defendant. 
+18 
+
+19         Plaintiff Securities and Exchange Commission (the "Commission") alleges: 
+
+20                                 SUMMARY      OF THE   ACTION 
+
+21         1. This matter involves misconduct on the part of Diane Bjorkstrom ("Bjorkstrom" or 
+
+22  "Defendant"),  who served as the Chief Financial Officer of Tvia, Inc. ("Tvia" or "the Company") 
+
+23  from September 2004 to October 2006.  Bjorkstrom's  wrongdoing fell into two areas. 
+
+24         2. First, Bjorkstrom caused Tvia to improperly recognize revenue from a $325,000 delayed 
+
+25  delivery sale that Tvia shipped at 10:00 p.m. on the last day of Tvia's 2006 fiscal year, causing Tvia 
+
+26  to materially overstate its reported revenue for that year.  The sale, which shipped despite the fact that 
+
+27  the customer had not agreed to accept delivery until 6-10 weeks after year-end, went to a third-party 
+
+28  warehouse, and the product sat unused for months.  The recognition of this revenue violated 
+           COMPLAINT
+ 
+           SEC V. BJORKSTROM
+ 
+---------------------Page 2---------------------
+
+  1 
+      Generally  Accepted Accounting Principles ("GAAP")  and Tvia's  revenue recognition policy, since 
+ 2 
+      the sale never occurred in accordance with the buyer's  delivery instructions and therefore should not 
+ 3 
+      have been recognized as revenue during the fiscal 2006 period. 
+ 4 
+             3.  Second, Bjorkstrom failed to stand up to efforts by Benjamin Silva, III ("Silva"), then 
+ 5
+     Tvia's  Vice President of Worldwide Sales, who manipulated Tvia's  internal accounting records by 
+ 6 
+     applying  funds from one customer to aged receivables    of another.  On at least two occasions, 
+ 7 
+     Bjorkstrom  did not challenge Silva's  dubious explanations when he asked Bjorkstrom and others in 
+ 8 
+     Tvia's  finance department to apply incoming funds from one customer to improperly pay down a 
+ 9 
+     separate customer's  aged receivables.  These actions (and inactions) caused Tvia's  artificially­
+10
+     decreased  receivables to be concealed from Tvia's  outside auditors. 
+11 
+             4.  As a result, Tvia materially overstated its revenue for its 2006 year-end results (March 31, 
+12 
+     2006) and its first quarter offiscal 2007 (ended June 30, 2006), and the press releases announcing 
+13 
+     those results (May 26, 2006 and August 7, 2006). 
+14 
+                                        JURISDICTION        AND VENUE 
+15
+             5.  The Commission  brings this action pursuant   to Sections 20(b) and 20(d)  ofthe Securities 
+16 
+     Act  of 1933 ("Securities Act")  [15 U.S.C. §§ 77t(b) and 77t(d)] and Sections 21(d) and  21 (e) ofthe 
+17 
+     Securities  Exchange Act  of 1934 ("Exchange  Act") [15 U.S.C.    §§ 78u(d) and 78u(e)]. 
+18 
+             6.  This Court has jurisdiction  over this action pursuant to Sections 20(c) and 22(a) ofthe 
+19 
+     Securities Act [15 U.S.C.  §§ 77t(c) and 77v(a)] and Section 27   ofthe Exchange Act [15 U.S.C. § 
+20
+     78aa].  The defendant, directly or indirectly, has made use  of the means and instrumentalities of  . 
+21 
+     interstate  commerce, of the mails, or of the facilities ofa national securities exchange in connection 
+22 
+     with the acts, practices and courses of business alleged in this complaint. 
+23 
+             7.  Venue is proper in this District pursuant to Section 22 of the Securities Act [15 U.S.C. § 
+24 
+     77v], and Section 27  of the Exchange Act [15 U.S.C. § 78aa].  Bjorkstrom resides within the 
+25
+     Northern  District ofCalifornia, and acts or transactions  constituting violations occurred within this  . 
+26 
+     district. 
+27 
+
+28 
+
+             COMPLAINT                                  -2­
+             SEC v. BJORKSTROM 
+---------------------Page 3---------------------
+
+  1 
+                                      INTRADISTRICT        ASSIGNMENT 
+ 2 
+             8.  Assignment  to the San Jose Division is appropriate pursuant to Civil Local Rules 3-2(c) 
+ 3 
+     and 3-2(d) because acts and omissions giving rise to the Commission's  claims occurred, among other 
+ 4 
+     places in this district, in Santa Clara County. 
+ 5
+                                                 DEFENDANT 
+ 6 
+             9.  Diane Bjorkstrom,  age 54, resides in Palo Alto, California.  From September 2004 through 
+ 7 
+     October 2006, Bjorkstrom  served as Tvia's  Chief Financial Officer ("CFO").  Prior to joining Tvia, 
+ 8 
+     Bjorkstrom  served as CFO and interim CFO    of various high-tech companies.  Bjorkstrom holds an 
+ 9 
+     inactive license from the state of Pennsylvania to practice as a Certified Public Accountant. 
+10
+                                            RELEVANT       ENTITY 
+11 
+             10. Tvia is a semiconductor  company based in Santa Clara, California.  During the time 
+12 
+     period of the wrongful conduct alleged in this Complaint, Tvia's  common stock traded   on the 
+13 
+     NASDAQ  Global Market ("NASDAQ")  under the symbol "TVIA,"  and the Company was registered 
+14 
+     with the Commission  pursuant to Section 12(g)  of the Exchange  Act.  Tvia's  fiscal year-end is March 
+15
+     31.  On January  30, 2007, Tvia issued a press release indicating that the market should not rely on 
+16 
+     any financial  statements,  earnings  press releases, and similar communications  issued by Tvia for its 
+17 
+     2006 and 2007 fiscal years.  On July 12,2007,  NASDAQ  delisted the Company's  securities due to 
+18 
+     lack of compliance  With listing requirements.  On October  15, 2008, Tvia filed a voluntary petition 
+19 
+     for reorganization  under Chapter 11 ofthe United States Bankruptcy  Code.  In April 2009, the 
+20
+     bankruptcy  court approved  the appointment  ofa Chapter  11 trustee. 
+21 
+                                         FACTUAL     ALLEGATIONS 
+22 
+                                                  Background 
+23 
+             11. Tvia designs and develops digital display processors  for use in LCD and other high­
+24 
+     definition  TVs.  Tvia sells their products into multiple  channels, including to original equipment 
+25
+     manufacturers,  distributors,  and end-users.  For Tvia's  2005 fiscal year ended March 31, 2005, before 
+26 
+     the conduct  at issue, the company  posted $3.3 million in revenue. 
+27 
+             12. At the time ofthe conduct at issue, it was improper under GAAP and   Tvia's revenue 
+28 
+
+            COMPLAINT                                  -3­
+            SEC V. BJORKSTROM 
+---------------------Page 4---------------------
+
+  1 
+      recognition  policy to recognize  revenue  on a transaction  in which the customer did not want 
+ 2 
+      immediate  delivery of the product  nor the financial obligation  to pay Tvia until several quarters in the 
+  3 
+      future.  These unusual terms  would preclude immediate  revenue  recognition. 
+ 4 
+                                Bjorkstrom  Caused Tvia To Recognize Revenue 
+ 5
+                            From Year-End  Sale Without Proper Purchase Order 
+ 6 
+             13. During  the relevant  time period, the bulk ofTvia's shipping typically occurred at quarter­
+ 7 
+     and year-end  from  Tvia's facility  in Hefei,  China.  Bjorkstrom  routinely  traveled to China at these 
+ 8 
+     times to oversee  all shipments.  Bjorkstrom  went to China at each quarter-end  to ensure Tvia's 
+ 9 
+     policies  and procedures  would  be followed,  and that the company  would receive the appropriate 
+10
+     documentation  from customers  before the company  would ship product  and recognize revenue from a 
+11 
+     sale.  One of the pieces of documentation  required before shipping  product was a customer  purchase 
+12 
+     order with delivery  terms for the shipment. 
+13 
+             14. On  or about  March  31, 2006, Tvia received  a written  purchase  order for $325,000 in 
+14 
+     product  from MicroNetwork  Korea  ("MNK"),  a customer  based in South Korea.  According  to the 
+15
+     purchase  order, MNK   promised  to pay Tvia in full within 90 days  ofshipment  and requested  delivery 
+16 
+     in 6-10 weeks.   On or about  10:00 p.m. on  March 31, Bjorkstrom  approved  shipping   MNK's   product 
+17 
+     to a Hong Kong warehouse  operated     by a third-party  logistics  company,  where the product sat unused 
+18 
+     for months.  The Company  recognized  $325,000  in revenue    on this sale  for the fourth quarter of 
+19 
+     Tvia's 2006 fiscal year, which  ended March  31, 2006. 
+20
+             15. It was improper  for Tvia to immediately  recognize  revenue on this sale  because Tvia did 
+21 
+     not have a customer  purchase  order requesting  prompt  delivery of the product.  Bjorkstrom  approved 
+22 
+     the recognition of revenue  from the sale despite the lack ofthis documentation.  Bjorkstrom  should 
+23 
+     have known that the recorded  sale did not occur in accordance  with the  buyer's delivery  instructions 
+24 
+     (i.e., 6 to 10 weeks)  and therefore  should not have been recognized  as revenue.  As a result of 
+25
+     Bjorkstrom's  actions,  Tvia overstated  its revenue  for the quarter  ended March 31, 2006 by $325,000, 
+26 
+     or approximately  13%. 
+27 
+
+28 
+
+             COMPLAINT                                  -4­
+             SEC V. BJORKSTROM 
+---------------------Page 5---------------------
+
+  1 
+                     Bjorkstrom  Failed To Investigate Unidentified  Customer Payments 
+ 2 
+              16. On more than  one occasion,  Silva; Tvia's  then-VP of Worldwide  Sales, asked Bjorkstrom 
+ 3 
+     and others  in Tvia's  finance  department  to apply incoming funds from one customer to improperly 
+ 4 
+     pay  down a separate customer's  aged receivables.  By failing to question  the explanations  given by 
+ 5
+     Silva for these cash applications,  Bjorkstrom  allowed Tvia to decrease  its receivables  and thus 
+ 6 
+     concealed  potential  revenue  recognition  problems. 
+ 7 
+             17. In late 2005, Silva  learned that Tvia's auditors were scrutinizing  several instances in 
+ 8 
+     which  customers  were delinquent  in their payments to the Company.  The auditors  were considering 
+ 9 
+    . whether  to require Tvia to reverse some or all of the revenue it had previously  recognized  relating to 
+10
+     these  delinquent  accounts, on the ground that it was no longer reasonable  to believe that the revenue 
+11 
+     was collectible. 
+12 
+             18. In order to mislead Tvia's  auditors,  and avoid the reversal ofrevenue, on at least two 
+13 
+     occasions  Silva caused  Tvia to misapply  a payment  it received from a new  customer  in order to pay 
+14 
+     down   delinquent  amounts  owed  by a separate  customer. 
+15
+             19. The first instance  concerns  Ricom, a Chinese customer  which by late 2005 was past due 
+16 
+     on Tvia invoices totaling  more  than $740,000.  In February 2006, Silva convinced  another customer, 
+17 
+     Protech  Perennial  Limited  ("Protech"),  to submit a $100,000 deposit  for a then-unavailable  line of 
+18 
+     Tvia  chips.  On or about February  24,2006,   Tvia received a wire transfer from Protech for $100,000. 
+19 
+             20. In order to convince  Bjorkstrom  to apply these funds to Ricom's  account,  Silva falsely 
+20
+     claimed  that Protech had wired the money    on Ricom's  behalf, due to purported  Chinese government 
+21 
+     restrictions  on Ricom's wiring  money out  ofthat  country.  Bjorkstrom  did not question  Silva's 
+22 
+     explanation  or obtain customer  confirmation,  despite knowing  that Ricom typically  wired payments 
+23 
+     through  its Hong Kong subsidiary,  which was not constrained    by Chinese  currency  restrictions.  The 
+24 
+     unusual  arrangement  outlined  by Silva should have raised red flags that Bjorkstrom  should have 
+25
+     investigated. 
+26 
+             21. The second instance  concerns  EUT and MPEG, two Chinese  customers  that owed 
+27 
+     significant  past due amounts  to Tvia.  In June 2006, Silva convinced  another  customer,  Datavision 
+28 
+
+             COMPLAINT                                  -5­
+             SEC V. BJORKSTROM 
+---------------------Page 6---------------------
+
+  1 
+      (also known as Data International),  a customer located in Taiwan, to submit a $200,000 deposit 
+ 2 
+     against  an expected future order of Tvia product.  On or about June 29, 2006, Tvia received a wire 
+ 3 
+     transfer  from Datavision for $200,000. 
+ 4 
+             22. In order to convince Bjorkstrom  to apply these funds to the accounts ofEUT   and MPEG, 
+ 5
+     Silva falsely claimed to Bjorkstrom that Datavision had wired the money on    EUT's   and MPEG's 
+ 6 
+     behalf, due to purported Chinese government restrictions on Datavision's  wiring money out    of that 
+ 7 
+     country.  Again, Bjorkstrom did not question the large $200,000 cash paYment or obtain customer 
+ 8 
+     confirmation,  even though there were discrepancies  that should have prompted her to investigate. 
+ 9 
+     For example,  Silva repeatedly changed how the Taiwanese company's  wire transfer should be 
+10
+     allocated  to the two other customers,  and at times he mistakenly allocated over $200,000 in total to 
+11 
+     the two accounts.  In addition, the purported  payments from EUT and MPEG did not appear to 
+12 
+     correspond  to how  much either customer  actually owed Tvia, as Silva directed that the payment be 
+13 
+     applied  first to the smaller receivable,  with the remainder to be applied to the other customer's 
+14 
+     account. 
+15
+             23. If, as Silva claimed, the two customers used the Taiwanese customer as a third party 
+16 
+     wiring service, Bjorkstrom should have expected that the customers (and thus Silva, who was 
+17 
+     relaying  their information) would have known precisely how much each customer was wiring and 
+18 
+     thus how  much to apply to each account.  Moreo,":er, it was at the very least coincidental that the 
+19 
+     individual  payments  by the two customers,  which were combined into one wire transfer from Taiwan, 
+20
+     totaled  exactly $200,000.00.  Given Tvia's  limited business  volume, these issues should have 
+21 
+     prompted  additional  questions or follow-up  from Bjorkstrom. 
+22 
+             24. Bjorkstrom's  failure to investigate  despite the red flags raised by Silva's  explanations 
+23 
+     caused Tvia to materially misstate  its 2006 year-end and first quarter of fiscal 2007 results. 
+24 
+                                         FIRST CLAIM FOR RELIEF 
+25                        (False Statements  in Offer or Sale ofSecurities-Violations  of 
+                                 Sections 17(a)(2) and  (3) ofthe Securities Act) 
+26 
+             25. The Commission  realleges and incorporates  by this reference Paragraphs  1 through 24, 
+27 
+     above. 
+28 
+
+             COMPLAINT                                 -6­
+             SEC v. BJORKSTROM 
+---------------------Page 7---------------------
+
+  1 
+             26. By engaging in the conduct described above, Bjorkstrom, directly or indirectly, in the 
+ 2 
+      offer or sale of securities, by use of the means or instruments of transportation or communication in 
+ 3 
+      interstate commerce or by use  of the mails: 
+ 4 
+                      (a)    obtained money or property by means    of untrue statements of material fact 
+ 5 
+                             or by omitting to state a material fact necessary in order to make the 
+ 6 
+                             statements made, in light ofthe circumstances under which they were 
+ 7 
+                             made, not misleading; and 
+ 8 
+                      (b)   engaged in transactions, practices, or courses of business which operated 
+ 9 
+                            or would operate as a fraud or deceit upon the purchasers. 
+10 
+             27. By reason  of the foregoing, Bjorkstrom violated, and unless restrained and enjoined, will 
+11 
+     continue to violate Sections 17(a)(2) and (3) of the Securities Act [15 U.S.c. § 77q(a)(2) and (3)]. 
+12 
+                                         SECOND  CLAIM FOR RELIEF 
+13                            (False Periodic  Reports-Aiding   and Abetting Violations 
+                               of Section 13(a) of the Exchange  Act and Rules J2b-20, 
+14                                     13a-l, 13a-ll,  and 13a-13 Thereunder) 
+
+15 
+             28.     The Commission realleges and incorporates by this reference Paragraphs  1 through 24, 
+16 
+     above. 
+17 
+             29.  Based on the conduct alleged above, Tvia filed with the Commission current, quarterly, 
+18 
+     and annual reports on Forms 8-K, 10-Q, and 10-K that contained untrue statements      of material fact 
+19 
+     and omitted to state material information required to be stated therein or necessary in order to make 
+20           , 
+     the required  statements, in the light of the circumstances  under which they were made, not 
+21 
+     misleading,  in violation of Section 13(a) of the Exchange Act and Rules 12b-20,   13a-l, 13a-ll, and 
+22 
+     13a-13 thereunder. 
+23 
+             30. Through the conduct alleged above, Bjorkstrom knowingly provided substantial assistance 
+24 
+     to Tvia in its violations of Section 13(a) ofthe Exchange Act and Rules 12b-20, 13a-l,    13a-ll, and 
+25 
+     13a-13 thereunder,  and therefore  is liable as an aider and abettor pursuant to Section 20(e) ofthe 
+26 
+     Exchange Act  [15 U.S.C.   § 78t(e)]. 
+27 
+             31. Bjorkstrom has aided and abetted and, unless restrained and enjoined, will continue to aid 
+28 
+
+             COMPLAINT                                  -7­
+             SEC v. BJORKSTROM 
+---------------------Page 8---------------------
+
+  1 
+      and abet violations of Section  13(a) of the Exchange Act [15 U.S.C. § 78m(a)] and Rules 12b-20, 
+ 2 
+      13a-l, 13a-ll, and 13a-13 [17 C.F.R.  §§ 240.12b-20, 240.13a-l,   240.13a-ll, and 240.13a-13] 
+ 3 
+     thereunder. 
+ 4 
+                                        THIRD CLAIM FOR RELIEF 
+ 5                     (Inaccurate Books and   Records-Aiding    and Abetting  Violations of 
+                                    Section 13(b)(2)(A)  ofthe Exchange Act) 
+ 6 
+             32. The Commission  realleges and incorporates by this reference Paragraphs  I through 24, 
+ 7 
+     above. 
+ 8 
+             33. Based on the conduct alleged above, Tvia violated Section 13(b)(2)(A)   ofthe Exchange 
+ 9 
+     Act  [IS U.S.C. § 78m(b)(2)(A)],  which obligates issuers of securities registered pursuant to Section 
+10 
+     12 of the Exchange Act   [IS U.S.C.  § 78l] to make and keep books, records and accounts which, in 
+11 
+     reasonable detail, accurately  and fairly reflect the transactions  and dispositions of the assets of the 
+12 
+     issuer. 
+13 
+             34. By engaging  in the conduct alleged above, Bjorkstrom knowingly provided substantial 
+14 
+     assistance to Tvia's  failure to make and keep books, records and accounts which, in reasonable detail, 
+15 
+     accurately and fairly reflect its transactions  and dispositions of its assets. 
+16 
+             35. By reason of the foregoing, Bjorkstrom aided and abetted violations by Tvia   of Section 
+17 
+     13(b)(2)(A)  of the Exchange  Act [15 U.S.C. § 78m(b)(2)(A)].  Unless restrained and enjoined, 
+18 
+     Bjorkstrom  will continue to aid and abet such violations. 
+19 
+                                         FOURTH CLAIM FOR RELIEF 
+20                        (Inadequate Internal Accounting   Controls-Aiding   and Abetting 
+                               Violations of Section 13(b)(2)(B) of the Exchange Act) 
+21 
+             36. The Commission  realleges and incorporates  by this reference Paragraphs  I through 24, 
+22 
+     above. 
+23 
+             37. Based on the conduct  alleged above, Tvia violated Section 13(b)(2)(B)  of the Exchange 
+24 
+     Act [15 U.S.C.  § 78m(b)(2)(B)], which obligates issuers  of securities registered pursuant to Section 
+25 
+     12 of the Exchange  Act  [IS U.S.C. § 78l] to devise and maintain a sufficient system ofintemal 
+26 
+     accounting  controls. 
+27 
+             38. By engaging  in the conduct alleged above, Bjorkstrom knowingly provided substantial 
+28 
+
+            COMPLAINT                                  -8­
+            SEC V. BJORKSTROM 
+---------------------Page 9---------------------
+
+  1 
+      assistance  to Tvia's  failure to devise and maintain a sufficient system of internal accounting controls. 
+  2 
+             39. By reason  ofthe foregoing,  Bjorkstrom aided and abetted violations by Tvia of Section 
+ 3 
+      13(b)(2)(B) of the Exchange Act [15 U.S.C. § 78m(b)(2)(B)].  Unless restrained  and enjoined, 
+ 4
+ 
+     Bjorkstrom  will continue to aid and abet such violations.
+ 
+ 5
+                                        FIFTH CLAIM FOR RELIEF 
+ 6                    (FalsifYing Books and Records or Circumventing  Internal Accounting
+ 
+                         Controls-Violations   of Section  13(b)(5) ofthe Exchange Act)
+ 
+ 7 
+             40. The Commission  realleges and incorporates by this reference Paragraphs  1 through 24, 
+ 8
+ 
+     above.
+ 
+ 9 
+             41. By the conduct alleged above, Bjorkstrom violated Section 13(b)(5)  of the Exchange Act 
+10
+     [15 U.S.C.  § 78m(b )(5)] which prohibits anyone from knowingly circumventing  a system    of internal 
+11 
+     accounting,  or knowingly  falsifying certain books, records, and accounts. 
+12 
+             42. Unless restrained  and enjoined, Bjorkstrom will continue to violate Section 13(b)(5) of the 
+13 
+     Exchange  Act [15  U.S.c.  § 78m(b)(5)]. 
+14 
+                                        SIXTH CLAIM FOR RELIEF 
+15                                (FalsifYing Books and Records-Violations   of 
+                                        Rule 13b2-1  ofthe Exchange Act) 
+16 
+             43. The Commission  realleges and incorporates by this reference Paragraphs  1 through 24, 
+17 
+     above. 
+18 
+             44. By engaging in the conduct described above, Bjorkstrom falsified or caused to be falsified 
+19 
+     Tvia's books, records and accounts in violation of Rule 13b2-1 under the Exchange Act [17 C.F.R.    § 
+20
+     240.13b2-1]. 
+21 
+             45. Bjorkstrom has violated and, unless restrained and enjoined, will continue to violate, Rule 
+22 
+     13b2-1 under the Exchange Act [17 C.F.R.   § 240.13b2-1] 
+23 
+                                      SEVENTH  CLAIM FOR RELIEF 
+24                            (Falsely  CertifYing Financial Records-Violations  of 
+                                       Rule 13a-14  of the Exchange Act) 
+25
+             46. The Commission  realleges and incorporates by this reference Paragraphs  1 through 24, 
+26 
+     above. 
+27 
+             47. Bjorkstrom  signed, as Tvia's  Chief Financial Officer, false certifications  pursuant to Rule 
+28 
+
+            COMPLAINT                                  -9­
+             SEC V. BJORKSTROM 
+---------------------Page 10---------------------
+
+  1 
+      13a-14  ofthe Exchange Act    thatwere included in Tvia's  fiscal 2006 annual report filed on Form 10­
+ 2 
+      K, as well as its quarterly reports filed in fiscal 2006 and 2007. 
+ 3 
+              48. In the certifications  included with  the annual report, Bjorkstrom falsely stated, among 
+ 4 
+      other things, that:  (a) each report did not contain any untrue statement of material fact or omit to 
+ 5
+     state a material fact necessary  to make the statements  made,  in light ofthe circumstances  under which 
+ 6 
+     such statements were made, not misleading;      (b) the financial statements, and other financial 
+ 7 
+     information  included in the report, fairly presented in all material respects the financial condition, 
+ 8 
+     results of operations, and cash flows  of Tvia as of, and for, the periods presented in the report; and (c) 
+ 9 
+     she had disclosed to Tvia's  auditor and audit committee all significant deficiencies  and material 
+10
+     weaknesses  in the  d~sign  or operation of internal control over financial reporting and any fraud, 
+11 
+     whether  or not material, that involved management  or other employees who had a significant role in 
+12 
+     Tvia's  internal control over financial reporting. 
+13 
+             49. For the quarterly reports, Bjorkstrom falsely stated in the certifications,  among other 
+14 
+     things,  that the quarterly reports fully complied with the requirements  of Section  13(a) or 15(d) of the 
+15
+     Exchange  Act and that information  contained therein fairly presented in all material respects the 
+16 
+     financial  condition and results of operations of Tvia.  Bjorkstrom also falsely stated in the 
+17 
+     certifications,  among other things, that:  (a) each report did not contain any untrue statement  of 
+18 
+     material fact or omit to state a material fact necessary to make the statements  made, in light  of the 
+19 
+     circumstances  under which such statements were made, not misleading;        (1:» each financial statement, 
+20
+     andother   financial information  included in each report, fairly presented in all material respects the 
+21 
+     financial  condition, results of operations, and cash flows of Tvia as of, and for, the period presented 
+22 
+     in the report; and (c) she had disclosed to Tvia's  auditor and audit committee all significant 
+23 
+     deficiencies  and material weaknesses  in the design or operation   of internal control over financial 
+24 
+     reporting  and any fraud, whether or not material, that involved management      or other employees who 
+25
+     had a significant  role in Tvia's internal control over financial reporting. 
+26 
+             50. By reason  of the foregoing,  Bjorkstrom has violated and, unless restrained  and enjoined, 
+27 
+     will continue to violate Exchange Act Rule 13a-14 [17 C.F.R.      § 240. 13a-14]. 
+28 
+
+             COMPLAINT                                   -10­
+             SEC V. BJORKSTROM 
+---------------------Page 11---------------------
+
+  1 
+                                           PRAYER     FOR   RELIEF
+ 
+ 2
+ 
+                 WHEREFORE,  the Commission respectfully requests that this Court:
+ 
+ 3
+ 
+                                                       I. 
+ 4 
+             Pennanently  enjoin Bjorkstrom from directly or indirectly violating Sections  17(a)(2) and (3) 
+ 5
+     ofthe  Securities Act [15 U.S.C. § 77q(a)(2) and (3)] and Section 13(b)(5) of the Exchange Act  [IS 
+ 6 
+     U.S.C.  § 78m(b)(5)]  and Rules 13a-14 and 13b2-1 thereunder  [17 C.F.R. §§ 240. 13a-14 and
+ 
+ 7
+ 
+     240. 13b2-1], and from aiding and abetting violations of 13(a), 13(b)(2)(A), 13(b)(2)(B) ofthe 
+ 8 
+     Exchange  Act [15 U.S.C.  §§ 78j(b), 78m(a), 78m(b)(2)(A),  and 78m(b)(2)(B)]  and Rules 12b-20, 
+ 9 
+     13a-l, 13a-ll, and 13a-13 [17 C.F.R.  §§ 240.12b-20,  240. 13a-l , 240.13a-ll, and 240. 13a-13] 
+10
+     thereunder; 
+11 
+                                                       II. 
+12 
+             Order Bjorkstrom  to pay civil penalties pursuant to Section 20(d) ofthe Securities Act [15 
+13 
+     U.S.c.  § 77t(d)] and Section 21(d) ofthe Exchange Act [15 U.S.C.  § 78u(d)]. 
+14 
+     III 
+15
+                                                      III. 
+16 
+             Retain jurisdiction of this action in accordance  with the principles of equity and the Federal 
+17 
+     Rules of Civil Procedure  in order to implement  and carry out the tenns of all orders and decrees that 
+18 
+     may be entered, or to entertain any suitable application  or motion for additional relief within the 
+19 
+     jurisdiction ofthis Court. 
+20
+                                                      IV. 
+21 
+            Grant such other and further relief as this Court may detennine  to be just and necessary. 
+22 
+
+23 
+     DATED:  November  17,2009                Respectfully  Submitted, 
+24 
+
+25
+                                              S:P~, 
+26                                            Sahil W. Desai 
+                                              Attorney for Plaintiff 
+27 
+                                              SECURITIES  AND EXCHANGE  COMMISSION 
+28 
+
+            COMPLAINT                                -11­
+            SEC V. BJORKSTROM 

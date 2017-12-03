@@ -1,0 +1,518 @@
+---------------------Page 1---------------------
+
+                           UNITED STATES OF AMERICA 
+                                       Before the 
+                    SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 80947 / June 15, 2017 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3877 / June 15, 2017 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-18024 
+ 
+                                                  
+                                                  
+In the Matter of                                 ORDER INSTITUTING CEASE -AND-
+                                                 DESIST PROCEEDINGS PURSUANT 
+      ERIC W. KIRCHNER and                       TO SECTION 21C OF THE 
+      RICHARD G. RODICK ,                        SECURITIES EXCHANGE ACT OF 
+                                                 1934, MAKING FINDINGS, AND 
+Respondent s.                                    IMPOSING A CEASE -AND-DESIST 
+                                                 ORDER  
+ 
+ 
+       
+                                           I. 
+ 
+       The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities 
+Exchange Act of 1934 (“Exchange Act”), against Eric W. Kirchner and Richard G. Rodick 
+(collectively, “Respondents”).   
+                                             
+                                           II. 
+ 
+      In anticipation of the institution of these proceedings, Respondents have submitted Offers 
+of Settlement (the “Offers”) which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the findings 
+herein, except as to the Commission’s jurisdiction over them and the subject matter of these 
+proceedings, which are admitted, and except as provided herein in Section V, Respondents consent 
+to the entry of this Order Instituting Cease-and-Desist Proceedings Pursuant to Section 21C of the 
+Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order 
+(“Order”), as set forth below.    
+
+                                                                                   
+---------------------Page 2---------------------
+
+                                                         III. 
+        
+                                                                                            1
+               On the basis of this Order and Respondents’ Offers, the Commission finds       that:  
+
+                                                    SUMMARY 
+
+               1.      These proceedings involve UTi Worldwide Inc.’s (“UTi’s”) disclosures regarding 
+       serious risks to the company’s liquidity and capital resources in its Form 10-Q for the quarter 
+       ending October 31, 2013, which were inadequate under the standards appearing in Item 303 of 
+       Regulation S-K.  Beginning in October 2013, UTi internally identified its United States rollout of 
+       1View, a critical proprietary operating system, as a possible contributing factor to UTi’s lower than 
+       historical cash flow volumes.  Despite these significant issues, UTi’s Form 10-Q, which was 
+       signed and certified by both then-Chief Executive Officer Eric W. Kirchner and then Chief 
+       Financial Officer Richard G. Rodick, did not include adequate information in the Management’s 
+       Discussion & Analysis (“MD&A”) section to allow investors and others to meaningfully assess 
+       UTi’s financial condition and results of operations, particularly as to UTi’s future prospects.   
+
+               2.      As the Commission has repeatedly emphasized, the MD&A is intended to provide 
+       investors with “an opportunity to look at the company through the eyes of management by 
+                                                                                          2
+       providing both a short- and long-term analysis of the business of the company.”   Item 303(b) of 
+       Regulation S-K requires issuers’ quarterly filings to discuss material changes in the items 
+       enumerated in Item 303(a) which, in turn, requires that management discuss and analyze the 
+       registrant’s financial condition, changes in financial condition, and results of operations, with a 
+       specific focus on “material events and uncertainties known to management that would cause 
+       reported financial information not to be necessarily indicative of future operating results or of 
+       future financial condition.”  17 C.F.R. § 229.303(a), Instruction 3.  Among other things, Item 303 
+       requires management to “[i]dentify any known trends or any known demands, commitments, 
+       events or uncertainties that will result in or that are reasonably likely to result in the registrant’s 
+       liquidity increasing or decreasing in any material way.”  17 C.F.R. § 229.303(a)(1), (3)(ii).  In its 
+       2003 interpretive guidance, the Commission explained that “disclosure of a trend, demand, 
+       commitment, event or uncertainty is required unless a company is able to conclude either that it is 
+       not reasonably likely that the trend, uncertainty or other event will occur or come to fruition, or that 
+       a material effect on the company’s liquidity, capital resources or results of operations is not 
+                                    3
+       reasonably likely to occur.”   Release No. 33-8350, 2003 SEC LEXIS 3034 at*36 (Dec. 19, 2003) 
+       (emphasis added).  The 2003 guidance further instructed issuers to “evaluate separately their ability 
+       to meet upcoming cash requirements over both the short and long-term,” defining short-term as 
+       one year.  Id.  at *43 n.43.  Item 303(b)(1) of Regulation S-K requires that “[i]f the interim 
+       financial statements include an interim balance sheet as of the corresponding interim date of the 
+                                                        
+       1
+           The findings herein are made pursuant to Respondents’ Offers of Settlement and are not binding on any other 
+           person or entity in this or any other proceeding.   
+
+       2
+           See, e.g., Management’s Discussion and Analysis of Financial Condition and Results of Operations, Securities Act 
+           Release No. 6835 (May 18, 1989).    
+        
+       3
+           The Commission has explained that the “reasonably likely” standard for disclosures mandated by Item 303 is 
+           lower than “more likely than not.”  Commission Statement About Management’s Discussion and Analysis of 
+           Financial Condition and Results of Operations, Release No. 33-8056 (Jan. 25, 2002). 
+                                                            
+                                                          2 
+ 
+---------------------Page 3---------------------
+
+       preceding fiscal year, any material changes in financial condition from that date to the date of the 
+       most recent interim balance sheet provided also shall be discussed.”  Finally, the Commission 
+       cautioned issuers against relying on boilerplate.  Release No. 33-8350, 2003 SEC LEXIS 3034, 
+       at*46-47 (“companies should avoid generic or boilerplate disclosure”).   
+
+                                               RESPONDENTS 
+
+               3.     Eric W. Kirchner resides in Palos Verdes Estates, California.  He was UTi’s Chief 
+       Executive Officer and a member of the board of directors from January 2009 to December 2014.  
+       With respect to UTi’s periodic and other reports filed with the Commission, Kirchner reviewed the 
+       company’s reports at the end of the drafting process and signed them as the principal officer of 
+       UTi.   
+
+               4.     Richard G. Rodick resides in Huntington Beach, California.  He was UTi’s Chief 
+       Financial Officer from October 2012 to January 2016.  At all relevant times, he was responsible for 
+       UTi’s accounting, tax, treasury, internal audit, and investor relations.  With respect to UTi’s 
+       periodic and other reports filed with the Commission, Rodick reviewed the drafts as they became 
+       available and then signed the final version.  
+
+                                               RELATED ENTITY 
+
+               5.     UTi, a British Virgin Islands corporation, was based in Long Beach, California.  
+       UTi’s operations spanned the world, having grown through several multinational acquisitions. 
+       Until UTi was acquired by DSV A/S, a Danish logistics company traded on the Nasdaq OMX 
+       exchange in Copenhagen, on January 22, 2016, UTi’s common stock was listed on the NASDAQ 
+       Stock Market LLC.  UTi is now a wholly-owned subsidiary of DSV and does not separately report 
+       its financial results.   
+
+                                                      FACTS 
+
+               6.     UTi was a multinational freight forwarding and logistics company.  In connection 
+       with its freight forwarding business, UTi provided cash outlays for transportation costs, customs, 
+       duties, taxes, and other expenses.  These disbursements temporarily consumed cash as UTi 
+       typically paid them in advance, and then obtained reimbursement from its customers through 
+       invoicing.  As a result, in times of growth in volume in its freight forwarding business, UTi 
+       generally had weaker operating cash flows.  In order to maintain the level of working capital 
+       necessary to operate its business, UTi relied on continuing access to credit and robust collections. 
+
+               7.     In the first two quarters of fiscal year 2014 (beginning February 1, 2013), UTi had 
+       to seek amendments or waivers of its debt covenants due to poor operating results.  Each 
+       successive amendment relaxed the covenant computations going forward.  Nonetheless, UTi 
+       continued to have difficulty meeting its debt covenants due to the continuing deterioration of UTi’s 
+       financial performance.  
+
+                
+
+                  UTi’s Disclosures in its Form 10-Q for the Quarter Ending October 31, 2013 
+
+                                                         
+                                                       3 
+ 
+---------------------Page 4---------------------
+
+               8.      In order to streamline and harmonize its operations, in 2012 UTi began a phased 
+       rollout of a proprietary freight forwarding operating system called 1View.  1View was a key 
+       element of UTi’s multiyear transformation initiative, which also included the consolidation of 
+       UTi’s regional finance operations into three shared service centers.  UTi touted the transformation 
+       initiative to the investor community as key to future cost savings.  UTi initially deployed 1View in 
+       smaller markets.  On September 1, 2013, 1View was implemented in the United States, which was 
+       UTi’s largest market by volume.   
+
+               9.      Following the United States rollout of 1View on September 1, 2013, UTi’s 
+       challenges in issuing timely invoices in the United States began to manifest in early October 2013, 
+       and the potential impact to cash flow in the United States was noted then.  On October 11, 2013, 
+       Rodick received an email chain that included comments from an employee responsible for UTi’s 
+       daily cash management.  At the time, Rodick understood the cash manager had been observing 
+       UTi’s cash inflows were at volumes lower than historically seen.  In the email, the cash manager 
+       explained he had looked into causes of UTi’s cash shortages, and described circumstances in which 
+       1View had properly recorded transactions but the system had not automatically printed out the 
+       invoices.  As a result, UTi issued late invoices to those customers, causing delays in receiving 
+       payment.     
+
+               10.    Throughout the third quarter, UTi took steps to try to improve its liquidity position 
+       in an effort to compensate for, among other things, the 1View-related invoicing delays.  For 
+       example, in late October 2013 UTi completed a sale of up to $75 million in receivables to a third 
+       party.  At the time UTi was already having difficulties meeting its debt covenants and the sale of 
+       receivables would bring cash in faster to help UTi with its debt covenant compliance.   
+
+               11.    UTi’s monthly cash receipts continued to decline in November and UTi began 
+       experiencing cash flow issues in the United States.  The issues related to 1View’s ability to 
+       transmit timely invoices, which led to higher than usual “unbilled” receivables.   
+
+               12.    After UTi discovered that the United States rollout of 1View resulted in invoicing 
+       and liquidity problems, UTi took steps to remediate the invoicing issues that had occurred.  By 
+       November 7, 2013, Rodick noted UTi’s cash flows in October were “off approximately $16M.  We 
+       are really struggling with liquidity and we need to get our billing corrected immediately.”    
+
+               13.    UTi sought to manage its cash flow, in part, by delaying payments to vendors.  
+       When UTi’s Controller inquired on November 15, 2013 about the status of certain aged invoices 
+       from vendors, he was told that more than $5 million in vendor payments were on hold due to the 
+       “cash crunch we have been experiencing since 10/31.”  Both Kirchner and Rodick were aware that 
+       UTi was delaying payments to vendors partly in an effort to conserve cash.  In an attempt to 
+       improve its cash inflows, UTi management, including Rodick, enlisted its sales and operations staff 
+       to assist the finance department in focusing on collections and in correcting the invoicing issues.  
+
+               14.    Rodick also began preliminary inquiries regarding the possibility of a convertible 
+       debt offering in late November 2013.  This was because by that time, due to UTi’s overall liquidity 
+       problems, Rodick was preparing a high-level internal report in which he planned to describe UTi’s 
+       liquidity problems and offer some options for improving short-term and long-term liquidity.    
+
+                                                          
+                                                        4 
+ 
+---------------------Page 5---------------------
+
+               15.    Starting late in the third quarter, Rodick repeatedly reported UTi’s liquidity 
+       problems to Kirchner.   Kirchner was able to monitor the backlog of unbilled shipments through “a 
+       series of reports that showed unbilled shipments by location” and he was aware that UTi was 
+       taking steps to address its liquidity issues.  
+
+               16.    Kirchner also received feedback on the impact of the 1View billing delays from the 
+       sales team.  On November 18, 2013, Kirchner sought information from UTi’s Senior Vice-
+       President of Sales to understand the impact of the 1View rollout from the sales perspective.  
+       Among several bulleted items, the Senior Vice-President informed Kirchner that: “invoicing has 
+       been consistently late;” “invoice corrections are being delayed as well;” and such delays result in 
+       “cash flow . . . challenges.”  Another item referenced the sales teams’ assistance in September on 
+       non-sales activities, and reported that, as of this mid-November date, some sales team members in 
+       several locations were still continuing to perform data entry and invoicing.  Kirchner was told that 
+       such efforts would create a “dampening impact on [the] sales pipeline and future sales.”  Rodick 
+       also received this feedback from the sales department. 
+
+               17.    On November 20, 2013, Kirchner and Rodick both received a retrospective 
+       Monthly Performance Report for the Americas region that noted under the heading “1VIEW 
+       implementation issues” the following bulleted items:  “Service issues and lack of timely responses 
+       impacting client relationships”; “[i]nvoicing accuracy and timeliness”; and “Area Sales still 
+       providing assistance at desk level thus reducing sales capacity.”  The report also stated that use of 
+       overtime and temporary workers related to 1View in the United States resulted in higher-than-
+       budgeted staff costs.  
+
+               18.    Also on November 20, 2013, a cash manager advised UTi’s Treasurer in an email 
+       that “USA [regional operations are] running out of cash tomorrow,” which was escalated to 
+       Rodick.  Rodick directed the Treasurer to reach out to one of UTi’s existing lenders to request an 
+       increase in UTi’s credit facility.  Rodick advised the Treasurer to tell the lender that “we need 
+       access to the credit line immediately” because “we are experiencing a cash crunch due to increased 
+       volumes and the transformation and we expect improved FCF [free cash flow] in the upcoming 
+       weeks.”  Rodick also directed the Treasurer to “[p]ull all the levers you can” to satisfy UTi’s cash 
+       needs in the United States.      
+                
+               19.     On December 2, 2013 Kirchner told Rodick and other senior managers at UTi:  
+       “We continue to have significant cash/covenant issues much of which arises from the collections 
+       delay associated with unbilled shipments. . . . Getting accurate billing in the customers’ hands is 
+       the only way to accelerate collections and get us back on an acceptable cycle.”   
+                
+               20.    In a December 3, 2013 email, Kirchner provided detailed comments on the draft 
+       internal report Rodick was preparing on UTi’s cash flow and options for improving short-term and 
+       long-term liquidity.  In that December 3 email, Kirchner directed Rodick to quantify UTi’s 
+       “reduction in available cash coupled with quarterly peril regarding covenants” and provide “a clear 
+       path forward.”  Kirchner also observed that UTi had $1 billion in outstanding receivables, 20% of 
+       which was past due.  Because Kirchner was concerned that UTi’s lenders might not approve an 
+       amendment to its debt covenants in the fourth quarter, Kirchner instructed Rodick to describe “the 
+       liquidity options and contingency plans to fund the company’s cash requirements.”   
+
+                                                          
+                                                        5 
+ 
+---------------------Page 6---------------------
+
+                
+               21.    In early December, Rodick met with UTi’s leading lender to request an amendment 
+       to UTi’s loan covenants.  The lender agreed to an amendment for the third quarter but indicated 
+       that it would not grant any further amendments.   
+                
+               22.    Rodick circulated his report on UTi’s cash flow problems internally on December 
+       6, 2013.  In that report, Rodick identified “1View go-lives” as one of three primary causes of UTi’s 
+       declining cash position.  On a slide entitled “How Long Do We Expect to Have Liquidity Issues,” 
+       Rodick stated that “January is historically our best cash collection month,” but he estimated that 
+       liquidity issues would persist for the next 9-12 months, and proposed several ideas for improving 
+       liquidity both short-term and long-term.  In detailing the issues with 1View go-lives, Rodick noted 
+       that 1View implementation had caused billing delays and poor billing quality.  To underscore his 
+       assertion that “we will have liquidity issues for the next 9-12 months,” Rodick explained that he 
+       did not anticipate a significant profit improvement during the first half of the upcoming fiscal year.   
+                
+               23.    In his internal report on UTi’s cash flow issues, Rodick stated that UTi had failed 
+       its debt covenants for three successive quarters, and that UTi had been notified that it would not 
+       receive any amendment to its debt covenants for the fourth quarter.  Rodick noted that these issues 
+       had affected UTi’s access to credit, citing as examples the elimination of UTi’s overdraft facility 
+       by one bank and an $11 million reduction in UTi’s overdraft facility from another.  Rodick 
+       identified several liquidity options, including a mandatory convertible debt offering and an equity 
+       offering.  UTi ultimately decided not to pursue these options, and instead to pursue other financing 
+       options which included additional receivable and/or inventory sales and new or increased credit 
+       lines.  
+                
+               24.    On December 10, 2013, UTi filed its third quarter Form 10-Q (quarter ended 
+       October 31, 2013).  Kirchner and Rodick each signed and certified the report.  In its Form 10-Q, 
+       UTi’s financial statements reflected material fluctuations in certain line items relating to liquidity 
+       from the beginning of the fiscal year and compared to the same period of the prior fiscal year.  For 
+       example, UTi reported that its cash and cash equivalents had decreased from $237,276,000 for the 
+       period ending January 31, 2013 to $171,220,000 for the period ending October 31, 2013 – a -28% 
+       change in nine months.  The $171,220,000 in cash and cash equivalents also represented a 25% 
+       decrease from the $226,993,000 in cash and cash equivalents UTi reported for the same period of 
+       the prior fiscal year. 
+                
+               25.    UTi also reported a trade receivables balance of $1.084 billion third quarter.  
+       Consistent with past practice, the Form 10-Q did not specify the amount of trade receivables that 
+       was unbilled.  However, in the monthly reports UTi provided its lenders as a condition of obtaining 
+       amendments to its debt covenants for the second quarter, UTi detailed that the unbilled receivables 
+       amounted to $210 million – nearly 20% of its publicly disclosed trade receivables balance – at the 
+       end of October 2013.   
+                
+               26.    In the Liquidity and Capital Resources section of the MD&A, UTi disclosed that its 
+       operating cash position had declined since the beginning of the fiscal year:  “During the first nine 
+       months of fiscal 2014, we used approximately $68.9 million in net cash from operating activities.  
+       This resulted from usages from (i) a net loss of $21.7 million and (ii) an increase in trade 
+
+                                                          
+                                                         6 
+ 
+---------------------Page 7---------------------
+
+       receivables and other current assets of $232.4 million . . . .”  UTi did not report any of the specific 
+       known 1View billing problems that contributed to these changes.   
+                
+               27.    UTi did discuss the seasonal nature of its business and explained that historically 
+       UTi’s liquidity improved in the second half of the third quarter and in the fourth quarter. 
+                
+               Our primary sources of liquidity include cash generated from operating activities, which is 
+               subject to seasonal fluctuations, particularly in our Freight Forwarding segment, and 
+               available funds under our various credit facilities.  We typically experience increased 
+               activity associated with our peak season, generally during the second and third fiscal 
+               quarters, requiring significant disbursements on behalf of clients.  During the second 
+               quarter and the first half of the third quarter, this seasonal growth in client receivables tends 
+               to consume available cash.  Historically, the latter portion of the third quarter and the fourth 
+               quarter tend to generate cash recovery as cash collections usually exceed client cash 
+               disbursements. 
+        
+       Apart from this and other generic discussions of seasonal fluctuations in UTi’s business, no further 
+       explanation was provided for why trade receivables had increased and liquidity had declined.   
+                
+               28.    The only other mention of the U.S. launch of 1View in the MD&A portion of its 
+       Form 10-Q was an acknowledgement that 1View had been deployed in the United States on 
+       September 1, 2013 and was considered “ready for its intended use” as of that date for purposes of 
+       amortization.  UTi described 1View as follows:   
+            
+               Freight Forward Operating System.  On September 1, 2013, we deployed our global 
+               freight forwarding operating system in the United States. As of that date, based on a variety 
+               of factors, including but not limited to operational acceptance testing and other operational 
+               milestones having been achieved, we considered it ready for its intended use. Amortization 
+               expense with respect to the system began effective September 2013, and accordingly, we 
+               recorded amortization expense related to the new application of approximately $3.3 million 
+               during the third quarter ended October 31, 2013. 
+                
+       UTi also noted in the MD&A portion of its Form 10-Q that it had entered into a receivables 
+       purchase agreement with a third party “as an alternative source of short term funding,” but omitted 
+       any discussion of the 1View billing issues. 
+        
+                          UTi Experiences a Liquidity Crisis After Filing its Form 10-Q 
+                
+               29.    UTi obtained a $35 million increase in its credit line from one of its existing lenders 
+       in December 2013.  UTi used some of these funds to re-purchase the receivables it had sold in 
+       October to a third party.  Rodick was unable to execute his other ideas for improving liquidity, 
+       such as inventory or receivables sales. 
+                
+               30.    Rodick began to observe improved cash receipts in December and January but the 
+       cash inflows were not sufficient to enable UTi to meet its debt covenants at the end of January 
+       because, among other things, UTi had fallen so far behind in its billings.      
+
+                                                          
+                                                         7 
+ 
+---------------------Page 8---------------------
+
+                
+               31.    UTi’s management, including Kirchner and Rodick, described the backlog in 
+       receivables as a “bubble.”  By the end of January 2014, Rodick estimated that the size of the 
+       “bubble” was $40 million.   
+                
+               32.    By late January, based on preliminary fourth quarter results, it became clear to 
+       Rodick that UTi would again miss its debt covenants.  Rodick contacted UTi’s leading lender to 
+       seek an amendment of its debt covenants, but the lender wanted to be paid off and refused to grant 
+       the requested amendment.  Rodick immediately advised Kirchner of the lender’s position.  Shortly 
+       thereafter, Rodick notified UTi’s auditor that UTi would not meet its debt covenants for the fourth 
+       quarter and would likely not be able to obtain an amendment of those covenants.   
+                
+               33.    In early February 2014, UTi engaged an investment bank to help it raise additional 
+       capital.    
+                
+               34.    On February 26, 2014, UTi filed a Form 8-K which publicly disclosed, for the first 
+       time, details regarding the extent and causes of its liquidity problems.  Specifically, UTi disclosed 
+       that the implementation of 1View in the United States caused significant billing issues, “which 
+       have led to higher than normal receivables and weaker cash collections.”  It further disclosed that, 
+       due in part to these billing issues and in part to three other major factors including net losses, 
+       capital expenditures and severance expenses, it was unlikely to be in compliance with its debt 
+       covenants for the fourth quarter and had obtained a short-term waiver.  UTi also announced an 
+       offering of $350 million in Convertible Senior Notes and a $175 million private placement of 
+       Convertible Preference Shares to address its liquidity and covenant compliance issues.  Finally, 
+       UTi reported that, in connection with the re-issuance of UTi’s financial statements as part of the 
+       offering documents for this financing, its independent accountant had amended its audit opinion for 
+       the fiscal year ending January 31, 2013 to include a statement expressing doubt about the 
+       company’s ability to continue as a going concern under its existing capital structure.  Following the 
+       8-K filing, the price of UTi’s shares fell to $10.74, down nearly 30% from the prior day’s close of 
+       $15.26.   
+                
+               35.    UTi’s auditor issued the going concern opinion primarily due to the company’s 
+       impending covenant violation.  Because UTi had cross default provisions across its debt 
+       agreements, the debt would be immediately classified as current, and if the announced financing 
+       was not completed on schedule, the company would not have sufficient liquidity to repay the debt 
+       in the next 12 months.  
+
+                                                   VIOLATIONS 
+
+               36.    As a result of the conduct described above, Kirchner and Rodick caused UTi’s 
+       violations of Section 13(a) of the Exchange Act and Rules 12b-20 and 13a-13, thereunder, which 
+       require every issuer of a security registered pursuant to Section 12 of the Exchange Act to file with 
+       the Commission information, documents, and quarterly reports as the Commission may require, 
+       and mandate that periodic reports contain such further material information as may be necessary to 
+       make the required statements not misleading.  Additionally, Regulation S-K Item 303 requires 
+       registrants to disclose in the MD&A sections of required periodic filings “any known trends or 
+
+                                                          
+                                                        8 
+ 
+---------------------Page 9---------------------
+
+       uncertainties that will result in or that are reasonably likely to result in the registrant’s liquidity 
+       increasing or decreasing in any material way.”  The MD&A’s failure to comply with Regulation  
+       S-K constitutes a violation under Section 13(a) of the Exchange Act.  
+            
+                37.   Also as a result of the conduct above, Kirchner and Rodick violated Exchange Act 
+       Rule 13a-14, which requires that every Form 10-Q include certifications signed by each principal 
+       executive and principal financial officer (or persons performing similar functions).  See 17 C.F.R. 
+       240.13a-14.  The certifying officers must confirm that, to their knowledge, the Form 10-Q does not 
+       contain any untrue statement of a material fact or omit to state a material fact necessary to make 
+       the statements made, in light of the circumstances under which such statements were made, not 
+       misleading. 
+                
+                                                       IV. 
+                                                         
+              In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+       agreed to in Respondents’ Offers. 
+        
+              Accordingly, it is hereby ORDERED that: 
+        
+               A.     Pursuant to Section 21C of the Exchange Act, Respondent Kirchner cease and desist 
+       from committing or causing any violations and any future violations of Section 13(a) of the 
+       Exchange Act and Rules 12b-20, 13a-13, and 13a-14, thereunder.   
+                
+               B.     Pursuant to Section 21C of the Exchange Act, Respondent Rodick cease and desist 
+       from committing or causing any violations and any future violations of Section 13(a) of the 
+       Exchange Act and Rules 12b-20, 13a-13, and 13a-14, thereunder.   
+                
+               C.     Respondent Kirchner shall, within 30 days of the entry of this Order, pay a civil 
+       money penalty in the amount of $40,000 to the Securities and Exchange Commission for transfer to 
+       the general fund of the United States Treasury, subject to Exchange Act Section 21F(g)(3).  
+       Respondent Rodick shall, within 30 days of the entry of this Order, pay a civil money penalty in the 
+       amount of $40,000 to the Securities and Exchange Commission for transfer to the general fund of 
+       the United States Treasury, subject to Exchange Act Section 21F(g)(3).  If timely payment is not 
+       made, additional interest shall accrue pursuant to 31 U.S.C. §3717.  Payment must be made in one 
+       of the following ways:   
+        
+                      (1)     Respondent may transmit payment electronically to the Commission, which 
+                              will provide detailed ACH transfer/Fedwire instructions upon request;  
+                       
+                      (2)     Respondent may make direct payment from a bank account via Pay.gov 
+                              through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or  
+                       
+                      (3)     Respondent may pay by certified check, bank cashier’s check, or United 
+                              States postal money order, made payable to the Securities and Exchange 
+                              Commission and hand-delivered or mailed to:  
+        
+
+                                                         
+                                                        9 
+ 
+---------------------Page 10---------------------
+
+                      Enterprise Services Center 
+                      Accounts Receivable Branch 
+                      HQ Bldg., Room 181, AMZ-341 
+                      6500 South MacArthur Boulevard 
+                      Oklahoma City, OK 73169 
+        
+       Payments by check or money order must be accompanied by a cover letter identifying Eric W. 
+       Kirchner and Richard G. Rodick as a Respondents in these proceedings, and the file number of 
+       these proceedings; a copy of the cover letter and check or money order must be sent to John W. 
+       Berry, Associate Director, Division of Enforcement, Securities and Exchange Commission, 444 S. 
+       Flower Street, Los Angeles, CA 90071.   
+        
+               D.     Amounts ordered to be paid as civil money penalties pursuant to this Order shall be 
+       treated as penalties paid to the government for all purposes, including all tax purposes.  To preserve 
+       the deterrent effect of the civil penalty, Respondents agree that in any Related Investor Action, they 
+       shall not argue that they are entitled to, nor shall they benefit by, offset or reduction of any award of 
+       compensatory damages by the amount of any part of Respondents’ payment of a civil penalty in this 
+       action (“Penalty Offset”).  If the court in any Related Investor Action grants such a Penalty Offset, 
+       Respondents agree that they shall, within 30 days after entry of a final order granting the Penalty 
+       Offset, notify the Commission’s counsel in this action and pay the amount of the Penalty Offset to 
+       the Securities and Exchange Commission.  Such a payment shall not be deemed an additional civil 
+       penalty and shall not be deemed to change the amount of the civil penalty imposed in this 
+       proceeding.  For purposes of this paragraph, a “Related Investor Action” means a private damages 
+       action brought against Respondents by or on behalf of one or more investors based on substantially 
+       the same facts as alleged in the Order instituted by the Commission in this proceeding. 
+                
+                                                        V. 
+
+               It is further Ordered that, solely for purposes of exceptions to discharge set forth in Section 
+       523 of the Bankruptcy Code, 11 U.S.C. §523, the findings in this Order are true and admitted by 
+       Respondents, and further, any debt for disgorgement, prejudgment interest, civil penalty or other 
+       amounts due by Respondents under this Order or any other judgment, order, consent order, decree 
+       or settlement agreement entered in connection with this proceeding, is a debt for the violation by 
+       Respondent of the federal securities laws or any regulation or order issued under such laws, as set 
+       forth in Section 523(a)(19) of the Bankruptcy Code, 11 U.S.C. §523(a)(19). 
+
+               By the Commission. 
+        
+        
+                                                             Brent J. Fields 
+                                                             Secretary 
+
+                                                          
+                                                        10 
+ 

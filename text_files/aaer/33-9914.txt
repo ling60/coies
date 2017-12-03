@@ -1,0 +1,1200 @@
+---------------------Page 1---------------------
+
+                                                                                    
+                          UNITED STATES OF AMERICA 
+                                    Before the 
+                  SECURITIES AND EXCHANGE COMMISSION 
+ 
+ 
+SECURITIES ACT OF 1933 
+Release No. 9914 / September 17, 2015 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 75941 / September 17, 2015 
+ 
+INVESTMENT COMPANY ACT OF 1940 
+Release No. 31829 / September 17, 2015 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3697 / September 17, 2015 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-16819 
+ 
+ 
+                                            ORDER INSTITUTING 
+In the Matter of                            ADMINISTRATIVE AND CEASE -AND-
+                                            DESIST PROCEEDINGS PURSUANT 
+      PHILIP A.  PENDERGRAFT ,              TO SECTION  8A OF THE SECURITIES 
+      KEVIN W. MCALEER,  CPA,               ACT OF 1933 , SECTIONS  4C, 15(b), 
+      THOMAS R. JOHNSON ,                   AND 21C OF THE S ECURITIES 
+      and CHARLES W. YANCEY ,               EXCHANGE ACT OF 1934  , SECTION 
+                                            9(b) OF THE INVESTMENT COMPANY 
+Respondents.                                ACT OF 1940 , AND RULE 102(e) OF 
+                                             THE COMMISSION’S RULES OF 
+                                                        
+                                             
+                                                                               
+                                             
+ 
+                                        I. 
+ 
+      The Securities and Exchange Commission (“Commission”) deems it appropriate and in the 
+public interest that public administrative and cease-and-desist proceedings be, and hereby are, 
+instituted pursuant to Section 8A of the Securities Act of 1933 (“Securities Act”), Sections 15(b) 
+and 21C of the Securities Exchange Act of 1934 (“Exchange Act”), and Section 9(b) of the 
+Investment Company Act of 1940 (“Investment Company Act”), against Philip A. Pendergraft, 
+Exchange Act Sections 4C and 21C, and Rule 102(e)(1)(iii) of the Commission’s Rules of Practice 
+---------------------Page 2---------------------
+
+                                                                                                    
+against Kevin W. McAleer, CPA, Exchange Act Section 21C against Thomas R. Johnson, and 
+Exchange Act Section 15(b) against Charles W. Yancey. 
+                                                  
+                                                II. 
+ 
+       In anticipation of the institution of these proceedings, Respondents have submitted Offers 
+of Settlement (“Offers”) which the Commission has determined to accept.  Solely for the purpose 
+of these proceedings and any other proceedings brought by or on behalf of the Commission, or to 
+which the Commission is a party, and without admitting or denying the findings herein, except as 
+to the Commission’s jurisdiction over them and the subject matter of these proceedings, which are 
+admitted, and except as provided herein in Section V, Respondents consent to the entry of this 
+Order Instituting Public Administrative and Cease-and-Desist Proceedings Pursuant to Section 8A 
+of the Securities Act of 1933, Sections 4C, 15(b), and 21C of the Securities Exchange Act of 1934, 
+Section 9(b) of the Investment Company Act of 1940, and Rule 102(e) of the Commission’s Rules 
+of Practice, Making Findings, and Imposing Remedial Sanctions and a Cease-and-Desist Order 
+(“Order”), as set forth below. 
+                                                  
+                                               III. 
+ 
+                                                                                  1
+       On the basis of this Order and Respondents’ Offers, the Commission finds    that  
+ 
+A.     Summary 
+ 
+       1.      These proceedings relate to approximately $100 million in failed margin loans made 
+by now-defunct Penson Financial Services, Inc. (“PFSI”)—which was once the second largest 
+clearing broker-dealer in the U.S.—to certain of its customers.  PFSI made the bulk of these margin 
+loans between 1999 and 2008 to Christopher J. Hall and his affiliates, including a company named 
+Call Now, Inc. (“Call Now”), who invested in risky, unrated municipal bonds.  Hall was the 
+Chairman of Call Now’s board of directors, and in 2006 Call Now became a large shareholder of 
+PFSI’s publicly traded parent company, Penson Worldwide, Inc. (“PWI”). 
+        
+       2.      In the wake of the financial crisis of 2008, PFSI incurred significant losses on these 
+margin loans to Hall and Call Now because their margin collateral had plummeted in value.  A 
+substantial portion of Hall and Call Now’s margin collateral consisted of distressed municipal bonds 
+related to a financially struggling horse racetrack in Texas operated by Call Now.  Hall and Call 
+Now failed to satisfy margin calls issued by PFSI because they did not have sufficient assets.  Hall 
+and Call Now’s primary hope of satisfying PFSI’s margin calls rested on speculation that a future 
+change in Texas gambling laws would allow slot machines at Texas horse racetracks.  Nevertheless, 
+PFSI failed to liquidate these customers’ collateral to satisfy their margin calls because doing so 
+
+                                                 
+1
+       The findings herein are made   pursuant to Respondents’ Offers of Settlement and are not 
+binding on any other person or entity in this or any other proceeding. 
+ 
+
+                                                  
+
+                                                 2 
+---------------------Page 3---------------------
+
+                                                                                                   
+would lock in large losses for PFSI and PWI (collectively “Penson”).  Instead, in 2009 and 2010 
+Penson extended additional loans to these customers, hoping that they would survive financially and 
+their collateral value would improve in the future so that Penson could reverse the losses on the 
+margin loans.  But these additional loans improperly increased Hall and Call Now’s indebtedness to 
+PFSI in violation of federal margin regulations, which are designed to prevent the excessive use of 
+credit by broker-dealers. 
+        
+       3.      Under the accounting standards governing public companies and broker-dealers, 
+Penson should have recognized losses on the loans as early as 2009, but did not do so until nearly 
+two years later.  As a result, Penson failed to present its financial statements in SEC filings in 
+conformity with accounting principles generally accepted in the U.S. (“GAAP”), for the annual 
+periods ended December 31, 2009 and December 31, 2010, and with respect to PWI, the quarterly 
+periods ended March 31, 2010 through June 30, 2011.  In addition, Penson failed to adequately 
+disclose the nature of the loans in SEC filings for the 2009 and 2010 annual periods in violation of 
+applicable disclosure requirements. 
+        
+       4.      PWI ultimately recorded more than $60 million in losses for these loans in 2011 and 
+2012.  These losses and other disclosures about the loans beginning in 2011 contributed to a series 
+of events resulting in PWI and PFSI’s bankruptcies in 2013. 
+        
+       5.      Respondent Philip A. Pendergraft, Penson’s co-founder, Director and CEO of PWI, 
+and an Executive Vice President (“EVP”) of PFSI, managed Penson’s loans to Hall, Call Now, and 
+their related entities and exercised substantial control over certain key operations of 
+PFSI.  Pendergraft, along with Respondent Kevin W. McAleer (PWI’s CFO), was responsible for 
+the improper accounting treatment and disclosure of these loans in PWI and PFSI’s filings with the 
+Commission.  Respondent Thomas R. Johnson, who was a Director of PWI, and a Director and the 
+President/CEO of Call Now, was a cause of PWI’s improper disclosures as he knew or should have 
+known that these disclosures were materially misleading when he signed PWI’s filings with the 
+Commission.  Finally, Respondent Charles W. Yancey, PFSI’s President/CEO, failed reasonably to 
+supervise Pendergraft, an EVP and associated person of PFSI, who managed PFSI’s margin loans to 
+Hall, Call Now, and their related entities, and directed PFSI’s recordkeeping and financial reporting 
+with respect to those loans for the relevant periods. 
+ 
+B.     Respondents 
+ 
+       6.      Philip A. Pendergraft, age 56, is a resident of Arlington, Texas.  Pendergraft was a 
+co-founder, a Director, and the Chief Executive Officer of PWI, and an Executive Vice President 
+and associated person of PFSI from May 1995 to July 2012.  He held Series 3, 4, 7, 15, 24, 27, 53, 
+and 63 licenses. 
+ 
+       7.      Kevin W. McAleer, CPA, age 64, is a resident of Frisco, Texas.  McAleer was 
+PWI’s Chief Financial Officer from February 2006 to March 2012.  McAleer has been a CPA since 
+1976 and currently is licensed as a CPA by the Texas Board of Accountancy. 
+        
+
+                                                  
+
+                                                3 
+---------------------Page 4---------------------
+
+                                                                                                  
+       8.      Thomas R. Johnson, age 48, is a resident of Orleans, Massachusetts.  Johnson was 
+a Director of PWI from August 2003 to May 2011.  Johnson also was a Director and the 
+President/CEO of Call Now, Inc. from November 2001 to approximately November 2011.  He held 
+Series 7, 24, 52, and 63 licenses. 
+ 
+       9.     Charles W. Yancey, age 59, is a resident of Colleyville, Texas.  He was PFSI’s 
+President and CEO from August 2005 to February 2012.  Yancey currently is associated with a 
+registered broker-dealer and holds Series 7, 24, 55, and 63 licenses. 
+        
+C.     Other Relevant Entities 
+ 
+       10.    Penson Worldwide, Inc. was a Delaware corporation with its principal place of 
+business in Dallas, Texas, that provided clearing, execution, and other services to the securities 
+brokerage industry through its subsidiaries.  In October 2012, PWI filed Forms 25 and 15 
+voluntarily withdrawing its common stock from listing on the Nasdaq Global Market and 
+terminating its registration under Exchange Act Sections 12(b) and 12(g).  On January 11, 2013, 
+PWI and its subsidiaries filed for Chapter 11 bankruptcy in the U.S. Bankruptcy Court for the 
+District of Delaware. 
+        
+       11.    Penson Financial Services, Inc. was a North Carolina corporation with its principal 
+place of business in Dallas, Texas.  PFSI was a wholly owned subsidiary of SAI Holdings, Inc. 
+(“SAI”), which was a wholly owned subsidiary of PWI.  From 2009 to 2011, PFSI was the second 
+largest clearing broker-dealer in the U.S. based on the number of correspondents.  PFSI was 
+registered as a broker-dealer with the Commission from February 1990 to October 2012, when its 
+filed Form BDW became effective.  On January 11, 2013, PFSI filed for bankruptcy along with 
+PWI. 
+        
+       12.    Christopher J. Hall, age 56, was the Chairman and controlling shareholder of Call 
+Now, Inc. for all relevant periods.  Hall was a former CFO and financial operations principal of 
+Howe, Solomon & Hall, Inc., which was registered as a broker-dealer with the Commission from 
+June 1983 to February 2000. 
+        
+       13.    Call Now, Inc. was a Nevada corporation with its principal place of business in the 
+City of Selma, Texas.  Call Now’s primary business was the operation and management of the 
+Retama Park horse racetrack owned by the Retama Development Corporation, a municipal 
+corporation of Selma.  Call Now’s common stock was registered under Exchange Act Section 12(g) 
+until August 1, 2014, when its registration was revoked by the Commission for failure to file 
+periodic reports since the period ended June 30, 2011. 
+ 
+
+                                                 
+
+                                                4 
+---------------------Page 5---------------------
+
+                                                                                                   
+D.     Facts 
+        
+       Background 
+        
+       14.    PFSI was PWI’s U.S.-based and largest clearing broker-dealer subsidiary.  PFSI 
+generated substantial interest income from its margin lending business—extending credit to 
+correspondent broker-dealers and customers to purchase securities on margin collateralized by 
+existing cash or securities in their margin accounts.  PFSI’s margin lending business was subject 
+to, among other things, the margin regulations of the Board of Governors of the Federal Reserve 
+                                                                                               2
+System (“Federal Reserve Board”) and the Financial Industry Regulatory Authority (“FINRA”).   
+These margin regulations generally require a margin account to maintain minimum equity 
+(maintenance margin) of at least 25% of the current market value of the marginable securities in 
+the account.  PFSI’s internal margin policies also required a margin account to maintain a 25% 
+minimum maintenance margin rate. 
+        
+       15.    When the margin equity of a PFSI customer’s margin account fell below the 25% 
+minimum maintenance margin rate, PFSI’s systems generated a maintenance margin call.  PFSI’s 
+policies required its operations personnel to demand the customer to deposit the required cash or 
+marginable securities into the account within three days to cure the margin deficiency.  PFSI’s 
+customer margin account agreement required the customer promptly to pay, upon demand, any 
+margin indebtedness or deficiency.  If the customer failed to do so, PFSI typically liquidated 
+securities or other assets from the customer’s account to redress the margin deficiency.  In some 
+instances PFSI also obtained guarantees or other pledges of collateral from margin customers to 
+address margin deficiencies.  PFSI generally established an allowance for doubtful accounts and 
+recognized a bad debt expense when the collateral, guarantees, or other rights were insufficient to 
+cover potential losses on margin loans. 
+        
+       Penson’s Relationship With Christopher J. Hall and Call Now, Inc. 
+        
+       16.    From 1999 to 2008, PFSI extended substantial margin loans to Christopher J. Hall 
+and his affiliates, who primarily invested in risky, unrated municipal bonds.  By 2008, these 
+margin loans were maintained in four accounts—Hall’s personal account, The Hemisphere Trust 
+(“Hemisphere,” a Belize-based trust controlled by Hall), The Global Trust (“Global,” another 
+Belize-based trust purportedly cross-guaranteed by Hemisphere), and Call Now’s account 
+(controlled by Johnson) (collectively “Hall/Call Now” or the “Hall/Call Now accounts”).  During 
+this period, Pendergraft was PFSI’s primary relationship manager for Hall/Call Now based on his 
+prior business relationship with Hall. 
+ 
+
+                                                 
+2
+       Exchange Act Section 7(c); Regulation T, 12 C.F.R. §§ 220.1    – 220.12; NASD Conduct 
+Rule 2520 (“NASD Rule 2520”).  NASD Rule 2520 was amended and superseded by FINRA 
+Rule 4210 effective December 2, 2010. 
+ 
+
+                                                  
+
+                                                5 
+---------------------Page 6---------------------
+
+                                                                                                  
+       17.    One of the key investments in the Hall/Call Now accounts was in unrated municipal 
+bonds issued by the Retama Development Corporation (“RDC”), which owned the Retama Park 
+horse racetrack.  The RDC had issued $93.9 million in two series of bonds since 1993 to build and 
+fund Retama Park—$7 million of Series A bonds, secured by Retama Park’s facilities, and $86.9 
+million in Series B revenue bonds (“Retama B Bonds”) that paid interest only if Retama Park 
+generated sufficient revenue.  But Retama Park had struggled financially since it opened in 1995 
+and the RDC never paid interest on the Retama B Bonds.  Retama Park’s primary hope of making 
+a profit was legislation in Texas that would allow expanded gambling, including slot machines, at 
+Texas horse racetracks.  Since Retama Park opened, however, every bill proposing such legislation 
+had failed in the Texas Legislature. 
+        
+       18.    Hall and his affiliates, including Call Now, owned the vast majority of the Retama 
+B Bonds, held in their PFSI accounts, and other Retama Park related assets.  Hall and Call Now’s 
+goal with these investments was to operate Retama Park and lobby the Texas Legislature to pass 
+enhanced gambling legislation, which purportedly would cause the value of their Retama Park 
+related assets to appreciate and be sold at a premium to a casino or other gaming company.  To 
+finance portions of this plan, Hall and Call Now withdrew cash from their PFSI margin accounts to 
+make loans to the RDC, which repeatedly needed money to avoid defaulting on its debts and to pay 
+its and Retama Park’s operating expenses.  Hall and Call Now also obtained substantial additional 
+margin loans from PFSI for purchasing or carrying hundreds of unrated municipal bonds and other 
+securities, and Call Now also withdrew cash from its margin account partially to fund its own 
+operating expenses. 
+        
+       19.    Also, at Penson’s request in 2003, Hall and Johnson (on behalf of Call Now) agreed 
+to have Call Now purchase $6.6 million of PWI’s convertible notes by borrowing from Call Now’s 
+PFSI margin account to fund the purchase.  At the time, PWI needed capital to grow its business, 
+and Penson determined that a quick way to raise that capital was to have Call Now buy PWI’s 
+notes with a margin loan from PFSI.  In exchange, PWI agreed to use its best efforts to appoint a 
+nominee of Call Now to its Board of Directors, and Johnson thereafter was elected to PWI’s Board 
+in August 2003.  In May 2006, PWI completed an initial public offering of its common stock, and 
+Call Now converted its PWI notes to common stock to become PWI’s fifth largest common 
+stockholder.  Call Now also became a related party of PWI due to Johnson’s dual role as a PWI 
+director and a Call Now director and officer. 
+ 
+       20.    The Hall/Call Now accounts were unusual at PFSI for at least the following 
+reasons.  First, they were direct customer accounts not associated with a correspondent broker, 
+which was not common at PFSI.  Second, the accounts obtained substantial margin loans to 
+purchase or carry unrated municipal bonds, whereas PFSI generally made margin loans to 
+customers to purchase equity securities.  Finally, Pendergraft was the primary relationship manager 
+for the Hall/Call Now accounts instead of PFSI’s operations department, which was otherwise 
+responsible for monitoring margin lending risk and enforcing margin requirements. 
+ 
+
+                                                 
+
+                                                6 
+---------------------Page 7---------------------
+
+                                                                                                       
+        PFSI’s Margin Loans to Hall/Call Now Were Troubled by 2009 
+ 
+       21.    By early 2008, the margin equity for Hall and Hemisphere’s accounts had fallen 
+below FINRA’s and PFSI’s 25% minimum maintenance margin rate for all customer margin 
+accounts.  Instead of issuing margin calls to Hall and Hemisphere per PFSI’s policies, however, 
+PFSI lowered the minimum maintenance margin rate for the unrated municipal bonds in Hall and 
+Hemisphere’s accounts from 25% to 7% (which corresponds to FINRA’s minimum maintenance 
+margin rate for municipal bonds) so that, in effect, no margin call would be issued to the 
+           3
+customers.  
+ 
+       22.     But during 2008, Hall and Hemisphere’s unrated municipal bonds had further 
+declined in value, causing their margin equity to fall below the 7% minimum maintenance margin 
+rate.  Pendergraft, throughout 2008, had demanded that Hall deposit additional collateral into Hall 
+and Hemisphere’s accounts, but Hall failed to deposit sufficient collateral to satisfy the accounts’ 
+margin deficiency.  Although FINRA’s margin rules and PFSI’s policies required PFSI to obtain 
+the required margin from Hall and Hemisphere within fifteen business days of the date the margin 
+                                                                                        4
+deficiency occurred, PFSI could not do so because Hall did not have sufficient assets.      PFSI   also 
+did not request FINRA   to grant it additional time to obtain the required margin.  PFSI   decided not 
+to liquidate the mostly unrated municipal bonds in Hall and Hemisphere’s accounts because they 
+could not be sold without locking in substantial losses for PFSI.  Because the accounts’ margin 
+equity was below the minimum maintenance margin rate, PFSI was required to deduct Hall and 
+Hemisphere’s margin deficiency from its net capital in accordance with the Commission’s net 
+            5
+capital rule.   By December 31, 2008, PFSI   had  deduct  ed  $14.2 million, as “other deductions 
+and/or charges” from its net capital for Hall and Hemisphere’s margin deficiency. 
+        
+
+                                                 
+3
+       NASD Rule 2520(e)(2)(B) required a minimum maintenance margin rate of 7% of the 
+current market value of any positions in exempted securities, including municipal bonds.  N     ASD 
+Rule 2520(f)(1) also required that “[s]ubstantial additional margin must be required in all cases 
+where the securities carried in ‘long’ or ‘short’ positions are subject to unusually rapid or violent 
+changes in value, or do not have an active market on a national securities exchange, or where the 
+amount carried is such that the position(s) cannot be liquidated promptly.”  PFSI’s own policies 
+required a minimum maintenance margin rate of the greater of 15% of the current market value, 
+or 7% of face value, for investment grade municipal bonds.  
+ 
+4
+       NASD Rule 2520(f)(6) required that “[t]he amount of margin or ‘mark to market’ 
+required by any provision of this Rule shall be obtained as promptly as possible and in any event 
+within fifteen days from the date such deficiency occurred, unless [the NASD or FINRA] has 
+specifically granted the member additional time.”  PFSI’s policies also stated that if a margin 
+account’s equity fell below the 25% maintenance rate, PFSI would “liquidate enough securities 
+to bring the account back to a 25% maintenance rate.” 
+ 
+5
+       See Exchange Act Rule 15c3-1(c)(2). 
+
+                                                    
+
+                                                  7 
+---------------------Page 8---------------------
+
+                                                                                                  
+       23.    By early 2009, PFSI’s senior executives, including Yancey, became aware of 
+irregularities with PFSI’s margin loans to the Hall/Call Now accounts.  Hall and Hemisphere’s 
+accounts repeatedly appeared on PFSI’s exception and risk management reports that tracked large 
+margin debts, outstanding margin calls, or negative equity (unsecured loan balances).  Many PFSI 
+senior executives were aware that the Hall/Call Now accounts held mostly unrated municipal 
+bonds, which were distressed or in default, and PFSI generally did not extend margin loans on such 
+collateral.  The executives also knew that PFSI had taken net capital charges for Hall and 
+Hemisphere’s margin deficiency.  But all of PFSI’s executives, including Yancey, deferred to 
+Pendergraft on the issues raised by these accounts.  Pendergraft instructed PFSI executives, 
+including Yancey, not to get involved with the Hall/Call Now accounts because he was managing 
+them personally in consultation with certain members of PWI’s Board.  Pendergraft, as PFSI’s co-
+founder and EVP, exercised substantial control over certain key PFSI operations, including 
+computations of PFSI’s net capital and management of the Hall/Call Now accounts.  PFSI’s senior 
+executives generally did not challenge Pendergraft’s authority or actions over those matters. 
+        
+       24.    Of all the PFSI executives, only Yancey attempted to address the risks posed by 
+PFSI’s margin loans to Hall and Hemisphere.  Other PFSI executives looked to Yancey to address 
+those risks.  Although Yancey reported to Pendergraft in Pendergraft’s capacity as CEO of PWI, 
+Yancey supervised Pendergraft in Pendergraft’s capacity as an EVP and associated person of PFSI.  
+By early 2009, Yancey became more aware of the Hall/Call Now accounts as Hall and 
+Hemisphere’s accounts became more distressed.  Yancey was aware that the Hall/Call Now loan 
+balances continued to increase, Hall and Hemisphere’s accounts continued to appear on PFSI’s 
+negative equity reports, and PFSI deducted from its net capital increasing amounts of those 
+accounts’ margin deficiencies.  Yancey told Pendergraft that PFSI should stop extending loans to 
+the Hall/Call Now accounts and should liquidate their collateral.  Yancey also denied requests for 
+additional loans to those accounts.  But Pendergraft rebuffed Yancey’s efforts.  Yancey routinely 
+sought assurances from Pendergraft that the accounts were being properly managed.  Pendergraft 
+assured Yancey on numerous occasions that the accounts’ collateral had substantial value and 
+would recover in the future, and that Yancey should not worry about the accounts and instead 
+focus on growing PFSI’s business.  Though Yancey repeatedly voiced his concerns about the loans 
+to Pendergraft thereafter, Yancey did not take additional measures that reasonably would be 
+expected to address Pendergraft’s management of the Hall/Call Now accounts. 
+        
+       25.    By early 2009, PFSI’s operations personnel effectively ceased monitoring the 
+Hall/Call Now accounts because of Pendergraft’s control over them.  Pendergraft also instructed 
+PFSI’s margins department to “abate” or close without any action any margin calls generated by 
+PFSI’s systems for the Hall/Call Now accounts as he would handle margin issues personally with 
+Hall and Call Now. 
+        
+       Penson Makes Another Loan to Hall in 2009 to Support His Account 
+        
+       26.    By March 2009, Hall’s personal account had a negative equity balance of $9 
+million.  Hall also had unmet margin calls in the amount of $15.8 million.  At Pendergraft’s 
+demand, Hall agreed to pledge to Penson his controlling interest of 1.5 million restricted shares of 
+
+                                                 
+
+                                                8 
+---------------------Page 9---------------------
+
+                                                                                                      
+Call Now as additional collateral, but told Pendergraft that he needed to borrow $3.7 million to pay 
+off purportedly existing liens on the shares.  Pendergraft agreed to have Penson lend Hall the 
+money to do so. 
+        
+       27.    In exchange for Hall’s pledge of 1.5 million Call Now shares to Penson, 
+Pendergraft, after discussions with certain PWI directors and officers, arranged for a loan to Hall 
+from SAI (PWI’s subsidiary that owned PFSI) via promissory notes and stock pledge agreements 
+effective June 2009 (“SAI loan”).  The SAI loan to Hall was payable on demand, like a margin 
+loan, and charged an interest rate of 7.45%, which PFSI had charged on margin loans.  Pendergraft 
+directed PFSI to wire the loan proceeds from PFSI’s bank accounts to a trust account of Hall’s 
+lawyer in Florida, per Hall’s wiring instructions.  After the PFSI wires were received by the trust 
+account, Hall delivered the Call Now stock certificates to PFSI.  PFSI then deposited the shares 
+into Hall’s margin account, thereby reversing the account’s negative balance of $9 million to a 
+positive balance by July 2009. 
+ 
+       28.    This SAI loan to Hall was made in contravention of Regulation T, which prohibits 
+the withdrawal of cash from any margin account that creates or increases a margin deficiency, and 
+PFSI’s own policies, which prohibited the withdrawal of any cash from a margin account that was 
+                                     6
+subject to a maintenance margin call.    The SAI loan was effectively a margin loan as it was a 
+demand loan that charged PFSI’s margin loan interest rate, funded by PFSI, and collateralized by 
+Hall’s Call Now shares.  Although the value of Hall’s Call Now shares deposited into his PFSI 
+margin account supposedly restored the account to a positive balance, the shares were non-
+marginable, and had no effect on his account’s existing margin deficiency.  Because the SAI loan 
+was effectively a margin loan, however, the loan actually had the effect of increasing Hall’s 
+account’s margin deficiency by $3.7 million.  Most PFSI executives, including Yancey, were not 
+aware of the SAI loan when it was made. 
+        
+       29.    By June 2009, Penson’s loans to Hall/Call Now reached $89 million as unpaid loan 
+interest continued to accrue and Call Now withdrew cash from its margin account to fund Retama 
+Park and its own operating expenses, including portions of Hall and Johnson’s Call Now salaries.  
+Hall and Hemisphere’s margin accounts continued to be subject to daily margin calls that Hall had 
+failed to meet since 2008.  Though Penson and Hall had hoped that the 2009 session of the Texas 
+Legislature (which meets every odd-numbered year) would result in enhanced gambling 
+legislation, bills proposing such legislation failed to reach a floor vote before the session adjourned 
+in June 2009. 
+        
+
+                                                 
+6
+       Regulation T, 12 C.F.R. § 220.4(e)(1)(ii), permits the withdrawal of cash or securities 
+from an account except if “[t]he withdrawal, together with other transactions, deposits, and 
+withdrawals on the same day, would create or increase a margin deficiency.” 
+
+                                                   
+
+                                                  9 
+---------------------Page 10---------------------
+
+                                                                                                   
+       FINRA Instructs PFSI to Take a 100% Haircut to Net Capital for the Retama B Bonds 
+ 
+       30.    During the summer of 2009, FINRA’s exam staff conducted a cycle examination of 
+PFSI, and found that PFSI failed to comply with FINRA’s margin rules because the Retama B 
+Bonds owned by Hall/Call Now were not marginable securities.  The FINRA exam staff reached 
+this conclusion because the Retama B Bonds were unrated, did not have an active market, and had 
+deferred on interest payments.  After discussions with PFSI’s executives and outside counsel, the 
+FINRA exam staff instructed PFSI to apply a 100% margin maintenance rate or “haircut” to its net 
+capital for the value of the bonds, issue margin calls to the account holders, and submit a plan of 
+liquidation of the collateral.  The FINRA exam staff reviewed these conclusions in an exit meeting 
+with all senior PFSI executives in October 2009. 
+ 
+       31.    PFSI eventually agreed to treat the bonds as non-marginable, and applied a 100% 
+haircut for their value, resulting in an additional $20 million deduction to PFSI’s net capital.  This 
+was on top of the nearly $20 million in net capital charges PFSI was already taking for Hall and 
+Hemisphere’s margin deficiency.  By September 30, 2009, PFSI had deducted approximately $40 
+million from its net capital for the Hall/Call Now accounts’ margin deficiency, and reported net 
+capital of $92 million.  Though PFSI did not violate minimum net capital requirements, its margin 
+loans to the Hall/Call Now accounts had substantially reduced its net capital. 
+        
+       32.    On September 24, 2009, pursuant to FINRA’s instructions, PFSI also sent 
+maintenance margin call letters to Hemisphere, Global, and Call Now.  The letters stated that, 
+based on FINRA’s determination that the Retama B Bonds in their accounts were not marginable, 
+Hemisphere, Global, and Call Now needed to deposit in their accounts additional margin in the 
+amounts of $8.25 million, $2.7 million, and $5.3 million, respectively, by September 30, 2009.  
+Hemisphere, Global, and Call Now failed to deposit any margin in response to these margin calls. 
+ 
+       Penson “Restructures” Hall and Call Now’s Debts to Support Their Accounts 
+ 
+       33.    By yearend 2009, Penson’s loans to the Hall/Call Now accounts totaled $91 million 
+and became severely distressed due to further declines in collateral value and unpaid interest.  Hall 
+and Hemisphere’s accounts had become unsecured by more than $26 million.  Margin calls on all 
+four of the Hall/Call Now accounts remained unpaid for months as the customers lacked “the 
+wherewithal” to pay.  PFSI’s net capital charges for those unpaid margin calls had soared to $56 
+million, compared with PFSI’s reported net capital of $95 million at yearend 2009.  Penson did not 
+liquidate or foreclose on the accounts’ illiquid collateral because liquidation would result in 
+significant losses to Penson, and foreclosure would result in the impractical outcome of Penson 
+controlling Call Now and Retama Park’s operations.  Penson concluded that the only viable option 
+was to restructure Hall/Call Now’s debts to obtain as much collateral as possible. 
+ 
+       34.    In February 2010, Pendergraft, after months of negotiations with Hall and Johnson 
+(on behalf of Call Now), devised a complex transaction (“restructuring transaction”) involving 
+Penson, Hall, and Call Now.  The purpose of the transaction was to obtain as much collateral as 
+possible to reduce the unsecured portion of Hall’s margin loan, which was $15.7 million at yearend 
+
+                                                  
+
+                                                10 
+---------------------Page 11---------------------
+
+                                                                                                   
+2009.  Because Call Now’s collateral (which included PWI stock) was relatively more liquid than 
+Hall’s, Penson demanded that Call Now transfer approximately $10 million in additional equity in 
+cash and other assets to Hall by buying Hall’s illiquid collateral, including certain unrated 
+municipal bonds and an additional 721,463 Call Now shares.   
+        
+       35.    Because Call Now did not have enough cash or liquid assets to finance this 
+transaction, Penson again authorized the use of PFSI’s capital, like the SAI loan, to make an 
+improper loan to Call Now.  PWI “converted” Call Now’s $13.9 million outstanding margin loan 
+at PFSI into a two-year promissory note in favor of PWI, effectively transferring the debt from Call 
+Now’s margin account and PFSI’s books to PWI.  This promissory note, which was collateralized 
+in part by all of the securities in Call Now’s margin account, ostensibly reset Call Now’s margin 
+debt to zero and allowed it to borrow on margin again from its PFSI margin account.  Then, against 
+part of the same collateral securing Call Now’s promissory note, Pendergraft directed PFSI to 
+extend another $5.5 million in margin loans to Call Now so that it could use those proceeds to buy 
+Hall’s illiquid collateral.  While this transaction increased the equity in Hall’s account by 
+approximately $10 million, Call Now’s overall indebtedness to Penson also increased from $13.9 
+million to $19.4 million as a result of this transaction. 
+        
+       36.    Indirectly related to this transaction, Pendergraft directed PFSI to extend another 
+$500,000 margin loan to Call Now and another $1 million margin loan to Hall in February and 
+April 2010, respectively, when Call Now and Hall’s accounts were subject to unmet margin calls.  
+Call Now used the $500,000 to fund its investment and operating expenses for 2010, including 
+portions of Hall’s and Johnson’s $200,000 annual Call Now salaries.  Hall loaned the $1 million to 
+the RDC for its and Retama Park’s operating expenses. 
+        
+       37.    These extensions of credit, like the SAI loan, were in contravention of Regulation T 
+and PFSI’s policies. 
+ 
+       FINRA Finds That PFSI Lacked Sufficient Internal Controls on the Hall/Call Now Loans 
+        
+       38.    In the summer of 2010, the FINRA exam staff conducted a cycle examination of 
+PFSI.  The FINRA exam staff concluded that PFSI did not have sufficient controls over its 
+extension of credit to the Hall/Call Now accounts because the loans continued to be collateralized 
+by unrated municipal bonds lacking an active market.  The FINRA exam staff instructed PFSI to 
+take a further $15.4 million deduction to its net capital for additional concentrated positions of 
+unrated municipal bonds collateralizing the loans.  The FINRA exam staff also concluded that 
+Pendergraft’s control over the Hall/Call Now accounts resulted in PFSI’s failure to consider or 
+identify risk factors such as the marketability and concentration of the collateral, liquidity risk, and 
+the customers’ creditworthiness.  By not adequately considering these risk factors, the FINRA 
+exam staff concluded, PFSI failed to supervise these credit extensions and materially impaired its 
+net capital.  The FINRA exam staff reviewed these conclusions at an exit meeting with all senior 
+PFSI executives in October 2010. 
+ 
+
+                                                  
+
+                                                11 
+---------------------Page 12---------------------
+
+                                                                                                        
+       39.    By yearend 2010, Yancey knew or had reason to know that Pendergraft approved 
+loans to Hall/Call Now in 2009 and 2010 that contravened Regulation T and PFSI’s own policies 
+and internal controls.  Yancey knew that Pendergraft directed PFSI’s associated persons not to 
+record losses on the Hall/Call Now loans in PFSI’s books and records and financial statements 
+because Pendergraft had assured Yancey that he and other PWI executives had determined that the 
+loans were collectable, following discussions with PWI’s Board and auditor.  But Yancey told 
+Pendergraft that he doubted whether the Hall/Call Now loans were fully collectable because the 
+loan balances continued to grow from 2009 to 2010, and because PFSI continued to take large 
+deductions to its net capital for the Hall/Call Now loans since September 2009.  Although Yancey 
+continued to voice concerns to Pendergraft about extending additional credit to Hall/Call Now and 
+advocated to liquidate their collateral to minimize losses for PFSI, Yancey failed to take additional 
+measures that reasonably would be expected to prevent and detect Pendergraft’s actions resulting 
+in PFSI extending credit in contravention of Regulation T, and resulting in PFSI’s failure to 
+accurately record losses in its ledgers and to file its financial statements in conformity with GAAP. 
+ 
+       Penson’s Improper Accounting of the Hall/Call Now Loans in its 2009 Yearend Filings 
+ 
+       40.    PWI and PFSI were required under GAAP to evaluate whether the Hall/Call Now 
+loans were impaired.  Impairment is required to be recognized when information available before 
+the financial statements are issued indicate that it is “probable” that the creditor will be unable to 
+collect all amounts due, including principal and interest, in accordance with the loan’s contractual 
+      7
+terms.    PWI and PFSI were also required, under GAAP,     to measure and  recognize  in their 
+financial statements the amount of impairment   losses   associated with such loans, and to disclose 
+the amount of the impaired loans  and loans that were more than ninety days past due and still 
+         8
+accruing.   These financial statements were included in PWI’s Forms 10-K and 10-Q, and PFSI’s 
+annual audited reports filed with the Commission. 
+ 
+       41.    PWI and PFSI’s accounting policies claimed that they “did not lend money to 
+customers or correspondents except on a fully collateralized basis.”  Those policies also required 
+PWI and PFSI to record a bad debt expense and an allowance for doubtful accounts if a margin 
+customer’s collateral value, guarantees, or other rights granted were insufficient to cover any 
+potential losses. 
+ 
+       42.    At yearend 2009, Hall/Call Now collectively owed Penson $91 million, and were 
+subject to margin calls for $56 million.  Hall, Hemisphere, Global, and Call Now were required 
+under their PFSI customer margin account agreements promptly to pay any indebtedness or 
+deficiency upon demand from PFSI.  Each of these four customers failed to meet PFSI’s demands 
+for payment by September 30, 2009. 
+
+                                                 
+7
+       Financial Accounting Standards Board      Accounting Standards Codification (“ASC”) 
+Topic 310-10-35-16. 
+ 
+8
+       ASC 310   - 10 - 35 - 22 & 310- 10 - 50 - 7. 
+
+                                                    
+
+                                                   12 
+---------------------Page 13---------------------
+
+                                                                                                  
+        
+       43.    Nonetheless, PWI and PFSI, at Pendergraft and McAleer’s direction, concluded 
+that the Hall/Call Now loans were fully collectable and not impaired because they expected, 
+without adequate basis, that (a) the real estate market would recover in 2010, or (b) the Texas 
+Legislature likely would pass enhanced gambling legislation in 2011, either of which would cause 
+the Hall/Call Now accounts’ collateral value to improve and, at some point in the future, allow the 
+customers to pay back their loans.  For the same reasons, PWI and PFSI concluded that loss 
+recognition and the establishment of an allowance for doubtful accounts for the Hall/Call Now 
+loans was not necessary.  PWI’s Audit Committee and auditor concurred with these conclusions. 
+        
+       44.    But these conclusions did not comply with GAAP.  Because the Hall/Call Now 
+accounts failed to meet their outstanding margin calls upon demand, it was at least probable at 
+yearend 2009 that PWI and PFSI would be unable to collect all amounts due in accordance with 
+the contractual terms of the margin loans.  Neither the possible recovery of the real estate market, 
+the possible enactment of gambling legislation, nor the additional collateral pledged in the 
+restructuring transaction affected PWI and PFSI’s inability to collect all amounts when due from 
+the customers at yearend 2009.  Further, PWI and PFSI failed to record a bad debt expense for the 
+Hall/Call Now loans, or even to disclose that the loans were past due for more than ninety days and 
+still accruing. 
+ 
+       45.    As a result, PWI and PFSI failed to properly identify the loans to Hall/Call Now as 
+impaired, and to measure and recognize the amount of impairment in conformity with GAAP.  Had 
+PWI and PFSI properly identified the loans as impaired and measured the amount of impairment 
+according to their own internal policies, they would have recorded a loss in the amount of 
+approximately $19 million for the period ended December 31, 2009.  Such a loss would have been 
+material to PWI and PFSI’s net income of $16 million and $35.3 million, respectively, for the same 
+period.  By failing to recognize this impairment charge, PWI and PFSI’s financial statements, 
+included in PWI’s 2009 Form 10-K and PFSI’s 2009 annual audited report, were not presented in 
+conformity with GAAP, and were materially misstated and inaccurate for the period ended 
+December 31, 2009.  Because PWI’s 2009 Form 10-K was incorporated by reference in the 
+offering memorandum for PWI’s April 2010 unregistered offering of $200 million in Senior 
+Second Lien Secured Notes Due 2017 (“2010 Offering Memorandum”), PWI’s 2010 Offering 
+Memorandum also was materially misstated. 
+        
+       Penson’s Misleading Related Party Disclosures in Yearend 2009 Filings 
+ 
+       46.    Under Item 404(a) of Regulation S-K, PWI was required to disclose any transaction 
+in which PWI was a participant and the amount involved exceeded $120,000, and in which any 
+related person of PWI had a direct or indirect material interest.  Item 404(a) also required PWI to 
+disclose any other information regarding the transaction or the related person in the context of the 
+transaction that is material to investors in light of the circumstances of the particular transaction.  
+Similarly, GAAP required PWI and PFSI to disclose material related party transactions, including 
+the nature of the relationship involved, a description of the transactions, and such other information 
+
+                                                 
+
+                                                13 
+---------------------Page 14---------------------
+
+                                                                                                    
+deemed necessary to an understanding of the effects of the transactions on their financial 
+           9
+statements. 
+        
+       47.    PWI’s 2009 Form 10-K included the following disclosure in a note to the financial 
+statements about the February 2010 Hall/Call Now restructuring transaction: 
+        
+       Over the past several years, the Company has, through PFSI, its U.S. securities clearing 
+       broker-dealer subsidiary, extended margin credit to Call Now, among other of the 
+       Company’s related parties.  Such credit has been extended in the ordinary course of 
+       business, on substantially the same terms, including interest rates and collateral, as those 
+       prevailing at the time for comparable transactions with unaffiliated third parties and had not 
+       involved more than normal risk of collectability or presented other unfavorable features. 
+        
+               The Company’s management recently determined that certain municipal bonds 
+       underlying Call Now’s margin position had suffered reduced liquidity, and began working 
+       with Call Now to restructure the margin loan.  As part of the restructuring, on February 25, 
+       2010, Call Now converted $[13,922,000] of its outstanding margin loan into a Promissory 
+       Note in favor of the Company accumulating interest at a rate of 10% per year. The 
+       Company’s management currently believes that all amounts due under the Promissory Note 
+       will be collected pursuant to the terms of the Promissory Note. . . .  Mr. Thomas Johnson 
+       has no interest in the Call Now margin account or the Promissory Note, except to the extent 
+       of his approximately 3.2% ownership interest in Call Now. Mr. Johnson abstained from 
+       voting on all matters on behalf of the Company. 
+        
+       48.    This disclosure did not comply with GAAP and was materially misleading in 
+numerous ways.  First, it failed to disclose that the true purpose of the transaction was to obtain as 
+much collateral as possible for Hall’s unsecured debt.  Second, it failed to disclose that Call Now 
+had failed to pay margin calls issued by PFSI because it determined, at FINRA’s instruction, that 
+the Retama B Bonds held by Call Now were not marginable collateral.  Third, the loans to Call 
+Now were not made in the ordinary course—Call Now received favorable treatment from Penson 
+because it was a related party.  Fourth, it omitted the fact that Penson premised collectability of the 
+loan on speculation as to the recovery of the real estate market and gambling legislation.  Finally, it 
+omitted the fact that Johnson, on behalf of Call Now, had obtained loans from PFSI to Call Now to 
+fund its operating expenses, including portions of his and Hall’s annual $200,000 salaries. 
+ 
+       49.    These materially misleading disclosures were also substantially included in PFSI’s 
+2009 annual audited report, and PWI’s 2010 definitive Proxy Statement on Schedule 14A, which 
+was used to solicit votes to reelect Pendergraft and Johnson as PWI Directors through 2013.  The 
+disclosures also were incorporated by reference in PWI’s April 2010 Offering Memorandum.  As a 
+result, PFSI’s 2009 annual audited report, and PWI’s 2010 Schedule 14A and April 2010 Offering 
+Memorandum also contained materially misleading disclosures and were inaccurate. 
+
+                                                 
+9
+       ASC 850   - 10 - 50.  
+
+                                                  
+
+                                                 14 
+---------------------Page 15---------------------
+
+                                                                                                   
+        
+       Penson’s Accounting and Disclosure Errors in 2010 
+        
+       50.    In PWI’s quarterly reports on Forms 10-Q for the periods ended from March 31, 
+2010 to September 30, 2010, PWI continued to fail to identify the Hall/Call Now loans as impaired 
+and to measure and recognize impairment losses on those loans.  PWI also continued to fail to 
+disclose the amount of loans over ninety days past due and still accruing.  As a result, PWI’s 
+quarterly financial statements for these periods were not presented in conformity with GAAP and 
+were materially misstated. 
+        
+       51.    By yearend 2010, Penson’s loans to Hall/Call Now had reached $95 million, and 
+the customers continued to fail to meet outstanding margin calls.  The real estate market did not 
+recover in 2010 to improve the collateral value underlying the loans.  The possibility of gambling 
+legislation in 2011 was Penson’s main hope for collecting on the loans. 
+        
+       52.    Penson placed Hall and Hemisphere’s loans on nonaccrual status and ceased to 
+accrue interest on them beginning in March 2010.  Effective January 1, 2011, Penson placed all of 
+the Hall/Call Now loans on nonaccrual status and ceased to accrue interest on them, indicating that 
+Penson no longer believed that it would collect all amounts due under the terms of the loan 
+agreements with these customers. 
+        
+       53.    In its 2010 Form 10-K, PWI disclosed that it had $97.4 million in loans or 
+receivables “primarily from customers and correspondents” for which interest income was 
+recorded when received.  PWI did not disclose that the vast majority of these receivables were the 
+$95 million in loans to Hall/Call Now, who were direct customers of PFSI not introduced through 
+a correspondent broker-dealer.  Even though Penson ceased to accrue interest on the Hall/Call Now 
+loans, Penson continued to treat the loans as fully collectable.  PFSI’s 2010 annual audited report 
+did not make any disclosures about these loans being placed on nonaccrual status. 
+        
+       54.    As a result, PWI and PFSI failed to properly identify the loans to Hall/Call Now as 
+impaired, and to measure and recognize the amount of impairment of the loans as required by 
+GAAP.  Had PWI and PFSI properly identified the loans as being impaired and measured the 
+amount of impairment according to their own internal policies, they would have recorded 
+cumulative losses of at least $18 million for the period ended December 31, 2010.  This amount 
+would have been material to both PWI’s reported net loss of $19.8 million and PFSI’s reported net 
+income of $23.6 million for the same period.  By failing properly to account for and adequately to 
+disclose the nature of the Hall/Call Now loans, PWI and PFSI’s financial statements, included in 
+PWI’s 2010 Form 10-K and PFSI’s 2010 annual audited report, were not presented in conformity 
+with GAAP and were materially misstated and inaccurate for the period ended December 31, 2010. 
+ 
+       55.    PWI’s 2010 Form 10-K, PWI’s 2011 definitive Proxy Statement on Schedule 14A, 
+and PFSI’s 2010 annual audited report contained essentially the same related party disclosure 
+about the Call Now loan as in their respective 2009 Form 10-K, 2010 Schedule 14A, and 2009 
+annual audited report.  For the reasons described above in connection with the disclosures in PWI’s 
+
+                                                  
+
+                                                15 
+---------------------Page 16---------------------
+
+                                                                                                  
+2009 Form 10-K, PWI’s 2010 Form 10-K and Schedule 14A, and PFSI’s 2010 annual audited 
+report were materially misleading and inaccurate. 
+ 
+       PWI’s Accounting Errors in its 2011 Quarterly Reports 
+        
+       56.    In its Form 10-Q for the period ended March 31, 2011, PWI again failed to identify 
+and measure any impairment on the loans to Hall/Call Now as required by GAAP.  Had PWI done 
+so, it would have recorded cumulative losses totaling at least $20 million for the period. 
+        
+       57.    But PWI did, in its Form 10-Q, disclose that it had approximately $97 million in 
+“Nonaccrual Receivables” —almost entirely the Hall/Call Now loans—of which approximately 
+$43 million were collateralized by RDC bonds and related assets.  The Form 10-Q further 
+disclosed that, should expanded gambling legislation not be enacted in 2011, it is possible that the 
+collateral underlying the receivables might be impaired, resulting in a write down of a portion of 
+the receivables that could be material in amount.  The Form 10-Q, however, failed to disclose the 
+nature of the remaining $54 million in Nonaccrual Receivables and whether they were adequately 
+collateralized.  Nevertheless, three days after this Form 10-Q was filed, PWI’s stock price had 
+dropped by approximately 40%, and Johnson resigned as a Director of PWI. 
+        
+       58.    Three months later, in its Form 10-Q for the period ended June 30, 2011, PWI 
+finally disclosed that the carrying value of the Nonaccrual Receivables collateralized by the RDC 
+bonds and related assets were not fully collectable and recorded an impairment charge of $43 
+million—PWI’s biggest losses ever.  However, PWI should have recognized in prior periods at 
+least $20 million of impairment losses on the Hall/Call Now loans.  PWI disclosed that one factor 
+underlying the decision to record an impairment charge was the Texas Legislature’s adjournment 
+in June 2011 without passing enhanced gambling legislation.  PWI also began to foreclose on 
+certain collateral underlying the Hall/Call Now accounts.  PWI ultimately recorded approximately 
+$60 million in losses on these loans by the first quarter of 2012. 
+        
+       59.    Pendergraft, McAleer, and Johnson each signed PWI’s annual reports on Forms 10-
+K for the periods ended December 31, 2009, and December 31, 2010.  Pendergraft and McAleer 
+also signed PWI’s quarterly reports on Forms 10-Q for the periods ended from March 31, 2010 to 
+June 30, 2011, and certified each periodic report identified above. 
+ 
+       Penson’s Demise  
+ 
+       60.    In PWI’s August 5, 2011 earnings conference call, Pendergraft admitted that the 
+company had made mistakes in extending credit to Hall/Call Now:  “Our mistake—really a couple 
+of mistakes here—one was not bringing these accounts into line with our new policies and 
+procedures [on credit extension].  And second—was not just going out and liquidating the accounts 
+when we [began] to see illiquidity in the underlying assets.” 
+ 
+       61.    PWI’s disclosures and impairment of the loans to Hall/Call Now in 2011 
+contributed to a series of events that ultimately led to Penson’s demise in 2013.  In 2011, PWI’s 
+
+                                                 
+
+                                                16 
+---------------------Page 17---------------------
+
+                                                                                                     
+clearing businesses were already experiencing lower trading commissions and interest revenues 
+due to the weak global economy and market volatility.  The losses on the loans to Hall/Call Now in 
+2011 seriously undermined confidence in PWI’s ability to operate as a going concern.  PWI’s 
+creditors restricted credit lines that were vital to its operations, correspondents and customers 
+ceased doing business with PFSI, and investors sold millions of PWI shares at depressed prices.  
+These events caused a liquidity crisis that prohibited PWI from servicing or restructuring more 
+than $260 million in outstanding debts.  As a result, PWI was forced to sell its clearing broker-
+dealer subsidiaries, including PFSI’s clearing business, and file for bankruptcy protection in 2013. 
+ 
+E.     Violations 
+ 
+       62.    Securities Act Section 17(a)(2) prohibits any person from obtaining money or 
+property in the offer or sale of securities by means of any untrue statement of a material fact or any 
+omission to state a material fact necessary in order to make the statements made, in light of the 
+circumstances under which they were made, not misleading.  Securities Act Section 17(a)(3) 
+prohibits any person from engaging in any transaction, practice, or course of business which 
+operates or would operate as a fraud or deceit upon the purchaser in the offer or sale of securities. 
+        
+       63.    Exchange Act Section 7(c) prohibits a broker or dealer, directly or indirectly, from 
+extending or maintaining credit or arranging for the extension or maintenance of credit to or for 
+any customer in violation of rules and regulations prescribed by the Federal Reserve Board.  
+Regulation T, prescribed under Section 7(c), prohibits, among other things, the withdrawal of cash 
+or securities from a margin account that creates or increases a margin deficiency.  12 C.F.R. § 
+220.4(e)(1)(ii). 
+        
+       64.    Exchange Act Section 13(a) and Rules 13a-1 and 13a-13 require every issuer of a 
+security registered pursuant to Exchange Act Section 12 to file with the Commission annual and 
+quarterly reports as the Commission may require.  Rule 13a-14 mandates, among other things, that 
+an issuer’s principal executive and financial officers certify each periodic report.  Rule 12b-20 
+requires that the issuer’s filings contain such further material information as may be necessary to 
+make the required statements, in the light of the circumstances under which they were made, not 
+misleading. 
+         
+       65.    Exchange Act Section 13(b)(2)(A) requires issuers to make and keep books, 
+records, and accounts which, in reasonable detail, accurately and fairly reflect their transactions 
+and dispositions of their assets.  Section 13(b)(2)(B) requires issuers to devise and maintain a 
+system of internal accounting controls sufficient to provide reasonable assurances that, among 
+other things, transactions are recorded to permit the preparation of financial statements in 
+conformity with GAAP.  Section 13(b)(5) prohibits any person from knowingly circumventing or 
+knowingly failing to implement a system of internal accounting controls, and from knowingly 
+falsifying any book, record, or account under Section 13(b)(2).  Rule 13b2-1 prohibits any person 
+from directly or indirectly falsifying or causing to be falsified any book, record or account subject 
+to Section 13(b)(2)(A). 
+        
+
+                                                   
+
+                                                 17 
+---------------------Page 18---------------------
+
+                                                                                                      
+       66.    Exchange Act Section 14(a) requires issuers that solicit any proxy or consent or 
+authorization in connection with any security registered pursuant to Section 12 of the Exchange 
+Act (other than an exempted security) to comply with such rules as the Commission may 
+promulgate.  Rule 14a-9 prohibits the use of proxy statements containing materially false or 
+misleading statements or materially misleading omissions. 
+ 
+       67.    Exchange Act Section 15(b)(4)(E) requires a broker or dealer reasonably to 
+supervise, with a view to preventing violations of the federal securities laws, another person who 
+commits such violation, if such other person is subject to its supervision.  Exchange Act 15(b)(6) 
+incorporates by reference Section 15(b)(4)(E) and allows for the imposition of sanctions against 
+persons associated with a broker or dealer for failing reasonably to supervise. 
+        
+       68.    Exchange Act Section 17(a) requires each broker-dealer to make and keep records 
+and make and disseminate such reports as the Commission may prescribe.  Rule 17a-3(a)(2) 
+requires broker-dealers to maintain ledgers reflecting assets and liabilities, income and expense and 
+capital accounts.  Exchange Act Section 17(e) and Rule 17a-5 require broker-dealers to file with 
+the Commission annual audited reports containing, among other things, financial statements 
+prepared in conformity with GAAP.  The records and reports required by these rules must be 
+accurate. 
+ 
+       69.    Exchange Act Section 4C(a)(3) and Rule 102(e)(1)(iii) of the Commission’s Rules 
+of Practice provide, in pertinent part, that “[t]he Commission may censure a person or deny, 
+temporarily or permanently, the privilege of appearing or practicing before it in any way to any 
+person who is found . . . [t]o have willfully violated . . . any provision of the Federal securities laws 
+or the rules and regulations thereunder.”  17 C.F.R. § 201.102(e)(1)(iii). 
+        
+                                                                                 10
+       70.    As a result of the conduct described above, Pendergraft willfully    violated 
+Securities Act Sections 17(a)(2) and 17(a)(3), Exchange Act Section   13(b)(5), and  Exchange Act 
+Rules 13a -14 and 13b2 -1 .  Pendergraft also willfully aided and abetted and caused PWI’s 
+violations of Exchange Act Sections 13(a), 13(b)(2)(A), 13(b)(2)(B), and 14(a), and Rules 12b-20, 
+13a-1,13a-13, and 14a-9.  Pendergraft also willfully aided and abetted and caused PFSI’s violations 
+of Exchange Act Sections 7(c), 17(a), and 17(e), Exchange Act Rules 17a-3(a)(2) and 17a-5, and 
+Regulation T. 
+        
+
+                                                 
+10
+       A willful violation of the securities laws means merely “‘that the person charged with the 
+duty knows what he is doing.’” Wonsover v. S.E.C., 205 F.3d 408, 414 (D.C. Cir. 2000) (quoting 
+Hughes v. S.E.C., 174 F.2d 969, 977 (D.C. Cir. 1949)).  There is no requirement that the actor 
+“‘also be aware that he is violating one of the Rules or Acts.”  Id. (quoting Gearhart & Otis, Inc. 
+v. S.E.C., 348 F.2d 798, 803 (D.C. Cir. 1965)). 
+ 
+
+                                                   
+
+                                                  18 
+---------------------Page 19---------------------
+
+                                                                                                      
+                                                                              11
+       71.    As a result of the conduct described above, McAleer willfully      violated Exchange 
+Act Sec tion 13(b)(5), and Rules 13a- 14 and 13b2 - 1  within the meaning of Section 4C(a)(3) and 
+Rule 102(e)(1)(iii).  McAleer also caused PWI’s violations of Exchange Act Sections 13(a), 
+13(b)(2)(A), and 13(b)(2)(B), and Rules 12b-20, 13a-1, and 13a-13. 
+        
+       72.    As a result of the conduct described above, Johnson caused PWI’s violations of 
+Exchange Act Sections 13(a), 13(b)(2)(A), and 14(a), and Rules 12b-20, 13a-1, and 14a-9. 
+        
+       73.    As a result of the conduct described above, Yancey failed reasonably to supervise 
+Pendergraft, an associated person of PFSI, within the meaning of Exchange Act Section 15(b)(6), 
+incorporating by reference Section 15(b)(4)(E), with a view to preventing and detecting 
+Pendergraft’s aiding and abetting and causing PFSI’s violations of Exchange Act Sections 7(c), 
+17(a), and 17(e), Exchange Act Rules 17a-3(a)(2) and 17a-5, and Regulation T. 
+                                                   
+F.     Undertakings 
+ 
+       74.    Respondents Pendergraft, McAleer, Johnson, and Yancey have undertaken to 
+cooperate fully with the Commission in any and all investigations, litigation, administrative or other 
+proceedings commenced by the Commission or to which the Commission is a party relating to or 
+arising from the matters described in the Order.  In connection with such investigations, litigation, 
+administrative or other proceedings, Respondents agree to the following: (i) to produce, without 
+service of a notice or subpoena, any and all documents and other materials and information as 
+reasonably requested by the Commission; (ii) to appear and testify without service of a notice or 
+subpoena in such investigations, interviews, depositions, hearings and trials, at such times and 
+places as reasonably requested by the Commission; and (iii) to respond promptly to all inquiries 
+from the Commission.  Respondent Yancey also has undertaken to provide to the Commission, 
+within fifteen (15) days after the end of the six-month suspension period described below, an 
+affidavit that he has complied fully with the sanctions applicable to him described in Section IV 
+below. 
+ 
+                                               IV. 
+                                                   
+        In view of the foregoing, the Commission deems it appropriate, in the public interest to 
+impose the sanctions agreed to in Respondents’ Offers. 
+ 
+        Accordingly, pursuant to Section 8A of the Securities Act, Sections 4C, 15(b), and 21C of 
+the Exchange Act, Section 9(b) of the Investment Company Act and Rule 102(e)(1)(iii) of the 
+Commission’s Rules of Practice, it is hereby ORDERED that: 
+ 
+
+                                                 
+11
+       See id. 
+
+                                                   
+
+                                                  19 
+---------------------Page 20---------------------
+
+                                                                                                     
+A.     Philip A. Pendergraft 
+        
+       1.      Respondent Pendergraft shall cease and desist from committing or causing any 
+violations and any future violations of Securities Act Sections 17(a)(2) and 17(a)(3), and Exchange 
+Act Sections 7(c), 13(a), 13(b)(2)(A), 13(b)(2)(B), 13(b)(5), 14(a), 17(a), and 17(e), Exchange Act 
+Rules 12b-20, 13a-1, 13a-13, 13a-14, 13b2-1, 14a-9, 17a-3(a)(2), and 17a-5, and Regulation T. 
+ 
+       2.      Pendergraft be, and hereby is: 
+        
+               a.      barred from association with any broker, dealer, investment adviser, 
+       municipal securities dealer, municipal advisor, transfer agent, or nationally recognized 
+       statistical rating organization; 
+                
+               b.      prohibited from serving or acting as an employee, officer, director, member 
+       of an advisory board, investment adviser or depositor of, or principal underwriter for, a 
+       registered investment company or affiliated person of such investment adviser, depositor, or 
+       principal underwriter; and 
+                
+               c.      barred from participating in any offering of a penny stock, including: acting 
+       as a promoter, finder, consultant, agent or other person who engages in activities with a 
+       broker, dealer or issuer for purposes of the issuance or trading in any penny stock, or 
+       inducing or attempting to induce the purchase or sale of any penny stock. 
+        
+       3.      Any reapplication for association by Pendergraft will be subject to the applicable 
+laws and regulations governing the reentry process, and reentry may be conditioned upon a number 
+of factors, including, but not limited to, the satisfaction of any or all of the following:  (a) any 
+disgorgement ordered against Pendergraft, whether or not the Commission has fully or partially 
+waived payment of such disgorgement; (b) any arbitration award related to the conduct that served 
+as the basis for the Commission order; (c) any self-regulatory organization arbitration award to a 
+customer, whether or not related to the conduct that served as the basis for the Commission order; 
+and (d) any restitution order by a self-regulatory organization, whether or not related to the conduct 
+that served as the basis for the Commission order. 
+        
+      4.       Pendergraft shall pay a civil money penalty in the amount of $100,000 to the 
+Commission.  Payment shall be made in $20,000 installments within 15, 90, 180, 270, and 360 
+days of the date of entry of this Order.  If any payment is not made by the date the payment is 
+required by this Order, the entire outstanding balance of civil penalties, plus any additional interest 
+accrued pursuant to 31 U.S.C. 3717, shall be due and payable immediately, without further 
+application.  Payments must be made as set forth in paragraph E below. 
+ 
+       5.      Pendergraft shall comply with the undertaking in Section III, paragraph 74, above. 
+        
+
+                                                   
+
+                                                 20 
+---------------------Page 21---------------------
+
+                                                                                                   
+B.     Kevin W. McAleer 
+ 
+       1.      Respondent McAleer shall cease and desist from committing or causing any 
+violations and any future violations of Exchange Act Sections 13(a), 13(b)(2)(A), 13(b)(2)(B), and 
+13(b)(5), and Exchange Act Rules 12b-20, 13a-1, 13a-13, 13a-14, and 13b2-1. 
+        
+       2.      McAleer is denied the privilege of appearing or practicing before the Commission 
+as an accountant. 
+        
+       3.      After one year from the date of this Order, McAleer may request that the 
+Commission consider his reinstatement by submitting an application (attention: Office of the Chief 
+Accountant) to resume appearing or practicing before the Commission as: 
+        
+               a.      a preparer or reviewer, or a person responsible for the preparation or review, 
+       of any public company’s financial statements that are filed with the Commission.  Such an 
+       application must satisfy the Commission that McAleer’s work in his practice before the 
+       Commission will be reviewed either by the independent audit committee of the public 
+       company for which he works or in some other acceptable manner, as long as he practices 
+       before the Commission in this capacity; and/or 
+ 
+               b.      an independent accountant.  Such an application must satisfy the 
+       Commission that: 
+        
+                      1)     McAleer, or the public accounting firm with which he is associated, 
+               is registered with the Public Company Accounting Oversight Board (“Board”) in 
+               accordance with the Sarbanes-Oxley Act of 2002, and such registration continues to 
+               be effective; 
+ 
+                      2)     McAleer, or the registered public accounting firm with which he is 
+               associated, has been inspected by the Board and that inspection did not identify any 
+               criticisms of or potential defects in the respondent’s or the firm’s quality control 
+               system that would indicate that the respondent will not receive appropriate 
+               supervision; 
+        
+                      3)     McAleer has resolved all disciplinary issues with the Board, and has 
+               complied with all terms and conditions of any sanctions imposed by the Board 
+               (other than reinstatement by the Commission); and 
+        
+                      4)     McAleer acknowledges his responsibility, as long as he appears or 
+               practices before the Commission as an independent accountant, to comply with all 
+               requirements of the Commission and the Board, including, but not limited to, all 
+               requirements relating to registration, inspections, concurring partner reviews, and 
+               quality control standards. 
+        
+
+                                                  
+
+                                                21 
+---------------------Page 22---------------------
+
+                                                                                                    
+       4.      The Commission will consider an application by McAleer to resume appearing or 
+practicing before the Commission provided that his state CPA license is current and he has 
+resolved all other disciplinary issues with the applicable state boards of accountancy.  However, if 
+state licensure is dependent on reinstatement by the Commission, the Commission will consider an 
+application on its other merits.  The Commission’s review may include consideration of, in 
+addition to the matters referenced above, any other matters relating to McAleer’s character, 
+integrity, professional conduct, or qualifications to appear or practice before the Commission. 
+ 
+      5.       McAleer shall pay a civil money penalty in the amount of $25,000 to the 
+Commission.  Payments shall be made in $5,000 installments within 15, 90, 180, 270, and 360 
+days of the date of entry of this Order.  If any payment is not made by the date the payment is 
+required by this Order, the entire outstanding balance of civil penalties, plus any additional interest 
+accrued pursuant to 31 U.S.C. 3717, shall be due and payable immediately, without further 
+application.  Payments must be made as set forth in paragraph E below. 
+ 
+       6.      McAleer shall comply with the undertaking in Section III, paragraph 74, above. 
+        
+C.     Thomas R. Johnson 
+                
+       1.      Respondent Johnson shall cease and desist from committing or causing any 
+violations and any future violations of Exchange Act Section 13(a), 13(b)(2)(A), 14(a), and 
+Exchange Act Rules 12b-20, 13a-1, and 14a-9. 
+ 
+       2.      Johnson shall pay a civil money penalty in the amount of $25,000 to the 
+Commission.  Payment shall be made in $5,000 installments within 15, 90, 180, 270, and 360 days 
+of the date of entry of this Order.  If any payment is not made by the date the payment is required 
+by this Order, the entire outstanding balance of civil penalties, plus any additional interest accrued 
+pursuant to 31 U.S.C. 3717, shall be due and payable immediately, without further application.  
+Payments must be made as set forth in paragraph E below. 
+ 
+       3.      Johnson shall comply with the undertaking in Section III, paragraph 74, above. 
+ 
+D.     Charles W. Yancey 
+        
+       1.      Respondent Yancey be, and hereby is, suspended from association in a supervisory 
+capacity with any broker, dealer, investment adviser, municipal securities dealer, municipal 
+advisor, transfer agent, or nationally recognized statistical rating organization for a period of six (6) 
+months, effective on the date of entry of this Order. 
+ 
+       2.      Yancey, shall, within fifteen (15) days of the entry of this Order, pay a civil money 
+penalty in the amount of $25,000 to the Commission.  If timely payment is not made, additional 
+interest shall accrue pursuant to 31 U.S.C. § 3717.  Payment must be made as set forth in paragraph 
+E below. 
+        
+
+                                                  
+
+                                                 22 
+---------------------Page 23---------------------
+
+                                                                                                   
+       3.      Yancey shall comply with the undertakings in Section III, paragraph 74, above. 
+   
+E.     Respondents may make payments in the following ways: 
+ 
+       1.      By transmitting payment electronically to the Commission, which will provide 
+detailed ACH transfer/Fedwire instructions upon request; 
+        
+       2.      By making direct payment from a bank account via Pay.gov through the SEC 
+website at http://www.sec.gov/about/offices/ofm.htm; or  
+                
+       3.      By certified check, bank cashier’s check, or United States postal money order, 
+made payable to the Securities and Exchange Commission and hand-delivered or mailed to:  
+ 
+                      Enterprise Services Center 
+                      Accounts Receivable Branch 
+                      HQ Bldg., Room 181, AMZ-341 
+                      6500 South MacArthur Boulevard 
+                      Oklahoma City, OK 73169 
+                       
+       4.      Payments by check or money order must be accompanied by a cover letter 
+identifying each payor by name as a Respondent in these proceedings, and the file number of these 
+proceedings; a copy of the cover letter and check or money order must be sent to Gerald W. 
+Hodgkins, Division of Enforcement, Securities and Exchange Commission, 100 F St., NE, 
+Washington, DC 20549. 
+ 
+F.      The Commission will hold funds paid pursuant to this Section in an account at the United 
+States Treasury pending a decision whether the Commission, in its discretion, will seek to 
+distribute funds or, subject to Exchange Act Section 21F(g)(3), transfer them to the general fund of 
+the United States Treasury.  The Commission may distribute civil money penalties collected in this 
+proceeding if, in its discretion, the Commission orders the establishment of a Fair Fund pursuant to 
+15 U.S.C. § 7246, Section 308(a) of the Sarbanes-Oxley Act of 2002, as amended.  Regardless of 
+whether the Commission in its discretion orders the creation of a Fair Fund for the penalties 
+ordered in this proceeding, amounts ordered to be paid as civil money penalties pursuant to this 
+Order shall be treated as penalties paid to the government for all purposes, including all tax 
+purposes.  To preserve the deterrent effect of the civil penalty, Respondents agree that in any 
+Related Investor Action, they shall not argue that they are entitled to, nor shall they benefit by, 
+offset or reduction of any award of compensatory damages by the amount of any part of 
+Respondents’ payment of a civil penalty in this action (“Penalty Offset”).  If the court in any 
+Related Investor Action grants such a Penalty Offset, Respondents agree that they shall, within 30 
+days after entry of a final order granting the Penalty Offset, notify the Commission’s counsel in 
+this action and pay the amount of the Penalty Offset to the Securities and Exchange Commission.  
+Such a payment shall not be deemed an additional civil penalty and shall not be deemed to change 
+the amount of the civil penalty imposed in this proceeding.  For purposes of this paragraph, a 
+“Related Investor Action” means a private damages action brought against Respondents by or on 
+
+                                                  
+
+                                                23 
+---------------------Page 24---------------------
+
+                                                                                                     
+behalf of one or more investors based on substantially the same facts as alleged in the Order 
+instituted by the Commission in this proceeding. 
+ 
+ 
+                                               V. 
+        
+       It is further Ordered that, solely for purposes of exceptions to discharge set forth in Section 
+523 of the Bankruptcy Code, 11 U.S.C. §523, the findings in this Order are true and admitted by 
+Respondent, and further, any debt for disgorgement, prejudgment interest, civil penalty or other 
+amounts due by Respondents under this Order or any other judgment, order, consent order, decree 
+or settlement agreement entered in connection with this proceeding, is a debt for the violation by 
+Respondents of the federal securities laws or any regulation or order issued under such laws, as set 
+forth in Section 523(a)(19) of the Bankruptcy Code, 11 U.S.C. §523(a)(19). 
+
+ 
+       By the Commission. 
+ 
+ 
+                                                      Brent J. Fields 
+                                                      Secretary 
+
+                                                   
+
+                                                 24 

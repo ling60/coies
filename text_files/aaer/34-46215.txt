@@ -1,0 +1,142 @@
+Avon Products, Inc.: Admin. Proc. Rel. No. 34-46215 / July 17, 2002
+Home | Previous Page
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No.
+46215 / July 17, 2002
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No.
+1595 / July 17, 2002
+ADMINISTRATIVE PROCEEDING
+File No.
+3-10836
+In the Matter of
+AVON PRODUCTS, INC.,
+Respondents.
+::::::
+ORDER INSTITUTING PUBLIC PROCEEDINGS PURSUANT TO SECTION 21C OF THE SECURITIES EXCHANGE ACT OF 1934, MAKING FINDINGS, AND IMPOSING A CEASE- AND-DESIST ORDER
+I. The Securities and Exchange Commission ("Commission") deems it appropriate that public administrative proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities Exchange Act of 1934 ("Exchange Act") against Avon Products, Inc. ("Avon" or "Respondent").II.
+In anticipation of the institution of these proceedings, Avon has submitted an Offer of Settlement ("Offer"), which the Commission has determined to accept.
+Solely for the purpose of this proceeding, and any other proceedings brought by or on behalf of the Commission, or in which the Commission is a party, and prior to a hearing pursuant to the Commission's Rules of Practice, 17 C.F.R. § 201.100 et seq., the Respondent, without admitting or denying the findings contained in this Order Instituting Public Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order ("Order"), except that Respondent admits that the Commission has jurisdiction over it and over the subject matter of this proceeding, consents to the entry of this Order.
+The Commission makes the following findings:1III.RESPONDENT
+Avon Products, Inc. is a New York corporation headquartered in New York, New York.
+Avon is a leading direct seller of beauty and related products.
+Avon's stock is registered with the Commission pursuant to Section 12(b) of the Exchange Act, and is listed on the New York Stock Exchange.IV.FACTS A. SummaryIn the first quarter of 1999, Avon failed to properly value costs that it had capitalized in connection with an internal-use software development project.
+After nearly three years and $42 million, Avon stopped the project in April 1999 and wound it down.
+Instead of writing off all of the costs in conformity with generally accepted accounting principles ("GAAP"), Avon only wrote down $15 million, failing to analyze under the applicable accounting standards whether it was probable that the entire asset would be completed and placed in service.
+Avon also made misleading disclosures and omissions in its financial statements concerning the nature of the write-down.
+As a result, the financial statements Avon filed with the Commission for its first quarter of 1999 and its 1999 fiscal year were materially misstated and misleading because the entire asset should have been written off and the nature of the partial write-down was improperly described.
+B. Background of the FIRST Project From late 1996 through early 1999, Avon attempted to develop a new, Y2K-compliant order management software system for ten of its mid-sized markets.
+The project, known as the Fully Integrated Representative Service Toolkit ("FIRST"), was Avon's largest single information technology ("IT") project.
+Avon's legacy IT systems were decades-old and lacked the functionality, flexibility, and operational efficiencies of contemporary IT applications.
+FIRST was intended to modernize Avon's order management systems in certain markets and improve order processing, reduce the unavailability of products promised to customers, allow its markets to share real-time information and enhancements, and help reduce the high turnover rate of Avon sales representatives.
+Though targeted for ten mid-size markets, Avon envisioned that FIRST might eventually serve as the order management standard for all of its small and mid-size markets, and perhaps for all of its markets globally.Consultants ("Consultants") from Avon's external auditor ("Auditor") served as the software integrator for the project.
+The Consultants, for a fixed price of $30 million, were to design and develop a customized software system around a purchased software platform known as BPCS, and implement it by September 1998 in Canada and nine other countries, most of which were in Western Europe.
+FIRST was never completed and never placed in service.
+Avon halted FIRST in April 1999 primarily due to its high costs and a loss of confidence in the project's team, and wound it down in April and May 1999, but wrote down only one-third of its costs.
+In the third quarter of 2001, two and a half years later, Avon finally wrote off the remaining FIRST costs.
+C. GAAP Required a Complete Write-off of FIRST in the First Quarter of 1999 1. The Impairment of FIRST When Avon stopped the project in April 1999, the facts and circumstances indicated that it was not probable that FIRST would be completed and placed in service, and thus, under GAAP, the entire FIRST asset should have been written off at that time.
+Throughout the project, and in the several months prior to April 1999, FIRST had experienced substantial delays, disruptions, and cost overruns.
+These problems had plagued FIRST due to technical difficulties that could not be timely resolved, undisciplined project management, and changing requirements that led to hundreds of change orders, an iterative design process, and the inability to reach final agreement on the functional scope of the system's requirements.
+The Consultants missed all of their original and most of their revised milestones for completing FIRST, and exceeded the consulting fees budgeted for each phase of the project.
+In the latter part of 1998, after Avon's acting Chief Information Officer ("CIO") had fully reviewed and documented the problems on FIRST, the Consultants finally delivered software to Avon.
+The software the Consultants delivered was completely customized, because BPCS had had technical limitations that caused the Consultants to write additional custom software code to remove the functionality of BPCS from the FIRST system.
+But FIRST was nearly one year behind schedule, projected costs had escalated from $42 million (in late 1997) to $70 million, and Avon's IT management had begun considering shutting down the project, writing it off completely, and identifying alternative software to FIRST.
+As a result, Avon significantly restricted FIRST's scope in late 1998 to focus all efforts just on attempting to complete and implement FIRST in its pilot market, Canada.
+To this end, Avon ceased all activity related to implementing FIRST in Europe.
+By March 1999, however, the system was not finished, testing of the software was just beginning, additional change orders were being generated, and further delays and project management difficulties continued to occur.
+On April 1, 1999, after receiving revised cost projections from the Consultants, Avon stopped all remaining development work on the project.
+On that date, the Consultants informed Avon's senior management that they now projected a total of $100-$110 million to complete FIRST in six markets-nearly four times the original cost for ten markets, and another year just to implement FIRST in Canada-nearly two years behind the originally planned implementation date for Canada.
+Faced with these skyrocketing costs, Avon's senior management decided to stop the project primarily because of the increasing cost projections and a loss of confidence in the Consultants.
+During April and May 1999, the Consultants wound down FIRST by preserving and documenting the incomplete software and the work that had been performed on the project.
+In total, Avon capitalized $42 million of costs on the project, $39 million of which had been incurred by the first quarter of 1999, with the balance incurred by the second quarter of 1999.
+In addition to these facts and the troubled history of the project, other factors also indicated that it was not probable that FIRST would be completed and placed in service.
+At the time Avon halted and wound down the project, it had no defined plans or budget to re-start FIRST, and it had not performed any analysis of the conditions that would justify re-starting the project.
+In addition, during the first quarter of 1999, Avon had formalized its plan to centralize certain business functions among various European markets (the "European restructuring").
+This European restructuring raised significant doubt about whether FIRST, which was designed for use and implementation in individual countries, would even be able to work in an environment that consolidated the business functions of
+multiple countries.
+Finally, Avon's CEO at that time wanted to create a global IT system for all of Avon's markets, and Avon hired a new CIO in April 1999 to develop a global IT strategy for the company.
+The new CIO planned to develop a global IT system by purchasing new, state-of-the-art software known generally as Enterprise Resource Planning ("ERP") software.
+This software would have made FIRST unnecessary for Avon's needs.2 2. Avon Failed to Write Down FIRST in Conformity with GAAP As a result of all these circumstances and events, the entire FIRST asset should have been deemed to have been impaired under GAAP and should have been completely written off in the first quarter of 1999.
+However, Avon failed to conduct a proper impairment analysis of the FIRST asset as required by the accounting standards governing the impairment of internal-use software, and thus failed to write down all of FIRST in conformity with GAAP. (Statement of Position ("SOP") 98-1, Accounting for the Costs of Computer Software Developed or Obtained for Internal Use, effective for fiscal years beginning after December 15, 1998, which Avon had adopted earlier, effective January 1, 1998; Statement of Financial Accounting Standards ("SFAS") 121, Accounting for the Impairment of Long-Lived Assets and for Long-Lived Assets to be Disposed of, effective for fiscal years beginning after December 15, 1995.)
+Avon management knew or should have known the applicable accounting standards and the facts that warranted writing off all of the FIRST asset.
+Although the facts and circumstances indicated that the entire project was impaired, Avon wrote off only $15 million, or 35%, of the $42 million of total costs incurred on the project.
+Under GAAP, an entity is required to perform an impairment analysis of an asset when events or changes in circumstances indicate that the carrying amount of the asset may not be recoverable.
+In April 1999, events and circumstances had occurred with respect to the FIRST project, including Avon's decision to halt and wind down the project, that should have triggered an impairment analysis performed in accordance with the standards under GAAP.3
+As a result, to conform with GAAP, Avon was required to analyze whether an impairment of the FIRST asset should be recognized and, if so, how that impairment should be measured.
+Avon failed to properly analyze whether an impairment of FIRST should be recognized under GAAP.
+As prescribed by SOP 98-1, an impairment of internal-use software should be recognized when it is no longer probable that the software will be completed and placed in service.
+In April 1999, the facts surrounding FIRST satisfied the applicable criteria under GAAP indicating that FIRST was not probable of being completed and placed in service.4
+Indeed, Avon had stopped the project primarily because of increased cost projections and a loss of confidence in the Consultants, and Avon had no budget or defined plans to re-start FIRST.
+Despite these facts, Avon failed to analyze under the accounting standards whether it was probable that the FIRST software system would be completed and placed in service.
+In addition, Avon failed to properly measure the impairment of FIRST and completely write down the asset in conformity with GAAP.
+Under SOP 98-1, when internal-use software is no longer probable of being completed and placed in service, it should be treated as abandoned and written down to the lower of its carrying costs or fair value.
+The rebuttable presumption under SOP 98-1 is that uncompleted internal-use software has a fair value of zero because such software is not likely to have any fair value when measured in accordance with SFAS 121.
+The FIRST system was not completed and had been totally customized for Avon's unique requirements.
+Because of FIRST's unique customization, Avon concluded that the fair value of FIRST could not be determined from external benchmarks or other metrics.
+However, Avon failed to write off all the capitalized costs of the project.
+Instead, Avon retained two-thirds of the costs at their carrying value, and thus improperly treated the asset as only partially impaired.
+Following the decision to stop and wind down the project, Avon's financial staff and other personnel worked together with the Consultants and the Auditor to determine the accounting for FIRST.
+After initial attempts to quantify the write-down using different approaches, it was determined that costs associated with certain discontinued project activities would be written off and that the remaining costs would be retained as an asset.
+As part of this process, the Consultants identified and estimated which portion of their fees corresponded to these discontinued activities, and thus would be written off, and which portion of their fees would be retained as part of the asset.
+In so doing, the Consultants allocated $3 million of their consulting fees to the write-down, leaving $19 million of their fees as related to the development of the FIRST system which comprised the majority of the FIRST costs Avon kept on its books.
+The $15 million write-off primarily represented costs associated with attempting to use BPCS for FIRST and developing FIRST in its European markets, both of which were project activities that had been halted by the end of 1998.
+Avon's improper accounting caused it to retain $26 million of FIRST costs as an asset.5
+As a result, Avon understated by 38% the pretax loss reported in its Form 10-Q filed with the Commission for the quarter ended March 31, 1999, and overstated by 5% the pretax profits reported in its Form 10-K filed with the Commission for the year ended December 31, 1999.
+D. The Misleading Disclosures and Omissions Concerning the Write-Down
+In its first quarter 1999 and fiscal 1999 financial statements, Avon made misleading disclosures and omissions concerning the write-down of FIRST.
+Avon disclosed the write-down in a footnote to its financial statements.
+The footnote itemized "Special and Non-recurring Charges" related to a business process redesign ("BPR") program, which Avon had launched in 1997 to cut costs.
+Avon was planning to take additional charges for this program in the first quarter of 1999.
+The footnote stated, in pertinent part:
+The write-down of assets (primarily fixed and other assets) relates to the restructuring of operations in Western Europe, including the closure of a jewelry manufacturing facility in Ireland and the write-down of software, the use of which is no longer consistent with the strategic direction of the Company.
+By centralizing certain key functional areas and exiting unprofitable situations, the Company plans to increase operating efficiencies and ultimately, profit growth in the long run.
+This disclosure was misleading because it implied that Avon took the write-off as a result of cost-cutting BPR initiatives.
+However, neither FIRST nor the decision to halt the project was related to Avon's BPR initiatives, including Avon's European restructuring initiative.
+Instead, Avon stopped FIRST and took the write-down primarily because of its high cost projections and a loss of confidence in the Consultants.
+The disclosure was also misleading because it suggested that the software was in "use" and stated that the software was written off because it was not "consistent with the strategic direction of the Company."
+However, the FIRST software was never in use, and the only software written off-BPCS-was removed from FIRST because of its technical limitations, not because of a strategic change at Avon.
+In addition, Avon omitted from the disclosure other information concerning FIRST which was required by GAAP.
+Avon did not provide a description of the impaired assets, the facts and circumstances leading to the impairment, or how fair value was determined for the asset kept on its books, all of which was required by SFAS 121.
+V.LEGAL DISCUSSION Section 13(a) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder require issuers whose securities are registered with the Commission pursuant to Section 12 of the Exchange Act to file quarterly and annual reports with the Commission.
+These reports must be complete and accurate.
+See, e.g., United States v. Bilzerian, 926 F.2d 1285, 1298 (2d Cir. 1991) (citing SEC v. Savoy Industries, Inc., 587 F.2d 1149, 1165 (D.C. Cir. 1978), cert. denied, 440 U.S. 913 (1979)).
+Rule 12b-20 of the Exchange Act requires that an issuer's periodic reports include any additional information "as necessary to make the required statements, in the light of the circumstances under which they are made, not misleading."
+By virtue of the conduct described above, Avon violated Section 13(a) of the Exchange Act and Rules 13a-1, 13a-13 and 12b-20 thereunder by filing periodic reports with the Commission that contained materially inaccurate information.
+Specifically, Avon's first quarter 1999 Form 10-Q and its 1999 Form 10-K materially misstated Avon's reported income because Avon failed to properly write off all of the FIRST asset in conformity with GAAP.
+In addition, those filings contained misleading disclosures and omissions concerning the nature and cause of the write-down.
+Section 13(b)(2)(A) of the Exchange Act requires that issuers make and keep books, records, and accounts which, in reasonable detail, accurately and fairly reflect the transactions and dispositions of assets.
+By virtue of the conduct described above, Avon violated Section 13(b)(2)(A) of the Exchange Act because its books, records, and accounts did not accurately and fairly reflect the proper accounting for the FIRST asset in the affected reporting periods. VI.FINDINGS Based on the foregoing, the Commission finds that Respondent violated Sections 13(a) and 13(b)(2)(A) of the Exchange Act, and Rules 13a-1, 13a-13, and 12b-20 thereunder.
+In determining to accept the Offer, the Commission considered Respondent's agreement to perform the remedial act of restating its first quarter 1999 and subsequent financial statements to appropriately reflect the complete impairment of FIRST in the first quarter of 1999.VII.ORDER
+Accordingly, IT IS HEREBY ORDERED, pursuant to Section 21C of the Exchange Act, that Avon Products, Inc. cease and desist from committing or causing any violation and any future violation of Sections 13(a) and 13(b)(2)(A) of the Exchange Act, and Rules 13a-1, 13a-13, and 12b-20 thereunder.
+By the Commission.
+Jonathan G. Katz
+Secretary
+Footnotes
+1
+The findings herein are solely for the purpose of these proceedings, are being made pursuant to Respondent's Offer of Settlement, and are not binding on any other person or entity in this or any other proceeding.
+2
+The new CIO departed from Avon in January 2000.
+During his tenure as CIO, and continuing thereafter through mid 2000, Avon evaluated potential vendors for the possible acquisition of ERP software.
+However, Avon did not purchase such software.
+3
+Paragraph 34 of SOP 98-1 enumerates the following examples of triggering events indicating that the recoverability of internal-use software should be assessed, all of which were applicable to FIRST and existed in April 1999:
+a. Internal-use computer software is not expected to provide substantive service potential;
+b. A significant change occurs in the extent or manner in which the software is used or is expected to be used;
+c. A significant change is made or will be made to the software program;d. Costs of developing or modifying internal-use computer software significantly exceed the amount originally expected to develop or modify the software.
+4
+Paragraph 35 of SOP 98-1 lists six factors as examples of
+"indications that software may no longer be expected to be completed and placed in service," several of which were applicable to FIRST and existed in April 1999:
+a. A lack of expenditures budgeted or incurred for the project;
+b. Programming difficulties that cannot be resolved on a timely basis;
+c. Significant cost overruns;
+d. Information has been obtained indicating that the costs of internally developed software will significantly exceed the cost of comparable third-party software or software products, so that management intends to obtain the third-party software or software products instead of completing the internally developed software;
+e. Technologies are introduced in the marketplace, so that management intends to obtain the third-party software or software products instead of completing the internally developed software;
+f. Business segment or unit to which the software relates is unprofitable or has been or will be discontinued.
+5
+This amount represents the costs remaining from the $42 million of total project costs after subtracting the $15 million write-off amount and approximately $639,000 related to certain computer hardware and software interfaces, which Avon had placed in service and was using for other purposes.
+http://www.sec.gov/litigation/admin/34-46215.htm
+Home | Previous Page
+Modified: 07/17/2002

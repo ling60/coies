@@ -1,0 +1,165 @@
+FFP Marketing Company, Inc., Warner Williams, and Craig Scott, CPA: Admin. Proc. Rel. No. 34-51198
+/
+February 14, 2005
+Home | Previous Page
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+Securities Exchange Act of 1934
+Release No. 51198
+/
+February 14, 2005
+Accounting and Auditing Enforcement
+Release No.
+2185
+/
+February 14, 2005
+Admin. Proc. File No.
+3-11826
+In the Matter of
+FFP MARKETING COMPANY, INC., WARNER WILLIAMS, AND CRAIG SCOTT, CPA,
+Respondent.
+:::::::::::
+ORDER INSTITUTING PUBLIC ADMINISTRATIVE AND CEASE-AND-DESIST PROCEEDINGS PURSUANT TO SECTION 21C OF THE SECURITIES EXCHANGE ACT OF 1934 AND RULE 102(e) OF THE COMMISSION'S RULES OF PRACTICE, MAKING FINDINGS, AND IMPOSING REMEDIAL SANCTIONS AND A CEASE-AND-DESIST ORDER
+I.
+The Securities and Exchange Commission ("Commission") deems it appropriate that public cease-and-desist proceedings be, and hereby are, instituted against FFP Marketing Company, Inc. ("FFP") and Warner Williams ("Williams"), pursuant to Section 21C of the Securities Exchange Act of 1934 ("Exchange Act"), and that public administrative and cease-and-desist proceedings be, and hereby are, instituted against Craig Scott, CPA ("Scott"), pursuant to Section 21C of the Exchange Act and Rule 102(e)(1)(iii) of the Commission's Rules of Practice.1
+II.
+In anticipation of the institution of these proceedings, FFP, Williams and Scott (collectively "Respondents") have submitted an Offer of Settlement (the "Offer") which the Commission has determined to accept.
+Solely for the purpose of these proceedings and any other proceedings brought by or on behalf of the Commission, or to which the Commission is a party, and without admitting or denying the findings herein, except as to the Commission's jurisdiction over them and the subject matter of these proceedings, Respondents consent to the entry of this Order Instituting Public Administrative and Cease-And-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934 and Rule 102(e) of the Commission's Rules of Practice, Making Findings, and Imposing Remedial Sanctions and a Cease-And-Desist Order ("Order"), as set forth below.
+III.
+On the basis of this Order and Respondents' Offer, the Commission finds that:
+A.	RESPONDENTS
+1.	FFP Marketing Company, Inc., a Texas corporation headquartered in Fort Worth, Texas, owns a subsidiary (FFP Operating Partners, L.P.) that operates convenience stores with gas stations in eleven states throughout the south, central and southwestern United States.
+(The subsidiary operated the convenience stores from 1987 to 1998, while it was owned by FFP's predecessor.)
+FFP's common stock was registered with the Commission under Section 12(b) of the Exchange Act and traded on the American Stock Exchange ("AMEX") beginning in January of 1998. On November 11, 2002, the Commission issued an order granting FFP's application, pursuant to Section 12(d) of the Exchange Act and Rule 12d2-2(d) thereunder, to withdraw from listing on the AMEX and from registration under Section 12(b) of the Exchange Act.
+On November 13, 2002, FFP filed a Form 15 with the Commission to terminate its registration under Section 12(g) of the Exchange Act and to suspend its duty to file reports under Section 15(d) of the Exchange Act on the basis that it had fewer than 300 record holders of its common shares.
+FFP Operating Partners, L.P. filed for bankruptcy protection on October 23, 2003.
+2.	Craig Scott, age 57, is a resident of McKinney, Texas and was, until October 2003, the chief financial officer and general counsel of FFP.
+In this capacity, Scott's responsibilities included the preparation of all Commission filings.
+Scott is licensed to practice law in Texas.
+He is also licensed as a CPA in Texas.
+3.	Warner Williams, age 48, is a resident of North Richland Hills, Texas and was employed as the controller of FFP and its predecessors.
+As controller, Williams supervised the entire accounting department and reported directly to Scott.
+In 2002, FFP reassigned Williams to the position of President of a different wholly owned FFP subsidiary (Direct Fuels, L.P.), which was sold in 2003.
+Williams is not a CPA.
+B.	FACTS
+1.	Errors in the Accounts Payable Department
+In June 2002, FFP announced that it would restate its financial results for 1999, 2000 and the first three quarters of 2001.
+The overstatement of net income that led to the restatement resulted from serious and persistent bookkeeping errors, and a lack of adequate supervision or written policies and procedures in FFP's accounting department.
+Williams, as controller, was responsible for supervising the accounting department.
+The bookkeeping errors occurred in the accounts payable section of FFP's accounting department.
+When processing FFP's fuel purchases, FFP's accounts payable clerks often needed to "suspense" a transaction while researching information that was necessary for correct recording of the transaction.
+For the transactions at issue in this matter, the proper suspense procedure included debiting a suspense account and crediting FFP's fuel payable account.
+After researching the necessary information, the accounts payable clerks would cancel the entries to the suspense account and fuel payable account, and record the final entries for the transaction.
+In mid-1999, however, the company's accounts payable clerks began deviating from the proper suspense procedure on a regular basis, by recording the debit side of the suspense entry to the company's credit card receivables account, rather than recording it to the suspense account.
+The purpose of the credit card receivables account was unrelated to suspensed transactions:
+it was a clearing account, for offsetting amounts that fuel vendors owed to FFP against amounts FFP owed to those fuel vendors.
+(FFP purchased fuel from the vendors for resale at its gas stations, and vendors that issued credit cards, such as Texaco or Citgo, for example, owed money to FFP for purchases that customers at FFP gas stations made with the vendors' credit cards.)
+Neither Scott, nor Williams, nor the accounts payable supervisor approved debiting the credit card receivables account in lieu of a suspense account, and they were not aware that the accounts payable clerks were doing it.
+FFP did not have written policies or procedures for its accounting department.
+When FFP's accounts payable clerks debited credit card receivables in lieu of the suspense account, they often failed to research and correctly record the transactions; and the debits to the credit card receivables account gradually accumulated from mid-1999 until late 2001, at which point the credit card receivables balance was overstated by more than $4 million.
+Initially, each of the improper debits to the credit card receivables account was offset by a corresponding credit to fuel payable, so that the balances of the two accounts increased simultaneously, inflating both assets and liabilities, and not affecting the company's net assets.
+Each quarter, however, the accounts payable supervisor debited fuel payable to write off aged amounts in that account.
+Because the accounts payable supervisor was unaware of the clerks' aberrant suspense practices, she did not realize that some of the aged payable amounts corresponded to amounts in credit card receivables.
+Consequently, when the accounts payable supervisor debited fuel payable to write off the aged amounts that resulted from the improper suspense procedure, she made an equal credit to cost of fuel sold, reducing the balance of that account.
+Those entries resulted in an understatement of cost of fuel sold and a resulting overstatement of net income for 1999, 2000 and the first three quarters of 2001.
+2.	Discovery and Investigation of Overstated Accounts Receivable
+In December 2001, FFP's outside auditors began interim fieldwork for their audit of FFP's December 31, 2001 financial statements and noticed that credit card receivables had increased in November, even though sales and total receivables had declined.
+The auditors tested the reasonableness of FFP's credit card receivables balance, concluded that it was potentially overstated, and recommended that the company perform a detailed analysis of the account prior to February 2002, when the outside auditors would return to commence audit fieldwork.
+From mid-January 2002 until the end of February 2002, accounting department personnel, under Williams' direction, reviewed the credit card receivables account to determine whether the credit card receivables balance was overstated because FFP had not received proper offsets from wholesale fuel vendors.
+At the conclusion of this analysis, in late February 2002, Williams determined that FFP had received the proper offsets, and therefore the problem lay elsewhere.
+Williams also concluded, at the end of February 2002, that the credit card receivables account appeared to be overstated by nearly $2 million.
+In order to be able to close FFP's 2001 books, Williams provisionally wrote down the balance of credit card receivables by $1.964 million at the end of February, by crediting credit card receivables and debiting motor fuel sales.
+Williams notified Scott about the entry, and told Scott that he would continue his review.
+At that time, Williams did not know what caused the overstatement, and did not know whether any adjustments to correct the overstatement would affect periods earlier than the fourth quarter of 2001.
+At the beginning of March 2002, Williams initiated a review of the accounts payable department's entries in the credit card receivables account.
+That review lasted from early March until mid-April, and led to the realization, in mid-April, that improper use of the credit card receivables account as a suspense account, coupled with quarterly write-offs of cost of fuel sold, had resulted not only in an overstatement of the credit card receivables balance, but also in an overstatement of net income that affected 1999, 2000, and the first three quarters of 2001.
+3.	False and Misleading Forms 12b-25
+As Chief Financial Officer, Scott was ultimately responsible for all of FFP's filings with the Commission.
+In late March 2002, Scott realized that, because the ongoing study of the credit card receivables balance had not been completed, the company would not have audited financial statements in time to meet its Form 10-K filing deadline of April 1, 2002.
+Therefore, Scott prepared, signed and filed with the Commission a Form 12b-25 on April 1, 2002 ("the April Form 12b-25").
+The instructions in Form 12b-25 required Scott to state "in reasonable detail the reasons why" the company could not file its Form 10-K "within the prescribed time period."
+In response, Scott stated in the April Form 12b-25:
+"Certain financial and other data required to be disclosed in the Registrant's Form 10-K could not be obtained by Registrant prior to the required filing date for the report."
+In the April Form 12b-25, Scott did not mention the ongoing accounting study, or the fact that the outside auditors were unable to supply an unqualified audit report because the company's credit card receivables balance appeared to be overstated by over $1.9 million.
+Additionally, Scott did not attach to the April Form 12b-25 a statement from the outside auditors as to the reason for their inability to supply an unqualified audit report by the company's filing deadline (which Rule 12b-25(c) requires).
+The instructions in Form 12b-25 also asked whether the company "anticipated that any significant change in results of operations from the corresponding period for the last fiscal year will be reflected by the earnings statements to be included in the subject report or portion thereof," and Scott responded by marking the space for "yes."
+The form further requested "an explanation of the anticipated change, both narratively and quantitatively."
+In response, Scott stated:
+The audit of the Company's book[s] and records for 2001 has not yet been completed at this date.
+At the present time, the company estimates that it incurred a net loss of approximately $4,000,000 in 2001, compared to net income of $723,000 in 2000.
+Principal reasons for the anticipated change in 2001, compared to 2000, include but are not limited to the following:
+a decrease in gross margin on retail sales of motor fuels (primarily from increased competition and an inability of the Company to pass on increased fuel costs at its retail locations), a decrease in gross margin on sales of merchandise and a decrease in direct store expense at Company-operated stores (primarily resulting from the sale/conversion of Company-operated convenience stores to gas-only stores), an increase in general and administrative costs (primarily from additional payroll costs and legal expenses), and an increase in depreciation and amortization expense (primarily from additional amortization of loan costs).
+The foregoing estimates are subject to audit adjustment.
+Although the Company has recently executed two management contracts to manage approximately 120 convenience stores for third parties, the benefits of such management contracts will not begin to be realized in the financial results of the Company until 2002.
+The April Form 12b-25 did not mention that approximately $1.9 million of the expected $4 million loss was due to the writedown of credit card receivables that Williams recorded at the end of February 2002.
+Scott was aware of the $1.9 million writedown when he filed the April Form 12b-25, and he knew that FFP's writedown of credit card receivables accounted for $1.9 million of the anticipated $4 million loss.
+AMEX suspended trading in FFP's stock on April 18, 2002, after FFP failed to file its 2001 Form 10-K by the extended deadline of April 15, 2002.
+(Trading in FFP's stock did not resume on AMEX until after FFP filed its 2001 Form 10-K in June 2002.)
+Scott filed another Form 12b-25 on May 15, 2002 ("the May Form 12b-25"), when the company missed the filing deadline for its Form 10-Q for the quarter ended March 31, 2002.
+At that time, Scott was aware that the company would restate its financial statements for the first three quarters of 2001 and for the two prior years (although he did not know the amount of the restatement).
+Scott failed, however, to disclose those facts in the May Form 12b-25.
+4.	Restatement of FFP's Financial Statements
+The outside auditors did not complete their audit of FFP's financial statements and agree with the final amount of the restatement until June 2002.
+FFP filed its Form 10-K for 2001 and its Form 10-Q for the first quarter of 2002 on June 24, 2002, announcing a restatement of net income for 1999, 2000, and the first three quarters of 2001.
+FFP shares began trading on the AMEX again after those filings.
+In the restatement, the company increased its reported net loss for 1999 from approximately $800,000 to over $1.25 million; for 2000, the company had reported net income of over $700,000, but restated to show a net loss of nearly $400,000; and for the first, second and third quarters of 2001, the company's total reported net income was $760,000, but the company restated to show a net loss of approximately $150,000.
+The outside auditors audited
+and concurred with these figures.
+5.	Violations
+Section 10(b) of the Exchange Act and Rule 10b-5 thereunder prohibit any person, in connection with the purchase or sale of a security, from making an untrue statement of a material fact or omitting to state a material fact that is necessary to make statements, in light of the circumstances under which they were made, not misleading.
+On April 1, 2002, Scott violated Section 10(b) and Rule 10b-5, by filing with the Commission the April Form 12b-25, which omitted to state material facts that were necessary to make statements in the April Form 12b-25 not misleading.
+Specifically, statements in the April Form 12b-25 concerning the reason for the company's delayed filing were misleading:
+although Scott disclosed that the audit of the company's 2001 financial statements was not complete, he failed to disclose the ongoing inquiry into the company's overstated credit card receivables balance.
+Statements in the April Form 12b-25 about the reasons for the company's anticipated change in operating results were misleading as well, because Scott failed to disclose that $1.9 million of the anticipated $4 million net loss was attributable to a provisional writedown of credit card receivables that Williams recorded because the company's accounts receivable balance appeared to be overstated.
+Section 13(a) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder require issuers with securities registered under Section 12 of the Exchange Act to file annual and quarterly reports with the Commission. The obligation to file such reports embodies the requirement that they be true and correct.
+See SEC v. Savoy Indus., Inc., 587 F.2d 1149, 1165 (D.C. Cir. 1978).
+From 1999 through the third quarter of 2001, FFP filed, and Williams was a cause of FFP's filing, quarterly and annual reports with the Commission that overstated FFP's operating income and earnings.
+Therefore, FFP violated, and Williams was a cause of FFP's violations of, Section 13(a) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder.
+Rule 12b-25 under the Exchange Act requires issuers who cannot timely file required periodic reports to file a Form 12b-25, notifying the Commission of their inability to file on time and stating "in reasonable detail" their reason for being unable to file on time.
+If the reason "relates to the inability of any person, other than the registrant, to furnish any required opinion, report or certification," Rule 12b-25(c) requires the registrant to attach to the Form 12b-25 a statement by the third person, "stating the specific reasons why such person is unable to furnish the required opinion, report or certification."
+If the registrant anticipates a significant change in operating results from the previous period, it must provide "an explanation of the anticipated change, both narratively and quantitatively."
+In addition to information required to be included in a statement or report to the Commission, Rule 12b-20 under the Exchange Act requires the inclusion of such further material information as may be necessary to make the required statements not misleading.
+FFP violated Rules 12b-20 and 12b-25 under the Exchange Act, by omitting to disclose, in its April and May Forms 12b-25, the ongoing internal accounting investigation, and the fact that approximately half of its anticipated $4 million loss for 2001 was due to a writedown of accounts receivable.
+Scott was a cause of, and aided and abetted, FFP's violations by preparing, signing and filing with the Commission the April and May Forms 12b-25.
+Section 13(b)(2)(A) of the Exchange Act requires issuers with securities registered under Section 12 of the Exchange Act to make and keep books, records, and accounts that accurately and fairly reflect their transactions and dispositions of their assets.
+From 1999 through the third quarter of 2001, FFP's books and records were inaccurate.
+FFP therefore violated Section 13(b)(2)(A) of the Exchange Act, and Williams, who was responsible for oversight of the FFP's accounting department, was a cause of FFP's violations of Section 13(b)(2)(A) of the Exchange Act.
+e.	Section 13(b)(2)(B) of the Exchange Act requires public companies to devise and maintain a system of internal accounting controls sufficient to provide reasonable assurances that the company's transactions are recorded as necessary to permit preparation of financial statements conforming with GAAP, and to maintain accountability for assets.
+FFP failed to devise and maintain sufficient controls to prevent or detect the accounting irregularities that led to FFP's financial restatements.
+FFP therefore violated Section 13(b)(2)(B) of the Exchange Act, and Williams, who was responsible for implementing internal controls over FFP's accounting department, was a cause of the company's violations of Section 13(b)(2)(B).
+6.	Findings
+Based on the foregoing, the Commission finds that:
+FFP violated Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 12b-20, 12b-25, 13a-1 and 13a-13 promulgated thereunder.
+Williams was a cause of FFP's violations of Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act, and Rules 13a-1 and 13a-13 promulgated thereunder.
+Scott willfully violated Section 10(b) of the Exchange Act and Rule 10b-5 promulgated thereunder, and he willfully aided and abetted and was a cause of FFP's violations of Rules 12b-20 and 12b-25 under the Exchange Act.
+IV.
+In view of the foregoing, the Commission deems it appropriate and in the public interest to impose the sanctions agreed to in Respondents' Offer.
+Accordingly, IT IS HEREBY ORDERED, that:
+A.	FFP shall cease and desist from committing or causing any violations and any future violations of Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 12b-20, 12b-25, 13a-1 and 13a-13 thereunder.
+B.	Williams shall cease and desist from causing any violations and any future violations of Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder.
+C.	Scott shall cease and desist from committing or causing any violations and any future violations of Section 10(b) of the Exchange Act and Rule 10b-5 thereunder, and shall cease and desist from causing any violations and any future violations of Rules 12b-20 and 12b-25 under the Exchange Act.
+D.	Scott is denied the privilege of appearing or practicing before the Commission as an attorney or as an accountant.
+E.	After 3 years from the date of this order, Scott may request that the Commission consider his reinstatement as an accountant by submitting an application (attention: Office of the Chief Accountant) to resume appearing or practicing before the Commission as:
+1.	a preparer or reviewer, or a person responsible for the preparation or review, of any public company's financial statements that are filed with the Commission.
+Such an application must satisfy the Commission that Scott's work in his practice before the Commission will be reviewed either by the independent audit committee of the public company for which he works or in some other acceptable manner, as long as he practices before the Commission in this capacity; and/or
+2.
+an independent accountant.
+Such an application must satisfy the Commission that:
+Scott, or the public accounting firm with which he is associated, is registered with the Public Company Accounting Oversight Board ("Board") in accordance with the Sarbanes-Oxley Act of 2002, and such registration continues to be effective;
+Scott, or the registered public accounting firm with which he is associated, has been inspected by the Board and that inspection did not identify any criticisms of or potential defects in Scott's or the firm's quality control system that would indicate that Scott will not receive appropriate supervision or, if the Board has not conducted an inspection, has received an unqualified report relating to his, or the firm's, most recent peer review conducted in accordance with the guidelines adopted by the former SEC Practice Section of the American Institute of Certified Public Accountants Division for CPA Firms or an organization providing equivalent oversight and quality control functions;
+Scott has resolved any disciplinary issues with the Board, and has complied with all terms and conditions of any sanctions imposed by the Board (other than reinstatement by the Commission); and
+Scott acknowledges his responsibility, as long as he appears or practices before the Commission as an independent accountant, to comply with all requirements of the Commission and the Board, including, but not limited to, all requirements relating to registration, inspections, concurring partner reviews and quality control standards.
+F.
+The Commission will consider an application by Scott to resume appearing or practicing before the Commission as an accountant provided that his state CPA license is current and he has resolved any other disciplinary issues with the applicable state boards of accountancy.
+However, if state licensure is dependant on reinstatement by the Commission, the Commission will consider an application on its other merits.
+The Commission's review may include consideration of, in addition to the matters referenced above, any other matters relating to Scott's character, integrity, professional conduct, or qualifications to appear or practice before the Commission.
+G.	After 3 years, before appearing and resuming practice before the Commission as an attorney, Scott will submit an affidavit to the Commission's Office of the General Counsel truthfully stating, under penalty of perjury, that he has complied with the Commission's Order, that he is not subject to any suspension or disbarment as an attorney by a court of the United States or of any state, territory, district, commonwealth, or possession, and that he has not been convicted of a felony or misdemeanor involving moral turpitude as set forth in Rule 102(e)(2) of the Commission's Rules of Practice.
+By the Commission.
+Jonathan G. Katz
+Secretary
+Endnotes
+1 Rule 102(e)(1)(iii) provides, in pertinent part: "The Commission may deny, temporarily or permanently, the privilege of appearing or practicing before it to any person who is found…to have willfully violated, or willfully aided and abetted the violation of any provision of the Federal securities laws or the rules or regulations thereunder."
+http://www.sec.gov/litigation/admin/34-51198.htm
+Home | Previous Page
+Modified: 02/14/2005

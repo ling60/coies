@@ -1,0 +1,662 @@
+---------------------Page 1---------------------
+
+ 1  DONALD  W. SEARLES,  Cal.    Bar No.  135705 
+    E-mail:  searlesd(ji),sec.gov                                     0r­'0
+ 2  ROBERTO    A. TERCERO,  Cal.  Bar No.  143760                     r'J"':"f'rl
+                                                                      ;r.:'7_1
+    E-mail: terceror(ji),s_e~.gov 
+ 3  NICHOLAS    S. CHUNG,  Cal. Bar No.  192784 
+    E-mail:  chungni@5ec.gov 
+ 4
+    Attorneys  for Plaintiff 
+ 5  Securities  and Exchange  Commission                           (.."": \) _..~' ::::
+    Rosalind  R. Tyson, Regional  Director                           ;,. C) ... 
+ 6  John M. McCoy In., AssociatJ{ Regional  Director                 r-C C0
+    5670 Wilshire BOUlevarck    Floor                               .::n;j CD
+                            11                                        -1
+ 7  Los Angeles,  California ~0036 
+    Telephone:  (323) 965-3998 
+ 8  FacsImile:   (323) 965-3908 
+ 9
+10                     UNITED STATES  DISTRICT  COURT 
+11                   CENTRAL DISTRICT  OF CALIFORNIA 
+12
+
+13  SECURITIES  AND EXCHANGE                  c'G  tl1-      a  13   0  8~     l\Y)
+    COMMISSION, 
+14                                            COMPLiUNY         -..­
+                       Plaintiff, 
+15
+          vs. 
+16
+    S. BLAIR ABERNATHY, 
+17
+                       Defendant. 
+18
+
+19
+20
+21
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+28
+---------------------Page 2---------------------
+
+ 1         Plaintiff Securities and Exchange Commission (the "Commission") alleges 
+ 2   as follows: 
+ 3                           JURISDICTION       AND VENUE 
+ 4         1.    This Court has jurisdiction over this action pursuant to Sections 20(b), 
+ 5  20(d)(l),  and 22(a) of the Securities Act of 1933 ("Securities Act"), 15 U.S.C. §§ 
+ 6  77t(b), 77t(d)(l),  and 77v(a).  Defendant has directly or indirectly made use of the 
+ 7  means or instruments  of transportation or communication in interstate commerce, 
+ 8  or of the mails, to engage in the transactions, practices, and courses of business 
+ 9  alleged in this Complaint. 
+10         2.    Venue is proper in this district pursuant to Section 22(a) ofthe 
+11   Securities Act, 15 U.S.C. § 77v(a), because Defendant resides and transacts 
+12  business within this district and certain of the transactions, acts, practices and 
+13   courses of conduct constituting violations of the federal securities laws alleged in 
+14  this Complaint occurred within this district. 
+15                                     SUMMARY 
+16         3.    This action involves securities law violations committed by S. Blair 
+17   Abernathy ("Abernathy"), the former Executive Vice President and Chief 
+18   Financial Officer of IndyMac Bancorp, Inc. ("IndyMac"). 
+19         4.    IndyMac through its main subsidiary - IndyMac Bank, F.S.B. 
+20  ("IndyMac Bank" or "the Bank") - primarily made, purchased, and sold residential 
+21   mortgage loans.  In July 2008, IndyMac Bank was placed under Federal Deposit 
+22  Insurance Corporation ("FDIC") receivership and IndyMac filed for bankruptcy 
+23  protection. 
+24  A.	   False  and  Misleading  Statements  in the Offer and  Sale of IndyMac's 
+25         Residential  Mortgage-Backed  Securities   in 2007 
+26         5.    In 2007, IndyMac Bank conducted six offerings totaling $2.5 billion 
+27   of residential mortgage-backed securities ("RMBS").  RMBS are securitizations   of 
+28  pools of loans, and RMBS investors receive payments out    of the principal and 
+
+                                              1
+ 
+---------------------Page 3---------------------
+
+  1  interest that residential loan borrowers pay on the underlying loans.  Each of those 
+  2  six offerings, however, misrepresented the quality of the loans underlying each 
+  3  offering.  Prior to and during the RMBS offering period, Abernathy received 
+  4  internal monthly reports showing that 12%   to 18%  ofa random sample   of IndyMac 
+  5  Bank's  loans contained misrepresentations regarding important information about 
+  6  the loans'  characteristics (such as a loan's  status as an owner-occupied loan or its 
+  7  loan-to-value ("LTV") ratio) and/or the borrowers'  creditworthiness (such as a 
+  8  borrower's  identity, income, or debt load).  Despite receiving those monthly 
+  9  reports showing that a significant percentage of loans contained 
+ 10   misrepresentations, Abernathy negligently failed to take reasonable or responsible 
+ 11   steps to ensure that the RMBS offering documents, which had been prepared by 
+ 12   inside and outside counsel, included accurate disclosures concerning the loans in 
+ 13   the RMBS or notified investors that the presented information was materially 
+ 14   misleading in light of IndyMac Bank's  monthly reports.  Abernathy authorized 
+ 15   and/or signed Commission filings relating to these offerings.  These six offerings 
+ 16   have experienced substantial loan delinquencies and ratings downgrades. 
+ 17   B.	   False and Misleading Statements  Regarding IndyMac's Deteriorating 
+ 18         Financial Condition in 2008 Stock Sales 
+ 19         6.    In 2008, Abernathy was negligent in not knowing that IndyMac's 
+ 20  offering documents for stock sales through the Direct Stock Purchase Program 
+ 21   ("DSPP") contained false and misleading disclosures concerning IndyMac's 
+ 22  financial condition.  Although Abernathy regularly received information regarding 
+ 23   IndyMac's  deteriorating financial condition, Abernathy negligently failed to take 
+ 24  steps to disclose this infonnation to investors.  Instead, he authorized IndyMac's 
+.	 25 common stock offering materials that made false and misleading statements 
+ 26  regarding IndyMac's  liquidity position and IndyMac's  need  to raise capital to keep 
+ 27  IndyMac Bank "well capitalized."  IndyMac disclosed its liquidity problems in its 
+ 28  III 
+
+                                               2 
+---------------------Page 4---------------------
+
+ 1   Ql 2008 Fonn  10-Q, filed on May 12,2008.  In July 2008, IndyMac Bank was put 
+ 2  into FDIC receivership and IndyMac declared bankruptcy. 
+ 3         7.    Based on his conduct, Defendant violated Sections  17(a)(2) and 
+ 4  17(a)(3) of the Securities Act of 1933,15  U.S.C. §§ 77q(a)(2) and 77q(a)(3).  The 
+ 5  Commission seeks an order enjoining Defendant from future violations    of these 
+ 6  provisions, ordering Defendant to pay a civil monetary penalty, requiring 
+ 7  Defendant to disgorge his ill-gotten gains with prejudgment interest, and providing 
+ 8  other appropriate relief. 
+ 9                                 THE DEFENDANT 
+10         8.    S. Blair Abernathy  is a resident of La Verne, California.  He began 
+11   working for IndyMac Bank in 1994 and was its Executive Vice President in charge 
+12   of four groups:  Secondary Marketing  (1994-2004); Investment Portfolio Group 
+13   (2004-March 2007); Specialty Lending (March 2007 to November 2007); and 
+14   Capital Markets (November 2007-ApriI25,  2008).  Abernathy became IndyMac's 
+15   Chief Financial Officer on April 25, 2008 and held that position until July 2008. 
+16   Abernathy was licensed as a CPA in California until his license was cancelled in 
+17   2003, due to non-renewal by Abernathy.  Abernathy was also Executive Vice 
+18   President and a member  of the Board of Directors of IndyMac MBS, Inc., the 
+19   depositor for the relevant RMBS  offerings. 
+20                                RELATED  PARTIES 
+21         9.    IndyMac was a Delaware  corporation with principal executive offices 
+22  in Pasadena, California.  Its common stock was registered with the Commission 
+23   pursuant to Section  12(b) of the Exchange Act and traded on the NYSE until 
+24  August 18, 2008, when it was delisted and withdrawn from registration pursuant to 
+25   Rule 12d2-2(b) of the Exchange Act.  Its common stock is currently quoted on the 
+26  Pink Sheets operated  by OTC Markets Group, Inc.  IndyMac filed for Chapter 7 
+27  bankruptcy  on July 31,2008. 
+
+28   III 
+
+                                             3 
+---------------------Page 5---------------------
+
+ 1         10.   IndyMac Bank was a federally-chartered thrift institution regulated by 
+ 2  the Office ofThrift Supervision ("OTS") and headquartered in Pasadena, 
+ 3  California.  The OTS closed IndyMac Bank on July   11, 2008, and it was placed 
+ 4  under FDIC receivership. 
+ 5         11.   IndyMac MBS, Inc. was a Delaware corporation that was a limited 
+ 6  purpose finance subsidiary of Bank.  IndyMac MBS was the depositor for the 
+ 7  relevant RMBS offerings, which totaled approximately $2.5 billion. 
+ 8                                       FACTS 
+ 9  A.     Background 
+10         12.   At the end of 2007, IndyMac was a publicly traded company with two 
+11   primary operating segments:  mortgage banking, which originated, purchased, 
+12   traded and serviced mortgage loans; and thrift, which invested in residential loans 
+13   andRMBS. 
+14         13.   IndyMac Bank acquired most   of its loans through relationships with 
+15   mortgage brokers or other financial institutions and sold most of them to third 
+16  parties, primarily through RMBS offerings and whole loan sales.  IndyMac Bank 
+17   conducted RMBS offerings under IndyMac MBS' s shelf registration statements 
+18  and through Government Sponsored Enterprises ("GSE") such    as Fannie Mae and 
+19   Freddie Mac. 
+20  B.     False and Misleading  Statements  in IndyMac   Bank's RMBS Offerings 
+21         1.    IndyMac   Bank's  Securitization of Conduit Loans 
+22         14.   IndyMac Bank's  Conduit Division accounted for 20%   of IndyMac's 
+23  $78 billion loan production in 2007 by purchasing loans in bulk from third-party 
+24  originators.  Abernathy was involved with the Conduit Division until August 2007 
+25  when it was shut down.  He was also an Executive Vice President and a member   of 
+26  the board of directors of IndyMac MBS, the IndyMac Bank subsidiary that 
+27  conducted the Bank's·RMBS offerings. 
+28  III 
+
+                                            4 
+---------------------Page 6---------------------
+
+ 1         15.    From May to December 2007, IndyMac Bank sold about $13.9 billion 
+ 2   in RMBS through offering documents,  that is, shelf registration statements on 
+ 3'  Form S-3, a prospectus, and a prospectus  supplement.  From May through August 
+ 4   2007, IndyMac Bank conducted six RMBS offerings totaling $2.5 billion 
+ 5  securitizing Conduit Division loans.  As alleged below, the offering documents for 
+ 6  these six offerings contained materially false and misleading information regarding 
+ 7  the quality of the loans underlying the RMBS. 
+ 8         2.     IndyMac's   False and  Misleading  RMBS Disclosures 
+ 9                a)    Loan  Quality:   IndyMac's   PPQC   Reports 
+10         16.    From 1994 to August 2007, IndyMac Bank's  Post Production Quality 
+11   Control ("PPQC") unit performed monthly quality control audits    of the Bank's 
+12   loan production.  Each month, PPQC selected a statistically valid random sample 
+13   of the Bank's  total loan production and assessed each loan to determine whether 
+14   the borrower or a third party, such as the mortgage broker or appraiser, 
+15   misrepresented  information in obtaining the loan.  The misrepresentation 
+16   categories identified by PPQC were: 
+17                a.    Occupancy-the     loan documents stated that the home was the 
+18                      borrower's  primary residence when it actually was a second 
+19                      home or investment property.  Borrowers are more likely to 
+20                      repay a loan ifthey live in the home. 
+21                b.    Appraisal-the   appraisal stated an inflated home value. An 
+22                      inflated appraisal lowers the loan-to-value ("LTV") ratio of a 
+23                      loan, so it appears to carry less risk. 
+24                c.    Income-the    borrower's  income was overstated to show more 
+
+25                      cash flow to make loan payments   (e.g., a flooring installer with 
+26                      a stated income of$13,500  per month).  The more a borrower's 
+27                      income is overstated,  the greater the risk ofdefault. 
+28 
+
+                                              5 
+---------------------Page 7---------------------
+
+ 1               d.	    Employment-the     borrower's  work status was inaccurate (e.g., 
+ 2                      the borrower claimed that he worked for trucking company but 
+ 3                      had quit nine months earlier). If a borrower's  employment (and 
+ 4                      hence, income) is misstated, the greater the risk of default. 
+ 5                e.	   Assets-the  borrower's  assets were overstated to show greater 
+ 6                      resources to make loan payments   (e.g., borrower claimed 
+ 7                      $29,000 in saving account when there was $0).  The more a 
+ 8                      borrower's  assets are overstated, the greater the risk of default. 
+ 9                f.	   Credit (undisclosed liabilities)-the loan application did not 
+10                      disclose the borrower's  existing or in-process debts, which 
+11                      reduced the borrower's  debt load (e.g., the borrower obtained 
+12                      loans on two properties from different banks).  The greater a 
+13                      borrower's  debts, the greater the risk of default. 
+14                g.	   Transaction ("straw  buyer '')-a borrower with good credit 
+15                      obtained a loan for a relative with poor credit.  Again, to the 
+16                      extent the true identity, employment and credit history of a 
+17                      borrower is concealed, the greater the risk of default. 
+18         17.   Before making a misrepresentation finding, PPQC developed actual 
+19   proof that information on the loan application was false.  For example, PPQC did 
+20  not make an employment misrepresentation finding unless the borrower admitted 
+21   that the information was false or the employer confirmed that the borrower did not 
+22  work there.  An  appraisal misrepresentation was the only category that might 
+23   involve judgment rather than definitive proof.  PPQC, however, gave each 
+24  mortgage production unit, including Conduit, the opportunity to dispute any 
+25   finding before it became final.  Conduit disagreed with PPQC's  findings, including 
+26  appraisals, approximately 2%   of the time. 
+27         18.    IfPPQC  identified a loan misrepresentation, it recalculated the loan's 
+28   estimated lifetime loan loss using the corrected information.  PPQC then 
+
+                                              6 
+---------------------Page 8---------------------
+
+ 1  determined the increase in the loss estimate between the loan as underwritten and 
+ 2   as corrected.  PPQC rated the estimated loan loss as "severe" if it had a 
+ 3  misrepresentation finding and the loss estimate increased by more than  50 basis 
+ 4  points.  PPQC also rated a loan "severe"  if it had an underwriting error and an 
+ 5  increase in the loss estimate greater than both 100% and 100 basis points.  PPQC 
+ 6  rated loans as "moderate"  if the loss estimate increased by up to 50 basis points 
+ 7  and was based on a loan misrepresentation, or increased by both 50%   to 100% and 
+ 8   50 to 100 basis points and was based on an underwriting error.  In addition to the 
+ 9  severe and moderate rates, PPQC reported the "defect" rate, which were the 
+10   "severe" and "moderate" rates combined. 
+11         19.   PPQC prepared monthly audit reports and distributed them 
+12   approximately three to four months after the audited month.  The reports: 
+13                a.	   First, had an "Executive Summary" that: 
+14                      1.	   Stated the sample's  defect rate-which  ranged from 10% 
+15                            to 22% from September 2005 through August 2007; 
+16                     11.	   Compared the stated defect rate to prior periods; and 
+17                     111.	  Stated the percentage of loans that contained 
+18                            misrepresentations - which ranged from 12%    to 18% 
+19                            from January 2007 (when reporting   of that statistic 
+20                            began) through August 2007. 
+21               b.	    Second, presented a chart that broke down the findings by 
+22                      business unit, including Conduit, which had a defect rate of up 
+23                      to 30% from April 2005 through August 2007. 
+24               c.	    Third, attached spreadsheets that provided loan-by-Ioan detail 
+25                      ofPPQC's   findings with supporting reasons and the response of 
+26                      the business unit responsible for the loan. 
+27         20.   PPQC distributed the monthly reports bye-mail  and posted them on 
+28  IndyMac's intranet site.  Abernathy received hardcopy and/or electronic copies  of 
+
+                                              7
+ 
+---------------------Page 9---------------------
+
+ 1  the reports and was also aware that the reports were available on IndyMac's 
+ 2  intranet. 
+ 3               b)    IndyMac   Bank's  False and  Misleading  Statements 
+ 4                     Regarding   Loan  Quality 
+ 5         21.   In mid 2007, IndyMac conducted six RMBS offerings through 
+ 6  IndyMac IMSC Mortgage Loan Trust ("IMSC") securitizing only Conduit loans: 
+ 7
+ 8                RMBS  Offering      Settlement  Date    Amount   Offered 
+ 9
+                   IMSC 2007-Fl          5/29/2007          $274 million 
+10
+11                IMSC 2007-AR1          6/28/2007          $675 million 
+
+12
+                   IMSC 2007-F2          6/28/2007          $330 million 
+13
+                 IMSC 2007-HOA1          6/29/2007          $425 million 
+14
+15
+                  IMSC 2007-AR2          7/30/2007          $307 million 
+16
+17                 IMSC 2007-F3          8/30/2007          $531 million 
+
+18
+
+19         22.   The registration statements for these RMBS offerings contained blank 
+20  tables for the securitized loans to be summarized in the prospectus supplements. 
+21  The loan information included the LTV, occupancy, borrower credit score, 
+22  mortgage rate, loan type (e.g., full, limited, or no documentation), loan purpose 
+23   (e.g., purchase or refinance), and original and outstanding principal balance, all of 
+24  which was material information to a reasonable investor.  The prospectus 
+25  supplements then populated these tables with information on the securitized loans. 
+26  IndyMac Bank, however, populated the tables with the original information that it 
+27  had on the loans.  From January to August 2007, however, the random samples   of 
+28  IndyMac loans as set forth in the PPQC reports showed that, in 12% to 18%  of its 
+
+                                             8
+ 
+---------------------Page 10---------------------
+
+ 1  loans, the original infonnation  (such as that summarized in the tables) contained 
+ 2  misrepresentations.   As such, the infonnation provided in the Bank's  prospectus 
+ 3  supplements was false and misleading. 
+ 4         23.   The offering documents for each RMBS offering also stated that 
+ 5  IndyMac Bank would not include any loan in the offering    if anything came to its 
+ 6  attention causing it to believe that the loan contained a misrepresentation.  That 
+ 7  statement was false and misleading because the PPQC reports provided IndyMac 
+ 8  Bank reason to believe that 12% to 18%    of its loans, including loans underlying the 
+ 9  six offerings, contained misrepresentations. 
+10         24.   The loan infonnation was material.  The quality  of the loans and the 
+11   characteristics ofthe borrowers were key bases for detennining whether a loan 
+12  would be repaid, whether a foreclosure would yield sufficient funds  ifthe borrower 
+13   defaulted on the loan, and, thus, whether RMBS investors would receive their 
+14  principal and interest payments.  Loan quality and borrower characteristics, 
+15   therefore, had a significant bearing upon the risk of owning, and the value of, an 
+16  RMBS. 
+17         25.   Abernathy had significant responsibilities in connection with the six 
+18   RMBS offerings at issue, including signing the Fonns S-3; reviewing, discussing, 
+19  and participating in the structuring of each transaction; participating in setting the 
+20  price for a proposed offering; and directly authorizing four of the six transactions. 
+21   Despite receiving monthly PPQC reports showing that a significant percentage   of 
+22  loans contained misrepresentations, Abernathy negligently failed to take 
+23  reasonable  or responsible steps to ensure that the RMBS offering documents, 
+24  which had been prepared by inside and outside counsel, included accurate 
+25  disclosures concerning the loans in the RMBS or to notify investors that the 
+26  presented infonnation was materially misleading in light  of IndyMac Bank's 
+27   PPQC audit results. 
+28   III 
+
+                                              9 
+---------------------Page 11---------------------
+
+ 1  C.     IndyMac's   False and  Misleading  2008 Stock Sales 
+ 2         26.   On April 25, 2008, Abernathy became IndyMac's CFO after the 
+ 3  previous CFO left IndyMac on medical leave.    As  CFO, Abernathy supervised 
+ 4  IndyMac's  investor relations department, which managed IndyMac's  Direct Stock 
+ 5  Purchase Plan ("DSPP").  Under the DSPP, investors could purchase $10,000 or 
+ 6  more  of IndyMac's  common stock at a 1%    to 2.5% discount to market price. 
+ 7         27.   From April  25 through May 9,2008,  IndyMac raised approximately 
+ 8  $22.2 million through the DSPP pursuant   to a June 30,2006  Form  S-3 automatic 
+ 9  shelf registration statement and April 3 and May 2, 2008 prospectuses, which 
+10   offering documents incorporated by reference periodic filings with the 
+11   Commission. 
+12         1.    IndyMac's   Prior  Commission  Filings 
+13         28.   On February 12,2008,  IndyMac reported its 2007 results   of 
+14   operations and financial condition in a Form 8-K ("2007 Earnings 8-K"), which 
+15   included as exhibits an earnings press release (the "Press Release"), a shareholder 
+16   letter (the "Shareholder Letter"), and a presentation entitled "IndyMac Bancorp, 
+17   Inc. Fourth Quarter Review" (the "Presentation").  Although IndyMac 
+18   acknowledged in those filings that it had a "terrible" 2007 and had lost $509 
+19   million in the quarter just ended and $615 million during fiscal 2007, its Press 
+20  Release informed investors that it had finished the quarter in a "solid overall 
+21   financial position" and had a "game plan" that gave it a "realistic shot" at a $13 
+22  million profit in 2008.  IndyMac further stated that even if its 2008 forecast was 
+23   wrong, "we have the capital ...  to absorb nearly triple our presently forecasted 
+24  2008 credit costs and fight our way through until the housing and mortgage 
+25   markets do stabilize." 
+26        . 29.   The 2007 Earnings 8-K also had positive forecasts for a metric critical 
+27   to banks - the total risk-based capital ratio (the "capital.tatio") - which is a 
+28  measure  of a bank's  safety and soundness and is calculated by dividing a bank's 
+
+                                             10
+ 
+---------------------Page 12---------------------
+
+ 1  total risk-based capital (e.g., shareholder equity) by total risk-weighted  assets (i.e., 
+ 2  the greater the presumed risk  of an asset, the greater the risk weighting  and the 
+ 3  reserved capital needed to support the asset). 
+ 4          30.   Under the  OTS's  regulations and 2000 order approving  IndyMac's 
+ 5  acquisition  of IndyMac Bank, IndyMac Bank was required to maintain a capital 
+ 6  ratio of 10% or more to be considered "well-capitalized."  IndyMac Bank would 
+ 7  suffer significant  regulatory consequences   if its capital ratio fell below the 10% 
+ 8  well-capitalized  threshold, including: 
+ 9                a.	    An inability to accept (without a waiver from the FDIC) 
+10                       brokered deposits  (i.e., funds deposited by brokers for third 
+11                       parties that receive higher interest rates), which would likely 
+12                       curtail IndyMac  Bank's  lending business; 
+13                b.	    Potentially increased costs, including borrowing costs from the 
+14                       Federal Home Loan Bank, insurance premiums  to the FDIC, 
+15                       and payments to the OTS; and 
+16                c.	    The OTS and FDIC could impose various restrictions or 
+17                       remedial requirements. 
+18          31.   In the 2007 Earnings 8-K, IndyMac stated that IndyMac      Bank's 
+19   capital ratio was 10.50% at the end  of 2007, and was thus above the 10% well­
+20  capitalized threshold.  IndyMac went on to state that  "[w]e believe that, under 
+21   current regulations, the bank will continue to meet its 'well-capitalized'  minimum 
+
+22  capital requirements  in the foreseeable  future," and that "[w]e are currently 
+
+23  forecasting that our balance sheet size will decline and our capital ratios will 
+
+24  increase over the course  of 2008 as we execute our revised business model    of 
+25  primarily GSE lending." 
+
+26         32.   Indeed, the Shareholder Letter stated that the "only good news" was 
+27  that, even with its significant annual and quarterly losses, IndyMac remained in a 
+
+28  "fundamentally  sound financial position"  and that IndyMac    Bank's  "capital levels 
+
+                                               11
+ 
+---------------------Page 13---------------------
+
+ 1  continue to exceed the levels defined  as 'well capitalized' by our regulators."  The 
+ 2  letter informed IndyMac's investors that "based on our new business model      ... we 
+ 3  are forecasting a small profit in 2008 .,. as we believe we can maintain our 'well­
+ 4  capitalized'  capital ratios even under worsening industry conditions." 
+ 5         33.   The Presentation included in the 2007 Earnings 8-K projected that 
+ 6  IndyMac Bank would have a capital ratio    of 10.59% at March 31, 2008.  With 
+ 7  regard  to raising capital, the Shareholder Letter stated, "[W]e want to try and avoid 
+ 8  raising capital externally right now given our current stock price relative to book 
+ 9  value per share, as any capital raised would be highly dilutive to existing 
+10   shareholders."  Similarly, the Presentation stated that "due to our low stock price to 
+11   book value per share, our 2008 plan does not rely on the capital markets for raising 
+12   capital; instead we plan to eliminate the dividend [on common shares] and shrink 
+13   the balance sheet," thereby improving IndyMac's capital position   by $318 million. 
+14         34.   The 2007 Earnings 8-K also discussed  IndyMac's  liquidity, including 
+15   its cash position, stating that it had: 
+16                a.	   $64 million in cash at year end 2007  to pay futUre preferred 
+17                      dividends  of $7.3 million per quarter; 
+18                b.	   "enough cash to pay [preferred dividends] for over 2 years 
+19                      without any dividends from the Bank or additional debt or 
+20                      equity raised"; and 
+21                c.	   "the right to defer dividend payments on [preferred securities] 
+22                      for up to five years; [but it did] not expect to have to exercise 
+23                      this right." 
+24         35.   IndyMac's capital and liquidity levels and its "realistic" plan to return 
+25   to profitability in 2008 began to change just one week after it filed its 2007 
+26  Earnings 8-K.  There was significant interest rate volatility in February 2008 which 
+27  in tum adversely affected IndyMac Bank's  capital ratio on those days when 
+28  interest rates rose.  On or about February 19, 2008, IndyMac learned that a 
+
+                                              12
+ 
+---------------------Page 14---------------------
+
+ 1  significant one-day rise in interest rates caused IndyMac Bank's  forecasted capital 
+ 2  ratio at March 31  to be right at or slightly under 10%. That same day, on 
+ 3  February  19, IndyMac began   to raise up to $50 million through new stock sales 
+ 4  through the DSPP.  IndyMac planned to use DSPP sales proceeds to keep the 
+ 5  Bank's capital ratio above 10% by contributing $25   to $50 million to IndyMac 
+ 6  Bank and to pay future preferred dividends.  All  of the DSPP sales at issue in this 
+ 7  Complaint were made to institutional investors who were seeking to arbitrage the 
+ 8  difference between the discounted price and the market price by selling their DSPP 
+ 9  shares into the public securities markets to capture the price difference. 
+10         36.   On February 29,2008,  IndyMac filed its 2007 Form 10-K.  Although 
+11   IndyMac's 2007 Form 10-K included many negative statements and acknowledged 
+12   that "2007 was a terrible year for our industry, for IndyMac, and for you, our 
+13   owners," it also repeated many of the positive statements in its 2007 Earnings 8-K, 
+14   including:  "We have a solid and a realistic plan that we believe will return 
+15   IndyMac to profitability in 2008."  The 2007 Form 10-K also made positive 
+16   disclosures regarding IndyMac's current liquidity and capital needs: 
+17               a.     "We currently believe our liquidity level is sufficient to satisfy 
+18                      our operating requirements and meet our obligations and 
+19                      commitments in a timely and cost effective manner"; 
+20               b.     "As a result of our ... strong capital and liquidity positions, we 
+21                      were not forced to sell assets at liquidation prices and our [loan] 
+22                      funding capacity was not materially impacted"; and 
+23               c.     While Bank "currently [has] regulatory capital ratios in excess 
+24                      of the 'well capitalized'  requirement and [has] implemented a 
+25                      plan to ... increase our capital ratios, there can be no assurance 
+26                      that [Bank] will not suffer material losses or that [IndyMac's] 
+27                      plans .,. will succeed.  In those circumstances, [IndyMac] may 
+28
+
+                                              13
+ 
+---------------------Page 15---------------------
+
+ 1                     be required to seek additional regulatory capital to maintain our 
+ 2                     capital ratios at the 'well capitalized'  level." 
+ 3         37.   These statements were false and misleading when IndyMac filed its 
+ 4  2007 Form 10-K.  IndyMac's capital position was not "strong" because IndyMac 
+ 5  Bank's capital ratio was projected to be right at or slightly below 10%. 
+ 6  Furthermore, IndyMac's liquidity position was weakening and it needed to raise 
+ 7  new capital to protect its well-capitalized regulatory status and to pay preferred 
+ 8  dividends in future quarters. 
+ 9         38.   On March 31,2008,  IndyMac made a $70 million capital contribution 
+10  to IndyMac Bank for the principal purpose  of protecting the Bank's  capital ratio. 
+11  After the $70 million capital contribution on March 31, 2008, IndyMac was left 
+12   with about $21 million in cash, which was enough to pay three quarters of 
+13  preferred dividends without raising additional capital or receiving dividends from 
+14   IndyMac Bank. 
+15         39.   On April 3, 2008, IndyMac filed a prospectus registering the offer of 
+16   an additional ten million common shares through the DSPP.  The prospectus stated 
+17  that IndyMac "intend[ed] to use the net proceeds from [the offering] for general 
+18   corporate purposes, including investment in our subsidiaries" and incorporated 
+19   disclosures in IndyMac's 2007 Earnings 8-K and 2007 Form 10-K regarding 
+20  IndyMac's strong capital and liquidity positions. 
+21         40.   IndyMac's capital·and liquidity positions deteriorated even further in 
+22  late April 2008, when Moody's  Investors Service downgraded    165 MBS bonds 
+23   sponsored by IndyMac Bank on April 23, and Standard    & Poor's  downgraded  251 
+24  IndyMac Bank-sponsored MBS bonds on April 28.  IndyMac Bank held on its 
+25  balance sheet $160 million in downgraded bonds as   of March 31, 2008 and 
+26  recorded a $9.5 million write-down expense during the quarter ended March 31, 
+27  thereby lowering IndyMac Bank's  first quarter 2008 capital ratio.  In addition, the 
+28  bond rating downgrades also negatively impacted IndyMac Bank's  capital ratio in 
+
+                                             14
+ 
+---------------------Page 16---------------------
+
+ 1  future quarters because additional capital was required to support the downgraded, 
+ 2  and hence riskier, bonds. 
+ 3         41.   On April 25, 2008, shortly after the first bond downgrade, Abernathy 
+ 4  became IndyMac's CFO after the previous CFO left IndyMac on medical leave. 
+ 5         42.   After the bond downgrades, IndyMac had    no choice but to suspend 
+ 6  preferred dividends as a way to conserve cash.  It was also clear that the 
+ 7  downgrades could drive IndyMac Bank's capital ratio below    10%  at March 31, and 
+ 8  that IndyMac would not have sufficient cash to both keep IndyMac Bank's  capital 
+ 9  ratio above 10% and pay future preferred dividends. 
+10         43.   Abernathy negligently failed to disclose (either through a new 
+11   prospectus, an amendment to the April 3, 2008 prospectus, or a Form 8-K) that 
+12   IndyMac planned to use the DSPP net offering proceeds for a capital contribution 
+13   to IndyMac Bank and to pay future preferred dividends, see Item 504 of 
+14   Regulation S-K  ofthe Securities Act, 17 C.F.R. § 229.504 (prospectus required to 
+15   disclose "the principal purposes for which the net proceeds to the registrant from 
+16   the securities to be offered are intended to be used and the approximate amount 
+17   intended to be used for each such purpose."), and that the April bond rating 
+18   downgrades jeopardized IndyMac Bank's  "well-capitalized" status such that 
+19   IndyMac would need to conserve cash   by suspending future preferred dividends. 
+20  The impact  of the bond ratings downgrades  to IndyMac's capital and liquidity 
+21   would have been material information to reasonable investors'  assessment of their 
+22  risk of loss and their valuation of IndyMac stock offered through the DSPP. 
+23         44.   From April  25 through May  2, 2008, when it filed a new DSPP 
+24  prospectus: IndyMac raised approximately $12.8 million through the DSPP. 
+25         2.    IndyMac's  False  and  Misleading  May  2, 2008 Prospectus 
+26         45.   By May 2,2008,  it was clear that IndyMac would have to suspend 
+27  future preferred dividend payments as a result ofthe continuing decline in 
+28  IndyMac's  liquidity and capital positions. 
+
+                                             15 
+---------------------Page 17---------------------
+
+ 1         46.   On May 2,2008,  IndyMac filed with the Commission a new 
+ 2  prospectus registering the offer of another ten million common shares.  Abernathy 
+ 3  authorized the filing of the May 2 prospectus.  This prospectus again stated that 
+ 4  IndyMac "intend[ed]   to use the net proceeds from [the offering] for general 
+ 5  corporate purposes, including investment in our subsidiaries."  By incorporating by 
+ 6  reference the 2007 Earnings 8-K and 2007 Form 10-K, the May 2 prospectus 
+ 7  repeated those earlier filings' statements regarding IndyMac' s strong capital and 
+ 8  liquidity positions, its cash holdings being sufficient to pay future preferred 
+ 9  dividends for over two years, and its positive forecasts for the Bank's capital ratio. 
+10         47.   From May 3 through May 9,2008,  IndyMac raised $9.4 million 
+11   through the DSPP.  May 9 was the last trading day before May 12, when IndyMac 
+12   filed its Form 10-Q for the quarter ended March 31, 2008 and all DSPP sales 
+13   ended. 
+14         48.   The DSPP offering's  specific purpose was  to raise capital to protect 
+15   IndyMac Bank's capital ratio.  In addition, contrary to the disclosures in the 2007 
+16   Earnings 8-K and 2007 Form 10-K, IndyMac's  liquidity position had deteriorated 
+17   as a result ofIndyMac' s $70 million cash contribution to the Bank on March 31 
+18   such that IndyMac would have to suspend future preferred dividend payments, and 
+19   IndyMac Bank's  capital ratio was close to the 10% "well-capitalized" threshold as 
+20   a result of the bond downgrades in April.  Abernathy negligently failed to take 
+21   steps to disclose this information to investors until May 12,2008, when IndyMac 
+22  filed its Forms 10-Q and 8-K, which disclosed, among other things, the suspension 
+23   of future preferred dividends and that IndyMac Bank's  capital ratio would have 
+24  been 9.27%   if the risk-weighting impact of the April bond downgrades had been 
+25   required to have been recorded as ofMarch 31.  Such information would have been 
+26  material to investors, as they would have viewed the true reasons for IndyMac's 
+27   stock sales and its declining capital and liquidity levels as important to their 
+28   assessment of their risk of loss and the price for IndyMac's  common stock.  On 
+
+                                             16
+ 
+---------------------Page 18---------------------
+
+ 1  May 12,2008,  IndyMac's common stock price closed at $3.06, an    11 % drop from 
+ 2  its prior close of$3.43,  on volume of4.8 million shares.  On May 13, IndyMac's 
+ 3  stock price fell an additional 24%, closing at $2.32 on volume of 14.9 million 
+ 4  shares. 
+ 5                                  CLAIM    FOR   RELIEF 
+ 6        MISREPRESENTATION           IN THE   OFFER    OR  SALE   OF  SECURITIES 
+ 7             Violations of Sections  17(a)(2) and 17(a)(3) of the Securities  Act 
+ 8         49.   The Commission realleges and incorporates by reference  ~~ 1 through 
+ 9  48 above. 
+10         50.   Defendant, in the offer and sale of securities, by the use of the means 
+11  or instruments of transportation or communication in interstate commerce or by 
+12  use of the mails, directly or indirectly, (a) obtained money or property by means of 
+13  untrue statements of a material fact or by omitting to state a material fact necessary 
+14  in order to make the statements made, in light of the circumstances under which 
+15  they were made, not misleading; and (b) engaged  in transactions, practices, or 
+16  courses of business which operated or would operate  as a fraud or deceit upon the 
+17  purchaser. 
+18         51.   By engaging in the conduct described above, Defendant violated, and 
+19  unless restrained and enjoined will continue to violate, Sections l7(a)(2) and 
+20  17(a)(3) of the Securities Act, 15 U.S.C. §§ 77q(a)(2) and 77q(a)(3). 
+21                              PRAYER     FOR   RELIEF 
+22         WHEREFORE, the Commission respectfully requests that the Court: 
+n                                            L 
+24         Issue findings of fact and conclusions of law that Defendant committed the 
+25  alleged violations. 
+26                                          ll. 
+27         Issue ajudgment,  in a form consistent with Fed. R. Civ. P. 65(d), 
+28  permanently enjoining defendant Abernathy and his agents, servants, employees, 
+
+                                             17
+ 
+---------------------Page 19---------------------
+
+ 1  attorneys,  and those persons  in active concert or participation  with any ofthem, 
+ 2  who receive actual notice  of the order by personal  service or otherwise,  from 
+ 3  violating  Sections  l7(a)(2)  and  l7(a)(3) of the Securities  Act, 15 U.S.C. §§ 
+
+ 4  77q(a)(2)  and 77q(a)(3). 
+ 5                                            III. 
+ 6         Order Abernathy  to disgorge  all ill-gotten  gains from his unlawful  conduct, 
+ 7  together  with prejudgment  interest thereon. 
+
+ 8                                            IV. 
+ 9          Order Defendant  to pay  a civil penalty  under  Section  20(d)(l) ofthe 
+10  Securities  Act, 15 U.S.C.  § 77t(d)(l). 
+11                                            V. 
+12         Retain jurisdiction of this action in accordance  with the principles ofequity 
+13   and the Federal Rules  of Civil Procedure  in order to implement  and carry out the 
+14  terms  of all orders and decrees  that may be entered, or to entertain  any suitable 
+15   application or motion  for additional  relief within the jurisdiction of this Court. 
+
+16                                            VI. 
+17         Grant such other and further relief as this Court may determine  to be just and 
+
+18   necessary. 
+
+19
+20  DATED:  February     11,2011            Respectfully  submitted, 
+
+21
+22                                          ~a.~ Roberto  A. Tercero 
+23                                          Attorney  for Plaintiff 
+                                            Securities  and Exchange  Commission 
+24
+
+25
+
+26
+
+27
+28
+
+                                               18
+ 

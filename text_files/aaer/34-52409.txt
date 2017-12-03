@@ -1,0 +1,331 @@
+---------------------Page 1---------------------
+
+                        UNITED STATES OF AMERICA 
+ Before                                      the 
+ SECURITIES                      AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 52409 / September 13, 2005 
+ 
+ACCOUNTING & AUDITING ENFORCEMENT 
+Release No. 2309 / September 13, 2005 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-12036 
+  
+                                         ORDER INSTITUTING CEASE-AND-
+In the Matter of                         DESIST PROCEEDINGS, MAKING 
+                                         FINDINGS AND IMPOSING A CEASE-
+      NCO GROUP, INC.,                   AND-DESIST ORDER PURSUANT TO 
+                                         SECTION 21C OF THE SECURITIES 
+Respondent.                              EXCHANGE ACT OF 1934  
+ 
+ 
+ 
+ 
+ 
+                                       I. 
+ 
+              The Securities and Exchange Commission (Commission) deems it appropriate 
+that cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of 
+the Securities Exchange Act of 1934 (Exchange Act), against NCO Group, Inc. (NCO 
+or Respondent).   
+                                         
+                                       II. 
+ 
+              In anticipation of the institution of these proceedings, Respondent has submitted an 
+Offer of Settlement (the Offer) which the Commission has determined to accept.  Solely 
+for the purpose of these proceedings and any other proceedings brought by or on behalf of 
+the Commission, or to which the Commission is a party, and without admitting or denying 
+the findings herein, except as to the Commissions jurisdiction over it and the subject 
+matter of these proceedings, which are admitted, Respondent consents to the entry of this 
+Order Instituting Cease-and-Desist Proceedings, Making Findings, and Imposing a Cease-
+and-Desist Order Pursuant to Section 21C of the Securities Exchange Act of 1934 
+(Order), as set forth below.   
+ 
+---------------------Page 2---------------------
+
+                                           III. 
+                                        Findings 
+  
+       On the basis of this Order and Respondents Offer, the Commission finds 1
+                                                                                that: 
+  
+                                           A. 
+ 
+Respondent 
+  
+       NCO is a Pennsylvania corporation headquartered in Horsham, Pennsylvania and is 
+the worlds largest provider of debt collection, accounts receivable management services, 
+and other outsourced revenue cycle management services to a broad range of clients in the 
+United States and overseas.  Most of NCOs services to date have focused on the recovery 
+of traditional delinquent accounts, that is, accounts more than 90 days past due.  NCO 
+generates approximately 70 percent of its revenue on a contingency fee basis.  Founded in 
+1926, the company went public in 1996.  NCOs common stock is registered with the 
+Commission pursuant to Section 12(g) of the Exchange Act and is quoted on the Nasdaq 
+national market system.  NCOs fiscal year ends December 31. 
+                                             
+                                           B. 
+ 
+       These proceedings arise from NCOs use of two accounting practices that 
+contravened generally accepted accounting principles (GAAP):  a one-day-after policy 
+for recording incoming checks from collections on delinquent accounts, and a methodology 
+for recording anticipated fee revenue under a long-term services contract.   
+        
+NCOs One-day-after Policy 
+        
+        In each of its periodic filings with the Commission NCO has represented that its 
+contingency fee revenue is recognized upon collection of funds on behalf of clients.2
+                                                                                      
+Despite its stated revenue recognition policy, NCO has consistently, since a time prior to 
+going public, been applying an undisclosed one-day-after policy to its contingency fee 
+revenues, by recognizing revenues from collections postmarked prior to the end of the 
+reporting period and received in the mail from consumers on the first business day of a 
+subsequent reporting period as though they had been received and earned in the prior 
+reporting period.   
+ 
+       NCOs rationale for this policy was twofold: first, that NCO was in constructive 
+receipt of the payments when they were delivered to NCOs agent, the U.S. Postal 
+Service, by being placed in the mail; and second, that any payments received on the first 
+
+                                                 
+       1
+         The findings herein are made pursuant to Respondent's Offer and are not 
+binding on any other person or entity in this or any other proceeding. 
+
+       2
+         See Notes to Financial Statements sections of each of NCOs Forms 10-K and 
+10-Q, under the Revenue Recognition heading [emphasis added]. 
+
+                                            2 
+---------------------Page 3---------------------
+
+day of a new quarter must necessarily have been mailed, and therefore earned by NCO, 
+during the prior quarter.   
+        
+       NCOs one-day-after policy contravenes GAAP because it accounts for 
+contingent fees as revenue before the earnings process is complete.  The majority of NCOs 
+business has been collecting payments from debtors who have already defaulted on 
+outstanding payment obligations owed to NCOs clients.  NCO earns as fees a percentage 
+of the amount it collects.  Because NCOs fee is contingent, NCOs earnings process is not 
+complete until NCO in fact receives the collections.  Financial Accounting Standards Board 
+Statement of Financial Accounting Concepts No. 5, Recognition and Measurement in 
+Financial Statements of Business Enterprises (CON 5) (issued in December 1984), 
+provides that [i]f collectibility of assets received for product, services, or other assets is 
+doubtful, revenues and gains may be recognized on the basis of cash received.  Staff 
+Accounting Bulletin (SAB) 101 Revenue Recognition in Financial Statements (released in 
+December 1999) counsels against and CON 5 precludes accounting for contingent fee 
+payments from a subsequent reporting period as revenue in the prior period.  CON 5 
+requires that revenue is generally realized or realizable and earned when the sellers price 
+to the buyer is fixed or determinable, services have been rendered, and collectibility is 
+reasonably assured.  In cases in which revenue is contingent upon some specified future 
+event, SAB 101 provides that such contingent revenue should be recorded in the period in 
+which the contingency is resolved.  NCOs position that the company has earned fee 
+revenue because it is in constructive receipt of payments once the check is in the mail 
+                                                                                   does 
+not meet the provisions of CON 5 and SAB 101.   
+        
+       NCOs policy of recording in a prior reporting period contingent fee revenue 
+derived from a subsequent reporting period also amounts to recognizing a gain 
+contingency, which is specifically prohibited under paragraph 17(a) of Statement of 
+Financial Accounting Standards (SFAS) No. 5, Accounting for Contingencies (issued in 
+March 1975).  In particular, the contingencies attending NCOs collections are not resolved 
+until NCO actually receives the payment.  Accordingly, NCOs one-day-after policy 
+prematurely recognizes contingent fee revenue one business day before it is actually 
+earned. 
+        
+       NCO has consistently applied the one-day-after policy over time.  Therefore, 
+NCOs quarter-to-quarter and year-to-year financial statements reflected trends in revenues 
+and earnings with some consistency.3
+                                      In order to comply with GAAP, as well as to comply 
+with NCOs own publicly disclosed revenue recognition policy, retroactive correction of 
+the policy would entail reversing out the one-day-after fee income from the end of a 
+period but adding in fee income improperly recorded in the prior period.  In other words, 
+the impact of correcting the back end of the period would be offset, in whole or in part, by 
+correcting the front end of the period.  As a result, retroactive correction of this practice 
+
+                                                 
+       3
+         Note, however, that because NCOs policy included one additional business day, 
+periodically, if its quarter ended on a Friday, NCO received the benefit of weekend mail 
+deliveries as well as the following Mondays deliveries.  This occasional increase in 
+revenue sporadically increased the amount of revenue recorded in certain quarters. 
+
+                                            3 
+---------------------Page 4---------------------
+
+would not materially differ from NCOs previously reported financial statements as NCO 
+would report 90 days of revenues and expenses on a quarter-to-quarter basis and 365 days 
+of revenues and expenses on an annual basis.  However, by eliminating the one-day-after 
+policy altogether NCO has reported a material one-time reduction in pre-tax income.  That 
+is, by ceasing the one-day-after policy, NCO has reported 89 days of contingent fee 
+revenues but 90 days of expenses for the quarter in which the correction was made.  For the 
+fourth quarter of 2004, the correction resulted in a one-time reduction of pre-tax income of 
+7.5 percent.  Additionally, ceasing the one-day-after policy resulted in NCO reporting 
+earnings per share of approximately 35 cents, thereby not meeting its earnings per share 
+guidance of 38 cents to 42 cents.   
+ 
+NCOs Long Term Guarantee Contract
+ 
+       On September 27, 1999, NCO entered into a long-term collection contract with a 
+large customer (the Contract).  The Contract went into effect on January 1, 2000 and 
+continued until December 31, 2002.  Pursuant to the Contract, NCO guaranteed that it 
+would collect set minimum amounts of money, with the contract minimums based on 
+historical benchmarks.  In return for making the required collections, NCOs customer 
+agreed to pay NCO a base fee of 16.9 percent for each dollar NCO collected plus a bonus 
+equal to 25 percent of each dollar NCO collected in excess of the minimum thresholds.  For 
+each dollar by which NCO fell below the minimums, NCO agreed to pay a penalty of 75 to 
+100 percent of the shortfall.  At the time, the Contract required NCO to compare the 
+projected minimum threshold amount to the actual collection amount and to collect any 
+aggregate net bonus or pay any aggregate net penalty 45 days after the end of the first year 
+of the contract and 45 days after each six-month period thereafter.  These interim payments 
+were to be applied to the final cash reconciliation of penalty and bonus payments between 
+NCO and its customer, which was originally set to occur 150 days after December 31, 
+2002.  After the final reconciliation NCO would not be required to pay any additional funds 
+to the customer, but through its continued collection efforts, NCO was entitled to recoup 90 
+to 100 percent of any penalties paid.  Additionally, where NCO was in a bonus position at 
+the final reconciliation, NCO was entitled to incremental bonuses from collections received 
+after the date of the final reconciliation. 
+ 
+        NCO recognized the base collection fee it received from current period collections 
+as current period revenue.  NCO also recorded the ratable portion of bonuses net of 
+penalties in the current period based on a collection curve derived from historical 
+experience with this client.  To justify its accounting for the bonus provisions of the 
+Contract, NCO analogized to the percentage of completion accounting methodology 
+outlined in Statement of Position (SOP) 81-1 Accounting for Performance of 
+Construction and Certain Production Type Contracts (issued in July 1981).   However, 
+SOP 81-1 specifically applies to construction-type contracts and does not, by its terms, 
+ordinarily apply to service transactions, particularly debt collection services.  NCO also 
+based its analogy to SOP 81-1 on the long-term nature of the Contract, and took the 
+position that the production of  cash served as this accounting treatments requisite 
+tangible property.        
+ 
+
+                                            4 
+---------------------Page 5---------------------
+
+       NCOs method of accounting for the Contract contravened GAAP.   As described 
+above, CON 5 and SAB 101 provide that contingent revenue may be recognized only upon 
+elimination of the underlying contingencies.  The base fees and bonuses provided for in the 
+Contract represent contingent revenue.  NCO was not entitled to record contingent fees and 
+bonuses as income until it had collected sufficient contingent payments to meet pre-
+determined thresholds and the collection results were reconciled with the client.  
+Collectibility of the bonuses was not reasonably assured until the pre-determined thresholds 
+were met and the collection results were reconciled with the client.  In October 2000, just 
+after the close of NCOs third quarter, SEC staff released SAB 101 Frequently Asked 
+Question (FAQ) No. 28, Fixed or Determinable Fees, which specifically addressed 
+service contracts like the Contract.  FAQ 28 directly addressed this type of service contract 
+and fee arrangement.  FAQ 28 provides that companies who earn fees based on such 
+collection contracts must wait until collections occur before recognizing revenue.  
+Therefore, once the minimum collection thresholds were met NCO was only allowed to 
+record base fees and bonus revenue to the extent that collections occurred.  NCO did not 
+make any change in its method of accounting for the Contract when the staff released FAQ 
+28. 
+ 
+       Contrary to NCOs analogy, SOP 81-1 does not apply to service contracts except 
+for services essential to the construction or production of tangible property, such as 
+design, engineering, procurement and construction management.   4
+                                                                   In fact, the Notes to 
+SOP 81-1 expressly explain that the statement does not apply to service contracts except 
+for contracts essential to the construction or production of tangible property . . . .   
+        
+       On February 11, 2003, NCO announced that it would revise its policy concerning 
+the timing of revenue recognition under the Contract and would restate its financial 
+statements for its 2000 and 2001 fiscal years and for each of its quarters during those years 
+and in 2002 to correct the accounting for the bonus and penalty provisions of the Contract.  
+NCO further announced that the restatement would employ the correct accounting 
+methodology that would defer the recognition of all revenues until all contingencies related 
+to that revenue had been eliminated.   
+        
+       NCOs method of accounting for the Contract had a material impact on NCOs 
+revenues, net income, and diluted earnings per share.  The restatement reduced NCOs 
+2001 revenue by approximately $17.6 million or 2.5 percent and 2001 diluted earnings per 
+share by $0.41 or approximately 41.4 percent; it reduced NCOs 2000 revenue by 
+approximately $18.4 million, or 3.0 percent and 2000 diluted earnings per share by $0.42 
+or 49.4 percent.  NCO estimated that the restatement increased its 2002 revenue by 
+approximately $2.1 million or 0.3 percent and increased 2002 diluted earnings per share by 
+$0.05 to $1.54.   
+        
+
+                                                 
+       4
+         SOP 81-1, paragraph 11, fn. 1 [emphasis added]. 
+
+                                            5 
+---------------------Page 6---------------------
+
+Respondents Conduct 
+ 
+ Respondent        NCOs one-day-after policy contravened GAAP because it 
+accounted for contingent fee revenue before the earnings process was complete.  NCOs 
+earnings process was not complete until collections were received by NCO.  Accordingly, 
+the policy did not meet CON 5s requirement that if collectibility of assets received for 
+services is doubtful, revenues and gains may be recognized on the basis of cash received.  
+SAB 101 counsels and CON 5 requires that contingent fees are earned only upon receipt, 
+and the policy also violated paragraph 17(a) of SFAS No. 5 that prohibits the recognition of 
+gain contingencies.  
+ 
+       Respondent NCO failed to properly account for the Contract and instead 
+improperly analogized to SOP 81-1.  SOP 81-1 was not applicable to this contract since the 
+services provided did not involve the production or construction of tangible property, such 
+as design, engineering, procurement and construction management.  Moreover, NCO also 
+failed to apply the appropriate accounting pronouncements for this type of contract (CON 
+5, SAB 101, and FAQ 28) that provide that contingent revenue be recognized as revenue in 
+the period in which the underlying contingencies related to the bonuses are resolved. 
+ 
+       Respondents independent auditors were aware of, consulted with NCO concerning, 
+and did not object to both the one-day-after policy and the method of accounting for the 
+Contract and issued audit reports containing unqualified opinions on Respondents 
+consolidated financial statements. 
+ 
+                                           C. 
+ 
+       Section 13(a) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder require 
+issuers with securities registered under Section 12 of the Exchange Act to file annual and 
+quarterly reports with the Commission.  The obligation to file such reports embodies the 
+requirement that they be true and correct. See, e.g., SEC v. Savoy Indus., Inc., 587 F.2d 
+1149, 1165 (D.C. Cir. 1978), cert. denied, 440 U.S. 913 (1979).  Section 13(b)(2) of the 
+Exchange Act requires issuers to make and keep books, and records, and accounts, which, 
+in reasonable detail, accurately and fairly reflect the transactions and dispositions of the 
+assets of the issuer.  Additionally, this provision requires issuers to devise and maintain a 
+system of internal accounting controls sufficient to provide reasonable assurances that, 
+among other things, transactions are recorded as necessary to permit preparation of 
+financial statements in accordance with GAAP or any other criteria applicable to such 
+statements.   
+ 
+       As a result of the conduct described above, Respondent NCO committed violations 
+of Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act, and Rules 12b-20, 
+13a-1, and 13a-13 thereunder. 
+
+                                            6 
+---------------------Page 7---------------------
+
+                                         IV. 
+                                    Undertakings
+ 
+       Respondent NCO has undertaken to maintain its elimination of its former one-day-
+after policy.  
+        
+                                          V. 
+                                        Order 
+                                            
+       In view of the foregoing, the Commission deems it appropriate to impose the 
+sanctions agreed to in Respondents Offer. 
+ 
+       Accordingly, it is hereby ORDERED that: 
+ 
+              Respondent NCO cease and desist from committing or causing any 
+violations and any future violations of Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the 
+Exchange Act and Rules 12b-20, 13a-1, and13a-13 thereunder.  
+ 
+              IT IS FURTHERED ORDERED that Respondent NCO shall comply with 
+the undertakings enumerated in Section IV above. 
+ 
+ By       the Commission. 
+ 
+ 
+ 
+       J                                           onathan G. Katz 
+       S                                            ecretary 
+
+                                           7 

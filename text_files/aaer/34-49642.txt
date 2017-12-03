@@ -1,0 +1,123 @@
+QuadraMed Corporation : Release No. 49642 / April 30, 2004
+Home Previous Page
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 49642 / April 30, 2004
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 1998 / April 30, 2004
+ADMINISTRATIVE PROCEEDING
+File No. 3-11472
+In the Matter of
+QUADRAMED CORPORATION,
+Respondent.
+::::::::::
+ORDER INSTITUTING PUBLIC
+CEASE-AND-DESIST PROCEEDINGS,
+MAKING FINDINGS AND ISSUING A
+CEASE-AND-DESIST ORDER PURSUANT
+TO SECTION 21C OF THE SECURITIES
+EXCHANGE ACT OF 1934
+I.
+The Securities and Exchange Commission ("Commission") deems it appropriate and in the public interest that public cease-and-desist proceedings be and hereby are instituted pursuant to Section 21C of the Securities Exchange Act of 1934 ("Exchange Act") against QuadraMed Corporation ("QuadraMed" or "Respondent").
+II.
+In anticipation of the institution of this proceeding, QuadraMed has submitted an Offer of Settlement ("Offer") which the Commission has determined to accept.
+Solely for the purpose of this proceeding and any other proceedings brought by or on behalf of the Commission or in which the Commission is a party, and without admitting or denying the findings contained herein except that Respondent admits the jurisdiction of the Commission over it and over the subject matter of this proceeding, Respondent consents to the entry of this Order Instituting Public Cease-and-Desist Proceedings, Making Findings and Issuing a Cease-and-Desist Order Pursuant to Section 21C of the Securities Exchange Act of 1934 ("Order"), as set forth below.
+III.
+On the basis of this Order and the Respondent's Offer, the Commission finds
+that:
+A.	Summary
+1.	This matter involves false financial reporting during 1998 and 1999 by QuadraMed, a health care technology company that fraudulently inflated its revenue by essentially paying for the purchase of its own products.
+In September 1998 and March 1999, QuadraMed improperly recognized revenue from two reciprocal (or "roundtrip") transactions with another software development firm that had no independent means of paying for QuadraMed's products.
+In the September 1998 transaction, QuadraMed executed a guarantee for a $12.5 million line of credit, which the customer used to purchase a $5 million software license from QuadraMed.
+In the March 1999 transaction, QuadraMed wired $5 million to the customer to finance an additional purchase from QuadraMed.
+In reality, QuadraMed was financing the purchase of its own products.
+2.	As a result of these sales, QuadraMed recorded revenue from which QuadraMed never obtained any economic benefit.
+QuadraMed's financial statements violated Generally Accepted Accounting Principles ("GAAP").
+QuadraMed's recognition of revenue from the transactions was also contrary to GAAP because collectibility for the transactions was not probable absent financial assistance from QuadraMed.
+QuadraMed improperly reported revenue from these transactions in its financial results contained in press releases and its filings with the Commission.
+B.	Respondent
+3.	QuadraMed is a Delaware corporation.
+During the relevant period, the company was headquartered in San Rafael, California, but has subsequently relocated to Reston, Virginia.
+QuadraMed sells information technology and consulting services to hospitals and healthcare professionals, and licenses software products.
+QuadraMed's common stock is registered with the Commission pursuant to Section 12(g) of the Exchange Act.
+QuadraMed was delisted from the Nasdaq stock market in March 2003, and is currently quoted on the OTC bulletin board.
+C.	The September 1998 Transaction
+4.	In July 1998, QuadraMed's then-CFO met with a small, privately-owned health care company (the "customer").
+Initially, the customer sought financing from QuadraMed in the form of a $2 million equity investment and a guarantee for a $4 million line of credit.
+In return, QuadraMed sought technical assistance in developing and integrating products acquired in various acquisitions.
+However, in September 1998, the customer agreed to purchase a nonexclusive license of source code from QuadraMed for $5 million.
+In exchange, QuadraMed guaranteed a $12.5 million line of credit to the customer.
+5.	QuadraMed's guarantee was supposedly secured by a lien on all of the customer's assets.
+However, the customer's financial records for the period ended July 31, 1998, indicate that the company had less than $2 million in total assets, no revenue, and an operating loss of $2 million.
+Hence, it had no financial ability to pay for QuadraMed's software absent QuadraMed's guarantee of the line of credit.
+The customer drew down from the line of credit in order to pay QuadraMed for the software license.
+6.	QuadraMed typically offered customers 30-day payment terms.
+In this instance, however, QuadraMed's then-CFO structured the transaction so that the customer was required to make payment before September 30 (the last day of QuadraMed's third fiscal quarter).
+Because payment was not outstanding at the end of the quarter, QuadraMed's outside auditors did not analyze the creditworthiness of the customer in order to determine whether collectibility was probable.
+Had the auditors reviewed the transaction, they could have seen that the customer had no means to pay for the purchase outside of the line of credit guaranteed by QuadraMed, and thus that revenue recognition was improper.
+7.	QuadraMed improperly recognized $4 million in revenue on the sale to the customer in QuadraMed's financial statements for the quarter ended September 30, 1998.
+On November 16, 1998, QuadraMed filed its Form 10-Q for the third quarter, after previously issuing a press release detailing its financial results.
+The 10-Q reported total revenue of $43.8 million and net loss of $2.2 million for the quarter.
+Hence, the improper reciprocal transaction caused QuadraMed's reported revenue to be overstated by about 10% and its reported net loss to be understated by about 218%.
+8.	QuadraMed's Form 10-Q was also deficient because it noted that QuadraMed had extended a loan guarantee to an entity, and that it had entered into a reseller agreement with the same entity, but failed to disclose that the loan guarantee was made to a customer who was using the funds to purchase software from QuadraMed.
+9.	On March 31, 1999, QuadraMed filed its Form 10-K for the fiscal year ended December 31, 1998.
+The 10-K reported total annual revenue of $159.4 million and a net loss from operations of $14 million.
+As a result of the improper reciprocal transaction, revenue for the fiscal year was overstated by 2.6% and the company's net loss was understated by 14.6%.
+As in the Form 10-Q, the Form 10-K mentioned the $12.5 million line of credit guarantee with a "reseller," but omitted any reference to the use of the credit line to pay QuadraMed for the $5 million license.
+D.	The March 1999 Transaction
+10.	In February 1999, the same customer contacted QuadraMed's then-CFO to ask for more money to promote the sale of QuadraMed's software products.
+After further negotiation, QuadraMed and the customer entered into another reciprocal transaction in March 1999.
+The customer bought a $5 million source code license for a suite of software products from QuadraMed.
+In return, QuadraMed agreed to prepay non-refundable licensing royalties of $5 million, and to pay the customer $6 million for a software license and source code for another software program.
+The deal was again structured to allow QuadraMed to improperly report sales revenue, and did not accurately reflect the true character of the transaction.
+11.	As with the September 1998 transaction, QuadraMed structured the transaction so that QuadraMed would receive the customer's payment by the end of the fiscal quarter.
+As a result, there were no outstanding payments due at the end of the quarter, and the transaction escaped scrutiny by QuadraMed's outside auditors.
+12.	By the time of the second transaction, the customer had exhausted the line of credit guaranteed by QuadraMed.
+The customer thus lacked sufficient funds to make the $5 million payment to QuadraMed.
+QuadraMed's then-CFO arranged for QuadraMed to wire funds to the customer that would be used to cover the $5 million payment.
+In late March 1999, the customer sent QuadraMed a $5 million check.
+The customer also sent a letter to QuadraMed's then-CFO, which stated:
+In anticipation of funding the transaction contemplated by the Memorandum of Understanding, we are forwarding to you our company check in the amount of $5,000,000.
+We are providing this with the understanding that you will not present the check for collection at any bank or financial institution until such time as your company wires to us the total sum of $11,000,000 in completion of the various cash transactions agreed upon.
+13.	QuadraMed's outside auditors were never shown the letter, and thus were not informed that the customer was unable to pay for the purchase absent the receipt of funds from QuadraMed.
+14.	QuadraMed recognized $5 million in revenue on the licensing contract with the customer in its financial statements.
+This revenue was recognized improperly because the customer did not have any money to pay for the transaction until it received funds from QuadraMed.
+QuadraMed also recorded the pre-paid royalties as an asset in its books and records, in violation of GAAP.
+15.	On May 17, 1999, QuadraMed filed its Form 10-Q for the quarter ended March 31, 1999, after issuing a press release detailing the quarterly results.
+The Form 10-Q reported revenue of $59.6 million and a net loss of $25.6 million.
+As a result of the improper reciprocal transaction, QuadraMed's reported revenue was overstated by about 9% and its reported net loss from operations was understated by about 12%.
+16.	On March 29, 2000, QuadraMed filed its Form 10-K for the fiscal year ended December 31, 1999.
+The 10-K reported revenue of $240 million and a net loss from operations of $9.3 million.
+Because revenue from the $5 million March 1999 transaction should not have been recognized, QuadraMed's reported revenue for the fiscal year was overstated by about 2% and its reported net loss was understated by about 23%.
+E.	Subsequent Events
+17.	During 2000, for reasons unrelated to the matters addressed in this Order, QuadraMed experienced a transition in all of its executive and financial management.
+The individual who had been CFO during the transactions described above left QuadraMed in April 2000.
+By the beginning of 2001, QuadraMed had replaced its Chairman, CEO, CFO and Controller.
+18.	In August 2002, QuadraMed issued a series of press releases announcing that the Company would not meet the deadline for filing its Form 10-Q for the quarter ended June 30, 2002; that it was undertaking a restatement of its financial statements for the fiscal years ended December 31, 2000 and 2001, and for the first quarter of 2002; and that it was suspending revenue and earnings guidance.
+At that time, QuadraMed's audit committee retained forensic accountants to review historical transactions from the 2000-2002 time period, and to establish a framework for resolving issues including revenue recognition on software term licenses and other accounting issues.
+On October 12, 2002, QuadraMed issued a press release announcing that it had identified issues that would also make it necessary to restate its financial statements for the fiscal year ended December 31, 1999.
+19.	On December 10, 2002, QuadraMed issued a press release announcing that it expected the completion of its SEC filings to be delayed for several weeks, and that as a result it would not meet Nasdaq's deadline for the company's securities to remain listed on Nasdaq.
+The release also stated that the forensic accounting firm appointed by the audit committee had reported that "its previously announced forensic procedures have not revealed any indications of fraud or intentional wrongdoing."
+A Reuters story published that day based on the release was entitled, "QuadraMed auditor says no signs of fraud."
+Later that day, after its forensic accountants apprised management that the first press release was misleading, QuadraMed issued another press release noting that the report of QuadraMed's forensic accountants related to 2000 and 2001, and that the forensic accountants were still reviewing "issues concerning the rationale" for several items reported in QuadraMed's 1999 financial statements.
+In addition, the December 10 press release represented that QuadraMed expected to meet the Nasdaq listing requirements for shareholder equity, a conclusion that was not supported by draft financial statements in the possession of QuadraMed's then-CFO.
+The second press release did not address the shareholder equity requirements.
+20.	On June 6, 2003, QuadraMed filed restated financial statements for the fiscal years ended December 31, 1999, December 31, 2000 and December 31, 2001.
+In its restated financial statements, QuadraMed reversed the revenue from the March 1999 transaction.
+The financial statements for the year ended December 31, 1998 were not restated.
+F.	Legal Conclusions
+21.	As a result of the reciprocal transactions described above, QuadraMed engaged in fraudulent conduct in connection with the purchase or sale of securities by reporting false and misleading financial results in various Commission filings and public statements.
+QuadraMed also failed to file with the Commission accurate and complete reports, and filed reports that failed to include material information necessary to make its statements not misleading for the periods ended September 30, 1998, December 31, 1998, March 31, 1999 and December 31, 1999.
+In addition, QuadraMed failed to maintain books, records and accounts that, in reasonable detail, accurately and fairly reflected its transactions and dispositions of assets, and failed to maintain a system of internal accounting controls sufficient to provide reasonable assurances that transactions were recorded as necessary to permit the preparation of financial statements in conformity with GAAP.
+22.	Based on the foregoing, the Commission finds that QuadraMed violated Sections 10(b), 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 10b-5, 12b-20, 13a-1 and 13a-13 thereunder.
+IV.
+In view of the foregoing, the Commission deems it appropriate to accept the Offer submitted by QuadraMed.
+Accordingly, IT IS HEREBY ORDERED pursuant to Section 21C of the Exchange Act that QuadraMed cease and desist from committing or causing any violations or any future violations of Sections 10(b), 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 10b-5, 12b-20, 13a-1 and 13a-13 thereunder.
+By the Commission.
+Jonathan G. Katz
+Secretary
+http://www.sec.gov/litigation/admin/34-49642.htm
+Home Previous Page
+Modified: 05/03/2004

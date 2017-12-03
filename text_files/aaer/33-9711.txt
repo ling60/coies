@@ -1,0 +1,1212 @@
+---------------------Page 1---------------------
+
+                                                                                          
+                            UNITED STATES OF AMERICA 
+                                     Before the 
+                   SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES ACT OF 1933 
+Release No. 9711 / January 27, 2015 
+ 
+SECURITIES EXCHANGE ACT O F 1934  
+Release No. 74141 / January 27, 2015 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT  
+Release No. 3621 / January 27, 2015 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-16361 
+ 
+                                                 ORDER INSTITUTING 
+                                                ADMINISTRATIVE AND CEASE-AND-
+In the Matter of                                DESIST PROCEEDINGS PURSUANT TO 
+                                                SECTION 8A OF THE SECURITIES ACT         
+       OPPENHEIMER & CO. INC.,                  OF 1933 AND   SECTIONS 15(b) AND 21C 
+                                                OF THE SECURITIES EXCHANGE ACT 
+Respondent.                                     OF 1934, MAKING FINDINGS, AND 
+                                                 IMPOSING REMEDIAL SANCTIONS 
+                                                 AND A CEASE-AND-DESIST ORDER 
+ 
+ 
+                                              
+ 
+                                         I. 
+ 
+      The Securities and Exchange Commission (Commission) deems it app ropriate and in the 
+public interest that public administrative and cease-and-desist proceedings be, and hereby are, 
+instituted pursuant  to Section 8A of the Securities Act of 1933 (Securities Act) and  Sections 
+15(b) and 21C of the Securities Exchange Act of 1934 (Exchange Act) against Oppenheimer & 
+Co. Inc. (Oppenheimer or Respondent). 
+                                           
+                                         II. 
+ 
+      In anticipation of the institution of these proceedings, Oppenheimer has submitted an Offer 
+of Settlement (the Offer) which the Commission has determined to accept.  Oppenheimer admits 
+the Commissions jurisdiction over it and over the subject matter of these proceedings, admits the 
+facts set forth in Sections III.B, III.C,  III.D , and III.F below, acknowledges that its conduct violated 
+the federal securities laws, and consents to the entry of this Order Instituting Administrative and 
+Cease-and-Desist Proceedings Pursuant to Section 8A of the Securities Act of 1933 and Sections 
+---------------------Page 2---------------------
+
+15(b) and 21C of the Securities Exchange Act of 1934, Making Findings, and Imposing Remedial 
+Sanctions and a Cease-and-Desist Order (Order), as set forth below. 
+                                                 
+                                               III. 
+        
+       On the basis of this Order and Respondents Offer, the Commission finds 1
+                                                                                 that: 
+ 
+A.     SUMMARY 
+ 
+       1.     Oppenheimer engaged in two separate courses of conduct, the first during the 
+period July 2008 through May 2009 (Oppenheimer I) and the second during the period 
+October 2009 through December 2010 (    Oppenheimer II), each of which  violated the federal 
+securities laws.   
+        
+       Oppenheimer I 
+        
+       2.     Between July 2008 and May 2009, Oppenheimer executed sales of billions of 
+shares of penny stocks2
+                       for an account in the name of its customer, Gibraltar Global Securities, Inc. 
+(Gibraltar) a broker-dealer licensed in the Bahamas.  Although Gibraltar purportedly 
+maintained a proprietary account, Oppenheimer knew that Gibraltar was actually executing 
+transactions and providing brokerage services for its customers, many of whom were U.S. persons. 
+Through this conduct, Gibraltar acted as a broker in the United States even though it was not 
+registered with the Commission as required by the federal securities laws.   
+        
+       3.     Although Gibraltar was exempt from paying U.S. taxes on its own profits from 
+sales of securities in the U.S., it used its exempt status as a means to enable its U.S. customers to 
+avoid paying taxes.  Gibraltar accomplished this by providing Oppenheimer with an Internal 
+Revenue Service (IRS) Form W-8BEN, which purportedly exempted Gibraltar from U.S. tax 
+withholding based on a false certification that Gibraltar was the sole owner of all of the income 
+generated in its Oppenheimer account.  Oppenheimer, however, knew that Gibraltars customers 
+(and not Gibraltar) were the beneficial owners of the securities deposited, sold and or transferred.  
+As a result Oppenheimer knew or should have known    that Gibraltars IRS withholding form was 
+false and could not be relied on.  Presented with a false withholding form, and information 
+revealing that many Gibraltar customers were U.S. persons, Oppenheimer was required to begin 
+withholding taxes from the gross proceeds from sales of securities in the Gibraltar account, which 
+it did not do.   Oppenheimer failed to properly withhold and remit taxes to the IRS, and therefore 
+became liable for taxes it was obligated to withhold.  Oppenheimer, however, failed to record this 
+liability and resulting expenses, which caused its books and records to become inaccurate.  
+                                                 
+1
+ The findings herein are made pursuant to Respondents Offer of Settlement and are not binding on any 
+other person or entity in this or any other proceeding. 
+ 
+2
+ The securities qualified as penny stocks because they did not meet any of the exceptions from the 
+definition of a penny stock, as defined by Section 3(a)(51) of the Exchange Act and Rule 3a51-1 
+thereunder. 
+                                                2 
+                                                 
+---------------------Page 3---------------------
+
+Oppenheimers records were also inaccurate because they reflected the account in which 
+Gibraltars customers shares were deposited, sold and transferred as a proprietary account of 
+Gibraltar, rather than an account for Gibraltars customers. 
+        
+       4.      Oppenheimer was responsible for reporting suspicious activity to the U.S. Treasury 
+Departments Financial Crimes Enforcement Network (FinCEN) on Suspicious Activity Reports 
+(SARs).  In  instances when suspicious activity occurred in the Gibraltar account, Oppenheimer 
+failed to file the requisite SARs.  Suspicious activities included instances where Gibraltar deposited 
+into, and sold out of, its Oppenheimer account large quantities of penny stocks which should have 
+raised concern that Gibraltar and its customers might be participating in unregistered offerings or 
+sales of securities in violation of Section 5 of the Securities Act.  In some instances, Gibraltar 
+deposited billions of shares of penny stocks into its Oppenheimer account and then simply 
+transferred them to other U.S. broker-dealers without any apparent legitimate economic or business 
+purpose.      
+        
+       5.      By allowing Gibraltar to operate as a broker-dealer servicing U.S. customers 
+through its account at Oppenheimer, Oppenheimer willfully  3
+                                                            aided and abetted and was a cause of 
+Gibraltars violation of Section 15(a) of the Exchange Act.  In addition, by failing to recognize 
+liabilities and expenses associated with its failure to properly withhold and remit back-up 
+withholding taxes from sales proceeds in the Gibraltar account, Oppenheimer also willfully 
+violated Section 17(a) of the Exchange Act and Rule 17a-3(a)(2), which requires broker-dealers to 
+maintain ledgers accurately reflecting liabilities and expenses.  By recording transactions for 
+Gibraltars customers in an account inaccurately maintained on Oppenheimers books and records 
+as Gibraltars proprietary account, Oppenheimer also willfully violated Rule 17a-3(a)(9).  Finally, 
+Oppenheimer willfully violated Section 17(a) of the Exchange Act and Rule 17a-8 by failing to file 
+SARs in connection with Gibraltars suspicious activities.    
+        
+       Oppenheimer II 
+        
+       6.      From October 6, 2009 through   December 10, 2010, Oppenheimer, through a 
+registered representative then associated with Oppenheimer  who held a position as a Financial 
+Advisor (FA)  and his immediate supervisor , a Branch Office Manager, willfully violated 
+Sections 5(a) and (c)  of the Securities Act when it engaged in the unregistered distribution of the 
+securities of Quasar Aerospace, Inc. (QASP), Encounter Technologies, Inc. (ENTI), My 
+Social Income, Inc. (MSOA), Strategic Rare Earth Metals, Inc. (SREH), Sebastian River 
+Holdings, Inc. (SBRH), and Shot Spirit Corporation (SSPT) on behalf of a customer (the 
+Customer).  The over 2.5 billion cumulative shares sold through the Customers account   
+generated approximately $12,000,000 in proceeds of which Oppenheimer was paid       $588,400 in 
+commissions.  
+                                                 
+3
+ A willful violation of the securities laws means merely that the person charged with the duty knows 
+what he is doing. Wonsover v. SEC, 205 F.3d 408, 414 (D.C. Cir. 2000) (quoting Hughes v. SEC                                          , 174 
+F.2d 969, 977 (D.C. Cir. 1949)).  There is no requirement that the actor Also be aware that he is 
+violating one of the Rules or Acts.  Id.  (quoting Gearhart & Otis, Inc. v. SEC       , 348 F.2d 798, 803 (D.C. 
+Cir. 1965)). 
+                                                3 
+                                                 
+---------------------Page 4---------------------
+
+        
+       7.      No registration statement was on file or in effect as to the Customers offers and 
+sales of securities as required by Section 5 of the Securities Act.  In certain instances, the 
+securities were restricted because the Customer acquired them directly or indirectly from the 
+issuers, or from affiliates of the issuers, in transactions or chains of transactions not involving 
+any public offering.  The only exemption applicable to offers and sales of restricted securities 
+into the public markets is Securities Act Section 4(a)( 1)s exemption for transactions by any 
+person other than an issuer, underwriter, or dealer.  The Customers offers and sales of those 
+restricted securities into the public market did not, however,  comply with the Rule 144 safe 
+harbor from being considered a statutory underwriter .  More particularly, the Customer did not 
+hold the securities of each of the six non-reporting issuers for at least a year prior to resale, as 
+required by Rule 144(d); and there was a lack of adequate current public information available 
+for QASP, MSOA, ENTI and SREH at the time of the Customers resale, as required by Rule 
+144(c).    
+ 
+       8.      Thus, the Customers offers and resales did not comply with Rule 144 or qualify 
+for Section 4(a)(1) or any other exemption under  the federal securities laws, and violated 
+Sections 5(a) and (c) .   
+ 
+       9.      Oppenheimer willfully violated Section  s 5(a) and (c)  of the Securities Act in 
+executing the Customers orders to sell the securities of the six issues.  It cannot claim an 
+exemption from Section 5 liability under Section 4(a)(4) of the Securities Act  which  exempts 
+from the registration requirements of Section 5 brokers transactions.  John A. Carley, 
+Exchange Act Rel. No. 57,246, 2008 WL 268598, *8 (Jan. 31, 2008) (Commission opinion).  To 
+rely on the exemption, the broker-dealer must, among other things, conduct a reasonable inquiry 
+and, after such an inquiry, it must not be aware of circumstances indicating that the person for 
+whose account the securities are sold is an underwriter with respect to the securities or that the 
+transaction is part of a distribution of the securities of the issuer.  15 U.S.C. § 77d(a)(4); 17 
+CFR § 230.144(g)(4).  
+ 
+       10.     Oppenheimer personnel, including Branch Office personnel and senior 
+management, recognized red flags previously identified by the Commission as indicative of 
+illegal unregistered distributions and did not properly follow up on those red flags and analyze 
+the information in order to be able to rely on the Section 4(a)(4) exemption.  Distribution by 
+Broker-Dealers of Unregistered Securities, Securities Act Rel. No. 33-4445 (Feb. 2, 1962) 
+(Commission interpretative release).  As a result, Oppenheimer personnel did not conduct a 
+reasonable inquiry to determine whether the Customers offers and resales were exempt from the 
+Section 5 registration requirements.   
+        
+       11.     In failing to establish and implement policies and procedures reasonably  designed 
+to prevent and detect Oppenheimer personnels violations of Section 5, Oppenheimer also failed 
+reasonably to supervise.  In this regard, Oppenheimer failed to establish procedures reasonably 
+designed to achieve compliance with Section 5  , for example, in formulating policies related to 
+sales of penny stocks; and failed to implement such procedures  as existed for purposes of 
+
+                                                4 
+                                                  
+---------------------Page 5---------------------
+
+determining whether Oppenheimers personnel conducted a reasonable inquiry regarding 
+whether the Customers resale transactions complied with Rule 144. 
+        
+B.        RESPONDENT  
+ 
+       12.    Oppenheimer, a New York corporation, is a broker-dealer and an investment 
+adviser registered with the Commission and headquartered in New York, New York.  
+Oppenheimer is a subsidiary of Oppenheimer Holdings, Inc., a publicly traded company with 
+securities registered with the Commission pursuant to Section 12(b) of the Exchange Act. 
+        
+C.     OTHER ENTITY RELEVANT TO O PPENHEIMER I 
+        
+       13.    Gibraltar Global Securities, Inc., is a broker-dealer, investment management and  
+advisory firm established in 2004 that is domiciled in the Commonwealth of the Bahamas.  
+Gibraltar is licensed and regulated by the Securities Commission of the Bahamas.  Gibraltar 
+serviced its customers through an account it maintained at Oppenheimer (among other U.S. 
+broker-dealers).  In 2013, the Commission charged Gibraltar and its president with violating 
+Section 15(a) of the Exchange Act and Section 5 of the Securities Act.  (SEC v. Gibraltar Global 
+Securities, Inc. and Warren A. Davis, 13 cv 2575 (S.D.N.Y.))  Gibraltar is also a defendant in SEC 
+v. Carillo Huettel LLP, et al. , 13 cv 1735 (S.D.N.Y.), in which the Commission, in 2013, charged 
+Gibraltar with violations of Section 5 of the Securities Act and the antifraud provisions of the 
+federal securities laws in connection with pump-and-dump schemes concerning two penny stocks.   
+        
+D.     OPPENHEIMER I FACTS  
+
+       14.    In May 2007, Gibraltar opened an account at Oppenheimer.  In its account opening 
+documents, Gibraltar described itself simply as a broker-dealer in the business of investments.  
+Oppenheimer designated Gibraltar as a high risk account because, among other reasons, it was 
+located in the Bahamas.  At the time, Oppenheimer knew that Gibraltar was a foreign broker-
+dealer. 
+        
+       15.    As part of its account opening documents, Gibraltar submitted an IRS Form W-
+8BEN, Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding, 
+which exempted Gibraltar from tax withholding and information reporting of securities sales 
+proceeds to the IRS, based upon Gibraltars status as a foreign entity.  In its IRS Form W-8BEN, 
+Gibraltar falsely represented that it was the beneficial owner of all the income generated in its 
+account at Oppenheimer and that the beneficial owner [was] not a U.S. person. 
+        
+       16.    Oppenheimer knew or should have known that Gibraltars Form W-8BEN was 
+false because, among other things, Gibraltar instructed Oppenheimer to accept deposits and 
+execute sales for Gibraltars clients, some of whom maintained U.S. addresses.  Oppenheimer also 
+knew or should have known that it could not rely on the Form W-8BEN.  However, during the 
+period February 2009 through June 2009, Oppenheimer failed to withhold taxes from the sales of 
+securities in Gibraltars account and similarly failed to remit the amounts that it was obligated to 
+withhold and report the sales proceeds to the IRS.  Oppenheimer also failed to recognize liabilities 
+                                              5 
+                                                
+---------------------Page 6---------------------
+
+and expenses associated with its failure to withhold taxes from sales of securities in Gibraltars 
+account.    
+        
+       17.    Gibraltar used its Oppenheimer account almost exclusively to deposit, sell and 
+transfer shares of penny stocks into the United States on behalf of its customers.  From July 2008 
+through June 2009, Gibraltar conducted approximately 1,800 trades in its Oppenheimer account.  
+Almost all of those trades were orders to sell, resulting in proceeds over $14.68 million from the 
+sale of approximately 7.6 billion shares of over 92 different issuers.  Gibraltar also used its 
+Oppenheimer account to distribute billions of shares of over 130 different issuers of thinly traded 
+penny stocks into U.S. markets by depositing shares and instructing Oppenheimer to transfer those 
+shares to other broker-dealers.   
+        
+       18.    Oppenheimer knew or was reckless in not knowing that Gibraltar was selling shares 
+on behalf of its customers and that Gibraltar was not the beneficial owner of the securities sold.  In 
+fact, in or about January 2009 Gibraltars president informed Oppenheimer personnel that 
+Gibraltars customers wanted to liquidate shares of penny stocks.  Gibraltars president told 
+Oppenheimer that even though the securities to be liquidated were deposited into Gibraltars 
+account and in Gibraltars name, those securities actually belonged to its underlying customers.  
+        
+       19.    Oppenheimer was aware of additional facts showing that Gibraltar was not the 
+beneficial owner of certain securities in the Gibraltar account.  In fact, beginning by at least 
+November 2008, several Oppenheimer employees, including a registered representative and his 
+assistant, accepted share certificates for deposit into Gibraltars account that were titled Gibraltar 
+Global Securities fbo (or for the benefit of) [Gibraltars customer].  Gibraltar also instructed 
+Oppenheimers registered representatives via e-mail to deposit shares of numerous penny stock 
+issuers electronically through the facilities of the Depository Trust Company.   In its e-mails to 
+Oppenheimer, Gibraltar stated that the deposits were for the benefit of or fbo its customers.  In 
+certain instances, Gibraltar forwarded its customers instructions to Oppenheimer.  In other 
+instances, Gibraltars customers were also Oppenheimers customers.   A number of Gibraltars 
+customers maintained U.S. addresses.    
+        
+       20.    Oppenheimer employees also became aware that Gibraltar had used its account to 
+service brokerage customers by processing securities transfers between Gibraltars customers and 
+Oppenheimers own customers.  On certain occasions Gibraltar requested that Oppenheimer 
+transfer shares from Gibraltars Oppenheimer account to other Oppenheimer customers accounts 
+and vice versa.  Oppenheimer described these transfers as third party journals or journals.  To 
+approve journals, Gibraltar provided Oppenheimer with letters of authorization to transfer 
+securities from the Gibraltar account to its clients individual accounts at Oppenheimer.   To 
+complete journals, Oppenheimers representatives were required to fill out questionnaires stating 
+the specific purpose of the journals and the relationship between the parties sending and receiving 
+the shares.  On at least one occasion concerning a journal between Gibraltar and another 
+Oppenheimer U.S. customer, Oppenheimers employees stated on the questionnaire that the 
+purpose of the journal was to transfer stock to a client of Gibraltar.  Thus, Oppenheimer knew 
+
+                                                6 
+                                                 
+---------------------Page 7---------------------
+
+that some of its own customers were also Gibraltars customers, and that Gibraltar was servicing 
+them through transfers between the accounts.  
+        
+       21.    In January 2009, Oppenheimers Anti-Money Laundering (AML) Officer 
+inquired about a suspicious journal (i.e., a transfer) between Gibraltar and another Oppenheimer 
+customer located in California.  As a result, Oppenheimer assigned a surveillance analyst to review 
+Gibraltars activity.  Oppenheimers surveillance analyst concluded that Gibraltars activities 
+needed to be escalated because they raised red flags, namely that Gibraltar :  (i) was a foreign 
+broker-dealer doing business in the U.S.; (ii) selling low-priced stock on behalf of customers; 
+and (iii) that it immediately wired the proceeds out of the Oppenheimer account.  Oppenheimers 
+surveillance analyst also reviewed Gibraltars website.   The analyst concluded that Gibraltars 
+website offered trading, charged competitive commissions and provided customer statements 
+online.  In addition to the surveillance analyst, other Oppenheimer personnelincluding its 
+registered representatives servicing the Gibraltar accountvisited Gibraltars website in 
+connection with their know your customer obligations.  Gibraltars website described itself as a 
+Bahamian off-shore broker-dealer and offered its trading, commissions, and numerous other 
+services commonly provided by brokers.   
+        
+       22.     Oppenheimers AML Policies and Procedures prohibited foreign financial 
+institutions (FFIs) from trading on behalf of customers instead requiring each customer of a FFI 
+to create a separate account transacting on a fully disclosed basis.  To obtain an exemption from 
+Oppenheimers prohibition, FFIs were required to submit an application explaining (among other 
+things) the purpose of the account.  In connection with Oppenheimers surveillance analysts 
+January 2009 investigation into the suspicious third party journal, Gibraltar submitted a request to 
+maintain a single account at Oppenheimer notwithstanding the fact that it was trading on behalf of 
+customers.  Gibraltars exemption request, which was ultimately denied, stated that Gibraltar was a 
+stock broker-dealer.  The exemption request further indicated that Gibraltar intended to provide 
+trading services on behalf of customers, and that the markets served were the United States, 
+Canada, [and] Europe.     
+        
+       23.    From July 2008 through June 2009, Oppenheimer routinely accepted large deposits 
+of penny stocks from Gibraltar either electronically or by accepting physical certificates.  These 
+deposits identified certain U.S. persons (individuals and/or entities) on the face of the security 
+certificates or as the beneficial owners of the shares.  Thereafter Oppenheimer followed Gibraltars 
+instructions to either sell the shares or transfer them to other broker-dealers.  The transactions were 
+suspicious because, although the deposits were made into Gibraltars proprietary account, the 
+securities belonged to Gibraltars customers and were in fact titled for the benefit of or fbo 
+Gibraltars customers.  In addition, Gibraltar deposited large blocks of penny stocks and sold a 
+significant portion of those securities shortly after deposit.  Accordingly, these deposits (and 
+subsequent sales) on behalf of Gibraltars customers should have raised red flags that Gibraltar was 
+participating in unlawful offerings or sales of securities that may have required registration or 
+exemption from registration.   
+        
+
+                                                7 
+                                                 
+---------------------Page 8---------------------
+
+        24.   Gibraltars deposits (and subsequent sales and transfers) of penny stocks were also 
+indicia of suspicious activity under Oppenheimers AML Policies and Procedures .  Oppenheimers 
+AML Policies and Procedures required Oppenheimer personnel to raise red flags such as clients 
+delivering physical certificates representing large blocks of thinly traded or low priced securities.  
+Nevertheless, Oppenheimer did virtually nothing to monitor Gibraltars sales of penny stocks and 
+failed to conduct any due diligence or further inquiry.  Oppenheimers personnel responsible for 
+reviewing Gibraltars trading failed to do anything to review Gibraltars sales to confirm that they 
+were legitimate transactions, as required by Oppenheimers AML Policies and Procedures, and not 
+suspicious transactions that required reporting.  Moreover, had due diligence and further inquiry 
+been conducted as required, Oppenheimers personnel would have likely detected additional 
+indicia of possible market manipulation; specifically, that Gibraltars deposits, sales and transfers 
+of thinly traded penny stock often coincided with suspicious news stories and dubious promotion.  
+Furthermore, on certain occasions after April 2009, Oppenheimer received regulatory or other 
+inquiries concerning Gibraltars activity.  On at least one occasion, Oppenheimer received a 
+specific inquiry asking whether Oppenheimer had AML concerns about Gibraltars possible 
+activity in unregistered offerings or sales of securities.  Because of AML-related inquiries and 
+other red flags of potential misconduct in the Gibraltar account, Oppenheimer had reason to 
+suspect that the transactions involved unlawful activity.   
+        
+       25.    Oppenheimer had reason to suspect that Gibraltars U.S. customers may not have 
+been paying taxes (or not reporting income to the IRS) on the profits from the sales of their stocks 
+made by Gibraltar through the Oppenheimer account.  For example, Oppenheimer knew or should 
+have known that: (i) Gibraltar was selling penny stocks on behalf of its customersmany of whom 
+maintained addresses in the U.S.; (ii) Gibraltars IRS Form W-8BEN was false because it certified 
+that Gibraltar was the beneficial owner of the income in the Oppenheimer account; and (iii) 
+Gibraltar was located in a jurisdiction that it considered a tax haven.  As mentioned, on certain 
+occasions, various Oppenheimer employees (including certain Oppenheimer registered 
+representatives) accessed Gibraltars website.  Gibraltars website advertised that its customers 
+were not required to pay taxes on their profits.   
+        
+E.     OPPENHEIMER I VIOLATIONS              
+ 
+       Broker-Dealer Registration Violations 
+ 
+       26.    Section 3(a)(4) of the Exchange Act defines a broker as any person engaged 
+in the business of effecting transactions in securities for the account of others.   Being engaged in 
+the business  is demonstrated by, among other things, regularity of participation through active 
+solicitation, the dollar amount of securities sold, and the extent to which advertisement and 
+investor solicitation are utilized.  
+ 
+       27.    In addition to regularity of participation, Section 3(a)(4) also requires that the 
+person effect securities transactions on behalf of others.  Among the indicia that a person is 
+effecting transactions on behalf of others are:  (1) active solicitation of investors; (2) receiving 
+
+                                               8 
+                                                 
+---------------------Page 9---------------------
+
+transaction-based compensation; (3) facilitating or participating in the execution of transactions; 
+and (4) handling the securities or funds of others in connection with securities transactions.     
+ 
+       28.    Gibraltar used its Oppenheimer account to act as a broker within the meaning of 
+Section 3(a)(4) of the Exchange Act.  As described in Section III.D above, Gibraltar advertised its 
+brokerage services through its website.   Gibraltar solicited U.S. customers through its website, and 
+earned commissions executing transactions on behalf of United States persons through its 
+Oppenheimer account.  Gibraltar also took an active role in handling the securities and funds of 
+U.S. customers which was facilitated by Oppenheimer. 
+        
+       29.    Oppenheimer knew that Gibraltar was acting as a broker within the meaning of 
+Section 3(a)(4) of the Exchange Act and that Gibraltar was engaged in brokerage activities in the 
+United States.  Oppenheimer also knew that Gibraltar:  (1) maintained a website that advertised its 
+services; (2) executed transactions on behalf of its customers through Oppenheimer; (3) charged 
+commissions; and (4) actively handled securities and funds for its customers.  In addition, 
+Oppenheimer knew that Gibraltar was not registered as a broker in the U.S.  
+ 
+       30.    By accepting share deposits on behalf of Gibraltars customers and thereafter 
+executing sales (and transfers) of penny stocks for proceeds of over $14.68 million, Oppenheimer 
+provided substantial assistance and aided and abetted and was a cause of Gibraltars violation of 
+Section 15(a) of the Exchange Act, which requires any broker or dealer that uses the mails or any 
+means of interstate commerce to effect transactions in, or to induce or attempt to induce purchases 
+or sales of securities (other than an exempted security or commercial paper, bankers acceptances, 
+or commercial bills) to register with the Commission in accordance with Section 15(b).   
+ 
+       Anti-Money Laundering Violations  
+ 
+       31.    The Bank Secrecy Act (BSA), as amended by the USA PATRIOT Act, and  
+implemented under rules promulgated by FinCEN, requires that broker-dealers file Suspicious 
+Activity Reports (SARs) with FinCEN to report a transaction (or a pattern of transactions of 
+which the transaction is a part) conducted or attempted by, at, or through the broker-dealer 
+involving or aggregating to at least $5,000 that the broker-dealer knows, suspects, or has reason to 
+suspect: (1) involves funds derived from illegal activity or is conducted to disguise funds derived 
+from illegal activities; (2) is designed to evade any requirements of the Bank Secrecy Act; (3) has 
+no business or apparent lawful purpose and the broker-dealer knows of no reasonable explanation 
+for the transaction after examining the available facts; or (4) involves use of the broker-dealer to 
+facilitate criminal activity.  31 C.F.R. § 1023.320(a)(2) (SAR Rule). 
+ 
+       32.    Exchange Act Rule 17a-8 requires broker-dealers to comply with the reporting,  
+record-keeping and record retention requirements of the BSA. The failure to file a SAR as required 
+by the SAR Rule is a violation of Section 17(a) of the Exchange Act and Rule 17a-8 thereunder, 
+and is enforceable by the Commission. 
+ 
+
+                                               9 
+                                                 
+---------------------Page 10---------------------
+
+       33.    As a result of Gibraltars activity described in Section III.D above, Oppenheimer 
+knew, suspected or had reason to suspect that Gibraltar was using its Oppenheimer account to 
+facilitate unlawful activity, specifically, that Gibraltar was using its Oppenheimer account to:   
+ 
+              a.      participate in unregistered offerings and sales of securities in violation of 
+                      Section 5 of the Securities Act;   
+ 
+              b.      engage in penny stock market manipulation, in violation of Sections 10(b) 
+                      of the Exchange Act and 17(a) of the Securities Act;   
+ 
+              c.      evade the payment of U.S. taxes (or not report income to the IRS);   
+ 
+              d.      operate as a broker-dealer in the U.S. in violation of Section 15(a) of the 
+                      Exchange Act; and 
+               
+              e.      Moreover, Gibraltars deposits and subsequent transfers of penny stocks 
+                      were suspicious because they lacked any apparent business or lawful 
+                      purpose. 
+               
+       34.    By failing to file SARs with FinCEN as required by the BSA as amended by the 
+PATRIOT Act with respect to any of Gibraltars activity described above, Oppenheimer willfully 
+violated Section 17(a) of the Exchange Act and Rule 17a-8.   
+ 
+       Books-and-Records Violations 
+ 
+       35.    Section 17(a) of the Exchange Act provides that each broker-dealer shall  
+keep for prescribed periods such records, furnish such copies thereof, and make and disseminate 
+such reports as the Commission, by rule, prescribes as necessary or appropriate in the public 
+interest, for the protection of investors, or otherwise in furtherance of the purposes of this title.  
+Under Section 17(a)(1) of the Exchange Act and Rule 17a-3 promulgated thereunder, broker-dealer 
+are required to make and keep current certain specified books and records relating to their business.  
+Under Rule 17a-3(a)(2) broker-dealers are required to maintain [l]edgers (or other records) 
+reflecting all assets and liabilities, income and expense and capital accounts.  The requirement to 
+maintain books and records under Rule 17a-3 requires that they also be accurate.  Oppenheimers 
+books and records were inaccurate because they failed to recognize Oppenheimers tax liability 
+and expenses associated with the Gibraltar account.  
+ 
+       36.    U.S. broker-dealers are required to report sales of securities by each customer 
+(including the customers tax identification number (TIN)) who is a U.S. person to the IRS.  
+Sales of securities for customers who are not U.S. persons, however, are exempt from reporting.  
+U.S. broker-dealers are required to withhold 28% of all proceeds of sales of securities by U.S. 
+persons if they have not provided a Form W-9 with a valid TIN.  No such withholding is required 
+for customers who are not U.S. persons if their foreign status is established by a valid Form W-
+
+                                               10 
+                                                 
+---------------------Page 11---------------------
+
+8BEN.  A U.S. broker-dealer may only rely on a Form W-8BEN to establish foreign status absent 
+actual knowledge or reason to know that the form is inaccurate otherwise.     
+ 
+       37.    As described in Section III.D above, Gibraltar submitted a Form W-8BEN, 
+Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding, in order to 
+obtain exemption from tax withholding.  Gibraltars W-8BEN certified, under penalties of perjury, 
+that Gibraltar was the sole owner of the income generated in its Oppenheimer account and that the 
+beneficial owner was not a U.S. person.  This certification was false.  Gibraltar was transacting on 
+behalf of its underlying customersmany of whom maintained U.S. addresses.   These underlying 
+customers (and not Gibraltar) were the beneficial owners of the securities sold from (and the 
+income generated in) Gibraltars account.  By submitting the false W-8BEN, Gibraltar was able to 
+avoid having Oppenheimer withhold taxes and/or report proceeds of the sale of securities income 
+to the IRS.   
+ 
+       38.    As described in Section III.D above, by February 2009 at the latest, Oppenheimer 
+became aware that Gibraltar deposited and sold securities for the benefit of Gibraltars underlying 
+customers.  It therefore knew or had reason to know that Gibraltars W-8BEN was false and could 
+no longer rely on Gibraltars W-8BEN.  At that point it was obligated to withhold 28% of the gross 
+proceeds from the sale of securities in Gibraltars account.    
+ 
+       39.    A U.S. broker-dealer that fails to back up withhold 28% of all proceeds of sales of 
+securities (and thereafter remit) taxes when it knows or has reason to know of facts indicating that 
+a withholding exemption form (such as a W-8BEN) is false or inaccurate is jointly and severally 
+liable for any amounts that were required to be withheld. 
+ 
+       40.    As described in Section III.D above during the period February 2009 through June 
+2009, Oppenheimer failed to withhold 28% of the gross proceeds from sales of securities in the 
+Gibraltar account and remit the amounts withheld to the IRS.  Accordingly, Oppenheimer was 
+liable for the amounts it was obligated to withhold and remit to the IRS.  As a result Oppenheimer 
+incurred an expense that it also failed to record in its books, records and ledgers.  Oppenheimers 
+books, records and ledgers were inaccurate because they did not reflect the tax withholding 
+liabilities and resulting expenses. 
+ 
+       41.    Pursuant to Rule 17a-3(a)(2) of the Exchange Act Oppenheimer was required to 
+maintain [l]edgers (or other records) reflecting all assets and liabilities, income and expense and 
+capital accounts.  Beginning in February 2009, these records did not accurately reflect tax 
+liabilities and associated expenses relating to the Gibraltar account.   
+ 
+       42.    Because its ledgers were inaccurate, Oppenheimer violated Section 17(a) of the 
+Exchange Act and Rule 17a-3(a)(2). 
+ 
+       43.    Rule 17a3(a)(9) of the Exchange Act requires broker-dealers to maintain records 
+for each cash and margin account, showing, among other things, the name and address of the 
+beneficial owner.  As set forth above, Oppenheimer violated Section 17(a) and Rule 17a-3(a)(9) of 
+
+                                               11 
+                                                 
+---------------------Page 12---------------------
+
+the Exchange Act by recording transactions for Gibraltars customers in an account inaccurately 
+maintained on Oppenheimers  books and records as Gibraltars proprietary account. 
+ 
+F.     OPPENHEIMER II FACTS 
+        
+       44.    In October 2009, the Customer opened an account with Oppenheimer.  Its first 
+deposit, on October 6, 2009, was of 200 million QASP shares.  
+        
+       45.    The Customer acquired penny stocks in the six issuers through wrap-around 
+agreements or through third-party stock purchase agreements.  In both scenarios, the transactions 
+were predicated upon the issuer owing a debt with no convertibility provision to an affiliate of the 
+issuer or an unaffiliated third party, such as a service provider, for more than one year.   
+               
+       46.    With respect to the securities of four issuers, QASP, MSOA, SBRH, and SSPT, the 
+Customer entered into wrap-around agreements with each issuer and an affiliate of the issuer 
+pursuant to which the affiliate assigned to the Customer the right to collect an amount owed to the 
+affiliate by the issuer in exchange for the Customer giving a promissory note to the issuer.  The 
+agreements between the Customer and issuer each added a convertibility provision pursuant to 
+which the Customer could convert the debt now owed to it by the issuer into common stock.  The 
+Customer then converted the debt into shares of the issuer, deposited and liquidated the shares in 
+its Oppenheimer account, and withdrew the proceeds.   
+               
+       47.    With respect to the securities of two issuers, ENTI and SREH, the Customer 
+entered into a stock purchase agreement with a third-party purportedly unaffiliated with the issuer 
+to whom the issuer owed a debt.  On the same day or shortly before the Customer entered the 
+agreement, the third party converted its debt into issuer shares with the consent of the issuer, even 
+though no conversion provision had been previously included with the debt.  Pursuant to the stock 
+purchase agreement, the third party then sold those shares to the Customer. 
+        
+       48.    In most instances, the Customer had deposited and liquidated each tranche of the 
+six issuers penny stocks through its Oppenheimer account shortly after acquiring them.  In any 
+event, the Customer had liquidated all tranches of each issuers securities in less than eight months. 
+ 
+       49.    As a result of this pattern of acquisition and liquidation, the Customer owned the 
+following percentages of the outstanding shares over the dates given: 
+        
+ 
+        Security      Date range                          Percentage owned by Customer 
+        QASP          December 2009 to February 2010                   23% 
+        MSOA          March 19, 2010 to June 29, 2010                  18% 
+        SBRH          June 10, 2010 to July 27, 2010                    49.6% 
+        ENTI          June 22, 2010 to July 28, 2010                   31% 
+ 
+
+                                              12 
+                                                 
+---------------------Page 13---------------------
+
+       50.    No registration statement was filed with the Commission or in effect with respect to 
+the conversion of the debt into shares, the Customers initial purchase of the securities, or the 
+Customers subsequent resales.  The Customers resales were effected through interstate 
+commerce.  
+        
+       51.    The Customer represented to Oppenheimer that its resales qualified for the Rule 
+144 safe harbor and the Securities Act Section 4(a)(1) exemption from registration.   
+        
+       52.    The Customers resales of the securities of all six issuers did not qualify for 
+exemption from registration because the Customer did not meet Rule 144(d)s one -year holding 
+period requirement.  
+        
+       53.    The Customers resales of four of the issuersQASP, MSOA,   ENTI, and SREH
+also did not qualify for exemption from registration because there was no adequate current public 
+information available with respect to those issuers as required by Rule 144(c).   
+        
+       54.    QASP shares were deposited at Oppenheimer by Deposit/Withdrawal At 
+Custodian, which is an electronic transfer of the shares from the transfer agent.  With respect to the 
+securities of the other five issuers, the Customer deposited the shares at Oppenheimer in the form 
+of physical certificates.   
+               
+       55.    The per-share price of the securities was in many cases below one cent, and never 
+exceeded $0.24 per share.  
+        
+       56.    From the time the Customer began selling penny stocks through its Oppenheimer 
+account, Oppenheimer was aware or should have been aware that the Customer was engaging in 
+illegal unregistered distributions of securities based on the presence of red flags.  
+        
+       57.    During the relevant period, for example, Oppenheimer personnel were   aware that 
+the Customers business model was to acquire and immediately liquidate large blocks of shares for 
+the purpose of raising capital to finance penny stock issuers. 
+        
+       58.    On January 13, 2009, the Financial Industry Regulatory Authority (FINRA) 
+issued Notice to Members 09-05 in which FINRA reminded firms of their obligations to determine 
+whether sales comply with the registration requirements of the federal securities laws.  FINRA 
+listed the red flags that broker-dealers should be on the alert for in identifying illegal unregistered 
+distributions.  The red flags were consisten t with red flags previously identified by the Commission 
+as indicative of illegal unregistered distributions.   
+        
+       59.    Oppenheimers compliance department issued internal guidance in October 2009, 
+in response to FINRA Notice 09-05, expressly referencing certain of these red flags which broker-
+dealers should be on the alert for in identifying illegal unregistered distributions.  The red flags 
+included the following: (i) a customer opens a new account and delivers physical certificates 
+representing a large block of thinly traded or low-priced securities; (ii) a customer has a pattern 
+
+                                               13 
+                                                 
+---------------------Page 14---------------------
+
+of depositing physical share certificates, immediately selling the shares, and then withdrawing the 
+proceeds from the account; (iii) a customer deposits share certificates that have been recently 
+issued or represent a large percentage of the float of the security; and (iv) the lack of a restrictive 
+legend on deposited shares seems inconsistent with the date the customer acquired the securities or 
+the nature of the transactions in which the securities were acquired.   
+        
+       60.    The Customers account activity exhibited a pattern of red flags identified in 
+Commission precedent and the FINRA notice indicating the transactions were part of illegal 
+unregistered distributions.  For example, the Customer opened the account in October 2009 and 
+deposited 2.5 billion shares of penny stocks, mostly in the form of physical certificates.  In many 
+instances, the Customer obtained the shares pursuant to conversion provisions put in place 
+coincident with or shortly before each share issuance.  The Customer had a pattern of depositing 
+and liquidating the shares and withdrawing the proceeds from each sale.  The certificates deposited 
+did not have restricted legends even though the Customer had only recently acquired them in a 
+private transaction with the issuer or third parties who themselves had recently acquired them from 
+the issuer.  In addition, the cumulative number of shares owned and sold over relatively short 
+periods of time constituted a significant percentage of the issued and outstanding shares.  The per 
+share price of each liquidated share of the six issuers was generally sub-penny and never exceeded 
+$0.24.   
+                
+       61.    Oppenheimer personnel became aware of these red flags raised by the Customers 
+account activity but did not reasonably follow up to determine whether the transactions were part 
+of an illegal unregistered distribution.  Because many of the Customers transactions described 
+above were for shares priced below a penny, the FA had to obtain senior management personnels 
+exceptions to the firms policy prohibiting the sale of sub-penny shares.  In granting the FAs 
+requests, certain senior management personnel became aware of certain of these red flags.  
+        
+       62.    Oppenheimer personnel did not conduct a reasonable inquiry sufficient to claim 
+reliance on the Section 4(a)(4) exemption.   
+        
+       63.    For resale transactions of the securities of QASP, Oppenheimer did not ascertain 
+reasonably that an exemption from registration was available.  For the majority of the QASP 
+deposits and resales, Oppenheimer personnel did not gather any other information or inquire about 
+them.  Oppenheimer personnel did not receive attorney opinion letters from the Customer for any 
+deposits and resales.   
+        
+       64.    For resale transactions of the securities of the remaining five issuers, the relevant 
+Branch Office generally made inquiries consisting of contacting the transfer agent; conducting 
+searches of databases for information, including adequate current public information, on the issuer; 
+and reviewing the agreement and other paperwork the Customer provided to determine that the 
+Customer owned the shares being deposited.  The Branch Office personnel conducting this inquiry 
+did not, however, reasonably review this information with a view towards determining whether the 
+transactions met any exemption from the registration requirements; nor could they have, as they 
+did not adequately understand Section 5 or Rule 144s requirements.  As a result, these inquiries 
+
+                                               14 
+                                                 
+---------------------Page 15---------------------
+
+either revealed facts that called into question the availability of the purported Rule 144 safe harbor, 
+on which the Branch Office personnel failed to follow up, or did not sufficiently address facts 
+necessary to support the representations of the Customer that a Rule 144 safe harbor was available 
+for its resale transactions.     
+        
+       65.     In connection with most of the deposits of the securities of the five issuers, the 
+Customer also submitted an attorney opinion letter written on behalf of the issuer or the Customer 
+and directed to the transfer agent.  Those letters identified Rule 144 as the applicable safe harbor 
+allowing the Customer to use the Section 4(a)(1) exemption from the registration requirements of 
+the Securities Act and purported to explain why Rule 144 was available.  These attorney opinion 
+letters indicated that the legal conclusions were based primarily on documents provided by and 
+representations made by the Customer and issuers, and they indicated that the attorneys did not 
+independently verify the facts forming the basis for their opinions.      
+        
+       66.      Given that the pattern of recurring red flags of which Oppenheimer personnel was 
+aware strongly suggested that the Customer was engaged in illegal unregistered distributions of 
+securities, the attorney opinion letters that the Customer submitted did not provide Oppenheimer 
+with a reasonable basis upon which to conclude that the Rule 144 safe harbor was available.  First, 
+the letters with respect to ENTI and SREH applied only to the sale of the third-party to the 
+Customer, and on their face did not apply to the Customers resale of the shares.  Second, none of 
+the letters set forth all of the elements of Rule 144, nor did they explain how those elements were 
+met in the context of facts known to Oppenheimer which indicated that the elements were not met.  
+Third, all of the attorney opinion letters were based primarily on conclusory representations by the 
+issuers and the Customer.   
+        
+       67.     During the relevant period, Oppenheimers policies and procedures did not address 
+compliance with Section 5, including how to conduct a reasonable inquiry to determine whether a 
+customers transactions were subject to an available exemption from the registration requirements 
+of Section 5, except in relation to compliance with certain requirements of Rule 144.   
+        
+       68.       In response to trading in penny stocks, among other things, Oppenheimer 
+formulated policies designed to limit customers transactions in penny stocks and address capital 
+costs of clearing the stocks.  Although these policies purportedly sought to address potential 
+unregistered distributions, among other regulatory risks, no feature of the policies reflected 
+consideration of Section 5 requirements, except for the limited consideration of affiliate status. 
+         
+       69.       Oppenheimer also did not adequately implement its policies and procedures to 
+prevent or detect Oppenheimer personnels Section 5 violations.   
+        
+       70.     Before September 2010, Oppenheimers written policy required that all shares 
+subject to Rule 144 be reviewed and cleared by the firms National Sales department.  With respect 
+to physical stock certificates, the practice at the relevant Branch Office for identifying restricted 
+securities, however, was to see whether the certificate bore a restricted legend, and route only those 
+certificates bearing such a legend to this department.  The Branch Office did not route to this 
+
+                                               15 
+                                                  
+---------------------Page 16---------------------
+
+department those certificates without a legend, even if they were accompanied by a Rule 144 
+opinion letter from outside counsel, unless it determined the customer may be an affiliate of the 
+issuer.   
+        
+       71.      Beginning around September 2010, Oppenheimer eliminated certain   procedures 
+designed to detect or prevent Section 5 violations concerning resales of securities not stamped 
+restricted and accompanied by an opinion letter when Oppenheimer had the National Sales 
+department perform a limited review of the certificates bearing no restricted legends.  Personnel 
+from this National Sales department reviewed the deposit of SSPT shares, described above, under 
+this limited review but did not detect that the transactions failed to meet the requirements of Rule 
+144.   
+                
+G.     OPPENHEIMER II VIOLATIONS 
+        
+       Section 5 Violations 
+        
+       72.     Sections 5(a) and 5(c) of the Securities Act prohibit the offer and sale of securities 
+through interstate commerce or the mails, unless a registration statement is filed with the 
+Commission and is in effect, or the offer and sale are subject to an exemption.   
+        
+       73.     No registration statement was filed with the Commission or in effect with respect to 
+the conversion of the debt into shares, the Customers initial purchase of the securities, or the 
+Customers subsequent resales.  The Customers resales were effected through interstate 
+commerce. 
+                       
+       74.     Rule 144 provides a non-exclusive safe harbor for individuals or entities to sell 
+restricted or affiliate-owned shares without being deemed to be a statutory underwriter and 
+therefore qualify for Securities Act Section 4(a)(1)s exemption from registration for transactions 
+by any person other than an issuer, underwriter, or dealer.  To qualify for the safe harbor, the 
+resale must meet each of the following conditions: the individual or entity must hold the shares of a 
+non-reporting issuer for at least a year prior to reselling them and  there must be adequate current 
+public information available.  17 C.F.R. §  230.144(c) & (d).    
+                        
+       75.     The Customers resale of the securities of the six issuers did not meet Rule 144s 
+holding period requirement.  In circumstances involving a conversion or exchange of securities, 
+Rule 144(d)(3)(ii) allows a security holder which acquired a security in exchange for other 
+securities of the same issuer to tack the holding period back to the date at which the surrendered 
+security was first acquired.  The debts the Customer converted to acquire the shares did not qualify 
+as securities for purposes of Rule 144(d)(3)(ii).  See Reves v. Ernst & Young, 494 U.S. 56, 65 
+(1990).  Additionally, in this case, even if the debt had been a security from the outset, the 
+Customer could not  tack back its holding period to that of previous affiliated owners.  See Resales 
+of Restricted and Other Securities, Securities Act Rel. No. 33-6099 (August 2, 1979), 1979 WL 
+174360 (at Item 33).  Thus, the Customer could not tack its holding period back to the onset of the 
+original debt.  Lastly, Rule 144(d)(2) requires payment in full before the holding period can 
+
+                                               16 
+                                                 
+---------------------Page 17---------------------
+
+commence.  In this instance, the wrap-around agreements indicated that the Customer paid for the 
+QASP, MSOA, SBRH, and SSPT securities with a promissory note, which does not qualify as full 
+payment in this case.  17 C.F.R. §230.144(d)(2).  The Customer paid for the shares around the time 
+of the conversions, at which time the holding period commenced. 
+        
+       76.    Further, the Customers resales of QASP, MSOA, ENTI, and SREH also did not      
+qualify for exemption from registration because there was no adequate current public information 
+available with respect to those issuers as required by Rule 144(c).   
+               
+       77.    Section 4(a)(4) of the Securities Act exempts from the registration requirements of 
+Section 5 brokers transactions executed upon customers orders on any exchange or in the over-
+the-counter market but not the solicitation of such orders.  Section 4(a)(4) of the Securities Act is 
+unavailable when a broker-dealer knows or has reasonable grounds to believe that the selling 
+customers part of the transaction is not exempt from Section 5 of the Securities Act.  John A. 
+Carley, Exchange Act Rel. No.  57246, 2008 WL 268598, *8.  To rely on this exemption  , the 
+broker-dealer must, among other things, conduct a reasonable inquiry into the facts surrounding the 
+proposed unregistered sale, and after such inquiry it must not be aware of circumstances 
+indicating that the person for whose account the securities are sold is an underwriter with respect to 
+the securities or that the transaction is part of a distribution of the securities of the issuer.  15 
+U.S.C. § 77d(a)(4); 17 CFR § 230.144(g)(4).  Section 2(a)(11) of the Securities Act defines an 
+underwriter as any person who has purchased from an issuer, with a view to, or offers or sells for 
+an issuer in connection with, the distribution of any security, or participates or has a direct or 
+indirect participation in any such undertaking, or participates or has a participation in the direct or 
+indirect underwriting of any such undertaking.  15 U.S.C. § 77b(a)(11). 
+        
+       78.    From the time the Customer began selling penny stocks through its Oppenheimer 
+account, Oppenheimer was aware or should have been aware that the Customer was engaging in 
+illegal unregistered distributions of securities.   
+        
+       79.    There were ample red flags, as noted in paragraph 61 of Section III.F above, of 
+which Oppenheimer personnel, including senior management, were aware that required 
+Oppenheimer to conduct a reasonable inquiry.   
+          
+       80.    A reasonable inquiry must be an adequate inquiry under the circumstances.  
+Wonsover, 205 F.3d at 409.  The amount of inquiry called for necessarily varies with the 
+circumstances of particular cases.  A dealer who is offered a modest amount of a widely traded 
+security by a responsible customer, whose lack of relationship to the issuer is well known to him, 
+may ordinarily proceed with considerable confidence.  On the other hand, when a dealer is offered 
+a substantial block of a little-known security, either by persons who appear reluctant to disclose 
+exactly where the securities came from, or where the surrounding circumstances raise a question as 
+to whether or not the ostensible sellers may be merely intermediaries for controlling persons or 
+statutory underwriters, then searching inquiry is called for.  Distribution by Broker-Dealers of 
+Unregistered Securities, Securities Act Rel. No. 33-4445 (emphasis added).    
+        
+
+                                               17 
+                                                 
+---------------------Page 18---------------------
+
+            81.     Given the specific red flags associated with the Customers deposits and resales of 
+the six securities, as noted in Section III.F above, Oppenheimer was required to engage in a 
+searching inquiry to properly rely on the Section 4(a)(4) brokers transaction exemption.  See                                                                                         
+World Trade Financial Corp., et al., Exchange Act Rel. No. 66114, 8 (Jan. 6, 2012) (Commission 
+opinion), petition denied, 739 F.3d 1243 (9th Cir. 2014); Stone Summers & Co., et al., 45 S.E.C. 
+105, 108 (1972) (Commission opinion).  However, Oppenheimer personnel did not conduct a 
+reasonable inquiry sufficient to claim reliance on the Section 4(a)(4) exemption.   
+ 
+       82.     Brokers, however, in the face of recurring red flags suggesting that their customers 
+are engaging in unregistered distributions of securities, cannot satisfy their reasonable inquiry 
+obligations by relying on the mere representations of their customers, the issuers, or counsel for the 
+same, without reasonably investigating the potential for opposing facts.  See World Trade 
+Financial Corp. v. SEC, 739 F.3d 1243, 1249 (9 th
+                                                 Cir. 2014) (rejecting the argument that under the 
+circumstances the duty of reasonable inquiry was met by reliance on third parties in conformity 
+with industry practice and stating brokers rely on thirdparties at their own peril, and will not 
+avoid liability through that reliance when the duty of reasonable inquiry rests with the brokers);  
+Wonsover, 205 F.3d at 415-16 (rejecting brokers argument that under the circumstances he 
+justifiably relied on the clearance of sales by his firms restricted stock department, the transfer 
+agent, and counsel).  A broker-dealer cannot rely upon the absence of restrictive legends on the 
+stock certificates when the circumstances surrounding the transaction indicate the need for a 
+thorough investigation.  Transactions in Securities of Laser Arms Corporations by Certain 
+Broker-Dealers, Exchange Act Rel. No. 34- 28878, 13 (Feb. 14, 1991) (Commission opinion). 
+ 
+       83.     As described in paragraphs 64 and 65 of Section III.F, Oppenheimer personnel 
+collected information and made certain inquiries which either revealed facts that called into 
+question the availability of the purported Rule 144 safe harbor, on which the Branch Office 
+personnel failed to follow up, or did not sufficiently address facts necessary to support the 
+representations of the Customer that a Rule 144 safe harbor was available for its resale 
+transactions.  
+        
+       84.     Oppenheimer personnel received attorney opinion letters in connection with most 
+of the deposits of the securities of the five issuers other than QASP.  A broker may reasonably rely 
+on an attorney opinion concluding that an exemption from registration is available only where: (1) 
+that opinion letter describes the relevant facts in sufficient detail to provide an explicit basis for 
+the legal conclusions stated, Sales of Unregistered Securities by Broker-Dealers, Exchange Act 
+Rel. No. 9239 (July 7, 1971); and (2) the brokers reasonable independent investigation does not 
+uncover contrary facts.   As noted in paragraph 67 of Section III.F, in the context of the red flags 
+known to Oppenheimer personnel, they could not rely on these letters because: (1) the letters with 
+respect to ENTI and SREH applied only to the sale of the third-party to the Customer, and on their 
+face did not apply to the Customers resale of the shares; (2) none of the letters set forth all of the 
+elements of Rule 144, nor did they explain how those elements were met in the context of facts 
+known to Oppenheimer which indicated that the elements were not met; and (3) all of the attorney 
+opinion letters were based primarily on conclusory representations by the issuers and the 
+Customer.   
+
+                                               18 
+                                                 
+---------------------Page 19---------------------
+
+       85.     As a consequence, Oppenheimer and its personnel could not claim the brokers 
+transaction exemption under Section 4(a)(4) with respect to the Customers unregistered resales of 
+securities, and willfully violated Sections 5(a) and (c) .     
+ 
+       Failure Reasonably to Supervise   
+ 
+       86.    Section 15(b)(4)(E) of the Exchange Act provides that the Commission may 
+sanction a broker-dealer for failing reasonably to supervise, with a view to preventing violations of 
+the federal securities laws, another person subject to its supervision who commits such a violation.   
+        
+       87.    Broker-dealers must establish procedures reasonably designed to prevent and detect 
+the particular violation at issue.  See Midas Securities, LLC, et al., Exchange Act Rel. No. 66200, 
+2012 WL 169138 at*12 (Jan. 20, 2012) (Commission opinion).  Procedures addressing the 
+unregistered sale of securities that fail to instruct sales staff on how to identify an illegal 
+unregistered distribution, such as providing guidance setting forth: (1) reasonable inquiry 
+procedures  when customers [seek] to sell large amounts of an unknown stock to the public 
+without registration, and (2) how to determine whether a proposed sale was exempt from 
+registration, including asking their customer how, when, and under what circumstances the 
+customer acquired the stock may be unreasonable.  Id.     
+        
+       88.    As described in paragraphs 68 and 69 of Section III.F  , Oppenheimer did not 
+establish policies and procedures that addressed compliance with Section 5, including how to 
+conduct a reasonable inquiry to determine whether a customers transactions were subject to an 
+available exemption from the registration requirements of Section 5, except in relation to 
+compliance with certain requirements of Rule 144.   
+ 
+       89.       Al  though Oppenheimers policies related to penny stocks purportedly sought to 
+address potential unregistered distributions, among other regulatory risks, except for the limited 
+consideration of affiliate status, no feature of the policies reflected consideration of the 
+requirements to comply with Section 5 and related rules and Commission interpretative statements.  
+ 
+       90.    In addition to establishing reasonable policies and procedures, a broker-dealer must 
+also have effective systems in place to implement them.  See Quest Capital Strategies, Inc                                                      ., 
+Exchange Act Rel. No. 44935, 2001 WL 1230619 at *6 (Oct. 15, 2001) (Commission opinion).  A 
+system of follow up and review when irregularities are detected is also a critical part of the 
+implementation of policies and procedures.  See World Trade Fin. Corp.                                          , Exchange Act Rel. No. 
+66114, *11-12 (Jan. 6, 2012) (Commission opinion).  
+ 
+       91.       Oppenheimer also did not adequately implement its policies and procedures to 
+prevent or detect Oppenheimer personnels  Section 5 violations.  Before September 2010, 
+Oppenheimers written policy required that all shares subject to Rule 144 be reviewed and cleared 
+by a National Sales department, but the Branch Office did not route to this department physical 
+stock certificates without a restricted legend, even if they were accompanied by a Rule 144 opinion 
+letter from outside counsel, unless it determined the customer may be an affiliate of the issuer.  If 
+
+                                               19 
+                                                 
+---------------------Page 20---------------------
+
+the firms written policy had been reasonably implemented and all certificates subject to Rule 144 
+had been routed to this department for review, Oppenheimer might have detected and prevented 
+Oppenheimer personnels Section 5 violations. 
+ 
+       92.      Beginning around September 2010, Oppenheimer eliminated certain  procedures 
+designed to detect or prevent Section 5 violations concerning resales of securities not stamped 
+restricted and accompanied by an opinion letter when Oppenheimer had the National Sales 
+department perform a limited review of the certificates bearing no restricted legends.  As a result, 
+they did not prevent the resulting SSPT resale that violated Sections 5(a) and (c)  which they 
+otherwise might have if they had subjected the transactions to the more fulsome review for 
+compliance with the requirements of Rule 144. 
+ 
+       93.      As a result of Oppenheimers failure to establish reasonable policies and procedures 
+and failure to implement its policies and procedures, Oppenheimer failed reasonably to supervise 
+with a view to prevent and detect the violations of Section 5 by Oppenheimer personnel.   
+  
+H.     UNDERTAKINGS   
+ 
+Oppenheimer has undertaken to: 
+ 
+       94.    Independent Compliance Consultant.   With respect to its retention of an 
+independent compliance consultant, Oppenheimer has agreed to the following  undertakings: 
+        
+              a.      Oppenheimer will retain the services of an independent consultant (the 
+                      Independent Consultant) that is not unacceptable to the Commission 
+                      staff.  The Independent Consultants compensation and expenses shall be 
+                      borne exclusively by Oppenheimer.  Prior to the retention of the 
+                      Independent Consultant, Oppenheimer will provide to the staff of the 
+                      Commission a copy of the engagement letter detailing the Independent 
+                      Consultants responsibilities, which includes the reviews to be made by 
+                      the Independent Consultant as described in this Order. 
+               
+              b.      Oppenheimer shall require that the Independent Consultant conduct a 
+                      review of Oppenheimers policies and procedures as they relate to 
+                      compliance with Section 5 of the Securities Act, Bank Secrecy Act, the 
+                      Patriot Act, Oppenheimers AML program and proper recognition of 
+                      liabilities and expenses associated with accounting for failure to withhold 
+                      taxes and report on income on accounts of foreign entities trading on 
+                      behalf of customers, and to report income for U.S. customers trading 
+                      through foreign financial institutions.    
+        
+              c.      Within one hundred twenty (120)   days after the entry of this Order, the 
+                      Independent Consultant shall submit a written and dated report of its 
+                      finding to Oppenheimer and to the Commission staff (the Report).  
+
+                                              20 
+                                                 
+---------------------Page 21---------------------
+
+              Oppenheimer shall require that each Report include a description of the 
+              review performed, the names of the individuals who performed the review, 
+              the conclusions reached, the Independent Consultants recommendations 
+              for changes in or improvements to Oppenheimers policies and 
+              procedures, and a procedure for implementing the recommended changes 
+              in or improvements to Oppenheimers policies and procedures.   
+ 
+       d.     Oppenheimer shall adopt all recommendations contained in the Report 
+              within sixty (60) days of the Report; provided, however, that within thirty 
+              (30) days after the date of the Repor  t, Oppenheimer shall in writing advise 
+              the Independent Consultant and the Commission staff of any 
+              recommendations that Oppenheimer considers to be unduly burdensome, 
+              impractical, or inappropriate.  With respect to any recommendation that 
+              Oppenheimer considers unduly burdensome, impractical, or inappropriate, 
+              Oppenheimer need not adopt that recommendation at that time but shall 
+              propose in writing an alternative policy, procedure, or system designed to 
+              achieve the same objective or purpose.  
+ 
+       e.     As to any recommendation with respect to Oppenheimers policies and 
+              procedures on which Oppenheimer and the Independent Consultant do not 
+              agree, Oppenheimer and the Independent Consultant shall attempt in good 
+              faith to reach an agreement within sixty (60) days after the d  ate of the 
+              Report. Within fifteen (15) days after the conclusion of the discussion and 
+              evaluation by Oppenheimer and the Independent Consultant, Oppenheimer 
+              shall require that the Independent Consultant inform Oppenheimer and the 
+              Commission staff in writing of the Independent Consultants final 
+              determination concerning any recommendation that Oppenheimer 
+              considers to be unduly burdensome, impractical, or inappropriate.  
+              Oppenheimer shall abide by the determinations of the Independent 
+              Consultant and, within thirty (30) days after final agreement between 
+              Oppenheimer and the Independent Consultant or final determination of the 
+              Independent Consultant, whichever occurs first, Oppenheimer shall adopt 
+              and implement all of the recommendations that the Independent 
+              Consultant deems appropriate.  
+               
+       f.      Within thirty (30) days of Oppenheimers adoption of all of the 
+              recommendations in the Report that the Independent Consultant deems 
+              appropriate, as determined pursuant to the procedures set forth herein, 
+              Oppenheimer shall certify in writing to the Independent Consultant and 
+              the Commission staff that Oppenheimer has adopted and implemented all 
+              of the Independent Consultants recommendations in the Report.  
+              Thereafter, beginning one hundred eighty days (180) after the entry of this 
+              Order, the Independent Consultant shall conduct such review as it deems 
+              appropriate to verify that Oppenheimer has appropriately implemented the 
+
+                                       21 
+                                         
+---------------------Page 22---------------------
+
+              recommendations in the Report.  Prior to two hundred and ten (210) days 
+              after the entry of this Order, the Independent Consultant shall confirm to 
+              the Commission staff that Oppenheimer has   adopted and implemented all 
+              of the Independent Consultants recommendations in the Report.  Unless 
+              otherwise directed by the Commission staff, all Reports, certifications, and 
+              other documents required to be provided to the Commission staff shall be 
+              sent to Scott W. Friestad, Associate Director, Division of Enforcement, 
+              Securities and Exchange Commission, 100 F Street, N.E., Washington, 
+              D.C.  20549-5010   and Gerald Hodgkins, Associate Director, Division of 
+              Enforcement, Securities and Exchange Commission, 100 F Street, NE, 
+              Washington, DC 20549-6010, or such other address as the Commission 
+              staff may provide. 
+ 
+       g.     On the anniversary of the date of the certification described in 
+              subparagraph 94(f), for a period of four (4) years, the Independent 
+              Consultant shall conduct a review to determine whether: (1) Oppenheimer 
+              is implementing all of the Independent Consultants recommendations 
+              adopted pursuant to the foregoing provisions and this provision;  and, (2) 
+              there have been any changes in the law or Oppenheimers business 
+              operations such that the recommendations  should be amended and updated 
+              to take into account any such changed circumstance.  Within forty-five 
+              (45) days after each anniversary date of the certification, the Independent 
+              Consultant shall submit a written and dated report of its findings to 
+              Oppenheimer and the Commission staff (the Anniversary Report).   
+              Oppenheimer shall require that each Anniversary Report include a 
+              description of the review performed, the names of the individuals who 
+              performed the review, the conclusions reached, and any further 
+              recommendations concerning changes in or improvements to 
+              Oppenheimers policies and procedures directed at effecting 
+              implementation of the recommendations in the initial Report or an 
+              Anniversary Report or directed at addressing any changes in the law or 
+              business.  Any recommendations made in an Anniversary Report shall be 
+              subject to the same processes set forth in subparagraphs 94(d) through 
+              94(f).  Each successive review pursuant to this subparagraph shall include 
+              a review of any recommendations implemented as a result of the Report or 
+              Anniversary Report.   
+        
+       h.     Oppenheimer shall cooperate fully with the Independent Consultant and 
+              shall provide the Independent Consultant with access to such of its files, 
+              books, records, and personnel as are reasonably requested by the 
+              Independent Consultant for review.   
+ 
+       i.      To ensure the independence of the Independent Consultant, Oppenheimer: 
+              (1) shall not have the authority to terminate the Independent Consultant or 
+                                       22 
+                                         
+---------------------Page 23---------------------
+
+              substitute another independent compliance   consultant for the initial 
+              Independent Consultant without the prior written approval of the 
+              Commission staff; and (2) shall compensate the Independent Consultant 
+              and persons engaged to assist the Independent Consultant for services 
+              rendered pursuant to this Order at their reasonable and customary rates.   
+ 
+       j.      Oppenheimer shall require the Independent Consultant to enter into an 
+              agreement that provides for the period of engagement and for a period of 
+              two (2) years from completion of the engagement, the Independent 
+              Consultant shall not enter into any employment, consultant, attorney-
+              client, auditing or other professional relationship with Oppenheimer, or 
+              any of its present or former affiliates, directors, officers, employees, or 
+              agents acting in their capacity as such.  The agreement will also provide 
+              that the Independent Consultant will require that any firm with which the 
+              Independent Consultant is affiliated or of which the Independent 
+              Consultant is a member, and any person engaged to assist the Independent 
+              Consultant in the performance of the Independent Consultants duties 
+              under this Order shall not, without prior written consent of the 
+              Commission staff, enter into any employment, consultant, attorney-client, 
+              auditing or other professional relationship with Oppenheimer, or any of its 
+              present or former affiliates, directors, officers, employees, or agents acting 
+              in their capacity as such for the period of the engagement and for a period 
+              of two (2) years after the engagements.  
+        
+95.    Recordkeeping.  Oppenheimer sha ll preserve for a period of not less than six years 
+       from the end of the fiscal year last used, the first two years in an easily accessible 
+       place, any record of its compliance with the undertakings set forth herein. 
+        
+96.    Deadlines.  For good cause shown, the Commission staff may extend any of the 
+       procedural dates relating to the undertakings.  Deadlines for procedural dates shall 
+       be counted in calendar days, except that if the last day falls on a weekend or federal 
+       holiday, the next business day shall be considered to be the last day. 
+        
+97.    Certifications of Compliance by Respondents.  Oppenheimer shall certify, in 
+       writing, compliance with its undertakings set forth above.  The certification shall 
+       identify the undertakings, provide written evidence of compliance in the form of a 
+       narrative, and be supported by exhibits sufficient to demonstrate compliance. The 
+       Commission staff may make reasonable requests for further evidence of 
+       compliance, and Oppenheimer agrees to provide such evidence.  The certification 
+       and supporting material shall be submitted to Scott W. Friestad, Associate 
+       Director, Division of Enforcement, Securities and Exchange Commission, 100 F 
+       Street, N.E., Washington, D.C.  20549-5010 and Gerald Hodgkins, Associate 
+       Director, Division of Enforcement, Securities and Exchange Commission, 100 F 
+       Street, NE, Washington, DC 20549-6010, or such other address as the staff of the 
+
+                                       23 
+                                          
+---------------------Page 24---------------------
+
+              Commission may provide, with a copy to the Office of Chief Counsel of the 
+              Enforcement Division, no later than sixty (60) days from the date of the 
+              completion of the undertakings.  
+        
+                                              IV. 
+ 
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Oppenheimers Offer. 
+        
+       Accordingly, pursuant to Section 8A of the Securities Act and Sections 15(b) and 21C of 
+the Exchange Act it is hereby ORDERED that Oppenheimer:  
+            
+       1.     cease and desist from committing or causing any violations and any future 
+              violations of Sections 15(a) and 17(a) of the Exchange Act and Rules 17a -3 and 
+              17a-8 thereunder and of Section 5 of the Securities Act;   
+        
+       2.     is censured; 
+        
+       3.     shall pay to the Commission $10 million comprised of $4,168,400 in disgorgement; 
+              $753,471 in prejudgment interest; and $5,078,129 in civil penalties.  A penalty 
+              amount that includes an additional $10 million is appropriate for the conduct at 
+              issue herein, however, in light of the civil money penalty paid by Oppenheimer to 
+              FinCEN in In the Matter of Oppenheimer & Co. Inc., Number 2015-    01, no 
+              additional penalty is being ordered at this time.  Oppenheimers total obligation to 
+              pay in this proceeding would be $20 million in the event it fails to pay its $10 
+              million of a civil money penalty to FinCEN. 
+              Payment of disgorgement, prejudgment interest, and $78,129 in civil penalties will 
+              be due ten (10) days after institution of this Order, with the remaining $5,000,000 in 
+              civil penalties, and interest accrued pursuant to 31 U.S.C. 3717, due no later than 
+              the second anniversary of the institution of this Order.  The Commission 
+              acknowledges that Oppenheimer has placed certain assets in escrow which 
+              Oppenheimer believes will satisfy the payment required to be made by the second 
+              anniversary of the institution of this Order; however, Oppenheimer retains its 
+              payment obligation irrespective of any amounts realized by payment from, sale of, 
+              or redemption of, any escrowed assets. 
+ 
+              If any payment is not made by the date the payment is required by this Order, the 
+              entire outstanding balance of disgorgement, prejudgment interest, and civil 
+              penalties, plus any additional interest accrued pursuant to SEC Rule of Practice 600 
+              or pursuant to 31 U.S.C. 3717, shall be due and payable immediately, without 
+              further application.  Payment must be made in one of the following ways:   
+              (1)     Respondent may transmit payment electronically to the Commission, which 
+                      will provide detailed ACH transfer/Fedwire instructions upon request;  
+                                              24 
+                                                 
+---------------------Page 25---------------------
+
+ 
+              (2)    Respondent may make direct payment from a bank account via Pay.gov 
+                     through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or  
+ 
+              (3)    Respondent may pay by certified check, bank cashiers check, or United 
+                     States postal money order, made payable to the Securities and Exchange 
+                     Commission (for transfer to the general fund of United States Treasury in 
+                     accordance with Exchange Act Section 21F(g)(3)) and hand-delivered or 
+                     mailed to:  
+ 
+                     Enterprise Services Center 
+                     Accounts Receivable Branch 
+                     HQ Bldg., Room 181, AMZ-341 
+                     6500 South MacArthur Boulevard 
+                     Oklahoma City, OK 73169 
+ 
+              Payments by check or money order must be accompanied by a cover letter 
+              identifying Oppenheimer & Co. Inc. as a Respondent in these proceedings, and the 
+              file number of these proceedings; a copy of the cover letter and check or money 
+              order must be sent to Scott W. Friestad, Associate Director, Division of 
+              Enforcement, Securities and Exchange Commission, 100 F St reet, NE, Washington, 
+              DC 20549-5030 and Gerald Hodgkins, Associate Director, Division of 
+              Enforcement, Securities and Exchange Commission, 100 F Street, NE, Washington, 
+              DC 20549-6010.    
+       4.     shall comply with the undertakings enumerated in Section III.H above. 
+ 
+                    
+       By the Commission. 
+         
+         
+                                                           
+                                                           
+                                                          Brent J. Fields 
+                                                          Secretary 
+
+                                             25 
+                                               

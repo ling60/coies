@@ -1,0 +1,532 @@
+---------------------Page 1---------------------
+
+                       UNITED STATES OF AMERICA 
+
+                                BEFORE THE 
+
+                SECURITIES AND EXCHANGE COMMISSION 
+
+
+SECURITIES EXCHANGE ACT OF 1934 
+Release No.  57303 / February 11, 2008 
+
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No.  2783 / February 11, 2008 
+
+ADMINISTRATIVE PROCEEDING 
+File No.  3-12953 
+
+                                 :
+                                 : 
+In the Matter of                 :      ORDER INSTITUTING PUBLIC 
+                                 :      ADMINISTRATIVE PROCEEDINGS 
+                                 :      PURSUANT TO RULE 102(e) OF THE 
+      Robert A. Fish, CPA,       :      COMMISSION’S RULES OF 
+                                 :      PRACTICE, MAKING FINDINGS, AND 
+                                 :      IMPOSING REMEDIAL SANCTIONS 
+Respondent.                      : 
+                                 :
+______________________________  : 
+
+                                       I. 
+
+      The Securities and Exchange Commission (“Commission”) deems it appropriate 
+that public administrative proceedings be, and hereby are, instituted against Robert A. 
+Fish (“Respondent” or “Fish”) pursuant to Rule 102(e)(1)(ii) of the Commission’s Rules 
+of Practice.1 
+
+                                      II. 
+
+      In anticipation of the institution of these proceedings, Respondent has submitted 
+an Offer of Settlement (the “Offer”), which the Commission has determined to accept.  
+Solely for the purpose of these proceedings and any other proceedings brought by or on 
+behalf of the Commission, or to which the Commission is a party, and without admitting 
+or denying the findings herein, except as to the Commission’s jurisdiction over him and 
+
+1
+  Rule 102(e)(1)(ii) provides, in pertinent part, that: 
+
+      The Commission may . . . deny, temporarily or permanently, the privilege of 
+      appearing or practicing before it . . . to any person who is found . . . to have 
+      engaged in . . . improper professional conduct. 
+---------------------Page 2---------------------
+
+the subject matter of these proceedings, which are admitted, Respondent consents to the 
+entry of this Order Instituting Public Administrative Proceedings Pursuant to Rule 102(e) 
+of the Commission’s Rules of Practice, Making Findings, and Imposing Remedial 
+Sanctions (“Order”), as set forth below. 
+
+                                         III. 
+
+       On the basis of this Order and Respondent’s Offer, the Commission finds2
+                                                                                that: 
+
+A.     RESPONDENT 
+
+       Fish, 60, resides in Rockville Centre, New York.  Fish, now retired, is a certified 
+public accountant licensed to practice in the states of New York, New Jersey and 
+Connecticut.  As PricewaterhouseCoopers’ (“PwC”) engagement partner for the audits of 
+Take-Two Interactive Software, Inc.’s (“Take-Two”) financial statements from fiscal 
+year 1994 to 2001, Fish served as the engagement partner assigned to audit Take-Two’s 
+financial statements as of and for the fiscal year ended October 31, 2000 (“fiscal year 
+2000”).  On December 13, 2000, Fish signed the PwC audit report containing an 
+unqualified audit opinion accompanying Take-Two’s fiscal year 2000 financial 
+statements included in Take-Two’s 2000 Form 10-K filed with the Commission on 
+January 29, 2001. 
+
+B.     RELEVANT ENTITY 
+
+       Take-Two is a Delaware corporation headquartered in New York, New York.  
+Take-Two develops, markets and publishes interactive entertainment software games for 
+video game consoles as well as the personal computer.  Prior to July 31, 2006, Take-
+Two’s common stock was registered with the Commission pursuant to Section 12(g) of 
+the Exchange Act and traded on the NASDAQ NMS under the symbol “TTWO.”  Since 
+July 31, 2006, Take-Two’s common stock has been registered with the Commission 
+pursuant to Section 12(b) of the Exchange Act and has traded on the NASDAQ Global 
+Market.  During the relevant period, Take-Two’s fiscal year ended on October 31. 
+
+C.     SUMMARY 
+
+       Take-Two engaged in a fraudulent scheme to inflate its reported revenues during, 
+among other periods, fiscal year 2000.  Specifically, by engaging in transactions that 
+involved parking several hundred thousand video games with multiple distributors,3 
+
+2
+   The findings herein are made pursuant to Respondent’s Offer and are not binding on 
+any other person or entity in this or any other proceeding. 
+3
+   During these parking transactions, Take-Two shipped video games to different 
+distributors at or near the end of a fiscal quarter or fiscal year, recorded revenue from 
+these shipments as if they were sales, and then accepted returns of the shipments (some of 
+which were disguised as purchases of new inventory) in subsequent reporting periods. 
+
+                                           2
+
+---------------------Page 3---------------------
+
+Take-Two improperly recognized approximately $26 million in revenues during fiscal 
+year 2000 (including $11 million from sales recognized at interim periods, which were 
+subsequently returned and reversed before year end).  Take-Two inflated its after-tax 
+fiscal year 2000 earnings by at least $5 million, or 19%, as a result of inflating its 
+reported fiscal year 2000 revenues by $15.4 million.  In addition, during the same period, 
+Take-Two did not comply with Generally Accepted Accounting Principles (“GAAP”) 
+because it failed to establish proper reserves for video game returns.  As a result, Take-
+Two improperly inflated its reported assets and net income.4
+                                                             Take-Two’s fiscal year 
+2000 financial statements were not fairly presented in all material respects in conformity 
+with GAAP. 
+
+       Fish was PwC’s engagement partner assigned to audit Take-Two’s financial 
+statements for fiscal year 2000, and was the engagement partner on PwC’s audits of 
+Take-Two’s financial statements starting in fiscal year 1994.  Fish signed PwC’s audit 
+report accompanying Take-Two’s fiscal year 2000 financial statements included in Take-
+Two’s 2000 Form 10-K filed with the Commission.  In performing the Take-Two audit 
+for fiscal year end 2000, Fish departed from Generally Accepted Auditing Standards 
+(“GAAS”).  Fish did not exercise due professional care and professional skepticism, and 
+failed to obtain sufficient competent evidential matter in his audit testing of Take-Two’s 
+accounts receivable balance as of October 31, 2000.  A material portion of those 
+receivables were part of Take-Two's fraudulent parking transactions, meaning they were 
+receivables for which Take-Two would never be paid because the product had not 
+actually been sold. 
+
+       Additionally, Fish failed to exercise due professional care and professional 
+skepticism in testing Take-Two’s reserve accounting for video game returns.  Of the five 
+transactions Fish examined to test for possible cutoff errors and to ensure items had not 
+been shipped at year end (and subsequently returned) in order to increase fiscal year 2000 
+sales, four had product return rates of at least 75% when Take-Two’s historical reserve 
+for returns was only 5%.  Fish failed to investigate these transactions and did not compare 
+
+4
+   On June 1, 2005, the Commission authorized and simultaneously settled civil actions 
+in federal court against Take-Two and several present and former members of senior 
+management, obtaining injunctions, disgorgement, civil penalties, and officer and 
+director bars.  SEC v. Take-Two Interactive Software, Inc., et al., Civil Action No. 1:05-
+CV-5443 (DLC) (S.D.N.Y. June 9, 2005), Litigation Release No. 19260.  The 
+Commission also authorized, and simultaneously settled, an administrative cease-and-
+desist proceeding against one officer and a Rule 102(e)(3) administrative proceeding 
+against the former Chief Financial Officer.  In the Matter of Robert M. Blau, Securities 
+Act of 1933 Release No. 8581, Securities Exchange Act of 1934 (“Exchange Act”) 
+Release No. 51809, Litigation Release No. 19260 (June 9, 2005).  In the Matter of James 
+H. David, Jr., CPA, Exchange Act Release No. 51895, Accounting and Auditing 
+Enforcement Release No. 2262 (June 21, 2005). 
+
+                                           3
+
+---------------------Page 4---------------------
+
+the returns to the original sales invoices.  Had he done so, he would have discovered that 
+Take-Two had not set aside sufficient reserves to account for expected returns. 
+
+       Fish reasonably should have known that Take Two’s fiscal year 2000 financial 
+statements had not been prepared in conformity with GAAP.  He nonetheless signed an 
+audit report on Take-Two’s fiscal year 2000 financial statements containing an 
+unqualified audit opinion that Take-Two’s financial statements were fairly presented in 
+all material respects in conformity with GAAP, based on PwC’s audit in accordance with 
+GAAS.  Fish did not comply with GAAS in the conduct of the audit and engaged in 
+improper professional conduct under Rule 102(e)(1)(ii) of the Commission’s Rules of 
+Practice. 
+
+D.     FACTS 
+
+       1.     Take-Two fraudulently inflated its revenues and after-tax earnings in its 
+fiscal year 2000 financial statements.  Take-Two arranged with several distributors to 
+ship several hundred thousand computer and video game units at or near the end of a 
+fiscal quarter or the fiscal year and have the distributors park the video games with no 
+intention to sell them.  Take-Two then improperly recorded these shipments as sales 
+revenue and accounts receivable with the understanding that all or substantially all of the 
+same games shipped would be returned in the next fiscal reporting period.  As part of the 
+fraudulent scheme, Take-Two shipped, and took back, games that were often outdated 
+and that typically would not have been purchased by distributors in the quantities shipped 
+in the normal course of business. 
+
+       2.     This fraudulent scheme enabled the Company to recognize approximately 
+$26 million in revenues during fiscal year 2000 from products it shipped but never 
+actually sold.  The scheme also enabled the Company to report after-tax fiscal year 2000 
+earnings that were inflated by at least $5 million, or 19%.  
+
+       3.     Take-Two also failed to maintain adequate reserves for video game 
+returns.  This allowed Take-Two to artificially inflate its reported assets and net income. 
+
+       4.     Take-Two restated its financial statements for fiscal year 2000 in February 
+2002 and again in February 2004 to correct for, among other things, the fraudulent 
+revenue recognition associated with the Company’s numerous parking transactions.  The 
+February 2004 restatement also corrected for the Company’s improper reserve 
+accounting. 
+
+       5.     Fish, who first became PwC’s engagement partner for Take-Two’s audit 
+in 1994, served as the engagement partner on the audit of Take-Two’s financial 
+statements for fiscal year 2000.  On December 13, 2000, Fish signed the PwC audit report 
+containing an unqualified audit opinion accompanying Take-Two’s fiscal year 2000 
+financial statements included in Take-Two’s 2000 Form 10-K filed with the Commission.   
+
+                                           4
+
+---------------------Page 5---------------------
+
+       6.     In planning for the audit of Take-Two’s fiscal year 2000 financial 
+statements, Fish appropriately identified risks presented by the audit and planned the 
+conduct of the audit to address them.  In fact, the plan referred specifically to revenue 
+recognition and accounts receivable reserves as “areas of higher risk which will be given 
+special attention.”  However, Fish did not properly respond to those risks in his audit 
+testing as he failed to exercise due professional care and professional skepticism, and 
+failed to obtain sufficient competent evidential matter.  As a result, Fish improperly 
+represented in the audit report that he had conducted the audit in accordance with GAAS 
+and opined that the Take-Two financial statements were fairly presented in all material 
+respects in conformity with GAAP. 
+
+       7.     In the course of the fiscal year 2000 audit, Fish failed to exercise due 
+professional care and failed to obtain sufficient competent evidential matter in his effort 
+to verify the existence of Take-Two’s accounts receivable balance, the Company’s single 
+most important asset, as of October 31, 2000.  Take-Two reported total gross domestic 
+accounts receivable of $104 million as of October 31, 2000.  Attempting to verify the 
+existence of the accounts receivable, PwC, under Fish’s supervision, sent requests for 
+confirmation of October 31, 2000 accounts receivable balances to 15 of the Company’s 
+customers, who owed approximately 70% of the total domestic accounts receivable 
+balance as of October 31, 2000.  In response to the 15 confirmation requests sent, PwC 
+received only one confirmation (which turned out to be false) representing $2 million – 
+less than 2% of the total domestic accounts receivable balance. 
+
+       8.     One of the 14 customers PwC did not receive a confirmation response 
+from was Capitol Distributing L.L.C. (“Capitol”), a new customer at the time, with a 
+balance of $5.4 million resulting from two sales on October 31, 2000.  The Capitol 
+“sales” were parking transactions Take-Two arranged that shipped on the last day of its 
+fiscal year,5
+            and were the largest of several such transactions entered into by Take-Two in 
+the fourth quarter of fiscal year 2000 in connection with a fraudulent revenue recognition 
+scheme.  Making no attempt to sell the games, Capitol returned all of them after the end 
+of Take-Two’s fiscal year 2000 using fraudulent “assorted product” invoices to disguise 
+the return as a purchase of new product from Capitol by Take-Two.  6 
+
+5
+   Take-Two itself provided the cash for Capitol’s alleged “purchases.” 
+6
+   Capitol is a privately-owned video game distributor organized as a limited liability 
+company under the laws of the Commonwealth of Virginia.  On May 2, 2007, the 
+Commission issued an Order Instituting Cease-and-Desist Proceedings, Making Findings, 
+and Imposing a Cease-and-Desist Order Pursuant to Section 21C of the Securities 
+Exchange Act of 1934 in the matter of Terry M. Phillips (“Phillips”), owner/operator of 
+Capitol, and simultaneously filed a complaint for a civil penalty against Phillips and 
+injunction against Capitol.  In the Matter of Terry M. Phillips, Exchange Act Release No. 
+55696.  SEC v. Capitol Distributing, L.L.C. et al., Civil Action No. 1:07-CV-00798 
+(RMC) (D.D.C. May 2, 2007), Litigation Release No. 20100. 
+
+                                            5
+
+---------------------Page 6---------------------
+
+       9.     Another confirmation response that was not received was from a Canadian 
+distributor with whom Take-Two had a parking arrangement.  Included in the October 
+31, 2000 accounts receivable balance was a $1.7 million parking transaction sale of 
+product that shipped on October 31, 2000, the last day of Take-Two’s fiscal year and the 
+same day that the $5.4 million of sales were improperly recorded from the Capitol 
+parking transactions.  A third confirmation response that was not received was from a 
+Texas-based distributor with whom Take-Two also parked video games.  Included in the 
+October 31, 2000 balance was a $1 million parking transaction sale of product with this 
+distributor on the last day of the fiscal year. 
+
+       10.    In response to the lack of confirmation responses Fish, who had identified 
+accounts receivable as a higher risk audit area for Take-Two, reviewed the subsequent 
+cash receipts as an alternative audit procedure (in addition to examining sales invoices 
+and third party shipping documents) to verify the existence of accounts receivable.  
+However, Take-Two’s cash receipts journal showed only $16 million had been collected 
+as of December 8, 2000.  Combined with the amount of the one confirmation response 
+received, Fish verified the existence of only $18 million, or 17% of the domestic accounts 
+receivable total of $104 million.  Fish’s alternative audit procedures were insufficient 
+under GAAS to verify the existence of Take-Two’s accounts receivable. 
+
+       11.    Fish knew, or should have known, that Take-Two’s records showed, in 
+numerous instances, only aggregate cash collected after October 31, 2000.  As a result, 
+Fish knew, or should have known, that he could not be certain whether the cash he 
+examined from November 1 through December 8, 2000 related to the accounts receivable 
+balances that existed as of October 31, 2000, or to sales that were recorded after that date.  
+For example, if the cash received related to sales recorded after October 31, 2000 only, 
+then the testing would only have verified fiscal year 2001 sales, and not fiscal year 2000, 
+which was the year under audit.  Likewise, because Fish could not reliably match cash 
+received to specific invoices, he could not determine with any degree of certainty whether 
+any of the cash collected had been applied to accounts that were past due, including by as 
+much as 180 days or more, as of October 31, 2000.  Fish, therefore, could not determine 
+with any degree of certainty whether any of these past due accounts were collectible.  The 
+fact that Take-Two’s records often showed only aggregate cash collected was a red flag 
+to Fish that any subsequent cash receipts testing relying on this data would prove 
+ineffective.  However, Fish nonetheless relied on insufficient information from Take-Two 
+and conducted a test that he knew, or should have known, could not verify the existence 
+of Take-Two’s accounts receivable or reduce the identified audit risk to an acceptably 
+low level as GAAS requires.  Fish’s auditing methodology, therefore, was not in 
+accordance with GAAS. 
+
+       12.    Fish also failed to exercise due professional care and professional 
+skepticism in testing the adequacy of Take-Two’s estimated sales returns reserve at 
+October 31, 2000 as required by GAAS.  Take-Two accounted for shipments as sales 
+even though its practice was to accept returns of certain games it had sold.  While 
+recording these sales was appropriate in certain circumstances, the Company was 
+
+                                            6
+
+---------------------Page 7---------------------
+
+required under GAAP to estimate and record sufficient reserves to account for these 
+returns. 
+
+       13.    As of October 31, 2000, Take-Two reserved for returns at the rate of 
+approximately 5% for the year.  During Take-Two’s fiscal year end 2000 audit, Fish and 
+others at PwC at his direction performed certain analytical procedures on historical sales 
+returns and examined five specific returns made after year end to test for possible cutoff 
+errors and to ensure items had not been shipped at year end (and subsequently returned) 
+in order to increase fiscal year 2000 sales.  Of the five specific returns tested, Fish did not 
+compare the returns with the original sales invoices.  Had he done so, he would have 
+discovered that in four of the five instances, more than 75% of the games purportedly 
+purchased had been returned, an amount much greater than the historical return rate, 
+when Take-Two only reserved for returns at the rate of 5%.  Fish determined, 
+nonetheless, that Take-Two’s reserves were adequate without, for example, examining 
+other returns from fiscal year 2000, or inquiring of the customers regarding these 
+particular sales.  In actuality, the four “sales” with abnormally high return rates were 
+parking transactions.  Fish’s auditing methodology, therefore, was not in accordance with 
+GAAS. 
+
+E.     LEGAL ANALYSIS 
+
+       Rule 102(e)(1)(ii) of the Commission’s Rules of Practice provides that the 
+Commission may censure or deny, temporarily or permanently, the privilege of appearing 
+or practicing before the Commission to any person who is found by the Commission to 
+have engaged in improper professional conduct.  Rule 102(e)(1)(iv), in relevant part, 
+defines improper professional conduct with respect to persons licensed to practice as 
+accountants as “ . . . (B) Either of the following two types of negligent conduct:  (1) A 
+single instance of highly unreasonable conduct that results in a violation of applicable 
+professional standards in circumstances in which the . . . associated person knows, or 
+should know, that heightened scrutiny is warranted; or (2) Repeated instances of 
+unreasonable conduct, each resulting in a violation of applicable professional standards, 
+that indicate a lack of competence to practice before the Commission.”  An accountant’s 
+conduct is highly unreasonable when the accountant fails to employ heightened scrutiny 
+with regard to matters that are important or material, or when warning signs or other 
+factors should alert an accountant to a heightened risk.  See, e.g., James Thomas 
+McCurdy, Exchange Act Rel. No. 34-49182 (Feb. 4, 2004), 82 SEC Docket 271, 286, 
+aff’d, McCurdy v. SEC, 396 F.3d 1258 (D.C. Cir. 2005). 
+
+       Fish’s performance on Take-Two’s fiscal year end 2000 audit constituted 
+improper professional conduct under each standard of negligent conduct. 
+
+                           The Applicable GAAS Standards 
+
+       The Commission’s rules require that auditors of public company financial 
+statements adhere to GAAS, which requires that auditors exercise due professional care 
+in performing an audit or review and in preparing the audit report.  AU § 230.01.  Under 
+
+                                            7
+
+---------------------Page 8---------------------
+
+AU § 230.04, “due professional care concerns what the independent auditor does and 
+how well he does it.”  Due professional care requires further that the auditor exercise 
+professional skepticism in performing audit and review procedures and gathering and 
+analyzing audit evidence.  AU §§ 230.07-.08.  “Gathering and objectively evaluating 
+audit evidence requires the auditor to consider the competency and sufficiency of the 
+evidence.”  AU § 230.08.  Furthermore, in “exercising professional skepticism, the 
+auditor should not be satisfied with less than persuasive evidence because of a belief that 
+management is honest.”  AU § 230.09. 
+
+       GAAS also requires auditors to obtain sufficient competent evidential matter 
+when conducting audits, and that such evidential matter be obtained through inspection, 
+observation, inquiries, and confirmations to afford a reasonable basis for an opinion 
+regarding the financial statements under audit.  AU § 326.01.  In addition, the auditor 
+should recognize “the possibility that the financial statements may not be fairly presented 
+in conformity with generally accepted accounting principles” and should “consider 
+relevant evidential matter regardless of whether it appears to corroborate or contradict the 
+assertions in the financial statements.”  AU § 326.25.  For information obtained through 
+the confirmation process to be competent, it must be reliable and relevant.  AU § 330.11. 
+When obtaining evidence for assertions not adequately addressed by confirmations, an 
+auditor should consider other audit procedures to complement confirmation procedures or 
+to be used instead of confirmation procedures.  AU § 330.12. 
+
+       When the auditor has not received replies to positive confirmation requests, he or 
+she should apply alternative procedures to the nonresponses to obtain the evidence 
+necessary to reduce audit risk to an acceptably low level.  AU § 330.31.  When 
+examining accounts receivable, “alternative procedures may include examination of 
+subsequent cash receipts (including matching such receipts with the actual items being 
+paid), shipping documents or other client documentation to provide evidence for the 
+existence assertion.”  AU § 330.32.  Finally, after any alternative procedures have been 
+performed, the auditor should evaluate the combined evidence provided by the 
+confirmations and alternative procedures, considering in particular “the nature of any 
+exceptions, including the implications, both quantitative and qualitative, of those 
+exceptions . . . .”  AU § 330.33. 
+
+    Fish Engaged in Improper Professional Conduct by Failing to Exercise Due 
+
+   Professional Care and Professional Skepticism, and Failed to Obtain Sufficient 
+
+                Competent Evidential Matter as Required by GAAS 
+
+
+       Fish departed from GAAS in his auditing of Take-Two’s accounts receivable, 
+which was Take-Two’s single most important asset.  As previously discussed, Fish sent 
+out 15 requests for confirmation to test a reported $104 million in domestic Company 
+receivables as of October 31, 2000.  In response to the 15 requests for confirmation sent, 
+only one confirmation was returned for $2 million – less than 2% of the total domestic 
+accounts receivable balance, which was a red flag to Fish that he should have 
+investigated further.  Among the 14 confirmations outstanding were three that included 
+parking transaction sales worth over $8 million that shipped on October 31, the last day 
+
+                                           8
+
+---------------------Page 9---------------------
+
+of the fiscal year.  In response to the lack of confirmations, Fish employed a subsequent 
+cash receipts testing methodology that was not in accordance with GAAS because he 
+knew, or should have known, that Take-Two had no way of reliably applying cash 
+receipts to specific invoices.  Fish failed to exercise due professional care because the 
+alternative procedures employed were insufficient to reduce audit risk to an acceptably 
+low level as GAAS requires.  AU §§ 230.01, 330.31.  Fish also failed to obtain sufficient 
+competent evidential matter regarding Take-Two’s accounts receivable and relied on 
+alternative audit procedures that could not effectively verify the Company’s accounts 
+receivable balance.  AU §§ 326.01, 330.12, 330.31 and 330.32.  Fish’s departures from 
+GAAS constituted improper professional conduct. 
+
+       In conducting his fiscal year end 2000 audit, Fish failed to exercise due 
+professional care and professional skepticism by failing to respond appropriately to the 
+fact that Take-Two accepted returns at a rate exceeding 75%, far in excess of the 
+Company’s reserves for a 5% rate of return.  Although Fish and others at PwC at his 
+direction performed certain analytical procedures on historical sales returns and examined 
+five specific returns made after year end, Fish did not compare the returns to the original 
+sales invoices.  Had he done so, he would have discovered that in four of the five 
+instances, more than 75% of the games purportedly purchased had been returned when 
+Take-Two only reserved for returns at the rate of 5%.  Fish’s conduct constituted 
+improper professional conduct. 
+
+       By departing from GAAS in his testing of Take-Two’s accounts receivable and 
+reserve accounting for returns, Fish engaged in improper professional conduct.   
+
+                    Failure to Render an Accurate Audit Report 
+
+       In conducting an audit, an auditor is required to state in the auditor’s report 
+whether, in the auditor’s opinion, the financial statements are fairly presented in all 
+material respects in conformity with GAAP.  AU §§ 410 and 411.  An auditor may 
+express that the financial statements are presented in conformity with GAAP only when 
+the auditor has formed such an opinion on the basis of an audit performed in accordance 
+with GAAS.  AU § 508.07. 
+
+       Based on the foregoing, in connection with the audit of Take-Two’s fiscal year 
+2000 financial statements, Fish failed to render an accurate audit report when he opined 
+that Take-Two’s financial statements had been prepared in conformity with GAAP and 
+the audit had been performed in accordance with GAAS.  In fact, the financial statements 
+were not in conformity with GAAP, and the audit was not performed in accordance with 
+GAAS. 
+
+F.     FINDINGS 
+
+       Based on the foregoing, the Commission finds that Respondent engaged in 
+improper professional conduct (as set forth under Rules 102(e)(1)(iv)(B)(1) and (2) of the 
+
+                                           9
+
+---------------------Page 10---------------------
+
+Commission’s Rules of Practice) pursuant to Rule 102(e)(1)(ii) of the Commission’s 
+Rules of Practice.  
+
+                                          IV. 
+
+       In view of the foregoing, the Commission deems it appropriate to impose the 
+sanctions agreed to in Respondent's Offer. 
+
+Accordingly, it is hereby ORDERED that, effective immediately: 
+
+       A.     Respondent is denied the privilege of appearing or practicing before the 
+Commission as an accountant.   
+
+       B.     After one year from the date of this order, Respondent may request that 
+the Commission consider his reinstatement by submitting an application (attention: 
+Office of the Chief Accountant) to resume appearing or practicing before the 
+Commission as: 
+
+              1.      a preparer or reviewer, or a person responsible for the 
+preparation or review, of any public company’s financial statements that are filed with 
+the Commission.  Such an application must satisfy the Commission that Respondent’s 
+work in his practice before the Commission will be reviewed either by the independent 
+audit committee of the public company for which he works or in some other 
+acceptable manner, as long as he practices before the Commission in this capacity; 
+and/or 
+
+              2.      an independent accountant.  Such an application must satisfy 
+the Commission that: 
+
+                      (a)    Respondent, or the public accounting firm with which he is 
+associated, is registered with the Public Company Accounting Oversight Board (“Board”) 
+in accordance with the Sarbanes-Oxley Act of 2002, and such registration continues to be 
+effective; 
+
+                      (b)    Respondent, or the registered public accounting firm with 
+which he is associated, has been inspected by the Board and that inspection did not 
+identify any criticisms of or potential defects in the Respondent’s or the firm’s quality 
+control system that would indicate that the Respondent will not receive appropriate 
+supervision; 
+
+                      (c)    Respondent has resolved all disciplinary issues with the 
+Board, and has complied with all terms and conditions of any sanctions imposed by the 
+Board (other than reinstatement by the Commission); and 
+
+                      (d)    Respondent acknowledges his responsibility, as long as 
+Respondent appears or practices before the Commission as an independent accountant, to 
+comply with all requirements of the Commission and the Board, including, but not 
+
+                                           10
+
+---------------------Page 11---------------------
+
+limited to, all requirements relating to registration, inspections, concurring partner 
+reviews and quality control standards. 
+
+       C.      The Commission will consider an application by Respondent to resume 
+appearing or practicing before the Commission provided that his state CPA license is 
+current and he has resolved all other disciplinary issues with the applicable state boards 
+of accountancy.  However, if state licensure is dependent on reinstatement by the 
+Commission, the Commission will consider an application on its other merits.   
+The Commission’s review may include consideration of, in addition to the matters 
+referenced above, any other matters relating to Respondent’s character, integrity, 
+professional conduct, or qualifications to appear or practice before the Commission. 
+
+       By the Commission. 
+
+        N                                                     ancy M. Morris
+        S                                                    ecretary 
+
+                                           11
+

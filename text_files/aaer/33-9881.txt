@@ -1,0 +1,962 @@
+---------------------Page 1---------------------
+
+                           UNITED STATES OF AMERICA 
+                                      Before the 
+                   SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES ACT OF 1933 
+Release No. 9881 / August 6, 2015 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 75622 / August 6, 2015 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3673 / August 6, 2015 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-16729 
+ 
+                                                
+                                                
+                                                
+In the Matter of                           ORDER INSTITUTING PUBLIC  
+                                           ADMINISTRATIVE AND CEASE -AND- 
+      MILLER ENERGY                        DESIST PROCEEDINGS PURSUANT TO   
+      RESOURCES, INC., PAUL W.             SECTION 8A OF THE SECURITIES ACT OF   
+      BOYD, CPA, DAVID M. HALL,            1933, SECTIONS 4C AND 21C OF THE  
+      AND CARLTON W. VOGT, III ,           SECURITIES EXCHANGE ACT OF 1934,   
+      CPA                                  AND RULE 102(e) OF THE COMMISSION’S
+                                                            
+Respondent s.                               
+ 
+ 
+ 
+ 
+                                               
+ 
+                                          I. 
+ 
+       The Securities and Exchange Commission (“Commission”) deems it appropriate that 
+cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the 
+Securities Act of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 
+1934 (“Exchange Act”) against Miller Energy Resources, Inc. (f/k/a Miller Petroleum, Inc.) 
+(“Miller Energy”), Paul W. Boyd (“Boyd”), and David M. Hall (“Hall”) (collectively, the “Miller 
+Respondents”); and that public administrative proceedings be, and hereby are, instituted against 
+Boyd and Carlton W. Vogt, III (“Vogt”), pursuant to Exchange Act Section 4C and 21C, and 
+Rule 102(e)(1)(ii) as to Vogt and Rule 102(e)(1)(iii) as to Boyd of the Commission’s Rules of 
+       1
+Practice. 
+                                                  
+1
+ Section 4C provides, in relevant part, that:  
+---------------------Page 2---------------------
+
+                                                     II. 
+  
+         After an investigation, the Division of Enforcement alleges: 
+  
+                                               SUMMARY 
+
+        1.       This case involves financial accounting and reporting fraud, as well as audit 
+failures, related to the valuation of certain oil and gas assets acquired by Miller Energy, an oil and 
+gas company headquartered in Knoxville, Tennessee.  Miller Energy purchased these assets, which 
+are located in Alaska, for $2.25 million in cash – along with the assumption of certain liabilities it 
+valued at approximately $2 million – during a competitive bid in a bankruptcy proceeding in 
+December 2009.   
+
+        2.       The Company subsequently reported those assets at an overstated value of $480 
+million, and recognized a one-time “bargain purchase” gain of $277 million for its fiscal third 
+quarter ended January 2010 and fiscal year ended April 2010.   
+
+        3.       The Alaska acquisition was the single most important event in Miller Energy’s 
+nearly forty year history, transforming it from a company long mired in the penny-stock arena to 
+one traded on a national exchange.  For the week preceding the acquisition, Miller Energy’s stock 
+closed at an average price of $0.66 per share.  Since the acquisition, Miller Energy has raised tens of 
+millions of dollars in debt and equity, listed its stock on the New York Stock Exchange (the 
+“NYSE”), had its stock traded at nearly $9 per share, and achieved in 2013 a market capitalization 
+of $393 million.   
+
+        4.       Miller Energy’s CFO at the time, Boyd, failed to account for the acquisition in 
+accordance with generally accepted accounting principles (“GAAP”).  Accounting Standards 
+Codification (“ASC”) 805, Business Combinations, required Miller Energy to record the value of its 
+acquired Alaska assets at “fair value.”  However, contrary to authoritative accounting guidance, 
+Boyd used as fair value a reserve report that was prepared by a petroleum engineer firm using the 
+rules for supplemental oil and gas disclosures.  As set forth in GAAP, the numbers used in these 
+
+                                                                                                                                                              
+          The Commission may censure any person, or deny, temporarily or permanently, to any person the 
+          privilege of appearing or practicing before the Commission in any way, if that person is found . . . (1) not 
+          to possess the requisite qualifications to represent others . . . (2) to be lacking in character or integrity, or 
+          to have engaged in unethical or improper professional conduct; or (3) to have willfully violated, or 
+          willfully aided and abetted the violation of, any provision of the securities laws or the rules and 
+          regulations thereunder. 
+
+ Rule 102(e)(1)(ii) provides, in pertinent part, that: 
+
+         The Commission may . . . deny, temporarily or permanently, the privilege of appearing or practicing before 
+         it . . . to any person who is found . . . to have engaged in unethical or improper professional conduct. 
+
+ Rule 102(e)(1)(iii) provides, in pertinent part, that: 
+
+         The Commission may . . . deny, temporarily or permanently, the privilege of appearing or practicing before 
+         it . . . to any person who is found…to have willfully violated, or willfully aided and abetted the violation of 
+         any provision of the Federal securities laws or the rules and regulations thereunder. 
+
+  
+
+                                                      2  
+---------------------Page 3---------------------
+
+supplemental disclosures do not reflect fair value, and the reserve report used by Boyd expressly 
+disclaimed that the numbers therein represented the engineer firm’s opinion of fair value.  The 
+reserve report Boyd used also contained expense numbers that were knowingly understated by 
+David M. Hall (“Hall”), the CEO of Miller Energy’s Alaska operations.  In addition, Boyd double 
+counted $110 million of certain fixed assets that were already included in the reserve report.  
+
+        5.     Miller Energy’s financial statements for fiscal 2010, the first annual period in which 
+ the Company reported the fair value of the acquired assets, was audited by Sherb & Co. LLP 
+ (“Sherb & Co.”), a now defunct CPA firm that was suspended by the Commission in 2013 for 
+ improper professional conduct unrelated to this matter.  The lead engagement partner on the Miller 
+ Energy audit, Vogt, failed to comply with the Public Company Accounting Oversight Board (the 
+ “PCAOB”) rules and standards in auditing Miller Energy’s financial statements that included its 
+ accounting for its Alaska acquisition.  Vogt failed to exercise due professional care and skepticism 
+ by not adequately assessing whether the Company’s accounting treatment for the acquisition 
+ complied with GAAP.  Vogt also failed to obtain sufficient competent evidential matter for 
+ management’s assertions regarding the fair value of the Alaska assets.         
+
+                                        RESPONDENTS 
+
+        6.     Miller Energy Resources, Inc. is a Tennessee corporation with its principal place 
+ of business in Knoxville, Tennessee.  It operates and develops oil and gas wells in north and south 
+ central Alaska.  The Company operated oil and gas assets in the Appalachian region of east 
+ Tennessee until selling them in November 2014 for $3.3 million in cash.  It changed its name from 
+ Miller Petroleum to Miller Energy Resources in April 2011.  Miller Energy’s common stock is 
+ currently registered pursuant to Exchange Act Section 12(b) and was listed on the NYSE under the 
+ ticker symbol “MILL” until July 2015, when trading in its stock was suspended and the stock was 
+ delisted.  It previously traded on the NASDAQ Global Market from May 6, 2010 to April 11, 
+ 2011, and before then was quoted on the OTC Bulletin Board and traded on the Pink Sheets.  As of 
+ February 26, 2015, there were 46,664,223 shares of common stock outstanding.  For fiscal years 
+ 2010 through 2014, Miller Energy reported annual operating losses every year totaling $79.2 
+ million.  Between March 2010 and August 2014, Miller Energy issued shares of common and 
+ preferred stock for proceeds of tens of millions of dollars.     
+
+        7.     Paul W. Boyd, CPA, resides in Knoxville, Tennessee.  From 2008 until 2011, Boyd 
+ was the CFO and Treasurer at Miller Energy.  He was the director of risk management from 2011 
+ until 2014.  He is no longer employed by Miller Energy.   He has been a licensed CPA in 
+ Tennessee since 1993.   
+
+        8.     David M. Hall resides in Anchorage, Alaska.  Hall has degrees in Industrial and 
+ Electrical Engineering from Rochville University.  He has served as a director of the Company and 
+ as CEO of Miller Energy’s Alaska subsidiary since December 2009, and as Miller Energy’s Chief 
+ Operating Officer since July 2013.  He has worked with the acquired Alaska assets since at least 
+ the mid-1990s, when Miller Energy’s predecessors began compiling the assets.  Prior to joining 
+ Miller Energy, Hall served from January 2008 to December 2009 as Vice President and General 
+ Manager of Alaska Operations for the immediate past owner of the acquired assets.  In this 
+ capacity, Hall was the most senior employee in Alaska responsible for the day-to-day operations of 
+ the oil and gas properties.   
+                                                 3  
+---------------------Page 4---------------------
+
+       9.      Carlton W. Vogt, III, CPA, resides in Warwick, New York.  From January 2005 to 
+October 2011, Vogt was a partner at Sherb & Co., LLP, an accounting firm based out of New 
+York.  He has been a licensed CPA in the state of New York since 1998. 
+
+                                             FACTS 
+
+                                          Background 
+
+       10.    Miller Energy was founded in 1967 as an oil and gas exploration and production 
+company, and went public via a reverse merger in 1996.  Between early 2002 and December 2009, 
+Miller Energy’s stock price regularly traded below one dollar per share, falling to a low of $0.04 
+per share in December 2007.  In August 2008, Miller Energy named a new CEO.  Soon thereafter, 
+the Company began acquiring additional oil and gas properties. 
+
+                   Miller Energy Acquires and Overvalues the Alaska Assets 
+
+       11.    In the fall of 2009, Miller Energy became aware of certain oil and gas properties in 
+Alaska that were in the process of being “abandoned” as part of the bankruptcy proceedings of a 
+California-based energy company.   
+
+       12.    Unable to service its heavy debt and pay the significant monthly costs required to 
+operate the properties, the bankrupt entity unsuccessfully sought for almost a year to sell its Alaska 
+assets.  Beginning in December 2008, months before it filed for bankruptcy, the former owner of 
+the assets, with the help of one of the world’s leading financial advisory and asset management 
+firms, marketed the same group of assets that Miller Energy ultimately bought to 40 potential 
+buyers.  This process failed to attract any bidders, and the assets were auctioned by the bankruptcy 
+court in July 2009, with the winning bidder agreeing to a total purchase price of $8 million for the 
+assets.  A second entity, who bid $7 million, was designated as the back-up purchaser.  Neither 
+bidder closed.    
+
+       13.    As a result, the former owner of the assets sought in August 2009, and was granted 
+in September, an order from the bankruptcy court allowing it to abandon title to the assets due to a 
+lack of interest.   
+
+       14.    Due to renewed interest in the assets following their abandonment from Miller 
+Energy, the bankruptcy court permitted the debtor to reacquire the Alaska assets and sell them to 
+Miller Energy in a competitive auction for $2.25 million in cash and the assumption of certain 
+limited liabilities.  The transaction closed on December 10, 2009.   
+
+       15.    On March 22, 2010, Miller Energy filed its quarterly report on Form 10-Q for its 
+fiscal third quarter ended January 31, 2010 and reported a value of $480 million for the Alaska 
+acquisition, which amount was comprised of $368 million for oil and gas properties and $110 
+million for fixed assets.  Miller Energy also reported an after-tax $277 million “bargain purchase 
+gain,” which boosted net income for the quarter to $272 million – an enormous increase over the 
+$556,097 loss reported for the same period the year before. 
+
+       16.    As detailed below, these inflated balance sheet and income statement numbers were 
+repeated in numerous documents subsequently filed with the Commission.   
+
+                                                4  
+---------------------Page 5---------------------
+
+       17.    The newly-booked value of the Alaska acquisition, which resulted in a nearly 
+5,000% increase in Miller Energy’s total assets, had a significant impact on Miller Energy’s stock 
+price.  On December 10, 2009, the date of the transaction, Miller Energy’s stock closed at $0.61 
+per share.  By March 31, 2010, Miller Energy’s stock closed 982% higher at $6.60 per share.  
+Weeks later, its stock began trading on NASDAQ and, after moving to the NYSE a year later, 
+reached an all-time high price on December 9, 2013 of $8.83 per share.   
+
+       18.    As described in detail below, Miller Energy materially overstated the value of its 
+Alaska assets by more than four hundred million dollars.     
+
+                            Under GAAP, Miller Energy Was Required 
+                          to Record the Alaska Acquisition at Fair Value 
+
+       19.    ASC 805, Business Combinations – formerly Statement of Financial Accounting 
+Standards (“SFAS”) 141(R) – became effective in December 2008.  Among its principal revisions, 
+ASC 805 requires acquisitions that result in a “bargain purchase,” e.g., entities purchased at fire 
+sales prices in non-orderly transactions, to be measured at fair value, with any resulting gain 
+recorded on the income statement.    
+
+       20.    ASC 820, Fair Value Measurements (formerly SFAS 157), provides the framework 
+for measuring fair value.  “Fair value” is defined in ASC 820 as “the price that would be received 
+to sell an asset or paid to transfer a liability in an orderly transaction between market participants at 
+the measurement date.”  A reporting entity must determine an appropriate fair value using one or 
+more of the valuation techniques described in accounting literature.  
+
+       21.    ASC 820 outlines three broad approaches to measure fair value: the market 
+approach, income approach, and cost approach.  Under the market approach, prices and other 
+relevant information generated by market transactions involving identical or comparable assets or 
+liabilities are used to measure fair value.  The income approach utilizes valuation techniques to 
+convert future amounts to a single discounted present value amount.  Finally, the cost approach is 
+based on the amount that currently would be required to replace the assets in service, i.e., current 
+replacement cost.   
+
+       22.    ASC 820 emphasizes that fair value is a market-based measurement, not an entity-
+specific measurement, and should be determined based on the assumptions market participants 
+would use in pricing the asset or liability.   
+
+       23.    ASC 820 emphasizes that when a price for an identical asset or liability is not 
+observable entities should use a “valuation technique that maximizes the use of relevant observable 
+inputs and minimizes the use of unobservable inputs” and entities may not ignore assumptions 
+                               2
+market participants would use.      
+
+                                                   
+2
+ ASC 820 defines “unobservable inputs” as “inputs that reflect the reporting entity’s own assumptions about the 
+assumptions market participants would use in pricing the asset or liability developed based on the best information 
+available in the circumstances” and “observable inputs” as “inputs that reflect the assumptions market participants 
+would use in pricing the asset or liability developed based on market data obtained from sources independent of the 
+reporting entity.”  
+
+                                                  5  
+---------------------Page 6---------------------
+
+        24.     When computing their estimate of fair value, Miller Energy and Boyd failed to 
+consider the existence of numerous, readily apparent data points strongly indicating that the assets 
+were worth substantially less than the $480 million value Miller Energy recorded.  In failing to do 
+so, Miller Energy and Boyd, materially overstated the value of the newly acquired Alaska assets.   
+
+        25.     As described below, Miller Energy purported to value its Alaska acquisition using 
+the income approach for the oil and gas reserves and the cost approach for certain fixed assets. 
+
+                       The Valuation of the Acquired Oil and Gas Properties 
+            Was Based Upon a Reserve Report, Which Does Not Represent Fair Value 
+
+        26.     To record the value of the acquired oil and gas properties, Miller Energy and Boyd 
+requested and improperly used a reserve report prepared by an independent petroleum engineer 
+firm.   
+
+        27.     Reserve reports are commonly used in the oil and gas industry to estimate quantities 
+                                                                                     3
+of oil and gas (the reserves) expected to be recovered from existing properties.         Generally, these 
+reports list reserves in categories based on a minimum estimated percentage probability of eventual 
+recovery and production,    i.e., proved, probable, and possible.  Information in reserve reports that 
+are prepared in accordance with Commission regulations is frequently used, for among other 
+purposes, to satisfy supplemental accounting disclosure requirements concerning estimates of 
+future oil and gas production.  However, the numbers used in reserve reports for this purpose are 
+                                                                 4
+expressly not considered “an estimate of fair market value.”  
+
+        28.     Shortly after the acquisition, Boyd asked Hall – a non-accountant with no formal 
+accounting training – to obtain a reserve report for the Alaska properties in order to determine the 
+fair value of the acquired assets to be reported on Miller Energy’s Form 10-Q for the quarter ended 
+January 31, 2010.   
+
+        29.     On January 5, 2010, Hall hired a petroleum engineer firm to prepare a reserve 
+report using a pretax present value of net cash flows discounted at 10% (“PV-10”), which, while 
+
+                                                 
+3
+ Oil and gas reporting companies are subject to two principal authoritative pronouncements governing financial 
+accounting and reporting for oil and gas activities: Rule 4-10 of Regulation S-X (17 C.F.R. 210.4-10), Financial 
+Accounting and Reporting for Oil and Gas Producing Activities Pursuant to the Federal Securities Laws and the 
+Energy Policy and Conservation Act of 1975 (“Rule 4-10”); and ASC 932-235-50-29 through 33 (formerly SFAS 
+19, Financial Accounting and Reporting by Oil and Gas Producing Companies and SFAS 69, Disclosures About Oil 
+and Gas Producing Activities).  ASC 932 establishes disclosure requirements for significant oil and gas activities, 
+including disclosure of the “standardized measure,” which is the future after-tax net cash flows discounted at 10%. 
+A non-GAAP measure known as “PV-10” is similar to the standardized measure but is typically presented on a 
+pretax basis.  The FASB has noted that the standardized measure supplies investors with useful information, 
+however, they also noted their concern “that users of financial statements understand that it is neither fair market 
+value nor the present value of future cash flows. It is a rough surrogate for such measures, a tool to allow for a 
+reasonable comparison of mineral reserves and changes through the use of a standardized method that recognizes 
+qualitative, quantitative, geographic, and temporal characteristics.”  Paragraph 83 of the Basis for Conclusions of 
+SFAS 69.     
+4
+ See Paragraph 77 of the Basis for Conclusion of  SFAS 69 (“Although it cannot be considered an estimate of fair 
+market value, the standardized measure of discounted net cash flows should be responsive to some of the key variables 
+that affect fair market value, namely, changes in reserve quantities, selling prices, production costs, and tax rates.”).   
+
+                                                     6  
+---------------------Page 7---------------------
+
+appropriate with further adjustments for SEC supplemental disclosures, was not indicative of fair 
+value.   
+
+       30.    The petroleum engineer firm did not know Miller Energy intended to use the report 
+for fair value purposes and believed that the purpose of the report was for use as supplemental data 
+in the company’s SEC disclosures.  Indeed, the two page engagement letter with the engineer firm 
+includes no language about “fair value,” “fair market value” or authoritative accounting literature.     
+
+       31.    The reserve report was finalized in February 2010 and reflected PV-10 of $368 
+million.  
+
+       32.    Upon receiving the reserve report, Boyd, without undertaking any additional 
+analysis, merely recorded as the fair value of the acquired oil and gas properties the sum of the PV-
+10 estimates for 100% of the proved, probable, and possible reserves, which increased the book 
+value of Miller Energy’s oil and gas properties on its balance sheet by $368 million.   
+
+       33.    The reserve report itself clearly stated that the numbers therein were not an estimate 
+of fair market value.  Specifically, on page 3 of the report, it states that “[t]he discounted values 
+shown are for your information and should not be construed as our estimate of fair market value.”  
+Boyd never reviewed or questioned any of the reserve report’s assumptions or calculations, nor did 
+he communicate with the engineer firm about the reserve report.  
+
+       34.    The use of the PV-10 numbers as fair value conflicted with contemporaneous 
+representations Miller Energy made to investors.  Specifically, in its fiscal 2010 Form 10-K, which 
+was the first annual report that included the inflated values, Miller Energy expressly told investors 
+that “[o]ur PV-10 measure and the standardized measure of discounted future net cash flows do not 
+purport to present the fair value of our natural gas and oil reserves.”  Despite that disclosure, Miller 
+Energy had actually used its PV-10 measure in that very same report as the fair value of its 
+acquired properties.    
+
+       35.    The $368 million reserve report value did not represent fair value for several 
+reasons.   
+
+       36.    Despite showing years of net profit that market participants would expect to be 
+taxable, the reserve report did not make any adjustments for income taxes.    
+
+       37.    At Miller Energy’s request, the reserve report used a 10% discount rate that was 
+inappropriate under GAAP for determining fair value.  In a discounted cash flow model, a discount 
+rate is used to account for the uncertainties associated with risk and the time value of money.  A 
+discount rate is the required rate of return that an investor would demand – based on the risks 
+associated with the benefit stream under consideration – to induce the investor to make an 
+investment.  By failing to consider the discount rate using assumptions market participants would 
+use, Miller Energy materially overstated the value of the acquired oil and gas properties.       
+
+       38.    The valuation also overstated cash flows from certain categories of reserve 
+estimates (e.g., “probable” and “possible” reserves) by failing to apply any risk weight to such 
+reserves and the resulting cash flows.  Given the high degree of uncertainty associated with cash 
+                                                 7  
+---------------------Page 8---------------------
+
+flows from these reserve estimate categories, they are required to be risk weighted in order to 
+reflect an appropriate valuation. 
+
+       39.    The reserve report did not include amounts for certain asset retirement obligations, 
+i.e., the legal obligations associated with the retirement of tangible long-lived assets.    
+
+       40.    Finally, the $237 million of projected operating and capital expenses in the reserve 
+report, which were provided by Miller Energy and Hall, were intentionally understated, resulting in 
+an overstated valuation.   
+
+       41.    In fact, one petroleum engineer firm contacted but not used by Miller Energy 
+thought that the expected level of expenses made a significant portion of the acquisition 
+unprofitable.  Initially, Hall contacted the petroleum engineer firm who had previously provided 
+the past two owners of the properties with reserve reports, and thus had unfettered access to past 
+operating data, and requested a quote for “updating” a prior reserve report.  That firm told Hall that 
+it would not assign any value to one of the largest fields acquired, the Redoubt Shoal field, because 
+it was uneconomical – i.e., expected future expenses exceeded expected future cash flows – and 
+explained that it would not put its “name on a report that implies value exists where it likely does 
+     5
+not.”    
+
+       42.    Boyd was aware that Miller Energy chose the new firm because the prior firm 
+would not assign any value to the Redoubt Shoal field.  The Redoubt Shoal field – which 
+represented $291 million of the $368 million in fair value recorded by Miller Energy – showed 
+positive future cash flows in the reserve report primarily because Hall gave the new engineer firm 
+understated and unsubstantiated expense numbers.  Boyd had previously been advised by Vogt that 
+the lack of any controls over Hall’s expense estimates was a “concerning void.”             
+
+       43.    Miller Energy and Hall provided expense projections that, in many cases, were 
+significantly lower than past actual experience.  For example, internal documents maintained by 
+Hall indicate that the cost to drill a new well in the Redoubt field was roughly $13 million.  
+However, Hall told the engineer firm to use a cost of $4.6 million per well in its reserve report.  
+And instead of using recent expense data Hall gave the engineer firm nearly three year old 
+operating expense data, which he revised down on the pretext that Miller Energy could run a leaner 
+operation than former operators of the properties.  By way of example, Hall told the engineer firm 
+that the offshore Redoubt field would cost $399,000 per month to operate when it actually cost the 
+seller more than $600,000 per month and when internal estimates show that Miller Energy and 
+Hall expected the field to cost more than $800,000 per month once fully operational.  Additionally, 
+in some years, the report included zero expenses for operating the facilities in Redoubt and another 
+field.    
+
+                                                 
+5
+ Unique among the oil and gas properties purchased by Miller Energy, Redoubt Shoal is an offshore field in Cook 
+Inlet, Alaska, which requires the use of an offshore platform that sits in seventy feet of water, is accessible only by 
+boat or helicopter, and drills to depths in excess of 12,000 feet.  Offshore drilling presents risks and costs not 
+associated with onshore operations.           
+
+                                                  8  
+---------------------Page 9---------------------
+
+       44.    Overall, the reserve report implied operating expenses of $4 per barrel of oil 
+equivalent (“boe”) for all categories of reserves.  That level of operating expenses was 
+unreasonable in light its predecessor’s actual operating expenses of $32.50/boe in 2008 and 
+$55.42/boe in the first half of 2009 before the wells were shut-in.   
+
+       45.    By understating the expense numbers, the Miller Respondents overvalued the oil 
+and gas properties by tens of millions of dollars. 
+
+       The Fair Value of the Acquired Fixed Assets Was Double-Counted and Overstated 
+
+       46.    In addition to the $368 million value recorded for the oil and gas properties, Miller 
+Energy also erroneously recorded a separate value of $110 million for acquired fixed assets, such 
+as facilities and pipelines ancillary to the oil and gas reserves.   
+
+       47.    In a February 8, 2010 email, Boyd informed Hall that he needed an amount to use 
+as fair value for the fixed assets obtained as part of the Alaska acquisition.  He noted that, ideally, 
+the value should be what a willing buyer would pay for the assets, but “[i]n the absence of that, 
+replacement values or something similar would probably work.”  Two days later, Boyd was sent an 
+“asset replacement cost study” purportedly provided by an independent insurance broker, which 
+appeared to list the replacement cost for the assets as $110 million.  The “study” was dated 
+September 5, 2008, but “revised” on February 9, 2010.   
+
+       48.    Without any additional analysis, Boyd recorded the amount in the revised insurance 
+study on Miller Energy’s balance sheet.   
+
+       49.    The recording of assets at a value of $110 million was improper for several reasons.     
+
+       50.    Miller Energy’s use of the values in the insurance study resulted in counting the 
+value of the fixed assets twice, thereby overstating the value of such assets.  The reserve report 
+Miller Energy relied on to value the acquired oil and gas properties used a discounted cash flow 
+model.  Valuation specialists use such models to estimate the value of an enterprise’s “operating 
+assets” – i.e., the assets employed to generate future cash flows – by converting future benefit 
+streams into a net present value.  In Miller Energy’s case, the fixed assets in the insurance study 
+were the very same operating assets that were expected to generate the future cash flows in the 
+reserve report.  Accordingly, they should not have been separately valued.   
+
+       51.    Prior to the acquisition, all of the production from the offshore Redoubt Shoal field 
+ran through the Osprey platform, which had no processing facilities or power generating capability 
+of its own.  Power was sent from generators housed within the Kustatan Production Facility to the 
+platform via a subsea line, which was connected to an underground power grid that ran throughout 
+all of the acquired properties.  Moreover, production from the offshore platform was sent onshore 
+for processing through pipes to the Kustatan Production Facility.  Absent the platform, there would 
+have been no way to obtain oil and gas from Redoubt Shoal without incurring upfront capital 
+expenditures to replace the platform and its related infrastructure.  Similarly, without the other 
+production facilities, the platform would have lacked power and somewhere to process its oil and 
+gas.   
+
+                                                 9  
+---------------------Page 10---------------------
+
+       52.    The reserve report Miller Energy used for the valuation recognized the 
+interconnectedness of the properties, as it expressly listed the facilities and the offshore platform as 
+assets used to generate the future cash flows.   
+
+       53.    In short, because the fixed assets were integral to the operations of the acquired 
+properties, their values were captured in the reserve report’s cash flows.  Consequently, by 
+separately valuing the same operating assets, Miller Energy overstated the value of the Alaska 
+assets by as much as $110 million.   
+
+       54.    The insurance study also did not reflect fair value because the version of the 
+insurance study used by Boyd purported to show “asset replacement cost.”   Absent further 
+adjustments, replacement cost new does not qualify as fair value under GAAP.   
+
+       55.    Miller Energy, at the direction of Boyd and Hall, also refashioned a preexisting 
+insurance study to make it appear that its own value of $110 million derived from a third party.  
+The numbers in the fixed asset study were given to the insurance broker, and its predecessor, by its 
+clients (i.e., Miller Energy and the previous owners of the fixed assets) as far back as 2007 and 
+were used as starting points for other types of estimates, such as estimates for possible losses 
+resulting from fire or natural disasters.  The two employees at the insurance broker who were most 
+familiar with the original “Loss Estimates Study,” including the engineer who authored it, 
+confirmed that no one at the broker ever tested or in any way double-checked the values given to 
+them.   
+
+       56.    Boyd and Hall knew or knowingly disregarded the fact that the insurance study did 
+not reflect fair value or any analysis by the insurance broker.   
+
+       57.    On February 8, 2010, Hall directed Alaska personnel to contact the insurance 
+broker and another oil and gas consulting company to ask them for a report reflecting fair value or 
+replacement cost.  The insurance broker responded on February 9, and told Miller Energy in an 
+email copied to Hall that it could not provide a report showing replacement costs.   
+
+       58.    Miller Energy also contacted a separate consulting firm and sent it the insurance 
+broker’s original 2008 insurance report.  Late on February 8, the consulting firm informed Miller 
+Energy that the insurance study it sent was a “good reference” but the report did not state “value or 
+replacement cost.”  The firm offered to conduct its own analysis, but advised that the estimate 
+would take “approximately 2-3 weeks to complete” and “cost around $15,000-$18,000.”   
+
+       59.    Upon hearing the news that a new report might take two to three weeks, Alaska 
+personnel, including Hall, called Boyd.  According to one participant on this call, Boyd said he 
+could not wait weeks for a new report.  He “needed it quickly and he needed to base it on 
+something . . . a professional had to sign off on it, not us, some third party. . . .”  During the call, 
+Boyd and Hall decided to rely on numbers in the insurance report as replacement costs, despite 
+Hall having been told by the broker that it could not provide Miller Energy with replacement costs.   
+
+       60.    With the aim of making the report appear as though it reflected replacement costs, 
+Hall provided a subordinate with edits to the 2008 insurance report that significantly altered its 
+appearance, including changing its name from “Loss Estimates Study” to “Asset replacement cost 
+                                                10   
+---------------------Page 11---------------------
+
+study.”  The revised report, which Miller Energy gave to Sherb & Co., omitted the insurance 
+broker’s methodology and analysis.  As a result, the only numbers reflected in the revised report 
+were the ones provided to the broker by Miller Energy and its predecessors. 
+
+       61.    As a result of the foregoing, Miller Energy overvalued the Alaska assets by more 
+than $400 million. 
+
+       62.    As a result of the fraudulent valuation, Miller Energy filed with the Commission 
+financial reports that materially misstated the value of its assets, as follows:  Forms 10-Q for the 
+third quarter of fiscal year 2010 and all three quarters of fiscal years 2011 through 2015; Forms 10-
+K for fiscal years ended 2010 through 2014; the Form S-1 filed on August 8, 2010; the Forms S-3 
+filed on September 6, 2012 and October 5, 2012; and prospectuses filed between August 25, 2010 
+through August 21, 2014 pursuant to Rule 424.  The fraudulent valuation also resulted in Miller 
+Energy filing with the Commission financial reports that materially misstated its net income, as 
+follows: Forms 10-Q for the third quarter of fiscal year 2010, all three quarters of fiscal 2011, and 
+the first two quarter of 2012; Forms 10-K for fiscal years ended 2010 through 2012; the Form S-1 
+filed on August 8, 2010; the Forms S-3 filed on September 6, 2012 and October 5, 2012; and 
+prospectus supplements filed between August 25, 2010 through August 21, 2014 pursuant to Rule 
+424.  In addition, the fraudulent valuation rendered no fewer than 15 Forms 8-K filed between 
+March 2010 through at least December 2014 materially false and misleading.  
+
+                         Vogt’s Fiscal Year 2010 Audit of Miller Energy 
+
+       63.    In August 2008, Miller Energy hired Sherb & Co. to become the company’s 
+independent public accountant.  Vogt led an audit team that audited Miller Energy’s financial 
+statements for fiscal years ended 2009 and 2010.    
+
+       64.    As the partner in charge of the fiscal year 2010 Miller Energy audit, Vogt failed to 
+perform the 2010 Miller Energy audit in accordance with PCAOB Auditing Standards.  These 
+deficiencies included, among other items, failing properly to audit the fair value measurements, use 
+the work of a specialist, plan, staff and supervise the audit, obtain sufficient competent audit 
+evidence, exercise due care and professional skepticism, and perform required audit testing.   
+
+       65.    Vogt’s failures related to the auditing of the Alaska asset acquisition.  Despite the 
+materiality of the transaction on Miller Energy’s financial statements, Vogt failed to adequately 
+test the valuation of the assets and the related calculation of the gain on acquisition.  Instead, he 
+inappropriately relied on the aforementioned reserve report and the so-called asset replacement 
+cost study to justify Miller Energy’s $480 million valuation of the Alaska assets.   
+
+       66.    Vogt did not perform the necessary procedures to enable him to use the findings of 
+                                     6
+the reserve report.  See AU § 336.12.  He and his audit staff performed a limited evaluation  of  the 
+petroleum engineer  firm’s work and its qualifications as a specialist (as a petroleum engineer, not 
+as a fair value appraiser).  The reserve report, which was included in the audit workpapers, clearly 
+stated that the engineer firm was not engaged to – and did not in fact – perform a fair value 
+
+                                                 
+6
+ References in this order are to the PCAOB standards in effect at the time of the relevant conduct. 
+
+                                                 11   
+---------------------Page 12---------------------
+
+estimate for the Alaska assets.  Among other significant flaws, Vogt never obtained an 
+understanding of the objectives and scope of the specialist’s work or the appropriateness of using 
+the specialist’s work for the purpose of fair valuing the assets.  See AU § 336.09. Nor did he make 
+the appropriate tests of data provided to the specialist, including operating and capital expenses 
+estimated and provided by Hall.  See AU § 336.12. 
+
+       67.    The audit of the recorded fixed assets of $110 million was similarly flawed.  A 
+member of the audit team obtained the asset replacement cost study and placed a copy of it in the 
+workpapers, but Vogt failed to consider the nature of the fixed assets and whether they would be 
+utilized to generate the cash flow from the oil and gas properties, and, if so, what remainder value 
+would exist.  Nor did Vogt or the audit team perform any meaningful work to consider the 
+expertise and experience of those persons determining the fair value measurement, the significant 
+management assumptions used in determining the fair value, and the documentation supporting 
+management’s assumptions.  See AU § 328.12.   
+
+       68.    Vogt knew at the time of the accounting for the acquisition that Miller Energy had 
+insufficient accounting staff and that any accounting was suspect.  In a December 22, 2009 email 
+to Miller Energy’s senior management, Vogt indicated that he believed the Company’s accounting 
+staff was deficient, and that Boyd cut too many corners on the accounting documentation. 
+Furthermore, Vogt stated that Hall’s modeling of cash flows and expenses was “concerning” 
+because there was no one taking a detailed look at his estimates.  In an email dated March 17, 
+2011, Vogt also knew that the reserve report used suspect data and was completed on what he 
+described as a “rushed basis,” as Miller Energy “had very little time if none for any true due 
+diligence of much depth into what [it] purchased.”   
+
+       69.    Vogt, on behalf of Sherb & Co., issued an audit report containing an unqualified 
+opinion for use in Miller Energy’s 2010 Form 10-K that stated falsely that the audit had been 
+conducted in accordance with the PCAOB’s standards and that Miller Energy’s financial 
+statements were presented fairly, in all material respects, in conformity with GAAP.  The specific 
+failures are detailed below.   
+
+             Failures Auditing Fair Value Measurements and Disclosures (AU § 328) 
+
+       70.    AU § 328 requires auditors to obtain sufficient competent audit evidence to provide 
+reasonable assurance that fair value measurements and disclosures are in conformity with GAAP. 
+AU § 328.03.  The standard provides that “[t]he auditor should test the data used to develop the fair 
+value measurements and disclosures and evaluate whether the fair value measurements have been 
+properly determined” including “whether the data on which the fair value measurements are based, 
+including the data used in the work of a specialist, is accurate, complete and relevant . . . .” AU § 
+328.39.  In addition, “[t]he auditor should evaluate the sufficiency and competence of the audit 
+evidence obtained from auditing fair value measurements and disclosures as well as the 
+consistency of that evidence with other audit evidence obtained and evaluated during the audit.” 
+AU § 328.47.  If a valuation model is utilized, the auditor reviews the model and evaluates whether 
+the assumptions used are reasonable.  AU § 328.38. 
+
+                                                12   
+---------------------Page 13---------------------
+
+       71.    Vogt failed to comply with these requirements in connection with the 2010 audit of 
+Miller Energy.  While Vogt performed some testing on the data used to create the reserve report, 
+he failed to test key elements such as the discount rate utilized, the risk weighting of the probable 
+and possible reserves, estimated oil prices, and operating and capital expenses.  Vogt also never 
+properly considered the relevancy of the reserve report, improperly relying exclusively on the 
+report since the specialist, a petroleum engineer, was not engaged to estimate a fair valuation, as 
+expressly indicated in the report.  Nor did he consider the consistency of the evidence in light of 
+the other evidence, such as Miller Energy’s actual purchase price of the assets (reported at less than 
+$5 million), and the fact that the assets had previously been abandoned during a bankruptcy 
+proceeding. While Vogt and his staff reviewed some aspects of the specialist’s valuation model, 
+they failed to sufficiently review and evaluate the reasonableness of assumptions such as the 
+discount rate, risk weighting of certain reserves, future oil prices, and operating and capital 
+expenses. 
+
+       72.    Vogt also failed to obtain sufficient audit evidence to support the fair value of the 
+fixed assets.  Vogt performed limited, if any, testing of the asset replacement cost study 
+purportedly supporting the fixed asset valuation.  He did not assess the competency or sufficiency 
+of the asset replacement cost study, or understand who created the study, their qualifications, and 
+the data underlying their valuation.  Finally, Vogt failed to consider whether some or all of the 
+fixed assets were being utilized in the estimated values captured in the reserve report. 
+
+                       Failure in Using the Work of a Specialist (AU § 336) 
+
+       73.    AU § 336 provides guidance to auditors when the work of a specialist is used in 
+performing an audit of financial statements prepared in accordance with GAAP.  Among other 
+items, the standard requires the auditor to evaluate the specialist to ensure that the specialist 
+possesses the necessary skill or knowledge in the type of work under consideration and the 
+appropriateness of using the specialist’s work for the intended purpose.  Specifically, AU § 336.08 
+states that “[t]he auditor should consider the following to evaluate the professional qualifications of 
+the specialist in determining that the specialist possesses the necessary skill or knowledge in the 
+particular field:  
+
+               a.  The professional certification, license, or other recognition of the competence of 
+                   the specialist in his or her field, as appropriate 
+
+               b.  The reputation and standing of the specialist in the views of peers and others 
+                   familiar with the specialist’s capability or performance 
+
+               c.  The specialist's experience in the type of work under consideration.” 
+
+       74.    Furthermore, AU § 336.09 states “[t]he auditor should obtain an understanding of 
+the nature of the work performed or to be performed by the specialist. This understanding should 
+cover the following: 
+
+               a.  The objectives and scope of the specialist’s work 
+
+               b.  The specialist's relationship to the client  
+
+               c.  The methods or assumptions used 
+
+                                                 13   
+---------------------Page 14---------------------
+
+               d.  A comparison of the methods or assumptions used with those used in the 
+                   preceding period 
+
+               e.  The appropriateness of using the specialist's work for the intended purpose  
+
+               f.  The form and content of the specialist’s findings that will enable the auditor to 
+                                                                            7
+                   make the evaluation described in paragraph [336].12.”  
+
+       75.    Although the Standard allows an auditor to use the work of a specialist as evidential 
+matter in performing substantive tests to evaluate material financial statement assertions (see AU § 
+336.03), Vogt failed in several respects in his use of a specialist regarding the valuation of Miller 
+Energy’s Alaska acquisition.   
+
+       76.    Vogt did not properly consider the petroleum engineer’s experience in fair 
+valuation of assets, which was nonexistent.  See AU § 336.08.  Vogt also failed to obtain an 
+understanding of the objectives and scope and intended purpose of the petroleum engineer’s 
+engagement for Miller Energy, which was to produce a reserve report for reserve disclosure 
+purposes, not a fair valuation of acquired assets.  See AU § 336.09.   Indeed, the single page of the 
+reserve report included in Vogt’s workpapers, to support his evaluation of Miller Energy’s $368 
+million valuation, clearly states that the “values shown . . . should not be construed as our estimate 
+of fair market value.”   
+
+       77.    Furthermore, Vogt failed to adequately obtain an understanding of the methods and 
+assumptions used by the specialist, or appropriately test data provided to the specialist.  See AU § 
+336.12.  There is no evidence that Vogt considered the appropriateness of certain key assumptions 
+used by the petroleum engineer, such as the discount rate, estimated price of oil and gas, and the 
+lack of risk weighting of probable and possible reserves.  Finally, Vogt, despite alerting Boyd and 
+Miller Energy’s then CEO of the lack of sufficient review and inquiry, failed to adequately test the 
+operating and capital expense estimates provided to the specialist by Miller Energy, and took few 
+audit steps, other than inquiry, to assess the reasonableness of the expense estimates.  
+
+       78.    Vogt performed no steps to evaluate the qualifications of the authors of the asset 
+replacement cost study, or understand the methods or assumptions they used or the appropriateness 
+of using the Asset replacement cost study to support the valuation of the fixed assets at $110 
+million. 
+
+        Failure to Exercise Due Professional Care in the Performance of Work (AU § 230)  
+
+       79.    PCAOB Standards require auditors to exercise due professional care in the planning 
+and performance of the audit.  See AU § 230.01.  Due professional care requires the auditor to 
+exercise professional skepticism: an attitude that includes a questioning mind and a critical 
+assessment of audit evidence.  See AU § 230.07.  Moreover, gathering and objectively evaluating 
+
+                                                 
+7
+ AU § 336.12 states that an auditor should evaluate the appropriateness and reasonableness of methods and 
+assumptions used, during which the auditor should: “(a) obtain an understanding of the methods and assumptions 
+used by the specialist, (b) make appropriate tests of data provided to the specialist, taking into account the auditor's 
+assessment of control risk, and (c) evaluate whether the specialist's findings support the related assertions in the 
+financial statements.” 
+                                                  14   
+---------------------Page 15---------------------
+
+audit evidence requires the auditor to consider the competency and sufficiency of the evidence.  
+See AU § 230.08.     
+
+       80.    Vogt failed to exercise due professional care regarding the audit of the Alaska 
+acquisition valuation during the 2010 Miller Energy audit.  Miller Energy had valued the assets 
+purchased for a few million dollars at $480 million and had recorded a corresponding $277 million 
+bargain purchase gain.  Given the size of the transaction, Vogt should have focused more closely 
+on the diligence required to gather and objectively evaluate the evidence supporting the fair value 
+of the oil and gas properties acquired to comply with ASC 805 and common industry practice. He 
+failed to adequately consider the competency and sufficiency of the reserve report as evidence of 
+the fair value of the acquired oil and gas properties.  Vogt also performed limited procedures and 
+failed to sufficiently evaluate the evidentiary value of the asset replacement cost study, including 
+failing to understand the source of the fixed asset values therein and the competency of the report 
+authors.   
+
+                              Failure to Plan and Supervise (AU § 311) 
+
+       81.    AU § 311 requires an auditor to adequately plan the work and properly supervise 
+assistants.  AU § 311.01.  In planning the audit, the auditor should consider, among other matters, 
+the entity’s business, the entity’s accounting policies and procedures, and planned assessed level of 
+control risk. AU § 311.03.  A written audit program is required.  AU § 311.05.  Supervision 
+involves directing the efforts of assistants who are involved in accomplishing the objectives of the 
+audit and determining whether those objectives were accomplished.  The extent of supervision 
+appropriate in a given instance depends on many factors, including the complexity of the subject 
+matter and the qualifications of persons performing the work.  AU § 311.11.   
+
+       82.    Vogt’s work did not meet this standard.  Vogt’s audit program to test Miller 
+Energy’s fair value assessment of the Alaska acquisition was insufficient.  The planned procedures 
+largely consisted of verifying the credentials of a specialist.  Vogt’s audit program failed to set 
+forth procedures necessary to ensure the appropriateness of using the specialist’s work for the 
+purpose of a fair valuation.  Nor did his audit program provide additional and alternate procedures 
+for the insufficient evidence provided by the work of the specialist.  As to the fixed assets, Vogt’s 
+program was insufficient in that it merely required agreeing the asset balance to the Asset 
+replacement cost study provided by Miller Energy. 
+
+       83.    Vogt’s supervision of his staff was also deficient. Vogt spent little time on-site 
+while the field work was conducted, and he knew the staff auditors had insufficient oil and gas 
+industry experience.  It was evident during their respective testimonies that the two staff members 
+assigned by Vogt to the Miller Energy audit, whose experience consisted almost entirely of 
+auditing microcap companies, were ill-prepared to test a transaction purportedly valued in excess 
+of $400 million.  The most junior staff member was not a Certified Public Accountant, did not 
+appear to comprehend basic accounting principles, including elementary aspects of fair value 
+accounting, yet was charged with the testing of the oil and gas properties fair valuation.     
+
+                  
+
+                                                15   
+---------------------Page 16---------------------
+
+      Failure to Properly Assess Audit Risk and Materiality in Conducting an Audit (AU § 312) 
+
+       84.    AU § 312 states that, when an auditor has concluded that there is a significant risk 
+of material misstatement of the financial statements, the auditor should consider this conclusion in 
+determining the nature, timing, or extent of procedures; assigning staff; or requiring appropriate 
+levels of supervision.  Ordinarily, higher risk requires more experienced personnel or more 
+extensive supervision by the auditor with final responsibility for the engagement during both the 
+planning and the conduct of the engagement.  Higher risk may cause the auditor to expand the 
+extent of procedures applied, apply procedures closer to or as of year-end, particularly in critical 
+audit areas, or modify the nature of procedures to obtain more persuasive evidence. AU § 312.17 
+
+       85.    Vogt’s knowledge of the magnitude of the Alaska acquisition, and his knowledge 
+of the inadequacy of Miller Energy’s accounting personnel, including Boyd, should have resulted 
+in increased scrutiny of Miller Energy’s valuation of the Alaska assets.  Yet Vogt assigned crucial 
+audit procedures to staff who lacked appropriate industry and auditing experience, and did not 
+sufficiently supervise their work. 
+
+                Failure to Obtain Sufficient Competent Evidential Matter (AU § 326) 
+
+       86.    Under the third standard of field work, sufficient competent evidential matter is to 
+be obtained through inspection, observation, inquiries, and confirmations to afford a reasonable 
+basis for an opinion regarding the financial statements under audit.  AU § 326.01.  Since he over 
+relied on a reserve report and the asset replacement cost study, and took limited to no additional 
+audit steps to test that audit evidence, Vogt failed to obtain sufficient evidence for the fair value of 
+the Alaska acquisition.   
+
+                      Failure to Issue an Accurate Audit Report (AU § 508) 
+
+       87.    Under AU § 508, an auditor may only express an unqualified opinion on historical 
+financial statements when the auditor has formed such an opinion on the basis of an audit 
+performed in accordance with PCAOB standards.  AU § 508.07.  Based upon the audit failures 
+discussed above, Vogt should not have issued an audit report containing an unqualified opinion on 
+Miller Energy’s fiscal year 2010 financial statements. 
+
+                                         VIOLATIONS 
+
+       88.    As a result of the conduct described above, Miller Energy violated Section 17(a) of 
+the Securities Act, Section 10(b) of the Exchange Act and Rule 10b-5 thereunder, which prohibit 
+fraudulent conduct in the offer or sale of securities and in connection with the purchase or sale of 
+securities.  Boyd willfully aided and abetted and caused, and Hall caused, Miller Energy’s 
+violations of Section 17(a) of the Securities Act, Sections 10(b) of the Exchange Act and Rule 10b-
+5 thereunder. 
+
+       89.       As a result of the conduct described above, Boyd willfully violated, and Hall 
+violated, Section 17(a) of the Securities Act, Section 10(b) of the Exchange Act and Rule 10b-5 
+thereunder, which prohibit fraudulent conduct in the offer or sale of securities and in connection 
+with the purchase or sale of securities.   
+                                                16   
+---------------------Page 17---------------------
+
+       90.    As a result of the conduct described above, Miller Energy violated Section 13(a) of 
+the Exchange Act, and Rules 13a-1, 13a-11, and 13a-13 thereunder, which require that every issuer 
+of a security registered pursuant to Exchange Act Section 12 file with the Commission, among 
+other things, annual, current, and quarterly reports as the Commission may require.  Boyd willfully 
+aided and abetted and caused, and Hall caused, Miller Energy's violations of Section 13(a) of the 
+Exchange Act, and Rules 13a-1, 13a-11, and 13a-13 thereunder.   
+
+       91.    As a result of the conduct described above, Miller Energy violated Section 
+13(b)(2)(A) of the Exchange Act, which requires reporting companies to make and keep books, 
+records and accounts which, in reasonable detail, accurately and fairly reflect their transactions and 
+dispositions of their assets.  Boyd willfully aided and abetted and caused, and Hall caused, Miller 
+Energy’s violations of Section 13(b)(2)(A) of the Exchange Act. 
+
+       92.    As a result of the conduct described above, Miller Energy violated Section 
+13(b)(2)(B) of the Exchange Act, which requires all reporting companies to devise and maintain a 
+system of internal accounting controls sufficient to provide reasonable assurances that transactions 
+are recorded as necessary to permit preparation of financial statements in accordance with GAAP. 
+Boyd willfully aided and abetted and caused, and Hall caused, Miller Energy's violations of 
+Section 13(b)(2)(B) of the Exchange Act. 
+
+       93.    As a result of the conduct described above, Boyd willfully violated, and Hall 
+violated, Section 13(b)(5) of the Exchange Act which prohibits any person from knowingly 
+circumventing or knowingly failing to implement a system of internal accounting controls or 
+knowingly falsifying any book, record, or account described in Section 13(b)(2) of the Exchange 
+Act.  
+
+       94.    As a result of the conduct described above, Miller Energy violated Rule 12b-20 
+under the Exchange Act which requires that, in addition to the information expressly required to be 
+included in a statement or report filed with the Commission, there shall be added such further 
+material information, if any, as may be necessary to make the required statements, in light of the 
+circumstances under which they are made not misleading.  Boyd willfully aided and abetted and 
+caused, and Hall caused, Miller Energy’s violations of violated Rule 12b-20 under the Exchange 
+Act. 
+
+       95.    As a result of the conduct described above, Boyd willfully violated Rule 13a-14 of 
+the Exchange Act which requires that an issuer’s principal executive and principal financial 
+officers certify each periodic report. 
+
+       96.    As a result of the conduct described above, Vogt engaged in improper professional 
+conduct within the meaning of Section 4C(a)(2) of the Exchange Act and Rule 102(e)(1)(ii) of the 
+Commission’s Rules of Practice.  Section 4C(a)(2) of the Exchange Act and Rule 102(e)(1)(ii) 
+provide, in pertinent part, that the Commission may censure or deny, temporarily or permanently, 
+the privilege of appearing or practicing before the Commission to any person who is found by the 
+Commission to have engaged in improper professional conduct.  Section 4C(b) of the Exchange 
+Act and Rule 102(e)(1)(iv) define improper professional conduct with respect to persons license to 
+practice as accountants as (1) a single instance of highly unreasonable conduct in circumstances for 
+
+                                                17   
+---------------------Page 18---------------------
+
+which heightened scrutiny is warranted; or (2) repeated instances of unreasonable conduct that 
+indicate a lack of competence.   
+
+                                               III. 
+
+       In view of the allegations made by the Division of Enforcement, the Commission deems it 
+necessary and appropriate in the public interest that public administrative and cease-and-desist 
+proceedings be instituted to determine: 
+
+       A.      Whether the allegations set forth in Section II hereof are true and, in connection 
+therewith, to afford Respondents an opportunity to establish any defenses to such allegations;  
+
+       B.      Whether, pursuant to Section 8A of the Securities Act and Section 21C of the 
+Exchange Act, Miller Energy, Boyd, and Hall should be ordered to cease and desist from 
+committing or causing violations of and any future violations of Section 17(a) of the Securities Act, 
+Sections 10(b), 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act, and Rules 10b-5, 12b-20, 
+13a-1, 13a-11, and 13a-13thereunder, whether Boyd and Hall should be ordered to cease and desist 
+from committing violations of and any future violations of Section 13(b)(5) of the Exchange Act 
+and Rule 13b2-1 thereunder, whether Boyd should be ordered to cease and desist from committing 
+violations of and any future violations of  Rule 13a-14; whether Miller Energy, Boyd, and Hall 
+should be ordered to pay a civil penalty pursuant to Section 8A(g) of the Securities Act and Section 
+21B(a) of the Exchange Act, and whether Miller Energy, Boyd, and Hall should be ordered to pay 
+disgorgement pursuant to Section 8A(e) of the Securities Act and Sections 21B(e) and 21C(e) of the 
+Exchange Act; 
+
+       C.      Whether, pursuant to Section 8A(f) of the Securities Act and Section 21C(f) of the 
+Exchange Act, Boyd and/or Hall should be prohibited, conditionally or unconditionally, and 
+permanently or for such period of time as the Commission shall determine, from acting as an officer 
+and director of any issuer that has a class of securities registered pursuant to Section 12 of the 
+Exchange Act, or that is required to file reports pursuant to Section 15(d) of the Exchange act; and 
+
+       D.      Whether, pursuant to Section 4C of the Exchange Act and Section 102(e) of the 
+Commission’s Rules of Practice, Boyd and Vogt should be denied, temporarily or permanently, the 
+privilege of appearing or practicing before the Commission as accountants.     
+
+                                               IV. 
+
+        IT IS ORDERED that a public hearing for the purpose of taking evidence on the questions 
+set forth in Section III hereof shall be convened not earlier than 30 days and not later than 60 days 
+from service of this Order at a time and place to be fixed, and before an Administrative Law Judge 
+to be designated by further order as provided by Rule 110 of the Commission’s Rules of Practice, 
+17 C.F.R. § 201.110.   
+
+        IT IS FURTHER ORDERED that Respondents shall file an Answer to the allegations 
+contained in this Order within twenty (20) days after service of this Order, as provided by Rule 220 
+of the Commission’s Rules of Practice, 17 C.F.R. § 201.220.  
+
+                                                18   
+---------------------Page 19---------------------
+
+        If Respondents fail to file the directed answer, or fail to appear at a hearing after being 
+duly notified, the Respondents may be deemed in default and the proceedings may be determined 
+against them upon consideration of this Order, the allegations of which may be deemed to be true 
+as provided by Rules 155(a), 220(f), 221(f) and 310 of the Commission’s Rules of Practice, 17 
+C.F.R.  §§ 201.155(a), 201.220(f), 201.221(f) and 201.310. 
+
+        This Order shall be served forthwith upon Respondents as provided for in the 
+Commission’s Rules of Practice. 
+
+        IT IS FURTHER ORDERED that the Administrative Law Judge shall issue an initial 
+decision no later than 300 days from the date of service of this Order, pursuant to Rule 360(a)(2) of 
+the Commission’s Rules of Practice.  
+
+ 
+        In the absence of an appropriate waiver, no officer or employee of the Commission 
+engaged in the performance of investigative or prosecuting functions in this or any factually related 
+proceeding will be permitted to participate or advise in the decision of this matter, except as 
+witness or counsel in proceedings held pursuant to notice.  Since this proceeding is not “rule 
+making” within the meaning of Section 551 of the Administrative Procedure Act, it is not deemed 
+subject to the provisions of Section 553 delaying the effective date of any final Commission action. 
+
+               By the Commission. 
+
+ 
+ 
+ 
+                                                             Brent J. Fields 
+                                                             Secretary 
+ 
+
+                                                19   

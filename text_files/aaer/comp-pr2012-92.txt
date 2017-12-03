@@ -1,0 +1,1317 @@
+---------------------Page 1---------------------
+
+UNITED STATES DISTRICT COURT  
+SOUTHERN DISTRICT OF NEW YORK 
+------------------------------------------------------------------------x  
+SECURITIES AND EXCHANGE COMMISSION,          : 
+                                                              : 12 cv _____ ( )          
+    Plaintiff,             :                                     
+        -against-                                             :         COMPLAINT 
+                                                              :   
+CHINA NATURAL GAS, INC. and QINAN JI                   :                  ECF CASE    
+                                                              :   
+                               Defendants.                    : 
+------------------------------------------------------------------------x  
+ 
+       Plaintiff Securities and Exchange Commission (the “Commission”), for its Complaint 
+
+against defendants China Natural Gas, Inc. (“CHNG”) and Qinan Ji (“Ji”) (collectively, 
+
+“Defendants”), alleges as follows: 
+
+                               SUMMARY OF ALLEGATIONS   
+
+       1.       This case involves the fraudulent concealment of two related party loans by 
+
+defendant CHNG, a U.S. public corporation, and defendant Ji, CHNG’s chairman and former 
+
+CEO, and CHNG’s failure to timely and properly report a material acquisition in 2008.   
+
+       2.       CHNG is a company based in the People’s Republic of China whose stock is 
+
+registered with the Commission and trades in the United States.  
+
+       3.       In January 2010, CHNG made two short-term loans totaling $14.3 million and 
+
+disclosed them in its filings with the Commission as loans made to unrelated third parties:  one 
+
+($9.9 million) to an individual, Taoxiang Wang (“Wang”), and the other ($4.4 million) to a real 
+
+estate company called Shaanxi Juntai Housing Purchase Co. Ltd. (“Juntai”).  In fact, the true and 
+
+undisclosed purpose of both loans was to benefit a real estate company called Xi’an Demaoxing 
+
+Real Estate Co., Ltd. (“DMX”) that was 90% owned by Ji’s son (“Son”) and 10% owned by Ji’s 
+
+nephew (“Nephew”).  Wang was a sham borrower purposely selected to conceal DMX’s receipt 
+
+of the $9.9 million loan.  Juntai was DMX’s business partner and borrowed $4.4 million from       
+---------------------Page 2---------------------
+
+CHNG to undertake a joint real estate project with DMX.  Ji approved the two loans without 
+
+obtaining the requisite approval of CHNG’s board of directors and without informing CHNG’s 
+
+CFO.  Ji instructed his niece’s husband, who was also CHNG’s internal audit chief (“Internal 
+
+Audit Chief”), to arrange both loans.  Upon Ji’s instruction, the Internal Audit Chief located 
+
+Wang to serve as the sham borrower for the $9.9 million loan to DMX.   
+
+       4.      To further conceal the true nature of the loans, Ji falsely told CHNG’s board that 
+
+the loans involved senior Chinese government officials who were in charge of the company’s 
+
+liquid natural gas project.  Ji later repeated this lie to the investing public during the company’s 
+
+quarterly earnings conference call on May 10, 2010.  Subsequently, CHNG’s board authorized 
+
+an internal investigation into the loans, but Ji continued to conceal the related party nature of the 
+
+loans from the internal investigators.  He also lied to CHNG’s external auditors by signing a 
+
+management representation letter in connection with the auditors’ review of CHNG’s periodic 
+
+reports and other filings that falsely stated that the two loans were for business purposes and did 
+
+not involve any related parties.      
+
+       5.      In addition, in the fourth quarter of 2008, CHNG acquired a natural gas company 
+
+but did not timely and properly report the transaction in its filings with the SEC.  As with the two 
+
+related party loans, Ji approved the acquisition without obtaining the prior approval of CHNG’s 
+
+board of directors. 
+
+       6.      By virtue of the conduct alleged herein, CHNG and Ji, directly or indirectly, 
+
+singly or in concert, violated and are otherwise liable for violations of the federal securities laws, 
+
+as follows: 
+
+       (a)     CHNG violated Section 17(a)(2) of the Securities Act of 1933 (“Securities Act”) 
+
+[15 U.S.C. § 77q(a)(2)], Sections 10(b), 13(a), 13(b)(2)(A), 13(b)(2)(B), and 14(a) of the 
+
+                                                2
+ 
+                                                 
+---------------------Page 3---------------------
+
+Securities Exchange Act of 1934 (“Exchange Act”) [15 U.S.C. § 78j(b), 15 U.S.C. §§ 78m(a), 
+
+78m(b)(2)(A), 78m(b)(2)(B), and 78n(a)], and Rules 10b-5(b), 12b-20, 13a-1, 13a-11, 13a-13, 
+
+and 14a-9 thereunder [17 C.F.R. §§ 240.10b-5(b), 240.12b-20, 240.13a-1,  240.13a-11, 240.13a­
+
+13, and 240.14a-9]; 
+
+       (b)    Ji violated Section 17(a) of the Securities Act [15 U.S.C. §§ 77q(a)], Sections 
+
+10(b), 13(b)(5), and 14(a) of the Exchange Act [15 U.S.C. §§ 78j(b), 78m(b)(5), and 78n(a)] and 
+
+Rules 10b-5, 13a-14, 13b2-1, 13b2-2, and 14a-9 thereunder [17 C.F.R. §§ 240.10b-5, 240.13a­
+
+14, 240.13b2-1, 240.13b2-2, and 240.14a-9], and Section 304 of the Sarbanes-Oxley Act of 2002 
+
+(“Sarbanes-Oxley Act”) [15 U.S.C. § 7243]; and is also liable, pursuant to Section 20(e) of the 
+
+Exchange Act [15 U.S.C. §78t(e)], for aiding and abetting CHNG’s violations of Sections 13(a), 
+
+13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act [15 U.S.C. §§ 78m(a), 78m(b)(2)(A) and 
+
+78m(b)(2)(B)], and Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder [17 C.F.R. §§ 240.12b­
+
+20, 240.13a-1, 240.13a-11, and 240.13a-13]; and 
+
+       (c)    In the alternative to having directly violated Section 17(a)(2) of the Securities Act 
+
+[15 U.S.C. § 77q(a)(2)], Ji is liable, pursuant to Section 20(e) of the Exchange Act [15 U.S.C.     
+
+§ 78t(e)], for aiding and abetting CHNG’s violations of Section 17(a)(2) of the Securities Act [15 
+
+U.S.C. § 77q(a)(2)]. 
+
+       7.      Based on these violations, the Commission seeks a final judgment: (1) 
+
+permanently enjoining CHNG and Ji from future violations of the rele vant provisions of the 
+
+federal securities laws; (2) imposing civil monetary penalties against CHNG and Ji, pursuant to 
+
+Section 20(d) of the Securities Act [15 U.S.C. § 77t(d)] and Section 21(d)(3) of the Exchange 
+
+Act [15 U.S.C. § 78u(d)(3)]; (3) prohibiting Ji from acting as an officer or director of a public 
+
+company, pursuant to Section 20(e) of the Securities Act [15 U.S.C. § 77t(e)], and (4) requiring 
+
+                                               3
+ 
+                                                
+---------------------Page 4---------------------
+
+Ji to reimburse CHNG his bonuses and stock sale profits pursuant to Section 304 of the 
+
+Sarbanes-Oxley Act [15 U.S.C. § 7243].  
+
+                               JURISDICTION AND VENUE  
+
+       8.      The Commission brings this action pursuant to the enforcement authority 
+
+conferred upon it by Section 20(b) of the Securities Act [15 U.S.C. § 77t(b)] and Section 
+
+21(d)(1) of the Exchange Act [15 U.S.C. § 78u(d)(1)].  
+
+       9.      This Court has jurisdiction over this action pursuant to Sections 20(b), 20(d), and 
+
+22(a) of the Securities Act [15 U.S.C. §§ 77t(b), 77t(d), and 77v(a)] and Sections 21(d), 21(e), 
+
+and 27 of the Exchange Act [15 U.S.C. §§ 78u(d), 78u(e), and 78aa].  CHNG and Ji, directly and 
+
+indirectly, have made use of the means or instrumentalities of, or the means or instruments of  
+
+transportation or communication in, interstate commerce, or of the mails, or of the facilities of a 
+
+national securities exchange, in connection with the transactions, acts, practices and courses of 
+
+business alleged herein. 
+
+       10.     Venue is proper in this district pursuant to Section 22(a) of the Securities Act [15 
+
+U.S.C. § 77v(a)] and Section 27 of the Exchange Act [15 U.S.C. § 78aa], because certain of the 
+
+transactions, acts, practices, and courses of business alleged in this Complaint occurred in the 
+
+Southern District of New York.  During the relevant period, CHNG was registered with the 
+
+Secretary of State of the State of New York as a foreign corporation, and CHNG stock was listed 
+
+and traded on the NASDAQ Stock Market (“NASDAQ”), which is headquartered in New York, 
+
+New York.  
+
+                                       DEFENDANTS  
+
+       11.     China Natural Gas, Inc. is a Delaware corporation that is also registered in New  
+
+York as a foreign corporation.  Headquartered in Xi’an, Shaanxi Province, China, CHNG 
+
+distributes and sells natural gas through fueling stations owned by its variable interest entity 
+
+                                               4
+ 
+                                                
+---------------------Page 5---------------------
+
+(VIE) Xi’an Xilan Natural Gas Co., Ltd., which in turn owns several subsidiaries in Xi’an and 
+
+other parts of China.  CHNG entered the U.S. capital markets through a reverse merger with a 
+
+pre-existing listed company in December 2005.  CHNG was listed on NASDAQ under the ticker 
+
+symbol “CHNG” from June 2009 to September 21, 2011, when its listing was suspended upon 
+
+the company’s disclosure of the related party nature of the loan to Wang.  CHNG’s common 
+
+stock is currently quoted on the OTC Link (formerly, ‘Pink Sheets’) operated by OTC Markets 
+
+Group Inc. under the symbol “CHNG.PK.”    
+
+       12.     Qinan Ji, age 54, has been the chairman of                                 CHNG’s board of directors since 
+
+February 2006, and was CHNG’s chief executive officer from May 2006 until his resignation on 
+
+October 4, 2011.  He is a Chinese national residing in Xi’an, Shaanxi Province, China.  As of 
+
+June 30, 2011, Ji beneficially owned approximately 14% of the outstanding shares of CHNG, 
+
+and his Son owned 3.39% of the outstanding shares.  
+
+                                  RELEVANT ENTITIES  
+
+       13.     Xi’an Demaoxing Real Estate Co., Ltd.  is a private company based in Xi’an, 
+
+Shaanxi Province, China that was 90% owned by Ji’s Son and 10% owned by Ji’s Nephew.  
+
+       14.     Shaanxi Juntai Housing Purchase Co. Ltd. is a real estate development 
+
+company based in Xi’an, Shaanxi Province, China.   
+
+       15.     Lingbao Yuxi Natural Gas Co., Ltd.  is a gas company located in Lingbao, 
+
+Shaanxi, China that was acquired by CHNG in October 2008.  
+
+                                          FACTS  
+
+A.     Undisclosed Loans to Related Parties  
+
+       16.     In its quarterly report on Form 10-Q for the first quarter of 2010 filed with the 
+
+Commission, CHNG reported two short-term loans totaling $14.3 million, and disclosed the 
+
+                                             5
+ 
+                                               
+---------------------Page 6---------------------
+
+amounts, interest rates and the names of the “third party” borrowers.  The borrower for the first 
+
+loan in the amount of $9.9 million was identified as an individual, Taoxiang Wang (the “Wang 
+
+Loan”), while the borrower for the second loan in the amount of $4.4 million was identified as 
+
+Juntai, a real estate company (the “Juntai Loan”).  For the first quarter of 2010, in its quarterly 
+
+report on Form 10-Q filed with the Commission, CHNG reported total revenues of $19.4 million, 
+
+net income of $4.0 million, and total assets of $202.7 million.  
+
+       1. The Wang Loan          
+
+       17.     CHNG made the Wang Loan in January 2010 through a subsidiary, and the loan 
+
+was purportedly secured by Wang’s 40% equity interest in DMX, a real estate company that at 
+
+the time was 90% owned by Ji’s Son and 10% owned by Ji’s Nephew.  In reality, the loan to 
+
+Wang was a sham because she was introduced to conceal the true borrower, DMX.     
+
+       18.     Ji’s Nephew first approached CHNG to obtain a loan for DMX’s real estate 
+
+development project.  The project was significant in the local community, as it concerned the 
+
+reconstruction of a 27-acre residential village for total potential investment of Chinese yuan 3.6 
+
+billion (approximately $527 million).  Ji approved the loan without telling the company’s board 
+
+or the CFO, and asked his niece’s husband – who was also CHNG’s Internal Audit Chief – to 
+
+arrange the transaction.  The Internal Audit Chief processed the loan with help from another 
+
+finance department employee, but he never discussed the loan with CHNG’s CFO and left the 
+
+CFO to discover the loan through routine internal financial reports.   
+
+       19.      Ji knew it was not appropriate for CHNG to lend money to his Nephew, so he 
+
+asked the Internal Audit Chief to consult an old acquaintance of Ji about finding an intermediary 
+
+for the loan.  The acquaintance produced his friend Wang.  The Internal Audit Chief met Wang 
+
+twice, first in December 2009 and again in January 2010, and Wang agreed to be the borrower in 
+
+                                               6
+ 
+                                                
+---------------------Page 7---------------------
+
+name for DMX.  The Internal Audit Chief later fabricated handwritten notes dated December 16, 
+
+2009 that purport to document the December meeting to discuss loan terms with Wang and 
+
+DMX’s real estate development project, although at that time the Internal Audit Chief met Wang 
+
+only to determine whether to use her as an intermediary for the loan.  
+
+       20.     Wang signed the loan agreement, a share transfer agreement with DMX dated 
+
+January 21, 2010 to obtain a 40% equity interest in DMX, and a stock collateral certificate dated 
+
+February 20, 2010.  CHNG’s bank wire slip shows the loan money was wired directly into 
+
+DMX’s bank account on January 25, 2010, with a note stating that the amount was for “raw 
+
+material expenses.”  According to CHNG’s records, DMX repaid the loan on April 22 and April 
+
+27, 2010, prior to maturity, and paid $140,722 as interest on the loan. 
+
+       21.     Ji’s Son owned 90% of DMX and hence was the main beneficiary of any loan to 
+
+DMX.  Ji knew his Son and Nephew were friends and that they were doing business together.  Ji 
+
+also had involved his Son in CHNG’s business over the years. 
+
+       22.     Ji knew, or was reckless in not knowing, that the Wang Loan was made to benefit 
+
+DMX and thus his Son and Nephew. 
+
+       2.     The Juntai Loan  
+
+       23.     At around the same time CHNG made the Wang Loan in January 2010, CHNG 
+
+also made a $4.4 million loan to Juntai, a local real estate development company.  The loan 
+
+agreement contains a personal guarantee by Juntai’s then general manager, who was Ji’s friend.  
+
+Juntai also signed a separate collateral commitment letter dated January 10, 2010, pledging its 
+
+30% equity interest in DMX, although at the time Juntai did not own any DMX stock.  Juntai 
+
+purportedly acquired the 30% interest in DMX pursuant to a share transfer agreement dated 
+
+January 21, 2010 (which was also signed by Wang to “acquire” her DMX stock), and the transfer 
+
+                                              7
+ 
+                                               
+---------------------Page 8---------------------
+
+was officially recorded in China’s corporate filings as of March 16, 2010.  According to 
+
+CHNG’s bank records, the loan was paid off on May 26, 2010, together with interest of $87,923. 
+
+       24.     The Juntai Loan was approved and processed at CHNG in the same way as the 
+
+Wang Loan.   Ji approved the loan without tellin g the board or the CFO.  The Internal Audit 
+
+Chief arranged the loan without involving the CFO but with help from the same finance 
+
+department employee and acquaintance of Ji who had helped identify Wang for the other loan.   
+
+       25.     Juntai was DMX’s business partner and borrowed the money from CHNG to 
+
+finance the same real estate development project with DMX that was behind the Wang Loan.  
+
+CHNG’s Internal Audit Chief talked with Ji’s Nephew about the project when arranging the 
+
+Juntai Loan.  Ji knew, or was reckless in not knowing, that the Juntai Loan was made to benefit 
+
+DMX (and thus his Son and Nephew) just as was the Wang Loan.   
+
+B.     Ji Lied to Conceal the Related Party Nature of the Two Loans  
+
+       26.     Ji did not seek prior approval of CHNG’s audit committee and board of directors 
+
+for the two loans, although CHNG’s policies and procedures at the time required board approval 
+
+of all related party and material transactions.  In addition, in processing the two loans, the 
+
+Internal Audit Chief did not obtain the required sign-off by the CFO and relevant department 
+
+manager in accordance with CHNG’s contract approval policy and cash disbursement policy.   
+
+       27.     After the two loans were secretly approved and made, Ji repeatedly lied to 
+
+CHNG’s board, shareholders, and the company’s internal investigation in order to conceal the 
+
+related party nature of the loans. 
+
+       28.     Ji lied to CHNG’s board of directors about the true nature of the two loans.  
+
+CHNG’s audit committee and board first discussed the loans in a May 4, 2010 telephonic 
+
+meeting about the company’s first quarter results.  In response to a comment from an outside 
+
+                                               8
+ 
+                                                
+---------------------Page 9---------------------
+
+director that a U.S. public company should not make short term loans, Ji said CHNG could not 
+
+refuse to make the loans because they involved senior government officers who were in charge 
+
+of CHNG’s liquid natural gas project.   
+
+       29.     Subsequently, during CHNG’s quarterly earnings conference call on May 10, 
+
+2010, in response to a question about the loans, Ji again stated that CHNG had to make the two 
+
+loans to obtain the necessary approvals for its liquid natural gas project from government 
+
+officials.  
+
+       30.     Ji’s statements during the earnings call triggered regulatory inquiries into 
+
+potential Foreign Corrupt Practices Act violations, and on June 8, 2010, CHNG’s board met to 
+
+discuss these concerns.  At the board meeting, Ji changed his explanation and said he made the 
+
+loans to earn quick and lucrative interest.  On June 21, 2010, the board had another meeting and 
+
+authorized a special investigation by outside counsel.   
+
+       31.     During the board meetings on June 8 and June 21, 2010, Ji did not disclose to the 
+
+board the involvement of any related parties in the loans, although by this time, Ji knew that his 
+
+Son owned 90% of DMX and was the primary beneficiary of the Wang Loan.  Ji and the Internal 
+
+Audit Chief formally apologized to the board, but only for approving and processing the loans 
+
+without informing senior management and the board.   
+
+       32.     Ji continued to lie about the loans during the company’s internal investigation.  
+
+He also instructed the Internal Audit Chief not to produce any document to the internal 
+
+investigation that would reveal the involvement of his Son and Nephew in the loans.  As a result, 
+
+the Internal Audit Chief produced to the internal investigation the false meeting notes he had 
+
+generated that purported to document a December 16, 2009 meeting with Wang to discuss terms 
+
+for the Wang Loan and the real estate development project. 
+
+                                               9
+ 
+                                                 
+---------------------Page 10---------------------
+
+C.     CHNG’s False Public Filings About the Two Loans   
+
+       33.     As a U.S. public company, CHNG filed with the Commission periodic reports and 
+
+other filings, including annual, quarterly and current reports on Forms 10-K, 10-Q and 8-K, as 
+
+well as proxy statements and registration statements.   
+
+       34.     Both Commission regulations and Generally Accepted Accounting Principles 
+
+(“GAAP”) require that a public company, such as CHNG, disclose related party transactions.  
+
+Item 404(a) of Regulation S-K requires disclosure of transactions exceeding $120,000 in which a 
+
+public company’s director, executive officer or any member of their immediate families has a 
+
+direct or indirect material interest.  FASB Accounting Standards Codification 850 (“Codification 
+
+850”), formerly known as Statement of Financial Accounting Standards No. 57, provides that 
+
+financial statements shall include disclosures of material related party transactions.  Rule 4-08(k) 
+
+of Regulation S-X provides that related party transactions should be identified and the amounts 
+
+stated on the face of the balance sheet, income statement, or statement of cash flows.  Items 8 
+
+and 13 of Form 10-K require the related party disclosures prescribed by Item 404 of Regulation 
+
+S-K, Rule 4-08 of Regulation S-X, and Codification 850.     
+
+       35.     The Wang Loan falls within the definition of a related party transaction that is 
+
+required to be disclosed, since the real borrower was DMX, a company 90% owned by Ji’s Son.  
+
+       36.     The Juntai Loan also constitutes a related party transaction required to be 
+
+disclosed because DMX, the company 90% owned by Ji’s Son, had a direct material interest in 
+
+the loan.  Juntai was DMX’s business partner and borrowed money from CHNG to undertake a 
+
+joint real estate project with DMX.  Since the loan was made to finance the joint real estate 
+
+project of Juntai and DMX, DMX and hence Ji’s Son had a direct material interest in the Juntai  
+
+Loan. 
+
+                                              10
+ 
+                                                
+---------------------Page 11---------------------
+
+       37.     From May 2010 through present, CHNG filed with the Commission periodic 
+
+reports, proxy statements and a registration statement that materially misrepresented and/or 
+
+omitted to disclose the related party nature of the Wang Loan and/or Juntai Loan.   
+
+       38.     CHNG’s Forms 10-Q for the first three quarters of 2010 falsely and misleadingly 
+
+described the two loans as loans to third parties, and failed to disclose the involvement of any 
+
+related parties.  CHNG’s Form 10-K for 2010 did not contain any required disclosure for the two 
+
+related party loans.  Ji signed these periodic reports as CHNG’s CEO.  He also signed a 
+
+Sarbanes-Oxley Act Section 302 certification for these reports, in which he certified that he had 
+
+reviewed each report and that: (1) based on his knowledge, the report did not contain any untrue 
+
+statement of material fact; (2) based on his knowledge, the financial statements and other 
+
+financial information fairly presented, in all material respects, the financial condition and results 
+
+of operations; and (3) he was responsible for establishing and maintaining adequate internal 
+
+controls over financial reporting, had designed and evaluated such controls, and had disclosed 
+
+any changes or weaknesses to CHNG’s auditor and audit committee.  At the time he signed the 
+
+2010 periodic reports and certifications, he knew, or was reckless in not knowing, that these 
+
+reports contained materially false and misleading misrepresentations or omissions concerning the 
+
+two loans.  
+
+       39.     On October 29, 2010 and April 29, 2011, CHNG filed with the Commission, and 
+
+sent to its shareholders, its annual proxy statements on Schedule DEF 14A, pursuant to which Ji 
+
+was re-elected to CHNG’s board of directors.  Each proxy statement stated that the proxy was 
+
+solicited on behalf of the company’s board of directors.  Item 7 of Schedule 14A requires the 
+
+disclosure of related party transactions pursuant to Item 404 of Regulation S-K.  Because of Ji’s 
+
+fraudulent conduct, CHNG failed to disclose the Wang Loan and Juntai Loan as related party 
+
+                                               11
+ 
+                                                 
+---------------------Page 12---------------------
+
+transactions in the two proxy statements.  Ji signed the transmittal letters to the shareholders as 
+
+chairman of the board and CEO of CHNG, and was the proxy appointed in connection with the 
+
+proxy solicitations on behalf of CHNG’s board.  Ji knew, or was reckless in not knowing, that 
+
+the proxy statements contained material omissions regarding the Wang Loan and Juntai Loan.  
+
+As chairman and CEO, Ji caused CHNG’s shareholders to be solicited regarding CHNG’s annual 
+
+meetings when he knew, or was reckless in not knowing, that substantial loans to his family 
+
+members were nowhere described in the proxy statements and financial statements provided to 
+
+shareholders.  Ji directly benefited from the proxy by retaining his seat as director through the 
+
+filing of these materially false and misleading proxy statements.   
+
+       40.     CHNG filed a registration statement on Form S-8 on April 30, 2010 covering 
+
+shares of its common stock issuable to its employees, officers and consultants pursuant to the 
+
+company’s 2009 Employee Stock Option and Stock Award Plan.  The registration statement was 
+
+signed by Ji and incorporated by reference CHNG’s periodic filings with the Commission for the 
+
+relevant period.  Ji signed the registration statement, while he knew, or was reckless in not 
+
+knowing, that it incorporated by reference materially false and misleading statements and 
+
+omissions with respect to the related party nature of the Wang Loan and Juntai Loan.   
+
+       41.     On September 21, 2011, CHNG filed a current report on Form 8-K, in which 
+
+CHNG disclosed the Wang Loan as a related party loan and announced restatements of its 
+
+financial statements.  The Form 8-K, however, did not disclose the Juntai Loan as a related party 
+
+transaction, and did not accurately describe Ji’s misconduct in approving and concealing the true 
+
+nature of the two loans.  Ji knew, or was reckless in not knowing, that this filing contained 
+
+materially false and misleading statements and omissions with respect to the related party nature 
+
+of the Juntai Loan and his fraudulent conduct. 
+
+                                               12
+ 
+                                                
+---------------------Page 13---------------------
+
+       42.     On December 28, 2011, CHNG filed an amended Form 10-K for 2010 and 
+
+amended Forms 10-Q for the first three quarters of 2010, which contained restatements of its 
+
+financial statements for the covered periods.  However, none of these amended periodic reports 
+
+disclosed the related party nature of the Juntai Loan.  
+
+D.     Misrepresentation to CHNG’s Auditors  
+
+       43.     CHNG’s auditors learned about the Wang Loan and Juntai Loan when examining 
+
+company ledgers during their review of CHNG’s first quarter financials.  The auditors asked 
+
+CHNG for details about the loans, including whether any related party was involved, and were 
+
+told that the loans had been made to third parties and no related party was involved.  The 
+
+auditors then asked for a legal opinion on the absence of related parties, and CHNG provided a 
+
+legal opinion to this effect from its local legal counsel for the Wang Loan and Juntai Loan.   
+
+       44.     Ji misled CHNG’s outside auditors to conceal the related party nature of the two 
+
+loans.  In his capacity as CHNG’s CEO, Ji signed a management representation letter to CHNG’s 
+
+auditors dated May 7, 2010 in connection with their review of CHNG’s interim report for the 
+
+first quarter of 2010.  The letter stated that the Wang Loan and Juntai Loan were “for business 
+
+purpose[s]” and the borrowers “are not . . . related parties.”  This is false because the loans did 
+
+not have a business purpose but rather were made to benefit a company 90% owned by Ji’s son, 
+
+the true borrower.  Ji knew, or was reckless in not knowing, that he made materially false and 
+
+misleading statements in the management representation letter provided to CHNG’s auditors. 
+
+E.      False Books and Records and Inadequate Internal Controls at CHNG  
+ 
+       45.     As a result of Ji’s misconduct, CHNG’s books and records falsely and 
+
+inaccurately reflected the true nature of the Wang Loan and the Juntai Loan.  The documentation 
+
+of the Wang Loan, including the loan approvals, the loan documents, and notes reflecting a 
+
+                                              13
+ 
+                                                
+---------------------Page 14---------------------
+
+meeting with Wang, was false because it failed to reflect the actual related party borrower.  
+
+Similarly, the documentation for the Juntai Loan failed to identify Juntai as DMX’s business 
+
+partner and thus reflect that the loan was made for Juntai to undertake a joint business project 
+
+with DMX, a company owned by Ji’s Son and Nephew.  In addition, because Ji concealed the 
+
+true nature of both loans, CHNG’s board meeting minutes failed to contain any discussion 
+
+regarding the related party nature of the loans.  CHNG also obtained and maintained legal 
+
+opinions that falsely state that the two loans were made for business purposes and did not involve 
+
+any related party. 
+
+       46.     Ji directed the Internal Audit Chief to orchestrate the Wang Loan so as to conceal 
+
+the true borrower, and he lied to conceal the related party nature of the loans.  Ji also signed 
+
+internal loan approval forms and/or loan documents that failed to identify the related parties.   
+
+       47.     CHNG failed to devise and maintain internal controls sufficient to ensure that it 
+
+accurately reported the related party loans.  Ji, CHNG’s most senior officer, and CHNG’s 
+
+Internal Audit Chief were able to perpetrate the fraud without any impediment or knowledge by 
+
+the company’s board or CFO.  Ji knowingly circumvented CHNG’s internal controls by 
+
+approving the loans without prior approval of the board and its audit committee, and by directing 
+
+the Internal Audit Chief to process the loans without the necessary internal approvals.   
+
+F. Violation of             Sarbanes-Oxley Section 304  
+ 
+       48.     Section 304 of the Sarbanes-Oxley Act requires that, if an issuer “is required to 
+
+prepare an accounting restatement due to its material noncompliance, as a result of misconduct, 
+
+with any financial reporting requirement under the securities laws,” its CEO or CFO shall repay 
+
+to the issuer any bonuses, incentive or equity based compensation and/or stock sale profits he or 
+
+she receives within twelve months of the issuance of a the noncompliant financial document or 
+
+                                               14
+ 
+                                                 
+---------------------Page 15---------------------
+
+filing (whichever occurs first).  CHNG has restated its financial statements for fiscal year 2010 
+
+and the first three quarters of 2010.  During the applicable period under Section 304 of the 
+
+Sarbanes-Oxley Act, Ji received a bonus of $60,000 in 2010, and sold 36,500 shares of CHNG 
+
+stock in August 2010 for $77,479 in profit.  Ji has not reimbursed CHNG the bonus and trading 
+
+profit. 
+
+G.     Late and Inadequate Disclosure of a Material Acquisition  
+
+       49.     CHNG’s variable interest entity (VIE) entered into an agreement to acquire a 
+
+local gas company, Lingbao Yuxi Natural Gas Co., Ltd. (“Yuxi”), on October 2, 2008 for about 
+
+$19.6 million, or 35% of CHNG’s 2007 total assets, and completed the acquisition in November 
+
+2008.  As with the Wang Loan and Juntai Loan, Ji approved the acquisition without obtaining the 
+
+prior approval of the company’s board of directors.  CHNG did not disclose the acquisition until 
+
+December 31, 2008, when it filed a Form 8-K to report the entry of the acquisition agreement.  
+
+Moreover, CHNG was required, but failed, to include in the Form 8-K Yuxi’s financial 
+
+statements and pro forma information because the assets acquired comprised 35% of CHNG’s 
+
+total assets.  The Form 8-K also failed to report that CHNG had completed the acquisition in 
+
+November 2008.   
+
+                               FIRST CLAIM FOR RELIEF
+  
+
+                  FRAUD IN THE OFFER OR SALE OF SECURITIES 
+
+                                                
+                     Violations of Section 17(a)(2) of the Securities Act 
+
+                                                
+                                   (Against CHNG and Ji) 
+
+                                                
+       50.     The Commission realleges and incorporates by reference ¶¶ 1 through 49 above. 
+
+       51.     CHNG and Ji, by engaging in the conduct described above, directly or indirectly, 
+
+in the offer or sale of securities by the use of means or instruments of transportation or 
+
+communication in interstate commerce or by the use of the mails, obtained money or property by 
+
+                                              15
+ 
+                                               
+---------------------Page 16---------------------
+
+means of untrue statements of a material fact or by omitting to state a material fact necessary in 
+
+order to make the statements made, in light of the circumstances under which they were made, 
+
+not misleading. 
+
+       52.     By reason of the foregoing, CHNG and Ji violated, and unless restrained and 
+
+enjoined will continue to violate, Section 17(a)(2) of the Securities Act [15 U.S.C. § 77q(a)(2)]. 
+
+       53.     Alternatively, Ji knowingly or recklessly provided substantial assistance to 
+
+CHNG’s violations of Section 17(a)(2) of the Securities Act.  
+
+       54.     By engaging in the conduct described above, Ji aided and abetted, and unless 
+
+restrained and enjoined will continue to aid and abet, CHNG’s violations of Section 17(a)(2) of  
+
+the Securities Act [15 U.S.C. §77q(a)(2)]. 
+
+                                  SECOND CLAIM FOR RELIEF  
+                                                 
+                   FRAUD IN THE OFFER OR SALE OF SECURITIES 
+                                                 
+                 Violations of Sections 17(a)(1) and (3) of the Securities Act 
+                                                 
+                                             (Against Ji) 
+                                                     
+       55.     The Commission realleges and incorporates by reference ¶¶ 1 through 49 above. 
+
+       56.     Ji, by engaging in the conduct described above, directly or indirectly, in the offer 
+
+or sale of securities by the use of means or instruments of transportation or communication in 
+
+interstate commerce or by the use of the mails, knowingly or recklessly, has:  (a) employed 
+
+devices, schemes, or artifices to defraud; or (b) engaged in transactions, practices, or courses of 
+
+business which operated or would operate as a fraud or deceit upon the purchaser. 
+
+       57.     By engaging in the conduct described above, Ji violated, and unless enjoined will 
+
+continue to violate, Sections 17(a)(1) and (3) of the Securities Act [15 U.S.C. §§ 77q(a)(1) and 
+
+(3)]. 
+
+                                               16
+ 
+                                                
+---------------------Page 17---------------------
+
+                              THIRD CLAIM FOR RELIEF
+  
+
+       Violations of Section 10(b) of the Exchange Act and Rule 10b-5(b) thereunder  
+
+                                               
+                         FRAUD IN CONNECTION WITH THE  
+
+                                               
+                        PURCHASE OR SALE OF SECURITIES
+ 
+                                               
+                                  (Against CHNG and Ji) 
+
+
+       58.     The Commission realleges and incorporates by reference ¶¶ 1 through 49 above. 
+
+       59.     CHNG and Ji, by engaging in the conduct described above, directly or indirectly, 
+
+by use of the means or instrumentalities of interstate commerce or of the mails, or of the facilities 
+
+of a national securities exchange, in connection with the purchase or sale of securities, 
+
+knowingly or recklessly, have made untrue statements of material fact, or omitted to state 
+
+material facts necessary in order to make statements made, in the light of the circumstances 
+
+under which they were made, not misleading. 
+
+       60.     By engaging in the conduct described above, CHNG and Ji violated, and unless 
+
+enjoined will continue to violate, Section 10(b) of the Exchange Act [15 U.S.C. § 78j(b)] and 
+
+Rule 10b-5(b) thereunder [17 C.F.R. § 240.10b-5(b)]. 
+
+                             FOURTH CLAIM FOR RELIEF
+  
+
+                         FRAUD IN CONNECTION WITH THE  
+
+                                               
+                        PURCHASE OR SALE OF SECURITIES
+  
+                                               
+                     Violations of Exchange Act Rules 10b-5(a) and (c) 
+
+                                                 
+                                        (Against Ji) 
+
+
+       61.     The Commission realleges and incorporates by reference ¶¶ 1 through 49 above. 
+
+       62.     Ji, by engaging in the conduct described above, directly or indirectly, by use of 
+
+the means or instrumentalities of interstate commerce or of the mails, or of the facilities of a 
+
+national securities exchange, in connection with the purchase or sale of securities, knowingly or 
+
+                                             17
+ 
+                                              
+---------------------Page 18---------------------
+
+recklessly, has:  (a) employed devices, schemes and artifices to defraud; and/or (b) engaged in 
+
+acts, practices and courses of business which operated or would have operated as a fraud or 
+
+deceit upon any persons.  
+
+       63.     By engaging in the conduct described above, Ji violated, and unless enjoined will 
+
+continue to violate, Exchange Act Rules 10b-5(a) and (c) [17 C.F.R. §§ 240.10b-5(a) and (c)]. 
+
+                                FIFTH CLAIM FOR RELIEF
+  
+
+                                   PROXY VIOLATIONS 
+
+                                                 
+        Violations of Section 14(a) of the Exchange Act and Rule 14a-9 thereunder 
+
+                                                 
+                                   (Against CHNG and Ji) 
+
+ 
+       64.     The Commission realleges and incorporates by reference ¶¶ 1 through 49 above. 
+
+       65.     CHNG and Ji, by engaging in the conduct described above, directly or indirectly, 
+
+by use of the means or instrumentalities of interstate commerce or of the mails, or of the facilities 
+
+of a national securities exchange or otherwise, solicited or permitted the use of their names to 
+
+solicit proxies, consents or authorizations in respect of non-exempt securities registered pursuant 
+
+to Section 12(b) of the Exchange Act [15 U.S.C. § 78l(b)], by means of a proxy statement, form  
+
+of proxy statement, form of proxy, notice of meeting and other communications that contained 
+
+statements which, at the time and in light of the circumstances under which they were made, 
+
+were false and misleading with respect to material facts, or which omitted to state material facts 
+
+necessary in order to make the statements therein not false or misleading or necessary to correct 
+
+statements in earlier communications with respect to the solicitation of a proxy for the same  
+
+meeting or subject matter which has become false or misleading. 
+
+       66.     By engaging in the conduct described above, CHNG and Ji violated, and unless 
+
+enjoined will continue to violate, Section 14(a) of the Exchange Act [15 U.S.C. § 78n(a)] and 
+
+                                              18
+ 
+                                                
+---------------------Page 19---------------------
+
+Rule 14a-9 thereunder [17 C.F.R. § 240.14a-9]. 
+
+                              SIXTH CLAIM FOR RELIEF
+  
+
+                               REPORTING VIOLATIONS 
+
+                                               
+                      Violations of Section 13(a) of the Exchange Act, 
+
+                                               
+                  and Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder 
+
+                                               
+                                  (Against CHNG and Ji) 
+
+                                               
+       67.     The Commission realleges and incorporates by reference ¶¶ 1 through 49 above. 
+
+       68.     By filing with the Commission materially false and misleading periodic reports, 
+
+including annual, quarterly, and current reports on Forms 10-K, 10-Q, and 8-K from 2008 
+
+through 2011, CHNG violated, and unless restrained and enjoined will continue to violate, 
+
+Section 13(a) of the Exchange Act [15 U.S.C. § 78m(a)] and Rules 12b-20, 13a-1, 13a-11, and 
+
+13a-13 thereunder [17 C.F.R. §§ 240.12b-20, 240.13a-1, 240.13a-11, and 240.13a-13]. 
+
+       69.     Ji knowingly or recklessly provided substantial assistance to CHNG’s reporting 
+
+violations. 
+
+       70.     By engaging in the conduct described above, Ji aided and abetted, and unless 
+
+enjoined will continue to aid and abet, CHNG’s violations of Section 13(a) of the Exchange Act 
+
+[15 U.S.C. § 78m(a)] and Rules 12b-20, 13a-1, 13a-11 and 13a-13 thereunder [17 C.F.R. §§ 
+
+240.12b-20, 240.13a-1, 240.13a-11, and 240.13a-13]. 
+
+  
+
+                                             19
+ 
+                                               
+---------------------Page 20---------------------
+
+                            SEVENTH CLAIM FOR RELIEF
+  
+                                               
+                           RECORDKEEPING VIOLATIONS 
+
+                                               
+                   Violations of Section 13(b)(2)(A) of the Exchange Act 
+
+                                               
+                                  (Against CHNG and Ji) 
+
+                                               
+       71.     The Commission realleges and incorporates by reference ¶¶ 1 through 49 above. 
+
+       72.     By failing to make or keep books, records and accounts that in reasonable detail 
+
+accurately and fairly reflected its transactions and disposition of its assets, CHNG violated, and 
+
+unless restrained and enjoined will continue to violate, Section 13(b)(2)(A) of the Exchange Act 
+
+[15 U.S.C. § 78m(b)(2)(A)]. 
+
+       73.     Ji knowingly or recklessly provided substantial assistance to CHNG’s books and 
+
+records violations. 
+
+       74.     By engaging in the conduct described above, Ji aided and abetted, and unless 
+
+enjoined will continue to aid and abet, CHNG’s violations of Sections 13(b)(2)(A) of the 
+
+Exchange Act [15 U.S.C § 78m(b)(2)(A)]. 
+
+                             EIGHTH CLAIM FOR RELIEF
+  
+                                               
+                         INTERNAL CONTROLS VIOLATIONS
+  
+                                               
+                   Violations of Section 13(b)(2)(B) of the Exchange Act 
+
+                                               
+                                  (Against CHNG and Ji) 
+
+                                               
+       75.     The Commission realleges and incorporates by reference ¶¶ 1 through 49 above. 
+
+       76.     By failing to devise and maintain a system of internal accounting controls 
+
+sufficient to provide reasonable assurances that transactions were recorded as necessary to permit 
+
+preparation of financial statements in conformity with GAAP and to maintain the accountability 
+
+of assets, CHNG violated, and unless restrained and enjoined will continue to violate, Section 
+
+                                             20
+ 
+                                               
+---------------------Page 21---------------------
+
+13(b)(2)(B) of the Exchange Act [15 U.S.C. § 78m(b)(2)(B)]. 
+
+       77.     Ji knowingly or recklessly provided substantial assistance to CHNG’s internal 
+
+controls violations. 
+
+       78.     By engaging in the conduct described above, Ji aided and abetted, and unless 
+
+enjoined will continue to aid and abet, CHNG’s violations of Sections 13(b)(2)(B) of the 
+
+Exchange Act [15 U.S.C § 78m(b)(2)(B)]. 
+
+                              NINTH CLAIM FOR RELIEF
+  
+                                               
+                            FALSIFICATION OF RECORDS 
+
+                                               
+      Violations of Section 13(b)(5) of the Exchange Act and Rule 13b2-1 thereunder 
+
+                                               
+                                        (Against Ji) 
+
+
+       79.     The Commission realleges and incorporates by reference ¶¶ 1 through 49 above.  
+
+       80.     Ji engaged in fraudulent practices in the course of which he, directly or indirectly, 
+
+knowingly circumvented CHNG’s internal controls and falsified or caused to be falsified books, 
+
+records and accounts of CHNG.  
+
+       81.     By engaging in the conduct described above, Ji violated, and unless enjoined will 
+
+continue to violate, Section 13(b)(5) of the Exchange Act [15 U.S.C. § 78m(b)(5)] and Rule 
+
+13b2-1 thereunder [17 C.F.R. § 240.13b2-1].  
+
+                              TENTH CLAIM FOR RELIEF
+  
+
+                      FALSE STATEMENTS TO ACCOUNTANTS 
+
+                                               
+                          Violations of Exchange Act Rule 13b2-2 
+
+                                               
+                                        (Against Ji) 
+
+
+       82.     The Commission realleges and incorporates by reference ¶¶ 1 through 49 above. 
+
+       83.     Ji made or caused to be made materially false or misleading statements, or  
+
+                                             21
+ 
+                                              
+---------------------Page 22---------------------
+
+omitted to state or caused another person to omit to state, material facts necessary in order to 
+
+make statements made, in light of the circumstances under which such statements were made, 
+
+not misleading to an accountant, in connection with:  (a) audits and examinations of the financial 
+
+statements of CHNG; and (b) the preparation and filing by CHNG of reports required to be filed 
+
+with the Commission. 
+
+       84.     By engaging in the conduct described above, Ji violated, and unless enjoined will 
+
+continue to violate, Exchange Act Rule 13b2-2 [17 C.F.R. § 240.13b2-2]. 
+
+                            ELEVENTH CLAIM FOR RELIEF
+  
+
+                                 FALSE CERTIFICATION 
+
+
+                           Violations of Exchange Act Rule 13a-14 
+
+                                                
+                                         (Against Ji) 
+
+
+       85.     The Commission realleges and incorporates by reference  ¶¶ 1 through 49 above. 
+
+       86.     Ji certified in CHNG’s annual report on Form 10-K for the fiscal year ended 
+
+December 31, 2010 and in CHNG’s interim reports on Form 10-Q for the quarters ended March 
+
+31, June 30, and September 30, 2010 that, among other things, he reviewed each of these reports 
+
+and that: (i) based on his knowledge, the report did not contain any untrue statement of material 
+
+fact or omit to state a material fact necessary to make the statements made, in light of the 
+
+circumstances under which such statements were made, not misleading;   (ii) based on his 
+
+knowledge, the report included financial statements and other financial information which fairly 
+
+presented, in all material respects, CHNG’s financial condition, results of operations and cash 
+
+flows; and (iii) he was responsible for establishing and maintaining adequate internal controls 
+
+over financial reporting, had designed and evaluated such controls, and had disclosed any 
+
+changes or weaknesses to CHNG’s auditor and audit committee.   
+
+                                              22
+ 
+                                                
+---------------------Page 23---------------------
+
+       87.     By engaging in the conduct described above, Ji violated, and unless enjoined will 
+
+continue to violate, Exchange Act Rule 13a-14 [17 C.F.R. § 240.13a-14]. 
+
+                            TWELFTH CLAIM FOR RELIEF
+  
+
+           FAILURE TO REIMBURSE BONUS AND STOCK SALE PROFIT 
+
+
+                    Violations of Section 304 of the Sarbanes-Oxley Act
+   
+
+                                        (Against Ji) 
+
+
+       88.     The Commission realleges and incorporates by reference ¶¶ 1 through 49 above. 
+
+       89.     CHNG, by engaging in the conduct described above, filed Forms 10-Q for the 
+
+first and second quarters of 2010 that were in material noncompliance with financial reporting 
+
+requirements under the securities laws and the U.S. GAAP. 
+
+       90.     Due to CHNG’s material non-compliance with its financial reporting 
+
+requirements under the securities laws and GAAP, and as a result of its misconduct, CHNG was 
+
+required to prepare an accounting restatement for at least the first and second quarters of 2010. 
+
+       91.     The Commission has not exempted Ji, pursuant to Section 304(b) of the Sarbanes-
+
+Oxley Act [15 U.S.C. § 7243(b)], from the application of Section 304(a) of the Sarbanes-Oxley 
+
+Act [15 U.S.C. § 7243(a)]. 
+
+       92.     By engaging in the conduct described above, Ji violated, and unless ordered to 
+
+comply will continue to violate, Section 304 of the Sarbanes-Oxley Act [15 U.S.C. § 7243]. 
+
+                                 PRAYER FOR RELIEF
+  
+
+       WHEREFORE, the Commission respectfull      y requests that the Court: 
+
+
+                                             I. 
+
+       Issue findings of fact and conclusions of law that CHNG and Ji committed the alleged  
+
+violations.  
+
+                                             23
+ 
+                                              
+---------------------Page 24---------------------
+
+                                               II. 
+
+
+       Issue judgments, in a form consistent with Rule 65(d) of the Federal Rules of Civil 
+
+Procedure, permanently enjoining CHNG, its agents, servants, employees and attorneys and all 
+
+persons in active concert or participation with them who receive actual notice of the injunction 
+
+by personal service or otherwise, and each of them, from violating, directly or indirectly, Section 
+
+17(a)(2) of the Securities Act [15 U.S.C. § 77q(a)(2)], Sections 10(b), 13(a), 13(b)(2)(A), 
+
+13(b)(2)(B), and 14(a) of the Exchange Act [15 U.S.C. §§ 78j(b), 78m(a), 78m(b)(2)(A), 
+
+78m(b)(2)(B), and 78n(a)], and Rules 10b-5, 12b-20, 13a-1, 13a-11, 13a-13, and 14a-9 
+
+thereunder [17 C.F.R. §§ 240.10b-5(b), 240.12b-20, 240.13a-1, 240.13a-11, 240.13a-13, and 
+
+240.14a-9]. 
+
+                                              III.  
+
+       Issue judgments, in a form consistent with Rule 65(d) of the Federal Rules of Civil 
+
+Procedure, permanently enjoining Ji, his agents, servants, employees and attorneys and all 
+
+persons in active concert or participation with them who receive actual notice of the injunction 
+
+by personal service or otherwise, and each of them, from violating, directly or indirectly, Section 
+
+17(a) of the Securities Act [15 U.S.C. § 77q(a)], Sections 10(b), 13(b)(5), and 14(a) of the 
+
+Exchange Act [15 U.S.C. §§ 78j(b), 78m(b)(5), and 78n(a)] and Rules 10b-5, 13a-14, 13b2-1, 
+
+13b2-2, and 14a-9 thereunder [17 C.F.R. §§ 240.10b-5, 240.13a-14, 240.13b2-1, 240.13b2-2, 
+
+and 240.14a-9], and Section 304 of the Sarbanes-Oxley Act of 2002 [15 U.S.C. § 7243]; and 
+
+from aiding and abetting violations of Section 17(a)(2) of the Securities Act [15 U.S.C. § 
+
+77q(a)(2)], Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act [15 U.S.C. §§ 
+
+78m(a), 78m(b)(2)(A) and 78m(b)(2)(B)], and Rules 12b-20, 13a-1, 13a-11, and 13a-13 
+
+thereunder [17 C.F.R. §§ 240.12b-20, 240.13a-1, 240.13a-11, and 240.13a-13]. 
+
+                                               24
+ 
+                                                
+---------------------Page 25---------------------
+
+                                               IV. 
+
+       Order CHNG and Ji to pay civil monetary penalties pursuant to Section 20(d) of the 
+
+Securities Act [15 U.S.C. § 77t(d)] and Section 21(d)(3) of the Exchange Act [15 U.S.C. 
+
+§ 78u(d)(3)]. 
+
+                                               V. 
+
+       Enter an order, pursuant to Section 20(e) of the Securities Act [15 U.S.C. § 77t(e)], 
+
+and/or Section 21(d)(2) of the Exchange Act [15 U.S.C. § 78u(d)(2)], prohibiting Ji from acting 
+
+as an officer or director of any issuer that has a class of securities registered pursuant to Section 
+
+12 of the Exchange Act [15 U.S.C. § 781], or that is required to file reports pursuant to Section 
+
+15(d) of the Exchange Act [15 U.S.C. § 78o(d)]. 
+
+                                               VI. 
+
+       Order Ji to reimburse CHNG for his bonuses and other incentive-based and equity-based 
+
+compensation, and profits from CHNG stock sales, pursuant to Section 304 of the Sarbanes-
+
+Oxley Act of 2002 [15 U.S.C. § 7243]. 
+
+                                             VII.   
+
+       Retain jurisdiction of this action in accordance with the principles of equity and the 
+
+Federal Rules of Civil Procedure in order to implement and carry out the terms of all orders and 
+
+decrees that may be entered, or to entertain any suitable application or motion for additional 
+
+relief within the jurisdiction of this Court.  
+
+  
+
+                                               25
+ 
+                                                 
+---------------------Page 26---------------------
+
+

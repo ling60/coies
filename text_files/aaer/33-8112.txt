@@ -1,0 +1,478 @@
+The PNC Financial Services Group, Inc.: Admin. Proc. Rel. No. 33-8112 / July 18, 2002
+Home | Previous Page
+United States of America
+Before the
+Securities and Exchange Commission
+Securities Act of 1933
+Release No. 33-8112 /July 18, 2002
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 34-46225 / July 18, 2002
+Accounting and Auditing Enforcement
+Release No. 1597 / July 18, 2002
+ADMINISTRATIVE PROCEEDING
+File No. 3-10838
+In the Matter of
+THE PNC FINANCIAL SERVICES
+GROUP, INC.,
+Respondent.
+::::::::
+ORDER INSTITUTING PUBLIC ADMINISTRATIVE PROCEEDINGS PURSUANT TO SECTION 8A OF THE
+SECURITIES ACT OF 1933 AND SECTION 21C OF THE SECURITIES EXCHANGE ACT OF 1934, MAKING FINDINGS
+AND IMPOSING CEASE AND DESIST ORDER
+I.
+The Securities and Exchange Commission ("Commission") deems it appropriate that public administrative proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act of 1933 ("Securities Act") and Section 21C of the Securities Exchange Act of 1934 (the "Exchange Act") to determine whether The PNC Financial Services Group, Inc., Pittsburgh, Pennsylvania, a bank holding company ("PNC"), violated or caused violations of Sections 17(a)(2) and 17(a)(3) of the Securities Act,
+Sections 10(b), 13(a) and 13(b)(2)(A) of the Exchange Act and Exchange Act Rules 10b-5, 12b-20, 13a-1 and 13a-13.
+II.
+In anticipation of the institution of these administrative proceedings, PNC has submitted to the Commission an Offer of Settlement of The PNC Financial Services Group, Inc. ("Offer") that the Commission has determined to accept.
+Solely for the purposes of these proceedings, and for any other proceeding brought by or on behalf of the Commission, or to which the Commission is a party, and without admitting or denying the findings set forth below, except as to the jurisdiction of the Commission over it and over the subject matter of these proceedings, which PNC admits, PNC consents to the entry by the Commission of the Order Instituting Public Administrative Proceedings Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of the Exchange Act of 1934, Making Findings and Imposing Cease-and-Desist Order (the "Commission Order").
+The Commission has determined that it is appropriate to accept the Offer and accordingly is issuing this Commission Order.
+III.
+Accordingly, IT IS HEREBY ORDERED, that administrative proceedings pursuant to Section 8A of the Securities Act and Section 21C of the Exchange Act be, and they hereby are, instituted.
+IV.
+Commission Findings
+On the basis of the Commission Order and PNC's Offer, the Commission finds that:
+A. Summary
+In 2001, PNC endeavored to remove certain loans and venture capital investments from its financial statements by transferring them to certain entities that were specially created to receive these assets and in which PNC held a substantial interest.
+PNC made these transfers in order to reduce its exposure to loan losses and venture capital investment losses.
+PNC intended that the entities receiving these assets be regarded as "special purpose entities" under generally accepted accounting principles ("GAAP") that would not have to be consolidated with PNC.
+For the second and third quarters of 2001, PNC filed regulatory reports and financial statements with the Board of Governors of the Federal Reserve System ("Board") and with the Commission that did not consolidate these entities.
+PNC also made statements in its filings with the Commission and in certain press releases that described a strategy of turning its corporate focus away from commercial lending, and reducing its loan exposure.
+PNC's accounting with respect to these entities was improper under GAAP, and PNC made materially false and misleading disclosures in its filings with the Commission and in press releases about its financial condition and performance, including, among other things, a material overstatement of its 2001 earnings.
+PNC's failure to account properly for these transactions, and its false and misleading disclosures, created a materially inaccurate picture that it was reducing its exposure to commercial lending and venture capital activities, and the risks attendant thereto, when in fact it remained exposed to the risks presented by the assets transferred to the special purpose entities.
+Further, PNC's books and records were inaccurately maintained in connection with these transactions.
+Accordingly, PNC violated the financial reporting, recordkeeping and antifraud provisions of the federal securities laws.
+B. Respondent
+The PNC Financial Services Group, Inc. is a Pennsylvania corporation, with its principal place of business in Pittsburgh, Pennsylvania.
+PNC is a bank holding company and is the holding company for PNC Bank, National Association ("PNC Bank") and other bank and nonbank subsidiaries.
+PNC operates community banking, corporate banking, real estate finance, asset-based lending, wealth management, asset management and global fund services businesses.
+PNC's primary geographic markets are in Pennsylvania, New Jersey, Delaware, Ohio and Kentucky.
+Certain of PNC's securities are registered with the Commission pursuant to Section 12(b) of the Exchange Act and listed on the New York Stock Exchange.
+C. Facts
+1. Structure and Accounting Treatment of Special Purpose Entity Transactions
+During 2001, PNC entered into three transactions (each a "PAGIC transaction") intended to transfer certain loans and venture capital assets from its balance sheet to other entities (each a "PAGIC entity").
+These transactions were sponsored by an insurance company.
+Each PAGIC transaction involved the creation of two limited liability companies, one of which sold a substantial ownership interest to PNC and a minority ownership interest to the insurance company.
+With funds received in exchange for its shares, each PAGIC entity purchased loans or venture capital assets from PNC; some assets were acquired directly in exchange for shares.
+Many of the loans and assets transferred by PNC were volatile, troubled or nonperforming.
+In each of the second, third and fourth quarters of 2001, PNC entered into a PAGIC transaction.
+In its original regulatory and financial reports filed with the Board and the Commission for the second and third quarters of 2001, PNC treated the loans and other assets transferred to PAGIC entities as if they were no longer assets of PNC, that is, no longer held anywhere within PNC, as a consolidated bank holding company.
+PNC intended that, as a result of the PAGIC transactions, PNC's balance sheet would reflect a reduction in exposure to troubled loans and volatile assets.
+PNC also intended, as a result of the PAGIC transactions, not to charge losses on the loans and other assets transferred to the PAGIC entities against its income.
+In addition, the PAGIC transactions were structured to allow PNC to benefit over a period of time from any improvement in the value of the transferred assets.
+Thus, the PAGIC transactions were an effort to eliminate PNC's risk of loss on the transferred loans and other assets, while allowing it to benefit from any long-term improvement in their values.
+Had PNC continued to include these transferred assets in its financial statements, it would have been required to reflect in its financial statements any losses incurred and the benefit of any improvement in the value of these assets.
+In sum, PNC transferred a total of approximately $762 million in loan and venture capital assets to the PAGIC entities, and PNC received preferred stock from the three PAGIC entities in exchange.
+PNC continued to service the loans and other assets transferred to the PAGIC entities.
+A substantial portion of the loans and other assets were volatile, troubled or nonperforming, and PNC would otherwise have had to evaluate them periodically and potentially re-value them with consequent effects on PNC's earnings.
+The PAGIC entities were specifically created for the purposes of the PAGIC transactions and were intended to be treated by PNC as off-balance sheet "special purpose entities" under GAAP.
+PNC's ability under GAAP to account for its financial condition as if it no longer owned the assets transferred to the PAGIC entities depended upon whether or not the transactions complied with the GAAP requirements for nonconsolidation of special purpose entities.
+As is discussed in greater detail below, at the times PNC entered into the PAGIC transactions, GAAP required that an independent third party be the majority owner of each PAGIC entity, that the independent third party provide a substantive capital investment in and have control of the PAGIC entity, and that the majority owner have substantive risks and rewards of ownership of the PAGIC entity.
+In fact, none of the PAGIC transactions complied with these GAAP requirements for nonconsolidation of special purpose entities.
+Therefore, PNC's second and third quarter 2001 regulatory reports and financial statements were not presented in conformity with GAAP.
+In short, PNC improperly treated the transfers of assets to the PAGIC entities as sales, when it should have consolidated the assets of the PAGIC entities in its regulatory reports and financial statements.
+This failure to consolidate resulted, among other things, in (a) a material overstatement of PNC's earnings per share for the third quarter of 2001 by 21.4%, (b) a material understatement of PNC's fourth quarter 2001 loss per share of 25% in a press release, (c) material understatements of the amounts of PNC's nonperforming loans and nonperforming assets, and (d) material overstatements of the amounts of reductions in loans held for sale and overstatements in the amounts of securities available for sale.
+A further consequence of PNC's improper accounting was that PNC materially overstated 2001 earnings per share in a press release issued on January 17, 2002 by 52%.
+In connection with its improper accounting, PNC also made materially false and misleading disclosures in certain press releases and in Forms 10-Q filed with the Commission for the second and third quarters of 2001, concerning aspects of its financial condition affected by the PAGIC transactions.
+These disclosures created a picture that materially overstated the extent to which PNC was moving its corporate focus away from commercial lending and reducing its exposure to the risks attendant to commercial lending and venture capital activities.
+In early 2002, PNC decided to restate its financial statements for the second and third quarters of 2001, and to revise its earnings for the fourth quarter of and full year 2001.
+PNC thereafter filed amended Forms 10-Q for the second and third quarters of 2001, and a Form 10-K for 2001.
+2. PAGIC I
+In the first PAGIC transaction ("PAGIC I"), which closed on June 28, 2001,1 the insurance company, through a subsidiary, organized the special purpose entity as a Delaware limited liability company ("PAGIC I LLC").
+At closing, the insurance company received $36,576 of PAGIC I LLC's Class B common stock and $11,558,940 of its Class B preferred stock in exchange for a cash contribution of $11,595,517.
+PNC, through a nonbank subsidiary, contributed $365.8 million in cash to PAGIC I LLC and received $365.8 million of Class A preferred stock.
+PNC's Class A preferred stock was noncumulative, nonvoting, and convertible, and was mandatorily redeemable at its face amount of $365.8 million in 30 years.
+No Class A common stock was issued at the closing of PAGIC I, but PNC could convert its Class A preferred stock at any time into Class A common stock.
+The Class A common stock, if issued, would confer on PNC 99.99% of the common shares, but those Class A common shares could only be voted to cause an orderly liquidation of PAGIC I LLC.
+The cash contributed by the insurance company to PAGIC I LLC in exchange for shares was used to purchase investment grade assets, primarily bonds.
+The insurance company's Class B preferred stock was entitled to a variable dividend, which consisted of the cash earnings of the investment grade securities purchased with the insurance company's contribution.
+If PNC converted its Class A preferred stock to Class A common stock and then voted to liquidate PAGIC I LLC, the insurance company's Class B preferred stock was entitled to a liquidation preference up to $11,463,424.
+The insurance company's Class B common stock purported to give it control over the affairs of PAGIC I LLC (except for a decision to liquidate PAGIC I LLC once PNC converted its Class A preferred stock to Class A common stock), including among other things the authority to decide whether or not to declare dividends on the Class A preferred stock held by PNC.
+The insurance company could not liquidate PAGIC I LLC during the first five years of its existence, except with PNC's consent.
+PNC, on the other hand, could cause a liquidation of PAGIC I LLC at any time, and without penalty after five years, by converting its Class A preferred stock to Class A common stock and voting this common stock in favor of liquidation.
+PNC's cash contribution to PAGIC I LLC was used as follows:
+(a) approximately $285 million was used to purchase troubled commercial loans and unfunded commitments from PNC Bank, (b) approximately $78 million was used to purchase a zero-coupon U.S. Treasury security that would mature in 30 years in its face amount of $365 million, and (c) approximately $3 million was used as an expense account and to pay a $2.7 million management fee to the insurance company at the closing of PAGIC I.
+While the Class A preferred stock held by PNC bore a dividend, that dividend was noncumulative, had to be paid from the cash (if any) derived from the loans held by PAGIC I LLC, and was payable only if there were sufficient funds available after, among other things, the annual payment of the management fee to the insurance company, and then only if the insurance company declared dividends on it.
+If the loans PNC had transferred to PAGIC I LLC improved in value, PNC could recapture the benefit of that improvement by converting its Class A preferred stock to Class A common stock and voting to liquidate PAGIC I LLC.2
+PAGIC I LLC was required to pay the insurance company a management fee of approximately $2.7 million per year for the first five years of PAGIC I LLC's existence, and 75 basis points (i.e., 0.75%) of the total assets of PAGIC I LLC (excluding the investment grade securities underlying the insurance company's Class B preferred) per year thereafter.
+As legally required by the closing documents for PAGIC I, PAGIC I LLC paid the insurance company the first year's management fee in advance, on the date of closing of PAGIC I, June 28, 2001.
+In addition to the up-front management fee for the first year, PAGIC I LLC was obligated to pay at the beginning of each of the succeeding four years to the insurance company an annual management fee equal to the amount of the up-front fee.
+This feature of the transaction enabled the insurance company to receive back more than the amount of its initial capital investment within four years.
+Although a subsidiary of the insurance company was the managing member of PAGIC I LLC, the insurance company's involvement in the business and management of PAGIC I LLC was mostly passive.
+PNC Bank, PNC's principal banking subsidiary, serviced the loans transferred to PAGIC I LLC for a loan servicing fee of 50 basis points (i.e., 0.5%) of the aggregate loan amounts, or approximately $1.5 million per year.
+PNC Bank retained the relevant loan records and established bank accounts for loan collections.
+As the loan servicer, PNC Bank received payments, was responsible for valuing the loans on an annual basis, and developed action plans for managing the workout of the loans.
+The insurance company's actual management of PAGIC I LLC was limited, at best.
+PAGIC I LLC's initial structure immediately after closing was as follows:
+PAGIC I LLC's INITIAL STRUCTURE
+Assets
+Equity
+$11,595,517 investment grade securities
+$365,800,000 Class A Pref. (PNC)
+$284,531,570 commercial loans (unfunded commitments and principal)
+$11,558,940 Class B Pref. (Ins. Co.)
+$78,425,539 30-yr. zero-coupon Treasury
+$36,576 common (Ins. Co.)
+$2,842,891 (cash used to pay management fee and expenses)
+$377,395,516 TOTAL
+$377,395,516 TOTAL
+On its financial statements, PNC recorded the Class A preferred stock received from PAGIC I LLC as debt securities available for sale, while removing from the loan portfolio of PNC Bank the loans that were transferred to PAGIC I LLC.
+PNC intended that the structure of the PAGIC I transaction would allow it not to recognize losses from the loans and other assets it had transferred to PAGIC I LLC.
+PNC understood that, had those loans remained on its books, it would have had to recognize such losses in its earnings.
+3. PAGICs II and III
+On September 27, 2001 and November 30, 2001, PNC entered into similar transactions ("PAGIC II" and "PAGIC III") with two other special purpose entities ("PAGIC II LLC" and "PAGIC III LLC").
+These two special purposes entities were also established by a subsidiary of the insurance company and issued shares in exchange for contributions.
+In PAGIC II, PAGIC II LLC received from PNC Bank a total of $538,816,528: $326,896,933 in loans and $211,919,595 in cash.
+In exchange, PAGIC II LLC issued to PNC Bank shares of Class A preferred stock in PAGIC II LLC.
+PNC Bank immediately assigned these shares to the same nonbank subsidiary of PNC that held shares of PAGIC I LLC, and the shares were maintained on PNC's books as debt securities available for sale.
+The terms of the Class A preferred stock in PAGIC II LLC were very similar to the terms of the PAGIC I LLC Class A preferred, and PNC Bank entered into an agreement to continue to service the transferred loans.
+The cash contribution was used to cover unfunded commitments and letters of credit with respect to the loans ($89,493,162), the purchase of a zero-coupon Treasury bond ($118,493,760), expenses, and the first year's management fee ($3,682,672, payable at closing to the insurance company).
+The insurance company contributed $16,918,904 in cash to PAGIC II LLC and received Class B common stock and Class B preferred stock, which had terms very similar to those of the PAGIC I LLC Class B stock.
+PAGIC II LLC used the insurance company's cash contribution to purchase investment grade securities.
+The insurance company was the managing member of PAGIC II LLC, and PAGIC II LLC was required to pay the insurance company a management fee at the closing and periodically thereafter.
+In PAGIC III, PNC nonbank subsidiaries contributed approximately $252 million in cash and equity assets (including venture capital investments and related commitments) to PAGIC III LLC in exchange for Class A preferred stock.
+PNC recorded the Class A shares as debt securities available for sale.
+A nonbank subsidiary of PNC was retained to service the venture capital assets.
+PNC's cash contribution was used to cover certain unfunded commitments, to purchase a Treasury zero-coupon bond, and to cover expenses, including the first year's management fee of $1,716,950 payable at closing to the insurance company.
+PAGIC III LLC also purchased a guaranteed investment contract from the insurance company, which could be drawn upon to satisfy unfunded commitments.
+The insurance company contributed $8,021,417 in cash to PAGIC III LLC in exchange for Class B common and preferred stock.
+The cash contribution was used to purchase investment grade securities, as in PAGICs I and II. As in the earlier PAGIC transactions, the insurance company was the managing member of PAGIC III LLC, and PAGIC III LLC was required to pay the insurance company a management fee at the closing and periodically thereafter.
+4. PNC's Form 10-Q for the Quarter Ended June 30, 2001
+In a Form 10-Q filed with the Commission on August 14, 2001, PNC disclosed its financial performance and financial condition for the second quarter of 2001.
+PNC did not include on its balance sheet, as set forth in this Form 10-Q, the assets it transferred to PAGIC I LLC, but did include its holdings of PAGIC I LLC Class A preferred stock on its balance sheet, in the line item entry for securities available for sale.
+The PNC Form 10-Q for the quarter ended June 30, 2001 stated:
+During the first quarter of 2001, the Corporation announced the decision to downsize the communications portfolio and certain portions of the energy, metals and mining and large corporate portfolios.
+The designated loans are included in Corporate Banking business results in both periods presented.
+Management continues to evaluate opportunities to reduce lending exposure and improve the risk/return characteristics of this business.
+...
+Loans were $44.2 billion at June 30, 2001, a $6.4 billion decrease from year-end 2000 primarily due to residential mortgage loan securitizations and reductions in most commercial loan categories as a result of continuing efforts to reduce balance sheet leverage.
+The second quarter Form 10-Q also stated that PNC had $374 million in nonperforming loans and $390 million in total nonperforming assets.
+These figures did not include $84 million in nonperforming assets among the $257 million of loans that PNC had transferred to PAGIC I LLC.
+PNC's second quarter Form 10-Q did not provide any disclosure concerning the PAGIC I transaction.
+5. PNC's September 18, 2001 Registration Statement
+On September 18, 2001, PNC filed with the Commission a registration statement on Form S-3 (the "September 18, 2001 registration statement") that would allow it to offer and sell approximately $4 billion of common stock, preferred stock, warrants, guarantees, depositary shares and debt securities.
+This filing was for a shelf registration of these securities, such that PNC could offer and sell the registered securities from time to time pursuant to applicable rules of the Commission.
+The September 18, 2001 registration statement incorporated by reference, among other things, the Form 10-Q filed with the Commission by PNC for the second quarter of 2001.
+6. PNC's Press Release and Form 10-Q for the Quarter Ended September 30, 2001
+In a press release issued on October 18, 2001 and in a Form 10-Q filed with the Commission on November 14, 2001, PNC disclosed its financial performance and financial condition for the third quarter of 2001.
+In both the press release and the Form 10-Q, PNC did not include on its balance sheet the assets it transferred to PAGIC I LLC and PAGIC II LLC, but did include its holdings of PAGIC I LLC and PAGIC II LLC Class A preferred stock in its line item entry for securities available for sale.
+a. The October 18, 2001 Press Release
+In the October 18, 2001 press release, PNC announced that its earnings per share for the third quarter of 2001 were $1.02.
+The press release noted, "Loans declined $8.5 billion from December 31, 2000 to $42.1 billion at September 30, 2001 as a result of ongoing efforts to reduce lending leverage."
+The press release later noted, "Total assets were $71.9 billion at September 30, 2001 compared with $69.9 billion at September 30, 2000.
+Average interest-earning assets were $57.9 billion for the third quarter of 2001 compared with $59.7 billion for the third quarter of 2000.
+The decrease was primarily due to a $2.5 billion decrease in commercial loans related to initiatives to downsize certain higher-risk, non-strategic portfolios."
+The October 18, 2001 press release further stated that PNC had $361 million in nonperforming loans and $374 million in total nonperforming assets.
+These figures did not include a total of $207 million in nonperforming assets among the assets that PNC had transferred to PAGIC I LLC and PAGIC II LLC.
+This release made no mention of any of the PAGIC transactions into which PNC had entered by October 18, 2001 (i.e., PAGICs I and II).
+b. PNC's October 25, 2001 Prospectus
+Certain financial results set forth in the October 18, 2001 press release were also set forth in a prospectus relating to an offering made pursuant to the September 18, 2001 registration statement, which prospectus was filed with the Commission on October 25, 2001 and utilized in the offer and sale of approximately $1 billion of debt securities on or about October 29, 2001.
+In particular, the prospectus announced that PNC's earnings per share for the third quarter of 2001 were $1.02.
+c. The Third Quarter Form 10-Q
+The PNC Form 10-Q for the quarter ended September 30, 2001 reported that PNC's earnings per share for that quarter were $1.02 per share.
+The Form 10-Q also stated:
+Loans were $42.1 billion at September 30, 2001, a decrease of $8.5 billion from year-end 2000 primarily due to residential mortgage loan securitizations and reductions in most commercial loan categories as a result of continuing efforts to reduce balance sheet leverage.
+...
+At September 30, 2001, the securities available for sale balance included a net unrealized gain of $79 million, which represented the difference between fair value and amortized cost.
+The comparable amount at December 31, 2000 was a net unrealized loss of $54 million.
+Net unrealized gains and losses in the securities available for sale portfolio are included in accumulated other comprehensive income or loss, net of tax or, for the portion attributable to changes in a hedged risk as part of a fair value hedge strategy, in net income.
+The third quarter Form 10-Q stated that PNC had $361 million in nonperforming loans and $374 million in total nonperforming assets.
+These figures did not include a total of $207 million in nonperforming assets among the $592 million of troubled assets that PNC had transferred to PAGIC I LLC and PAGIC II LLC.
+This Form 10-Q did not provide any disclosure concerning the PAGIC transactions into which PNC had entered by the date the Form 10-Q was filed, November 14, 2001 (i.e., PAGIC I and PAGIC II).
+7. Bank Holding Company Supervisors Raise Concerns about PAGIC Transactions
+During the summer and fall of 2001, PNC had incomplete communications about the PAGIC transactions with the Board, and the Federal Reserve Bank of Cleveland (the "Reserve Bank").
+On October 23, 2001, the staff of the Reserve Bank sent PNC a letter raising various accounting issues and requesting additional information about the PAGIC I transaction.
+PNC responded in writing to this letter on December 12, 2001.
+The response addressed only the PAGIC I transaction.
+Shortly before sending the response, PNC informed the Reserve Bank that it previously had closed the PAGIC III transaction.
+8. PNC's December 6, 2001 Registration Statement
+On December 6, 2001, PNC filed with the Commission a registration statement on Form S-8, in order to register the offer and sale of certain shares of common stock.
+This registration statement incorporated by reference the Forms 10-Q filed by PNC with the Commission for the second and third quarters of 2001.
+9. PNC's January 17, 2002 Press Release
+On January 11, 2002, Board staff directed PNC to consolidate PAGIC I LLC, PAGIC II LLC, and PAGIC III LLC on its bank holding company regulatory reports for 2001.
+On January 15, 2002, a meeting was held with senior management of PNC and staff of the Board to further explain in detail the basis of the Board's directive to consolidate PAGIC I LLC, PAGIC II LLC, and PAGIC III LLC.
+The Board advised PNC that nonconsolidation was not appropriate.
+On January 17, 2002, PNC issued a press release announcing its fourth quarter and full-year 2001 financial results.
+In this release, PNC stated that its earnings per share for 2001 were $1.91, and that its fourth quarter loss would be ($1.15) per share.
+PNC also stated that it had reduced its institutional loan portfolio through, among other things, "sales of institutional loans to subsidiaries of a third party financial institution."
+The release went on to note that, "[v]enture capital assets were reduced to $424 million through a sale to a subsidiary of the same institution . . . ."
+The January 17, 2002 press release also presented a table setting forth PNC's nonperforming assets by type, which included a total of $268 million in nonperforming assets as of December 31, 2001.
+The release went on to state that "[e]xcluded from the above table and reflected below are . . . certain assets sold to subsidiaries of a third party financial institution.
+These assets will be included in nonperforming assets in PNC's bank holding company regulatory filings."
+The filings to which this release referred were filings to be made by PNC with the Board as required by the federal banking laws.
+The release continued by disclosing that the amounts of nonperforming assets sold to the subsidiaries of the third party financial institution were $84 million as of June 30, 2001, $207 million as of September 30, 2001 and $172 million as of December 31, 2001.
+This was the first time that PNC publicly disclosed the amounts of the nonperforming assets among the assets it had transferred to the PAGIC entities, although it did not incorporate them into the table for nonperforming assets.
+The January 17, 2002 press release did not consolidate the assets of the three PAGIC special purpose entities into PNC's financial statements.
+It also did not set forth any explanation why consolidation might be appropriate for PNC's bank regulatory filings but not for filings made with the Commission.
+Furthermore, it did not disclose the impact consolidation might have on PNC's announced 2001 earnings of $1.91 per share.
+10. PNC Announces a Restatement With Respect to PAGIC Entities
+On the morning of January 29, 2002, PNC announced that it would revise its fourth quarter financial results and restate its second and third quarter 2001 financial statements to reflect the consolidation of PAGIC I LLC, PAGIC II LLC, and PAGIC III LLC.
+It also disclosed that consolidation would result in a reduction of 2001 income by $155 million, equivalent to a drop of earnings per share of 38%, from $1.91 per share to $1.38 per share.3
+After PNC made this announcement, the market price of PNC common stock fell from a closing price of $61.87 on January 28, 2002 to $56.08 on January 29, 2002 (equivalent to a 9.4% drop), with a further drop the next day, January 30, 2002, to a closing price of $55.71 (equivalent to a two-day drop of 10%).
+11. PNC Files Its Restated Financial Results
+On March 29, 2002, PNC filed amended Forms 10-Q for the quarters ended June 30, 2001 and September 30, 2001 that included restated financial results.
+The amended Form 10-Q for the quarter ended September 30, 2001 set forth PNC's restated financial results for the third quarter of 2001, including, among other things, PNC's
+earnings per share for this quarter, which were $0.84 per share (approximately 18% less than the $1.02 per share reported in PNC's original Form 10-Q for this quarter).
+Also on March 29, 2002, PNC filed its Form 10-K for the full year 2001.
+This filing revealed that PNC's earnings per share for the year were $1.26, (which meant that the $1.91 per share figure originally announced by PNC on January 17, 2002 was overstated by 52%, and that the $1.38 per share figure announced by PNC on January 29, 2002 was 10% overstated).
+This filing also revealed that the actual fourth quarter loss for PNC was ($1.52) per share, or 25% greater than the ($1.14) per share loss for the fourth quarter originally disclosed in PNC's January 3, 2002 press release and 24% greater than the ($1.15) per share fourth quarter loss announced in PNC's January 17, 2002 press release.
+Furthermore, the Form 10-K disclosed that PNC had charged $240 million against pre-tax income as a result of valuation write-downs relating to consolidation of the PAGIC entities.
+D. Discussion
+Section 10(b) of the Exchange Act and Rule 10b-5 thereunder prohibit, among other things, the making of material misrepresentations or omissions, with scienter, in connection with the purchase or sale of any security.
+Section 10(b) of the Exchange Act and Rule 10b-5 thereunder also make it unlawful to make any untrue statement of a material fact or to omit to state a material fact necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading.
+A statement is deemed material if there is a "substantial likelihood that a reasonable investor would consider it important" in deciding whether to purchase or sell securities or that a reasonable investor would have viewed disclosure of the omitted fact as altering the "total mix" of information available.
+Basic Inc. v. Levinson, 485 U.S. 224, 231-32 (1988).
+Sections 17(a)(2) and 17(a)(3) of the Securities Act make it unlawful, in the offer or sale of securities, by the use of any means or instruments of transportation or communication in interstate commerce, or the mails, to obtain money or property by means of an untrue statement of a material fact or any omission to state a material fact necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading, or to engage in any transaction, practice, or course of business which operates or would operate as a fraud or deceit upon the purchaser.
+Section 13(a) of the Exchange Act requires issuers of registered securities to file periodic reports with the Commission containing information prescribed by specific Commission rules.
+Rule 13a-1 requires the filing of annual reports on Form 10-K.
+Rule 13a-13 requires the quarterly filing of a Form 10-Q.
+Rule 12b-20 requires, in addition to information required by Commission rules to be included in periodic reports, such further material information as may be necessary to make the required statements not misleading.
+These reports are required to be complete and accurate.
+See SEC v. Savoy Industries, 587 F.2d 1149, 1165 (D.C. Cir. 1978).
+Under both the federal banking laws4 and the federal securities laws,5 PNC is, and was at all relevant times, required to comply with GAAP in its filings with the Board and with the Commission.
+Section 13(b)(2)(A) of the Exchange Act requires issuers to "make and keep books, records, and accounts, which in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the issuer."
+"A company's `books and records' include not only general ledgers and accounting entries, but also memoranda and internal corporate reports."
+In the Matter of Gibson Greetings, Inc., Ward A. Cavanaugh, and James H. Johnsen, Admin. Proc. File No. 3-8866, Release No. 34-36357, 60 SEC Docket 1401 (Oct. 11, 1995).
+PNC's accounting for the PAGIC transactions did not conform to GAAP.
+PNC's failure to account properly for the PAGIC transactions resulted in a material overstatement of its earnings for the third quarter of 2001, among other things.
+The false and misleading disclosures it made in its Forms 10-Q for the second and third quarters of 2001 created a materially inaccurate picture of the extent to which it was reducing its exposure to commercial lending activities, and the risks attendant thereto.
+As is discussed below, GAAP required PNC to consolidate the assets of the PAGIC entities.
+This meant PNC remained exposed to the risks presented by the assets transferred to the PAGIC entities, and to the possibility of charges against its earnings for losses arising from those assets.
+Furthermore, PNC offered and sold securities in the fall of 2001 by means of registration statements that incorporated by reference one or both of its Forms 10-Q for the second and third quarters of 2001 and a prospectus that materially overstated its third quarter earnings and otherwise inaccurately portrayed its financial performance.
+In addition, PNC recklessly made materially false and misleading disclosures in its January 17, 2002 press release about its financial condition, including, among other things, a material overstatement of its 2001 earnings.
+PNC also failed to maintain accurate books and records because it did not consolidate on its balance sheet the assets held by the PAGIC entities or record the impact of losses on those assets on PNC's 2001 earnings.
+1. PNC's Accounting for the PAGIC Transactions Did Not Conform With GAAP
+Topic D-14, Transactions Involving Special Purpose Entities, addresses whether, under GAAP, transfers of assets to special purpose entities should be treated as sales and whether or not it is appropriate for sponsoring companies to consolidate the financial statements of special purpose entities.
+For nonconsolidation and sales recognition by the sponsor or transferor to be appropriate, the majority owner of the special purpose entity must be an independent third party who has made a substantive capital investment in the special purpose entity, has control of the special purpose entity, and has substantive risks and rewards of ownership of the assets of the special purpose entity.
+Conversely, nonconsolidation and sales recognition are not appropriate by the sponsor or transferor when the majority owner of the special purpose entity makes only a nominal capital investment, the activities of the special purpose entity are virtually all on the sponsor's or transferor's behalf, and the substantive risks and rewards of the assets or the debt of the special purpose entity rest directly or indirectly with the sponsor or transferor.6
+At the time of the PAGIC transactions, three percent was the minimally acceptable amount under GAAP to indicate a substantive capital investment sufficient for nonconsolidation, though a greater investment may be necessary depending on the facts and circumstances.7
+The PAGIC transactions did not satisfy these criteria.
+The provisions of the agreements for each PAGIC transaction provided that the insurance company's investment was substantially protected from loss by the investment grade assets purchased with the proceeds of that investment (to which the insurance company had priority in the event of a liquidation of a PAGIC entity). 8
+The insurance company, on the other hand, did not effectively enjoy any gains from the loans and other assets transferred by PNC to the PAGIC entities, because PNC had effective control over the liquidation of the PAGIC entities.
+As noted above, PNC could decide at any time to liquidate the PAGIC entities by converting its Class A preferred stock to Class A common stock and voting to liquidate, whereupon it would be able to capture the benefit of any improvement in the value of the assets that it had transferred to the liquidating entity.
+The insurance company, however, did not have the ability to benefit from an improvement in the value of these assets.
+PNC also bore substantial risk on the loans because the dividends on its preferred stock were noncumulative and payable only if those loans performed or were sold and after payment of, among other things, the management fee to the insurance company, and even then only with the approval of the insurance company.
+As a result of the foregoing, PNC, and not the insurance company, had substantive risks and rewards of ownership.
+The PAGIC transactions also did not satisfy the requirement that the majority owner (in this case, the insurance company) make a substantive investment.
+As required by the documentation for each PAGIC transaction, the first year's management fee owed to the insurance company was paid on the date that PNC and the insurance company entered into the transactions.
+These advance payments of the first year's management fees had the substantive effect of making the investment actually made by the insurance company effectively less than the three percent benchmark.9
+Thus, the insurance company did not make a sufficiently large investment in the PAGIC entities to be substantive under GAAP.
+Because the PAGIC transactions did not satisfy the criteria for nonconsolidation of special purpose entities, PNC should have consolidated the PAGIC entities in its financial statements.
+PNC's accounting for the PAGIC entities as reported in its filings with the Board and with the Commission for the second and third quarters of 2001 thus did not conform to GAAP.
+PNC improperly excluded the PAGIC entities' assets from its balance sheet for the quarters ended June 30 and September 30, 2001, materially overstated the amounts of securities available for sale by improperly including the PAGIC preferred stock in this line item and materially overstated its earnings for the third quarter of 2001.
+In addition, the amounts of nonperforming assets were also materially understated in these filings.
+2. PNC's False and Misleading Portrayal of Its Reduction of Loan Portfolio Exposure and of the Impact of the PAGIC Transactions on Its Financial Condition for the Second and Third Quarters of 2001
+In the above-described press releases and Forms 10-Q for the second and third quarters of 2001, PNC depicted itself as implementing a corporate strategy of reducing its exposure to commercial lending and the risks attendant thereto.
+PNC entered into the PAGIC transactions as part of this strategy.
+However, as noted above, PNC's accounting for the PAGIC transactions did not conform to GAAP for several reasons including the fact that payment of the first year's management fee to the insurance company was made in advance, on the date of the closing of the transaction.
+This advance payment had the substantive effect of immediately reducing the insurance company's investment in the PAGIC entities below the three percent threshold.
+Because of the structure of the PAGIC transactions PNC continued to bear the risk of loss as to troubled or
+non-performing loans and venture capital assets transferred by PNC to the PAGIC entities.
+Those losses, if and when incurred, should have been charged against current earnings.
+In addition, various other line items and other figures noted above, including the amounts of nonperforming loans, nonperforming assets, securities available for sale, and reductions in loans held for sale, were all materially inaccurate, in that they were improperly recorded on the assumption that the assets transferred to PAGIC I LLC and PAGIC II LLC had been removed from PNC's financial statements.
+In fact, PNC's nonperforming assets and loans were materially greater than disclosed, because they should have included certain assets transferred to PAGIC I LLC and PAGIC II LLC, and its reductions in loans were materially overstated.
+Moreover, PNC materially overstated earnings per share for the third quarter of 2001 because it did not include write-downs that it should have taken with respect to assets transferred to PAGIC I LLC.
+Thus, the press releases and Forms 10-Q materially overstated the extent to which PNC was reducing its exposure to its loan portfolio in the second and third quarters of 2001, and the press release and Form 10-Q in the third quarter of 2001 materially overstated PNC's income for that quarter.
+PNC's recordation of its interests in the PAGIC entities as
+"securities available for sale" was also materially misleading.
+Unrealized gains and losses on the assets properly recorded in this category do not have an impact on current earnings, except for a circumstance inapplicable in this instance.
+However, PNC's actual interests in the PAGIC entities were, for financial reporting purposes, the underlying assets and not the preferred stock that the PAGIC entities issued to PNC.
+Thus, by recording its interests in the PAGIC entities as "securities available for sale," PNC inaccurately represented that unrealized losses and gains on its interest in the PAGIC entities would not affect current earnings.
+PNC's Form 10-Q for the second quarter of 2001 was incorporated by reference into its Forms S-3 and S-8 filed in September and December of 2001, respectively.
+Its Form 10-Q for the third quarter of 2001 was incorporated by reference into its Form S-8 filed in December 2001.
+Furthermore, certain materially inaccurate financial results for the third quarter, including an inaccurate figure for earnings per share, were included in its prospectus filed on October 25, 2001.
+PNC should have known that its improper accounting and disclosures would make these filings, used in the offer or sale of securities, materially inaccurate.
+3. Obligations to Make Full Disclosure
+Issuers engaged in transactions with special purpose entities, or in other transactions, particularly where the attainment of a particular financial reporting result is a primary purpose, must be mindful that, even if the transactions comply with GAAP, the issuer is required to evaluate the material accuracy and completeness of the presentation made by its financial statements,10 as well as its disclosure obligations under the Commission's rules and regulations, including, among other things, the rules and regulations concerning Management's Discussion and Analysis of Financial Condition and Results of Operations11 and Quantitative and Qualitative Disclosures About Market Risk.12
+In addition, issuers must consider the economic and business realities and risks of their corporate structures and affiliations, their financial structures and financing methods, their lines of business and operational activities, and ensure that the way they publicly portray themselves discloses, as required, the material elements of those economic and business realities and risks.
+The structure of the PAGIC entities raises significant disclosure issues.
+PNC transferred troubled or non-performing loans and venture capital assets to the PAGIC entities, which then purchased zero-coupon Treasury securities that eventually, after 30 years, would mature in the face amount of the preferred stock issued to PNC.
+Although this structure purportedly would prevent PNC from having to write down the value of the preferred stock because it would ultimately not suffer any loss of its face value, the structure camouflaged significant economic risk.
+While the insurance company's interest was substantially protected from loss by virtue of its priority to the income and principal of the investment grade securities purchased with the proceeds of the insurance company's investment, PNC's preferred stock had no such protection.
+In the event that a PAGIC entity were to be liquidated before the preferred stock matured after 30 years, the actual amount that PNC would recover on the preferred stock might be substantially less than the carrying value of the preferred stock.
+The recoverable value of the zero-coupon Treasury security would, for much of the 30 years preceding its maturity, be substantially less than its face amount.
+Thus, the actual recoverable value of the loans and other assets transferred to the PAGIC entities in a liquidation process might be well below their value on the dates they were transferred to the PAGIC entities.13
+Required portrayal would entail going beyond merely disclosing the possibility of loss, and would include describing in all material aspects what losses might occur and the circumstances under which they could occur.
+In this regard, PNC should have, for the second and third quarters of 2001, disclosed its use of the PAGIC entities, described the structure of these transactions, disclosed the risks that these transactions presented, and described what losses
+might occur and the circumstances under which those losses could occur.
+These disclosures should have been made regardless of whether or not PNC believed that the PAGIC transactions had complied with GAAP.
+Another example of disclosure that would be necessary to illuminate the risks of the PAGIC transactions arises from the dividend feature of the preferred stock held by PNC.
+The dividends on its preferred stock were noncumulative and payable only if those loans performed or were sold and after payment of, among other things, the management fee to the insurance company, and even then, only if the insurance company approved the payment of dividends to PNC.
+Since some of the loans and other assets were troubled, payment of dividends to PNC was by no means assured.
+Thus, PNC continued to bear substantial risks with respect to the troubled loans and other troubled assets transferred to the PAGIC entities.
+While a purpose of PNC's entering into the PAGIC transactions was to reduce volatility in its earnings caused by changes in the quality of its loan portfolio, the potentially irregular nature of the dividends payable on the preferred stock would have a counteractive effect on this effort to reduce volatility in earnings, whether or not the PAGIC transactions complied with GAAP.
+In light of PNC's statements in its press releases and Forms 10-Q that it was reducing balance sheet leverage and lending exposure, this information about the volatility of dividends was material and PNC's omission of this information from the documents rendered the documents materially misleading.14
+In light of the matters discussed in sections IV.D. 1, 2 and 3 above, PNC violated Sections 17(a)(2) and 17(a)(3) of the Securities Act, Sections 13(a) and 13(b)(2)(A) of the Exchange Act, and Exchange Act Rules 12b-20, 13a-1 and 13a-13.
+4. PNC's Materially False and Misleading January 17, 2002 Press Release
+PNC's January 17, 2002 press release concerning its fourth quarter and full year 2001 financial performance was materially false and misleading.
+By January 17, 2002, PNC was already aware that it would be required to restate its 2001 bank holding company regulatory reports to the Board to show consolidation of the PAGIC entities.
+Nevertheless, notwithstanding that the federal banking laws and the federal securities laws both require compliance with GAAP, PNC recklessly presented its financial condition in the January 17, 2002 press release without consolidating the PAGIC entities, in contravention of GAAP.
+In the course of doing so, PNC, among other things, overstated its 2001 earnings by 52% (i.e., PNC's actual earnings per share were $1.26, but were disclosed in the January 17, 2002 press release as $1.91).
+It also continued to understate its fourth quarter loss, by 24% in this press release.
+The release announced the loss as ($1.15) per share, when, as disclosed in PNC's Form 10-K for 2001, it was actually ($1.52) per share.
+When PNC announced on January 29, 2002 that it was restating its financial statements and disclosed that its 2001 earnings per share would be $1.38,15 its stock price fell approximately 10%.
+The January 17, 2002 press release was materially false and misleading because it failed to disclose that the financial information it set forth did not comply with GAAP, nor did it explain how and to what extent this financial information differed from GAAP.
+In the January 17, 2002 press release, PNC also stated that it had reduced its institutional loan portfolio through, among other things, "sales of institutional loans to subsidiaries of a third party financial institution."
+The release went on to note that, "[v]enture capital assets were reduced to $424 million through a sale to a subsidiary of the same institution . . . ."
+These statements were references to PNC's transfers of troubled assets to the PAGIC entities, and were materially false and misleading, in that these statements implied that those transfers were effective for financial reporting purposes and allowed PNC to remove these assets from its financial statements.
+In fact, PNC had not effectively removed these assets from its financial statements and continued to bear the risks associated with these assets, including material charges against 2001 earnings that were improperly omitted from the January 17, 2002 press release.
+As previously noted, the January 17, 2002 press release included a table depicting "Nonperforming Assets Data," which presented amounts of nonperforming assets by type that did not include nonperforming assets held by the PAGIC entities.
+Immediately below this table was a note stating that "[e]xcluded from the above table and reflected below are equity management assets that are carried at fair value and certain assets sold to subsidiaries of a third party financial institution.
+These assets will be included in nonperforming assets in PNC's bank holding company regulatory filings."
+The release next presented data that included the amounts of nonperforming assets held by the PAGIC entities.
+This separate presentation of some of the PAGIC assets did not rectify PNC's false and misleading statements elsewhere in the press release because:
+(a) it did not disclose that PNC's presentation of nonperforming assets in this manner did not conform to GAAP, (b) it did not disclose that compliance with GAAP would involve consolidation of these assets, and other assets, on PNC's financial statements, and (c) it did not disclose that consolidation as required by GAAP would result in a charge to earnings that would render the disclosed earnings per share to be 52% overstated.
+It was also materially incomplete and misleading, in that it omitted to disclose that several hundreds of millions of dollars worth of other troubled assets would have to be incorporated back onto PNC's balance sheet, together with significant write-downs that, as disclosed in PNC's Form 10-K for 2001, totaled $240 million.
+In light of the matters discussed in section IV.D. 4 above, PNC violated
+Section 10(b) of the Exchange Act and Rule 10b-5 promulgated thereunder.
+V.
+In view of the foregoing, it is appropriate to impose the sanction specified in PNC's Offer of Settlement.
+VI.
+Order
+ACCORDINGLY, THE COMMISSION HEREBY ORDERS THAT, pursuant to Section 8A of the Securities Act and Section 21C of the Exchange Act, PNC cease and desist from committing or causing any violations of, and committing or causing any future violations of, Sections 17(a)(2) and 17(a)(3) of the Securities Act, Sections 10(b), 13(a) and 13(b)(2)(A) of the Exchange Act, and Exchange Act Rules 10b-5, 12b-20, 13a-1 and 13a-13.
+By the Commission.
+Jonathan G. Katz
+Secretary
+Endnotes
+1
+PAGIC I was the prototype for the two subsequent PAGIC transactions.
+Although there were some minor variations in the deals, the terms and the accounting results were essentially the same.
+2
+In a PNC-triggered liquidation, the insurance company would receive up to $11,463,424.
+PNC would hold only Class A common stock and would receive 99.99% of the residual value of PAGIC I LLC, including the increased value of the loans it had transferred to PAGIC I LLC.
+During the existence of PAGIC I LLC, PNC had a right of first refusal as to any loans that PAGIC I LLC sold.
+3
+PNC subsequently disclosed in its Form 10-K for 2001 that its earnings per share for the full year 2001 were $1.26.
+4
+See, instructions to Form Y-9C.
+5
+17 C.F.R. § 210.4-01(a)(1).
+6
+Emerging Issues Task Force, Topic D-14, Transactions Involving Special Purpose Entities.
+7
+Emerging Issues Task Force, Issue No. 90-15, Impact of Nonsubstantive Lessors, Residual Value Guarantees, and Other Provisions in Leasing Transactions, Response to Question No. 3.
+8
+Furthermore, the PAGIC transaction agreements provided that the insurance company would have preferences to and reserves taken from the income of the PAGIC entities to secure payment of its management fees, the result of which was to allow the insurance company to effectively more than recoup its investment in the PAGIC entities in four years.
+The fact that the insurance company received an annual management fee of 0.75% of assets for doing very little, while PNC conducted the principal activities of the PAGIC entities by servicing the loans and other assets they held for an annual servicing fee of 0.5%, suggests that the annual management fee was a means of effectively returning capital to the insurance company prior to any liquidation of the PAGIC entities.
+9
+Emerging Issues Task Force Issue No. 96-21, Response to Question No. 6, states in relevant part, "To the extent that the fees reduce the equity capital investment below the minimum amount required, the owners of record would not be considered to have a substantive residual equity capital investment that is at risk...."
+10
+See, e.g.,In the Matter of Caterpillar Inc., 51 S.E.C. Docket 147 (Admin. Proc. File No. 3-7692, March 31, 1992).
+See also Exchange Act Rule 12b-20.
+11
+17 C.F.R. §229.303.
+12
+17 C.F.R. §229.305.
+13
+The potential for such loss is illustrated by the $240 million charge against income that PNC took for the full year 2001's income when it consolidated the PAGIC entities onto its financial statements.
+As a matter of economic reality, the zero-coupon Treasury securities did not insulate PNC from loss.
+14
+Even though the PAGIC entities each held a 30-year zero-coupon Treasury security in an amount sufficient at maturity to redeem the preferred stock at face value, the zero-coupon, which by definition did not pay dividends, would not insulate PNC from volatility in dividend payments on the preferred stock.
+15
+As noted above, PNC's 2001 earnings were per share were ultimately reported as $1.26 in its Form 10-K filed on March 29, 2002.
+United States of America
+Before the
+Board of Governors of the Federal Reserve System
+Written Agreement by and between
+THE PNC FINANCIAL SERVICES
+GROUP, INC.
+Pittsburgh, Pennsylvania
+and
+FEDERAL RESERVE BANK
+OF CLEVELAND
+Cleveland, Ohio
+::::::::::
+Docket No.
+02-011-WA/RB-HC
+WHEREAS, the Board of Governors of the Federal Reserve System (the "Board") seeks to address matters at The PNC Financial Services Group, Inc., Pittsburgh, Pennsylvania ("PNC"), a bank holding company, relating to compliance with generally accepted accounting principles ("GAAP"); consolidation of assets of special purpose entities on PNC's regulatory reports and public financial statements; corporate governance policies and practices; and provision of sufficient and timely information to bank holding company supervisors;
+WHEREAS, in furtherance of the common goal of the Board and PNC to ensure that PNC has implemented all necessary risk management systems, internal controls, and compliance procedures to assure the continued safe and sound operation of PNC and its nonbank subsidiaries and to comply with all applicable laws, rules, and regulations, PNC's board of directors has adopted an Action Plan designed to improve PNC's management structure, corporate governance, risk management practices, regulatory communications, and internal controls;
+WHEREAS, PNC and the Federal Reserve Bank of Cleveland (the "Reserve Bank") have mutually agreed to enter into this Written Agreement (the "Board Agreement"); and
+WHEREAS, on July 2, 2002, the board of directors of PNC adopted a resolution authorizing and directing James E. Rohr to enter into the Board Agreement on behalf of PNC and consenting to compliance by the board of directors of PNC and PNC's institution-affiliated parties, as defined in sections 3(u) and 8(b)(3) of the Federal Deposit Insurance Act (the "FDI Act") (12 U.S.C. 1813(u) and 1818(b)(3)), to comply with each and every provision of the Board Agreement.
+NOW, THEREFORE, the Reserve Bank and PNC agree as follows:
+Management
+1. (a) Within 10 days of the Board Agreement, to the extent not already provided, PNC shall provide to the Reserve Bank for its review copies of PNC's engagement letters with the consultants hired prior to the date of the Board Agreement to address the areas of risk management, capital planning, corporate governance, and internal controls.
+(b) Within 30 days of the Board Agreement, PNC's board of directors shall engage an independent consultant (the "Corporate Consultant") acceptable to the Reserve Bank to conduct a review of the structure, functions, and performance of PNC's management and the board of directors oversight of management activities (the "Corporate Review"), and to prepare a written report (the "Corporate Consultant's Report") that includes findings, conclusions, and written descriptions of any management or operational changes recommended as a result of the Corporate Review.
+The board of directors may engage a consultant(s) who has been previously retained to conduct the review required by this paragraph.
+The primary purpose of the Corporate Review shall be to assist the board of directors in the development of a management structure that is adequately staffed by qualified and trained personnel suitable to PNC's needs.
+The Corporate Review shall, at a minimum, address, consider, and include:
+(i) Board of directors' oversight of management activities and major operations of PNC, and the information provided to the board of directors in conducting its oversight;
+(ii) services rendered to PNC by independent advisers in all areas with respect to audit services and advice on complex financial transactions and the
+controls in place for hiring and retaining such advisers to ensure that PNC receives competent, independent services; and
+(iii)
+compliance with PNC's policies and procedures relating to internal reporting and approval protocols and relations with bank holding company supervisors as it relates to the three PAGIC transactions in 2001, in which PNC transferred certain loans and other assets to special purpose entities.
+(c) Within 10 days of the engagement of the Corporate Consultant, but prior to the commencement of the Corporate Review, PNC shall submit to the Reserve Bank for approval an engagement letter that delineates:
+(i) the scope of the Corporate Review; (ii) the date of submission of the Corporate Consultant's Report, not to exceed 90 days after the date of the Reserve Bank's approval of the engagement letter; and
+(iii) the proposed resources to be dedicated to the Corporate Review.
+(d) PNC shall fully cooperate with the Corporate Consultant and agrees that the Corporate Consultant will have complete access to all employees, books, records, documents, and communications necessary to conduct the Corporate Review.
+A copy of the Corporate Consultant's Report shall be provided to the Reserve Bank at the same time that it is provided to PNC, and all information including, but not limited to, work papers, programs and procedures related to the Corporate Review shall be made available to the Reserve Bank by the Corporate Consultant upon request.
+(e) Within 60 days after PNC's receipt of the Corporate Consultant's Report, PNC shall submit a written management plan to the Reserve Bank describing specific actions that the board of directors proposes to take to fully address the findings and recommendations of the Corporate Consultant's Report.
+2. Within 180 days of completion of the Corporate Consultant's Report, and thereafter not less frequently than semi-annually, the board of directors shall review management's adherence to PNC's written policies and procedures in the areas of risk management, internal controls, corporate governance, financial and regulatory reporting, and compliance, and shall prepare written findings and conclusions of this review along with written descriptions of any management or operational changes that are made as a result of the review.
+These written findings shall be included in the minutes of the board of directors meetings and maintained for subsequent review by bank holding company supervisors.
+Regulatory Communications and Cooperation
+3. Within 90 days of the Board Agreement, PNC shall submit to the Reserve Bank an acceptable written plan designed to ensure the continued improvement and ongoing effectiveness of communications with bank holding company supervisors.
+The plan shall, at a minimum, address, consider, and include:
+(a) Identification of the individuals at PNC who will have primary responsibility for ensuring full cooperation between PNC and the Reserve Bank, and the scope of duties of each such individual;
+(b) complete and prompt access to all documentation requested by the Reserve Bank as needed to fulfill regulatory and supervisory responsibilities;
+(c) complete and prompt access to all PNC staff and management upon request by the Reserve Bank;
+(d) meetings with the board of directors or committees thereof upon the request of the Reserve Bank;
+(e) regular meetings with the Reserve Bank to ensure that new business initiatives, proposed complex transactions involving third party advisers, and other material events are disclosed and discussed; and
+(f) training for PNC personnel designed to improve communication and cooperation with the Reserve Bank.
+Risk Management
+4. Within 90 days of the Board Agreement, PNC shall submit to the Reserve Bank an acceptable written plan designed to strengthen and improve management of the overall risk exposures of the consolidated organization.
+The plan shall, at a minimum, address, consider, and include:
+(a) Enhanced policies and procedures designed to identify, assess, manage, and monitor risk exposures of the consolidated organization, including but not limited to, the areas of market, credit, operational, liquidity, legal and reputational risks;
+(b)
+board of directors and management oversight designed to ensure adherence to risk management policies and procedures;
+(c) management information systems and reporting procedures designed to ensure that appropriate management personnel, the board of directors, and its committees receive timely and accurate reports necessary to effectively manage risks and correct weaknesses and deficiencies;
+(d) internal controls designed to effectively manage risks and observe acceptable risk parameters;
+(e) capital maintenance policies that include, at a minimum, (i) cash flow guidelines; (ii) guidelines for minimum and maximum levels of retained earnings, dividend payments, and repurchases of treasury stock; and (iii) guidelines for levels of debt throughout the consolidated organization that take into consideration the terms of existing borrowings, any anticipated future borrowings, and planned sources for repayment; and
+(f)
+enhanced policies and procedures for compliance with all applicable banking and securities laws and regulations, including but not limited to,
+(i) restrictions on holding property under section 4(c)(2) of the Bank Holding Company Act; (ii) sections 23A and 23B of the Federal Reserve Act; and (iii) any commitments or conditions imposed by the Board in connection with the granting of any application or other request by PNC.
+Internal Controls
+5. Within 90 days of the Board Agreement, PNC shall submit to the Reserve Bank acceptable written procedures designed to enhance and maintain PNC's internal controls.
+These procedures shall, at a minimum, address, consider, and include:
+(a) The completeness and accuracy of books and records of PNC, including consistent application of GAAP;
+(b) appropriate segregation of duties in PNC's operations;
+(c) public financial disclosures as required by applicable banking and securities laws and regulations; and
+(d) full reports to the board of directors or the appropriate committee thereof on any material transaction.
+Financial Statements and Regulatory Reports
+6. PNC shall take actions designed to ensure that all balance sheet and income statements are reconciled on at least a monthly basis and reflect all transactions as necessary to ensure accurate regulatory reporting and disclosures required under banking and securities laws.
+Records of such reconcilements shall be maintained for internal and external audit review and for subsequent supervisory review.
+7. PNC shall ensure that all regulatory reports, including Forms Y-9C, accurately reflect PNC's condition on the date for which it is filed and all material transactions undertaken by the bank holding company and its subsidiaries, and that all records indicating how the report was prepared are maintained for subsequent supervisory review.
+Nonbank Subsidiary Policies
+8. Within 60 days of the Board Agreement, PNC shall submit to the Reserve Bank an acceptable revised written policy for any extension of credit by a nonbank subsidiary of PNC.
+The policy shall, at a minimum, address, consider and include:
+(a) The establishment of reporting, review, and approval procedures to and by the appropriate board of directors;
+(b) required documentation and procedures, including pricing support, repayment analysis, collateral analysis, obligor and facility risk ratings, and loan agreement covenant requirements; and
+(c) ongoing maintenance of credit quality support information, including minimum time frames for risk rating reviews, for updating financial information and for inclusion in all corporate loan loss reserve analyses.
+Effect and Terms of Board Agreement
+9. The written plans, policies, and procedures and the engagement letter required by paragraphs 1(c), 3, 4, 5, and 8 of the Board Agreement shall be submitted to the Reserve Bank for review and approval.
+Acceptable plans, policies, and procedures and an acceptable engagement letter shall be submitted within the time periods set forth in the Board Agreement.
+PNC shall adopt the approved plans, policies, and procedures and the approved engagement letter within 10 days of approval by the Reserve Bank and then shall fully comply with them.
+During the term of the Board Agreement, the approved plans, policies, and procedures and the engagement letter shall not be amended or rescinded without the prior written approval of the Reserve Bank.
+10. Within 30 days after the end of each calendar quarter (September 30, December 31, March 31, and June 30) following the date of the Board Agreement, PNC shall furnish a written progress report detailing the form and manner of all actions taken to secure compliance with the provision of the Board Agreement, and the results thereof, to the Reserve Bank.
+11. All communications regarding the Board Agreement shall be sent to:
+(a) Thomas Whitford
+The PNC Financial Services Group, Inc.
+249 Fifth Avenue
+One PNC Plaza
+Pittsburgh, PA 15222-2707
+(b) R. Chris Moore
+Senior Vice President
+Federal Reserve Bank of Cleveland
+P.O. Box 6387
+Cleveland, OH 44101-1387
+12. The provisions of the Board Agreement shall be binding on PNC and each of its institution-affiliated parties in their capacities as such, and their successors and assigns.
+13. Each provision of the Board Agreement shall remain effective and enforceable until stayed, modified, terminated, or suspended by the Reserve Bank.
+14. Notwithstanding any provision of the Board Agreement, the Reserve Bank may, in its discretion, grant written extensions of time to PNC to comply with any provision of the Board Agreement.
+15. The provisions of the Board Agreement shall not bar, estop or otherwise prevent the Board, the U.S. Securities and Exchange Commission or any other federal or state agency or department from taking any other action affecting PNC or any of its current or former institution-affiliated parties and their successors and assigns.
+16. The Board Agreement is a "written agreement" for the purposes of, and is enforceable by the Board as an order issued under, section 8 of the FDI Act (12 U.S.C. 1818).
+IN WITNESS WHEREOF, the parties have caused the Board Agreement to be executed as of the    12th    day of    July   , 2002.
+The PNC Financial Services Group, Inc.Federal Reserve Bank of Cleveland
+By:       /s/ James E. Rohr
+/s/ R. Chris Moore
+R. Chris Moore
+Senior Vice President
+http://www.sec.gov/litigation/admin/33-8112.htm
+Home | Previous Page
+Modified: 07/18/2002

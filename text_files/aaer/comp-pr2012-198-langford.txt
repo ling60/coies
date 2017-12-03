@@ -1,0 +1,1543 @@
+---------------------Page 1---------------------
+
+           8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 1 of 30 - Page ID # 1
+
+                          IN THE UNITED STATES DISTRICT COURT 
+                               FOR THE DISTRICT OF NEBRASKA 
+                                              Omaha Division 
+ 
+SECURITIES AND EXCHANGE    ) 
+COMMISSION,     ) 
+   Plaintiff,    ) Civil Action No. 12-cv-00344 
+       ) 
+v.        ) COMPLAINT 
+       )  
+DON A. LANGFORD,    ) JURY TRIAL DEMANDED 
+                      ) 
+                         Defendant.   ) 
+ 
+
+              Plaintiff, Securities and Exchange Commission (Commission), alleges as follows for its 
+
+Complaint against Don A. Langford (Defendant): 
+
+                                            I.       SUMMARY 
+ 
+        1.       From mid-2008 through November 2009, during the height of the recent financial 
+
+crisis, Langford, the chief credit officer at the Lincoln, Nebraska-based TierOne Bank, played a 
+
+pivotal role in a bold scheme to hide millions of dollars in losses from investors and from the 
+
+banks federal regulators.  
+
+        2.       TierOne Bank (with its public holding company, TierOne Corporation, referred to 
+
+collectively hereafter as TierOne) was a century-old thrift bank that had historically focused on 
+
+residential and agricultural loans in the Midwest, specifically Nebraska, Iowa, and Kansas. 
+
+Beginning in about 2004, however, TierOne expanded into riskier types of lending in high-
+
+growth geographic regions such as Las Vegas, Florida, and Arizona.  By the second half of 2008, 
+
+as a result of the financial crisis and accompanying crash in real estate markets, TierOne was 
+
+experiencing a significant rise in high-risk problem loans.  
+
+        3.       In June 2008, due to these high-risk problem loans, the United States Office of 
+
+Thrift Supervision (OTS), which oversaw thrift banks like TierOne, directed TierOne to 
+---------------------Page 2---------------------
+
+          8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 2 of 30 - Page ID # 2
+
+maintain elevated core and risk-based capital ratios or face formal enforcement actions. 
+
+Generally speaking, capital ratios are a gauge of a banks financial strength.  A key component 
+
+of these capital ratios was the banks loan losses and losses on real estate repossessed by the 
+
+bank (commonly referred to as other real estate owned or OREO): higher loan and OREO 
+
+losses drove the capital ratios down.  To feign compliance with the new heightened capital 
+
+requirements, Langford and other senior executives began a scheme to manipulate and materially 
+
+understate TierOnes loan and OREO losses.  
+
+       4.     The banks losses were tied, in large part, to the value of the collateral securing 
+
+the problem loans and the value of the OREO properties.  If the value of the collateral dropped 
+
+below the book value of the loan, or if the value of the OREO properties fell, the bank was 
+
+typically required to record and report a loss.  As a key part of the scheme, Langford disregarded 
+
+information showing that the collateral securing certain of TierOnes loans and TierOnes OREO 
+
+was substantially over-valued due to the banks reliance on stale and inadequately discounted 
+
+appraisals.  
+
+       5.     As a result of the scheme, TierOne made material misstatements in several filings 
+
+with the Commission regarding its loan and OREO losses and, in turn, materially understated its 
+
+net losses in those periodic filings. Specifically, TierOne made material misstatements in its 
+
+Form 10-K for the year ended December 31, 2008, its Form 10-Q for the quarter ended March 
+
+31, 2009, and its Form 10-Q for the quarter ended June 30, 2009 (the periodic filings).  The 
+
+misstatements regarding net losses were also included in the related earnings releases in Forms 
+
+8-K filed on February 25, 2009, May 7, 2009, and August 10, 2009.  In addition, TierOne falsely 
+
+reported that it had met or exceeded the OTS-required elevated capital ratios in each of the three 
+
+                                               2 
+ 
+---------------------Page 3---------------------
+
+          8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 3 of 30 - Page ID # 3
+
+periodic filings.  TierOne met those ratios only by understating its losses and thereby overstating 
+
+its reported capital.   
+
+       6.     The full extent of TierOnes loan-related losses did not become publicly known 
+
+until late 2009, after OTS required TierOne to obtain new appraisals for its impaired loans. 
+
+TierOne ultimately disclosed over $130 million of additional loan losses. Had TierOne recorded 
+
+these additional loss provisions in the proper quarters, it would have missed the OTS-required 
+
+capital ratios as of the end of December 31, 2008, and for each quarter thereafter. Following the 
+
+announcements of the additional loss provisions, TierOnes stock price dropped more than 70 
+
+percent.  TierOne eventually filed for bankruptcy shortly after the bank was shut down by OTS 
+
+in June 2010.  
+
+       7.     Through the activities alleged in the Complaint, Langford, directly or indirectly, 
+
+has engaged, and unless enjoined will continue to engage, in violations of Section 10(b) and 
+
+13(b)(5) of the Securities Exchange Act of 1934 (Exchange Act) [15 U.S.C. §§ 78j(b) and 
+
+78m(b)(5)] and Rules 10b-5(a) and (c), 13b2-1, and 13b2-2 [17 C.F.R. §§ 240.10b-5(a) and (c), 
+
+240.13b2-1, and 240.13b2-2].  In addition, Langford aided and abetted TierOnes violations of 
+
+Exchange Act Section 10(b), 13(a), and 13(b)(2)(A), and Rules 10b-5, 12b-20, 13a-1, 13a-11, 
+
+and 13a-13 [15 U.S.C. §§ 78j(b), 78m(a), and 78m(b)(2)(A) and 17 C.F.R. §§ 240.10b-5, 
+
+240.12b-20, 240.13a-1, 240.13a-11, and 240.13a-13]. 
+
+                           II.     JURISDICTION AND VENUE 
+ 
+       8.     The Commission brings this action pursuant to the authority conferred upon it by 
+
+Sections 21(d) and 21(e) of the Exchange Act [15 U.S.C. §§ 78u(d) and 78u(e)] to permanently 
+
+restrain and enjoin Langford from engaging in the acts, practices and courses of business alleged 
+
+in this Complaint, for imposition of civil penalties, and for other relief. 
+
+                                               3 
+ 
+---------------------Page 4---------------------
+
+          8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 4 of 30 - Page ID # 4
+
+       9.     This Court has jurisdiction over this action pursuant to Sections 21(e) and 27 of 
+
+the Exchange Act [15 U.S.C. §§ 78u(e) and 78aa].  
+
+       10.    Langford and others, directly and indirectly, have made use of the means or 
+
+instrumentalities of interstate commerce, of the mails, or of the facilities of a national securities 
+
+exchange, in connection with the transactions, acts, practices, and courses of business alleged 
+
+herein. 
+
+       11.    Venue lies in this Court pursuant to Section 27 of the Exchange Act [15 U.S.C. § 
+
+78aa] because certain of the acts, transactions, practices, and courses of business constituting the 
+
+violations of law alleged herein occurred within the District of Nebraska.  
+
+                     III.    DEFENDANT AND RELEVANT ENTITY 
+ 
+       12.    Don A. Langford, age 61, is a resident of Gibsonia, Pennsylvania. Langford 
+
+served as TierOne Banks chief credit officer and a senior vice president between January 2008 
+
+and June 2010.  
+
+      13.    TierOne Corporation, a Wisconsin corporation, was, at all relevant times, a 
+
+holding company for TierOne Bank, a federally chartered savings bank. Prior to May 7, 2010, 
+
+TierOnes shares were listed on the NASDAQ GS exchange under the stock symbol TONE. 
+
+TierOnes common stock was thereafter quoted on OTC Link (symbol TONEQ), which is 
+
+operated by OTC Markets Group Inc. OTS closed TierOne Bank on June 4, 2010.  The Federal 
+
+Deposit Insurance Corporation (FDIC) was named receiver and Great Western Bank took over 
+
+the banks assets and deposit accounts. TierOne filed for Chapter 7 bankruptcy protection on 
+
+June 24, 2010.  
+
+       
+
+                                              4 
+ 
+---------------------Page 5---------------------
+
+          8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 5 of 30 - Page ID # 5
+
+                                        IV.    FACTS 
+ 
+A.         Background of TierOnes Asset and Capital Problems 
+               
+       14.    Although TierOne had traditionally focused on residential and agricultural loans 
+
+in the Midwest, beginning in approximately 2004, TierOne opened loan production offices 
+
+(LPOs) in several high-growth areas, such as Las Vegas, Florida, and Arizona. A significant 
+
+number of the LPO loans were made to real estate developers in which repayment was 
+
+contingent on the completion and sale or refinancing of the projects.  This strategy made the 
+
+bank particularly vulnerable to the fallout from the financial crisis, as the high-growth areas in 
+
+which TierOne had opened its LPOs were hardest hit by the dramatic fall in real estate prices. By 
+
+at least 2008, a significant number of real estate projects funded by TierOnes LPO loans had 
+
+faltered or were faltering.    
+
+       15.    In June 2008, OTS conducted a periodic exam of TierOne.  The results were 
+
+dramatic: OTS provided the bank with a report describing significant concerns with 
+
+managements performance and with the banks financial condition, asset quality, underwriting 
+
+practices, credit administration practices, and loan loss provisions.  As a result of its findings, 
+
+OTS directed TierOne to maintain higher core and risk-based capital ratios. These heightened 
+
+regulatory capital requirements were ultimately incorporated into a formal Supervisory 
+
+Agreement that OTS imposed on TierOne in January 2009.  
+
+       16.    Complying with the terms of the Supervisory Agreement, including meeting its 
+
+elevated capital requirements, was needed in order to prevent further enforcement actions.  Such 
+
+actions could have included the removal of management or the seizure of the bank. 
+
+       17.    Meeting the OTS-required capital ratios was difficult, and became increasingly 
+
+more difficult, given the banks rising level of non-performing loans.  As detailed below, rather 
+
+                                               5 
+ 
+---------------------Page 6---------------------
+
+          8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 6 of 30 - Page ID # 6
+
+than properly calculating its loan and OREO losses  and facing regulatory sanctions  Langford 
+
+participated in a scheme to manipulate and materially misstate the value of the banks collateral 
+
+and OREO properties.  The purpose of the scheme was to allow the bank to falsely report to OTS 
+
+and the investing public that TierOne had met and was continuing to meet the new, higher, OTS-
+
+mandated capital requirements. 
+
+B.          TierOnes Accounting for ALLL and OREO 
+ 
+       18.    Generally Accepted Accounting Principles, or GAAP, provide that a loan 
+
+becomes impaired when it is probable that the bank will be unable to collect all amounts due 
+
+under the original loan agreement.  In addition, TierOnes written lending policy stated that a 
+
+loan greater than 90 days past due should be considered impaired.  
+
+       19.    Under GAAP, TierOne was required to assess probable losses associated with its 
+
+impaired loans and record those losses in its allowance for loan and lease losses (ALLL).  
+
+GAAP permits the impairment to be measured using the fair value of the underlying collateral if 
+
+the loan is collateral dependent, which is the method that was typically utilized by TierOne.  
+
+       20.    Any increase in ALLL (a balance sheet item) must be accompanied by the 
+
+recording of a provision for loan losses (an income statement item), thereby increasing reported 
+
+loss and further eroding the banks capital, which, in turn, negatively impacted the banks ability 
+
+to meet the OTS-required elevated capital ratios.  
+
+       21.    Some of TierOnes real estate loans were eventually foreclosed upon and the 
+
+underlying collateral became the property of the bank, or OREO. GAAP required TierOne to 
+
+carry OREO on its books at the lower of the propertys book value or fair value, less costs to sell 
+
+the property.  
+
+                                               6 
+ 
+---------------------Page 7---------------------
+
+          8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 7 of 30 - Page ID # 7
+
+       22.     Thus, a key consideration under GAAP regarding the existence and magnitude of 
+
+losses for impaired loans or OREO is the fair value of the collateral or OREO property.  Absent 
+
+an actual sale, a recent appraisal performed by an independent and certified real estate appraiser 
+
+is normally the best evidence of a propertys fair value.  If there is no current appraisal, all 
+
+relevant and current information known at the time must be used.  This information includes: the 
+
+most recent evidence of market declines, broker price opinions, recent comparable sales, internal 
+
+determinations of value, current project status, and offers to purchase or sell.  
+
+       23.     In this case, TierOnes management, including Langford, intentionally delayed 
+
+the process of obtaining current appraisals for properties that had declined in value, relying 
+
+instead on inaccurate data and assumptions. 
+
+       24.     In addition to the GAAP requirements, TierOnes written lending policy 
+
+contained detailed sections describing when new appraisals should be obtained.  For example, 
+
+this policy expressly noted that [i]n a rapidly escalating or deteriorating market  such as the 
+
+one the bank was facing in 2008 and 2009  an appraisal may be valid for only a few months. 
+
+TierOnes lending policy also required new appraisals for loan modifications involving the 
+
+extension of additional credit if the market or property has deteriorated to the point where the 
+
+Banks collateral is threatened.  
+
+       25.     TierOnes lending policy also stated that Langford was, together with TierOnes 
+
+chief appraiser, responsible for the overall appraisal efforts of the bank.  
+
+       26.     As described below, Langford knowingly failed to adhere to these policies. 
+
+       27.     Langford was directly and substantially involved in TierOnes informal 
+
+committee that purported to evaluate the banks impaired and potentially impaired loans, and 
+
+their related loss provisions. The conclusions of the committee were documented in spreadsheets 
+
+                                                7 
+ 
+---------------------Page 8---------------------
+
+          8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 8 of 30 - Page ID # 8
+
+that contained estimates of the value of the collateral underlying the loans and loan impairment 
+
+determinations (the impaired loan templates).  Langford knew that the completed impaired 
+
+loan templates were then provided to TierOnes outside auditor in connection with its annual 
+
+audit and quarterly review test work.  
+
+       28.    Although TierOnes special assets executive, who reported to Langford, prepared 
+
+the initial drafts of the impaired loan templates, Langford had significant input into the ultimate 
+
+estimate of the value of the underlying collateral.  For example, if an appraisal was stale, 
+
+Langford would sometimes apply a discount percentage to the appraised value.  TierOnes 
+
+discounts were seemingly random, unsupported, and, at times, inconsistent with discounts used 
+
+in the same geographic region. 
+
+       29.    Once the informal committee completed its work, a report including the reserves 
+
+for each impaired loan was presented to TierOnes formal Asset Classification Committee, on 
+
+which Langford also sat, for approval. 
+
+       30.    Langford was also a member of TierOnes Sarbanes-Oxley Act of 2002 (SOX) 
+
+302 Certification Disclosure Committee (SOX 302 Committee), which reviewed TierOnes 
+
+periodic filings before they were filed with the Commission.  As part of the SOX 302 Committee 
+
+meetings, each of the members would provide positive assurances that: (1) there was no reason 
+
+to believe that companys internal controls were inadequate to ensure all material information 
+
+was known to TierOnes officers; (2) no one believed the financial statements failed to present 
+
+fairly in all material respects the company results of operations and financial condition; (3) no 
+
+one believed the periodic report contained material misstatements or omissions; and (4) there is 
+
+no other reason why it would be unwise or inappropriate for the certifying officers to swear to 
+
+the disclosures in the periodic report. 
+
+                                               8 
+ 
+---------------------Page 9---------------------
+
+          8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 9 of 30 - Page ID # 9
+
+       31.    Rather than comply with GAAP and the banks own policies, Langford engaged 
+
+in a scheme to manipulate TierOnes loan and OREO loss provisions. 
+
+C.         Langford Engaged in a Scheme to Defraud OTS and TierOnes Investors, and 
+       Aided and Abetted TierOnes Fraud 
+               
+       32.    Between approximately mid-2008 and November 2009 (the relevant period), 
+
+Langford and others knowingly manipulated TierOnes loss provisions primarily by relying on 
+
+stale and inadequately discounted real estate appraisals while ignoring other available 
+
+information that would require write-downs or additional reserves on TierOnes impaired loans 
+
+and OREO.  Langfords conduct included: (1) ignoring new appraisals; (2) failing to obtain 
+
+updated appraisals of collateral and OREO even when observabl  e market conditions established 
+
+that there was substantial deterioration in value since the last appraisal; (3) masking problem 
+
+loans by extending additional credit to establish interest reserves (extend and pretend); and (4) 
+
+failing to properly evaluate loans for impairment. For example: 
+
+       1.           Gemm Homes  
+
+       33.    In January 2008, TierOne foreclosed on a real estate development loan to 
+
+borrower Gemm Homes, taking a partially-improved, but undeveloped, parcel of land in 
+
+Loveland, Colorado into OREO.  A September 2007 appraisal valued the Gemm Homes property 
+
+at $5.1 million.  
+
+       34.    In late June 2008, TierOne was working with its participating lender to list and 
+
+sell the Gemm Homes property.  At this time, Langford was informed of several broker price 
+
+opinions for the property that had an average value of around $3 million.  Langford initially did 
+
+not take issue with these valuations, and seemed interested in disposing of the property.  
+
+                                               9 
+ 
+---------------------Page 10---------------------
+
+        8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 10 of 30 - Page ID # 10
+
+       35.    Just weeks later, however, Langford changed his position, and explicitly linked 
+
+the need to avoid OREO losses from selling the Gemm Homes property to TierOnes capital 
+
+problems.  On July 15, 2008, Langford wrote:  
+
+       [I]f their goal is to get a listing at the $2.5MM that they are hinting is todays 
+       realistic value . . . then we will likely have a no go situation and have to sit on the 
+       [O]REO for some extended number of decades while we scratch our way back to 
+       a surplus capital position. We cant book an asset in January based on a new 
+       appraisal and turn around and sell it out of [O]REO at half the number 6 months 
+       later  we no longer have the luxury of hitting the loan loss reserves  any charge 
+       due to an [O]REO short sale is straight against cash earnings and $2.3MM would 
+       be a very big number for us today.  
+This e-mail was sent less than a week after meeting with OTS representatives regarding 
+
+the banks computation of ALLL. 
+
+       36.    The practical effect of Langfords change in position was to thwart efforts by the 
+
+participating lender to list and sell the Gemm Homes property so that TierOne could delay taking 
+
+the large loss.  
+
+       37.    After months of stalling by TierOne, in October 2008, the participating lender 
+
+proceeded with its own efforts to list the Gemm Homes property and obtained an appraisal that 
+
+showed a property value of $3 million, which was consistent with the June 2008 broker price 
+
+opinions.  
+
+       38.    In early 2009, TierOnes special assets executive learned of the October 2008 
+
+appraisal regarding the Gemm Homes property.  After he informed Langford of the new 
+
+appraisal, Langford told the special assets executive that he did not believe the value in the new 
+
+appraisal and that he should string the participating lender along. 
+
+       39.    In March 2009, the special assets executive had the October 2008 appraisal on the 
+
+Gemm Homes property reviewed by TierOnes internal chief appraiser.  In an email dated March 
+
+4, 2009, the chief appraiser stated: Its apparent the 2008 appraisal reflects a more conservative 
+
+                                               10 
+ 
+---------------------Page 11---------------------
+
+        8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 11 of 30 - Page ID # 11
+
+forecast than the 2007 appraisal, which is understandable given the economic events of the past 
+
+year. The special assets executive forwarded this email to Langford, yet Langford continued to 
+
+disregard the appraisal. 
+
+       40.    In May 2009, the participating lender wrote a letter to the special assets executive 
+
+demanding that TierOne respond to its proposal to market and sell the Gemm Homes property in 
+
+the $3 million range.  
+
+       41.    In an email dated May 21, 2009, the special assets executive summarized the 
+
+Gemm Homes situation to Langford:  
+
+       The [Gemm Homes] appraisal was delivered to [TierOne] in the 4   th
+                                                                          quarter of 
+       2008, and [TierOne] chose to not accept this appraisal, as it would have resulted 
+       in a $1.8MM additional write-down. . . . [The participating lender] has been 
+       insisting on listing the property for something in the $3MM range, and after 
+       discussing this matter with Management, TOB elected not to list the property at 
+       the recommended $3MM amount, as it would have also triggered the required 
+       $1.8MM write-down. . . . [O]ur refusal to accept the updated appraisal and market 
+       the [Gemm Homes] property is imprudent. 
+       42.    Notwithstanding this information, Langford continued to disregard the special 
+
+asset executives recommendation to write-down the Gemm Homes property.  
+
+       43.    Instead, Langford approved TierOnes purchase of the participating banks 
+
+interest in the transaction, even though it was apparent TierOne would ultimately incur a sizeable 
+
+loss. This acquisition effectively covered up TierOnes improper failure to write-down the 
+
+Gemm Homes property, and ensured that TierOne could control when and if a write-down 
+
+occurred. 
+
+       44.    TierOne did not book the appropriate $1.8 million OREO loss provision for 
+
+Gemm Homes during the relevant period.  Nor did Langford inform TierOnes accounting staff 
+
+or outside auditor of the October 2008 appraisal or the similar broker price opinions.  
+
+                                              11 
+ 
+---------------------Page 12---------------------
+
+        8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 12 of 30 - Page ID # 12
+
+       45.    After OTS was alerted to issues with TierOnes use of stale appraisals to 
+
+understate its loss provisions, Langford attempted to conceal his misconduct in connection with 
+
+Gemm Homes. For example, Langford falsely claimed, in a memo to TierOnes internal audit 
+
+department, that he had no knowledge of the October 2008 appraisal.  In addition, Langford 
+
+falsely told TierOnes controller that the appraisal had been rejected because the appraiser had 
+
+missed infrastructure improvements because of snow on the property.  However, the photos 
+
+accompanying the appraisal reflect that there was no snow on the property when the appraiser 
+
+inspected it.  
+
+       2. Irishstone 
+
+       46.    Gemm Homes was not the first time TierOnes special assets executive had 
+
+witnessed Langford disregard a new appraisal. In the fall of 2008, shortly after the special assets 
+
+executive began work at the bank, one of his subordinates requested approval to order a new 
+
+appraisal on a Nebraska OREO property called Irishstone.  The special assets executive gave 
+
+approval, the appraisal was ordered, and, when received, showed that an OREO loss provision of 
+
+approximately $800,000 should have been taken by the bank. 
+
+       47.     Langford became furious when he discovered this new appraisal had been 
+
+ordered without his prior knowledge, going so far as to instruct the special assets executive to 
+
+fire the employee who Langford believed had ordered the appraisal.  As with the Gemm Homes 
+
+property, Langford disregarded the Irishstone appraisal. No new appraisal was obtained, and no 
+
+write-down was taken on the property during the relevant period. 
+
+       3. Escapa Loans 
+
+       48.    TierOne made a series of loans, totaling in the millions of dollars, to Las Vegas 
+
+developer Carlos Escapa.  By at least early 2008, these loans were impaired.  
+
+                                               12 
+ 
+---------------------Page 13---------------------
+
+        8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 13 of 30 - Page ID # 13
+
+       49.    By September 2008, the value of the collateral supporting the loans had further 
+
+declined. For example, on September 11, 2008, TierOnes workout consultant in Las Vegas sent 
+
+an email to Langford asking if he could accept offers on one of the Escapa properties for 
+
+approximately 36 percent of the book value. Langford responded:  
+
+       Though I have no doubt your take on the market is accurate in todays 
+       circumstances I will unofficially predict the chances of us moving forward to 
+       consummate a sale below a price of more like $140-150K/lot as being near zero  
+       maybe even ground zero and digging.  We have a 2008 appraisal which would 
+       allow us to book into [O]REO and hold at our current reserved position and thats 
+       all we can afford until we earn our way out.  
+       50.    On September 19, 2008, the Las Vegas workout consultant sent an email to 
+
+Langford with his written estimates of the value of the collateral for several Escapa loans.  These 
+
+estimates showed millions of dollars of losses within the Escapa portfolio as compared to the 
+
+amounts TierOne had on its books.  
+
+       51.    Although Langford knew of significant deterioration in the value of the Escapa 
+
+collateral, he did not order new appraisals for the Escapa properties, nor did he take into 
+
+consideration the Las Vegas workout consultants estimates in preparing the impaired loan 
+
+templates for the Escapa loans. Instead, Langford used the same stale collateral values from 
+
+March 2008. As a result, TierOnes loss provisions associated with the Escapa loans were 
+
+understated by millions of dollars. 
+
+       52.    Langford also failed to inform TierOnes accounting staff or outside auditor of the 
+
+Las Vegas workout consultants estimates.  
+
+       4.           Towne Vistas Loan 
+
+       53.    Towne Vistas was a large condominium project in Las Vegas financed by a $32.3 
+
+million loan from TierOne. It was one of the largest loans at the bank.  
+
+                                               13 
+ 
+---------------------Page 14---------------------
+
+        8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 14 of 30 - Page ID # 14
+
+       54.    By the summer of 2008, Langford knew the Towne Vista project was faltering 
+
+and that the collateral backing the loan was inadequate.  In an update email dated July 9, 2008, 
+
+he wrote: [W]e extended [the Towne Vistas loan] to November maturity but well need a new 
+
+appraisal to go past November and that appraisal will undoubtedly show us as being wildly 
+
+deficient on collateral since there will still be no sales to show.  
+
+       55.    Whats more, before TierOne filed its Form 10-Q for its first quarter of 2009, 
+
+TierOnes Las Vegas workout consultant informed Langford that the project was likely worth 
+
+only $15 million, or half the loan amount.  Langford, however, did not order a new appraisal or 
+
+otherwise re-evaluate the collateral value supporting the loan.  Instead, the impaired loan 
+
+template for the first quarter of 2009 was based on a stale, undiscounted 2005 appraisal showing 
+
+a value of $46.5 million.  
+
+       56.    In mid-June 2009, Langford was informed that the $15 million value for the 
+
+Towne Vistas project was based on a residential appraisal recently obtained by the borrower on a 
+
+finished condo unit in the project.  Once again, Langford did not order a new appraisal or 
+
+otherwise re-evaluate the collateral value supporting the loan. And once again, the stale, 
+
+undiscounted 2005 appraisal was used for purposes of the impaired loan template for the second 
+
+quarter of 2009.  
+
+       57.   Had TierOne used all available information to value the Towne Vistas collateral, it 
+
+should have recognized millions of dollars of additional loan loss provisions relating to the Town 
+
+Vistas loan. 
+
+       58.   Langford also failed to inform TierOnes accounting staff or outside auditor of the 
+
+Las Vegas workout consultants estimates or the newly-obtained residential appraisal. 
+
+        
+
+                                               14 
+ 
+---------------------Page 15---------------------
+
+        8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 15 of 30 - Page ID # 15
+
+       5. Brother Sonny/Jericho          Loans 
+
+       59.    Brother Sonny was a real estate development project in Las Vegas financed by a 
+
+$17.5 million loan from TierOne.  The loan was supported by a November 2006 appraisal 
+
+showing the real estate was worth $23.5 million, if completed.  
+
+       60.    By September 2008, the Brother Sonny loan was over 90 days delinquent and 
+
+millions were owed to various project vendors.  These factors should have caused the loan to be 
+
+deemed impaired under GAAP.  Instead, TierOne extended an additional $13.6 million in credit 
+
+purportedly supported by a second lien position in a separate piece of real estate collateral called 
+
+Jericho. In an email dated August 28, 2008, Langford wrote: I am totally bewildered that 
+
+[Jericho] could ever be worth/appraised for numbers even half of what were being told its 
+
+worth.  
+
+       61.    Langford did not obtain appraisals for the Brother Sonny and Jericho collateral 
+
+when he approved the loan modification in early September 2008, even though TierOnes own 
+
+lending policy required the new appraisals, real estate values in Las Vegas had plummeted, and 
+
+the loan, as modified, would be among TierOnes largest. Instead, the loan modification 
+
+recommendation relied on the stale 2006 appraisal for the Brother Sonny property and an 
+
+unsigned, expired letter of intent from a third party to purchase the Jericho parcel.  As a result, 
+
+Langford masked the Brother Sonny delinquency so that the loan would be treated as a 
+
+performing rather than impaired.  
+
+       62.    Indeed, Langford acknowledged the extend and pretend scenario for the Brother 
+
+Sonny/Jericho loan in an email dated September 11, 2008: 
+
+       If we continue to fix our Vegas problems as in [Towne Vistas] and [Brother 
+       Sonny/Jericho] by doubling up rather than throwing them out of the Bank we may 
+       need to revisit hiring someone to live in Vegas and manage the portfolio for the 
+       next many years.  
+
+                                              15 
+ 
+---------------------Page 16---------------------
+
+        8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 16 of 30 - Page ID # 16
+
+       63.    In January 2009, before the Form 10-K for 2008 was filed, Langford also 
+
+understood that TierOnes second lien position on the Jericho property was essentially worthless. 
+
+Specifically, Langford knew that the FDIC had obtained three appraisals on the property valuing 
+
+it at around $10 million, well short of the FDICs $17 million priority lien on the Jericho 
+
+property.  
+
+       64.    Despite this knowledge, Langford continued to rely on stale, undiscounted 
+
+appraisals, and did not take the FDIC appraisals into account, in the impaired loan templates for 
+
+the fourth quarter of 2008 and afterwards.  
+
+       65.    No impairment charge was taken during the relevant period, and TierOne 
+
+understated its loan loss provision on the Brother Sonny/Jericho loan by millions of dollars. 
+
+       66.   Langford also failed to inform TierOnes accounting staff or outside auditor of the 
+
+FDIC appraisals on the Jericho property.  
+
+       6.           Mansions at Canyon Creek Loans 
+
+       67.    Mansions at Canyon Creek (Mansions) was a condominium project in Kansas 
+
+financed by $23.7 million in loans from TierOne.  
+
+       68.    In June 2008, in response to OTSs general observation that Mansions might be 
+
+an impaired credit, Langford agreed with OTSs recommendation to get a new appraisal when 
+
+the loan matured in October 2008.  But contrary to Langfords promise, no appraisal was 
+
+obtained when the loan matured.  Instead, when the interest reserves ran out, TierOne lowered 
+
+the interest burden on the loans, but the borrower was still unable to make timely interest 
+
+payments.  
+
+       69.    By March 2009, the Mansions loans were in default and reported as over 90 days 
+
+delinquent on the quarterly delinquency reports that Langford received on April 8, 2009.  That 
+
+                                               16 
+ 
+---------------------Page 17---------------------
+
+        8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 17 of 30 - Page ID # 17
+
+same day, TierOnes special assets executive prepared and delivered to Langford an impaired 
+
+loan template for the first quarter of 2009 recommending a multi-million dollar additional loss 
+
+provision for Mansions.  Two days later, TierOne received a partial interest payment from 
+
+Mansions that was retroactively applied to improperly move Mansions out of the 90 day 
+
+delinquency category on the final delinquency report, which was sent to Langford on April 21, 
+
+2009. Around the same time, the Mansions loans were inappropriately deemed not impaired 
+
+and the impaired loan template for Mansions was removed from the final package of templates 
+
+provided to TierOnes external auditor. 
+
+       70.    In the second quarter of 2009, Langford approved TierOnes formal forbearance 
+
+agreement with Mansions, which again lowered the interest burden.  Despite this effort, the loans 
+
+remained in default and over 90 days delinquent by the end of June.  As such, they were listed on 
+
+TierOnes impaired loan listing report for June 30, 2009, and the special assets executive 
+
+prepared another impaired loan template showing the delinquency and recommending a $5.8 
+
+million charge-off.  This document was provided to Langford in July 2009, along with the other 
+
+second quarter impaired loan templates.  Langford overruled the impairment determination, 
+
+despite the banks lending policy deeming 90-day overdue loans impaired.  The Mansions 
+
+impairment loan template was deleted from the final package of templates provided to TierOnes 
+
+external auditor.  
+
+       71.    Around this time, Langford also told TierOnes special assets executive that he 
+
+knew the Mansions loans were impaired, but TierOne could not afford the losses that would 
+
+result from that determination.  
+
+       72.    Had TierOne used all available information, it would have recorded millions of 
+
+dollars of additional loss provisions for the Mansions loans.  
+
+                                              17 
+ 
+---------------------Page 18---------------------
+
+        8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 18 of 30 - Page ID # 18
+
+       73.    By end of June 2009, TierOne had only approximately $510,000 in excess core 
+
+capital, and its core capital ratio was met by a mere one one-hundredth of a percent.  The 
+
+Mansions impairment, standing alone, would have caused TierOne to miss its OTS-mandated 
+
+capital ratios for the second quarter of 2009, and thus to violate the Supervisory Agreement. 
+
+Violation would have subjected the bank to serious sanctions, including possible seizure, by 
+
+OTS. 
+
+       74.    In August 2009, OTS returned to TierOne for a pre-exam field visit.  OTS 
+
+examiners focused on reviewing TierOnes acquisition and development loans, including the 
+
+Mansions loans. During the field visit, TierOnes special assets executive provided the OTS 
+
+examiners with the second quarter impaired loan template showing that the Mansions loans 
+
+needed a $5.8 million charge-off that was not recorded.  Based on this information, OTS directed 
+
+TierOne to take an appropriate charge-off based on a newly ordered appraisal. 
+
+       75.     Around the time of the OTS visit, Langford, in another attempt to cover up his 
+
+misconduct, sent TierOnes internal audit department head an email falsely claiming that he did 
+
+not see the second quarter impaired loan template for Mansions before August 20, 2009, a 
+
+position that was later incorporated into the banks formal response to OTS regarding Mansions.  
+
+       7.           Langford Repeatedly Received Information Showing TierOnes Material 
+              Understatement of Loss Provisions 
+ 
+       76.    In addition to his involvement in specific valuation decisions discussed above, 
+
+Langford was aware of the accounting improprieties that occurred at TierOne through repeated 
+
+emails and reports that he received. 
+
+       77.    For example, on February 18, 2009, prior to the filing of TierOnes Form 10-K 
+
+for the year ended December 31, 2008, Langford received an email from TierOnes special assets 
+
+executive that stated, among other things:  
+
+                                              18 
+ 
+---------------------Page 19---------------------
+
+        8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 19 of 30 - Page ID # 19
+
+       Im not sure how to address these issues, but I remain concerned that we continue 
+       to expose ourselves adversely on both the [ALLL] analysis and our OREO 
+       properties with out-dated appraisals.  I understand the write-downs we would 
+       experience would likely be astronomical, but in good conscience how long can we 
+       continue to believe these are properly reserved?  
+The email went on to list many loans and OREO (including Gemm Homes) that had stale 
+
+appraisals.  
+
+       78.    Langford ignored this February 18, 2009 email and did not share this information 
+
+with TierOnes accounting staff or outside auditor.  He also failed to raise the issue during the 
+
+SOX 302 Committee meeting on March 10, 2009. 
+
+       79.    In early 2009, TierOnes chief executive officer requested an analysis of the 
+
+losses within TierOnes loan portfolio.  Langford and others, using information known at the 
+
+time, conducted what was, in substance, a loan reserve analysis. Langford summarized the 
+
+findings in an email dated February 17, 2009, in which he stated:  
+
+       [I] spent the day estimating loss potential by location and loan type and without a 
+       clear explanation of the purpose of the exercise  so, completely in the dark as to 
+       the reasons for the drill, we concluded that we needed another $65[million] of 
+       reserves over and above those currently allocated.  
+       80.    Around mid-April 2009, the chief executive officer requested a more detailed 
+
+breakdown of the anticipated loan losses.  At a series of meetings, Langford and others estimated 
+
+the embedded losses on a loan-by-loan basis and documented their conclusions in a spreadsheet 
+
+that was eventually presented to TierOnes chief executive officer and chief operating officer. 
+
+This analysis (the Best/Worst Case Scenario) contained estimates of losses associated with 
+
+over 120 properties/loans, many located in Las Vegas, and showed that TierOne needed 
+
+additional loan loss provisions ranging between $36 million (best case), $60 million (expected 
+
+case), and $114 million (worst case).  
+
+                                               19 
+ 
+---------------------Page 20---------------------
+
+        8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 20 of 30 - Page ID # 20
+
+       81.     As shown in the following chart, the example loans discussed above in paragraphs 
+
+48 through 75 were estimated to have multi-million dollar losses within the Best/Worst Case 
+
+Scenario that, standing alone, would have caused TierOne to miss the OTS-mandated capital 
+
+ratios: 
+
+                                                   Best/Worst Case Scenario 
+Loan                                     Best                 Expected               Worst 
+Escapa                                     $5,760,000                      $7,980,000                $10,200,000
+Brother Sonny/Jericho                                0                     0                $13,000,000
+Towne Vistas                               $5,000,000                    $10,000,000                $20,000,000
+Mansions $5,000,000                      $5,000,000                                  $12,000,000
+TOTAL $15,760,000                    $22,980,000                                     $55,250,000
+
+       82.     The Best/Worst Case Scenario was not, however, used by Langford in preparing 
+
+the impaired loan templates or to develop the ALLL and associated loan loss provisions 
+
+approved by him and reported in the companys periodic filings for the first or second quarters of 
+
+2009.  Nor was the Best/Worst Case Scenario shared with TierOnes accounting staff or outside 
+
+auditor.  In fact, TierOnes outside auditor ultimately resigned from the TierOne engagement in 
+
+April 2010 after it discovered the existence of the Best/Worst Case Scenario and that it had been 
+
+withheld. 
+
+       83.     In early August 2009, just a week before TierOne filed its Form 10-Q for the 
+
+second quarter of 2009, Langford received a memorandum drafted by TierOnes special assets 
+
+executive. The memo detailed TierOnes continued reliance on stale appraisals and failure to 
+
+book appropriate loan and OREO loss provisions.  The memo stated, among other things: 
+
+               a.        I remain convinced that we continue to fail to properly risk rate our loans 
+
+               and we refuse to update collateral valuations, out of the fear of what impact these 
+
+               actions may have on reserve levels. 
+
+                                               20 
+ 
+---------------------Page 21---------------------
+
+        8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 21 of 30 - Page ID # 21
+
+               b.        I am concerned that we are misleading the public.  All this compounded 
+
+               by the fact that we are basing so much off of significantly aged collateral 
+
+               valuations.  
+
+               c.        I fully comprehend the impact updating collateral valuations on both our 
+
+               watch credits and our OREO properties will have on the organization.  
+
+               d.        I am unable to support the timing of reappraisals to delay loss recognition 
+
+               or increases to the reserves into later quarters. 
+
+       84.     As with the February 18, 2009 email, no action was taken to correct the loan and 
+
+OREO losses in TierOnes financial statements.  Nor was the August 3, 2009 memo forwarded 
+
+to TierOnes accounting staff or outside auditor.  Moreover, Langford did not mention the memo 
+
+at the SOX 302 Committee meeting that took place just three days later, when he provided 
+
+positive assurances that no one believed that the financial statements contained material 
+
+misstatements or omissions.  
+
+D.         Langford Acknowledged He Was Aware of the Scheme 
+
+       85.     Langford exchanged numerous emails with TierOnes Las Vegas workout 
+
+consultant that make plain Langfords awareness that he and others at the bank were improperly 
+
+deferring losses.  For example: 
+
+             a.              On April 7, 2009, Langford wrote that he would love to have [TierOnes 
+
+             president and chief executive officer] start acting like ethical intelligent adults and 
+
+             take action to save the bank instead of hiding the ball from stockholders and 
+
+             regulators. 
+
+               b.           The next day, Langford explained: My belief is that [TierOnes 
+
+               president] is totally aware of the irrational position he is displaying but that he is 
+
+                                               21 
+ 
+---------------------Page 22---------------------
+
+        8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 22 of 30 - Page ID # 22
+
+               concerned about the recognition of charge-offs in Vegas because he is so indelibly 
+
+               linked to all of our exposure there.  Any bad news will be associated with him and 
+
+               I think he is trying desperately to forestall his dismissal and the resultant loss of a 
+
+               paycheck  not an illogical motive. 
+
+               c.           On April 9, 2009, Langford acknowledged that TierOnes president 
+
+               wont sell Vegas because hes told [TierOnes chief executive officer that] 
+
+               Vegas will come back first and the losses currently in the works can be avoided 
+
+               with a little patience. 
+
+               d.           The next month, on May 8, 2009, Langford sent an email to the Las Vegas 
+
+               workout consultant expressing hope that foreclosure and a new appraisal on a Las 
+
+               Vegas property could be pushed into the next quarter, to which the Las Vegas 
+
+               workout consultant responded: Id like to be wrong but frankly, you should just 
+
+               board them up and wait for better times.  Youre just hiding the loss.  
+
+                     e.           Four days later, Langford stated: Ive been telling people around here for 
+
+               months now that this unwillingness/inability to admit to what appears to be reality 
+
+               must come to an end with new appraisals in hand before the regulators show up in 
+
+               October.   The Las Vegas workout consultant responded: As youve pointed out 
+
+               numerous times, the next round of appraisals are going to be killer for you, and 
+
+               not in a good way. 
+
+       86.     Given Langfords knowledge of the value of the collateral underlying TierOnes 
+
+impaired loans and its OREO properties, detailed above, Langford did not honestly believe the 
+
+values he used in developing the impaired loan templates, or the ALLL and associated loan loss 
+
+provisions. 
+
+                                               22 
+ 
+---------------------Page 23---------------------
+
+        8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 23 of 30 - Page ID # 23
+
+E.          The Scheme Was Exposed in the Third Quarter of 2009 
+
+       87.    In August 2009, OTS directed TierOne to obtain updated appraisals. The new 
+
+appraisals revealed the actual values of TierOnes collateral for impaired loans and OREO. On 
+
+October 14, 2009, TierOne filed a Form 8-K reporting an additional $13.9 million in loan loss 
+
+provisions for the second quarter of 2009.  TierOne also announced that it intended to restate its 
+
+second quarter 2009 financial statements, and that the banks capital ratios would fall below the 
+
+levels required by OTS. In the days following this news, TierOnes stock price fell over 17 
+
+percent. 
+
+       88.    The situation worsened as more OTS-mandated appraisals came in. On November 
+
+10, 2009, TierOne filed another Form 8-K reporting a loan loss provision of $120.2 million for 
+
+the third quarter of 2009.  TierOnes stock price dropped a further 54 percent over the next three 
+
+trading days.  
+
+       89.    TierOne was shut down by OTS on June 4, 2010, and filed for bankruptcy later 
+
+that month.  
+
+F.          Langfords Participation in the Scheme Resulted in Materially False Statements in 
+       TierOnes Periodic Filings with the Commission 
+       
+       90.    As a result of the scheme to defraud, TierOnes periodic filings with the 
+
+Commission (and related earnings releases) were materially false.  
+
+       91.    Each of TierOnes periodic filings at issue reported that TierOne was in 
+
+compliance with its elevated regulatory capital requirements. In particular, the filings stated as 
+
+follows: 
+
+              a.       Form 10-K (filed 3/13/09):  
+
+       We are subject to various regulatory capital requirements administered by federal 
+       banking agencies.  Failure to meet minimum capital requirements can initiate 
+       certain mandatory and possibly additional discretionary actions by regulators that, 
+       if undertaken, could have a direct material adverse effect on our financial 
+
+                                               23 
+ 
+---------------------Page 24---------------------
+
+        8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 24 of 30 - Page ID # 24
+
+       condition and results of operations . . . . [T]he OTS has required that the Bank 
+       maintain a ratio of 11.0% (as opposed to 10.0%) with respect to total risk-based 
+       capital to risk-weighted assets and a ratio of 8.5% (as opposed to 5.0%) with 
+       respect to core (Tier 1) capital.  As of December 31, 2008, the Bank exceeded 
+       these elevated ratios mandated by the OTS.  
+               b.       Form 10-Q (filed 5/8/09): 
+
+       [T]he OTS has required that the Bank maintain a ratio of 11.0% with respect to 
+       total risk-based capital to risk-weighted assets and a ratio of 8.5% with respect to 
+       core (Tier 1) capital.  As of March 31, 2009, the Bank exceeded these elevated 
+       ratios mandated by the OTS.  
+               c.       Form 10-Q (filed 8/10/09): 
+
+       [T]he OTS has required that the Bank maintain a ratio of 11.0% with respect to 
+       total risk-based capital to risk-weighted assets and a ratio of 8.5% with respect to 
+       core (Tier 1) capital.  As of June 30, 2009, the Bank met or exceeded these 
+       elevated ratios mandated by the OTS.  
+       92.     Had TierOne recorded appropriate loss provisions for each quarter at issue, it 
+
+would have fallen below its required capital ratios from at least the period ending December 31, 
+
+2008.  Thus, all of these periodic filings contained materially false disclosures concerning 
+
+TierOnes regulatory compliance. 
+
+       93.     In addition, TierOnes periodic filings contained the following loan loss 
+
+provisions and net losses that materially understated  by millions  the amounts required by 
+
+GAAP: 
+
+               a.       TierOnes Form 10-K for the year ended December 31, 2008, and its 
+
+               February 25, 2009 Form 8-K, reported provisions for loan losses of $84.4 million 
+
+               for the year and a net loss before income taxes of $93.3 million for the year.   
+
+               b.       TierOnes Form 10-Q for the quarter ended March 31, 2009, and the May 7, 
+
+               2009 Form 8-K, reported provisions for loan losses of $12.2 million and a net loss 
+
+               before income taxes of $9.8 million.  
+
+                                               24 
+ 
+---------------------Page 25---------------------
+
+        8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 25 of 30 - Page ID # 25
+
+              c.        TierOnes Form 10-Q for the quarter ended June 30, 2009 and its August 
+
+              10, 2009 Form 8-K, reported provisions for loan losses of $21.7 million and a net 
+
+              loss before income taxes of $16.1 million.  
+
+G.         Langford Circumvented TierOnes Accounting Controls and Caused TierOnes 
+       Accounting Records to Be Falsified 
+ 
+       94.    Langford falsified TierOnes impaired loan templates when he failed to include 
+
+information he knew about the true value of the collateral underlying the impaired loans.  
+
+Additionally, Langford approved the banks reported ALLL even though he had information 
+
+indicating that TierOnes impaired loan portfolio had significant undisclosed losses and was 
+
+grossly under-reserved.  
+
+       95.    Langford knowingly circumvented TierOnes accounting controls by failing to 
+
+inform the banks accounting staff of information showing that TierOne had not taken adequate 
+
+loan and OREO loss provisions.  
+
+       96.    Finally, Langford knowingly failed to adhere to TierOnes lending policy, which 
+
+adversely impacted TierOnes financial reporting.  
+
+H.         Langford Deceived TierOnes Auditor 
+ 
+       97.    To further advance the scheme to defraud, Langford knowingly made false 
+
+representations to TierOnes outside auditor.  
+
+       98.    Langford misled TierOnes auditor regarding TierOnes loss provisions by, 
+
+among other things, falsifying the impaired loan templates, which were provided to the auditor, 
+
+failing to inform the auditor of appraisals and other valuation information that demonstrated 
+
+significant declines in the collateral underlying the banks impaired loans, and withholding the 
+
+Best/Worst Case Scenario analysis.  
+
+                                              25 
+ 
+---------------------Page 26---------------------
+
+        8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 26 of 30 - Page ID # 26
+
+                               V.     CLAIMS FOR RELIEF 
+ 
+                                FIRST CLAIM FOR RELIEF 
+              Fraud - Section 10(b) of the Exchange Act and Rule 10b-5(a) and (c) 
+                   [15 U.S.C. § 78j(b) and 17 C.F.R. § 240.10b-5(a) and (c)] 
+                                                
+       99.    Paragraphs 1 through 98 are hereby realleged and incorporated by reference. 
+
+       100.   Defendant, directly or indirectly, with scienter, in connection with the purchase or 
+
+sale of securities, by use of the means or instrumentalities of interstate commerce or by use of the 
+
+mails, employed devices, schemes, or artifices to defraud; or engaged in acts, practices, or 
+
+courses of business which operated or would operate as a fraud or deceit upon any person. 
+
+       101.   By reason of the foregoing, Defendant violated, and unless restrained and 
+
+enjoined will in the future violate, Section 10(b) of the Exchange Act and Rule 10b-5(a) and (c). 
+
+                              SECOND CLAIM FOR RELIEF 
+        Aiding and Abetting Fraud - Section 10(b) of the Exchange Act and Rule 10b-5 
+                        [15 U.S.C. § 78j(b) and 17 C.F.R. § 240.10b-5] 
+                                                
+       102.   Paragraphs 1 through 98 are hereby realleged and incorporated by reference. 
+
+       103.   TierOne, through the acts and omissions of its officers, directly or indirectly, with 
+
+scienter, in connection with the purchase or sale of securities, by use of the means or 
+
+instrumentalities of interstate commerce or by use of the mails, employed devices, schemes, or 
+
+artifices to defraud; made untrue statements of material fact or omitted to state material facts 
+
+necessary in order to make the statements made, in light of the circumstances under which they 
+
+were made, not misleading; or engaged in acts, practices, or courses of business which operated 
+
+or would operate as a fraud or deceit upon any person. 
+
+       104.   Defendant aided and abetted TierOne, in that he, with knowledge of the primary 
+
+violations by TierOne, provided substantial assistance to TierOne in the commission of its 
+
+violations of Section 10(b) of the Exchange Act and Rule 10b-5.  
+
+                                              26 
+ 
+---------------------Page 27---------------------
+
+        8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 27 of 30 - Page ID # 27
+
+       105.   By reason of the foregoing, Defendant aided and abetted, and unless restrained 
+
+and enjoined will in the future aid and abet, violations of Section 10(b) of the Exchange Act and 
+
+Rule 10b-5.  
+
+                               THIRD CLAIM FOR RELIEF 
+            Circumvention of Internal Controls and Falsified Books and Records   
+                             Section 13(b)(5) of the Exchange Act  
+                                   [15 U.S.C. § 78m(b)(5)] 
+                                                
+       106.   Paragraphs 1 through 98 are hereby realleged and incorporated by reference. 
+
+       107.   Defendant knowingly circumvented a system of internal accounting controls or 
+
+knowingly falsified books, records, or accounts of TierOne. 
+
+       108.   By reason of the foregoing, Defendant violated, and unless restrained and 
+
+enjoined will in the future violate, Section 13(b)(5) of the Exchange Act. 
+
+                             FOURTH CLAIM FOR RELIEF 
+                   Falsified Books and Records - Exchange Act Rule 13b2-1 
+                                  [17 C.F.R. § 240.13b2-1] 
+                                                
+       109.   Paragraphs 1 through 98 are hereby realleged and incorporated by reference. 
+
+       110.   Defendant, directly or indirectly, falsified or caused to be falsified books, records, 
+
+or accounts of TierOne. 
+
+       111.   By reason of the foregoing, Defendant violated, and unless restrained and 
+
+enjoined will in the future violate, Exchange Act Rule 13b2-1. 
+
+                               FIFTH CLAIM FOR RELIEF 
+                    Deceit of Auditors - Rule 13b2-2 of the Exchange Act 
+                                  [17 C.F.R. § 240.13b2-2] 
+                                                
+       112.   Paragraphs 1 through 98 are hereby realleged and incorporated by reference.  
+
+       113.   Defendant made or caused to be made materially false or misleading statements to 
+
+an accountant in connection with audits, reviews, or examinations of TierOnes financial 
+
+statements or in the preparation or filing of TierOne documents or reports required to be filed 
+
+                                              27 
+ 
+---------------------Page 28---------------------
+
+        8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 28 of 30 - Page ID # 28
+
+with the Commission; or omitted to state, or caused another person to omit to state, material facts 
+
+necessary in order to make statements made, in light of the circumstances under which such 
+
+statements were made, not misleading, to an accountant in connection with audits, reviews, or 
+
+examinations of TierOnes financial statements or in the preparation or filing of TierOne 
+
+documents or reports required to be filed with the Commission. 
+
+       114.   By reason of the foregoing, Defendant violated, and unless restrained and 
+
+enjoined will in the future violate, Exchange Act Rule 13b2-2. 
+
+                               SIXTH CLAIM FOR RELIEF 
+          Aiding and Abetting False SEC Filings - Section 13(a) of the Exchange Act 
+                         and Rules 12b-20, 13a-1, 13a-11, and 13a-13 
+  [15 U.S.C. § 78m(a) and 17 C.F.R. §§ 240.12b-20, 240.13a-1, 240.13a-11, and 240.13a-13] 
+                                                 
+       115.   Paragraphs 1 through 98 are hereby realleged and incorporated by reference. 
+
+       116.   TierOne, an issuer of securities registered pursuant to Section 12 of the Exchange 
+
+Act, filed materially false and misleading annual, quarterly and current reports with the 
+
+Commission that made untrue statements of material fact or omitted to state material facts 
+
+necessary in order to make the statements made, in light of the circumstances under which they 
+
+were made, not misleading, in violation of Section 13(a) of the Exchange Act and Rules 12b-20, 
+
+13a-1, 13a-11, and 13a-13.  
+
+       117.   Defendant aided and abetted TierOne, in that he, with knowledge of the primary 
+
+violations by TierOne, provided substantial assistance to TierOne in the commission of its 
+
+violations of Section 13(a) of the Exchange Act and Rules 12b-20, 13a-1, 13a-11, and 13a-13.  
+
+       118.   By reason of the foregoing, Defendant aided and abetted, and unless restrained 
+
+and enjoined will in the future aid and abet, violations of Section 13(a) of the Exchange Act and 
+
+Rules 12b-20, 13a-1, 13a-11, and 13a-13.  
+
+        
+
+                                              28 
+ 
+---------------------Page 29---------------------
+
+        8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 29 of 30 - Page ID # 29
+
+                              SEVENTH CLAIM FOR RELIEF 
+   Aiding and Abetting False Books and Records  Section 13(b)(2)(A) of the Exchange Act 
+                                  [15 U.S.C. § 78m(b)(2)(A)] 
+                                                 
+       119.   Paragraphs 1 through 98 are hereby realleged and incorporated by reference. 
+
+       120.   TierOne, an issuer of securities registered pursuant to Section 12 of the Exchange 
+
+Act, failed to make and keep books, records, and accounts, which, in reasonable detail, 
+
+accurately and fairly reflected the companys transactions and dispositions of its assets in 
+
+violation of Section 13(b)(2) of the Exchange Act.  
+
+       121.   Defendant aided and abetted TierOne, in that he, with knowledge of the primary 
+
+violations by TierOne, provided substantial assistance to TierOne in the commission of its 
+
+violations of Section 13(b)(2) of the Exchange Act.  
+
+       122.    By reason of the foregoing, Defendant aided and abetted, and unless restrained 
+
+and enjoined will in the future aid and abet, violations of Section 13(b)(2) of the Exchange Act. 
+
+                               VI.    PRAYER FOR RELIEF 
+ 
+              WHEREFORE, the Commission respectfully requests that the Court: 
+
+                                               I. 
+
+              Find that Defendant committed the violations alleged. 
+
+                                               II. 
+
+              Enter injunctive relief permanently restraining and enjoining Defendant from, directly or 
+
+indirectly to the full extent provided by Rule 65(d) of the Federal Rules of Civil Procedure, 
+
+violating the provisions of law and rules alleged in this Complaint. 
+
+                                              III. 
+
+              Enter an Order directing Defendant to pay civil money penalties pursuant to Section 
+
+21(d) of the Exchange Act.  
+
+                                               29 
+ 
+---------------------Page 30---------------------
+
+             8:12-cv-00344   Doc # 1   Filed: 09/25/12   Page 30 of 30 - Page ID # 30
+
+                                                                      IV. 
+
+              Enter an Order that Defendant be permanently prohibited from acting as an officer or 
+
+director of any public company. 
+
+                                                                       V. 
+
+           Grant other relief as this Court may deem just or appropriate. 
+
+                                                           JURY DEMAND 
+
+              Plaintiff demands a jury trial in this matter. 
+
+                                                          TRIAL  OMAHA 
+
+              Plaintiff hereby requests that trial of the above and foregoing action should be held in 
+
+Omaha, Nebraska, and that the case be calendared accordingly. 
+
+ 
+
+              Respectfully submitted, this 25th day of September 2012. 
+          
+             
+     By: /s/ Nicholas Heinke    
+      Barbara T. Wells, Trial Counsel 
+      Colorado Bar No. 39602 
+      Nicholas Heinke, Trial Counsel 
+      Colorado Bar No. 38738 
+      Attorneys for the Plaintiff 
+      Securities and Exchange Commission 
+      1801 California Street, Suite 1500 
+      Denver, CO  80202 
+      Phone:  (303) 844-1005, (303) 844-1071 
+      Facsimile: (303) 844-1068 
+      Wellsb@SEC.gov, HeinkeN@SEC.gov 
+ 
+      Of counsel: 
+      Ian Karpel, Assistant Regional Director 
+      Julian Robinson, Attorney  
+      Securities and Exchange Commission 
+      1801 California Street, Suite 1500 
+      Denver, CO  80202 
+      Phone:  (303) 844-1000 
+
+                                                                       30 
+ 

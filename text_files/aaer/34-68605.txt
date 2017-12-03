@@ -1,0 +1,1112 @@
+---------------------Page 1---------------------
+
+                          UNITED STATES OF AMERICA          
+                                      Before the 
+                   SECURITIES AND EXCHANGE COMMISSION 
+                                            
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 68605 / January 9, 2013 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No.  3436 / January 9, 2013 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-15168 
+ 
+_____________________________________ 
+                                           :       
+In the Matter of                          :      ORDER INSTITUTING PUBLIC 
+                                          :      ADMINISTRATIVE PROCEEDINGS 
+       JOHN J. AESOPH, CPA, and           :      PURSUANT TO SECTION 4C OF 
+       DARREN M. BENNETT, CPA             :      THE SECURITIES EXCHANGE 
+                                          :      ACT OF 1934 AND RULE 102(e) OF 
+Respondents.                              :      THE COMMISSIONS RULES OF 
+____________________________________   :      PRACTICE 
+                                                  
+                                                  
+                                          I. 
+                                            
+      The Securities and Exchange Commission (Commission) deems it appropriate and in 
+the public interest that public administrative proceedings be, and hereby are, instituted against 
+John J. Aesoph, CPA (Aesoph) and Darren M. Bennett, CPA (Bennett) pursuant to Section 
+4C of the Securities Exchange Act of 1934 (Exchange Act) and Rule 102(e)(1)(ii) of the 
+Commissions Rules of Practice to determine whether Aesoph and Bennett engaged in improper 
+professional conduct.  
+
+                                          II. 
+
+       After an investigation, the Division of Enforcement and the Office of the Chief 
+Accountant allege that: 
+
+A.    Summary 
+
+      1.     Aesoph and Bennett (collectively, the auditors) repeatedly engaged in   improper 
+professional conduct during their year -end 2008 audit of TierOne Corporation, a holding 
+company for TierOne Bank (collectively TierOne). They did so by failing to subject TierOnes 
+loan loss estimates  one of the highest risk areas of the audit  to appropriate scrutiny.  Aesoph 
+served as the audit partner and Bennett served as the senior manager on the engagement; they 
+each had significant responsibility for the  audit decisions, the inadequately designed and 
+---------------------Page 2---------------------
+
+                                                  
+
+implemented audit programs, the review of audit work papers, a  nd the failures to follow audit 
+standards that are the subject of this proceeding.  
+
+       2.      TierOnes loan losses were  a critical audit area that warranted heightened 
+scrutiny.   Up to and during 2008, as a result of the financial crisis and related real estate market 
+crash, TierOne had been experiencing a dramatic increase in the number of   its troubled real 
+estate loans. TierOne estimated its loan losses for a key component of its troubled loan portfoli o 
+ large, unique loans  accounted for under Financial Accounting Standards Boards Statement of 
+Financial Accounting Standards No. 114 (FAS 114)  by using     the value of the collateral 
+underlying these loans .  
+                        Rather than get updated appraisals to value the collateral of the loans that 
+TierOne evaluated for impairment under FAS 114 (called here the banks FAS 114 loans      1
+                                                                                             ),  
+TierOne frequently relied on stale, dated appraisals to which the banks management sometimes     
+applied a discount.  TierOnes determ ination of the discount amounts, and its decisions not to 
+apply a discount, were not documented, nor were they  supported by reliable facts or evidence.     
+
+       3.      Aesoph and Bennett violated numerous    Public Company Accounting Oversight 
+Board (PCAOB) audit standards in both their audit of internal control over financial reporting 
+and their audit of the financial statements. The auditors correctly identified TierOnes loan losses 
+as presenting a  fraud risk and a significant risk of material misstatement. The actual audit test 
+work in this area , however, was inadequate considering the associated audit risk and materiality. 
+For example, the internal controls identified and test ed by the audit engagement team  relating  to 
+the allowance for loan and lease losses (ALLL  ) did not effectively address one of the most 
+important and riskiest  component s of the banks loan loss calculations: managements use of 
+stale and inadequate appraisals to value the collateral underlying the banks FAS 114 loans .  
+Based on this test work, Aesoph and Bennett had no reasonable basis to conclude that TierOne 
+maintained, in all material respects, effective internal control over financial reporting.  Moreover, 
+the auditors failed to adequately identify and evaluate defects in the design and operating 
+effectiveness of controls over collateral valuation that would have been important to the auditors 
+conclusion about whether TierOnes controls sufficiently addressed the assessed risk of 
+misstatement.  The auditors violated PCAOB standar   ds, including specifically Auditing Standard 
+No. 5 (AS No. 5) , in their audit of internal control over financial reporting . 
+
+       4.      Compounding these flaws in the audit of   internal control over financial reporting 
+were Aesoph and Bennetts failures to comply with PCAOB standards in their  substantive audit 
+procedures over  the banks  FAS 114 loans. T he relevant audit work on these loans consisted of 
+checking managements basic math, confirming that appraisals (no matter how stale) existed, 
+reviewing a sample of appraisals, and relying on managements uncorroborated representations 
+concerning property -specific issues, including whether stale appraisals required adjustment. 
+These procedures fell short of the requirements of a number of PCAOB standards, including 
+specifically AU Sections 328 and 342, which address auditing fair value and accounting 
+estimates, respectively.  In short, the auditors failed to subject managements estimates to 
+appropriate scrutiny .  
+
+                                                           
+1
+ The specific loans at issue in this proceeding are listed on 2008 audit work papers  L-22.2F, L-
+22.2H, L-32.1, L-32.2, and L-32.3.    
+
+                                                2 
+ 
+---------------------Page 3---------------------
+
+                                                
+
+       5.     Aesoph and Bennett failed to obtain sufficient, competent evidential matter to 
+provide assurances that managements estimates were reasonable. They further failed to act with 
+due professional care or appropriate professional skepticism. 
+
+       6.     These failures, along with others detailed below, demonstrate a single instance of 
+highly unreasonable conduct that resulted in a violation of applicable professional standards in 
+which Aesoph and Bennett   knew, or should have known, heightened scrutiny was warranted; and 
+repeated instances of unreasonable conduct, each resulting in a violation of applicable 
+professional standards, that indicate a lack of competence to practice before the Commission.  
+
+B.     Respondents 
+
+       7.     John J. Aesoph        , CPA, age 40, is a resident of Omaha, Nebraska. Aesoph has 
+been an auditor at KPMG, LLP (KPMG) since 2001 and a partner at the firm since 2005. He 
+was on the TierOne audit engagement from 2002 through KPMGs resignation in 2010, and was 
+the engagement partner for the 2008 audit.   Aesoph is currently licensed as a CPA in Nebraska 
+and North Dakota. He has previously been licensed as a CPA in Idaho, Indiana, Iowa, Kansas, 
+and South Dakota.  
+
+       8.     Darren M. Bennett, CPA, age 35   , is a resident of Elkhorn, Nebraska. Bennett 
+has been an auditor at KPMG since 2001.  He worked on the TierOne audit each year from 2003 
+through KPMGs resignation in 2010, with the exception of one year.  Bennett was the senior 
+manager for the 2008 TierOne audit. Bennett was also a member of KPMGs financial services 
+practice and served as manager or senior manager on at least four financial services audits in 
+addition to TierOne. Bennett is licensed as a CPA in Nebraska, North Dakota, and South Dakota. 
+
+C.     Other Relevant Parties 
+
+       9.     TierOne Corporation, a Wisconsin corporation, was, during the relevant time 
+period, a holding company for TierOne Bank, a federally -chartered savings bank headquartered 
+in Lincoln, Nebraska. TierOnes common stock was registered with the Commission pur suant to 
+Section 12(b) of the Exchange Act; that registration was revoked by consent on June 4, 2012. 
+Prior to May 7, 2010, TierOnes shares were listed on the NasdaqGS exchange under the stock 
+symbol TONE. TierOnes common stock was thereafter quoted on OTC Pink, which is 
+operated by OTC Markets Group Inc. On June 4, 2010, TierOne Bank was closed by its primary 
+regulator, the United States Office of Thrift Supervision (OTS). The Federal Deposit Insurance 
+Corporation (FDIC) was named receiver and  another bank took over TierOnes assets and 
+deposit accounts. TierOne subsequently filed for Chapter 7 bankruptcy protection on June 24, 
+2010. 
+
+       10.    KPMG LLP is a limited liability partnership headquartered in New York, New 
+York, engaged in the business of providing accounting and auditing services.  KPMG audited 
+TierOnes 2008 financial statements and internal control over financi al reporting as of December 
+31, 2008 and issued unqualified opinions. KPMG also performed quarterly  reviews for TierOne 
+during the relevant time period.  
+
+                                              3 
+ 
+---------------------Page 4---------------------
+
+                                                 
+
+D.     TierOnes Risky Problem Loan Portfolio 
+ 
+       11.    TierOne was a century-old thrift bank that had historically focused on residential 
+and agricultural loans in the Nebraska/Iowa/Kansas region. Beginning in about 2004, however, 
+TierOne expanded into high -risk types of lending in regions such as Las Vegas, Florida, and 
+Arizona, which were experiencing unusual, rapid escalation in market values.  This strategy 
+made the bank particularly vulnerable to the fallout from the financial crisis, as these areas were 
+hardest hit by the precipitous fall in real estate prices, which began in late 2006 and early 2007.   
+ 
+       12.    Throughout 2008, TierOne was experiencing a dramatic rise in high-risk problem 
+loans including land and land development and residential construction. Certain of these problem 
+loans  typically larger and non-homogenous (i.e., not car or residential mortgage loans)  were 
+deemed impaired pursuant to FAS 114, meaning it was probable the bank would not recover 
+all amounts as contractually due. TierOnes  reported FAS 114 impaired loan balance had 
+increased from less than $4 million as of December 31, 2006 to nearly $186 million as of 
+December 31, 2008.  
+
+       13.    In June 2008, the OTS   conducted a  risk-focused examination of the bank that 
+focused on asset quality, credit administration, management, earnings, and the adequacy of 
+ALLL. As a result of that examination, the OTS downgraded the banks composite CAMELS 
+rating from a one (indicating a financial institution that was sound in every respect) to a four 
+(indicating a financial institution with serious financial or managerial deficiencies that require 
+close supervisory attention). The OTS provided the bank with a report that deemed the institution 
+to be in troubled condition and board and management performance to be exceptionally poor. 
+OTS concluded that TierOne had experienced    a significant deterioration in asset quality due to 
+eroding real estate values in Nevada and Florida, and that poor board and management oversight 
+had exacerbated the problem. The OTS cited   data demonstrating that real estate values were 
+declining at unprecedented rates in states  and markets where the bank had a concentration of 
+loans. The  OTS also directed TierOne to maintain higher minimum capital  ratios. Failure to 
+correct the problems identified by the OTS or to meet the heightened capital requirements would 
+result in additional OTS  enforcement action . 
+
+       14.    The banks FAS 114 loans had a negative    effect on TierOnes ability to meet the 
+heightened capital requirements mandated by the OTS. Under  Generally Accepted Accounting 
+Principles (GAAP), TierOne was required to assess probable losses associated with its 
+impaired loans and record those losses in its ALLL. GAAP permits the impairment to be 
+measured using the fair value of the underlying collateral if the loan is collateral dependent, 
+which is the method that was typically utilized by TierOne on its FAS 114 loans . As loan losses 
+increased, the banks capital was further eroded, directly impacting the OTS capital 
+requirements.  
+
+       15.    In order to assess loan losses for the banks FAS 114 loans, TierOne prepared 
+loan-by-loan spreadsheets that contained estimates of collateral values and loan impairment 
+determinations. TierOne generally based the valuation on the most recent appraisal in its loan 
+files. If the appraisal was aged, as it typically was, TierOne would sometimes apply a discount to 
+the appraised value. These discounts were determined by an informal committee at the bank. The 
+
+                                               4 
+ 
+---------------------Page 5---------------------
+
+                                                 
+
+rationale for applying any particular discount  or for not discounting an appraisal at all  was 
+not documented. 
+
+       16.    In the summer of 2009,  when the OTS began its annual   exam,  the bank was 
+forced to get a significant number of updated appraisals and to use those appraisals in its loan 
+loss calculations. In the fall of 2009, TierOne disclosed over $130 million in additional loan loss 
+provisions. TierOne was shut down by bank reg  ulators on June 4, 2010 and filed for bankruptcy 
+later that month.  
+
+       17.    In April 2010, KPMG resigned as TierOnes auditor. KPMG withdrew its audit 
+opinion relating to TierOnes 2008 financial statements on the basis that they were materially 
+misstated with respect to certain out-of-period adjustments for loan loss reserves. KPMG also 
+withdrew its opinion relating to TierOnes internal control over financial reporting as of the year-
+end 2008 due to a material weakness in internal control over financial reporting related to the 
+material misstatements. 
+
+E.     The Auditors Recognized t he Risk s in TierOnes Problem      Loan Portfolio 
+
+       18.    Prior to and during their  2008 audit of TierOne, Aesoph and Bennett were aware 
+of the risk and significance of the banks loan loss provisions, and of the loan loss component 
+related to the banks FAS 114 loans specifically.  
+
+       1.     The Auditors Identified ALLL Risks  
+
+       19.    The banks ALLL had two primary components: an allowance for loans impair     ed 
+under FAS 114 and an allowance for loans impaired   under Statement of Financial Accounting 
+Standards No. 5 (FAS 5) .   The portion of the ALLL   allocable to loans that TierOne evaluated 
+for impairment under FAS 114 was individually material to the financial statements and 
+presented a significant risk of material misstatement.  
+
+       20.    The audit planning document  reviewed and approved by both Aesoph and 
+Bennett  identified the ALLL as a risk that could result in a material misstatement of TierOnes 
+financial statements. Specifically, the audit plan noted that the ALLL presented a significant risk 
+of material misstatement, both with respect to inherent risk and control risk, including the risk of 
+fraud.   
+
+        2.     Numerous Red Flags Further Underscored the Risks        
+
+       21.    Compounding the identified risks were numerous red flags  and other irregularities 
+that should have triggered Aesoph and Bennetts professional skepticism and led them to 
+investigate further.   
+
+              a.      OTS Identified a Significant Understatement of the ALLL 
+
+       22.    In connection with its June 2008 examination, the OTS identified a deficiency in 
+TierOnes ALLL as of March 31, 2008 of between $17 million and $22 million, representing an 
+approximate 25% increas  e over the previously reported ALLL. Aesoph and Bennett were aware 
+of this deficiency: Bennett directly identified it in a memo he authored  and Aesoph reviewed  
+
+                                               5 
+ 
+---------------------Page 6---------------------
+
+                                                 
+
+that discussed the OTS report. Further, the June 2008 OTS report, discussed above in paragra ph 
+13, was provided to KP  MG and included in the auditors work papers.  
+
+              b.      Third-Party Market Data Showed Significant Declines in Real Estate 
+                      Values That Were Not Reflected in TierOnes Valuations of its FAS 
+                      114 Loans 
+
+       23.    As another red flag, TierOnes valuation adjustments on the collateral underlying 
+the banks FAS 114 loans were inconsistent with independent market data.  Third-party market 
+data indicated that real estate values were declining precipitously in many of the markets where 
+the banks FAS 114 collateral was located, including Las Vegas, Nevada and Phoenix, Arizona. 
+At year-end 2008, TierOne had prepared spreadsheets analyzing more than fifty borrower 
+relationships, totaling approximately $255 million in loans , for evaluation for impairment under 
+FAS 114. Approximately $186 million of these loans were actually deemed impaired by the 
+bank. The majority of the loans that the bank evaluated for impairment under FAS 114 were 
+collateralized by property with appraisals more than a year old; over half of those stale appraisals 
+were not discounted. Critically, when management did discount appraisals, those discounts were 
+typically inconsistent with  and more favorable to the bank than  the declines indicated by the 
+independent market data. 
+
+              c.      Management Typically Did Not     Get Updated Appraisals  
+
+       24.    Further, despite the market declines, TierOne management often did not  get 
+updated appraisals on the collateral underlying the banks FAS 114 loans. This failure came 
+despite the fact that the OTS and members of the audit engagement team noted stale appraisals 
+and recommended that appraisals be updated.   
+
+              d.      New Appraisals Obtained Throughout       2008 Indicated Management 
+                      Overestimated Collateral Values and Understated Loss Provisions  
+
+       25.    In the limited instances where   TierOne did get updated appraisals or valuations on 
+the banks FAS 114 loan s during 2008, the collateral value typically showed a significant decline 
+from the amount used by management in the immediately preceding quarter. Appraisals received 
+throughout 2008 showed that managements estimates were inflated by twenty to almost fifty 
+percent in the prior quarter . The magnitude of the quarter -to-quarter declines could not be 
+explained by market conditions alone.2
+                                       In addition to the updated appraisals showing differences 
+in value from the immediately-preceding quarter, some of those appraisals revealed tremendous 
+drops in the value TierOne had used at year end 2007.3
+                                                       
+
+                                                           
+2
+ New appraisals or valuations were received on several of the banks  FAS 114 loans, including: 
+Storybook Homes; Rising Sun; Grand Teton; Quarter 10; Stetson Ridge; La Madre 48; Rome 24; 
+Clearwater Estates; Equestrian Meadow; HD Tbella; and HDB, LLC     .   
+ 
+3
+ TierOne received new appraisals on several  loans that had been booked as FAS 114 loans at 
+year-end 2007, including: Storybook Homes  , Clearwater Estates, Grand Teton, and Rising Sun. 
+
+                                               6 
+ 
+---------------------Page 7---------------------
+
+                                                 
+
+       26.    When considered in conjunction with managements reluctance to obtain new 
+appraisals, these sharp declines  in collateral values  should have raised significant questions about 
+managements motivations. 
+
+              e.      Stale Appraisals Were Not Discounted Despite TierOnes Internal 
+                      Policy 
+
+       27.    During the 2008 audit, the auditors reviewed a memorandum    that was prepared by 
+TierOne and annotated by the audit engagement team that assessed the adequacy of the fourth 
+quarter 2008 ALLL   balance.  That memorandum   stated that, for Nevada land and residential 
+construction loans, TierOne tries to estimate collateral value declines in real estate by 
+discounting appraised values, which are older than six months.  Despite this stated policy, 
+TierOne often failed to discount Nevada appraisals that were more than six months old.  
+
+              f.      TierOnes Unallocated Loan Loss Reserve Decreased at Year End 
+
+       28.    TierOne designated a portion of its ALLL as an unallocated   reserve which was 
+intended to cover loan losses inherent in TierOnes loan portfolio, including particularly loans in 
+Nevada. However, despite the fact that market conditions continued to deteriorate throughout 
+2008, TierOnes unallocated reserve decreased significantly at year end. The unallocated reserve 
+dropped from approximately $7 million in the second and third quarters to approximately $4 
+million at year end. This decrease was particularly troubling given that during its year end audit, 
+the audit engagement team relied on the unallocated reserve to absorb potential errors in 
+TierOnes calculation of its ALLL or to justify not performing additional audit work. These 
+conclusions by the audit engagement team were reviewed by Aesoph and Bennett. 
+
+              g.      Management Failed to Document Their Discounting Decisions 
+
+       29.    As a final red flag to the auditors, TierOne did not document the rationale and 
+basis for managements assumptions regarding valuation of the collateral underlying  the banks 
+FAS 114 loans, despite the guidance in Financial Reporting Release (FRR) No. 28. See also                                              
+Staff Accounting Bulletin No. 102 (SAB 102). 
+
+       3.     TierOnes FAS 114 Loans Were Material 
+
+       30.    In addition to these red flags, the portion of the ALLL related to the banks FAS 
+114 loans was material. PCAOB auditing standards recognize that financial statements are 
+materially misstated when they contain misstatements whose effect, individually or in the 
+aggregate, is important enough to cause the financial statements not to be presented fairly, in all 
+material respects, in conformity with generally accepted accounting principles. AU § 312, ¶ 4.    
+
+       31.    The portion of the ALLL related to the banks FAS 114 loans was material to the 
+financial statements taken as a whole. It far exceeded the $1.9 million materiality threshold 
+established for the 2008 audit. It was reasonably possible that even a relatively small change in 
+the value of the banks FAS 114 loans would cause a material error in the financial statements.  
+
+       32.    The portion of the ALLL related to the banks FAS 114 loans  was material for 
+additional reasons.  For example:  
+
+                                               7 
+ 
+---------------------Page 8---------------------
+
+                                                  
+
+              a.      Any additional loan losses discovered by the audit engagement team 
+would have pushed the bank closer to falling below the OTS-mandated 8.5% core capital ratio 
+and 11% risk -based capital ratio. TierOnes core and risk -based capital ratios at December 31, 
+2008 were 8.9% and 11.6%, respectively.    
+
+              b.      The banks loan losses factored significantly into TierOnes overall 
+operating results and profitability. The banks net interest income after provision for loan losses 
+was only $2.9 million at year end 2008, meaning a small increase in loan losses would change  a 
+reported net income to a reported net loss. Further, the trend in this net interest income figure 
+was in precipitous decline, decreasing from $119.8 million at year end 2006 to $48 million at 
+year end 2007 to $2.9 million at year end 2008.  
+
+              c.      TierOne itself acknowledged the importance of its ALLL, including    its 
+FAS 114 loans, devoting several pages in its 2008 Form 10-K to a discussion of problem loans 
+and the ALLL. Indeed, the 10- K expressly stated that [a]n inadequate allowance for loan losses 
+could adversely affect our results of operations. 
+
+       33.    Given the risk and materiality of the ALLL related to the banks FAS 114 loans , 
+and the many red flags, Aesoph and Bennett had heightened responsibilities in auditing this area, 
+and were required to apply professional skepticism in obtaining sufficient competent evidential 
+matter to support their opinions. They failed in these responsibilities.  
+
+F.     Aesoph and Bennetts Improper Professional Conduct 
+
+       34.    The Commissions Rules allow the Commission to censure or deny, t     emporarily 
+or permanently, the privilege of appearing or practicing before it in any way certain professionals 
+who violate applicable professional standards. 17 C.F.R. § 201.102(e). For auditors of issuers 
+such as TierOne, the applicable professional standards include standards issued by the PCAOB  .  
+ 
+       1.     General Standards 
+
+       35.    The PCAOBs three    general standards of auditing require that an auditor (1) have 
+adequate technical training and proficiency, (2) maintain an independent mental attitude, and (3) 
+act with due professional care in the performance of the audit. AU § 150, ¶ 2. The three basic 
+standards of field work require the auditor to (1) adequately plan and properly supervise the 
+audit, (2) obtain a sufficient understanding of internal control to plan the audit, and (3) obtain 
+sufficient competent evidential matter to afford a reasonable basis for an opinion. AU § 150, ¶ 2. 
+
+       36.    Due professional care imposes a responsibility upon each professional within an 
+independent auditors organization to observe the standards of field work and reporting. AU § 
+230, ¶ 2. The concept of due professional care includes acting with reasonable diligence.  AU § 
+230, ¶ 3. It also includes exercising professional skepticism.  AU § 230, ¶ 7. Professional 
+skepticism is an attitude that includes a questioning mind and a critical assessment of audit 
+evidence. AU § 230, ¶  7. The auditor neither assumes that management is dishonest nor 
+assumes unquestioned honesty. In exercising professional skepticism, the auditor should not be 
+satisfied with less than persuasive evidence because of a belief that management is honest. AU 
+§ 230, ¶ 9. 
+
+                                                8 
+ 
+---------------------Page 9---------------------
+
+                                                  
+
+       37.     Auditors are required to obtain sufficient competent evidential matter to afford 
+a reasonable basis for the auditors opinions. AU § 326, ¶ 1; see also AU § 230, ¶ 11 (The 
+independent auditors objective is to obtain sufficient competent evidential matter to provide him 
+or her with a reasonable basis for forming an opinion.). Gathering and objectively evaluating 
+audit evidence requires the auditor to consider the competency and sufficiency of the evidence. 
+AU § 230, ¶ 8. PCAOB standards attach greater validity to evidential matter obtained directly by 
+the auditors, and to evidential matter obtained from independent sources outside an entity. AU § 
+326, ¶ 21. Representations from management, while part of the evidential matter the auditor 
+obtains, are not a substitute for the application of those auditing procedures necessary to afford 
+a reasonable basis for an opinion regarding the financial statements under audit. AU § 333, ¶ 2. 
+
+       38.     Further, audit procedures, and the amount and persuasiveness of evidence auditors 
+are required to obtain, are driven by risk. Audit risk and materiality, among other matters, need 
+to be considered together in determining the nature, timing, and extent of auditing procedures 
+and in evaluating the results of those procedures. AU § 312, ¶ 1; see also                                                                   AU § 312, ¶ 12 (The 
+auditor should consider audit risk and materiality both in (a) planning the audit and designing 
+auditing procedures and (b) evaluating whether the financial statements taken as a whole are 
+presented fairly, in all material respects, in conformity with generally accepted accounting 
+principles. The auditor should consider audit risk and materiality in the first circumstance to 
+obtain sufficient competent evidential matter on which to properly evaluate the financial 
+statements in the second circumstance.). When auditors identify a significant risk of material 
+misstatement, as they did here, that fact is relevant to the nature and extent of the audit 
+procedures to be applied. AU § 312, ¶ 17. Higher risk may cause the auditor to expand the 
+extent of procedures applied, apply procedures closer to or as of year-end, particularly in critical 
+audit areas, or modify the nature of procedures to obtain more persuasive evidence. AU § 312, ¶ 
+17. 
+
+       39.     Aesoph, as the engagement partner, was responsible for the audit engagement and 
+its performance, for proper supervision of the work of the engagement team members, and for 
+compliance with PCAOB standards.  Aesoph sought and received the assistance of Bennett, who 
+was the senior manager on the 2008 TierOne audit , in fulfilling his responsibilities as 
+engagement partner. 
+
+        40.    Bennett contributed significantly to the planning of the audit , the design of tests of 
+controls, and the design and implementation of substantive procedures  . Additionally, Bennett 
+was responsible for executing the audit, including directing the audit engagement team  on how to 
+conduct the audit. Bennett reviewed the audit work  papers and  was responsible for on- site 
+supervision of the audit engagement  team . Bennett also played a significant role in gathering and 
+evaluating evidential matter to support the audit of ALLL, and specifically the valuation of 
+collateral underlying the banks FAS 114 loans. Bennett, like Aesoph, was responsible for 
+compliance with PCAOB standards with respect to the supervisory responsibilities that were 
+assigned to him.4
+                    
+
+                                                           
+4
+ See, e.g., In the Matter of Robert M. Harbrecht, CPA and Brian R. Spires, CPA          , Rel. No. 34-
+56469, AAE Rel. No. 2720 (Sept. 19, 2007) (experienced senior manager who was responsible, 
+ 
+                                                9 
+ 
+---------------------Page 10---------------------
+
+                                                   
+
+       41.     At the completion of the audit, both Aesoph and Bennett signed off that all 
+necessary auditing procedures were completed, that support for conclusions was obtained, 
+and that sufficient appropriate audit evidence was obtained. Further, Aesoph specifically 
+signed off on the audit checklist s requirement that the audit engagement team had performed 
+and documented its work in compliance with . . . applicable auditing standards . . . , and the 
+working papers demonstrate this compliance. 
+
+       42.     As detailed below, Aesoph and Bennetts conduct in planning, supervising, and 
+implementing KPMGs audit of TierOnes 2008 financial statements  and specifically the 
+portions of the audit relating to the banks FAS 114 loans  violated numerous PCAOB 
+standards. Most prominently  , the auditors violated the requirements of AS No. 5 regarding audits 
+of internal control over financial reporting , and AU Sections 328 (auditing fair value 
+measurements) and 342 (auditing accounting estimates)     related to the substantive audit 
+procedures . Aesoph and Bennett also violated:  the third general audit standard (due professional 
+care), see  AU § 150, ¶ 2; and the third standard of field work (obtaining sufficient competent 
+evidential matter), see AU § 150, ¶ 2; AS No. 3; and AU §§ 230, 312, 316,    319, 326, 333, and 
+561. 
+
+       2.      The Audit of TierOnes Internal Controls Violated Professional Standards           
+
+       43.     KPMG performed an integrated audit of TierOne, meaning that the audit of 
+TierOnes internal control over financial reporting was integrated with the  audit of TierOnes 
+financial statements.  When an auditor assesses control risk below the maximum level, as    the 
+auditors did here, he or she should obtain sufficient evidential matter to support that assess
+          §                                                                                 ed 
+level. AU 319, ¶¶ 80, 90. Moreover, if one or more material weaknesses exist, the companys 
+internal control over financial reporting cannot be considered effective.  AS No. 5, ¶ 2.  A 
+material weakness is a deficiency, or a combination of deficiencies, in internal control over 
+financial reporting, such that there is a reasonable possibility that a material misstatement of the 
+companys annual or interim financial statements will not be prevented or detected on a timely 
+basis.  AS No. 5, Appendix A, ¶ A7. 
+
+       44.     AS No. 5 provides specific requirements for auditing internal control over 
+financial reporting in an integrated audit, including that the auditors should understand likely 
+sources of potential misstatements and focus  more of  their attention on the areas  of highest risk. 
+But the key ALLL   control that  the  audit engagement team  identified (the banks Asset 
+Classification Committee) did not effectively address the riskiest component of the ALLL    : the 
+banks valuation of collateral for the banks FAS 114 loans with  stale appraisals .  In addition, the 
+audit engagement team failed to identify or test any effective internal controls to determine 
+whether TierOne was compl    ying with its own policies for updating appraisals. The auditors 
+therefore violated AS No. 5, and further lacked a reasonable basis for KPMGs conclusion that 
+there were no material weaknesses in TierOnes internal control over financial reporting. 
+
+                                                                                                                                                                                            
+along with partner, for planning and executing audit sanctioned pursuant to Rule 102(e) for 
+violations of PCAOB standards). 
+
+                                                10  
+ 
+---------------------Page 11---------------------
+
+                                                  
+
+              a.      Relevant PCAOB Standards 
+
+       45.     In an integrated audit, an auditor should design tests of controls to obtain 
+sufficient evidence both to support his or her opinion on internal control over financial reporting 
+and to support his or her control risk assessments for the purpose of the audit of the financial 
+statements. AS No. 5, ¶ 7. 
+
+       46.     Auditors also should determine  and understand the likely sources of potential 
+misstatements. One of the ways to do so is by asking himself or herself what could go wrong? 
+within a given significant account or disclosure. AS No. 5, ¶¶ 28-31.  
+
+       47.     To further understand the likely sources of potential misstatements, and as part of 
+selecting the controls to test, the auditor should understand the flow of transactions related to the 
+relevant assertions, identify points within the companys processes at which a misstatement 
+could arise that would be material, and identify the controls that management has implemented 
+to address these potential misstatements.  AS No. 5, ¶ 34. 
+
+       48.     Performing a walkthrough is often the most effective way to understand likely   
+sources of potential misstatements and identify the appropriate controls to test. AS No. 5, ¶ 37. 
+Walkthroughs require the auditor to follow[ ] a transaction from origination through the 
+companys processes . . . until it is reflected in the company s financial records, using the same 
+documents and information technology that company personnel use. AS      No. 5, ¶ 37. 
+
+       49.     The selection of the controls to test, and the evidence needed to evaluate a given 
+control, are driven by the auditors risk assessment. AS No. 5, ¶ 10. The auditor should focus 
+more of his or her attention on the areas of highest risk, taking into consideration the risks such 
+as the risk of fraud with respect to significant management estimates. AS No. 5, ¶¶ 11, 14. 
+Further, the level of evidence needed increases as the risk associated with the control increases. 
+AS No. 5, ¶¶ 46 -47.  
+
+       50.     Some types of tests, by their nature, produce greater evidence of the effectiveness 
+of controls than other tests .  AS No. 5, ¶ 50.  PCAOB standards include a hierarchy of tests. 
+Inquiry, which ordinarily produces the lowest level of evidence, is never alone sufficient to 
+support a conclusion about the effectiveness of a control. AS No. 5, ¶¶ 45, 50. 
+
+       51.     If there are deficiencies in a companys internal control over financial reporting 
+that, individually or in combination, result in one or more material weaknesses, the auditor must 
+express an adverse opinion on the company s internal control over financial reporting, unless 
+there is a restriction on the scope of the engagement. AS No. 5, ¶ 90. 
+
+       52.     Aesoph and Bennetts internal control test work did not comply with the 
+foregoing PCAOB standards.     
+
+               b.     Failure to Identify Effective Controls over the Valuation of the 
+                      Collateral for the Banks FAS 114 Loans 
+
+       53.     Aesoph and Bennett both reviewed and approved  key audit work papers involving 
+the evaluation and testing of TierOnes internal controls ove r the ALLL. These work papers 
+
+                                               11  
+ 
+---------------------Page 12---------------------
+
+                                                  
+
+identified seventeen key controls over TierOnes loan process. The audit engagement team   used  
+the work of TierOnes internal audit department to provide evidence on many of these controls, 
+but determined to independently test five key controls due to the fraud risk and/or the high risk 
+of failure associated with the controls. Each of these five controls purported to address some 
+aspect of TierOnes problem loans. None, however, effectively  addressed  TierOnes valuation of 
+the collateral underlying the banks FAS 114 loans. 
+
+       54.    The key control identified for prevention of a material misstatement of the ALLL 
+was TierOnes Asset Classification Committee   review . However, while the audit work papers do 
+identify that the Asset Classification Committee had general responsibility for th e ALLL, there is 
+no reference to whether or how the Committee   assessed the value of the collateral underlying 
+individual loans  evaluated under FAS 114, including any necessary adjustments to appraised 
+values. The Asset Classification Committee  meeting minutes included in the work papers contain 
+no discussion about discounting stale appraisals or otherwise estimating the value of collateral .  
+
+       55.    The Asset Classification Committee    was not an effective control over valuation of 
+the collateral underlying the banks FAS 114 loans. The Committee   did not generate or review 
+written documentation to support TierOnes calculations, including, specifically , documentation 
+of the rationale and basis for managements assumptions regarding valuation of collateral . 
+Without such documentation, there was insufficient evidence upon which to conclude that the 
+banks internal controls related to valuation of collateral were effective.  See                                                                         FRR No. 28;  see 
+also SAB 102.  
+
+       56.    The other controls independently tested during the audit also failed to address 
+TierOnes valuation  of collateral underlying t he banks FAS 114 loans. Further, the 
+walkthrough described in the audit work papers , which was specifically reviewed by Bennett, 
+was insufficient to provide  a sufficient understanding of the valuation process or to identify 
+important points at which a necessary control in the process was missing or was not designed 
+effectively.  See             AS No. 5, ¶¶ 37, 38.  
+
+              c.      Failure to Identify or Test C ontrols Relating to Compliance with     
+                      TierOnes Appraisal Policies 
+
+       57.    TierOnes written lending policy required all loans to be supported by current 
+appraisals or evaluations. The policy noted that [i]n a rapidly escalating or deteriorating 
+market, a value may be valid for only a few months. The policy also stated that new appraisals 
+should be obtained when a loan was renewed, extended, or refinanced if market deterioration 
+indicated that the collateral may no longer fully protect the loan.   
+
+       58.    While TierOnes lending policy may have been sound, it was not in and of    itself a 
+control. The auditors failed to identify any control to ensure compliance with this policy. In fact, 
+TierOne frequently ignored or violated this policy, continuing to rely on stale appraisals in 
+significantly deteriorated markets. TierOne also failed to obtain new appraisals on loans that had 
+been modified.  
+
+                                               12 
+ 
+---------------------Page 13---------------------
+
+                                                 
+
+              d.      The Absence of These Controls Was a Material Weakness  
+
+       59.    PCAOB audit standards define a material weakness as a deficiency, or a 
+combination of deficiencies , in internal control over financial reporting, such that there is a 
+reasonable possibility that a material misstatement of the companys annual or interim financial 
+statements will not be prevented or detected  on a timely basis . AS No. 5, Appx. A, ¶ 7.  Whether 
+a deficiency or combination of deficiencies rises to the level of a material weakness depends on 
+the severity of the deficiencies. AS No. 5, ¶¶ 62-63. The absence of effective controls over the 
+valuation of collateral underlying the banks FAS 114 loans and over  compliance with TierOnes 
+appraisal renewal policy, individually or in combination, represented a material weakness in 
+TierOnes internal control over financial reporting as of December 31, 2008. Because of the 
+material weakness in internal control, KPMG should have issued an adverse opinion on the 
+banks internal control over financial reporting. Further, the auditors inappropriate conclusion 
+that controls were effective led to an unsupported  and incorrect  conclusion that, for purposes 
+of the financial statement audit, the risk of significant misstatement with respect to the ALLL 
+was only moderate. 
+
+       3.     Substantive Testing of the Banks FAS 114 Loans       Violated Professional 
+              Standards 
+
+       60.    Adding to the  failures in connection with auditing TierOnes internal control over 
+ALLL were Aesoph and Bennetts     deficient substantive audit procedures. Specifically, the audit 
+engagement team failed to follow PCAOB standards in reviewing the reasonableness of 
+managements estimates of the value of the collateral underlying the banks FAS 114 loans  one 
+of the   riskiest and  most critical elements  of the banks FAS 114 loss estimate  calculation . The 
+audit engagement team relied  principally on the most recent ( and often stale) appraisals  given 
+them and on managements uncorroborated representations of current value  . The audit 
+engagement team relied on these representations  despite evidence that managements estimates 
+were biased and inconsistent with independent market data . Bennett was directly involved in the 
+audit engagement teams FAS 114 test work. Specifically: Bennett initially reviewed the 
+individual spreadsheets prepared by TierOne that purported to justify the valuation of the 
+underlying collateral of the banks FAS 114 loans ; Bennett supervised the audit test work and 
+collection of evidential matter, including meeting directly with management to discuss 
+managements estimates of the value of collateral; and Bennett approved the audit engagement 
+teams FAS 114 test work prior to passing it to Aesoph. Aesoph reviewed   the FAS 114 test work 
+prior to signing the audit opinion. By failing to subject managements estimates to appropriate 
+scrutiny, the auditors violated PCAOB standards, including particularly AU Sections 328 and  
+342, which address auditing fair value and accounting estimates, respectively.  The auditors 
+failed to obtain sufficient, competent evidential matter to provide assurances that managements 
+estimates were reasonable. They further failed to act with due professional care or appropriate 
+professional skepticism. 
+
+              a.      Relevant PCAOB Standards 
+
+       61.    TierOnes calculation of the appropriate loss reserve on the banks FAS 114 
+loans, which was based largely on an assessment of the value of the underlying collateral, was an 
+estimate. As such, the auditors responsibility was to obtain sufficient competent evidence to 
+
+                                               13 
+ 
+---------------------Page 14---------------------
+
+                                                  
+
+provide reasonable assurance that the estimates were reasonable and presented in conformity 
+with the relevant accounting principles. AU §§ 328, ¶ 3; 342, ¶ 7.  
+
+       62.     In evaluating reasonableness, the auditor should obtain an understanding of how 
+management developed the estimate.  Based on that understanding, the auditor should use    one or 
+a combination of the following  approaches : (1)  review and test the process used by management 
+to develop the estimate; (2) develop an independent expectation of the estimate to corroborate 
+the reasonableness of managements estimate;   or  (3) review subsequent events or transactions 
+occurring prior to the date of the auditors report. AU § 342, ¶ 10; see also  AU 328, ¶ 23. 
+
+       63.     Where managements estimate is based on a valuation, such as an appraisal  , that 
+was made prior to the financial reporting date, the following is an example of a consideration in 
+the development of audit procedures: obtain[ing]  evidence that management has taken into 
+account the effect of events, transactions, and changes in circumstances occurring between the 
+date of the fair value measurement and the reporting date. AU § 328, ¶ 25; see also AU § 313, ¶ 
+3 (Applying principal substantive tests to the details of an asset or liability account as of an 
+interim date rather than as of the balance-sheet date potentially increases the risk that 
+misstatements that may exist at the balance-sheet date will not be detected by the auditor.), ¶ 6 
+(The auditor should consider whether there are rapidly changing business conditions or 
+circumstances that might predispose management to misstate financial statements in the 
+remaining period. If such conditions or circumstances are present, the auditor might conclude 
+that the substantive tests to cover the remaining period would not be effective in controlling the 
+incremental audit risk associated with them. In those situations, the asset and liability accounts 
+affected should ordinarily be examined as of the balance-sheet date.). 
+
+       64.     Importantly, because estimates were involved, the auditors were required to be 
+particularly attuned to management bias  intentional or not. Among other things, auditors 
+normally should consider the historical experience of the entity in making past estimates. AU § 
+342, ¶ 9. Even when managements estimation process involves competent personnel using 
+relevant and reliable data, there is potential for bias in the subjective factors. Accordingly, when 
+planning and performing procedures to evaluate accounting estimates, the auditor should 
+consider, with an attitude of professional skepticism, both the subjective and objective factors 
+management used in making the estimates. AU § 342, ¶ 4. 
+
+       65.     Further, as the auditors had correctly identified TierOnes ALLL as presenting a 
+risk of fraud and a high risk of error, the auditors had a heightened responsibility over this area. 
+AU § 312, ¶ 17 (Higher risk may   cause the auditor to expand the extent of procedures applied, 
+apply procedures closer to or as of year end, particularly in critical audit areas, or modify the 
+nature of procedures to obtain more persuasive evidence.); AU § 316, ¶ 2 ([T]he auditor s 
+response to the risks of material misstatement due to fraud involves the application of 
+professional skepticism when gathering and evaluating audit evidence.).  
+
+                                               14  
+ 
+---------------------Page 15---------------------
+
+                                                  
+
+       Because of the characteristics of fraud, the auditors exercise of professional 
+       skepticism is important when considering the risk of material misstatement due to 
+       fraud.  Professional skepticism is an attitude that includes a questioning mind and 
+       a critical assessment of audit evidence. The auditor should conduct the 
+       engagement with a mindset that recognizes the possibility that a material 
+       misstatement due to fraud could be present, regardless of any past experience with 
+       the entity and regardless of the auditors belief about managements honesty and 
+       integrity. Furthermore, professional skepticism requires an ongoing questioning of 
+       whether the information and evidence obtained suggests that a material 
+       misstatement due to fraud has occurred. In exercising professional skepticism in 
+       gathering and evaluating evidence, the auditor should not be satisfied with less-
+       than-persuasive evidence because of a belief that management is honest. 
+
+AU § 316, ¶ 13.  
+
+       66.     The risk of material misstatement generally increases where, as here, the relevant 
+account is an estimate. AU § 312, ¶ 36. While estimates may differ, an unreasonable estimate 
+should be considered a likely misstatement. AU § 312, ¶ 36. The auditor  should also consider 
+whether differences in managements estimates and estimates best supported by the audit 
+evidence suggest possible management bias. AU § 312, ¶ 36. 
+
+       67.     While representations from management are a part of the audit evidence, they 
+are not a substitute for the application of those auditing procedures necessary to afford a 
+reasonable basis for an opinion regarding the financial statements under audit. AU § 333, ¶ 2. 
+This is particularly true in an area, like the ALLL, involving estimates. AU § 316, ¶ 54 (In 
+addressing an identified risk of material misstatement due to fraud involving accounting 
+estimates, the auditor may want to supplement the audit evidence otherwise obtained .)   . It is 
+even more critical where the audit area involves a risk of fraud. AU § 316, ¶ 46 (Examples of 
+the application of professional skepticism in response to the risks of material misstatement due to 
+fraud are  obtaining additional corroboration of managements explanations or representations 
+concerning material matters, such as through third-party confirmation, the use of a specialist, 
+analytical procedures, examination of documentation from independent sources, or inquiries of 
+others within or outside the entity.); AU 316 ¶ 53 (example of modification of procedures in 
+response to identified risks of material  misstatement due to fraud include [i]nterviewing 
+personnel involved in activities in areas where a risk of material misstatement due to fraud has 
+been identified to obtain their insights about the risk and how controls address the risk); AU § 
+326, ¶ 21 (When evidential matter can be obtained from independent sources outside an entity, 
+it provides greater assurance of reliability for the purposes of an independent audit than that 
+secured solely within the entity . The independent auditors direct personal knowledge, 
+obtained through physical examination, observation, computation, and inspection, is more 
+persuasive than information obtained indirectly.). 
+
+       68.     The auditor should be thorough in his or her search for evidential matter and 
+unbiased in its evaluation.  AU § 326, ¶ 25; see also id. (                                            In developing his or her opinion, the 
+auditor should consider relevant evidential matter regardless of whether it appears to corroborate 
+or to contradict the assertions in the financial statements .).  The inability to obtain sufficient 
+
+                                               15  
+ 
+---------------------Page 16---------------------
+
+                                                 
+
+competent evidential matter may require the auditor to qualify his or her opinion or to disclaim 
+an opinion.   See AU § 508, ¶ 22. 
+
+       69.    Finally, auditors are required to clearly document the work they perform. See AS 
+No. 3. Audit documentation should be prepared in sufficient detail to provide a clear 
+understanding of its purpose, source, and the conclusions reached. AS No. 3, ¶ 4. The auditor 
+must document the procedures performed, evidence obtained, and conclusions reached with 
+respect to relevant financial statement assertions. AS No. 3, ¶ 6. Audit documentation must 
+clearly demonstrate that the work was in fact performed. AS No. 3, ¶ 6. Because audit 
+documentation is the written record that provides the support for the representations in the 
+auditors report, it should, among other things, [d]emonstrate that the engagement complied 
+with the standards of the PCAOB. AS No. 3, ¶ 5. 
+
+       70.    Aesoph and Bennetts substantive audit procedures fell short of these standards. 
+
+              b.      Improper Professional Conduct      
+
+       71.    TierOne estimated the value of the collateral underlying the banks FAS 114 loans  
+on a loan -by-loan basis because the banks FAS 114 portfolio was made up of large, non-
+homogenous loans. The  refore, the audit engagement team performed a loan  -by-loan review of 
+the banks FAS 114 loan portfolio to test whether managements estimates of value were 
+reasonable.  However, t he substantive audit procedures and the evidence obtained from those 
+procedures were insufficient to meet PCAOB standards.   
+                                                         
+
+                     i.      Failure to Test Managements Estimates of Collateral Value 
+
+       72.    The audit engagement team obtained and reviewed each of the more than fifty 
+FAS 114 spreadsheets prepared by the bank. Most of the   audit work was simply ticking and 
+tying: recalculating figures, agreeing charge off amounts, and tying reported appraisal values to 
+the actual appraisals.  
+
+       73.    The audit engagement team    did, however, obtain  a sample of original appraisals 
+from management for additional testing .  Specifically, the audit engagement team assumed that 
+appraisals less than a year old were current (regardless of the market).  For appraisals older 
+than a year, they inquire d whether a discount was applied to the appraised value, and if not, they 
+inquired why TierOne didnt think it was necessary or appropriate.  In addition, Bennett and 
+members of the audit engagement team discussed with management a sample of FAS 114 
+calculations and recent trends, and leveraged information from certain loan reviews.5
+                                                                                       
+Following this test work, Bennett also reviewed and discussed the banks FAS 114 spreadsheets 
+with Aesoph to ensure that Aesoph was satisfied with the audit engagement teams conclusions. 
+Based on the entirety of these procedures, the auditors  concluded that the FAS 114 calculations 
+
+                                                           
+5
+ Although the auditors may have leve raged the aspects of the loan reviews that arguably 
+supported their conclusions as to the reasonableness of managements valuations of certain of the 
+banks FAS 114 loans, they ignored information in those same loan reviews that contradicted 
+managements valuation   assessment .  
+
+                                               16 
+ 
+---------------------Page 17---------------------
+
+                                                 
+
+appear to be properly prepared and adequately supported at 12/31/08. Aesoph and Bennett 
+lacked a reasonable basis for this conclusion. 
+
+       74.    Aesoph and Bennett relied on an unsupported  and unsupportable  a   ssumption 
+that appraisals less than a year old were current , without regard to the propertys location or 
+stage of development, and that market conditions had not materially deteriorated throughout the 
+year. Many of the markets in which TierOnes collateral was located were seeing significant 
+continuing quarterly declines in the value of real estate. In addition, many of the properties that 
+served as collateral were under development and in varying stages of completion. TierOnes 
+lending policy cautioned against relying on aged appraisals in these markets. According to the 
+policy, [i]n a rapidly escalating or deteriorating market, a[n appraisal] value may be valid for 
+only a few months. Despite this policy, Aesoph and Bennett arbitrarily assumed that only 
+appraisals older than a year potentially needed adjusting. 
+
+       75.    This assumption that appraisals up to a year old were current was unsupported by 
+any evidence and particularly troubling in the Nevada market. As noted above, TierOnes 
+memorandum prepared to support its ALLL balance  a memo      annotated by the audit 
+engagement team, included in the audit work papers , and reviewed by Aesoph and Bennett  
+noted that the bank would estimate collateral for Nevada real estate by discounting appraisals 
+older than six months, acknowledging that six month old appraisals in that market were not 
+reflective of current market conditions. Even so, t he bank failed to discount many Nevada 
+appraisals that were more than six months old and Aesoph and Bennett failed to reconcile the 
+inconsistency between the banks stated practice and its actual practice. 
+
+       76.    In addition, the test work over managements  valuation  estimates was insufficient. 
+Again, according to its audit program, the audit engagement team would inquire of 
+management whether discounts had been applied to older appraisals  , and if not, why not. But 
+uncorroborated management representations are not sufficient evidence in a high risk audit area.   
+
+       77.    Further calling into question the auditors work, the auditors relied on 
+managements uncorroborated representations even though independent evidence indicated that 
+managements estimating and discounting decisions were biased. As noted above, earlier in 
+2008, the OTS had determined that TierOne had underreported its ALLL by nearly 25%. And the 
+few times TierOne obtained a new appraisal on an impaired loan throughout 2008, that new 
+appraisal typically showed that TierOnes valuation in the immediately preceding quarter was 
+seriously deficient. In addition, TierOnes discount decisions and amounts were often 
+significantly different on properties in the same market, and were typically inconsistent with 
+third-party market information. Further, the rationale for TierOnes discounting decisions was 
+not documented. Despite th ese red flags, the auditors  continued to rely on managements 
+representations regarding managements  appraisal discounting decisions, without performing any 
+additional test work or obtaining independent corroboration of managements representations .    
+
+       78.    Auditors are required to document their work, including the procedures performed 
+and the evidence obtained.  Based upon the documentation in the audit work papers, including 
+the audit programs, memoranda, and individual FAS 114 loan analyses, the audit engagement 
+team obtained little if any reliable or persuasive evidence with respect to managements 
+adjustments (or lack thereof) to stale appraised values.  The little that is documented shows that 
+
+                                               17 
+ 
+---------------------Page 18---------------------
+
+                                                 
+
+Bennett and the audit engagement team made various inquiries of management and accepted 
+managements representations.  There is little to no documentation of management s 
+representations with respect to specific properties, or of the auditors performing any rigorous 
+testing or independent corroboration of managements  discounting decisions. T he audit 
+documentation does not demonstrate that the engagement complied with the standards of the 
+PCAOB. 
+
+                     ii.     Failure to Corroborate Additional Information 
+
+       79.    In addition to appraisal information, TierOnes FAS 114 worksheets sporadically  
+contained references to other information in support of managements estimates of the fair value 
+of the collateral. This information included, for example, asking prices, borrower development 
+plans and status, estimated costs to complete, offers to purchase, and other information. The 
+auditors failed to obtain independent corroboration of any of this information. 
+
+       4.     The Auditors Failure to Recognize Bias in Managements Estimates        
+              Violated Professional Standards  
+
+       80.    Exacerbating Aesoph and Bennetts failures surrounding   the reasonableness of 
+managements loan loss estimates on its FAS 114 loans was their failure to recognize bias in 
+those same estimates.  
+
+              a.      Relevant PCAOB Standards 
+
+       81.    As noted above, auditors normally should consider the historical experience of 
+the entity in making past estimates. AU § 342, ¶ 9. Relatedly,  [t]he auditor also should perform 
+a retrospective review of significant accounting estimates reflected in the financial statements of 
+the prior year to determine whether management judgments and assumptions relating to the 
+estimates indicate a possible bias on the part of management. AU § 316, ¶ 64. With the benefit 
+of hindsight, a retrospective review should provide the auditor with additional information about 
+whether there may be a possible bias on the part of management in making the current-year 
+estimates. AU § 316, ¶ 64. 
+
+              b.      Improper Professional Conduct               
+
+       82.    Consistent with PCAOB standards, KPMGs audit program required the auditors 
+to assess management bias . The auditors claimed to do so, noting in the audit completion 
+document that  
+
+       [t]he Companys historical ability to reliably develop significant estimates has 
+       been adequate.  We have considered current events as they relate to prior quarters 
+       and years during our audit procedures and noted there was no indication of bias 
+       on managements part in developing their estimates. 
+
+       83.    This conclusion was inconsistent with the OTS findings in June 2008 about 
+managements numerous failures to develop reliable estimates. It was also inconsistent with 
+evidence of management bias that surfaced throughout 2008. As discussed above, Aesoph and 
+Bennett knew that the  OTS identified a de ficiency in TierOnes ALLL that represented 
+
+                                              18  
+ 
+---------------------Page 19---------------------
+
+                                                  
+
+approximately 25% of the ALLL balance at the time. Further, as discussed above, Aesoph and 
+Bennett knew, or should have known, that the limited  instances in which the bank actually 
+obtained new appraisals on impaired loans resulted in significant declines in the value of the 
+collateral both compared to the previous quarter and, in some cases, compared to the values used 
+in the prior year. In many cases, these new appraisals resulted in significant increases in the loan 
+loss provisions associated with these loans. Despite this evidence, the auditors improperly 
+concluded that the banks estimation process was adequate and that there was no indication of 
+bias on managements part.  
+
+       5.      The Failure to Investigate Subsequent Discovery of Facts      Violated 
+               Professional Standards 
+
+       84.     Finally, the auditors failed to investigate facts discovered after the date of their 
+report on the 2008 financial statements that may have affected the 2008 financial statements.  
+
+               a.     Relevant PCAOB Standards 
+
+       85.     PCAOB audit standards set out a number of steps that should be taken by an 
+auditor who, subsequent to the date of the report upon audited financial statements, becomes 
+aware that facts may have existed at that date which might have affected the report had he or she 
+then been aware of such facts. AU § 561, ¶ 1. As an initial matter, [w]hen the auditor becomes 
+aware of information which relates to financial statements previously reported on by him, but 
+which was not known to him at the date of his report, and which is of such a nature and from 
+such a source that he would have investigated it had it come to his attention during the course of 
+his audit, he should, as soon as practicable, undertake to determine whether the information is 
+reliable and whether the facts existed at the date of his report. AU § 561, ¶ 4. If in fact the 
+information is reliable and existed at the date of the report, other steps may be required. AU § 
+561, ¶¶ 5-8. Subsequent events affecting the realization of assets . . . ordinarily will require 
+adjustment of the financial statements . . . . AU § 560, ¶ 7. 
+
+              b.      Improper Professional Conduct  
+
+       86.     During KPMGs 2009 quarter    ly review s, the  engagement team learned of several 
+borrower relationships that had new appraisals or valuations that likely existed at the date of 
+KPMGs 2008 audit report   , issued on March 12, 2009. In each case, that new valuation showed a 
+significant decline from managements estimate at year end. 6
+                                                               
+
+       87.     Despite learning that there were new appraisals and valuation assessments which 
+were dated prior to the issuance of the 2008 audit report, Aesoph and Bennett failed to perform 
+the procedures required by AU § 561. Rather, Aesoph and Bennett assumed they had no reason 
+to investigate because, they claim, they received  representations from management shortly 
+before issuing their audit opinion that no new appraisals had been received that impacted the 
+2008 financial statements. This is, however, precisely what should have triggered AU § 561: new 
+
+                                                           
+6
+ The specific loans included : Celebrate 50, MME, Ashley Turner , Stratton Group, Blake Home 
+Builders, and Den Mark Construction. 
+
+                                               19  
+ 
+---------------------Page 20---------------------
+
+                                                  
+
+information came to light after the audit report was issued that was inconsistent with previous 
+information and, for that matter, management s purported representations that all new appraisals 
+had been given to KPMG. Aesoph and Bennett had an obligation to investigate, but failed to do 
+so.  
+
+G.     Violations 
+
+       88.    As described in detail above, Aesoph and Bennett violated numerous PCAOB 
+audit standards, failed to obtain sufficient competent evidential matter to support their audit 
+conclusions, and failed to exercise due professional care and appropriate professional skepticism.  
+
+       89.    Specifically, Aesoph and Bennett violated: the third general audit standard (due 
+professional care), see                    AU § 150, ¶ 2; the third standard of field work (competent evidential 
+matter), see  AU § 150, ¶ 2; AS Nos. 3 and 5; and AU §§ 230, 312, 316, 319, 326, 328, 333, 342, 
+and 561. 
+
+       90.    Aesoph and Bennett engaged in improper professional conduct, as defined in 
+Section 4C of the Exchange Act and Rule 102(e)(1)(ii), in that their conduct constituted 
+negligent conduct consisting of (1) a single instance of highly unreasonable conduct that resulted 
+in a violation of applicable professional standards in which Aesoph and Bennett knew, or should 
+have known, that heightened scrutiny was warranted, or (2) repeated instances of unreasonable 
+conduct, each resulting in a violation of applicable professional standards, that indicate a lack of 
+competence to practice before the Commission. 
+
+                                              III. 
+
+       In view of the allegations made by the Division of Enforcement and the Office of Chief 
+Accountant, the Commission deems it appropriate that public administrative proceedings be 
+instituted to determine: 
+
+       A.     Whether the allegations set forth in Section II hereof are true and to afford 
+Respondents Aesoph and Bennett an opportunity to establish any defenses to such allegations; 
+and 
+
+       B.     What, if any, remedial action is appropriate against Respondents Aesoph and 
+Bennett pursuant to Section 4C of the Exchange Act and Rule 102(e) of the Commissions Rules 
+of Practice, including, but not limited to, censure or denying, temporarily or permanently, the 
+privilege of appearing or practicing before the Commission. 
+
+                                              IV. 
+
+       IT IS ORDERED that a public hearing for the purpose of taking evidence on the 
+questions set forth in Section III hereof shall be convened at a time and place to be fixed, and 
+before an Administrative Law Judge to be designated by further order as provided by Rule 110 
+of the Commissions Rules of Practice, 17 C.F.R. § 201.110. 
+
+                                               20 
+ 
+---------------------Page 21---------------------
+
+                                                 
+
+       IT IS FURTHER ORDERED that Respondents Aesoph and Bennett shall file their 
+answers to the allegations contained in this Order within twenty (20) days after service of this 
+Order, as provided by Rule 220 of the Commissions Rules of Practice, 17 C.F.R. § 201.220. 
+
+       If Respondents Aesoph or Bennett fail to file the directed answer, or fail to appear at a 
+hearing after being duly notified, the Respondents may be deemed in default and the proceedings 
+may be determined against the Respondents upon consideration of this Order, the allegations of 
+which may be deemed to be true as provided by Rules 155(a)  , 220(f), 221(f), and 310 of the 
+Commissions Rules of Practice, 17 C.F.R. §§ 201.155(a), 201.220(f), 201.221(f), and 201.310. 
+
+       This Order shall be served upon the Respondents personally or by certified mail. 
+
+       IT IS FURTHER ORDERED that the Administrative Law Judge shall issue an initial 
+decision no later than 300 days from the date of service of this Order, pursuant to Rule 360(a)(2) 
+of the Commissions Rules of Practice, 17 C.F.R. § 201.360(a)(2). 
+
+       In the absence of an appropriate waiver, no officer or employee of the Commission 
+engaged in the performance of investigative or prosecuting functions in this or any factually 
+related proceeding will be permitted to participate or advise in the decision of this matter, except 
+as a witness or counsel in proceedings held pursuant to notice. Since this proceeding is not a 
+rule making within the meaning of Section 551 of the Administrative Procedure Act, it is not 
+deemed subject to the provisions of Section 553 delaying the effective date of any final 
+Commission action. 
+
+       By the Commission. 
+
+ 
+
+                                                           Elizabeth M. Murphy 
+                                                           Secretary 
+ 
+ 
+
+                                               21 
+ 

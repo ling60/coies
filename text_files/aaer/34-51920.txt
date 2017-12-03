@@ -1,0 +1,1479 @@
+---------------------Page 1---------------------
+
+                     SECURITIES AND EXCHANGE COMMISSION
+                                    Washington, D.C.
+
+SECURITIES EXCHANGE ACT OF 1934
+Rel. No. 51920 / June 24, 2005
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Rel. No. 2264 / June 24, 2005              
+
+Admin. Proc. File No. 3-9793
+
+                   In the Matter of
+
+           ROBERT W. ARMSTRONG, III
+
+OPINION OF THE COMMISSION
+
+      CEASE-AND-DESIST AND RULE 102(e) PROCEEDINGS
+ 
+             Grounds for Remedial Action
+
+                    Violations of Antifraud, Reporting, and Recordkeeping Provisions
+
+      Accountant for subsidiary computed and supplied figures necessary to execute parent
+      company's scheme to achieve predetermined growth rates and convey false appearance of
+      a smooth growth trend.  Accountant willfully violated and was a cause of violations of the
+      antifraud, reporting, and recordkeeping provisions of the federal securities laws and rules. 
+      Held, it is in the public interest to order that accountant cease and desist from committing
+      or causing any violations or future violations of the applicable laws and rules.
+
+APPEARANCES:
+
+      Marc B. Dorfman and Bryan B. House, of Foley & Lardner LLP, for Robert W.
+Armstrong, III.
+
+      Robert K. Levenson, for the Division of Enforcement.
+
+Appeal filed: April 27, 2004
+Last brief received: July 2, 2004
+Oral argument: March 29, 2005
+---------------------Page 2---------------------
+
+                                               2
+
+                                               I.
+
+       Robert W. Armstrong, III and the Division of Enforcement each appeal from the decision
+of an administrative law judge.  The law judge found that Armstrong, formerly controller of
+National Medical Care, Inc. ("NMC"), a subsidiary of W.R. Grace & Co. ("Grace"), participated
+in a scheme to manipulate Graces reported earnings to achieve predetermined targets.  The
+scheme involved improperly recording excess earnings as reserves and later using the excess
+reserves to bolster earnings, thereby creating the false impression that Grace had a steady,
+consistent growth in income over a period of several years.  The law judge found that Armstrong
+willfully violated Section 10(b) of the Securities Exchange Act of 1934 1/ and Exchange Act
+Rule 10b-5 2/ and that he was a cause of Grace's violations of those provisions. 
+
+       The law judge also concluded that, as a result of the scheme to manipulate Grace's
+earnings, Grace's periodic reports during the relevant period included financial statements that
+were not in accordance with Generally Accepted Accounting Principles ("GAAP") and that were
+materially misleading in violation of the periodic reporting requirements contained in Exchange
+Act Section 13(a) 3/ and Exchange Act Rules 12b-20, 13a-1, and 13a-13. 4/  The law judge
+found that Armstrong was a cause of these violations.  The law judge further found that the
+scheme resulted in Armstrong violating the recordkeeping requirements of Exchange Act Section
+13(b)(5) 5/ and Exchange Act Rule 13b2-1, 6/ and causing Grace's violation of these provisions
+and of Exchange Act Section 13(b)(2). 7/  The law judge imposed a cease-and-desist order on
+Armstrong.  
+
+       The law judge dismissed the charges brought pursuant to Commission Rule of Practice
+102(e).  8/  The law judge recognized that Armstrong had willfully violated the federal securities
+laws and the Commissions rules within the meaning of Rule 102(e)(1)(iii), but held that Rule
+102(e) applied only to persons appearing or practicing before the Commission.  She concluded
+
+1/     15 U.S.C. § 78j.
+
+2/     17 C.F.R. § 240.10b-5.
+
+3/     15 U.S.C. § 78m(a).
+
+4/     17 C.F.R. §§ 240.12b-20, 240.13a-1, 240.13a-13.
+
+5/     15 U.S.C. § 78m(b)(5).
+
+6/     17 C.F.R. § 240.13b2-1.
+
+7/     15 U.S.C. § 78m(b)(2).
+
+8/     17 C.F.R. § 201.102(e).
+---------------------Page 3---------------------
+
+                                               3
+
+that Armstrong had not been appearing or practicing before the Commission and dismissed the
+Rule 102(e)(1)(iii) charges on this basis.  9/
+
+       Armstrong argues that the law judge erred when she concluded that he violated and
+caused Grace's violations of the federal securities laws and the Commissions rules.  Armstrong
+contends that he was in no position to assess whether Graces financial statements complied with
+GAAP because he had no responsibility for Graces statements and did not know the details of
+how Grace prepared those statements.  Armstrong maintains that there is no basis in the public
+interest for the imposition of a cease-and-desist order. 
+   
+       The Division argues that the law judge erred when she implicitly concluded that Rule
+102(e)(1)(iii) requires that a person be appearing or practicing before the Commission at the time
+of the violative conduct.  The Division maintains that, in any event, Armstrong was appearing
+and practicing before the Commission within the meaning of Rule 102(e)(1)(iii) when he
+committed the alleged violations.  The Division seeks to deny permanently to Armstrong the
+privilege of appearing or practicing before the Commission.  We base our findings on an
+independent review of the record, except with respect to those findings not challenged on appeal.
+
+                                              II.
+
+A.  The Participants
+
+Armstrong
+
+       Armstrong was vice president and controller of NMC from January 1985 until his
+resignation in May 1997.  During this time, he was NMC's chief accounting officer and was
+responsible for NMC's financial reporting on a monthly, quarterly, and annual basis.  Armstrong
+was also responsible for supervising NMC's internal audit department and for supervising the
+preparation and consolidation of the financial reports of NMC's operating subsidiaries.  10/
+
+9/     The law judge also dismissed the charges brought by the Division pursuant to Rule
+       102(e)(1)(ii) on the basis that the Division failed to establish the professional standards to
+       which Armstrong was subject under that Rule.  The Division has not appealed this ruling.
+
+10/    Armstrong was a certified public accountant ("CPA") in Massachusetts from 1977
+       through 1983 at which time he allowed his license to expire.  Armstrong worked as an
+       auditor and supervisor at Touche Ross & Company, a major accounting firm, from 1975
+       until 1980.  Armstrong joined NMC in 1980 and held several positions, including
+       managing the audit department and directing financial reporting and budgeting.  In 1983,
+       Armstrong briefly left NMC, but he rejoined the company in 1985 as vice president and
+       controller.
+---------------------Page 4---------------------
+
+                                               4
+
+       After leaving NMC in 1997, Armstrong continued to work as a financial executive,
+holding positions as a chief financial officer, an accounting officer, and a consultant for large
+public and private companies.  Since 2002, Armstrong has been the chief financial officer of a
+privately-held manufacturing company.  He intends to continue working as a corporate financial
+executive in the future.
+
+NMC 
+
+       NMC was founded in 1968.  NMC first became a subsidiary of Grace in 1984 and was a
+non-reporting wholly-owned subsidiary of Grace throughout the period at issue in this
+proceeding.  NMC's principal business was kidney dialysis services, but it also had divisions
+engaged in manufacturing specialized medical products and providing home health care services.
+
+       Constantine Hampers co-founded NMC.  He was NMC's chief executive officer from
+1973 through 1996, and he was a Grace director from 1985 through 1996.  11/  Miles Nogelo
+was a vice president and chief financial officer of NMC from 1984 until September 1995. 12/ 
+Armstrong reported to Nogelo.
+
+Grace
+
+       Grace was a multinational public corporation with a variety of businesses.  It had
+revenues of $5 to $6 billion during the relevant period. As a public corporation, Grace was
+required to file, and did file, quarterly and annual periodic reports with the Commission.  Jean-
+Paul Bolduc was Grace's president and chief executive officer from 1991 through early 1995. 13/ 
+
+11/    On August 12, 2003, the Commission issued an order in which Hampers consented to
+       cease and desist from committing or causing violations of the securities laws requiring
+       the maintenance of accurate books and records and prohibiting false filings.  Jean-Paul
+       Bolduc, et al., Exchange Act Rel. No. 48325 (Aug. 12, 2003), 80 SEC Docket 3111. 
+
+12/    On August 12, 2003, the Commission issued an order in which Nogelo consented to cease
+       and desist from committing or causing violations of the securities laws requiring the
+       maintenance of accurate books and records.  Jean-Paul Bolduc, et al., Exchange Act Rel.
+       No. 48326 (Aug. 12, 2003), 80 SEC Docket 3115.
+
+13/    On February 27, 2003, the Commission issued an order in which Bolduc consented to
+       cease and desist from committing or causing violations of the antifraud provisions of the
+       federal securities laws.  Jean-Paul Bolduc, et al., Exchange Act Rel. No. 47416 (Feb. 27,
+       2003), 79 SEC Docket 2576.  
+---------------------Page 5---------------------
+
+                                               5
+
+Brian J. Smith was Grace's chief financial officer until August 1995. 14/  Richard Sukenik was
+Grace's controller.  15/  Phillip J. Ryan, III was Grace's assistant controller.  16/
+
+       One of Grace's core businesses was its Health Care Group.  Grace reported the Health
+Care Group as a separate business segment in its consolidated financial statements.  The Health
+Care Group was Grace's fastest growing division; in 1991 and 1992 it contributed approximately
+40 percent of Grace's revenue and 60 percent of its profit.  Many analysts regarded the Health
+Care Group as the driving force behind Grace's stock price.  Grace executives also publicly
+touted the significance of the Health Care Group's contributions to Grace's income.
+
+       NMC was Grace's main health care subsidiary.  17/  NMC submitted monthly, quarterly,
+and annual reports to Grace's financial reporting division.  These reports included revenues, cost
+of revenues, operating expenses, and balance sheets.  Armstrong directed the preparation of
+NMC's monthly, quarterly, and annual financial results.  He also prepared and reviewed the
+Health Care Group's financial results at the end of each quarter during the relevant period. 
+  
+Price Waterhouse
+
+       Price Waterhouse LLP was Grace's auditor at the time of the events in question in this
+proceeding.  Accountants in Price Waterhouse's Boston office ("Price Waterhouse NMC") did
+not perform full scope audits on NMC's books and records from 1991 through the first part of
+
+14/    On July 15, 2002, the Commission issued an order in which Smith consented to cease and
+       desist from committing or causing violations of the antifraud provisions of the federal
+       securities laws.  Jean-Paul Bolduc, et al., Exchange Act Rel. No. 46205 (July 15, 2002),
+       78 SEC Docket 60.
+
+15/    On March 28, 2003, the Commission issued an order in which Sukenik consented to
+       cease and desist from committing or causing violations of the antifraud, reporting, and
+       recordkeeping provisions of the federal securities laws.  Jean-Paul Bolduc, et al.,
+       Exchange Act Rel. No. 47597 (Mar. 28, 2003), 79 SEC Docket 3541.
+
+16/    On July 15, 2002, the Commission issued an order dismissing the cease-and-desist
+       proceedings against Ryan subject to certain conditions under which the Commission
+       could reinstate the proceedings and impose a cease-and-desist order.  Jean-Paul Bolduc,
+       et al., Exchange Act Rel. No. 46206 (July 15, 2002), 78 SEC Docket 65.
+
+17/    Hampers testified that "It [NMC] was the healthcare group."  Nogelo testified that NMC
+       constituted most of the Health Care Group and that "it was well over 90 percent" of the
+       Health Care Group.  Ryan testified that "[i]f you looked at it from a revenue perspective,
+       it [NMC] was all of the revenue [of the Health Care Group].  There were no sales and
+       revenues reported from the other three components.  And in terms of income, be it
+       measured net income or pre-tax income, it was probably greater than 100 percent of the
+       healthcare group given that two of those three components were expenses . . . ."
+---------------------Page 6---------------------
+
+                                               6
+
+1995, but they did conduct certain reviews of NMC's financial statements during this period at
+the instructions of Price Waterhouse accountants auditing Grace.  18/  George Jamieson was the
+Price Waterhouse partner who oversaw the reviews of NMC's financial statements.  Accountants
+in Price Waterhouse's New York and Fort Lauderdale offices ("Price Waterhouse Grace") audited
+Grace's consolidated financial statements.  Price Waterhouse Grace provided unqualified
+opinions on Grace's consolidated financial statements throughout the relevant period.  Eugene
+Gaughan was the Price Waterhouse partner who oversaw the audits of Grace's consolidated
+financial statements from 1989 through 1994. 19/  Thomas Scanlon became the lead Price
+Waterhouse partner on the Grace audit for 1995. 20/
+
+B.  The Scheme
+
+       The facts underlying the scheme to defraud are not in dispute.  Neither is Armstrong's
+conduct as part of the scheme.  21/ 
+ 
+Decision to Record Excess Income as Reserves
+
+       Beginning in late 1990 or early 1991, NMC began to realize income in excess of
+budgeted amounts ("excess income") due to changes in Medicare reimbursement for treatment of
+dialysis patients.  NMC recorded this increased revenue in the physicians' compensation accrual
+account ("Compensation Account") within the dialysis services division.  22/  This account
+represented a reserve account for NMC's potential obligations under its incentive compensation
+
+18/    Armstrong testified that Price Waterhouse NMC conducted "a level two examination or
+       review, which is where they would go in and review certain balance sheet accounts in
+       certain areas . . . ."  Warren Barnes, a Price Waterhouse NMC accountant, described the
+       review as "agreed-upon procedures based on instructions from [the] PW Grace audit
+       team."  These procedures focused on examining revenues and receivables.
+
+19/    On June 30, 1999, Gaughan consented to the entry of an order directing him to cease and
+       desist from committing or causing violations of the securities laws relating to the
+       maintenance of books and records and false filings with the Commission.  Eugene F.
+       Gaughan, C.P.A., Exchange Act Rel. No. 41580 (June 30, 1999), 70 SEC Docket 177.
+
+20/    On June 30, 1999, Scanlon consented to the entry of an order directing him to cease and
+       desist from committing or causing violations of the securities laws relating to the
+       maintenance of books and records and false filings with the Commission.  Thomas J.
+       Scanlon, C.P.A., Exchange Act Rel. No. 51481 (June 30, 1999), 70 SEC Docket 184.
+
+21/    As discussed infra, no one disputes that the accounting treatment of the income at issue
+       violated GAAP or that the use of the income to manipulate growth rates constituted fraud. 
+       Rather, the sole issue in this case is Armstrong's legal liability for his admitted conduct.
+
+22/    NMC did not indicate the source of these deposits on its books and records.
+---------------------Page 7---------------------
+
+                                               7
+
+agreements with the physicians who managed NMC's dialysis clinics, and the excess income
+recorded in this reserve account was in addition to amounts projected as necessary to cover
+potential obligations ("excess reserves").   Hampers, Armstrong, and other managers at NMC
+decided not to report the excess amounts as revenue to Grace until the dialysis services division
+determined how much additional revenue NMC might earn and for how long.
+
+       By August 1991, at least $10 million in excess income had accumulated in the
+Compensation Account, and the dialysis services division determined that the account would
+continue to accumulate excess income at a rate of $4 million to $5 million per month. 
+Armstrong concluded that the excess reserves would cause a material misstatement of NMC's
+financial statements if they were not reported as revenue and discussed this fact with Hampers
+and Nogelo.  Hampers then instructed Armstrong and Nogelo to disclose the existence of the
+additional revenue and excess reserves to Smith, Grace's chief financial officer.
+
+       In approximately September 1991, Armstrong and Nogelo called Smith and told him
+about the excess income.  Smith ordered Armstrong and Nogelo to report only enough income to
+establish the Health Care Group's earnings at a 24 percent growth rate for 1991 and to record any
+revenue that would result in a growth rate above 24 percent as reserves in the Compensation
+Account.  According to Armstrong, Smith told him and Nogelo that "Grace would not get credit
+for additional growth rate beyond that 24 percent."  Nogelo testified that Smith wanted earnings
+that were not needed to achieve that growth rate put into reserves to be used to achieve future
+growth rate targets.  Ryan testified that Smith did not believe that NMC's extraordinary growth
+rate in the early 1990s could be sustained, and that Smith was concerned about a future drop in
+earnings.  Nogelo said that Smith "wanted to report consistent earnings for Grace and the
+healthcare segment rather than have volatile earnings," and that Smith "felt that Wall Street and
+investors valued consistency."
+
+Armstrong's Role in Implementing the Scheme
+
+       Armstrong executed Smith's instruction to meet the 24 percent growth rate target.  He
+calculated the amount to be held in excess reserves and instructed his staff accordingly. 
+Armstrong then supplied Grace with NMC financial reports that contained these misstated
+income figures.  Armstrong knew that Grace used the numbers that he submitted with respect to
+NMC's earnings to compile drafts of Grace's public filings related to the Health Care Group. 
+Armstrong reviewed drafts of the Health Care Group's disclosures that were included in Grace's
+financial statements and confirmed that the financial results included in those disclosures
+reflected the numbers he had submitted to Grace.
+ 
+       The excess reserves in the Compensation Account reached approximately $22 million by
+the end of 1991.  Without diverting the revenue to the reserve account, the Health Care Group
+would have reported enough revenue to show a 35 percent growth rate in 1991 rather than the 24
+percent growth rate targeted by Smith.
+---------------------Page 8---------------------
+
+                                              8
+
+Armstrong's Communications with Price Waterhouse Concerning the Excess Reserves
+
+       In approximately November 1991, Price Waterhouse NMC discovered the excess
+reserves in the Compensation Account while reviewing NMC's books and records.  At the
+conclusion of its review, Price Waterhouse NMC prepared a net effects schedule containing all
+accounting entries in NMC's financial statements with which it disagreed. 23/  The 1991 NMC
+net effects schedule contained an entry noting that the excess reserves should be eliminated from
+the Compensation Account. 24/  George Jamieson discussed this schedule at a meeting with
+Armstrong, Nogelo, and Hampers, and Armstrong admits that he knew that Price Waterhouse
+NMC had indicated that the excess reserves should be eliminated.  Neither Hampers, Nogelo, nor
+Armstrong effectuated the change recommended by Price Waterhouse NMC.  Consequently, the
+results that NMC sent to Grace, Grace's consolidated financial statements, and the segment
+disclosure for the Health Care Group in Grace's financial statements contained the targeted
+income figures achieved by diverting actual income to the Compensation Account.  25/
+
+Armstrong Continues to Record Excess Reserves
+
+       Smith continued to instruct Armstrong to manipulate reported income in 1992.  Smith
+directed NMC to report a growth rate of between 27 and 28 percent for the Health Care Group's
+income for 1992.  To comply with Smith's directive, Armstrong increased the excess reserves in
+the Compensation Account to $48.7 million.  Armstrong and other NMC officers also recorded
+
+23/    A net effects schedule documents the significant accounting issues uncovered by the
+       auditor during its review of a client's books and records and lists proposed adjustments.
+
+24/    The parties agree that the applicable accounting standards are contained in Financial
+       Accounting Standards Board ("FASB") Statement of Financial Accounting Standards No.
+       5 ("FAS 5").  FAS 5 permits the non-recognition of revenue or the accrual of income in a
+       reserve account when two conditions related to a future contingency are met: the
+       contingency is both probable and reasonably estimable.  Armstrong admitted that no
+       probable or reasonably estimable liabilities justified accruing the excess income in the
+       Compensation Account and that he could not justify the excess reserves in that account
+       on the basis of any actual contingencies.
+
+25/    Price Waterhouse NMC informed Price Waterhouse Grace about the excess reserves.  In
+       November of 1991, Eugene Gaughan, the Price Waterhouse partner in charge of the audit
+       of Grace's financial statements, first relayed to Smith his concerns that the excess reserves
+       were not justified under GAAP.  In early 1992, Gaughan and Thomas Scanlon, another
+       Price Waterhouse accountant, met with Smith and Bolduc and told them that the reserves
+       were not justified under GAAP and should be reported as income.  Price Waterhouse
+       Grace ultimately concluded, however, that the total effects of the excess reserves were not
+       material to Grace's financial statements and issued an unqualified audit opinion. 
+       Armstrong knew Price Waterhouse Grace issued clean opinions but did not know Price
+       Waterhouse Grace's rationale for allowing the reserves.
+---------------------Page 9---------------------
+
+                                               9
+
+an additional $7.1 million of excess reserves in NMC's home care division, resulting in total
+excess reserves of almost $56 million.  As a result, Grace reported a 27 percent growth rate for
+the Health Care Group in 1992 as Smith had directed.
+
+       During 1992, Price Waterhouse NMC continued to express concern over the excess
+reserves.  In July 1992, Jamieson met with Armstrong and Nogelo and told them that the excess
+reserves would be a problem if they were significantly higher than in 1991.  When Jamieson
+became aware that the 1992 excess reserves were almost $56 million, he told Armstrong and
+Nogelo that the excess reserves were so large that he would be unable to issue an audit report
+containing an unqualified opinion on NMC's stand-alone financials were he required to do so. 26/ 
+Price Waterhouse NMC again made entries on its year-end net effects schedule noting that it
+believed the excess reserves were improper and should be eliminated.  27/
+
+       Beginning in 1993, the excess reserves were used from time to time pursuant to Smith's
+instructions to bolster earnings.  28/  For example, NMC and Grace took $2.5 million from the
+excess reserves and recorded it as income in each of the second, third, and fourth quarters of
+1993.  In addition, Grace and NMC used an additional $6 million in excess reserves during that
+year to mask revenue shortfalls.  As a result of the excess reserves being added to income, the
+Health Care Group was able to report a growth rate of 34.6 percent in 1993 instead of a growth
+rate of 14 percent.  29/
+
+26/    No audit opinion was required because NMC was a wholly-owned subsidiary of Grace
+       and not itself a reporting company.
+
+27/    Gaughan and Scanlon, the lead Price Waterhouse Grace accountants, continued to object
+       to the excess reserves.  Nevertheless, the Price Waterhouse audit team issued audit
+       reports containing unqualified opinions that Grace's consolidated financial statements
+       were in accordance with generally accepted auditing standards ("GAAS") and GAAP. 
+       Gaughan and Scanlon each consented to entry of an order directing them to cease and
+       desist from committing or causing violations or future violations of the securities laws
+       relating to maintenance of books and records and false filings with the Commission.  See
+       supra notes 19 and 20. 
+
+28/    Accordingly, the amount of excess reserves in the Compensation Account remained
+       relatively steady from 1993 to the first quarter of 1995, increasing in some quarters and
+       decreasing in others, but generally remaining at approximately $50 million.  The excess
+       reserves totaled $49.9 million at the end of 1993 and $48.9 million at the end of 1994. 
+
+29/    The use of the reserves to bolster earnings was effectuated by Armstrong instructing his
+       staff to make entries reducing the amount of the excess reserves by the amount of
+       additional income Grace said it required to meet its target.  The record is not entirely clear
+       about where the income was recorded, but it indicates that Armstrong would also instruct
+       his staff to make entries increasing the income of the Health Care Group.
+---------------------Page 10---------------------
+
+                                               10
+
+       In this way, Smith was able to use the excess reserves to reduce the fluctuations in the
+Health Care Group's reported earnings and to present a picture of a steadier earnings trend.  From
+1991 through 1995, Grace reported income growth for the Health Care Group of 22.7 percent to
+37.1 percent.  Without using the reserves to adjust income, the Groups income would have
+ranged from a loss of 7.9 percent to a gain of 60.5 percent.
+
+       Armstrong voiced concerns to Price Waterhouse NMC accountants and his superiors at
+NMC and Grace about the excess reserves throughout the period at issue.  30/  Armstrong did not
+believe that the reserves were recorded in accordance with GAAP or with FAS 5, and he would
+not have recorded the reserves had Smith not instructed him to do so.  He nevertheless achieved
+the required earnings targets by determining the amount of revenues that should be recorded as
+reserves and instructing his staff accordingly.  He did so even though he believed that no
+probable or reasonably estimable liabilities or exposures justified those reserves in the
+Compensation Account.  Armstrong was aware that Smith's only reason for recording the excess
+reserves was to achieve a targeted growth rate.
+
+                                              III.
+
+       The Division alleges that Armstrong participated in Grace's scheme to manipulate
+reported earnings by preparing books and records that falsely reported NMCs income and by
+providing these false figures to Grace.  The Division contends that Armstrong violated, and was a
+cause of Grace's violations of, the antifraud provisions of the federal securities laws as a result of
+this conduct.  It further contends that through this conduct Armstrong violated or was a cause of
+Grace's violations of various recordkeeping requirements and of Grace's periodic reporting
+requirements.  The Division asks that we enter a cease-and-desist order against Armstrong.  It
+also seeks an order denying Armstrong the privilege of appearing or practicing before the
+Commission pursuant to Rule of Practice 102(e)(1)(iii) on the basis of Armstrong's alleged
+willful violations of the federal securities laws. 
+   
+A.     Violations of the Antifraud Provisions
+
+       Exchange Act Section 10(b) authorizes the Commission to prescribe rules, "as necessary
+or appropriate in the public interest or for the protection of investors," making it "unlawful for
+any person, directly or indirectly," to "use or employ in connection with the purchase or sale of
+any security . . . any manipulative or deceptive device or contrivance."  31/  Consistent with
+Section 10(b), Exchange Act Rule 10b-5(a) makes it unlawful for "any person," "directly or
+indirectly," to "employ any device, scheme, or artifice to defraud."  Rule 10b-5(c) makes it
+
+30/    In 1995, NMC filed a Form 10 with the Commission in connection with Grace's plan to
+       spin off NMC.  The Form 10 contained stand-alone financial statements for NMC for the
+       previous three years.  The excess reserves were returned to income in the financial
+       statements filed with the Form 10 at Armstrong's insistence.
+
+31/    15 U.S.C. § 78j.
+---------------------Page 11---------------------
+
+                                               11
+
+unlawful for "any person," "directly or indirectly," to "engage in any act, practice, or course of
+business which operates or would operate as a fraud or deceit upon any person . . . ."  32/
+
+       The Supreme Court has stated that Section 10(b) encompasses deceptive "practices," 33/
+deceptive "conduct," 34/ and deceptive "acts," 35/ and that its prohibition against employing "any
+manipulative or deceptive device or contrivance" includes a scheme to defraud.  36/  A person's
+conduct as part of a scheme constitutes a primary violation when the person directly or indirectly
+
+32/    17 C.F.R. § 240.10b-5.
+
+33/    Santa Fe Indus., Inc. v. Green, 430 U.S. 462, 475-76 (1977).
+
+34/    United States v. O'Hagan, 521 U.S. 642, 659 (1997).
+
+35/    Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A., 511 U.S. 164, 173
+       (1994).
+
+36/    Ernst & Ernst v. Hochfelder, 425 U.S. 185, 199 n.20 (1976); see also Cooper v. Pickett,
+       137 F.3d 616, 624-25 (9th Cir. 1997) (holding that plaintiffs could allege primary liability
+       through a scheme to defraud because Rule 10b-5(a) makes it unlawful to employ any
+       device, scheme, or artifice to defraud); Greenberg v. Bear Stearns & Co., 220 F.3d 22, 28
+       (2d Cir. 2000) ("Knowing participation in a fraudulent scheme may render a participant
+       liable under Section 10(b).").  
+
+       Armstrong contends that misrepresentation cases must allege that a defendant made a
+       material misstatement or omission while market manipulation cases can be proved by a
+       showing that a person participated in a fraudulent scheme, citing Thomson Kernaghan &
+       Co. v. Global Intellicom, Inc., 2000 WL 640653 at *4-5 (S.D.N.Y.), an unreported
+       decision.  The significance of this assertion is unclear.  A plaintiff may state a claim for a
+       fraudulent scheme under subsections (a) and (c) of Rule 10b-5 even when not alleging
+       "market manipulation."  See In re Global Crossing Ltd. Sec. Litig., 322 F. Supp. 2d 319,
+       336-37 (S.D.N.Y. 2004).  Subsections (a) and (c) encompass much more than the illegal
+       trading activity typically involved in a manipulation of the market for a stock:  they
+       encompass the use of "any device, scheme or artifice," or "any act, practice, or course of
+       business" used to perpetrate a fraud on investors.  Id. at 336 (emphasis original). 
+       Schemes used to artificially inflate the price of stocks by creating phantom revenue fall
+       squarely within both the language of section 10(b) and its broad purpose, to "prevent
+       practices that impair the function of stock markets in enabling people to buy and sell
+       securities at prices that reflect undistorted (though not necessarily accurate) estimates of
+       the underlying economic value of the securities traded," and nothing in the language of
+       section 10(b) or Rule 10b-5 or in the case law interpreting them shields a defendant from
+       liability for direct participation in such a scheme.  Id. at 337 (citations omitted).
+---------------------Page 12---------------------
+
+                                               12
+
+engages in a manipulative or deceptive act as part of the scheme.  37/  Accordingly, a person may
+be primarily liable for violating Section 10(b) and Rule 10b-5 when he (1) engages in a
+manipulative or deceptive act as part of a scheme to defraud (2) with scienter.  38/
+
+       1. F     raudulent scheme
+
+       Allocating a portion of NMC's income to excess reserves in 1991 to 1992 and using the
+reserves to inflate falsely and materially 39/ Grace's stated income in 1993, 1994, and the first
+
+37/    See, e.g., Cooper, 137 F.3d at 624 (stating that Central Bank does not preclude liability
+       based on allegations that a group of defendants acted together to violate the securities
+       laws, as long as each defendant committed a manipulative or deceptive act in furtherance
+       of the scheme); In re Enron Corp. Sec. Litig., 258 F. Supp. 2d 576, 627 n.56 (S.D. Tex.
+       2003) (holding that a plaintiff must allege that each defendant in a scheme committed a
+       manipulative or deceptive act in furtherance of the scheme to state a claim against that
+       defendant); In re Lernout & Hauspie Sec. Litig., 236 F. Supp.2d 161, 173 (D. Mass.
+       2003) (authorizing primary liability for "any person who substantially participates in a
+       manipulative or deceptive scheme by directly or indirectly employing a manipulative or
+       deceptive device . . . intended to mislead investors, even if a material misstatement by
+       another person creates the nexus between the scheme and the securities market").
+
+38/    See, e.g., In re Global Crossing Ltd. Sec. Litig., 322 F. Supp. 2d 319, 336 (S.D.N.Y.
+       2004); Brown v. Kinross Gold, U.S.A., 343 F. Supp. 2d 957, 963 (D. Nev. 2004); see also
+       In re Enron Corp. Sec. Litig., 235 F. Supp. 2d 549, 592 (S.D. Tex. 2002) ("If a plaintiff
+       meets the requirements of pleading primary liability as to each defendant, i.e., alleges
+       with factual specificity (1) that each defendant made a material misstatement (or
+       omission) or committed a manipulative or deceptive act in furtherance of the alleged
+       scheme to defraud, (2) scienter, and (3) reliance, that plaintiff can plead a scheme to
+       defraud and still satisfy Central Bank.").  The Division is not required to prove reliance. 
+       SEC v. North American Research and Development Corp., 424 F.2d 63, 84 (2d Cir.
+       1970); SEC v. Blavin, 760 F.2d 706, 711 (6th Cir. 1985); SEC v. Rana Research, Inc., 8
+       F.3d 1358, 1363-64 (9th Cir. 1993).
+
+39/    A fact is material if there is a "substantial likelihood that the disclosure of the omitted fact
+       would have been viewed by the reasonable investor as having significantly altered the
+       'total mix' of information made available."  Basic Inc. v. Levinson, 485 U.S. 224, 231-32
+       (1988) (quoting TSC Industries, Inc. v. Northway, Inc., 426 U.S. 438, 449 (1976)).  A
+       reasonable investor would have considered the true volatility of Grace's earnings to be
+       important.  The Division's expert testified that the value of a corporation's shares depends
+       heavily on its growth rate and the smoothness of the trend of that growth rate.  As a result
+       of the false income figures Armstrong submitted to Grace, Grace reported income growth
+       for the Health Care Group of 22.7 percent to 37.1 percent from 1991 through 1995, but
+       would have reported a loss of 7.9 percent to a gain of 60.5 percent without using the
+                                                                                    (continued...)
+---------------------Page 13---------------------
+
+                                               13
+
+quarter of 1995 constituted a fraudulent scheme.  The purpose of the scheme was to create
+publicly-filed financial statements that deceived analysts and investors by portraying the Health
+Care Group's rate of income growth as steadier than in reality, and as consistent with analyst
+expectations.
+
+       Armstrong is primarily liable for his role in this deception.  It was Armstrong who
+calculated the amounts of income necessary to be held as excess reserves in order to achieve the
+falsified earnings and who recorded the excess reserves on NMC's financial statements. 
+Armstrong then directed his staff to make entries booking the necessary reserve amounts when
+NMC's income exceeded Grace's targets.  Later, he also instructed his staff to reduce reserves and
+increase income for the Health Care Group by the necessary amounts when Grace needed to use
+the reserves to meet earnings targets.  Finally, Armstrong submitted this inaccurate revenue
+information to Grace knowing that Grace would incorporate it into its financial statements and
+that the incorporation of this information would materially alter Grace's revenue as stated in its
+public filings.  Armstrong's conduct in thus falsifying NMC's revenues was the mechanism by
+which Grace achieved its goal of deceiving investors and analysts as to its income stream.  The
+principal purpose of these actions, reporting figures with respect to NMC's revenues and earnings
+that Armstrong knew to be false, was to create the false appearance that Grace had steady,
+consistent growth in income over a period of several years.  Armstrong also reviewed drafts of
+the Health Care Group's disclosures that were included in Grace's financial statements and
+confirmed that the financial results included in those disclosures conformed with the false and
+misleading numbers he had submitted to Grace.  The materially misleading revenue amounts
+reported in Grace's financial statements were caused entirely by the false figures reported by
+Armstrong.  We conclude that Armstrong engaged in deceptive acts as part of a scheme to
+defraud.  40/
+
+39/    (...continued)
+       excess reserves.  Armstrong does not contest the materiality of this information to Grace's
+       financial statements.
+
+40/    See, e.g., Cooper, 137 F. 2d at 624 (holding that plaintiffs stated a claim against company
+       and analysts for primary liability under Section 10(b) where company made false
+       statements to analysts and analysts issued reports based on statements that they knew
+       were false as part of scheme to defraud company's shareholders by falsely presenting the
+       company's current and future business prospects); Cf. Global Crossing, 322 F. Supp. 2d at
+       336 (holding that plaintiffs stated a claim against accounting firm for primary liability
+       under Section 10(b) where accounting firm directed misleading accounting scheme and
+       sham swap transactions used to circumvent GAAP and inflate companies' revenues,
+       actively participated in structuring each swap, and directly participated in the creation of
+       misleading numbers that concealed these practices from investors); Lernout & Hauspie,
+       236 F. Supp. 2d at 172-74 (holding that plaintiffs stated a claim against defendants for
+       primary liability under Section 10(b) where defendants participated in scheme to hide
+       research and development expenses, create fictitious revenue, and ultimately overstate
+                                                                                   (continued...)
+---------------------Page 14---------------------
+
+                                               14
+
+        Armstrong contends, relying principally on Wright v. Ernst & Young LLP 41/ and
+Shapiro v. Cantor 42/, that the Division's case against him fails because the Division did not
+establish that Armstrong directly made a false or misleading statement to Graces investors.  The
+Supreme Court has rejected the contention that Section 10(b) "covers only deceptive statements
+or omissions." 43/  Since Wright and Shapiro are limited to analyses of culpability for misleading
+statements and do not address liability with respect to a fraudulent scheme, they are of limited
+relevance here.  44/
+
+       Moreover, even if Armstrong's liability were examined under Rule 10b-5(b)  which
+makes it unlawful for any person to directly or indirectly make any untrue statement of a
+material fact in connection with the purchase of sale of a security  Wright and Shapiro offer
+little to further his argument.  In Wright, the court held that an accounting firm was not primarily
+liable under Section 10(b) for misstatements in its client's press release when the firm had done
+nothing more than orally assure the company that its financial results were accurate.  The court
+held that the press release disseminating those financial results attributed no assurances to the
+accounting firm and explicitly stated that the results were unaudited.  Here, Armstrong actually
+calculated the false data, recorded it, and submitted it to Grace knowing that it would be
+incorporated into Graces financial statements and make them materially false and misleading,
+and he reviewed drafts of documents included in Graces financial statements and confirmed that
+
+40/    (...continued)
+       profits by setting up, funding, and operating shell companies knowing that these
+       companies were designed solely to inflate profits artificially).
+
+41/    152 F.3d 169 (2d Cir. 1998), cert. denied, 525 U.S. 1104 (1999).
+
+42/    123 F.3d 717 (2d Cir. 1997).
+
+43/    United States v. O'Hagan, 521 U.S. 642, 664 (1997); see also Affiliated Ute Citizens v.
+       United States, 406 U.S. 128, 152-53 (1972) (stating that court of appeals erred when it
+       held that there was no violation of Rule 10b-5 unless the record disclosed evidence of
+       reliance on material fact misrepresentations because, although Rule 10b-5(b) requires the
+       making of an untrue statement of material fact or the omission to state a material fact,
+       Rule 10b-5(a) and (c), addressing schemes, devices, and courses of business, are not so
+       restricted).
+
+44/    See SEC v. U.S Environmental, Inc., 155 F.3d 107, 112 (2d Cir. 1998) (distinguishing
+       Shapiro and Central Bank and holding defendant primarily liable because he "participated
+       in the fraudulent scheme" by "himself committ[ing] a manipulative act") (citations
+       omitted).
+---------------------Page 15---------------------
+
+                                               15
+
+those documents conformed with the false data he had previously submitted.  45/  In Shapiro, the
+court held that an accounting firm was not primarily liable for its client's failure to disclose the
+material information that one of the client's principals had been convicted of fraud.  The court
+held that the accounting firm had no duty to disclose such information, and that the only
+information prepared by the firm in the client's offering memoranda, the client's financial
+projections, did not include any material misstatements.  Again, this case is distinguishable from
+the instant case, where Armstrong calculated, recorded, and then submitted to Grace the
+materially false information that was incorporated into Grace's financial statements.  A person
+can be primarily liable under Section 10(b) and Rule 10b-5 for directly or indirectly making an
+untrue statement of fact if that person, acting alone or with others, creates a false statement that
+reaches investors.  46/
+
+       Armstrong further argues that he cannot be held liable for violating Section 10(b) or Rule
+10b-5 because he merely followed Smith's directions to carry out the fraudulent acts.  Case law
+does not support Armstrong's claim.  Courts have repeatedly affirmed that someone who
+participates in a fraudulent scheme by following his superior's instructions to carry out fraudulent
+
+45/    The Wright courts requirement that a false statement be publicly attributed to the
+       defendant was motivated by a desire not to undermine the reliance element of a private
+       action under Rule 10b-5(b).  As noted, see supra note 38, the Division, unlike a private
+       plaintiff, is not required to prove reliance.  Thus, the principal basis for the attribution
+       requirement in Wright is not present here.
+
+46/    See, e.g., In re Enron Corp. Sec. Litig., 235 F. Supp. 2d 549, 588 (S.D. Tex. 2002)
+       (adopting Commissions proposed test for liability under Rule 10b-5(b) that a person is
+       primarily liability when he, acting alone or with others, creates a misrepresentation or
+       writes misrepresentations for inclusion in a document to be given to investors); In re
+       ZZZZ Best Sec. Litig., 864 F. Supp. 960, 970 (C.D. Cal. 1994) (holding that anyone
+       intricately involved in the creation of misstatements and the resulting deception to
+       investors should be liable under Rule 10b-5(b)); In re Software Toolworks, 50 F.3d 615,
+       628 n.3, 629 (9th Cir. 1994) (holding that accounting firm could be primarily liable under
+       Section 10(b) when it reviews and plays a significant role in drafting and editing letters to
+       the Commission containing misstatements);  Cashman v. Coopers & Lybrand, 877 F.
+       Supp. 425, 432 (N.D. Ill. 1995) (holding that accounting firm may be primarily liable for
+       its central role in the drafting and formation of misstatements incorporated into
+       companys prospectus); McNamara v. Bre-X Minerals Ltd., 57 F. Supp. 2d 396, 429
+       (E.D. Tex. 1999) (stating that, in amending their complaint, plaintiffs will adequately
+       state a claim against defendants who allegedly played a significant role in developing
+       allegedly false statements made by issuer).  In this case, Armstrong, by communicating
+       the false information to Grace, was, if not directly, at least indirectly, making the false
+       statements that appear in Graces financial statements.
+---------------------Page 16---------------------
+
+                                               16
+
+acts can be liable as a primary violator under Section 10(b) and Rule 10b-5. 47/  Armstrong
+carried out Smith's instructions to make fraudulent entries in NMC's books and records.  As
+discussed above, Armstrong's calculation of the false figures constituted deceptive acts as part of
+a fraudulent scheme.
+
+       Armstrong suggests that finding him liable will result in horrific consequences since any
+individual who discovers misstatements and investigates or inquires about them but fails to
+prevent their publication will henceforth be liable for antifraud violations.  Armstrong ignores a
+critical distinction between this hypothetical conduct and his own.  Armstrong did not merely
+discover potential misstatements; he determined the amounts necessary to be held in reserve, he
+prepared NMC's fraudulent financial results, and he provided these figures to Grace.  He also
+reviewed Grace's financial statements and confirmed that the fraudulent results he had submitted
+were included in the Health Care Group segment disclosures.  Thus, Armstrong was an active
+participant in the fraudulent scheme rather than an innocent bystander.
+
+       2.     Scienter
+
+       Scienter is a necessary element of a violation of Exchange Act Section 10(b) and
+Exchange Act Rule 10b-5. 48/  Scienter has been defined by the United States Supreme Court as
+a "mental state embracing intent to deceive, manipulate or defraud." 49/  The record contains
+abundant undisputed evidence that Armstrong acted with scienter.  Armstrong testified that he
+knew that Smith's sole reason for establishing the NMC excess reserves was to create the
+appearance of a growth rate for Grace's income that was different from Grace's true rate.  50/ 
+
+47/    See SEC v. U.S. Environmental, Inc., 155 F.3d at 112 (holding that someone who
+       participates in a fraudulent scheme by committing manipulative acts may be liable as a
+       primary violator despite the fact that someone else directed the scheme); see also In re
+       Enron Corp. Sec. Litig., 235 F.Supp. 2d at 588 (holding that a person can be a primary
+       violator provided the person writes misrepresentations for inclusion in a document to be
+       given to investors even if the person did not initiate the misrepresentations and the idea
+       for the misrepresentations came from someone else).
+
+48/    See Aaron v. SEC, 446 U.S. 680, 695, 697 (1980); Ernst & Ernst v. Hochfelder, 425 U.S.
+       185, 193 (1976); Steadman v. SEC, 603 F.2d 1126, 1134 (5th Cir. 1979), aff'd, 450 U.S.
+       91 (1981). 
+
+49/    Ernst & Ernst v. Hochfelder, 425 U.S. at 193.  Reckless behavior satisfies the scienter
+       requirement.  See, e.g., SEC v. Dain Rauscher, Inc., 254 F.3d 852, 856 (9th Cir. 2001);
+       C.E. Carlson, Inc. v. SEC, 859 F.2d 1429, 1435 (10th Cir. 1988); see also SEC v. U.S.
+       Environmental, 155 F.2d at 111.
+
+50/    For this reason, we find disingenuous Armstrongs arguments that he lacked scienter
+       because he did not know NMCs false financial results would cause Graces periodic
+                                                                                   (continued...)
+---------------------Page 17---------------------
+
+                                              17
+
+Armstrong calculated the amounts to be allocated to the excess reserve accounts in order to
+achieve the income growth rate targeted by Smith and provided NMC's financial results to Grace
+knowing that they contained the falsely calculated income and reserve figures.  Armstrong
+conceded that no known contingencies justified the excess reserves and that the excess reserves
+did not accord with GAAP.  Armstrong also knew at the time he recorded the excess reserves
+that those reserves would be used to increase income artificially at some later point.  He was also
+aware that Grace used the NMC reports containing the misleading figures that he submitted to
+compile its financial statements and the Health Care Group segment disclosures in its Forms 10-
+K and 10-Q.  Armstrong reviewed Grace's draft Forms 10-K and 10-Q and confirmed that they
+contained the earnings numbers that NMC submitted to Grace.  He also knew that Price
+Waterhouse NMC believed that the excess reserves should be eliminated.  We conclude that
+Armstrong knowingly participated in the fraudulent scheme.
+
+       Armstrong argues that a finding that he acted with scienter is inappropriate because he
+repeatedly discussed his belief that the excess reserves did not accord with GAAP with his
+supervisors at NMC, senior management at Grace, Grace's internal audit staff, and Price
+Waterhouse NMC.  Armstrong's expressed concerns about the scheme, however, while
+establishing that he perhaps acted reluctantly, make clear that he acted knowingly.  51/
+Armstrong's testimony about his conversations with others at NMC, Grace, and Price
+Waterhouse demonstrates that he knew that the excess reserves did not accord with GAAP but he
+nevertheless recorded the reserves and submitted reports to Grace that included these entries.
+
+       Armstrong next contends that he reasonably relied on the auditors at Price Waterhouse
+who issued unqualified audit opinions with respect to Grace's consolidated financial statements. 
+This argument is without merit.  When a respondent knows financial statements are false and
+misleading, he cannot "rely" in good faith on an auditor's willingness to issue an unqualified
+
+50/    (...continued)
+       reports to contain material misstatements, he did not know what other liabilities existed
+       for which the excess reserves might be needed, and he could reasonably assume that
+       Graces consolidation process would result in financial statements that did not contain
+       material misstatements.  Armstrong knew that the principal purpose and effect of the
+       scheme was to deceive investors by creating materially false financial statements. 
+
+51/    We also note that the record does not indicate that Armstrong ever raised his concerns
+       specifically with Price Waterhouse Grace.
+---------------------Page 18---------------------
+
+                                              18
+
+audit opinion with respect to those statements.  52/  Armstrong knew that the excess reserves did
+not accord with GAAP and that the excess reserves caused misstatements of the Health Care
+Group's results in Grace's financial statements.  Armstrong also knew that Price Waterhouse
+NMC believed that the excess reserves did not accord with GAAP and wanted them removed and
+returned to earnings.  53/
+
+       Armstrong recorded the excess reserves and submitted them to Grace knowing that they
+did not accord with GAAP and that Grace desired the reserves for the purpose of earnings
+management.  He also made entries reducing the reserves and increasing income when Grace
+instructed NMC to provide it with more income.  Armstrong also knew that Grace used the
+numbers he submitted to compile drafts of its public filings related to the Health Care Group.  He
+admits that he reviewed these drafts to confirm that the financial results included in those
+disclosures reflected the numbers he had reported to Grace.  Finally, he acknowledges that he
+knew that the financial statements that Grace filed with the Commission reflected the excess
+reserves.  Based on this extensive record evidence, we conclude that Armstrong participated with
+scienter in the fraudulent scheme to falsify Grace's earnings. 
+
+       Armstrong committed deceptive acts as part of a scheme to defraud.  He engaged in these
+acts with a high degree of scienter.  Accordingly, we find that Armstrong willfully violated
+Section 10(b) of the Exchange Act and Rule 10b-5.  54/
+
+52/    United States v. Erickson, 601 F.2d 296, 305-06 (7th Cir. 1979); see also Marksman
+       Partners, L.P. v. Chantal Pharm. Corp., 927 F. Supp. 1297, 1314 n.13 (C.D. Cal. 1996);
+       SEC v. DCI Telecommunications, Inc., 122 F. Supp. 2d 495, 500 n.2 (S.D.N.Y. 2000);
+       Cf. Howard v. SEC, 376 F.3d 1136, 1147 (D.C. Cir. 2004) (stating that where respondent
+       can show that he relied reasonably on the advice of an attorney, this may be evidence that
+       respondent acted in good faith).
+
+53/    See, e.g., United States v. Evangelista, 122 F.3d 112, 117 (2d Cir. 1997) (rejecting good
+       faith reliance defense in tax evasion case where defendant's conduct was contrary to
+       accountants advice).
+
+54/    Armstrong acted willfully in violating the antifraud provisions.  Acting willfully means
+       intentionally committing the act that constitutes the violation.  There is no requirement
+       that the actor also be aware that he is violating one of the Rules or Acts.  Arthur Lipper
+       Corp. v. SEC, 547 F.2d 171, 180 (2d Cir. 1976) (quoting Tager v. SEC, 344 F.2d 5, 8 (2d
+       Cir. 1965)); Wonsover v. SEC, 205 F.3d 408, 414 (D.C. Cir. 2000) (quoting Gearhart &
+       Otis, Inc. v. SEC, 348 F.2d 798, 803 (D.C. Cir. 1965)); V.F. Minton Securities, Inc., 51
+       S.E.C. 346, 352 (1993), aff'd, 18 F.3d 937 (5th Cir. 1994) (Table). Armstrong acted
+       willfully because he intentionally committed the deceptive acts.  
+---------------------Page 19---------------------
+
+                                               19
+
+B.     Causing Violations of the Antifraud Provisions
+
+       Armstrong also was a cause of violations of the antifraud provisions of the securities
+laws.  An individual is a cause of a violation if 1) a primary violation occurred; 2) the individual
+committed an act or omission that was a cause of the violation; and 3) the individual knew or
+should have known that his conduct would contribute to the violation.  55/   Armstrong
+participated in and caused a fraudulent scheme in violation of Section 10(b) of the Exchange Act
+and Rule 10b-5, whereby Grace issued financial statements that contained material
+misstatements.   Armstrong was a cause of these violations by calculating and providing Grace
+with the figures that enabled it to report the fraudulent growth rates.  Armstrong knew that his
+conduct would contribute to these violations because he knew that Grace incorporated these
+figures into its financial statements.  As a result, Armstrong is liable as a cause of violations of
+the antifraud provisions.
+
+C.     Periodic Reporting Requirement Violations
+
+       Exchange Act Section 13(a) and Exchange Act Rules 13a-1 and 13a-13 require public
+companies whose securities are registered pursuant to Exchange Act Section 12 to file annual
+and quarterly reports with the Commission.  The obligation to file these reports includes an
+obligation that the filings be accurate.  56/  The rules require that the reports comply with
+Regulation S-X, which in turn requires that financial statements be prepared in conformity with
+GAAP.  57/  Rule 12b-20 requires an issuer to provide any additional information in the reports
+necessary in order to make the reports not misleading.  58/
+
+       Grace violated Exchange Act Section 13(a) and Rules 12b-20, 13a-1 and 13a-13 because
+its Form 10-K and Form 10-Q filings included financial statements that were materially false and
+misleading and that did not accord with GAAP.  Armstrong was a cause of these violations
+because he calculated and recorded the excess reserves, submitted financial reports containing
+the effect of the reserves to Grace and, through his subsequent review of Grace's financial
+statements, ensured that his false figures had been incorporated into those statements.  Armstrong
+knew that his conduct would contribute to the violations because he knew that Grace used these
+
+55/    Robert M. Fuller, Exchange Act Rel. No. 48406 (Aug. 25, 2003), 80 SEC Docket 3539,
+       3545.
+
+56/    United States v. Bilzerian, 926 F.2d 1285, 1298 (2d Cir. 1991).
+
+57/    The Rockies Fund, Inc., Exchange Act Rel. No. 48590 (Oct. 2, 2003), 81 SEC Docket
+       703, 729, reconsideration denied, Exchange Act Rel. No. 49788 (June 1, 2004), 82 SEC
+       Docket 3764.
+
+58/    See SEC v. Falstaff Brewing Corp., 629 F.2d 62, 72 (D.C. Cir.) (holding that company
+       violated Rule 12b-20 by failing to update Form 10-K that did not disclose certain material
+       facts related to litigation), cert. denied, 449 U.S. 1012 (1980).
+---------------------Page 20---------------------
+
+                                               20
+
+statements in preparing its public filings.  As a result, we find that Armstrong was a cause of
+Grace's violations of its periodic reporting requirements.
+
+D.     Recordkeeping Violations
+
+       Exchange Act Section 13(b)(2)(A) requires issuers of securities registered pursuant to
+Exchange Act Section 12 to make and keep books, records, and accounts which, in reasonable
+detail, accurately and fairly reflect the transactions and dispositions of assets of the issuer. 59/  
+Exchange Act Section 13(b)(5) provides that no person shall knowingly falsify any book, record,
+or account subject to Section 13(b)(2)(A).  Exchange Act Rule 13b2-1 provides that no person
+shall, directly or indirectly, falsify or cause to be falsified any book, record or account subject to
+Section 13(b)(2)(A). 
+
+       Grace violated Exchange Act Sections 13(b)(2)(A) and 13(b)(5) and Rule 13b2-1 by
+recording the false and misleading entries concerning the excess reserves on its books and
+records and therefore maintaining books and records that did not accurately and fairly reflect its
+transactions and assets.  Armstrong was a cause of Grace's violations of these provisions because
+he recorded the excess reserves on NMC's books knowing that they misstated NMC's financial
+results and transmitted these entries to Grace knowing that Grace would incorporate this
+information into its own books and records.  Armstrong himself violated Exchange Act Rule
+13b2-1 because he caused Grace's books and records to be falsified as a result of these actions.
+
+E.     Rule 102(e)
+
+       Rule 102(e)(1)(iii) provides that the "Commission may censure a person or deny,
+temporarily or permanently, the privilege of appearing or practicing before it in any way to any
+person who . . . (iii) willfully violated . . . any provision of the Federal securities laws or the rules
+and regulations thereunder."  Armstrong contends that, even if he is found to have willfully
+violated the securities laws, the Rule is nevertheless inapplicable to his conduct in this matter. 
+Armstrong argues (1) that the Rule requires that he appear or practice before the Commission at
+the time of the misconduct underlying the willful violations and that his actions did not constitute
+appearing or practicing before the Commission; and (2) that the Rule applies only to licensed
+accountants and that he was no longer licensed as an accountant at the time of the misconduct.
+
+59/    The law judge cites both Exchange Act Section 13(b)(2)(A) and 13(b)(2)(B) before
+       concluding that Armstrong caused violations of Section 13(b)(2).  Section 13(b)(2)(B) of
+       the Exchange Act requires every reporting company to devise and maintain a system of
+       internal accounting controls sufficient to provide reasonable assurances that transactions
+       are recorded as necessary to permit the preparation of financial statements in conformity
+       with GAAP.  The Order Instituting Proceedings charged Armstrong with being a cause of
+       Grace's violations of Section 13(b)(2) generally, and the parties did not address whether
+       Armstrong was a cause of a violation of Section 13(b)(2)(B).  Accordingly, we do not
+       reach the issue of whether Armstrong caused a violation of Section 13(b)(2)(B).
+---------------------Page 21---------------------
+
+                                               21
+
+       1.     Appearing and Practicing Before the Commission
+
+       The law judge found that Armstrong did not appear or practice before the Commission
+and that such a finding is necessary in order for the Commission to deny a person the privilege of
+appearing or practicing before it pursuant to Rule 102(e)(1)(iii).  We reject that conclusion. 
+ 
+       Even if Rule 102(e) is construed to require a person to have been appearing or practicing
+before the Commission while violating the securities laws, we reject the law judges conclusion
+that Armstrong did not appear or practice because he was not an officer of a public company and
+did not prepare any of the reports that Grace filed with the Commission because he did not
+actually draft them.  Rule 102(f) provides that "practicing before the Commission" shall include,
+but not be limited to:
+
+       (1) Transacting any business with the Commission; and
+
+       (2) The preparation of any statement, opinion or other paper by any attorney, accountant,
+       engineer or other professional or expert, filed with the Commission in any registration
+       statement, notification, application, report or other document with the consent of such
+       attorney, accountant, engineer or other professional or expert. 60/ 
+
+The text of the Rule does not specify that a person must sign a document filed with the
+Commission.  Moreover, the term "preparation" of a document is, we believe, sufficiently broad
+to encompass the preparation of data to be included in a document filed with the Commission, at
+least where, as here, the data was prepared for the express purpose of being included in such a
+document. 
+
+       The law judge's holding would allow accountants to escape discipline under Rule 102(e)
+simply by instructing someone else to draft, sign, and file fraudulent documents.  The Rule,
+however, recognizes that financial statements often incorporate information created, compiled, or
+edited by accountants who are not responsible for signing or filing the financial statements. 
+Thus, practicing before the Commission includes computing the figures and supplying the data
+incorporated into Commission filings and consenting to their incorporation.  As a result,
+Armstrong appeared and practiced before the Commission because he computed the amounts of
+income needed to be held in reserve to achieve Graces targeted growth rates, prepared the
+materially false financial reports based on these figures, and submitted this information to Grace
+knowing that Grace would incorporate it into its Commission filings.  Armstrong consented to
+the inclusion of these figures because he reviewed Grace's draft financial statements containing
+these figures, confirmed that the figures reconciled with the numbers that he had submitted, and
+suggested no changes to the numbers.
+
+60/    17 C.F.R. § 201.102(f).
+---------------------Page 22---------------------
+
+                                               22
+
+       Our conclusion comports with the remedial purpose of Rule 102(e).  61/   The
+Commission disciplines professionals pursuant to Rule 102(e) in order to "protect the integrity of
+its own processes."  62/  The Rule "provides the Commission with the means to ensure that those
+professionals, on whom the Commission relies heavily in the performance of its statutory duties,
+perform their tasks diligently and with a reasonable degree of competence." 63/  The reliability
+of the disclosure process is impaired if incompetent or unethical accountants are permitted to
+certify financial statements.  64/  The reliability of the disclosure process is equally impaired if
+such accountants are permitted to participate in the preparation of financial statements certified
+and filed with the Commission.  As a result, disciplining accountants pursuant to Rule 102(e) for
+effecting a fraudulent scheme by computing the figures and providing the information
+incorporated into Commission filings furthers the Rules remedial purpose of protecting the
+integrity of the Commissions processes.
+
+       This interpretation also accords with the settled cases in which we have denied the
+privilege of appearing or practicing before the Commission to accountants serving as officers of
+privately-held subsidiaries of public companies who participated in fraudulent schemes to
+misstate the parent company's financial statements by providing fraudulent figures that were
+
+61/    Congress embraced our application of Rule 102(e) by codifying the rule substantially
+       verbatim in Section 4C of the Exchange Act as a result of the Sarbanes-Oxley Act of
+       2002.  It is well established that when Congress revisits a statute giving rise to a
+       longstanding administrative interpretation without pertinent change, the "congressional
+       failure to revise or repeal the agency's interpretation is persuasive evidence that the
+       interpretation is the one intended by Congress."  Commodity Futures Trading Commn v.
+       Schor, 478 U.S. 833, 846 (1986) (citations omitted); see also Lorillard v. Pons, 434 U.S.
+       575, 581 (1978) ("Congress is presumed to be aware of an administrative or judicial
+       interpretation of a statute and to adopt that interpretation when it re-enacts a statute
+       without change[.]  So too, where, as here, Congress adopts a new law incorporating
+       sections of a prior law, Congress normally can be presumed to have had knowledge of the
+       interpretation given to the incorporated law, at least insofar as it affects the new statute.")
+       (citations omitted);  Cf. Herman & MacLean v. Huddleston, 459 U.S. 375, 384-85 (1983)
+       (stating that Congresss decision to leave Section 10(b) intact while comprehensively
+       revising the securities laws suggested that Congress ratified the well-established judicial
+       interpretation of the implied private right of action under Section 10(b)); Davis v.
+       Michigan Dept of Treasury, 489 U.S. 803, 813 (1989) ("When Congress codifies a
+       judicially defined concept, it is presumed, absent an express statement to the contrary,
+       that Congress intended to adopt the interpretation placed on that concept by the courts.").
+
+62/    Touche Ross & Co. v. SEC, 609 F.2d 570, 582 (2d Cir. 1979).
+
+63/    Id.
+
+64/    Id. at 581.
+---------------------Page 23---------------------
+
+                                               23
+
+incorporated into the parent companys reports filed with the Commission.  65/  Signing
+fraudulent statements filed with the Commission was not a prerequisite in any of these cases
+either for a person to have been appearing or practicing before the Commission or for a finding
+that discipline was warranted pursuant to Rule 102(e).  66/
+
+       In any event, the text of Rule 102(e) contains no requirement that a person must be
+appearing and practicing before the Commission at the time of the conduct on which the
+Commission's findings are based.  Rule 102(e)(1) provides that a person may be denied the
+privilege of appearing or practicing before the Commission once the Commission makes one of
+three findings:  (i) that the person does not possess the requisite qualifications to represent others;
+(ii) that the person lacks character or integrity or has engaged in unethical or improper
+professional conduct; or (iii) that the person has willfully violated or willfully aided and abetted
+
+65/    Robert S. Barton, Exchange Act Rel. No. 41181 (Mar. 18, 1999), 69 SEC Docket 1053
+       (denying privilege of appearing and practicing before Commission to vice president of
+       finance of a private, wholly-owned subsidiary of a public reporting company who
+       recorded fictitious assets and entries on the subsidiary's books to meet earnings targets);
+       Maria Mei Wenner, Exchange Act Rel. No. 40290 (July 31, 1998), 67 SEC Docket 2157
+       (denying privilege of appearing and practicing before Commission to chief financial
+       officer of privately-held subsidiary of public reporting company who prepared and sent to
+       parent company monthly and quarterly reports that included fraudulent entries); Gary A.
+       Prince, Exchange Act Rel. No. 38765 (June 24, 1997), 64 SEC Docket 2154 (denying
+       privilege of appearing or practicing before Commission to accountant whose license had
+       lapsed who served as officer of privately-held subsidiary of public reporting company and
+       who participated in fraudulent scheme to overstate parent company's revenues).
+
+       The facts of Maria Mei Wenner are very similar to those presented here.  Wenner was the
+       chief financial officer of a privately-held subsidiary of a public reporting company who
+       was responsible for compiling the subsidiary's sales and financial data which was then 
+       forwarded to the parent company.  Wenner participated in a fraudulent scheme,
+       orchestrated by her superiors, to overstate the parent company's revenue by booking
+       millions of dollars of fictitious sales.  She then prepared and sent to the parent company
+       monthly reports and quarterly financial statements that included the fraudulent entries. 
+       The parent company's financial statements that were filed with the Commission included
+       the effect of these fraudulent entries.  We held that Wenner violated the federal securities
+       laws and denied her the privilege of appearing or practicing before us as an accountant.
+
+66/    While the cited authorities are settled cases, they reflect the Commissions established
+       view that officers of privately-held subsidiaries of public companies who provide
+       fraudulent figures that are incorporated into public company reports filed with the
+       Commission are subject to Rule 102(e).  See Herbert Moskowitz, Exchange Act Rel. No.
+       45609 (Mar. 21, 2002), 77 SEC Docket 481, 495-96 (rejecting respondents suggestion
+       that no precedent supported liability because settled cases reflected Commission's view
+       that liability was appropriate in respondent's situation).
+---------------------Page 24---------------------
+
+                                               24
+
+the violation of any provision of the federal securities laws or rules and regulations thereunder. 
+Denying the person the privilege of appearing or practicing before the Commission is the
+authorized remedy once the Commission makes one of the findings specified in Rule
+102(e)(1)(i)-(iii); appearing or practicing before the Commission at the time of the misconduct is
+not the precondition to imposing that remedy.  Armstrong provides no compelling reason for
+imputing a requirement that a person must be appearing or practicing before the Commission at
+the time of the misconduct.  Accordingly, we conclude that we have the authority to suspend
+Armstrong pursuant to Rule 102(e) because he willfully violated the federal securities laws.
+ 
+       We conclude that Armstrong in fact appeared or practiced before the Commission
+(assuming that Rule 102(e) imposes such a requirement) because he computed the figures and
+provided the data included in Grace's financial statements filed with the Commission and
+consented to the inclusion of this information.  We further conclude that the Commission may
+discipline individuals pursuant to Rule 102(e) even if those individuals did not appear or practice
+before the Commission while committing willful violations of the securities laws.
+
+       2.      Definition of Accountant
+
+       Armstrongs contention that Rule 102(e)(1)(iii) is limited to persons licensed to practice
+as accountants is incorrect.  The text of the Rule contains no such restriction.  Rule 102(e)(1)(iii)
+provides that the Commission may censure "any person" or deny "any person" the privilege of
+appearing or practicing before it if it finds that such person willfully violated the federal
+securities laws.  The Rule does not limit the definition of "any person" to a person licensed to
+practice accounting.  The integrity of the Commissions processes would be threatened,
+moreover, if unlicensed accountants or accountants whose licenses lapsed could escape discipline
+for willfully violating the federal securities laws.  These accountants often serve as corporate
+officers, and the integrity of the Commissions processes is threatened when they execute
+fraudulent schemes by providing falsified financial information just as when licensed accountants
+engage in this conduct.   We find that Armstrong's request that we limit the Rule to persons
+licensed to practice as accountants contradicts the plain language and the purpose of Rule 102(e).
+
+       Armstrong argues that the reference in subsection (e)(1)(iv) to "persons licensed to
+practice as accountants" indicates that the Commission intended to limit Rule 102(e) to licensed
+accountants.  That subsection, however, merely defines the term "improper professional conduct"
+for purposes of Rule 102(e)(1)(ii).   This definition is inapplicable to Rule 102(e)(1)(iii).
+
+       Armstrong's suggested reading of Rule 102(e) is contrary to principles of statutory
+construction.  Drafters are presumed to act intentionally and purposely in including particular
+language in one section of a statute or rule but omitting it in another section of the same statute
+or rule.  67/  Where one subsection of a statute contains a phrase limiting that subsection and
+other subsections do not, courts generally have been reluctant to limit the other subsections
+because the drafters could have included the phrase had they intended the other subsections to be
+
+67/    See Duncan v. Walker, 533 U.S. 167, 173 (2001).
+---------------------Page 25---------------------
+
+                                              25
+
+similarly circumscribed.  68/  Thus, the fact that the drafters of the Rule included the phrase
+"person licensed to practice as accountants" in one subsection, even assuming that phrase was
+meant to limit the meaning of accountants rather than delineate the application of "improper
+professional conduct," does not mean that other subsections should be similarly limited.  As a
+result, we reject Armstrongs contention that Rule 102(e)(1)(iii) applies only to persons licensed
+to practice as accountants and hold that he may be disciplined pursuant to that Rule.  69/   The
+Commission therefore has the ability to deny Armstrong the privilege of appearing or practicing
+before it pursuant to Rule 102(e).
+
+                                              IV.
+
+       Armstrong challenges our authority to decide this action on two grounds.  Armstrong first
+contends that the five-year statute of limitations provided in 28 U.S.C. § 2462 and applied in
+Johnson v. SEC precludes us from considering violations that occurred before December 22,
+1993.  70/  He states that the Commission instituted this proceeding on December 22, 1998, but
+the fraudulent scheme began before December 22, 1993.  Armstrong's argument is without merit. 
+We may consider acts outside the limitations period as evidence of a respondents motive, intent,
+or knowledge in committing violations within the limitations period.  71/  The violations in this
+case were ongoing, and substantial portions of the misconduct underlying the findings of willful
+
+68/    See Florida Public Telecommunications Ass'n, Inc. v. FCC, 54 F.3d 857, 860 (D.C. Cir.
+       1995) (refusing to circumscribe subsection's applicability where other subsections
+       contained a phrase limiting those subsections because Congress could have included the
+       same phrase had it intended to circumscribe similarly that subsection).
+
+69/    This reading of the Rule also conforms with past settled cases in which we have
+       suspended accountants under Rule 102(e)(1)(iii) who either were not licensed or who had
+       allowed their licenses to lapse at the time of their misconduct.  James A. Terrano,
+       Exchange Act Rel. No. 39485 (Dec. 23,1997), 66 SEC Docket 494 (lapsed license); Elliot
+       Stumacher, Exchange Act Rel. No. 39124 (Sept. 24, 1997), 65 SEC Docket 1356 (not
+       licensed); Gary A. Prince, 64 SEC Docket 2154 (lapsed license); Aura Systems, Inc.,
+       Securities Act Rel. No. 7352 (Oct. 2, 1996), 62 SEC Docket 2814 (lapsed license);
+       Gerald M. Kudler, Exchange Act Rel. No. 36598 (Dec. 18, 1995), 60 SEC Docket 2871
+       (not licensed); Alan S. Goldstein, Exchange Act Rel. No. 34641 (Sept. 6, 1994), 57 SEC
+       Docket 1544 (lapsed license).
+
+70/    Section 2462 provides a five-year statute of limitations for "an action, suit, or proceeding
+       for the enforcement of any civil fine, penalty, or forfeiture, pecuniary or otherwise."  In
+       Johnson v. SEC, the D.C. Circuit held that Section 2462 applied to a Commission
+       administrative proceeding imposing a censure and suspension.  87 F.3d 484 (D.C. Cir.
+       1996).
+
+71/    See Sharon M. Graham, 53 S.E.C. 1072, 1089 n.47 (1998), affd, 222 F.3d 994 (D.C. Cir.
+       2000).
+---------------------Page 26---------------------
+
+                                               26
+
+violations occurred within the limitations period.  72/  In fact, the misconduct occurring within
+the limitations period resulted in the deception of investors by grossly inflating Grace's income. 
+As a result, Armstrong committed willful violations within the limitations period, and neither the
+cease-and-desist nor Rule 102(e) proceedings are time barred.  73/
+
+       Armstrong next argues that the Commission should dismiss this proceeding because it
+has not been decided within a "reasonable period of time" as required by Section 555(b) of the
+Administrative Procedure Act ("APA").  74/  He contends that the two and a half year delay
+occasioned by the Commission's interlocutory review of the law judge's dismissal of the Rule
+102(e) charges constituted unreasonable delay.  Armstrong contends erroneously that the
+interlocutory review served no purpose.  The Commission's order directing the law judge to
+reinstate the Rule 102(e) charges avoided a subsequent second hearing on those charges after the
+conclusion of the initial hearing and the appeal therefrom.  Armstrong's reliance on Section
+555(b), moreover, is misplaced.  75/  The requirement that agencies act within a reasonable
+period of time is enforced through Section 706(1) of the APA which permits courts to compel
+
+72/    The pre-1994 conduct may be used to establish Armstrongs motive, intent, and
+       knowledge.  Moreover, Rule 102(e) proceedings and cease-and-desist proceedings are
+       remedial in nature.  See, e.g., McCurdy v. SEC, 396 F.3d 1258, 1264-65 (D.C. Cir.
+       2005); Herbert Moskowitz, Exchange Act Rel. No. 45609 (Mar. 21, 2002), 77 SEC
+       Docket 481, 500.  Such proceedings are not subject to Section 2462.  See Johnson, 87
+       F.3d at 489-90.
+
+73/    Armstrong observes that the Commission recently dismissed charges against a respondent
+       based on the potential applicability of Section 2462 to all but a brief period of
+       respondents conduct.  See Clarke T. Blizzard, Investment Advisers Act Rel. No. 2253
+       (June 23, 2004), 83 SEC Docket 362, 377-78.  In Blizzard, we exercised our equitable
+       discretion and dismissed charges against one of the respondents because of the potential
+       applicability of Section 2462 to all but one week of the alleged misconduct and because
+       we concluded that the conduct that occurred during that week was insufficient to find the
+       respondent liable.  Here, in contrast, at least a year of Armstrong's conduct occurred
+       inside the limitations period and that period included some of Armstrong's most
+       egregious misconduct in which he deceived investors by using excess reserves to inflate
+       Grace's income.
+
+74/    To the extent Armstrong is arguing that this proceeding is barred by laches, the defense of
+       laches is not available against federal agencies acting to protect the public interest.  See
+       United States v. Alvarado, 5 F.3d 1425, 1427 (11th Cir. 1993); David Disner, 52 S.E.C.
+       1217, 1223 (1997).  Armstrong would also be required to establish prejudice if laches
+       applied.  See Danjac LLC v. Sony Corp., 263 F.3d 942, 954-56 (9th Cir. 2001).
+
+75/    Section 555(b) provides that "[w]ith due regard for the convenience and necessity of the
+       parties or their representatives and within a reasonable time, each agency shall proceed to
+       conclude a matter presented to it."  5 U.S.C. § 555(b).
+---------------------Page 27---------------------
+
+                                              27
+
+agency action.  76/  These provisions typically are used to ensure agency action in rulemaking
+proceedings.  77/  Section 555(b) may not authorize dismissing enforcement proceedings.  78/
+ 
+       In any event, Armstrong has not made the required showing of prejudice resulting from a
+delay.  79/  Neither Armstrongs claim that the proceedings pendency harmed his career  80/ nor
+his generalization that the long delay rendered witnesses unavailable and caused memory lapses
+establishes prejudice.  81/  Armstrong specifies three witnesses who became unavailable due to
+death or disability.  He alleges that their testimony that Graces senior management and auditors
+vetted the reserves would have bolstered his defense.  Our finding that Armstrong acted with
+
+76/    Section 706(1) provides that a court shall "compel agency action unlawfully withheld or
+       unreasonably delayed." 5 U.S.C. § 706(1).
+
+77/    See, e.g., In re International Chemical Workers Union, 958 F.2d 1144 (D.C. Cir. 1992)
+       (ordering OSHA to issue rule); see also Public Citizen Health Research Group v.
+       Commr, Food and Drug Administration, 740 F.2d 21, 32 (D.C. Cir. 1984) ("These
+       provisions give courts authority to review ongoing agency proceedings to ensure that they
+       resolve the questions in issue within a reasonable time."), disapproved on other grounds,
+       TRAC v. FCC, 750 F.2d 70 (D.C. Cir. 1984).
+
+78/    See United States v. Popovich, 820 F.2d 134, 138 (5th Cir.) (stating that the plain
+       language of the APA indicates that Section 555 and 706 may be used to compel but may
+       not be used to dismiss agency action unreasonably delayed), cert. denied, 484 U.S. 976
+       (1978).  But see Kenneth Sebren, 1998 EPA ALJ Lexis 116 (Oct. 7, 1998) (dismissing
+       enforcement action for violating Section 555(b)); Health Care Products, 1996 EPA ALJ
+       Lexis 142 (June 13, 1996) (same).
+
+79/    Panhandle Coop. Assn v. EPA, 771 F.2d 1149, 1153 (8th Cir. 1985).
+
+80/    See Feeley & Willcox Asset Management Corp. and Michael J. Feeley, Order Denying
+       Motion for Reconsideration, Securities Act Rel. No. 8303 (Oct. 9, 2003), 81 SEC Docket
+       919, 923 n.15 (finding no prejudice from respondents assertion that years-long delay
+       rendered his professional livelihood and ability to continue making a living uncertain).
+
+81/    See Anthony A. Adonnino and Thomas Cannizzaro, Exchange Act Rel. No. 48618 (Oct.
+       9, 2003), 81 SEC Docket 981, 997 (finding no prejudice despite applicants claim that
+       delay rendered witnesses unavailable and impaired memories because applicants did not
+       identify witnesses who became unavailable or point to specific instances of material
+       memory lapses), affd, No. 03-41111 (2d Cir. 2004).  Armstrong cites one witnesss
+       faded memory but fails to show that this lapse prejudiced his case.  See Jacob Wonsover,
+       Exchange Act Rel. No. 41123 (Mar. 1, 1999), 69 SEC Docket 694, 715 ("'[N]ot every
+       loss, and particularly not every loss of memory, will prejudice the defense of a case.'")
+       (citation omitted), petition denied, 205 F.3d 408 (D.C. Cir. 2000).
+---------------------Page 28---------------------
+
+                                              28
+
+scienter despite any reliance on Graces management or auditors belies this notion.  82/  As a
+result, dismissal is unwarranted because Armstrong demonstrates no prejudice from any alleged
+delay. 
+
+                                              V.
+
+       The Commission has broad discretion to set sanctions in administrative proceedings. 83/ 
+Armstrong maintains that there is no basis in the public interest for the imposition of a cease-and-
+desist order.  84/  He contends that he had no responsibility for Grace's financial statements and
+that he acted reasonably under the circumstances.  Conversely, the Division contends that the
+cease-and-desist order imposed by the law judge is warranted and that we should also deny
+Armstrong the privilege of appearing or practicing before the Commission.  The Division
+contends that Armstrong remains a threat to the integrity of the Commission's processes.
+
+A.     Cease-and-Desist Order 
+
+       In KMPG Peat Marwick LLP, we stated that the range of traditional factors relevant to a
+determination that a sanction is in the public interest guide our discretion in imposing a cease-
+and-desist order.  85/  These factors are:
+
+       the seriousness of the violation, the isolated or recurrent nature of the violation, the
+       respondents state of mind, the sincerity of the respondents assurances against future
+
+82/    See Mark H. Love, Exchange Act Rel. No. 49248 (Feb. 13, 2004), 82 SEC Docket 686, 
+       695-96 (finding no prejudice from death or infirmity of potential witnesses because
+       NASD based its decision on undisputed facts and therefore these individuals testimony
+       was immaterial); Kingsley, Jennison, McNulty & Morse, Inc., 51 S.E.C. 904, 911 (1993)
+       (finding no prejudice from death of key potential witness because Commission based its
+       findings on other testimony).
+
+83/    See, e.g., Butz v. Glover Livestock Comm'n Co., 411 U.S. 182, 188-89 (1973) ("The
+       fashioning of an appropriate and reasonable remedy is for the Secretary [of Agriculture],
+       not the court. The court may decide only whether under the pertinent statute and relevant
+       facts, the secretary made 'an allowable judgement in [his] choice of the remedy.'")
+       (quoting Jacob Siegel Co. v. FTC, 327 U.S. 608, 612 (1946)).
+
+84/    Section 21C provides that the Commission may order any person who violated any
+       provision of the Exchange Act or rule or regulation thereunder, or caused such violation,
+       to cease and desist from committing or causing such violation and any future violation of
+       the same provision, rule, or regulation.  15 U.S.C. § 78u-3(a). 
+
+85/    KPMG Peat Marwick LLP, Exchange Act Rel. No. 43862 (Jan. 19, 2001), 74 SEC
+       Docket 384, 436, reconsideration denied, Exchange Act Rel. No. 44050 (Mar. 8, 2001),
+       74 SEC Docket 1351, petition denied, 289 F.3d 109 (D.C. Cir. 2002).
+---------------------Page 29---------------------
+
+                                               29
+
+       violations, the respondents recognition of the wrongful nature of his or her conduct, and
+       the respondents opportunity to commit future violations. In addition, we consider
+       whether the violation is recent, the degree of harm to investors or the marketplace
+       resulting from the violation, and the remedial function to be served by the cease-and-
+       desist order in the context of any other sanctions being sought in the same proceedings. 
+       This inquiry is a flexible one and no one factor is dispositive.  86/ 
+
+Moreover, we held that, in imposing a cease-and-desist order, we must determine that there is
+some risk of future violation.  87/ 
+
+       Applying the above factors to Armstrong's violations, we find that most of them weigh in
+favor of a cease-and-desist order.  The principal purpose and effect of Armstrong's conduct was
+to deceive investors through the filing with the Commission of materially misstated financial
+statements for Grace for all of its required periodic filings from the end of 1991 until the first
+quarter of 1995.  88/  As discussed above in finding that Armstrong violated the antifraud
+provisions, he acted with the highest degree of scienter.  He knowingly engaged in conduct that
+he knew would result in materially false filings with the Commission.  He knew that the purpose
+of the fraudulent scheme was to mislead investors as to Grace's true income growth rates.
+
+       Armstrong has not offered any assurances against future violations.  In fact, his failure to 
+recognize the wrongful nature of his conduct and his continued insistence that he acted
+appropriately raise troubling questions about his understanding of his obligations under the
+securities laws.  His occupation presents ample opportunities to commit future violations. 
+
+86/    Id.; see also Steadman v. SEC, 603 F.2d 1126, 1140 (5th Cir. 1979), affd, 450 U.S. 91
+       (1981).
+
+87/    KPMG Peat Marwick LLP, 74 SEC Docket at 429.  The risk of future violations required
+       to support a cease-and-desist order is significantly less than that required for an
+       injunction.  Id. at 435.  We consider the entire record because 28 U.S.C. § 2462 does not
+       apply to cease-and-desist proceedings.  See Edgar B. Alacan, Exchange Act Rel. No.
+       49970 (July 6, 2004), 83 SEC Docket 842, 870.
+
+88/    See Geiger v. SEC, 363 F.3d 481, 489 (D.C. Cir. 2004) (affirming cease-and-desist order
+       because respondents egregious conduct justified inference that violation would be
+       repeated and respondents assertion that he did nothing wrong did little to dispel this
+       inference).  In Geiger, respondent acted egregiously even though others devised the
+       scheme because he participated despite numerous indicators suggesting an unregistered
+       distribution.  See Charles F. Kirby, Exchange Act Rel. No. 47149 (Jan. 9, 2003), 79 SEC
+       Docket 1081, 1104-06.  Similarly, Armstrong acted egregiously even though Grace
+       directed the scheme because he created the fraudulent entries despite several indications
+       that his conduct constituted growth rate manipulation.  See also Alacan, 83 SEC Docket
+       at 868 (imposing cease-and-desist order based on respondents egregious conduct raising
+       a sufficient risk of future violation).  
+---------------------Page 30---------------------
+
+                                               30
+
+Armstrong currently works as a chief financial officer for a private company and intends to
+continue working as a financial executive. 
+
+       The harm to investors and the marketplace when corporate officers misrepresent company
+earnings cannot be overstated.  89/  Investors who buy or sell stock based on the erroneous
+information are harmed greatly.  The publics confidence in the marketplace erodes when the
+fraudulent scheme is exposed.  90/
+
+       The only KPMG factor that militates against imposition of a cease-and-desist order is that
+Armstrongs violations are not recent.  We find, however, that this consideration is outweighed
+by the other factors previously discussed.  91/  An additional factor, not mentioned in KPMG,
+deserves consideration here.  While we disagree with Armstrong that his efforts to express his
+concerns about the impropriety of the excess reserves absolves him of liability for his
+participation in the scheme, there is no dispute that he did make such efforts.  Given, however, 
+
+89/    Dissemination of false or misleading information by companies to members of the
+       investing public may distort the efficient workings of the securities markets and injure
+       investors who rely on the accuracy and completeness of the companys public disclosures. 
+       SEC v. Dresser Indus., Inc., 628 F.2d 1368, 1377 (D.C. Cir.), cert. denied, 449 U.S. 993
+       (1980).  Indeed, in addition to the heavy sanctions obtained against the other corporate
+       officers of both Grace and NMC, the Commission obtained a cease-and-desist order
+       against Grace together with an order requiring Grace to establish a fund of $1 million to
+       be used to further awareness and education relating to financial statements and generally
+       accepted accounting principles.  W.R. Grace & Co., Exchange Act Rel. No. 41578 (June
+       30, 1999), 70 SEC Docket 170.
+
+90/    Cf. Schellenbach v. SEC, 989 F.2d 907, 913 (9th Cir. 1993) ("An action brought by the
+       Commission, however, unlike a private damage suit, need not include proof of harm.  
+       Securities regulations are designed to protect the general public.  Schellenbach's
+       falsification of records exposed Brook's customers to undue risk and it deprived investors
+       of the protections that Congress and the executive branch have put in place . . . . Thus,
+       Schellenbach's depiction of his crime as a victimless offense is inaccurate.) (citations
+       omitted).
+
+91/    See, e.g., City of Miami, Florida, Exchange Act Rel. No. 47552 (Mar. 21, 2003), 79 SEC
+       Docket 3362, 3382-83 (imposing cease and desist order despite age of the misconduct
+       because cease-and-desist order helps prevent future violations where respondent made
+       repeated misrepresentations in its financial statements, respondents misstatements
+       caused investors to purchase respondents bonds without full information, and respondent
+       shifted blame to others without taking any responsibility for its own conduct).
+---------------------Page 31---------------------
+
+                                               31
+
+that no additional sanctions have been sought against Armstrong 92/ and the degree to which the
+other factors weigh in favor of a cease-and-desist order, we believe that the public interest
+warrants a cease-and-desist order.  93/
+
+       We conclude that Armstrongs misconduct demonstrates a sufficient risk of future
+violations and that it is in the public interest to order Armstrong to cease and desist from
+committing or causing any violations or future violations of the applicable provisions of the
+federal securities laws and the Commission's rules.
+
+B.     Rule 102(e) suspension
+
+       These same factors could provide a basis for us to conclude that Armstrong should be
+disciplined pursuant to the Commission's Rule 102(e).  Rule 102(e) is designed to protect the
+integrity of the Commission's processes, and we fulfill this mandate by suspending accountants
+who violate the antifraud provisions of the securities laws.  Nonetheless, in light of the unique
+
+92/    The Commission does not have the authority to seek additional sanctions against
+       Armstrong in an administrative proceeding, see Exchange Act Section 15, 15 U.S.C.  §
+       78o, but the Commission could have sought injunctive and further relief in court.  See
+       Exchange Act Section 21, 15 U.S.C. § 78u.  Rule 102(e) is not used as an additional
+       weapon in the Commission's enforcement arsenal but rather to determine whether a
+       person's professional qualifications, including his character and integrity, are such that he
+       is fit to appear and practice before the Commission.  Touche Ross, 609 F.2d at 579.
+
+93/    See Charles K. Seavey, Advisers Act Rel. No. 2119 (Mar. 27, 2003), 79 SEC Docket
+       3455, affd, 111 Fed. Appx. 911 (9th Cir. 2004).  In Seavey, we imposed sanctions,
+       including a cease-and-desist order, on a mutual fund manager who sent investors a letter
+       knowing that the letter contained material misstatements and omissions.  We recognized
+       that the respondent attempted to persuade his supervisors to disclose the problems with
+       the fraudulent transaction and tried to undo the damage caused by the fraudulent scheme,
+       but we imposed the sanctions because the respondents arguments demonstrated a lack of
+       appreciation for his responsibility as an associated person of an investment adviser.
+---------------------Page 32---------------------
+
+                                             32
+
+ circumstances here, we have determined, as an exercise of our equitable discretion, not to
+impose any suspension pursuant to Rule 102(e)(1)(iii) here. 
+
+       An appropriate order will issue. 94/
+
+       By the Commission (Chairman DONALDSON and Commissioners GLASSMAN,
+GOLDSCHMID, ATKINS, and CAMPOS).
+
+                                                 Jonathan G. Katz
+                                                      Secretary
+
+94/    We have considered all of the parties' contentions.  We have rejected or sustained these
+       contentions to the extent that they are inconsistent or in accord with the views expressed
+       in this opinion.
+---------------------Page 33---------------------
+
+                           UNITED STATES OF AMERICA
+                                      before the
+                    SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Rel. No.51920 / June 24, 2005
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Rel. No. 2264 / June 24, 2005
+
+Admin. Proc. File No. 3-9793
+
+                   In the Matter of
+
+           ROBERT W. ARMSTRONG, III
+
+ORDER IMPOSING REMEDIAL SANCTIONS
+
+      On the basis of the Commission's opinion issued this day, it is
+
+      ORDERED that Robert W. Armstrong, III cease and desist from committing or causing
+any violations or future violations of Section 10(b) of the Securities Exchange Act of 1934 and
+Rules 10b-5 and 13b2-1 thereunder; and from causing any violations or future violations of
+Sections 13(a), 13(b)(2), and 13(b)(5) of the Exchange Act and Rules 12b-20, 13a-1 and 13a-13
+thereunder.
+
+      By the Commission.
+
+                                              Jonathan G. Katz
+                                                   Secretary    
+
+ 

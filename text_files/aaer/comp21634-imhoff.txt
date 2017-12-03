@@ -1,0 +1,1833 @@
+---------------------Page 1---------------------
+
+         Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 1 of 35
+
+                          UNITED STATES DISTRICT COURT  
+                               DISTRICT OF COLUMBIA 
+                                               
+SECURITIES AND EXCHANGE COMMISSION,                    Civil Action No. 
+100 F Street, N.E. Washington, D.C. 20549               
+                                                        
+  Plaintiff,                                              COMPLAINT 
+                                                        
+ vs.                                                     
+                                                       ECF CASE 
+ 
+RANDALL D. IMHOFF, 
+ 
+  Defendant. 
+
+ 
+              Plaintiff Securities and Exchange Commission (the Commission or SEC) 
+
+alleges as follows: 
+
+                                        SUMMARY 
+
+ 
+       1.     From 2001 to 2004, Dell Inc. (Dell) engaged in fraudulent and improper 
+
+accounting that wrongfully made it appear that Dell was consistently meeting Wall Street earnings 
+
+targets and reducing its operating expenses as a percentage of revenue.  Dell committed the 
+
+accounting violations through the conduct of its most senior former accounting executives.  The 
+
+SEC brings this action against Randall D. Imhoff (Imhoff), a former Assistant Controller at Dell, 
+
+for various accounting violations by Dell from 2001 to 2003.   
+
+       2.     Imhoff and others maintained a number of cookie jar reserves that they used to 
+
+cover shortfalls in Dells operating results.  Through this improper accounting, Dell materially 
+
+misrepresented its financial results.  Dell was subsequently forced to restate its financial 
+
+statements for its fiscal years 2003 through 2006, with a cumulative balance sheet adjustment for 
+
+periods before fiscal year 2003 (the Restatement). 
+
+                                             1 
+                                               
+                                               
+---------------------Page 2---------------------
+
+         Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 2 of 35
+
+       3.     By engaging in the conduct alleged below, Imhoff violated Section 13(b)(5) of the 
+
+Exchange Act [15 U.S.C. §  78m(b)(5)] and Rules 13b2-1 and 13b2-2 [17 C.F.R. §§ 240.13b2-1 
+
+and 240.13b2-2], and aided and abetted Dells violations of Sections 13(a), 13(b)(2)(A) and 
+
+13(b)(2)(B) of the Exchange Act [15 U.S.C. §§ 78m(a), 78m(b)(2)(A) and 78m(b)(2)(B)], and 
+
+Rules 12b-20, 13a-1, and 13a-13 [17 C.F.R. §§ 240.12b-20, 240.13a-1, 240.13a-13], promulgated 
+
+thereunder, pursuant to Section 20(e) of the Exchange Act [15 U.S.C. § 78t(e)].  Unless restrained 
+
+and enjoined, Imhoff will in the future violate such provisions. 
+
+                               JURISDICTION AND VENUE 
+
+       4.     This Court has jurisdiction over this action pursuant to Sections 21(d), 21(e) and 27 
+
+of the Exchange Act [15 U.S.C. §§ 78u(d), 78u(e) and 78aa]. 
+
+       5.     Defendant, directly or indirectly, has made use of the means and instrumentalities 
+
+of interstate commerce, of the mails, or of the facilities of a national securities exchange in 
+
+connection with acts, practices and courses of business alleged in this Complaint.  Venue is proper 
+
+in this District pursuant to Section 27 of the Exchange Act [15 U.S.C. § 78aa], because, among 
+
+other reasons, certain of the acts, practices and courses of business constituting the violations 
+
+alleged herein occurred within this District.  
+
+                                        DEFENDANT 
+
+       6.     Randall D. Imhoff, CPA, 48, resides in Austin, Texas.  Imhoff joined Dell in 
+
+February 2000 as Corporate Assistant Controller, was named Finance Director for U.S. Small and 
+
+Medium Business in September 2003, and was named Finance Director for Global I/T in 
+
+November 2005, a position he retained until he left Dell in April 2007.  From 1984 to 2000, prior to 
+
+working at Dell, Imhoff, a CPA licensed in Texas, worked as an auditor at Arthur Andersen LLP, 
+
+rising to the level of partner.  Imhoff holds a bachelors degree in Accounting from Iowa State 
+
+                                               2 
+                                                
+                                                
+---------------------Page 3---------------------
+
+         Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 3 of 35
+
+University.  During his time as Corporate Assistant Controller, Imhoff reviewed and edited Dells 
+
+annual reports on Forms 10-K and quarterly reports on Forms 10-Q filed with the Commission.  
+
+Imhoff served as a member of Dells Disclosure Review Committee from November 2002 to April 
+
+2003.  
+
+                                  RELEVANT ENTITIES 
+
+       7.     Dell Inc. (Dell) is a Fortune 50 company in the business of providing electronic 
+
+products, including mobility products, desktop PCs, peripherals, servers, networking equipment, 
+
+and storage.  Dell also offers services, including software, infrastructure technology, consulting 
+
+and applications, and business process services.  Dell was incorporated in Delaware in 1984 and is 
+
+based in Round Rock, Texas.  Since July 2006, Dells common stock was registered with the 
+
+Commission pursuant to Section 12(b) of the Exchange Act and is traded on the NASDAQ Global 
+
+Select Market.  During the prior relevant period, Dells common stock was registered with the 
+
+Commission under Section 12(g) of the Exchange Act and quoted on the Nasdaq National Market 
+
+System. 
+
+       8.     PricewaterhouseCoopers LLP (PWC) is a national public accounting firm 
+
+with its headquarters in New York, New York.  PWC audited Dells financial statements 
+
+throughout the relevant period. 
+
+                                 DELLS FISCAL YEAR 
+
+       9.     Dells fiscal year is the 52 or 53 week period ending on the Friday closest to 
+
+January 31.  Each quarter runs for either 13 or 14 weeks, also ending on Fridays. 
+
+                           THE ACCOUNTING VIOLATIONS 
+
+       10.    For several years beginning in or about FY02, Dell engaged in improper accounting 
+
+involving cookie jar reserves and other reserve accounts.  As explained more fully below, these 
+
+                                              3 
+                                               
+                                               
+---------------------Page 4---------------------
+
+         Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 4 of 35
+
+manipulations were undertaken to meet consensus earnings targets or to misstate materially other 
+
+important financial metrics.  These practices not only materially misstated Dells financial results, 
+
+but caused additional material misstatements in Dells annual and quarterly reports filed with the 
+
+Commission during the period. 
+
+       11.    Contrary to generally accepted accounting principles (GAAP), Dell created and 
+
+maintained excess accruals in multiple reserve accounts.  Dell used the excess accruals in these 
+
+reserves to offset the financial statement impacts of future expenses.  From FY02 to FY04, Imhoff 
+
+was actively involved in these practices. 
+
+       12.    As set forth in detail below, Dell improperly managed reserves including a) the 
+
+Strat Fund and other Corporate Contingencies; b) the Accrued Relocation Account; c) an 
+
+improperly-established and used restructuring reserve; d) several reserves in EMEA, one of Dells 
+
+overseas business units; e) cookie jar reserves in bonus and profit-sharing accounts; and f) an 
+
+under-accrued restructuring Las Cimas reserve. 
+
+       13.    The Financial Accounting Standards Board (FASB) Statement of Financial 
+
+Accounting Standards No. 5, Accounting for Contingencies (SFAS 5), and the related 
+
+interpretations are among the principal GAAP provisions that govern the recognition of loss 
+
+accruals and reserves.  These accounting principles provide, among other things, that a loss accrual 
+
+should be recognized with a charge to income when a loss is probable and reasonably estimable.  
+
+The maintenance of reserves for general or unspecified business risks (sometimes called general 
+
+reserves or cookie jar reserves) is not permitted under GAAP.  Further, the accounting 
+
+principles generally provide, among other things, that any over-accrual of a reserve should be 
+
+reversed into the income statement as soon as the over-accrual is discovered. 
+
+                                               4 
+                                                 
+                                                 
+---------------------Page 5---------------------
+
+         Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 5 of 35
+
+       14.     The impacts of Dells reserve manipulations materially misstated Dells operating 
+
+results.  In certain quarters, the manipulations enabled Dell to meet analyst consensus estimates for 
+
+earnings per share (EPS).  The manipulations also enabled Dell to misstate materially the trend 
+
+and amount of operating income from Q3FY03 through Q1FY05 of its EMEA segment, an 
+
+important business unit that Dell highlighted.  Instead of increasing every quarter from Q2FY03 
+
+through Q1FY05, EMEAs operating income varied substantially. 
+
+       15.     The reserve manipulations also allowed Dell materially to misstate its operating 
+
+expenses (OpEx) as a percentage of revenue (OpEx percentage or OpEx ratio), and the 
+
+quarter to quarter trend in this ratio, for over three years, from about Q2FY02 through about 
+
+Q2FY05.  The OpEx ratio was an important financial metric that the Company itself highlighted.  
+
+As reported, Dells OpEx ratio during this period was an artificial and fabricated pattern, as shown 
+
+below: 
+
+ 
+
+                                 Operating Expense (as a percentage of revenue)
+
+            11.00%
+
+            10.75%
+
+            10.50%
+
+            10.25%
+
+            10.00%
+
+             9.75%
+
+             9.50%
+
+                        FY02               FY03                  FY04            FY05
+
+                                                    as reported
+                                                                                                
+
+                                                5 
+                                                  
+                                                  
+
+               Q2
+
+               Q3
+
+               Q4
+
+               Q1
+
+               Q2
+
+               Q3
+
+               Q4
+
+               Q1
+
+               Q2
+
+               Q3
+
+               Q4
+
+               Q1
+
+               Q2
+---------------------Page 6---------------------
+
+         Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 6 of 35
+
+ 
+In the MD&A of every Form 10-Q from Q1FY03 through Q2FY05, and in other public statements, 
+
+Dell highlighted each decrease in the ratio as achieving a record low, and each instance where 
+
+the ratio remained flat as maintaining or continuing the record low.  Dell attributed such 
+
+records to reported decreases in the ratio of 0.3% in Q1FY03 (from 10.2 % to 9.9%); 0.2% in 
+
+Q2FY04 (from 9.8% to 9.6%), and just 0.1% in Q1FY04 from (9.9% to 9.8%).  Dell attributed 
+
+achieving or continuing the record lows to cost reduction initiatives or a focus on cost 
+
+controls.  In fact, Dells reported OpEx ratio during this period was impacted by accounting 
+
+manipulations, and the actual ratio generally varied materially from quarter to quarter during this 
+
+period. 
+
+       16.    Dell repeatedly told investors and analysts that its business model was superior to 
+
+its competitors models.  Dells senior management used the companys ability to meet or exceed 
+
+analysts consensus to support this claim.  
+
+       17.    Analyst reports reflect that Dells apparent ability to consistently meet analysts 
+
+consensus for EPS was important to investors.  For example, in February 2003, a Goldman Sachs 
+
+research report stated, consistency is the hallmark of Dells financials.  In May, 2003, Dells 
+
+Head of the Investor Relations department informed Dell senior management, commenting on a 
+
+prior email from the department forwarding analyst comments for Q1FY04:  The consistency of 
+
+messaging throughout these notes is at a level I have never seen for any company.  While I know at 
+
+times we grow weary of saying the same thing over and over again, this consistency of message 
+
+and performance drove analysts to raise price targets absent an increase in estimates. . . .  Dells 
+
+CEO replied: Its a beautiful thing. ☺  In November 2003, Dells Investor Relations department 
+
+informed the companys senior management that there have been no upgrades or downgrades, but 
+
+[an analyst] reduced his risk rating to medium risk from high risk based on our historical earnings 
+                                               6 
+                                                 
+                                                 
+---------------------Page 7---------------------
+
+         Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 7 of 35
+
+consistency.  Also, in February 2005, a Bear Stearns report lauded Dell as a core holding in any 
+
+tech portfolio given its consistency in achieving operating targets. 
+
+       a.          The Strat Fund and Other Corporate Contingencies 
+
+       18.    From about FY02 to FY05, Dell maintained a cookie jar reserve, contrary to GAAP, 
+
+called the Strat Fund (short for Strategic Fund).  Members of Dells corporate finance group 
+
+referred to the Strat Fund and other specified improper cookie jar reserves maintained by 
+
+Corporate as contingencies, and they will be referred to herein as Corporate Contingencies.  
+
+The Corporate Contingencies consisted of excess, unsupported balances that resided in Corporate 
+
+accounts, including an other accrued liabilities account that Dell personnel sometimes referred 
+
+to by its number, 24990.  The Strat Fund was a sub-account, or subset, of account 24990.  Dell 
+
+used the Corporate Contingencies primarily to reduce its future operating expenses by releasing 
+
+these excess accruals to offset unforeseen expenses. 
+
+       19.    Imhoff reported to a former Dell official who was named Vice President of 
+
+Corporate Planning and Reporting in FY02 and who served as Chief Accounting Officer from 
+
+Q4FY03 through Q4FY05 (Senior Finance Executive).  Acting under the Senior Finance 
+
+Executives general direction, Imhoff planned and issued instructions regarding Dells build-up 
+
+and use of the Corporate Contingencies.  The Senior Finance Executives and Imhoffs accounting 
+
+decisions and actions concerning the reserves were contrary to GAAP.  The Senior Finance 
+
+Executive and Imhoff instructed subordinates that when excess reserves were identified  e.g., 
+
+previously-reserved amounts no longer needed for bona fide liabilities  the subordinates were to 
+
+check with them about the disposition of the excess reserves instead of releasing them to the 
+
+income statement.  When the excess accruals were significant, the Senior Finance Executive and 
+
+Imhoff often directed the subordinates to transfer them to account 24990.  The Senior Finance 
+
+                                               7 
+                                                
+                                                
+---------------------Page 8---------------------
+
+         Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 8 of 35
+
+Executive and Imhoff viewed the Corporate Contingencies as a way to offset future liabilities and 
+
+earmarked the excess accruals for various purposes. 
+
+       20.    Dell tracked the Corporate Contingencies in schedules entitled Estimated 
+
+Contingencies in Corporate (hereinafter Corporate Contingency Schedules) that employees 
+
+produced at least once per quarter.  The improper reserves were reflected in the schedules in a 
+
+column labeled Available Balance.  The Corporate Contingency Schedules typically reflected 
+
+total available balances in the range of $20 million to $30 million.  The highest available balance 
+
+was $39 million in June/July 2003.  The lowest available balance was $3 million in September 
+
+2002.   
+
+       21.    In the 11 quarters that Imhoff was Assistant Controller (from Q1FY02 to Q3FY04), 
+
+Dell made at least 17 releases from the Strat Fund and other Corporate Contingencies, 11 of which 
+
+were recorded after the end of a quarter while Dell was in the process of closing its books.  In its 
+
+Restatement, Dell reversed all Strat Fund activity and all Available balances for the other 
+
+reserves that appeared on the Corporate Contingency Schedules.   
+
+       22.    An example of how Dell used its Corporate Contingency general reserves to offset 
+
+unforeseen expenses involved the release of an excess tax reserve from Q4FY03 to offset the 
+
+impact of a litigation settlement in Q2FY04.  At the end of FY03, Dell Japan had a tax reserve of 
+
+about $17 million that Dell concluded was unnecessary.  The tax reserve was referred to as the 
+
+Japanese Consumption Tax or JCT reserve.  Under GAAP, Dell should have released the 
+
+entire $17 million excess accrual to its income statement by the end of FY03.  Instead, during the 
+
+FY03 close, Dell released only $5 million of the reserve to income, and transferred about 
+
+$12 million of the excess accrual to account 24990.  Imhoff knew that the Japanese Consumption 
+
+Tax reserve was unsupported in Q4FY03 and should have been released by the end of FY03, that 
+
+                                               8 
+                                                
+                                                
+---------------------Page 9---------------------
+
+         Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 9 of 35
+
+only a portion of it was released, and that the balance was improperly carried over to FY04 and 
+
+transferred to Corporate.   
+
+       23.    On April 7, 2003, Imhoff sent an email to the Senior Finance Executive with the 
+
+subject line JCT Reserve Transferred to Corp Books that stated, Following up . . . we are 
+
+carrying a remaining reserve on Corps balance sheet of roughly $12M.  The next day, Imhoff 
+
+forwarded the email to the Senior Finance Executive with the additional message, The amount is 
+
+$12M and its on [a Corporate Planning Managers] balance sheet in [account 24990]. 
+
+       24.    On April 16, 2003 (Q1FY04), the Senior Finance Executive received an email with 
+
+the current Corporate Contingency Schedule that listed the $12 million excess Japanese 
+
+Consumption Tax reserve as an Available Balance. 
+
+       25.    Towards the end of Q2FY04, Dell agreed to settle litigation (the Tulip Litigation) 
+
+at an estimated cost to Dell, net of insurance, of $9.3 million.  Imhoff knew that Dell had not 
+
+established a reserve for this settlement.  On July 5, 2003 (Q2FY04), Imhoff wrote in an email that 
+
+he was working with Dells forecasting group to determine where other goodness might exist to 
+
+deflect some or all [of] the P&L impact of the settlement.  Three days earlier, Imhoff had received 
+
+from the forecasting group a copy of the current Corporate Contingency Schedule, which listed the 
+
+$12 million excess Japanese Consumption Tax reserve as an Available Balance. 
+
+       26.    On July 11, 2003, the Senior Finance Executive wrote an email to another senior 
+
+executive about a letter that the Senior Finance Executive was drafting for Dells Board of 
+
+Directors.  The Senior Finance Executive said, [t]he tone will be that this is a tough quarter 
+
+(especially from a [gross margin percentage] perspective), but we expect to scrap our way through 
+
+it and still hit the EPS target for the quarter. 
+
+                                               9 
+                                                 
+                                                 
+---------------------Page 10---------------------
+
+        Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 10 of 35
+
+       27.    On August 1, 2003, the Senior Finance Executive received an email with the 
+
+current Corporate Contingency Schedule.  The excess Japanese Consumption Tax reserve was 
+
+listed on the schedule in the amount of about $12 million, with about $7 million in the Required 
+
+Funds column and about $5 million in the Available Balance column.  The Description 
+
+column stated that the $7 million was required to Cover Tulip Settlement in July.  
+
+       28.    On or about the same day, the Senior Finance Executive emailed Dells Chief 
+
+Financial Officer (CFO) a document that had a column labeled JCT Reserve, with a column 
+
+labeled Tulip Settlement to its immediate right.  The document showed plans for $12 million of 
+
+gross margin to be added to the quarters results by release of the JCT reserve, and for the payment 
+
+of the Tulip Settlement to lower gross margin by $7 million. 
+
+       29.    On August 7, 2003, late in the process of closing its books for Q2FY04, Dell 
+
+deflected the $9.3 million impact of the Tulip Settlement by releasing $7.1 million from the excess 
+
+Japanese Consumption Tax reserve that had been transferred to the Corporate Contingencies, 
+
+$700,000 from the Strat Fund, and $1.5 million of excess from an accrued legal services account.  
+
+On the same day, Dell released the remaining $5 million of the excess Japanese Consumption Tax 
+
+reserve to provide an additional boost to Dells operating results.   
+
+       30.    Imhoff knew that the Japanese Consumption Tax reserve was an excess accrual 
+
+from a prior period, and that Dell released it in Q2FY04 to offset the impact of the settlement of the 
+
+Tulip Litigation and otherwise to provide an additional boost to Dells operating results. 
+
+       b.          Other Cookie Jar Reserves Identified in R&O Schedules 
+
+       31.    In addition to the Strat Fund and the Corporate Contingency Schedules, from time 
+
+to time, Dells Corporate Reporting group, including Imhoff, assembled a list of items that could 
+
+help or hinder Dells efforts to meet its financial targets.  Corporate Reporting compiled the items 
+
+                                              10 
+                                                 
+                                                 
+---------------------Page 11---------------------
+
+        Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 11 of 35
+
+in spreadsheets called Risks and Opportunities Schedules (R&O Schedules).  Imhoff and his 
+
+subordinates prepared the schedules when the Senior Finance Executive asked for them.  For 
+
+example, in an email dated July 10, 2001, from the Senior Finance Executive to Dells CFO, 
+
+responding to the CFOs request about how to handle potential financial items related to 
+
+telecommunications negotiations, the Senior Finance Executive stated:  Lets discuss in the 
+
+morning.  I asked Randy [Imhoff] to update our Risks and Opportunities schedule this afternoon to 
+
+include this item.  The R&O Schedules were prepared as early as Q1FY01 and as late as Q2FY04.  
+
+Like the Corporate Contingency Schedules, the R&O Schedules included excess reserves that Dell 
+
+was carrying from period to period.  Unlike the Corporate Contingency Schedules, which were 
+
+limited only to Corporate accounts, the R&O Schedules included non-Corporate accounts, such as 
+
+excess reserves maintained in Dells business units. 
+
+       32.    One account listed on several R&O Schedules was the Accrued Relocation 
+
+Account.  During the Q2FY02 close in August 2001, a payroll and benefits accounting manager 
+
+informed Imhoff that she had identified excess relocation accruals of $6 million.  Imhoff 
+
+responded, Great news . . . DO NOT PLAN TO RECORD ANY OF THIS GOODNESS IN Q2.  
+
+(emphasis in original)  Under GAAP, Dell should have released the $6 million as a reduction of 
+
+operating expenses in Q2FY02.  Instead, Imhoff told Dells CFO and Senior Finance Executive 
+
+that he had directed that it be carried into Q3FY02, when work would be done to determine 
+
+whether that account had even more excess accruals.  The Q3FY02 R&O Schedule reflects the $6 
+
+million excess accrual as an item available to reduce Dells operating expenses in that quarter.  
+
+Dell released the $6 million excess accrual in Q3FY02.  In its Restatement, Dell moved the income 
+
+effect of the release of the excess accrual from Q3FY02 back to Q2FY02. 
+
+                                             11 
+                                               
+                                               
+---------------------Page 12---------------------
+
+        Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 12 of 35
+
+       33.    In March 2002 (Q1FY03), the payroll and benefits accounting manager again 
+
+informed Imhoff that Dell had excess relocation accruals.  She told Imhoff that she had identified 
+
+another $5 million in excess accruals and asked Imhoff when she should release these excess 
+
+reserves.  Imhoff responded, My sense is that it will be okay to reverse the unneeded accrual at 
+
+EOQ [end of quarter].       
+
+       34.    On April 11, 2002, the Senior Finance Executive asked a Corporate Planning 
+
+employee how the $5 million in excess accruals had been handled in a recent financial forecasting 
+
+document.  The employee replied that it was not reflected in the document, but that Dell could 
+
+flow it through the P&L in Q1 if needed.  In an email sent to the Payroll Benefits Accounting 
+
+Manager on April 18, 2002, Imhoff stated, As uncomfortable as it may be, I now have 
+
+reservations about booking this any time earlier than late in close week.  One Q1FY03 R&O 
+
+Schedule listed the excess reserve as available; another version of the R&O Schedule identified the 
+
+reserve as a Q1 FY03 - Carryforward to Q2.  Subsequently, the reserve appeared on a Q2FY03 
+
+R&O Schedule.  Dell did not release the excess reserve in Q2 either.  In June 2002 (Q2FY03), the 
+
+Payroll Benefits Accounting Manager asked Imhoff, Do you have any indication if this amount 
+
+will be used in Q2 or if well hold?  Imhoff responded, Hold for now.  On August 7, 2002, 
+
+during the Q2 close, the manager again communicated with Imhoff about the excess reserve: In 
+
+the case that you may need to post the relocation relief, we have put the entry into the system as 
+
+unposted.  If it will be late this evening when the decision is made to use it or not, please let 
+
+[someone who could post the entry] know . . .  The next day, Imhoff emailed subordinates to 
+
+confirm that the excess reserve had not been released, and one confirmed that there were no plans 
+
+to release it.  Imhoff responded, Cool.  The excess accrual ultimately was released in Q3FY03, 
+
+understating Dells operating expenses (OpEx) and overstating its operating income that quarter. 
+
+                                              12 
+                                                 
+                                                 
+---------------------Page 13---------------------
+
+        Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 13 of 35
+
+       c.           Dells Improper Establishment and Use of Restructuring Reserves 
+
+       35.    FASB Emerging Issues Task Force Issue No. 94-3, Liability Recognition for 
+
+Certain Employee Termination Benefits and Other Costs to Exit an Activity, (including Certain 
+
+Costs Incurred in a Restructuring) (EITF 94-3), and the related interpretations are among the 
+
+principal GAAP provisions that relate to accounting and disclosure of certain costs and liabilities 
+
+for restructuring activities, which include such things as involuntary employee terminations, 
+
+contract terminations, and efforts to consolidate or close facilities.  These principles allow 
+
+companies to accrue for restructuring expenses to be incurred in future quarters when certain 
+
+conditions are met, such as commitment to a formal restructuring plan, notification to affected 
+
+employees and establishment of a probable and reasonable estimate of the anticipated 
+
+restructuring costs.  Further, the principles provide that related restructuring reserves should be 
+
+regularly re-evaluated and any amounts no longer needed for the original purpose reversed to 
+
+income.  Retaining excess reserve amounts or using them for purposes other than that for which 
+
+they were originally intended is not permitted under GAAP.  Furthermore, costs incurred, but not 
+
+specifically contemplated in the original estimate, must be charged to income in the period in 
+
+which the expense is incurred. 
+
+       36.    In Q2FY02 (ended August 3, 2001), Dell recorded a $482 million charge to income 
+
+and established related restructuring liabilities in various reserve accounts.  In its Form 10-Q for 
+
+the quarter ended August 3, 2001, Dell disclosed that it recorded the charge to reduce its workforce 
+
+and exit certain activities.  Under GAAP, the amount of the charge should have been based on 
+
+Dells best estimates of future qualifying restructuring costs.  If Dell subsequently determined that 
+
+amounts in the reserves were no longer needed for their originally intended purposes, or exceeded 
+
+                                               13 
+                                                 
+                                                 
+---------------------Page 14---------------------
+
+        Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 14 of 35
+
+what the company believed would ultimately be needed, Dell should have released those excess 
+
+amounts to the companys income statement. 
+
+       37.    Dell improperly built excess accruals into the reserve at its inception, and from 
+
+Q3FY02 to Q3FY04, maintained excess amounts from the restructuring reserve.  Over at least six 
+
+quarters during this period, Dell used this excess to offset the impacts of unrelated period costs 
+
+resulting in a material misrepresentation of its operating expenses as a percentage of revenue. 
+
+       38.    The balance of the restructuring reserve was inflated to create cushion that could 
+
+be used in later periods to offset unrelated operating expenses.  In May 2001, Imhoff wrote an 
+
+e-mail saying Ive added another $40M of contingencies overall [to the restructuring reserve] 
+
+based [on] a very scientific algorithmic formula (SWAG).  In August 2001, Dells CFO wrote an 
+
+email to Imhoff and the Senior Finance Executive acknowledging that the restructuring reserve 
+
+included certain costs that Dell had already accrued in other reserve accounts. 
+
+       39.    Imhoff knew that the reserve included excess accruals.  In November 2001, Imhoff 
+
+and the Senior Finance Executive informed Dells CFO of excess in the restructuring reserve and 
+
+Dells CFO directed Imhoff and the Senior Finance Executive not to take a negative special 
+
+charge (i.e., reverse excess amounts back to the income statement in keeping with GAAP) for any 
+
+excess amounts in the reserve. 
+
+       40.    Following the CFOs instruction not to take a negative charge, the Senior Finance 
+
+Executive and Imhoff directed, over the course of several periods, the transfer of the excess 
+
+restructuring accruals to account number 24990, discussed in greater detail above, where it 
+
+operated as a general reserve.  The re-designated funds were used to offset expenses unrelated to 
+
+Dells restructuring.  The cushion from the restructuring reserve was used to eliminate shortfalls in 
+
+the companys forecasted results  making it appear as if Dells operating expenses in future 
+
+                                               14 
+                                                 
+                                                 
+---------------------Page 15---------------------
+
+        Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 15 of 35
+
+periods were lower than they actually were.  For example, in Q3FY04, Dell funded an $8.6 million 
+
+required payment to the IRS relating to Dells 401(k) plan using excess accruals from the 
+
+restructuring reserve.  In the prior quarter, Imhoff informed Dells CFO that he and the Senior 
+
+Finance Executive had held back $10 million of redesignated special charge reserves to make 
+
+this payment.  
+
+       41.    Imhoff tracked excess amounts in the restructuring reserves, which were referred to 
+
+internally as cushion or available balances.  From Q4FY02 to Q2FY04, Imhoff created status 
+
+updates at least once every quarter that tracked these improper accruals.  These documents 
+
+identified amounts that were re-designated and, in some cases, identified how re-designated 
+
+amounts were to be utilized for unrelated operating expenses.   
+
+       42.    Dell failed to disclose that excess amounts were utilized for non-restructuring 
+
+related activities.  Dells annual report on Form 10-K filed with the Commission on May 1, 2002 
+
+and Dells quarterly reports on Forms 10-Q filed with the Commission on September 16, 2002 and 
+
+December 16, 2002 also misrepresented restructuring reserve amounts as paid, when in fact a 
+
+portion of them had been deemed as excess and re-designated to other accounts to be used for 
+
+unrelated items.  In his role as Corporate Assistant Controller in charge of SEC Reporting, Imhoff 
+
+reviewed each of these filings. 
+
+       d.          Accounting Manipulations of Reserves at EMEA 
+
+       43.    In addition to its improper establishment and use of a Corporate restructuring 
+
+reserve in FY02, Dell improperly created and released reserves to offset certain restructuring 
+
+actions in its Europe, Middle East and Africa (EMEA) segment in FY03 and FY04 in 
+
+contravention of GAAP.   
+
+                                              15 
+                                                
+                                                
+---------------------Page 16---------------------
+
+        Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 16 of 35
+
+       44.    EMEA was an important part of Dells business and Dell highlighted EMEA as a 
+
+significant component of its operations.  In FY03, EMEA generated 19.5% of Dells revenues and 
+
+13.6% of the companys operating income.  In FY04, EMEA grew to 20.5% of Dells revenues 
+
+and 18% of the companys operating income.  
+
+       45.    During the period relevant to this complaint, Dell treated EMEA as a reportable 
+
+segment.  In its Forms 10-K and Forms 10-Q, Dell therefore incorporated EMEAs operating 
+
+income in the companys consolidated operating income and separately reported EMEAs 
+
+operating income as a segment.  As Dell reported in its 2003 Form 10-K, it allocate[d] resources 
+
+to and evaluate[d] the performance of its segments based on operating income. 
+
+       46.    From Q3FY03 through Q1FY04, Dells EMEA segment improperly accrued $26 
+
+million in reserves to offset the expenses to be incurred for a future regional restructuring.  Dell 
+
+sought to avoid taking the expense in a single period, and instead spread it out over several periods. 
+
+Building the reserve piecemeal caused Dell to understate EMEAs operating income from 
+
+Q3FY03 through Q1FY04, and enabled the region to overstate operating income by $23.5 million 
+
+in Q2FY04, when EMEA released most of the improper reserve.  In Q3FY04, Dell used the 
+
+remainder of the improper reserve to avoid having to increase EMEAs accruals, and thereby 
+
+overstated operating income by $2.5 million.  Throughout the period from Q3FY03 to Q3FY04, 
+
+the reserves held for restructuring in Dells EMEA segment were improperlyand 
+
+misleadinglyclassified in Dells books as reserves for factory invoices and other expenses 
+
+completely unrelated to restructuring. 
+
+       47.    The creation of the improper reserves began in Q3FY03 when EMEAs finance 
+
+team first assessed a restructuring plan that included laying off managers and transferring certain 
+
+operations to less expensive countries.  In September 2002, one of the two EMEA Finance 
+
+                                             16 
+                                               
+                                               
+---------------------Page 17---------------------
+
+        Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 17 of 35
+
+Directors sought authorization from Dells CFO to record a reserve to pay for these anticipated 
+
+restructuring expenses.  The CFO refused the request. 
+
+       48.    On October 15, 2002, the CFO wrote the Finance Director, with copies to Imhoff 
+
+and others, that There will be no specially called out charge so how do we cover?? You guys need 
+
+to get a plan in place ASAP that we can discuss and keep this confidential. .  It gives us three 
+
+quarters in essence to cover. . .  
+
+       49.    On October 17, 2002, the EMEA Finance Director wrote the CFO back with a 
+
+proposal for finding money to cover off these restructuring costs.  After asking for additional 
+
+information, the CFO wrote do not know where you are on P/L this qtr but if we could 
+
+overachieve all should be earmarked to this.  The CFO thereby directed the EMEA Finance 
+
+Director to earmark income earned in excess of financial targets to restructuring expenses rather 
+
+than recording it as income in Dells general ledger.  
+
+       50.    The EMEA Finance Director promptly followed the CFOs direction, even though 
+
+it was inconsistent with GAAP.  Although EMEA had neither committed to a formal restructuring 
+
+plan nor communicated any plan to employees, the region began accruing for EMEAs 
+
+restructuring.  On or about November 6, 2002, the last day before its books closed for Q3FY03, 
+
+EMEA accrued and maintained excess reserves totaling $13 million for its restructuring.  
+
+Consistent with the CFOs direction, this was the amount by which EMEA exceeded its financial 
+
+targets. 
+
+       51.    Dell reported EMEAs operating income as a segment in its Form 10-Q for the 
+
+quarter ended November 1, 2002 as $104 million.  This amount did not reflect the $13 million that 
+
+was reserved for EMEAs restructuring expenses 
+
+                                              17 
+                                                
+                                                
+---------------------Page 18---------------------
+
+        Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 18 of 35
+
+       52.    In November 2002, the EMEA Finance Director informed the CFO and the Senior 
+
+Finance Executive of EMEAs misstatement, telling them that he had tucked away $13 million 
+
+for EMEAs expected restructuring.  The Finance Director also advised the CFO that if Dell were 
+
+short of its consolidated targets in the following quarter, it could take [the $13 million] to the 
+
+bottom line and I will find it again in Q1. 
+
+       53.    Dell concealed the improper reserves from PWC.  In November 2002, the EMEA 
+
+Finance Director informed the CFO and Senior Finance Executive that EMEA told PWC that the 
+
+$13 million reserve related to another account that was something completely different from the 
+
+restructuring.  Moreover, when PWC noticed that EMEA had initially accrued part of the $13 
+
+million in an account relating to a past EMEA restructuring, Imhoff told PWC that the funds would 
+
+be reclassified but failed to mention that the funds were still going to be used for a future 
+
+restructuring and that the accrual did not conform with GAAP. 
+
+       54.    Imhoff repeatedly communicated with the EMEA Finance Director and others in 
+
+EMEA about the restructuring reserve in November 2002.  In an e-mail with the subject line 
+
+EMEA Restructure Reserve, he told the Finance Director and others that I do need the 
+
+responses I requested. . .because I also understand. . .that your team indicated to [CFO] and [Senior 
+
+Finance Executive] that you are working through me regarding the proper accounting for these 
+
+items. 
+
+       55.    Early in Q4FY03, the EMEA Finance Director informed Imhoff and the Senior 
+
+Finance Executive that he expected EMEA would be incurring $22.8 million in restructuring costs 
+
+in future quarters.  EMEA subsequently increased its improper reserves by $9.8 million to $22.8 
+
+million by failing to release accruals identified as excess in the quarter and to record a vendor 
+
+credit in accordance with GAAP. 
+
+                                              18 
+                                                
+                                                
+---------------------Page 19---------------------
+
+        Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 19 of 35
+
+       56.    In a slide presented in its February 13, 2003 earnings call and subsequently posted 
+
+on its website, Dell disclosed that the EMEA segment had earned $134 million in Q4FY03.  This 
+
+amount did not include the $9.8 million by which the restructuring reserve was increased in the 
+
+quarter. 
+
+       57.    Although he knew of the improper EMEA reserves, Imhoff signed a management 
+
+representation letter in February 2003 confirming to PWC that, among other things, (a) Dells 
+
+FY2003 consolidated financial statements conformed with GAAP; (b) that [t]here are no 
+
+material . . . accounts that have not been properly recorded in the accounting records underlying 
+
+the consolidated financial statements; and (c) that [t]here are no significant deficiencies. . .in the 
+
+design or operation of internal controls which could adversely affect the Companys ability to 
+
+record, process, summarize and report financial data.  These representations were false. 
+
+       58.    In Q2FY04, EMEA incurred most of the restructuring expenses it had been 
+
+expecting since Q3FY03.  Through releases from the improper reserves, EMEA offset 
+
+restructuring and other costs in the quarter, and overstated its operating income by $23.5 million in 
+
+the quarter.  Dell reported the EMEA segments operating income as $145 million in its Form 
+
+10-Q for the quarter ended August 1, 2003 
+
+       e.           Dells Cookie Jar Reserves in its Bonus and Profit Sharing Accounts 
+
+       59.    In addition to the above reserves, Dell manipulated its bonus and profit sharing 
+
+reserve accounts in multiple quarters in FY02 and FY03 to manage its operating results. 
+
+       60.    Throughout the relevant period, Dells Compensation Committee established a 
+
+bonus and profit sharing target each year.  Dell accrued throughout each fiscal year for the 
+
+anticipated bonus and profit sharing payout.  The bonus target was calculated using a grid based on 
+
+revenue growth and operating margin targets.  In March following the close of each fiscal year, the 
+
+                                              19 
+                                                 
+                                                 
+---------------------Page 20---------------------
+
+        Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 20 of 35
+
+Compensation Committee met to determine whether the companys bonus payout would adhere to 
+
+or depart from the amounts indicated on the bonus grid. 
+
+       61.     Imhoff was aware by the beginning of FY02 that Dell was still carrying bonus 
+
+over-accruals from FY00.  After conducting a thorough analysis of the over-accruals for the Senior 
+
+Finance Executive, a subordinate emailed Imhoff and the Senior Finance Executive on February 6, 
+
+2001, while Dell was closing its FY01 books, asking the Senior Finance Executive for approval to 
+
+manage entries so that Dell could carry a $6M bonus over-accrual into FY02.  Imhoff emailed the 
+
+Senior Finance Executive that the proposed entries would have the effect of drawing down the 
+
+$10M accrual from PYs [prior years] down to the $6M you see on [the] analysis.  There is a 
+
+possibility that we wont [pay as large a bonus as estimated,] which obviously would then add 
+
+back to the cushion.  The $10M accrual Imhoff referred to, which the analysis indicated was from 
+
+FY00, was listed on a Q4FY01 Risks and Opportunities Schedule in a row labeled, Bonus/Prof 
+
+Sh.- accruals from PYs [prior years].   
+
+       62.    In March 2001 (Q1FY02), Dells Compensation Committee decided on a 
+
+bonus/profit sharing payout for FY01 that was less than the accrual the company had created to 
+
+fund the payout.  Imhoff knew that Dell had over-accrued for the FY01 bonus/profit sharing 
+
+payout before it filed its FY01 Form 10-K in May 2001.  Rather than releasing the entire excess 
+
+reserve in Dells Q4FY01 or Q1FY02 income statement in accordance with GAAP, however, Dell 
+
+instead released only about $20 million of the over-accrual in Q1FY02, and then bled down the 
+
+excess bonus reserves in Q2FY02 ($0.5 million), Q3FY02 ($10 million), Q4FY02 ($4.5 million), 
+
+and Q1FY03 ($3.6 million) to smooth Dells reported operating expenses. 
+
+       63.    On April 19, 2001, Imhoff received emails from subordinates in Corporate 
+
+Planning & Analysis concerning the bonus over-accrual.  The first email, which had Bonus Over 
+
+                                             20 
+                                                
+                                                
+---------------------Page 21---------------------
+
+        Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 21 of 35
+
+Accrual in the subject line, stated, in relevant part, I wanted to make sure that you are aware 
+
+$15M of the total [bonus] over accrual has been earmarked in the Corporate General cost center.  
+
+The second email stated, in relevant part, [The Senior Finance Executive] is trying to avoid 
+
+having to explain the sequential growth in Corporate [OpEx] . . . .  His thought was that we are 
+
+going to bleed the Bonus over-accrual anyways so why not forecast for it in the Corporate General 
+
+budget (this is where actuals would hit) and avoid any headaches related to Corporate opex. The 
+
+Bonus supposedly belongs to Corporate anyways and we would have control over it and know 
+
+where it is booked.  Thats as much reasoning as [two analysts] and I got in our meeting with him. 
+
+       64.    On May 4, 2001, a bonus analyst sent an email to Imhoff and the Senior Finance 
+
+Executive regarding the over-accrual for the FY01 bonus/profit sharing payout:  Below is the 
+
+result of the Bonus & Profit Sharing Clean Up effort: FY01 Overaccrual - Amer/Corp/[Product 
+
+Group] has $25M to bleed, [Worldwide] = ~$32M. 
+
+       65.      On October 30, 2001, Imhoff received an R&O Schedule that listed him as the 
+
+owner of PY [prior year] bonus.  The PY bonus entry was as follows: $8M of the $11M 
+
+tentatively earmarked for Q4FY02; leaving $3M available for Q3. 
+
+       66.    On January 5, 2002, Imhoff received a bonus and profit sharing report that showed 
+
+that the FY01 bonus/profit sharing over-accrual had been slowly bled down through releases in 
+
+May, June, July, August, September, October and November, 2001. 
+
+       67.    In March 2002 (Q1FY03), Dells Compensation Committee decided on a 
+
+bonus/profit sharing payout for FY02 that was again less than what the company had accrued.  
+
+Before Dell filed its FY02 Form 10-K on May 1, 2002, Imhoff and the Senior Finance Executive 
+
+knew that Dell was over-accrued for the FY02 payout.  On March 28, 2002, the Senior Finance 
+
+Executive received an estimate that the over-accrual would be about $30 million.  On April 29, 
+
+                                              21 
+                                                
+                                                
+---------------------Page 22---------------------
+
+        Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 22 of 35
+
+2002, Imhoff received an estimate that Dell was over-accrued by $18.6 million -- $3.6 million 
+
+from FY01 and $15 million from FY02. 
+
+       68.    Under GAAP, Dell should have released the bonus over-accrual no later than 
+
+Q1FY03.  Dell, however, only released $6.1 million of the over-accrual in Q1FY03.  Dell bled 
+
+down the balance of the excess bonus reserves in FY03 to smooth Dells reported operating 
+
+expenses. 
+
+       69.    In a note the Senior Finance Executive drafted to himself on April 5, 2002  which 
+
+was recovered from his draft email folder, and which had bonus status questions in the subject 
+
+line  the Senior Finance Executive wrote: 
+
+       1. What is the current status of the [bonus] accrual carryover? 
+
+       2.  How does that compare with the Q1/Q2 forecast amounts for Corp Gen 
+
+       3.  What [sic] me thru the ESOIP portion (including how it was handled last year) 
+
+       4.  If we have a shortfall in 2, synch up with [Imhoff] to cover from the charge accrual 
+
+       5. Ensure that the amount in 1 is held and used only at Corp  
+
+       (emphasis in original) 
+
+       70.    On May 2, 2002, Imhoff stated in an email to the Senior Finance Executive: Ive 
+
+summarized below where we are regarding funding the FY03 Corp Gen shortfall.  My current 
+
+sense is that well exit Q1 with $38M in restructuring accrual goodness . . . .  Together with 
+
+bonus/profit sharing overaccruals, well be able to cover Corp Gen and still have ~$19M left to 
+
+cover [other known matters], and other matters that may arise. 
+
+       71.    On May 8, 2002, Imhoff sent the Senior Finance Executive a spreadsheet that 
+
+showed restructuring reserve cushion and bonus over-accrual being used to cover the FY03 Corp 
+
+General shortfall.  
+
+                                              22 
+                                                
+                                                
+---------------------Page 23---------------------
+
+        Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 23 of 35
+
+       72.    Instead of releasing the entire $18.6 million bonus over-accrual in Q4FY02 or 
+
+Q1FY03, Dell bled down the over-accrual throughout the year, releasing $3.6 million from its 
+
+FY01 bonus over-accrual and an additional $2.5 million from its FY02 bonus over-accrual in 
+
+Q1FY03, $7.4 million in Q2FY03, and $5 million in Q3FY03.  Imhoff knew of  the bleed down in 
+
+the bonus and profit sharing reserves. 
+
+       73.    On November 8, 2002, Imhoff received an email that evidenced that a $15 million 
+
+bonus/profit sharing over-accrual that existed in Q1FY03 had been bled down gradually each 
+
+month from April 2002 thru October 2002 to offset corporate operating expenses. 
+
+       74.    Imhoff knew that under GAAP, over-accruals relating to the FY01 bonus/profit 
+
+sharing payout should have been released by the end of Q1FY02, and that over-accruals relating to 
+
+the FY02 bonus/profit sharing payout should have been released by the end of Q1FY03, rather 
+
+than retained and released gradually over time.  He also knew that, contrary to GAAP, Dell bled its 
+
+FY01 and FY02 over-accruals in multiple quarters in FY02 and FY03 to smooth operating 
+
+expenses. 
+
+       f.           Dells Improper Failure to Increase Reserves for Las Cimas Liabilities 
+
+       75.     Dell included a provision in the FY02 restructuring reserve to cover the costs of 
+
+closing its Las Cimas facility in Texas.  On May 31, 2002, Imhoff received an update presentation 
+
+dated May 14, 2002 regarding the FY02 restructuring reserve, which included a statement that the 
+
+Dell facilities group had expressed concerns over the adequacy of the facilities reserve.  Imhoff 
+
+should have undertaken steps to quantify the additional reserves needed for Las Cimas at that time.  
+
+Imhoff failed to do so. 
+
+       76.    On February 24, 2003 (Q1FY04), Imhoff provided the Senior Finance Executive 
+
+with an analysis showing that the cost of exiting the Las Cimas facility would likely be $53 million 
+
+                                              23 
+                                                
+                                                
+---------------------Page 24---------------------
+
+        Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 24 of 35
+
+more than Dell had reserved.  Under GAAP, Dell should have increased its Las Cimas reserves by 
+
+approximately $33 million (the net present value of $53 million).   
+
+       77.    Imhoff failed to take any steps to adjust Dells restructuring reserves to account for 
+
+this new information.  It was not until October 2005 (Q3FY06) that Dell increased its reserves for 
+
+closing the Las Cimas facility. 
+
+                                 ENGAGEMENT LETTER 
+ 
+       78.     Imhoff, as Corporate Assistant Controller, signed Dells engagement letter, dated 
+
+November 14, 2001, with Dells auditor, PWC, for the financial statements for FY02.  On behalf 
+
+of Dell, Imhoff signed the agreement stating that:  The services and terms as set forth in this letter 
+
+are agreed to. 
+
+       79.    Among the terms in the letter are Managements responsibilities.  The terms in 
+
+the Managements responsibilities to which Imhoff agreed on behalf of Dell included, among 
+
+others: 
+
+       The financial statements and information referred to above are the responsibility of the 
+       management of the Company.  In this regard, management is responsible for properly 
+       recording transactions in the accounting records and for establishing and maintaining 
+       internal control sufficient to permit the preparation of financial statements and information 
+       in conformity with generally accepted accounting principles.  Management is responsible 
+       for adjusting the financial statements to correct material misstatements. . . . Management 
+       also is responsible for identifying and ensuring that the Company complies with the laws 
+       and regulations applicable to its activities. 
+         
+        
+                               STATEMENTS TO AUDITOR 
+ 
+       80.     Imhoff signed a representation letter to Dells auditor, PWC, dated August 16, 
+
+2001, which referred specifically to the charge for restructuring.  The letter made a number of false 
+
+representations and omitted material facts about the special charge that Dell took during the 
+
+second quarter of FY02. 
+
+                                              24 
+                                                 
+                                                 
+---------------------Page 25---------------------
+
+        Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 25 of 35
+
+       81.    Imhoff signed the representation letter to Dells auditor dated February 14, 2002, 
+
+which stated that [t]he restructuring accrual and all significant changes, if any, from the original 
+
+restructuring plan have been properly recognized, classified and disclosed in accordance with 
+
+EITF 94-3 and SAB 100. 
+
+       82.    Imhoff signed the representation letter to Dells auditor dated February 13, 2003.  
+
+This letter, as well as the February 14, 2002 letter discussed above, stated, among other things, (a) 
+
+that Dells consolidated financial statements were fairly presented in conformity with GAAP; (b) 
+
+that Dell had made available to the auditor all financial records and related data; (c) that there were 
+
+no material transactions, agreements or accounts that had not been properly recorded in the 
+
+accounting records underlying Dells consolidated financial statements; (d) that there had been no 
+
+knowledge of fraud involving management or employees who have significant roles in Dells 
+
+internal control; and (e) that there had been no fraud involving others that could have a material 
+
+effect on the consolidated financial statements.  Both the February 2002 letter and the February 
+
+2003 letter were materially false and misleading.   
+
+                                  INTERNAL CONTROLS 
+ 
+       83.    As evidenced by the misconduct described above, at least for the period from FY02 
+
+until the time Imhoff left his position as Corporate Assistant Controller, Dell did not have a system 
+
+of internal controls that was sufficient to assure compliance with GAAP.  Imhoff had 
+
+responsibility for overseeing some aspects of Dells internal controls.  Imhoff also signed the 
+
+November 2001 engagement letter with Dells auditors.  Based on his conduct described above, he 
+
+knowingly circumvented those internal controls. 
+
+ 
+
+ 
+
+                                               25 
+                                                 
+                                                 
+---------------------Page 26---------------------
+
+        Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 26 of 35
+
+                                 DELLS RESTATEMENT 
+
+       84.    On or about August 17, 2006, Dell issued a press release, and filed a Form 8-K with 
+
+the Commission, announcing that its audit committee had begun conducting an independent 
+
+investigation into certain of Dells accounting and financial reporting practices. 
+
+       85.    On or about August 16, 2007, Dell filed with the Commission a Form 8-K 
+
+announcing that the investigation had been completed and the results reported to the audit 
+
+committee.  In the August 16 Form 8-K, Dell announced that its audit committee had concluded 
+
+that Dells previously issued financial statements for FY03, FY04, FY05, and FY06, including the 
+
+interim periods within those years, and Q1FY07 (Restatement Period) should no longer be 
+
+relied upon because of certain accounting errors and irregularities in those financial statements.  
+
+       86.    In the August 16 Form 8-K, Dell also announced that it would restate the previously 
+
+issued financial statements for the Restatement Period.  Under GAAP, a restatement is required if 
+
+there is a material error in the financial statements.  Dell stated:  The accounting errors and 
+
+irregularities that will be corrected are significant because of the combination of the number of 
+
+issues identified, the qualitative nature of many of the issues, and in some cases, the dollar 
+
+amounts involved. 
+
+       87.    On or about October 30, 2007, Dell filed its Form 10-K with the Commission for 
+
+the fiscal year ended February 2, 2007.  The 2007 Form 10-K contained the restated financial 
+
+statements for the Restatement Period. 
+
+       88.    The Form 10-K, in both the MD&A and notes to the financial statements, 
+
+summarized the findings of the audit committee investigation (Summary of Investigation 
+
+Findings).  Dell stated in its 2007 Form 10-K: 
+
+       The investigation raised questions relating to numerous accounting issues, most of 
+       which involved adjustments to various reserve and accrued liability accounts, and 
+                                              26 
+                                                
+                                                
+---------------------Page 27---------------------
+
+        Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 27 of 35
+
+       identified evidence that certain adjustments appear to have been motivated by the 
+       objective of attaining financial targets.  According to the investigation, these 
+       activities typically occurred in the days immediately following the end of a quarter, 
+       when the accounting books were being closed and the results of the quarter were 
+       being compiled.  The investigation found evidence that, in that timeframe, account 
+       balances were reviewed, sometimes at the request or with the knowledge of senior 
+       executives, with the goal of seeking adjustments so that quarterly performance 
+       objectives could be met.  The investigation concluded that a number of these 
+       adjustments were improper, including the creation and release of accruals and 
+       reserves that appear to have been made for the purpose of enhancing internal 
+       performance measures or reported results, as well as the transfer of excess accruals 
+       from one liability account to another and the use of the excess balances to offset 
+       unrelated expenses in later periods. . . .  The investigation identified evidence that 
+       accounting adjustments were viewed at times as an acceptable device to 
+       compensate for earnings shortfalls that could not be closed through operational 
+       means. 
+
+       89.    Dells 2007 Form 10-K further stated in the Summary of Investigation Findings: 
+
+[I]n a number of instances, purposefully incorrect or incomplete information about these 
+
+activities was provided to internal or external auditors.  Dell also stated in the Summary that: 
+
+The errors and irregularities identified in the course of the investigation revealed deficiencies in 
+
+[Dells] accounting and financial control environment, some of which were determined to be 
+
+material weaknesses, that require corrective and remedial actions. 
+
+       90.    Dells Form 10-K described the Restatement Adjustments in the MD&A and 
+
+more fully in the notes to the financial statements.  Dell reiterated that the financial statements for 
+
+the Restatement Period should no longer be relied upon.  Among the Restatement Adjustments 
+
+were Unsubstantiated Accruals and Inadequately Reconciled Accounts.  In its 2007 Form 10-K, 
+
+Dell stated that 
+
+       In some instances accrual and reserve accounts lacked justification or supporting 
+       documentation.  In certain cases these accounts were used to accumulate excess 
+       amounts from other reserve and accrual accounts.  However, these excess reserves 
+       were not released to the income statement in the appropriate reporting period or 
+       were released for other purposes. . . . 
+
+                                               27 
+                                                 
+                                                 
+---------------------Page 28---------------------
+
+        Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 28 of 35
+
+       91.    Dells 2007 Form 10-K, in Item 9A, contained Managements Report on Internal 
+
+Control Over Financial Reporting.  The Report stated that internal control includes, among other 
+
+things, those policies and procedures . . . which provide reasonable assurance that transactions are 
+
+recorded as necessary to permit preparation of financial statements in accordance with GAAP.  
+
+As stated in the report:  A material weakness is a deficiency, or a combination of deficiencies, in 
+
+internal control over financial reporting that there is more than a remote likelihood that a material 
+
+misstatement of the annual or interim financial statements will not be prevented or detected. 
+
+       92.    The Report concluded that there were material weaknesses in Dells internal 
+
+control over financial reporting as of February 2, 2007.  With respect to the control environment, 
+
+management concluded: 
+
+       We did not maintain a tone and control consciousness that consistently emphasized 
+       strict adherence to GAAP.  This control deficiency resulted in an environment in 
+       which accounting adjustments were viewed at times as an acceptable device to 
+       compensate for operational shortfalls, which in certain instances led to 
+       inappropriate accounting decisions and entries that appear to have been largely 
+       motivated to achieve desired accounting results and, in some instances, involved 
+       management override of controls.  In a number of instances, information critical to 
+       an effective review of transactions and accounting entries was not disclosed to 
+       internal and external auditors. 
+
+       93.    With respect to the period-end financial reporting process, management concluded 
+
+that there was also a material weakness: 
+
+       We did not maintain effective controls over period-end reporting process, including 
+       controls with respect to the review, supervision, and monitoring of accounting 
+       operations.  Specifically: . . . 
+
+       We did not design and maintain effective controls to ensure the completeness, 
+       accuracy, and timeliness of the recording of accrued liabilities, reserves, and 
+       operating expenses . . . 
+
+                                               28 
+                                                 
+                                                 
+---------------------Page 29---------------------
+
+        Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 29 of 35
+
+       94.    Management concluded that:  These material weaknesses resulted in the 
+
+restatement of our annual and interim financial statements for Fiscal 2003, 2004, 2005, and 2006 
+
+and the first quarter of Fiscal 2007. . . . 
+
+       95.    Dells Form 10-K contained the Report of Independent Registered Public 
+
+Accounting Firm, dated October 29, 2007, by PWC, Dells independent auditors.  PWC audited 
+
+managements assessment of internal controls, included in Managements Report on Internal 
+
+Control.  PWC rendered its opinion that managements assessment that the Company did not 
+
+maintain effective internal control over financial reporting as of February 2, 2007, is fairly stated, 
+
+in all material respects. . . .  PWC also rendered its opinion that because of the effects of the 
+
+material weaknesses . . . on the achievement of the objectives of the control criteria, the Company 
+
+has not maintained effective internal control over financial reporting as of February 2, 2007. . . . 
+
+ 
+                              INCENTIVE COMPENSATION 
+
+       96.    During the relevant period, Dell had various compensation programs for its 
+
+employees.  Under Dells Incentive Bonus Plan, in which Imhoff participated, there were 
+
+numerous factors that determined whether a Dell employee would receive a bonus in a given year.  
+
+These factors included, but were not limited to, operating margin, revenue growth, customer 
+
+experience, globalization, and individual performance reviews.  The improper accounting 
+
+discussed above influenced Dells operating margin and inflated the calculations of Imhoffs 
+
+bonuses in FY03 and FY04 under the matrix. 
+
+ 
+
+ 
+
+ 
+
+ 
+                                              29 
+                                                
+                                                
+---------------------Page 30---------------------
+
+        Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 30 of 35
+
+                                       FIRST CLAIM  
+
+ Aiding and Abetting Violations of Section 13(a) of the Exchange Act [15 U.S.C. § 78m(a)] 
+ and Rules 12b-20, 13a-1, and 13a-13 thereunder [17 C.F.R. §§ 240.12b-20, 240.13a-1, and 
+                                         240.13a-13] 
+                                                
+                                                
+       97.    Paragraphs 1 through 96 above are realleged and incorporated by reference as if 
+
+fully set forth herein. 
+
+       98.    By reason of the conduct alleged above, Dell filed with the Commission materially 
+
+false and misleading annual reports on its Forms 10-K, and materially false and misleading 
+
+quarterly reports on its Forms 10-Q, during the relevant time period.    
+
+       99.    By reason of the conduct alleged above, Dell failed to file with the Commission 
+
+such financial reports in accordance with such rules and regulations as the Commission has 
+
+prescribed, and failed to include, in addition to the information expressly required to be stated in 
+
+such reports, such further material information as was necessary to make the statements made 
+
+therein, in light of the circumstances under which they were made, not misleading, in violation of 
+
+Section 13(a) of the Exchange Act [15 U.S.C. § 78m(a)] and Rules 12b-20, 13a-1, and 13a-13 
+
+thereunder [17 C.F.R. §§ 240.12b-20, 240.13a-1, and 240.13a-13]. 
+
+       100.    By reason of the foregoing, Imhoff aided and abetted Dells violations of Section 
+
+13(a) of the Exchange Act [15 U.S.C. § 78m(a)] and Rules 12b-20, 13a-1, and 13a-13 [17 C.F.R. 
+
+§§ 240.12b-20, 240.13a-1, and 240.13a13], promulgated thereunder, pursuant to Section 20(e) of 
+
+the Exchange Act [15 U.S.C. § 78t(e)]. 
+
+                                              30 
+                                                
+                                                
+---------------------Page 31---------------------
+
+        Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 31 of 35
+
+                                      SECOND CLAIM 
+
+Aiding and Abetting Violations of Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act 
+                        [15 U.S.C. §§ 78m(b)(2)(A) and 78m(b)(2)(B)] 
+                                                
+ 
+       101.   Paragraphs 1 through 100 above are realleged and incorporated by reference as if 
+
+fully set forth herein. 
+
+       102.   By reason of the conduct alleged above, Dell failed to make and keep books, 
+
+records, and accounts that, in reasonable detail, accurately and fairly reflected the transactions and 
+
+disposition of its assets. 
+
+       103.   By reason of the conduct alleged above, Dell failed to devise and maintain a system 
+
+of internal accounting controls sufficient to provide reasonable assurances that transactions were 
+
+recorded as necessary to permit preparation of financial statements in conformity with generally 
+
+accepted accounting principles, or any other applicable criteria, and to maintain accountability for 
+
+assets. 
+
+       104.    By reason of the conduct alleged above, Dell violated Sections 13(b)(2)(A) and 
+
+13(b)(2)(B) of the Exchange Act [15 U.S.C. §§ 78m(b)(2)(A) and 78m(b)(2)(B)]. 
+
+       105.   By reason of the foregoing, Imhoff aided and abetted Dells violations of Sections 
+
+13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act [15 U.S.C. §§ 78m(b)(2)(A) and 78m(b)(2)(B)], 
+
+pursuant to Section 20(e) of the Exchange Act [15 U.S.C. § 78t(e)]. 
+
+                                              31 
+                                                
+                                                
+---------------------Page 32---------------------
+
+        Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 32 of 35
+
+                                      THIRD CLAIM 
+
+                             Violations of Section 13(b)(5) of the 
+                            Exchange Act [15 U.S.C. §78m(b)(5)] 
+                                                
+                                                
+       106.   Paragraphs 1 through 105 above are realleged and incorporated by reference as if 
+
+fully set forth herein.  
+
+       107.   By reason of the conduct alleged above, Imhoff knowingly circumvented or 
+
+knowingly failed to implement a system of internal accounting controls or knowingly falsified, 
+
+directly or indirectly, or caused to be falsified books, records and accounts of Dell that were 
+
+subject to Section 13(b)(2)(A) of the Exchange Act [15 U.S.C. § 78m(b)(2)(A)]. 
+
+       108.   By reason of the foregoing, Imhoff violated Section 13(b)(5) of the Exchange Act 
+
+[15 U.S.C. § 13(b)(5)]. 
+
+                                     FOURTH CLAIM 
+
+ Violations of Rule 13b2-1 promulgated under the Exchange Act [17 C.F.R. § 240.13b2-1] 
+                                                
+                                                
+       109.   Paragraphs 1 through 108 above are realleged and incorporated by reference as if 
+
+fully set forth herein.  
+
+       110.    By reason of the conduct alleged above, Imhoff, directly or indirectly, falsified or 
+
+caused to be falsified, books, records, or accounts described in Section 13(b)(2)(A) of the 
+
+Exchange Act [15 U.S.C. § 78m(b)(2)(A)]. 
+
+       111.   By reason of the foregoing, Imhoff violated Rule 13b2-1, promulgated under the 
+
+Exchange Act [17 C.F.R. §240.13b2-1].  
+
+ 
+
+ 
+
+ 
+
+                                              32 
+                                                
+                                                
+---------------------Page 33---------------------
+
+        Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 33 of 35
+
+                                       FIFTH CLAIM  
+
+ Violations of Rule 13b2-2 promulgated under the Exchange Act [17 C.F.R. §240.13b2-2] 
+                                                
+                                                
+       112.   Paragraphs 1 through 111 above are realleged and incorporated by reference as if 
+
+fully set forth herein. 
+
+       113.   By reason of the conduct alleged above, Imhoff, directly or indirectly: (a) made or 
+
+caused to be made a materially false or misleading statement to an accountant in connection with; 
+
+or (b) omitted to state, or caused another person to omit to state, any material fact necessary in 
+
+order to make statements made, in light of the circumstance under which such statements were 
+
+made, not misleading, to an accountant in connection with:  (1) any audit, review or examination 
+
+of the financial statements of Dell required to be made pursuant to Section 13(b) of the Exchange 
+
+Act [15 U.S.C. § 78m(b)]; or (2) the preparation or filing of any document or report required to be 
+
+filed with the Commission pursuant to Section 13(a) of the Exchange Act [15 U.S.C. § 78m(a)] or 
+
+otherwise. 
+
+       114.     By reason of the foregoing, Imhoff violated Rule 13b2-2, promulgated under the 
+
+Exchange Act [17 C.F.R. § 240.13b2-2]. 
+
+                                  PRAYER FOR RELIEF 
+
+                                                
+              WHEREFORE, the Commission respectfully requests that the Court enter a 
+
+judgment: 
+
+                                              I. 
+                                                
+              Permanently restraining and enjoining defendant Imhoff, his agents, servants, 
+
+employees and attorneys and all persons in active concert or participation with him who receive 
+
+actual notice of the Final Judgment by personal service or otherwise, and each of them from, 
+
+                                              33 
+                                                
+                                                
+---------------------Page 34---------------------
+
+        Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 34 of 35
+
+directly or indirectly, violating Section 13(b)(5) of the Exchange Act [15 U.S.C. § 78m(b)(5)] and 
+
+Rules 13b2-1 and 13b2-2 [17 C.F.R. §§ §240.13b2-1, and 240.13b2-2], and from aiding and 
+
+abetting violations of Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act [15 U.S.C. 
+
+§§ 78m(a), 78m(b)(2)(A) and 78m(b)(2)(B)], and Rules 12b-20, 13a-1, and 13a-13 [17 C.F.R. §§ 
+
+240.12b-20, 240.13a-1, 240.13a-13], promulgated thereunder, pursuant to Section 20(e) of the 
+
+Exchange Act [15 U.S.C. § 78t(e)]. 
+
+                                              II. 
+                                                 
+              Ordering defendant Imhoff to disgorge ill-gotten gains from the conduct alleged 
+
+herein and to pay prejudgment interest thereon. 
+
+                                              III. 
+                                                 
+              Ordering defendant Imhoff to pay civil money penalties pursuant to Section 21(d) 
+
+of the Exchange Act [15 U.S.C. § 78u(d)]. 
+
+                                              IV. 
+
+                                                    
+               Retaining jurisdiction of this action to implement and carry out the terms of all 
+
+orders and decrees that may be entered or to entertain any suitable application or motion for 
+
+additional relief within the jurisdiction of this Court. 
+
+                                              34 
+                                                 
+                                                 
+---------------------Page 35---------------------
+
+         Case 1:10-cv-01465-RJL   Document 1    Filed 08/27/10   Page 35 of 35
+
+                                                   V. 
+                                                      
+                Granting such other and further relief as the Court may deem appropriate. 
+
+Dated:  August 27, 2010 
+
+ 
+
+ 
+
+ 
+
+ 
+
+      Respectfully submitted, 
+
+ 
+
+      s/ John D. Worland, Jr.                                              
+      John D. Worland, Jr. (Bar #427797) 
+                                                Richard B. Skaff 
+                                                Attorney for Plaintiff 
+                                                Securities and Exchange Commission 
+                                                100 F Street, NE 
+                                                Washington, D.C. 20549 
+                                                Tele: (202) 551-4438 
+                                                Fax:  (202) 772-9245 
+                                                e-mail:  worlandj@sec.gov 
+                                                 
+ 
+ 
+ 
+ 
+Of Counsel: 
+ 
+Christopher R. Conte 
+Rami Sibay 
+Timothy N. England 
+James C. Blenko 
+Shelby H. Hunt 
+Jonathan M. Jacobs 
+Ian D. Rupell 
+ 
+
+                                                   35 
+                                                      
+                                                      

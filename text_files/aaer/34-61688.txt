@@ -1,0 +1,457 @@
+---------------------Page 1---------------------
+
+                           UNITED STATES OF AMERICA 
+
+                                      Before the 
+
+                    SECURITIES AND EXCHANGE COMMISSION 
+
+                                            
+ SECURITIES EXCHANGE ACT OF 1934 
+ Release No. 61688 / March 11, 2010 
+  
+ INVESTMENT COMPANY ACT OF 1940 
+ Release No. 29173 / March 11, 2010 
+  
+ ACCOUNTING AND AUDITING ENFORCEMENT 
+ Release No. 3120 / March 11, 2010 
+  
+ ADMINISTRATIVE PROCEEDING 
+ File No.  3-13543 
+  
+                                        ORDER MAKING FINDINGS AND IMPOSING 
+In the Matter of 
+                      REMEDIAL SANCTIONS AND A CEASE-AND-
+                                        DESIST ORDER PURSUANT TO SECTION 21C OF 
+ROBERT JOHN HIPPLE,  
+                  THE SECURITIES EXCHANGE ACT OF 1934, 
+                                        SECTIONS 9(b) AND 9(f) OF THE INVESTMENT 
+Respondent. 
+                           COMPANY ACT OF 1940, AND RULE 102(e)(1) OF 
+                                        THE COMMISSION’S RULES OF PRACTICE  
+ 
+ 
+ 
+    
+                                           I. 
+  
+       On July 9, 2009, the Securities and Exchange Commission (“Commission”) instituted 
+ public administrative and cease-and-desist proceedings pursuant to Section 21C of the Securities 
+ Exchange Act of 1934 (“Exchange Act”), Sections 9(b) and 9(f) of the Investment Company Act 
+ of 1940 (“Investment Company Act”), and Rule 102(e)(1) of the Commission’s Rules of Practice  
+ against Robert John Hipple (“Hipple” or “Respondent”). 
+  
+                                          II. 
+  
+       In connection with these proceedings,  Respondent Hipple has submitted an Offer of 
+ Settlement (the “Offer”) which the Commission has determined to accept.  Solely for the purpose 
+ of these proceedings and any other proceedings brought by or on behalf of the Commission, or to 
+ which the Commission is a party, and without admitting or denying the findings herein, except as 
+ to the Commission’s jurisdiction over him and the subject matter of these proceedings, which are  
+ admitted, Hipple consents to the entry of this Order Making Findings and Imposing Remedial 
+ Sanctions and a Cease-and-Desist Order Pursuant to Section 21C of the Securities Exchange Act of  
+ 1934, Sections 9(b) and 9(f) of the Investment Company Act of 1940, and Rule 102(e)(1) of the  
+ Commission’s Rules of practice (“Order”), as set forth below.  
+  
+---------------------Page 2---------------------
+
+                                                III. 
+                                                   
+       On the basis of this Order and Hipple’s Offer, the Commission finds    1
+                                                                                that: 
+                                                   
+A. SUMMARY 
+ 
+        Robert Hipple, a lawyer and the former CEO and CFO of now-defunct business 
+development company (“BDC”)      2
+                                   iWorld Projects & Systems, Inc. (“iWorld”), overstated the 
+value of iWorld’s primary asset – its investment in several portfolio companies – in three 
+consecutive quarterly filings in 2005.  Hipple, who personally performed iWorld’s accounting 
+and financial reporting functions, also misled iWorld’s auditors into believing that the company 
+had independently evaluated the worth of its portfolio companies.  As a result of his conduct, 
+Hipple i) violated the antifraud provisions of the Exchange Act, filed false Sarbanes-Oxley 
+executive certifications, misled iWorld’s auditors, falsified books and records, and knowingly 
+circumvented internal controls; ii) violated Section 57(a)(1) of the Investment Company Act;  
+and iii) aided and abetted and caused iWorld’s violations of the reporting, books and records, and 
+internal controls provisions of the Exchange Act, and iWorld’s violations of the BDC books and 
+records provision of the Investment Company Act.  
+ 
+B. RESPONDENT 
+                                                   
+        Robert John Hipple, age 64, resides in Cocoa, Florida.  He is an attorney licensed in 
+Florida and Georgia.  Hipple and an associate controlled the management and operations of 
+iWorld Projects and Systems, Inc. (“iWorld Florida”), a private Florida company, when it was 
+acquired in early 2005 by iWorld Projects & Systems, Inc. (“iWorld”), a business development 
+company.  At the time, Hipple was the CEO of iWorld Florida.  After the acquisition, Hipple 
+formally became iWorld’s CEO and remained in that position until he resigned in March 2006.  
+He also acted as iWorld’s principal financial officer.        
+                                                   
+C.      RELEVANT ENTITIES 
+
+        iWorld Projects and Systems, Inc. (“iWorld”) is a BDC that, during all relevant 
+periods, was incorporated in Nevada and headquartered in Addison, Texas.  iWorld has not filed 
+a periodic report with the Commission since it filed its third quarter 2005 Form 10-Q in  
+November 2005.  The Nevada Secretary of State revoked iWorld’s corporate charter on January 
+1, 2006 for failure to pay franchise taxes.  iWorld filed for voluntary Chapter 7 bankruptcy in 
+May 2008.  In March 2009, the bankruptcy court closed the case because iWorld had no assets.   
+
+                                                 
+1 
+       The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding on any    
+other person or entity in this or any other proceeding. 
+ 
+2 
+       A BDC is a closed-end investment company authorized by Congress for the purpose of making capital   
+more readily available to certain types of companies.  Under the Investment Company Act, a closed-end company 
+meeting certain eligibility criteria may elect to be regulated as a BDC by filing a notification with the Commission   
+on Form N-54A.  A company filing such a notification is regulated under Sections 55 through 65 of the Investment   
+Company Act.  These sections set forth rules governing the investments BDCs may make, transactions BDCs may    
+enter into, and the governance of BDCs, as well as various other rules governing BDCs. 
+
+                                                 2
+ 
+---------------------Page 3---------------------
+
+On August 14, 2009, the Commission, pursuant to Section 12(j) of the Exchange Act, revoked 
+the registration of each class of iWorld’s registered securities. 
+
+       iWorld Florida was, prior to its acquisition by iWorld, a privately-held Florida 
+corporation formed by Hipple in May 2004.  iWorld Florida was dissolved on September 15, 
+2006. 
+
+D. FACTS 
+ 
+       1.      Hipple Postures iWorld Florida for Acquisition by iWorld as BDC  
+
+               a.     Shortly after forming iWorld Florida in May 2004, Hipple and others 
+caused it to acquire two small private companies in the project management services industry: 
+Applied Management Concepts, Inc. (“AMC”) and Process Integrity, Inc. (“PII”) (together, “the 
+subsidiaries”).  iWorld Florida acquired the subsidiaries for a total of $285,000 in working 
+capital payments, $200,000 in assumed liabilities, and 1.1 million shares of iWorld Florida 
+common stock.   This stock was not publicly trad ed and had no readily ascertainable market 
+value. 
+
+               b.     When iWorld Florida acquired the subsidiaries, AMC had no operations, 
+while PII had only limited revenues from sales of its only product, a piece of project 
+management software.  Specifically, during the six months before the acquisition, PII had total 
+revenues of $89,000 and was not profitable.  Hipple knew these facts at the time.   
+
+               c.     Notwithstanding the subsidiaries’ poor performance and negligible 
+operations, Hipple accepted and adopted the financial forecasts presented to him.  According to 
+those forecasts, AMC and PII would generate $2.4 million in revenue in the six-month period 
+after their acquisition by iWorld Florida, and would generate in 2005 a total of $5.5 million in 
+revenue.  Hipple had no objective information in his possession to support these forecasts.   
+
+               d.     In December 2004, Hipple initiated and directed a series of transactions to 
+form iWorld.  He first obtained two public, blank-check shell companies, Silesia Enterprises, Inc. 
+(“Silesia”) and Organic Solutions, Inc. (“Organic”).  He then caused Silesia to file a Form N-54 
+election to become a BDC.   
+
+               e.     Hipple then directed and caused Silesia’s merger into Organic.  Among 
+other things, Hipple caused Organic to issue convertible preferred shares to four of his designees, 
+including his wife and a college-aged employee of one of his business partners.  Hipple oversaw 
+the conversion of the designee’s preferred shares into common shares – which gave them control 
+over Organic – and the voting of those shares to approve actions related to merging Organic with 
+Silesia, with Organic as the surviving corporation.  At the conclusion of these transactions, 
+Hipple effectively controlled the post-merger company (a BDC), which, as part of the merger, 
+changed its name to iWorld.  Hipple thereafter obtained a new CUSIP number and trading 
+symbol for iWorld’s common shares so they could be publicly traded.  
+
+ 
+
+ 
+
+                                                3
+ 
+---------------------Page 4---------------------
+
+       2.	     Hipple Causes iWorld to Acquire iWorld Florida 
+                              
+               and Prepares False Filings Overstating iWorld Florida’s Value
+ 
+                   
+               a.     On February 25, 2005, iWorld filed a current report on Form 8-K 
+announcing that it had agreed to acquire iWorld Florida through a merger.  Hipple drafted the 
+filing and caused it to be filed.  The Form 8-K stated that the transaction was “valued at $10 
+million, based on the number of shares issued, the market price of the shares, and the assets and 
+businesses acquired.”  It then described iWorld Florida and the subsidiaries’ business, 
+concluding that “combined revenues from [iWorld Florida’s] subsidiaries . . . for 2005 are 
+expected to be in the range of $25 to $30 million, provided sufficient working capital is 
+obtained.”   
+ 
+               b.     The purported $10 million valuation was materially false and misleading.   
+Among other things, the Form 8-K failed to disclose that Hipple controlled both iWorld and 
+iWorld Florida at the time of their merger.  Consequently, and contrary to the Form 8-K’s 
+description of the transaction, the merger did not involve arms-length negotiation and was in fact 
+a related-party transaction.  Furthermore, the Form 8-K failed to disclose that, because Hipple 
+controlled both sides of the transaction, he was able to reverse-engineer the number of shares 
+exchanged between iWorld and iWorld Florida to lend legitimacy to the $10 million figure.  In 
+addition, there was no disclosure that iWorld Florida’s sole asset – its investments in the 
+subsidiaries – had been acquired during the summer of 2004 for only $285,000 cash, $200,000 in 
+assumed liabilities, and 1.1 million shares of iWorld Florida’s non-public stock – consideration 
+that was worth, at best, only a fraction of $10 million.    
+ 
+               c.     The Form 8-K’s representations about the subsidiaries’ prospects were 
+also materially false and misleading, since they were wholly speculative and unsupported.  As 
+noted above, at the time iWorld Florida acquired them in the summer of 2004, PII and AMC had 
+generated meager revenues over the preceding six months.  Their performance after their 
+acquisition by iWorld Florida was no better; indeed, as Hipple knew from internal company 
+reports he received, PII and AMC consistently fell far short of their forecasted performance.  
+Accordingly, Hipple knew or recklessly disregarded that the Form  8-K’s assertions of subsidiary 
+revenues of $25 million to $30 million were baseless.  
+ 
+       3.	     Hipple Prepares and Certifies iWorld’s False Quarterly Filings  
+ 
+               a.     After iWorld acquired iWorld Florida, Hipple became iWorld’s Chairman, 
+CEO and CFO and performed the company’s accounting and financial reporting functions.  In 
+this capacity, he maintained iWorld’s books and records, was responsible for its system of 
+internal controls, and drafted and filed with the Commission its periodic reports.  
+  
+               b.     In 2005, iWorld filed three quarterly reports on Forms 10-Q: on May 20, 
+2005, August 12, 2005 and November 15, 2005.  Hipple prepared, signed and certified each of 
+the filings.   
+ 
+               c.     Each of these quarterly reports contained financial statements and other 
+disclosures representing that the subsidiaries (AMC and PII) – including two additional start-up 
+
+                                                4
+ 
+---------------------Page 5---------------------
+
+operating companies iWorld had acquired – were valued at $10 million.  These subsidiaries – 
+which the quarterly reports referred to as “portfolio companies” – comprised, as reported in the 
+quarterly reports, approximately 96% of iWorld’s total assets.  
+ 
+               d.     The reported $10 million valuation was materially false and misleading.  
+As described above, iWorld’s initial valuation of the subsidiaries at $10 million was itself false 
+and misleading since it was not the product of arms-length negotiation, was far in excess of what 
+iWorld Florida had paid to acquire the subsidiaries roughly six months earlier, and was 
+unsupported by the subsidiaries’ poor financial performance.  None of these circumstances had 
+changed by the time Hipple prepared and filed the quarterly reports.  To the contrary, he had 
+continually received information, including reports from the subsidiaries, demonstrating that 
+their performance was deteriorating.  For instance, by the time iWorld filed the first quarter Form  
+10-Q on May 20, 2005, Hipple knew from internal reports that all of the subsidiaries had 
+continued to fall far short of internal projections, with some  subsidiaries producing no revenues 
+whatsoever.  He also knew that iWorld’s working capital – which was critical to the subsidiaries’ 
+survival – was rapidly diminishing.  From these facts alone (which were not publicly disclosed), 
+Hipple knew or recklessly disregarded that the subsidiaries’  reported valuation was grossly 
+overstated.   
+ 
+               e.     By the time iWorld filed its second quarter Form 10-Q on August 12, 
+2005, Hipple knew from internal reports the additional fact that, not only were the subsidiaries 
+far below their financial projections, they were in fact deeply unprofitable.  Indeed, only PII still 
+had operations by August 2005, due in part to the fact that iWorld had exhausted its working 
+capital, on which the subsidiaries depended.  As iWorld’s CEO and CFO, Hipple knew the 
+subsidiaries were dependent on iWorld for working capital and that, without working capital, the 
+subsidiaries would cease operations.  
+ 
+               f.     By the time iWorld filed its third quarter Form 10-Q on November 15, 
+2005, Hipple knew that meaningful subsidiary operations had ceased and that there was no 
+prospect of iWorld’s reviving them, since iWorld itself had no cash.  Moreover, by December 
+2005, Hipple learned that PII’s president had previously pledged PII’s sole asset – rights to its 
+software product – to a third party as security for a loan to PII to make payroll.   
+ 
+               g.     Hipple never revealed the subsidiaries’ dire circumstances in iWorld’s 
+2005 quarterly filings.  To the contrary, each of the filings repeated the $10 million valuation, 
+which the second and third quarter filings amplified by asserting that “the Company’s 
+Investment Committee [has] determine[d] that the portfolio investments should be valued at $10 
+million.” This was false: iWorld’s investment committee never considered the valuation of the 
+subsidiaries.  Moreover, each of the quarterly filings represented that the subsidiaries were 
+projected to earn tens of millions of dollars of revenue through the end of 2006.  In view of the 
+circumstances described above – including the subsidiaries’ continuous unprofitability and the 
+depletion of iWorld’s working capital – these representations were completely unfounded and, 
+consequently, were materially false and misleading.  
+ 
+               h.     Even after learning that PII’s president had pledged PII’s software to 
+secure a loan to PII, Hipple made no effort to amend iWorld’s third quarter Form 10-Q. 
+
+                                                5
+ 
+---------------------Page 6---------------------
+
+       4.     Hipple Materially Misleads iWorld’s Auditor  
+        
+               a.     As a BDC, iWorld was required under Section 2(a)(41) of the Investment 
+Company Act (which applies to BDCs pursuant to Section 59 of that Act) to determine in good 
+faith the fair value of the securities of its portfolio companies, since market quotations for those 
+securities were not readily available.  iWorld never made a good faith determination, either when 
+it acquired iWorld Florida and its subsidiaries, or thereafter.  Hipple knew, or was reckless in not 
+knowing, that no such determination had been made. 
+ 
+               b.     Hipple, however, told iWorld’s auditor – in connection with the auditor’s  
+review of iWorld’s first quarter 2005 Form 10-Q – that an “independent investment board” had 
+approved the $10 million valuation.  Hipple knew, or was reckless in not knowing, that this 
+statement was false. 
+ 
+       5.     Civil Penalty  
+ 
+       Respondent has submitted sworn Statements of Financial Condition, dated October 2, 
+2009 and October 9, 2009, and other evidence, and has asserted his inability to pay a civil 
+penalty. 
+ 
+E. VIOLATIONS 
+ 
+       1.     Based on the foregoing, the Commission finds that Respondent Hipple willfully 
+violated: 
+        
+              a.     Section 10(b) of the Exchange Act and Rule 10b-5 thereunder, which 
+prohibit fraudulent conduct in connection with the purchase or sale of securities; 
+               
+              b.     Section 34(b) of the Investment Company Act, made applicable to BDCs 
+through Section 59 of the Investment Company Act, which provides, among other things, that in 
+any registration statement, application, report, account, record, or other document filed or 
+transmitted by iWorld pursuant to the Investment Company Act or kept by iWorld pursuant to 
+Section 31(a) of the Investment Company Act, it shall be unlawful for any person so filing, 
+transmitting or keeping any such document to make any untrue statement of material fact or to 
+omit to state therein any fact necessary in order to prevent the statements made therein, in the 
+light of the circumstances under which they were made, from being materially misleading;  
+ 
+              c.     Rule 13a-14 under the Exchange Act, which required Hipple, as iWorld’s 
+principal executive and financial officer, to certify in each quarterly and annual report filed or 
+submitted by iWorld under Section 13(a) of the Exchange Act, that: (1) he had reviewed the 
+report; and (2) based on his knowledge, the report did not contain any untrue statement of 
+material fact, or omit to state a material fact necessary in order to make the statements made, in 
+light of the circumstances under which such statements were made, not misleading with respect 
+to the period covered by the report; 
+ 
+
+                                                6
+ 
+---------------------Page 7---------------------
+
+               d.     Section 13(b)(5) of the Exchange Act, which provides that no person shall 
+knowingly falsify any book, record, or account of an issuer that has a class of securities  
+registered pursuant to Section 12 of the Exchange Act, or is required to file reports pursuant to 
+Section 15(d) of the Exchange Act, or knowingly circumvent the registrant’s system of internal 
+accounting controls; 
+ 
+               e.     Rule 13b2-1 under the Exchange Act, which provides that no person shall, 
+directly or indirectly, falsify or cause to be falsified any book, record, or account subject to 
+Section 13(b)(2)(A) of the Exchange Act; 
+ 
+               f.     Rule 13b2-2(a) under the Exchange Act, which prohibits an officer or 
+director of an issuer from, directly or indirectly: (1) making, or causing to be made, a materially 
+false or misleading statement; or (2) omitting, or  causing to be omitted, a statement of a material 
+fact necessary to make the statements made, in light of the circumstances under which they were 
+made, not misleading to an accountant in connection with a required audit, or the preparation or 
+filing of a required document or report;  
+ 
+               g.     Section 57(a)(1) of the Investment Company Act, which prohibits persons 
+“related” to a BDC, as defined in Section 57(b) of the Investme nt Company Act, from acting as 
+principal knowingly selling to the BDC any securities                                               in another company unless at least one of 
+two conditions applies.  The first condition is that the sale involves solely securities of which the 
+buyer is the issuer.  See Section 57(a)(1)(A).  The second is that the sale involves solely 
+securities of which the seller is the issuer and which are part of a general offering to the holders 
+of a class of its securities.   See Section 57(a)(1)(B).  Section 57(b)(2) defines a “related person 
+of a BDC,” in pertinent part, as any person directly or indirectly “controlling” a BDC.  Section 
+(2)(a)(9) of the Investment Company Act,  in turn, defines “control” as “the power to exercise a 
+controlling influence over the management or policies of a company.”  Hipple controlled iWorld 
+when he sold, as a principal, his iWorld Florida shares to iWorld in iWorld’s acquisition of 
+iWorld Florida.  Hipple’s sale of his shares did not satisfy either of the two conditions set forth in 
+Section 57(a)(1)(A) or (B). Thus, Hipple violated Section 57(a)(1);  
+ 
+       2.      Based on the foregoing, the Commission finds that Respondent Hipple willfully 
+aided and abetted and caused iWorld’s violations of:  
+ 
+               a.     Section 13(a) of the Exchange Act and Rules 13a-11, 13a-13, and 12b-20 
+thereunder, which required iWorld to file information and documents as prescribed by the 
+Commission, including current and quarterly reports, and to include in those reports any material 
+information as may be necessary to make the required statements in those reports not misleading 
+in light of the circumstances under which the statements were made;  
+ 
+               b.     Section 13(b)(2)(A) of the Exchange Act, which required iWorld, as a 
+reporting company, to make and keep books, records, and accounts which, in reasonable detail, 
+accurately and fairly reflected its transactions and dispositions of its assets; 
+ 
+               c.     Section 13(b)(2)(B) of the Exchange Act which required iWorld, as a 
+reporting company, to devise and maintain a system of internal accounting controls sufficient to 
+
+                                                7
+ 
+---------------------Page 8---------------------
+
+provide reasonable assurances that transactions were recorded as necessary to permit preparation 
+of financial statements in conformity with generally accepted accounting principles; and  
+ 
+              d.      Section 31(a) of the Investment Company Act made applicable to BDCs 
+by Section 64 of the Investment Company Act, and Rule 31a-1 thereunder, which required 
+iWorld to make and keep certain books and records, including, among other things, ledgers of all 
+assets, liabilities, reserve capital, income and expense accounts reflecting account balances on 
+each day, and corporate documents such as minutes from shareholder and board meetings. 
+            
+                                              IV. 
+ 
+       In view of the forgoing, the Commission deems it necessary and appropriate in the public 
+interest to impose the sanctions agreed to in Respondent Hipple’s Offer. 
+ 
+       Accordingly, it is hereby ORDERED, effective immediately, that: 
+ 
+       A.     Hipple shall cease and desist from committing or causing any violations and any 
+future violations of  Sections 10(b) and 13(b)(5) of the Exchange Act and Rules 10b-5, 13b2-1, 
+13b2-2, and 13a-14 thereunder, and Sections 34(b) and 57(a) of the Investment Company Act, 
+and from causing any violations of and any future violations of Sections 13(a), 13(b)(2)(A) and 
+13(b)(2)(B) of the Exchange Act and Rules 12b-20, 13a-11, and 13a-13 thereunder and Section 
+31(a) of the Investment Company Act and Rule 31a-1 thereunder;  
+ 
+       B.     Pursuant to Section 21C(f) of the Exchange Act, Hipple is prohibited, for a period 
+of five years, from acting as an officer or director of any issuer that has a class of securities 
+registered pursuant to Section 12 of the Exchange Act, or that is required to file reports pursuant 
+to Section 15(d) of the Exchange Act;  
+ 
+       C.     Pursuant to Section 9(b) of the Investment Company Act, Respondent Hipple is 
+prohibited from serving or acting as an employee, officer, director, member of an advisory board, 
+investment adviser or depositor of, or principal underwriter for, a registered investment company 
+or affiliated person of such investment adviser, depositor, or principal underwriter, with the right 
+to reapply for association after five (5) years to the appropriate self-regulatory organization, or if 
+there is none, to the Commission;  
+ 
+       D.     Pursuant to Rule 102(e)(1)(iii) of the Commission’s Rules of Practice, Hipple is 
+denied the privilege of appearing or practicing before the Commission as an accountant;  
+ 
+       E.     The Division of Enforcement ("Division") may, at any time following the entry of 
+this Order, petition the Commission to: (1) reopen this matter to consider whether Respondent 
+provided accurate and complete financial information at the time such representations were 
+made; and (2) seek an order directing payment of the maximum civil penalty allowable under the 
+law.  No other issue shall be considered in connection with this petition other than whether the 
+financial information provided by Respondent was fraudulent, misleading, inaccurate, or 
+incomplete in any material respect.  Respondent may not, by way of defense to any such petition:  
+ 
+
+                                               8
+ 
+---------------------Page 9---------------------
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) contest the findings in this Order; (2) assert that payment of a penalty should not be ordered; 
+(3) contest the imposition of the maximum penalt     y allowable under the law; or (4) assert any 
+defense to liability or remedy, including, but not limited to, any statute of limitations defense; 
+and 
+ 
+        F.      Any reapplication for association by the Respondent will be subject to the 
+applicable laws and regulations governing the reentry process, and reentry may be conditioned 
+upon a number of factors, including, but not limited to, the satisfaction of any or all of the 
+following:  (a) any disgorgement ordered against the Respondent, whether or not the 
+Commission has fully or partially waived payment of such disgorgement; (b) any arbitration 
+award related to the conduct that served as the basis for the Commission order; (c) any self-
+regulatory organization arbitration award to a customer, whether or not related to the conduct 
+that served as the basis for the Commission order; and (d) any restitution order by a self-
+regulatory organization, whether or not related to the conduct that served as the basis for the 
+Commission order. 
+ 
+  
+        By the Commission. 
+ 
+ 
+ 
+        Elizabeth M. Murphy 
+        Secretary                                                           
+
+                                                    9
+ 

@@ -1,0 +1,591 @@
+---------------------Page 1---------------------
+
+ UNITED                             STATES OF AMERICA 
+
+ Before                                      the 
+
+                   SECURITIES AND EXCHANGE COMMISSION 
+
+
+SECURITIES EXCHANGE ACT OF 1934 
+Release No.  57970 / June 16, 2008 
+
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No.  2838 / June 16, 2008 
+
+ADMINISTRATIVE PROCEEDING 
+File No. 3-13070 
+
+                                            ORDER INSTITUTING CEASE-AND-
+In the Matter of                            DESIST PROCEEDINGS, MAKING 
+                                            FINDINGS, AND IMPOSING A CEASE-
+      CITIGROUP INC.,                       AND-DESIST ORDER PURSUANT TO 
+                                            SECTION 21C OF THE SECURITIES 
+Respondent.                                 EXCHANGE ACT OF 1934 
+
+                                          I. 
+
+      The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities 
+Exchange Act of 1934 (“Exchange Act”), against Citigroup Inc. (“Citigroup,” “company,” or 
+“Respondent”).   
+
+                                          II. 
+
+      In anticipation of the institution of these proceedings, Respondent has submitted an Offer 
+of Settlement of Citigroup Inc. (the “Offer”) which the Commission has determined to accept.  
+Solely for the purpose of these proceedings and any other proceedings brought by or on behalf of 
+the Commission, or to which the Commission is a party, and without admitting or denying the 
+findings herein, except as to the Commission’s jurisdiction over Citigroup and the subject matter of 
+these proceedings, which Respondent admits, Respondent consents to the entry of this Order 
+Instituting Cease-and-Desist Proceedings, Making Findings, and Imposing a Cease-and-Desist 
+Order Pursuant to Section 21C of the Securities Exchange Act of 1934 (“Order”), as set forth 
+below. 
+---------------------Page 2---------------------
+
+                                              III. 
+
+       On the basis of this Order and Respondent’s Offer, the Commission finds that:  
+
+A.     SUMMARY 
+
+       This action concerns Citigroup’s improper accounting relating to the impact of the 
+economic and political crisis in Argentina on the company’s operations during the fourth quarter of 
+2001.  In the latter part of 2001 and continuing into 2002, Argentina experienced a severe 
+economic and political crisis during which, among other things, the Argentine government 
+defaulted on certain of its sovereign debt obligations, devalued its currency, and abandoned the 
+one-to-one ratio between the Argentine peso and the United States dollar. 
+
+       The actions of the Argentine government during the crisis required Citigroup to make a 
+number of significant accounting decisions for the fourth quarter of 2001.  Most relevant for 
+purposes of these proceedings, Citigroup was required to account for (1) the impact of the 
+company’s participation in a government-sponsored exchange of Argentine government bonds for 
+loans (the “Bond Swap”); (2) the value of Argentine government bonds held by Citigroup that 
+were not eligible for the Bond Swap (the “Non-Swapped Bonds”); (3) the sale of Banco Bansud 
+S.A. (“Bansud”), the Argentine subsidiary of Banco Nacional de Mexico, S.A. (“Banamex”), 
+which Citigroup had acquired in August 2001; and (4) the impact of government actions that 
+resulted in the conversion of over $1 billion of Citigroup loans from dollars to Argentine pesos.  
+Citigroup accounted for each of these items in a manner that did not conform with generally 
+accepted accounting principles (“GAAP”) and thereby overstated its income reported in the 
+company’s earnings press release included in a Form 8-K filed with the Commission on January 
+18, 2002, and in the company’s annual report on Form 10-K for 2001 filed with the Commission 
+on March 12, 2002. For the fourth quarter of 2001, Citigroup recorded $470 million of pre-tax 
+charges related to Argentina and earnings per share of $.74.  If Citigroup had accounted for the 
+four Argentina-related items described above in conformity with GAAP, the company would have 
+recorded additional charges of at least $479 million pre-tax, or at least $311 million after-tax, and 
+would have reduced fourth quarter 2001 earnings by more than 8%.  In accounting for the four 
+items improperly and thereby reporting incorrect results both in the Form 8-K and the Form 10-K, 
+Citigroup violated reporting, record-keeping, and internal accounting controls provisions of the 
+Exchange Act.   
+
+B.     RESPONDENT 
+
+       Respondent Citigroup Inc. is a Delaware corporation with its principal place of business in 
+New York, New York.  Citigroup is a global financial services company whose businesses provide 
+a broad range of financial services to consumer and corporate clients.  During the relevant time, 
+Citigroup was the largest foreign bank in Argentina, with a market share of approximately 9% and 
+assets totaling more than $8 billion.  Citigroup’s securities are registered with the Commission 
+under Sections 12(b) and 12(g) of the Exchange Act, and its common stock is traded on the New 
+York Stock Exchange. 
+
+                                               2
+
+---------------------Page 3---------------------
+
+C.     FACTS 
+
+
+                                   The Crisis in Argentina 
+
+       During the latter part of 2001 and continuing into 2002, Argentina suffered a severe 
+economic and political crisis. As the economy weakened, thousands of Argentineans withdrew 
+money from their bank accounts, with a significant spike in deposit withdrawals occurring in late 
+November 2001.  To avoid a continuing “run on the banks,” the Argentine government issued a 
+policy known as the “corralito” on December 3, 2001, which severely limited the amount of 
+money that an individual could withdraw each month.  In response to the corralito and general 
+economic woes, widespread rioting occurred throughout Argentina.  The crisis worsened in 
+December and into January as the Argentine government began to default on its sovereign debt 
+obligations; issued various decrees that ended the one-to one ratio between the dollar and the 
+Argentine peso, allowing the peso to devalue; and pesified certain dollar-denominated loans.  
+International credit rating agencies significantly downgraded Argentine sovereign debt, and the 
+majority of Argentine government bonds began trading at substantial discounts.  The Argentine 
+government itself was in flux during this period of turmoil.  Between December 2001 and early 
+January 2002, when Citigroup was finalizing its results for 2001 and the fourth quarter of the year, 
+there were five changes in leadership of the Argentine government.   
+
+       The developments in Argentina had a significant impact on Citigroup’s Argentine 
+operations and required Citigroup to make a number of complex accounting decisions as events 
+occurred. In making these accounting decisions, Citigroup improperly accounted for certain items 
+related to the crisis in a manner that significantly reduced the impact of these items on the 
+company’s earnings.  
+
+                                    Argentine Bond Swap 
+
+       In early November 2001, the Argentine government issued a decree offering holders of 
+certain market-traded Argentine government bonds the opportunity to exchange such bonds for 
+Argentine government loans called Guaranteed Promissory Notes (“GPNs”) that would not be 
+market-traded.  The Argentine government offered the Bond Swap in an effort to reduce 
+Argentina’s debt service in the short-term and to avoid defaulting on its sovereign debt by 
+extending the maturities of its debt obligations and reducing the coupon rates of the instruments.  
+In addition to lower interest rates and longer terms, the GPNs offered in the Bond Swap had certain 
+features that the swapped bonds did not have, including tax-exempt interest, a tax credit option that 
+allowed the holder to offset any unpaid principal or interest against certain taxes, a collateral 
+protection feature that gave the GPNs first call on certain tax receipts, and a provision for a step-up 
+in tax basis. There was significant participation by local institutions in the Bond Swap. 
+
+       Citigroup owned a total in book value of $681 million of Argentine government bonds 
+eligible for the Bond Swap.  Citigroup’s Argentine insurance subsidiary, Siembra Administradora 
+de Fondos de Jubilacianes y Pensiones S.A. (“Siembra”), owned $595 million of these bonds.  In 
+addition, Citigroup’s Argentine banking operations owned approximately $86 million in bonds 
+eligible for the Bond Swap.  In mid-November 2001, Citigroup local management decided to swap 
+
+                                               3
+
+---------------------Page 4---------------------
+
+all $681 million of its eligible bonds and tendered these bonds to the Argentine government on 
+November 29 and 30, 2001.  The Bond Swap was executed in mid-December 2001. 
+
+       In accounting for the Bond Swap, GAAP required that the transaction be accounted for 
+based on the most readily determinable fair value.1
+                                                    Under GAAP, quoted market prices are 
+considered to be the most reliable evidence of fair value.2
+                                                           In certain circumstances, however, other 
+approaches to determining fair value may be appropriate.  Citigroup consulted with its auditor as 
+well as informally with Commission accounting staff regarding the proper approach to account for 
+the Bond Swap. Both the Commission staff and Citigroup’s auditor came to express a preference 
+for using the market value of the bonds surrendered in the exchange to account for the Bond Swap 
+(the “Market Approach”).  The company, however, took the position that the bonds that were 
+trading were not reflective of the fair value of the GPNs received and chose to use an alternate 
+approach of looking to the value of the GPNs received in the exchange. 
+
+       Citigroup used a discounted cash flow analysis to determine the fair value of the GPNs.3 
+To arrive at the fair value, Citigroup incorporated several unreasonable assumptions into its 
+analysis of the discount rate and thus overstated the value of the GPNs.  In particular, Citigroup 
+used a pre-crisis risk rate that assumed that the collapsing Argentine economy would recover in the 
+short term.  Notwithstanding the economic crisis and near daily changes in the Argentina 
+government, Citigroup further assumed that, in the event the Argentine government defaulted on 
+the GPNs, there was a high likelihood that the government would honor the collateral features of 
+the GPNs, enabling Citigroup to recover all principal and interest.  Using the above assumptions 
+and others, Citigroup determined that the fair value of the GPNs received in the Bond Swap by its 
+Siembra subsidiary was $520 million and that the fair value of the GPN’s received by its Argentine 
+banking operations was $79 million.  Based on this analysis, Citigroup recorded a pre-tax loss of 
+$75 million on the Bond Swap by its Siembra subsidiary and a pre-tax loss of $7 million on the 
+Bond Swap by its Argentine banking operations, for a total pre-tax loss on the Bond Swap of $82 
+million. This loss was reflected in Citigroup’s January 18, 2002, Form 8-K and in the financial 
+statements included in the company’s 2001 Form 10-K. 
+
+1 
+       See Practice Bulletin 4, Accounting for Foreign Debt/Equity Swaps; FAS 15, Accounting by 
+Debtors and Creditors for Troubled Debt Restructurings at footnote 16; and APB 29, Accounting for 
+Non-monetary Transactions. 
+2 
+       See Statement of Financial Accounting Standards No. 115, Accounting for Investments in Debt 
+and Equity Securities.  In 2006, the Financial Accounting Standards Board adopted Statement of 
+Financial Accounting Standards No. 157, Fair Value Measurements (“FAS 157”).  FAS 157, in part, 
+codifies and simplifies previous approaches and provides that “[a] quoted price in an active market 
+provides the most reliable evidence of fair value and shall be used to measure fair value whenever 
+available . . . .” 
+3 
+       A discounted cash flow analysis is a calculation that multiplies an investment’s future cash flows 
+by discount factors to obtain the present value of the investment.  The purpose of the calculation is to 
+estimate the amount of money that will be received from a security or other type of investment, adjusting 
+for the time value of money.   
+
+                                                4
+
+---------------------Page 5---------------------
+
+       While Citigroup’s approach may have been appropriate under the then existing 
+circumstances, the assumptions that Citigroup applied were not reasonable and resulted in 
+Citigroup understating its losses on the Bond Swap.  For example, in analyzing the discount rate, if 
+Citigroup had used a country risk rate that reflected the current status of the collapsing Argentine 
+economy rather than the pre-crisis risk rate reflecting more stable economic conditions, its losses 
+would have been much greater.  Similarly, Citigroup’s losses would have been greater had it 
+sufficiently taken into account the likelihood that the defaulting Argentine government would not 
+be able to honor the collateral on the GPNs.  By applying reasonable assumptions to its discounted 
+cash flow analysis, Citigroup would have recorded pre-tax Bond Swap losses of approximately 
+$236 million for the fourth quarter of 2001, significantly more than the $82 million Citigroup 
+actually recorded. These additional losses would have decreased the company’s earnings for the 
+fourth quarter by $100.1 million after-tax, or approximately $.02 per share.4 
+
+       Under the Market Approach, Citigroup would have recorded Bond Swap losses of $416 
+million pre-tax, instead of the $82 million it actually recorded.  The impact of employing such an 
+approach would have decreased the company’s earnings for the fourth quarter by $217.1 million 
+after-tax, or approximately $.04 per share. 
+
+                Other-Than-Temporary Impairment of Non-Swapped Bonds 
+
+       A number of the Argentine government securities owned by Citigroup’s Argentine banking 
+operations were not eligible for the Bond Swap.  These bonds, the Non-Swapped Bonds, totaled 
+more than $380 million and were held in varying amounts by Citigroup throughout the fourth 
+quarter of 2001. More specifically, at December 31, 2001, Citigroup’s Argentine banking 
+operations held PAR Bonds (commonly known as Brady Bonds) with book value of $98.4 million, 
+Bonos del Gobierno Nacional with book value of $134.9 million, and Patriotic Bonds with book 
+value of $150.9 million. 
+
+       Under GAAP, specifically Statement of Financial Accounting Standards No. 115, 
+Accounting for Investments in Debt and Equity Securities (“FAS 115”), Citigroup was required, 
+at least quarterly, to assess the Non-Swapped Bonds to determine whether there was any decline in 
+the fair value of these securities below their amortized cost and, if so, whether that decline was 
+other-than-temporary. If the decline in fair value was other-than-temporary, Citigroup was 
+required to record a charge to income for the quarter.  The determination of whether a decline in 
+the value of a security is other-than-temporary is based on the review of a number of factors such 
+as the financial condition and near-term prospects of the issuer, including prospects for the 
+geographic region; whether the issuer has defaulted on scheduled interest payments; the issuer’s 
+ability to make future scheduled interest and principal payments on a timely basis; and whether 
+
+4 
+       In the third quarter of 2003, the Argentine government required Citigroup to return the GPNs and 
+take back the bonds because Citigroup declined to follow a 2002 government decree requiring it to 
+change the dollar-denominated GPNs to pesos. 
+
+                                               5
+
+---------------------Page 6---------------------
+
+there has been any downgrade in ratings by rating agencies at the time of evaluation compared to 
+the time of acquisition of the security. 5 
+
+       Citigroup determined that the Non-Swapped Bonds were not impaired as of December 31, 
+2001.  As a result, the company did not record any charge to income for these bonds.  At the time 
+Citigroup reached this decision, the Argentine government was in the midst of an economic and 
+political collapse.  The Argentine government recently had announced that it intended to default on 
+its sovereign debt. In addition, credit rating agencies had significantly downgraded Argentina’s 
+sovereign debt; and the majority of Argentine government bonds were trading well below $0.50 on 
+the dollar. Thus, Citigroup’s determination that these bonds were not impaired was not reasonable. 
+
+       The Brady Bonds were market-traded bonds that were collateralized by U.S. Treasury 
+securities that guaranteed the principal of the bonds and one-year of interest.  Like almost all other 
+Argentine bonds in the market, the Brady Bonds were trading well below their cost during the 
+fourth quarter.  At December 31, 2001, the market value of the Brady Bonds held by Citigroup was 
+$63.4 million, approximately $35 million less than their cost of $98.4 million.  Despite this 
+significant decline in market value, notwithstanding the collateral, Citigroup determined that the 
+bonds were not impaired.   
+
+       The other two types of Non-Swapped Bonds, the Bonos del Gobierno Nacional and the 
+Patriotic Bonds were not market-traded.  Citigroup concluded that there was no other-than-
+temporary impairment of these bonds because they were collateralized by a tax credit option that 
+allowed Citigroup to withhold tax payments to offset any government default on the bonds.  
+Citigroup reached this conclusion, despite the fact that similar, market-traded securities were 
+trading at a steep discount, including securities like the Brady Bonds that had reliable collateral.  In 
+finding no impairment of the Bonos del Gobierno Nacional and the Patriotic Bonds, Citigroup 
+necessarily assumed that the Argentine government would abide by its commitment to provide the 
+tax credit option. This was during a period when the Argentine government had announced that it 
+intended to default on its sovereign debt and when the political upheaval accompanying the 
+country’s economic collapse led to five changes in leadership during December 2001 and early 
+January 2002.6
+                In light of the circumstances in Argentina at this time, Citigroup’s assumptions 
+were not reasonable. 
+
+       Citigroup recorded no charges to income for the fourth quarter of 2001 in connection with 
+the Non-Swapped Bonds.  Had Citigroup determined that these bonds had an other-than-temporary 
+impairment as of December 31, 2001, it would have been required to record a charge to income to 
+reflect the decline in fair value of the bonds.  The amount of impairment of the Brady Bonds can be 
+reasonably estimated at $35 million, based on the quoted market price of these bonds as of 
+
+5 
+       See, e.g., FAS 115; AICPA Statement of Auditing Standards No. 92, Auditing Derivative 
+Instruments, Hedging Activities, and Investments in Securities. 
+6 
+       During the third quarter of 2002, the Argentine government suspended use of the tax credit 
+option.  At that time, Citigroup determined that the Patriotic Bonds and the Bonos del Gobierno Nacional 
+were other-than-temporarily impaired.  Citigroup also sold its Brady Bonds in the third quarter. 
+
+                                                6
+
+---------------------Page 7---------------------
+
+December 31, 2001.  For the non-traded bonds, the Bonos del Gobierno Nacional and the Patriotic 
+Bonds, the amount of impairment based on a reasonable determination of fair value, could be 
+estimated at $22.5 million for the Bonos del Gobierno Nacional and $59.4 million for the Patriotic 
+Bonds. With these estimates, had Citigroup determined that the Non-Swapped Bonds were other-
+than-temporarily impaired as of December 31, 2001, the company should have recorded an 
+aggregate pre-tax charge of approximately $117 million or $76 million after-tax.  This charge 
+would have decreased the company’s earnings per share for the fourth quarter by more than $.01. 
+
+                               Pesification of Consumer Loans 
+
+       On January 6, 2002, the Argentine government issued a decree that, among other things, 
+authorized it to mandate the conversion of certain consumer loans from dollars to pesos at a rate of 
+one dollar to one peso (this mandatory conversion was referred to as “pesification”).  Citigroup 
+owned over $1 billion in consumer loans that were subject to pesification.  Citigroup determined 
+that it should account for the impact of the pesification decree in the fourth quarter of 2001. 
+
+       In its January 6, 2002, decree and subsequent regulations, the Argentine government 
+established an exchange rate for official transactions, namely import-export transactions, of 1.4 
+pesos to 1 dollar.  The decree noted that all other transactions would be subject to a “free” 
+exchange rate based on the rate used for open-market trading.  Because Argentina suspended 
+foreign exchange transactions and closed banks from the end of December 2001 through January 
+10, 2002, there was no “free” rate when Citigroup recorded its consumer loan pesification charge 
+on January 9, 2002.  Using the only rate available on that day, 1.4 pesos to 1 dollar, Citigroup 
+recorded a $235 million charge for consumer loan pesification losses for the fourth quarter of 2001. 
+
+       On Friday, January 11, 2002, two days after Citigroup recorded its pesification losses, the 
+Argentine banks were reopened, the trading suspension was lifted, and the market established a 
+“free” rate of between 1.6 and 1.7 pesos to 1 dollar.  On Monday, January 14, 2002, Citigroup’s 
+auditor informed Citigroup senior management that this “free” rate  was the proper rate under 
+GAAP.  On that day or the next, Citigroup’s auditor further informed Citigroup senior 
+management that all Argentine transactions, other than import/export transactions, were subject to 
+the “free” rate and that members of the International Practices Task Force of the American Institute 
+of Certified Public Accountants and the staffs of the Financial Accounting Standards Board and the 
+Commission also had reached this conclusion. 
+
+       Had Citigroup used a rate of 1.6, instead of 1.4, pesos to 1 dollar when accounting for these 
+pesification losses, it should have recorded an additional charge of $57 million pre-tax or $37 
+million after-tax for the fourth quarter of 2001.  This additional loss would have decreased the 
+company’s earnings per share for the fourth quarter by less than $.01. 
+
+                                               7
+
+---------------------Page 8---------------------
+
+                                       Bansud Disposition 
+
+       On August 6, 2001, Citigroup acquired Banamex, a Mexican holding company with 
+diverse financial institution operations.  At the time of acquisition, Citigroup intended to dispose of 
+Bansud, a Banamex subsidiary conducting banking operations in Argentina. Citigroup agreed to 
+sell Bansud in December 2001, and closed on the sale in early January 2002, several months after 
+it had purchased Banamex.  During the period when Citigroup held Bansud, Argentina experienced 
+the economic and political crisis described above, and Bansud suffered a substantial decline in 
+value. 
+
+       Citigroup determined that the applicable accounting for the Bansud disposition was EITF 
+Issue No. 87-11, Allocation of Purchase Price to Assets to be Sold (“EITF 87-11”).  Under that 
+provision, the decline in value of Bansud during the period when Citigroup held Bansud would 
+impact Citigroup’s income only if the decline was attributable to specific identifiable economic 
+events that occurred during the holding period.7 
+
+       Citigroup reached a tentative agreement to sell Bansud in September 2001 for a loss of 
+$401 million.  That agreement fell through in October 2001, and Citigroup continued holding 
+Bansud until it reached a subsequent agreement to sell Bansud in early December 2001.  The 
+transaction closed in early January 2002, and Citigroup had a loss of $552 million on its sale of 
+Bansud. Citigroup treated the entire loss as a reallocation of the purchase price of Banamex and 
+recorded the loss in goodwill, which was a balance sheet item that did not affect the company’s 
+earnings. To reach this result, Citigroup concluded that the adverse developments in the Argentine 
+economy and the related actions by the Argentine government, described above, during the fourth 
+quarter of 2001 were not specific identifiable economic events that caused the decline in the value 
+of Bansud. Citigroup’s position was not reasonable, particularly considering the impact of the 
+Argentine economic crisis on financial institutions like Bansud. 
+
+       By improperly treating the entire $552 million loss on the sale of Bansud as a reallocation 
+of the purchase price rather than as a loss due to specific identifiable economic events, Citigroup 
+avoided a charge to income.  Had Citigroup properly accounted for the transaction, it would have 
+recorded a pre-tax charge to income of at least $151 million, representing the difference between 
+the $552 million ultimate loss on the sale of Bansud and the $401 million anticipated loss from the 
+October 2001 failed attempt to sell Bansud.8 
+                                             This additional $151 million pre-tax or $98.2 
+
+7 
+       In relevant part, EITF 87-11 provides that the difference between the carrying amount at the time of 
+sale of a subsidiary intended to be disposed of and the proceeds from the sale lead to a reallocation of the 
+purchase price rather than a gain or loss to earnings, unless specific identifiable economic events occurred 
+during the holding period that change the fair value of the subsidiary from the fair value estimated at the 
+time of acquisition.  If specific identifiable economic events that decrease the value of the subsidiary occur 
+during the holding period, that decline in value is to be reflected as a charge to the parent company’s income 
+for the quarter. 
+8 
+       The lack of documentation relating to Citigroup’s accounting for the disposition of Bansud makes 
+it difficult to reach a conclusive determination of the full amount of the losses that should have been 
+charged to income.  
+                                                 8
+
+---------------------Page 9---------------------
+
+million after-tax loss would have decreased the company’s earnings per share for the fourth 
+quarter by nearly $.02. 
+
+                                 Citigroup’s Financial Results 
+
+       On January 17, 2002, Citigroup issued a press release announcing its results.  Among other 
+things, the company reported that its earnings for the fourth quarter of 2001 were $3.88 billion,9
+                                                                                               or 
+diluted earnings per share of $.74, which included a $470 million pre-tax charge related to 
+Argentina. Citigroup’s reported results were $.01 per share above analysts’ consensus earnings 
+estimates for the period.10
+                           If Citigroup had properly recorded the charges related to the Bond 
+Swap, the Non-Swapped Bonds, the pesification of consumer loans, and the Bansud disposition 
+described above, the company’s earnings per share for the quarter would have been no more than 
+$.68, or $.05 below consensus earnings estimates for the quarter.   
+
+       On January 18, 2002, Citigroup filed a Form 8-K with the Commission that incorporated 
+the company’s January 17, 2002, earnings release.  In addition to reporting earnings of $3.88 
+billion, and diluted earnings per share of $.74, the company further reported that its core earnings 
+per share increased 14% over those earnings for the fourth quarter of 2000.  If Citigroup had 
+recorded the charges described above related to the Bond Swap, the Non-Swapped Bonds, the 
+pesification of consumer loans, and the Bansud disposition, these results would have differed 
+materially because the company would have recorded additional charges after tax of at least $311 
+million. 
+
+       On March 12, 2002, Citigroup filed its annual report on Form 10-K for 2001.  For the 
+fourth quarter of 2001, Citigroup reported earnings of $3.875 billion and diluted earnings per share 
+of $.74. As set forth above, these results were misstated.  The company’s earnings for the quarter 
+were no more than $3.56 billion.  In its 2001 Form 10-K, Citigroup also reported earnings for fiscal 
+year 2001 of $14.13 billion, or $2.72 per diluted share.  If Citigroup had recorded the charges 
+described above related to the Bond Swap, the Non-Swapped Bonds, the pesification of consumer 
+loans, and the Bansud disposition, it would have reported 2001 earnings of no more than $13.82 
+billion and its diluted earnings per share for the year would have been no more than $2.66. 
+
+D.     LEGAL ANALYSIS 
+
+       As a result of the conduct described above, Citigroup violated Sections 13(a), 13(b)(2)(A), 
+and 13(b)(2)(B) of the Exchange Act and Exchange Act Rules 12b-20, 13a-1, and 13a-11. 
+
+       Section 13(a) of the Exchange Act requires issuers of registered securities to file periodic 
+reports with the Commission containing information prescribed by Commission rules and 
+
+9 
+       The $3.88 billion in earnings was a rounded number from the $3.875 billion that the company 
+reported in its financial supplement to its January 17, 2002, press release and, subsequently, in its Form 
+10-K filed on March 12, 2002. 
+10 
+       At the time, each $52 million of after-tax earnings equated to earnings per share of $.01. 
+                                                9 
+---------------------Page 10---------------------
+
+regulations.  Exchange Act Rule 13a-1 requires issuers to file annual reports on Form 10-K, and 
+Exchange Act Rule 13a-11 requires issuers to file current reports on Form 8-K.  Further, Exchange 
+Act Rule 12b-20 requires that, in addition to the information required to be included in annual and 
+current reports, such further material information as may be necessary to make the required 
+statements not misleading also must be included.  These annual and current reports must be 
+complete and accurate. See SEC v. Savoy Industries, 587 F.2d 1149, 1165 (D.C. Cir. 1978).  Rule 
+210.4-01 of Regulation S-X provides that financial statements filed with the Commission are 
+presumed misleading or inaccurate if they are not prepared in conformity with GAAP. 11 
+Citigroup’s accounting for the Bond Swap, the Non-Swapped Bonds, the pesification of consumer 
+loans, and the sale of Bansud was not in conformity with GAAP.   
+
+       With respect to the Bond Swap, the relevant accounting guidance, which Citigroup 
+reviewed at the time,12
+                       provided that registrants should determine fair value by following an 
+approach that provides the most clearly evident or readily determinable value of the instrument 
+received in the exchange.  This GAAP guidance reflected a preference for using quoted market 
+prices because they provide an objective and reliable value of the instrument exchanged.13
+                                                                                           The 
+guidance provided, however, that, in certain circumstances, other approaches to determining fair 
+value may also be appropriate. 
+
+       Citigroup took the position that the quoted market prices of the bonds surrendered were not 
+a reliable indicator of the value of the GPNs that it received.  Instead, Citigroup used a discounted 
+cash flow analysis of the GPNs to determine their fair value.  Regardless of whether this approach 
+was appropriate, Citigroup’s discounted cash flow analysis was based on unreasonable 
+assumptions that caused Citigroup to overvalue the GPNs. 
+
+       A discounted cash flow analysis of the GPNs using reasonable assumptions would have 
+resulted in a fourth quarter pre-tax loss of approximately $236 million on the Bond Swap.  Thus, 
+Citigroup’s pre-tax Bond Swap losses for the fourth quarter should have been in the range of $236 
+million to $416 million (the amount of the loss under the Market Approach).  Citigroup thus should 
+have recorded a pre-tax loss of at least $236 million on the Bond Swap, or at least $154 million 
+more than the amount included in the financial statements and other financial results in Citigroup’s 
+2001 Form 10-K and the company’s January 18, 2002, Form 8-K.   
+
+       With respect to the Non-Swapped Bonds, for the reasons described above, Citigroup 
+improperly failed to record any charge to income.  Had Citigroup properly assessed the fair value 
+
+11 
+       17 CFR § 210.4-01(a)(1). 
+12 
+       Because it determined that there was no accounting guidance specifically addressing an exchange 
+of bonds for loans, Citigroup considered the following analogous accounting literature:  Statement of 
+Financial Accounting Standards No. 115, Accounting for Investments in Debt and Equity Securities; 
+Practice Bulletin 4, Accounting for Foreign Debt/Equity Swaps; and EITF Issue No. 94-8, Accounting for 
+a Conversion of a Loan into a Debt Security in a Debt Restructuring. 
+13 
+       See id.; see also Statement of Financial Accounting Standards No. 157, Fair Value 
+Measurements. 
+                                               10
+
+---------------------Page 11---------------------
+
+of the Non-Swapped Bonds, Citigroup would have found that the fair value of these bonds had 
+declined significantly.  Applying a reasonable valuation indicates that these bonds had an other-
+than-temporary impairment as of the fourth quarter in the amount of approximately $117 million 
+pre-tax or $76 million after-tax.  Thus, Citigroup should have recorded a pre-tax loss of $117 
+million on the Non-Swapped Bonds and included this loss in the financial statements and other 
+financial results set forth in Citigroup’s 2001 Form 10-K and the company’s January 18, 2002, 
+Form 8-K. 
+
+       In connection with Citigroup’s accounting for its consumer loan pesification losses, 
+Citigroup improperly recorded a loss to income in its fourth quarter financial results of only $235 
+million pre-tax.  As discussed, Citigroup’s reported loss was based on an exchange rate of 1.4 
+pesos to one dollar.  Statement of Financial Accounting Standards No. 52, Foreign Currency 
+Translation, provides that the appropriate exchange rate is the rate at which the foreign-currency 
+denominated asset could be settled at the end of the period. Pursuant to the Argentine 
+government’s pesification decree, that rate was the free market rate on the date the markets opened, 
+or between 1.6 and 1.7 pesos to 1 dollar.  Citigroup did not follow these GAAP guidelines or 
+guidance from its auditor, who advised Citigroup to use a rate of at least 1.6 pesos to one dollar, 
+and instead used a rate of 1.4 pesos to one dollar.  Had Citigroup used a rate of 1.6 pesos to one 
+dollar, it would have incurred an additional loss of $57 million pre-tax or $37 million after-tax for 
+the fourth quarter. Thus, Citigroup should have recorded a pre-tax loss of $292 million on the 
+consumer loan pesification issue, or $57 million more than the amount included in the financial 
+statements and other financial results set forth in Citigroup’s 2001 Form 10-K and the company’s 
+January 18, 2002, Form 8-K.  
+
+       Citigroup’s accounting for the disposition of Bansud also was not in conformity with 
+GAAP.  As discussed above, EITF Issue No. 87-11 provides that, if specific identifiable economic 
+events occurred during the holding period that decreased the value of the subsidiary, that decline in 
+value was to be reflected as a charge to the parent company’s income for the quarter.  Despite the 
+collapse of the Argentine economy and the related actions by the Argentine government during the 
+holding period, Citigroup did not record a charge to income for the fourth quarter to reflect 
+Bansud’s decline in value, as required by EITF 87-11.  Had Citigroup complied with EITF 87-11, 
+the company would have incurred a loss to income of at least $151 million for the fourth quarter of 
+2001.  Thus, Citigroup should have recorded a pre-tax loss of $151 million or $98.2 million after-
+tax on the sale of Bansud and included that loss in the financial statements and other financial 
+results set forth in Citigroup’s 2001 Form 10-K and the company’s January 18, 2002, Form 8-K. 
+
+       As a result of its improper accounting for the Bond Swap, the Non-Swapped Bonds, the 
+pesification of consumer loans, and the Bansud disposition, Citigroup materially misstated the 
+financial results that it reported in its 2001 Form 10-K and its January 18, 2002, Form 8-K.  As set 
+forth above, these misstatements included Citigroup’s reported fourth quarter 2001 earnings of 
+$3.875 billion, which were overstated by at least $311 million, or 8%, after tax, and the company’s 
+reported diluted earnings per share of $.74, which were overstated by at least $.06.  Citigroup thus 
+violated Section 13(a) of the Exchange Act and Exchange Act Rules 12b-20, 13a-1, and 13a-11. 
+
+                                               11
+
+---------------------Page 12---------------------
+
+       Section 13(b)(2)(A) of the Exchange Act requires reporting companies to make and keep 
+books, records, and accounts, which, in reasonable detail, accurately and fairly reflect the 
+transactions and dispositions of the assets of the issuer.  As described above, the manner in which 
+Citigroup accounted for the Bond Swap, the Non-Swapped Bonds, the pesification of the consumer 
+loans, and the disposition of Bansud resulted in the company’s financial statements for 2001, 
+including the results for the fourth quarter of the year, being inaccurate, and the underlying 
+documentation related to the improper accounting also was inaccurate.14
+                                                                         Citigroup thus violated 
+Section 13(b)(2)(A) of the Exchange Act. 
+
+       Section 13(b)(2)(B) of the Exchange Act, in relevant part, requires reporting companies 
+to devise and maintain a system of internal accounting controls sufficient to provide reasonable 
+assurances that transactions are recorded as necessary to permit preparation of financial 
+statements in conformity with GAAP or other applicable criteria.  As reflected above, 
+Citigroup’s system of internal controls was not sufficient to provide reasonable assurances that 
+the value of the GPNs received in the Bond Swap, the changes in value of the Non-Swapped 
+Bonds, and the disposition loss on the sale of Bansud were recorded in accordance with GAAP. 
+Citigroup thus violated Section 13(b)(2)(B) of the Exchange Act. 
+
+                                               IV. 
+
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondent Citigroup’s Offer. 
+
+       Accordingly, it is hereby ORDERED that: 
+
+       Pursuant to Section 21C of the Exchange Act, Respondent Citigroup cease and desist from 
+committing or causing any violations and any future violations of Sections 13(a), 13(b)(2)(A), and 
+13(b)(2)(B) of the Exchange Act and Exchange Act Rules 12b-20, 13a-1, and 13a-11.   
+
+ By        the Commission. 
+
+       F                                              lorence E. Harmon
+       A                                              cting Secretary 
+
+14 
+       In this regard, it is noteworthy that Citigroup’s purported support for the company’s accounting 
+related to the Non-Swapped Bonds and the Bansud transaction consisted of brief internal memoranda.  
+Among other things, the memorandum concerning the Non-Swapped Bonds did not properly analyze 
+whether the bonds were impaired.  The memorandum related to the Bansud transaction was not prepared 
+until months after the company filed its Form 10-K for 2001 and set forth the erroneous conclusion that 
+there were no specific identifiable economic events, as defined in EITF 87-01, that occurred during the 
+holding period to change the value of Bansud. 
+                                               12
+

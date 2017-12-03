@@ -1,0 +1,429 @@
+﻿---------------------Page 1---------------------
+
+                                                                                         
+ UNITED                              STATES OF AMERICA 
+
+ Before                                       the 
+
+                    SECURITIES AND EXCHANGE COMMISSION 
+
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 52041 / July 15, 2005 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 2278 / July 15, 2005                                              
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-11984 
+                                             ORDER INSTITUTING CEASE-AND-
+In the Matter of                             DESIST PROCEEDINGS, MAKING 
+                                             FINDINGS, AND IMPOSING A CEASE-
+      Comerica, Inc.,                        AND-DESIST ORDER PURSUANT TO 
+                                             SECTION 21C OF THE SECURITIES 
+Respondent.                                  EXCHANGE ACT OF 1934  
+ 
+ 
+ 
+ 
+                                           I.  
+ 
+      The Securities and Exchange Commission (“Commission”) deems it appropriate that cease­
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities 
+Exchange Act of 1934 (“Exchange Act”), against <comp.>Comerica, Inc.</> (“Comerica” or “Respondent”).   
+                                             
+                                           II.  
+ 
+      In anticipation of the institution of these proceedings, Respondent has submitted an Offer 
+of Settlement (the “Offer”) which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the findings 
+herein, except as to the Commission’s jurisdiction over Respondent and the subject matter of these  
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease­
+and-Desist Proceedings, Making Findings, and Imposing a Cease-and-Desist Order Pursuant to 
+Section 21C of the Securities Exchange Act of 1934 (“Order”), as set forth below.    
+                                             
+ 
+ 
+                                             
+                                             
+
+ 
+ 
+---------------------Page 2---------------------
+
+                                                                                                
+                                              III. 
+                                                
+       On the basis of this Order and Respondent’s Offer, the Commission finds that:  
+        
+       A. Facts 
+        
+       1. Summary 
+        
+       This matter involves the filing of an inaccurate quarterly report with the Commission by 
+Comerica.  During the quarter ended <date.>June 30, 2002</>, Comerica failed to establish an appropriate 
+<item.>allowance for loan and lease losses</> (“<item.>ALLL</>”) for its subsidiary Comerica Bank-California.  This 
+failure stemmed from the flawed  methodology that Comerica used for determining the ALLL.  As 
+a consequence of understating the ALLL, Comerica’s net income was materially overstated for the 
+quarter ended June 30, 2002 and not in accordance with Generally Accepted Accounting Principles 
+(“GAAP”).  Accordingly, on October 2, 2002, Comerica restated the financial statements included 
+in its Form 10-Q for the period ended June 30, 2002.  The restatement reflected that Comerica’s 
+second quarter income before income taxes had been overstat ed by approximately 14.8%.  
+Following the announcement of the restatement and two larger unrelated charges being taken in the  
+third quarter, the closing price of Comerica’s stock fell 20% from the previous day’s close.  
+Accordingly, Comerica violated the reporting provisions of the Exchange Act.  Moreover, by 
+failing to document the ALLL in accordance with GAAP, Comerica violated the recordkeeping 
+and internal controls provisions of the Exchange Act.   
+        
+       2.      Respondent  
+        
+       Comerica is a Delaware corporation headquartered in Detroit, Michigan.  Comerica is a 
+holding company for business, consumer, and investment banks with operations in the United 
+States, Canada, and Mexico.  During the relevant period, Comerica had three primary U.S. 
+subsidiary banks: (1) Comerica Bank-Michigan; (2) Comerica Bank-Texas; and (3) Comerica 
+Bank-California.  Comerica’s common stock is registered with the Commission pursuant to 
+Section 12(b) of the Exchange Act and is listed for trading on the New York Stock Exchange under 
+the stock symbol “CMA.” 
+        
+       3.     General Description of ALLL 
+        
+       Regardless of how well a bank’s lending is done, the bank will have loan and lease losses.  
+To absorb these losses, banks are  required to maintain an ALLL, which is also referred to as an 
+“allowance for credit losses” or “loan-loss reserve.”  The ALLL represents the bank’s assessment 
+of probable credit losses inherent in its loan portfolio as of a specific balance sheet date, whether 
+related to specifically identified loans or not.   
+        
+       The ALLL is established and adjusted by charges against the bank’s operating income.  
+The ALLL is presented on the balance sheet as a contra-asset account that reduces the amount of 
+the loan portfolio reported on the balance sheet.  The ALLL must be adjusted to reflect the current  
+
+                                               2
+  
+---------------------Page 3---------------------
+
+                                                                                                  
+level of probable estimated credit losses through a provision for loan and lease losses.  This 
+provision appears as an expense item on the bank’s income statement and decreases the net income 
+for that period.   
+        
+       4. Comerica’s Methodology          for Determining its ALLL 
+        
+       Comerica’s ALLL was comprised of the loan loss reserves for its three U.S. subsidiary 
+banks.  Each subsidiary bank’s ALLL was comprised of standard, specific, and unallocated 
+reserves. 
+        
+       Every commercial loan made by a Comerica subsidiary bank was rated by the subsidiary’s 
+credit officers on a scale from 1 to 8 based on risk characteristics.  A loan rated 1 (called a “grade 1 
+loan”) had little or no risk and a loan rated 8 was a non-performing loan that was a confirmed loss 
+requiring a charge off.1
+                        Standard reserves for all loans were determined by grouping together loans  
+with the same loan grades, then applying to each loan grade projected loss ratios set by Comerica 
+based on numerous factors. 
+        
+       As to specific reserves, every quarter Credit Quality Review (“CQR”) meetings were 
+convened at each subsidiary to review the subsidiary’s loan portfolio.  The attendees of these 
+meetings were known as the “CQR committee.”  The committee would review the bank’s large 
+grade 5, 6, and 7 loans for individual impairment every quarter to determine whether they required 
+a specific reserve as opposed to the standard reserve allocation.  The CQR committee’s 
+determination of the reserve amount for a specific loan was recorded in a one or two page 
+summary called the “CQR report.”  These reports include a short synopsis of the borrower, the 
+loan, the loan grade, action plans to reduce the risk of the bank, and developments at the borrower.   
+However, the CQR reports often did not provide any narrative explanation for why the CQR 
+committee assigned a particular loan grade or specific reserve allocation to a certain loan.  The 
+CQR committee would also review the loan grades for the large grade 5, 6, and 7 loans in  
+Comerica Bank-California’s loan portfolio and, as necessary, revise the grade and recommend 
+charge-offs. 
+ 
+       Unallocated reserves were intended to cover potential losses on categories of loan 
+portfolios that had been identified as having specific loss characteristics that had not otherwise 
+been considered.  Comerica determined its unallocated reserve by first setting a separate range of 
+minimum and maximum reserve percentages for each portfolio category, based on industry, 
+geographic, and economic factors.  Comerica used the same percentages for all three of its 
+subsidiaries, notwithstanding the different factors that might have applied to the loan portfolios of 
+Comerica Bank-Texas, Comerica Bank-Michigan, and Comerica Bank-California.    
+        
+
+                                                 
+1 
+       Comerica used a separate methodology for determining its reserves for retail loans.  For 
+the period ended June 30, 2002, the reserves for retail loans accounted for less than 2% of 
+Comerica’s entire ALLL. 
+                                                3
+  
+---------------------Page 4---------------------
+
+                                                                                                 
+       For each subsidiary, the uniform minimum and maximum percentages for each portfolio 
+category were multiplied by the aggregate loan amounts in each portfolio category.  The 
+minimum and maximum figures for each portfolio  category at each subsidiary were then added 
+together to create the total minimum and maximum limit for each subsidiary's unallocated reserve.  
+This process created three separate minimum and maximum ranges corresponding to the three 
+subsidiaries.  Comerica's chief credit officer would then select  a number within the minimum and 
+maximum range for each subsidiary bank to be the preliminary unallocated reserve for that 
+subsidiary.  The unallocated reserve  figures for all three subsidiary banks were then totaled to form 
+Comerica's preliminary unallocated reserve.  That was the final component to determining 
+Comerica's preliminary ALLL.  Later, Comerica's management    would either accept that 
+preliminary figure as the final unallocated reserve  for all three subsidiary banks, or decrease or 
+increase it, to determine Comerica's final ALLL. 
+        
+       The calculation of Comerica’s ALLL was partially documented each quarter in a binder  
+titled “Credit Loss Reserve Analysis” (“Credit Loss Reserve binder”).   First, a preliminary version 
+of the binder was prepared by Comerica’s credit department.  It set forth the results of the above-
+described quarterly procedure through the determination of the preliminary ALLL.  Within a few 
+days after the end of each quarter, a group of Comerica’s senior officers would meet to review the  
+adequacy of the ALLL, as reflected in the preliminary Credit Loss Reserve binder.  At this 
+meeting, Comerica’s management would, as described above, determine the final unallocated 
+reserve and the final quarterly ALLL figure.  The results of the quarterly meeting were reflected in 
+the final Credit Loss Reserve binder, but meeting minutes were not maintained.   
+        
+       5.     Problems Relating to Comerica Bank-California’s ALLL 
+        
+       Comerica Bank-California’s ALLL process was not properly documented and there was an 
+insufficient link between the CQR process and the quarterly ALLL figure recorded in the Call 
+Report.2
+         Furthermore, Comerica Bank-California’s methodology was not sufficiently auditable, 
+allocated losses were not representative of current conditions, the documentation of unallocated 
+reserves was inadequate, and recognition of loan losses, and downgrades were delayed.  With  
+respect to this last point, Comerica Bank-California’s CQR committee meetings were held during 
+the second month of each financial quarter.  At those meetings, certain incremental probable credit 
+losses were measured, but Comerica Bank-California did not always reflect the incremental losses 
+in its Call Report for that quarter.   
+        
+
+                                                 
+2 
+       Federal law requires all banks to file quarterly with the appropriate federal banking 
+agency a Report of Condition and Income (or “Call Report”).  See 12 U.S.C. §161 (National 
+banks), 12 U.S.C. §324 (State member banks), and 12 U.S.C. §1817 (State nonmember banks).  
+This report collects basic financial data from banks in the form of a balance sheet, an income  
+statement, and supporting schedules.  It is a primary source of financial data used for the 
+supervision and regulation of banks. 
+ 
+                                               4
+  
+---------------------Page 5---------------------
+
+                                                                                               
+       In late 2001 and early 2002, the Federal Reserve Bank of San Francisco (“Federal Reserve-
+San Francisco”) expressed concerns regarding Comerica Bank-California’s increased credit risk 
+profile and that the methodology used by Comerica Bank-California appeared inadequate to ensure  
+that the ALLL kept pace with the deterioration of the bank’s loan portfolio.  At a preliminary 
+meeting held on July 31, 2002, during a regularly scheduled examination, Federal Reserve-San 
+Francisco examiners told Comerica Bank-California’s management and Comerica’s chief credit 
+officer that they had preliminarily identified an addition to the provision for loan losses relating to 
+specifically identified loans and additional charge-offs that were required for the period ended June  
+30, 2002.  The Federal Reserve-San Francisco examiners and Comerica Bank-California 
+management agreed to discuss the issues further.  
+        
+       On or about August 5, 2002, at a meeting of Comerica’s senior management, Comerica’s  
+chief credit officer reported that discussions with the Federal Reserve-San Francisco concerning 
+additional provisions and charge-offs were ongoing. 
+        
+       6. 	   Comerica Files a Form 10-Q for the Period Ended June 30, 2002 Containing a 
+              Materially Understated ALLL 
+        
+       On the evening of August 12, 2002, Comerica filed its second quarter Form 10-Q, which 
+reported a materially understated ALLL and overstated net income figures for the period ended  
+June 30, 2002.  Comerica did not disclose in the Management’s Discussion and Analysis of 
+Financial Condition and Results of Operations (MD&A) section of the Form 10-Q any information 
+concerning Comerica Bank-California’s increased risk profile. 
+        
+       7. 	   Restatement of the Second Quarter 2002 Comerica Bank-California Call 
+              Report 
+ 
+       After several additional communications between Comerica and the Federal Reserve-San 
+Francisco examiners, the Federal Reserve-San Francisco and Comerica Bank-California met on 
+September 18, 2002.  The regulators directed Comerica Bank-California to restate the June 30, 
+2002 Call Report to reflect an incremental $40 million provision for credit losses, which included 
+$22 million in charge-offs.  
+ 
+       8. 	   Restatement of the Financial Statements Contained in Comerica’s June 30, 
+              2002 Form 10-Q 
+ 
+       Comerica restated the Call Report as directed.  As a result of restating the Call Report, on 
+October 2, 2002, Comerica filed an amended quarterly report on Form 10-Q/A for the period ended 
+June 30, 2002.  Comerica restated its second quarter income before income taxes from $272 million 
+to $237 million, reflecting an overstatement of about 14.8%, and its second quarter diluted net 
+income per share from $1.03 to $0.90, reflecting an overstatement of about 14.4%.  The 
+overstatements in income before income taxes and diluted net income per share were caused  
+primarily by Comerica’s failure to make the incremental credit loss provision of $40 million. 
+  
+
+                                              5
+  
+---------------------Page 6---------------------
+
+                                                                                                 
+       The day before the amended filing, on October 1, 2002, Comerica’s stock price had closed 
+at $50.19 per share.  After the press release on the morning of October 2, 2002 announcing the  
+restatement and two larger unrelated charges taken in the third quarter, Comerica’s stock traded as 
+low as $39.11 per share and closed the day at $40.00 per share, a decrease of about 20% from the 
+previous day’s closing price.  Trading volume increased from 903,300 shares on October 1 to 
+10,855,200 on October 2 and market  capitalization decreased from $8,767,685,629 on October 1 to  
+$6,987,595,640 on October 2. 
+ 
+       B.     Legal Analysis 
+ 
+       1.     Violations of the Reporting Provisions of the Exchange Act 
+ 
+       Section 13(a) of the Exchange Act and Rule 13a-13 thereunder require issuers with 
+securities registered under Section 12 of the Securities Act of 1933 to file quarterly reports with 
+the Commission.  The obligation to file such reports embodies the requirement  
+that they be true and correct.  See SEC v. Savoy Indus., Inc., 587 F.2d 1149, 1165 (D.C. Cir. 
+1978), cert. denied sub nom. Zimmerman v. SEC, 440 U.S. 913 (1979).  Article 4 of Regulation 
+S-X requires that financial statements filed with the Commission pursuant to Section 13(a) of the 
+Exchange Act be prepared in accordance with GAAP or such statements will be presumed to be 
+misleading or inaccurate.  17 CFR § 210.4-01(a)(1).  Furthermore, Articles 9 and 10 of 
+Regulation S-X require creditors to disclose their ALLL in the interim financial statements 
+included in their quarterly reports.  17 CFR §§ 210.9-03(7) & 210.10-01(a).  Therefore, banks 
+filing quarterly reports with the Commission must disclose their ALLL in the interim financial 
+statements and the ALLL must be calculated in accordance with GAAP.    
+        
+       Guidance under GAAP for recognition of loan losses is provided by Statement of 
+Financial Accounting Standards No. 5, Accounting for Contingencies (FAS 5), and Statement of 
+Accounting Standards No. 114, Accounting by Creditors for Impairment of a Loan (FAS 114).  
+See SEC Staff Accounting Bulletin 102 (“SAB 102”).  FAS 5 provides that an estimated loss 
+from the collectibility of a loan should be accrued when, based on information available prior to 
+the issuance of the financial statements, it is probable the loan has been impaired at the date of 
+the financial statements and the amount of the loss can be reasonably estimated.  FAS 114 
+provides specific guidance on the measurement of loan impairment and related disclosures, but 
+does not change the fundamental recognition criteria for loan losses provided by FAS 5.   
+ 
+       On July 6, 2001, the Commission staff issued interpretive guidance on FAS 5 and 114 in 
+the form of SAB 102.  In SAB 102, the staff expressed the view that it normally would expect a 
+registrant that engages in lending activities to develop a systematic methodology to determine its 
+ALLL in accordance with GAAP as of each financial reporting date.  Comerica failed to develop 
+a systematic methodology for determining the ALLL in accordance with GAAP.  Under GAAP, 
+if an issuer can measure a reasonably estimable and incremental probable credit loss in a 
+particular financial quarter, the issuer must recognize the loss in that same quarter.  See FAS 5, ¶ 
+8.  Although Comerica’s loan review process measured incremental probable credit losses in the 
+second month of a financial quarter, Comerica sometimes did not recognize those incremental 
+
+                                               6
+  
+---------------------Page 7---------------------
+
+                                                                                                  
+probable credit losses until the following quarter.  This practice contradicts FAS 5, FAS 114, and 
+Commission staff guidance.  The failure to recognize incremental probable credit losses inherent 
+in Comerica Bank-California’s loan portfolio in a timely manner resulted in Comerica’s filing of 
+financial statements with the Commission that contained material departures from GAAP.  By 
+understating its ALLL in the Form 10-Q for the period ended June 30, 2002, Comerica 
+materially overstated its income before income taxes by $35 million and diluted net income per 
+share by $0.13.  In percentage terms, Comerica overstated its income before income taxes and 
+diluted net income per share by 14.8% and 14.4%, respectively.   
+ 
+       In addition to the above reporting requirements, Item 303 of Regulation S-K requires a  
+registrant to describe in the MD&A section of the Form 10-Q any known uncertainties that it 
+reasonably expects will have a materially unfavorable impact on revenues or income from 
+continuing operations.  Comerica failed to comply with the disclosure requirements contained in  
+Item 303 by failing to disclose in the MD&A section of its Form 10-Q for the period ended June 
+30, 2002 the known uncertainty associated with Comerica Bank-California’s increased risk profile  
+(specifically, the deteriorating trend of the subsidiary bank’s loan portfolio), which should have 
+been expected by Comerica to have a materially unfavorable impact on income.   3 
+                                                                                 
+        
+       Furthermore, Exchange Act Rule 12b-20 provides: “In addition to the information 
+expressly required to be included in a statement or report, there shall be added such further 
+material information, if any, as may be necessary  to make the required statements, in light of the 
+circumstances under which they are made not misleading.”  Comerica failed to comply with this 
+rule by failing to add material information necessary to make the financial statements included in  
+its Form 10-Q for the period ended June 30, 2002 not misleading. 
+        
+       Accordingly, Comerica violated Section 13(a) of the Exchange Act and Exchange Act    
+Rules 12b-20 and 13a-13.   
+        
+       2.     Violations of the Recordkeeping Provisions of the Exchange Act 
+        
+       Section 13(b)(2)(A) of the Exchange Act requires issuers to make and keep books, records, 
+and accounts, which, in reasonable detail, accurately and fairly reflect the transactions and 
+
+                                                 
+3 
+       This Order does not address whether Comerica, as a bank holding company supervised 
+and regulated by the Federal Reserve Board, was required by Item 303 to disclose “confidential 
+supervisory information” as defined in 12 CFR § 261.2(c).  The Commission understands that 
+the Board considers documentation obtained from financial institutions during the course of  
+examinations or inspections, as well as examiner workpapers, memoranda, and reports of 
+examination or inspection, to be confidential supervisory information, and that it is the Board's 
+practice to protect confidential supervisory information from disclosure to third parties to the 
+greatest extent possible consistent with applicable law and the public interest.  See, e.g., SR 97­
+17 (SUP) (June 6, 1997) (Access to Books and Records of Financial Institutions During 
+Examinations and Inspections).   
+ 
+                                                7
+  
+---------------------Page 8---------------------
+
+                                                                                                 
+dispositions of the assets of the issuer.  Comerica’s filing of an inaccurate Form 10-Q on August 
+12, 2002 evidenced a failure to maintain books and records that accurately and fairly reflected the 
+ALLL, income before income taxes, and diluted net income per sh are figures for the period ended 
+June 30, 2002.  Accordingly, Comerica violated Section 13(b)(2)(A) of the Exchange Act. 
+ 
+       3.     Violations of the Internal Controls Provisions of the Exchange Act 
+ 
+       Section 13(b)(2)(B) of the Exchange Act requires issuers to devise and maintain a system  
+of internal controls sufficient to provide reasonable assurances that, among other things, 
+transactions are recorded as necessary to permit preparation of financial statements in conformity  
+with GAAP and to maintain the accountability of assets.  Pursuant to SAB 102, a registrant is 
+expected to maintain documentation of the rationale supporting each period’s determination that 
+the reported ALLL figures were adequate.  A financial institution is expected to maintain 
+documentation supporting its ALLL policies and procedures, the loan grading system or process,  
+the summary or consolidation of the ALLL balance, the validation of the ALLL methodology, and 
+the periodic adjustments to the ALLL process.  See SAB 102. 
+        
+       Comerica failed to adequately document the underlying rationale for making adjustments to 
+the ALLL.  Moreover, Comerica did not maintain documentation that linked the components of the 
+loan review process to the final ALLL reported in the financial statements.  As a consequence of 
+these practices, Comerica recorded its June 30, 2002 ALLL, income before income taxes, and 
+diluted net income per share in a manner that was not in conformity with GAAP.  Based on the 
+foregoing conduct, Comerica violated Section 13(b)(2)(B) of the Exchange Act.  
+ 
+                                              IV. 
+                                                 
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondent Comerica’s Offer. 
+ 
+  
+ 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+                                               8
+  
+---------------------Page 9---------------------
+
+                                                                                                                                                                                                 
+              Accordingly, it is hereby  ORDERED that: 
+ 
+ Respondent Comerica cease                                            and desist from committing or causing any violations and any 
+future violations of Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act, and Rules 
+12b-20 and 13a-13 thereunder.   
+ 
+ By the Commission. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       Jonathan                                                                                                            G.   Katz
+       Secretary                                                                                                          
+ 
+
+                                                                                               9
+  

@@ -1,0 +1,168 @@
+SRI/Surgical Express, Inc., Wayne R. Peterson, and James T. Boosales: Admin. Proc. Rel. No.
+34-48282 / August 5, 2003
+Home | Previous Page
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No.
+48282 / August 5, 2003
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No.
+1829 / August 5, 2003
+ADMINISTRATIVE PROCEEDING
+File No.
+3-11193
+In the Matter of
+SRI/Surgical Express, Inc.,
+Wayne R. Peterson, and James T. Boosales
+Respondents.
+::::::
+ORDER INSTITUTING CEASE-AND-DESIST PROCEEDINGS, MAKING FINDINGS, AND IMPOSING A CEASE-AND-DESIST ORDER PURSUANT TO SECTION 21C OF THE SECURITIES EXCHANGE ACT OF 1934
+I.
+The Securities and Exchange Commission ("Commission") deems it appropriate that cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities Exchange Act of 1934 ("Exchange Act") against SRI/Surgical Express, Inc. ("SRI"), Wayne R. Peterson ("Peterson"), and James T. Boosales ("Boosales") (collectively "Respondents").
+II.
+In anticipation of the institution of these proceedings, Respondents have submitted Offers of Settlement (the "Offers"), which the Commission has determined to accept.
+Solely for the purpose of these proceedings and any other proceedings brought by or on behalf of the Commission, or to which the Commission is a party, and without admitting or denying the findings herein, except as to the Commission's jurisdiction over Respondents and the subject matter of these proceedings, Respondents consent to the entry of this Order Instituting Cease-and-Desist Proceedings, Making Findings, and Imposing a Cease-and-Desist Order Pursuant to Section 21C of the Securities Exchange Act of 1934, as set forth below.
+III.
+Findings
+On the basis of this Order and Respondents' Offers, the Commission finds1 that:
+Respondents
+Respondent SRI/Surgical Express, Inc., a Florida corporation headquartered in Tampa, FL, provides disposable and reusable surgical products to over 300 hospitals and surgery centers in 24 states.
+SRI's common stock is registered with the Commission pursuant to Section 12(g) of the Exchange Act and is traded on the NASDAQ National Market System under the symbol "STRC."
+The company operates on a 52 to 53 week fiscal year ending the Sunday nearest December 31.
+For its fiscal year ended December 30, 2001, SRI reported total revenues of $86,426,000 and net income of $5,057,000.
+Respondent Wayne R. Peterson, 51, co-founded SRI in 1991 and was SRI's chief operating officer ("COO") until he resigned in December 2002.
+As COO, Peterson oversaw the operations of the company's various facilities.
+Peterson resides in Clearwater, FL.
+Respondent James T. Boosales, 60, co-founded SRI and served as its chief financial officer ("CFO") from its inception until he resigned in December 2002.
+Boosales resides in Palm Harbor, FL.
+Summary
+SRI, a hospital supply company, overstated revenue by 4.9% and net income by at least 17.5% in its third quarter 2001 report.
+The overstatement resulted from the premature recognition of customer orders and the recognition of two transactions with hospital customers, which were improperly recorded as sales.
+On November 27, 2001, SRI restated its third quarter Form 10-Q to reverse the prematurely recognized customer orders and to undo the transactions that were mischaracterized as sales.
+SRI's COO Wayne Peterson failed to properly oversee the second and third quarter sales pushes, which resulted in the premature recognition of customer orders.
+SRI's CFO James Boosales failed to devise and maintain sufficient internal accounting controls to prevent the early recognition of orders.
+Background
+SRI provides hospitals and surgery centers with a daily delivery and retrieval service that furnishes both reusable and disposable products used in various surgical procedures.
+In 2001, SRI served hospitals and surgery centers from 27 reprocessing and distribution centers located in 24 states throughout the United States.
+The majority of SRI's customers placed daily orders through one of several regional facilities.
+The company's drivers then delivered the products directly to the customer's surgery area by the following morning.
+If a customer failed to place an order, SRI would deliver a pre-determined amount based on the customer's prior usage. SRI's drivers and customer service representatives maintained the inventory for the remaining customers based on each hospital's surgery schedule.
+SRI's revenue recognition policy-as disclosed in the company's Form 10-K-required products to actually be delivered to the customer before recognizing the sale on SRI's books.
+However, SRI's internal controls contained a significant loophole that allowed this policy to be circumvented.
+Order entry personnel at SRI regional facilities entered shipments into SRI's accounting system when they were staged for delivery - a process referred to as "ship confirming."
+After the regional facilities recorded the shipments, SRI's accounting staff would print out and mail weekly invoices to the customers for those shipments for which the order request date, the date the customer wanted the order delivered, and the ship confirm date had passed.
+However, SRI did not record the date or time that it actually delivered the shipments to its customers.
+As a result, the only dates in SRI's records were the "order request" date and the "ship confirm" date, and both of these dates could be manually overridden.
+SRI's Second Quarter 2001
+In the spring of 2001, SRI's stock price traded at its highest in the company's history. The stock price steadily climbed from $13 per share in January to $30 per share in mid-June 2001.
+At that point, just weeks before the June 30, 2001 close of the second quarter, management learned that SRI was likely to miss its quarterly earnings target.
+This projected revenue fall-off was mainly attributed to two factors.
+First, sales from the company's existing customer base were down.
+SRI lost more accounts during the summer of 2001 than it had in the company's history.
+Second, SRI's sales force failed to realize anticipated new business.
+In an attempt to address the projected shortfall, at meetings in mid-to-late June 2001, Peterson informed SRI's operations staff that SRI's revenues were falling short of the company's internal expectations.
+Peterson instructed his subordinates to increase sales to customers whose inventory SRI controlled and to ship as much product as possible to other customers.
+Peterson emphasized that SRI needed to sell an additional day and a half worth of product by month's end.
+In response to Peterson's directives, certain operations personnel instructed their facilities to invoice as much product as possible over the remaining days of the second quarter.
+An operations employee emphasized that plant managers he supervised could invoice products that had been pulled, packed and staged for delivery if necessary at the end of the quarter.
+Other operations personnel also instructed their respective plants to move orders that had been staged for delivery from Monday to Friday to help alleviate the shortfall.
+Accordingly, SRI's operations staff recognized $270,000 in gross revenue prematurely at the end of SRI's fiscal second quarter.
+SRI operations personnel manually changed dates in the company's computer system to accelerate the recognition of the revenue.
+The operations staff explained that they did not realize that company policy required that customer orders be delivered before the revenue could be recognized.
+SRI's Assistant Controller observed an unusual spike in quarter-end revenue and examined sales orders for Friday, June 29.
+He found a number of instances in which one customer's account reflected two orders that day.
+Unable to find any logical reason for these double orders and believing that some mistakes had occurred, he informed CFO James Boosales, who authorized him to correct the perceived error.
+As a result, SRI moved approximately $150,000 worth of the backdated sales into the third quarter.
+Despite the Assistant Controller's efforts to correct SRI's second quarter revenue, he did not catch all of the prematurely recognized customer sales.
+As a consequence, SRI's second quarter revenues remained overstated by $120,000 in SRI's second quarter Form 10-Q for the period ended June 30, 2001 filed with the Commission on July 26, 2001.
+This $120,000 of additional revenue contributed approximately $24,000 to SRI's net income.
+Without this additional income, SRI's diluted earnings per share for the quarter would have been $0.23, missing analysts' expectations by $0.01.
+SRI's Third Quarter 2001
+In September 2001, the last month of SRI's fiscal third quarter, the company remained well short of its revenue targets.
+With just five days remaining in the third quarter, SRI had a $2 million shortfall from its revenue goal.
+Peterson again encouraged the plants to increase customer inventory levels and ship as much product as possible to customers whose inventory SRI managed.
+Peterson also provided the operations staff with specific revenue targets for each plant.
+In Peterson's presence, an operations supervisor commented that the facilities might have to "borrow from next week" to meet those targets.
+Specifically, Peterson heard someone commenting that "borrowing from next week" might have an adverse effect on Monday's revenue.
+Peterson did not ask what measures the plants would undertake to reach their respective revenue goals.
+Some operations personnel again told their plants that moving orders that had been staged for delivery from the fourth to the third quarter was a tool they could use to reach their respective targets, and many of the plants resorted to this practice.
+As a result, SRI employees prematurely recognized $216,000 worth of orders in the third quarter.
+As a consequence, the financial statements contained in SRI's third quarter Form 10-Q for the period ended September 30, 2001, filed on October 25, 2001, overstated revenue by $216,000.
+The JHHS and UMass Transactions
+In connection with efforts to address the third quarter revenue deterioration, SRI's then-CFO James Boosales asked SRI's then-president Alexander Edwards to contact some of SRI's larger customers to see if they would be interested in purchasing additional product. In response to Boosales' request, Edwards caused SRI to enter into two transactions that improperly boosted SRI's sales to meet SRI's revenue targets.
+The first transaction involved Jewish Hospital Healthcare System ("JHHS") based in Lexington, Kentucky.
+A few weeks prior to the September 30, 2001 close of SRI's third quarter, Edwards told JHHS and its purchasing agent that SRI was having trouble balancing inventory among its various facilities.
+Edwards asked the purchasing agent if SRI could pre-bill JHHS for 60 to 90 days of inventory.
+Edwards explained that he did not expect JHHS to pay SRI any of the invoices for goods billed and not delivered.
+Instead, and consistent with their contractual arrangement, Edwards acknowledged JHHS would only pay for the products it received.
+In or about October, Edwards sent the purchasing agent's controller invoices totaling $753,480 for the entire pre-billed inventory.
+As a result, SRI improperly recorded $753,480 in sales revenue in its third quarter, even though JHHS had not agreed to take delivery of the additional product and SRI did not deliver $753,480 worth of additional supplies to JHHS in that quarter.
+The second transaction involved UMass Memorial Medical Center ("UMass") in Worcester, MA.
+Like JHHS, UMass typically paid SRI for products as SRI actually delivered them to the hospital.
+Shortly before the close of SRI's third quarter, Edwards called two UMass officials and asked if they would accept early shipment of some inventory that SRI had customized for UMass.
+Edwards explained that he was interested in shipping an additional 30-day supply of inventory to the depot SRI used to service UMass in exchange for a discount in the purchase price.
+Although the UMass officials asked Edwards to put the proposal in writing, Edwards never provided UMass with any written documentation.
+Accordingly, UMass never ordered any additional supply of products under the arrangement Edwards proposed.
+Nonetheless, SRI's accounting group prepared invoices based on its understanding of the transaction as relayed to it by Edwards.
+As a result of this purported transaction sale, SRI recorded approximately $88,000 of sales revenue on its books and records.
+As a result of the purported transactions with JHHS and UMass, SRI's third quarter 2001 revenues were further overstated by $832,000, or 3.9 percent of total revenue.
+Thus, including the backdated invoices, SRI's Form 10-Q contained total overstatements of revenue of $1,048,000, or 4.9 percent of total revenue.
+This overstatement allowed SRI to meet analysts' earnings per share targets, which ranged from $0.24 to $0.26.
+By virtue of these overstatements, SRI's third quarter Form 10-Q was materially false and misleading.
+On November 27, 2001, SRI restated its third quarter financial results.
+SRI reversed out the prematurely recognized customer orders and the JHHS and UMass sales, thereby reducing its third quarter revenue by $1,034,000.
+SRI restated its earnings per share to $0.22 per share-well short of analysts' expectations.
+Legal Analysis
+Section 13(a) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder require issuers with securities registered under Section 12 of the Exchange Act to file annual and quarterly reports with the Commission and to keep this information current.
+The obligation to file such reports embodies the requirement that they be true and correct. See, e.g., SEC v. Savoy Indus., Inc., 587 F.2d 1149, 1165 (D.C. Cir. 1978), cert. denied, 440 U.S. 913 (1979).
+Rule 12b-20 further requires the inclusion of any additional material information that is necessary to make required statements, in light of the circumstances under which they were made, not misleading.
+Section 13(b)(2)(A) of the Exchange Act requires issuers to "make and keep books, records, and accounts, which in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the issuer."
+Section 13(b)(2)(B) requires issuers to devise and maintain a system of internal accounting controls sufficient to provide reasonable assurances that transactions are recorded as necessary to permit preparation of financial statements in conformity with generally accepted accounting principles and to maintain the accountability of assets.
+Section 13(b)(5) of the Exchange Act provides that no person shall knowingly falsify any book, record, or account or circumvent internal controls.
+Rule 13b2-1 prohibits any person from directly or indirectly falsifying or causing to be falsified any book, record, or account reflecting a company's transactions and the disposition of its assets.
+SRI violated Section 13(a) of the Exchange Act and Rules 13a-13 and 12b-20 thereunder by filing two quarterly reports that materially overstated its second and third quarter revenue in connection with the premature recognition of customer orders.
+The early recognition of orders from the next quarter violated Generally Accepted Accounting Principles ("GAAP") because to record revenue from product sales, the revenue must be realized or realizable and earned.
+In the context of product sales, these two criteria are usually met by the delivery of the product to the customer,2 as recognized in SRI's revenue recognition policy described in its Form 10-K.
+The two sales to hospital customers orchestrated by SRI's president violated GAAP because SRI recorded revenue from the sales before persuasive evidence of an agreement existed and before those products were delivered or services were rendered.3
+SRI did not deliver its product to the hospitals; rather it continued to make its customary daily deliveries out of its own depots as needed.
+Likewise, both hospitals had written agreements with SRI, which were never amended to reflect the oral arrangement that SRI's then-president claimed existed.
+SRI violated Section 13(b)(2)(A) of the Exchange Act by failing to maintain accurate books and records of customer orders and sales to hospitals.
+SRI violated Section 13(b)(2)(B) of the Exchange Act by failing to devise and maintain sufficient internal controls to prevent others from taking advantage of the loophole in SRI's revenue recognition policy that allowed employees to enter and alter the delivery date.
+Only when the Commission staff informed SRI of the allegations of premature revenue recognition did SRI close this loophole by requiring its truck drivers to include a delivery time and date on their receipts.
+Wayne Peterson, the company's former COO, was a cause of the acceleration of customer orders in the second and third quarters because he orchestrated quarter-end sales pushes seeking specific revenue targets without regard to how those targets were achieved.
+When an operations supervisor mentioned "borrow from next week," Peterson knew or should have known that to achieve these goals plant managers would prematurely recognize customer orders or otherwise circumvent SRI's internal controls.
+Peterson therefore caused others to violate Section 13(b)(5) of the Exchange Act and Rule 13b2-1.
+Chief financial officer James Boosales failed to devise and maintain sufficient internal controls to prevent others from taking advantage of the loophole in SRI's revenue recognition policy discussed above.
+Boosales also failed to follow-up and investigate when his Assistant Controller told him just after the close of the second quarter that he had observed shipments booked in the second quarter that should have been recorded in the third quarter.
+As a result, Boosales caused SRI to violate the internal controls provisions in Section 13(b)(2)(B) of the Exchange Act.
+Upon learning of allegations of backdating in the fall of 2001, Boosales and Peterson informed the audit committee, who retained outside counsel and forensic accountants and conducted an internal investigation.
+SRI restated its financial statements shortly thereafter, and took several remedial measures to prevent fraudulent conduct.
+SRI strengthened its internal controls by requiring a confirmation date for all product deliveries.
+SRI also required two officers to sign off on changes to its financial statements.
+Finally, SRI recently hired a new chief financial officer and a new chief executive officer.
+SRI's Remedial Efforts
+In determining to accept the Offers, the Commission considered remedial acts promptly undertaken by Respondents and cooperation afforded the Commission staff.
+IV.
+Based on the foregoing, the Commission finds that:
+Respondent SRI violated Sections 13(a), 13(b)(2)(A) and (B) of the Exchange Act and Rules 13a-13 and 12b-20 thereunder;
+Respondent Peterson caused violations of Section 13(b)(5) of the Exchange Act and Rule 13b2-1 thereunder; and
+Respondent Boosales caused violations of Section 13(b)(2)(B) of the Exchange Act.
+V.
+In view of the foregoing, the Commission deems it appropriate to issue this order and to impose the sanctions agreed to in Respondents' Offers of Settlement.
+ACCORDINGLY, IT IS HEREBY ORDERED:
+A. Pursuant to Section 21C of the Exchange Act, that Respondent SRI/Surgical Express, Inc. cease and desist from committing or causing any violations and any future violations of Sections 13(a), 13(b)(2)(A) and (B) of the Exchange Act, and Rules 13a-13 and 12b-20 thereunder.
+B. Pursuant to Section 21C of the Exchange Act, that Respondent Wayne R. Peterson cease and desist from committing or causing any violations and any future violations of Section 13(b)(5) of the Exchange Act and Rule 13b2-1 thereunder.
+C. Pursuant to Section 21C of the Exchange Act, that Respondent James T. Boosales cease and desist from causing any violations and any future violations of Section 13(b)(2)(B) of the Exchange Act.
+By the Commission.
+Jonathan G. Katz
+Secretary
+___________________
+1 The findings herein are made pursuant to Respondents' Offers of Settlement and are not binding on any other person or entity in this or any other proceeding.
+2 Financial Accounting Standards Board (FASB) Statement of Concepts No. 5, "Recognition and Measurement in Financial Statements of Business Enterprises," Paragraph 84a states that: "The two conditions (being realized or realizable and being earned) are usually met by the time product or merchandise is delivered . . . and revenues from manufacturing and selling activities . . . are commonly recognized at the time of sale (usually meaning delivery)."
+3 See FASB Statement of Concepts No. 5; see also Staff Accounting Bulletin No. 101, "Revenue Recognition in Financial Statements," Topic 13, A.1 explains that:
+"The staff believes that revenue generally is realized or realizable and earned when . . . persuasive evidence of an arrangement exists, . . . delivery has occurred or services have been rendered. . ."
+http://www.sec.gov/litigation/admin/34-48282.htm
+Home | Previous Page
+Modified: 08/05/2003

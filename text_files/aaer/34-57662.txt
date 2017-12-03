@@ -1,0 +1,453 @@
+---------------------Page 1---------------------
+
+                         UNITED STATES OF AMERICA
+
+                                     Before the
+
+                 SECURITIES AND EXCHANGE COMMISSION
+
+
+SECURITIES EXCHANGE ACT OF 1934 
+Release No.  57662 / April 14, 2008    
+
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No.  2808 / April 14, 2008 
+
+ADMINISTRATIVE PROCEEDING 
+File No.  3-13006 
+
+ In the Matter of                    ORDER INSTITUTING PUBLIC 
+                                     ADMINISTRATIVE PROCEEDINGS 
+      MELVIN DICK, CPA,              PURSUANT TO RULE 102(e) OF THE 
+                                     COMMISSION’S RULES OF PRACTICE, 
+ Respondent.                         MAKING FINDINGS, AND IMPOSING 
+                                     REMEDIAL SANCTIONS 
+
+                                         I. 
+
+       The Securities and Exchange Commission (“Commission”) deems it appropriate 
+that public administrative proceedings be, and hereby are, instituted against Melvin Dick, 
+CPA (“Dick” or “Respondent”) pursuant to Rule 102(e)(1)(ii) of the Commission’s Rules 
+of Practice.1 
+
+                                        II. 
+
+       In anticipation of the institution of these proceedings, Dick has submitted an Offer 
+of Settlement (“Offer”) which the Commission has determined to accept. Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying 
+the findings herein, except as to the Commission’s jurisdiction over him and the subject 
+matter of these proceedings, which are admitted, Dick consents to the entry of this Order 
+Instituting Public Administrative Proceedings Pursuant to Rule 102(e) of the 
+Commission’s Rules of Practice, Making Findings, and Imposing Remedial Sanctions 
+(“Order”), as set forth below. 
+
+1
+   Rule 102(e)(1)(ii) provides, in pertinent part, that: 
+The Commission may . . . deny, temporarily or permanently, the privilege of appearing or practicing before 
+it in any way to any person who is found by the Commission . . . to have engaged in . . . improper 
+professional conduct. 
+---------------------Page 2---------------------
+
+                                         III. 
+
+       On the basis of this Order and Respondent’s Offer, the Commission finds that: 
+
+A.     SUMMARY 
+
+       1.    This matter concerns improper professional conduct by Melvin Dick, an 
+audit partner with the public accounting firm Arthur Andersen LLP (“Andersen”), in 
+connection with the audit of the financial statements of WorldCom, Inc. (“WorldCom”) 
+for its fiscal year ended December 31, 2001.  Dick was the lead engagement partner on 
+the audit.  As the lead engagement partner, Dick was responsible for planning the conduct 
+and scope of the WorldCom audit and overseeing all of the services performed by the 
+Andersen staff, including reviewing the work performed by Andersen’s staff on the 2001 
+audit.  In the planning and performance of that audit, Dick failed to comply with 
+Generally Accepted Auditing Standards (“GAAS”) as described below.    
+
+B.     RESPONDENT 
+
+       2.    Melvin Dick, age 54, resides in Sagle, Idaho.  Dick was a partner with 
+Andersen from 1987 to 2002, and was the head of the firm’s Global 
+Telecommunications, Entertainment and Media industry practice at the time of 
+Andersen’s audit of WorldCom’s fiscal year 2001 financial statements.  In 2003, Dick 
+allowed his CPA licenses in several jurisdictions to expire, and he currently is not a 
+licensed CPA. 
+
+C.     RELATED PARTIES 
+
+       3.    Arthur Andersen LLP was, at all times relevant, a limited liability 
+partnership headquartered in Chicago, Illinois that performed, among other things, 
+accounting and consulting services, and was one of the so-called "Big Five" accounting 
+firms in the United States. 
+
+       4.    WorldCom, Inc. was, at all times relevant, a global telecommunications 
+company incorporated in Georgia with its principal offices in Jackson, Mississippi. 
+
+D.     FACTS 
+
+       WorldCom’s Fraudulent Accounting for 
+
+       Capital Expenditures and Line Cost Expenses
+
+
+       5.    From 1998 through 2001, WorldCom made substantial cash outlays to 
+enhance and expand its global telecommunications network.  WorldCom recorded these 
+capital expenditures as assets on its balance sheet and grouped them into various 
+categories within Property, Plant & Equipment (“PP&E”), such as Transmission 
+Equipment, Communication Equipment and Furniture, Fixtures & Other.   
+
+                                          2
+
+---------------------Page 3---------------------
+
+       6.     PP&E constituted the second largest category of assets on WorldCom’s 
+balance sheet.  In any given year, a majority of WorldCom’s capital expenditures was 
+related to construction in progress (“CIP”), which represented the accumulated cost of 
+constructing assets before the assets are placed in service.  Each of the CIP projects was 
+supposed to be approved through WorldCom’s budgetary Authorization for Expenditure 
+(“AFE”) process; when approved, AFE numbers were assigned to those projects.  
+WorldCom accumulated the costs incurred for each project in a CIP account.  Once the 
+project was completed and ready for use, it was transferred from CIP into the appropriate 
+PP&E “in-service” account, where the asset would begin to be depreciated or expensed. 
+
+       7.     WorldCom tracked the acquisition, disposition, and transfer of its assets on 
+the PP&E Rollforward Schedule (“Rollforward”).  Andersen received a copy of the 
+Rollforward each quarter in connection with its quarterly reviews and audit testing.  
+Respondent identified PP&E as a material account for the 2001 WorldCom audit, and 
+designated the capital expenditures cycle at WorldCom as a “critical process.”   
+
+       8.     Line costs comprised the largest single expense item on WorldCom’s 
+income statement.  WorldCom’s line costs could be classified into domestic, international 
+and internet line costs, with domestic line costs being the largest of these three categories.  
+A major component of WorldCom’s line cost expenses were the fees it paid to third-party 
+telecommunications carriers under long term lease agreements for rights of access to their 
+telecommunications networks.  These lease agreements required WorldCom to pay the 
+fees whether or not WorldCom used all of the leased capacity.   During 2001, 
+WorldCom’s line costs had increased, in large part due to its obligations under the long-
+term lease agreements it had entered into based on its incorrect anticipation of growth in 
+demand for telecommunications capacity. 
+
+       9.     U.S. Generally Accepted Accounting Principles (“GAAP”) required 
+WorldCom to expense its line costs in the period they were incurred because they 
+represented actual or expected cash outflows from ongoing major operations.  During 
+2001, WorldCom improperly removed approximately $3 billion in its line cost expenses 
+from its income statement, improperly and fraudulently characterizing these expenses as 
+“assets” on its balance sheet.  This improper accounting was accomplished by manual 
+journal entries to line cost and PP&E accounts. 
+
+       Failure to Take Engagement Risks Into Consideration 
+
+       10.   In 2001 as well as in prior audits, Andersen utilized a risk assessment tool 
+it called the “SMART” tool to evaluate risks related to serving an audit client.  
+Application of Andersen’s SMART tool by the WorldCom engagement team resulted in a 
+“High” risk classification for the 2001 WorldCom audit.  The engagement team, 
+however, manually increased the risk classification to “Maximum,” Andersen’s highest 
+risk rating, as Andersen had done in the prior year’s audit.  WorldCom’s risk 
+classification was increased due to “the volatility of [its] industry, its future merger and 
+acquisition plans and its reliance on a high stock price to fund those acquisitions.” 
+
+                                           3
+
+---------------------Page 4---------------------
+
+       11.   At the time of the 2001 WorldCom audit, Respondent knew that 
+WorldCom’s CEO, Bernard Ebbers, owed substantial personal debt secured by the 
+WorldCom stock he owned.  Respondent was also aware that Ebbers faced margin calls 
+on this indebtedness as WorldCom’s stock price rapidly declined.  Respondent was also 
+aware that WorldCom had guaranteed more than $200 million of Ebbers’ personal debt.  
+However, the audit workpapers for the 2001 audit did not identify either the financial 
+pressure on Ebbers or the significant decline in WorldCom’s stock price as a fraud risk.  
+Respondent did not modify the audit plan to address this risk. 
+
+       12.   Respondent participated in an “Expanded Risk Discussion,” required under 
+Andersen policy for all Maximum risk clients, for the 2001 WorldCom audit.  During that 
+process, Respondent became aware that in prior years Andersen had identified 
+WorldCom’s “aggressive accounting policies” and “desires to maintain high stock 
+valuations in anticipation of a security offering or a merger” as fraud risk factors. 
+
+       13.   At the time of the 2001 audit, Respondent had also learned that in the prior 
+year’s audit, Andersen had become aware that in the first quarter of 2000 WorldCom’s 
+then Controller had  directed the making of a post-closing journal entry, which had no 
+documentary support, to reduce line cost expenses at WorldCom’s United Kingdom 
+subsidiary by approximately $33.6 million. 
+
+       14.   Respondent should have reasonably recognized that the deteriorating 
+market conditions in the telecommunications industry created a pressure that also 
+increased the risk of fraud.  In 2001, the telecommunications industry experienced a 
+significant downturn, experiencing overcapacity, declining prices paid for services, and 
+declining stock prices.  WorldCom’s own stock price had declined more or less steadily 
+from a high of $50 in February 2000 to $14 by the end of 2001, a decline of almost 
+seventy percent.  WorldCom’s revenue growth was reduced, many of its customers were 
+financially ailing or failing.  Despite reduced revenue growth, WorldCom had to service 
+massive amounts of debt it had issued.  The Andersen audit workpapers, however, fail to 
+reflect consideration of these industry conditions in general or as experienced by 
+WorldCom and their implications on the risk of fraud in the financial statements. 
+
+       15.   Notwithstanding that Respondent knew that management had the ability to 
+override, and had overridden, WorldCom’s accounting controls, he failed to exercise due 
+professional care or maintain professional skepticism toward WorldCom in planning and 
+performing the audit.  Despite the numerous fraud risks at WorldCom of which he was 
+aware or reasonably should have been aware, Respondent did not ensure the 2001 audit 
+of line costs and PP&E incorporated adequate procedures to obtain reasonable assurance 
+that the financial statements were free of material misstatements as required by GAAS.  
+Respondent’s failure to modify the 2001 audit plan, given the increased and significant 
+fraud risks existing at WorldCom, compromised Andersen’s ability to detect the massive 
+fraud occurring in WorldCom’s PP&E and line costs accounts in 2001. 
+
+                                           4
+
+---------------------Page 5---------------------
+
+Failures in Audit of PP&E Accounts 
+
+       16.   Even though Respondent’s audit team determined that PP&E was a critical 
+audit area, they failed to perform adequate testing in this area.  The audit team’s testing 
+was inadequate to determine whether WorldCom’s controls were sufficient to prevent 
+material misstatements of PP&E through error or fraud, testing only a subset of the 
+additions to PP&E.  Moreover, the auditors only performed  testing of additions to PP&E 
+through the end of WorldCom’s third quarter, September 30, 2001, and not as of the end 
+of WorldCom’s fiscal year. 
+
+       17.   Respondent’s audit plan was premised on the inaccurate assumption that all 
+new recorded PP&E had been added through the AFE process and that no additions to 
+PP&E could be made outside of that process.  Consequently, the Andersen audit team 
+tested accounting controls on additions to WorldCom’s PP&E by selecting a sample of 
+twenty-three open CIP projects identified by AFE numbers, and checked each project for, 
+among other things, the existence of an approved AFE form for the project and noting 
+whether open CIP projects were on schedule to be completed by the expected completion 
+date. 
+
+       18.   While Respondent tested the controls surrounding the segregation of duties 
+of employees involved in the AFE process, Respondent failed to obtain sufficient 
+evidence to determine whether additions to PP&E could be made outside of the AFE 
+process.  Respondent also failed to test whether management could circumvent the AFE 
+controls to make potentially improper additions to PP&E, despite being aware of 
+management’s ability to manually override controls in place. 
+
+       19.   WorldCom’s third quarter Rollforward—which Andersen received in 
+performing the audit—showed total additions to PP&E of approximately $6.4 billion as 
+of September 30, 2001, a figure that included the improper entries made in the course of 
+the fraud.  Respondent tested a smaller subset of additions to PP&E, selecting the twenty-
+three projects from a population of $4.1 billion in open CIP.  Had Respondent reconciled 
+the $4.1 billion population tested to the $6.4 billion in total PP&E additions reflected in 
+the third-quarter Rollforward, or in the General Ledger, Respondent would have 
+discovered that Andersen was merely testing a subset of total additions to PP&E.  
+Because the smaller population Respondent tested was only a subset of all additions to 
+PP&E, the testing necessarily could not, and did not, provide Respondent with sufficient 
+competent evidence regarding WorldCom’s accounting controls for additions to PP&E. 
+
+       20.   The audit team did not conduct any substantive testing of the PP&E 
+accounts following its testing of an incomplete subset of total PP&E additions as of the 
+end of WorldCom’s third quarter.  WorldCom subsequently added $841 million in 
+improperly capitalized line costs to its PP&E in the fourth quarter of 2001.  The 
+fraudulent additions amounted to nearly half of the total PP&E additions in that quarter.  
+As a result of Andersen’s failure to conduct further testing of PP&E balances as of year 
+
+                                           5
+
+---------------------Page 6---------------------
+
+end, or to examine PP&E activity as of the balance-sheet date subsequent to its interim 
+testing, these additional improper and fraudulent additions to PP&E were not subject to 
+auditing. 
+
+       21.    Respondent failed to adequately plan the audit to provide for adequate 
+substantive testing of the details of PP&E.  Based on the deficient testing of PP&E 
+controls during the audit, Respondent improperly assessed the control risk at below a 
+maximum level and, as a result, planned and performed insufficient audit testing of 
+PP&E. 
+
+       22.    In failing to:  take the fundamental step of ensuring that the population of 
+property additions his audit team tested was complete and corresponded to the total 
+property additions reflected in WorldCom’s balance sheet; ensure that appropriate testing 
+was done to provide a reasonable basis for extending conclusions regarding PP&E 
+account balances from the date of interim testing to the balance-sheet date; and conduct 
+adequate substantive testing of PP&E accounts, Respondent failed to exercise due 
+professional care (American Institute of Certified Public Accountants (“AICPA”), 
+Codification of Statements on Auditing Standards, (“AU”) §§ 150.02, 230.01)   2
+                                                                                and 
+professional skepticism (AU § 230.07) in the planning and performance of the audit, and 
+failed to obtain sufficient evidential matter (AU §§ 150.02, 326.01) to provide him with a 
+reasonable assurance that WorldCom’s financial statements were free of material 
+misstatement. 
+
+       Failures in Audit of Line Cost Accounts 
+
+       23.    Respondent failed to exercise due professional  care in the planning and 
+performance of the audit (AU §§ 150.02, 230.01), and failed to obtain sufficient 
+competent evidential matter (AU §§ 150.02, 326.01), by failing to reconcile the line cost 
+expenses being audited to the Company’s financial statements and general ledger. 
+
+       24.    Had such a reconciliation been included in the audit plan or performed, 
+Respondent’s audit team would have discovered that the line cost expenses they were 
+testing were significantly larger than the line cost expenses reflected in WorldCom’s 
+financial statements and general ledger.  This difference existed because the fraudulent 
+entries reducing those expenses were not included in the schedules Andersen received to 
+audit, but were reflected in the line cost expenses reported in the financial statements. 
+
+       25.    The audit that Respondent designed subjected line cost expenses to testing 
+through the identification and testing of WorldCom’s internal controls relevant to line 
+cost expenses.  Based on the results of that testing of controls, Respondent determined the 
+control risk was below the maximum risk, and, consequently, insufficient testing of line 
+cost expenses was performed. 
+
+       26.    However, the audit workpapers Respondent reviewed in making his control 
+risk determination did not document how the controls identified and tested were relevant 
+2
+ The AU cites referenced throughout the document pertain to GAAS standards that were in effect in 2001.  
+
+                                            6
+
+---------------------Page 7---------------------
+
+to preventing or detecting misstatements in the assertions embodied in the line cost 
+expense account balance.  The failure to link specific internal controls to the asserted line 
+cost expense account balance resulted in a failure by Respondent to obtain sufficient 
+evidential matter (AU §§ 150.02, 326.01), in violation of GAAS. 
+
+       Failure to Review Non-Standard Journal Entries 
+
+       27.   The fraudulent reduction of WorldCom’s line cost expenses was 
+accomplished through the recording of large unsupported journal entries, known as on-
+top or top-side entries, after the close of each quarter, in even monetary amounts ranging 
+from $38.5 million to $600 million. 
+
+       28.   Despite the fact that Respondent’s audit team had rated WorldCom as a 
+“Maximum” risk client, despite other risk factors that Respondent either knew or 
+reasonably should have known provided an incentive for fraudulent misstatement of 
+WorldCom’s financial statements, and despite Respondent’s awareness that management 
+had the ability to override accounting controls, Respondent did not exercise due 
+professional care in the planning and performance of the audit (AU §§ 150.02, 230.01) by 
+failing to design or implement audit procedures to identify and review non-standard 
+journal entries. 
+
+       29.   Respondent placed undue reliance on WorldCom’s management’s 
+representation that there were no significant top-side entries.  Respondent failed to 
+exercise due professional  care (AU §§ 150.02, 230.01), maintain an attitude of 
+professional skepticism (AU § 230.07), and to obtain sufficient competent evidential 
+matter (AU §§ 150.02, 326.01), by not planning and performing reasonable audit 
+procedures to identify potentially improper or fraudulent top-side journal entries and by 
+relying on management’s representation that there were no significant top-side journal 
+entries. 
+
+       Inadequate Workpaper Documentation of the Audit 
+
+       30.   Respondent’s audit workpapers for the 2001 WorldCom audit did not 
+adequately document the audit procedures applied, tests performed, information obtained 
+and pertinent conclusions reached in the audit engagement and failed to show that the 
+accounting records agree or reconcile with the financial statements (AU § 339).  
+Additionally, key documents purportedly used in performing the audit are not included in 
+the workpapers. 
+
+E.     VIOLATION 
+
+       Dick failed to comply with GAAS in connection with the 2001 WorldCom audit 
+by unreasonably:  (i) failing to exercise due professional care in the planning and 
+performance of the audit, AU §§ 150.02, 230.01; (ii) failing to exercise an attitude of 
+professional skepticism throughout the audit, AU § 230.07; (iii) failing to obtain 
+sufficient evidential matter to afford a reasonable basis for Andersen’s opinion regarding 
+WorldCom’s financial statements, AU §§ 150.02, 326.01; (iv) failing to consider 
+
+                                           7
+
+---------------------Page 8---------------------
+
+expanding the extent of the audit procedures applied, applying procedures closer to or as 
+of year end, particularly in critical audit areas, or modifying the nature of procedures to 
+obtain more persuasive evidence, in light of the significant risks of material misstatement 
+that existed at WorldCom, AU § 312.17; (v) failing to plan and perform the audit to 
+obtain reasonable assurance about whether the financial statements were free of material 
+misstatement, whether caused by error or fraud, AU § 110.02; and (vi) issuing an audit 
+report that falsely stated that the audit was conducted in accordance with GAAS and that 
+WorldCom’s financial statements were presented in conformity with GAAP, AU § 
+508.07. 
+
+       Rule 102(e)(1)(ii) of the Commission’s Rules of Practice provides, in part, that 
+the Commission may censure or deny, temporarily or permanently, the privilege of 
+appearing or practicing before the Commission in any way to any person who is found by 
+the Commission to have engaged in improper professional conduct.  Rule 102(e)(1)(iv) 
+defines improper professional conduct with respect to persons licensed to practice as 
+accountants. 
+
+       As applicable here, improper professional conduct means a violation of applicable 
+standards that resulted from “repeated instances of unreasonable conduct, each resulting 
+in a violation of applicable professional standards, that indicate a lack of competence to 
+practice before the Commission.” (Rule 102(e)(1)(iv)(B)(2)). As a result of the conduct 
+described above, Respondent repeatedly acted unreasonably in failing to conduct or 
+supervise the audit of WorldCom’s financial statements for the year ended December 31, 
+2001 in accordance with GAAS. 
+
+F.     FINDINGS 
+
+       Based on the foregoing, the Commission finds that Respondent engaged in 
+improper professional conduct pursuant to Rule 102(e)(1)(ii) of the Commission’s Rules 
+of Practice. 
+
+                                          IV. 
+
+       In view of the foregoing, the Commission deems it appropriate to impose the 
+sanctions agreed to in Respondent’s Offer. 
+
+       Accordingly, it is hereby ORDERED, effective immediately, that: 
+
+       A.     Respondent is denied the privilege of appearing or practicing before the 
+Commission as an accountant. 
+
+       B.     After four years from the date of this order, Respondent may request that 
+the Commission consider his reinstatement by submitting an application (attention: 
+Office of the Chief Accountant) to resume appearing or practicing before the 
+Commission as: 
+
+                                           8
+
+---------------------Page 9---------------------
+
+              1. a preparer or reviewer, or a person responsible for the preparation or 
+review, of any public company’s financial statements that are filed with the Commission. 
+Such an application must satisfy the Commission that Respondent’s work in his practice 
+before the Commission will be reviewed either by the independent audit committee of the 
+public company for which he works or in some other acceptable manner, as long as he 
+practices before the Commission in this capacity; and/or 
+
+              2. an independent accountant. Such an application must satisfy the 
+Commission that: 
+
+                      (a) Respondent, or the public accounting firm with which he is 
+              associated, is registered with the Public Company Accounting Oversight 
+              Board (“Board”) in accordance with the Sarbanes-Oxley Act of 2002, and 
+              such registration continues to be effective; 
+
+                      (b) Respondent, or the registered public accounting firm with 
+              which he is associated, has been inspected by the Board and that 
+              inspection did not identify any criticisms of or potential defects in the 
+              Respondent’s or the firm’s quality control system that would indicate that 
+              the Respondent will not receive appropriate supervision; 
+
+                      (c) Respondent has resolved all disciplinary issues with the Board, 
+              and has complied with all terms and conditions of any sanctions imposed 
+              by the Board (other than reinstatement by the Commission); and 
+
+                      (d) Respondent acknowledges his responsibility, as long as 
+              Respondent appears or practices before the Commission as an independent 
+              accountant, to comply with all requirements of the Commission and the 
+              Board, including, but not limited to, all requirements relating to 
+              registration, inspections, concurring partner reviews and quality control 
+              standards. 
+
+       C.     The Commission will consider an application by Respondent to resume 
+appearing or practicing before the Commission provided that his state CPA license is 
+current and he has resolved all other disciplinary issues with the applicable state boards 
+of accountancy. However, if state licensure is dependent on reinstatement by the 
+Commission, the Commission will consider an application on its other merits. The 
+Commission’s review may include consideration of, in addition to the matters referenced 
+above, any other matters relating to Respondent’s character, integrity, professional 
+conduct, or qualifications to appear or practice before the Commission. 
+
+       By the Commission.  
+
+                                                    Nancy M. Morris 
+                                                    Secretary 
+
+                                            9
+

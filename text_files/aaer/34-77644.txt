@@ -1,0 +1,865 @@
+---------------------Page 1---------------------
+
+                           UNITED STATES OF AMERICA 
+                                       Before the 
+                    SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 77644 / April 19, 2016 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3765 / April 19, 2016 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-17212 
+                                              ORDER  INSTITUTING  CEASE-AND-DESIST 
+In the Matter of                              PROCEEDINGS  PURSUANT TO SECTION  
+                                              21C OF THE SECURITIES EXCHANGE ACT 
+      LOGITECH                                OF 1934, MAKING FINDINGS,  AND 
+      INTERNATIONAL, S.A.,                    IMPOSING CEASE -AND-DESIST ORDER S 
+      MICHAEL DOKTORCZYK,                     AND PENALTIES  
+      and SHERRALYN BOLLES,  
+      CPA, 
+ 
+Respondent s. 
+ 
+ 
+                                                
+ 
+                                           I.  
+ 
+       The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities 
+Exchange Act of 1934 (“Exchange Act”) against Logitech International, S.A. (“LOGI” or “the 
+Company”), Michael Doktorczyk (“Doktorcyzk”), and Sherralyn Bolles, CPA (“Bolles”) 
+(collectively, “Respondents”). 
+                                             
+                                           II. 
+ 
+      In anticipation of the institution of these proceedings, Respondents have submitted Offers 
+of Settlement (the “Offers”) which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the findings 
+herein, except as to the Commission’s jurisdiction over them and the subject matter of these 
+proceedings, which are admitted, and except as provided herein in Section V, Respondents consent 
+to the entry of this Order Instituting Cease-and-Desist Proceedings Pursuant to Section 21C of the 
+Securities Exchange Act of 1934, Making Findings, and Imposing Cease-and-Desist Orders and 
+Penalties (“Order”), as set forth below.   
+ 
+---------------------Page 2---------------------
+
+                                                III. 
+ 
+                                                                                  1
+       On the basis of this Order and Respondents’ Offers, the Commission finds     that :  
+ 
+                                            Summary 
+ 
+       These proceedings arise out of, and this Order covers, recurring instances of improper 
+accounting in three separate areas at Logitech International, S.A. during a five-year period.  The first 
+concerns LOGI’s actions and omissions in fraudulently accounting for the write-down of a failed 
+                       2
+product in its fiscal year 2011 (“FY11”) financial statements.  The second relates to actions and 
+omissions by LOGI, Michael Doktorczyk, and Sherralyn Bolles concerning the accounting for the 
+Company’s warranty liabilities in the FY12 and FY13 financial statements, and concerning the 
+failure to correct, in the FY13 financial statements, a known error in not amortizing intangibles from 
+a prior acquisition.  The third concerns books and records, reporting, and control violations by 
+LOGI pertaining to the Company’s revenue recognition in its Americas region in FY09.   
+Doktorczyk and Bolles, whose employment at LOGI began in July 2011 and July 2012, 
+respectively, were not involved in the first and third areas. 
+ 
+                                         Respondents 
+ 
+       Logitech International S.A. is incorporated in Switzerland and has substantial operations in 
+the United States.  LOGI is primarily involved in manufacturing and selling peripherals for 
+computers and electronic devices.  Its shares are listed on both the Nasdaq Global Select Market, 
+under the trading symbol LOGI, and the SIX Swiss Exchange, under the trading symbol LOGN.  
+The company maintains an executive office and its Americas region headquarters in Newark, 
+California.  LOGI’s common stock is registered with the Commission pursuant to Exchange Act 
+Section 12(b).  
+        
+       Michael Doktorczyk, age 50, resides in Menlo Park, California.  From July 2011 (when he 
+started at the Company) through August 2014, he was the Company’s Vice President of Finance 
+and Corporate Controller.  In May 2013, when LOGI filed its Form 10-K for FY13, Doktorczyk 
+was also the Company’s Principal Financial Officer and Principal Accounting Officer.  
+Doktorczyk’s employment at LOGI ended in August 2014. 
+        
+       Sherralyn Bolles, age 50, resides in Castro Valley, California.  From July 2012 (when she 
+started at the Company) through August 2014, she was the Director of Accounting and Financial 
+Reporting for the Company.  Bolles’s employment at LOGI ended in August 2014. 
+        
+
+                                                 
+1
+  The findings herein are made pursuant to Respondents’ Offers of Settlement and are not binding on any other 
+person or entity in this or any other proceeding. 
+ 
+2
+ The Company’s fiscal year is April 1 to March 31.   
+                                                 2 
+ 
+---------------------Page 3---------------------
+
+                          Accounting for Revue Product/Components 
+                                  (Concerning the Company) 
+                                                  
+       1.      In October 2010 (LOGI’s fiscal Q311), LOGI launched a product called “Revue,” a 
+               set-top device that connected to televisions, allowing internet usage and video 
+               streaming.  Prior to launching Revue, LOGI had retained a contract manufacturer 
+               (“CM”) in Asia to produce hundreds of thousands of units in anticipation of 
+               demand during the year-end holidays.  LOGI had also authorized the CM to 
+               purchase millions of dollars of components to meet expected demand. 
+                
+       2.      From the outset, Revue sales were significantly below LOGI’s internal forecasts.  
+               By late November 2010, sales and finance personnel, including senior executives, 
+               were addressing whether the market price of $299 should be cut.  LOGI’s CFO at 
+               the time (“Former CFO”), and its acting controller (“Former Acting Controller”), 
+               were aware that LOGI might have to evaluate taking a “lower of cost or market” 
+               (“LCM”) charge if the value of Revue inventory was impaired.  
+        
+                                                                           3
+       3.      Under Generally Accepted Accounting Principles (“GAAP”)      ,  the C  ompany was 
+               required to value its inventory at the lower of the inventory’s cost or market value.  
+               Specifically, if the market value of a company’s inventory (generally calculated for 
+               finished goods as the estimated selling prices in the ordinary course of business, 
+               less reasonably predictable costs of completion, disposal, and transportation) is less 
+               than its cost, then the company must write-down the inventory value in its financial 
+               statements.   
+        
+       4.      On or around December 7, 2010, because of high inventory levels and weak sales, 
+               LOGI directed CM to stop manufacturing Revue, including halting all work-in-
+               progress.  LOGI also instructed CM not to ship over 26,000 finished Revue units.  
+               Further, because CM, at LOGI’s direction, had purchased parts for future 
+               manufacturing, LOGI was liable for approximately $11 million of excess 
+               components. 
+        
+       5.      At the end of Q311 (December 31, 2010), Revue sales were only 40% of LOGI’s 
+               forecasts for that product.  As part of its Q311 financial closing process, LOGI 
+               performed an LCM analysis of the Revue finished goods inventory and concluded 
+               that no adjustment, or write-down, was required.   
+        
+       6.      On or around January 5, 2011, LOGI’s Senior Vice-President of Operations (SVP-
+               Operations) informed several executives that he intended to “dispose of the 
+               components” awaiting assembly by CM in light of Revue’s “current trajectory.”  
+               Shortly thereafter, the SVP-Operations instructed the VP of Global 
+               Sourcing/Supplier Management (VP-Global Sourcing) to “sell all of the 
+               components we could.”   
+                                                 
+3
+ FASB Accounting Standards Codification 330-10-35 Inventory – Subsequent Measurement. 
+                                                3 
+ 
+---------------------Page 4---------------------
+
+        
+       7.     Later in January 2011, LOGI management informed the Board of Directors about 
+               the poor sales of Revue and about management’s future plans for the product, 
+               including a plan to lower the retail price of Revue to $249 in Q112, and to $199 in 
+               Q312.  Management did not inform its independent auditor of this pricing plan 
+               strategy. 
+        
+       8.     On January 27, 2011, LOGI issued its Q311 earnings release, reporting strong 
+               results, increasing its guidance for annual revenue for fiscal year-end March 31, 
+               2011, and affirming its guidance for annual operating income in a range of $170M-
+               $180M. 
+        
+       9.     During LOGI’s fiscal Q411, Revue sales continued to be far below projections.  For 
+               all of Q411, despite regular discounting and promotions, Revue sales were 30% of 
+               internal product forecasts.  By quarter-end, retailers were selling fewer than 1,000 
+               Revue units per week. 
+                
+       10.    At the end of Q411, LOGI had over 163,000 units of Revue finished inventory in 
+               its US distribution centers, with another 52,000 finished and work-in-progress units 
+               in Asia.  Based on the sales rate for Q411, LOGI had well over a year’s supply of 
+               Revue.  At the quarter-end sales rate to retailers, LOGI had over three years of 
+               inventory. 
+                
+       11.    In mid-March 2011, an accountant in LOGI’s Regional Finance area asked LOGI’s 
+               VP-Global Sourcing about financial risk for the Revue product and the number of 
+               units that could be built from on-hand components.  The VP-Global Sourcing 
+               informed her that there was no plan to use the components and that Global Sourcing 
+               was attempting to sell whatever could be sold.  He also noted: “If we need to scrap 
+               [work-in-progress] and components, we should assume a recoverable value of 
+               zero.” 
+        
+       12.    On or around March 23, 2011, a LOGI Finance employee sent the Former Acting 
+               Controller a summary of potential excess and obsolete inventory for contract 
+               manufacturers in preparation for a meeting the next day to discuss required 
+               accounting adjustments for the year-end financials.  The summary highlighted a 
+               total potential excess inventory of $19.4M for Revue units and components that 
+               “should be reserved.” 
+        
+       13.    On March 31, 2011, LOGI announced that, for reasons unrelated to Revue, it would 
+               miss the guidance it had provided to the market two months earlier.  LOGI lowered 
+               the previous guidance for operating income by $30M (to a range of $140M-
+               $150M).  Internally, the CEO characterized the guidance miss as a “disaster” and 
+               informed his executive team, including the Former CFO, that management’s 
+               credibility with the market was damaged. 
+
+                                                4 
+ 
+---------------------Page 5---------------------
+
+        
+       14.    For its FY11 year-end financial close process, LOGI initially prepared an LCM 
+              analysis indicating that no LCM adjustment was required for Revue finished goods 
+              inventory.  The company’s independent auditor arranged separate meetings with 
+              LOGI’s Former CFO and Former Acting Controller to discuss the importance of 
+              the assumptions in the LCM analysis.  In the meetings, the independent auditor 
+              stressed the need to consider future pricing assumptions and strategies.  Within 
+              days, LOGI revised the LCM analysis and, based on a planned price cut to $249 in 
+              Q112, recorded a $2.2M adjustment.  However, in the revised analysis, LOGI did 
+              not account for the planned Q312 price cut to $199, nor did LOGI consider the 
+              excess component inventory. 
+        
+       15.    After receiving the revised LCM with the $2.2 million adjustment, the independent 
+              auditor noted the roughly $11 million of excess component inventory and informed 
+              the Former Acting Controller and Regional Finance that LOGI was also required to 
+              evaluate and, if necessary, record an adjustment for the component inventory. 
+        
+       16.    LOGI’s Regional Finance accountant resisted adjusting for the component 
+              inventory.  When the independent auditor persisted, Regional Finance again 
+              emailed the VP-Global Sourcing, notifying him there was “heated discussion” with 
+              the independent auditor about Revue, and asking him to determine the number of 
+              Revue units that could be built from the component inventory. 
+        
+       17.    The VP-Global Sourcing, who was responsible for managing the component 
+              inventory liability, informed Regional Finance and the Former Acting Controller 
+              that production had been stopped for months and that he did not “see a chance that 
+              we are ever going to build [the components] into units.”  He wrote that a build-out 
+              of components was a “far fetched scenario that has never been formulated.”  He 
+              also explained that, at the direction of the SVP-Operations, “we have been working 
+              since January to resell component liabilities” with only modest success: “the easiest 
+              stuff to resell . . . is moving at 40-50 cts on the dollar maximum.  For the rest of 
+              components, we should assume 25cts on the dollar of recovery, the rest will be a 
+              hard loss.” 
+        
+       18.    The Former Acting Controller forwarded the information to the Former CFO, who 
+              asked about the potential exposure if the information was correct.  In her reply to 
+              the Former CFO, the Former Acting Controller suggested that, by assuming the 
+              excess components would be built into finished goods, LOGI could reduce the 
+              amount it would have to write-down.  There was no basis for any such assumption.  
+        
+       19.    The Former CFO replied:  “Yes, we need to understand with precision what we are 
+              looking at and what decisions we need to make or clarify.  We are still committed 
+              to making the right decisions and staying within our lowered range for Q4—we 
+              need to achieve them both.”   
+
+                                                5 
+ 
+---------------------Page 6---------------------
+
+        
+       20.    On the next day (April 18, 2011), the Former Acting Controller received a detailed 
+               list of the excess components.  Less than an hour later, she sent a spreadsheet 
+               containing an LCM component analysis to the independent auditor, calculating an 
+               adjustment of $1.1M, based on a hypothetical build-out of 79,000 additional 
+               finished units of Revue.  The Former Acting Controller ignored the fact 
+               (communicated to her two days earlier) that LOGI had been actively attempting to 
+               sell all of the components, with only limited success and below cost.  Instead, she 
+               based the Company’s accounting on a “far fetched scenario.”      
+        
+       21.    On or around April 18, 2011, after forwarding the component LCM analysis 
+               spreadsheet to the independent auditor, the Former Acting Controller met with 
+               members of the independent audit team.  At that meeting, the Former Acting 
+               Controller discussed LOGI’s plans to use the $11 million of excess components to 
+               build 79,000 finished Revue units.  She also represented that LOGI could use 
+               excess components (beyond what was needed to make 79,000 Revue units) to 
+               manufacture even more Revue units.  The Former Acting Controller’s 
+               representations were false. 
+        
+       22.    During the week of April 18, 2011, the Former Acting Controller and Former CFO 
+               met with senior members of the independent audit team.  In those meetings the 
+               Former Acting Controller and Former CFO confirmed the assumptions used in the 
+               LCM analyses, and represented that LOGI was committed to the Revue product for 
+               the long-term and was going to build at least 79,000 additional units using excess 
+               components.  These representations were false.   
+        
+       23.    At the time the representations were made, the Former Acting Controller and 
+               Former CFO knew, or were reckless in not knowing, that LOGI had no plan to 
+               produce additional units of Revue.  They knew, or were reckless in not knowing, 
+               that CM had not shipped any Revue units since late November 2010, and had 
+               stopped production in early December 2010.  In fact, they knew, or were reckless in 
+               not knowing, that LOGI had no timetable for re-starting production or even for 
+               completing the work-in-progress units and, for months, had been attempting to sell 
+               excess component inventory at substantial discounts.   
+        
+       24.    On or around May 27, 2011, the Former Acting Controller and Former CFO signed 
+               a management representation letter to the independent audit firm.  The letter 
+               contained material misrepresentations concerning the valuation of inventory and the 
+               LCM analysis for Revue inventory.  Specifically, with respect to the Revue LCM 
+               analysis, the letter represented that “we considered future pricing 
+               adjustments/discounts which are probable of occurring.”  This representation was 
+               false because the LCM analysis did not consider the planned price drop to $199 in 
+               Q312 or other discounting or promotions that would likely be required to sell the 
+               excess finished goods inventory. 
+
+                                                6 
+ 
+---------------------Page 7---------------------
+
+        
+       25.    The Former Acting Controller and Former CFO knew, or were reckless in not 
+               knowing, that the representations in the management representation letter 
+               concerning inventory valuation and the LCM analysis were false.  Prior to including 
+               the language on LCM and inventory valuation in the representation letter, the 
+               independent audit team had made both the Former Acting Controller and Former 
+               CFO aware of the importance of considering future pricing in the LCM analysis.  
+               As LOGI acknowledged in its November 2014 restatement, the Company had not 
+               considered future pricing adjustments/discounts that were probable of occurring.  
+               The LCM analysis provided to the independent audit firm, and which the Former 
+               Acting Controller and Former CFO discussed with the auditor, did not address—or 
+               account for—LOGI’s plan to lower the price to $199 in or before Q312.  
+        
+       26.    On May 27, 2011, LOGI filed its Form 10-K with the Commission.  The Former 
+               CFO signed the Form 10-K as the Company’s CFO and Principal Accounting 
+               Officer.  LOGI reported operating income of $142.7M, which was within the 
+               lowered range of $140M-$150M that LOGI had communicated to investors on 
+               March 31, 2011.   
+        
+       27.    On November 14, 2014, LOGI restated its financial results for FY11 and FY12 
+               because of errors in the timing of the Revue-related inventory write-downs.  At the 
+               time it initially filed its FY11 financial statements, LOGI overstated its operating 
+               income by $30.7M, i.e., over 27%.  If LOGI had properly accounted for Revue-
+               related inventory in May 2011, it would have reported operating income of 
+               approximately $112M, far below the lowered guidance of $140M-$150M.  
+        
+                                         Warranty Accrual Accounting 
+                                (Concerning the Company, Doktorczyk, and Bolles) 
+                
+       28.    Historically, LOGI divided its operations into three geographical regions: Americas 
+               (AMR); Europe, Middle East and Africa (EMEA); and Asia-Pacific/Japan (APJ).  
+               LOGI offered warranties on its products sold throughout the world.  Depending 
+               upon the particular country and type of product, the warranties ranged from one to 
+                          4
+               five years.   In FY0  9 ,  after its independent auditor   raised the need   to accrue for  its 
+               warranty liability,  LOGI   began recording a liability in its books and records.    
+        
+       29.    In the latter part of FY09, accountants within LOGI, including the same Former 
+               Acting Controller, developed a warranty accrual model for the AMR region based 
+               on the assumption that, if a product failed, it would fail quickly and be returned 
+               within one quarter.  The Company did not have a basis for this assumption, nor did it 
+               have sufficient data to evaluate such an assumption.  The warranty model also did 
+
+                                                 
+4
+  The need to account for contingent liabilities, including liability for future product warranty claims, was addressed 
+in SFAS 5, Accounting for Contingencies.  Pertaining to warranties in particular, SFAS 5 was codified as ASC 460-
+10-25, Product Warranties. 
+                                                 7 
+ 
+---------------------Page 8---------------------
+
+               not consider when the warranty liability began (i.e., when products were purchased 
+               by end-users) or when the liability ended (i.e., one, two, or five years after purchase 
+               of a product by the end-user).  This model was shared with the independent auditors.  
+                
+       30.    From FY08 through FY11, the deficiencies of LOGI’s AMR model—and the need 
+               for a more robust method—were known within LOGI’s finance and accounting 
+               groups.  During FY10, LOGI’s then-controller noted that the Company’s warranty 
+               model was “not good” because it was not based on the total number of products 
+               under warranty in the hands of consumers.  Despite this recognition, LOGI 
+               continued to use the model to record the warranty liability.  
+                
+       31.    During LOGI’s FY12, a senior accountant was assigned to provide operational input 
+               on LOGI’s warranty in the AMR region.  The senior accountant reviewed the model 
+               and could not understand the reason or basis for various discretionary inputs or the 
+               underlying assumptions.  She also discovered that the model did not take into 
+               account the length of the product warranty term.  Specifically, the senior accountant 
+               determined that, if LOGI were to change its warranty term (e.g., increase the length 
+               of the warranty from one-year to three-years), the model’s calculated exposure (i.e., 
+               the required accrual) would not change.  In other words, the model calculated the 
+               same warranty accrual regardless of whether products carried a three-month 
+               warranty or a 10-year warranty. 
+        
+       32.    The senior accountant inquired but could not get an explanation or basis for the 
+               inputs or why changing the warranty term would not impact the calculated accrual.  
+               The senior accountant also realized that the model did not use “sell-through data” 
+               (data on product sales to consumers).  Although she lacked expertise in warranty 
+               accounting, she concluded that the Company’s warranty accrual model did not 
+               comply with GAAP.  
+        
+       33.    In Q312, the senior accountant developed a new, more robust “waterfall” model 
+               despite having only limited historical sales and return data available to her.   Using 
+               the new model, she estimated that the Company was under-reserved by several 
+               million dollars.  She reported her findings to her supervisor, who arranged a meeting 
+               with Doktorczyk (the controller).    
+        
+       34.    Since at least 2004, LOGI’s finance and accounting groups and senior management 
+               used a quarterly “exposure list” to keep track of significant recorded entries, 
+               potential exposures or charges, reclassifications, and other items.  LOGI’s finance 
+               and accounting groups did not share the exposure list with its independent auditor.  
+               In Q312, the warranty accrual was added to the list as a “potential exposure,” with 
+               the amount of exposure “TBD” [to-be-decided].  The warranty accrual remained on 
+               the list as a “potential exposure” for six more quarters. 
+        
+
+                                                 8 
+ 
+---------------------Page 9---------------------
+
+       35.    On or around December 21, 2011 (the end of Q312), the senior accountant presented 
+               her conclusions to Doktorczyk, the Former Acting Controller, and others.  In the 
+               presentation, the senior accountant set forth the deficiencies with the existing model 
+               and indicated a likely under-accrual of $3.4M.   Doktorczyk did not ensure that 
+               deficiencies in the model were corrected.  
+        
+       36.    Five months later, in May 2012, as part of the Company’s internal accounting 
+                                                                   5
+               controls, the senior accountant was asked to confirm  the accuracy of certain 
+               statements, one of which included language  about the Company’s warranty 
+               provisions.  Because she believed the warranty accrual did not comply with GAAP, 
+               the senior accountant refused to confirm or certify the statement.  The senior 
+               accountant’s refusal to confirm or certify the statement about the warranty 
+               provisions was not raised with, and accordingly was not acted upon by, Doktorczyk.   
+                
+       37.    Bolles started at LOGI in Q213.  In Q313, an accountant in Financial Planning and 
+               Analysis (FP&A) became responsible for calculating the warranty accrual.  She 
+               noted the same problems, and came to the same conclusion, as the senior accountant.  
+               When the FP&A accountant studied the existing AMR warranty model, she could 
+               not understand the basis for the inputs and assumptions, and attempted, 
+               unsuccessfully, to get an explanation of the AMR model’s inputs and rationale. 
+        
+       38.    In Q313, the FP&A accountant also discovered that the warranty accrual models for 
+               the Company’s other regions (EMEA and APJ) were different than the AMR model.  
+               In addition, she determined that LOGI had not updated its warranty accrual 
+               calculation in its EMEA region for the two prior quarters because the person who 
+               had previously done the calculation had been laid off and no one could find the 
+               model.  Bolles was informed about the lack of any support for the EMEA 
+               calculation.   
+        
+       39.    By the end of Q313, the FP&A accountant had concluded that LOGI’s warranty 
+               accrual, as computed with the existing model, was not appropriate under GAAP.  
+               She informed Doktorczyk and Bolles about the significant problems with the 
+               warranty accrual calculation, and asked for technical accounting assistance.  
+                
+       40.    To assist the FP&A accountant, Bolles assigned the senior accountant who a year 
+               earlier had concluded that the existing model did not calculate a warranty accrual 
+               that was GAAP-compliant.  At the end of Q313, a meeting was scheduled with the 
+               independent auditor to discuss the warranty accrual methodology.  Shortly before the 
+               meeting, Bolles postponed it.  The meeting never occurred.  According to the FP&A 
+               accountant, the meeting was cancelled because the corporate accounting group did 
+               “not want to rock the boat . . . at this time with a revised warranty methodology.”  
+        
+
+                                                 
+5
+ This was a sub-certification process that LOGI had implemented. 
+                                                 9 
+ 
+---------------------Page 10---------------------
+
+       41.    In mid-Q413, the supervisor of the FP&A accountant arranged a meeting with 
+               LOGI’s Former CFO.  One purpose of the meeting was to address the concerns with 
+               the warranty model, the range of additional exposure reflected by a modified 
+               methodology, and to “share with [LOGI’s Former CFO] our understanding of 
+               whether the issue can be contained to FY13 or not.” 
+                
+       42.    On or about February 14, 2013, LOGI’s top finance and accounting officers—
+               LOGI’s Former CFO, Doktorczyk, Bolles, and the VP of FP&A, as well as the 
+               senior accountant and FP&A accountant, attended a meeting at which the senior 
+               accountant presented her findings regarding the warranty model issues and concerns, 
+               much like the presentation she had made 14 months earlier.  The senior accountant 
+               told LOGI’s Former CFO that the existing warranty accrual model was not GAAP-
+               compliant.   
+        
+       43.    The February 2013 presentation was explicit about the deficiencies in the current 
+               model and the estimated amount of additional exposure: $4.2M.   The presentation 
+               also set forth two options for transitioning to a new model: a one-time switch in 
+               methodology or a “gradual change to existing approach.”  The first option would 
+               result in an immediate charge or “catch up adjustment” to LOGI’s financial results.  
+               The second option would “change the current model gradually to increase reserves 
+               until [the] catch up entry is not material before switching the model.”  The second 
+               option was not GAAP-compliant. 
+        
+       44.    At the direction of LOGI’s Former CFO, the Company implemented the second 
+               option—the plan to gradually increase the reserve.  Specifically, the Company 
+               planned for, and added, $1M to its warranty accrual for Q413.  The Company added 
+               the $1M in Q413 by manipulating certain formulas in its existing warranty accrual 
+               model.  The Company also planned to add $1M per quarter for the first three 
+               quarters of FY14.   
+        
+       45.    Despite the warranty accrual remaining as a “potential exposure” item on the 
+               exposure list for six quarters, neither LOGI’s Former CFO nor any LOGI accountant 
+               informed the Company’s independent auditor about the under-accrual or the 
+               problems with the existing model for over a year and a half, during which time 
+               LOGI filed four Forms 10-Q and two Forms 10-K.   
+        
+       46.    Toward the end of Q413, the senior accountant also discovered that LOGI 
+               apparently had not amortized certain intangibles from a FY10 acquisition.  The 
+               senior accountant informed Bolles of the potential error in March 2013, over two 
+               months before the filing of the FY13 Form 10-K.  The potential amortization error, 
+               which was estimated at approximately $1.87M, was also added as a “potential 
+               exposure” item on the finance and accounting groups’ exposure list.   
+ 
+
+                                               10 
+ 
+---------------------Page 11---------------------
+
+       47.    No later than April 2013, Bolles was aware that her staff, which included the senior 
+               accountant, had researched the intangibles issue and concluded that the Company 
+               had failed to amortize certain intangibles.  Bolles did not cause the error to be 
+               corrected in FY13 or inform the independent auditor about it before the filing of the 
+               Form 10-K.  
+        
+       48.    On May 30, 2013, LOGI filed its Form 10-K for FY13, which contained material 
+               misstatements and omissions about the Company’s product warranty accruals.  In 
+               particular, LOGI misstated the amount of its product warranty liability by over 
+               $17.2M.  
+        
+       49.    LOGI’s Former CFO resigned from LOGI in April 2013.   Doktorczyk was asked to 
+               become the Company’s principal financial officer and principal accounting officer, 
+               and he signed the Form 10-K in that capacity approximately two weeks later.  At the 
+               time he signed the Form 10-K, Doktorczyk knew, or should have known, about two 
+               accounting errors/exposures that the Company had failed to correct in its books and 
+               records and about which the Company had failed to inform its independent auditor.   
+        
+       50.    On May 30, 2013, Doktorczyk and Bolles signed a letter to the Company’s audit 
+               firm representing that “there were no material transactions, agreements or accounts 
+               that have not been properly recorded in the accounting records underlying the 
+               consolidated financial statements.”  The materiality threshold in the letter was 
+               $500K.  At the time they signed the letter, Doktorczyk and Bolles knew, or should 
+               have known, about two issues—additional warranty accrual exposure (estimated to 
+               be $4.2M at the time) and failure to amortize intangibles (approx. $1.87M) —that 
+               exceeded the letter’s materiality threshold and had not been properly recorded in the 
+               Company’s books and records. 
+        
+       51.    On May 30, 2013, Doktorczyk certified that the Form 10-K did not contain any 
+               untrue statement of a material fact or omit to state a material fact necessary to make 
+               the statements made, in light of the circumstances under which such statements were 
+               made, not misleading with respect to the period covered by the Form 10-K.  
+               Doktorczyk also certified that the financial statements, and other financial 
+               information in the Form 10-K, fairly presented in all material respects the financial 
+               condition, results of operations and cash flows of LOGI for the period reported.  At 
+               the time he signed the certification, Doktorczyk knew, or should have known, of the 
+               errors/exposures concerning the warranty accrual and failure to amortize intangibles, 
+               and the effect of those errors/exposures on the financial statements and results of 
+               operations.   
+        
+       52.    Prior to the filing of the Company’s Form 10-K in May 2013, Bolles knew, or 
+               should have known, that LOGI’s internal accounting controls with respect to its 
+               warranty accrual were insufficient.  Bolles was not only aware of deficiencies with 
+               the AMR warranty model, but also knew, or should have known, that LOGI had 
+
+                                                11 
+ 
+---------------------Page 12---------------------
+
+               inadequate accounting controls over its warranty reserve in the EMEA region.  No 
+               later than January 2013, she had been informed that LOGI had not updated its 
+               warranty accrual calculation for two consecutive quarters in the EMEA region and, 
+               thus, she knew, or should have known, the Company did not have an adequate basis 
+               for the reserves it had recorded in those quarters. 
+                
+       53.    The misstatements and omissions with respect to the warranty accrual were 
+               material.  At the end of FY12, LOGI reserved $5.2M for its warranty obligations 
+               and reported net income of $71.5M.  Using an appropriate methodology (i.e., the 
+               model that LOGI subsequently proposed and adopted), the Company should have 
+               reserved $25.5M -- an under-accrual of over $21M.  Similarly, in FY13, LOGI’s 
+               accrual was over $17M lower than the GAAP-compliant model required.  
+                 
+       54.    On August 7, 2013, LOGI filed an amended Form 10-K for FY13, disclosing and 
+               correcting the warranty accrual and amortization expense errors, revising its 
+               financial statements for FY09 through FY13, and correcting its reporting on internal 
+               control.    
+                                      Revenue Recognition in AMR 
+                                        (Concerning the Company) 
+        
+       55.    From late FY08 through FY09, LOGI improperly recognized revenue for sales to 
+               its largest wholesale distributor (Distributor) in the AMR region. 
+                
+       56.    Historically, in its AMR region, most of LOGI’s sales were to wholesale 
+               distributors and large retailers.  For most sales, including those to Distributor, LOGI 
+               recognized revenue at the time it shipped products (net of reserves for estimated 
+               returns, incentives, price protection, and promotional programs).  This method of 
+               revenue recognition is frequently called “sell-in.” 
+        
+                             6
+       57.    Under GAAP      , to recognize revenue based on “sell-in,” LOGI had to meet certain 
+               criteria, including: LOGI’s price to Distributor had to be substantially fixed or 
+               determinable at the time of sale, LOGI had to transfer the risks and rewards of 
+               product ownership (principally, risk of loss) to Distributor, LOGI could not have 
+               any significant obligation to bring about the resale of the product, and LOGI had to 
+               be reasonably assured that it could collect payment from the seller. 
+        
+       58.    If LOGI could not meet the criteria for “sell-in” revenue recognition, then GAAP 
+               required the Company to recognize revenue only when it had met all the required 
+               criteria in GAAP, which was generally when the wholesale distributor (or retailer) 
+               sold the product to the next reseller (or end user) in the distribution chain. 
+
+                                                 
+6
+ Statement of Financial Accounting Standards No. 48 (“SFAS 48”), Revenue Recognition When Right of Return 
+Exists, which specifies the criteria a company must meet to recognize revenue at time of sale. This was subsequently 
+codified into the Accounting Standards Codification (“ASC”) as ASC 605-15-25 for FY10 and later. 
+ 
+                                                 12 
+ 
+---------------------Page 13---------------------
+
+        
+       59.    By the end of FY08, and through FY09, the facts and circumstances of LOGI’s 
+               relationship with Distributor required LOGI to recognize revenue based upon “sell-
+               through.”  Nevertheless, throughout FY09, the Company continued to recognize 
+               revenue from Distributor based upon “sell-in.”  
+ 
+              Logitech’s Course of Dealing with Distributor 
+        
+       60.    From at least FY07 though FY09, LOGI consistently made large end-of-quarter 
+               sales to Distributor in a “hockey stick” pattern: modest sales in the first two months, 
+               with a sharp increase in sales in the quarter’s final weeks.  
+                 
+       61.    In order to encourage Distributor to purchase excess product, LOGI provided 
+               incentives to reach quarterly purchase thresholds, provided discounts for bulk 
+               container sales, and gave discounts for large, lump-sum payments of overdue 
+               invoices at quarter-end. 
+        
+       62.    To meet its sales numbers, LOGI sold excess quantities of certain products to 
+               Distributor with the understanding that LOGI would assist Distributor in selling the 
+               products or would allow Distributor to return the products outside of the return 
+               period or in excess of the contractual return rights.  When Distributor returned 
+               products, LOGI credited the full invoice price and allowed Distributor to keep the 
+               incentives and discounts. 
+        
+       63.    Because of LOGI’s selling significant amounts of lower-demand goods, Distributor 
+               had excess inventory of LOGI product and, as a result, withheld payment until 
+               LOGI provided a plan for reducing Distributor’s inventory.  Although Distributor 
+               had title to the inventory, Distributor considered the inventory to be “owned” only 
+               if it had paid LOGI for that inventory. 
+        
+       64.    To facilitate payment of past-due invoices, LOGI negotiated discounts based, in 
+               part, on Distributor’s amount of “owned” inventory.  During FY09, LOGI gave 
+               Distributor nearly $3M in such discounts.  Although LOGI had established a 
+               pattern of offering and negotiating these end-of-quarter payment discounts going 
+               back to FY07, LOGI did not accrue for them at the time of sale/shipment. 
+        
+       65.    Distributor viewed the discounts as “owned” inventory discounts that were intended 
+               to compensate Distributor for its carrying costs of excess inventory.  LOGI’s 
+               practice of using discounts to obtain payment of past-due invoices and negotiating 
+               discounts based, in part, on “owned” inventory levels was inconsistent with the 
+               GAAP requirement that the price at the time of sale be fixed or determinable. 
+        
+                
+                
+
+                                                13 
+ 
+---------------------Page 14---------------------
+
+               LOGI’s Attempts to Alleviate Excess Inventory Levels at Distributor 
+        
+       66.    Given the facts and circumstances of its business with Distributor, LOGI should 
+               have recognized revenue using the “sell-through” model no later than Q408.  
+               Instead, in FY09, LOGI attempted to alleviate the large build-up of inventory by 
+               finding buyers for Distributor’s excess inventory, arranging “sideways” 
+               transactions, and allowing Distributor to return excess amounts of product.  In 
+               effect, LOGI treated Distributor as an additional warehouse for inventory.  
+                
+       67.    Throughout FY09, LOGI assisted Distributor in finding buyers for the excess 
+               inventory that Distributor had purchased under generous incentives.   
+        
+       68.    Despite Distributor’s elevated inventories of LOGI product, LOGI continued to 
+               make large end-of-quarter sales to Distributor in FY09, selling some products even 
+               though Distributor already had excess quantities.  
+        
+       69.    In Q209 and Q309, in an effort to reduce Distributor’s inventory, LOGI authorized 
+               extra-contractual returns and arranged “sideways” transactions or “channel to 
+               channel” sales, in which LOGI would find a purchaser, have the product returned or 
+               transferred from Distributor’s warehouse, and insulate Distributor from losing 
+               money on the sale.  In Q209 and Q309, LOGI also accepted millions of dollars of 
+               excess returns from Distributor.  LOGI characterized some of the returns as 
+               “sideways” transactions, claiming that the Company needed the inventory to satisfy 
+               a customer in another of its channels, and requesting that Distributor return the 
+               product. 
+        
+       70.    LOGI actively sought buyers for Distributor’s inventory at lower prices than 
+               Distributor had paid, and then protected Distributor from losing money on the 
+               transactions.  Specifically, LOGI credited Distributor at the original invoice price 
+               for the extra-contractual returns and then re-sold the product at lower prices. 
+        
+       71.    Despite LOGI’s efforts to reduce Distributor’s inventory levels, Distributor still had 
+               excessive inventory of LOGI product in late FY09.  As a result, LOGI and 
+               Distributor negotiated a special return of $12.5M of products, much of which LOGI 
+               had sold to Distributor over a year earlier.  LOGI scrapped some of that product  
+               shortly after it was returned. 
+                
+       72.    Along with the other concessions LOGI gave to Distributor in FY09, the special 
+               return was an  indication that LOGI should not have recognized revenue on sales to 
+               Distributor upon “sell-in” in FY 09.  Instead, GAAP required that LOGI recognize 
+               revenue from Distributor only upon Distributor’s sale of the product.   
+ 
+       73.    If LOGI had switched to a “sell-through” model for Distributor at the beginning of 
+               FY09, as required by GAAP (assuming all general revenue recognition criteria 
+
+                                                14 
+ 
+---------------------Page 15---------------------
+
+              were achieved upon “sell-through”), LOGI’s gross sales would have been $52M 
+              lower in FY09.  Given LOGI’s reported operating income of $109M and gross 
+              margins of 31.3%, LOGI materially overstated its operating income by 
+              approximately $16.2M in FY09, as a result of its improperly recognizing revenue 
+              from Distributor. 
+ 
+                                           Violations 
+        
+       74.    As a result of the conduct described above, Logitech violated Sections 10(b), 13(a), 
+              13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act, and Rules 10b-5, 12b-20, 13a-1, 
+              13a-11, and 13a-13 thereunder. 
+        
+       75.    As a result of the conduct described in Paragraphs 28-54 above, Doktorczyk 
+              violated Section 13(b)(5) of the Exchange Act, and Rules 13a-14, 13b2-1 and 13b2-
+              2 thereunder, and caused Logitech’s violations of Sections 13(a), 13(b)(2)(A) and 
+              13(b)(2)(B) of the Exchange Act, and Rules 12b-20, 13a-1, 13a-11 and 13a-13 
+              thereunder. 
+        
+       76.    As a result of the conduct described in Paragraphs 28-54 above, Bolles violated 
+              Rule 13b2-1 promulgated under the Exchange Act, and caused Logitech’s 
+              violations of Sections 13(a), 13(b)(2)(A) and (B) of the Exchange Act, and Rules 
+              12b-20, 13a-1, 13a-11 and 13a-13 thereunder. 
+                
+                                 Logitech’s Remedial Efforts 
+
+       In determining to accept the Offers, the Commission considered remedial acts promptly 
+undertaken by LOGI and the cooperation LOGI afforded the Commission staff.  
+
+                                              IV. 
+                                                 
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondents’ Offers. 
+ 
+       Accordingly, pursuant to Section 21C of the Exchange Act, it is hereby ORDERED that: 
+ 
+       A.     Respondent Logitech International, S.A. shall cease and desist from committing or 
+              causing any violations and any future violations of Sections 10(b), 13(a), 
+              13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act, and Rules 10b-5, 12b-20, 13a-1, 
+              13a-11, and 13a-13 thereunder. 
+               
+       B.     Respondent Michael Doktorczyk shall cease and desist from committing or causing 
+              any violations and any future violations of Sections 13(a), 13(b)(2)(A), 13(b)(2)(B), 
+              and 13(b)(5) of the Exchange Act, and Rules 12b-20, 13a-1, 13a-11, 13a-13, 13a-14, 
+              13b2-1 and 13b2-2 thereunder. 
+
+                                               15 
+ 
+---------------------Page 16---------------------
+
+        
+       C.     Respondent Sherralyn Bolles shall cease and desist from committing or causing any 
+               violations and any future violations of Sections 13(a), 13(b)(2)(A), 13(b)(2)(B) of 
+               the Exchange Act, and Rules 12b-20, 13a-1, 13a-11, 13a-13, and 13b2-1 thereunder. 
+        
+       D.     Respondent Logitech International, S.A. shall, within ten (10) days of the entry of 
+               this Order, pay a civil money penalty in the amount of $7,500,000 to the Securities 
+               and Exchange Commission.  The Commission may distribute civil money penalties 
+               collected in this proceeding if, in its discretion, the Commission orders the 
+               establishment of a Fair Fund pursuant to 15 U.S.C. § 7246, Section 308(a) of the 
+               Sarbanes-Oxley Act of 2002, as amended. The Commission will hold funds paid 
+               pursuant to this paragraph in an account at the United States Treasury pending a 
+               decision whether the Commission, in its discretion, will seek to distribute funds or, 
+               subject to Exchange Act Section 21F(g)(3), transfer them to the general fund of the 
+               United States Treasury.  If timely payment is not made, additional interest shall 
+               accrue pursuant to 31 U.S.C. § 3717. 
+        
+       E.     Respondent Michael Doktorczyk shall, within ten (10) days of the entry of this 
+               Order, pay a civil money penalty in the amount of $50,000 to the Securities and 
+               Exchange Commission.  The Commission may distribute civil money penalties 
+               collected in this proceeding if, in its discretion, the Commission orders the 
+               establishment of a Fair Fund pursuant to 15 U.S.C. § 7246, Section 308(a) of the 
+               Sarbanes-Oxley Act of 2002, as amended. The Commission will hold funds paid 
+               pursuant to this paragraph in an account at the United States Treasury pending a 
+               decision whether the Commission, in its discretion, will seek to distribute funds or, 
+               subject to Exchange Act Section 21F(g)(3), transfer them to the general fund of the 
+               United States Treasury.  If timely payment is not made, additional interest shall 
+               accrue pursuant to 31 U.S.C. § 3717. 
+        
+       F.     Respondent Sherralyn Bolles shall pay a civil penalty of $25,000 to the Securities 
+               and Exchange Commission.  The Commission may distribute civil money penalties 
+               collected in this proceeding if, in its discretion, the Commission orders the 
+               establishment of a Fair Fund pursuant to 15 U.S.C. § 7246, Section 308(a) of the 
+               Sarbanes-Oxley Act of 2002, as amended. The Commission will hold funds paid 
+               pursuant to this paragraph in an account at the United States Treasury pending a 
+               decision whether the Commission, in its discretion, will seek to distribute funds or, 
+               subject to Exchange Act Section 21F(g)(3), transfer them to the general fund of the 
+               United States Treasury.  Payment shall be made in the following installments: 
+               $12,500, within ten days of the date of this Order; $12,500 by January 31, 2017.  If 
+               any payment is not made by the date the payment is required by this Order, the 
+               entire outstanding balance of the civil penalty, plus any additional interest accrued 
+               pursuant to 31 U.S.C. § 3717, shall be due and payable immediately, without further 
+               application. 
+        
+
+                                                16 
+ 
+---------------------Page 17---------------------
+
+       G.       Payment must be made in one of the following ways:   
+ 
+               (1)    Respondents may transmit payment electronically to the Commission, 
+                      which will provide detailed ACH transfer/Fedwire instructions upon 
+                      request;  
+                
+               (2)    Respondents may make direct payment from a bank account via Pay.gov 
+                      through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or  
+                
+               (3)    Respondents may pay by certified check, bank cashier’s check, or United 
+                      States postal money order, made payable to the Securities and Exchange 
+                      Commission and hand-delivered or mailed to:  
+ 
+               Enterprise Services Center 
+               Accounts Receivable Branch 
+               HQ Bldg., Room 181, AMZ-341 
+               6500 South MacArthur Boulevard 
+               Oklahoma City, OK 73169 
+ 
+       Payments by check or money order must be accompanied by a cover letter identifying 
+Logitech International, S.A., Michael Doktorczyk, or Sherralyn Bolles as a Respondent in these 
+proceedings, and the file number of these proceedings; a copy of the cover letter and check or 
+money order must be sent to Gerald Hodgkins, Esq., Division of Enforcement, Securities and 
+Exchange Commission, 100 F St., NE, Washington, DC 20549-6561.   
+ 
+       O.      Such civil money penalty may be distributed pursuant to Section 308(a) of the 
+Sarbanes-Oxley Act of 2002, as amended (“Fair Fund distribution”).  Regardless of whether any 
+such Fair Fund distribution is made, amounts ordered to be paid as civil money penalties pursuant 
+to this Order shall be treated as penalties paid to the government for all purposes, including all tax 
+purposes.  To preserve the deterrent effect of the civil penalty, Respondents agree that in any 
+Related Investor Action, Respondents shall not argue that Respondents are entitled to, nor shall 
+they benefit by, offset or reduction of any award of compensatory damages by the amount of any 
+part of Respondents’ payment of a civil penalty in this action ("Penalty Offset").  If the court in any 
+Related Investor Action grants such a Penalty Offset, Respondents agree that they shall, within 30 
+days after entry of a final order granting the Penalty Offset, notify the Commission's counsel in this 
+action and pay the amount of the Penalty Offset to the Securities and Exchange Commission.  Such 
+a payment shall not be deemed an additional civil penalty and shall not be deemed to change the 
+amount of the civil penalty imposed in this proceeding.  For purposes of this paragraph, a "Related 
+Investor Action" means a private damages action brought against Respondent by or on behalf of 
+one or more investors based on substantially the same facts as alleged in the Order instituted by the 
+Commission in this proceeding. 
+                               
+
+                                               17 
+ 
+---------------------Page 18---------------------
+
+                                                 V. 
+
+       It is further Ordered that, for purposes of exceptions to discharge set forth in Section 523 of 
+the Bankruptcy Code, 11 U.S.C. §523, the findings in this Order are true and admitted by 
+Respondent, and further, any debt for disgorgement, prejudgment interest, civil penalty or other 
+amounts due by Respondent under this Order or any other judgment, order, consent order, decree 
+or settlement agreement entered in connection with this proceeding, is a debt for the violation by 
+Respondent of the federal securities laws or any regulation or order issued under such laws, as set 
+forth in Section 523(a)(19) of the Bankruptcy Code, 11 U.S.C. §523(a)(19). 
+
+ 
+                    
+       By the Commission. 
+ 
+ 
+ 
+                                                      Brent J. Fields 
+                                                      Secretary 
+ 
+
+                                                 18 
+ 

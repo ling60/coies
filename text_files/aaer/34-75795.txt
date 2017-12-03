@@ -1,0 +1,764 @@
+---------------------Page 1---------------------
+
+                           UNITED STATES OF AMERICA 
+                                       Before the 
+                    SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 75795 / August 31, 2015 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3680 / August 31, 2015 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No.  3-16773 
+ 
+                                              
+                                               ORDER INSTITUTING PUBLIC 
+      In the Matter of                          ADMINISTRATIVE PROCEEDINGS 
+                                               PURSUANT TO SECTION 4C OF THE 
+      JOHNSON LAMBERT LLP, and                 SECURITIES EXCHANGE ACT OF 
+      BRADLEY SCOTT DIERICX, CPA               1934 AND RULE 102(e) OF THE 
+                                                COMMISSIONS RULES OF 
+      Respondents.                             PRACTICE, MAKING FINDINGS, AND 
+                                               IMPOSING REMEDIAL SANCTIONS 
+ 
+ 
+                                           I. 
+                                             
+      The Securities and Exchange Commission (Commission) deems it appropriate that public 
+administrative proceedings be, and hereby are, instituted against Johnson Lambert LLP (Johnson 
+Lambert) and Bradley Scott Diericx, CPA (Diericx) (collectively, the Respondents), pursuant 
+to Sections 4C1
+              of the Securities Exchange Act of 1934 (Exchange Act) and Rule 102(e)(1)(ii) of 
+the Commissions Rules of Practice.2
+                                  
+ 
+
+                                                           
+1
+      Section 4C provides, in relevant part, that: 
+             The Commission may censure any person, or deny, temporarily or permanently, 
+             to any person the privilege of appearing or practicing before the Commission in 
+             any way, if that person is found . . . (1) not to possess the requisite qualifications 
+             to represent others . . . (2) to be lacking in character or integrity, or to have 
+             engaged in unethical or improper professional conduct; or (3) to have willfully 
+             violated, or willfully aided and abetted violations of, any provisions of the 
+             securities laws or the rules and regulations thereunder. 
+              
+2
+       Rule 102(e)(1)(ii) provides, in relevant part, that: 
+             The Commission may . . . deny, temporarily or permanently, the privilege of 
+             appearing or practicing before it . . . to any person who is found . . . to have 
+             engaged in unethical or improper professional conduct. 
+---------------------Page 2---------------------
+
+                                               II. 
+                                                 
+       In anticipation of the institution of these proceedings, Respondents have submitted Offers 
+of Settlement (the Offer) which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the findings 
+herein, except as to the Commissions jurisdiction over them and the subject matter of these 
+proceedings, which are admitted, Respondents consent to the entry of this Order Instituting Public 
+Administrative Proceedings Pursuant to Section 4C of the Securities Exchange Act of 1934 and 
+Rule 102(e) of the Commissions Rules of Practice, Making Findings, and Imposing Remedial 
+Sanctions (Order), as set forth below. 
+ 
+                                               III. 
+                                                 
+       On the basis of this Order and Respondents Offers, the Commission finds 3
+                                                                                  that: 
+                                                 
+A.     SUMMARY 
+                                                 
+       1.      These proceedings arise out of Johnson Lambert s and Diericxs improper 
+professional conduct in their audit s of the financial statements of Maven Assurance Limited 
+(Maven Assurance) and Maven Life International Limited  (Maven Life)  (collectively, the 
+Maven Entities) for the years ended December 31, 2009 and December 31, 2010.  The audits 
+failed to comply with Generally Accepted Auditing Standards (GAAS) in many critical 
+respects, which resulted in the issuance of audit reports containing unqualified opinions that were 
+not supported by sufficient appropriate audit evidence.  Specifically, Johnson Lambert and 
+Diericx failed to exercise due professional care, failed to adequately staff the Maven audits, 
+failed to obtain sufficient appropriate audit evidence regarding the existence and valuation of the 
+Maven Entities purported investments in hedge funds and alternative investments managed by 
+Nikolai Battoo, and failed to exercise professional skepticism by overlooking red flags and other 
+warnings.  Due to these audit failures , Johnson Lambert and Diericx failed to detect that the 
+Maven Entities purported investments with Battoo either did not exist or had lost virtually all of 
+their value.   
+        
+       2.      Johnson Lambert and Diericx were aware that the Maven Entities prior auditor 
+had issued a qualified opinion in the prior year due to its inability to obtain sufficient audit 
+evidence regarding the existence and valuation of the investments with Battoo, which constituted 
+the majority of the Maven Entities assets.  They were also aware that the Maven Entities did not 
+have processes in place to value the investments with Battoo.  Nevertheless, Johnson Lambert 
+assembled an audit engagement team that lacked experience auditing alternativ  e investments, 
+and the engagement team failed to perform adequate substantive procedures to address these 
+risks.   
+                                                 
+
+                                                           
+3
+       The findings are made pursuant to Respondent   s Offers  of Settlement and are not binding 
+on any other person or entity in this or any other proceeding. 
+
+                                                2 
+---------------------Page 3---------------------
+
+B.     RESPONDENTS 
+                                                
+       3.     Johnson Lambert LLP is an accounting firm headquartered in Falls Church, 
+Virginia.  Johnson Lambert provides services to public companies registered with the Commission 
+and has been registered with the Public Company Accounting Oversight Board (PCAOB) since 
+2003.  Johnson Lamb ert conducted audits of the financial statements of the Maven Entities for the 
+years ended December 31, 2009 and December 31, 2010.  
+        
+       4.     Bradley Diericx (Diericx), age 42, is a resident of Wheaton, Illinois and a 
+certified public accountant (CPA) licensed in the state of Illinois.  From June 2009 to September 
+2012, Diericx was a partner at Johnson Lambert and was the engagement partner for Johnson 
+Lamberts audits of the Maven Entities financial statements for the years ending December 31, 
+2009 and December 31, 2010.   
+
+C.     OTHER RELEVANT ENTITIES/PERSONS 
+                                                
+       5.     Nikolai Simon Battoo was an alternative investment manager who managed assets 
+using a variety of vehicles and entities.  From 2004 through 2012, Battoo raised more than $400 
+million from investors who directed their funds to his PIWM investment program and several 
+hedge funds he controlled.  Battoo acted as investment adviser to investors in his Private 
+International Wealth Management (PIWM) investment program through two entities that he 
+controlled:  BC Capital Group, S.A. (Panama) (BC Panama) and BC Capital Group Ltd. (Hong 
+Kong) (BC Hong Kong) (collectively the BC Capital entities).  In September 2012, the 
+Commission filed an emergency enforcement action in district court against Battoo and the BC 
+Capital entities, alleging that they defrauded investors located worldwide in violation of the 
+antifraud provisions of the federal securities laws and acted as unregistered broker-dealers (the 
+SEC Battoo Lawsuit).  On September 30, 2014, the district court entered a default judgment 
+against Battoo and the BC Capital entities, which included permanent injunctions and 
+disgorgement, prejudgment interest, and civil penalties totaling $358,129,196.86. 
+
+       6.     Maven Assurance L  td. and Maven Life International Ltd. were insurance 
+companies formed under the laws of Anguilla in 2006.  Maven Assurance offered investment 
+products in the form of a so-called captive insurance program to high-net-worth individuals 
+and small business owners.  Maven Life offered variable annuities.  The bulk of the funds that 
+investors directed to the Maven Entities were placed with Battoos PIWM investment program.  
+At the time the Commission  filed the SEC Battoo La wsuit, the Maven Entities clients believed 
+they had $95 million invested with Battoos PIWM.  In reality, Battoo lost or stole nearly all of 
+the Maven Entities funds.  The Maven Entities, which are now defunct, were never registered 
+with the Commission and had no disciplinary history. 
+
+       7.     Alliance Investment Management Limited (AIM) is a Bahamas -based company 
+that is registered as a broker-dealer with the Securities Commission of the Bahamas.  AIM is a 
+wholly-owned subsidiary of Benchmark Bahamas Limited, a publicly traded investment 
+company listed on the Bahamas International Securities Exchange.  AIM has never been 
+registered in any capacity with the Commission.  On August 8, 2014, the Commission filed 
+charges against AIM and its President Julian Brown, alleging that they engaged in fraud and 
+aided and abetted Battoos fraud.   
+
+                                              3 
+---------------------Page 4---------------------
+
+D.     FACTS 
+
+                              The Maven Entities Background 
+
+       8.     The Maven Entities offered insurance-linked investment options to U.S.-based 
+investors, mainly high net worth individuals and profitable small businesses.  Maven Life sold 
+variable annuities.  Maven Assurance purported to offer captive insurance products in which 
+the vast majority of the premium was invested at the direction of the investor.  The Maven 
+Entities touted their products as means of obtaining tax -deferred gains.  The Maven Entities were 
+based in Anguilla, but run by individuals located in the greater Chicago area. 
+        
+       9.     In 2006, the Maven Entities entered into investment management agreements with 
+BC Hong Kong, an entity managed and controlled by investment manager Nikolai Battoo   .  The 
+agreements gave BC Hong Kong discretion to manage the Maven Entities assets.  Since 2006, BC 
+Hong Kong purported to invest the majority of the Maven Assurances  assets into shares of hedge 
+funds (some controlled by Battoo) and in Battoos PIWM  investment program, a private 
+investment program that purported to invest primarily in alternative investments.  Maven Life 
+invested in PIWM beginning 2008.   
+
+                    Battoos Fraud and its Impact on the Maven Entities 
+
+       10.    Battoo oversaw a massive fraud that caused investors worldwide to lose hundreds 
+of millions of dollars.  Battoo touted himself as a highly successful alternative asset manager 
+who achieved exceptional risk-adjusted returns.  He concealed major losses in his hedge funds 
+and in his PIWM investment program and misappropriated PIWM investors assets for personal 
+use.     
+
+       11.    In 2008, Battoos hedge funds suffered major losses in several areas.  Battoos 
+hedge funds had made large, leveraged investments in Madoff feeder funds that suffered  total 
+losses as a result of the Madoff Ponzi scheme.  In addition, Battoos  hedge funds were invested 
+heavily in fund-linked certificates whose performance was linked to Phi R Squared, a hedge fund 
+managed by Battoo.  Phi R Squared suffered substantial losses in 2008 based on impairments 
+caused by the financial crisis.  As a result, the fund  -linked certificates lost approximately 85% of 
+their value.  Battoos PIWM investment program also suffered substantial losses in 2008 due to 
+its high concentration of exposure to Battoos hedge funds.  Rather than disclose the losses t o 
+existing and prospective PIWM investors, Battoo concealed the losses by reporting fictitious 
+strong investment returns in investment reports and marketing materials.  He created fictitious 
+account statements and verification reports on the letterhead of AIM, a Bahamas-based broker-
+dealer.  AIM  acted as  PIWMs custodian.  At Battoos behest, AIM sent account statements and 
+verification reports to investors and their agents.  Battoo exacerbated the PIWM investor losses 
+by stealing investor funds to support his extr avagant lifestyle.   
+
+       12.    On September 6, 2012, the Commission filed an emergency injunctive action in 
+U.S. district court against Battoo and the entities he controlled.  The Commissions complaint 
+alleged violations of: Section 17(a) of the Securities Act of 1933 (Securities Act); Sections 
+10(b) and 15(a) of the Exchange Act and Rule 10b -5 thereunder; and Section 206(4) of the 
+Investment Advisers Act  of 1940 (Advisers Act)  and Rule 206(4) -8 thereunder.  On September 
+
+                                               4 
+---------------------Page 5---------------------
+
+30, 2014, the district court entered a default judgment permanently enjoining Battoo and his BC 
+Capital companies from violating Section 17(a) of the Securities Act; Sections 10(b) and 15(a) of 
+the Exchange Act and Rule 10b-5 thereunder; and Section 206(4) of the Advisers Act and Rule 
+206(4)-8 thereunder.  The district court also ordered Battoo and his two BC Capital entities to 
+pay disgorgement, prejudgment interest, and penalty, imposed jointly and severally, totaling 
+$358,129,196.86.  
+
+       13.    The Maven Entities collectively invested nearly $95 million with Battoo.  The 
+Battoo investments represented approximately 78% of the Maven Entities   assets.  From 2006 
+until the Commission filed the SEC Battoo Lawsuit in September 2012, the Maven Entities 
+believed that Battoo had their assets custodied at AIM.  In fact, the Maven Entities AIM 
+accounts held a small fraction of the assets reported to the Maven Entities on their account 
+statements.  
+
+                                 Audits of the Maven Entities 
+
+       14.    The Maven Entities hired independent auditors to perform annual audits of their 
+financial statements.  Audit Firm A audited the Maven Entities 2006 financial statements, while 
+Audit Firm B audited the Maven Entities 2007 and 2008 financial statements.  Audit Firm A 
+issued a qualified opinion on Maven Assurances 2006 financial statements because the firm did 
+not have the necessary information to perform valuation procedures on Maven Assurances 
+investments in the PIWM program, which constituted approximately 60% of Maven Assurances 
+assets.  Likewise, Audit Firm B, who conducted the 2007 and 2008 audits of the Maven Entities, 
+issued qualified opinions for the 2007 and 2008 Maven Assurance audits due to its inability to 
+obtain reliable audit evidence regarding the existence and valuation of the investments with Battoo. 
+
+       15.    The Maven Entities decided to switch auditors yet again for the 2009 audit.  The 
+Maven Entities retained Johnson Lambert to audit the Maven Entities 2009 financial statements.  
+
+       16.    Diericx served as the engagement partner for the audits.  Diericx lacked 
+experience dealing with issues that were prevalent in the audits.  Before Johnson Lambert 
+accepted the engagement, Diericx emailed Johnson Lamberts managing partner and a Johnson 
+Lambert tax partner about the engagement.  In the emails subject line, Diericx simply wrote 
+Help.  He noted that Maven Assurances prior financials had a qualified opinion and other 
+problematic things.  In the email, Diericx acknowledged that he had never dealt with valuations of 
+foreign hedge funds or the [r]amifications/tax risks on what this thing is.  He asked for their 
+opinion on whether Johnson Lambert should accept the engagement.  The managing partner 
+responded, noting that the prior auditors qualified opinion was based on its inability to get audited 
+financial statements for a hedge fund investment and audit evidence to support the existence and 
+value of another investment.  The managing partner said that unless something has changed in 
+available evidence, Johnson Lambert would have the same opinion issue.   
+
+       17.    Johnson Lambert accepted the engagement.  It assigned Diericx  as engagement 
+partner, despite his lack of experience dealing with the very issues that were the cause of the prior 
+auditors qualified opinion  that is, the valuation of foreign hedge funds.  To  attempt to 
+compensate for Diericxs inexperience, Johnson Lamberts partner responsible for quality control 
+over accounting and auditing practice sent Diericx a link to the American Institute of Certified 
+
+                                               5 
+---------------------Page 6---------------------
+
+Public Accountants (AICPA) Practice Guide to Auditing Alternative Investments  4
+                                                                                    and assigned 
+engagement quality control reviewers that the firm believed had expertise in audits involving 
+alternative investments.   
+
+       18.    In fact, no one on the engagement team had experience dealing with thes e types of 
+investments.  No one made the engagement   quality control reviewers aware of the engagement 
+teams lack of experience, the risks associated with the engagement, or the problems with the prior 
+audits that led to reports with qualified opinions, nor did anyone instruct the engagement quality 
+control reviewers to devote more effort to the review given the circumstances. 
+
+       19.    Diericx completed both the 2009 and 2010 audit   s of the Maven Entities.  Johnson 
+Lambert issued audit reports with unqualified opinions for each entity in both years.  The 2009 
+and 2010 audit reports for Maven Assurance and Maven Life stated that Johnson Lambert 
+audited the Maven Entities financial statements in accordance with GAAS   and expressed its 
+opinion that the financial statements presented fairly, in all material respects, the financial 
+position of the Maven Entities as of December 31, 2009 and December 31, 2010, in accordance 
+with U.S. generally accepted accounting principles (GAAP).  The  investments in  Battoo s 
+alternative investment program constituted approximately 79% of the Maven Entities total 
+assets according to their  2009 and 2010 financial statements. 
+
+              Johnson Lamberts and Diericxs improper professional conduct 
+
+       20.    Contrary to the representations in the audit reports, Johnson Lamberts audits 
+were not conducted in accordance with GAAS.  Johnson Lambert and Diericx deviated from 
+GAAS in many critical respects that resulted in the issuance of audit reports with unqualified 
+opinions that were not supported by sufficient appropriate audit evidence.    
+
+Johnson Lambert and Diericx  failed to  exercise due professional care and to adequately staff the 
+Maven Entity audits. 
+
+       21.    GAAS require s auditors to exercise due professional care in the planning and 
+performance of the audit and the preparation of the report.  AU §  230.01-02.5
+                                                                               Auditors should 
+be assigned to tasks and supervised commensurate with their level of knowledge, skill, and 
+ability, so that they can evaluate the audit evidence they are examining.  The auditor with final 
+responsibility for the engagement should know, at a minimum, the relevant professional 
+accounting and auditing standards, and should be  knowledgeable about the client.  AU § 230.06.  
+Auditors must have adequate technical training and proficiency to perform the audit, and the firm 
+                                                           
+4
+       In 2006, the AICPAs Alternative Investment Task Force developed and issued a practice 
+aid for auditors titled Alternative Investments  Audit Considerations (AICPA Alternative 
+Investment Aid).  As noted in the publication, the information in it is intended to provide 
+guidance to auditors and may help the auditor understand and apply the Statements on 
+Auditing Standards .  According to Johnson Lambert personnel, they considered this practice aid 
+to be the best source of audit guidance on alternative investments.   
+ 
+5
+       Citations to AU are citations to Statements on Auditing Standards issued by the AICPA 
+in effect at the time of the relevant conduct. 
+
+                                                6 
+---------------------Page 7---------------------
+
+should consider in accepting or continuing the client engagement whether it has sufficient 
+personnel with the necessary capabilities and competence.  AU § 210.01;  QC § 10.31.  6
+                                                                                         Auditors 
+should consider whether special ized skills are needed to perform the audit and seek the 
+assistance of a professional possessing such skills.  AU § 311.22. 
+
+       22.     Diericx and Johnson Lambert   lacked an  understanding of applicable U.S. 
+professional auditing standards for staffing and planning the Maven audits.  Johnson Lambert  
+failed to staff the Maven Entities audits with audit  staff with adequate competence and 
+experience to perform the audits, and otherwise failed to compensate for the audit staffs lack of 
+competence through other means.  Though alternative investments constituted most of the 
+Maven Entities assets, Diericx lacked adequate professional training to audit the existence and 
+value of such assets.    
+
+       23.     The only steps Johnson Lambert  took to attempt to compensate for Diericxs lack 
+of competence and experience with alternative investments   was to provide Diericx with the 
+AICPA Alternative Investment Aid and to appoint engagement quality control reviewers     with 
+alternative investment experience.  However, the assigned reviewers were not members o   f the 
+engagement team and, consistent with AICPA sta   ndards, they  did not participate in the planning 
+or performance of the Maven Entities audit s or in the gathering of audit evidence.  QC § 10.94-
+95; see also  QC §10.82 (the engagement partner [is] responsible for the engagement and its 
+performance, notwithstanding involvement of the engagement qualit   y control reviewer).  In 
+fact, Johnson Lamberts policies and procedures prohibited the engagement quality control 
+reviewer from participating in the performance of the engagement, and provided that significant 
+consultation between the engagement team and the engagement quality control reviewer during 
+the audit could necessitate assignment of a new engagement quality control reviewer.  Bec ause 
+the engagement quality control reviewers had no substantive involvement in the Maven    Entities  
+audits, they did little to compensate for Diericxs incompetence and inexperience.  Johnson 
+Lambert did not take any steps to assess whether the engagement team was consulting with 
+others with the necessary expertise, or to ensure that the engagement quality control reviewers 
+devoted more effort to their review in light of Diericxs lack of experience. 
+
+Johnson Lambert and Diericx  failed to obtain sufficient appropriat e audit evidence to support its 
+audit opinion on the Maven Entities financial statements. 
+
+       24.     Auditors must obtain sufficient appropriate audit evidence by performing audit 
+procedures to afford a reasonable basis for an opinion regarding the financial statements under 
+audit.  AU § 326.01.  Johnson Lambert and Diericx failed to plan and perform sufficient 
+substantive audit procedures to obtain sufficient appropriate audit evidence of the existence and 
+valuation of the Maven Entities investments with Battoo, and otherwise failed to properly evaluate 
+the reliability of third-party information concerning those investments. 
+
+       25.     Once an audit team identifies risks of material misstatement at the financial 
+statement level, the auditor should plan and perform substantive procedures to be responsive to 
+the related assessment of the risk of material misstatement.  AU § 318.50.  The auditor should 
+                                                           
+6
+       Citations to QC are citations to Statements on Quality Control Standards issued by the 
+AICPA in effect at the time of the relevant conduct. 
+
+                                                7 
+---------------------Page 8---------------------
+
+design tests of details responsive to the assessed risk with the objective of obtaining sufficient 
+appropriate audit evidence to achieve the planned level of assurance at the relevant assertion 
+level.  AU § 318.56.   
+
+       26.     With respect to auditing investments in securities, auditors should use the 
+assessed levels of inherent risk and control risk for assertions about the securities to determine 
+the nature, timing, and extent of the substantive procedures to be performed to detect material 
+misstatements of the financial statement assertions.  AU § 332.19.  Substantive procedures to test 
+existence of securities may include confirmation with the issuer of the security, physical 
+inspection of the security, and reading or inspecting underlying agreements or other forms of 
+supporting documentation.  AU § 332.21.  Auditors    should also obtain evidence supporting 
+managements assertions about the fair value of securities measured or disclosed at fair value.  
+AU § 332.35. 7
+                When the valuation of inves tments in securities is based on fair value, the auditor 
+should test the entitys fair value measurements and disclosures, which may involve , among 
+other things, testing managements significant assumptions, the valuation model, and the 
+underlying data, or developing independent fair value estimates for corroborative purposes .  AU 
+§ 328.23.  In circumstances in which the auditor determines that the nature and extent of 
+auditing procedures should include verifying the existence and testing the measurement of 
+investments in securities, simply receiving a confirmation from a third party, either in aggregate 
+or on a security-by-security basis, does not in and of itself constitute adequate audit evidence 
+with respect to the valuation assertion in section 332.  AU § 9332.02.  Furthermore, receiving 
+confirmation from a third party for investments in aggregate does not constitute adequate audit 
+evidence with respect to the existence assertion.  Id. 
+
+       27.     Johnson Lambert and Diericx identified certain risk s with respect to the existence 
+and value of the Maven Entities investments even before they accepted the engagement.  They 
+knew that the previous auditors inability to obtain audit evidence of the existence and value of 
+the Maven Entities alternative investments resulted in the issuance of reports with qualified 
+opinions.  Nevertheless, they accepted and completed the engagement   s without planning or 
+performing sufficient substantive procedures to address the existence assertion and the valuation 
+assertion regarding these investments.  
+
+       28.     According to Maven Assurances financial statements and account statements     
+provided by AIM and PIWM, Maven Assurance purportedly had more than $75 million invested 
+in Battoos PIWM program during 2009 and 2010, or 78% of its total assets , which consisted 
+primarily of hedge funds as well as other  managed accounts comprised of alternative 
+investments.  Likewise, Maven Life purportedly had more than $5 million invested in PIWM s 
+alternative investment strategies in 2009 and more than $10 million in 2010, representing more 
+than 80% of its total assets.   
+
+       29.     Although the investments in Battoos PIWM program constituted the majority of 
+the Maven Entities assets, Johnson Lambert   and  Diericx never  attempted to contact the 
+managers of the underlying hedge fund investments    in PIWM to confirm the Maven Entities 
+                                                           
+7
+       Generally accepted accounting principles may require that a security be valued based on 
+cost, the investees financial results, or fair value.  AU § 332.26.  The Maven Entities financial 
+statements purported to present investments at fair value. 
+
+                                                8 
+---------------------Page 9---------------------
+
+interests in the funds or to assess the reasonableness of the valuations in the Maven Entities 
+financial statements.  Instead, Johnson Lambert and Diericx took at face value confirmations 
+received from AIM, the purported custodian of the assets, and PIWM, the investment program 
+operated by Battoo.  They did so even though the confirmations provided little information about 
+the specific investments purportedly owned by the Maven Entities.    
+
+       30.    Had Johnson Lambert or  Diericx contacted  the hedge funds identified on the AI M 
+account statements, they may have discovered that the Maven Entities investments in those 
+hedge funds did not come close to matching  the investments reflected on the AIM account 
+statements.  Indeed, in most cases, the Maven Entities did not own any interest in the hedge 
+funds listed on the AIM account statements.  
+
+       31.    The AIM account statements and audit    confirmations  contained  virtually no  
+information about the purported investments held  by the Maven Entities in managed accounts.  
+The confirmations merely identified the name and purported strategy of the account  (e.g., 
+Alliance  PIWM  -I: Multi-Strategy Managed Futures & Commodities), and the dollar value of  
+each managed account.  Johnson Lambert    did not  attempt to determine what the underlying 
+investments were that constituted the managed accounts or the value of those investments .  The 
+AIM confirmations also included date discrepancies on their face (one AIM portfolio 
+confirmation for December 31, 2010 stated that it was as of 2/9/2010 with 12/31/2010 
+prices), which no one at Johnson Lambert  recognized during the audit s. 
+
+       32.    Rather than perform any additional substant ive testing of the existence and value 
+of the Maven Entities purported investments listed in the AIM audit confirmations, Johnson 
+Lambert and  Diericx relied on representations by Julian Brown, AIMs P resident, regarding the 
+existence and value of the investments.  They did so even though Brown acknowledged that AIM 
+did not monitor net asset values of the investments and directed Johnson Lambert to contact 
+advisors, sub-custodians, and fund managers with specific questions relating to the 
+confirmations.  Johnson Lambert  and  Diericx failed to acknowledge or follow -up on these red 
+flags. 
+
+       33.    The failure to perform adequate substantive audit procedures to test the existence 
+and value of the majority of the Maven Entities assets was particularly problematic in light of 
+Johnson Lamberts and Diericxs identification of internal control weaknesses in this area.  
+Management is responsible for making the fair value measurements and disclosures included in 
+the financial statements, which includes establishing an accounting and financial reporting 
+process for determining the fair value measurements and disclosures , selecting appropriate 
+valuation methods, identifying and adequately supporting any significant assumptions used, 
+preparing the valuation, and ensuring that the presentation and disclosure of the fair value 
+measurements are in accordance with GAAP.  AU  § 328.04.  In November, 2010, Johnson 
+Lambert issued a letter to the Maven Entities Board of Directors, which identified significant 
+deficiencies in the Maven Entities internal controls relating to their investments.  Johnson 
+Lambert noted that the Maven Entities did not have a process in place to independently evaluate 
+the fair value measurement procedures performed by its fund managers.  Yet the auditors  still 
+failed to design substantive procedures to test the valuations of the investments provided by third 
+parties or the assumptions underlying those valuations.  AU §§ 332.19, 35, 38-39, 41, 43.  
+Johnson Lambert and Diericx relied entirely on valuations provided by PIWM and AIM without 
+
+                                               9 
+---------------------Page 10---------------------
+
+any support for how those valuations were being calculated and without any information from 
+underlying hedge fund managers.   
+
+Johnson Lambert and Diericx  failed to exercise professional skepti cism by overlooking red-
+flags. 
+
+       34.    Due professional care requires an auditor to exercise professional skepticism, 
+which includes a questioning mind and a  critical assessment of audit evidence.  AU § 230.07.  
+In addition, the auditor should consider the competency and sufficiency of the evidence.  Since 
+evidence is gathered and evaluated throughout the audit, professional skepticism should be 
+exercised throughout the audit process.  AU § 230.08.  Auditors should also place emphasis on 
+testing material transactions with parties he/she knows are related to the reporting entity.  AU § 
+334.07. 
+
+       35.    Johnson Lambert and Diericx failed to exercise such skepticism.  They overlooked 
+red flags and other warning s in the course of the Maven audits.  For example, t he audit 
+confirmations Johnson Lambert   and Diericx sent to PIWM and AIM (the only  procedure around 
+the existence and valuation assertions performed by Johnson Lambert  and  Diericx) were 
+addressed to the same P.O. Box in Nassau, Bahamas.  Yet Johnson Lambert and Diericx 
+accepted the confirmation results without question at face value and without performing any 
+additional procedures related to the information contained in those confirmations.  See AU § 
+330.27 (in the confirmation process, [i]f information about the respondent's . . . objectivity and 
+freedom from bias with respect to the audited entity comes to the auditor's attention, the auditor 
+should consider the effects of such information on . . . evaluating the results, including 
+determining whether other procedures are necessary; where respondent is custodian of material 
+amount of audited entitys assets, auditor should exercise heightened degree of professional 
+skepticism); AU § 330.04 (confirmation process should include  [e]valuating the information  
+provided by the third party  including the reliability of that information.). 
+
+       36.    Johnson Lamberts internal workpapers disclosed that the custodian of the Maven 
+Entities investments was BC Hong Kong (not AIM), which was controlled by Battoo, and that 
+BC Hong Kong used AIM as a sub-custodian.  BC Hong Kong and BC Panama were 
+controlled by Battoo and closely related to AIM through Julian Brown, President of AIM, who 
+was on the Executive Board of BC Panama.   Further, the workpapers reflected that until May 
+2009, Maven and BC Hong Kong shared a common director.  These related party relationships 
+necessitated heightened professional skepticism and scrutiny by Johnson Lambert and Diericx.  
+In fact, Johnson Lambert and Diericx ignored these issues.   
+
+       37.    There were numerous other factors that should have caused Johnson Lambert and 
+Diericx to conduct their audits with a heightened degree of professional skepticism and consider 
+whether additional procedures or audit evidence was required, including: 
+
+              a.      The Maven Entities prior auditor told Diericx that it had issued reports 
+                      with qualified opinions, in part, because it was unable to obtain adequate 
+                      audit evidence of the existence of or the valuation of the Maven Entities 
+                      managed accounts allegedly held at AIM.   
+
+                                              10 
+---------------------Page 11---------------------
+
+               b.     The Maven Entities had no process in place to independently evaluate the 
+                      fair value measurement procedures performed by the funds purportedly 
+                      holding their assets. 
+
+               c.      The account statements Johnson Lambert received from AIM, the 
+                      purported custodian of the Maven Entities investments, contained as of 
+                      dates that did not match the year end date (                        e.g., for the 2010 audit, AIM 
+                      sent Johnson Lambert statements for 12/31/2010 prices but which were 
+                      as of 2/9/2010).  Johnson Lambert and Diericx made no additional 
+                      inquiries regarding the as of date discrepancies on the AIM account 
+                      statements. 
+
+E.     FINDINGS 
+
+       38.     Based on the foregoing, the Commission finds that Johnson Lambert and Diericx 
+engaged in improper professional conduct pursuant to Section 4C  (a)(2) of the Exchange Act and 
+Rule 102(e)(1)(ii) of the Commissions Rules of Practice. 8
+                                                             
+        
+F.     UNDERTAKINGS 
+        
+       39.     Review of Written Policies and Procedures.  Johnson Lambert shall, within sixty 
+(60) days after the entry of this Order, evaluate its existing written policies and procedures and 
+shall make such revisions as may be necessary in order to adopt, implement, and enforce written 
+policies and procedures to provide reasonable assurance that Johnson Lamberts audits are 
+conducted in compliance with  (a)  the relevant Commission regulations and  (b) audit and attest 
+standards relevant to appearing and practicing before the Commission.  Johnson Lambert shall 
+review and revise as necessary its written policies and procedures in the following areas:  (i) client 
+and engagement acceptance; (ii) the staffing of engagements; (iii) contact with and requests for 
+information from  prior auditors; (iv) performing proper risk assessment; (v) obtaining sufficient 
+appropriate audit evidence relating to investments in securities ; (vi) testing for valuation and 
+existence of investments in securities; (vii) auditing of alternative investments; (viii) third -party 
+confirmations; (ix) work paper review and signoff by engagement quality control reviewers; and 
+(x) related-party transactions and relationships.  
+        
+       40.     Retention of an Independent Consultant.  Johnson Lambert  shall retain, within sixty 
+(60) days after the entry of this Order, an independent consultant (Independent Consultant), not 
+unacceptable to the Commission staff.  Johnson Lambert will require the  Independent Consultant 
+to review and evaluate the audit and interim review policies and procedures of Johnson Lambert   
+regarding (i) client and engagement acceptance; (ii) the staffing of engagements; (iii) contact 
+                                                           
+8
+       Section 4C(b) and Rule 102(e)(1)(iv) define improper professional conduct with respect 
+to persons licensed to practice as accountants.  Pursuant to these provisions, improper 
+professional conduct includes two types of negligent conduct:  (1) a single instance of highly 
+unreasonable conduct that results in a violation of professional standards in circumstances where 
+heightened scrutiny is warranted; or (2) repeated instances of unreasonable conduct, each 
+resulting in violations of professional standards, that indicate a lack of competence. 
+
+                                               11 
+---------------------Page 12---------------------
+
+with and requests for information from prior auditors; (iv) performing proper risk assessment; (v) 
+obtaining sufficient appropriate audit evidence relating to investments in securities ; (vi) testing 
+for valuation and existence of investments in securities; (vii) auditing of alternative investments; 
+(viii) third-party confirmations; (ix) work paper review and signoff by engagement quality 
+control reviewers; and (x) related-party transactions and relationships.  Johnson Lambert will 
+require that the Independent Consultants review and evaluation assess the foregoing areas to 
+determine whether Johnson Lambert   s policies and procedures are adequate and sufficient to 
+ensure compliance with (a) the relevant Commission regulations and (b) audit and attest 
+standards relevant to appearing and practicing before the Commission.  Johnson Lambert   will 
+cooperate fully with the Independent Consultant and will provide reasonable access to firm 
+personnel, information, and records as the Independent Consultant may reasonably request for 
+the Independent Consultants reviews and evaluations.  Johnson Lambert will provide the 
+Commission staff a copy of the engagement letter detailing the scope of the Independent 
+Consultants responsibilities. 
+        
+       41.    Within ninety  (90) days of being retained,  Johnson Lambert will require the 
+Independent Consultant to issue a report (Report) to Johnson Lambert : (a) summarizing the 
+Independent Consultants review and evaluation; and (b) making recommendations, where 
+appropriate, reasonably designed to ensure that audits conducted by Johnson Lambert  com ply 
+with Commission regulations and relevant audit and attest standards.  At Johnson Lamberts 
+direction, the Independent Consultant will provide a copy of the Report to the Commission staff 
+when the Report is issued. 
+        
+       42.    Johnson Lambert will adopt, as soon as practicable, the recommendations of the 
+Independent Consultant in the Report.  Provided, however, that within thirty (30) days of issuance 
+of the Report, Johnson Lambert  may advise the  Independent Consultant in writing of any 
+recommendation that it considers to be unnecessary, unduly burdensome, or impractical.  
+Johnson Lambert need not adopt any such recommendation at that time, but instead may propose 
+in writing to the Independent Consultant and the Commiss ion staff an alternative policy or 
+procedure designed to achieve the same objective or purpose.  Johnson Lambert   and the 
+Independent Consultant will engage in good-faith negotiations in an effort to reach agreement on 
+any recommendations objected to by Johnson Lambert    . 
+        
+       43.    In the event that the Independent Consultant and Johnson Lambert   are unable to 
+agree on an alternative proposal within thirty (30) days, Johnson Lambert will abide b y the 
+determinations of the Independent Consultant. 
+        
+       44.    Within sixty (60) days of issuance of the Report, Johnson Lambert  will certify to 
+the Staff in writing that it has adopted and has implemented or will implement all 
+recommendations of the Independent Consultant (Certification of Compliance) .   
+        
+       45.    Johnson Lambert will require  the Independent Consultant to enter into an 
+agreement that provides that for the period of engagement and for a period of two years from 
+completion of the engagement, the Independent Consultant shall not enter into any employment, 
+consultant, attorney-client, auditing or other professional relationship with Johnson Lambert, or 
+any of its present or former affiliates, directors, officers, employees, or agents acting in their 
+
+                                               12 
+---------------------Page 13---------------------
+
+capacity.  The agreement will also provide that the Independent Consultant will require that any 
+firm with which he/she is affiliated or of which he/she is a member, and any person engaged to 
+assist the Independent Consultant in performance of his/her duties under this Order shall not, 
+without prior written consent of the Commissions Ch  icago Regional Office, enter into any 
+employment, consultant, attorney-client, auditing or other professional relationship with Johnson 
+Lambert, or any of its present or former affiliates, directors, officers, employees, or agents acting 
+in their capacity as such for the period of the engagement and for a period of two years after the 
+engagement. 
+        
+       46.     Johnson Lamberts Acceptance of New Public Company Audit Clients.  Johns on 
+Lambert shall not accept engagements for new clients for public company audits prior to the later 
+of one (1) year from the date of entry of this Order, or the date of issuance of the Certification of 
+Compliance.  A public company audit is defined as an engagement to audit the financial statements 
+of an issuer as that term is defined in Section 2(a)(7) of the Sarbanes-Oxley Act of 2002.  In 
+addition, Johnson Lambert shall not accept audit engagements for new clients pursuant to the 
+Exchange Act, the Securities Act, the Advisers Act, or the Investment Company Act of 1940, prior 
+to the later of one (1) year from the date of entry of this Order, or the date of issuance of the 
+Certification of Compliance. 
+        
+       47.     Training and Professional Development.  Johnson Lambert  shall establish, 
+implement, and enforce policies and procedures designed to provide reasonable assurances that 
+Johnson Lamberts professionals participate in professional development activities in accordance 
+with firm guidelines, in subjects that are relevant to their responsibilities, and will contribute to 
+their technical training and proficiency as auditor s.  Johnson Lambert  shall require each audit 
+professional to undergo a minimum of eight (8) hours of audit-related training on topics 
+including, but not limited to: (i) exercising due professional care and professional skepticism; (ii) 
+evaluating third party confirmations involving investments in securities ; (iii) audit planning, 
+including but not limited to the staffing of engagements, contact with and requests for 
+information from prior auditors, and performing proper risk assessment; (iv) obtaining sufficient 
+appropriate audit evidence; (v) auditing of alternative investments; (vi) related party transactions 
+and relationships; and (vii) adequate audit documentation relating to the above. 
+        
+       48.     Certification of Compliance.  Johnson Lambert shall certify , in writing, 
+compliance with the undertakings set forth above.  The certification shall identify the 
+undertakings, provide written evidence of compliance in the form of a narrative, and be 
+supported by exhibits sufficient to demonstrate compliance.  The Commission staff may make 
+reasonable requests for further evidence of compliance, and Respondent agrees to provide such 
+evidence.  The certification and supporting material shall be submitted to Jeffrey A. Shank, 
+Assistant Regional Director, Chicago Regional Office, 175 W. Jackson Boulevard, Suite 900, 
+Chicago, IL 60604, with a copy to the Office of Chief Counsel of the Enforcement Division, 100 
+F Street, N.E., Washington DC 20549, no later than sixty (60) days from the date of the 
+completion of the undertaking(s).   
+        
+       49.     Cooperation with the Commissions Investigation and Related Litigation .  Johnson 
+Lambert (including its partners, principals, officers, agents, and employees) and Diericx shall 
+cooperate fully with the Commission in any and all investigations, litigations, administrative and 
+
+                                               13 
+---------------------Page 14---------------------
+
+other proceedings commenced by the Commission or to which the Commission is a party relating 
+to or arising from the matters described in this Order.  In connection with such investigation, 
+litigation, administrative or other proceedings, Respondents agree to the following: (i) to produce, 
+without service of a notice or subpoena, any and all documents and other materials and information 
+as requested by the Commission; (ii) to appear and testify without service of a notice or subpoena 
+in such investigations, interviews, depositions, hearings, and trials, at such times and places as 
+reasonably requested by the Commission; and (iii) to respond promptly to all inquiries from the 
+Commission.  The foregoing obligations are subject to Johnson Lamberts and Diericxs rights:  (i) 
+to claim that documents or information requested is subject to attorney-client privilege or attorney 
+work product protection; and (ii) to seek entry of a confidentiality order as to (aa) sensitive 
+business documents or information, (bb) sensitive personnel documents or information, or (cc) 
+confidential information pertaining to clients other than the Maven Entities. 
+
+                                              IV. 
+
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondent Johnson Lamberts and  Diericxs Offer.  
+
+       Accordingly, it is hereby ORDERED, effective immediately, that:    
+
+       A.     Johnson Lambert is hereby censured. 
+
+       B.     Johnson Lambert shall comply with the undertakings enumerated in Section III, 
+              paragraphs 39 to 49 above  . 
+
+       C.     Diericx is denied the privilege of appearing or practicing before the Commission as 
+              an accountant. 
+
+       D.     After three years from the date of this order, Diericx may request that the 
+              Commission consider his reinstatement by submitting an application (attention: 
+              Office of the Chief Accountant) to resume appearing or practicing before the 
+              Commission as: 
+
+              1.      a preparer or reviewer, or a person responsible for the preparation or 
+                      review, of any public companys financial statements that are filed with 
+                      the Commission.  Such an application must satisfy the Commission that 
+                      Respondents work in his/her practice before the Commission will be 
+                      reviewed either by the independent audit committee of the public company 
+                      for which he/she works or in some other acceptable manner, as long as 
+                      he/she practices before the Commission in this capacity; and/or 
+
+              2.      an independent accountant.  Such an application must satisfy the 
+                      Commission that: 
+
+                      (a)     Diericx, or the public accounting firm with which he is associated, 
+                             is registered with the PCAOB   in accordance with the Sarbanes-
+                             Oxley Act of 2002, and such registration continues to be effective; 
+
+                                               14 
+---------------------Page 15---------------------
+
+                      (b)    Diericx, or the registered public a ccounting firm with which he is 
+                             associated, has been inspected by the PCAOB    and that inspection 
+                             did not identify any criticisms of or potential defects in the 
+                             respondents or the firms quality control system that would 
+                             indicate that the respondent will not receive appropriate 
+                             supervision; 
+
+                      (c)     Diericx has resolved all disciplinary issues with the PCAOB, and 
+                             has complied with all terms and conditions of any sanctions 
+                             imposed by the PCAOB     (other than reinstatement by the 
+                             Commission); and 
+
+                      (d)    Diericx acknowledges his  responsibility, as long as Diericx appears 
+                             or practices before the Commission as an independent accountant, 
+                             to comply with all requirements of the Commission and the 
+                             PCAOB, including, but not limited to, all requirements relating to 
+                             registration, inspections, engagement quality control reviewer 
+                             procedures and quality control standards.    
+
+       E.     The Commission will consider an application by Diericx to resume appearing or 
+              practicing before the Commission provided that his   state C PA license is current 
+              and he has resolved all other disciplinary issues with the applicable state boards of 
+              accountancy.  However, if state licensure is dependent on reinstatement by the 
+              Commission, the Commission will consider an application on its other merits.  
+              The Commissions review may include consideration of, in addition to the matters 
+              referenced above, any other matters relating to Diericxs character, integrity, 
+              professional conduct, or qualifications to appear or practice before the 
+              Commission. 
+
+ 
+       By the Commission. 
+
+ 
+ 
+
+                                                            Brent J. Fields 
+                                                            Secretary 
+
+                                               15 

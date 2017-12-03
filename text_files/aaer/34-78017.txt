@@ -1,0 +1,581 @@
+---------------------Page 1---------------------
+
+                                                                                    
+                        UNITED STATES OF AMERICA 
+                                   Before the 
+                  SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 78017 / June 8, 2016 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT  
+Release No. 3782 / June 8, 2016 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-17278 
+ 
+                                         ORDER INSTITUTING ADMINISTRATIVE 
+In the Matter of                         AND CEASE-AND-DESIST PROCEEDINGS , 
+                                         PURSUANT TO SECTIONS 4C  AND 21C OF 
+      IEC ELECTRONICS CORP.,             THE SECURITIES EXCHANGE ACT OF 
+      RONALD J. YEARS, CPA,              1934, AND RULE 102(e) OF THE  
+      and DONALD S. DOODY ,             COMMISSION’S RULES OF PRACTICE
+                                          
+Respondent s.                                                                 
+                                                             
+ 
+ 
+ 
+                                     
+ 
+ 
+ 
+ 
+                                       I.  
+ 
+      The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities 
+Exchange Act of 1934 (“Exchange Act”) against IEC Electronics Corp., Ronald J. Years, CPA, 
+and Donald S. Doody (collectively, “Respondents”).   
+                         
+---------------------Page 2---------------------
+
+ 
+        Additionally, the Commission deems it appropriate that administrative proceedings be, and 
+                                                                      1
+hereby are, instituted pursuant to Section 4C of the Exchange Act       and Rule 102(e)(1)(iii) of the 
+                                  2
+Commissi  on’s Rules of Practice  against Years.  
+ 
+                                                    II. 
+ 
+        In anticipation of the institution of these proceedings, Respondents have submitted Offers 
+of Settlement (the “Offers”) which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the findings 
+herein, except as to the Commission’s jurisdiction over them and the subject matter of these 
+proceedings, which are admitted, and except as provided herein in Section V, Respondents consent 
+to the entry of this Order Instituting Administrative and Cease-and-Desist Proceedings Pursuant to 
+Sections 4C and 21C of the Securities Exchange Act of 1934, and Rule 102(e) of the 
+Commission’s Rules of Practice, Making Findings, and Imposing Remedial Sanctions and a Cease-
+and-Desist Order (“Order”), as set forth below.   
+ 
+                                                   III. 
+ 
+        On the basis of this Order and Respondents’ Offers, the Commission finds that:  
+ 
+                                               Summary 
+ 
+        IEC Electronics Corp. (“IEC”) filed false financial statements for Q3 2012, FYE 2012, and 
+Q1 2013 as a result of misconduct that occurred at IEC’s now-former subsidiary, Southern 
+California Braiding, Inc. (“SCB”).  Former SCB controller, Ronald Years, and former IEC 
+executive vice president of operations, Donald Doody, engaged in misconduct relating to SCB’s 
+work-in-process inventory (“WIP”).  Years made false accounting entries into a WIP spreadsheet 
+that Years prepared, and these entries were based in part on amounts provided by Doody to Years 
+that were false.  Years and Doody also kept material in WIP that had already been used and added 
+inventory to WIP that was missing.  Years and Doody engaged in this misconduct to meet SCB’s 
+                                                 
+1
+ Section 4C provides, in relevant part, that:  
+ 
+        The Commission may censure any person, or deny, temporarily or permanently, to any person the 
+privilege of appearing or practicing before the Commission in any way, if that person is found . . . to have 
+willfully violated, or willfully aided and abetted the violation of, any provision of the securities laws or 
+the rules and regulations thereunder. 
+ 
+2
+ Rule 102(e)(1)(iii) provides, in pertinent part, that: 
+ 
+        The Commission may . . . deny, temporarily   or permanently, the privilege of appearing or 
+practicing before it . . . to any person who is found . . .  to have willfully violated, or willfully aided and 
+abetted the violation of any provision of the Federal securities laws or the rules and regulations 
+thereunder. 
+ 
+                                                    2       
+---------------------Page 3---------------------
+
+budgeted gross profit margins (“GPMs”).  In addition, Years failed to consider the percentage 
+completion of WIP and consequently capitalized too many weeks of labor and overhead costs to 
+WIP.  As a result of Years’ and Doody’s misconduct, IEC materially understated cost of goods 
+sold, and materially overstated gross profit and net income before taxes in its financial statements 
+for Q3 2012 and FYE 2012, and, in the case of Years, Q1 2013.  In Q2 2013, IEC’s then-CFO 
+discovered potential issues with respect to SCB’s WIP, and after IEC determined that the prior 
+accounting was incorrect, it announced the need for a restatement in May 2013 and filed the 
+restatement in July 2013.    
+ 
+                                       Respondents 
+ 
+       1.      IEC Electronics Corp., (“IEC”) is a Delaware corporation headquartered in 
+Newark, New York.  IEC manufactures, among other things, circuit cards, cable and wire 
+harnesses, and sheet metal components that can withstand harsh environments, such as extreme hot 
+and cold temperatures.  IEC services the medical, aerospace, defense, industrial, and transportation 
+industries.  In February 2015, IEC’s board of directors was replaced with a new board as a result of 
+a proxy contest.  The new board terminated the CEO, and elected a new CEO.  IEC’s common 
+stock is registered with the Commission pursuant to Exchange Act Section 12(b) and is listed on 
+NYSE MKT under ticker symbol IEC.    
+ 
+       2.      Ronald J. Years, (“Years”) age 52, of La Habra, California, worked for IEC from 
+April 2008 through February 2013.  Years was SCB’s controller from May 2011 through February 
+2013.  Years has been a licensed CPA in Massachusetts since August 2012. 
+        
+       3.      Donald S. Doody, (“Doody”) age 49, of Mukilteo, Washington, is the former 
+executive vice president of operations for IEC.  Doody worked in operations for IEC from 2004 
+through January 2014.   
+                                                 
+                                     Other Relevant Entity 
+ 
+       4.      Southern California Braiding, Inc., is a Delaware corporation headquartered in 
+Bell Gardens, California.  SCB was an IEC subsidiary from December 2010 to July 2015.  IEC 
+sold SCB in July 2015 to a privately held company.  SCB has never been registered with the 
+Commission in any capacity.   
+                               
+
+                                               3       
+---------------------Page 4---------------------
+
+                                             Facts 
+ 
+       A.     Background 
+ 
+       5.     IEC acquired SCB in December 2010.  In May 2011, Years became SCB’s 
+controller.  Years reported to IEC’s then-CFO.  In the summer of 2011, IEC’s then-CEO asked 
+Doody to become involved in SCB’s operations because SCB was not performing financially as 
+IEC’s CEO had expected.  Doody reported directly to IEC’s CEO.   
+        
+       6.     SCB mainly manufactured custom cables and wire harnesses for the aerospace 
+and defense industries.  It took SCB on average about six weeks to assemble/manufacture a 
+product for a customer.  SCB’s inventory mainly consisted of raw material and WIP.  WIP 
+consists of the material in production, the labor used to produce the product, and a portion of the 
+factory overhead.  SCB held few finished goods because when a product was complete, it was 
+shipped to the customer.                      
+ 
+       7.     Prior to IEC acquiring SCB, SCB was a privately held company that operated on 
+a cash basis and lacked an adequate system of internal accounting controls.  Years worked on 
+implementing internal accounting controls over SCB’s inventory.  Years, however, failed to 
+implement an adequate system of internal accounting controls for WIP.  Specifically, Years did 
+not consider the percentage completion of WIP when he calculated how much labor and 
+overhead should be capitalized to WIP at the end of each quarter.  By not considering the 
+percentage completion of WIP, Years capitalized too much labor and overhead to WIP and 
+inappropriately inflated WIP.  This resulted in the overstatement of labor and overhead in WIP 
+and an understatement of cost of goods sold (“COGS”) and an overstatement of gross profit and 
+                                                      3
+net income before taxes for Q1 2012 through Q1 2013.     IEC’s and SCB’s fiscal year is from 
+October 1 through September 30.     
+        
+       8.     In addition, at the end of Q3 2012, both Years and Doody started inappropriately 
+inflating WIP.  At the end of Q3 2012 and Q4 2012, Years made false accounting entries that 
+capitalized additional amounts of labor and overhead to WIP, and these entries were based in 
+part on amounts provided by Doody to Years that were false.  At the end of Q4 2012, Years and 
+Doody also kept material in WIP that had already been used and added inventory to WIP that 
+was missing.  Years and Doody engaged in this misconduct to meet SCB’s budgeted GPMs.   
+        
+       9.     As a result of their misconduct, Years and Doody overstated WIP and materially 
+understated COGS and materially overstated gross profit and net income before taxes for Q3 
+2012 and FYE 2012, and, in the case of Years, Q1 2013.  Thus, IEC filed a materially false Form 
+10-Q for Q3 2012, Form 10-K for FY 2012, and Form 10-Q for Q1 2013.  IEC also filed 
+multiple materially false Forms 8-K, and IEC’s earnings calls for Q3 2012 through Q1 2013 
+contained materially false information about IEC’s financial results.        
+
+                                                 
+3
+ When WIP is overstated on the balance sheet, COGS is understated by the same amount on the income 
+statement.  When COGS is understated, then gross profit and net income are overstated on the income 
+statement.    
+ 
+                                               4       
+---------------------Page 5---------------------
+
+       B.     Years and Doody Inflated SCB’s WIP  
+ 
+              i.      Failure to Consider Percentage Completion of WIP 
+        
+       10.    Years failed to develop a methodology that accurately reflected the value of 
+SCB’s WIP because he failed to consider the percentage completion of WIP.  In addition, Years 
+did not do any testing on WIP to determine the percentage completion.  Thus, Years failed to 
+implement adequate internal accounting controls over WIP, and, and as a result, Years inflated 
+WIP from Q1 2012 through Q1 2013.  In addition, there was lack of adequate internal accounting 
+controls over the review of Years’ work.  The IEC accounting personnel who reviewed Years’ 
+WIP spreadsheet each month failed to see that Years was not considering the percentage 
+completion of WIP.  As a result of the lack of internal accounting controls over WIP, IEC had a 
+material weakness in internal control over financial reporting related to WIP.  IEC stated in its 
+amended Form 10-K for FYE 2012 that it had this material weakness, and it stated in its Form 
+10-Q for Q3 2014 that this material weakness had been remediated.   
+        
+       11.    SCB’s inventory mainly consisted of raw materials and WIP (SCB held few 
+finished goods because generally when a product was complete, it was shipped to the customer).  
+SCB’s WIP consisted of material, labor, and overhead.  Although there was a system to track 
+material, SCB never developed a system to track the actual amount of labor and overhead 
+applied to each job in WIP.  As a result, Years had to determine the appropriate amount of labor 
+and overhead to capitalize to WIP each quarter.  From Q2 2011 through Q4 2011, Years 
+capitalized four weeks of labor and overhead to WIP each quarter.  Starting in Q1 2012, Years 
+developed a methodology to calculate labor and overhead capitalized to WIP.  Years’ 
+methodology was captured in a WIP spreadsheet.  Years used this spreadsheet to calculate labor 
+and overhead to be capitalized to WIP on a monthly basis.  Years’ methodology, however, failed 
+to consider the percentage completion of WIP.  From Q1 2012 through Q4 2012, because Years 
+failed to consider the percentage completion of WIP, Years gradually increased the number of 
+weeks that he capitalized labor and overhead to WIP from five weeks to eleven weeks.  By the 
+end of Q1 2013, Years was capitalizing thirteen weeks of labor and overhead to WIP.   
+        
+       12.    In each quarter of FY 2012 and Q1 2013, it took SCB on average about six weeks 
+to assemble/manufacture a product, and on average a product in WIP was about 25% complete at 
+each quarter-end.  This meant that on average only one and a half weeks (six weeks multiplied 
+by 25%) of labor and overhead should have been capitalized to WIP at each quarter-end versus 
+the five to thirteen weeks that Years was capitalizing to WIP from Q1 2012 through Q1 2013.  
+Because Years inappropriately capitalized too many weeks of labor and overhead to WIP, WIP 
+was overstated during FY 2012 and for Q1 2013.  
+        
+       13.    By at least October 2012, prior to SCB filing its FYE 2012 Form 10-K in 
+November 2012, Years knew, or was reckless in not knowing, that he was capitalizing too many 
+                                                  
+weeks of labor and overhead to WIP for Q4 2012.  
+ 
+
+                                              5       
+---------------------Page 6---------------------
+
+               ii.     False Accounting Entries to WIP in Q3 2012 and Q4 2012  
+ 
+       14.     At quarter-ends Q3 2012 and Q4 2012, WIP was inappropriately inflated through 
+false accounting entries that capitalized additional amounts of labor and overhead to WIP.  Years 
+made these false accounting entries into his WIP spreadsheet by hard coding, i.e. forcing, these 
+amounts into the spreadsheet without any supporting formulas, and these entries were based in part 
+on amounts provided by Doody to Years that were false.  Years and Doody engaged in this 
+misconduct to meet SCB’s budgeted GPMs for Q3 2012 and FYE 2012.  At the end of Q3 2012, 
+the accounting entry capitalized an additional $104,000 of labor and $265,000 of overhead to WIP 
+that should not have been capitalized.  At the end of Q4 2012, the accounting entry capitalized an 
+additional $124,000 of labor and $346,000 of overhead to WIP that should not have been 
+capitalized.  As a result of these entries, inventory was overstated on IEC’s balance sheet, COGS 
+was understated on IEC’s income statement, and gross profit and net income before taxes were 
+overstated on IEC’s income statement for Q3 2012 and FYE 2012. 
+ 
+       15.     As part of IEC’s FYE 2012 audit, IEC’s auditors asked Years about the $124,000 of 
+labor and the $346,000 of overhead added to WIP for Q4 2012.  Years emailed Doody and told 
+him that the auditors were asking about the $124,000 of labor and the $346,000 of overhead that 
+“doesn’t have backup.”  Years attached to his email a spreadsheet that he created as support for the 
+false accounting entry.  He asked Doody if Doody had additional information that Years could use 
+to support a percentage number in his spreadsheet.  Years also said, “Going forward we all realize 
+we have to do something with this and the other material in WIP.  I will come up with a way to 
+make it less visible in the future, but I have to get past this for now.  Thanks for the input.  Last 
+thing I have to do… I hope.”  Doody responded to Years by telling him where he could find 
+additional information for the percentage number.  Years gathered this additional information and 
+sent it and the spreadsheet to the auditors as support for the false accounting entry.     
+ 
+               iii.   Keeping Material in WIP That Already Had Been Used 
+ 
+       16.     In Q4 2012, Years and Doody inappropriately inflated WIP on SCB’s balance sheet 
+by keeping material in WIP that already had been used for a SCB customer on two job orders.  
+Years kept this material in WIP by not recognizing enough COGS material related to these two job 
+orders on SCB’s income statement during FY 2012 and Q1 2013.  As a result of keeping this 
+material in WIP, inventory was overstated on IEC’s balance sheet, COGS was understated on 
+IEC’s income statement, and gross profit and net income before taxes were overstated on IEC’s 
+income statement during FY 2012 and Q1 2013. 
+        
+       17.     By late August 2012, following a physical inventory count, Years knew, or was 
+reckless in not knowing, that at least $312,724 of material related to these two job orders for this 
+customer had already been used and no longer existed in inventory.  Years told Doody that this 
+$312,724 of material was missing from inventory.  Doody believed that Years was going to write-
+off this missing material from SCB’s balance sheet.  Years, however, did not write-off this 
+material, and by the end of Q4 2012, the balance grew to $395,138.  In mid and late October 2012, 
+prior to IEC filing its Form 10-K for FYE 2012, Years sent Doody emails reminding Doody that 
+this inventory was still in WIP at the end of Q4 2012 and “shouldn’t be there.”   
+
+                                                6       
+---------------------Page 7---------------------
+
+       18.    As part of IEC’s FYE 2012 audit, IEC’s auditors asked Years about this $395,138 
+of material in WIP.  Years did not tell the auditors that the $395,138 of material had already been 
+used on jobs shipped to a customer and that this material no longer existed in inventory.  Instead, 
+Years, among other things, falsely told the auditors that SCB had not yet shipped these job orders 
+to the customer.  Years had emailed Doody and told Doody that the auditors had asked about the 
+$395,138 of material still in WIP, and Years also told Doody what he planned to tell the auditors.  
+Even though Doody knew, or was reckless in not knowing, that this material was missing from 
+inventory and had not been written-off, Doody did not respond to Years and failed to take 
+corrective action.   
+        
+       19.    By the end of Q1 2013, the balance of this material grew to $422,132 because no 
+COGS for this material had been recognized by Years.   
+        
+              iv.     Adding Missing Finished Goods Inventory to WIP 
+                    
+       20.    Lastly, in Q4 2012, Years and Doody inflated WIP by adding $116,227 of missing 
+finished goods inventory (acquired during IEC’s acquisition of SCB) to WIP.  As a result of adding 
+this missing finished goods inventory to WIP, inventory was overstated on IEC’s balance sheet, 
+COGS was understated on IEC’s income statement, and gross profit and net income before taxes 
+were overstated on IEC’s income statement at FYE 2012.   
+        
+       21.    By late August 2012, following a physical inventory count, Years and Doody knew, 
+or were reckless in not knowing, that this finished goods inventory was missing.  In the beginning 
+of October 2012, Years emailed Doody seeking direction on what Years should do with the 
+$116,227 of missing finished goods, writing, “Should go to [Cost of Goods Sold], or can go to 
+WIP…”  Doody responded, “…my sense is WIP for now…”  Years then moved the inventory 
+from finished goods inventory to WIP in the general ledger.  In mid and late October 2012, prior to 
+IEC filing its Form 10-K for FYE 2012, Years sent Doody emails reminding Doody that this 
+missing finished goods inventory (as well as the $395,128 of already used inventory) was still in 
+WIP at the end of Q4 2012 and “shouldn’t be there.”   
+ 
+       22.    Years sent the auditors a spreadsheet that showed that Years was writing-off the 
+$116,227 of finished goods inventory.  Years, however, did not write-off the $116,227 and instead 
+moved the $116,227 into WIP.  Years emailed Doody, informing him that the auditors had asked 
+about the $395,138 of missing customer material (discussed above), and added that “[The auditors] 
+haven’t seen the $116k of [finished goods] transferred into WIP.”  Doody did not respond to Years 
+and failed to take corrective action.    
+        
+       C.     IEC Restated its FY 2012 and Q1 2013 Financial Statements  
+        
+       23.    IEC restated its Q1 through Q3 2012, FYE 2012, and Q1 2013 financial 
+statements because SCB overstated WIP, gross profit, and net income, and understated COGS.  
+In May 2013, IEC filed a Form 8-K that announced the restatement of its financials and provided 
+the restated net income amounts for Q1 through Q3 2012, FYE 2012, and Q1 2013.  In July 
+2013, IEC filed an amended Form 10-K for FYE 2012 and a Form 10-Q for Q1 2013.  IEC 
+
+                                               7       
+---------------------Page 8---------------------
+
+included its Q1 2012 through Q3 2012 restated financial statements in its amended Form 10-K 
+for FYE 2012. 
+         
+        24.      The table below summarizes the impact of the misstatement on IEC’s net income 
+                                                   4
+before taxes from Q1 2012 through Q1 2013.            The overstatement of SCB’s WIP was material to 
+IEC’s net income before taxes for Q3 2012, FYE 2012, and Q1 2013.   
+         
+ Period End     Net Income Before Taxes   Net Income Before Taxes    $ Difference   % Difference  
+                                                    5
+                – Originally Reported       –  Restated                           of Restated 
+ Q1 2012        $1,503,157                $1,460,017                $43,140       (3%) 
+ Q2 2012        $4,136,520                $3,962,678                $173,842      (4%) 
+ Q3 2012        $3,452,045                $2,888,635                $563,410      (20%) 
+ Q4 2012        $2,921,742                $2,180,500                $741,242      (34%) 
+ FYE 2012       $12,013,436               $10,491,801               $1,521,635    (15%) 
+ Q1 2013        $378,990                  ($160,070)                $539,060      Profit to loss 
+ FYE 2012 +                                                         $2,060,695     
+ Q1 2013 
+         
+        25.      IEC’s FYE 2012 net income before taxes was overstated by $1,521,635, of which 
+            6
+$924,991,  or 61%, was the result of both Years and Doody inappropriately inflating WIP in 
+Q3 2012 and Q4 2012.  The remainder of IEC’s overstated income in FYE 2012 was mainly 
+from Years failing to consider the percentage completion of WIP and thus, capitalizing too many 
+weeks of labor and overhead to WIP from Q1 2012 through Q4 2012.   
+         
+        26.     IEC’s Q1 2013 net income before taxes was overstated by $539,060, the majority 
+of which was from Years failing to consider the percentage completion of WIP.  The $539,060 
+overstatement in Q1 2013 took IEC’s net income before taxes from a profit to a loss for that 
+quarter.   
+         
+
+                                                 
+4
+ The restated net income before taxes amounts in this table for Q1 2012, Q4 2012, and FYE 2012 are 
+different than the restated amounts reported by IEC for two reasons.  First, for FY 2011, WIP was 
+overstated by $245,328.  Because this amount was not material to IEC’s FY 2011 financial statements, 
+IEC included this overstatement in its Q1 2012 restated net income before taxes; this $245,328 
+overstatement is not included in the table above because the amount related to FY 2011.  Second, during 
+the restatement process, IEC did not discover the $116,227 of missing finished goods inventory that 
+Years and Doody moved to WIP.  As a result, IEC did not deduct the $116,227 from IEC’s Q4 2012 
+restated net income before taxes.  
+ 
+5
+ For Q1 2012 through Q1 2013, the restated figures also include     small amounts of additional material 
+that IEC wrote -off from WIP and deducted from net income      before taxes .  For FYE 2012 and Q1 2013, 
+IEC wrote -off additional material of $70,408 and $74,068, respectively.    
+ 
+6
+ The total $924,991 i s arrived at by adding th e  Q4 2012 false   accounting entry of $124,000 of labor and 
+$346,000 of overhead, plus the $395,138 of material that had already been shipped and no longer existed 
+in WIP but was still held in WIP (less an inventory reserve of $56,374), plus the $116,227 of    missing 
+finished goods inventory that was moved to WIP.     
+ 
+                                                      8       
+---------------------Page 9---------------------
+
+       27.     As a result, IEC filed a materially false Form 10-Q for Q3 2012, Form 10-K for 
+FY 2012, and Form 10-Q for Q1 2013.  IEC also filed multiple false Forms 8-K for Q3 2012 
+                  7
+through Q1 2013.    In addition, IEC’s earnings calls for Q3 2012, Q4 2012 / FYE 2012, and Q1 
+2013 contained false information about IEC’s financial results, including its net income.   
+        
+       D.     Later Developments at IEC 
+ 
+       28.     Both Years and Doody no longer work for IEC.  Years left IEC in February 2013, 
+and Doody voluntarily left in January 2014.  IEC is also under new management, including a new 
+CEO and new Board of Directors, as a result of activist shareholders waging a proxy battle in early 
+2015.  In addition, IEC no longer owns SCB; IEC sold SCB in July 2015 to a privately held 
+company. 
+        
+                                            Violations 
+        
+       29.     As a result of the conduct described above, IEC and Doody violated, and Years 
+willfully violated, Section 10(b) of the Exchange Act and Rules 10b-5(a) and (c) thereunder, and 
+IEC violated, Years willfully aided and abetted and caused IEC’s violations of, and Doody caused 
+IEC’s violations of, Section 10(b) of the Exchange Act and Rule 10b-5(b) thereunder, which 
+prohibit fraudulent conduct in connection with the purchase or sale of securities. 
+        
+       30.     As a result of the conduct described above, IEC violated, Years willfully aided and 
+abetted and caused IEC’s violations of, and Doody caused IEC’s violations of, Section 13(a) of the 
+Exchange Act and Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder, which requires an issuer to 
+file with the Commission accurate annual, current, and quarterly reports. 
+ 
+       31.     As a result of the conduct described above, IEC violated, Years willfully aided and 
+abetted and caused IEC’s violations of, and Doody caused IEC’s violations of, Section 13(b)(2)(A) 
+of the Exchange Act, which requires an issuer to make and keep books, records, and accounts, 
+which in reasonable detail, accurately and fairly reflect the transactions and dispositions of the 
+assets of the issuer.      
+ 
+       32.     As a result of the conduct described above, IEC violated, and Years willfully aided 
+and abetted and caused IEC’s violations of, Section 13(b)(2)(B), which requires an issuer to devise 
+and maintain an adequate system of internal accounting controls.   
+        
+       33.     As a result of the conduct described above, Years willfully violated, and Doody 
+violated, Section 13(b)(5) of the Exchange Act, which prohibits any person from knowingly 
+circumventing or knowingly failing to implement a system of internal accounting controls or 
+knowingly falsifying any book, record, or account of an issuer.    
+        
+
+                                                 
+7
+ Form 8-K, Q3 2012 Earnings Release 7/31/12; Form 8-K, Q4 2012 / FYE 2012 Earnings Release 
+11/20/12; Form 8-K, Presentation - Noble Financial Conference 1/22/13; Form 8-K, Presentation - Annual 
+IEC Shareholders Meeting 1/30/13; Form 8-K, Q1 2013 Earnings Release 2/5/13.      
+ 
+                                                 9       
+---------------------Page 10---------------------
+
+       34.     As a result of the conduct described above, Years willfully violated, and Doody 
+violated, Rule 13b2-1 of the Exchange Act, which prohibits any person from, directly or indirectly, 
+falsifying or causing to be falsified, any book, record, or account that the Exchange Act requires an 
+issuer to maintain. 
+        
+       35.     As a result of the conduct described above, Years willfully violated, and Doody 
+violated, Rule 13b2-2 of the Exchange Act, which prohibits a director or officer of an issuer, or any 
+other person acting under the direction thereof, directly or indirectly, from making or causing to be 
+made, a materially false or misleading statement or omission to an accountant in connection with a 
+required audit or the preparation or filing of a required document or report. 
+ 
+                                                IV. 
+                                                  
+        In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondents’ Offers. 
+ 
+        Accordingly, it is hereby ORDERED that: 
+ 
+       A.      Pursuant to Section 21C of the Exchange Act, IEC cease and desist from 
+committing or causing any violations and any future violations of Sections 10(b), 13(a), 
+13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 10b-5, 12b-20, 13a-1, 13a-11, and 
+13a-13 thereunder. 
+ 
+       B.      Pursuant to Section 21C of the Exchange Act, Years cease and desist from 
+committing or causing any violations and any future violations of Sections 10(b), 13(a), 
+13(b)(2)(A), 13(b)(2)(B), 13(b)(5) of the Exchange Act and Rules 10b-5, 12b-20, 13a-1, 13a-11, 
+13a-13, 13b2-1, and 13b2-2 thereunder. 
+ 
+       C.      Pursuant to Section 21C of the Exchange Act, Doody cease and desist from 
+committing or causing any violations and any future violations of Sections 10(b), 13(a), 
+13(b)(2)(A), and 13(b)(5)  of the Exchange Act and Rules 10b-5, 12b-20, 13a-1, 13a-11, 13a-13, 
+13b2-1, and 13b2-2 thereunder.  
+        
+       D.      Years is denied the privilege of appearing or practicing before the Commission as 
+an accountant.   
+        
+       E.      Doody is prohibited for a period of five (5) years from the date of the Order from 
+acting as an officer or director of any issuer that has a class of securities registered pursuant to 
+Section 12 of the Exchange Act, or that is required to file reports pursuant to Section 15(d) of the 
+Exchange Act. 
+        
+       F.      IEC shall, within 10 days of the entry of this Order, pay a civil money penalty of 
+$200,000 to the Securities and Exchange Commission for transfer to the general fund of the United 
+States Treasury, subject to Exchange Act Section 21F(g)(3).  If timely payment of the civil money 
+penalty is not made, additional interest shall accrue pursuant to 31 U.S.C. § 3717. 
+
+                                                10       
+---------------------Page 11---------------------
+
+ 
+       G.      Years shall pay a civil money penalty of $40,000 to the Securities and Exchange 
+Commission for transfer to the general fund of the United States Treasury, subject to Exchange Act 
+Section 21F(g)(3).  Payment shall be made in the following installments:  (1) $30,000 within 10 
+days of the entry of this Order; (2) $2,500 within 90 days of entry of this Order; (3) $2,500 within 
+180 days of entry of this Order; (4) $2,500 within 270 days of entry of this Order; and (5) $2,500 
+within 360 days of entry of this Order.  If any payment is not made by the date the payment is 
+required by this Order, the entire outstanding balance of the civil money penalty, plus any 
+additional interest accrued pursuant to 31 U.S.C. § 3717, shall be due and payable immediately, 
+without further application.   
+ 
+       H.      Doody shall pay disgorgement of $26,368, prejudgment interest of $2,836.48, and a 
+civil money penalty of $25,000 to the Securities and Exchange Commission for transfer to the 
+general fund of the United States Treasury, subject to  Exchange Act Section 21F(g)(3).  Payment 
+shall be made in the following installments:  (1) $29,204.48 within 10 days of the entry of this 
+Order; (2) $12,500 within 90 days of entry of this Order; and (3) $12,500 within 180 days of entry 
+of this Order.  If any payment is not made by the date the payment is required by this Order, the 
+entire outstanding balance of disgorgement, prejudgment interest, and the civil money penalty, plus 
+any additional interest accrued pursuant to SEC Rule of Practice 600 and 31 U.S.C. § 3717, shall 
+be due and payable immediately, without further application.   
+        
+       I.      All payments required by this Order must be made in one of the following ways:   
+ 
+               (1)    Respondents may transmit payment electronically to the Commission, 
+                      which will provide detailed ACH transfer/Fedwire instructions upon 
+                      request;  
+                
+               (2)    Respondents may make direct payment from a bank account via Pay.gov 
+                      through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or  
+                
+               (3)    Respondents may pay by certified check, bank cashier’s check, or United 
+                      States postal money order, made payable to the Securities and Exchange 
+                      Commission and hand-delivered or mailed to: 
+ 
+               Enterprise Services Center 
+               Accounts Receivable Branch 
+               HQ Bldg., Room 181, AMZ-341 
+               6500 South MacArthur Boulevard 
+               Oklahoma City, OK 73169 
+ 
+               Payments by check or money order must be accompanied by a cover letter 
+identifying Respondent as a Respondent in these proceedings, and the file number of these 
+proceedings; a copy of the cover letter and check or money order must be sent to Victoria A. 
+Levin, Assistant Regional Director, Division of Enforcement, Securities and Exchange 
+
+                                               11       
+---------------------Page 12---------------------
+
+Commission, Los Angeles Regional Office, 444 South Flower Street, Suite 900, Los Angeles, 
+California 90071.   
+ 
+       J.      Amounts ordered to be paid as civil money penalties pursuant to this Order shall be 
+treated as penalties paid to the government for all purposes, including all tax purposes.  To 
+preserve the deterrent effect of the civil penalty, Respondents agree that in any Related Investor 
+Action, they shall not argue that they are entitled to, nor shall they benefit by, offset or reduction of 
+any award of compensatory damages by the amount of any part of Respondents’ payment of a civil 
+penalty in this action (“Penalty Offset”).  If the court in any Related Investor Action grants such a 
+Penalty Offset, Respondents agree that they shall, within 30 days after entry of a final order 
+granting the Penalty Offset, notify the Commission’s counsel in this action and pay the amount of 
+the Penalty Offset to the Securities and Exchange Commission.  Such a payment shall not be 
+deemed an additional civil penalty and shall not be deemed to change the amount of the civil 
+penalty imposed in this proceeding.  For purposes of this paragraph, a “Related Investor Action” 
+means a private damages action brought against Respondents by or on behalf of one or more 
+investors based on substantially the same facts as alleged in the Order instituted by the 
+Commission in this proceeding. 
+ 
+                                                V. 
+
+       It is further Ordered that, solely for purposes of exceptions to discharge set forth in Section 
+523 of the Bankruptcy Code, 11 U.S.C. §523, the findings in this Order are true and admitted by 
+Respondents Years and Doody, and further, any debt for disgorgement, prejudgment interest, civil 
+penalty or other amounts due by Respondents Years and Doody under this Order or any other 
+judgment, order, consent order, decree, or settlement agreement entered in connection with this 
+proceeding, is a debt for the violation by Respondents Years and Doody of the federal securities 
+laws or any regulation or order issued under such laws, as set forth in Section 523(a)(19) of the 
+Bankruptcy Code, 11 U.S.C. §523(a)(19). 
+
+                    
+       By the Commission. 
+ 
+ 
+ 
+ 
+ 
+                                                     Brent J. Fields 
+                                                     Secretary 
+ 
+
+                                                12       

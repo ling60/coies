@@ -1,0 +1,328 @@
+---------------------Page 1---------------------
+
+                           UNITED STATES OF AMERICA 
+
+                                      Before the
+
+                   SECURITIES AND EXCHANGE COMMISSION 
+
+
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 57754 / May 1, 2008 
+
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 2821 / May 1, 2008 
+
+ADMINISTRATIVE PROCEEDING 
+File No. 3-13031 
+
+      In the Matter of                         ORDER INSTITUTING CEASE-AND-
+                                               DESIST PROCEEDINGS, MAKING 
+             UTStarcom, Inc.,                  FINDINGS, AND IMPOSING A 
+             Hong Liang Lu and                 CEASE-AND-DESIST ORDER 
+             Michael J. Sophie,                PURSUANT TO SECTION 21C OF 
+                                               THE SECURITIES EXCHANGE ACT 
+      Respondents.                             OF 1934 
+
+                                          I. 
+
+      The Securities and Exchange Commission (“Commission”) deems it appropriate that 
+cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the 
+Securities Exchange Act of 1934 (“Exchange Act”), against UTStarcom, Inc. (“UTSI”), Hong 
+Liang Lu (“Lu”) and Michael J. Sophie (“Sophie”) (collectively “Respondents”). 
+
+                                          II. 
+
+      In anticipation of the institution of these proceedings, Respondents have submitted an 
+Offer of Settlement (the “Offer”) which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the 
+findings herein, except as to the Commission’s jurisdiction over them and the subject matter of 
+these proceedings, which are admitted, Respondents consent to the entry of this Order Instituting 
+Cease-and-Desist Proceedings, Making Findings, and Imposing a Cease-and-Desist Order 
+Pursuant to Section 21C of the Securities Exchange Act of 1934 (“Order”), as set forth below. 
+
+                                         III. 
+
+      On the basis of this Order and Respondents’ Offer, the Commission finds that: 
+---------------------Page 2---------------------
+
+                                          Summary 
+
+       1.     This matter involves recurring internal control deficiencies and inaccurate 
+financial filings by UTSI, a publicly-traded telecommunications company that has restated its 
+financial statements three times since 2005 to correct multiple accounting irregularities.  Since 
+2000, UTSI has improperly recognized revenue on transactions subject to undisclosed side 
+agreements, failed to properly disclose and account for related party transactions, and failed to 
+properly record compensation expenses related to employee stock options.  Despite being put on 
+notice of potential accounting issues by, among other things, material weakness letters sent by 
+the company’s outside auditors, CEO Hong Liang Lu and former CFO Michael J. Sophie failed 
+to implement and maintain adequate internal controls and falsely certified that UTSI’s financial 
+statements and books and records were accurate.   
+
+                                         Respondents 
+
+       2.     UTSI, a Delaware corporation with headquarters in Alameda, California, is a 
+telecommunications company that sells software and hardware products in emerging and 
+established telecommunications markets around the world.  The majority of UTSI’s operations 
+are in Hangzhou, China and overseas.  UTSI went public in 2000, and its common stock is 
+registered with the Commission pursuant to Section 12(b) of the Exchange Act and trades on the 
+NASDAQ Global Select Market under the symbol UTSI. 
+
+       3.     Lu, 53, is a co-founder of UTSI and has served as a board member and Chief 
+Executive Officer since 1995.  Lu resides in San Ramon, California and Hangzhou, China. 
+
+       4.     Sophie, 50, was UTSI’s Chief Financial Officer from 2000 through August 2005 
+and UTSI’s Chief Operating Officer from June 2005 through May 2006.  Sophie resides in 
+Pleasanton, California. 
+
+                                            Facts 
+
+                                         Background 
+
+       5.     Historically, China has been UTSI’s largest market.  Between 1995 and 2002, 
+nearly all of UTSI’s revenue derived from sales by UTSI’s subsidiary in China (“UT-China”).  
+By late 2002, UTSI’s business plan was expanded to include growth on an international scale.  
+UTSI defines “international” sales as all sales outside of China, including sales in the U.S., 
+Japan, India, and other overseas markets.  In 2003 and 2004, sales in China accounted for 86% 
+and 79% of UTSI’s revenue, respectively.  By 2006, sales in China accounted for 32% of UTSI’s 
+revenue.  The finance department at UT-China handled the accounting for all transactions in 
+China, and UTSI’s finance department in the U.S. handled the accounting for all international 
+transactions. 
+
+       6.     In March 2003, UTSI received a Management Recommendation letter from its 
+auditors detailing internal control weaknesses identified during the December 31, 2002 year-end 
+audit.  The letter was addressed to the audit committee and copied to Lu and Sophie.  Among 
+other things, the letter specifically noted that UTSI should “strengthen procedures to ensure side 
+letters and contract amendments are communicated and accounted for in a timely manner.”  In its 
+
+                                              -2-
+
+---------------------Page 3---------------------
+
+written response to the auditor’s letter, UTSI said it had implemented the necessary controls to 
+track and monitor side letters and non-routine transactions.  UTSI sometimes used letter 
+agreements, or side letters, to supplement or amend contractual terms.  Such letters were allowed 
+so long as the accounting for them was done properly. 
+
+       7.     UTSI received another Management Recommendation letter from its auditors in 
+April 2004 detailing multiple internal control weaknesses (many classified as material) identified 
+during the December 31, 2003 year-end audit.  The letter was copied to Lu and Sophie, and again 
+noted concerns about the use of side letters that were not forwarded to the finance department.  
+The auditors also expressed concerns with many complex related-party transactions entered into 
+by UTSI.  The auditors informed UTSI that the company did not adequately disclose significant 
+transactions involving joint venture arrangements between UTSI and its customers.  In its written 
+response, UTSI said it had strengthened controls to identify side letters and implemented 
+monitoring procedures to identify significant joint venture transactions. 
+
+       8.     UTSI also received management recommendation letters from its auditors noting 
+multiple material weaknesses in connection with the 2004 and 2005 year-end audits. 
+
+ UTSI Prematurely Recognized Revenue From International Sales Subject To Undisclosed Side 
+                                          Agreements 
+
+       9.     Between 2003 and 2005, UTSI prematurely recognized nearly $50 million in net 
+revenue from international sales, all of which occurred outside the U.S., which were subject to 
+side agreements that had been concealed from the company’s finance personnel.  Because these 
+agreements promised future performance by UTSI, revenue should not have been recognized 
+under Generally Accepted Accounting Principles (“GAAP”). 
+
+       10.    Among other contingent transactions, UTSI improperly recognized revenue from 
+the sale of a $22 million network system to a purchaser in India.  At the time of the sale, 
+securities analysts had expressed concerns about UTSI’s ability to enter markets outside China, 
+and Lu specifically highlighted this deal as indicative of UTSI’s success in gaining traction in 
+India. 
+
+       11.    UTSI delivered the system and recognized revenue from the $22 million sale in 
+phases over several quarters, including the second quarter of 2004 and the second quarter of 
+2005.  Before recognizing the revenue, UTSI’s finance department required the purchaser to sign 
+a final acceptance certificate certifying that all elements of the phase had been delivered and 
+successfully installed.   
+
+       12.    During the second quarter of 2004, the purchaser sent UTSI the final acceptance 
+certificate, but included a proposed side agreement requiring UTSI to upgrade the system after 
+the end of the quarter.  Lu and Sophie were aware of the proposed side agreement.  UTSI’s 
+revenue recognition manager, with the knowledge of Lu and Sophie, specifically admonished 
+that approving the side agreement would prevent revenue recognition.  Lu personally 
+communicated with the customer to request that they accept the products without a side 
+agreement. 
+
+                                              -3-
+
+---------------------Page 4---------------------
+
+       13.    Notwithstanding these directions, a UTSI sales executive signed a side agreement 
+with the purchaser, but failed to adequately disclose the agreement to finance personnel, 
+resulting in the improper recognition of revenue by the company.  Lu and Sophie failed to take 
+adequate steps to determine how the customer’s request for a side agreement had been resolved 
+and whether revenue recognition was appropriate. 
+
+       14.    During the second quarter of 2005, UTSI recognized additional revenue from the 
+India sale.  Once again, a UTSI sales executive had signed a side letter making the customer’s 
+acceptance contingent on future upgrades (and thus rendering revenue recognition improper 
+under GAAP).  Lu and Sophie were aware the customer had made such a request, but received a 
+communication from finance personnel that the final acceptance certificates received from the 
+customer were acceptable.  Neither Lu nor Sophie took steps to determine how the issue was 
+resolved and whether revenue was properly recognized. 
+
+       15.     In addition to the India transaction, UTSI entered into five other international 
+sales transactions totaling $27.5 million in net revenue where side agreements had been entered 
+into promising future products or services.  These side agreements should have precluded 
+revenue recognition.  On June 26, 2006, UTSI restated its financial statements for the period 
+between Q1 2003 through Q3 2005, reversing $49.5 million in net revenue that had been 
+improperly recognized by the company. 
+
+     UTSI Prematurely Recognized Revenue On Sales In China With Undisclosed Contract 
+
+                                         Modifications 
+
+
+       16.    Between 2000 and 2005, UTSI prematurely recognized over $350 million in 
+revenue from 78 sales transactions in China.  On some occasions, UTSI sales personnel entered 
+into contracts that contained non-standard product upgrade provisions precluding revenue 
+recognition.  In some instances, sales personnel documented the sales on two separate contracts, 
+and only the company’s standard contract (without the upgrade provisions) was made available 
+to UTSI’s finance personnel.  As a result, UTSI repeatedly recognized revenue for contingent 
+sales in violation of GAAP. 
+
+       17.     Lu and Sophie had been on notice since at least 2003 of significant internal 
+control weaknesses in China, including the fact that in some instances side letters and contract 
+amendments introducing revenue contingencies were not forwarded by sales offices to the 
+contract and finance departments.  Although Lu and Sophie took steps to improve internal 
+controls in response to this information, neither those steps nor the resulting controls were 
+sufficient to detect the improper dual contract practices and failed to prevent certain 
+improprieties. 
+
+       18.     On October 10, 2007, UTSI restated its financial statements from 2000 through 
+the second quarter of 2006 to reverse $271 million in net revenue improperly recognized by the 
+company. 
+
+         UTSI Failed to Disclose and Properly Account for Related Party Transactions 
+
+       19.    In 2001, a China-based company called MDC was formed in order to provide 
+value-added services to UTSI products.  The father of UT-China’s Executive Vice President 
+
+                                              -4-
+
+---------------------Page 5---------------------
+
+founded MDC; the UT-China executive served as the “alternate” chairman of MDC’s board of 
+directors.  Numerous officers and other employees of UT-China invested in MDC, and certain 
+UT-China employees worked for MDC while their salaries were paid by UT-China. 
+
+       20.    In 2003, UT-China entered into a complex transaction involving MDC and 
+another customer in China, whereby MDC took ownership of UTSI inventory that had decreased 
+in value.  Because UTSI failed properly to treat MDC as a consolidated entity, no impairment of 
+the inventory value was recorded by UTSI at the time. 
+
+       21.    Lu and Sophie had been on notice of concerns raised by the company’s auditors 
+about UTSI’s failure to adequately disclose related party transactions entered into by UTSI.  
+Although Lu and Sophie took steps to improve internal controls in response to this information, 
+neither those steps nor the resulting controls were sufficient to detect the improper transaction 
+with MDC and failed to prevent inaccurate reporting of certain related party transactions. 
+
+       22.    On April 13, 2005, UTSI restated its 2003 financial statements in part to 
+consolidate MDC, as MDC was deemed a related party controlled by UTSI.  The restatement 
+resulted in the write down of $7.5 million in UTSI inventory held by MDC. 
+
+              UTSI Failed Properly to Account for Stock Compensation Expenses 
+
+       23.    UTSI failed properly to account for certain stock option grants because the 
+company used incorrect grant dates for determining compensation expenses.  Under GAAP, 
+UTSI was required to record an expense on its financial statements for any stock options granted 
+“in-the-money” – i.e. where the exercise price of the option was less than the market price for the 
+security on the date the option was granted. 
+
+       24.    Certain grants to UTSI officers were backdated or accounted for with incorrect 
+grant dates prior to the proper authorization of the grant by the company’s Compensation 
+Committee.  This resulted in an exercise price below market price on the date of the grant, yet no 
+expense was recorded by the company. 
+
+       25.    UTSI failed to establish and implement adequate internal controls for the granting 
+of employee stock options.  Among other things, UTSI failed to maintain necessary 
+documentation showing when the grants were actually authorized by the Compensation 
+Committee. 
+
+       26.    On October 10, 2007, UTSI restated its financial statements from 1998 through 
+the second quarter of 2006 to recognize an additional $27 million in compensation expenses 
+related to employee stock options. 
+
+      Respondents Lu And Sophie Signed False Certifications Under Section 302 Of The 
+                                     Sarbanes-Oxley Act 
+
+       27.    Lu and Sophie, as UTSI’s CEO and CFO, were required to sign certifications each 
+fiscal quarter and fiscal year stating that, based on their knowledge, the company’s quarterly and 
+annual reports did not contain any misstatements or omit material information, that the reports 
+disclosed all significant deficiencies in the design or operation of UTSI’s internal controls, and 
+
+                                              -5-
+
+---------------------Page 6---------------------
+
+that the reports fairly presented in all material respects UTSI’s financial condition and results of 
+operations.  Lu executed such certifications for the quarters and years from the first quarter of 
+2004 through the second quarter of 2006, and Sophie executed such certifications for the quarters 
+and years from the first quarter of 2004 through the second quarter of 2005.  For the reasons set 
+forth above, these certifications were false. 
+
+                                           Violations 
+
+       28.    As a result of the conduct described above, UTSI violated Sections 13(a), 
+13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder by 
+filing inaccurate periodic reports with the Commission, by failing to make and keep accurate 
+books and records, and by failing to devise and maintain an adequate system of internal 
+accounting controls.  The company filed inaccurate periodic reports and failed to keep accurate 
+books and records because the company improperly recorded revenue for transactions that 
+involved side agreements with revenue contingencies and failed properly to account for related-
+party transactions and stock compensation expenses.  In addition, UTSI failed to devise and 
+maintain an effective system of internal controls relating to side agreements, related parties and 
+stock option practices. 
+
+       29.    As a result of the conduct described above, Lu and Sophie caused UTSI’s 
+violations of Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 13a-1 
+and 13a-13 thereunder insofar as they did not take steps adequate to ensure that UTSI filed 
+accurate financial statements, made and kept accurate books and records, and implemented and 
+maintained adequate internal controls.  Also as a result of the conduct described above, Lu and 
+Sophie violated Exchange Act Rule 13a-14 by falsely certifying that UTSI’s periodic filings did 
+not contain any material misstatements or omissions, disclosed all significant deficiencies in 
+UTSI’s internal controls, and fairly presented UTSI’s financial condition and results of 
+operations. 
+
+                                   UTSI’s Remedial Efforts 
+
+       In determining to accept the Offer, the Commission considered remedial acts undertaken 
+by UTSI. 
+
+                                              IV. 
+
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondents’ Offer. 
+
+       Accordingly, it is hereby ORDERED that: 
+
+       A.     Respondent UTSI cease and desist from committing or causing any violations and 
+any future violations of Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and 
+Rules 13a-1 and 13a-13 thereunder; 
+
+       B.     Respondent Lu cease and desist from causing any violations and any future 
+violations of Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 13a-1 
+
+                                              -6-
+
+---------------------Page 7---------------------
+
+and 13a-13 thereunder, and from committing any violations and any future violations of Rule 
+13a-14 thereunder; and 
+
+       C.     Respondent Sophie cease and desist from causing any violations and any future 
+violations of Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 13a-1 
+and 13a-13 thereunder, and from committing any violations and any future violations of Rule 
+13a-14 thereunder. 
+
+       By the Commission. 
+
+                                                 Nancy M. Morris 
+                                                 Secretary 
+
+                                             -7-
+

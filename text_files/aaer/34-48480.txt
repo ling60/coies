@@ -1,0 +1,94 @@
+Nvidia Corporation: Admin. Proc. Rel. No. 34-48480
+/ September 11, 2003
+Home | Previous Page
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 48480 / September 11, 2003
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 1859 / September 11, 2003
+ADMINISTRATIVE PROCEEDING
+File No. 3-11255
+In the Matter of
+NVIDIA CORPORATION,
+Respondent
+::::::::::
+ORDER INSTITUTING CEASE-AND-DESIST PROCEEDINGS, MAKING FINDINGS, AND IMPOSING A CEASE-AND-DESIST ORDER PURSUANT TO SECTION 21C OF THE SECURITIES EXCHANGE ACT OF 1934
+I.
+The Securities and Exchange Commission ("Commission") deems it appropriate that cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities Exchange Act of 1934 ("Exchange Act"), against Nvidia Corporation ("Nvidia" or "Respondent").
+II.
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer of Settlement (the "Offer") which the Commission has determined to accept.
+Solely for the purpose of these proceedings and any other proceedings brought by or on behalf of the Commission, or to which the Commission is a party, and without admitting or denying the findings herein, except as to the Commission's jurisdiction over them and the subject matter of these proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-and-Desist Proceedings, Making Findings, and Imposing a Cease-and-Desist Order Pursuant to Section 21C of the Securities Exchange Act of 1934 ("Order") as set forth below.
+III.
+On the basis of this Order and Respondent's Offer, the Commission finds that:
+A. Respondent
+Nvidia Corporation is a Delaware corporation headquartered in Santa Clara, California, that develops and markets graphics processors and media and communications devices.
+Nvidia's common stock is registered with the Commission pursuant to Section 12(g) of the Exchange Act and is quoted on the NASDAQ Stock Market.
+B. Summary
+This matter involves false financial reporting by Nvidia Corporation ("Nvidia" or the "Company"), a developer and marketer of graphics processors and media devices located in Santa Clara, California.
+In April 2002, Nvidia restated its financial results for the first quarter of its fiscal year ended January 31, 2001, (the quarter ended April 30, 2000), as well as other periods.
+The restatement revealed that Nvidia had overstated its financial results for the quarter, primarily due to one transaction with a supplier, which is described below.
+As a result of that transaction, Nvidia's originally reported gross profit was overstated by 6.4%, net income by 15.3%, and diluted earnings per share by 14.8%.
+Nvidia issued the restatement in part because it had inflated its quarterly results by entering into an agreement with a supplier that allowed Nvidia to reduce its costs by more than $3 million during the April 30, 2000 quarter, in exchange for Nvidia's agreement to repay that amount through higher prices on other products in a future period.
+By recording the cost reduction, but not the corresponding agreement to pay higher prices in the future, Nvidia inflated its results for the quarter ended April 30, 2000 and allowed the Company to exceed the consensus analysts' estimates for earnings, income, and product gross
+margin. 1
+C. Nvidia's Conduct During the Quarter Ended April 30, 2000
+1. Nvidia's Financial Performance Is Below Plan
+In February 2000, the beginning of Nvidia's first quarter of fiscal year 2001, Nvidia's internal forecasting indicated that the Company was not on target to meet the consensus external expectations of stock market analysts regarding earnings per share, revenue, and gross margin.
+In order to address this anticipated shortfall, Nvidia's senior management immediately focused the Company on reducing costs for the quarter in order to improve Nvidia's net income and gross margin.
+2. To Meet Expectations for the Quarter, Nvidia Agrees with a Supplier to Lower Nvidia's Costs In Exchange For an Agreement to Pay Higher Prices on Future Generation Products
+Nvidia's single largest source of costs during fiscal year 2001 was for money due to the companies that manufactured and packaged Nvidia's graphics chips.
+Accordingly, in order to address its earnings shortfall, Nvidia negotiated with one of those companies ("Nvidia's Supplier") to reduce costs by approximately three million dollars for the quarter ended April 30, 2000.
+In March 2000, Nvidia employees held meetings and made several requests to its supplier to reduce costs for the current quarter.
+These employees communicated with Nvidia's CFO to ensure that the amount of cost savings sought from Nvidia's supplier was directly correlated to the amount required to address the forecasted gross margin shortfall for the quarter.
+However, Nvidia's supplier was unwilling to grant the cost savings without receiving something in return.
+Accordingly, on March 30, 2000, Nvidia's supplier made a written proposal which offered to grant Nvidia credits during the current quarter in the amount of $3 million for costs owed by Nvidia to the supplier, in return for Nvidia agreeing "to re-pay the $3M back to [Nvidia's supplier] in August 2000 by means of" higher prices on future generation products.
+The Nvidia employee who received this proposal immediately forwarded it via e-mail to Nvidia's CFO who responded by return email:
+"[We] can not sign this or have this in print.
+Will wipe out the credit in Q1.
+[N]eed to arrange this separately and trust us to abide by it."
+The CFO apparently was concerned that having the agreement in print would make it plain that the credits to Nvidia were contingent on Nvidia's promise to repay the supplier in the future.
+In accordance with generally accepted accounting principles ("GAAP"), and specifically Statement of Financial Accounting Standards No. 5, paragraph 8, such an explicit agreement to repay the costs by paying higher prices on future products created a liability that Nvidia would have to record.
+Since the recording of the liability would offset the credits, the deal would provide no net benefit to Nvidia's quarterly financial results.
+Thus, Nvidia's CFO directed the Nvidia employee to separate the arrangement into two separate agreements.
+In the first of the two separate agreements, which was signed on April 3, 2000 by an Nvidia employee at the direction of the CFO, Nvidia agreed to pay increased prices to the supplier in August 2000 in the total amount of $3,299,000.
+In the second of the separate agreements, signed by the supplier on April 4, 2000, the supplier granted credits and cost waivers to Nvidia in the amount of $3.3 million for the April 30, 2000 quarter.
+Neither agreement makes reference to the other.
+However, Nvidia's supplier only agreed to grant the credits and cost waivers to Nvidia based on Nvidia's promise to repay the reduced costs through higher prices in the future.
+Nvidia's CFO received copies of both agreements.
+3. Nvidia Incorrectly Accounts for the Transactions with its Supplier, and Files a Materially False Form 10-Q for the Quarter Ended April 30, 2000
+At the close of its first quarter ended April 30, 2000, Nvidia recorded on its books the credits granted by the April 4th supplier agreement, but did not make any offsetting entry for the agreement to pay higher prices in August 2000.
+In early May 2000 during the quarterly review by Nvidia's independent auditors, Nvidia presented the April 4th agreement as support for taking the $3.3 million cost reduction.
+However, Nvidia did not present to the auditors the April 3rd agreement to pay higher prices.
+As a result, Nvidia inflated its gross income by recording the credits but not the corresponding agreement to repay the credits.
+On May 16, 2000, Nvidia issued a press release reporting record financial results for the quarter ended April 30, 2000.
+The reported results exceeded consensus external forecasts for revenue, income, earnings per share, and gross margin.
+On June 14, 2000, Nvidia filed with the Commission its Form 10-Q for the quarter ended April 30, 2000.
+Among the record financial results reported, Nvidia highlighted the "substantial growth in gross profit and gross profit margin" for the quarter.
+By including the $3.3 million in reduced costs from Nvidia's supplier but omitting any corresponding deduction for the agreement to reimburse the same amount, the press release and the Form 10-Q were false and misleading when made.
+On April 29, 2002, following an internal investigation by its audit committee, Nvidia restated its financial results for the quarter ended April 30, 2000.
+The previously recognized $3.3 million in cost reduction from Nvidia's supplier was reversed.
+The restatement revealed that, as a result of the transaction described above, as originally reported, Nvidia's gross profit was overstated by 6.4%, net income by 15.3%, and diluted earnings per share by 14.8%.
+D. Legal Conclusions
+As described in Parts III(B) through (C) above, in the first quarter of fiscal year 2001, Nvidia engaged in accounting misconduct intended to boost the Company's financial results.
+As a result, Nvidia's Form 10-Q for the period ended April 30, 2000, which was filed with the Commission and disseminated to investors, as well as Nvidia's press release on May 16, 2000, were materially false and misleading.
+In addition, the Company failed to maintain books, records and accounts that, in reasonable detail, accurately and fairly reflected its transactions and dispositions of assets and failed to maintain a system of internal accounting controls sufficient to permit the preparation of financial statements in conformity with GAAP.
+Based on the foregoing, the Commission finds that the Company violated Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 12b-20 and 13a-13 thereunder.
+IV.
+In determining to accept the Offer, the Commission considered remedial acts promptly undertaken by the Respondent and cooperation afforded the Commission staff, after the staff had raised issues concerning Nvidia's books and records.
+V.
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions agreed to in Respondent Nvidia's Offer.
+Accordingly, it is hereby ORDERED that:
+Respondent Nvidia shall cease and desist from committing or causing any violation and any future violation of Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act, and Rules 12b-20 and 13a-13 thereunder.
+By the Commission.
+Jonathan G. Katz
+Secretary
+1
+Nvidia's restatement covered the last three quarters of fiscal year 2000, fiscal year 2001, and fiscal year 2002.
+As a result of the restatement, the Company's total net income for the entire period increased by approximately $1.3 million.
+The Company, through its audit committee, determined that the increased prices reflected in a April 3, 2000 letter agreement (described below) were not, in fact, paid in the third quarter of fiscal year 2001 or subsequently.
+As a result, the restatement did not include adjustments reflecting any such payments.
+http://www.sec.gov/litigation/admin/34-48480.htm
+Home | Previous Page
+Modified: 09/11/2003

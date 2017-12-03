@@ -1,0 +1,480 @@
+---------------------Page 1---------------------
+
+                                                                                            
+ 
+ UNITED                             STATES OF AMERICA 
+ Before                                      the 
+                   SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 59903 / May 12, 2009 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 2968 / May 12, 2009 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No.  3-13466 
+ 
+                                               
+In the Matter of                              ORDER INSTITUTING CEASE-AND-DESIST 
+                                              PROCEEDINGS PURSUANT TO SECTION 
+      INGRAM MICRO INC.,                      21C OF THE SECURITIES EXCHANGE ACT 
+                                              OF 1934, MAKING FINDINGS, AND 
+Respondent.                                   IMPOSING A CEASE-AND-DESIST ORDER  
+ 
+ 
+                                                
+ 
+                                           I. 
+ 
+              The Securities and Exchange Commission (Commission) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities 
+Exchange Act of 1934 (Exchange Act), against Ingram Micro Inc. (Ingram Micro or 
+Respondent).   
+                                            
+                                          II. 
+ 
+              In anticipation of the institution of these proceedings, Respondent has submitted an Offer 
+of Settlement (the Offer) which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the findings 
+herein, except as to the Commissions jurisdiction over it and the subject matter of these 
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making 
+Findings, and Imposing a Cease-and-Desist Order (Order), as set forth below.   
+ 
+                                            
+
+ 
+ 
+---------------------Page 2---------------------
+
+                                                   
+                                                III. 
+ 
+              On the basis of this Order and Respondents Offer, the Commission finds1
+                                                                                    that: 
+ 
+                                             Summary 
+ 
+              These proceedings arise out of the business dealings between Ingram Micro and McAfee, 
+Inc., formerly known as Network Associates, Inc. (referred to herein as McAfee) during the 
+period from the second quarter of 1998 through the third quarter of 2000 when McAfee was 
+engaged in a massive financial fraud.  During that period, McAfee overstated its revenues and 
+earnings by stuffing its distribution channel at Ingram Micro with levels of inventory far in excess 
+of any reasonable expectation of sales to end users while misreporting its revenues from these sales 
+to their distributors.2
+                       For its part, Ingram Micro, McAfees largest customer and greatest single 
+source of revenue, engaged in a variety of highly irregular transactions with McAfee, many of 
+them lacking in economic substance, which enabled McAfee to continue overselling its products to 
+Ingram Micro.  In the course of its business dealings with McAfee, Ingram    Micro failed to keep 
+accurate books and records and failed to devise and maintain an adequate system of internal 
+controls.  Ingram Micro was compensated by McAfee for engaging in these irregular transactions 
+through the payment of millions of dollars of unearned profits, cash payments, and improperly 
+recorded excess inventory fees.   
+ 
+                                          Respondent 
+ 
+       1.           Respondent Ingram Micro Inc. is a Delaware corporation with its principal office in 
+Santa Ana, California.  Ingram Micro is a technology distribution company.  Ingram Micros 
+common stock is registered with the Commission pursuant to Section 12(b) of the Exchange Act 
+and is listed on the New York Stock Exchange under the symbol IM. 
+  
+                                      Other Relevant Entity 
+ 
+              2.           McAfee, Inc. is a Delaware corporation with its principal office in Santa Clara, 
+California.  McAfee is a manufacturer of computer programs focusing on network security, anti-
+virus, and network management products.  McAfees common stock is registered with the 
+Commission pursuant to Section 12(b) of the Exchange Act and is listed on the New York Stock 
+Exchange under the symbol MFE.  Prior to June 30, 2004, McAfee was known as Network 
+Associates, Inc. 
+ 
+                                                 
+       1
+         The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding 
+on any other person or entity in this or any other proceeding.  
+       2
+         On January 4, 2006, the Commission filed a settled civil injunctive action against McAfee, Inc., in which 
+McAfee agreed to be permanently enjoined from violations of the anti-fraud, books and records, and internal 
+controls provisions of the Exchange Act.  McAfee also consented to the entry of a permanent injunction and the 
+payment of a $50 million civil penalty.  SEC v. McAfee, Inc., Civil Action No. 06-009 (PJH) (N.D. Cal.); Lit. Rel. 
+No. 19520 (Jan. 4, 2006).   
+                                                 2 
+---------------------Page 3---------------------
+
+                                              Facts 
+                                                  
+                                           Background 
+        
+       3.           Between 1998 and 2000, McAfee overstated its revenues by $622 million in order 
+to meet revenue and earnings targets, and understated its cumulative net losses by $353 million.  
+As the Commission alleged in its January 2006 complaint:  
+        
+       McAfee stuffed its distribution channel and improperly recorded hundreds of 
+       millions of dollars of revenue on sales transactions with distributors in violation of 
+       the antifraud and other provisions of the federal securities laws.  In a fraudulent 
+       scheme to oversell its products and immediately record the revenue from those 
+       transactions, McAfee secretly gave its distributors substantial cash payments, price 
+       discounts, rebates, and other concessions as inducements to continue buying, as 
+       well as to not return, McAfee products that the distributors had no reasonable 
+       expectation of selling to customers. 
+        
+In addition, the Commissions complaint alleged that McAfee concealed its scheme by falsely 
+record[ing] in its books and records certain of the payments and concessions to distributors, and 
+that McAfee misled investors by filing with the Commission materially false and misleading 
+annual and quarterly reports and securities registration statements.  As a result, McAfee violated 
+antifraud, issuer reporting, books and records, and internal controls provisions of the securities 
+laws.  In settlement, McAfee agreed to a permanent injunction and paid a $50 million civil penalty. 
+  
+       4.           During the period of McAfees misconduct, Ingram Micro was McAfees largest 
+distributor and single most significant source of sales.3
+                                                        In 1998, McAfee changed its accounting 
+method to the sell-in model, which allowed it to recognize revenue upon the sale of products to 
+distributors like Ingram Micro, instead of deferring revenue recognition until its products had been 
+sold to end-users.  Taking advantage of the change to sell-in accounting, McAfee embarked on a 
+scheme to meet quarterly revenue targets through channel stuffing  that is, by pushing excessive 
+amounts of products to its distributors, particularly Ingram Micro.  End-of-quarter sales to Ingram 
+Micro (memorialized in so-called buy-in agreements that were negotiated quarterly between the 
+two companies), in particular, had a significant impact on McAfees reported revenues and its 
+ability to meet market expectations.   
+        
+       5.           Ingram Micros written contract with McAfee expressly limited Ingram Micros 
+ability to return products.  However, McAfee and Ingram Micro had an unwritten understanding 
+that Ingram Micro had an unlimited right to return unsold products to McAfee.  During this period, 
+few vendors extended unlimited return rights to their distributors, but McAfee offered unlimited 
+return rights to Ingram Micro in order to induce Ingram Micro to purchase additional product.   
+        
+
+                                                 
+3
+       In the year 2000, for example, sales to Ingram Micro accounted for approximately twenty percent 
+of McAfees net revenue. 
+ 
+                                                3 
+---------------------Page 4---------------------
+
+       6.           Starting in the second quarter of 1998, Ingram Micros Product Management Group 
+realized that McAfee was willing to provide deep discounts and off-contract enhancements to 
+Ingram Micro in the quarterly buy-in agreements.  As a result, Ingram Micro altered its buying 
+practices and began ordering extraordinarily large amounts of McAfee products, far in excess of 
+the amounts that Ingram Micro reasonably expected to sell.  Ingram Micro began to realize 
+significantly higher profit margins in return for taking on excess inventory from McAfee, which 
+consisted mainly of software licenses.  In return for Ingram Micros increased purchases, McAfee 
+provided various forms of compensation  in the form of cash payments, price concessions, and 
+allowances for unlimited returns  that made Ingram Micros role in McAfees channel-stuffing 
+scheme highly profitable and low-risk.   
+        
+       7.           The McAfee account rapidly became one of Ingram Micros most profitable vendor 
+relationships, despite the fact that McAfee represented a small percentage of Ingram Micros total 
+sales.  Ingram Micro obtained extraordinary profit margins on its business with McAfee compared 
+to its other vendors because, unlike other vendors, McAfee routinely provided Ingram Micro with 
+nonrefundable discounts on Ingram Micros orders of McAfee products.  Ingram Micro retained 
+these discounts regardless of whether it later sold or returned the purchased products.  In addition, 
+McAfee even paid Ingram Micro a profit margin on products that McAfee itself later re-sold 
+through a McAfee subsidiary.  Consequently, McAfee paid Ingram Micro millions of dollars to 
+take and hold products that Ingram Micro did not need and was not selling.  The combination of an 
+unlimited right of return and payment of nonrefundable discounts created a mutually beneficial and 
+profitable relationship between the companies.  Ingram Micro gave McAfee a ready outlet for large 
+volumes of its products, a substantial portion of which ultimately were not sold and were returned 
+to McAfee, and McAfee used these sales to inflate its reported revenue.  For its part, Ingram Micro 
+had a cash-rich vendor willing to make extraordinary payments and concessions that enabled 
+Ingram Micros Product Management Group to post greater profit margins for its software 
+segment, and thereby boost the companys overall performance.   
+        
+      Ingram Micro Ignored Its Internal Inventory Goals and Held Excess McAfee Product 
+        
+              8.           During the relevant period, Ingram Micros internal inventory management goal 
+was to carry no more than eight weeks worth of inventory from any vendor.  Ingram Micro 
+monitored its levels of owned inventory on a monthly basis.  From the second quarter of 1998 
+through 2000, in order to take advantage of McAfees willingness to pay Ingram Micro to buy 
+ever-increasing levels of unneeded products, Ingram Micro disregarded its inventory goals and 
+held excessive amounts of unneeded McAfee products, maintaining   inventory levels far in excess 
+of the amount it reasonably expected to sell.  By early 2000, Ingram Micro carried as much as 
+twenty-two months worth of   inventory of McAfee software licenses (that is, the amount of 
+inventory that Ingram Micro ordinarily would expect to sell over the course of twenty-two 
+months).  Instead of exercising its unwritten right to return products to McAfee in order to reduce 
+the inventory, Ingram Micro continued purchasing McAfee product in 2000 in order to take 
+advantage of the extraordinary discounts and cash payments offered to Ingram Micro by McAfee 
+as an inducement to purchase additional products. 
+ 
+ 
+
+                                               4 
+---------------------Page 5---------------------
+
+          Ingram Micro Misrecorded on its Books and Records Round-Trip Transactions  
+           With McAfee That Were Not Detected by Ingram Micros Internal Controls 
+ 
+              9.           During the relevant period, Ingram Micro and McAfee also engaged in various 
+circular transactions that were lacking in economic substance and were designed solely to inflate 
+McAfees reported revenues.  Ingram Micro profited from these transactions by receiving unearned 
+compensation on sales that it did not originate.   
+ 
+ 10. From June 1998            through June 2000, McAfee bought back tens of millions of dollars 
+worth of its own products from Ingram Micro  while granting Ingram Micro a significantly higher 
+than normal profit margin  in order to avoid costly direct returns that would have negatively 
+impacted McAfees revenues.  McAfee carried out this subterfuge by using a subsidiary called 
+Net Tools to repurchase approximately $45.5 million of inventory it had sold to Ingram Micro.  
+In order to avoid accepting returns directly from Ingram Micro, McAfee acted as a reseller and 
+instructed Ingram Micro to ship the products to buyers identified by McAfee.  McAfee reimbursed 
+Ingram Micro for the shipping costs and paid an inflated profit margin to Ingram Micro, even 
+though Ingram Micro had done nothing to bring about the sale of the products.  These transactions 
+reduced Ingram Micros inventory and enabled Ingram Micro to dispose of excess McAfee 
+products at a profit, without directly returning the product to McAfee.  McAfees use of Net Tools 
+as a means for reducing excess inventory held by Ingram Micro was a subject of quarterly buy-in 
+negotiations between McAfee and Ingram Micro concerning the amount of additional McAfee 
+products that Ingram Micro would agree to buy and the terms of those quarterly buy-in 
+transactions.  Ingram Micro knew or should have known that McAfee was buying back its own 
+products through Net Tools.  Ingram Micro dedicated no selling efforts to these transactions  no 
+sales executive was ever assigned by Ingram Micro to the Net Tools account.  Nonetheless, Ingram 
+Micro earned a high profit margin of approximately thirteen percent on its sales to Net Tools, far in 
+excess of its average profit margin of two to three percent during that period. 
+ 
+              11.        In seven consecutive quarters beginning in 1998, Ingram Micro and McAfee took 
+advantage of asymmetries in the dates on which the companies respective quarters ended. 4
+                                                                                            Before 
+the end of McAfees quarter, Ingram Micro would agree to purchase millions of dollars of McAfee 
+products that it did not need to meet its inventory requirements or sales goals.  Within days, 
+however, after McAfees quarter closed, but before Ingram Micros quarter had ended, Ingram 
+Micro returned equivalent product to McAfee to avoid reporting the inventory on its quarter-end 
+financial statements.  McAfee exploited the timing of the product sales and returns that occurred 
+during the gaps between the companies quarter-ends (gap days) to record revenues in one 
+quarter while deferring recording the related returns until the following quarter.  McAfee 
+compensated Ingram Micro for participating in these patently-irregular and nonsubstantive gap day 
+transactions by paying Ingram Micro non-refundable volume-based discounts on the purchases.  
+McAfee, in turn, engaged in the sham gap day transactions and deferred accounting for the product 
+                                                 
+       4
+               Ingram Micros fiscal calendar was organized into four quarters of thirteen weeks, while 
+McAfees fiscal calendar used the more traditional quarters that ended on the last day of every third month.  
+Consequently, McAfees fiscal quarter would, at times, end one or more days before Ingram Micros fiscal quarter 
+ended. 
+ 
+                                                5 
+---------------------Page 6---------------------
+
+returns until the following quarter, in order to create the appearance that it had met its quarterly 
+sales goals and to inflate its revenue.  In total, more than $115 million worth of McAfee products 
+was purchased and returned by Ingram Micro in such gap day transactions.     5
+                                                                              
+        
+              12.        Ingram Micros participation in the quarter-end transactions was attributable, in 
+part, to a failure to devise and maintain an adequate system of internal controls.  Although Ingram 
+Micros Product Management Group approved the amount and timing of the purchases from and 
+returns to McAfee, properly functioning internal accounting controls would have alerted senior 
+management to the nature, timing, and extent of the nonsubstantive purchase-and-return 
+transactions.  Ingram Micros books and records did not fairly and accurately reflect the true nature 
+of these transactions. 
+ 
+       13.        In the second quarter of 1999, McAfee arranged sham sales of approximately $11 
+million worth of products by Ingram Micro to certain customers as another means of bolstering 
+McAfees reported revenues.  To execute these transactions, Ingram Micro needed to make a 
+special purchase of McAfee product, which it then delivered to the customers that had been 
+identified by McAfee. McAfee recorded revenue immediately upon sale of the additional product 
+to Ingram Micro. The products later were returned to Ingram Micro by the customers.  McAfee 
+paid Ingram Micro more than $600,000 as a purported profit on the sales, even though Ingram 
+Micro was merely the conduit for the delivery and subsequent return of the products.    When 
+Ingram Micro sought to deduct from its accounts payable to McAfee the cost of the goods that it 
+had specially purchased for these transactions, which would have lowered McAfees revenues in 
+the quarter, McAfee sent Ingram Micro a cash payment equal to the cost of the goods and a profit 
+
+                                                 
+       5
+               Ingram Micro and McAfee also engaged in other similar transactions that were designed to 
+enable McAfee to record revenue from additional sales to Ingram Micro prior to the end of its quarter, while 
+deferring when Ingram Micro would receive the product and, ultimately, allowing Ingram Micro to return to 
+McAfee in a subsequent quarter a substantial portion of the product that Ingram Micro purchased in such 
+transactions.  Ingram Micro and McAfee structured certain quarterly buy-in deals so that McAfee could 
+record revenue from such sales during its quarter, but the purchased product would not arrive in Ingram 
+Micros inventory until after Ingram Micros quarter had ended.  At various times during the relevant 
+period, Ingram Micro insisted on such slow-boating arrangements as a condition of its agreement to 
+purchase product from McAfee.  McAfees agreement not to ship the product until after Ingram Micros 
+quarter had ended enabled Ingram Micro to avoid recording the product in its inventory for its quarterly 
+reports.  However, the agreements were contrivances because the products at issue were, for the most part, 
+software licenses and not tangible inventory that needed to be shipped or otherwise physically delivered.  
+McAfee made rebate payments and other concessions in order to induce Ingram Micro to participate in such 
+transactions. 
+        
+                                Between the first quarter of 1999 and the fourth quarter of 2000, Ingram Micro placed at 
+least $188.5 million in purchase orders that were designated for shipment after the close of Ingram 
+Micros quarter.  Of this amount, Ingram Micro received about $172 million in McAfee products after the 
+quarter in which the buy-in deal was made.  Of the $172 million in products that were received after the 
+quarter of the buy-in deal, Ingram Micro returned approximately $145 million worth to McAfee.  These 
+returns effectively completed round-trip transactions that enabled McAfee to inflate its reported financial 
+results.  For its part, Ingram Micro received millions of dollars in payments and other concessions from 
+McAfee that, as discussed above, were not contingent on Ingram Micro actually selling the products. 
+                                                  6 
+---------------------Page 7---------------------
+
+margin of more than $600,000, in order to avoid having to accept a return.  Ingram Micro 
+inaccurately recorded the transaction as a sale in its own financial records.   
+ 
+                    Ingram Micro Was Paid To Not Return McAfee Products 
+ 
+              14.        McAfee made disguised payments to induce Ingram Micro to refrain from 
+exercising its unlimited right to return unsold inventory to McAfee.  On at least four occasions, 
+Ingram Micro requested and received payments for holding excess inventory, even though the 
+inventory consisted mainly of electronic software licenses represented by bar codes kept in binders 
+that occupied little warehouse space and, as a result, entailed virtually no storage expense for 
+Ingram Micro.  The excess inventory fees were calculated as a percentage of the value of Ingram 
+Micros owned inventory of McAfee products. 
+ 
+              15.        As Ingram Micros inventory of McAfee products increased, so did the size of its 
+requests for excess inventory payments, resulting in Ingram Micro obtaining both volume-based 
+discounts at the time of the buy-in agreements, and additional holding fees on the same unsold 
+products for agreeing not to return them to McAfee.  Near the end of the first quarter of 2000, 
+Ingram Micro determined that it held $54 million worth of excess McAfee inventory.  To forestall 
+a return of some or all of this inventory, senior McAfee officials offered to discount the amount 
+that Ingram Micro owed McAfee by two percent of the value of the excess inventory  or 
+approximately $1.1 million -- as a further inducement for Ingram Micro to continue holding the 
+excess inventory and purchasing additional inventory in the following quarter.  This discount was 
+memorialized in a side letter dated March 8, 2000.  Subsequently, Ingram Micro not only did not 
+return the excess McAfee inventory, but, on March 24, 2000, entered into a new agreement to 
+purchase approximately $31.4 million worth of additional McAfee products.  Ingram Micro also 
+requested excess inventory fees in the second and third quarters of 2000, similarly calculated as a 
+percentage of the value of the excess stock that Ingram Micro held in its inventory.  In June 2000, 
+Ingram Micro received approximately $2.5 million to continue holding excess inventory, and in the 
+third quarter, Ingram Micro was paid approximately $3.8 million in excess inventory payments.  
+ 
+         Ingram Micro Misrecorded Excess Inventory Payments as Early Pay Discounts 
+ 
+       16.        The excess inventory fees negotiated by Ingram Micro for the second and third 
+quarters of 2000 were characterized on Ingram Micros books in a manner designed to meet 
+quarterly financial targets.  In both quarters, Ingram Micro asked McAfee to recharacterize the 
+excess inventory payments as early pay discounts, or discounts that would have been earned if 
+Ingram Micro had paid on its account with McAfee earlier than required under their contract.  
+These recharacterizations did not accurately reflect the substance of the McAfee payments.  Under 
+Ingram Micros accounting policies, had the $6.3 million of fees been associated with its 
+inventory, such as an excess inventory payment, then Ingram Micro would have been unable to 
+recognize the full amount of the fees in the quarters in which they were received, pending the 
+disposition of the inventory associated with the fees.  After McAfee agreed to recharacterize the 
+fees as early pay discounts, Ingram Micro recognized the fees into income in the quarters they 
+were received, and did not amortize them over time, as required by its accounting policies.  In 
+these transactions, Ingram Micro solicited and obtained documentation from McAfee that did not 
+
+                                               7 
+---------------------Page 8---------------------
+
+accurately reflect the substance of the McAfee payments.  As a result, Ingram Micro inaccurately 
+recorded those transactions on its books and records as early pay discounts, rather than 
+inventory-related payments. 
+ 
+       Ingram Micro Accepted and Misrecorded Mischaracterized Payments From McAfee 
+ 
+              17.         McAfee often mischaracterized in its communications with Ingram Micro the 
+purpose and nature of the payments that it was making to Ingram Micro as inducements for Ingram 
+Micro to hold excess inventory and purchase additional inventory.  From September 1999 through 
+October 2000, McAfee mischaracterized in correspondence and communications with Ingram 
+Micro the actual purpose of payments totaling at least $59.5 million.  McAfee relied upon the 
+misleading descriptions to disguise and justify its own improper accounting for the discounts and 
+concessions it paid to Ingram Micro.  Although Ingram Micro was aware of the 
+mischaracterizations as well as the actual purpose for the payments from McAfee, Ingram Micro 
+accepted the payments and typically recorded them on its books and records with different 
+explanations or designations that comported with Ingram Micros understanding of the actual 
+purpose of the payments, and not the explanation that had been made by McAfee in its 
+correspondence.  A properly functioning system of internal controls would have alerted senior 
+management to these discrepancies. 
+ 
+              18.        In one instance, on September 30, 1999, McAfee wired a $16 million cash payment 
+to Ingram Micro in order to keep Ingram Micro from reducing its payment on a pending invoice by 
+a corresponding amount.  Ingram Micro initially classified the payment as an unapplied amount 
+for future amounts due, but later, Ingram Micro applied the $16 million cash payment to offset 
+nearly $16 million in planned returns, rather than deducting that amount from a payment to 
+McAfee for product purchases.  At the end of the quarter, Ingram Micro paid McAfee in full the 
+invoiced amounts for purchased product, in effect returning the $16 million to McAfee.  Ingram 
+Micros books and records, and internal controls, never properly reflected the purpose of the $16 
+million payment, which was to prevent Ingram Micro from returning products and reducing its 
+accounts payable to McAfee.    
+ 
+              19.        Similarly, in November 1999, McAfee sent Ingram Micro a memorandum in which 
+it outlined a plan to pay Ingram Micro $21 million for discounts, fees, and concessions that had 
+been negotiated in prior quarterly buy-in transactions.  On November 17, 1999, McAfee delivered 
+eight payments totaling over $21 million to Ingram Micro in eight separate wire transfers.  At the 
+same time, McAfee also sent Ingram Micro eight cover letters, each dated November 17, 1999, 
+characterizing the payments as reimbursement for expenses such as marketing fund rebates and 
+other promotional programs rather than discounts, fees, and concessions, and attributing the 
+payments to quarters other than those for which the payments actually were being made.    
+ 
+              20.        McAfees November 1999 memorandum also revealed that one purpose of the 
+payments was to create a misleading accounts receivable balance that Ingram Micro could confirm 
+to McAfees outside accountants.  In the memorandum, McAfee asked Ingram Micro to confirm to 
+McAfees outside accountants that Ingram Micro owed McAfee approximately $40 million.  
+However, at the time, Ingram Micro could not truthfully confirm a $40 million balance because 
+
+                                               8 
+---------------------Page 9---------------------
+
+Ingram Micros records reflected an account payable of only about $19 million, after deducting the 
+$21 million in discounts and other amounts that McAfee previously had agreed to pay to Ingram 
+Micro for purchasing additional products.  In the memorandum, McAfee proposed that it would 
+pay Ingram Micro $21 million in order to offset the $21 million in discounts and concessions that 
+Ingram Micro claimed it was owed, and that, Ingram Micro, in turn, would confirm to McAfees 
+outside auditors that it owed McAfee an undiscounted total of $40 million.  McAfees outside 
+auditors never received the confirmation in question from Ingram Micro.  Ingram Micro 
+nevertheless retained the $21 million, canceled the outstanding discounts and reductions on its 
+records, and later sent McAfee a check for approximately $38 million as payment in full under the 
+invoices in question.6
+                       By participating in this round-tripping of cash payments with McAfee, 
+Ingram Micro helped to create the false impression that McAfee had been paid in full on the 
+outstanding invoices to Ingram Micro.  As a result, Ingram Micro overstated its accounts payable 
+for the quarter and its internal controls failed to alert Ingram Micros senior management that the 
+company was engaging in a highly irregular transaction that lacked economic substance. 
+ 
+                                           Violations 
+ 
+       21.        A result of the conduct described above, Ingram Micro violated Exchange Act 
+Section 13(b)(2)(A), which required Ingram Micro to make and keep books, records and accounts 
+which, in reasonable detail, accurately and fairly reflect its transactions. 
+ 
+       22.        As a further result of the conduct described above, Ingram Micro violated Exchange 
+Act Section 13(b)(2)(B), which required Ingram Micro to devise and maintain a system of internal 
+controls sufficient to provide reasonable assurance that transactions are executed in accordance 
+with managements general or specific authorization. 
+ 
+                               Ingram Micros Remedial Efforts 
+                                                 
+       23.        In determining to accept the Offer, the Commission considered remedial 
+acts promptly undertaken by Respondent and cooperation afforded the Commission staff. 
+                                               IV. 
+                                                 
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondent Ingram Micros Offer. 
+ 
+       Accordingly, pursuant to Section 21C of the Exchange Act, it is hereby ORDERED that: 
+ 
+ A. Respondent Ingram Micr             o Inc. cease and desist from committing or causing any 
+violations and any future violations of Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act. 
+ 
+       B.        IT IS FURTHER ORDERED that Respondent shall, within thirty (30) days of the 
+entry of this Order, pay disgorgement of $15,000,000 to the Clerk of the United States District 
+                                                 
+       6
+               McAfees auditors relied on the fact that Ingram Micro had paid the invoiced amount in 
+full as proof that Ingram Micro, in fact, owed that amount to McAfee. 
+                                                9 
+---------------------Page 10---------------------
+
+Court for the Northern District of California to be added to the Distribution Fund established in 
+SEC v. McAfee, Inc., Case Number C06-0009 (PJH).  Respondent shall provide proof of payment, 
+in a form acceptable to the staff of the Commission, to Yuri B. Zelinsky, Division of Enforcement, 
+Securities and Exchange Commission, 100 F St., N.E., Washington, D.C. 20549.  In the event the 
+Court disallows such payment to the Distribution Fund then Respondent shall pay within ten (10) 
+days after the Court disallows said payment $15,000,000 to the United States Securities and 
+Exchange Commission.  If timely payment is not made, additional interest shall accrue pursuant to 
+SEC Rule of Practice 600.  Payment shall be: (A) made by United States postal money order, 
+certified check, bank cashier's check or bank money order; (B) made          payable to the Securities and 
+Exchange Commission; (C) hand-delivered or mailed to the Office of Financial Management, 
+Securities and Exchange Commission, Operations Center, 6432 General Green Way, Stop 0-3, 
+Alexandria, VA 22312; and (D) submitted under cover letter that identifies Ingram Micro Inc. as a 
+Respondent in these proceedings, the file number of these proceedings, a copy of which cover 
+letter and money order or check shall be sent to Yuri B. Zelinsky, Division of Enforcement, 
+Securities and Exchange Commission, 100 F St., N.E., Washington, D.C. 20549.   
+ 
+ By the Commission. 
+ 
+ 
+ 
+       Elizabeth M. Murphy 
+       Secretary 
+
+                                                     10 

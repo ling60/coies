@@ -1,0 +1,385 @@
+Carl M. Apel: Administrative Proceeding No. 34-44136, March 30, 2001
+Home | Previous Page
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No.
+44136 / March 30, 2001
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No.
+1379 / March 30, 2001
+ADMINISTRATIVE PROCEEDING
+File No.
+3-10448
+In the Matter of
+CARL M. APEL,
+Respondent.
+:::::::
+ORDER INSTITUTING
+PROCEEDINGS PURSUANT TO
+SECTION
+21C OF THE SECURITIES
+EXCHANGE ACT OF 1934, MAKING
+FINDINGS AND IMPOSING A
+CEASE-AND-DESIST ORDER
+I.
+The Securities and Exchange Commission ("Commission") deems it appropriate that administrative proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities Exchange Act of 1934 ("Exchange Act") against Carl M. Apel ("Apel").
+II.
+In anticipation of the institution of these administrative proceedings, Apel has submitted an Offer of Settlement ("Offer") which the Commission has determined to accept.
+Solely for the purposes of these proceedings, and any other proceedings brought by or on behalf of the Commission or to which the Commission is a party, and without admitting or denying the findings set forth below, except as to the jurisdiction of the Commission over himself and over the subject matter of these proceedings,which he admits, Apel consents to the entry of this Order Instituting Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making Findings and Imposing a Cease-and-Desist Order ("Order").
+III.
+FACTS
+The Commission makes the following findings:1
+A. Summary
+This matter concerns the material over accrual of reserve accounts and other accounting errors at National Steel Corporation ("National Steel"), and the gradual, improper and publicly undisclosed reduction of those reserves at the direction of National Steel's controller and vice president of finance, Carl M. Apel.
+Through accounting errors and other negligence National Steel's finance department allowed numerous liability accrual and asset allowance accounts (the "reserves") to become over accrued by approximately $51 million as of 1997.
+The build up of the excess reserves dated back many years, in some cases from the 1980s and before.
+In 1996, National Steel's finance department began to adjust certain over accrued reserves at Apel's direction, but these adjustments were not in conformity with Generally Accepted Accounting Principles ("GAAP").
+Apel ordered certain reserve accounts to be reduced gradually -- in even dollar amounts on a monthly basis --without disclosing these gradual reductions to the public.
+This process of gradually reducing reserve accounts is sometimes referred to as "accreting" the reserves into income.
+The publicly undisclosed accretions materially increased the income that National Steel reported to investors in at least two quarters in 1996 and one quarter in 1997.
+An employee reported the excess reserves and the gradual reductions to National Steel's Audit Committee in August 1997.
+The Audit Committee initiated an internal investigation and the Company voluntarily restated National Steel's financial statements from 1992 through the second quarter of 1997.
+B. Respondent and Issuer National Steel
+National Steel is a Delaware corporation headquartered in Mishawaka, Indiana and together with its subsidiaries is the fourth largest integrated steel manufacturer in the United States.
+National Steel's common stock is registered with the Commission pursuant to Section 12(b) of the Exchange Act, and is listed on the New York Stock Exchange.
+Carl M. Apel was National Steel's controller from 1992 to April 1997, when he was appointed vice president of finance, the top financial position at National Steel at that time.
+Apel oversaw all accounting matters at National Steel, including the preparation of financial statements and Commission filings.2
+Apel is a certified public accountant, licensed to practice in Pennsylvania, and was formerly employed by a national accounting and auditing firm.
+C. Relevant Accounting Principles
+GAAP require the establishment and accrual of reserves for expenses, losses and liabilities, even though payment of the expense, or realization of the loss, may be contingent upon future events.
+Pursuant to Statement of Financial Accounting Standards
+No. 5 ("FAS 5"), Accounting for Contingencies (March 1975), ¶8:
+8.
+An estimated loss from a loss contingency
+. . .
+shall be accrued by a charge to income if both of the following conditions are met [emphasis in original]:
+a.
+Information available prior to the issuance of the financial statements indicates that it is probable that an asset had been impaired or a liability had been incurred at the date of the financial statements
+. . .
+[and]
+b.
+The amount of loss can be reasonably estimated [footnotes omitted].
+If the reasonable estimate of a particular loss contingency is a range, an amount shall be accrued for the loss.
+When some amount within the range appears at the time to be a better estimate than any other amount within the range, that amount shall be accrued.
+When no amount within the range is a better estimate than any other amount, however, the minimum amount in the range shall be accrued.
+See FASB Interpretation No. 14, Reasonable Estimation of the Amount of a Loss (September 1976).
+If there is at least a reasonable possibility that an additional loss has been incurred, beyond the amount accrued, disclosure of the nature of the contingency and an estimate of the possible loss or range of loss shall be made.
+See FAS 5, ¶10.
+GAAP specifically forbid the accrual of "general" reserves.
+See FAS 5, ¶14:
+14.
+Some enterprises have in the past accrued so-called "reserves for general contingencies."
+General or unspecified business risks do not meet the conditions for accrual in paragraph 8, and no accrual for loss shall be made
+. . .
+Accounting estimates, including estimates for loss contingencies, may change as new events occur, as more experience is acquired, or as additional information is obtained.
+A change in an accounting estimate should be accounted for in (a) the period of change if the change affects that period only, or (b) the period of change and future periods if the change affects both.
+Although not dispositive of an issuer's disclosure obligations under the federal securities laws, if the change in estimate affects several future periods, GAAP require disclosure of the effect on income.
+If the effect on income is material, disclosure is recommended for changes in estimates made each period in the ordinary course of accounting.
+Materiality should be considered in relation to both the effects of each change separately and the combined effect of all changes.
+See APB Opinion No. 20 ("APB 20"), Accounting Changes (July 1971).
+A change in estimate made in an interim accounting period should be accounted for in the interim period in which the estimate is changed.
+The effect on earnings should be reported in the current period and in subsequent interim periods, if the effect of the change is material in relation to any period presented.
+See APB 28, Interim Financial Reporting (May 1973).
+Changes in estimates are distinguishable from the correction of errors in previously issued financial statements.
+Errors result from mathematical mistakes, mistakes in the application of accounting principles, or oversight or misuse of facts that existed at the time the financial statements were prepared.
+The correction of error, including erroneous estimates related to loss contingencies, should be disclosed in the period in which the error is discovered.
+The correction is accounted for and reported as a prior period adjustment, that is, by restating the financial statements of the affected prior periods.
+See FAS 16, Prior Period Adjustments (June 1977) [as partially superseded by FAS 109, Accounting For Income Taxes (February 1992) ¶288(n)]; APB 20, ¶¶13, 36 and 37; and APB 9, Reporting the Results of Operations (December 1966) ¶¶18 and 26.
+As these provisions make clear, GAAP do not allow for the deferral of accounting adjustments arising from a change in estimate or the correction of error.
+If a change in estimate affects one period only, the change may not be accounted for over two or more periods in order to diminish the effect of the change on income, or for anyother purpose.
+Correction of error may not be accounted for prospectively, or over two or more periods, in order to diminish the effect of the correction on any one period.
+D. National Steel Over Accrues Reserves
+From the early 1980s through 1996 National Steel over accrued reserves or made other accounting errors which caused income to be understated by a total of $62 million.
+Of this amount, $51 million derived from over accrued reserves.
+The accounts in question included reserves for bad debts, state and local taxes, post employment and post retirement benefits, and other miscellaneous liabilities.
+Over half of the excess reserves were accrued prior to 1992.
+These were:
+AccountAmounts Over Accrued as of 12/91 (in 000s)
+"General Office" Reserve
+$7,000
+State Franchise Tax Reserve
+12,356
+State Income Tax Reserve
+2,465
+Post Employment/Retirement Benefits Reserve
+1,046
+Reserve for ore mine shutdown
+4,158
+Reserve for bankrupt joint venture partner
+3,657
+Misc.
+232
+Total of Pre-1992 Over Accrued Reserves:
+$30,914
+In 1994 and 1996, National Steel over accrued reserves and made other accounting errors totaling $16.8 million and $21 million, respectively.
+The details are (in 000s):
+Account 1994
+1996
+Michigan Single Business Tax Reserve
+$3,715
+$2,871
+Post Employment/ Retirement Benefits Reserve 13,101
+Bad Debt Reserve
+2,000
+Management Incentive Plan Reserve
+1,800
+Change in Measurement Date for Benefits Calculation (FAS 87 and 106)
+11,100
+Aged Inventory Allowance
+3,459
+Totals:
+$16,816
+$21,230
+As the above tables indicate, the over accruals and other accounting errors were spread over several different types of accounts and not concentrated within any specific area of responsibility.
+As to each account, National Steel's finance department staff made accounting mistakes or mis-estimates, applied incorrect accounting standards, failed to apply correctly new accounting standards, failed to consult withother departments within National Steel as needed, applied incorrect discounting factors and time periods, and/or neglected to adjust estimates in response to changed facts and circumstances.
+The over accruals and other accounting errors (including minor errors restated as of 1992, 1993 and 1995) had the following effect on National Steel's income statements for the years 1992 through 1996:
+Effect of Accounting Errors on
+Pretax Income of National Steel (in 000's)
+Period ending:
+12/31/92
+12/31/93
+12/31/94
+12/31/95
+12/31/96
+Pretax Income (loss)originally reported:
+(74,527)
+(279,919)
+151,836
+91,772
+28,829
+Adjustments:
+642
+(1,213)
+16,816
+(1,802)
+14,9003
+Pretax Income Restated:
+(73,885)
+(281,132)
+168,652
+89,970
+43,729
+Percentage Change:
+0.9%
+0.4%
+11.1%
+2.0%
+51.7%
+National Steel's failure to correct its over accrued reserves had the following effect on its balance sheets during the years 1992 through 1996:
+Effect of Excess Reserves on
+Balance Sheet of National Steel (in 000's)
+Period ending:
+12/31/92
+12/31/93
+12/31/94
+12/31/95
+12/31/96
+Retained Earnings("R/E")Originally Reported:
+70,795
+(207,366)
+(43,958)
+54,115
+89,478
+CumulativeChanges to R/E:
+31,556
+30,343
+47,029
+43,777
+52,642
+R/E Restated:
+102,351
+(177,023)
+3,071
+97,892
+142,120
+Percent R/EUnderstated:
+44.6%
+14.6%
+107%
+80.9%
+58.8%
+Percent Shareholders'Equity Understated:
+9.6%
+16.0%
+13.3%
+7.9%
+8.9%
+E. Carl Apel Orders Gradual Accretion of Excess Reserves to Income
+In January 1996, Apel directed a finance department employee to prepare a recurring journal entry form to debit the State Franchise Tax reserve by $166,666.67 per month until further notice, thus reducing the account by $500,000.01 per quarter in 1996.
+Apel gave no further instructions regarding adjustments to this account.
+The finance department performed no analysis pursuant to FAS 5 or APB 20 to justify this reduction.
+The facts and circumstances relating to National Steel's liabilities for state franchise taxes did not change in any quarter in 1996 such as to justify the reduction of the reserve by $500,000.
+No public disclosure of these adjustments was made in National Steel's Forms 10-Q or 10-K for 1996.4
+During 1996 National Steel continued to use the State Franchise Tax reserve for its intended purpose -- to accrue and pay for that year's state franchise tax expenses, which amounted to $783,316.
+By year end, the balance in the account had fallen to $10,748,150.
+In January 1997, Apel directed finance department employees to prepare recurring journal entry forms to:
+(i) debit the State Franchise Tax reserve by $166,666.67 per month, continuing the gradual reduction of this account begun the previous year; (ii) debit the State Income Tax reserve by $100,000.00 per month; (iii) debit the General Office reserve by $50,000.00 per month; (iv) debit the allowance for bad debts by $125,000.00 per month; (v) debit the Michigan Single Business Tax reserve by $167,000.00 per month; and (vi) debit certain shutdown reserves by $500,000.00 per month.
+In April 1997, Apel directed a finance department employee to prepare a recurring journal entry form to debit the reserve for the management incentive compensation plan by $200,000.00 per month.
+Thus, the accretions to income from these reserves totaled $3,326,000.01 in the first quarter of 1997 and $3,926,000.01 in the second quarter of 1997.
+National Steel's finance department performed no analyses to justify these reserve reductions.
+The facts and circumstances relating to the various liabilities in question had not changed in the first or second quarters of 1997 to justify these reductions in the accruals.
+No public disclosure of these adjustments was made in National Steel's Forms 10-Q for the first and second quarters of 1997.
+The finance department accounted for the gradual reduction of the reserves as pre-tax adjustments.
+With the exception of the State Income Tax reserve, they were used to decrease the "Cost of Goods Sold" and the "Selling, General and Administrative Expenses" line items on National Steel's financial statements.
+As such, they flowed directly to National Steel's bottom line.
+The table below illustrates the effect of the gradual reductions on the income (loss) reported by National Steel to the investing public in 1996 and 1997.
+The table compares (i) the amounts improperly accreted to income on a quarterly and year-to-date basis; with (ii) the income (or loss) that National Steel would have reported but for the accretions.
+In brackets are the percentages by which the accretions increased National Steel's profits (or reduced losses).5
+Effect of Undisclosed Gradual Reduction of Excess Reserves
+on the Income (Loss) Reported by National Steel (in 000's)
+Period
+Accretions
+Income fromOperation
+Pretax Income
+Net Income
+Net IncomeApplicable toCommon Stock
+1st Q 1996
+500
+(12,691)
+[3.9]
+(21,462)
+[2.3]
+(16,075)
+[3.1]
+(18,817)
+[2.7]
+2nd Q 1996
+500
+13,852
+[3.6]
+4,503
+[11.1]
+9,891
+[5.0]
+7,151
+[7.0]
+YTD
+1,000
+1,161
+[86.1]
+(16,959)
+[5.9]
+(6,184)
+[16.2]
+(11,666)
+[8.6]
+3rd Q 1996
+500
+26,426
+[1.9]
+20,707
+[2.4]
+23,789
+[2.1]
+21,049
+[2.4]
+YTD
+1,500
+27,587
+[5.4]
+3,748
+[40.0]
+17,605
+[8.5]
+9,383
+[16.0]
+4th Q 1996
+500
+31,759
+[1.6]
+23,081
+[2.2]
+24,952
+[2.0]
+22,213
+[2.3]
+YTD
+2,000
+59,346
+[3.4]
+26,829
+[7.5]
+42,557
+[4.7]
+31,598
+[6.3]
+1st Q 1997
+3,026*
+33,673
+[9.0]
+25,449
+[11.9]
+22,860
+[13.2]
+20,119
+[15.0]
+2nd Q 1997
+3,626*
+55,710
+[6.5]
+68,207
+[5.3]
+53,452
+[6.8]
+50,715
+[7.1]
+YTD
+6,652*
+89,383
+[7.4]
+93,706
+[7.1]
+76,312
+[8.7]
+70,834
+[9.4]
+(*
+These amounts do not include the adjustments of $300,000 per quarter from the State Income Tax reserve, which were applied to the Income Tax provision line item in National Steel's 10-Qs.
+These adjustments reduced the 1Q 97 Income Tax provision by 11.3%, and the 2Q 97 provision by 3.2%.)
+Although small relative to certain measures, such as National Steel's net sales, the above table demonstrates that, in certain quarters in 1996 and 1997, the gradual reduction of the reserve accounts significantly increased the quarterly and/or year-to-date income (or reduced the losses) National Steel reported to the public.
+In other quarters the effects were less significant.
+For the period 1994 - 1996, the annual incometrend was downward as a result of operations.
+In 1996, the accretions generally had the additional impact of softening that trend and, in 1997, when income began to grow, they increased the rate of that growth.
+IV.
+LEGAL ANALYSIS
+A. Apel Violated Rule 13b2-1 of the Exchange Act
+Rule 13b2-1, promulgated under the Exchange Act, provides that no person shall, directly or indirectly, falsify or cause to be falsified, any book, record or account subject to Section 13(b)(2)(A) of the Exchange Act.
+Apel violated Rule 13b2-1 when he directed the gradual, publicly undisclosed reduction of reserve accounts in a manner not in conformity with GAAP.
+These adjustments to National Steel's reserve accounts were false because they did not accurately reflect changes in the probable and reasonably estimable liabilities of National Steel.
+In addition, these adjustments caused National Steel's income statements in 1996 and the first two quarters of 1997 to be false, as reflected in the factual discussion in this Order.
+B. Apel Was a Cause of National Steel's Violations of the Books and Records
+and Internal Control Provisions of Section 13 of the Exchange Act
+Section 21C of the Exchange Act provides that the Commission may order that any person, who is or was a cause of a violation of any provision of the Exchange Act, to cease and desist from causing such violation.
+Apel was a cause of National Steel's violations of Section 13(a) the Exchange Act and Rules 12b-20, 13a-1 and 13a-13 thereunder.
+As controller and vice president of finance at National Steel, Apel directed the preparation of National Steel's annual reports on Form 10-K for the years ended December 31, 1995 and 1996, and quarterly reports on Form 10-Q up to the first two quarters of 1997, which contained materially false and misleading financial statements.
+Apel was a cause of National Steel's violations of Section 13(b)(2)(A) of the Exchange Act by directing the accrual of certain reserves in excess of National Steel's probable and reasonably estimable loss contingencies, and by directing the gradual reduction of those reserves in a manner not in conformity with GAAP.
+This created books, records, and accounts which did not, in reasonable detail, accurately and fairly reflect the loss contingencies or the income of National Steel.
+Apel was a cause of National Steel's violations of Section 13(b)(2)(B) of the Exchange Act by overseeing National Steel's failure to devise and maintain a system of internal accounting controls sufficient to prevent the accrual of certain reserves in excess of its probable and reasonably estimable loss contingencies, and sufficient to prevent the gradual and publicly undisclosed reduction of those excess reserves in a manner not in conformity with GAAP.
+V.
+Based on the foregoing, the Commission finds that Apel violated Rule 13b2-1 promulgated under the Exchange Act, and that Apel was a cause of National Steel's violations of Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 12b-20, 13a-1 and 13a-13 promulgated thereunder.
+VI.
+In view of the foregoing, the Commission deems it appropriate to accept the Offer of Apel.
+VII.
+Accordingly, IT IS HEREBY ORDERED, pursuant to Section 21C of the Exchange Act, that Apel cease and desist from causing any violation and any future violation of Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act, and Rules 12b-20, 13a-1, 13a-13 thereunder, and that Apel cease and desist from committing any violation and any future violation of Rule 13b2-1 promulgated thereunder.
+By the Commission.
+Jonathan G. Katz
+Secretary
+Footnotes
+1
+The findings herein are made pursuant to the Offer and are not binding on any other person or entity in this or any other proceeding.
+2
+For a brief period in August 1996, Apel was not employed by National Steel.
+3
+Figures for 1996 are net of other adjustments made in the restatement.
+4
+Apel was not employed by National Steel on the date it issued its Form 10-Q for the second quarter of 1996.
+5
+The profits (losses) actually reported by National Steel in its 10-K and 10-Qs may be calculated by adding the accretions back into the profits shown on the table (or subtracting from the losses).
+The percentages relating to Net Income and Net Income Applicable to Common Stock (after preferred stock dividends of approximately $11-million per year) are not adjusted for any presumptive tax effect; National Steel paid no federal income tax in 1996 or the first two quarters of 1997.
+The table does not take into account the effect of other adjustments made by National Steel during its restatement.
+As noted above, Apel was not employed by National Steel in August 1996, when the Form 10-Q for the second quarter was filed.
+http://www.sec.gov/litigation/admin/34-44136.htm
+Home | Previous Page
+Modified: 04/02/2001

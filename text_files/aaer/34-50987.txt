@@ -1,0 +1,136 @@
+BroadVision, Inc.: Admin. Proc. Rel. No. 34-50987 / January 6, 2005
+Home | Previous Page
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+Securities Exchange Act of 1934
+Release No. 50987 / January 6, 2005
+Accounting and Auditing Enforcement
+Release No. 2161 / January 6, 2005
+Admin. Proc. File No.
+3-11791
+In the Matter of
+BroadVision, Inc.,
+Respondent.
+:::::::
+ORDER INSTITUTING CEASE-AND-DESIST PROCEEDINGS PURSUANT TO SECTION 21C OF THE SECURITIES EXCHANGE ACT OF 1934, MAKING FINDINGS, AND IMPOSING A CEASE-AND-DESIST ORDER
+I.
+The Securities and Exchange Commission ("Commission") deems it appropriate that public administrative proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities Exchange Act of 1934 ("Exchange Act") against BroadVision, Inc. ("Respondent" or "BroadVision").
+II.
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer of Settlement (the "Offer"), which the Commission has determined to accept.
+Solely for the purpose of these proceedings and any other proceedings brought by or on behalf of the Commission, or to which the Commission is a party, and without admitting or denying the findings herein, except as to the Commission's jurisdiction over it and the subject matter of these proceedings, which Respondent admits, Respondent consents to the issuance of this Order Instituting Cease-and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order ("Order").
+III.
+On the basis of this Order and Respondent's Offer, the Commission finds that:1
+A.	Respondent
+BroadVision, Inc. is a Delaware corporation with its headquarters in Redwood City, California.
+Its common stock is registered with the Commission pursuant to Section 12(g) of the Exchange Act and is traded on the NASDAQ National Market under the symbol BVSN.
+BroadVision develops and sells business software applications.
+B.	Other Relevant Party
+Nancy Gazzigli, age 52, is a resident of Redding, California and was Executive Vice-president and General Manager of Worldwide Products and Services at BroadVision from September 1999 to January 2002.
+C.	Facts
+1.	Summary
+This matter involves improper revenue recognition by BroadVision during the third quarter of 2001, arising out of a sale of bundled software and engineering services to a large national retail chain store (the "Customer").
+Nancy Gazzigli, a former Executive Vice-president and General Manager of Worldwide Products and Services at BroadVision, was responsible for the improper accounting.
+She provided the company's accountants with false information about the transaction and later submitted altered or forged documents to the company's auditors to cover up the misrepresentations that she had made.
+As a result, BroadVision improperly recognized $3.75 million of revenue from the transaction, overstating its quarterly software license revenue by 23.5% and its total revenue by 7.9%.
+In April 2002, BroadVision discovered Gazzigli's misconduct and issued a press release announcing that the company was restating its third quarter 2001 financial results.
+The following day, BroadVision's share price declined nearly 15%.
+2.	BroadVision Sells Bundled Software and Services
+In 2000, BroadVision began efforts to sell its application software to its Customer.
+As part of the negotiations, the Customer requested that BroadVision provide on-site engineering support, and BroadVision agreed to do so.
+At BroadVision's request, the parties split the transaction into two contracts and assigned the majority of the purchase price to the licenses.
+On December 29, 2000, BroadVision and the Customer signed the first agreement, called the Software License and Services Agreement ("SLSA"), pursuant to which the Customer agreed to pay $4 million for two four-year software licenses and an annual maintenance fee of $720,000 per year for four years.
+The SLSA also included an option for the Customer to acquire additional software from BroadVision.
+Subsequently, on March 29, 2001, BroadVision and the Customer signed the second agreement, called the Statement of Work ("SOW"), which required BroadVision to have two of its engineers work on-site at its Customer's headquarters for four years, at a total price of $420,000 ($280,000 for the first year, $140,000 for the second year and nothing thereafter).
+On April 3, 2001, BroadVision was paid $5.33 million pursuant to the SLSA and the SOW.
+The payment consisted of $4 million for the licenses, $720,000 for the first year's maintenance fee, $280,000 for the first payment under the SOW, and $330,000 in taxes.
+Nancy Gazzigli was the senior BroadVision officer responsible for managing the business relationship with this Customer, and she led the negotiations on behalf of the company.
+3. 	Accounting Rules for Bundled Software and Services
+Revenue recognition for software and related services is governed by Statement of Position ("SOP") 97-2, Software Revenue Recognition (October 1997).
+Generally, license revenue is recognized on delivery, while customer support and consulting revenue is recognized as the services are performed.
+When a single transaction involves both licensing and services, the two elements must be examined separately to determine the amount of revenue allocable to each, based on vendor-specific objective evidence of fair value ("VSOE").
+VSOE is determined by the amount that a company typically charges for a license or service, rather than the price stated in any particular contract.
+In addition, in a transaction that includes both licenses and services, license revenue may be recognized on delivery only if the sale of the license is separable from the sale of services, and the price of the services is deducted from the amount of the contract.
+If the sale of the software license and services are inseparable, license revenue cannot be recognized upon delivery.
+Instead, contract accounting applies, which typically requires the recognition of revenue ratably over the term of the contract.
+See SOP 97-2, ¶¶ 7, 13, 31 and 65.
+4. 	To Address Concerns Raised by the Auditors, Gazzigli Provides BroadVision's Finance Department with Phony Change Orders
+After the agreements with the Customer were signed, BroadVision's external auditors, Arthur Andersen, questioned the company's ability to recognize any of the revenue from the transaction.
+The auditors had indications that the SLSA and the SOW were not separable and, because the on-site support was a new service, evidence of its value was lacking.
+In addition, the auditors did not believe they had sufficient information concerning the pricing of the option for future software that was included in the SLSA.
+These issues prevented BroadVision from recognizing any of the revenue from the transaction in the first quarter of 2001.
+During April 2001, Gazzigli concocted a scheme to have the license revenue from this transaction booked improperly.
+She sent three phony change orders relating to the SOW to the company's finance department, pursuant to which the Customer purportedly agreed to pay an extra $3.55 million for the two BroadVision engineers and certain additional consulting services.
+However, Gazzigli's scheme did not work as planned because the revenue from the transaction could not be recognized until BroadVision received purchase orders from its Customer.
+When the purchase orders did not arrive in the normal course of business, the finance department contacted several lower level employees who were working on this transaction with the Customer to request their help in obtaining the necessary documentation.
+After that proved to be unsuccessful, the finance department asked Gazzigli to get the purchase orders from the Customer.
+Apparently realizing that her scheme had failed, and that it would be exposed if she had to contact the Customer to request purchase orders for the fabricated change orders, Gazzigli told other BroadVision employees that the Customer had cancelled the SOW and the change orders because it had lost funding for them.
+5. 	Gazzigli Provides Forged Documentation to Arthur Andersen to Support Revenue Recognition
+By the end of September 2001, BroadVision had established a price list for the licenses optioned to the Customer in the SLSA.
+This was sufficient to satisfy Arthur Andersen as to this aspect of the revenue recognition issue, leaving the cancellation of the SOW as the only issue to be resolved.
+On September 21, Gazzigli was asked to provide written proof that the Customer had cancelled the SOW.
+She responded by forwarding an internal e-mail that she had purportedly written on March 21, 2001, which indicated that the agreement was being canceled by the Customer due to budget issues.
+When this was rejected by the auditors (because it did not come from the Customer), Gazzigli submitted a copy of an e-mail that she claimed she received from an employee of the Customer, which stated:
+My best recollection is that effective March 21, 2001 [the SOW and the three change orders] were canceled and no work has been expected to be performed by BroadVision with respect to these documents after that date.
+Arthur Andersen rejected this, too, because it was too indefinite.
+Thereafter, on September 28, Gazzigli obtained a blank fax coversheet on the Customer's letterhead from one of the BroadVision employees who was working on-site at the Customer's headquarters.
+Several hours later, the BroadVision's finance department received a fax purportedly signed by an employee of the Customer, which contained cancellation language that had been approved by the auditors.2
+After the document was forwarded to Arthur Andersen, the firm withdrew its objection and BroadVision recognized $4 million of license revenue for the September 2001 quarter.
+6. 	BroadVision Discovers Gazzigli's Misconduct and Restates its Third Quarter 2001 Financial Results
+Shortly after Gazzigli left BroadVision in January 2002, the Customer requested that the company issue an invoice for the 2002 maintenance fee of $720,000 under the SLSA and the remaining payment of $140,000 for the two engineers under the SOW.
+On February 20, a BroadVision finance department employee told the on-site BroadVision personnel that she understood that the Customer had canceled the SOW and the change orders in September 2001.
+On February 21, one of the on-site employees responded that neither he nor the service manager and account team assigned to the Customer "were notified by [the Customer] that the SOW had been cancelled.
+So this comes somewhat as a surprise to me.
+In fact, [the Customer] is the one asking to be invoiced for the services that we are continuing to provide under the SOW."
+This exchange led to an internal investigation by BroadVision's outside counsel and Arthur Andersen.
+After completing the investigation, Arthur Andersen determined that BroadVision should not have recognized all of the software license revenue from this transaction in the third quarter of 2001.
+Accordingly, on April 1, 2002, BroadVision restated its financial results for the third quarter and filed an amended Form 10-Q with the Commission.
+The restatement reduced BroadVision's revenue for the third quarter of 2001 by approximately $3.5 million.3
+When the restatement was publicly announced, BroadVision's share price declined nearly 15%.
+IV.
+LEGAL DISCUSSION
+A.	Violations of Section 10(b) of the Exchange Act and Rule 10b-5 Thereunder
+Section 10(b) of the Exchange Act and Rule 10b-5 thereunder prohibit fraudulent conduct in connection with the purchase or sale of securities.
+Violations of Section 10(b) and Rule 10b-5 occur when an issuer makes material misstatements or omits material information in periodic reports filed with the Commission, including financial statements, and trading thereafter occurs in the issuer's securities.
+SEC v. Texas Gulf Sulphur, 401 F.2d 833, 860-862 (2d Cir. 1968), cert. denied, 394 U.S. 976 (1969); SEC v. Great American Indus., 407 F.2d 453 (2d Cir.), cert. denied, 395 U.S. 920 (1968).
+A fact is material if there is a "substantial likelihood that the . . . fact would have been viewed by the reasonable investor as having significantly altered the `total mix' of information made available."
+TSC Indus. v. Northway, Inc., 426 U.S. 438, 449 (1976).
+Information regarding the financial condition of a company is presumptively material.
+SEC v. Blavin, 760 F.2d 706, 711 (6th Cir. 1985).
+Evidence of scienter - an intent to deceive or defraud - is required to establish a violation of Section 10(b) and Rule 10b-5.
+Aaron v. SEC, 446 U.S. 680, 691 (1980).
+That showing can be satisfied by evidence of reckless behavior by the person charged.
+Rolf v. Blyth Eastman Dillon & Co., 570 F.2d 38, 44 (2d Cir. 1978), cert. denied, 439 U.S. 1039 (1978).
+BroadVision violated these antifraud provisions because Gazzigli knowingly engaged in misconduct that resulted in the company improperly recording revenue from the sale to the Customer in the third quarter of 2001.
+As a result, the company issued a materially false and misleading quarterly earnings press release and filed a materially false and misleading Form 10-Q with the Commission.
+B.	Violations of the Reporting, Books and Records, and Internal Controls Provisions of the Exchange Act
+Section 13(a) of the Exchange Act and Rule 13a-13 thereunder require issuers with securities registered under Section 12 of the Exchange Act to file quarterly reports with the Commission, and the obligation to file such reports includes the requirement that they be true and correct.
+Rule 12b 20 further requires that such reports contain any additional information necessary to ensure that the required statements in the reports are not, under the circumstances, materially misleading.
+Financial statements in Commission filings that do not comply with GAAP are presumed to be misleading.
+Regulation S-X, 17 C.F.R. § 210.4 01(a)(1).
+Section 13(b)(2)(A) of the Exchange Act requires Section 12 registrants to make and keep books, records, and accounts that accurately and fairly reflect their transactions and the dispositions of their assets.
+Section 13(b)(2)(B) of the Exchange Act requires such registrants to devise and maintain a system of internal accounting controls sufficient to provide reasonable assurances that, among other things, transactions are recorded as necessary to permit preparation of financial statements in conformity with GAAP and to maintain the accountability of assets.
+No showing of scienter is required to violate Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act.
+See, e.g., SEC v. Savoy Indus., Inc., 587 F.2d 1149, 1165 (D.C. Cir. 1978), cert. denied, 440 U.S. 913 (1979); SEC v. World-Wide Coin Invs., Ltd., 567 F. Supp. 747, 749-50 (N.D. Ga. 1983).
+As described above, BroadVision filed a quarterly report with the Commission that materially overstated its revenue.
+The company improperly recorded approximately $3.75 million of revenue on its books in the third quarter of 2001, and thus failed to keep accurate books and records as required.
+In addition, BroadVision lacked sufficient internal accounting controls with respect to the processing of change orders and cancellation of statements of work.
+In each instance, BroadVision did not require original documentation and therefore Gazzigli succeeded in submitting fraudulent documents to BroadVision's finance department.
+As a result, BroadVision violated Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 12b-20 and 13a-13 thereunder.
+V.
+As a result of the conduct described above, the Commission finds that BroadVision violated Sections 10(b), 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 10b-5, 12b-20 and 13a-13 thereunder.
+VI.
+Accordingly, it is hereby ORDERED, pursuant to Section 21C of the Exchange Act, that BroadVision cease and desist from committing or causing any violations and any future violations of Sections 10(b), 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 10b-5, 12b-20 and 13a-13 thereunder.
+By the Commission.
+Jonathan G. Katz
+Secretary
+Endnotes
+1 The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding on any other person or entity in this or any other proceeding.
+2 The signature on the document was forged by Gazzigli.
+The Customer was not aware of her scheme, and none of its employees was involved in the misconduct.
+3 In the restatement, BroadVision determined to recognize the license revenue ratably, over the sixteen quarters of the agreement, at a rate of $250,000 per quarter.
+In restating revenue for the third quarter of 2001, BroadVision recognized $750,000 of license revenue from the transaction.
+Of this amount, $500,000 was attributable to the first and second quarters of 2001.
+http://www.sec.gov/litigation/admin/34-50987.htm
+Home | Previous Page
+Modified: 01/07/2005

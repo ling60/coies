@@ -1,0 +1,199 @@
+Michael G. Horsey et al.: Admin. Proc. Rel. No. 34-46845 / November 18, 2002
+Home | Previous Page
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+Securities Exchange Act of 1934
+Release No.
+46845 / November 18, 2002
+Accounting and Auditing Enforcement
+Release No.
+1667 / November 18, 2002
+Administrative Proceeding
+File No.
+3-10937
+In the Matter of
+MICHAEL G. HORSEY, CPA,
+MICHAEL D. WATSON, CPA, and
+SALLIE D. FELDMAN, CPA,
+Respondents
+:::::::::
+ORDER INSTITUTING PUBLIC ADMINISTRATIVE PROCEEDINGS PURSUANT TO RULE 102(e) OF THE COMMISSION'S RULES OF PRACTICE, MAKING FINDINGS AND IMPOSING REMEDIAL SANCTIONS
+I.
+The Securities and Exchange Commission (the "Commission") deems it appropriate that public administrative proceedings be, and hereby are, instituted against Michael G. Horsey ("Horsey"), Michael D. Watson ("Watson") and Sallie D. Feldman ("Feldman"), pursuant to Rule 102(e)(1) of the Commission's Rules of Practice.1
+II.
+In anticipation of the institution of these proceedings, Horsey, Watson and Feldman (collectively, the "Respondents") have submitted Offers of Settlement ("Offers"), which the Commission has determined to accept.
+Solely for the purpose of these proceedings and any other proceedings brought by or on behalf of the Commission, or to which the Commission is a party, and without admitting or denying the findings herein, except as to the Commission's jurisdiction over them and the subject matter of these proceedings, Respondents consent to the entry of this Order Instituting Public Administrative Proceedings Pursuant to Rule 102(e) of the Commission's Rules of Practice, Making Findings and Imposing Remedial Sanctions ("Order"), as set forth below.
+III.
+On
+the
+basis
+of
+this
+Order
+and Respondents' Offers, the Commission finds that:
+A. RESPONDENTS
+Horsey, age 45, is a certified public accountant who was duly licensed by the commonwealth of Pennsylvania at all relevant times and is a partner with Mitchell & Titus LLP ("M&T"), an accounting firm, in its Philadelphia, Pennsylvania office.
+Horsey was the engagement partner for his firm's audits of the financial statements of MERL Holdings Inc.com ("MERL") for its fiscal years ended December 31, 1997 and December 31, 1998.
+Watson, age 48, is a certified public accountant who was duly licensed by the states of New York and New Jersey at all relevant times and was a partner with M&T in its New York, New York office.
+Watson was the concurring review partner for his firm's audits of the financial statements of MERL for its fiscal years ended December 31, 1997 and December 31, 1998.
+Feldman, age 52, is a certified public accountant who was duly licensed by the state of New Jersey at all relevant times and is a manager with M&T in its Philadelphia, Pennsylvania office.
+Feldman was the senior manager for her firm's audits of the financial statements of MERL for its fiscal years ended December 31, 1997 and December 31, 1998.
+B. RELATED ENTITY AND PERSON
+MERL Holdings, Inc.com was at all relevant times a company with its principal place of business in Hopewell, New Jersey.
+In its filings with the Commission, MERL reported that it operates in six business segments.
+These segments include financial services, insurance, retail operations related to the distribution of private school uniforms and books, the manufacture of private school uniforms, lumber production and information technology consultation.
+The company's common stock is not registered with the Commission pursuant to the Securities Exchange Act of 1934 ("Exchange Act"), and was delisted from the OTC Bulletin Board on February 10, 2000.
+Ed Johnson, age 52, a resident of Hopewell, New Jersey, is the Chairman and CEO of MERL.
+C. FACTS
+1.
+Summary
+The Respondents failed to conduct their audits of MERL's financial statements in accordance with Generally Accepted Auditing Standards ("GAAS"), and issued an audit
+report which wrongly stated that MERL's financial statements were prepared in
+conformity with Generally Accepted Accounting Principles ("GAAP").2
+MERL's financial statements and this audit
+report were included in MERL's Form SB-2 and Form 10-SB Registration Statements,3 which were filed with the Commission in January and May 2000, respectively.4
+2.
+The Respondents' Audit Failures
+Respondents' audits of MERL's 1997 and 1998 financial statements failed to comply with GAAS because the Respondents failed to exercise due professional care and maintain an attitude of professional skepticism, failed to obtain sufficient competent evidential matter, and failed to staff the audits with accountants who had adequate technical training and audit proficiency.
+a. The Auditors Failed to Recommend Appropriate Adjustments to Correct the Hanold-Related Accounting Violations
+On December 30, 1998, MERL acquired the school uniform and bookstore businesses of Hanold School Stores, Inc. ("Hanold").
+MERL paid the purchase price using approximately 692,000 shares of its $10 par value preferred stock.
+MERL wrongly recorded the value of its acquisition of Hanold at an arbitrary amount tied to the par value of MERL's preferred shares.
+Recognizing the company's
+accounting error, the auditors attempted to correct this serious mistake by reducing the value of the acquired net assets to "cost" or "fair value."
+In arriving at a reduced value, however, the auditors compounded the company's accounting missteps by recklessly performing a cost analysis of the acquired assets (as discussed below) that ignored accounting principles.
+Based on this faulty analysis, the auditors incorrectly recommended that a $4.9 million write-off be recorded in order to reduce the value of the net assets.
+This erroneous adjustment also caused the company to record on its balance sheet an invalid $500,000 deferred tax asset.
+i.
+The Flawed Audit of the Fixed Assets
+The fixed assets acquired from Hanold represented approximately 16% of MERL's total assets at December 31, 1998.
+In contravention of GAAP, however, these assets were not recorded in MERL's balance sheet at fair value.5 Instead, MERL recorded these fixed assets on its books at Hanold's original historical cost.
+This was patently wrong.
+For example, $560,878 of the fixed assets acquired (approximately 54% of the acquired fixed assets) were classified in the purchase agreement as "computer equipment" and recorded in MERL's books at the same cost as Hanold had originally paid for those assets several years previously.
+Because computer equipment quickly becomes obsolete, the fair value of the acquired computer equipment would clearly have been substantially less than its original cost to Hanold.
+For that reason, the fixed assets were not recorded in accordance with GAAP and resulted in the December 31, 1998 balance sheet being misstated.
+Horsey, M&T's engagement partner on the audits, failed to exercise due professional care by knowingly accepting an accounting treatment that contradicted the relevant professional accounting standards set forth in GAAP.
+Feldman also understood, based on her professional training and experience, that GAAP required the Hanold fixed assets to be recorded at fair value, but she nonetheless agreed with MERL's decision to value them at non-depreciated cost.
+Watson, the concurring partner, learned during the audits that an appraisal had not been obtained for these assets, yet agreed with Horsey's decision to record those assets at their original cost to Hanold -- regardless of the age of the asset.
+Based on his knowledge of how the assets were recorded, and his professional training and experience, Watson knew that the company's accounting treatment of the fixed assets did not comply with
+GAAP.
+Nevertheless, Watson failed to take any action to correct it.
+ii.
+The Flawed Audit of an Intangible Asset
+The Hanold customer list, recorded at an inflated value of $2,608,125 on MERL's balance sheet, purportedly represented 173,874 customers who had made purchases in the past from Hanold.
+The auditors' workpapers, however, do not contain any support to document that names and addresses for these customers actually existed.
+Instead, the workpapers merely contain a list of postal zip codes with a number written next to each one, which supposedly represented the number of customer names and addresses within that particular zip code.
+Thus, the auditors never saw anything to confirm that an actual customer list existed.
+Further, and contrary to GAAP, MERL failed to have the customer list appraised.
+Instead, at Chairman and CEO Ed Johnson's direction, MERL simply multiplied the number of purported names on the list (173,874) by an arbitrary $15 multiplier and came up with the value recorded.
+The auditors realized that this value had no reliable basis, and decided that an adjustment was necessary.
+However, their "solution" did not fix the problem.
+Feldman, who had no prior experience in the valuation of this type of intangible asset, attempted to devise, with Johnson's assistance, a valuation methodology based on the list's estimated future cash flow.
+However, this methodology was similarly flawed because it depended on several critical - - yet baseless and completely untested - - assumptions all provided by Johnson:
+(i) eighty percent (80%) of "active customers" would apply for a MERL-issued credit card; (ii) ninety percent (90%) of the purported customer list addresses were current or "good" addresses; (iii) five percent (5%) of the "non-active customers" who applied would have "good credit;" (iv) there would be a $2.18 processing cost for each Card application; and (v) a third party would be willing to purchase the customer list.
+The Respondents did not review or ask for any documentation to support or corroborate the assumptions used in determining the value of the customer list.
+Instead, the audit team recklessly relied on Johnson's baseless and untested representations.
+Watson, the concurring partner, also knew from his review of the audit workpapers that no testing had been done to determine the reasonableness of the estimates used in valuing the customer list.
+Watson nevertheless concurred with the faulty valuation methodology used by Horsey and Feldman.
+Since the valuation methodology was not supported by sufficient competent evidential matter, the recorded value of the customer list was inaccurate and violated GAAP.
+Based on this flawed methodology, the auditors required MERL to adjust the value of the customer list from $2,608,125 to $1,575,959, a decrease of $1,032,166 from its initial value, but still materially incorrect under GAAP.
+b. The Respondents' Audit Failures on the Essex Consolidation
+In addition to the Respondents' audit failures relating to the Hanold fixed assets and customer list, the Respondents also failed to perform any audit procedures to test the correctness of MERL's decision to consolidate the financial results of its purported subsidiary, Essex Industries, Inc.
+Essex was MERL's only bona fide operating entity, accounting for all of the revenue reflected in the company's 1997 and 1998 income statements.
+In addition, Essex represented all but $30,000 of MERL's assets at the end of 1997 and represented all of the assets in 1998 prior to the Hanold acquisition (which occurred on the second to last day of 1998).
+MERL should not have consolidated Essex because MERL did not "control" Essex.
+In fact, a Virginia State court specifically enjoined MERL and Johnson from exerting any control over Essex.
+The audit team recklessly ignored the serious issues of whether MERL controlled Essex.
+Feldman consented to the company's accounting treatment of Essex, which Horsey accepted without any analysis, because she believed that the Essex-MERL relationship was sound, simply because Essex personnel appeared to cooperate with the audits.
+This conclusion, however, was not plausible in light of the audit team's receipt of a legal letter dated September 3, 1999, which clearly references the Essex litigation, and which Horsey reviewed and initialed.
+The auditors then received another legal letter (also initialed as having been reviewed by Horsey) dated December 27, 1999, which read, in part, "MERL Industries is currently in jeopardy of losing Essex." (emphasis added).
+Despite this letter, however, Horsey had no follow-up discussions with the attorney handling the matter or with Essex or MERL management.
+In fact, no one on the audit staff had any further conversations regarding the substance of the Essex legal dispute.
+Watson, understanding the consequences of the legal dispute, told Horsey that more information about Essex was needed in order to assess the complete state of affairs.
+Horsey did not, however, obtain any other clarifying information and Watson never followed up on his request for more information.
+Horsey recognized that there was a "significant contingency associated with the [Essex] matter," and addressed this concern by including an "emphasis of a matter" paragraph in the audit report, which highlighted for the reader a particularly important matter in MERL's financial statements.
+No further action was taken regarding this critical matter.
+Horsey's inaction was a violation of GAAS, which requires that an auditor obtain competent evidential matter concerning uncertainties arising from litigation.
+Watson clearly identified the material problem with the Essex consolidation, as evidenced by his instruction to Horsey to obtain additional information, but failed to ensure that the problem was corrected prior to giving his consent to the issuance of the audit report.
+The Respondents failed to exercise due professional care and skepticism by not asking for the necessary information required to accurately assess the appropriateness of consolidation, particularly in light of the material impact that the Essex consolidation had on MERL's financial statements.
+This fundamental failure, along with the audit failures related to the fixed and intangible assets, resulted in the material misstatement of the financial statements on which the Respondents opined.
+The consolidation of Essex's financial results caused MERL's revenues in both 1997 and 1998 to be overstated by 100%.
+In addition, in light of the fact that the true value of the assets acquired from Hanold was not determined, it is not possible to quantify the precise dollar amount of the misstatement because MERL did not obtain an appraisal, and M&T did not insist that one be obtained during the audits.
+As a result, the financial statements were not prepared in
+conformity with GAAP and were misstated.
+c.
+The Failed Concurring Review
+As discussed above, Watson performed the concurring review of the 1997 and 1998 financial statements and also was consulted during the course of the engagement pertaining to several accounting and auditing issues, including issues related to the Hanold transaction and Essex.
+Watson also reviewed the audit "Summary Review Memorandum," which highlighted significant areas of the audits.
+Watson's concurring review did not raise "any issues or concerns," or cause him to conclude that the company's financial statements were not prepared in conformity with GAAP.
+As described in the "concurring review form" prepared by Watson, he concurred with all of the audit team's conclusions and had no disagreements with Horsey.
+These conclusions were wrong.
+d. The Failure to Render an Accurate Audit Report
+The Respondents wrongly stated in the M&T audit report that MERL's 1997 and 1998 financial statements were presented in conformity with GAAP (with the exception of inventory) and that the audits were performed in accordance with GAAS.6 As discussed above, the company's 1997 and 1998 financial statements were materially false and misleading and the Respondents failed to perform the audits in accordance with GAAS.
+D. Legal Analysis
+Rule 202 of the American Institute of Certified Public Accountants ("AICPA") Code of Professional Standards requires that auditors adhere to GAAS.
+Under GAAS, an auditor must exercise due professional care while conducting
+an audit and preparing the audit report.
+AICPA Statements on Auditing Standards ("AU") §§ 150.02, 230.01.
+"The matter of due professional care concerns what the independent auditor does and how well he does it."
+AU § 230.04.
+In addition, the first general standard of field work requires that an examination be "performed by a person or persons having adequate technical training and proficiency as an auditor." AU § 210.01.
+In planning an examination, an auditor should consider, among other things, "conditions that may require extension or modification of audit tests, such as the risk of material error or fraud or the existence of related party transactions."
+AU § 311.03.
+The third standard of fieldwork requires an auditor to obtain sufficient competent evidential matter to afford a reasonable basis for an
+audit report (AU § 326.01); an auditor cannot simply rely on management representations (AU § 333.02), and must maintain an attitude of professional skepticism (AU § 230.07).
+As described herein, the Respondents failed to conduct the fiscal 1997 and 1998 audits of MERL's financial statements in accordance with GAAS because they failed to exercise due professional care and maintain an attitude of professional skepticism, failed to obtain sufficient competent evidential matter, and failed to staff the audits with accountants who had adequate technical training and audit proficiency.
+As engagement partner, Horsey had the primary responsibility for ensuring that the audits
+were conducted in accordance with GAAS.
+As engagement manager, Feldman was responsible for performing the audits in accordance with GAAS.
+As concurring partner, Watson was responsible for reviewing the work of the audit team to ensure that it
+complied with GAAS and that the
+audited financial statements were in conformance with GAAP.
+Horsey, Watson and Feldman engaged in improper professional conduct within the meaning of Rule 102(e)(1) of the Commission's Rules of Practice by recklessly engaging in conduct that resulted in violations of professional standards. Horsey, Watson and Feldman recklessly failed to follow applicable auditing standards in the areas of fixed and intangible assets and the consolidation of Essex.
+As a result, the Respondents' audits of MERL's 1997 and 1998 financial statements were not conducted in accordance with GAAS.
+IV.
+Based on the foregoing, the Commission finds that Horsey, Watson and Feldman each engaged in improper professional conduct within the meaning of Rule 102(e)(1) of the Commission's Rules of Practice.
+V.
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions agreed to in the respective Offers of Horsey, Watson and Feldman.
+Accordingly, IT IS HEREBY ORDERED, effective immediately, that:
+Horsey, Watson and Feldman are denied the privilege of appearing or practicing before the Commission as accountants.
+After two years (Horsey), ten months (Watson) and six months (Feldman), respectively, from the date of this order, each Respondent may request that the Commission consider his or her reinstatement by submitting an application (attention: Office of the Chief Accountant) to resume appearing or practicing before the Commission as:
+a preparer or reviewer, or a person responsible for the preparation or review, of any public company's financial statements that are filed with the Commission. Such an application must satisfy the Commission that each Respondent's work in his or her practice before the Commission will be reviewed either by the independent audit committee of the public company for which he or she works or in some other acceptable manner, as long as he or she practices before the Commission in this capacity; and/or
+an independent accountant.
+Such an application must satisfy the Commission that:
+(a)
+such Respondent, or the firm with which he or she is associated, is a member of the SEC Practice Section of the American Institute of Certified Public Accountants Division for CPA Firms ("SEC Practice Section") or an organization providing equivalent oversight and quality control functions ("equivalent organization");
+(b)
+such Respondent, or the firm, has received an unqualified report relating to his, or the firm's, most recent peer review conducted in accordance with the guidelines adopted by the SEC Practice Section or equivalent organization; and
+(c)
+As long as such Respondent appears or practices before the Commission as an independent accountant he or she will remain either a member of, or associated with a member firm of, the SEC Practice Section or equivalent organization, and will comply with all applicable SEC Practice Section or equivalent organization requirements, including all requirements for periodic peer reviews, concurring partner reviews, and continuing professional education.
+The Commission will consider an application by each Respondent to resume appearing or practicing before the Commission provided that his or her state CPA license is current and he or she has resolved all other disciplinary issues with the applicable state boards of accountancy.
+However, if state licensure is dependant on reinstatement by the Commission, the Commission will consider an application on its other merits. The Commission's review may include consideration of, in addition to the matters referenced above, any other matters relating to such Respondent's character, integrity, professional conduct, or qualifications to appear or practice before the Commission.
+By the Commission.
+Jonathan G. Katz
+Secretary
+1
+Rule 102(e)(1)(ii) of the Commission's Rules of Practice, 17 C.F.R. 201.102(e)(1)(ii), provides in pertinent part:
+"The Commission may . . . deny, temporarily or permanently, the privilege of appearing or practicing before it in any way to any person who is found by the Commission after notice and opportunity for a hearing in the matter .
+.
+.
+to have engaged in
+. . . improper professional conduct . . . ."
+2
+M&T qualified the opinion contained in its audit report with respect to inventory because it was retained subsequent to the year-end inventory and thus was unable to observe the year-end inventory balances or
+rely on the company's internal inventory controls.
+3
+M&T consented to MERL's use of its audit
+report in MERL's Form SB-2 filing but not its Form 10-SB filing.
+4
+Simultaneous with the filing of this Order, the Commission filed a civil injunctive action in the U.S. District Court of New Jersey against MERL and Ed Johnson, seeking to permanently enjoin MERL from violating Section 17(a) of the Securities Act of 1933 ("Securities Act") and Section 10(b) of the Exchange Act, and Rule 10b-5 promulgated thereunder and seeking to enjoin Johnson from violating Section 17(a) of the Securities Act, Section 10(b) of the Exchange Act, and Rule 10b-5 promulgated thereunder.
+The action further seeks to obtain disgorgement and prejudgment interest from Johnson; obtain civil monetary penalties against Johnson; permanently bar Johnson from serving as an officer or director of any public company; and permanently bar Johnson from participating in any offering of any penny stock.
+5
+Accounting Principles Board ("APB") Opinion No. 16 requires that acquired assets be recorded at "cost," which is defined as either "the fair value of the consideration given or [ ] the fair value of the property acquired, whichever is the more clearly evident."
+6
+The Respondents qualified the audit report with respect to inventory because they were retained subsequent to the year-end inventory and thus were unable to observe the year-end inventory balances or
+rely on the company's internal inventory controls.
+http://www.sec.gov/litigation/admin/34-46845.htm
+Home | Previous Page
+Modified: 11/19/2002

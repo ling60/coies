@@ -1,0 +1,236 @@
+34-42587
+Home | Previous Page
+UNITED STATES OF AMERICA
+before the
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No.
+42587 / March 29, 2000
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No.
+1243 / March 29, 2000
+ADMINISTRATIVE PROCEEDING
+File No.
+3-10168
+I.
+In the Matter of
+BETH A. MORRIS
+and STEVEN H. GRANT
+Respondents.
+::::::::
+ORDER INSTITUTING PUBLIC
+CEASE-AND-DESIST
+PROCEEDINGS PURSUANT TO
+SECTION 21C OF THE
+SECURITIES EXCHANGE ACT
+OF 1934, MAKING FINDINGS
+AND IMPOSING A CEASE-AND-
+DESIST ORDER
+The Securities and Exchange Commission ("Commission") deems it appropriate to institute public cease-and-desist proceedings pursuant to Section 21C of the Securities Exchange Act of 1934 ("Exchange Act") against Respondents Beth A. Morris ("Morris") and Steven H. Grant ("Grant").
+II.
+In anticipation of the institution of these proceedings, Respondents Morris and Grant submitted Offers of Settlement ("Offers") to the Commission, which the Commission has determined to accept.
+Solely for the purpose of this proceeding and any other proceeding brought by or on behalf of the Commission, or in which the Commission is a party, and without admitting or denying the findings contained herein, except as to the jurisdiction of the Commission over Respondents Morris and Grant and over the subject matter of this proceeding which are admitted, Respondents Morris and Grant by their Offers consent to the entry of this order, and the findings and the imposition of the cease-and-desist order set forth below.
+Accordingly, IT IS ORDERED that proceedings pursuant to Section 21C of the Exchange Act be, and they hereby are, instituted.
+III.
+On the basis of this Order and the Offers submitted by Respondents Morris and Grant, the Commission finds that:
+Summary
+This matter involves materially misstated financial statements and other misleading information in quarterly filings made with the Commission on Forms 10-Q for the quarters ended June 30, 1997 and September 30, 1997 by Digital Lightwave, Inc. ("Digital").
+Digital's principal accounting officers for the respective quarters were Morris and Grant.
+Morris prepared the financial statement included in the June 30, 1997 Form 10-Q and signed the filing on behalf of Digital.
+Grant participated in and oversaw the preparation of the financial statements included in the September 30, 1997 Form 10-Q and signed the filing on behalf of Digital.
+Specifically, Digital's filings with the Commission materially overstated its revenues and accounts receivable by prematurely or incorrectly recognizing revenues on certain transactions which were incomplete or contained contingencies.
+In connection with these transactions, Morris and Grant also caused Digital to fail to make and keep books and records which accurately reflected its transactions, and to fail to maintain a system of internal accounting controls sufficient to provide assurances that transactions were recorded as necessary to permit the proper preparation of financial statements in conformity with generally accepted accounting principles ("GAAP").
+Morris and Grant also failed to disclose material facts necessary in order to make statements made, in light of the circumstances under which such statements were made, not misleading to Digital's independent auditors in connection with their review of Digital's second and third quarter financial statements, respectively, and Grant made misrepresentations in the third quarter management letter.
+Respondents
+A. Beth A. Morris, 45, was Digital's vice-president of finance and principal financial and accounting officer from January 1996 until July 3, 1997.
+On July 3, 1997, Morris resigned from Digital and continued working for the company as a part-time consultant until mid-September 1997.
+Morris is a certified public accountant licensed in the state of Florida.
+B. Steven H. Grant, 39, has been Digital's vice-president of finance and chief financial officer since September 15, 1997.1
+Grant is a certified public accountant licensed in the state of Florida.
+Digital's False and Misleading Form 10-Q
+for the Quarter Ended June 30, 1997
+Digital's Form 10-Q for the quarter ended June 30, 1997 contained false financial statements, which materially overstated its revenues by approximately $2.3 million--representing 43.9% of total revenues--and its accounts receivable by approximately $2.33 million representing 5.4% of its total assets.2
+A. Morris
+Morris was Digital's vice-president of finance and was responsible for preparing Digital's second quarter financial statements.
+She also participated in the preparation of and signed the Form 10-Q for the second quarter.
+B.
+The Bill and Hold Transaction with MFS WorldCom
+On June 30, 1997, the last day of the quarter, Digital improperly recorded revenues of $1.5 million for 40 units of a 60 unit order from MFS WorldCom Network Services ("MFS").
+This was Digital's first bill and hold transaction3 and represented approximately 28.4% of the company's total sales for that quarter.
+Although the transaction was based on a letter agreement with MFS dated July 3, 1997, it was recorded in the second quarter.
+The MFS transaction and the terms and conditions contained in the July 3, 1997 letter agreement did not meet the revenue recognition requirements for bill and hold transactions for several reasons.
+First, the MFS letter agreement did not specify that the risk of ownership had passed to MFS.
+Second, it was Digital, and not MFS, that decided to structure the transaction as bill and hold.
+In addition, the units were not complete and ready for shipment at the time the revenue was recognized as required under bill and hold.
+Digital was required to include certain software features into the units.
+These features were not required to be incorporated into the units until August 15, 1997 and October 31, 1997.
+The units were also not complete because each unit lacked an asynchronous transfer mode ("ATM") board, which was a critical and material component of the units in this order.
+The MFS letter agreement also contained specific performance obligations on the part of Digital such that the earnings process was not complete.
+For example, the letter agreement contained penalty clauses if Digital failed to release the required software by certain deadlines. Further, the letter agreement stated that if Digital failed to meet these specified terms and conditions the deal would be null and void.
+There was also no fixed delivery schedule contained in the letter agreement as required by bill and hold.
+In fact, the units were not shipped to MFS until the end of October 1997.
+Finally, payment for the shipment was not required until November 30, 1997, five (5) months after the sale was recognized as revenue.
+Indeed, the invoice was not sent until the end of November 1997.
+In short, despite terms and conditions contained in the letter agreement, which called into question whether the earnings process was complete at the time the sale was recorded, Digital improperly recorded revenue of $1.5 million for the MFS order.
+Although Morris was not involved in negotiating the MFS transaction she knew that the transaction had to meet the bill and hold criteria for revenue recognition.
+Morris, however, failed to review the MFS sales documentation for compliance with the bill and hold criteria.
+Morris did not see a copy of the MFS letter agreement until the day before she was supposed to sign the second quarter Form 10-Q.
+After seeing the agreement for the first time, she became concerned about its terms and conditions and drafted a memorandum to the file documenting her concerns with the transaction.
+In the memorandum, Morris raised the possibility that Digital might have to establish "reserves" in the third quarter to address this problem.
+C. The Ameritech and TCG Verbal Purchase Orders
+During the last four days of the second quarter, Digital improperly recorded revenue on shipments of units to Ameritech Corp. ("Ameritech") and Teleport Communications Group ("TCG").
+The Ameritech shipment consisted of seven (7) units which was recorded as revenue totaling $246,750--approximately 4.6% of Digital's revenues for that quarter.
+At the time Digital recorded the revenue for these units, this was not a real order.
+This is evidenced by a written agreement between Digital and Ameritech which provided that Ameritech would only obligate itself to purchase a unit through a written purchase order ("PO").
+These units were in fact not shipped to Ameritech because Digital never received a commitment from Ameritech to purchase them.
+Instead, the units were shipped and placed with a Digital salesperson.
+Ameritech did not submit POs to Digital committing itself to purchase the units until well after the close of the quarter.
+Further, invoices for these units were not issued by Digital until after the company received the POs.
+The TCG transaction was recorded as revenue totaling $315,750 and was also improperly included in Digital's revenues for the second quarter because TCG had not committed itself to purchase the units.
+Consisting of three (3) shipments totaling eight (8) units, this transaction represented approximately 5.9% of Digital's total revenues for that quarter.
+Two of the TCG units were shipped directly to a Digital salesperson, who was informed a few weeks later by TCG that it would not be purchasing them.
+Five of the units were shipped to TCG's Chicago office where they were immediately refused and returned to Digital's salesperson.
+TCG ultimately only purchased one unit in late October 1997.
+The other seven returned units were reversed as revenues.
+Morris was not privy to the details surrounding the Ameritech and TCG transactions, including where the units were shipped to and whether they were returned.
+She was aware however, at the time she prepared the financial statements, that units had been shipped to Ameritech and TCG based on verbal purchase orders ("Verbal POs"), that lacked proper documentation.
+D. The U.S. West Demonstration Units
+During the last few days of the second quarter, Digital also improperly recorded seven (7) units shipped to U.S. West, Inc. ("U.S. West") as revenues.
+These units were in fact, demonstration units for which there was never a firm commitment by U.S. West to purchase them.
+In spite of this, Digital recorded these units as revenues totaling $264,450, which represented approximately 5% of the total revenues for the quarter.
+The demonstration units were all later returned to Digital and reversed as revenues.
+Morris was not aware that the U.S. West units were shipped as demonstration units because Digital senior management negotiated that arrangement and did not alert her to that fact.
+However, it was her understanding that the units had been shipped to U.S. West based on Verbal POs that lacked proper documentation.
+Digital's False and Misleading Form 10-Q
+for the Quarter Ended September 30, 1997
+Digital's Form 10-Q for the quarter ended September 30, 1997, contained false financial statements which materially overstated its revenues by approximately $6.6 million--representing 79.3% of total revenues and its accounts receivable by approximately $8.67 million--representing 17.3% of its total assets.
+A. Grant
+As Digital's chief financial officer at the end of the third quarter, Grant oversaw the preparation of Digital's third quarter financial statements and signed the company's third quarter Form 10-Q.
+Grant was also involved in assisting Digital management in preparing the letter agreements for the bill and hold transactions improperly recorded in the third quarter.
+B. The LDDS WorldCom, MFS and Transnetworks Bill and Hold Transactions
+1. LDDS WorldCom
+On September 30, 1997, the last day of the third quarter, Digital improperly recognized $3.475 million as revenue for an order from LDDS WorldCom ("LDDS") for 100 units.
+The LDDS order was structured as a bill and hold transaction and constituted approximately 41.7% of Digital's reported revenues that quarter.
+The LDDS transaction, like the MFS order, failed to meet the requirements of revenue recognition for bill and hold transactions.
+First, the LDDS letter agreement to purchase the units did not specify that the risk of ownership had passed to LDDS.
+The transaction also failed to comply with the requirements of revenue recognition for bill and hold transactions because the agreement contained specific performance obligations on Digital's part. For example, the agreement specified that if Digital failed to meet its terms and conditions the agreement would be null and void.
+In addition, Digital's regular billing practice was altered because LDDS was not required to pay for any of the units until after they were shipped, which was not anticipated to happen before 1998.
+Finally, LDDS did not provide a fixed delivery schedule to Digital and only committed to take delivery by December 31, 1998.
+Despite terms and conditions which violated the bill and hold requirements, Digital improperly recognized $3.475 million in revenue in the third quarter from this transaction.
+Grant participated in drafting the original letter agreement used in the LDDS transaction.
+He did not know, however, that certain performance obligations had been inserted by LDDS into the agreement until after Digital's earnings were released to the public.
+When he did learn of this and the fact that the units were not anticipated to be shipped to the customer until 1998, he immediately expressed his concerns to a member of Digital's senior management about the transaction.
+In response, Grant was assured that the LDDS units would be shipped during the fourth quarter of 1997 and that the transaction would "work out."
+Grant was also not aware that the LDDS units had not been manufactured.
+2. MFS
+Digital also improperly recognized $750,000 as revenue in the third quarter for the remaining 20 units of the 60 unit order placed by MFS in the second quarter.
+This portion of the order constituted approximately 9% of Digital's reported revenues during the third quarter.
+As discussed above, the MFS transaction violated the requirements of revenue recognition for a bill and hold transaction.
+For example, among other things, the MFS letter agreement did not specify that the risk of ownership had passed, and the letter agreement contained specific performance obligations by Digital, and had no fixed delivery schedule.
+Grant failed to verify whether the MFS transaction met the requirements of revenue recognition for a bill and hold transaction.
+3. Transnetworks
+Digital also entered into a bill and hold transaction with Transnetworks, Inc. ("Transnetworks") on the last day of the third quarter.
+This order, which consisted of 40 units, was improperly recognized as $900,000 in revenue--approximately 10.8% of Digital's reported revenues in that quarter.
+The Transnetworks transaction violated the requirements of revenue recognition for bill and hold transactions.
+First, like the prior bill and hold transactions, the agreement did not specify that the risk of ownership had passed to Transnetworks.
+In addition, Digital was required to incorporate certain software features into the units which were not anticipated to be completed until the third quarter of 1998.
+Moreover, as required in a bill and hold transaction, Transnetworks did not provide a fixed delivery schedule to Digital.
+Transnetworks, in fact, never accepted delivery of any of the units.
+Finally, Digital's regular billing practice was altered from "net 30" because Transnetworks was not obligated to pay for the units until after 1997.
+Despite terms that clearly did not meet the requirements of revenue recognition for bill and hold transactions, Digital improperly recognized the transaction as revenue.
+Grant participated in drafting the letter agreement used in the Transnetworks transaction.
+He was privy to its terms and conditions except he was not aware that the transaction was contingent upon the release of certain software features, which were not anticipated until 1998.
+C. The Advantis and NEC America Verbal Purchase Orders
+1. Advantis
+On September 30, 1997, the final day of the third quarter, Digital recognized $1.104 million in revenue for a 37 unit order from Advantis, which was based on a verbal commitment from one of Advantis' employees.
+This order constituted approximately 13.2% of Digital's reported revenues that quarter.
+The day after the revenue was recorded, the sales department advised Digital's senior management, other than Grant, that there were problems with the order and that Advantis would not be sending a PO or other confirmation of the order.
+In a desperate attempt to secure a bona fide commitment for the sale, Digital's vice-president of sales was sent to Advantis.
+While at Advantis, the salesperson kept Digital's senior management, other than Grant, apprised of the situation. Eventually, they were informed that due to budgetary constraints, even if Advantis were to place an order, it would not exceed $724,000.
+After two weeks of futile effort, the salesperson was unable to secure a commitment from Advantis to purchase the units.
+Despite not having received any commitment from Advantis to purchase the units,
+Digital improperly included the Advantis transaction as third quarter revenues.4
+In fact, as of the date its third quarter Form 10-Q was filed, Digital still had not received any written commitment from Advantis to purchase the units.
+Grant knew that Digital lacked written documentation to support the Advantis transaction. When Grant became concerned about the lack of paperwork for the transaction, he attempted to have Digital's third quarter press release and conference call with analysts delayed. Senior management, however, refused to delay the press release and conference call claiming that the paperwork was on its way and that the transaction would "work out".
+Grant never knew about some of the specific problems that had been encountered with the transaction.
+Digital's senior management had kept that information from him.
+Grant later did learn, prior to executing Digital's Form 10-Q, that the Advantis order had been reduced to $724,000.
+2. NEC America
+On September 30, 1997, Digital also improperly recognized $386,610 as revenue for a purported ten (10) unit order from NEC America ("NEC").
+This transaction, which constituted approximately 4.6% of Digital's reported revenues for that quarter, was recorded in response to an NEC employee who had indicated some interest in purchasing the units.
+Digital knew that NEC required POs and budget allocation before NEC would obligate itself to purchase the units.
+In the interim, the units were shipped and placed with a Digital salesperson until a commitment to purchase was received from NEC.
+The units were ultimately never purchased by NEC.
+The salesperson later returned the units to Digital and they were reversed as revenue.
+Grant was aware that Digital had shipped the NEC units to a Digital salesperson, but he did not know about the specifics of the transaction, i.e., that NEC required POs and a budget allocation.
+Misleading Statements and Omissions in Connection with Independent Auditors'
+Quarterly Reviews of Digital's Financial Statements
+On July 10, 1997, Digital's independent auditors ("auditors") conducted a quarterly review of Digital's financial results for the second quarter of 1997.
+Although Morris met with the auditors during the review, she failed to disclose to them the company's activities with regard to revenue recognition.
+Specifically, Morris never alerted the auditors to the fact that 28.4% of Digital's revenues for the quarter were based on the bill and hold transaction with MFS.
+Morris knew that the transaction had to meet certain criteria for revenue recognition, but yet, never reviewed the transaction documents to verify whether the order could be recognized as revenue.
+In addition, Morris did not seek any guidance from the auditors with regard to recording revenues solely on Verbal POs which she knew lacked supporting documentation.
+The auditors also conducted the review of Digital's third quarter financial statements on October 15, 1997.
+Grant was asked to handle the management interview with the auditors.
+At that meeting, Grant never alerted the auditors that more than 70% of Digital's reported revenues for the quarter were in the form of bill and hold transactions.
+In addition, he failed to inform the auditors of concerns that he had because Digital had not received a written commitment for the Advantis transaction.
+In connection with their third quarter review, the auditors were provided with a management representation letter, which made representations as of October 15, 1997.
+The third quarter management letter was signed by Grant.
+This letter misrepresented, among other things, that: (1) "[t]here are no material transactions that have not been properly reflected in the financial statements"; (2) "[t]here have been no changes during the nine months ended September 30, 1997 in the company's accounting principles and practices" and (3) "[t]he company's accounting principles, and the practices and methods followed in applying them, are as disclosed in the financial statements".
+Legal Discussion
+A. Violations of Rule 13b2-2
+Exchange Act Rule 13b2-2 prohibits officers and directors of an issuer from making or causing to be made, materially false or misleading statements or omissions to an accountant, in connection with any audit or examination of the issuer's financial statements required by Section 13(b)(2), or the filing of any documents with the Commission.
+In connection with the auditors' review of Digital's financial statements for the second quarter, Morris failed to disclose to the auditors that Digital had recognized revenue based on a bill and hold transaction nor did she seek any guidance from the auditors with regard to recording revenues solely on Verbal POs.
+In connection with the third quarter review, Grant failed to disclose to the auditors his concerns regarding the Advantis transaction and that a substantial portion of Digital's revenues were bill and hold transactions.
+Further, Grant made misrepresentations to the auditors in the third quarter management letter.
+Morris and Grant, therefore, failed to disclose material facts necessary in order to make statements made, in light of the circumstances under which such statements were made, not misleading to Digital's independent auditors in connection with their review of Digital's second and third quarter financial statements, respectively, thereby violating Rule 13b2-2.
+B. Violations of Section 13(a) of the Exchange Act and Rules 12b-20,
+and 13a-13 thereunder
+Section 13(a) of the Exchange Act requires issuers with securities registered under Section 12 of the Exchange Act to file periodic reports containing information prescribed by specific Commission rules and regulations.
+Such reports must be complete and accurate.
+Rule 13a-13 requires the filing of quarterly reports on Form 10-Q.
+Rule 12b-20 requires that periodic reports filed with the Commission contain all such further material information as is necessary to make the required statements, not misleading.
+An issuer violates these provisions if it files a periodic report that contains false or misleading information.
+See e.g., Laser Photonics, Inc., Securities Act Release No. 7463 (Sept. 30, 1997); and Spectrum Information Technologies, Inc., Securities Act Release No. 7426 (June 25, 1997).
+In addition, Item 303 of Regulation S-K requires MD&A as part of periodic reports filed pursuant to Section 13(a).
+Item 303 specifies that, for interim periods the MD&A include, among other things, a discussion of any material changes in the registrants results of operations with respect to the most recent fiscal year-to-date period for which an income statement is provided and corresponding year-to-date period of the preceding fiscal year.
+Digital at all times relevant herein, was subject to the reporting requirements of Section 13(a) of the Exchange Act and rules promulgated thereunder.
+The reporting provisions are violated when false and misleading reports are filed.
+SEC v. Falstaff Brewing Corp., 629 F.2d 62, 67 (D.C. Cir. 1980); SEC v. Great American Industries, 407 F.2d 453 (2d Cir. 1968).
+These reporting violations deprive investors of accurate and reliable financial information.
+In particular, interim financial reporting, as reflected in quarterly reports on Form 10-Q, is an important part of the full disclosure principle underlying the federal securities laws because investors rely on, and react quickly to, quarterly reports.
+Since interim financial statements are unaudited, the investment community places particular reliance on the issuer and its management to accurately report interim results.
+Morris and Grant caused Digital's violations of Section 13(a) and Rules 12b-20 and 13a-1 thereunder, by preparing the false and misleading quarterly reports on Forms 10-Q filed by Digital with the Commission.
+Morris and Grant should not have signed the quarterly filings until they were completely satisfied that their concerns and objections with the transactions were fully resolved.
+They also should have verified that each bill and hold transaction met the criteria for revenue recognition.
+C. Violations of Section 13(b)(2) of the Exchange Act
+Section 13(b)(2) of the Exchange Act was enacted to promote the reliability and completeness of financial information disclosed by issuers.
+SEC v. Worldwide Coin Investments Ltd., 567 F. Supp. 724, 747 (N.D. Ga 1983).
+Section 13(b)(2)(A) of the Exchange Act requires an issuer to make and keep books, records and accounts which in reasonable detail, accurately and fairly reflect its transactions and dispositions of assets.
+Section 13(b)(2)(B) of the Exchange Act requires an issuer to devise and maintain a system of internal accounting controls sufficient to provide reasonable assurance that, among other things, transactions are recorded as necessary to permit preparation of financial statements in conformity with GAAP and to maintain accountability of assets.
+Morris and Grant caused Digital to fail to make and keep books and records which accurately reflected its transactions, and to fail to maintain a system of internal accounting controls sufficient to provide assurances that transactions were recorded as necessary to permit the proper preparation of financial statements in conformity with GAAP.
+In particular, Morris and Grant permitted certain transactions to be improperly recorded as revenues and accounts receivables on Digital's books and records.
+In addition, Morris and Grant failed to implement internal controls sufficient to ensure that bill and hold transactions and Verbal POs were being properly recorded as revenues.
+Therefore, Morris and Grant caused Digital's violations of Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act.
+Legal Findings
+A. Based upon the aforesaid conduct, Respondent Morris committed violations of Rule 13b2-2 of the Exchange Act and was a cause of Digital's violations of Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 12b-20 and 13a-13 promulgated thereunder.
+B.
+Based upon the aforesaid conduct, Respondent Grant committed violations of Rule 13b2-2 of the Exchange Act and was a cause of Digital's violations of Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 12b-20 and 13a-13 promulgated thereunder.
+IV.
+Accordingly, IT IS ORDERED, pursuant to Section 21C of the Exchange Act that:
+A. Morris cease and desist from committing or causing any violation and any future violation of Rule 13b2-2 of the Exchange Act and causing any violation and any future violation of Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 12b-20 and 13a-13 promulgated thereunder.
+B. Grant cease and desist from committing or causing any violation and any future violation of Rule 13b2-2 of the Exchange Act and causing any violation and any future violation of Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 12b-20 and 13a-13 promulgated thereunder.
+By the Commission.
+Jonathan G. Katz
+Secretary
+Footnotes
+1Grant did not actually begin working full-time until September 29, 1997.
+2In amended Forms 10-Q filed on April 16, 1998, Digital restated its revenues and accounts receivable for the second and third quarter by approximately $2.7 million and $7.1 million, respectively.
+This Order focuses on the more significant transactions which led to the restatements and does not include several smaller transactions that would account for the difference between the restated revenues and the revenues at issue here.
+3 A bill and hold transaction is where a customer agrees to purchase a product but the seller retains physical possession until shipment to the customer.
+If certain criteria are met the seller may be allowed to record the transaction as revenue.
+See In the Matter of Stewart Parness, SEC Exchange Act Release No. 23507, AAER Release No. 108 (August 5, 1986).
+4 Digital treated this transaction as a bill and hold transaction since the company had no immediate plans to ship the units to Advantis.
+http://www.sec.gov/litigation/admin/34-42587.htm
+Home | Previous Page
+Modified:03/29/2000

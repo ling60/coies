@@ -1,0 +1,208 @@
+Microsoft Corporation: Admin. Proc. Rel. No. 34-46017 / June 3, 2002
+Home | Previous Page
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No.
+46017 / June 3, 2002
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No.
+1563 / June 3, 2002
+ADMINISTRATIVE PROCEEDING
+File No. 3-10789
+In the Matter of
+MICROSOFT CORPORATION,
+Respondent.
+:::::
+ORDER INSTITUTING PUBLIC ADMINISTRATIVE PROCEEDINGS PURSUANT TO
+SECTION 21C OF THE SECURITIES EXCHANGE
+ACT OF 1934, MAKING FINDINGS AND
+IMPOSING CEASE-AND-DESIST ORDER
+I.
+The Securities and Exchange Commission ("Commission") deems it appropriate
+that public administrative proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities Exchange Act of 1934 (the "Exchange Act") to determine whether Microsoft Corporation ("Respondent") violated Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 12b-20, 13a-1 and 13a-13 thereunder.
+II.
+In anticipation of the institution of these administrative proceedings, Microsoft has submitted an Offer of Settlement ("Offer") that the Commission has determined to accept.
+Solely for the purposes of these proceedings, and for any other proceeding brought by or on behalf of the Commission, or to which the Commission is a party, and without admitting or denying the findings set forth below, except as to jurisdiction of the Commission over it and over the subject matter of these proceedings, which Respondent admits, Respondent consents to the entry of this Order Instituting Public Administrative Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making Findings and Imposing Cease-and-Desist Order (the "Order").
+The Commission has determined that it is appropriate to accept the Offer and accordingly is issuing this Order.
+III.
+Accordingly, IT IS HEREBY ORDERED, that administrative proceedings pursuant to Section 21C of the Exchange Act be, and they hereby are, instituted.
+IV.
+FINDINGS
+On the basis of this Order and the Offer of Settlement submitted by Respondent, the Commission finds that:
+A. Respondent
+Microsoft Corporation is a Washington corporation with its principal place of business in Redmond, Washington.
+Since its initial public offering in 1986, Microsoft's common stock has been registered with the Commission pursuant to Section 12(g) of the Exchange Act [15 U.S.C. § 78l(g)] and is listed on the NASDAQ Stock Market, Inc.
+At all times relevant herein, Microsoft was required to make and file certain periodic reports with the Commission.
+Microsoft's principal lines of business consist of providing software for personal computers, office systems and the Internet.
+1 Facts
+1.
+Summary
+During Microsoft's fiscal years1 ended June 30, 1995, June 30, 1996, June 30, 1997 and June 30, 1998 (the "relevant period"), Microsoft maintained undisclosed reserves, accruals, allowances and liability accounts (collectively "reserves" or "reserve accounts") that (a) were not in conformity with generally accepted accounting principles ("GAAP") to a material extent, and/or (b) lacked properly documented support and substantiation, as required by the federal securities laws.
+Moreover, Microsoft failed to maintain internal controls that were adequate under the federal securities laws.
+Specifically, during the relevant period, Microsoft maintained between approximately $200 million and $900 million in unsupported and undisclosed reserves, a significant portion of which did not comply with GAAP, which resulted in material inaccuracies in filings made by Microsoft with the Commission.
+2.
+Microsoft Recorded Reserves Without a Properly Documented or Substantiated Basis
+At the end of each fiscal quarter, certain of Microsoft's senior financial personnel, reviewed its reserves.
+The controllers of the operating units of Microsoft would provide these senior financial personnel with estimates for reserves for their units.
+These operational reserves represented contingencies faced by each individual operating unit and were described in Microsoft's internal documents as "hard contingencies supported by analysis," "transaction-based," and "systematic."
+Microsoft's internal accounting policies dictated that operating-level controllers use formulas and documented analyses to estimate and calculate operating reserves each quarter.
+Additionally, Microsoft's stated policy was to periodically reconcile the operational reserves to the general ledger to ensure that a documented basis existed for the journal entries underlying the operational reserve balances.
+By contrast, Microsoft created and maintained certain other reserves that existed only at the corporate level.
+These corporate reserves were not determined from factually based formulas, analysis or statistics.
+They were described in Microsoft's records as "based, in part, on judgment regarding the likelihood of future business events."
+They were also exempted from Microsoft's account reconciliation process for operational reserves described above, which was part of Microsoft's ordinary accounting procedures and was designed to ensure that there was a substantiated basis for the company's financial statements.
+In addition, senior Microsoft financial personnel who reviewed reserve estimates from operating units frequently added additional amounts to the reserve estimates of the operating units, without the analysis or support that Microsoft required of its operating units.
+These corporate level additions were not determined from factually based formulas, analysis or statistics.
+Microsoft's records also described them as "based, in part, on judgment regarding the likelihood of future business events."
+These corporate level additions were also exempted from the company's account reconciliation process.
+These senior Microsoft financial personnel did not obtain sufficient information concerning Microsoft's historical or actual experience with respect to the reserves being accrued for at the corporate level, nor did they rely on the documentation that was prepared by Microsoft's operating subsidiaries or units.
+Instead, they relied on their subjective judgments in making adjustments to those reserves that existed at the corporate level, without any significant factual support or analysis, and similarly made additions to the operating level reserves, without any significant factual support or analysis, such that these reserves significantly exceeded the amounts that would have been supported by the information from the operational level.
+As a result, these reserves did not have the documented support as required by the federal securities laws and lacked sufficient substantiation under GAAP.
+Following the above-described quarterly financial review, senior financial personnel used the results of the review to prepare Microsoft's publicly filed financial statements and to cause journal entries to be made to Microsoft's general ledger reflecting the corporate level adjustments to the above-described reserves.
+4. Reserves Maintained or Used Without Proper Support or Basis
+a. Cyclical Accrual For Marketing Expenses
+Marketing expenses represented the largest expense item on Microsoft's statement of operations.
+For management purposes, Microsoft established budgets for marketing expenses for each fiscal quarter and fiscal year.
+Management generally determined these budgets as a percentage of forecasted revenue.
+Microsoft typically recorded budgeted marketing expenses as its reported marketing expenses when preparing its quarterly reports filed with the Commission, even though it did not have a documented factual basis for believing that its marketing budget was a reasonable estimation of its marketing expenses.
+In order to account for the difference between the marketing expenses recorded in its books and records, and its budgeted marketing expenses, Microsoft maintained a "marketing accrual," to which these differences were recorded.
+Microsoft generally budgeted quarterly marketing expenses as a substantially constant percentage of revenue and the effect of this practice was to depict marketing expense as a substantially constant percentage of revenue on a quarterly basis throughout the year.
+During the first three quarters of a fiscal year, recorded expenses typically were less than budgeted expenses.
+Microsoft treated the difference between recorded expenses and budgeted expense as incurred but unbilled expenses.
+At the end of each of the first three fiscal quarters, Microsoft adjusted recorded marketing expense by increasing recorded expenses to the budgeted amount.
+The difference between recorded expenses and budget were credited to the marketing accrual.
+Because Microsoft had insufficient support for recording its marketing expenses as the budgeted amount, this practice did not satisfy the requirement of GAAP that marketing expenses be recorded as and when they are actually incurred.
+Microsoft's marketing accrual (i.e., the account containing the difference between recorded expenses and its budgeted marketing expenses) tended to increase during the first three fiscal quarters because, during each of these quarters, the difference between recorded and budgeted marketing expenses would be added into reported expenses.
+At the end of each fiscal year, Microsoft reversed the marketing accrual and released it into income.2
+The following chart shows the quarterly balances of the marketing accrual.
+Chart One
+The marketing accrual was not documented as required by the federal securities laws and, to a significant extent, was not in conformity with GAAP.
+Because Microsoft did not analyze and document the use of budgeted amounts as a proxy for actual marketing expenditures, its quarterly financial statements filed with the Commission during the first three quarters of its fiscal years 1995, 1996, 1997 and 1998 did not comply with the requirements of the federal securities laws.
+a. Non-Cyclical Reserves
+In addition to the annual cyclical accrual for marketing expenses, Microsoft
+maintained six other reserve accounts that failed to comply with the federal securities laws.
+These reserve accounts, along with the marketing accrual discussed above, were not in conformity with GAAP to a material extent and/or lacked properly documented support and substantiation as required by the federal securities laws.
+i. OEM Sales Reserve
+Microsoft derives a significant amount of revenues from licensing agreements with manufacturers of personal computers. These manufacturers were referred to as original equipment manufacturers ("OEMs"). The OEMs installed Microsoft software on
+new computers that they sold.
+Under the licensing agreements, the OEMs were required to report in arrears on a periodic basis the number of computers shipped with pre-installed software and the amount of net royalties due to Microsoft from the sales.
+In accounting for OEM revenue, Microsoft maintained certain accounts, including a so-called OEM GAAP accrual, which was accrued for earned but unbilled revenue, and a so-called OEM sales reserve.
+The OEM GAAP accrual was estimated by OEM accounting specialists at the staff-level of Microsoft and was based upon forecasts having a substantial factual and analytical basis.
+By contrast, however, the OEM sales reserve was determined by the senior Microsoft financial personnel responsible for the corporate level reserve accounts.
+However, Microsoft had no substantiated basis for the corporate level OEM sales reserve or any methodology by which the balance in the OEM sales reserve was calculated.
+Accordingly, the OEM sales reserve was not documented as required by the federal securities laws and, to a significant extent, was not in conformity with GAAP.
+From time to time, as shown in Table 1, Microsoft released portions of the OEM sales reserve into income.
+ii. Accelerated Depreciation
+Microsoft maintained a corporate reserve for accelerated depreciation.
+In fiscal years 1996 and 1997, Microsoft, for external reporting purposes, reduced the useful lives of its personal computers from three years to one year and the useful lives of its buildings from thirty years to fifteen years. These changes in depreciable lives were made because:
+(a) in the day-to-day management of the company, Microsoft treated personal computers as consumable supplies, and (b) buildings and related improvements were routinely gutted and refitted as groups moved freely about the Microsoft campus.
+Without regard to the GAAP requirement that changes in depreciable lives of assets be accounted for prospectively rather than retrospectively,3 Microsoft accounted for the impact of the new asset lives cumulatively.
+In other words, Microsoft accounted for its personal computers and buildings in fiscal years 1996 and 1997 as if they had always had useful lives of one and fifteen years respectively.
+This resulted in these assets having net book values that were less than they would have been in the absence of the changes in useful lives.
+The difference in value generated by the old and new useful lives was charged to depreciation expense and credited to an account that Microsoft called "accelerated depreciation."
+Microsoft failed to disclose (a) the changes in asset lives and their effect, and (b) the use of the improper method of accounting for the accelerated depreciation reserve.
+The accelerated depreciation account was not in compliance with GAAP.
+iii.
+Inventory Obsolescence
+Statement of Financial Accounting Standards No. 5 ("SFAS 5") requires that certain conditions exist before loss contingencies representing liabilities or asset impairments may be determined and the amount of a reserve accrued.
+The loss must be probable as of the balance sheet date and reasonably estimable; significantly, the loss must have occurred prior to the creation of the loss contingency and must not be in the future.4
+Furthermore, SFAS 5 prohibits the accrual of reserves for general or unspecified risks.5
+As discussed below, Microsoft did not comply with SFAS 5 because the company's senior financial personnel did not properly assess whether inventory losses had occurred, and made no effort to reasonably estimate the losses.
+Microsoft maintained a corporate level reserve account for inventory obsolescence that supplemented the inventory obsolescence reserve accounts determined at the operating level.
+Microsoft maintained factually supported inventory reserve accounts at the operating level, where operations personnel evaluated and documented the need for such accounts.
+The corporate level inventory obsolescence reserve had no substantiated basis, as required by SFAS 5.
+This corporate reserve was not associated with any specific inventory nor was it supported by any statistical or documented analysis during the fiscal years ended June 30, 1995 through June 30, 1998.
+The corporate reserves, when combined with operating level reserves, caused the net book value of Microsoft's consolidated inventory to be negative at the end of the fiscal year ended June 30, 1997.
+This reserve was, to a significant extent, not in compliance with GAAP, and was not documented as required by the federal securities laws.
+iv.
+Impaired Long Term Assets
+Microsoft maintained a corporate reserve account for the valuation of financial assets.
+According to internal documents, the reserve's purpose was to "allow for potential losses, upon disposition, of Microsoft's financial assets."
+These financial assets consisted of equity investments made in various technology companies.
+Microsoft amortized the cost of these financial assets with monthly charges to income without any basis for the
+charges.
+The appropriate treatment under GAAP would have been to carry the assets at cost or write down the assets to their fair value in the event that the assets had suffered other than temporary declines in fair value.6
+Microsoft did not have a proper basis under GAAP for the amounts of the monthly charges in the account during its fiscal years 1995 through 1998.
+4.
+Interest Rate Fluctuations
+According to internal documents, the reserve account for interest income was designed to "provide for shifts in interest rates or other economic events which may adversely impact Microsoft's return on its portfolio."
+Adjustments to the interest income reserve were made at the "discretion" of senior financial personnel, and Microsoft did not have any factual analysis or statistical support for the balance in this account.
+This reserve was determined in a manner that did not comply with GAAP, and its balance and the adjustments thereto lacked a proper basis under GAAP.7
+vi.
+Manufacturing Facilities
+Microsoft created a reserve in 1996 because it believed that the value of certain of its manufacturing facilities would be impaired because it was taking steps to outsource certain of its manufacturing activities and dispose of its own facilities that had been engaged in this manufacturing.
+Microsoft established a reserve account to provide for expenses associated with the disposition of its own plant and equipment, and associated employee-related expenses.
+Microsoft had no analysis or other factual basis supporting the balance in this account and, consequently, could not establish whether this account pertained to probable losses arising from an event or circumstance that had already occurred or whether it pertained to losses arising from future contingencies.
+This account therefore was not documented as required by the federal securities laws, and the balances in the account were not determined in a manner that was in conformity with GAAP.
+c.
+Cumulative Balances of Non-Cyclical Reserves
+The cumulative balance of the six non-cyclical reserve accounts discussed above is depicted in the chart below:
+Chart Two
+Moreover, the amounts of quarterly adjustments to the above described six accounts, together with the amounts of the marketing expenses accrual, are depicted below:
+Table 1 is attached.
+The balances and adjustments displayed in Chart Two and Table 1 above did not have the documentary support required by the federal securities laws, and a material portion thereof lacked a proper basis under GAAP.
+4. Microsoft's Filings With the Commission
+As a result of the foregoing, Microsoft filed with the Commission periodic reports and other filings during fiscal years 1995, 1996, 1997, and 1998 that included, directly or by incorporation, financial statements that misrepresented Microsoft's financial results by sometimes overstating income and on other occasions understating income.
+5. Microsoft's Failure to Maintain Accurate and Complete Books and Records
+In connection with its corporate reserve accounts, Microsoft failed to apply its own internal controls requiring a reconciliation of accounts to the general ledger.
+As noted above, the corporate reserve accounts were excepted from the company-wide policy that required all accounts be reconciled to the general ledger at least once per quarter.
+Microsoft's accounting policies required the reconciliation of accounts as part of an extensive process to close the company's books each quarter.
+Among other things,
+the controllers and members of the corporate controllers' group reviewed activity in each general ledger account and reconciled the account balances to the general ledger, attaching supporting documentation for all activity and account balances.
+The reconciliation policy and process were part of a process designed to help ensure the accuracy and integrity of Microsoft's internally and externally reported financial information.
+However, Microsoft failed to include the corporate reserve accounts in this reconciliation process.
+As a result, Microsoft lacked an important safeguard for helping ensure that the adjustments to the corporate reserve accounts and the account balances themselves were appropriate or accurately reported in conformity with GAAP.
+V.
+LEGAL ANALYSIS OF VIOLATIONS OF THE EXCHANGE ACT REPORTING, RECORD KEEPING, AND INTERNAL CONTROLS PROVISIONS
+Section 13(a) of the Exchange Act requires issuers of registered securities to file periodic reports with the Commission containing information prescribed by specific Commission rules.
+Rules 13a-1 and 13a-13 require, respectively, the filing of Forms 10-K and 10-Q.
+Rule 12b-20 requires, in addition to information required in periodic reports by Commission rules, such further material information as may be necessary to make the required statements not misleading.
+Among other things, Microsoft was required to comply with GAAP.8
+Microsoft was required to file periodic reports with the Commission during its fiscal years 1995 through 1998.
+These reports were required to be complete and accurate.
+See SEC v. Savoy Industries, 587 F.2d 1149, 1165 (D.C. Cir. 1978).
+As previously discussed, Microsoft recorded and adjusted its reserve accounts in ways not permitted under GAAP in its quarterly and annual filings.
+To a material extent, these reserve accounts lacked factually substantiated bases, and were therefore improper.
+The limited and inadequate documentation that Microsoft created with respect to these reserve accounts either did not substantiate any permitted basis for the accounts or indicated that the accounts were otherwise impermissible under GAAP.
+The inclusion of these reserves in Microsoft's financial statements and of the adjustments thereto in its income statements resulted in misstatements of income in certain periodic reports filed with the Commission during the relevant period, which were material.
+Consequently, Microsoft violated Section 13(a) and Rules 13a-1, 13a-13 and 12b-20 promulgated thereunder.
+Section 13(b)(2)(A) of the Exchange Act requires issuers to "make and keep books, records, and accounts, which in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the issuer."
+"A company's `books and records' include not only general ledgers and accounting entries, but also memoranda and internal corporate reports."
+In the Matter of Gibson Greetings, Inc., Ward A. Cavanaugh, and James H. Johnsen, Admin. Proc. File No. 3-8866, Release No. 34-36357, 60 SEC Docket 1401 (Oct. 11, 1995).
+Further, Section 13(b)(2)(B) of the Exchange Act requires issuers to devise and maintain a system of internal accounting controls sufficient to provide reasonable assurances that transactions are recorded as necessary to permit preparation of financial statements in conformity with generally accepted accounting principles.
+As described above, Microsoft failed to keep books and records that were in conformity with Section 13(b)(2)(A).
+Microsoft also had deficient internal controls relating to the corporate reserve accounts.
+The documentation created by Microsoft either did not adequately explain the basis for any of the corporate reserves or adjustments made to those accounts, or indicated that they were impermissible.
+In fact, senior Microsoft financial personnel relied upon their undocumented, subjective judgment rather than factual analysis or statistics in establishing and adjusting the corporate reserve accounts.
+In addition, the corporate reserve accounts were excluded from the company-wide reconciliation process, which required that all balance sheet accounts be reconciled to the general ledger with appropriate documentation of activity.
+Consequently, Microsoft violated Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act.
+VI.
+Based on the foregoing, the Securities and Exchange Commission finds that Microsoft violated Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act, and Rules 12b-20, 13a-1 and 13a-13 promulgated thereunder.
+VII.
+In view of the foregoing, it is appropriate to impose the sanction specified in Respondent's Offer of Settlement.
+VIII.
+ORDER
+ACCORDINGLY, IT IS HEREBY ORDERED THAT, pursuant to Section 21C of the Exchange Act, Microsoft cease-and-desist from committing or causing any violations of, and committing or causing any future violations of, Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act, and Rules 12b-20, 13a-1, and 13a-13 promulgated thereunder.
+By the Commission.
+Jonathan G. Katz
+Secretary
+_______________________________
+1
+Microsoft's fiscal year begins on July 1 and ends on June 30.
+2
+As a consequence of this reversal, the marketing accrual did not affect fiscal year-end results.
+3 See, APB Opinion No. 20; Accounting Changes, which requires changes in estimates (such as depreciable lives of fixed assets) to be accounted for prospectively.
+4
+Statement of Financial Accounting Standards No. 5, Paragraph 8.
+5 Id. at Paragraph 14.
+6
+Accounting Principles Board Opinion No. 18, ¶ 6a.
+7
+Statement of Financial Accounting Standards No. 115, &para2; 16, provides that individual securities classified as either available-for-sale or held-to-maturity shall be written down to fair value if the enterprise determines that declines in fair value are other than temporary.
+8
+17 C.F.R. § 210.4-01(a)(1).
+http://www.sec.gov/litigation/admin/34-46017.htm
+Home | Previous Page
+Modified: 06/03/2002

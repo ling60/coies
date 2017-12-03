@@ -1,0 +1,1784 @@
+---------------------Page 1---------------------
+
+     Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 1 of 35
+
+                          UNITED STATES DISTRICT COURT 
+                     FOR THE SOUTHERN DISTRICT OF TEXAS 
+                                  HOUSTON DIVISION 
+_____________________________________________ 
+SECURITIES AND EXCHANGE COMMISSION,                               : 
+                                                     : 
+                               Plaintiff,            :   Civil Action No.:  4:12-cv-1051 
+                                                     :    
+          v.                                         :    COMPLAINT 
+                                                     :    
+ANTHONY J. NOCELLA, AND                             : 
+J. RUSSELL MCCANN,                                  : 
+                                                     : 
+                                                     : 
+                               Defendants.           : 
+                                                     : 
+                                              
+       Plaintiff Securities and Exchange Commission (the Commission) alleges as follows: 
+
+                                        SUMMARY 
+
+        1.    This is a financial fraud matter involving securities law violations by former 
+
+senior executives of Franklin Bank Corp., a Texas-based savings and loan holding company.  In 
+
+2007, through its wholly-owned subsidiary, Franklin Bank, S.S.B., (together with Franklin Bank 
+
+Corp., Franklin or the Bank), Franklin operated a multi-branch savings bank.  At the 
+
+beginning of the financial crisis, during the third and fourth quarters of 2007, Franklins CEO, 
+
+Anthony J. Nocella (Nocella), and its CFO, J. Russell McCann (McCann), engaged in a 
+
+disclosure and accounting fraud that misled investors about Franklins financial condition and 
+
+concealed the extent of its exposure to loan delinquencies.   
+
+       2.     In the second and third quarters of 2007, the financial markets began showing 
+
+signs of severe distress caused by, among other things, increasing mortgage loan delinquencies 
+
+and falling home prices.  Franklin was not immune.  From June 2007 to August 2007, the 
+
+Defendants regularly reviewed reports revealing a 24% (or $30 million) increase in 
+
+delinquencies in the Banks loan portfolio over the 3 month period.   
+
+SEC v. Anthony J. Nocella, et al.                                                      Page 1 
+Complaint 
+---------------------Page 2---------------------
+
+     Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 2 of 35
+
+       3.     At the time they were reviewing this information, Nocella and McCann knew that 
+
+the market, research analysts, and investors were closely monitoring the quality of Franklins 
+
+loan portfolio.  In fact, on August 9, 2007, in response to Franklins request for information 
+
+about strategic alternatives for the Bank, including a possible sale of the Bank, investment 
+
+bankers from RBC Capital Markets told Nocella and McCann tha     t Franklin needed to polish the 
+
+apple by demonstrating positive earnings momentum and stable asset quality.  In light of 
+
+the precipitous increase in loan delinquencies in the third quarter of 2007, something had to be 
+
+done to ensure that Franklins strategic alternatives remained viable.  
+
+       4.     In an effort to conceal Franklins rising loan delinquencies and improve its 
+
+earnings for the third quarter of 2007, Nocella and McCann  conjured and implemented a loan 
+
+modification scheme to create the appearance that the Banks single-family and residential 
+
+construction loan portfolios were outperforming other banks and that the Banks earnings were 
+
+in line with analysts expectations.  At their core, Nocella and McCanns loan modification 
+
+schemes  with names like Fresh Start and Great News  were simple.  All Nocella and 
+
+McCann had to do was wave a magic wand (in this case, a pencil) to unilaterally convert non-
+
+performing loans into performing  loans .  In so doing, however, Nocella and McCann  violate d, 
+
+and caused Franklin to violate, the relevant accounting rules , the Bank s publicly stated policies 
+
+on non-performing assets, and the federal securities laws.   
+
+       5.     By engaging in their disclosure and accounting tricks, Nocella and McCann 
+
+concealed from shareholders over $11 million in delinquent and non-performing, single -family 
+
+residential loans and $13.5 million in non-performing residential construction loans.  Indeed, 
+
+Nocella and McCann, despite receiving reports showing   a sharp rise in delinquent loans, caused 
+
+Franklin to report in public filings with the Commission that its non-performing assets were flat 
+
+SEC v. Anthony J. Nocella, et al.                                                          Page 2 
+Complaint 
+---------------------Page 3---------------------
+
+     Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 3 of 35
+
+when compared to the previous quarter, giving investors the false impression that Franklin was 
+
+outperforming other banks.  Without Defendants loan modification scheme, Franklin would 
+
+have reported a 44% increase in its non-performing assets and would have missed its earnings 
+
+estimates for the quarter by an additional 72%.     
+
+        6.    The Commission, in the interest of protecting the public from such fraudulent 
+
+activities, brings this civil securities law enforcement action seeking a permanent injunction 
+
+against Nocella and McCann  , enjoining them from further violations or aiding and abetting 
+
+further violations of the federal securities laws.  The Commission also seeks an order barring 
+
+Defendants from serving as officers or directors of a public company, and imposing 
+
+disgorgement of ill-gotten gains, plus prejudgment interest, and civil monetary penalties as 
+
+allowed by law.  The Commission further seeks an order requiring Nocella and McCann to repay 
+
+Franklin for the bonuses they received during the time period of the misconduct and Franklins 
+
+materially misstated financial results, as required by Section 304 of the Sarbanes-Oxley Act of 
+
+2002 [15 U.S.C. § 7243].  
+
+                               JURISDICTION AND VENUE 
+
+       7.     This Court has jurisdiction over this action under Section 3(b) of the Sarbanes-
+
+Oxley Act of 2002 [15 U.S.C. § 7202(b)] and  Sections 21(d) , 21(e), and 27 of the Securities 
+
+Exchange Act of 1934 (Exchange Act) [15 U.S.C. §§78u(d), 78u(e), and 78aa]. 
+
+       8.     Defendants have, directly and indirectly, made use of the means or 
+
+instrumentalities of interstate commerce and/or the mails in connection with the transactions 
+
+described in this Complaint. 
+
+SEC v. Anthony J. Nocella, et al.                                                         Page 3 
+Complaint 
+---------------------Page 4---------------------
+
+     Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 4 of 35
+
+       9.     Venue is proper in this Court under Sections 21(d) and 27 of the Exchange Act 
+
+[15 U.S.C. §§78u(d) and 78aa] because certain of the acts and transactions described herein took 
+
+place in Houston, Texas, where Franklin is headquartered. 
+
+                                      DEFENDANTS 
+
+       10.    Anthony J. Nocella, age 70, resides in Houston, Texas.  From 2002 to 2008, 
+
+Nocella was the President and Chief Executive Officer (CEO)  of Franklin  Bank Corp. and 
+
+Franklin Bank, S.S.B.  From 1967 to 1990, he was a Certified Public Accountant licensed in 
+
+Pennsylvania.   
+
+       11.    J. Russell McCann, age 55, resides in Katy, Texas.  From April 2002 to October 
+
+2008, McCann was the Chief Financial Officer  (CFO) and Treasurer of Franklin Bank Corp., 
+
+and the CFO and Chairman of the Board of Directors of Franklin Bank, S.S.B.  He is a Certified 
+
+Public Accountant, and has been licensed in Texas since 1986. 
+
+                                  RELEVANT ENTITIES 
+
+       12.    During all relevant periods, Franklin Bank Corp. was a Texas-based savings and 
+
+loan holding company incorporated under the laws of Delaware and headquartered in Houston, 
+
+Texas.  Through its subsidiary, Franklin Bank, S.S.B., it operated a multi-branch savings bank.  
+
+Its common stock is registered with the Commission pursuant to Section 12(b) of the Exchange 
+
+Act, and is currently traded on the OTC Link (formerly Pink Sheets) operated by OTC Markets 
+
+Group Inc.  During the relevant period, its common stock was traded on the NASDAQ National 
+
+Market under the symbol FBTX, and its preferred stock was traded on the AMEX under the 
+
+symbol FBK-P.LF.  On November 18, 2008, Franklin Bank Corp. filed a voluntary petition for 
+
+bankruptcy under Chapter 7 of the United States Bankruptcy Code  [11 U.S.C. §§ 701- 784], in 
+
+the matter In re Franklin Bank Corp., Case No. 08-12924-CSS (Dist. Del.).  The bankruptcy 
+
+court appointed a Trustee to liquidate the assets  of and  act on behalf of Franklin Bank Corp.  
+
+SEC v. Anthony J. Nocella, et al.                                                       Page 4 
+Complaint 
+---------------------Page 5---------------------
+
+     Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 5 of 35
+
+       13.    During all relevant periods, Franklin Bank, S.S.B., was a Texas state savings bank 
+
+headquartered in Houston, Texas.   On November 7, 2008, the Texas Department of Savings and 
+
+Mortgage Lending closed Franklin Bank, S.S.B., and appointed the Federal Deposit Insurance 
+
+Corporation (FDIC) as Receiver  for the insolvent Bank. 
+
+                                FACTUAL ALLEGATIONS 
+
+A.     Franklins Background 
+
+       14.    In August 2001, Nocella and McCann, among others, formed Franklin Bank 
+
+Corp.  On April 9, 2002, Franklin Bank Corp. acquired Franklin Bank, S.S.B., and through it, 
+
+began operating a multi -branch savings and loan bank.  The Bank provided community banking 
+
+products and services, and commercial banking services to corporations and other business 
+
+clients, and it originated single family residential mortgages.  It also provided financing for 
+
+single family home builders and commercial real estate.   
+
+       15.    At all times relevant to the misconduct detailed in this Complaint, Nocella and 
+
+McCann were highly paid senior executives at Franklin.  Moreover, each Defendant owned a 
+
+significant stake of Franklin Bank Corp. that motivated him to ensure that Franklin was a 
+
+successful business venture.  Specifically, at the end of the third quarter of 2007, Nocella and 
+
+McCann owned approximately 200,000 shares and approximately 40,000 shares of Franklin 
+
+Bank Corp. stock, respectively.  In addition, Nocella and McCann both received incentive based 
+
+bonuses from Franklin. 
+
+       16.    As CEO and CFO, respectively, Defendants Nocella and McCann were in a 
+
+position of ultimate responsibility for Franklins financial condition and Franklins proper and 
+
+accurate reporting of that financial condition to the public.  
+
+ 
+
+ 
+
+SEC v. Anthony J. Nocella, et al.                                                        Page 5 
+Complaint 
+---------------------Page 6---------------------
+
+     Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 6 of 35
+
+B.     Franklins Disclosure and Accounting Policies 
+
+       17.     In the second and third quarters of 2007, the financial markets began showing 
+
+signs of severe distress caused by, among other things, increasing mortgage delinquencies  and 
+
+falling home prices.  Indeed, many commercial banks disclosed huge losses caused by rising 
+
+delinquencies in their single-family mortgage loans and related portfolios.   
+
+       18.     As described in its public filings with the Commission, Franklins stated policy 
+
+regarding disclosure of non-performing loans was to place such loans on nonaccrual status [i.e., 
+
+no longer accrue interest from the loans into income] upon becoming four payments past due as 
+
+to interest or principal.  The Banks policy was not to return loans to accrual until the loan 
+
+becomes current and the borrower demonstrates the ability to repay the loan.  Franklin disclosed 
+
+these policies in periodic filings, including its Form 10-Q for the third quarter of 2007 
+
+(hereinafter, the third quarter 10-Q) and its Form 10-K for 2006, as incorporated by reference 
+
+in its third quarter 10-Q. 
+
+       19.     Likewise, Franklin, consistent with generally accepted accounting principles 
+
+(GAAP), disclosed in its public filings with the Commission that it considered a loan 
+
+impaired when it was probable that the creditor would be unable to collect all principal and 
+
+interest amounts due according to the contractual terms of the loan agreement.   While the 
+
+impairment policy excluded smaller balance homogeneous loans, like single-family residential 
+
+and consumer loans, the policy did not exclude larger commercial loans, like residential 
+
+construction loans.  Moreover, GAAP required    the Bank to impair single -family residential loans 
+
+if it modified those loans and, in so doing, granted a concession to the borrower (i.e., granted the 
+
+borrower a troubled debt restr ucturing (TDR)).  A creditor is deemed to have granted a 
+
+SEC v. Anthony J. Nocella, et al.                                                          Page 6 
+Complaint 
+---------------------Page 7---------------------
+
+     Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 7 of 35
+
+concession if, among other things, the debtors effective borrowing rate on the restructured debt 
+
+is less than the effective borrowing rate of the debt immediately prior to the restructuring. 
+
+       20.    Nocella and McCann disclosed Franklins impairment policy and certified that its 
+
+financial statements conformed to GAAP as part of the B anks Form 10-K for 2006, which was 
+
+incorporated by reference in Franklins third quarter 10-Q.   
+
+       21.    The practical effect of Franklins disclosure policies on non-performing/non-
+
+accrual assets was that Franklin, like other banks, had to disclose that its severely delinquent 
+
+loans as non-performing loans/assets in Franklins public filing with the SEC.  Likewise, under 
+
+Franklins impairment policies and GAAP, the Bank had to conduct an impairmen    t analysis on 
+
+delinquent loans if it appeared that the borrower would be unable to make its payments 
+
+according to a loans terms or if Franklin restructured the loans because of the borrowers 
+
+financial distress.   
+
+C.     Nocella and McCann Are Advised to Polish the Apple        
+
+       22.    Franklin, like most other banks, was not immune to the economic crisis.  By 
+
+September 2007, Franklins loan portfolio totaled $4.2 billion, containing $1.8 billion in single-
+
+family mortgage loans and $1.3 billion in loans to single-family home builders.  More than 70% 
+
+of its loans were related to the housing market and collateralized by residential real estate.   
+
+       23.    The Banks total loan delinquencies increased by  more than $30 million, or 24% , 
+
+from June to August 2007.  During the third quarter, Nocella and McCann requested and 
+
+received monthly delinquency reports and updates  that showed delinquency increases, including 
+
+reports on August 8, August 24, and September 11, 2007.  By July 31, 2007, Franklin s internal 
+
+reports showed that the Banks non-performing loans for single-family residential and 
+
+residential-construction loans combined were at $22.1 million.  By the end of August 2007, 
+
+SEC v. Anthony J. Nocella, et al.                                                          Page 7 
+Complaint 
+---------------------Page 8---------------------
+
+     Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 8 of 35
+
+Franklins internal reports showed that Franklins non-performing loans for single-family 
+
+residential and residential-construction loans combined had increased to $24.3 million.    
+
+       24.    During the third quarter of 2007, Nocella and McCann knew that the market, 
+
+research analysts, and investors were closely monitoring the quality of Franklins loan portfolio.  
+
+And Nocella and McCann knew that Franklin was at risk of missing its earnings projections due 
+
+to its deteriorating single-family and residential construction loan portfolios.  In fact, on August 
+
+6, 2007, Nocella and Lewis Ranieri (Ranieri), Franklin Bank Corp.s Chairman of the Board, 
+
+met with investment bankers from RBC Capital Markets (RBC) to discuss strategic 
+
+alternatives to raise capital, including a possible sale of the Bank.    
+
+       25.    Three days later, RBC, during a presentation to Franklins Board of D irectors 
+
+regarding strategic alternatives, told Defendants that for Franklins strategic options to remain 
+
+viable, the Bank needed to meet Wall Street earnings per share (EPS) estimates for the third 
+
+and fourth quarters of 2007.  RBC also recommended to Defendants that Franklin polish the 
+
+apple by demonstrating positive EPS momentum and stabilized asset quality.   
+
+D.     Franklins Scheme to Conceal Its Deteriorating Asset Quality  
+
+       26.    On August 8, the day before the Board of D  irectors meeting with RBC, McCann 
+
+emailed Nocella a spreadsheet of potential problem loans, noting an increase from $14.4 million 
+
+potential problem loans in March to $28.7 million in June.  On August 24, Nocella and McCann 
+
+received an email stating that delinquent loans had increased an additional $18.3 million since 
+
+the end of July, and that delinquent loan data was available daily on the delinquent loans report.   
+
+       27.    By the end of August, Nocella and McCann understood that Franklin could not 
+
+demonstrate stable asset quality because its loan portfolio was rapidly deteriorating.  
+
+Defendants also knew that the Bank was required to impair certain of its larger, commercial 
+
+SEC v. Anthony J. Nocella, et al.                                                          Page 8 
+Complaint 
+---------------------Page 9---------------------
+
+     Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 9 of 35
+
+loans  including a $13.5 million loan residential construction loan (                    see section D. 2, below), 
+
+which would require Franklin to increase its loan loss reserves.  Finally, Nocella and McCann 
+
+were aware that increasing the Banks non-performing loans and impairing bank assets would 
+
+decrease Franklins reported earnings because: (i) Franklin could not, in accordance with GAAP, 
+
+recognize interest on non-performing loans; and (ii) the increased impairment would require 
+
+Franklin to increase its loan loss reserves and offset the increased reserves against Franklins 
+
+earnings.  Franklin treated an increase in reserves as an expense, which reduced the Banks net 
+
+income. 
+
+       28.    Realizing the negative implication of increasing non-performing assets and 
+
+increasing its loan loss reserves on its disclosures and earnings (not to mention its plans for 
+
+strategic alternatives), Nocella and McCann embarked on a scheme to deceive investors about 
+
+Franklins non-performing loans, non-performing assets, and earnings.   
+
+       29.    Within days of RBCs meeting with Franklins Board of D   irectors, Nocella 
+
+proposed to implement a loan-modification program aimed at reducing single family residential 
+
+loans over four payments past due.  Pursuant to this program, Franklin would modify non-
+
+performing loans in the Banks portfolio to reflect those loans as performing.     
+
+       30.    On August 30, 2007, McCann emailed Nocella, questioning what loans could be 
+
+brought current as a result of the proposed modifications and whether the proposed loan 
+
+modification program would improve Franklins financial statements.  Specifically, McCann told 
+
+Nocella that modifying delinquent loans without an agreement or a payment would 
+
+automatically create a non-performing loan for the period of the extension.   The email also: 
+
+(i) advised Nocella that the modified loans would remain delinquent, but accruing, until such 
+
+time that payments are made under the modified terms; and (ii) cautioned Nocella that he was 
+
+SEC v. Anthony J. Nocella, et al.                                                         Page 9 
+Complaint 
+---------------------Page 10---------------------
+
+    Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 10 of 35
+
+still looking at the regs to see when the loan could be considered current under regulatory 
+
+guidelines.  In response, Nocella told McCann that Franklin need[ed] to get done before 9-30 
+
+as you know.  Keep working this.  This is incredibly important.  Need a better answer.  Thus, 
+
+before implementing their loan modification scheme  , Nocella and McCann understood that doing 
+
+so had disclosure and accounting implications for Franklin.   
+
+       31.    Even though the disclosure and accounting issues raised during Nocella and 
+
+McCanns August 30, 2007 discussion were never resolved   , Nocella and McCann approved and 
+
+implemented three loan modification programs during the third  and fourth quarters of 2007: (i) 
+
+Fresh Start; (ii) Strathmore; and (iii) Great News.   
+
+              1.      Fresh Start  
+
+       32.    Pursuant to the loan modification program known as Fresh Start, Franklin 
+
+unilaterally sent letters to delinquent and severely delinquent borrowers   all of whom were four 
+
+or more payments past due and had failed to demonstrate the ability to pay under the terms of 
+
+their loans.  The letters advised the  severely delinquent borrowers t hat the Bank would consider 
+
+their loans current if the borrowers: (i) contacted the Bank by October 1, 2007; (ii) agreed to 
+
+make one payment; (iii) agreed to move all past due amounts to the end of the loan due at the 
+
+maturity of the loan; and (iv) made a payment on or before October 13, 2007 under the terms of 
+
+the original loan.   
+
+       33.    Through the end of the third quarter of 2007, Daniel Cooper, an Executive Vice 
+
+President and Managing Director of the Banks mortgage banking division, regularly updated 
+
+Nocella and Ranieri about the dollar amount of loans that had been modified under the Fresh 
+
+Start program.  On September 22, 2007, Cooper notified Nocella via email that Franklin had 
+
+modified approximately $7 million in loans and would modify more than $10 million in loans, 
+
+SEC v. Anthony J. Nocella, et al.                                                        Page 10 
+Complaint 
+---------------------Page 11---------------------
+
+    Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 11 of 35
+
+consistent with the goal Nocella had previously set for the end of the third quarter.  But Nocella, 
+
+citing increasing non-performing loans and non-performing assets, responded to Cooper by 
+
+increasing the goal to a minimum of $15 million and telling him that $16.7 million would be 
+
+better.  Notably, Coopers email to Nocella includes multiple references to NPLshorthand 
+
+for non-performing loans.   
+
+       34.    On September 28 (the last business day of the third quarter), Cooper emailed 
+
+Ranieri and Nocella that: (i) approximately $10 million in loans had been modified; (ii) 
+
+approximately $2 million in payments were posted, but would not appear on the Banks reports 
+
+until the following day; (iii) a collection crew was working Saturday; and (iv) $14 million was 
+
+within reach but we need to get lucky with some bigger loans. 
+
+       35.    Ultimately, Fran klin modified millions of dollars of loans through the Fresh Start 
+
+program, including $4 million in loans that were previously classified by the Bank as non-
+
+performing.  In Franklins third quarter 10-Q, Nocella and McCann removed the non-  performing 
+
+loans that were modified pursuant to the Fresh Start program from the Banks disclosures of non-
+
+performing loans and non-performing assets.  Such removal   was inconsistent with the Banks 
+
+internal Asset Classification Policies and Procedures (Asset Policies) and publicly disclosed 
+
+policy on non-performing assets, which required the borrowers to make three payments and 
+
+otherwise demonstrate ability to repay the loan before the loan could be reclassified as 
+
+performing.   
+
+       36.    Moreover, because the Fresh Start loans were TDRs under GAAP, Franklin was 
+
+required to impair them pursuant to Statement of Financial Accounting Standard No. 114 
+
+(SFAS 114).  SFAS 114 requires creditors to measure impairment based on the present value 
+
+of expected future cash flows or an observable fair value of the collateral (i.e., an appraisal) if the 
+
+SEC v. Anthony J. Nocella, et al.                                                        Page 11 
+Complaint 
+---------------------Page 12---------------------
+
+    Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 12 of 35
+
+loan is collateral dependent.  If that present value is less than the recorded investment in the loan, 
+
+the impairment should be added to reserves and expensed against income.    
+
+       37.    The modified Fresh Start loans included a concession to the borrower:  Franklin 
+
+lowered the debtors effective borrowing rates by deferring overdue interest payments, without 
+
+interest, until a one-time balloon payment at maturity of the loan.  Accordingly, the Fresh Start 
+
+loans should have been treated as TDRs, and Franklin was required to impair them   pursuant to 
+
+SFAS 114.   
+
+       38.    Although Nocella and McCann understood (at least as of August 30, 2007, and 
+
+likely much earlier) that Fresh Start had accounting implications for the Bank, they did not cause 
+
+Franklin to conduct an impairment analysis of any of the loans modified under the Fresh Start 
+
+program during the third quarter of 2007, and did not impair any of the Fresh Start loans as 
+
+required by GAAP. 
+
+       39.    Further, although Franklin admits that the Fresh Start loan modifications qualified 
+
+as TDRs, even if they did not, SFAS 5 required Franklin to impair the loans because of the 
+
+borrowers failures to make timely payments.      
+
+       40.    As a result of their concealment of the Fresh Start loan modifications, Nocella and 
+
+McCann caused Franklin to understate its non- performing assets by $4 million in its third quarter 
+
+10-Q, representing a 24% understatement of non-performing loans and a 7% understatement of 
+
+non-performing assets. 
+
+       41.    As a result of Franklins failure to appropriately impair the Fresh Start loans and 
+
+the Banks continued recognition of interest income on these non-performing loans, Nocella and 
+
+McCann caused Franklin to overstate materially its earnings in the third quarter 10-Q by 
+
+approximately $1.3 million (17% of reported third  quarter earnings).   
+
+SEC v. Anthony J. Nocella, et al.                                                         Page 12 
+Complaint 
+---------------------Page 13---------------------
+
+    Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 13 of 35
+
+       42.    Franklins accounting for the Fresh Start modifications did not comply with 
+
+GAAP.  On August 6, 2008, Franklin filed a Form 8-K admitting that Franklin did not account 
+
+for certain single family mortgage loan modification programs developed and implemented in 
+
+the 3rd
+       and 4th
+              quarters of 2007 [including Fresh Start] as TDRs, and did not place these loans on 
+
+non-accrual status.   
+
+       43.    In the face of the clear trend of increasing delinquencies, Nocella and McCann 
+
+each signed and certified the third quarter10-Q, stating that the decrease in non-performing assets 
+
+was the result of a decrease in Franklins non-performing single-family loans.  And they did so 
+
+knowing that such reduction was due to their deviation from Franklins stated disclosure 
+
+policies relating to non-performing loans. 
+
+       44.    At the time that they signed and certified the third quarter 10-Q, Nocella and 
+
+McCann knew that: (i) many of the Fresh Start loans were over four payments past due; (ii) the 
+
+loans had not become current; and (iii) the borrowers had not demonstrated the ability to repay 
+
+the loan.  In fact, Nocella instructed Cooper to focus on modifying non-performing loans in his 
+
+September 22, 2007 email that increased the monetary target for the Fresh Start program.  
+
+Likewise, McCann reviewed a spreadsheet after the end of the third  quarter that listed many of 
+
+the Fresh Start loans and indicated that those loans were removed from the Banks delinquency 
+
+report.    
+
+       45.    Despite their knowledge of the Banks publicly stated nonaccrual policy, their 
+
+participation in the Fresh Start modification, and their awareness of the Fresh Start borrowers 
+
+financial distress, Nocella and McCann failed to include the Fresh Start loans in the Banks 
+
+disclosure of non-performing assets and non-performing loans. 
+
+ 
+
+SEC v. Anthony J. Nocella, et al.                                                         Page 13 
+Complaint 
+---------------------Page 14---------------------
+
+    Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 14 of 35
+
+              2.      Strathmore Modifications 
+
+       46.    Because he understood that Fresh Start was not enough to polish the apple, 
+
+Nocella tasked Franklins General Counsel with reducing the growing delinquencies in 
+
+Franklins residential builder construction loan portfolio.  Nocella was particularly concerned 
+
+about four troubled loans totaling $13.5 million to Strathmore Finance Co. and its subsidiaries 
+
+for four construction projects in the Detroit area (the Strathmore loans).  By the summer of 
+
+2007, Strathmore could not repay the loans and asked Franklin for a loan modif ication.  In fact, 
+
+Strathmores financial condition was so dire that it requested an interest reserve as part of the 
+
+modification. 
+
+       47.    An interest reserve allows a lender to advance loan funds to pay interest charges 
+
+on the outstanding balance of the loan.  The interest is capitalized and added to the loan balance. 
+
+       48.    Franklins Chief Credit Officer (CCO)   reviewed Strathmores modification 
+
+request and determined  that Strathmore was insolvent.  Accordingly, Epperson instructed the 
+
+Banks loan officer to obtain additional collateral from Strathmore as a precondition to any 
+
+modification of the Strathmore loans , and told the Executive Management Credit Committee 
+
+(Credit Committee), including Nocella and McCann, that banking regulations required new 
+
+appraisals because the loans were over 90 days delinquent (i.e., non-performing loans).   
+
+       49.    On September 25, 2007, Nocella sent an email to Jones stating that the Bank 
+
+needed to get a paper close [on the Strathmore modifications] by Fri. to make numbers.   
+
+       50.    Also on September 25, Nocella and McCann made       an investor presentation at a 
+
+conference hosted by RBC.  During the conference, Nocella   and McCann told investors that th e 
+
+asset quality in the builder portfolio was stable to improving, that Franklin anticipated a decrease 
+
+in the overall level of non-performing assets by the first quarter of 2008, and reiterated its full 
+
+SEC v. Anthony J. Nocella, et al.                                                         Page 14 
+Complaint 
+---------------------Page 15---------------------
+
+    Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 15 of 35
+
+year 2007 EPS estimates of $1.22 to $1.26.  When they  made the statements at the RBC 
+
+conference, Nocella and McCann knew, by virtue of internal delinquency reports that they 
+
+reviewed, that Franklins delinquencies continued to increase. Accordingly, they also knew, or 
+
+were severely reckless in not knowing, that their statement s to investors w ere contingent on 
+
+Franklins modification of non-performing loans, including the Strathmore loans.  
+
+       51.    On September 28, based on Nocella and McCanns presentation at the investment 
+
+conference, RBC issued an analyst report characterizing the purported improvement in the 
+
+quality of Franklins loan portfolio as surprising and very positive.  RBC reported that the net 
+
+impact of these fundamental trends is a more positive outlook than we were expecting, 
+
+particularly given the heavy exposure to the mortgage market. 
+
+       52.    That same day, Nocella convened a special meeting of the Credit Committee to 
+
+address the proposed Strathmore loan modifications.  During this meeting and despite the CCOs 
+
+objections to the Strathmore loan modifications, the Credit Committee, including Nocella and 
+
+McCann, agreed   to modify the Strathmore loans by approving an interest reserve sufficient to 
+
+cover the next 12 months interest payments.   
+
+       53.    Nocella and McCann, as the Banks senior executives and top account  ants, knew 
+
+that the loan modifications would have material accounting implications for the Bank.  But 
+
+neither Nocella nor McCann undertook to determine the appropriate accounting treatment for the 
+
+Strathmore modification.  Likewise, Nocella and McCann both failed to analyze whether the 
+
+Strathmore loan should be impaired as a result of the borrowers inability to make timely 
+
+payments under the terms of the loan agreement.   
+
+       54.    By September 28, 2007, the Strathmore loans were over four payments past due, 
+
+and therefore, non-performing.  Moreover, because the Strathmore borrower was insolvent  , it 
+
+SEC v. Anthony J. Nocella, et al.                                                        Page 15 
+Complaint 
+---------------------Page 16---------------------
+
+    Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 16 of 35
+
+could not demonstrate that it had the ability to make payments on the loan.  Accordingly, the 
+
+Strathmore loans, consistent with the Banks publicly stated policies relating to non-performing 
+
+loans, should have been reflected as non-performing in Franklins third quarter 10-Q, and the 
+
+Bank should have impaired the Strathmore loans.  However, during the third  quarter of 2007, 
+
+Franklin did not conduct an impairment analysis of the Strathmore loans, and did not impair 
+
+them as required by GAAP.   
+
+       55.    In October 2007, the FDIC examined Franklin and discovered the Strathmore 
+
+modifications.  The FDIC determined that the Strathmore loans warranted placement on 
+
+nonaccrual and evaluation for impairment under SFAS 114.  Under SFAS 114, Franklin was 
+
+required to impair the loans because in light of Strathmores distressed financial condition, it was 
+
+improbably that Franklin would be able to collect all principle and interest due on the loan.   
+
+       56.    Despite their certification of the Banks publicly stated nonaccrual policy, their 
+
+participation in the Strathmore modification, and their awareness of the Strathmore borrowers 
+
+financial distress, Nocella and McCann failed to include the Strathmore loans in the Banks 
+
+public disclosure of non-performing assets and non-performing loans. 
+
+       57.    As a result of their improper accounting treatment for the Strathmore loan 
+
+modifications, Nocella and McCann cau  sed Franklin to understate its non-performing loans by 
+
+$13.5 million in the third quarter 10-Q, representing an 81% understatement of non-performing 
+
+loans and a 24% understatement of non- performing assets.  Because the Strathmore loans were 
+
+not impaired and the Bank continued to recogni ze interest income on the non-performing loans, 
+
+Nocella and McCann caused Franklin to overstate   its reported earnings by at least $2.7 million 
+
+(36% of reported earnings) in the 3rd
+                                     quarter of 2007. 
+
+SEC v. Anthony J. Nocella, et al.                                                        Page 16 
+Complaint 
+---------------------Page 17---------------------
+
+    Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 17 of 35
+
+       58.    On December 20, 2007, Franklin filed a Form 10-Q/A for the third   quarter of 
+
+2007, amending its treatment of the Strathmore loans to reflect the loans as TDRs.  But the 10-
+
+Q/A did not disclose the other modification programs  (Fresh Start and Great News).  
+
+Accordingly, Nocella and McCann continued to understate   Franklins non-performing loans 
+
+(23%) and non-performing assets (10%) relating to the other programs. 
+
+              3.      Great News 
+
+       59.    Based on the information that Cooper had provided regarding the Fresh Start 
+
+modifications and the Defendants later authorization of the Strathmore modifications, Nocella 
+
+told investors at an RBC investor conference on September 25, 2007 that Franklin anticipated 
+
+that non-performing assets would decrease by the end of 2007.   
+
+       60.    After the end of Franklins third quarter, on October 1, 2007, Franklins Credit 
+
+Committee convened to discuss   loans showing credit deterioration.  The draft minutes reflected 
+
+that Cooper reported to members of the Committee that Fresh Start had reduced the Banks non  -
+
+performing assets from $14 million to $10 million, which was at least $6 million less than he had 
+
+told Ranieri and Nocella in late September.   
+
+       61.    On October 3, 2007, Cooper  , Nocella, and the other Bank officers, received via 
+
+email from the committee secretary the draft minutes of the meeting for comments and 
+
+corrections.  At least three attendees, including Cooper, responded that the draft accurately 
+
+reflected the discussion during the Credit Committee meeting. 
+
+       62.    On October 4, 2007, Ranieri called Nocella and Cooper to discuss the $6 million 
+
+shortfall in loan modifications.  Indeed, Ranieri was furious that Cooper had lied and 
+
+overstated the number of non-performing loans that were modified and brought current during 
+
+the third quarter of 2007.  
+
+SEC v. Anthony J. Nocella, et al.                                                        Page 17 
+Complaint 
+---------------------Page 18---------------------
+
+    Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 18 of 35
+
+       63.    Following Ranieris phone call, in an effort to conceal the $6 million shortfall and 
+
+placate Ranieri, Nocella directed Cooper to implement a retroactive, unilateral-loan-modification 
+
+program to reduce the third quarter non -performing loan amounts without requiring a payment 
+
+from the borrower.  At Nocellas direction, Cooper instructed Sharon Koehl  (Koehl), a senior 
+
+loan officer at the Bank, to generate a list of severely delinquent                                             borrowers ( i.e., more than four 
+
+payments past due) and draft a letter to them.   
+
+       64.    On or about October 5, 2007, Nocella reviewed and approved the modification 
+
+letter that became known as the Great News letter, and directed that the letter be sent to 28 
+
+single-family borrowers whose loans were classified as non-performing.  Although these loans 
+
+were severely delinquentbetw   een 119 and 545 days past duethe Great News letter advised 
+
+the borrowers that the ir loans were now current and that, to remain current, borrowers only 
+
+needed to make their next scheduled payment.    
+
+       65.    Also on October 5, 2007, Nocella caused   the draft  of the minutes from the 
+
+October 1, 2007 Credit Committee meeting to be revised to reflect that non-performing assets 
+
+dropped from $14 million to $4 million.  According to Cooper, the additional $6 million 
+
+decrease (i.e., from $14 million to $10 million to $14 million to $4 million) reflected unilateral 
+
+modifications made after the October 1st
+                                         credit committee meeting ( i.e., in the companys fourth 
+
+quarter) pursuant to the Great News program. 
+
+       66.    After the Great News letters were mailed, Koehl sent the list of borrowers to a 
+
+member of the Banks mortgage department    that was  responsible for updating the loan servicing 
+
+system.  Koehl instructed the employee to reflect the Great News loans as current in Franklins 
+
+accounting system.  In response, the employee approached Cooper to confirm that he understood 
+
+that rolling the loans current in the accounting system would alter Franklins financial records. 
+
+SEC v. Anthony J. Nocella, et al.                                                         Page 18 
+Complaint 
+---------------------Page 19---------------------
+
+    Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 19 of 35
+
+       67.    In response to the employees concerns, Cooper sought guidance from McCann 
+
+regarding the accounting treatment for the Great News loans.  In response, McCann told Cooper 
+
+that: (i) Franklin could book the non-performing loans as performing based on the date the 
+
+decision to modify was made; and (ii) the Great News modifications were an isolated case to 
+
+test the accounting treatment.   
+
+       68.    By the end of the third quarter of 2007, the Great News loans were significantly 
+
+over four payments past due, and therefore, non-performing.  Moreover, none of the Great News 
+
+borrowers made payments; therefore, none of the Great News borrowers could have 
+
+demonstrated the ability to make payments on the loan.  Accordingly, the Great News loans, 
+
+consistent with the Banks publicly stated policy on non-performing assets and the Asset Policies 
+
+should have been reflected as non-performing in Franklins third quarter 10-Q. 
+
+       69.    Like the Fresh Start loans, the modified Great News loans included a concession 
+
+to the borrower: Franklin lowered the debtors effective borrowing rates by deferring overdue 
+
+interest payments, without interest, until a one-time balloon payment at maturity of the loan.  
+
+Accordingly, the Great News loans should have been treated as TDRs, and Franklin was required 
+
+to impair them pursuant to SFAS 114.  However, during the third  quarter of 2007, Franklin did 
+
+not conduct an impairment analysis of any of the loans modified under the Great News program 
+
+as required by GAAP. 
+
+       70.    In addition, Nocella and McCann, by virtue of their experience as CPAs and as 
+
+long-time executives at public companies, knew that it was improper to use a program 
+
+implemented in the fourth quarter of 2007 to fix Franklins third quarter financial results.  In fact, 
+
+during an internal investigation that followed revelations of Franklins improper disclosure and 
+
+accounting practices, Nocella attempted to coerce Koehl into stating that the Great News 
+
+SEC v. Anthony J. Nocella, et al.                                                        Page 19 
+Complaint 
+---------------------Page 20---------------------
+
+    Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 20 of 35
+
+program began before the end of the third quarter of 2007.  Nocellas efforts to cover up his 
+
+misconduct further evidence his intent to deceive.   
+
+       71.    As a result of Franklins failure to appropriately treat the Great News loans as 
+
+TDRs and impair the m and the Banks continued recognition of interest income on these non-
+
+performing loans, Nocella and McCann caused Franklin to overstate its  earnings by 
+
+approximately $1.8 million (24% of reported earnings).  
+
+       72.    By virtue of the Great News program , Nocella and McCann concealed from 
+
+investors $7 million of non-performing loans in its third quarter 10-Q, representing a 42% 
+
+understatement of non-performing loans and a 13% understatement of non   -performing assets. 
+
+       73.    Despite their certification of the Banks publicly stated policy on non- performing 
+
+loans, their knowledge that loan modifications had accounting implications that they had not 
+
+resolved (as evidenced, for example, by their August 30, 2007 email exchange), their 
+
+participation in the Great News modification, and their awareness of the Great News borrowers 
+
+financial distress, Nocella and McCann failed to include the Great News loans in the Banks 
+
+disclosure of non-performing assets and non-performing loans.  
+
+       74.    On August 6, 2008, Franklin filed a Form 8-K admitting   that it failed to account 
+
+for certain single family mortgage loan modification programs developed and implemented in 
+
+the 3rd
+       and 4th
+              quarters of 2007 [including  Great News] as TDRs, and did not place these loans on 
+
+non-accrual status.   
+
+E.     Nocella and McCanns Fraudulent Disclosures 
+
+       75.    As described  above, Nocella and McCann closely monitored monthly reports 
+
+indicating that Franklin delinquencies were increasing.  In fact, in preparation for filing 
+
+SEC v. Anthony J. Nocella, et al.                                                        Page 20 
+Complaint 
+---------------------Page 21---------------------
+
+    Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 21 of 35
+
+Franklins third quarter 10-Q, McCann reviewed a spreadsheet identifying the modified loans 
+
+and indicating that those loans were removed from the Banks delinquency reports.   
+
+       76.    The following chart, based on Franklins delinquency reports reviewed by 
+
+Nocella and McCann, summarizes the increase in Franklins non- performing single-family and 
+
+residential construction loans during the third  quarter of 2007:  
+
+                                Non-performing Loans (in millions) 
+
+                                      Single         Residential       Total 
+                                      Family         Construction 
+
+                  June 30, 2007           $9.9           $4.9              $14.8 
+
+                  July 31, 2007           $10.1          $12.0             $22.1 
+
+                  August 31, 2007         $12.0          $12.3             $24.3 
+
+                  September 30,           $2.9           $12.6             $15.5 
+                      2007 
+                      (reported) 
+
+                  September 30,           $13.9          $26.1             $40.0 
+                      2007 (actual) 
+
+ 
+
+       77.    Despite the clear trend indicating that delinquencies were increasing, Nocella and 
+
+McCann signed and certified the Banks third quarter 10-Q, including the statement that an 
+
+increase in non-performing commercial loans . . . was offset by a reduction of non-performing 
+
+single family mortgages of $9.5 million (emphasis added).   In light of these clear trends and 
+
+each Defendant s focus on the delinquency issue during the third quarter of 2007, including the 
+
+September 22, 2007 email exchange between Nocella and Cooper discussi   ng NPL, both 
+
+Nocella and McCann knew that the loan modification schemes were aimed at converting non-
+
+performing loans into performing loans.   
+
+SEC v. Anthony J. Nocella, et al.                                                       Page 21 
+Complaint 
+---------------------Page 22---------------------
+
+    Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 22 of 35
+
+       78.    Nocella and McCann disseminated Franklins false financial performance to the 
+
+public by: (i) filing a Form 8-K on October 30, 2007 containing the press release announcing 
+
+Franklins third quarter performance; (ii) speaking on a quarterly earnings conference call held 
+
+on October 30, 2007; (iii) filing a third quarter Form  10-Q on November 9, 2007; and (iv) filing 
+
+a third  quarter Form 10- Q/A on December 20, 2007.   
+
+       79.    On August 6, 2008, Franklin filed a Form 8  -K and disclosed that it did not 
+
+account for certain single family mortgage loan modification programs developed and 
+
+implemented in the 3 rd
+                       and 4th
+                              quarters of 2007 as TDRs, and did not place these loans on non-
+
+accrual status.  As a result of the Fresh Start, Strathmore, and Great News modifications, 
+
+Franklin was able to report non-performing loans of $16.6 million for the third quarter 2007.  
+
+Had the Bank properly accounted for the modification programs, Franklins non-performing 
+
+loans would have increased by $24.5 million (or 147%) and its non-performing assets would 
+
+have increased by 44%. The majority of these modifications ($21 million) took place after the 
+
+RBC investor conference on September 25, 2007.  Indeed, as a result of the loan modifications, 
+
+Franklin was able to report that non-performing assets were flat for the third quarter, which was: 
+
+(i) consistent with Nocella and McCanns false statements at the RBC conference; and (ii) 
+
+especially significant to investors in light of the rise in delinquencies and non-performing assets 
+
+at other banks during this time period. 
+
+       80.    As a result of failing to properly account for the loan modification programs in 
+
+accordance with GAAP and appropriately classifying the modified loans as non-performing 
+
+assets consistent with Franklins publicly stated policies, Nocella and McCann misled investors 
+
+in Franklins   public statements as follows: 
+
+        
+
+SEC v. Anthony J. Nocella, et al.                                                         Page 22 
+Complaint 
+---------------------Page 23---------------------
+
+    Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 23 of 35
+
+ Non-performing Assets/Non-performing Loans               Maker(s)            Filing(s)/Event(s) 
+
+ Misstatement: Franklin had $55.4 million in non-
+ performing assets, comprised of $16.6 million in non-    Nocella and         10-Q                                    
+ performing loans.                                       McCann              8-K 
+
+ Reality: Franklin had $79.9 million of non-performing 
+ assets, and $41.1 million of non-performing loans.                             
+
+ Misstatement:  Loans are generally placed on 
+ nonaccrual status upon becoming four payments past       Nocella and         10-Q                            
+ due as to interest or principal.                           McCann           10-Q/A 
+
+ Reality:  Nocella and McCann knew, by virtue of their 
+ direct participation in the loan modification programs, 
+ that the Fresh Start, Strathmore, and Great News 
+ programs included loans that were four or more 
+ payments past due.  They also knew that Franklin was 
+ not placing the modified loans on nonaccrual status.                         
+
+ Misstatement: The overall delinquency trends point-
+ to-point, thats June 30th to right now are flat.            Nocella        3rd Quarter Call 
+
+ Reality: Nocella knew that the number of 
+ delinquencies in the Banks loan portfolio was 
+ continuing to increase, when compared to the number 
+ of delinquencies as of June 30th
+                                . Nocella also knew that 
+ Franklin had improperly treated $24.5 million of non-
+ performing loans and non-performing assets as current 
+ during the 3rd quarter.                                     
+
+ Misstatement: Franklins non-performing loans as a                           
+ percentage of total assets remained stable[and] our 
+ non performing assets increase[d] slightly in            McCann              3rd Quarter Call 
+ relationship to our portfolio."  
+ Reality: McCann knew that Franklins non-performing 
+ loans, absent improper adjustments relating to Fresh 
+ Start, Strathmore, and Great News, were actually $41.1 
+ million during the 3rd
+                       quarter of 2007, which was a 
+ 152% increase over the previous quarter.                                       
+
+SEC v. Anthony J. Nocella, et al.                                                        Page 23 
+Complaint 
+---------------------Page 24---------------------
+
+    Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 24 of 35
+
+ Misstatement: Franklin had $68.9 million in non-
+ performing assets, comprised of $16.6 million in loans 
+ that were four payments or more delinquent in 
+ nonaccrual status, $13.5 million of restructured loans   Nocella and 
+ on nonaccrual and $38.8 million of real estate owned.   McCann              10-Q/A 
+
+ Reality: Franklin had $79.9 million of non-performing 
+ assets and $41.1 million of non-performing loans that 
+ were four payments or more delinquent during the 3 rd
+                                                        
+ quarter of 2007.                                                               
+
+ Earnings/ Net Income 
+
+ Misstatement: Franklin earned $7.5 million in net                             
+ income.                                                  Nocella and         10-Q 
+                                                          McCann              8-K 
+ Reality: Franklin earned $1.8 million in net income for 
+ the 3rd
+        quarter of 2007.                                                        
+
+ Loan Loss Reserves   
+
+ Misstatement: Management believes that the                                   
+ allowance for credit losses is adequate to cover known 
+ and inherent risks in the loan portfolio as of September   Nocella and       10-Q                         
+ 30, 2007.                                               McCann              10-Q/A 
+
+ Reality: By August 2008, Franklin had determined that 
+ its financial disclosures for the 3rd
+                                   quarter of 2007 
+ understated reserves by $2.9 million for the Great 
+ News and Fresh Start modification programs and $2.2 
+ million for the Strathmore TDR.                                                
+
+ 
+
+F.     Nocella and McCanns Lies to Franklins Auditor 
+
+       81.    Despite their extensive knowledge of and participation in the loan modification 
+
+scheme, Nocella and McCann certified the accuracy of the disclosures  in the Forms 10- Q and 10-
+
+Q/A for the third quarter of 2007.  For each filing, they certified (in pertinent part) that: 
+                                                                                      (i) they 
+
+had individually reviewed the filing; (ii) it did not contain any untrue statement of a material fact 
+
+SEC v. Anthony J. Nocella, et al.                                                         Page 24 
+Complaint 
+---------------------Page 25---------------------
+
+    Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 25 of 35
+
+or omit to state a material fact; and (iii) the financial statements and other financial information, 
+
+fairly presented in all material respects the issuers financial condition, results of operations, and 
+
+cash flows.  Nocella and McCann, by virtue of their loan modification scheme, concealed from 
+
+shareholders rising delinquencies and overstated Franklins earnings.   
+
+       82.    Moreover, as part of the quarterly review and in advance of filing the Forms 10-Q 
+
+and 10-Q/A, Nocella and McCann signed management representation letters to Franklins 
+
+auditors on November 9, 2007 and December 19, 2007.  The letters represented, among other 
+
+things that: (i) the financial statements conformed with GAAP; ( ii) Franklins internal controls 
+
+over financial reporting were established and maintained; (iii) all impaired loans receivable 
+
+have been properly recorded and disclosed in the financial statements; and ( iv) [l]oans that 
+
+have been restructured to provide a reduction or deferral of interest or principal payments 
+
+because of borrower financial difficulties have been properly recorded and disclosed in the 
+
+financial statements (emphasis added).  As detailed above, these statements were false, and 
+
+were made by Nocella and McCann in furtherance of their scheme to conceal rising 
+
+delinquencies and to overstate earnings. 
+
+G.     Franklins Corrective Disclosures, Internal Investigation, and Failure 
+
+       83.    On November 26, 2007, Franklin issued a press release announcing, among other 
+
+things, that it should have classified an additional $13.5 million in loans as non-performing (due 
+
+to Strathmore), and that it would increase reserves by $20 million.  Despite discussions with the 
+
+FDIC and its auditors about the Strathmore TDRs and the similarity between them and the 
+
+single-family-modification programs, Franklin did not disclose the Fresh Start and Great News 
+
+programs as part of the press release. 
+
+SEC v. Anthony J. Nocella, et al.                                                         Page 25 
+Complaint 
+---------------------Page 26---------------------
+
+    Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 26 of 35
+
+       84.    On February 19, 2008, a Franklin employee wrote Franklins general counsel 
+
+alleging fiscal irregularities at Franklin.  This complaint prompted Franklins audit committee to 
+
+retain counsel to investigate.  As a result, on March 14, 2008, Franklin announced that it would 
+
+delay filing its 2007 Form 10-K (it ultimately never made further periodic SEC filings).  The 
+
+internal investigation found that Franklin, through the Fresh Start and Great News programs, 
+
+improperly treated nonperforming assets as performing assets . 
+
+       85.    On August 6, 2008, Franklin filed a Form 8-K disclosing that accounting issued 
+
+required Franklin to restate its financial statements in its third quarter 10-Q.  In fact, due to 
+
+Franklins material non-compliance with the financial reporting requirements of the federal 
+
+securities laws, which were the result of the misconduct described herein, Franklin was required 
+
+to issue accounting restatements.   
+
+       86.    On November 7, 2008, the Texas Department of Savings and Mortgage Lending 
+
+closed Franklin Bank, S.S.B., and the FDIC was appointed Receiver.  On November 12, 2008, 
+
+Franklin Bank Corp. filed Chapter 7 bankruptcy, and the court appointed a trustee.  As a result of 
+
+the Banks failure, Franklin did not file the required restatement of its financial results. 
+
+H.     Defendants Bonus Compensation 
+
+       87.    As CEO, Defendant Nocella received $25,000 in bonuses from the Bank during 
+
+the twelve months following the filing of the false financials.   
+
+       88.    As CFO, Defendant McCann received $50,000 in bonuses from the Bank during 
+
+the twelve months following the filing of the false financials.   
+
+       89.    In order to prevent senior executives from profiting from the filing of inaccurate 
+
+financial statements, Section 304 of the Sarbanes-Oxley Act requires an issuers CEO and CFO 
+
+to repay to the issuer any incentive-based compensation, equity-based compensation, bonuses, 
+
+SEC v. Anthony J. Nocella, et al.                                                         Page 26 
+Complaint 
+---------------------Page 27---------------------
+
+    Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 27 of 35
+
+and stock-sale profits (SOX 304 compensation)  the executives received during the twelve 
+
+months following the date on which the original financial statement (giving rise to the 
+
+restatement) was issued or filed with the Commission (whichever comes first), if those financial 
+
+results are later required to be restated as a result of misconduct.   
+
+       90.    Franklin was required to restate its financials for the third quarter 2007 as a result 
+
+of the misconduct of Nocella and McCann.  However, neither Defendant has repaid Franklin the 
+
+SOX 304 compensation he received. 
+
+                                   CLAIMS FOR RELIEF 
+
+                                          COUNT 1 
+
+                           Fraud in Violation of the Exchange Act    
+         Section 10(b) [15 U.S.C. § 78j(b)] and Rule 10b-5 [17 C.F.R. § 240.10b-5] 
+                                                 
+       91.    The Commission realleges and incorporates by reference Paragraphs 1 
+
+through 90. 
+
+       92.    Defendants Nocella and McCann directly and indirectly, by use of the means and 
+
+instrumentalities of interstate commerce, and of the mails in connection with the purchase or sale 
+
+of securities, knowingly, willfully or recklessly: (a) employed devices, schemes or artifices to 
+
+defraud; (b) made untrue statements of material facts and omitted to state material facts 
+
+necessary in order to make the statements made, in the light of the circumstances under which 
+
+they were made, not misleading; and/or (c) engaged in acts, practices and courses of business 
+
+which have operated, are now operating and will operate as a fraud upon the purchasers of such 
+
+securities.  
+
+SEC v. Anthony J. Nocella, et al.                                                        Page 27 
+Complaint 
+---------------------Page 28---------------------
+
+    Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 28 of 35
+
+       93.    By reason of the foregoing, Defendants Nocella and McCann     directly or 
+
+indirectly, violated, and are reasonably likely to continue to violate, unless enjoined, Section 
+
+10(b) of the Exchange Act, 15 U.S.C. § 78j(b), and Rule 10b-5 thereunder, 17 C.F.R. § 240.10b-
+
+5.  
+
+                                          COUNT II 
+                                                 
+                    Aiding and Abetting Violations of the Exchange Act      
+         Section 10(b) [15 U.S.C. § 78j(b)] and Rule 10b-5 [17 C.F.R. § 240.10b-5] 
+       94.    The Commission realleges and incorporates by reference Paragraphs 1 
+
+through 90. 
+
+       95.    Franklin, directly and indirectly, by use of the means and instrumentalities of 
+
+interstate commerce, and of the mails in connection with the purchase or sale of securities, 
+
+knowingly, willfully or recklessly: (a) employed devices, schemes or artifices to defraud; (b) 
+
+made untrue statements of material facts and omitted to state material facts necessary in order to 
+
+make the statements made, in the light of the circumstances under which they were made, not 
+
+misleading; and/or (c) engaged in acts, practices and courses of business which have operated, 
+
+are now operating and will operate as a fraud upon the purchasers of such securities. 
+
+       96.    Defendants Nocella and McCann, directly and indirectly, each had a general 
+
+awareness that he was part of an overall activity that was improper or illegal and knowingly, or 
+
+with severe recklessness, provided substantial assistance to violations by Franklin of Section 
+
+10(b) of the Exchange Act, 15 U.S.C. § 78j(b), and Rules 10b-5 thereunder, 17 C.F.R. § 
+
+240.10b-5. 
+
+       97.    By reason of the foregoing, Defendant s Nocella and McCann  aided and abetted 
+
+Franklins violations, and is reasonably likely to again aid and abet Franklins violations, unless 
+
+SEC v. Anthony J. Nocella, et al.                                                        Page 28 
+Complaint 
+---------------------Page 29---------------------
+
+    Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 29 of 35
+
+enjoined, Section 10(b) of the Exchange Act, 15 U.S.C. § 78j(b), and Rule 10b-5 thereunder, 17 
+
+C.F.R. § 240.10b-5.  
+
+                                         COUNT III 
+                                                
+     Aiding and Abetting Violations of the Reporting Provisions of the Exchange Act       
+                    (Section 13(a) and Rules 12b-20, 13a-11, and 13a-13) 
+       [15 U.S.C. § 78m(a) and 17 C.F.R. §§ 240.12b-20, 240.13a-11, and 240.13a-13] 
+ 
+       98.    The Commission realleges and incorporates by reference Paragraphs 1 
+
+through 90. 
+
+       99.    Defendants Nocella and McCann knowingly, or with severe recklessness , signed 
+
+and filed materially false and misleading periodic reports and a current report with the 
+
+Commission that misrepresented Franklins: (a) non-performing assets, (b) non-performing 
+
+loans, and (c) net income.   
+
+       100.   Franklin: failed to timely and accurately file reports with the Commission 
+
+regarding its assets, liabilities, and net income; failed to include material information in its 
+
+required statements and reports as was necessary to make the statements made, in light of the 
+
+circumstances under which they were made, not misleading  ; and filed or caused to be filed with 
+
+the Commission materially false and misleading financial and informational statements.  These 
+
+filings misstated Franklins non-performing loans, non-performing assets, and net income. 
+
+       101.   By reason of the foregoing, Franklin violated Section 13(a) of the Exchange Act 
+
+[15 U.S.C. § 78m(a)] and Exchange Act Rules 12b-20, 13a-11, and 13a-13 [17 C.F.R. §§ 
+
+240.12b-20, 240.13a-11, and 240.13a-13]. 
+
+       102.   Nocella and McCann knowingly, or with severe recklessness , gave substantial 
+
+assistance to Franklin in its violations of Section 13(a) of the Exchange Act [15 U.S.C. § 78m(a)] 
+
+SEC v. Anthony J. Nocella, et al.                                                       Page 29 
+Complaint 
+---------------------Page 30---------------------
+
+    Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 30 of 35
+
+and Exchange Act Rules 12b-20, 13a-11, and 13a-13 [17 C.F.R. §§ 240.12b-20, 240.13a-11, and 
+
+240.13a-13].  
+
+       103.   By reason of the foregoing, Nocella and McCann aided and abetted Franklins 
+
+violations, and unless restrained and enjoined will continue to aid and abet such violations, of 
+
+Section 13(a) of the Exchange Act [15 U.S.C. § 78m(a)], and Rules 12b-20, 13a-11, and 13a-13 
+
+[17 C.F.R. §§ 240.12b-20, 240.13a-11, and 240.13a-13]. 
+
+                                         COUNT IV 
+                                                
+Aiding and Abetting Violation   s of the Books and Records and Internal Control Provisions 
+                                     of the Exchange Act 
+                            (Sections 13(b)(2)(A) and 13(b)(2)(B))  
+                        [15 U.S.C. §§ 78m(b)(2)(A) and 78m(b)(2)(B)] 
+       104.   The Commission realleges and incorporates by reference Paragraphs 1 
+
+through 90. 
+
+       105.   By engaging in the foregoing misconduct, Franklin, whose securities are 
+
+registered pursuant to Section 12 of the Exchange Act [15 U.S.C. § 78l]: (a) failed to make and 
+
+keep books, records, and accounts, which, in reasonable detail, accurately and fairly reflected the 
+
+transactions and dispositions of its assets; and (b) failed to devise and maintain a system of 
+
+internal controls sufficient to provide reasonable assurances that:  (a) transactions were recorded 
+
+as necessary to permit preparation of financial statements in conformity with GAAP or any other 
+
+criteria applicable to such statements, and (b) to maintain accountability of assets. 
+
+       106.   By engaging in the foregoing misconduct, Franklin violated Sections 13(b)(2)(A) 
+
+and 13(b)(2)(B) of the Exchange Act [15 U.S.C. §§ 78m(b)(2)(A) and 78m(b)(2)(B)]. 
+
+       107.    Nocella and McCann knowingly , or with severe recklessness , provided 
+
+substantial assistance to Franklin in its failure to make and keep books, records, and accounts, 
+
+which, in reasonable detail, accurately and fairly reflected the transactions and dispositions 
+
+SEC v. Anthony J. Nocella, et al.                                                        Page 30 
+Complaint 
+---------------------Page 31---------------------
+
+    Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 31 of 35
+
+Franklins assets and in failing to devise and maintain a system of internal accounting controls 
+
+sufficient to reasonably assure that transactions were recorded and financial statements were 
+
+prepared in conformity with GAAP. 
+
+       108.   By reason of the foregoing, Nocella and McCann aided and abetted Franklins 
+
+violations, and unless restrained and enjoined will continue to aid and abet violations of Section 
+
+13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act [15 U.S.C. § 78m(b)(2)(A) and (B) ]. 
+
+                                         COUNT V 
+                                               
+                 Circumventing or Failing to Implement Internal Controls 
+                     (Exchange Act Section 13(b)(5) and Rule 13b2-1)  
+                    [15 U.S.C. § 78m(b)(5) and 17 C.F.R. § 240.13b2-1] 
+                                               
+       109.   The Commission realleges and incorporates by reference Paragraphs 1 
+
+through 90. 
+
+       110.   By engaging in the foregoing misconduct, Defendants Nocella and McCann 
+
+violated, and unless enjoined will continue to violate, Section 13(b)(5) of the Exchange Act [15 
+
+U.S.C. § 78m(b)(5)] and Rule 13b2- 1 [17 C.F.R. § 240.13b2- 1] by knowingly circumventing or 
+
+knowingly failing to implement a system of internal accounting controls at Franklin, or by 
+
+knowingly falsifying, or causing to be falsified, Franklins books, records, or accounts subject to 
+
+Section 13(b)(2)(A) of the Exchange Act [15 U.S.C. § 78m(b)(5)].  
+
+                                        COUNT VI 
+                                               
+                     Misrepresentations and Misconduct in Connection 
+                         with the Preparation of Required Reports 
+                (Exchange Act Rules 13b2-2(a) [17 C.F.R. § 240.13b2- 2(a)] 
+       111.   The Commission realleges and incorporates by reference Paragraphs 1 
+
+through 90. 
+
+       112.   By engaging in the foregoing misconduct Nocella and McCann violated Exchange 
+
+Act Rule 13b2-2(a) [17 C.F.R. § 240.13b2-2a] by, directly or indirectly, making, or causing to be 
+
+SEC v. Anthony J. Nocella, et al.                                                      Page 31 
+Complaint 
+---------------------Page 32---------------------
+
+    Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 32 of 35
+
+made, materially false or misleading statements, or omitting to state, or causing another person to 
+
+omit to state, material facts necessary in order to make statements made, in light of the 
+
+circumstances under which such statements were made, not misleading, to an accountant in 
+
+connection with (a) an audit, review or examination of the financial statements of Franklin 
+
+required to be made pursuant to Commission rules, or (b) the preparation or filing of  documents 
+
+or reports required to be filed with the Commission.  
+
+                                         COUNT VII 
+                                                 
+                   Violations of Certifications Rules of the Exchange Act 
+                    (Exchange Act Rule 13a-14 [17 C.F.R. § 240.13a-14]) 
+                                                 
+       113.   The Commission realleges and incorporates by reference Paragraphs 1 
+
+through 90. 
+
+       114.   Acting under Section 302 of the Sarbanes-Oxley Act of 2002 and Exchange Act 
+
+Rule 13a-14, Nocella and McCann certified on behalf of Franklin Forms 10-  Q on November 9, 
+
+2007, and 10-Q/A on December 20, 2007.  
+
+       115.   Specifically, Nocella and McCann certified that they had reviewed these reports 
+
+and that, based on their respective knowledge, the reports did not contain any untrue statements 
+
+of a material fact or omit to state a material fact necessary to make the statements made, in light 
+
+of the circumstances under which they were made, not misleading; and, based on their 
+
+knowledge, the financial statements and other financial information included in the reports, fairly 
+
+presented in all material respects the financial condition, results of operation and cash flows of 
+
+Franklin for the periods presented on the reports. 
+
+       116.   At the time Nocella and McCann issued these certifications, they knew or were 
+
+severely reckless in not knowing that the reports they certified contained untrue statements of 
+
+SEC v. Anthony J. Nocella, et al.                                                        Page 32 
+Complaint 
+---------------------Page 33---------------------
+
+    Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 33 of 35
+
+material facts and/or omitted to state material facts necessary to make the statements made 
+
+therein, in light of the circumstances under which they were made, not misleading. 
+
+       117.   By reason of the foregoing, Nocella and McCann violated and unless enjoined 
+
+will continue to violate Exchange Act Rule 13a-14 [17 C.F.R. § 240.13a-14] promulgated under 
+
+Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+                                        COUNT VIII 
+
+                                    Failure to Reimburse 
+   (Violation of Section 304(a) of the Sarbanes-Oxley Act of 2002 [15 U.S.C. § 7243(b)]   ) 
+       118.   The Commission realleges and incorporates by reference Paragraphs 1 
+
+through 90. 
+
+       119.   Nocella and McCann, by engaging in the aforementioned conduct, caused 
+
+Franklin to file Forms  8-K dated October 30, 2007, Form 10-Q for the period ended September 
+
+30, 2007, and Form 10-Q/A for the period ended September 30,2007, that were in material non -
+
+compliance with its financial reporting requirements under the federal securities laws. 
+
+       120.   Due to Franklins material non-compliance with its financial reporting 
+
+requirements, and as a result of the misconduct of Nocella and McCann, Franklin was required to 
+
+prepare accounting restatements for the quarter ended September 30, 2007.   
+
+       121.   Defendants have failed to reimburse Franklin for the SOX 304 compensation 
+
+received or obtained during the statutory time periods established by the Sarbanes-Oxley Act of 
+
+2002. 
+
+       122.   The Commission has not exempted Defendants, pursuant to Section 304(b) of the 
+
+Sarbanes-Oxley Act of 2002 [15 U.S.C. § 7243(b)], from its application under Section 304(a) [15 
+
+U.S.C. § 7243(a)]. 
+
+SEC v. Anthony J. Nocella, et al.                                                       Page 33 
+Complaint 
+---------------------Page 34---------------------
+
+    Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 34 of 35
+
+       123.   By engaging in the conduct described above, Defendants violated, and unless 
+
+ordered to comply will continue to violate, Section 304(a) of the Act, 15 U.S.C. § 7243(a). 
+
+                                  REQUEST FOR RELIEF 
+
+   For these reasons, the Commission respectfully requests that the Court enter a final 
+
+judgment: 
+
+   a)  permanently enjoining Nocella and McCann from violating Sections 10(b) and 13(b)(5) 
+
+       of the Securities Exchange Act of    1934 (Exchange Act) and Rules 10b-  5, 13a -14, 
+
+       13b2-1, and 13b2-2 thereunder; 
+
+   b)  permanently enjoin Nocella and McCann from aiding and abetting violations of Sections 
+
+       10(b), 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 10b- 5, 12b-20, 
+
+       13a-11, and 13a-13 thereunder; 
+
+   c)  ordering Defendants to disgorge all ill-gotten gains, with prejudgment interest; 
+
+   d)  ordering Defendants to pay civil penalties under Section 21(d)(3) of the Exchange Act  
+
+       [15 U.S.C. § 78u(d)(3)]; 
+
+   e)  prohibiting each Defendant, under Section 21(d)(2) of the Exchange Act [15 U.S.C. 
+
+       §78u(d)(2)], from acting as an officer or director of any issuer that has a class of 
+
+       securities registered under Section 12 of the Exchange Act [15 U.S.C. § 78l] or that is 
+
+       required to file reports under Section 15(d) of the Exchange Act [15 U.S.C. §78o(d)]; 
+
+   f)  in a form consistent with Fed. R. Civ. P. 65(d), ordering Nocella and McCann to 
+
+       reimburse Franklin for bonuses pursuant to Section 304 of the Sarbanes-Oxley Act of 
+
+       2002 [15 U.S.C. § 7243]; and 
+
+   g)  granting such other relief as the Court may deem just and appropriate.  
+
+ 
+
+SEC v. Anthony J. Nocella, et al.                                                        Page 34 
+Complaint 
+---------------------Page 35---------------------
+
+    Case 4:12-cv-01051   Document 1    Filed in TXSD on 04/05/12   Page 35 of 35
+
+Dated:  April 5, 2012              Respectfully submitted,                            
+                                    
+
+                                   /s/ Jennifer D. Brandt                             
+                                   Jennifer D. Brandt 
+                                   Texas Bar No. 00796242 
+                                   Toby M. Galloway 
+                                   Texas Bar No. 00790733 
+                                   Michael D. King 
+                                   Texas Bar No. 24032634   
+                                   United States Securities and Exchange Commission  
+                                   801 Cherry Street, 19th Floor  
+                                   Fort Worth, TX  76102  
+                                   Phone: (817) 978-6442 (jb) 
+                                   Fax: (817) 978-4927 
+                                   brandtj@sec.gov 
+                                   ATTORNEYS FOR PLAINTIFF 
+                                                   
+ 
+ 
+
+SEC v. Anthony J. Nocella, et al.                                                     Page 35 
+Complaint 

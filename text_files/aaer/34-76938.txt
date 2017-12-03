@@ -1,0 +1,585 @@
+---------------------Page 1---------------------
+
+                           UNITED STATES OF AMERICA 
+                                       Before the 
+                    SECURITIES AND EXCHANGE COMMISSION 
+
+SECURITIES EXCHANGE ACT OF 1934  
+Release No. 76938 / January 20, 2016 
+
+ACCOUNTING AND AUDITING ENFORCEMENT  
+Release No. 3733 / January 20, 2016 
+
+ADMINISTRATIVE PROCEEDING  
+File No. 3-17060 
+
+                                              ORDER INSTITUTING CEASE-AND-
+ In the Matter of                             DESIST PROCEEDINGS, PURSUANT TO 
+                                              SECTION 21C OF THE SECURITIES 
+             Ocwen Financial Corp.            EXCHANGE ACT OF 1934, MAKING 
+                                              FINDINGS, AND IMPOSING REMEDIAL 
+ Respondent.                                  SANCTIONS AND A CEASE-AND-DESIST 
+                                              ORDER 
+                                              
+                                            I. 
+
+      The Securities and Exchange Commission (“Commission”) deems it appropriate that 
+cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the 
+Securities Exchange Act of 1934 (“Exchange Act”) against Ocwen Financial Corp. (“Ocwen” or 
+“Respondent”). 
+
+                                           II. 
+
+      In anticipation of the institution of these proceedings, Respondent has submitted an Offer 
+of Settlement (“Offer”) which the Commission has determined to accept. Solely for the purpose 
+of these proceedings and any other proceedings brought by or on behalf of the Commission, or to 
+which the Commission is a party, and without admitting or denying the findings herein, except as 
+to the Commission’s jurisdiction over them and the subject matter of these proceedings, which 
+are admitted, Respondent consents to the entry of this Order Instituting Cease-and-Desist 
+Proceedings, Pursuant to Section 21C of the Exchange Act of 1934, Making Findings, and 
+Imposing Remedial Sanctions and a Cease-and-Desist Order (“Order”), as set forth below. 
+
+                                           III. 
+
+                                                                          1
+      On the basis of this Order and Respondent’s Offer, the Commission finds  that: 
+
+                                                 
+1
+       The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding on any 
+other person or entity in this or any other proceeding. 
+---------------------Page 2---------------------
+
+                                           Summary 
+
+       1.     This matter involves Ocwen’s related party transactions and its valuation of 
+certain related company liabilities from 2012 to 2014. First, Ocwen disclosed that it had policies, 
+procedures and practices that, among other things, required that its then-Executive Chairman of 
+the Board (the “Executive Chairman”), who also served as the Chairman of the Board of two 
+related companies, Home Loan Servicing Solutions Ltd. (“HLSS”) and Altisource Portfolio 
+Solutions S.A. (“Altisource”), be recused from approving transactions with HLSS and 
+Altisource. In fact, there were no written policies or procedures regarding recusal and the 
+practice that existed was flawed, inconsistent, and ad hoc. Second, Ocwen’s erroneous valuations 
+of its financing liability on certain mortgage servicing rights sold to HLSS contributed to Ocwen 
+materially misstating its financial results for the last three quarters in 2013 and the first quarter of 
+2014. These misstatements resulted from an internal accounting controls failure that caused the 
+company to rely on a valuation methodology that did not conform to U.S. Generally Accepted 
+Accounting Principles (“GAAP”). 
+
+       2.     In its Form 10-K for the year 2012, Ocwen disclosed in the 1A “Risk Factors” 
+section that it had “adopted policies, procedures and practices to avoid potential conflicts 
+involving significant transactions with related parties such as Altisource, including [the 
+Executive Chairman’s] recusal from negotiations regarding, and credit committee and board 
+approvals of such transactions.” In the same section of its Form 10-K for the year 2013, Ocwen 
+similarly disclosed that it had “adopted policies, procedures and practices to avoid potential 
+conflicts with respect to [its] dealings with Altisource [and] HLSS [among other related entities], 
+including [its] Executive Chairman recusing himself from negotiations regarding, and approvals 
+of, transactions with these entities.” The Executive Chairman’s recusal was to be one of several 
+safeguards against potential conflicts due to his multiple roles at Ocwen and its related entities. 
+
+       3.     Ocwen had no written related party transactions policies or procedures. And, 
+although the Executive Chairman had a practice of recusing himself from negotiations and 
+certain approvals of related party transactions, that practice was inconsistent and ad hoc. Ocwen 
+therefore failed to devise and maintain its disclosed internal controls sufficient to ensure that the 
+Executive Chairman recused himself from all approvals involving potential conflicts of interest 
+in Ocwen’s related party transactions. 
+
+       4.     Due to these control failures, the Executive Chairman repeatedly approved 
+transactions between Ocwen and HLSS in both his Ocwen- and HLSS-related capacities. In 
+addition, as to Altisource, the Executive Chairman voted, as a member of the Ocwen Board of 
+Directors, to approve a $75 million bridge loan from Altisource to Ocwen. And, due to other 
+internal accounting control deficiencies, Ocwen had either no documentation or insufficient 
+documentation of approvals of five transactions between Ocwen and HLSS. 
+
+       5.     Separately, Ocwen materially misstated its net income for three quarters in 2013 
+and the first quarter of 2014 by relying on HLSS’s improper valuation of rights to mortgage 
+servicing rights (“Rights to MSRs”) that were acquired from Ocwen and still accounted for by 
+Ocwen as a financing liability. Although Ocwen reported that it accounted for the Rights to 
+MSRs at amortized cost and that the carrying value of the Rights to MSRs “approximate[d] fair 
+value,” the valuation for the Rights to MSRs assigned by HLSS was not a fair value estimate. 
+
+                                               2 
+ 
+---------------------Page 3---------------------
+
+Ocwen’s Executive Chairman anticipated that the variance between the HLSS valuation and a 
+fair value estimate provided by a third party would be significant; however, he did not share his 
+views with anyone at Ocwen or with Ocwen’s external auditors. In addition, Ocwen’s 
+management and its Audit Committee failed to adequately review whether HLSS’s valuation 
+methodology, which Ocwen relied upon, complied with GAAP. 
+
+                                        Respondent 
+
+       6.     Ocwen is a Florida corporation that, as of October 2015, has its principal place of 
+business in West Palm Beach, Florida. Ocwen’s common stock is registered with the 
+Commission pursuant to Section 12(b) of the Exchange Act and trades on the New York Stock 
+Exchange. Between 2012 and 2014, Ocwen’s Executive Chairman owned approximately 13 
+percent of Ocwen’s common stock. 
+
+                                  Other Relevant Entities 
+
+       7.     Altisource is a Luxembourg corporation with its principal executive offices in 
+Luxembourg. Altisource comprises certain business divisions divested from Ocwen, and it 
+became registered with the Commission pursuant to Section 12(b) of the Exchange Act in 2009. 
+It trades on the NASDAQ Global Market. The Executive Chairman of Ocwen became 
+Altisource’s Chairman at the time of its formation and owned approximately 26 percent of 
+Altisource’s common stock between 2012 and 2014. 
+
+       8.     HLSS is a Cayman Islands corporation with its principal executive offices in the 
+Cayman Islands. HLSS’s common stock became registered with the Commission pursuant to 
+Section 12(b) of the Exchange Act in February 2012 and, from that date until approximately 
+April 2015, traded on the NASDAQ Global Market. HLSS was founded by Ocwen’s Executive 
+Chairman in 2010 and conducted an initial public offering in February 2012. The Executive 
+Chairman of Ocwen also became HLSS’s Chairman in 2010 and owned 100 percent of HLSS’s 
+ordinary shares of common stock prior to the initial public offering, 5 percent after the offering, 
+and approximately 1 percent between 2013 and 2014. 
+
+                                        Background 
+
+A.     Ocwen’s Related Party Transactions 
+
+                       Ocwen’s Relationship with Altisource and HLSS 
+
+       9.     Ocwen is a servicer of mortgages that have been securitized and are owned by 
+residential mortgage-backed securities trusts. As such, Ocwen collects and remits principal and 
+interest payments received from homeowner borrowers and manages loans that are delinquent or 
+in foreclosure or bankruptcy. In addition, as one of its obligations in managing delinquent loans, 
+Ocwen advances funds to the trusts to cover payments missed by borrowers. 
+
+       10.    In 2009, Ocwen spun-off certain business lines to a newly-created entity, 
+Altisource, and entered into long-term agreements for Altisource to provide technology products 
+and services to Ocwen including, among other things, home valuations, property preservation 
+and inspection services, sales of foreclosed properties, mortgage charge-off collection services, 
+
+                                              3 
+ 
+---------------------Page 4---------------------
+
+and insurance services. Ocwen’s Executive Chairman also became Chairman of Altisource, and 
+several Ocwen managers left Ocwen to become executives and members of the board of 
+directors at Altisource. 
+
+       11.    In 2010, Ocwen’s Executive Chairman sought to make Ocwen “capital-light” by 
+creating HLSS, a company that would be publicly traded and that would finance a substantial 
+part of Ocwen’s servicer advances. HLSS was to purchase Ocwen’s mortgage servicing rights 
+(“MSRs”), and thereby receive the future servicing fees owed to Ocwen in connection with those 
+MSRs and, as a result of that purchase, would be responsible for funding servicer advances. As a 
+part of this arrangement, HLSS would retain Ocwen as the subservicer for all mortgages 
+underlying the MSRs purchased by HLSS. Ocwen’s Executive Chairman also became HLSS’s 
+Chairman, and certain managers and members of the board of directors at Ocwen left Ocwen to 
+become executives and board members at HLSS. 
+
+       12.    Due to difficulties encountered with transferring title to the MSRs to HLSS, 
+Ocwen retained title and HLSS agreed to acquire the Rights to the MSRs through a financing. 
+Ocwen and HLSS executed a master purchase agreement and master subservicing agreement in 
+February 2012. On March 5, 2012, Ocwen completed an initial sale to HLSS of Rights to MSRs 
+on mortgages with an unpaid principal balance (“UPB”) of $15.2 billion. Under this 
+arrangement, Ocwen serviced the mortgages, collected the servicing fees from borrowers and 
+remitted the fees to HLSS. From the total servicing fees remitted, HLSS paid Ocwen a base fee 
+for its services and a performance fee when Ocwen met certain targets for advance levels. 
+Because of his role at HLSS, the Executive Chairman recused himself from negotiating and 
+voting on the approval of the master agreements and initial purchase. 
+
+             Ocwen’s Control Breakdowns Relating to Related Party Transactions 
+
+       13.    Although several internal documents created by Ocwen personnel referred to a 
+related party transactions policy, there were no written policies or procedures governing when an 
+officer or director with a conflict of interest was required to be recused from negotiating or 
+approving a related party transaction. While the Executive Chairman routinely recused himself 
+from negotiations with Altisource and HLSS and recused himself from approvals of transactions 
+in certain instances, including the master purchase and master subservicing agreements and the 
+initial sale of Rights to MSRs to HLSS, Ocwen personnel never developed guidelines under 
+which such recusal was appropriate. This caused a number of control deficiencies. 
+
+       14.    First, the responsibility for determining whether recusal was appropriate was left 
+largely to the Executive Chairman, the person with the conflict of interest. While Ocwen’s in-
+house counsel occasionally provided advice on whether the Executive Chairman could 
+participate in a related party transaction, there was no meaningful oversight of the Executive 
+Chairman’s determination. 
+
+       15.    Second, Ocwen personnel lacked a clear understanding of when recusals were 
+required. Ocwen stated in its 2012 Form 10-K that it had “adopted policies, procedures and 
+practices to avoid potential conflicts” present in “significant” related party transactions. 
+However, Ocwen personnel had conflicting understandings of what types of transactions could 
+qualify as significant, and they never attempted to reconcile these conflicting understandings. 
+
+                                               4 
+ 
+---------------------Page 5---------------------
+
+When Ocwen removed the term “significant” from its disclosure in its 2013 Form 10-K, some 
+Ocwen personnel continued to view the Executive Chairman’s recusal as required only in 
+transactions determined to be significant. Yet, there was no guidance or common understanding 
+for making such a determination. In addition, the Executive Chairman and a member of Ocwen 
+senior management both believed that the need to approve transactions in the Virgin Islands for 
+tax reasons may have been grounds for participating in the approval. Ocwen’s disclosures, 
+however, do not include this exception, and this belief was not given sufficient consideration 
+internally. 
+
+            Ocwen’s Executive Chairman Approved a Transaction with Altisource 
+
+       16.    In December 2012, Ocwen entered into an agreement to borrow $75 million from 
+Altisource as an unsecured bridge loan to serve as part of the consideration paid by Ocwen in 
+connection with Ocwen’s acquisition of another mortgage servicer. The Executive Chairman 
+voted to approve Ocwen’s entry into the loan agreement. In his role as Chairman of Altisource, 
+the Executive Chairman recused himself from the decision to approve the loan. However, he 
+reviewed and approved the Altisource board presentation before it was circulated to the 
+Altisource Board of Directors for the vote. Ocwen disclosed the loan in a Form 8-K, dated 
+December 28, 2012, and in its annual report for 2012 filed on Form 10-K. 
+
+               Ocwen’s Executive Chairman Approved Transactions with HLSS 
+
+       17.    After Ocwen and HLSS executed the master purchase and master subservicing 
+agreements and the initial sales of the Rights to MSRs, Ocwen made additional sales, known as 
+“Flow Transactions,” to HLSS in 2012 and 2013. Ocwen disclosed in its Form 10-K for 2012 
+that “[t]he [2012] HLSS [t]ransactions have improved Ocwen’s liquidity and cash flows . . . 
+[and] lowered Ocwen’s capital requirements since HLSS is acquiring not only the Rights to 
+MSRs but also the servicer advances related to the Rights to MSRs and assuming responsibility 
+for funding servicer advances in the future.” The disclosure added that Ocwen expected “the 
+reduction in equity required to run the servicing business” resulting from its sales to HLSS 
+would improve the return on equity of Ocwen’s servicing business over time. 
+
+       18.    While Ocwen and HLSS based the purchase price for the Rights to MSRs for each 
+Flow Transaction on an appraisal by a third party valuation firm, other terms varied. For 
+example, for each Flow Transaction, Ocwen and HLSS negotiated HLSS’s retained fees, which 
+were the servicing fees retained by HLSS from those collected and remitted to it by Ocwen after 
+payment of the base and performance fees owed back to Ocwen. The retained servicing fee for 
+each Flow Transaction was based on the agreed-upon advance target for Ocwen and other 
+assumptions that were jointly set by Ocwen and HLSS such as the prepayment rate on the 
+underlying loan balances, financing cost and advance borrowing rate. 
+
+       19.    The Flow Transactions with HLSS were approved at Ocwen by different methods. 
+The Flow Transactions in 2012 were approved by the unanimous written consent of Ocwen’s 
+Executive Committee, which was appointed by the Board and composed of the Executive 
+Chairman, another member of the Board of Directors, and Ocwen’s CEO. In 2013, Ocwen 
+personnel submitted proposals for approval of these transactions to the Ocwen Credit 
+Committee, which was responsible for the financial direction and oversight of Ocwen’s servicing 
+
+                                              5 
+ 
+---------------------Page 6---------------------
+
+business operated by its wholly owned subsidiary in the Virgin Islands. Approval by the Credit 
+Committee was necessary for a Flow Transaction to be consummated. In addition to his other 
+roles, the Executive Chairman was also a member of HLSS’s Credit Committee, which 
+performed an analogous role to that of the Ocwen Credit Committee. 
+
+       20.    The routine process for Credit Committee review and approval of the Flow 
+Transactions was to circulate a memorandum that presented analysis of the proposed price of the 
+Rights to MSRs, the retained fees and the varying underlying assumptions. The memoranda 
+circulated typically included a signature page to indicate approval by each of the committee 
+members. The committee members either executed the signature pages or indicated their 
+approval of the transactions by email. 
+
+       21.    In 2012, Ocwen entered into five Flow Transactions with HLSS totaling 
+approximately $67.5 billion in UPB. The Executive Chairman approved two of these transactions 
+as a member of the Executive Committee in separate written consents. Contemporaneously, the 
+Executive Chairman approved all of these transactions in his capacity as a member of the HLSS 
+Credit Committee. 
+
+       22.    In 2013, Ocwen entered into four Flow Transactions with HLSS totaling 
+approximately $120 billion UPB. The Executive Chairman recused himself from the first 
+transaction but then approved the second one for both Ocwen and HLSS. Even when the 
+Executive Chairman recused himself from the Credit Committee decision, he still received the 
+Credit Committee memorandum because, according to him, “I’m interested in valuation [and] I 
+still thought I had the right to say, ‘No, this isn’t going to happen.’” 
+
+       23.    In 2014, the Executive Chairman approved another type of transaction between 
+Ocwen and HLSS concerning early buy-out loans, which are delinquent loans eligible for 
+purchase by the mortgage servicer. In this transaction, Ocwen sold HLSS early buy-out loans 
+worth approximately $672 million that Ocwen recently had purchased. In a February 2014 email 
+addressed to members of both Ocwen and HLSS senior management, the Executive Chairman 
+approved this purchase on the condition that it did not trigger losses. 
+
+                           Ocwen’s Failure to Document Approvals 
+
+       24.    As to the latter three of the five Flow Transactions between Ocwen and HLSS in 
+2012 and two of the four Flow Transactions in 2013, Ocwen was unable to locate final executed 
+Executive Committee resolutions, Credit Committee memoranda or approving emails. 
+Contemporaneous emails for the last of these transactions in October 2013, however, show a 
+request to schedule a phone call for both Credit Committees to discuss the analysis contained in 
+the memorandum and a subsequent modification of the retained servicing fee based on a change 
+to an underlying assumption. 
+
+       25.    Documentation of Ocwen’s Credit Committee approval process again broke down 
+in February 2014 in connection with the early buy-out loan sale agreement between Ocwen and 
+HLSS. Ocwen was unable to locate all Credit Committee approvals for this transaction. 
+
+                                              6 
+ 
+---------------------Page 7---------------------
+
+B.     Improper Valuation of Rights to MSRs 
+
+       26.    For each transfer of Rights to MSRs from Ocwen to HLSS, HLSS recorded a 
+Note Receivable – Rights to MSRs, and Ocwen recorded a corresponding note payable on its 
+books, entitled Financing Liability – MSRs Pledged. HLSS purported to carry the asset at fair 
+value. Ocwen’s filings stated that it recorded the liability at amortized cost and amortized the 
+liability over the estimated life of the underlying MSRs using the interest method. For purposes 
+of applying the interest method, Ocwen disclosed to investors that the balance of the liability was 
+reduced each quarter based on the change in the present fair value of the estimated future cash 
+flows. Because the calculation of amortization of the financing liability had a fair value 
+component to it, Ocwen’s 2013 Form 10-K Note 5 provided that “[t]he carrying value of the 
+Financing Liability – MSRs Pledged approximates fair value” and that “[t]he net present value of 
+these future cash flows represents the fair value of the Financing Liability – MSRs Pledged.” 
+Ocwen’s quarterly and annual filings with the Commission also stated that its financial 
+statements were prepared in accordance with GAAP. 
+
+       27.    Ocwen did not independently value the Rights to MSRs that it accounted for as a 
+financing liability. Rather, in consultation with its external auditors, Ocwen relied on HLSS to 
+value the Rights to MSRs and assigned them the value that was derived from HLSS’s valuation 
+methodology, which was later proven to be flawed. 
+
+       28.    FASB Financial Accounting Standards Codification Topic 820 (“ASC 820”) – 
+Fair Value Measurements and Disclosures defines fair value as the price that would be received 
+to sell an asset or paid to transfer a liability in an orderly transaction between market participants 
+at the measurement date. Because Rights to MSRs are not frequently bought or sold, there rarely 
+are observable market prices for them. Rights to MSRs are therefore considered to be a Level 3 
+asset in the fair value hierarchy, which are assets that do not have observable inputs for a fair value 
+measurement.  While Level 3 assets are more difficult to value, the fair value measurement 
+objective remains the same, that is, an exit price from the perspective of a market participant that 
+holds the asset. 
+
+       29.    As stated in a previous settled order concerning HLSS, see In re HLSS, Admin. 
+Proc. File No. 3-16882 (October 5, 2015), HLSS retained a third party with expertise in valuing 
+MSRs to calculate the fair value of its Rights to MSRs. Each quarter, the third-party valuation 
+firm performed an analysis of the Rights to MSRs and provided HLSS with a valuation report. 
+The valuation reports included an estimate of the fair-value based on inputs that affected the fair 
+value of the MSRs, such as then-current prepayment rates, pre-tax discount rates, and costs to 
+                                                                                           2
+service. This estimate was represented as a specific price that was reflected in basis points. 
+Multiplying this specific price, which was the third -party valuation firm’s best-point estimate, by 
+the UPB for HLSS’s Rights to MSRs would provide a fair-value measurement for those Rights 
+to MSRs. In a prefatory note, the valuation reports stated that a sale of the Rights to MSRs in an 
+orderly market should not differ by more than 7.5, or in some instances 10, basis points from the 
+best-point estimate provided. 
+
+                                                 
+2
+       A basis point is one hundredth of one percent. 
+
+                                                7 
+ 
+---------------------Page 8---------------------
+
+       30.    In addition to the fair value measurement provided in the valuation report, HLSS 
+independently determined the carrying value of its Rights to MSRs. As part of this 
+determination, HLSS calculated an “Inception BPS,” also reflected in basis points, by dividing 
+the UPB of the mortgages underlying the MSRs as of the date of their acquisition by HLSS’s 
+purchase price of the Rights to MSRs. Over time, the UPB of the mortgages generally decreased 
+as borrowers paid down their mortgages. At the end of each quarter, HLSS calculated the 
+carrying value for the Rights to MSRs by multiplying the Inception BPS by the amount of the 
+UPB as of the end of the quarter. This amortization was driven entirely by the decline in size of 
+the mortgages’ UPB and was not affected by any of the factors that would affect a fair value 
+measurement. 
+
+       31.    Because the value of the MSRs for which HLSS had obtained the rights 
+historically had been fairly stable, HLSS developed a valuation methodology that used the 
+carrying value of the Rights to MSRs as the presumptive fair value measurement. This 
+methodology was reviewed by HLSS’s and Ocwen’s external auditors. For each reporting date, 
+HLSS compared the carrying value of its Rights to MSRs (as calculated above) to the third-party 
+valuation report’s best-point estimate and would record an adjustment to the value of the Rights 
+to MSRs, which HLSS disclosed reflected fair value, only if there was a variation in price of at 
+least 5 percent. 
+
+       32.    To illustrate, the third-party valuation firm provided a report with a valuation date 
+of November 29, 2013 estimating the price of HLSS’s Rights to MSRs, which had underlying 
+mortgages with an UPB of approximately $159.56 billion, at 37.08 basis points. Multiplying the 
+UPB by the estimated price, the third party valued the Rights to these MSRs at approximately 
+$592 million. Under HLSS’s valuation methodology, HLSS would apply 5 percent bands around 
+the third-party valuation firm’s best-point estimate of 37.08 basis points, which would create a 
+range from 35.23 basis points (5 percent below) to 38.93 basis points (5 percent above), and 
+would report the carrying value of its Rights to MSRs as their fair value so long as the carrying 
+value was within the range of values created by the 5 percent bands. In other words, so long as 
+HLSS’s carrying value was within approximately $562 million (35.23 basis points multiplied by 
+the UPB) and approximately $621 million (38.93 basis points multiplied by the UPB), it would 
+report the carrying value as fair value. Based on Ocwen’s financial results for the fourth quarter 
+of 2013, this approximately $56 million range was equivalent to 10 percent of its total revenues 
+and 41 percent of its net income. 
+
+                               Ocwen Used HLSS’s Valuations 
+
+       33.    Ocwen amortized the Financing Liability using HLSS’s calculation. Under ASC 
+820, Ocwen was required to update its expectations of cash flows at each reporting period to 
+determine the current net present value of the cash flows. Ocwen did not independently 
+determine the current net present value of the cash flows. Rather, it automatically used for each 
+quarter the resulting estimates produced by HLSS’s improper valuation methodology. As a 
+result, Ocwen would adjust the net present value amounts only if the difference of carrying 
+amount was larger than 5 percent of the third-party valuation firm’s best-point estimate. 
+
+                                               8 
+ 
+---------------------Page 9---------------------
+
+       34.    Ocwen’s quarterly and annual filings listed “Fair Value Measurements” as a 
+“Critical Accounting Policy.” The Fair Value Measurements section referenced the amortization 
+of MSRs and the accounting and valuation for the Financing Liability – MSRs Pledged. 
+
+           Ocwen’s Internal Accounting Controls Deficiencies Relating to Valuation 
+
+       35.    While Ocwen relied upon HLSS’s valuation methodology and used HLSS’s 
+calculation to account for its financing liability associated with the Rights to MSRs, neither 
+Ocwen’s management nor its Audit Committee independently reviewed HLSS’s valuation 
+methodology for the Rights to MSRs. 
+
+       36.    Before HLSS implemented the valuation methodology, Ocwen’s Executive 
+Chairman (who also served as HLSS’s Chairman) perceived a problem with it. Because the 5 
+percent bands created a very large range in terms of dollars, the Executive Chairman anticipated 
+that there would be significant differences between the third party best-point estimate and 
+HLSS’s carrying value that were still within the 5 percent bands. 
+
+       37.    The Executive Chairman did not share these concerns with Ocwen’s Audit 
+Committee, his fellow Ocwen Directors, Ocwen management, or Ocwen’s external auditors. 
+
+       38.    The Audit Committee of Ocwen’s Board of Directors also failed to give sufficient 
+independent consideration to the automatic use of estimates derived from HLSS’s valuation 
+methodology. The Audit Committee’s charter, which was reviewed by the Board of Directors 
+and the Audit Committee in March 2012, provided that the Audit Committee shall: 
+
+              (j)     Review with management, the Company’s independent 
+              auditors and the director of the Company’s internal auditing 
+              department, the following: 
+
+                     (i) critical accounting policies and such other accounting 
+              policies of the Company as are deemed appropriate for review by 
+              the Committee prior to any interim or year‐end filings with the 
+              SEC or other regulatory body, including any financial reporting 
+              issues which could have a material impact on the Company’s 
+              financial statements . . . . 
+
+       39.    While Ocwen’s Audit Committee routinely reviewed the financial information 
+that resulted from HLSS’s valuation methodology, it did not review the valuation methodology 
+itself with Ocwen’s external auditors and did not review with Ocwen management whether it 
+was appropriate to use the estimates derived from HLSS’s valuation methodology to value 
+Ocwen’s financing liability of the Rights to MSRs. As a result, the Audit Committee did not 
+consider whether HLSS’s valuation methodology was an appropriate fair value measurement 
+under GAAP, nor did it consider whether the valuation methodology could result in a variance 
+between the third party valuation firm’s best-point estimate and the carrying value that was 
+material to Ocwen’s reported results. 
+
+                                              9 
+ 
+---------------------Page 10---------------------
+
+                                  Ocwen Restated Its Financials 
+
+       40.    The best-point estimate in the valuation reports fluctuated from quarter to quarter; 
+however, under its valuation methodology, HLSS did not make any adjustment to the fair value 
+of its Rights to MSRs because the Inception BPS used to calculate carrying value did not differ 
+by 5 percent or more from the best-point estimate. Consequently, Ocwen did not make any 
+adjustments to the net present value of the liability. 
+
+       41.    HLSS revisited the use of its valuation methodology in 2014 and determined that 
+the carrying value of the Rights to MSRs was not a fair value measurement under GAAP. HLSS, 
+therefore, determined that it was required to restate the value of its Rights to MSRs to the best-
+point estimate of fair value provided in the valuation reports. 
+
+       42.    HLSS management then relayed this information to Ocwen’s management. 
+Ocwen’s management, after discussions with its external auditors, determined that it should also 
+use the third-party’s best-point estimate, which would have resulted in a material variance for 
+three quarters in 2013 and the first quarter 2014. 
+
+       43.    In August 2014, Ocwen restated its 2013 Form 10-K and its Form 10-Q for the 
+quarter ended March 31, 2014 as a result of this required adjustment and an unrelated data input 
+     3
+error. As per the chart below, Ocwen’s use of HLSS’s improper valuation resulted in a material 
+error to Ocwen’s reported results in quarterly and annual filings and in earnings releases filed on 
+Form 8-K. 
+
+Dollars in thousands 
+                                                   Adjustment  Adjustment as  
+                                                    Relating to       a % of  
+                        Net Income As              Accounting   Restated Net  
+                         Restated ($)                 Error ($)       Income 
+ 1Q 14                            60,486                (8,000)              -13% 
+ FY 2013                         310,418                 11,356                4% 
+ 4Q 13                           135,275                 27,582               20% 
+ 3Q 13                            60,572                (6,831)              -11% 
+ 2Q 13                            65,662               (13,352)              -20% 
+ 1Q 13                            48,909                  3,957                8% 
+ 
+
+C.     Violations 
+
+       44.    As a result of the conduct described above, Ocwen violated Section 13(a) of the 
+Exchange Act, Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder, which require issuers to file 
+true, accurate, and complete annual, quarterly and current reports with the Commission. 
+
+                                                 
+3
+       This data input error related to a subset of the Rights to MSRs as of the fourth quarter of 2013 and the first 
+quarter of 2014. The impact of the data error was $5.9 million and $9.3 million as of December 31, 2013 and March 
+31, 2014, respectively. 
+
+                                                10 
+ 
+---------------------Page 11---------------------
+
+       45.    As a result of the conduct described above, Ocwen violated Section 13(b)(2)(A) 
+of the Exchange Act, which requires public companies to “make and keep books, records, and 
+accounts, which, in reasonable detail, accurately and fairly reflect the transactions and 
+dispositions of the assets of the issuer.” 
+
+       46.    As a result of the conduct described above, Ocwen violated Section 13(b)(2)(B) 
+of the Exchange Act, which requires public companies to “devise and maintain a system of 
+internal accounting controls sufficient to provide reasonable assurances that . . . (ii) transactions 
+are recorded as necessary (I) to permit preparation of financial statements in conformity with 
+generally accepted accounting principles or any other criteria applicable to such statements, and 
+(II) to maintain accountability for assets.” 
+
+                                              IV. 
+
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondent’s Offer. 
+
+       Accordingly, pursuant to Section 21C of the Exchange Act of 1934, it is hereby 
+ORDERED that: 
+
+       A.     Respondent Ocwen cease and desist from committing or causing any violations 
+and any future violations of Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act 
+and Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder. 
+
+       B.     Respondent shall, within 10 days of the entry of this Order, pay a civil money 
+penalty in the amount of $2,000,000 to the Securities and Exchange Commission for transfer to 
+the general fund of the United States Treasury, subject to Exchange Act Section 21F(g)(3). If 
+timely payment is not made, additional interest shall accrue pursuant to 31 U.S.C § 3717. 
+
+       Payment must be made in one of the following ways: 
+
+              (1)    Respondent may transmit payment electronically to the Commission, 
+                      which will provide detailed ACH transfer/Fedwire instructions upon 
+                      request; 
+
+              (2)    Respondent may make direct payment from a bank account via Pay.gov 
+                      through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or 
+
+              (3)    Respondent may pay by certified check, bank cashier’s check, or United 
+                      States postal money order, made payable to the Securities and Exchange 
+                      Commission and hand-delivered or mailed to: 
+
+                                   Enterprise Services Center 
+                                   Accounts Receivable Branch  
+                                   HQ Bldg., Room 181, AMZ-341  
+                                   6500 South MacArthur Boulevard  
+                                   Oklahoma City, OK 73169 
+
+                                              11 
+ 
+---------------------Page 12---------------------
+
+              Payments by check or money order must be accompanied by a cover letter 
+              identifying Ocwen as a Respondent in these proceedings, and the file number of 
+              these proceedings; a copy of the cover letter and check or money order must be 
+              sent to Michael J. Osnato, Chief, Complex Financial Instruments Unit, Division 
+              of Enforcement, Securities and Exchange Commission, Brookfield Place, 200 
+              Vesey Street, Suite 400, New York, NY, 10281. 
+
+ 
+
+       By the Commission. 
+
+                                                   Brent J. Fields  
+                                                   Secretary 
+
+                                              12 
+ 

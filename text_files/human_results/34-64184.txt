@@ -1,0 +1,1884 @@
+﻿---------------------Page 1---------------------
+
+                                                                                                    
+ UNITED                                STATES OF AMERICA 
+
+ Before                                          the 
+
+ SECURITIES                         AND EXCHANGE COMMISSION 
+
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 64184 / April 5, 2011 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT  
+Release No. 3257 / April 5, 2011 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-14321 
+ 
+                                                   ORDER INSTITUTING PUBLIC 
+In the Matter of
+                                  ADMINISTRATIVE AND CEASE-
+                                             AND-DESIST PROC             EEDINGS PURSUANT 
+Lovelock & Lewes,
+                                 TO SECTIONS 4C AND 21C OF THE 
+Price Waterhouse, Bangalore,  
+                    SECURITIES EXCHANGE ACT OF 1934 
+Price Waterhouse & Co., Bangalore,
+                AND RULE 102(e) OF THE 
+Price Waterhouse, Calcutta, and  
+                 COMMISSION’S RULES OF PRACTICE, 
+Price Waterhouse & Co., Calcutta, 
+                MAKING FINDINGS, AND IMPOSING 
+                                                   REMEDIAL SANCTIONS AND A CEASE-
+       Respondents.                                AND-DESIST ORDER  
+ 
+        
+                                                    
+ 
+                                              I.  
+        
+       The Securities and Exchange Commission (“Commission”) deems it appropriate that public 
+administrative and cease-and-desist proceedings be, and hereby are, instituted against Lovelock & 
+Lewes (“Lovelock”), Price Waterhouse, Bangalore (“PW Bangalore”), Price Waterhouse & Co., 
+Bangalore (“PW Co. Bangalore”), Price Waterhouse Calcutta (“PW Calcutta”), and Price 
+Waterhouse & Co., Calcutta (“PW  Co. Calcutta”) (collectively “PW India,” the “PW India Firms”  
+or “Respondents”) pursuant to Sections 4C1
+                                          and 21C of the Securities Exchange Act of 1934 
+
+                                                        
+1 
+ Section 4C provides, in relevant part, that:                            
+   The Commission may censure any person, or deny, temporarily or permanently, to any person the privilege of                        
+appearing or practicing before the Commission in any way, if that person is found . . . (1) not to possess the requisite                          
+qualifications to represent others; (2) to be lacking in ch  aracter or integrity, or to have engaged in unethical or                          
+improper professional conduct; or (3) to have willfully viol            ated, or willfully aided and abetted the violation of, any  
+provision of the securities laws or the rules and regulations thereunder.  
+                                                 1 
+
+---------------------Page 2---------------------
+
+                                                                                                     
+(“Exchange Act”) and Rule 102(e)(1)(ii) of the Commission’s Rules of Practice.   2 
+                                                                                   
+                                                   
+                                                 II.  
+        
+       In anticipation of the institution of these proceedings, Respondents have submitted an Offer 
+of Settlement (the “Offer”) which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the findings  
+herein, except as to the Commission’s jurisdiction over Respondents and the subject matter of 
+these proceedings, which are admitted, Respondents consent to the entry of this Order Instituting 
+Public Administrative and Cease-and-Desist Proceedings Pursuant to Sections 4C and 21C of the 
+Securities Exchange Act of 1934 and Rule 102(e) of the Commission’s Rules of Practice, Making 
+Findings, and Imposing Remedial Sanctions and a Cease-and-Desist Order (“Order”), as set forth 
+below. 
+                                                III.  
+        
+       On the basis of this Order and Respondents’ Offer, the Commission finds    3
+                                                                                   that: 
+        
+A. SUMMARY     
+ 
+       1.       This matter involves violations of federal securities laws and improper professional 
+conduct by PW India  while PW Bangalore served as auditor of record for <comp.>Satyam Computer 
+Services Limited</> (“Satyam”) from <date.>2005</> through <date.>January 2009</>.  In connection with Satyam’s 2005­
+2008 publicly-filed financial statements, Satyam  engaged in fraudulent financial accounting by 
+falsifying the company’s <item.>revenue</>, <item.>income</>, <item.>earnings per share</>, <item.>cash</>, and <item.>interest bearing deposits</>.  
+Satyam acknowledged that it falsely reported over $1 billion in revenue and cash, among other 
+items, in its publicly filed financial statements.  In January 2009, Satyam submitted a Form 6-K 
+with the Commission indicating that “Price Waterhouse’s audit reports and opinions in relation to  
+Satyam’s financial statements from the quarter ended June 30, 2000 until the quarter ended 
+September 30, 2008 should no longer be relied upon.”  
+ 
+       2.       Former officers and senior managers at Satyam, an Indian information technology 
+service company with depository shares traded on the New York Stock Exchange (“NYSE”) during 
+the relevant period, directed the creation of over 6,000 false invoices that they ensured were entered 
+into the company’s general ledger and falsely recorded as, among other things, revenue, income, 
+and accounts receivable in Satyam’s publicly filed financial statements.  Former senior management  
+at Satyam manufactured scores of false bank statements, confirmations, and supporting documents  
+                                                        
+2
+ Rule 102(e)(1)(ii) provides, in pertinent part, that:  “[t]he Commission may censure a person or deny, temporarily                                                                       
+or permanently, the privilege of appearing or practicing before it . . . to any person who is found . . . to have engaged    
+in unethical or improper professional conduct.”    
+3 
+ The findings herein are made pursuant to Respondents' Offer of Settlement and are not binding on any other    
+person or entity in this or any other proceeding.   
+                                                     2
+ 
+---------------------Page 3---------------------
+
+                                                                                                    
+to reflect payment of the false invoices and created over $1 billion in fictitious cash balances and 
+other interest bearing deposits.  This false information made Satyam appear to be substantially more 
+profitable and financially sound than was actually the case.  When the fraud was revealed, the price  
+of Satyam’s depository shares plummeted and institutional investors located in the United States  
+sustained realized losses of over $450 million. 
+ 
+       3.       PW Bangalore issued unqualified opinions on Satyam’s March 31, 2005, March 31, 
+2006, March 31, 2007, and March 31, 2008 financial statements.  Each of these audit reports stated 
+that “Price Waterhouse” conducted its audits in accordance with generally accepted auditing 
+standards in the United States (“GAAS”) and that Satyam’s financial statements were presented in 
+conformity with generally accepted accounting principles (“GAAP”).  Each audit report also stated  
+that the underlying audit was conducted in accordance with Public Company Accounting 
+Oversight Board (“PCAOB”) Standards.  Contrary to the audit reports, PW India did not conduct  
+Satyam’s audits in accordance with PCAOB Standards, which is now understood to include 
+GAAS.  4
+          Specifically, the PW India partners and staff on the Satyam engagement team (“Satyam  
+engagement team” or “engagement team”) failed to maintain control of the confirmation process 
+with respect to cash and cash equivalent balances as well as Satyam’s accounts receivables.  The 
+failure to properly execute third-party confirmation procedures resulted in the fraud at Satyam  
+going undetected until the former chairman’s public confession in January 2009. 
+ 
+       4.       The failures in the confirmation process on the Satyam audit were not limited to 
+that engagement, but were indicative of a quality control failure throughout PW India.  During the 
+relevant period, PW India’s quality control system failed to detect that engagement teams 
+throughout PW India routinely relinquished control of the delivery and receipt of cash 
+confirmations to their audit clients and rarely, if ever, questioned the integrity of the confirmation 
+responses they received from the clients.  Despite annual quality reviews, PW India did not 
+recognize this compliance failure until after January 2009. 
+ 
+       5.       By failing to comply with PCAOB Standards, PW Bangalore issued audit reports 
+in connection with the Satyam engagement that were not accurate and, as a result, the PW India 
+Firms were a cause of Satyam’s issuing materially false and misleading financial statements and its 
+violations of Sections 13(a) and 13(b)(2)(A) of the Exchange Act and Exchange Act Rules 12b-20, 
+13a-1 and 13a-16 thereunder.  The PW India Firms also violated Section 10A(a) of the Exchange 
+Act by failing to conduct procedures designed to provide reasonable assurance of detecting illegal 
+acts that would have a direct and material effect on the determination of financial statement  
+amounts. 
+ 
+
+                                                        
+4
+ References in Commission rules and staff guidance and in   the federal securities laws to GAAS or to specific 
+standards under GAAS, as they related to issuers, should be understood to mean the standards of the PCAOB plus             
+any applicable rules of the Commission.  See Release No s. 33-8422; 34-49708; FR-73 at http://www.sec.gov/rules/ 
+interp/33-8422.htm. 
+                                                    3
+ 
+---------------------Page 4---------------------
+
+                                                                                                    
+B. RESPONDENTS 
+ 
+       6.       Lovelock & Lewes (“Lovelock”) is a public accounting firm organized as a 
+partnership under the laws of the Republic of India, and headquartered in Kolkata, West Bengal, 
+India. 
+ 
+       7.       Price Waterhouse, Bangalore (“PW Bangalore”) is a public accounting firm  
+organized as a partnership under the laws of the Republic of India, and headquartered in Bangalore, 
+Karnataka, India.    
+ 
+       8.       Price Waterhouse & Co., Bangalore (“PW Co. Bangalore”) is a public accounting 
+firm organized as a partnership under the laws of the Republic of India, and headquartered in  
+Bangalore, Karnataka, India.  
+ 
+       9.       Price Waterhouse & Co., Calcutta (“PW Co. Calcutta”) is  a public accounting firm  
+organized as a partnership under the laws of the Republic of India, and headquartered in Kolkata, 
+West Bengal, India.  
+ 
+       10.     Price Waterhouse, Calcutta (“PW Calcutta”) is a public accounting firm organized 
+as a partnership under the laws of the Republic  of India, and headquartered in Kolkata, West  
+Bengal, India. 
+ 
+       11.     Lovelock, PW Bangalore, PW Co. Bangalore, PW Co. Calcutta, and PW Calcutta  
+are member firms of PricewaterhouseCoopers International Limited, a United Kingdom-based 
+private company. 5
+                    Respondents are registered in the United States with the PCAOB and in India 
+with the Institute of Chartered Accountants of India (“ICAI”).  Section 102 of the Sarbanes-Oxley  
+Act of 2002 (“SOX”) prohibits accounting firms that are not registered with the PCAOB from 
+preparing or issuing audit reports  on United States public companies and from participating in such 
+audits.  Section 106(a) of SOX further authorizes the PCAOB to require that non-US public 
+accounting firms that do not issue such reports, but that play a substantial role in the preparation of 
+the audit reports, register with the PCAOB. 
+ 
+       12.     PW India, along with five other India-based PwC Network Firms,   6
+                                                                                  operate as a 
+domestic Indian network of related audit firms.   As such, these firms share common audit and other 
+assurance and assurance risk management leadership and follow common audit and other assurance  
+policies and procedures, including in the areas of audit and assurance risk management, training and 
+supervision. 
+ 
+                                                        
+5
+ Member firms of PricewaterhouseCoopers International Limited (“PwC IL”), are collectively referred to herein as    
+“PwC Network Firms.”   
+6
+ The five other India-based firms are registered with the ICAI but not with the PCAOB.  They do not perform audit                                    
+work for SEC registrants.  
+                                                    4
+ 
+---------------------Page 5---------------------
+
+                                                                                                 
+       13.     PW India and the five other India-based PwC Network Firms operate their audit  
+practices under resource sharing arrangements that facilitate the provision of audit services as a 
+network of related firms.  With respect to the PW India Firms, pursuant to these arrangements,  
+Lovelock and PW Calcutta have  both partners and staff who perform audit procedures and provide 
+staffing for their own audit engagements, as well as for engagements of the other PW India Firms.   
+The partners of the remaining PW India Firms, PW Bangalore, PW Co. Bangalore, and PW Co. 
+Calcutta, undertake audit engagements, oversee the audit work conducted by engagement personnel,  
+and sign audit opinions.  PW India partners typically are affiliated with several firms within the 
+domestic network of audit firms simultaneously.  During the relevant period, PW India and the 
+other domestic India-based firms shared resources and settled inter-firm balances at the end of each 
+fiscal year. 
+ 
+       14.     PW India and the five other India-based PwC Network Firms operate in a manner 
+that generally does not make any distinctions  among the individual firms in the network.  For  
+example, the PW India Firms share office space and have identical telephone numbers.  In addition, 
+the Respondents’ website makes no obvious distinction among the individual PwC Network Firms 
+located in India. 
+ 
+       15.     Satyam’s Forms 20-F during the relevant period list the company’s independent 
+registered public accounting firm as “Price Waterhouse,” the name of PW Bangalore set forth in its  
+partnership deed.  During the relevant period, the Satyam audit reports were signed by PW 
+Bangalore engagement partners who were also partners at Lovelock.7
+                                                                    Audit work on the Satyam  
+engagement was performed predominately by partners and staff associated with these firms, 
+although staff from PW Calcutta and partners of all five PW India firms billed time on the Satyam 
+audits during the relevant period. 
+ 
+C. ISSUER 
+ 
+       16.     Satyam Computer Services Limited (“Satyam”) is a large information technology 
+service company incorporated in India with its principal executive offices in Hyderabad.  Satyam’s  
+equity shares trade on the Bombay Stock Exchange and the National Stock Exchange of India.  
+Satyam also has 65 million American Depository Shares (“ADS”) representing approximately 11 
+percent of the company’s equity shares.  At all relevant times, Satyam’s equity shares underlying 
+the ADS were registered pursuant to Section 12(b) of the Exchange Act, and Satyam’s ADS were  
+listed on the NYSE.  On October 4, 2010, Satyam filed a Form 25 with the Commission 
+voluntarily removing its securities from listing on the NYSE and from registration under Section 
+12(b).  Satyam’s equity shares underlying the ADS are currently deemed registered pursuant to 
+Section 12(g) of the Exchange Act, and Satyam’s ADS are currently quoted on the OTC Market 
+under the symbol SAYCY.PK. 
+ 
+                                                        
+7 
+ The lead engagement partner for the audit of Satyam’s fiscal year ended March 31, 2008 was also listed as a   
+partner of PW Co. Calcutta . 
+                                                   5
+ 
+---------------------Page 6---------------------
+
+                                                                                                 
+       17.     Shortly after the fraud became public, the Government of India assumed control of 
+the company.  In mid-February 2009, the Company Law Board of I   ndia authorized the company to  
+select a strategic investor for Satyam.  As a result of the bidding process, Tech Mahindra Limited, 
+an Indian information technology competitor, through its subsidiary Venturbay Consultants Private 
+Limited, purchased approximately 42 percent of Satyam’s shares in India and became the new 
+controlling shareholder of Satyam.  In June  2009, Satyam filed a press release announcing 
+“Mahindra Satyam” as the company’s new “brand identity.”  The company continues to conduct 
+business in the United States as Satyam and is registered as a corporation doing business in the  
+State of New York  and as a foreign private issuer with the Commission under the name Satyam.  
+ 
+D. FACTS        
+ 
+       18.     In connection with fiscal years 2005 through 2008, as well as earlier years, Satyam  
+engaged in certain practices relating to its revenue, income, cash, interest-bearing deposits, and 
+accounts receivable that made its financial statements materially false and misleading.  PW India’s 
+audits of Satyam’s financial statements for fiscal years 2005 through 2008 were deficient.  Among 
+other things, PW India departed from applicable  PCAOB Standards by failing to maintain control of 
+the confirmation process with respect to cash, interest bearing deposits, and accounts receivable 
+balances.  As a result, PW India failed to uncover Satyam’s fraud an d, instead, issued unqualified 
+audit opinions in connection with its audits of Satyam’s financial statements until its former 
+Chairman admitted that the company had been engaged in a billion dollar financial fraud and 
+Satyam publicly disclosed that admission in a Form 6-K.  As indicated herein, the failures PW India 
+experienced on the Satyam audit were not limited to that engagement, but were indicative of a  
+quality control failure throughout PW India. 
+ 
+                                  Satyam’s Accounting Fraud  
+ 
+       19.    Satyam falsified its reported revenue by manufacturing false invoices for services  
+never provided and, in some cases, for customers that did not exist.  From at least 2005 through 
+2008, Satyam’s former senior management instructed certain employees to generate thousands of 
+false invoices and record them in the company’s invoice management  system.  The invoice 
+management system exported the  fake invoices into Satyam’s financial system where the revenues 
+were recorded in the company’s general ledger.  Based upon the fictitious invoices, Satyam 
+materially overstated revenue and net income from at least fiscal year 2005 through the first two 
+quarters of fiscal year 2009 by over $1 billion.   
+        
+       20.    To support the false revenue and income that Satyam was reporting in its financial 
+statements, Satyam prepared materially false bank statements, from at least fiscal year 2005 through 
+2008, reflecting materially false cash deposits in the company’s bank accounts at, among other 
+places, the Bank of Baroda (“BOB”), which were recorded within the cash and cash equivalent 
+balances in Satyam’s publicly-filed financial statements.  
+        
+       21.    To make it appear that Satyam was investing its false income during the relevant 
+time period, Satyam’s former senior management manufactured scores of fa lse bank statements and 
+                                                   6
+ 
+---------------------Page 7---------------------
+
+                                                                                                 
+also materially falsified the company’s publicly filed financial statements with regard to the balance  
+and fixed deposit receipts (hereinafter “interest bearing deposits”) and corresponding interest  
+income in accounts held at HSBC, BNP Paribas, HDFC, Citibank, and ICICI. 
+ 
+       22.     In Satyam’s 2005, 2006, 2007, and 2008 financial statements, the company reported, 
+among other assets, balance sheet line items entitled (a) “cash and cash equivalents,” and (b) 
+investments in bank deposits” (collectively, the “cash” line items).  During  these years, Satyam’s  
+cash line items represented the largest asset on its reported balance sheet, making up 50% or more 
+of Satyam’s total assets during the relevant period.  For example, in 2008, Satyam reported cash of 
+$1.1 billion, constituting approximately 50 percent of total reported assets.  The vast majority of the 
+cash purportedly was on deposit at BOB, HSBC, BNP Paribas, HDFC, Citibank, and ICICI.  
+ 
+       23.     On January 7, 2009, Satyam submitted a Form 6-K with the Commission that 
+included a letter prepared by the then-Chairman of Satyam, B. Ramalinga Raju (“Raju”), admitting 
+that the company had been engaged in a billion dollar fraud.  According to Raju’s letter, as of  
+September 30, 2008, Satyam’s balance sheet reflected over $1 billion in fictitious cash and bank 
+balances when the actual amount was $66 million.  
+ 
+       24.     On January 14, 2009, Satyam submitted a Form 6-K with the Commission 
+indicating that “Price Waterhouse” had advised that all audit reports and opinions in relation to 
+Satyam’s financial statements during the relevant period should no longer be relied upon. 
+ 
+       25.     On February 21, 2009, Satyam submitted a Form 6-K with the Commission 
+indicating that Satyam’s Board of Directors accepted the resignation of “Price Waterhouse” as 
+Satyam’s independent auditor. 
+ 
+       26.     The two PW India lead engagement partners for the Satyam audits during the 
+relevant period are defendants, along with a significant number of former senior and mid-level 
+executives of Satyam, including the former Chairman, the former Managing Director and Chief 
+Executive Officer, and the former Chief Financial Officer, in a criminal trial in India arising out of  
+the Satyam fraud.  The trial is underway.  The two PW India engagement partners have also been  
+the subject of ongoing disciplinary matters in India before the ICAI and the Securities and 
+Exchange Board of India involving their role in the Satyam audit.  The two PW India lead partners  
+and the two PW India senior managers who were the engagement managers on the Satyam audits 
+during the relevant period were relieved of all auditing responsibilities in January 2009.  The two 
+engagement managers resigned in February 2010 and the lead engagement partner for the audits of 
+Satyam’s fiscal years ended March 1999-2007 retired in March 2009.  The lead engagement  
+partner for the audit of Satyam’s  fiscal year ended March 31, 2008 is on administrative leave from 
+PW India pending the outcome of the various proceedings against him.  On March 16, 2010, the 
+two former PW India engagement managers were barred by the PCAOB from being associated 
+persons of a registered public accounting firm for their failure to comply with a demand requiring 
+their testimony in a PCAOB-related investigation into the Satyam  audit engagements.  These PW 
+India managers are also the subject of ongoing disciplinary proceedings before the ICAI. 
+ 
+                                                   7
+ 
+---------------------Page 8---------------------
+
+                                                                                                 
+                    PW India’s Audits of Cash and Cash Equivalent Balances   
+                  Were Not Performed in Accordance with PCAOB Standards  
+                                  for Fiscal Years 2005-2008  
+ 
+       27.     Respondents failed to identify the material overstatement of Satyam’s assets, in part, 
+because the engagement team failed to carry out the confirmation processes and procedures related 
+to cash and interest bearing deposits in accordance with PCAOB Standards -- and its own audit 
+plan -- for fiscal years 2005-2008.  PCAOB Standards require, among other things, that auditors  
+test the existence and valuation of reported cash and interest bearing deposit balances.  In order to 
+test the cash and interest bearing deposit balances during the relevant period, the audit plans for 
+each year during the relevant period called for the confirmation of Satyam’s major bank balances 
+and interest bearing deposits with third parties.  The working papers for each year during the  
+relevant period document that the engagement team confirmed cash balances and interest bearing 
+deposits for all banks at which Satyam had “major” accounts. 
+ 
+       28.     Respondents failed to make direct contact with either BOB, the New York branch 
+that held Satyam’s purported largest bank account, or the five largest banks purportedly holding 
+Satyam’s interest bearing deposits to confirm the cash and cash equivalent balances that Satyam  
+reported in its financial statements.  Instead, and in violation of PCAOB Standards, the 
+engagement team relied on the company’s senior management to mail out   confirmation requests to 
+Satyam’s banks, and on the purported responses to those letters from the banks, including 
+purported responses provided to the engagement team by Satyam management.  Respondents     
+never attempted to contact the banks directly at any time during the audits.   
+ 
+       29.     Respondents also failed to conduct appropriate inquiry after receiving 
+confirmations directly from banks that were  potentially conflicting with those received from 
+Satyam management.  During the fiscal year 2005, 2006, 2007 and 2008 audits, the Satyam  
+engagement team received confirmations, in the requested format, directly from branches of certain 
+banks that purportedly held Satyam’s largest interest bearing fixed deposit balances.  The 
+engagement team also received confirmations from Satyam’s management that purported to 
+confirm fixed deposit balances at a different branch of the same bank.  The confirmations received 
+from Satyam management were not in the format requested by the engagement team.  The bank-
+provided confirmation responses reflected significantly lesser cash balances than Satyam  
+management represented to be held in fixed deposits at the same banks, and significantly lesser 
+cash balances than what was reflected in the purported bank confirmations that Satyam provided to 
+the engagement team.  The engagement team could have, but did not, contact the banks directly to 
+determine the amounts that Satyam had on deposit with the banks.  Had the engagement team done  
+so, such inquiry should have revealed that cash and cash equivalent balances reported in Satyam’s  
+financial statements were significantly overstated.  The following chart provides several examples  
+of these differences:  
+ 
+
+                                                   8
+ 
+---------------------Page 9---------------------
+
+                                                                                                     
+          Period           Bank Confirmations PW                       Confirmations PW 
+          Ending                          India Received Directly   India Received from 
+                                          from Bank (in $ USD)          Satyam (in $ USD)  
+
+        9/30/08 BNP Paribas              $1,860,280 $100,753,498 
+
+        9/30/08 HSBC                     No balance identified        $172,000,153 
+
+        6/30/08 BNP Paribas              $1,919,404 $109,014,675 
+
+        3/31/08 Citibank                 $330,172                     $152,923,538 
+
+        3/31/08 HDFC                     No balance identified        $175,952,024 
+
+        3/31/07 BNP Paribas              $11,192,807 $108,584,687 
+
+        3/31/06 BNP Pariba        s $13,082,509                       $96,830,036 
+
+        3/31/06 HSBC                     No balance identified        $53,282,374 
+
+ 
+       30.     Rather than contact the banks to obtain an explanation for the differences, the 
+engagement team erroneously accepted both confirmations as genuine and purported to 
+“corroborate” the interest bearing fixed deposit balances with fabricated fixed deposit receipts and 
+other support supplied by Satyam.   
+ 
+       31.     Respondents did not reconcile this potentially conflicting audit evidence during the  
+fiscal years 2005, 2006, 2007 and 2008.  After the fraud was revealed, members of the Satyam  
+engagement team indicated that they had ceded control of the confirmation  process to the client 
+and relied on Satyam’s representations, in large part, because they believed that Satyam’s former 
+chairman and senior management were honest and that they did not suspect that Satyam was  
+fabricating audit documents.  Members of the  Satyam engagement team conceded that, in 
+hindsight, the confirmation process they employed for the Satyam audits was not in compliance 
+with PCAOB Standards.  
+ 
+       32.     During Satyam’s fiscal year 2008 audit, a partner from another PwC Network Firm      
+outside of India (“The PwC Network Firm Partner”) alerted members of the Satyam engagement 
+team that its cash confirmation procedures appeared substantially deficient.  Specifically, in May 
+2008, in response to questions raised by the “Appendix K filing reviewer” of Satyam’s draft Form  
+20-F,8
+       PW India requested that the PwC Network Firm Partner review the electronic workpapers      
+                                                        
+8 
+ Under Rule 3400T(b), Interim Quality Control Standards, audit firms must comply with portions of the  
+Requirements of Membership of the AICPA SEC Practice Section (“SECPS”).  Audit firms associated with 
+international firms are required to seek the adoption of       policies and procedures consistent with the objectives set 
+                                                     9
+ 
+---------------------Page 10---------------------
+
+                                                                                                     
+for the 2008 Satyam audit.  In response to that request, the PwC Network Firm Partner provided 
+the Satyam engagement team with a detailed set of comments, including remarks on the cash and 
+interest bearing deposit confirmation workpapers.  In particular, the PwC Network Firm Partner 
+informed the Satyam engagement team that their cash confirmation procedures appeared  
+inadequate because the working papers indicated that “the confirmation was obtained either 
+directly or from copies obtained from the client.  We can only take credit for confirms we send and 
+receive directly.” 
+ 
+       33.     Notwithstanding the above-described warnings it received from the PwC Network 
+Firm Partner, the Satyam engagement team failed to take any corrective action to confirm 
+Satyam’s cash and cash equivalent balances in a manner that complied with PCAOB Standards 
+during the fiscal year 2008 audit.  Had direct confirmation of the BOB bank balances been 
+performed in response to the PwC Network Firm  Partner’s comment, Satyam’s fraud could have 
+been uncovered in the summer of 2008.   
+ 
+       34.     Respondents failed to perform the 2005-2008 Satyam audits with respect to cash 
+and cash equivalent balances in accordance with PCAOB Standards.  First, Respondents failed to 
+maintain control over confirmation requests and responses by establishing direct communication 
+between the intended recipient and the auditor to minimize the possibility that the results will be 
+biased because of interception and alteration of the confirmation requests or responses, as required 
+by PCAOB Standard AU § 330.28.  Second, Respondents failed to exercise appropriate 
+professional skepticism throughout the confirmation process, as required by PCAOB Standard AU  
+§ 330.15.  Third, Respondents failed to comply with PCAOB Standards AU § 333.02 and 326.01  
+when it neglected to obtain sufficient competent evidential matter to afford a reasonable basis to  
+determine the accuracy and completeness of the cash and cash equivalent balances reported in the 
+financial statements.  Instead, Respondents repeatedly substituted management representations for 
+competent evidence, which also does not comply with PCAOB Standards AU § 333.02 and 
+326.01. Fourth, Respondents failed to take appropriate action in response to warning signs 
+regarding the sufficiency of the cash confirmation procedures and caused the issuance of 
+inaccurate audit reports, which resulted from a failure to comply with the several PCAOB 
+Standards, including AU § 230.07 (“[d]ue professional care requires the auditor to exercise 
+professional skepticism.  Professional skepticism is an attitude that includes a questioning mind 
+and a critical assessment of audit evidence.”) and AU § 230.09 (“[i]n exercising professional 
+skepticism, the auditor should not be satisfied with less than persuasive evidence because of a 
+belief that management is honest.”).9
+                                       The failure to properly execute third-party confirmation 
+procedures contributed to the fraud at Satyam going undetected for years.    
+
+                                                                                                                                                                    
+
+forth in the Requirements of Membership of the SECPS at Appendix K, SECPS Section 1000.45 (“Appendix K”).     
+See SECPS Section 1000.08(n).  Those objectives include having policies and procedures for certain filings of SEC   
+registrants which are the clients of foreign associated firms to be reviewed by persons knowledgeable in PCAOB                                          
+standards.  
+9 
+ See also PCAOB Standards AU § 150.02 and AU § 230, which require due professional care to be exercised in the 
+performance of the audit and preparation of the report.   
+                                                    10 
+---------------------Page 11---------------------
+
+                                                                                                  
+ 
+                         Deficiencies in the Cash Confirmation Process 
+ 
+                                 Occurred Throughout PW India
+   
+                                                 
+       35.     From at least 2008 forward, the failures in the confirmation process on the Satyam 
+audit were not limited to that engagement, but were indicative of a quality control failure 
+throughout PW India.  In a large number of other audit engagements conducted by PW India, its  
+auditors planned to test the existence and valuation of cash balances by performing direct  
+confirmations, and then failed to control the confirmation process by relying on audit clients for 
+confirmation requests and responses.  PW India’s quality control system failed to detect that, for 
+several years, and on multiple audit engagements, audit personnel at PW India were not complying 
+with PCAOB standards governing the cash confirmation process.   
+        
+       36.     PW India staff conceded that they routinely relinquished control of the delivery and 
+receipt of cash confirmations entirely to their audit clients and rarely, if ever, questioned the 
+integrity of the confirmation responses they received from the client by following up with the banks  
+prior to January 2009.  Similarly, PW India partners, including a partner formerly responsible for 
+audit risk and quality throughout  PW India, indicated that client involvement in the confirmation 
+process during the relevant period was the norm because bankers rarely, if ever, responded directly  
+to confirmation requests made by auditors. 
+ 
+       37.     Despite annual quality reviews, PW India did not recognize the extensive nature of 
+this quality control failure until after January 2009, when PW India conducted a firm-wide review  
+of confirmation workpapers taken from completed and ongoing engagements for the current and 
+prior fiscal year. 
+        
+                      PW India’s Audits of Accounts Receivable Balances
+  
+                  Were Not Performed in Accordance with PCAOB Standards 
+ 
+                                   for Fiscal Years 2006-2008
+  
+
+       38.     During the relevant period, Satyam’s former senior management recorded fictitious 
+receivables by exploiting weaknesses in the internal controls of the company’s accounts receivable 
+system.  Specifically, the company’s invoicing system allowed for the manual entry of customer 
+invoices via the intervention of a “super user,” acting outside the regular controls of the billing and 
+invoicing process.  Satyam’s former senior management used this super user function to              create 
+thousands of fake invoices totaling over $1 billion during the entirety of the fraud.   
+
+       39.     For the 2006-2008 fiscal year audits, Respondents failed to carry out the audits of 
+the accounts receivable balance in accordance with PCAOB Standards.  As with the cash 
+confirmation process, the Satyam engagement team did not maintain control of the accounts 
+receivable confirmations and did not perform adequate follow-up procedures on confirmations that 
+were sent but not received from customers with purported accounts receivable balances recorded  
+on Satyam’s 2006-2008 fiscal year end financial statements. 
+
+                                                   11
+ 
+---------------------Page 12---------------------
+
+                                                                                                  
+       40.     For example, from the period March 31, 2006 through August 31, 2007, the Satyam  
+engagement team prepared accounts receivable confirmation requests on five occasions but 
+received few, if any, responses to those requests.  During the relevant period, Respondents made 
+no attempt to follow up on those non-responses.  Further, as part of the 2007 fiscal year audit, the 
+engagement team sent out confirmation requests to 22 customers with outstanding receivables 
+balances on August 31, 2006, including seven that were later exposed as fictitious customers.  No 
+customers responded to those requests.  Appropriate diligence and follow-up procedures could 
+have exposed the true nature of these customers. 
+
+       41.     In other periods, instead of employing confirmation procedures to verify accounts  
+receivable balances, the Satyam engagement team purported to im plement “alternative procedures” 
+to validate receivables through an attempt to verify their subsequent receipts.  The subsequent 
+receipt totals were obtained from Satyam’s management and then divided by the total outstanding 
+receivables as of the period end to arrive at a percentage of receivables that had been subsequently 
+collected.  There was no other documented substantive analysis to go along with this calculation.  
+The above-described alternative audit procedures performed during the 2006-2008 fiscal audit 
+years did not provide adequate audit evidence to corroborate the existence of receivables because 
+they were not designed to ensure that the subsequent receipts had any relationship to the actual 
+outstanding receivables at the end of the respective fiscal year. 
+
+       42.     Further, the engagement team was aware of factors that increased the potential for  
+fraud at Satyam during at least the fiscal year 2007 audit, but failed to recognize the increased risk, 
+and therefore did not alter its planning and execution of the Satyam audits to take these risks into 
+account as required under PCAOB Standards.  In connection with the audit of  the company’s fiscal  
+year ended March 31, 2007, PW India’s Systems and Process  Assurance (“SPA”) personnel tested  
+Satyam’s Information Technology (“IT”) internal controls.  This testing revealed over 170 
+deficiencies in those controls, including eight significant deficiencies identified by the SPA team.  
+The nature of these deficiencies should have alerted the engagement team to a heightened risk with 
+respect to receivables. 
+
+       43.     In an area that called for increased audit vigilance, Respondents failed to develop an  
+audit plan that addressed the increased risk of a material misstatement of the receivables balance.   
+Instead, the 2007 and 2008 year-end audits excluded confirmation of the year-end receivables 
+balances. 
+
+       44.     Respondents failed to adequately plan and perform the 2006-2008 audits with  
+respect to accounts receivable in accordance with relevant PCAOB Standards.  First, the 
+engagement team ignored internal control deficiencies which should have alerted it to the 
+heightened fraud risk with respect to receivables, as required by PCAOB Standards AU § 312.16 
+(an auditor must consider the effect of an assessment of the risk of material misstatement due to 
+
+                                                   12
+ 
+---------------------Page 13---------------------
+
+                                                                                                     
+fraud on the overall audit strategy).10
+                                      Second, the receivables audit plan failed to address an 
+increased risk of a material misstatement of the receivables balance, as required by PCAOB 
+Standard AU § 312.17 (higher risk may cause the auditor to expand or modify the extent or nature  
+of procedures to obtain more persuasive evidence).  Third, the engagement team failed to follow up 
+on confirmation requests that were not returned, which resulted in a failure to comply with several 
+PCAOB Standards, including AU § 316.28 (describing instances in which audit procedures need to 
+be changed to obtain evidence that is more  reliable or to obtain additional corroborative 
+information, including from independent sources), §330.30 (describing follow-up confirmation 
+request process),  and §330.32 (describing alternative procedures to be employed in the  
+examination of accounts receivable, including the matching of subsequent cash receipts with the 
+actual items being paid).  Fourth, Respondents did not obtain sufficient competent evidential 
+matter to verify the existence of receivables, as required by PCAOB Standard AU § 326.01.   11 
+                                                                                               
+
+                              Failure to Issue Accurate Audit Reports  
+
+       45.     PCAOB Standards require that the auditor’s report contain an opinion on the 
+financial statements taken as a whole and contain a clear indication of the character of the auditor’s 
+work.  PCAOB Standard AU § 508.04.  The auditor can determine that he or she is able to issue an 
+audit report containing an unqualified opinion only if he has conducted his audit in accordance  
+with PCAOB Standards and that the financial statements have been prepared in conformity with 
+GAAP.  PCAOB Standard AU §§ 508.08, 508.14.       12 
+                                                    
+
+       46.     PW India acted unreasonably in rendering audit reports containing unqualified 
+opinions for the fiscal year 2005-2008 publicly-filed financial  statements.  PW India issued audit 
+reports on Satyam’s financial statements even though they should have known that Satyam’s audits  
+had not been conducted in accordance with PCAOB Standards and that Satyam’s financial 
+statements did not present fairly, in all material respects, Satyam’s financial position, operating 
+results, and cash flows in conformity with GAAP. 
+
+                    PW India Did Not Comply with PCAOB Auditing Standard No.3.  
+
+       47.     PW India was notified by the PCAOB in November 20      07 that the PCAOB would 
+perform an inspection of  PW India.  This inspection was to include a review of PW India’s 2007 
+fiscal year audit of Satyam.  The audit opinion included in Satyam’s 2007 Form 20-F was dated 
+
+                                                        
+10 
+  See  also PCAOB Standard AU § 110.02, which requires that an “auditor has the responsibility to plan and   
+perform the audit to obtain  reasonable assurance about whether the financial statements are free of material 
+misstatement, whether caused by error or fraud.”                   
+11 
+  See also PCAOB Standards AU § 150.02 and AU § 230, which require due professional care to be exercised in the 
+performance of the audit and preparation of the report.   
+12
+  PCAOB Standard AU § 508.14  was in effect for reports issued from the beginning of the relevant period until   
+November 15, 2008.  
+                                                    13
+ 
+---------------------Page 14---------------------
+
+                                                                                                 
+and released on April 27, 2007.  Satyam submitted its Form 20-F to the SEC on April 30, 2007.  
+The PCAOB inspection began in February 2008.   
+
+       48.     Under PCAOB Auditing Standard No. 3, Audit Documentation (“AS No. 3”), audit 
+documentation may not be deleted after the document completion date (i.e, the date that the 
+“complete and final set of audit documentation” has been assembled for retention, which must 
+occur within 45 days after the audit report release date).  AS No. 3 ¶15.  AS No. 3 also requires 
+that an auditor make certain written disclosures if the auditor adds or alters working papers after 
+the documentation completion date.  In particular, AS No. 3 specifies, in relevant part, that any 
+additions or alterations to audit documentation after the audit report release date “must indicate the 
+date the information was added, the name of the person who prepared the additional 
+documentation, and the reason for adding it.”  AS No. 3 ¶16. 
+
+       49.     After the audit “documentation completion date,” but before the PCAOB inspection 
+of the Satyam audit for fiscal year ended March 31, 2007, members of the Satyam engagement  
+team created certain documents, and gathered other documents, none of which previously were in 
+the 2007 Satyam audit workpapers.  The workpapers added by the Satyam engagement team     
+included the management letter and debtor confirmation requests.  The added workpapers did not 
+include any notations indicating that they were added or altered after the documentation 
+completion date.  The added workpapers also neglected to provide the date the information was 
+added, the name of the person who prepared the additional documentation, and the reason for  
+adding it.  Accordingly, PW India failed to comply  with AS No.3 ¶¶ 15, 16. 
+
+E.      VIOLATIONS  
+
+                   Because of Its Failure to Comply With PCAOB Standards, 
+ 
+              PW India Was a Cause of Satyam’s Violations of Sections 13(a) and
+   
+                13(b)(2)(A) of the Exchange Act and Relevant Rules Thereunder
+  
+
+       50.     Section 13(a) of the Exchange Act and Rules 13a-1 and 13a-16 thereunder require 
+issuers with registered securities to file and furnish factually accurate annual and other reports.  
+Rule 12b-20 of the Exchange Act requires that, in addition to the information expressly required 
+to be included in such reports, the reports shall contain such further material information as may 
+be necessary to ensure that the required statements are not misleading.  As a foreign private 
+issuer, Satyam is required to file annual reports on Form 20-F pursuant to Rule 13a-1 under the 
+Exchange Act and to furnish reports on Form 6-K pursuant to Rule 13a-16 under the Exchange 
+Act.  The information required by Form 6-K is whatever information the registrant makes, or is 
+required to make, public pursuant to the laws of the jurisdiction of its domicile or in which the 
+registrant is incorporated or organized.  The obligation to furnish these periodic reports includes 
+the obligation that they be true and correct in all material respects.  See, e.g., SEC v. IMC 
+International, Inc., 384 F.Supp. 889, 893 (N.D. Texas), aff’d mem. 505 F.2d 733 (5th
+                                                                                     Cir. 1974), 
+cert. denied sub nom.  No showing of scienter is necessary to establish a violation of Section 
+13(a) of the Exchange Act and Rules 13a-1, 13a-16, and 12b-20 thereunder.   
+
+                                                  14
+ 
+---------------------Page 15---------------------
+
+                                                                                                  
+       51.     Under Section 21C of the Exchange Act, the Commission may “enter an order 
+requiring such person, and any other person that is, was, or would be a cause of the violation, due 
+to an act or omission the person knew or should have known would contribute to such violation, 
+to cease and desist from committing or causing such violation and any future violation of the 
+same provision, rule, or regulation.”  Exchange Act, 15 U.S.C. § 78u-3.  Negligence is sufficient 
+to establish liability for causing a primary violation that does not require scienter.  See KPMG 
+Peat Marwick LLP, 74 SEC Docket 384, 421 (2001), recon. denied, 74 SEC Docket 1351 (Mar. 
+8, 2001), pet. denied, 289 F.3d 109 (D.C. Cir. 2002), reh'g en banc denied, 2002 U.S. App. Lexis 
+14543 (July 16, 2002). 
+
+       52.     Satyam violated Section 13(a) of the Exchange Act and Rules  13a-1 and 13a-16 
+thereunder by including in numerous of its periodic filings and submissions financial statements 
+for the years 2005-2008 that were materially false and misleading.  For each of those years, PW  
+India issued audit reports containing unqualified opinions stating that “Price Waterhouse” 
+conducted an audit of the company’s annual financial statements in accordance with PCAOB 
+Standards, that Satyam’s financial reporting was in conformity with GAAP, and that Satyam’s 
+reporting results fairly represented the financial condition of the company.  PW India consented to 
+the inclusion of these audit reports in Satyam’s Forms 20-F for fiscal years 2005 through 2008.  
+However, PW India’s audit reports were inaccurate because PW India failed to conduct its audits in 
+accordance with PCAOB Standards.  PW India’s failure to comply with PCAOB Standards was a        
+cause of Satyam’s violations, including Satyam’s failure to disclose to investors that it was             
+engaged in non-GAAP and other accounting actions that prevented Satyam’s reported financial 
+results from fairly representing its financial  condition.   
+
+       53.     In auditing Satyam’s accounts receivable and cash and cash equivalent balances, 
+Respondents did not comply with PCAOB Standards by failing to exercise due professional care 
+and skepticism, failing to obtain sufficient competent evidential matter and substituting 
+management’s representations for those auditing procedures necessary to afford a reasonable basis  
+for an opinion regarding the financial statements.  In fact, the engagement team never insisted on, 
+nor obtained, direct third-party confirmations for Satyam’s largest cash account, nor did it perform 
+sufficient audit procedures to determine whether Satyam’s accounts receivable and cash and cash 
+equivalent balances were not materially misstated.  As a result, PW India was a cause of Satyam’s 
+failure to file and furnish annual and other reports to the Commission that were complete and                                  
+accurate in all material respects in violation of Section 13(a).  
+
+       54.     Section 13(b)(2)(A) of the Exchange Act requires issuers of registered securities 
+to make and keep books, records, and accounts which, in reasonable detail, accurately and fairly 
+reflect the transactions and dispositions of the assets of the issuer.  Satyam violated Section 
+13(b)(2)(A) of the Exchange Act by recording thousands of fictitious entries that resulted in the 
+false reporting of over $1 billion in non-existent revenue and cash.  As described above, PW  
+India failed to conduct its audits in accordance with PCAOB Standards, which allowed Satyam     
+to utilize accounting devices that did not comply with GAAP.  Had it done so, PW India would 
+have reasonably determined that Satyam failed to keep books and records that accurately 
+
+                                                   15
+ 
+---------------------Page 16---------------------
+
+                                                                                                  
+reflected transactions in violation of Section 13(b)(2)(A) of the Exchange Act.  Accordingly, PW  
+India’s actions were a cause of Satyam’s Section 13(b)(2)(A) violations.. 
+
+                              Section 10A(a) of the Exchange Act  
+
+       55.     Section 10A(a) of the Exchange Act requires each audit to include procedures 
+designed to provide reasonable assurance of detecting illegal acts that would have a direct and 
+material effect on the determination of financial statement amounts.  No showing of scienter is 
+necessary to establish a violation of Section 10A.  SEC v. Solucorp Industries, Ltd., 197 F. Supp. 
+2d 4 (S.D.N.Y. 2002). 
+
+       56.     PW India violated Section 10A(a) of the Exchange Act by failing to conduct 
+procedures designed to provide reasonable assurance of detecting illegal acts that would have a 
+direct and material effect on the determination of financial statement amounts, particularly after 
+PW India:  (1) failed to conduct the appropriate inquiry after receiving fixed deposit 
+confirmations, in the requested format, directly from branches of certain banks that purportedly 
+held Satyam’s largest interest bearing fixed deposit balances that were potentially conflicting 
+with confirmations it received from Satyam management that did not conform to the format 
+requested by the engagement team, a situation that should have alerted PW India to a heightened 
+risk that Satyam’s reported deposit balances were materially overstated; and (2) discovered 
+“significant deficiencies” in Satyam’s internal controls that should have caused PW India to take 
+additional procedures to address the heightened risk of material misstatement of Satyam’s 
+receivable balance during the 2007 fiscal year audit. 
+
+                        Rule 102(e) and Section 4C of the Exchange Act  
+
+       57.     Rule 102(e)(1)(ii) of the Commission’s Rules of Practice and Section 4C of the 
+Exchange Act authorize the Commission to censure or deny, temporarily or permanently, the  
+privilege of appearing or practicing before the Commission to accountants who are found to have  
+engaged in improper professional conduct.  Under Rule 102(e)(1)(iv), the term “improper 
+professional conduct” means, in part, “repeated instances of unreasonable conduct, each resulting 
+in a violation of applicable professional standards, that indicate a lack of competence to practice 
+before the Commission.”    
+
+       58.     PW India caused Satyam to file and furnish materially inaccurate audit reports by 
+representing that the audits were conducted in accordance with PCAOB Standards.  Based on their 
+violations of applicable professional standards, PW India was a cause of Satyam issuing materially 
+false financial statements.  This conduct supports an action against PW India under Rules 
+102(e)(1)(ii) and 102(e)(1)(iv)(B)(2) of the Rules of Practice.  
+
+F. FINDINGS         
+
+       59.    Based on the foregoing, the Commission finds that PW India engaged in improper 
+professional conduct in connection with the 2005-2008 Satyam audits pursuant to Rule  
+
+                                                   16
+ 
+---------------------Page 17---------------------
+
+                                                                                                   
+102(e)(1)(ii) and 102(e)(1)(iv)(B)(2) of the Commission’s Rules of Practice and Section 4C of the  
+Exchange Act.  Additionally, the  Commission finds that PW India violated Section 10A(a) of the 
+Exchange Act and was a cause of Satyam’s violations of Sections 13(a) and 13(b)(2)(A) of the  
+Exchange Act, and Rules 13a-1, 13a-16, and 12b-20 thereunder. 
+ 
+G.      REMEDIAL ACTIONS  
+    
+       60.     After January 2009, but before entry of this Order, PW India has taken a series of 
+remedial steps intended to enhance its audit quality controls in such areas as third-party 
+confirmations, engagement training and staffing, engagement review, and risk management.  PW 
+India has also engaged senior audit professionals from PwC Network Firms outside India to 
+review completed and ongoing audit engagements to evaluate and assess PW India’s existing 
+audit quality and to identify U.S.-related audit practice areas in need of improvement to be 
+addressed by the undertakings set forth in this Order. 
+ 
+       61.     In addition, PW India suspended its Satyam audit engagement partners from all 
+work and removed from client service all senior audit professionals (i.e., managers and above) 
+on the former Satyam audit team.  After January 2009, but before the entry of this Order, PW  
+India replaced virtually all senior management responsible for audit matters (“Assurance 
+Leadership Team”).  During this period, PW India also seconded several partners and other 
+senior audit professionals from PwC Network Firms outside of India to add full-time audit 
+infrastructure leadership and support throughout India. 
+        
+H.      UNDERTAKINGS       13 
+                              
+                                                      
+   PW India undertakes the following: 
+
+   1.   Acceptance of New SEC Issuer Audits.  From the date of this Order, PW India shall not 
+accept any new SEC Issuer Audits prior to the Interim Certificate of Compliance Date (defined at 
+Paragraph 11).  The term “SEC Issuer Audit(s)” is defined to mean an engagement to audit the 
+consolidated financial statements filed with the Commission of an “Issuer” as that term is defined 
+in Section 2(a)(7) of the  Sarbanes-Oxley Act of 2002.   Following the later of March 31, 2012 or  
+the Interim Certificate of Compliance Date, PW India shall conduct any new SEC Issuer Audit 
+pursuant to the Interim Conditions set forth in Paragraph 3 until the Final Certificate of  
+Compliance Date  (defined at Paragraph 12).  Until the Final Certificate of Compliance Date, PW  
+India agrees that the Lead Engagement Partner (“Lead Partner”) on any SEC Issuer Audit must be    
+deemed not unacceptable to the Independent Monitor (defined at Paragraph 10) before PW India 
+commences work on any SEC Issuer Audit.  
+                                                        
+13
+  In determining to accept the Offer, the Commission further considered PW India’s representations that: (1) it had 
+not accepted any new SEC Issuer Audits or SEC Issuer Referred Engagement Work since January 2009; and (2) it 
+would voluntarily extend all relevant undertakings set forth in Section III.H to the five other India-based PwC              
+Network Firms. 
+                                                   17
+ 
+---------------------Page 18---------------------
+
+                                                                                                
+   2.   Acceptance of SEC Issuer Referred Engagement Work   .  PW India shall not accept SEC 
+Issuer Referred Engagement Work for a new client for a period of six months following the date of 
+this Order.  The term “SEC Issuer Referred Engagement Work” is defined to mean instances in 
+which PW India: (a) conducts a full scope audit and provides, or should provide, consistent with 
+Applicable Professional Standards (defined at Paragraph 3.a.), an interoffice opinion for an SEC 
+Issuer-affiliated entity in connection with the audit of the SEC Issuer’s consolidated financial 
+statements filed with the Commission; or (b) provides audit work for an SEC Issuer-affiliated 
+entity in connection with the audit of the SEC Issuer’s consolidated financial statements filed 
+with the Commission that constitutes ten percent or more of the SEC Issuer’s consolidated 
+assets, revenues, or expenses, as measured by the SEC Issuer’s most recent fiscal year financial 
+statements filed with the Commission.  The          term SEC Issuer Referred Engagement Work  
+excludes Indian statutory audits for SEC Issuer-affiliated clients, SAS 70 reports (or, after June 15, 
+2011, SSAE No. 16 reports), and Shared Service Center Engagements (as defined in Paragraph 
+14).  The term “new client” shall mean an SEC Issuer or a component of an SEC Issuer where PW  
+India: (i) has not provided any audit or review services to the SEC Issuer or any of its components  
+after January 1, 2010 through the date of this Order; and (ii) seeks to provide audit or review 
+services to the SEC Issuer or any of its components after the date of this Order.  After a period of 
+six months  following the date of this Order and until the Final Certificate of Compliance Date, PW  
+India shall conduct SEC Issuer Referred Engagement Work for new clients pursuant to the Interim 
+Conditions set forth in Paragraph 3.   
+
+   3.   Interim Conditions.  From April 1, 2011 until the Final Certificate of Compliance Date, PW 
+India shall conduct SEC Issuer Referred Engagement Work for current clients pursuant to the 
+conditions set forth below (“Interim Conditions”).  Upon expiration of the relevant restricted 
+periods specified in Paragraphs 1 and 2 above and until the Final Certificate of Compliance Date, 
+PW India agrees that any new SEC Issuer Audit and any SEC Issuer Referred Engagement Work 
+for a new client shall be subject to the following Interim Conditions:  
+
+       a.	   Staffing and Selection of Lead Partners, Engagement Managers, and Quality Review 
+           Partners.  PW India’s Assurance Leadership Team (“ALT”), a group which shall 
+           include, among others, PW India’s Assurance Leader and Risk & Quality Leader, shall 
+           select, as part of meeting their quality control requirements, the  Lead Partner, 
+           Engagement Manager, and Quality Review Partner (“QRP”), if required, for each SEC 
+           Issuer Audit and SEC Issuer Referred Engagement Work after taking into account his 
+           or her respective performance on SEC Issuer Audits, SEC Issuer Referred Engagement  
+           Work, and SEC Issuer-related client engagements that do not meet the thresholds 
+           described in Paragraph 2 (collectively “SEC Issuer-Related Audit Engagements”) as  
+           indicated by the results of the Real Time Review and Engagement Compliance Review  
+           (“ECR”) programs (Paragraph 9 and 10) and the real time review program undertaken  
+           by PW India during 2010.  PW India undertakes to engage the engagement partner 
+           from the PwC Network Firm which is the lead auditor of the relevant SEC Issuer client  
+           (“Global Engagement Partner”) to review the selection of any Lead Partner, 
+           Engagement Manager, and QRP before the commencement of any SEC Issuer Referred 
+           Engagement Work.  PW India shall provide the Global Engagement Partner with a 
+                                                  18 
+---------------------Page 19---------------------
+
+                                                                                                  
+           summary of the results of the engagement quality review conducted in October 2010, 
+           any ECR conducted subsequent to the date of this Order, and any real time review 
+           conducted during 2010 for each engagement on which the partner or manager served as  
+           Lead Partner or Engagement Manager and shall provide the Global Engagement  
+           Partner with access to any other relevant information upon request.  PW India agrees 
+           that, in the event the Global Engagement  Partner informs PW India that he or she 
+           objects to the selection of the Lead Partner, Engagement Manager or QRP to perform 
+           such work, PW India will select an alternative candidate that meets the conditions 
+           described in this Paragraph. 
+
+           A QRP shall be assigned for all SEC Issuer Referred Engagement Work that meets the 
+           10 percent of assets, revenues, or expenses threshold in Paragraph 2.  For SEC Issuer 
+           Referred Engagement Work that does not meet the 10 percent of assets, revenues, or 
+           expenses threshold, a QRP will be assigned, if requested by the Global Engagement 
+           Partner.  The scope of the QRP’s role on such work shall be consistent with PCAOB 
+           Auditing Standard No. 7, Engagement Quality Review.   
+
+           Any PW India partner or manager who served as the Lead Partner or Engagement  
+           Manager on any engagement that received an overall finding of unsatisfactory due to 
+           departures from Applicable Professional Standards14
+                                                               in connection with the 
+           engagement quality review conducted in October 2010 or any ECR performed 
+           subsequent to the date of this Order shall not be permitted to perform any SEC Issuer 
+           Audit or SEC Issuer Referred Engagement  Work as a Lead Partner or Engagement 
+           Manager for a period of two fiscal years following the date of an overall finding of 
+           “unsatisfactory.”  Provided, however, that if PW India believes that an individual 
+           partner or manager whose engagement received an “unsatisfactory” rating should be 
+           exempt from the two-year practice restriction, then PW India, through its Assurance  
+           Leader, may make a written submission to the Independent Monitor explaining the 
+           reasons therefore and the Independent Monitor shall have the authority to exempt the  
+           individual partner or manager if he or she believes it is appropriate to do so.  In no 
+           event, however, shall a partner or manager who receives an overall rating of 
+           “unsatisfactory” due to departures from Applicable Professional Standards in two 
+           consecutive quality reviews be exempt from the two-year practice restriction. 
+
+           If a partner has an engagement on which he or she served as Lead Partner assessed as  
+           unsatisfactory due to departures from Applicable Professional Standards in an  
+           engagement quality review or ECR, that partner shall not be permitted to serve as a 
+           QRP on any SEC Issuer Audit  or SEC Referred Work Engagement for a period of two 
+           fiscal years following the date of an overall finding of “unsatisfactory.”  
+
+                                                        
+14 
+  The term “Applicable Professional Standards” means “professional standards” as defined in Section 2(a)(10) of   
+the Sarbanes-Oxley Act of 2002 as amended.  
+                                                  19
+ 
+---------------------Page 20---------------------
+
+                                                                                                   
+           PW India shall comply with the conditions described in this Paragraph on a continuing 
+           basis until the Final Certificate of Compliance Date. 
+
+       b.	   Training.  In addition to the training-based undertakings set forth in Paragraph 5, PW  
+           India agrees to require the Lead Partner, QRP, and Engagement Manager to complete at    
+           least: (a) eight hours of ethics training on an annual basis; and (b) 40 hours of 
+           specialized training in U.S. GAAP, PCAOB Standards,    15
+                                                                    and International Financial 
+           Reporting Standards (“IFRS”) before initiating any SEC Issuer Audit or SEC Issuer 
+           Referred Engagement Work and at least 16 hours of such training in each subsequent 
+           year that such work is performed.  Training programs completed   after June 2010 shall 
+           be credited towards satisfying the 40 hour specialized training requirement of this 
+           Paragraph.  The specialized training requirements of this Paragraph may also satisfy the 
+           specialized training hours requirements of Paragraph 5(d).  All other PW India audit  
+           staff on any SEC Issuer Audit or SEC Issuer Referred Engagement Work shall be  
+           subject to the training undertakings set forth in Paragraph 5. 
+
+       c.	   Consultations.  PW India undertakes to review  all consultations with PW India’s 
+           National Office concerning Applicable Professional Standards required by PW India’s 
+           consultation policy (“Required Consultations”) involving any SEC Issuer Referred 
+           Engagement Work with the Global Engagement Partner.   
+
+           Before accepting any SEC Issuer Audit, PW India undertakes to develop a process for 
+           review of all Required Consultations by an auditor from a PwC Network Firm outside  
+           of India.  Such process must be reviewed and deemed acceptable by the Independent 
+           Monitor. 
+
+           PW India further undertakes to resolve all Required Consultations in a manner 
+           consistent with PW India policies and procedures prior to the issuance of any opinion, 
+           report, or engagement completion document by PW India.  
+
+       d.	   Pre-opinion Reviews.  PW India undertakes, prior to the issuance of any opinion, 
+           report, or engagement completion document by PW India, to: (i) engage the Global 
+           Engagement Partner, or his or her partner or manager designee, to conduct a review of 
+           any PW India SEC Issuer Referred Engagement Work; and (ii) conduct a Real Time 
+           Review (Paragraph 9) of all SEC Issuer Audits. 
+
+   4. Ongoing Cooperation.  PW India (including its partners   , principals, officers, agents and 
+employees) shall cooperate fully with the Commission with respect to this action and any related 
+                                                        
+15 
+  References in Commission rules and staff guidance and in  the federal securities laws to GAAS or to specific 
+standards under GAAS, as they relate to issuers, should be understood to mean the standards of the PCAOB plus any                    
+applicable rules of the Commission.  See Release Nos. 33-8422; 34-49708; FR-73 at http://www.sec.gov/rules/interp  
+/33-8422.htm. 
+                                                    20
+ 
+---------------------Page 21---------------------
+
+                                                                                                   
+judicial or administrative proceeding or investigation commenced by the Commission or to which 
+the Commission is a party and subject to compliance with applicable law.  PW India agrees that 
+such cooperation shall include, but is not limited to:   
+
+       a. 	 Production of Information – at the Commission’s request, upon reasonable notice, and 
+           without subpoena, PW India (including its partners, principals, officers, agents and 
+           employees) shall truthfully and completely disclose all information requested by SEC 
+           staff in connection with the Commission’s investigation, litigation or other proceedings, 
+           except with respect to information related to clients other than Satyam, which 
+           information shall be produced in response to subpoena or other appropriate legal 
+           process; 
+
+       b. 	 Production of Documents      -- at the Commission's request, upon reasonable notice, and 
+           without subpoena, PW India (including its partners, principals, officers, agents and 
+           employees) shall provide any document, record, or other tangible evidence requested             
+           by SEC staff in connection with the Commission’s investigation, litigation or other 
+           proceedings, except with respect to documents related to clients other than Satyam, 
+           which documents shall be provided in response to subpoena or other appropriate legal  
+           process; and 
+
+       c.	   Production of Cooperative Personnel – at the Commission's request, upon reasonable 
+           notice, and without subpoena, PW India (including its partners, principals, officers, 
+           agents and employees) shall use its best efforts to secure the attendance and truthful 
+           statements or testimony of any PW India partner, principal, officer, agent, or 
+           employee, excluding any such person who is a party to litigation with the  
+           Commission, at any meeting, interview, testimony, deposition, trial, or other legal 
+           proceeding.  
+
+   The foregoing obligations are subject to  PW India’s reservation of rights:    
+
+               (i)   to claim that documents or information requested is subject to attorney-client 
+                  privilege or attorney-work-product protection; and  
+
+               (ii)  to seek entry of a confidentiality order as to (aa) sensitive business documents or 
+                  information, (bb) sensitive personnel documents or information, or (cc) 
+                  confidential information pertaining to clients other than Satyam.  
+
+       PW India further agrees that, with respect to this action and any related judicial or 
+   administrative proceeding or investigation commenced by the Commission or to which the 
+   Commission is a party, it will:  (i) accept service by email, mail or facsimile transmission of 
+   notices, requests, or subpoenas issued by the Commission for documents or testimony at 
+   depositions, hearings, or trials, or in connection with any related investigation by the  
+   Commission staff (“Commission Service”); (ii) appoint PW India’s undersigned attorney as 
+   agent to receive Commission Service; (iii) with respect to Commission Service, waive the 
+                                                   21
+ 
+---------------------Page 22---------------------
+
+                                                                                                  
+   territorial limits upon service contained in Rule  45 of the Federal Rules of Civil Procedure and 
+   any applicable local rules, provided that the party requesting the testimony reimburses PW 
+   India’s travel, lodging, and subsistence expenses at the then-prevailing U.S. Government per 
+   diem rates; and (iv) consent to personal jurisdiction over PW India in any United States District 
+   Court for purposes of enforcing any Commission Service. 
+
+   5.  Training and Professional Development.  PW India shall evaluate its existing professional 
+development policy and shall make such revisions deemed necessary in order to adopt, implement, 
+and enforce written policies and procedures designed to provide its audit professionals with 
+reasonable training and education to minimize the risk of future violations of Applicable  
+Professional Standards and United States federal securities laws and regulations.  PW India agrees 
+that such training and education shall include subjects relevant to  the audits of SEC Issuer-Related 
+Audit Engagements.  To that end, PW India shall require that all audit professionals complete a  
+training curriculum in the areas of traditional core audit and accounting, Applicable Professional  
+Standards, professional skepticism, behavioral change management, technical audit competence, 
+ethics standards, electronic and hard-copy audit documentation standards (including, as they relate 
+to PCAOB inspections), acceptable and appropriate third-party confirmation procedures, and other                                                                           
+relevant technical audit training. 
+
+       a. Training Programs  .  Prior to March 31, 2011 and until the Final Certificate of  
+           Compliance Date, PW India agrees and undertakes to provide annually, two-week 
+           training programs covering the above-referenced audit topics as well as training and 
+           presentation skills to select PW India audit professionals who thereafter will lead the 
+           training of other PW India audit professionals.  After March 31, 2011, only PW India 
+           audit professionals who have successfully completed a two-week training program will 
+           be permitted to lead training of other PW India audit professionals. 
+
+       b. 	 Mandatory Annual Training.  Prior to December 31, 2011 and until the Final Certificate 
+           of Compliance Date, PW India agrees and undertakes to require that all audit 
+           professionals complete an annual three-day program that includes training on the  
+           following topics: (i) audit basics; (ii) new audit and accounting standards; (iii) 
+           emerging issues in the profession; (iv) specific audit and accounting challenges 
+           identified in prior years’ PW India audits; and (v) the role of the engagement quality 
+           reviewer. 
+
+       c. 	 Professional Skepticism Training.  Prior to December 31, 2011, PW India agrees and 
+           undertakes to require that all audit professionals complete an eight-hour program that 
+           covers acceptable and appropriate professional skepticism and fraud detection.  The  
+           course will be offered annually thereafter to new hires, through the Final Certificate of 
+           Compliance Date. 
+
+       d. Specialized Training .  In addition to the training and education described in Sections 
+           5.b. and 5.c., all PW India audit professionals   must complete successfully the following 
+           core audit curriculum and specialized training before they commence audit work for 
+                                                   22 
+---------------------Page 23---------------------
+
+                                                                                                 
+           any SEC Issuer Audit or SEC Issuer Referred Engagement Work for financial 
+           statements after March 31, 2011:  
+
+           (i)   Minimum of 24 Hours of Audit-Related Training.  The audit-related training 
+              requirement shall address the following topics: (1) assessing risks of material  
+              misstatements and developing responsive audit plans; (2) determining and 
+              documenting appropriate sampling methods and sample sizes, selecting samples,  
+              and evaluating and documenting results; (3) audit documentation; (4) obtaining and 
+              evaluating sufficient competent evidential matter; (5) acceptable and appropriate 
+              third-party confirmation procedures; (6) professional skepticism and corroboration 
+              of management’s representations; (7) technical audit training; and (8) fraud 
+              detection.  Training courses completed after June 2010 shall be credited towards  
+              satisfying the specialized audit training requirements of this Paragraph. 
+
+           (ii)  Minimum of 12 Hours of Specialized Training and Examination.  Of the 24 hours  
+              of required audit-related training described above, a minimum of 12 hours shall 
+              involve live training taught by senior audit professionals from PwC Network Firms 
+              outside India, including those who have been seconded to PW India, who are 
+              experienced in auditing SEC Issuers and shall cover U.S. GAAP and PCAOB 
+              Standards.  The live training shall be followed by an examination of the topics 
+              covered.  PW India audit professionals must complete a minimum of 6 hours of 
+              such live training before they commence audit work for any SEC Issuer Audit or 
+              SEC Issuer Referred Engagement Work in each subsequent year.  
+
+       e. 	 Additional Training Programs.  PW India agrees to consult with the Independent 
+           Monitor in designing its training and education program, and to submit to the 
+           Independent Monitor a detailed proposal within 60 days after retention of the  
+           Independent Monitor that describes the content and implementation of the training and 
+           education program.  PW India undertakes and agrees to provide such additional training 
+           and workshops for its audit professionals on topics that include, but are not limited to: 
+           IFRS training; additional workpaper documentation standards; behavioral instruction; 
+           audit planning; PW India audit partner and manager supervisory training; audit quality 
+           training for all PW India audit partners; and other training deemed necessary to rectify 
+           deficiencies identified during the Quality Control Management Review and 
+           Engagement Compliance Review programs (described in Paragraph 9).  The 
+           Independent Monitor shall review PW India’s proposal describing the content and 
+           implementation of the training and education program; such program must be deemed  
+           not unacceptable to the Independent Monitor.   
+
+   6.  Ethical Code of Conduct and Associated Training.  PW India has represented that it has a 
+Code of Ethical Business Conduct (the “Ethics Code”) that defines standards of behavior for PW  
+India audit professionals.  PW India undertakes to:  (a) adopt procedures designed to ensure that 
+the Ethics Code is disseminated to PW India audit professionals; (b) conduct appropriate ethics 
+training; (c) review the Ethics Code on a regular basis and update it as needed; (d) adopt an 
+                                                  23
+ 
+---------------------Page 24---------------------
+
+                                                                                                 
+appropriate system of penalties to discourage and punish any violations of the Ethics Code; and (e) 
+adopt procedures designed to verify, on a regular basis, compliance with the Ethics Code. In 
+addition, PW India shall provide annual ethics training to PW India audit professionals deemed 
+most likely to perform SEC Issuer-Related Audit Engagements. 
+
+   7. 	 Undertakings Concerning Staffing   
+
+       a. 	 Audit Infrastructure Support.  PW India undertakes to increase the size and improve the 
+           expertise of its audit support personnel by adding full-time or full-time equivalent 
+           senior professionals (i.e., managers and above) trained in and knowledgeable about 
+           U.S. GAAP and PCAOB Standards from w      ithin PW India and from PwC Network 
+           Firms outside India in all areas of audit support.  
+
+       b. Engagement Staffing  .  PW India shall undertake to alter the structure of its engagement  
+           teams on SEC Issuer-Related Audit Engagements.  Such measures shall include: (i) 
+           policies and procedures designed to address the detection and resolution of potential 
+           issues concerning the quality of audit work performed by senior audit professionals; (ii) 
+           policies and procedures designed to ensure the QRP’s role is in compliance with 
+           PCAOB Auditing Standard No. 7; (iii) greater emphasis on partner and manager time 
+           and attention; (iv) regular coaching of junior audit professionals by experienced senior 
+           audit professionals; and (v) as indicated below, recruitment of client service partners  
+           and other senior audit professionals from PwC Network Firms outside India to increase 
+           the size and improve the expertise of PW India’s audit personnel.  
+
+       c. Secondment.  PW India undertakes to   increase the number of senior audit professionals  
+           seconded from PwC Network Firms outside India that are trained in and knowledgeable 
+           about U.S. GAAP and PCAOB Standards who will, among other responsibilities, be  
+           involved in the training of PW India audit professionals most likely to perform SEC 
+           Issuer-Related Audit Engagements.  PW India also shall initiate an audit engagement 
+           exchange program for junior audit professionals to and from PW India with a 
+           particularized focus on the performance of integrated audit procedures on the financial  
+           statements of clients affiliated with an SEC Issuer.  
+
+   8.  Undertakings Concerning Audit Quality Management System.  Prior to December 31, 
+2011, PW India shall revise as may be necessary, and then engage in steps to implement and 
+enforce, such policies and procedures so as to provide reasonable assurance that PW India will 
+comply with its obligations under professional, regulatory and firm requirements with respect to 
+SEC Issuer-Related Audit Engagements.  To that end, PW India agrees and undertakes to provide 
+to the Independent Monitor for review and recommendation, its policies and procedures, including 
+evidence of their implementation, concerning the following:  
+
+       a. Completion of Planning   Prior to the Commencement of Audit Fieldwork.  Such 
+           policies and procedures shall provide reasonable assurance that, prior to the  
+           commencement of any significant audit procedures:  (i)  workpapers identify all  
+                                                  24 
+---------------------Page 25---------------------
+
+                                                                                                       
+           significant risks requiring additional testing; (ii) workpapers identify all significant  
+           accounts and disclosures and their relevant assertions; (iii) workpapers document the  
+           risks of material misstatements, and that the planned nature, timing, and extent of 
+           testing are finalized and reviewed and approved by the Lead Partner, and, when  
+           appropriate, the QRP; and (iv) workpapers ar   e tailored to address identified risks of  
+           material misstatement.  
+
+       b. Third-Party Confirmations    .  Such policies and procedures shall be designed to provide 
+           reasonable assurance that all audit personnel perform third-party confirmation 
+           procedures in compliance with PCAOB Standards.  
+
+       c. Consultations .  Such policies and procedures shall  set forth consultation procedures and 
+           documentation requirements regarding procedures for external review of PW India 
+           National Office Required Consultations, as well as for the resolution of such  
+           consultations. 
+
+       d. Documentation    .  Such policies and procedures shall be designed to provide 
+           reasonable assurance that PW India’s SEC Issuer-Related Audit Engagements comply 
+           with Auditing Standard No. 3, Audit Documentation.  Such procedures shall 
+           emphasize that documentation must be prepared in sufficient detail for an     
+           experienced auditor, without prior knowledge of the engagement, to be able to 
+           reperform the work and require that any additions made after the documentation 
+           date 16
+                  must identify the date the information was added, the name of the person who 
+           prepared the additional documentation, and the reason for adding it.  Additionally, 
+           PW India shall adopt a policy making it mandatory that a Lead Partner on an SEC 
+           Issuer-Related Audit  Engagement review each audit area designated by the 
+           engagement team as having a significant risk of material misstatement (whether due 
+           to fraud or error) for compliance with both PCAOB Standards and related rules and 
+           firm policies and procedures. 
+
+       e. 	 Detection and Reporting of Illegal Client Activity (“Section 10A Compliance”)      . 
+           Such policies and procedures shall be designed to provide reasonable assurance that 
+           PW India complies with Section 10A of the Securities Exchange Act of 1934, as 
+           amended, including without limitation, for each audit subject to Section 10A, 
+           procedures designed to provide reasonable assurance of detecting illegal acts that 
+           would have a direct and material effect on the determination of financial statement 
+
+                                                        
+16 
+  PCAOB Auditing Standard No. 3, Paragraph 15, states, “A complete and final set of audit documentation should                   
+be assembled for retention as of a date not more than 45 days after the report release date (documentation   
+completion date). If a report is not issued in connection with an engagement, then the documentation completion                         
+date should not be more than 45 days from the date that                       fieldwork was substantially completed. If the auditor was  
+unable to complete the engagement, then the documentation completion date should not be more than 45 days from                             
+the date the engagement ceased.”  
+                                                     25
+ 
+---------------------Page 26---------------------
+
+                                                                                               
+          amounts, and to comply with all requirements under the standards of the Commission, 
+          the PCAOB, and Section 10A to evaluate and report suspected illegal acts.  
+
+       f.	   Engagement Quality Control.  Such policies and procedures shall be designed to 
+          provide reasonable assurance that PW India complies with the PCAOB’s Auditing 
+          Standard No. 7, Engagement Quality Review.  
+
+       g. Audit Opinions .  Such policies and procedures shall be designed to provide 
+          reasonable assurance that the firm signing the audit report or opinion for an SEC 
+          Issuer-Related Audit Engagement shall uniquely identify itself by, at a minimum, its 
+          PCAOB-registered name, and the location of the registered office.  
+
+   9. 	 Audit Quality Environment   
+
+       a. 	 Real Time Reviews.  From the date of this Order through at least the Interim Certificate 
+          of Compliance Date, PW India shall engage senior audit professionals from PwC 
+          Network Firms outside India with experience in both U.S. GAAP and PCAOB 
+          Standards to lead pre-opinion reviews of certain SEC Issuer-Related Audit  
+          Engagements (“Real Time Reviews”).   All SEC Issuer  Audits and a sample of other 
+          SEC Issuer-Related Audit Engagements, including at least one other SEC Issuer-
+          Related Audit Engagement for each partner serving as Lead Partner on such an 
+          engagement, shall be subject to a Real Time Review each year.  These reviews shall be  
+          designed to identify areas for improvement and to provide support to PW India audit  
+          engagement teams working on SEC Issuer-Related Audit Engagements.  SEC Issuer 
+          Referred Engagement Work is subject to the pre-opinion reviews described in 
+          Paragraph 3(d) and shall be excluded from the Real Time Reviews.   
+
+       b. 	 Engagement Compliance Review.  PW India shall engage senior audit professionals 
+          from PwC Network Firms outside India with experience in both U.S. GAAP and 
+          PCAOB Standards to review selected, completed PW India SEC Issuer-Related Audit 
+          Engagement workpapers as part of the ECR program in order to assess PW India’s 
+          compliance with Applicable Professional Standards.  The Independent Team Leader  
+          (“ITL”) will select the engagements for review, which selection shall be part of the 
+          ECR planning and scope subject to review and recommendation by the Independent 
+          Monitor.   As part of their engagement by PW India, these senior audit professionals 
+          shall develop an engagement quality review program designed to measure and assess 
+          compliance with Applicable Professional Standards and PW India partner performance 
+          on SEC Issuer-Related Audit Engagements through annual post-opi                       nion evaluations of 
+          selected SEC Issuer-Related Audit Engagements.  The ECR program will also  identify 
+          remedial needs on an ongoing basis.  As described further in Paragraph 10, the planning 
+          and scope of the ECR program shall incorporate recommendations made by the 
+          Independent Monitor.  The ECR program shall be overseen by an ITL experienced in 
+          U.S GAAP and PCAOB Standards and will continue on an annual basis until the Final 
+
+                                                 26
+ 
+---------------------Page 27---------------------
+
+                                                                                                     
+           Certificate of Compliance Date.  All SEC Issuer Audits and SEC Issuer Referred 
+           Engagement Work shall be included as part of the annual ECR.   
+
+       c. Quality Control   Management Review.  PW India shall engage senior audit 
+           professionals from PwC Network Firms outside India experienced in PCAOB 
+           Standards to devise and implement a quality control review program to measure and 
+           assess whether, and to what extent, PW India has in place systems, policies, and 
+           procedures to provide reasonable assurance that its audit personnel comply with 
+           applicable professional standards and PW India’s standards of quality as defined by 
+           PCAOB Quality Control Standards     17
+                                                 when performing work on SEC Issuer-Related 
+           Audit Engagements (herein referred to as “Quality Control Management Review or 
+           “QCMR”).   18
+                          As described further in Paragraph 10, PW India’s QCMR program shall 
+           include an annual review of completed audit work measured against a series of key 
+           performance indicators that shall be developed, assessed, and updated on an ongoing 
+           basis.  The planning and scope of the QCMR shall be overseen by the ITL and shall 
+           incorporate recommendations made by the Independent Monitor.  The QCMR program  
+           shall continue on an annual basis until  the Final Certificate of Compliance Date. 
+
+   10. Undertakings Related to Reporting Requirements and the Role of the Independent Monitor  
+
+       a. 	 Independent Monitor Selection and Retention.  PW India shall retain and pay for an 
+           independent third-party not unacceptable to PCAOB staff and Commission staff who 
+           has experience with public company reporting in the United States and is 
+           knowledgeable in Applicable Professional Standards ("Independent Monitor") to 
+           review PW India’s compliance with the undertakings set forth in this Order.  Within 
+           60 days after the entry of this Order, PW India shall submit to PCAOB staff and 
+           Commission staff a proposal setting forth the identity, qualifications, and proposed 
+           terms of retention of the Independent Monitor.  PW India may not retain as the   
+           Independent Monitor any individual or entity that has provided legal, auditing, or other 
+           services to, or has had any affiliation with, Satyam, PwC IL, or any PwC Network Firm 
+           during the prior two years.    
+        
+           PW India agrees that its engagement agreement with the Independent Monitor shall 
+           require the Independent Monitor to agree that, for the period of engagement and for a 
+                                                        
+17 
+  References to “PCAOB Quality Control Standards” throughout this Order mean, collectively, QC Sec. 20, System  
+of Quality Control for a CPA Firm's Accounting and Auditing Practice;                      QC Sec. 30, Monitoring a CPA Firm's 
+Accounting and Auditing Practice                ; QC Sec. 40, The Personnel Management Element of a Firm's System of Quality 
+Control-Competencies Required by a Practitioner-in-Charge of an Attest Engagement                             ; all amendments thereto, and 
+any subsequently enacted related standards of the PCAOB.  
+18 
+  Staff recognizes that, subject to review and recommendation of the Independent Monitor, PW India also may                           
+develop procedures and measurements designed to review and evaluate the firm’s quality control compliance with   
+International Standard on Quality Control 1, which PW   India represents may prove relevant in determining PW                           
+India’s overall quality control environment. 
+                                                     27
+ 
+---------------------Page 28---------------------
+
+                                                                                                 
+           period of two years from completion of the engagement, the Independent Monitor shall 
+           not enter into any employment, consultant, attorney-client, auditing, or other 
+           professional relationship with Satyam, PwC IL, or any PwC Network Firm, or any of 
+           their present or former affiliates, directors, officers, employees, or agents acting in their 
+           capacity as such, and shall require that any firm with which the Independent Monitor is  
+           affiliated or of which the Independent Monitor is a member, or any person engaged to 
+           assist the Independent Monitor in performance of the Independent Monitor's duties  
+           under this Order not, without prior written consent of the PCAOB staff and 
+           Commission staff, enter into any employment, consultant, attorney-client, auditing, or 
+           other professional relationship with Satyam, PwC IL, or a PwC Network Firm, or any 
+           of their present or former affiliates, directors, officers, employees, or agents acting in 
+           their capacity as such for the period of the engagement and for a period of two years 
+           after the engagement. 
+            
+           The term of the Independent Monitor shall expire upon the Final Certificate of 
+           Compliance Date.  PW India shall not have the authority to terminate the Independent 
+           Monitor before the Final Certificate of  Compliance Date without the prior written 
+           approval of the PCAOB staff and the Commission staff. 
+    
+       b. 	 Role and Responsibilities Overview.  As set forth in this Order, the Independent 
+           Monitor’s roles and responsibilities shall include: (i) pre-appointment review of new 
+           members of PW India’s Assurance Leadership Team and Lead      Partners on SEC Issuer 
+           Audits – such individuals shall not be unacceptable to the Independent Monitor; (ii) 
+           approving the appointment of the ITL; (iii) reviewing and recommending revisions to  
+           the audit Quality Management System policies and procedures of PW India; (iv) 
+           reviewing and recommending revisions to PW India’s ECR and QCMR programs and 
+           compliance work plans; (v) reporting upon PW India’s progress after review and 
+           evaluation of PW India’s semi-annual and annual reports set forth herein; (vi) assessing 
+           and recommending remedial steps deemed necessary to correct any deficiencies 
+           identified in the semi-annual and annual reports; (vii) preparing an annual written 
+           report concerning PW India’s progress in implementing the undertakings; (viii) making 
+           findings as set forth in Paragraphs 11 and 12; and (ix) taking such reasonable steps as, 
+           in his or her view, may be necessary to fulfill his or her obligations set forth in this 
+           Order.  
+ 
+       c. Monitoring Complia   nce with Undertakings.  Within 60 days after retention of an 
+           Independent Monitor, PW India shall submit to the Independent Monitor a work plan 
+           that describes the manner in which PW India intends to set forth quantifiable goals in 
+           which it may measure its ongoing implementation of, and compliance with, the 
+           undertakings set forth in this Order.  PW India undertakes to permit the Independent 
+           Monitor 30 days to make recommendations to its work plan and agrees to make a 
+           good faith effort to address and incorporate all such recommendations.  PW India 
+           shall work cooperatively with the Independent Monitor to resolve any disagreements 
+           to the satisfaction of the Independent Monitor.  If a matter that the Independent 
+                                                  28 
+---------------------Page 29---------------------
+
+                                                                                                
+          Monitor believes is within his or her responsibility cannot be resolved, at the request of 
+          the Independent Monitor, PW India shall promptly provide written notice to the 
+          Independent Monitor and the PCAOB staff and Commission staff.  Any disputes 
+          between PW India and the Independent Monitor  with respect to the work plan shall be  
+          decided by the PCAOB staff and the Commission staff, and PW India shall abide by 
+          their decision.  
+ 
+          For the period from the effective date of this Order to the Final Certificate of  
+          Compliance Date, PW India agrees and undertakes periodically, at no less than six-
+          month intervals, to provide a written report to the Independent Monitor regarding PW  
+          India’s progress regarding the implementation of, and compliance with, the 
+          undertakings set forth in this Order.  On an annual basis, PW India shall provide the 
+          Independent Monitor with a written report that explains the circumstances  
+          surrounding any failure to meet specific quantifiable goals set forth in the work plan 
+          (as well as the specific audit involved, if any) and shall provide a detailed description 
+          of what steps, if any, PW India has taken and shall take to remedy any such failure.  
+          PW India’s follow-up reviews shall incorporate comments provided by the 
+          Independent Monitor on PW India’s prior reviews and reports.  As part of PW India’s 
+          compliance with the undertakings set forth in this Order, the Independent Monitor 
+          shall also assess and report annually to PCAOB staff and Commission staff whether 
+          PW India is complying with the undertaking regarding SEC Issuer Audits and SEC 
+          Issuer Referred Engagement Work (Paragraphs 2 and 3). 
+ 
+       d. 	 Monitoring Compliance with PW India’s Quality Control Management Review and 
+          Engagement Compliance Review.  Within 60 days after retention of an Independent   
+          Monitor, PW India undertakes to engage the ITL to submit  to the Independent Monitor 
+          the QCMR and ECR proposed plans.  
+        
+          PW India agrees and undertakes that, until the Final Certificate of Compliance Date, 
+          the ITL and the two individuals with direct responsibility for the QCMR and ECR (the 
+          “Review Team Leaders”) shall be senior audit professionals from a PwC Network Firm  
+          outside India with experience in U.S. GAAP and PCAOB Standards that have not 
+          participated in any quality review of PW India prior to September 2010.  The ITL must  
+          be approved by the Independent Monitor and deemed not unacceptable to both PCAOB 
+          staff and Commission staff.  
+           
+          PW India undertakes to engage the ITL to permit the Independent Monitor 60 days to 
+          make recommendations to its QCMR and ECR proposed plans and engage the ITL to 
+          make a good faith effort to incorporate all such recommendations.  PW India shall 
+          engage the ITL to work cooperatively with the Independent Monitor to resolve any 
+          disagreements to the satisfaction of the Independent Monitor.  If the matter cannot be        
+          resolved, at the request of the Independent Monitor, PW India, through the ITL, shall 
+          promptly provide written notice to the Independent Monitor and the PCAOB staff and 
+          Commission staff.  Any disputes between PW India or the ITL and the Independent 
+                                                  29
+ 
+---------------------Page 30---------------------
+
+                                                                                                  
+           Monitor with respect to the QCMR and ECR proposed plans shall be decided by the  
+           PCAOB staff and the Commission staff, and their decision shall be final. 
+ 
+           (i)   Quality Control Management Review Reports.  For the period from the effective 
+           date of this Order to the Final Certificate of Compliance Date, PW India agrees and  
+           undertakes to provide, through the ITL, an annual written report to the Independent 
+           Monitor that assesses – and provides documented and supportable findings – as to 
+           whether, and to what extent, there is reasonable assurance that PW India’s quality 
+           controls with respect to SEC Issuer-Related Audit Engagements are in compliance with   
+           PCAOB Quality Control Standards.   PW India shall undertake follow-up reviews each 
+           year until the Final Certificate of Compliance Date, incorporating comments provided 
+           by the Independent Monitor on PW India’s prior reviews and reports, to further 
+           monitor and assess PW India’s quality controls.   
+
+           (ii)  Engagement Compliance Review Reports.  For the period from the effective date 
+           of this Order to the Final Certificate of Compliance Date, PW India agrees and  
+           undertakes to provide, through the ITL, an annual written report to the Independent 
+           Monitor that assesses and provides documented and supportable findings as to 
+           whether, and to what extent, PW India’ s audits of SEC Issuer-Related Audit 
+           Engagements are compliant with Applicable Professional Standards.  19 
+                                                                                  Such  
+           assessments and findings shall include, but  not be limited to, documents sufficient to 
+           support the results developed from all engagement reviews from which the report is 
+           based.  PW India shall undertake follow-up reviews each year until the Final   
+           Certificate of Compliance Date, incorporating comments provided by the Independent 
+           Monitor on PW India’s prior reviews and reports, to further monitor and assess PW  
+           India’s engagement quality.  
+
+           (iii) Independent Monitor Annual Report.  Within 90 days of receiving the ECR or 
+           QCMR report, whichever is later, and for the period from the effective date of this 
+           Order to the Final Certificate Date, the Independent Monitor shall prepare an annual 
+           report (“IM Report”) that assesses whether the QCMRs and ECRs were conducted 
+           according to reasonable procedures and indicates whether the Independent Monitor 
+           supports the findings and conclusions set forth in the QCMR and ECR reports.  The  
+           Independent Monitor may extend the time  period for the IM Report for up to thirty 
+           calendar days upon prior written notice to PW India, PCAOB staff, Commission staff,  
+           and the ITL.  Within 30 days of receiving the IM Report, PW India may prepare a 
+           written response to the IM Report.   If the Final Certificate of Compliance does not take                  
+           effect within three years of the date of  this Order, each IM Report thereafter shall 
+           include an assessment regarding whether, and to what extent, PW India continues to 
+           make substantial progress toward satisfying the undertakings set forth in this Order.    
+
+                                                        
+19 
+  The ITL may opt to issue a single, aggregate report that covers the annual results of both the QCMR and the ECR.   
+                                                   30
+ 
+---------------------Page 31---------------------
+
+                                                                                                  
+           (iv)  Remedial Measures Resulting from Annual Review Reports.  To the extent that  
+           the annual ECR and QCMR reports, or the resulting IM Report, identify deficiencies or 
+           instances of non-compliance with respect to the standards articulated therein, PW India 
+           shall submit to the Independent Monitor a Remedial Plan within 60 days of its receipt 
+           of the IM Report.  PW India shall permit                                     the Independent Monitor 30 days to make 
+           recommendations to the remedial plan.  PW  India shall require the ITL to consult with 
+           the Independent Monitor and make a good faith effort to incorporate the remedial plan 
+           recommendations into the subsequent period’s ECR and QCMR, as appropriate and  
+           PW India shall require the ITL to work cooperatively with the Independent Monitor 
+           to resolve any disagreements to the satisfaction of the Independent Monitor.  If the            
+           matter cannot be resolved, at the request of the Independent Monitor, PW India, 
+           through the ITL, shall promptly provide written notice to the Independent Monitor and 
+           the PCAOB staff and Commission staff.  Any disputes between the ITL and the 
+           Independent Monitor with respect to the remedial plan shall be decided by the PCAOB 
+           staff and the Commission staff, and their decision shall be final.  
+
+       e. Reporting Requirements   .  PW India’s Assurance Lead er shall sign all QCMR, ECR, 
+           and Remedial Plan reports, attesting that he or she has read and understood their 
+           content and certifying satisfaction with any undertakings addressed, findings reached, 
+           and remedial steps required in the reports.  PW India shall provide copies of all 
+           written reports described in this Paragraph to the appropriate PCAOB staff and 
+           Commission staff designees no later than 10 days from the date of completion.   
+
+       f. 	 Documentation Requirements .  PW India agrees and undertakes to prepare and 
+           preserve a copy of all written plans, reports, and responses in connection with the 
+           undertakings set forth in this Order.  In addition, PW India shall maintain sufficient 
+           documentation to provide a clear undertaking of its purpose, sources of support, and 
+           conclusions that form the basis of all reports set forth in this Order.  PW India agrees 
+           and undertakes that all such documentation shall be made available to the 
+           Independent Monitor and, upon reasonable request, to PCAOB staff and Commission 
+           staff.  All such documentation will be retained for two years following the Final 
+           Certification of Compliance Date.  
+
+   11. Interim Certificate of Compliance .  Upon a finding by the Independent Monitor that PW  
+India:  (i) has developed an acceptable process for the review of Required Consultations 
+(Paragraph 3.c.) for SEC Issuer Audits by an auditor experienced in U.S. GAAP and PCAOB 
+Standards from a PwC Network Firm outside India; (ii) has demonstrated significant progress 
+toward completion of the undertakings set forth in this Order; and (iii) has evidenced reasonable 
+assurances from the QCMRs and ECRs that there are no significant deficiencies or instances of 
+material non-compliance with respect to an SEC Issuer Audit or SEC Issuer Referred 
+Engagement Work completed and reviewed for the previous fiscal year, PW India’s Assurance 
+Leader shall certify  in writing that it has satisfied each of the above specified conditions 
+(“Interim Certificate of Compliance”).  The Interim Certificate of Compliance shall identify each 
+of the relevant reports in which PW India demonstrated written evidence of satisfaction in the 
+                                                   31
+ 
+---------------------Page 32---------------------
+
+                                                                                                 
+form of a narrative supported by exhibits sufficient to demonstrate compliance.  The Interim  
+Certificate of Compliance and supporting material shall be submitted to the appropriate 
+Commission Division of Enforcement and PCAOB Division of Enforcement designee (the 
+“Designees”).   Upon receipt of the Interim Certificate of Compliance and any supporting 
+material that the ITL and Independent Monitor deem necessary to support that Certificate, the 
+Designees may make reasonable requests for further documents evidencing compliance and PW  
+India agrees to provide the requested documents to the Designees and the Independent Monitor.  
+Within the earlier of 30 days of receipt of the requested documents or 120 days after receipt of 
+the Interim Certificate of Compliance, the Independent Monitor must either affirm or withdraw 
+his or her initial findings regarding the Interim Certificate of Compliance in writing, a copy of  
+which shall be provided to PW  India, the ITL, and the Designees.  The Interim Certificate of                         
+Compliance takes effect upon confirmation by both Designees that they have received the 
+Independent Monitor’s affirmation of findings in writing (“Interim Certificate of Compliance 
+Date”), but in any event the Interim Certificate of Compliance Date shall not be before March 
+31, 2012.  
+ 
+   12. Final Certificate of Compliance                                .   Upon findings by the Independent Monitor that: (i) PW  
+India has complied with the undertakings set forth in this Order; (ii) PW India has evidenced 
+reasonable assurance that its quality controls in place for SEC Issuer-Related Audit Engagements 
+are in compliance with PCAOB Quality Control Standards; and (iii) PW India has evidenced 
+reasonable assurances that there are no significant deficiencies or instances of material non­
+compliance with respect to all of the SEC Issuer-Related Audit Engagements completed and 
+reviewed for the previous two fiscal years, PW  India’s Assurance Leader shall certify in writing 
+that it has satisfied each of the above specified conditions (the “Final Certificate of 
+Compliance”).   The Final Certificate of Compliance shall identify each of the relevant reports in 
+which the Independent Monitor has found that PW India demonstrated written evidence of 
+compliance in the form of a narrative supported by exhibits sufficient to demonstrate 
+compliance.   The Final Certificate of Compliance and supporting material shall be submitted to 
+the Designees.  Upon receipt of the Final Certificate of Compliance and the relevant reports, the 
+Designees may make reasonable requests for further documents evidencing compliance and PW  
+India shall provide the requested documents to the Designees and the Independent Monitor.  
+Within the earlier of 60 days of the Designees’ receipt of the requested documents or 120 days 
+after the Designees’ receipt of the Final Certificate of Compliance, the Independent Monitor 
+must either affirm or withdraw his or her initial findings regarding the Final Certificate of  
+Compliance in writing, a copy of which shall be provided to PW India, the ITL, and the 
+Designees.  The Final Certificate of Compliance takes effect upon confirmation by both 
+Designees that they have received the Independent Monitor’s affirmation of findings in writing.   
+(“Final Certificate of Compliance Date”). 
+
+   13. PCAOB Inspections                     .  PW India shall provide to the Independent Monitor inspection 
+comment forms and responses and draft and final inspection reports pertaining to all PCAOB 
+inspections of PCAOB-registered PW India firms that may occur from the date of this Order to 
+the Final Certificate of Compliance Date.  The goal of this undertaking is to provide the 
+Independent Monitor with an opportunity to review and identify any criticisms or potential 
+                                                  32
+ 
+---------------------Page 33---------------------
+
+                                                                                                
+defects in PW India’s quality control system that would indicate PW India has failed to evidence 
+reasonable assurance that its quality controls in place for SEC Issuer-Related Audit Engagements 
+are in compliance with PCAOB Quality Control Standards.  If the Independent Monitor 
+concludes that the results of a PCAOB inspection of a PCAOB-registered PW India firm are 
+inconsistent with his or her findings made in connection with Paragraph 12, the Final Certificate 
+of Compliance Date will not take effect until the Independent Monitor provides a written report 
+to PW India, the ITL, and the Designees that explains how the Independent Monitor has 
+reconciled any such inconsistencies to his or her satisfaction. 
+
+   14. From the date of this Order and until the Fi                                           nal Certificate of Compliance Date, PW India 
+agrees and undertakes that its Shared Service Center Engagements shall be subject to the 
+following conditions:  (a) all workpapers prepared by PW India shall be provided to the Global 
+Engagement Partner or his or her designee; (b) the Global Engagement Partner shall engage a 
+senior audit professional from a PwC Network Firm outside India to oversee and control the 
+execution of the Shared Service Center Engagement; and (c) the Global Engagement Partner 
+shall assume all responsibility for the Shared Service Center Engagement.  The term “Shared 
+Service Center” shall mean an outsourcing facility that is a component of, or a third-party vendor 
+to, an SEC Issuer and which operates, controls, and processes the SEC Issuer’s group financial 
+transactions.  The term “Shared Service Center Engagement“ shall mean an audit engagement in 
+which the Global Engagement Partner for an SEC-issuer group that is audited by a PwC Network 
+Firm instructs PW India to audit the controls and processing of group financial transactions by a 
+Shared Service Center.  Where PW India audits a Shared Service Center’s own financial 
+statements and that engagement meets the definition of SEC Issuer Referred Engagement Work, 
+such engagement shall be subject to the limitations on acceptance of SEC Issuer Referred 
+Engagement Work set forth in Paragraph 2 and the Interim Conditions set forth in Paragraph 3.   
+
+   In determining whether to accept the Offer, the Commission has considered these 
+undertakings.  PW India agrees that if the Division of Enforcement believes that PW India has 
+not satisfied these undertakings within a reasonable time, the Division of Enforcement may 
+petition the Commission to reopen the matter to determine whether additional sanctions are 
+appropriate. 
+
+                                                 IV. 
+                                                    
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondents’ Offer. 
+        
+       Accordingly, pursuant to Sections 4C, 21B(a)(2)(B) and 21C of the Exchange Act, and 
+Rule 102(e)(1)(ii) of the Commission’s Rules of Practice, it is hereby ORDERED, effective 
+immediately, that: 
+        
+       A.   Respondents shall cease and desist from committing or causing any violation and any  
+           future violation of Section 10A(a) of the Exchange Act and from causing any 
+
+                                                  33
+ 
+---------------------Page 34---------------------
+
+                                                                                                  
+           violation and any future violation of Sections 13(a) and 13(b)(2)(A) of the Exchange 
+           Act and Rules 12b-20, 13a-1, and 13a-16 thereunder; 
+        
+       B.   Respondents shall, within 45 days of the entry of this Order, pay a civil money 
+           penalty in the amount of $6 million to the Securities and Exchange Commission.    If 
+           the payment is not made by the date the payment is required by this Order, the entire 
+           outstanding balance of civil penalties, plus any additional interest accrued pursuant to 
+           31 U.S.C. 3717, shall be due and payable immediately, without further application.  
+           Payment shall be: (A) made by wire transfer, United States postal money order, 
+           certified check, bank cashier's check or bank money order; (B) made payable to the  
+           Securities and Exchange Commission; (C) hand-delivered or mailed to the Office of  
+           Financial Management, Securities and Exchange Commission, Operations Center, 6432 
+           General Green Way, Alexandria, VA 22312-0003; and (D) submitted under a 
+           notification that identifies Lovelock & Lewes, Price Waterhouse, Bangalore, Price  
+           Waterhouse & Co., Bangalore, Price Waterhouse Calcutta, and Price Waterhouse & 
+           Co., Calcutta as the Respondents in these proceedings as well as the file number of 
+           these proceedings.  Respondents shall simultaneously transmit a copy of such payment 
+           and notification to Cheryl J. Scarboro, Chief, Foreign Corrupt  Practices Act Unit, 
+           Division of Enforcement, 100 F Street N.E., Washington, DC 20549-5030.  
+           Respondents will cooperate with the staff of the Commission to obtain evidence of 
+           receipt of the payments set forth herein. 
+ 
+       C.   Pursuant to Section 308(a) of the Sarbanes-Oxley Act of 2002, a Fair Fund is created 
+           for the penalties referenced in Paragraph B above.  Regardless of whether any such            
+           Fair Fund distribution is made, the civil penalty shall be treated as a penalty paid to the 
+           government for all purposes, including all tax purposes.  To preserve the deterrent 
+           effect of the civil penalty, Respondents agree that they shall not, after offset or 
+           reduction of any award of compensatory damages in any Related Investor Action based 
+           on Respondents’ payment of a civil penalty in this proceeding, argue that they are 
+           entitled to, nor shall they further benefit by offset or reduction of any part of such 
+           compensatory damages award by the amount of any part of Respon    dents’ payment of a 
+           civil penalty in this proceeding ("Penalty Offset").  If the court in any Related Investor 
+           Action grants such a Penalty Offset, Respondents agree that they shall, within 30 days 
+           after entry of a final order granting the Penalty Offset, notify the Commission's counsel 
+           in this proceeding and pay the amount of the Penalty Offset to the United States 
+           Treasury or to a Fair Fund, as the Commission directs.  Such a payment shall not be 
+           deemed an additional civil penalty and shall not be deemed to change the amount of the  
+           civil penalty imposed in this proceeding.  For purposes of this paragraph, a "Related 
+           Investor Action" means a private damages action brought against any or all 
+           Respondents by or on behalf of one or more  investors based on substantially the same  
+           facts as alleged in this Order instituted by the Commission in this proceeding.  
+ 
+       D.	    Respondents are censured pursuant to Rule 102(e)(1)(ii) of the Commission’s Rules 
+           of Practice; and 
+                                                   34
+ 
+---------------------Page 35---------------------
+
+
+---------------------Page 36---------------------
+
+                                                                                                    
+                                        SERVICE LIST  
+
+        
+
+               Rule 141 of the Commission's Rules of Practice provides that the Secretary, or 
+another duly authorized officer of the Commission, shall serve a copy of the Order Instituting 
+Public Administrative and Cease-and-Desist Proceedings Pursuant to Sections 4C and 21C of the 
+Securities and Exchange Act of 1934 and Rule 102(e) of the Commission’s Rules of Practice, 
+Marking Findings, and Imposing Remedial Sanctions and a Cease-and-Desist Order, on the 
+Respondents and their legal agent. 
+
+        
+
+               The attached Order has been sent to the following parties and other persons entitled 
+to notice: 
+
+        
+
+       Honorable Brenda P. Murray         
+
+       Chief Administrative Law Judge                          
+
+       Securities and Exchange Commission  
+
+100 F Street, N.E. 
+
+Washington, DC 20549-2557                     
+
+ 
+
+       Cheryl J. Scarboro, Esq.                                    
+
+       Division of Enforcement         
+
+Securities and Exchange Commission            
+
+100 F Street, N.E. 
+
+Washington, DC 20549                          
+
+               
+
+       Lovelock & Lewes  
+
+                                                    36
+ 
+---------------------Page 37---------------------
+
+                                                                                             
+       c/o Christopher Davies, Esq. 
+
+
+       Wilmer Cutler Pickering Hale and Dorr LLP 
+
+
+       1875 Pennsylvania Avenue, N.W.
+  
+
+       Washington, DC 20006 
+
+
+        
+
+       Price Waterhouse, Bangalore 
+
+
+       c/o Christopher Davies, Esq. 
+
+
+       Wilmer Cutler Pickering Hale and Dorr LLP 
+
+
+       1875 Pennsylvania Avenue, N.W.
+  
+
+       Washington, DC 20006 
+
+
+        
+
+       Price Waterhouse & Co., Bangalore
+  
+
+       c/o Christopher Davies, Esq. 
+
+
+       Wilmer Cutler Pickering Hale and Dorr LLP 
+
+
+       1875 Pennsylvania Avenue, N.W.
+  
+
+       Washington, DC 20006 
+
+
+        
+
+        
+
+        
+
+        
+
+        
+
+       Price Waterhouse, Calcutta 
+
+                                                37 
+---------------------Page 38---------------------
+
+                                                                                             
+       c/o Christopher Davies, Esq. 
+
+
+       Wilmer Cutler Pickering Hale and Dorr LLP 
+
+
+       1875 Pennsylvania Avenue, N.W.
+  
+
+       Washington, DC 20006 
+
+
+        
+
+       Price Waterhouse & Co., Calcutta
+  
+
+       c/o Christopher Davies, Esq. 
+
+
+       Wilmer Cutler Pickering Hale and Dorr LLP 
+
+
+       1875 Pennsylvania Avenue, N.W.
+  
+
+       Washington, DC 20006 
+
+
+        
+
+       Christopher Davies, Esq.  
+
+
+       Wilmer Cutler Pickering Hale and Dorr LLP 
+
+
+       1875 Pennsylvania Avenue, N.W.
+  
+
+       Washington, DC 20006 
+
+
+       (Counsel for Respondents Lovelock & Lewes,  
+
+
+       Price Waterhouse, Bangalore,  
+
+
+       Price Waterhouse & Co., Bangalore,  
+
+
+       Price Waterhouse, Calcutta, and 
+
+
+       Price Waterhouse & Co., Calcutta)
+  
+
+        
+
+ 
+
+                                                38 

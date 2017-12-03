@@ -1,0 +1,510 @@
+---------------------Page 1---------------------
+
+                            UNITED STATES OF AMERICA 
+ Before                                      the 
+                   SECURITIES AND EXCHANGE COMMISSION 
+ 
+  
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 55933 / June 20, 2007 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 2620 / June 20, 2007 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-12662 
+ 
+                                               
+In the Matter of                              
+                                             ORDER INSTITUTING CEASE-AND-DESIST 
+      CAMBREX CORPORATION,                   PROCEEDINGS, MAKING FINDINGS, AND 
+                                             IMPOSING A CEASE-AND-DESIST ORDER 
+Respondent.                                  PURSUANT TO SECTION 21C OF THE 
+                                              SECURITIES EXCHANGE ACT OF 1934   
+ 
+ 
+ 
+                                                
+ 
+                                           I. 
+ 
+              The Securities and Exchange Commission (Commission) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities 
+Exchange Act of 1934 (Exchange Act), against Cambrex Corporation (Cambrex or 
+Respondent).    
+                                            
+                                          II. 
+ 
+              In anticipation of the institution of these proceedings, Respondent has submitted an Offer 
+of Settlement (the Offer) which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the findings   
+herein, except as to the Commissions jurisdiction over it and the subject matter of these 
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings, Making Findings, and Imposing a Cease-and-Desist Order Pursuant to 
+Section 21C of the Securities Exchange Act of 1934 (Order), as set forth below.   
+
+ 
+ 
+  
+---------------------Page 2---------------------
+
+ 
+ 
+                                              III. 
+ 
+              On the basis of this Order and Respondents Offer, the Commission finds that:   
+ 
+                                          Respondent 
+  
+       1.     Cambrex is a Delaware corporation with headquarters in East Rutherford, New 
+Jersey.  Cambrex supplies human health and bioscience products to the life sciences industry, 
+produces feed additives and intermediates for the animal health/agriculture markets, and 
+manufactures other specialty and fine chemicals.  For the fiscal year ended December 31, 2005, 
+Cambrex had net revenues of $455,097,000 and a net loss of $110,458,000.  Cambrexs common 
+stock is registered with the Commission pursuant to Section 12(b) of the Exchange Act and trades 
+on the New York Stock Exchange. 
+ 
+                                           Summary 
+ 
+       2.     Between at least 1997 through 2001, Cambrex accrued an imbalance of 
+approximately $17.1 million in its intercompany accounts.  Of that amount, approximately $3.5 
+million was erroneously reflected as income when it in fact should have been accounted for as an 
+operating expense, and Cambrex could not ascertain whether another $2.6 million was similarly 
+booked improperly, though it also treated this figure as if it had been reflected as income.  As a 
+result, Cambrex issued erroneous periodic and annual reports.    
+ 
+       3.     The erroneous filings occurred because Cambrex failed to reconcile its 
+intercompany accounts on a monthly basis.  Cambrex failed to reconcile its intercompany accounts 
+for three principal reasons.  First, Cambrex did not adequately staff its internal accounting function.  
+Second, Cambrex lacked a functional intercompany transaction policy.  Third, when Cambrex 
+instituted projects to perform a historical reconciliation of its intercompany accounts, the projects 
+were not completed.  Cambrex failed to reconcile the intercompany accounts even though its 
+outside auditor provided Cambrex with several management letters that warned of potential 
+ramifications if the imbalance was not fixed. 
+ 
+       4.     Cambrexs failure to reconcile its intercompany accounts continued until the end of 
+2002, when Cambrex was forced to address the issue because of the certification requirements of 
+the newly-enacted Sarbanes-Oxley Act of 2002 (Sarbanes-Oxley).  A Cambrex subsidiarys 
+controller initially refused to sign a Sarbanes-Oxley-related internal sub-certification because of his 
+awareness of the problems reconciling the intercompany accounts.  His refusal triggered a series of 
+discussions by Cambrexs audit committee concerning the issue.  In December 2002, Cambrex 
+hired a new CFO with a strong accounting background, who finally devoted adequate resources to 
+the task of reconciling the historical imbalances. 
+ 
+       5.     As a result, in January 2003, Cambrex announced that it would restate its financial 
+results for the years ending December 31, 1997, through December 31, 2001 (the Restatement 
+
+                                                2 
+---------------------Page 3---------------------
+
+Period).  Cambrex stated that it had overstated pre-tax income by a total of $6.1 million, or $5.1 
+million after taxes, over the fiscal years 1997 through 2001.  Net income was overstated by $1.3 
+million, $2.9 million, $0.2 million and $0.8 million in 2001, 2000, 1999, and 1998, respectively, 
+and understated by $0.1 million in 1997. 
+        
+                                          Background 
+ 
+A.          Intercompany Accounts at Cambrex 
+ 
+       6.     Cambrex has approximately fourteen operating subsidiaries located throughout the 
+world.  In order to record and account for activity, such as the transfer of expenses, assets, or 
+liabilities, conducted between these affiliated companies, Cambrex utilizes intercompany accounts. 
+ 
+       7.     Intercompany transactions are supposed to be booked through an identical 
+corresponding charge by each side of a given transaction or expense, which, if done properly, 
+would have no impact on Cambrexs consolidated assets, liabilities, expenses, or revenues.  For 
+example, if Cambrex corporate (Corporate) agrees to absorb an expense incurred by a subsidiary, 
+if recorded correctly, Corporate should record a debit to an expense account, increasing the 
+expense on Corporates income statement, and a credit to an intercompany account on its balance 
+sheet.  The subsidiary should record a credit to an expense account on its income statement and a 
+debit to an intercompany account on its balance sheet.  If Corporate were to initially record and pay 
+for an expense that should be charged to a subsidiary, the above entries should be reversed.  In both 
+instances, as a result of these identical credits and debits, the accounts would net to zero and there 
+would be no impact on Cambrexs consolidated assets, liabilities, expenses, or revenues.   
+        
+       8.     Within Corporate, Cambrexs internal accounting group, known as the finance 
+department (Finance Department), was responsible for, among other things, reviewing and 
+reconciling the intercompany accounts.  During the relevant time periods, the Corporate Finance 
+Department was supervised by the Controller.  A designated employee, usually the most junior, 
+was supposed to review the intercompany accounts as part of a process to ensure that all 
+intercompany accounts balanced and were properly netted-out in consolidation.  To do this, the 
+employee used computer software that alerted the employee if an imbalance existed, in which case 
+the employee was then supposed to access separate software that essentially operated as Cambrexs 
+general ledger, to view the detail behind the specific transactions that caused an imbalance within a 
+particular intercompany or group loan account.  
+        
+       9.     Once discrepancies were identified, the Finance Department was tasked with 
+resolving the difference through discussions with relevant personnel at the subsidiary.  If no 
+agreement could be reached, the Corporate Controller was supposed to make a unilateral, final 
+decision about how to treat the discrepancy.  During the Restatement Period, this process did not 
+occur.  Instead of reconciling the difference, the designated Finance Department employee simply 
+logged the discrepancies.   
+ 
+       10.    The intercompany accounts were incorporated into Cambrexs financial statements 
+during the monthly consolidation process.  Because of its many subsidiaries, Cambrex performed a 
+
+                                                 3 
+---------------------Page 4---------------------
+
+multi-level consolidation that generated a single, final balance sheet, incorporating Corporate as 
+well as both the domestic and international subsidiaries.  The consolidation was performed at the 
+close of every month, in order to generate monthly financial reports, comparing the actual results 
+reported by the sites with their forecasted and prior years results.  During the consolidation 
+process, Cambrex would identify the sum of all intercompany imbalances (those entries where 
+both sides to an intercompany transaction did not book the same dollar figure).  Under Generally 
+Accepted Accounting Principles, it is necessary to eliminate intercompany transactions in the 
+consolidation process.  Cambrex erroneously believed it eliminated its intercompany imbalances 
+by entering the sum of all the imbalances in a line item, known as a top side adjustment, on its 
+consolidated balance sheet.  The top-side adjustment was only made on the balance sheet  and not 
+the income statement  because of a long-standing but erroneous assumption that the imbalanced 
+intercompany accounts did not affect Cambrexs income statement. 
+        
+       11.    In fact, under certain circumstances, Cambrexs imbalanced intercompany accounts 
+did affect its income statement.  This occurred when, for example, a subsidiary recorded an 
+expense that it intended to transfer to Corporate where, in order to transfer the expense, it should 
+have recorded a credit to an expense account to reduce its operating expenses on its income 
+statement and a debit to an intercompany account on its balance sheet.  When Corporate, however, 
+did not book an offsetting entry to increase its expenses and adjust its intercompany account, this 
+resulted in an understatement of consolidated expenses and an overstatement of consolidated 
+income in Cambrexs consolidated financial statement.  Similarly, there were instances where 
+Corporate intended to transfer certain fringe benefit expenses to a subsidiary and Corporate 
+recorded one amount and the subsidiary recorded a different amount resulting in a corresponding 
+understatement or overstatement of consolidated expenses, which also affected Cambrexs 
+consolidated income statement. 
+ 
+B.          Cambrex Failed to Perform Monthly Reconciliations of the Intercompany Accounts. 
+  
+       12.    During the Restatement Period, Cambrex did not reconcile its intercompany 
+accounts on a monthly basis.  This failure contributed to a growing imbalance that needed to be 
+corrected through a historical reconciliation.  Although Cambrex executives were aware of the 
+problem  and were specifically told by its auditor in 1999 that the failure to reconcile 
+intercompany accounts could ultimately impact earnings  they took only limited and inadequate 
+steps to address the issue.  The historical reconciliation project was started several times, only to be 
+quickly abandoned.  Throughout, Cambrex failed to provide adequate staffing to the reconciliation 
+project.  
+ 
+       13.    The Corporate Finance Department was inadequately staffed to reconcile the 
+intercompany accounts.  In addition, Cambrexs limited accounting staff prioritized other 
+responsibilities, such as monthly and periodic financial reporting, over the monthly intercompany 
+reconciliation.  In fact, Finance Department personnel believed that other group responsibilities 
+took precedence over the monthly intercompany reconciliation.  As a result, most personnel 
+responsible for the internal accounting function made only a limited effort, if any, to perform a 
+monthly reconciliation.  These personnel rarely communicated with Cambrex subsidiaries 
+concerning discrepancies in intercompany accounts, and did not ensure that such discrepancies 
+
+                                                 4 
+---------------------Page 5---------------------
+
+were remedied, but only logged the existence of these unresolved balances.  Furthermore, the 
+Finance Department experienced considerable staff turnover and new employees were not trained 
+to handle the monthly reconciliation. 
+ 
+       14.    The individuals directly responsible for supervising these employees were aware 
+that the intercompany imbalances were not being fully reconciled on a monthly basis and that the 
+Finance Department was not properly staffed to do so.  As a result, these individuals took 
+insufficient steps to ensure that the intercompany accounts were regularly reconciled. 
+ 
+       15.    Although Cambrex maintained an intercompany transaction policy, it was not 
+shown to various employees responsible for its implementation.  The policys instructions were not 
+followed because several individuals tasked with reconciling the intercompany accounts never saw 
+the document.  In addition, this document offered conflicting guidance by simultaneously 
+mandating that the accounts be reconciled on a monthly basis and allowing unreconciled items to 
+be carried into the following month.  It was also unclear whether the document was intended to 
+cover all intercompany transactions or a more limited subset of transactions.  Moreover, while the 
+document required that a schedule of all intercompany balances be completed and sent to 
+Corporate as part of the quarterly reporting process, such schedules were not always prepared.  
+ 
+       16.    A supervisor responsible for the reconciliation of the intercompany accounts was 
+aware of an intercompany transaction policy and knew that certain steps outlined in the policy 
+were being taken, yet he did not recall reviewing it or consulting it.  Although at various times the 
+company set out to perform a historical reconciliation  often terming the project a high priority 
+ the project was never completed.  Cambrex failed to complete the historical reconciliation even 
+though Cambrexs auditor warned that Cambrexs failure to properly reconcile the unbalanced 
+accounts could affect the reported income statement in its financial disclosures. 
+ 
+C.          Cambrex Failed to Reconcile the Historical Imbalance in its Intercompany Accounts. 
+ 
+       17.    By failing to reconcile the intercompany accounts on a monthly basis, Cambrex 
+generated a lengthy backlog of unreconciled entries.  In order to determine the proper treatment of 
+the entries underlying the imbalance, it became necessary to perform a historical reconciliation of 
+the intercompany accounts.   
+ 
+       18.    However, during the Restatement Period, Cambrex did not reconcile the historical 
+imbalance.  This failure occurred because Cambrex did not employ sufficient personnel to perform 
+the historical reconciliation and Cambrex never completed several reconciliation initiatives.  These 
+failures occurred even though Cambrexs auditor warned that Cambrexs failure to properly 
+reconcile the unbalanced accounts could affect the reported income statement in Cambrexs 
+financial disclosures. 
+ 
+       19.    Cambrex relied on its internal accounting personnel to reconcile the imbalanced 
+historical entries.  However, much like the monthly reconciliation process, Cambrex did not 
+employ sufficient manpower or devote adequate resources to complete the historical 
+reconciliations.  Again, supervisors were aware that the Finance Department was not performing 
+
+                                                 5 
+---------------------Page 6---------------------
+
+the historical intercompany reconciliation and was not properly staffed to do so.  In fact, there were 
+two substantial periods of time, each lasting several months, when Corporate performed no work to 
+reconcile the historical imbalance.  
+        
+       20.    Each year between 1999 and 2001, Cambrex instituted projects, at the direction of 
+Finance Department supervisors, to reconcile the historical intercompany account imbalance.  
+None of the reconciliation projects, one of which included assistance from an employee outside the 
+Finance Department and an accountant employed by Cambrexs outside auditor, was completed, 
+and many steps set forth in the various plans were either not taken or left incomplete.  Furthermore, 
+Cambrex supervisors never took adequate steps to determine whether the internal accounting 
+personnel had reconciled the intercompany account imbalances or why these tasks had not been 
+completed.  
+        
+       21.    Even when Cambrex identified a serious problem within the intercompany 
+accounts, it took insufficient corrective steps.  For instance, during 2001, Cambrex discovered that 
+a subsidiary had been consistently incorrectly booking payments for fringe benefits.  Upon 
+discovering these errors, Cambrex and its personnel had direct evidence that a certain portion of 
+the reconciliation resulted in an income effect on its P&L, which refuted a long-standing 
+assumption about the nature of the imbalances.  Yet, even after learning of this error, Cambrex did 
+not take adequate measures to complete the historical reconciliation and determine the full extent 
+of any adjustment needed to be made. 
+                                      
+        
+D.          Cambrex Did Not Adequately Address Management Letters From its Auditor. 
+   
+       22.    Cambrex failed to reconcile the historical intercompany imbalance in spite of 
+several annual warnings by its auditor of the consequences of such a failure. 
+ 
+       23.    In early 1999, Cambrexs outside auditor issued a management letter to Cambrex 
+for its audit for the year ended December 31, 1998 (1998 Management Letter).  The 1998 
+Management Letter outlined key issues arising from that years audit and recommended changes.  
+Among the suggestions was a recommendation titled: Reconciliations over Intercompany 
+Transactions Should Be Improved.  
+                                    The recommendation stated the following: 
+ 
+       The Company should improve the adequacy of intercompany balance reconciliations.  This 
+       issue, if not addressed, may result in a misstatement of intercompany accounts and not 
+       allow for proper elimination of such at the consolidated level.  This could result in an 
+       unfavorable impact to earnings in the period discovered. 
+        
+       We recommend that the Company implement procedures to identify and reconcile 
+       intercompany transactions. 
+        
+       24.    In its response to the 1998 Management Letter, Cambrexs management stated that 
+it agreed with its outside auditors observation and recommendation.  It also stated that, [a] draft 
+policy is currently issued which addresses the procedures required to confirm intercompany 
+balances between subsidiaries on a monthly basis.  The 1998 Management Letter, along with 
+
+                                                6 
+---------------------Page 7---------------------
+
+Cambrex managements response, were provided to Cambrexs audit committee. 
+ 
+       25.    After receiving the 1998 Management Letter, neither Cambrex management, nor its 
+audit committee, took the necessary steps to reconcile the historical imbalances or address the 
+failures to reconcile the accounts on a monthly basis.  Furthermore, no steps were taken to 
+determine if Cambrexs accounting department was following the intercompany policy. 
+ 
+       26.    Cambrexs auditor issued another management letter to Cambrex in the beginning 
+of 2000, which covered the 1999 audit.  In this letter, the auditor stated that Cambrex did not have 
+an intercompany policy and did not perform periodic reconciliation of balances.  Cambrexs 
+auditor warned that, if unchecked, the unreconciled accounts could result in an inability to detect a 
+misstatement and an unexpected and unfavorable impact to earnings in the period discovered.  
+Cambrexs auditor recommended that Cambrex implement procedures to reconcile intercompany 
+account balances at least quarterly.  In its response, Cambrex noted that it had initiated a project 
+to bring intercompany accounts into balance and, once finished, they would be reconciled 
+formally as part of the quarterly management reporting process.  Cambrex also claimed to be 
+evaluating the feasibility of implementing an automated balancing feature for intercompany 
+transactions in the [computer] system.  The management letter for the 1999 audit, and Cambrex 
+managements response were provided to Cambrexs audit committee. 
+ 
+       27.    Again, Cambrex did not follow through in its response and, as a result, did not 
+fulfill the steps needed to reconcile the intercompany and group loan accounts.  The project that 
+Cambrex initiated to reconcile the accounts was never completed.  Cambrex also did not begin 
+formally reconciling the account balances on a quarterly basis, and an automated balancing feature 
+was not implemented. 
+ 
+       28.    During the next two years, Cambrexs auditor provided Cambrex with management 
+letters for the 2000 and 2001 audits that were not distributed to the audit committee.  In the 
+management letters, the auditor stated that periodic reconciliations of intercompany balances were 
+still not being performed, and reiterated their recommendation that Cambrex implement procedures 
+to reconcile intercompany balances on a quarterly basis.  It was also noted that the management 
+letter from 2000 (for the 1999 audit) was still applicable.  Cambrex management did not provide a 
+response to these comments. 
+ 
+E.          Effect of Sarbanes-Oxley Act on the Reconciliation Project 
+ 
+       29.    Cambrex did not adequately address its historical reconciliation problems until the 
+end of 2002, after issues were raised concerning the certification of Cambrexs financial 
+disclosures pursuant to Sarbanes-Oxley.  In order to complete the CEO and CFO certifications 
+required by Sarbanes-Oxley, Cambrex required sub-certifications from all of its Corporate and 
+subsidiary Controllers concerning the accuracy of its financial reporting.  When the controller for 
+one of Cambrexs subsidiaries initially refused to sign the sub-certification because of his 
+awareness of the problems concerning the intercompany accounts, this refusal prompted a series of 
+discussions by the Audit Committee.  In December 2002, Cambrex hired a new CFO who engaged 
+additional accounting staff and consultants and mobilized a strong reconciliation effort.  As a 
+
+                                                7 
+---------------------Page 8---------------------
+
+result, Cambrex finally devoted sufficient resources to reconcile all of the historical imbalances. 
+ 
+F. Cambrexs Restatement 
+ 
+       30.    At the close of trading on January 23, 2003, Cambrex issued a press release 
+announcing that it would restate its financial results for the years ended December 31, 1997, 
+through December 31, 2001, after discovering certain discrepancies in its intercompany 
+accounts.  In its annual report for fiscal year 2002 filed on March 20, 2003, Cambrex stated that 
+certain administrative and other charges were not properly expensed in [] prior periods and, as a 
+result, Cambrex had overstated pre-tax income by $6.1 million, or $5.1 million after taxes, for the 
+fiscal years 1997 through 2001.  Net income was overstated by $1.3 million, $2.9 million, $0.2 
+million and $0.8 million in 2001, 2000, 1999, and 1998, respectively, and understated by $0.1 
+million in 1997. 
+ 
+       31.    As a result of its 2003 restatement, Cambrexs pre-tax earnings and net income 
+were affected as follows: 
+        
+                                 Increase (Decrease) in Reported Amounts 
+                                      ($Millions except EPS) 
+                                                   
+                  Year         Pre-tax Earnings       Net Income   EPS
+                    1997-1999               ($0.9)               ($.9)                 ($.03) 
+               2000                         ($3.5)                       ($2.9)               ($.11) 
+                            2001                       ($1.7)                          ($1.3)               ($.05) 
+ 
+The change in pre-tax earnings as a result of the restatement represented a downward revision of 
+.60%, 5.29% and 4.79% for the years 1997-1999, 2000, and 2001, respectively.  Pre-tax earnings 
+for these years, following the restatement, were $152.2, $66.4, and $34.7 (millions) for 1997-
+1999, 2000, and 2001, respectively.  Similarly, the restatement reflected a decrease in net income 
+of .95%, 6.20% and 4.95% for 1997-1999, 2000, and 2001, respectively, corresponding to 
+restated net income for those periods, of $94.2, $46.8, and $25.5 (millions), respectively. 
+ 
+       32.    Cambrexs $6.1 million overstatement consisted of approximately $3.5 million that 
+Cambrex identified as having been erroneously booked as a reduction of operating expenses, 
+which resulted in an increase in the income reported on Cambrexs income statement, and another 
+$2.6 million that it was unable to determine whether to treat as having impacted its income or 
+balance statement.  To be conservative, Cambrex treated the $2.6 million as impacting income. 
+ 
+
+                                                   8 
+---------------------Page 9---------------------
+
+G. Legal Standards 
+ 
+       33.    Section 13(b)(2)(A) of the Exchange Act requires issuers to make and keep books, 
+records, and accounts that, in reasonable detail, accurately and fairly reflect transactions and asset 
+dispositions, and Section 13(b)(2)(B) of the Exchange Act requires issuers to devise and maintain a 
+system of internal controls sufficient to provide reasonable assurances that transactions are 
+recorded as necessary to permit the preparation of financial statements in accordance with 
+generally accepted accounting principles. 
+ 
+       34.    Section 21C of the Exchange Act provides that the Commission may order any 
+person who is or was a cause of a violation of any provision of the Exchange Act, due to an act or 
+omission the person knew or should have known would contribute to the violation, to cease and 
+desist from committing or causing such violation. 
+ 
+H. Conclusions     
+ 
+       35.    Cambrex failed, over at least a five-year period, to correct long standing 
+deficiencies in the handling of its intercompany accounts, and failed to reconcile its intercompany 
+accounts on a monthly or periodic basis.  As a result, Cambrexs books, records and accounts did 
+not, in reasonable detail, accurately and fairly reflect its intercompany accounts or income 
+statement. 
+ 
+       36.    By its failure to implement a system of internal controls sufficient to prevent the 
+intercompany and group loan accounts from becoming imbalanced, and its failure, on several 
+occasions, to rectify the intercompany and group loan imbalance problem after becoming aware of 
+it, Cambrex failed to implement internal accounting controls relating to its intercompany and group 
+loan accounts which were sufficient to provide reasonable assurances that these accounts were 
+accurately stated in accordance with generally accepted accounting principles. 
+ 
+       37.    As a result of the conduct described above, Cambrex violated Section 13(b)(2)(A) 
+of the Exchange Act, which requires reporting companies to make and keep books, records, and 
+accounts which, in reasonable detail, accurately and fairly reflect their transactions and dispositions 
+of their assets. 
+ 
+       38.    Cambrex, as a result of the conduct described above, also violated 
+Section 13(b)(2)(B) which requires all reporting companies to devise and maintain a system of 
+internal accounting controls sufficient to provide reasonable assurances that transactions are 
+recorded as necessary to permit preparation of financial statements in accordance with generally 
+accepted accounting principles. 
+ 
+                                 Cambrexs Remedial Efforts 
+ 
+       39.    In determining to accept the Offer, the Commission considered remedial acts 
+promptly undertaken by Respondent and cooperation afforded the Commission staff. 
+         
+
+                                                 9 
+---------------------Page 10---------------------
+
+                                                 
+ 
+                                         Undertakings 
+               
+              Cambrex has undertaken to: 
+ 
+       40.    Reconcile account balances between and among Cambrex and any of its related 
+entities (hereinafter, the intercompany accounts) on a monthly, quarterly and annual basis;  
+ 
+       41.    Institute formal, written policies and procedures for reconciling the intercompany 
+accounts on a monthly, quarterly and annual basis, including, but not limited to, the 
+implementation of internal controls adopted to ensure that such reconciliation takes place; 
+ 
+       42.    For at least two (2) years from the date of the Order, Cambrex shall designate an 
+experienced accountant within its Finance Department to function as the Intercompany and Group 
+Loan Review Accountant.  This individual will be responsible for ensuring compliance with 
+paragraphs 40-41 above; 
+ 
+       43.    For at least two (2) years from the date of the Order, the Cambrex Controller (or 
+individual with equivalent authority) will certify, at the end of each quarterly reporting period, that: 
+(i) he or she has supervised the Intercompany and Group Loan Accountant; and (ii) Cambrex has 
+complied with paragraphs 40-42 above;  
+ 
+       44.    For at least two (2) years from the date of the Order, Cambrex will employ its 
+outside auditor to conduct an annual review of its intercompany accounts, the reconciliation of 
+these accounts and the compliance with the undertakings in this settlement.  The company shall 
+cooperate fully with its outside auditor and shall provide the auditor with access to its files, books, 
+records, and personnel as reasonably requested for the review.  The results of the review will be 
+presented, both in writing and orally, to both the Chief Financial Officer and the Chief Executive 
+Officer no more than 30 days after the conclusion of the annual audit and in writing to the 
+Commissions staff no more than 30 days after the conclusion of the annual audit; 
+ 
+       45.    Maintain and preserve the certifications, pursuant to paragraph 43, for a period of 
+ten (10) years from the date of the Order; 
+ 
+       46.    Provide a written report, within one hundred twenty (120) calendar days of the date 
+of the Order to the Commissions staff that details Cambrexs implementation of the undertakings 
+articulated in paragraphs 40-45; and 
+ 
+       47.    Cambrex shall send all reports, notices and other written communications with the 
+Commissions staff in connection with this Order to David Rosenfeld, Associate Regional 
+Director, United States Securities and Exchange Commission, 3 World Fi  nancial Center, Room 
+4300, New York, New York 10281. 
+ 
+ 
+
+                                                10 
+---------------------Page 11---------------------
+
+                                                                          IV. 
+ 
+              In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondent Cambrexs Offer. 
+ 
+              Accordingly, it is hereby ORDERED that: 
+ 
+              A.          Respondent Cambrex cease and desist from committing or causing any violations 
+and any future violations of Sections 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act.  
+ 
+              B.          Respondent shall comply with the undertakings in Section III above. 
+ 
+   
+ 
+ By the Commission. 
+ 
+ 
+ 
+       Nancy M. Morris 
+       Secretary 
+ 
+
+                                                                            11 

@@ -1,0 +1,595 @@
+---------------------Page 1---------------------
+
+ 
+ 
+                          UNITED STATES OF AMERICA 
+                                      Before the 
+                   SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES ACT OF 1933 
+Release No. 9646 / September 11, 2014 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 73076 / September 11, 2014 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3582 / September 11, 2014 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-16098 
+ 
+                                             ORDER INSTITUTING CEASE-AND-DESIST 
+In the Matter of                            PROCEEDINGS PURSUANT TO SECTION 
+                                            8A OF THE SECURITIES ACT OF 1933 AND 
+      Wilmington Trust Corporation,         SECTION 21C OF THE SECURITIES 
+                                            EXCHANGE ACT OF 1934, MAKING 
+Respondent.                                 FINDINGS, AND IMPOSING REMEDIAL 
+                                             SANCTIONS AND A CEASE-AND-DESIST 
+                                             ORDER  
+ 
+ 
+                                               
+ 
+                                          I. 
+ 
+      The Securities and Exchange Commission (Commission) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act 
+of 1933 (Securities Act) and Section 21C of the Securities Exchange Act of 1934 (Exchange 
+Act) against Wilmington Trust Corporation (Respondent).   
+                                           
+                                         II. 
+ 
+      In anticipation of the institution of these proceedings, Respondent has submitted an Offer 
+of Settlement (the Offer) which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the findings 
+herein, except as to the Commissions jurisdiction over it and the subject matter of these 
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of 
+---------------------Page 2---------------------
+
+the Securities Exchange Act of 1934, Making Findings, and Imposing Remedial Sanctions and a 
+Cease-and-Desist Order (Order), as set forth below.   
+                                                 
+                                              III. 
+ 
+       On the basis of this Order and Respondents Offer, the Commission finds 1
+                                                                                 that 
+ 
+                                          SUMMARY 
+ 
+       These proceedings arise out of false and misleading disclosures by Wilmington Trust 
+Corporation (Wilmington Trust or the Bank) concerning its accruing loans past due 90 days or 
+more over multiple quarters during 2009 and 2010, its nonaccruing loans in the third quarter of 
+2009, and its reserves for loan losses in the third and fourth quarters of 2009.  Wilmington Trust 
+was the public holding company for Wilmington Trust Company, a retail and commercial bank 
+headquartered in Wilmington, Delaware.  By mid-2009, many of the construction projects 
+underlying the Banks loans stalled or failed to sell or lease when completed.  At the same time, an 
+increasing number of the Banks loans to these projects matured, i.e., the loans term expired 
+without being extended,  modified or paid off, such that the principal balance of the loan was 
+contractually due.   
+        
+       The Bank had deficient  underwriting and loan monitoring controls and failed, for these and 
+other reasons, to take appropriate action on many of its matured loans for protracted periods of 
+time.  As a result, the Bank had a large volume of loans that were past due, for reasons of maturity, 
+90 days or more.  Generally Accepted Accounting Principles (GAAP)  requires that banks 
+disclose loans that are past due 90 days or more and still accruing,2
+                                                                  and Regulation S-K (through 
+SEC Industry Guide 3) further indicates that banks should disclose their accruing loans which are 
+contractually past due 90 days or more as to principal or interest payments.3 
+                                                                            However, rather than 
+disclose as past due loans that were matured (but purportedly current for interest), the Bank 
+negligently and routinely omitted such loans from its disclosures of past due loans, based on 
+unwritten, informal criteria that were loosely applied and liberally adjusted.   
+        
+        
+ 
+
+                                                 
+1
+       The findings herein are made pursuant to Respondents Offer of Settlement and are not 
+binding on any other person or entity in this or any other proceeding.  
+ 
+2
+       See Accounting Standards Codification (ASC) 310-10-50-7(b).  References to GAAP in 
+this Order are to standards in effect at the time of the misconduct.  In July 2009, the Financial 
+Accounting Standards Board promulgated its Accounting Standards Codification, effective for 
+fiscal quarters ending after September 15, 2009, which changed the applicable citation standards 
+but not the substantive GAAP requirements. 
+  
+3
+       17 C.F.R. § 229.303; SEC Industry Guide 3, Statistical Disclosure by Bank Holding 
+Companies, 57 F.R. 36442.       
+                                                2  
+---------------------Page 3---------------------
+
+       As a result, the Bank omitted almost $339 million in matured loans past due 90 days or 
+more from its disclosures in its filings with the Commission for the third quarter of 2009.  The 
+Bank further omitted over $330 million in matured loans past due 90 days or more from its 
+disclosures in its filings for the year ended 2009, including its Form 10-K.  The Bank then 
+incorporated its false and misleading Form 10-K for 2009 by reference into the offering materials 
+for a February 2010 public offering in which the Bank sold $287 million of its common stock.   
+        
+       At the end of 2009, amidst increasing regulatory scrutiny, the Bank decided to address its 
+misreporting of past due loans beginning in 2010; however, the Bank negligently implemented 
+various practices that had the effect of avoiding full disclosure of the problems with matured loans 
+in its portfolio.  These practices included an extension push to extend the maturity dates of 
+matured  and maturing loans.  This resulted in multiple short-term extensions for a high volume of 
+loans even when the Bank did not have updated financial and collateral information for the loans, 
+had not performed appropriate analysis for re -underwriting, or was engaged in difficult 
+negotiations with borrowers concerning their matured loans.  Wilmington Trust also failed to 
+disclose in its Form 10-K, as required by Regulation S-K, that its matured, maturing and short-term 
+extended commercial loan portfolio represented a material, but unquantified, risk to the stability of 
+the Bank.   
+        
+       Despite modifications to its past due reporting practices in the first and second quarters of 
+2010, the Bank negligently continued to omit significant volumes of matured past due loans from 
+its disclosures, repeated its false disclosures from prior periods, and made misleading supplemental 
+disclosures concerning the Banks past due reporting and matured loan extension practices. 
+          
+       Finally, in its Form 10-Q for the third quarter of 2009 and its Form10-K for 2009, the Bank 
+also negligently failed, as required by GAAP, to properly disclose significant increases in the 
+Banks nonaccruing loans according to its policy, and to properly account for updated collateral 
+values and significant declines in commercial loan risk ratings in its loan loss provisions and 
+reserves.   
+ 
+                                     RESPONDENT 
+ 
+       1.     Wilmington Trust was, during the relevant period, a bank holding company based 
+in Wilmington, Delaware and  incorporated under the laws of the State of Delaware.  Its securities 
+were registered with the Commission pursuant to Section 12(b) of the Exchange Act, and its 
+common stock traded on the New York Stock Exchange under the symbol WL.  On May 16, 
+2011, Wilmington Trust was acquired by M&T Bank Corporation (M&T) in a stock-for-stock 
+transaction, and Wilmington Trusts securities were removed from registration.  Wilmington Trust 
+survives as a subsidiary of M&T. 
+        
+                               OTHER RELEVANT ENTITY 
+        
+       2.     M&T is a bank holding company headquartered in Buffalo, New York.  On May 
+16, 2011, M&T acquired Wilmington Trust in a stock-for-stock transaction.  M&T is the 
+
+                                               3  
+---------------------Page 4---------------------
+
+successor-in-interest to Wilmington Trust.  M&T did not commit  any of the misconduct that is the 
+subject of this Order, all of which preceded M&Ts acquisition of Wilmington Trust.   
+ 
+                                            FACTS 
+ 
+                              Past Due Loan Disclosure Guidelines  
+ 
+       3.     Under GAAP, banks are required to disclose their past due loans.  Accounting 
+Standards Codification (ASC) Topic 310-10-50 stipulates certain disclosure requirements for 
+loans.  Specifically, ASC 310-10-50-7(b) requires disclosure of a banks recorded investment in 
+loans past due 90 days or more and still accruing.4
+                                                     
+        
+       4.     Regulation S-K of the Securities Act, Item 303(a), requires the Management 
+Discussion and Analysis (MD&A) sections of an issuers annual   filings to disclose any 
+information that the registrant believes to be necessary to an understanding of its financial 
+condition [or] changes in its financial condition.  Item 303(b) requires quarterly filings to discuss 
+material changes in information described in Item 303(a).5
+                                                           Instruction 13 to Item 303(a) directs 
+bank holding companies to the information called for by SEC Industry Guide 3 (Guide 3), which 
+is a policy of the Division of Corporation Finance; the Commission has not adopted the Guide as a 
+rule.6
+       Among other statistical disclosures, Item III.C.1 of Guide 3 specifies disclosure of accruing 
+loans which are contractually past due 90 days or more as to principal or interest payments. 
+ 
+                 Background to the Banks Past Due Loans Disclosure Violations  
+        
+       5.     From at least 2006 through the third quarter of 2009, the Bank routinely removed, 
+or, using the Banks terminology, waived loans from certain internal reports and from its public 
+disclosures of accruing loans past due 90 days or more if the loan was matured, current for interest 
+and either 1) a loan managed by the Banks Loan Recovery (i.e., workout) unit; or 2) a loan that 
+the Bank claimed its loan officers were working on extending.  The matured workout loans were 
+waived automatically, with no further requirements; for a non-workout loan, the loan officer was 
+asked summarily to confirm that he or she was working on an extension and the loan was then 
+waived.  No documents or actual progress toward an extension were required and, in practice, loan 
+officers could simply note that the loan was matured, current for interest and should be waived.  
+The Bank did not have written policies or procedures governing its past due reporting process or its 
+waiver practices. 
+        
+       6.     On the Banks internal Delinquency Report, showing past due loans, the Banks 
+credit department indicated past due loans that would be waived.  The Banks finance department 
+                                                 
+4
+       This standard was preceded by AICPA SOP 01-06 ¶13(g), which is substantively 
+identical. 
+ 
+5
+       17 C.F.R. § 229.303. 
+ 
+6
+       SEC Industry Guide 3, Statistical Disclosure by Bank Holding Companies                       , 57 F.R. 
+36442.   
+                                               4  
+---------------------Page 5---------------------
+
+then removed the indicated loans from a second internal report, the Past Due and Nonperforming 
+Loans Report.  This report was then incorporated in the Banks accruing loans past due 90 days 
+or more table disclosure in its SEC filings.  The summary past due loan amount also was 
+disclosed in the notes to the financial statements in the Banks Form 10-K annual reports.     
+ 
+       7.     Equities and credit ratings analysts viewed loans 90 days or more past due as 
+nonperforming, even if the Bank maintained them as unimpaired loans.  High levels of past due 
+loans were interpreted by the market as a signal of probable increased credit deterioration.   
+        
+       8.     As early as August 2007, the Bank recognized  that it had a mounting problem with 
+matured loans that it needed to resolve.  As the real estate market softened, the Bank was 
+concerned by the growing volume of waived matured loans and about potential scrutiny from 
+auditors, examiners and others concerning the waivers.  However, even where loan officers had not 
+taken meaningful steps toward extension, the Bank still waived such loans and omitted them from 
+its public reporting.   
+        
+       9.     As the real estate market continued to decline, more loans began to mature without 
+repayment or completion of the underlying projects.  Updated appraisals and financial statements 
+required for re-underwritten extensions were also revealing significant deterioration.  Borrowers 
+balked at providing updated information and at the more onerous terms required by re-underwritten 
+extensions.  Some loan officers, particularly those managing the Banks Delaware Commercial 
+Real Estate (CRE) portfolio, were reluctant to pursue the required documents to support re-
+underwritten extensions because of concerns that the underwriting analysis and new terms would 
+lead to borrower nonperformance and loan downgrades.  Loan officers voiced their concerns about 
+this, and their related inability to properly underwrite loan extensions.  The Bank was aware that 
+the volume of matured loans it claimed was in the process of extension rose significantly through 
+2008 and into 2009. 
+        
+       10.    The Bank purported to comply with GAAP and     the disclosures required by 
+Regulation S-K and called for by Industry Guide 3, but failed to do so accurately and completely.  
+In all relevant filings, the Bank included in its MD&A section concerning credit risk a table 
+disclosing its purported volume of accruing loans past due 90 days or more and supplemental 
+disclosures describing them.  It also disclosed the purported volume of accruing past due loans in 
+the notes to the financial statements in its Form 10-Ks.  In each period the Bank also claimed in its 
+filings that it mitigated credit risk by employing rigorous loan underwriting standards, 
+disciplined monitoring of its loan portfolio, and regular review [of] all past due loans.      
+        
+              Understated Past Due Loans Disclosures  in the Third Quarter of 2009  
+ 
+       11.    On or about October 7, 2009, the Bank waived $338.9 million in matured, interest 
+current loan balances that were accruing but past due 90 days or more from the Banks 
+Delinquency Report, and subsequently removed the  waived loans from the Banks Past Due and 
+Nonperforming Loans Report.  On October 23, 2009, the Bank released its earnings and filed its 
+Form 8-K, which incorporated the past due numbers from the  Past Due and Nonperforming Loans 
+
+                                               5  
+---------------------Page 6---------------------
+
+Report, omitted the $338.9 million in matured loans, and disclosed only $38.7 million in accruing 
+loans past due 90 days or more. 
+        
+       12.    During the third quarter of 2009 and prior to the filing of the Banks Form 10-Q, 
+certain senior managers voiced their concerns to senior officers about the growing number of 
+matured loans that the Bank was claiming were in the process of extension but had not, in 
+reality, been extended for protracted periods of time.  Certain Bank personnel were concerned 
+about the possibility of scrutiny from the Banks auditors and bank examiners relating to its 
+treatment of matured loans.   
+        
+       13.    Concerns around matured and waived loans became heightened in late October 
+2009, after the Bank entered into an agreement with the Federal Reserve Bank of Philadelphia 
+(FRB) that required Bank management to provide enhanced reporting to the FRB    of  loans past 
+due as to principal or interest more than 90 days.  In response, prior to the filing of the third 
+quarter Form 10-Q, the Bank initiated several steps, discussed below, to begin phasing out its 
+waiving of matured loans, and to attempt to extend some of these loans by year end.   
+ 
+       14.    Nevertheless, the Bank filed its Form 10-Q on November 9, 2009, again disclosing 
+only the $38.7 million in accruing past due loans and improperly omitting the $338.9 million that 
+had been waived.  The supplemental disclosures did not provide any information about the Banks 
+matured or waived loans.   
+ 
+ Understated Past Due Loans Disclosures  and Extension Push in the Fourth Quarter and Year End 
+                                             2009  
+        
+       15.    In the fourth quarter, the Bank decided to continue to waive matured loans if an 
+extension was internally approved.  The new criteria purported not to allow a non-workout loan 
+to be waived where an extension was just being worked on, as had sufficed in earlier quarters.  
+Accordingly, a matured past due loan would be waived from the noted internal reports and omitted 
+from public filings if the Bank had approved a lending officers proposal to extend the loan, 
+regardless of whether the loan had actually been extended by the borrower.  The Bank continued 
+the automatic waiver of matured, current for interest workout loans.   
+        
+       16.    The Bank initiated an abbreviated extension process to facilitate the internal 
+approval of short-term extensions of matured loans by year end.  In combination with the 
+amended waiver  practice, this allowed loans for which the Bank lacked updated appraisals or 
+financial documentation or was still negotiating terms with the borrower either to be extended 
+temporarily or internally approved and waived so that they would not be reported as past due.  
+The Bank was aware that  executing long-term extensions would be difficult particularly for its 
+Delaware CRE loans, because poor market conditions meant the Bank needed borrowers to pay 
+down principal or increased interest rates as a part of long-term loan modifications.  Certain of the 
+Banks senior officers and managers were informed that these borrowers were in distressed 
+situations that could not be quickly remedied, and they recognized that the failure to accomplish 
+long-term modifications could result in the Bank and its shareholders get[ting] the crap knocked 
+out of us by analysts and regulators.  
+
+                                               6  
+---------------------Page 7---------------------
+
+        
+       17.    In early January 2010, the Bank prepared a Delinquency Report indicating that 
+$330.2 million in matured loans 90 days or more past due would be waived; of this amount, $177.3 
+million was more than 180 days past due.  Accordingly, prior to releasing its earnings, the Bank 
+was aware that the $330.2 million in waived past due loans would be omitted from the Banks 
+public disclosures.  A Bank manager raised concerns that the waived loans would be a disclosure 
+issue for the Banks public reporting.  The Bank  knew that many of the waived loans would 
+require significant structural modifications if they were to be extended, and that the waived loans 
+required thorough analysis and new maturity dates commensurate with the level of risk posed  by 
+the loan. of the Bank also knew that it did not expect to be complete this process until the second 
+quarter of 2010.  The Bank was aware that it had an additional $432 million in loans that would 
+mature in the first quarter of 2010 that would also require the same process if they were to be 
+extended. 
+        
+       18.    Nevertheless, the Bank released its earnings and Form 8-K on January 29, 2010, 
+disclosing only $30.6 million in accruing loans past due 90 days or more and omitting the $330.2 
+million in matured past due loans.  The Banks Form 10-K for 2009, which was filed on February 
+22, 2010, again disclosed only $30.6 million accruing loans past due 90 days or more in both the 
+footnotes to the financial statements and in the MD&A.  Neither the e arnings release nor the Form 
+10-K disclosed the Banks problems with its matured, maturing and temporarily extended loan 
+portfolio.   
+        
+       19.    In mid-January 2010, shortly before releasing its earnings, the Bank decided to 
+attempt to raise additional capital.  On February 22, 2010, the Bank announced its common stock 
+offering; the false and misleading Form 10-K was incorporated by reference in the final Prospectus 
+Supplement, which was filed on February 25, 2010.  In the offering, which closed on March 2, 
+2010, the Bank sold $287 million in common stock, netting $274 million after costs and 
+commissions. 
+ 
+     Understated Past Due Loans Disclosures and Extension Push in the First Quarter of 2010  
+        
+       20.    In the first quarter of 2010, the Bank continued to phase out the waiver practice by 
+determining that an internal approval of a loan extension would no longer suffice to waive 
+matured loans from certain of the Banks internal reports and its public past due reporting; rather, 
+in order to be waived, a valid extension document had to be signed by the Borrower and received 
+by the Bank.  However, the Bank decided that matured workout loans would still be waived 
+automatically and, as a result, excluded from the Banks public disclosures of accruing loans past 
+due 90 days or more.   
+        
+       21.    The Bank  had uncovered significant issues in ongoing reviews of matured and 
+maturing loans that were resulting in the Banks continued inability to fully analyze and 
+appropriately re-underwrite those loans.  Bank staff recommended that such loans be eligible for 
+yet additional short-term extensions on an expedited basis without full underwriting analysis.   
+        
+
+                                               7  
+---------------------Page 8---------------------
+
+       22.    As described above, a large number of Delaware CRE loans had been waived from 
+past due reporting at the end of the fourth quarter of 2009 on the basis that the Bank had internally 
+approved extension proposals; however, many of these loans were not actually extended  i.e., 
+there was no extension agreement executed between the Bank and the borrower  for most of the 
+first quarter.  In the last two days of the first quarter of 2010, the Bank internally approved new 
+extension proposals for at least 117 of these loans, because the Bank needed yet more time to do 
+appropriate analysis and gather documentation to re-underwrite the loans.  The majority of these 
+extension proposals contemplated short-term extensions of loans that had been waived from past 
+due reporting in multiple prior quarters; some of the loans had been matured for over a year.    
+        
+       23.    Notwithstanding the Banks expedited extension practices,  at quarter end, a 
+significant volume of matured loans remained .  Despite its purported use of stricter waiver criteria, 
+the Bank   subsequently waived at least $48.1 million of these matured loans past due 90 days or 
+more from certain of its internal reports.  The Banks press release reporting earnings and Form 8-
+K (filed on April 23, 2010) and its Form 10-Q (filed on May 10, 2010) both omitted the $48.1 
+million in waived loans and disclosed only $39.7 million in accruing loans past due 90 days or 
+more.   
+        
+       24.    The Banks public filings for the first quarter also presented the materially 
+understated accruing past due loan amounts previously reported for the fourth quarter of 2009 (and 
+other periods) for comparison, and did not disclose that the current periods past due loans were 
+based on materially different criteria than in prior periods.  The earnings press release and Form 
+10-Q noted an increase in past due loans  and  stated that the increase was due to matured loans for 
+which underwriting extensions were in progress.  However, there was no disclosure to inform 
+investors of the Banks significant, ongoing problems with its matured and short-term extended 
+loans.  This information would have been important to investors to know, because without it they 
+could not understand the true condition of the Banks loan portfolio.   
+        
+              Understated Past Due Loans Disclosures  in the Second Quarter of 2010  
+        
+       25.    The Bank continued to adjust its criteria for waiving loans and, after the second 
+quarter of 2010, decided that matured, interest current workout loans should no longer be waived.  
+In effect, by this point, the Bank had changed its practices such that all matured loans that were 
+actually past due at the end of the quarter were to be reported as past due.   
+        
+       26.    Before the Bank filed its current and quarterly reports for the second quarter of 
+2010, the Bank   was aware that the market was interested in banks loan extension and restructuring 
+practices, including the practice of extending loans multiple times.  The Bank was aware that a 
+large volume of both its matured loans that were reported as past due as well as loans that were 
+current had not been fully analyzed or appropriately re-underwritten, but had been waived or 
+extended multiple times.     
+        
+       27.    Nevertheless, the Banks disclosures of accruing loans past due 90 days or more in 
+its press release reporting its earnings and its Form 8-K (filed on July 23, 2010) and again in its 
+Form 10-Q (filed on August 5, 2010) , omitted  $24 million in matured past due loans that had 
+
+                                                8  
+---------------------Page 9---------------------
+
+extensions that were executed after the close of the quarter.  The filings also presented the 
+materially understated accruing past due loan amounts previously reported for the fourth quarter of 
+2009 (and other periods) for comparison.  There were no disclosures about the high volumes of 
+multiple extensions without re-underwriting or waivers the Bank had granted.    
+        
+       28.    Although the Bank was aware of the effect of its changed waiver practices (                                               i.e., the 
+phasing out of matured loan waivers) on the past due loan disclosures over time, the Bank did not 
+disclose the changes in its practices and made no effort to analyze the impact the changed practices 
+would have had in prior periods.  In addition, during the second quarter conference call, the Banks 
+statements concerning its past due   reporting were misleading and the Bank also omitted 
+information necessary to make the statements not misleading.  The  Banks  statements and 
+omissions, considered together, were materially misleading because they obscured the true 
+condition of the Banks credit portfolio.   
+        
+     Understated Nonaccruing Loans Disclosures   in Form 10-Q for the Third Quarter of 2009  
+ 
+       29.    According to the Banks nonaccrual policy, loans that were rated substandard-
+accruing and also had interest payments being paid by an interest reserve or a second loan to the 
+same borrower were to be classified as nonaccruing (and therefore impaired according to the 
+Banks application of ASC 310).  In early October 2009, after the end of the third quarter, a senior 
+Bank manager responsible for nonaccrual recommendations identified three construction projects 
+that had loans that fit these criteria as of the third quarter of 2009.  The three loans had total 
+outstanding balances of $24.1 million.  The manager concluded that the loans for all of these 
+projects required nonaccrual classification, based on the Banks nonaccrual policy and conditions 
+that existed as of the third quarter of 2009.   
+        
+       30.    The manager informed other senior Bank officers that these loans required 
+nonaccrual (and thus, impaired) classification in late October 2009, and informed them that her 
+belated identification of these loans as nonaccruing was due to the Banks ineffective process for 
+tracking interest reserve loans.  The Bank approved the managers nonaccrual recommendations, 
+which totaled $24.1 million out of $36 million of nonaccrual classifications approved. 
+        
+       31.    The GAAP standard governing subsequent events, ASC 855-     10-25-1, states that 
+An entity shall recognize in the financial statements the effects of all subsequent events that 
+provide additional evidence about conditions that existed at the date of the balance sheet, including 
+the estimates inherent in the process of preparing financial statements.  The conditions underlying 
+the nonaccrual designations  the loans substandard ratings, and the fact that their interest was 
+being paid via interest reserve  existed as of the date of the third quarter of 2009 balance sheet.  
+Therefore, in accordance with GAAP, the nonaccruals should have been recognized in the third 
+quarter financial statements.  
+        
+       32.    On November 9, 2009, the Bank filed its Form 10-Q for the third quarter.  Although 
+the Bank stated in its Form 10-Q that it had evaluated subsequent events through the date of the 
+filing, the Bank did not account for the three loans as nonaccruing in its Form 10-Q.  The Bank 
+reported a total of $365.9 million in nonaccrual loans.  The additional $24.1 million in nonaccruing 
+
+                                                9  
+---------------------Page 10---------------------
+
+loans would have represented a material 6.6% increase in the total nonaccruals for the quarter.  
+Properly including this amount of nonaccruing loans would have caused the quarter over quarter 
+difference in reported nonaccrual loans to increase materially, fro m $67.1 million to $91.2 million, 
+or a difference of 35.9%.   
+        
+    Understated Loan Loss Provision and Reserves in Form 10-Q for the Third Quarter of  2009  
+ 
+       33.    The Banks Form 10-Q filed on November 9, 2009 improperly failed to incorporate 
+the information from four newly-obtained appraisals into its calculation of the Banks loan loss 
+provision and reserves.  Significantly prior to the filing date, the Banks appraisal department 
+received appraisals that reflected material collateral value declines for impaired loans related to 
+four construction projects, including two described in Paragraph 29 above. 
+ 
+       34.    However, Wilmington Trusts deficient internal controls prevented timely 
+consideration of the effect of the updated collateral values on the Banks reserve.  Credit Risk 
+Management staff tasked with allowance calculations did not obtain the updated appraisals in a 
+timely fashion and there were no effective procedures to assure that Credit Risk Management staff 
+were informed of updated collateral value information that was received after the end of the 
+quarter, but prior to filing the periodic SEC reports.  Nor did the Banks disclosure controls assure 
+that updated collateral values that Credit Risk Management staff received prior to period public 
+filings were appropriately considered for subsequent events reporting according to GAAP.   
+        
+       35.    Taken together, the updated appraisals for impaired loans received prior to the 
+filing of the third quarter 2009 Form 10-Q required a supplemental provision to the reserve of 
+$12.8 million.  This was a material understatement, because the additional required provision 
+would have increased the recorded $38.7 in provision to $51.5 million, or 33%, and would have 
+increased the $16.6 million loss before income taxes and noncontrolling interest to $29.4 million, 
+or 77%. 
+ 
+ Understated Loan Loss Provision and Reserves in the Fourth Quarter 2009 Earnings Release and 
+                                         10-K for 2009  
+        
+       36.    In January 2010, before the Bank issued its fourth quarter 2009 earnings press 
+release and filed its Form 8-K, the Banks ongoing review of its Delaware CRE projects revealed 
+deterioration trajectories in ten highly significant borrower relationships.  A senior Bank manager 
+concluded, and informed certain senior officers, that downgrades were required for the ten 
+relationships, which would result in an overall provision increment  [of] $10.5MM.  The  loan 
+reviews also resulted in the identification of 20 other loans that required downgrades which would 
+have required an additional provision of $1.6 million.  The Bank was aware that these downgrades 
+were not reflected in the loan loss provision and reserves that previously had been calculated for 
+the fourth quarter.   
+        
+       37.    The Bank represented to its Board of Directors that the loan reviews that resulted in 
+the downgrades were rigorous and complete with respect to the relevant loans.  However, a senior 
+Bank officer directed that the downgrades not be formalized, and therefore neither the downgrades 
+
+                                               10   
+---------------------Page 11---------------------
+
+nor the increased reserves described in Paragraph 36 above were incorporated into the Banks 
+quarterly earnings release and Form 8-K or its Form 10-K, which were filed on January 29, 2010 
+and February 22, 2010, respectively.   
+        
+       38.    The total provision supplement associated with the downgra des was $12.1 million.  
+In both of its SEC filings, the Bank recognized a provision of $82.8 million for the fourth quarter; 
+the additional $12.1 million in provision would have increased it materially, to $94.9 million, or 
+by14.6%.  The Bank recorded a loss before income taxes and noncontrolling interest of $37.3 
+million; the increased provision would have deepened the loss by 30%.   
+        
+                                        VIOLATIONS 
+   
+       As a result of the conduct described above, Wilmington Trust violated: 
+        
+       a.  Section 17(a)(2) of the Securities Act, which prohibits, directly or indirectly, in the 
+           offer or sale of securities, obtaining money or property by means of any untrue 
+           statement of a material fact or any omission to state a material fact necessary in order 
+           to make the statements made, in light of the circumstances under which they were 
+           made, not misleading;  
+        
+       b.  Section 17(a)(3) of the Securities Act, which prohibits any person from engaging in 
+           any transaction, practice, or course of business which opera tes or would operate as a 
+           fraud or deceit upon the purchaser in the offer or sale of securities; 
+        
+       c.  Exchange Act Section 13(a) and Rules 13a-1, 13a-11, 13a-13 and 12b-   20 thereunder , 
+           which require that every issuer of a security registered pursuant to Exchange Act 
+           Section 12 file with the Commission information, documents and annual and 
+           quarterly reports as the Commission may require and mandate that periodic reports 
+           contain such further information as may be necessary to make the required statements 
+           not misleading; 
+        
+       d.  Exchange Act Section 13(b)(2)(A), which requires reporting companies to make and 
+           keep books, records and accounts which, in reasonable detail, accurately and fairly 
+           reflect their transactions a nd dispositions of their assets; and 
+        
+       e.  Exchange Act Section 13(b)(2)(B), which requires all reporting companies to devise 
+           and maintain a system of internal accounting controls sufficient to provide reasonable 
+           assurances that transactions are recorded as necessary to permit preparation of 
+           financial statements in accordance with GAAP.   
+ 
+                                              IV. 
+                                                 
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondent Wilmington Trusts Offer. 
+ 
+
+                                               11   
+---------------------Page 12---------------------
+
+       Accordingly, it is hereby ORDERED that: 
+ 
+       A.     Pursuant to Section 8A of the Securities Act and Section 21C of the Exchange Act, 
+Respondent Wilmington Trust shall cease and desist from committing or causing any  violations 
+and any future violations of Sections 17(a)(2) and 17(a)(3) of the Securities Act and Sections 
+13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules  12b-20, 13a-1, 13a-11 and 
+13a-13 thereunder. 
+        
+       B.     Respondent shall, within 10 days of the entry of this Order, pay disgorgement of 
+$16,000,000.00 and prejudgment interest of $2,545,896.16, for a total of $18,545,896.16, to the 
+Securities and Exchange Commission.  If timely payment is not made, additional interest shall 
+accrue pursuant to SEC Rule of Practice 600.  Payment must be made in one of the following 
+ways: 
+ 
+              (1)    Respondent may transmit payment electronically to the Commission, which 
+                     will provide detailed ACH transfer/Fedwire instructions upon request;  
+               
+              (2)    Respondent may make direct payment from a bank account via Pay.gov 
+                     through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or  
+               
+              (3)    Respondent may pay by certified check, bank cashiers check, or United 
+                     States postal money order, made payable to the Securities and Exchange 
+                     Commission and hand-delivered or mailed to:  
+ 
+                             Enterprise Services Center 
+                             Accounts Receivable Branch 
+                             HQ Bldg., Room 181, AMZ-341 
+                             6500 South MacArthur Boulevard 
+                             Oklahoma City, OK 73169 
+ 
+       Payments by check or money order must be accompanied by a cover letter identifying 
+Wilmington Trust as a Respondent in these proceedings, and the file number of these proceedings; 
+a copy of the cover letter and check or money order must be sent to Michael J. Osnato, Jr., Chief, 
+Complex Financial Instruments Unit, Division of Enforcement, Securities and Exchange 
+Commission, Brookfield Place, 200 Vesey Street, Suite 400, NY, NY 10281.    
+ 
+                   
+       By the Commission. 
+ 
+ 
+ 
+                                                  Jill M. Peterson 
+                                                  Assistant Secretary 
+ 
+
+                                              12   

@@ -1,0 +1,172 @@
+Securities Exchange Act of 1934 Release No.
+42781 / May 15,2000
+Home | Previous Page
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+Securities Exchange Act of 1934
+Release No.
+42781 / May 15,2000
+Accounting and Auditing Enforcement
+Release No.
+1257 / May 15, 2000
+Administrative Proceeding
+File No.
+3-10203
+______________________________
+)
+In the Matter of
+)
+ORDER INSTITUTING PUBLIC
+)
+ADMINISTRATIVE PROCEEDINGS
+AMERICA ONLINE, INC.,
+)
+PURSUANT TO SECTION 21C OF THE
+)
+SECURITIES EXCHANGE ACT OF 1934,
+Respondent.
+)
+MAKING FINDINGS AND IMPOSING
+)
+A CEASE-AND-DESIST ORDER
+______________________________ )
+I.
+The Commission deems it appropriate to institute proceedings pursuant to Section 21C of the Securities Exchange Act of 1934 ("Exchange Act") to determine whether America Online, Inc. ("AOL") violated Sections 13(a) and 13(b)(2)(A) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder.
+AOL has submitted an Offer of Settlement, which the Commission has determined to accept.
+Solely for the purpose of this proceeding, and any other proceeding brought by or on behalf of the Commission, or to which the Commission is a party, and prior to a hearing pursuant to the Commission's Rules of Practice, 17 C.F.R. 201.100, et seq., and without admitting or denying the findings set forth herein, except as to the Commission's jurisdiction over it and the subject matter of this proceeding, which AOL admits, AOL consents to the entry of this Order making findings and directing AOL to cease and desist (the "Order").
+II.
+Based on the Order and the Offer of Settlement of AOL, the Commission finds:
+A. Respondent1
+America Online, Inc., is a Delaware corporation with its principal place of business in Dulles, Virginia.
+AOL provides Internet access to millions of subscribers in the U.S. and internationally.
+During fiscal year 1996, AOL had nearly $1.1 billion in revenues and at June 30, 1996, had approximately 6.2 million subscribers worldwide.
+The common stock of AOL is registered with the Commission pursuant to Section 12(b) of the Exchange Act and is listed on the New York Stock Exchange.
+B. Background
+This case involves AOL's capitalization of certain advertising costs that should have been expensed as they were incurred.
+Although AOL was generating positive net revenues (gross revenues from subscribers minus direct costs of earning such revenues), AOL was operating in a new, evolving, and unstable business sector, and thus could not provide the "persuasive" historical evidence needed to reliably estimate the future net revenues it would obtain from its advertising expenditures.
+As a consequence, AOL could not satisfy the requirements of Accounting Standards Executive Committee Statement of Position 93-7 ("SOP 93-7"), which contains a limited exception to the general rule, under Generally Accepted Accounting Principles ("GAAP"), that all advertising costs be expensed as incurred.
+During its fiscal years ended June 30, 1995 and June 30, 1996, AOL rapidly expanded its customer base as an Internet service provider through extensive advertising efforts.
+These efforts involved, among other things, distributing millions of computer disks containing AOL startup software to potential AOL subscribers, as well as bundling AOL software with computer equipment.
+Largely as a result of its extensive advertising expenditures, this period was characterized by negative cash flows from operations.
+For fiscal years 1995 and 1996, AOL capitalized most of the costs of acquiring new subscribers as "deferred membership acquisition costs" ("DMAC") -- including the costs associated with sending disks to potential customers and the fees paid to computer equipment manufacturers who bundled AOL software onto their equipment -- and reported those costs as an asset on its balance sheet, instead of expensing those costs as incurred.
+Substantially all customers were derived from the above direct marketing program.
+For fiscal years 1993, 1994 and 1995, AOL (generally) amortized DMAC on a straight-line basis over a 12 month period.
+Beginning July 1, 1995, the company increased that amortization period to 24 months.2
+At July 1, 1994, the beginning of AOL's 1995 fiscal year, June 30, 1995, and June 30, 1996, the DMAC on AOL's balance sheets were $26 million, $77 million and $314 million, respectively, or 17%, 19% and 33% of total assets, and 26%, 35% and 61% of shareholders' equity.
+Had these costs been properly expensed as incurred, AOL's 1995 reported pretax loss would have been increased from $21 million to $98 million (including the write-off of DMAC that existed as of the end of fiscal year 1994), and AOL's 1996 reported pretax income of $62 million would have been decreased to a pretax loss of $175 million.
+On a quarterly basis, the effect of capitalizing DMAC was that AOL reported profits for six of eight quarters in fiscal years 1995 and 1996, rather than losses that it would have reported had the costs been expensed as incurred.
+On October 29, 1996, AOL announced through a press release that it would write off all capitalized costs of membership acquisition carried as an asset at September 30, 1996, and would expense as incurred all such costs from October 1, 1996 forward.
+AOL reflected a one-time charge in the first quarter of fiscal year 1997 in the amount of $385 million to write off the DMAC asset.
+C.
+Requirements of SOP 93-7 - "Reporting on Advertising Costs"
+On December 29, 1993, the Accounting Standards Executive Committee of the American Institute of Certified Public Accountants issued Statement of Position 93-7, "Reporting on Advertising Costs" ("SOP 93-7"),
+which was effective for financial statements for years beginning after June 15, 1994.3
+Thus its first applicability to AOL was for AOL's 1995 fiscal year, which began July 1, 1994.
+SOP 93-7 is the authoritative accounting literature governing accounting for costs to gain subscribers.
+As described more fully below, SOP 93-7 requires the capitalization and amortization of direct response advertising costs only when persuasive historical evidence exists that allows the entity to reliably predict future net revenues that will be obtained as a result of the advertising.
+SOP 93-7, ¶ 26, requires that advertising costs generally be expensed either as they are incurred or the first time advertising takes place.
+SOP 93-7, however, contains a narrow exception for certain direct-response advertising costs, which are costs of advertising whose primary purpose is to elicit sales to customers who can be shown to have responded specifically to the advertising.
+AOL's direct-response advertising costs included the costs of sending disks with AOL software to potential customers and the cost of bundling AOL software with original computer equipment. To capitalize direct response advertising costs, however, SOP 93-7 requires that such costs result in probable future economic benefits.
+Such benefits are defined to be "probable future revenues arising from that advertising in excess of future costs to be incurred in realizing those revenues."
+SOP 93-7, ¶ 36.
+SOP 93-7 discusses the conditions that must be met in order to conclude that direct-response advertising results in probable future benefits in ¶ 37:
+Demonstrating that direct-response advertising will result in future benefits requires persuasive evidence that its effects will be similar to the effects of responses to past direct-response advertising activities of the entity that resulted in future benefits.
+Such evidence should include verifiable historical patterns of results for the entity.
+Attributes to consider in determining whether the responses will be similar include (a) the demographics of the audience, (b) the method of advertising, (c) the product, and (d) economic conditions [emphasis added].
+Paragraph 48 of SOP 93-7 specifies that the costs capitalized as an asset be subject to a recoverability ("realizability") test:
+The realizability of the amounts of direct-response advertising reported as assets should be evaluated at each balance-sheet date by comparing the carrying amounts of such assets on a cost-pool-by-cost-pool basis to the probable remaining future net revenues expected to result directly from such advertising.
+SOP 93-7, ¶ 70 requires that the estimate of future net revenue be based on "reliable information." "Those conditions," it provides, "are narrow because it is generally difficult to determine the probable future benefits of advertising with the degree of reliability sufficient to report the results of the advertising as assets."
+Thus, to capitalize DMAC under the provisions of SOP 93-7, AOL needed to demonstrate, at each balance sheet date, that these costs were recoverable from future net revenues, i.e., future gross revenues from subscribers minus future costs to be incurred to earn those gross revenues.
+This constraint required AOL to be able to reliably predict the following: (1) the future retention or attrition rates of subscribers obtained through its capitalized advertising costs; (2) the revenues those subscribers would generate to AOL; and (3) the costs AOL would incur to obtain those revenues.
+AOL attempted to meet these requirements by estimating future membership retention based on a model that, while adjusted on a quarterly basis, assumed stability in customer retention rates over an extended period, as well as the maintenance of the company's gross profit margin percentage, which was based on the company's existing fee structure and costs of operation.
+Moreover, AOL did not assess recoverability of DMAC on a cost-pool-by-cost-pool basis, as required by ¶ 48 of SOP 93-7, by comparing acquisition costs capitalized each quarter to the actual net revenues generated by customers who started as a result of a particular marketing campaign.
+Instead, the Company aggregated customer acquisition costs capitalized during each quarter (or month) and compared such costs to average revenue from all customers.
+In addition, even if AOL had a basis to capitalize DMAC,
+¶ 47 of SOP 93-7 requires that "the amortization should be the amount computed using the ratio that current period revenues for the direct-response advertising cost pool bear to the total of current and estimated future period revenues for that direct-response-advertising cost pool."
+D. AOL Did Not Have an Adequate Basis to Capitalize and Amortize the Costs of Subscriber Acquisition
+During fiscal years 1995 and 1996, AOL did not meet the requirements of SOP 93-7 for capitalizing and amortizing DMAC.
+AOL was in a volatile, developing market that was subject to unpredictable, potentially material adverse developments and thus, could not reliably forecast future subscriber retention, revenues, or cost of services.
+Indeed, AOL disclosed these factors in its filings with the SEC.
+For example, in its annual report on Form 10-K for the fiscal year ended June 30, 1995 ("1995 Form 10-K"), AOL stated that it was engaged in the development of a "new medium."
+A company developing a new medium, the basic nature of whose business may change rapidly, cannot reliably predict future customer retention, revenues and costs, as required by SOP 93-7.
+During the relevant period, moreover, AOL's membership, having expanded exponentially, was significantly different-the majority of the members had been with the service for less than one year.
+This extraordinary growth made AOL's historical evidence about customer behavior potentially less predictive of future behavior of then-existing customers.
+In a registration statement on Form S-3, filed March 17, 1995, AOL acknowledged that, as the company grew more rapidly, it risked downward pressures on operating margins:
+AOL may wish to adopt additional strategies designed to continue growth in its subscriber base, such as new promotional offers and implementation of new pricing programs to accomplish this objective....
+Consequently, there can be no assurance that AOL's operating margins have stabilized or that AOL's operating margins will not be affected in the future by such strategies.
+In addition, sophisticated, well-capitalized competitors caused uncertainty in AOL's ability to predict subscriber retention, future revenues and the costs of obtaining those revenues.
+In its 1995 Form 10-K, in the section entitled "Management's Discussion and Analysis of Financial Condition and Results of Operations," AOL disclosed:
+The online services market is highly competitive.
+The Company believes that existing competitors ...
+are likely to enhance their service offerings.
+In addition, new competitors have announced plans to enter the online services market, resulting in greater competition for the company.
+The competitive environment could require new pricing programs and increased spending on marketing, content procurement and product development; limit the Company's opportunities to enter into and/or renew agreements with content providers and distribution partners; limit the Company's ability to grow its subscriber base; and result in increased attrition in the Company's subscriber base.
+Any of the foregoing events could result in an increase in costs as a percentage of revenues, and may have a material adverse effect on the company's financial condition and operating results [emphasis supplied].
+In a registration statement on Form S-3, filed September 18, 1995, AOL explicitly disclosed the possibility that other revenue streams might replace revenue from subscribers' fees.
+Under the caption "Market Evolution," AOL stated, inter alia:
+... a new business model is evolving for interactive media providers that will be characterized less by subscriber fees and more by transaction-based and advertising revenues.4
+Such fundamental changes in AOL's business model meant that AOL could not use its historical subscriber retention rates and related revenue experience as a reliable basis for projecting future revenues, a critical element in analyzing the recoverability of DMAC.
+And the potential of such a change meant that AOL could not provide "persuasive evidence" that potential customers would respond in the future similarly to those in the past.
+During fiscal year 1996, while the amount of DMAC reported on AOL's balance sheet grew from $77 million to $314 million,5 the uncertainties in the Internet marketplace became more pronounced.
+First, AOL's costs of subscriber acquisition increased substantially, as the response rate to its disk mailings decreased.
+Moreover, AOL's competition continued to increase, including competition from service providers offering unlimited Internet access for a flat monthly fee.
+To increasing numbers of Internet users, this unlimited access pricing was an attractive alternative to AOL's pricing plan, which charged customers on an hourly rate, and AOL's senior management was actively considering adoption of some variant of unlimited access pricing.
+In part as a result of this competition, AOL experienced declining rates of customer retention throughout FY 1996.
+AOL introduced a modification to its pricing plan, offering a lower hourly rate for heavy users, on July 1, 1996, in hopes of improving customer retention.
+But AOL disclosed in its 1996 Form 10-K: "The Company cannot predict the overall future rate of retention." [emphasis supplied]
+On October 29, 1996, AOL announced that as of September 30, 1996, it would write off the entire amount of DMAC. AOL stated that the write-off was necessary to reflect changes in its evolving business model, including reduced reliance on subscriber's fees as the company developed other revenue sources.
+AOL had responded to competitive pressure by adopting an unlimited-use pricing plan and, by writing off DMAC, acknowledged that it could not rely on its revenue history under a different pricing model as support for the recoverability of DMAC.
+But the increasing competition and rapid changes in AOL's marketing merely confirmed that AOL, given its volatile business environment, could not comply with the requirements of SOP 93-7.
+E. AOL's Capitalizing of DMAC Made its Financial Statements Inaccurate
+Section 13(a) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder require issuers of registered securities to file with the Commission factually accurate annual and quarterly reports.
+SEC v. Savoy Indus., 587 F.2d 1149, 1165 (D.C. Cir. 1978).
+Financial statements incorporated in Commission filings must comply with Regulation S-X, which in turn requires conformity with generally accepted accounting principles ("GAAP").
+The filing of a periodic report containing inaccurate information constitutes a violation of these regulations.
+See Savoy Indus., 587 F.2d at 1165.
+The general rule as set forth in ¶ 26 of SOP 93-7, is that "the costs of advertising should be expensed either as incurred or the first time the advertising takes place."
+To meet the requirements of the narrow exception to this general rule, as set forth in SOP 93-7, ¶¶ 36 and 37, an entity must operate in a sufficiently stable business environment that the historical evidence upon which it bases its recoverability analysis is relevant and reliable.
+AOL did not meet the essential requirements of SOP 93-7 because the unstable business environment precluded reliable forecasts of future net revenues. AOL was not operating in a stable environment, and AOL's business was characterized, during the relevant period, by the following factors:
+AOL was operating in a nascent business sector characterized by rapid technological change;
+AOL's business model was evolving;
+extraordinarily rapid growth in AOL's customer base caused significant changes to its customer demographics;
+AOL's customer retention rates were unpredictable;
+AOL's product pricing was subject to potential change;
+AOL could not reliably predict future costs of obtaining revenues;
+AOL's competition was increasing; and
+AOL was experiencing negative cash flow.
+Due to these factors, AOL did not have sufficient reliable evidence that its DMAC asset was recoverable, and AOL could not, therefore, satisfy the capitalization and amortization requirements of SOP 93-7.
+As a consequence, AOL's financial statements as filed with the Commission in quarterly reports on Form 10-Q and annual reports on Form 10-K, from the quarter that began July 1, 1994 through the quarter beginning July 1, 19966 were rendered inaccurate by AOL's accounting treatment for DMAC.
+Therefore, AOL violated Section 13(a) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder.
+Section 13(b)(2)(A) of the Exchange Act requires issuers that are registered with the Commission to make and keep books, records, and accounts which accurately reflect the transactions and disposition of their assets.
+AOL violated Section 13(b)(2)(A) of the Exchange Act during its fiscal years 1995 and 1996, and the quarter beginning July 1, 1996, by recording as an asset advertising costs that could not be capitalized in accordance with the requirements of SOP 93-7.
+III.
+ORDER
+Based on the foregoing, IT IS HEREBY ORDERED, pursuant to Section 21C of the Exchange Act, that America Online, Inc., cease and desist from causing any violations, and any future violations of Sections 13(a) and 13(b)(2)(A) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder.
+By the Commission.
+__________________
+Jonathan G.
+Katz
+Secretary
+Additional Materials Available on This Topic
+Litigation Release No. 16552
+Footnotes
+1
+On the date of this Order, the Commission filed a complaint in U.S. District Court for the District of
+Columbia and a consent of America Online, Inc., to obtain civil penalties from AOL to resolve claims arising from the matters also described in this Order.
+2
+SOP 93-7, ¶ 74, states that because "the reliability of accounting estimates decreases as the length of the period for which such estimates are made increases..., the period over which the benefits[sic] [costs] of direct-response advertising are amortized often is no longer than the greater of one year or one operating cycle."
+3
+Prior to the effective date of SOP 93-7, there was no authoritative accounting literature that applied specifically to the deferral of the costs of subscriber acquisition.
+Prior to the effective date, the Company had a policy of deferring its direct response advertising costs.
+4
+AOL's 1996 Form 10-K contained disclosures about the uncertainty of future business operations and competition similar to those in the 1995 Form 10-K and the September 1995 Form S-3.
+5
+This increase, in part, reflected the extension of the DMAC amortization period to 24 months.
+6
+AOL's 10-Q for the quarter beginning July 1, 1996 included a charge of $385 million for the write-off of DMAC.
+Had AOL not previously capitalized DMAC, the write-off would not have appeared in the quarter beginning July 1, 1996.
+Instead, all marketing costs would have been charged to expense as incurred.
+http://www.sec.gov/litigation/admin/34-42781.htm
+Home | Previous Page
+Modified:05/15/2000

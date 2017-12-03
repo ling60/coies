@@ -1,0 +1,328 @@
+---------------------Page 1---------------------
+
+ UNITED                              STATES OF AMERICA 
+
+ Before                                       the 
+
+                    SECURITIES AND EXCHANGE COMMISSION 
+
+
+SECURITIES EXCHANGE ACT OF 1934 
+Release No.  57380 / February 26, 2008 
+
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No.  2791 / February 26, 2008 
+
+ADMINISTRATIVE PROCEEDING 
+File No. 3-12970 
+
+In the Matter of                              ORDER INSTITUTING PUBLIC 
+                                              ADMINISTRATIVE PROCEEDINGS 
+      DUANE HIGGINS, CPA,                     PURSUANT TO RULE 102(e) OF THE 
+                                              COMMISSION’S RULES OF PRACTICE, 
+Respondent.                                   MAKING FINDINGS, AND IMPOSING 
+                                              REMEDIAL SANCTIONS 
+
+                                            I. 
+
+      The Securities and Exchange Commission (“Commission”) deems it appropriate that public 
+administrative proceedings be, and hereby are, instituted against Duane Higgins, CPA 
+(“Respondent” or “Higgins”) pursuant to Rule 102(e)(1)(ii) of the Commission’s Rules of 
+Practice.1 
+
+                                           II. 
+
+      In anticipation of the institution of these proceedings, Respondent has submitted an Offer 
+of Settlement (the “Offer”) which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the findings 
+herein, except as to the Commission’s jurisdiction over him and the subject matter of these 
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Public 
+
+1 
+ Rule 102(e)(1)(ii) provides, in pertinent part, that: 
+
+      The Commission may . . . deny, temporarily or permanently, the privilege of appearing or practicing before 
+it . . . to any person who is found . . . to have engaged in unethical or improper professional conduct. 
+---------------------Page 2---------------------
+
+Administrative Proceedings Pursuant to Rule 102(e) of the Commission’s Rules of Practice, 
+Making Findings, and Imposing Remedial Sanctions (“Order”), as set forth below.   
+
+                                              III. 
+
+       On the basis of this Order and Respondent’s Offer, the Commission finds2
+                                                                                that: 
+
+A.     SUMMARY 
+
+       This Order concerns the conduct of Duane Higgins, an audit partner at Deloitte & Touche 
+LLP (“D&T”), in connection with fiscal year 2000 and 2001 audits of the financial statements of 
+Delphi Corporation (“Delphi”).   On October 30, 2006, the Commission brought actions against 
+Delphi and 13 individuals in connection with their role in widespread accounting violations at 
+Delphi.  Higgins, then an audit partner on the Delphi audits, engaged in improper professional 
+conduct as detailed below. 
+
+B.     RESPONDENT 
+
+       Duane Higgins, 41, a resident of Clarkston, Michigan, has been an audit partner at D&T 
+since 1999 and served as the second engagement partner for the fiscal year 1999-2002 audits of 
+Delphi’s financial statements.  Higgins has been licensed as a CPA in the State of Ohio since 
+1992 and in the State of Michigan since 2000. 
+
+C.     FACTS 
+
+       1.     Higgins’ Review and Audit of the Sale and Repurchase of Precious Metals 
+
+       In November of 2000, Delphi learned that Delphi’s former parent company would not be 
+acquiring Delphi’s inventory of precious metals before year-end 2000, despite Delphi’s 
+understanding that it had a commitment to do so.  Thereafter, on December 28, 2000, Delphi 
+agreed to sell substantially all its precious metals inventory to a bank (“the Bank”).  On the same 
+day, Delphi entered into a forward purchase agreement to acquire metals of the same specifications 
+in the same quantities from the Bank for delivery on January 29, 2001.  The delivery in January 
+was intended to coincide with Delphi’s postponed transfer to its former parent company of 
+Delphi’s precious metals inventory.  The price specified for Delphi’s purchase of the metals in the 
+forward agreement exceeded the sales price for the same quantities in the sales agreement by $3.26 
+million. Under Generally Accepted Accounting Principles (“GAAP”), the transactions should 
+have been accounted for together as a financing, but Delphi accounted for the sale and purchase 
+separately. Delphi recognized the disposition of the metals inventory and a $6 million gain on the 
+sale in December 2000, as well as a “LIFO liquidation gain” of $54 million included in fiscal year 
+2000 earnings. On January 29, 2001, Delphi repurchased the metals from the Bank as agreed.  
+Delphi disclosed the last in, first out (“LIFO”) gain as part of Delphi’s yearly total LIFO gain of 
+$96 million. The transactions caused the financial statements to falsely portray more income, 
+2 
+ The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding on any other 
+person or entity in this or any other proceeding. 
+                                               2
+
+---------------------Page 3---------------------
+
+greater operating cash flows and reduced inventories and contributed to results that Delphi,  in its 
+Form 10-K for 2000, attributed in part to “aggressive inventory management.” 
+
+       In November 2000, Delphi consulted Higgins about transactions that would allow Delphi 
+to move the precious metals off Delphi’s balance sheet before year end and then repurchase the 
+same quantity of metals in early 2001 in time to sell them to Delphi’s former parent company 
+pursuant to a prior agreement.  Higgins sought the advice of a D&T partner serving as a regional 
+professional practice director, regarding three alternative forms of a hypothetical precious metals 
+transaction, one of which contemplated executing an agreement to sell metals at current market 
+prices, and make delivery of them, contemporaneous with an agreement to repurchase the metals at 
+futures market prices.  The other D&T partner concurred that this hypothetical structure could be 
+accounted for as a sale followed by a separate purchase.  Because the consultation was 
+hypothetical, however, it did not include all of the facts of the transactions, as discussed below.  
+Delphi arranged the sale of the metals to the Bank shortly before year-end along with a 
+contemporaneous agreement according to which the Bank would sell the same quantities of the 
+metals back to Delphi a month later.  In the week before the agreements were executed, one or 
+more drafts were shared with Higgins, and he furnished comments on the effects of one or more 
+provisions on Delphi’s accounting for the transactions.   
+
+       The arrangement nominally transferred title to the metals to the Bank, but did not transfer 
+the risks of ownership. Because Delphi was committed to purchase like metals 32 days after the 
+sale to the Bank at a fixed, but slightly higher price, the Bank had no market risk and was assured a 
+profit. Delphi was bailee and custodian of the metals, and, as such, agreed to indemnify the Bank 
+for all risks of storing the metals.  As a result, the Bank incurred risks no different than if it had 
+only loaned Delphi an amount equal to the proceeds from the purported sale.  In addition, the sale 
+agreement included no fixed date for physical delivery of the metals.  Although Higgins noted that 
+the sale agreement gave the Bank the right to direct transfer of metals delivered by Delphi, Delphi 
+had the right under the bailment agreement not to deliver the amount specified in the agreement, 
+and, instead, pay cash equal to a fixed rate per troy ounce for the undelivered metals.  Conversely, 
+the Bank could satisfy its delivery obligation by furnishing a bill of sale for “quantities 
+constitut[ing] all of such metals remaining in the custody of [Delphi] pursuant to the bailment 
+provisions” in the sale agreement.  The quantities of metals also well exceeded amounts that could 
+be quickly traded at quoted prices.  Some of the metals purported to be sold pursuant to the 
+agreement were in the custody of Delphi’s suppliers for their use in coating catalytic converters on 
+Delphi’s behalf.  These suspect facts were not addressed sufficiently in the audit memo written by 
+Higgins to document his concurrence with Delphi’s accounting for the transactions. 
+
+       In assessing these transactions, Higgins considered SFAS No. 49, “Accounting for Product 
+Financing Arrangements,” which addresses agreements where an entity sells a product to another 
+entity and, in a related transaction, agrees to repurchase that product or a substantially identical 
+product.  SFAS No. 49 indicates that a sale and repurchase should not be accounted for as a 
+financing unless, among other things, the amounts to be paid on the repurchase “will be adjusted, 
+as necessary to cover substantially all fluctuations in costs incurred by the other entity in 
+purchasing and holding the product (including interest).”  Higgins believed separate treatment of 
+the sale and repurchase by Delphi could be appropriate because the agreed forward purchase price 
+
+                                                3
+
+---------------------Page 4---------------------
+
+was a fixed amount per troy ounce, and therefore would not fluctuate to cover the Bank’s costs.  
+He did not take due note of an example in SFAS No. 49 that applies financing treatment to a sale 
+and repurchase with fixed repurchase prices that were “adequate to cover all financing and holding 
+costs of the other entity.” Higgins did not recognize that no adjustment of the repurchase price 
+would be necessary over the 32-day period that the Bank had title to the metals.  The Bank had no 
+holding costs, other than interest cost and the fixed bailment fee it paid Delphi to retain custody of 
+the metals. The Bank’s assured margin on the transaction of $3.26 million equated to interest 
+earned at an annualized rate of almost 20%, well in excess of any interest cost the Bank would 
+reasonably incur to purchase and hold the metals. 
+
+       In addition, Higgins’ review of a pricing analysis prepared by Delphi, which falsely 
+justified the prices as being appropriately discounted from market, was deficient.  Higgins believed 
+that he was sufficiently competent to evaluate the overall reasonableness of the pricing model 
+developed by Delphi without consulting with capital markets experts at D&T.  Delphi’s formula 
+predicted that each metal would trade at a different discount, but the sale and repurchase 
+agreements indicated an identical discount for each metal.  Higgins accepted Delphi’s contrived 
+calculations as evidence that the transactions occurred at fair value.  Higgins also did not question 
+why the sale and repurchase prices for at least one of the metals fell outside the range that Delphi’s 
+investment bank advisers considered reasonably likely. 
+
+       Moreover, Higgins failed to revise D&T’s assessment of risk of material misstatement due 
+to fraud in light of the above-described problematic aspects of the precious metals transaction.  In 
+May 2000, he had assessed the risk as “normal,” but, by January 2001, Higgins should have 
+realized that the risk of material misstatement was higher and conducted his audit work thereafter 
+with more careful scrutiny in light of that risk. 
+
+       For the above reasons, Higgins’ review and testing of the precious metals transaction did 
+not conform to Generally Accepted Auditing Standards (“GAAS”). 
+
+       2.	    Higgins’ Response to New Information Concerning the 
+              Repurchase of Generator Cores and Batteries from the Consulting Company 
+
+       In a December 27, 2000, transaction, Delphi purported to sell $70 million of bulk 
+inventories consisting of substantially all of Delphi’s inventories of generator cores and finished 
+automotive batteries to a company that was primarily engaged in providing consulting assistance to 
+troubled automotive industry suppliers and automotive companies engaged in turnaround efforts 
+(the “Consulting Company”). The written agreement between Delphi and the Consulting 
+Company expressly stated that it constituted the entire agreement, and that any oral discussions in 
+connection with the agreement were not enforceable.  The written agreement contained no 
+commitment to repurchase the cores or batteries.  Nevertheless, pursuant to an oral side agreement 
+made at the time of the original sale and not revealed to D&T or Higgins, Delphi purchased the 
+identical inventory of cores and batteries back from the Consulting Company on January 5, 2001, 
+at its original price, plus a transaction fee.  Because Delphi committed to repurchase the cores and 
+batteries at a price that covered the Consulting Company’s costs and paid it a fee, GAAP required 
+the arrangement to be accounted for as a product financing under SFAS No. 49, but Delphi 
+
+                                               4
+
+---------------------Page 5---------------------
+
+improperly accounted for the transactions as a separate sale and purchase.  Delphi did not 
+recognize any revenue or direct profit on the sale, but nevertheless recognized $27 million in LIFO 
+inventory liquidation gains, which were included by Delphi as part of its year-end disclosure of 
+$96 million in LIFO gains. 
+
+       In connection with D&T’s annual audit of Delphi’s financial statements, Higgins reviewed 
+the Consulting Company sales agreement and concluded that its terms were not abnormal and that 
+Delphi had no obligation to repurchase the inventory, either written or oral (per Delphi 
+representations). 
+
+       Later, however, likely in the course of D&T’s review of Delphi’s first quarter 2001 
+financial statements, in April or May 2001, Higgins became aware that at least a significant portion 
+of the generator cores sold in the final days of 2000 had been repurchased during the first quarter.  
+As part of his quarterly review, the lead D&T engagement partner asked senior members of 
+Delphi’s management why a repurchase had occurred, and was told that Delphi had changed its 
+view as to its need for possession of the cores in light of its plans regarding the sale of the 
+generator business. Delphi management also orally reaffirmed to the lead D&T engagement 
+partner that there had been no prior repurchase commitment to the Consulting Company.  The lead 
+D&T engagement partner did not document his consideration of this issue, and performed no 
+additional procedures.  Higgins relied on the lead D&T engagement partner’s inquiry of Delphi 
+management concerning the matter. 
+
+       The response of Higgins to the discovery of inventory repurchased in the first quarter so 
+soon after the year-end bulk sale, particularly in the face of a prior management representation that 
+there was no obligation to repurchase the inventory, was inadequate.  It indicated insufficient 
+concern about facts that could have contradicted important management representations or 
+otherwise indicated the possible presence of fraud.  Higgins recalls knowing that “some” inventory 
+was repurchased at some time in the first quarter, but had no recollection that the sale or repurchase 
+also involved batteries.  Higgins had a duty in those circumstances to learn more about the 
+unexpected repurchase so that the inquiries of management could be sufficiently probative, but he 
+did not seek out additional facts.  D&T’s work papers showed that the repurchase comprised all, or 
+substantially all, of the original bulk sale of both generator cores and batteries.  The invoice for the 
+repurchase, which D&T neither requested nor received, showed that it occurred nine days after the 
+sale.  The invoice price, compared to the original sale price, showed that the purported value of the 
+inventory increased over those nine days (representing the fee to the Consulting Company).  In 
+addition, Delphi’s records reveal that Delphi itself had provided the cash with which the 
+Consulting Company purchased the inventories.  In light of facts which were known to him, 
+GAAS required Higgins to make additional inquiries or conduct additional procedures. 
+
+D. VIO      LATIONS
+
+        Rule 102(e)(1)(ii) provides that the Commission may temporarily or permanently deny an 
+accountant the privilege of appearing or practicing before it, if it finds, after notice and opportunity 
+for hearing, that the accountant engaged in “improper professional conduct.”  Such improper 
+professional conduct includes, as applicable here, negligent conduct, defined as “repeated instances 
+
+                                               5
+
+---------------------Page 6---------------------
+
+of unreasonable conduct, each resulting in a violation of applicable professional standards, that 
+indicate a lack of competence to practice before the Commission.”  Rule 102(e)(1)(iv)(A)-(B). 
+Higgins failed (i) to obtain sufficient competent evidential matter to afford a reasonable basis for 
+the opinion rendered, Auditing Standards §AU 326, (ii) to exercise due professional care in the 
+planning and performance of the audit, Auditing Standards § AU 320, and (iii) in performing the 
+audit to identify material departures from GAAP in the financial statements, Auditing Standards § 
+AU 410. As a result of the actions detailed above, for Delphi’s fiscal year 2000 and 2001, Higgins 
+engaged in improper professional conduct on the precious metals and batteries and cores 
+transactions. 
+
+E.     FINDINGS 
+
+       Based on the foregoing, the Commission finds that Higgins engaged in improper 
+professional conduct pursuant to Rule 102(e)(1)(ii) of the Commission’s Rules of Practice. 
+
+                                              IV. 
+
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondent Higgins’ Offer. 
+
+       Accordingly, it is hereby ORDERED, effective immediately, that: 
+
+       A.     Higgins is denied the privilege of appearing or practicing before the Commission as 
+an accountant. 
+
+       B.     After two years from the date of this order, Respondent may request that the 
+Commission consider his reinstatement by submitting an application (attention: Office of the 
+Chief Accountant) to resume appearing or practicing before the Commission as: 
+
+              1.      a preparer or reviewer, or a person responsible for the preparation or 
+review, of any public company’s financial statements that are filed with the Commission.  Such 
+an application must satisfy the Commission that Respondent’s work in his practice before the 
+Commission will be reviewed either by the independent audit committee of the public company 
+for which he works or in some other acceptable manner, as long as he practices before the 
+Commission in this capacity; and/or 
+
+              2.      an independent accountant.  Such an application must satisfy the 
+Commission that: 
+
+                      (a)    Respondent, or the public accounting firm with which he is 
+associated, is registered with the Public Company Accounting Oversight Board (“Board”) in 
+accordance with the Sarbanes-Oxley Act of 2002, and such registration continues to be effective; 
+
+                      (b)    Respondent, or the registered public accounting firm with which he 
+is associated, has been inspected by the Board and that inspection did not identify any criticisms 
+
+                                               6
+
+---------------------Page 7---------------------
+
+of or potential defects in the respondent’s or the firm’s quality control system that would indicate 
+that the respondent will not receive appropriate supervision;
+
+               (c)           Respondent has resolved all disciplinary issues with the Board, and 
+has complied with all terms and conditions of any sanctions imposed by the Board (other than 
+reinstatement by the Commission); and 
+
+                      (d)    Respondent acknowledges his responsibility, as long as 
+Respondent appears or practices before the Commission as an independent accountant, to 
+comply with all requirements of the Commission and the Board, including, but not limited to, all 
+requirements relating to registration, inspections, concurring partner reviews and quality control 
+standards. 
+
+       C.     The Commission will consider an application by Respondent to resume appearing 
+or practicing before the Commission provided that his state CPA license is current and he has 
+resolved all other disciplinary issues with the applicable state boards of accountancy.  However, 
+if state licensure is dependent on reinstatement by the Commission, the Commission will 
+consider an application on its other merits.  The Commission’s review may include consideration 
+of, in addition to the matters referenced above, any other matters relating to Respondent’s 
+character, integrity, professional conduct, or qualifications to appear or practice before the 
+Commission. 
+
+ By       the Commission. 
+
+       N                                              ancy M. Morris
+       S                                             ecretary 
+
+                                                7
+

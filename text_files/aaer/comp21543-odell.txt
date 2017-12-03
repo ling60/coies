@@ -1,0 +1,474 @@
+---------------------Page 1---------------------
+
+         Case 1:10-cv-00909-PLF   Document 1     Filed 06/02/10   Page 1 of 10     
+
+                         UNITED STATES DISTRICT COURT
+                              DISTRICT OF COLUMBIA
+
+SECURITIES AND EXCHANGE COMMISSION,
+
+                                  Plaintiff,
+                                                            CIVIL ACTION NO.
+                    v.
+                                                            COMPLAINT
+WALDEN W. O'DELL,
+
+                                  Defendant.
+
+       Plaintiff Securities and Exchange Commission(the "Commission") alleges:
+
+                                      SUMMARY
+
+       1.    This action seeks an order, pursuant to Section 304ofthe Sarbanes-Oxley Actof
+
+2002 ("Sarbanes-Oxley Act"), requiring WaldenW. O'Dell, former chief executive officer
+
+("CEO") of Diebold, Incorporated ("Diebold"),toreimburse Diebold for bonuses and other
+
+incentive-based and equity-based compensation, received during the 12-month period following
+
+the issuanceofDiebold's financial statements contained in its annual report for fiscal year 2003,
+
+which was filed with the Commission on March 2, 2004. Diebold was required to restate its
+
+financial statements for that fiscal year,aswellasother subsequent reporting periods,asa result
+
+ofmisconduct. Diebold restated those financial statements on September 30, 2008.
+
+      2.     O'Dell was Diebold's chief executive officer from 1999 through December12,
+
+2005. During the 12-month period following the issuanceofDiebold's 2003 Form lO-K, which
+
+contained the company's annual financial statements for that fiscal year, O'Dell received from
+
+the company $470,016 in cash bonuses, 30,000 sharesofDiebold stock, and stock options for an
+
+additional 85,000 sharesofstock. Pursuant to Section 304 of the Sarbanes-Oxley Act, O'Dellis
+---------------------Page 2---------------------
+
+         Case 1:10-cv-00909-PLF   Document 1     Filed 06/02/10   Page 2 of 10     
+
+required to reimburse Diebold for these bonuses and incentive-based and equity-based
+
+compensation.
+
+                              JURISDICTION AND VENUE
+
+       3.     This Court has jurisdiction over this matter pursuanttoSection 3(b)ofthe
+
+Sarbanes-Oxley Act [15 U.S.c. § 7202(b)] and Sections21 and 27 of the Securities Exchange
+
+Act of 1934 [15 U.S.C.§§ 78u and 78aa].
+
+       4.     Venue  isproper in this district because certainofthe acts, practices, and courses
+
+ofbusiness alleged in this Complaint occurred within this judicial district.
+
+                                      DEFENDANT
+
+       5.     Walden O'Dell, age 64, isa residentofOhio. He was the CEO and Chairman of
+
+Diebold from 1999 to 2005. He  iscurrently retired.
+
+                                   RELATED ENTITY
+
+       6.     Diebold isan Ohio corporation headquartered in North Canton, Ohio. Diebold
+
+manufactures and sells ATMs, bank:security systems, and electronic voting machines. Diebold's
+
+common stock  isregistered with the Commission pursuant to Exchange Act Section 12(b) andis
+
+listed on the New York Stock Exchange.
+
+                                          FACTS
+
+       7.     In2003, and other years, Diebold engaged in fraudulent accounting practicesin
+
+order to inflate earnings to meet forecasts. These fraudulent accounting practices included (i)
+
+improper useof "bill and hold" accounting; (ii) manipulating reserves and accruals; (iii)
+
+improperly delaying and capitalizing expenses; (iv) use of cookie jar reserves; and (v) writingup
+
+the valueofused inventory.
+
+       8.     As a resultofthese practices, Diebold filed annual, quarterly, and current reports
+
+with the Commission, and issued press releases, that contained material misstatements and
+
+                                             2
+---------------------Page 3---------------------
+
+         Case 1:10-cv-00909-PLF   Document 1     Filed 06/02/10   Page 3 of 10     
+
+omissions concerning the company's financial performance.   To  correct the recent
+
+misstatements, on September 30, 2008, Diebold restated its financial statements for the years
+
+2003 through 2006, and the first quarterof2007, in its Form 10-K for 2007.
+
+                     Fraudulent Revenue Recognition     --F -Term Orders
+
+       9.      In2003, and other years, Diebold prematurely recognized revenue on many   of the
+
+transactions it called "F-term" orders. Diebold recognized revenue on F-term orders, or Factory
+
+orders, when it shipped products from its factory to a Diebold warehouse. Under generally
+
+accepted accounting principles ("GAAP"), normally a product must be shipped to the customer
+
+or services must be rendered before revenue can be recognized.
+
+       10.    With a "bill and hold" transaction, however, revenue can be recognized on the
+
+saleof products prior to delivery to a customerifthe "bill and hold" criteria are met. The criteria
+
+for a bill and hold transaction include: (i) the buyer, not the seller, requests that the transaction
+
+be on a bill and hold basis; (ii) the buyer has a substantial business purpose for ordering on a bill
+
+and hold basis; (iii) thereisa fixed delivery schedule thatisreasonable and consistent with the
+
+buyer's business purpose; (iv) the seller doesnotretain any specific performance obligations
+
+such that the earnings processisincomplete; and (v) the products are ready for shipment.
+
+       11.    Diebold prematurely recognized revenue on certain F-term orders by improperly
+
+using bill and hold accounting. A significant numberof Diebold's F-term orders failed to satisfy
+
+the stringent bill and hold criteria.
+
+       12.    Under GAAP, to use bill and hold accounting, the customer, not Diebold, must
+
+request that the transaction be on a bill and hold basis, and the customer must have a substantial
+
+business purpose for ordering on a bill and hold basis. Manyof Diebold's F-term orders failed to
+
+satisfy these criteria.
+
+                                               3
+---------------------Page 4---------------------
+
+         Case 1:10-cv-00909-PLF   Document 1     Filed 06/02/10   Page 4 of 10     
+
+       13.     With many F-term orders; Diebold asked customers to sign Diebold's form
+
+contract -- its standard Memorandum  of Agreement ("MOA") -- which contained a boilerplate
+
+clause stating that the customer had requested Diebold to hold items for the customer's
+
+convenience. Diebold then recognized revenue when the company shipped the products from its
+
+factory to its warehouse in accordance with a "ship to warehouse" date contained in the MOA.
+
+Notwithstanding the language in the MOA, Diebold's accounting was not in accordance with
+
+GAAP because generally Diebold's customers had not requested that the transaction be on a bill
+
+and hold basis.
+
+       14.     In addition, certain F-term orders also failed to meet other bill and hold criteria.
+
+For example, to recognize revenue on  a bill and hold basis, there must be a fixed delivery
+
+schedule, the seller must not retain any specific performance obligations such that the earnings
+
+process is incomplete, and the products mustbe complete and ready for shipment.
+
+       15.    Many   ofDiebold's F-term contracts failed to meet these criteria. For instance,
+
+these transactions generally did not have fixed delivery schedules. Moreover, in certain
+
+instances when Diebold recognized revenue on ATMs shipped from its factory to its warehouse,
+
+the ATMs were not complete because software had not yet been installed and/or quality testing
+
+had not yet been performed. In addition,on  certain occasions, Diebold recognized revenue on a
+
+bill and hold basisoncertain products and services for which bill and hold accounting is never
+
+appropriate, including software orders and professional services.
+
+       16.    The bill and hold criteria are well established.Many of the F-term orders failed to
+
+satisfy the criteria for bill and hold accounting. As a resultoffraud and other misconduct,
+
+Diebold prematurely recognized revenue  on those transactions.
+
+                                               4
+---------------------Page 5---------------------
+
+         Case 1:10-cv-00909-PLF   Document 1     Filed 06/02/10   Page 5 of 10     
+
+       17.    In 2008, Diebold restated its financial statements for the reporting periods from
+
+2003 through the first quarter of 2007, and announced that going forward it would recognize
+
+revenue upon customer acceptance  of goods or services.In its restatement, Diebold retroactively
+
+applied this new revenue recognition policy which, for 2003, resulted in a decreaseofthe
+
+company's earnings before taxes of $29.5 million. Diebold's premature recognitionofrevenue
+
+on certainF-term orders resulted in revenue and earnings misstatements in eachofDiebold's
+
+quarterly and annual financial statements from 2003 through the first quarterof2007.
+
+                            Manipulating  Reserves  and  Accruals
+
+                                  Under-accrued Liabilities
+
+       18.    Under GAAP, an issuer   isrequiredto accrue for anticipated liabilities.In2003,
+
+and other years, Diebold inflated earnings by failingtoaccrue for known liabilities. For
+
+example, Diebold knew that the liability account for the company's Long Term Incentive Plan
+
+("LTIP") --an employee benefit plan intended to reward long term company performance   --was
+
+under-accrued for much of 2003.
+
+       19.    To accrue for the LTIP in 2003 without negatively impacting earnings, Diebold
+
+offset the liability by improperly reducing other accounts, including an unreconciled accounts
+
+payable account and an unreconciled deferred revenue account. In 2003 alone, Diebold's
+
+manipulation of these accounts had the effectofimproperly under-accruing Diebold's liabilities,
+
+and overstating Diebold's reported pre-tax earnings by at least $16 million.
+
+       20.    From at least 2002 through 2005, asa resultoffraud and other misconduct,
+
+Diebold failed to properly accrue for other liabilities, including its North American sales
+
+commission accrual (commissions to be paid to sales personnel) and its team incentive accrual
+
+(incentive pay to be paid to service personnel).In2005, Diebold restated its financial statements
+
+to correct errors in certain accounts for the years 2002 to 2004 and the first quarterof2005,
+
+                                              5
+---------------------Page 6---------------------
+
+          Case 1:10-cv-00909-PLF   Document 1     Filed 06/02/10   Page 6 of 10     
+
+including the North American sales commission accrual account. In a letter to the audit
+
+committee, a Diebold officer acknowledged that this account was underaccrued because     "[an
+
+accounting manager] felt that given the need to meet forecast, these [commission accrual]
+
+adjustments should be deferred until a later date."
+
+                                     Manipulating Reserves
+
+        21.    Under GAAP, a liability should  be released upon the occurrence  of a specified
+
+event or when  the estimate should be revised in response to new information.  Moreover,
+
+maintaining general  orexcess reserves (i.e., cookiejarreserves) are expressly prohibited under
+
+GAAP.
+
+       22.     In 2003, and later, Diebold manipulated certain reserves in order to manage
+
+earnings. For example, to meet internal forecasts, a Diebold accounting manager improperly
+
+reduced the Master Purchase Agreement accrual    (aliability account established forpayment  of
+
+customer rebates) to inflate net income in the fourth quarterof2003. There was   no legitimate
+
+accounting basis for this entry. Indeed, this and other improper entries were subsequently
+
+reversed in later quarters.
+
+       23.     Diebold also used cookie jar reserves to manage earnings. For example, in 2003,
+
+Diebold established a $4.5 million corporate obsolescence and excess inventory account. This
+
+corporate inventory account was a cookie  jarreserve thathad  no legitimate accounting basis.
+
+                       Improperly Delaying and Capitalizing Expenses
+
+                                          Division 35
+
+       24.     In 2003, and subsequent years, Diebold failed to recognize certain expenses as
+
+incurred, and instead improperly deferred these expenses or spread the expenses over several
+
+reporting periods, which artificially increased net income in several fiscal years. For example,
+
+Diebold engaged in improper expense deferrals in the "Division 35" account.
+
+                                                6
+---------------------Page 7---------------------
+
+         Case 1:10-cv-00909-PLF   Document 1     Filed 06/02/10   Page 7 of 10     
+
+       25.    Division 35 was a finished goods inventory account. In 2003, and subsequent
+
+years, Diebold knew the value ofthe account was overstated. Nevertheless, Diebold improperly
+
+failed to reconcile the account until 2005.In2003, the overstatementofthe Division 35 account
+
+inflated Diebold's earningsby $4.3 million.
+
+                                      The Oracle Project
+
+       26.    In 2002, Diebold began a project, which isstill ongoing, to replace manyofits
+
+older internal software systems with Oracle software. Under GAAP, capitalization ofa software
+
+asset requires companies to properly capture internal and external costs involved with the various
+
+stagesof software development. Consequently, Diebold was permitted to capitalize certain costs
+
+associated with the Oracle project. However, in 2003, and subsequent years, Diebold improperly
+
+capitalized information technology costs that should have been expensed in the periods they
+
+were incurred.
+
+       27.    In certain quarters when Diebold's earnings were shortofforecast, Diebold made
+
+top-level entries to fraudulently capitalize additional expenses to the Oracle project. These
+
+improper "additions," which often were round numbers, had the effectof materially reducing
+
+reported expenses, and thus increasing reported earnings. In 2003, Diebold's improper
+
+capitalizationofexpenses to the Oracle project increased Diebold's pre-tax earnings by $.5
+
+million.
+
+                                Used Equipment Write-Ups
+
+       28.    Under GAAP, used equipment inventory should be valued at the lower   of cost or
+
+market. In 2003, and subsequent years, Diebold improperly "wrote-up" the value of certain used
+
+inventory, suchas used ATMs. These "write-ups" had the effect  ofreducing cost of goods sold
+
+and thus inflating earnings. The company used these "write-ups" in order to meet forecasts.
+
+                                              7
+---------------------Page 8---------------------
+
+         Case 1:10-cv-00909-PLF   Document 1     Filed 06/02/10   Page 8 of 10     
+
+       29.    For example, in the fourth quarter of 2003, Diebold improperly wrote up the value
+
+ofparts contained in some used ATMs by $650,000. Tellingly, these parts were never removed
+
+from the ATMs, and the ATMs were later scrapped.
+
+       30.    These used equipment "write-ups," which were listed on several "opportunity
+
+lists," had no legitimate accounting basis and were used improperlytoinflate Diebold's earnings.
+
+                                Diebold's 2008 Restatement
+
+       31.    As resultofDiebold's improper, and in many instances fraudulent, accounting
+
+practices from at least 2002 to 2007, the financial statements that Diebold incorporated into its
+
+periodic filings and other materials disseminatedtothe investing public were materially false and
+
+misleading. Diebold's improper accounting practices materially inflated the company's reported
+
+pre-tax earnings in 2003, and other years. To correct the more recent misstatements, on
+
+September 30,2008, Diebold restated its financial statements for the years 2003 through 2006,
+
+and the first quarterof2007, in its Form 10-K for 2007.
+
+  O'Dell Received Bonuses and Other Incentive-Based and Equity-Based Compensation
+
+       32.    During the 12-month period following the issuance of Diebold's 2003 Form lO-K
+
+on March 2, 2004, which contained the company's annual financial statements for 2003, O'Dell
+
+received from Diebold $470,016 in cash bonuses, 30,000 sharesofDiebold stock, and stock
+
+options for 85,000 sharesofDiebold stock. These were the last bonuses, stock awards, and stock
+
+options that O'Dell received from Diebold before resigning from the company on December12,
+
+2005.
+
+       33.    O'Dell has never reimbursed Diebold for any portionofthese bonuses, stock
+
+awards, or stock options.
+
+                                             8
+---------------------Page 9---------------------
+
+         Case 1:10-cv-00909-PLF   Document 1     Filed 06/02/10   Page 9 of 10     
+
+                                  CLAIM FOR RELIEF
+
+                                   Failure to Reimburse
+          Violations of Section 304 ofthe Sarbanes-Oxley Act [15  U.S.c. § 7243]
+
+       34.    Paragraphs 1 through33 are realleged and incorporated by reference.
+
+       35.    On March 2, 2004, Diebold issued its 2003 Form lO-K, which contained the
+
+company's annual financial statements for that fiscal year. Diebold was requiredtorestate those
+
+financial statements due to material noncomplianceofthe issuer,asa result of misconduct, with
+
+financial reporting requirements under the federal securities laws.
+
+       36.    Defendant, who was Diebold's chief executive officer, has failed to reimburse
+
+Diebold for bonuses and other incentive-based or equity-based compensation he received from
+
+Diebold during the 12-month period following the issuanceofDiebold's 2003 Form 10-K, which
+
+contained the company's annual financial statements for that fiscal year.
+
+       37.    As a resultofthe conduct described above, Defendant violated Section 304 of the
+
+Sarbanes-Oxley Act, 15 U.S.c. §7243.
+
+                                            9
+---------------------Page 10---------------------
+
+        Case 1:10-cv-00909-PLF   Document 1     Filed 06/02/10   Page 10 of 10     
+
+                                 PRAYER FOR RELIEF
+
+              WHEREFORE, the Commission respectfully requests that this Court entera final
+
+judgment:
+
+       A.     Ordering Defendant to reimburse Diebold for bonuses and other incentive-based
+
+and equity-based compensation hereceived from Diebold, pursuanttoSection 304 of the
+
+Sarbanes-Oxley Act, 15 U.S.C.§ 7243; and
+
+       B.     Granting such other and further reliefasthe Court deemsjustand appropriate.
+
+                                             Respectfully submitted,
+
+                                             Scott W. Friestad
+                                             Robert B. Kaplan
+                                             Brian O. Quinn(DC Bar No. 450013)
+                                             David J. Gottesman
+                                             Christo   rG. Swart
+
+                                             Attorneys for Plaintiff
+                                             Securities and Exchange Commission
+
+                                             SEC Division of Enforcement
+                                             100 F. Street, NE
+                                             Washington, DC 20549-4010
+                                             (202) 551-4535 (Bender)
+
+Dated: June 2, 2010
+
+                                            10

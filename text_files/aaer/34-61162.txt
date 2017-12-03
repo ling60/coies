@@ -1,0 +1,1939 @@
+---------------------Page 1---------------------
+
+                           UNITED STATES OF AMERICA
+ 
+                                      before the 
+
+                    SECURITIES AND EXCHANGE COMMISSION
+ 
+
+SECURITIES EXCHANGE ACT OF 1934 
+Rel. No. 61162 / December 14, 2009 
+
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Rel. No. 3080 / December 14, 2009 
+
+Admin. Proc. File No. 3-12208 
+
+                       In the Matter of
+ 
+
+                    KEVIN HALL, CPA
+ 
+                            and
+ 
+                 ROSEMARY MEYER, CPA
+ 
+
+OPINION OF THE COMMISSION 
+
+      RULE 102(e) PROCEEDING 
+
+             Grounds for Remedial Action
+ 
+
+                    Improper Professional Conduct
+ 
+
+      Certified public accountants acting as engagement partner and senior manager were 
+      charged with having engaged in improper professional conduct in both the audit and the 
+      interim review of a public company's financial statements.  Held                                                     , the matter is dismissed. 
+
+APPEARANCES: 
+
+      Miles N. Ruthberg, Peter W. Devereaux, Jamie L. Wine, William R. Baker, III, David A. 
+Becker, and Kevin H. Metz, for Kevin M. Hall. 
+
+      Gary F. Bendinger, Wesley D. Felix, and Yolanda Hawkins-Bautista, for Rosemary K. 
+Meyer. 
+
+      John D. Worland, Jr., Robert W. Pommer III, H. Michael Semler,  and Matthew B. 
+Greiner, for the Division of Enforcement. 
+---------------------Page 2---------------------
+
+                                               2
+ 
+
+Appeal filed: February 6, 2008 
+Last brief received: May 21, 2008 
+Oral argument: July 21, 2009 
+
+       The Division of Enforcement appeals from the decision of an administrative law judge in 
+a proceeding brought pursuant to Commission Rule of Practice 102(e) ("Rule 102(e)"). 1 
+                                                                                       The law 
+judge found that the conduct of Kevin Hall, CPA and Rosemary Meyer, CPA (together, 
+"Respondents"), in connection with the fiscal year ("FY") 1999 audit of the financial statements 
+of U.S. Foodservice, Inc. ("USF") and the interim review of USF's second quarter FY 2000 
+financial statements, was not improper under the Rule.  We base our findings on an independent 
+review of the record, except with respect to those findings not challenged on appeal. 
+
+                                               I. 
+
+                  The Audit of the Fiscal Year 1999 Financial Statements 
+
+A.     Background 
+
+       USF is a food service and distribution company.  The accounting firm KPMG, LLP 
+("KPMG") served as USF's independent auditor for fiscal years 1997, 1998, and 1999. 2 
+                                                                                      
+Respondents worked on KPMG's audits of USF's financial statements for all three audits.3 
+                                                                                          
+
+       Hall was the engagement partner, and Meyer was the senior manager, on the audit of 
+USF's FY 1999 financial statements.  Hall signed an unqualified audit opinion stating that 
+KPMG had conducted its audit in accordance with generally accepted auditing standards 
+("GAAS") and that such audit provided a reasonable basis for its opinion that USF's FY 1999 
+financial statements fairly presented USF's financial position, the results of its operations, and its 
+
+       1 
+              17 C.F.R. § 201.102(e).  With the passage of Section 602 of the Sarbanes-Oxley 
+Act of 2002, Pub. L. No. 107-204, 116 Stat. 745, 794 (2002), this rule was codified in Section 4C 
+of the Securities Exchange Act of 1934, 15 U.S.C. § 78d-3. 
+       2 
+              During the periods audited by KPMG, USF's fiscal year ended on the Saturday 
+closest to June 30. 
+       3 
+              Respondents also worked on KPMG's interim review of USF's quarterly financial 
+statements for the second quarter of FY 2000.  See infra Section III. 
+---------------------Page 3---------------------
+
+                                               3
+ 
+
+cash flows, in conformity with generally accepted accounting principles ("GAAP"). 4 
+                                                                                    It is 
+undisputed that USF's financial statements for FY 1999 do not accord with GAAP. 
+
+B.     Details of USF's Accounting Fraud 
+
+       At the time of the FY 1999 audit, USF purchased products from approximately 7,000 
+vendors and re-sold them to customers such as restaurants, hospitals, and schools.  Many of the 
+purchases were made through brokers, many of whom handled multiple vendors. 
+
+       USF received rebates called promotional allowances ("PAs") from national vendors 
+responsible for the largest volume of USF's purchases.  The payment of PAs is a common 
+practice in the food distribution industry that is not itself improper.  Most PAs were volume 
+discounts, treated on USF's income statement as a reduction in the cost of sales.  On USF's 
+balance sheet, collected PA income increased USF's cash, and uncollected PA income was 
+included in accounts receivable.  PA income was extremely important to USF's profitability; it 
+roughly equated to USF's net income. 
+
+       The Division introduced evidence, and Respondents do not dispute, that during the time 
+at issue, USF was engaged in an earnings management fraud based in part on its accounting for 
+PAs.5 
+       The scheme involved prepayments of PA income to USF that were improperly booked as 
+income when received although they had not yet been earned, and intentional overpayments by 
+USF to brokers who "sheltered" the excess funds until USF needed them to make up for 
+shortfalls in PA income.6 
+                          
+
+       4 
+              GAAS are generally described in the American Institute of Certified Public 
+Accountants ("AICPA") Codification of Statements of Accounting Standards, hereinafter cited as 
+"AU § __."  Section 103 of the Sarbanes-Oxley Act, 15 U.S.C. § 7213, conferred the power to 
+establish auditing standards and rules for public companies on the Public Company Accounting 
+Oversight Board ("PCAOB"). 
+       5 
+              The ensuing description of the fraudulent conduct at USF is based largely on the 
+testimony of Timothy Lee, who admits to having participated in the fraud.  See infra.  Although 
+liability for the fraud is not at issue in this proceeding, and we make no findings regarding such 
+liability, we provide information about the fraud as a context for our findings about Respondents' 
+conduct.  Our findings with respect to any persons other than Respondents are made solely for 
+the purpose of this proceeding. 
+       6 
+              The accounting fraud continued to grow in scope.  USF was acquired by 
+Koninklijke Ahold N.V. ("Royal Ahold") in April 2000, and a new auditor was retained.  The 
+fraud only came to light in early 2003, at which time Royal Ahold conducted an internal 
+investigation.  Forensic accounting revealed overstatements of pre-tax earnings at USF of 
+                                                                                  (continued...) 
+---------------------Page 4---------------------
+
+                                               4 
+       Mark Kaiser, USF's senior vice president, then executive vice president of sales and 
+marketing, and Timothy Lee, executive vice president of USF's purchasing group, orchestrated 
+the accounting fraud.  Kaiser initiated the PA prepayment scheme in the mid-1990s. At his 
+direction, USF negotiated deals with some of its largest vendors whereby USF would commit to 
+purchasing a certain amount of product and the vendor would commit to paying USF a stated 
+allowance before the purchases had been completed.  Some prepayments were to be made 
+directly by the vendor; others were to be made through a broker who worked with the vendor. 
+Agreements with some vendors allowed the vendor to obtain a refund of the prepayments if USF 
+did not purchase the agreed-upon amounts.  
+
+       Kaiser instructed Lee to keep the prepayments concealed from everyone outside the 
+purchasing group.  For example, Kaiser told Lee to prepare summaries of the vendor purchasing 
+arrangements that omitted the prepayment provisions; if USF's auditors asked to see the 
+contracts, they were given only the summaries. 
+
+       USF had grown primarily through corporate acquisitions, and its purchasing data resided 
+on computers that did not share a common operating system.  For that reason, USF's purchasing 
+group relied on its vendors to calculate and report PAs due to USF.  Once a month, the 
+purchasing group calculated how much PA revenue should be recorded and instructed USF's 
+accounting group to book the revenue in USF's general ledger, the main source consulted in the 
+preparation of USF's financial statements.  The purchasing group also provided the accounting 
+group with adjustments, representing increases in PA income, at the end of each quarter.  
+
+       USF's PA account comprised accrued unbilled earnings and outstanding billed 
+receivables.  USF recognized all the income from each prepayment upon receipt.  Under GAAP, 
+USF should have recorded the prepayments as liabilities, because they were not yet earned.  USF 
+would not have met analysts' consensus earnings expectations without these adjustments, but 
+with them USF met or exceeded these expectations every quarter in fiscal years 1998 and 1999. 
+
+       Kaiser also arranged for income to be sheltered by various entities to satisfy PA balances 
+due.  For example, in December 1998 and June 1999, he directed Lee to make lists of 
+outstanding PA billings and to send them to Gordon Redgate, owner of Private Brands.  Private 
+Brands was a broker that dealt in canned goods and groceries.  Kaiser had arranged to overpay 
+Private Brands for certain goods, and Redgate was holding this excess payment as shelter income 
+for USF.7 
+           Kaiser, through Lee, instructed Redgate to issue checks returning some of the shelter 
+income that would retire the balances of vendors on the lists, even though Private Brands had no 
+relationship with some of those vendors.  Redgate arranged for the checks to be issued as 
+
+6 
+              (...continued)
+ 
+approximately $880 million between April 1, 2000 and December 28, 2002.  See Royal Ahold's
+ 
+Form 6-K dated May 8, 2003. 
+
+       7 
+              This overpayment resulted in an overstatement of the cost of goods to USF, and 
+thus a separate GAAP violation. 
+---------------------Page 5---------------------
+
+                                               5
+ 
+requested.  The checks were treated by USF as PA payments on behalf of the vendors, and, like 
+legitimate PA payments, they were recorded as income. 8 
+                                                        
+
+C.     KPMG's Audit of USF's 1999 Financial Statements 
+
+       Hall's responsibilities as engagement partner for the 1999 audit included planning the 
+engagement, assigning tasks to and supervising the staff, and ultimately drawing the conclusion 
+with respect to the financial statements taken as a whole.  Meyer helped Hall plan the audit; she 
+also had responsibilities for supervision, review of workpapers, evaluation of audit evidence, and 
+informing Hall about the progress of the audit and about issues of concern.  Seven or eight 
+additional KPMG staff members also worked on the 1999 audit. 
+
+       Respondents' planning and execution of the FY 1999 audit was informed by their work 
+on previous USF audits.  Hall testified that he had found management's representations in 
+connection with those audits correct, giving him confidence in management's integrity. 
+Additionally, USF required its senior management to sign questionnaires asserting their 
+compliance with a code of conduct, a measure Hall regarded as uncommon at that time.  9 
+                                                                                         Meyer 
+also stated that she had a positive impression of USF management. 
+
+       Management told Respondents during prior audits that USF did not have formal executed 
+written contracts with its vendors.  Respondents asked about the possibility of prepayments of 
+PA income and were told, "There were no prepayments of any amounts that had not been earned, 
+period."  A management representation letter signed by five members of USF senior management 
+
+       8 
+              The U.S. Department of Justice brought criminal charges against Kaiser and Lee. 
+Based on his wrongdoing at USF, Kaiser was convicted of one count of securities fraud, four 
+counts of false filing with the Commission, and one count of conspiracy.  United States v. Kaiser, 
+1:04-cr-00733-TPG (S.D.N.Y. May 18, 2007).  He was sentenced to seven years of 
+imprisonment and two years of supervised release, and fined.  Id.  Kaiser has filed an appeal of 
+his conviction, which remains pending.  United States v. Kaiser, 07-2365-cr (2d Cir. filed June 4, 
+2007).  Lee pleaded guilty to four felony charges of securities fraud, conspiracy, and making 
+materially false and fraudulent statements to the United States government.  United States v. Lee, 
+1:04-cr-00712-PKC (S.D.N.Y. July 27, 2004).  We brought multiple civil actions and 
+administrative proceedings related to the fraud at USF.  See SEC Charges Thirteen Individuals 
+with Aiding and Abetting Fraud at U.S. Foodservice, Litigation Rel. No. 19975 (Jan. 22, 2007), 
+89 SEC Docket 2929 (noting that nine out of thirteen individuals charged with aiding and 
+abetting fraud agreed to settle enforcement actions and listing eight related actions brought by the 
+Commission). 
+       9 
+              Under a rule promulgated by the Commission in 2003 pursuant to Section 406(a) 
+of the Sarbanes-Oxley Act, 15 U.S.C. § 7264(a), companies required by the Exchange Act to file 
+annual reports on Form 10-K must disclose whether they have adopted a code of ethics for 
+certain senior officers, and if not, why not.  17 C.F.R. § 229.406(a). 
+---------------------Page 6---------------------
+
+                                               6
+ 
+during an earlier audit stated that USF received no prepayments of PA income.  USF's 
+accounting for PA income was consistent with these management representations.  Thus, any 
+evidence the auditors uncovered suggesting that there were prepayments should have raised 
+serious issues concerning not only the correct accounting for PAs, but also the integrity of USF's 
+senior management. 
+
+       KPMG viewed the PA account as posing a high inherent risk, because individual 
+balances were significant within the account, and a high control risk, because KPMG did not 
+intend to rely on USF's internal controls in that area.  Accordingly, KPMG concluded that the 
+risk of significant misstatement related to PAs was high for the 1999 audit, and identified as a 
+critical audit objective determining whether "[a]ccounts receivable amounts, both billed and 
+unbilled for vendor rebates (promotional allowances) are accurately presented, properly valued 
+and exist."  An audit planning memorandum prepared by Meyer and reviewed by Hall explained 
+that the objective was considered critical "due to the considerable degree of management 
+judgment relating to allowance estimates, unbilled vendor receivable estimates and revenue 
+recognition."  
+
+       Because USF's controls were unreliable, Hall selected substantive procedures to test the 
+valuation, existence, and completeness of the PAs.  Two of these procedures, vouching cash 
+receipts and confirming vendor receivables, are at issue in this appeal. 
+
+       1.     Vouching Cash Receipts 
+
+       Respondents planned their cash receipts testing procedures to obtain information about 
+cash collection trends and about USF's application of incoming cash to appropriate accounting 
+periods.  For their principal cash receipts testing procedure, Respondents selected approximately 
+thirty-five vendors from the billed aged trial balance as of the end of USF's FY 1998 and tracked 
+their account balances during the subsequent fiscal year.  From a subset of twenty of those 
+vendors, Respondents sought remittances in amounts greater than $100,000 for detailed cash 
+receipts testwork and obtained a set of fifty checks and one wire transfer, eight of which 
+exceeded one million dollars.  Respondents were unable to analyze six of the fifty-one items, 
+identified as the "Discrepancies," satisfactorily on the basis of the information they had.  Four of 
+these Discrepancies were among the eight items that exceeded one million dollars.   
+
+       Three of the Discrepancies raised the possibility of prepayments on PA programs.  A $1.8 
+million wire transfer from Nabisco identified $1.2 million of the payment as an "Advance on 
+USF baked goods agreement," the remittance accompanying a Tyson check for approximately 
+$1.3 million read "99 m/1 prepay," and the remittance accompanying a $240,000 check from 
+Dakota Growers Pasta ("Dakota") read "Final 5year contrt pymnt."  10 
+                                                                     Respondents gave USF 
+
+       10 
+              The remaining Discrepancies -- a Dakota check for approximately $124,000, a 
+Seafood Marketing Specialists check for $450,000, and a four million dollar check from Superior 
+                                                                                   (continued...) 
+---------------------Page 7---------------------
+
+                                               7
+ 
+management a PA Discussion Points Memorandum that identified, among other things, these 
+apparent prepayment issues for further discussion with management.  Management's renewed 
+reassurances that USF did not receive prepayments or advances of PA income did not resolve 
+Respondents' concerns, and in early August, USF agreed to help Respondents obtain additional 
+third-party documentation. 
+
+       The record includes almost no documentary evidence showing how Respondents resolved 
+the Discrepancies.  One workpaper, captioned "Promotional Allowance Receivables," states that 
+Kaiser "obtained confirmation from the vendors that [the] cash receipts [involved in the 
+Discrepancies] . . . were not prepayment on fiscal 1999 programs or other advances" (emphasis 
+in original).  The workpaper continues, "See D-32 series for documentation of resolution."  The 
+record does not contain a workpaper series denominated D-32 nor does it establish what 
+happened to it or even whether it was ever created.11 
+                                                      Meyer testified that she intended for the 
+third-party documentation clearing the Discrepancies to be put in the workpapers, although 
+whether in D-32 or elsewhere she could not remember. 
+
+       The record contains two letters Respondents contend are illustrative of those they relied 
+on in resolving all of the Discrepancies.  A letter from Fred Paglia, Regional Vice President of 
+Nabisco Food Service, dated December 28, 1998 (the "Nabisco letter"), reads, in relevant part: 
+
+       Congratulations on another year of outstanding performance!  We are pleased to inform 
+       you that you have maxed out your 1998 Earned Income Program with Nabisco.  As 
+       discussed, you will shortly be in receipt of a wire transfer of $1,196,203. 
+
+       Once again, thanks for a record breaking year! 
+
+10 
+              (...continued)
+ 
+Coffee -- raised questions about USF's applications of the payments to the proper fiscal year or
+ 
+other concerns; the $1.3 million Tyson check raised questions about both prepayment and
+ 
+application. 
+
+       11 
+              Respondents suggested that the D-32 series, alternatively, was compiled but not 
+properly filed with the completed workpapers, was misplaced while a successor auditor had 
+access to the 1999 workpapers, was misplaced when the original workpapers were copied for 
+production to the Division, or was accidentally never compiled. 
+---------------------Page 8---------------------
+
+                                                8
+ 
+
+       A letter signed by Mike Rogers, Vice President, Western Division, Food Service Group, 
+Tyson Food Group, and dated July 21, 1999 (the "Tyson letter"), reads, in relevant part, 
+
+       Thank you for your continued commitment and growth pertaining to our program 
+       agreements.  As a result of this growth, a payout of $2,226,881 was submitted.  I look 
+       forward to the future and the opportunity to max out our program. 12 
+                                                                             
+
+Lee testified that both of these letters used language crafted by Kaiser to be intentionally vague, 
+susceptible of the interpretation that the payments were not prepayments, yet avoiding an explicit 
+statement to that effect. 
+
+       Meyer testified that the audit team obtained documentation that she claimed resolved the 
+other Discrepancies, but no such documentation is in the record.  Hall said that he saw the 
+documentation.  Neither Respondent provided detailed information about such purported 
+documents. 
+
+       In fact, the three checks that raised possible prepayment concerns were prepayments. 13 
+                                                                                                
+The checks that raised questions regarding application of funds or other concerns were all 
+received in FY 1999 and applied, at least in part, to FY 1998 invoices; they thus reflected 
+questionable applications of cash received. 
+
+       Respondents also conducted a more limited test of subsequent cash receipts, i.e., cash 
+received after the end of FY 1999.  Auditors commonly perform subsequent cash receipts testing 
+as an alternative procedure in instances where confirmations of accounts receivable are not 
+returned.14 
+            In such cases, they look to see whether particular balances are subsequently paid 
+down by the entities that owe them.  
+
+       Here, however, all the confirmation requests sent during the audit were returned, and the 
+record is unclear as to how extensively Respondents intended to review, and did review, the 
+application of the cash received.  Meyer testified that Respondents' principal inquiry in the 
+subsequent cash receipts testing was whether PA payments were coming in, with little attention 
+
+       12 
+               The record copy of the Nabisco letter was in KPMG's workpapers, but the Tyson 
+letter was obtained from Lee.  Meyer testified that, although she was not certain that she 
+reviewed this letter, she reviewed one consistent with it. 
+       13 
+               The four million dollar check from Superior Coffee was also a prepayment.  See 
+supra note 10. 
+       14 
+               See AU § 330.31-32 (suggesting examination of subsequent cash receipts, 
+"including matching such receipts with the actual items being paid," as an alternative procedure 
+to be used in examination of accounts receivable when the auditor has not received replies to 
+positive confirmation requests). 
+---------------------Page 9---------------------
+
+                                               9
+ 
+to how those funds were applied.  Hall testified that he did not personally review the checks, and 
+that he thought either Meyer or the audit team member who worked with her on cash receipts 
+testing had done so.  Meyer testified that, to the extent she looked at checks, she could not 
+remember which ones she saw. 
+
+       A memorandum in the audit workpapers states, "We vouched the cash receipts to check 
+copies and vendor remittances, as applicable. . . .  No problems were noted, cash was 
+appropriately applied."  These statements suggest the more detailed matching of payments to 
+invoices that would commonly be done in subsequent cash receipts testing.  However, Meyer 
+testified that the phrase "appropriately applied" might merely mean that cash was "received." 
+Hall testified that he was unsure about what Meyer meant by the language and was not "focused 
+on" whether the cash was appropriately applied.  
+
+       2.      Confirming Vendor Receivables 
+
+       Confirming vendor receivables of PA income involved sending requests to third parties 
+asking them to confirm that certain PA income was owed and earned.  Respondents employed 
+this procedure in the FY 1998 audit of USF and expanded it in the FY 1999 audit. 
+
+       Meyer obtained a list of PA accounts receivable from USF's accounting group; Hall asked 
+USF's chief financial officer to review the list in order to obtain further assurance that the list was 
+accurate and the amounts shown were owed and earned.  Meyer selected the thirty highest 
+balances from this list, and collaborated with Hall in choosing a representative sample of five 
+additional balances for confirmation. 
+
+       GAAS required the team to send the confirmations to persons the auditors believed to be 
+knowledgeable about the information at issue.15 
+                                                 Respondents testified that, in their experience, it 
+was common practice to obtain contact information for confirmation requests from the audit 
+client.  Respondents understood that Kaiser would provide the contact information for the 
+vendors and brokers.  They believed that Kaiser was more familiar with and knowledgeable 
+about the PA account than anyone else at USF.  Each letter included the representation that "the 
+invoice amount(s) is(are) due to U.S. Foodservice for rebates and/or promotional income earned 
+on products purchased and delivered to U.S. Foodservice prior to July 3, 1999."  Meyer "flipped 
+through" the prepared letters with USF's corporate controller.  Meyer testified that, in her 
+opinion, this cursory management review of the letters provided additional assurance that the 
+letters were addressed to appropriate people. 
+
+       15 
+              See AU §§ 330.16 (recognizing that the intended respondent of a confirmation 
+request has a "direct effect on the reliability of the evidence obtained"), 330.27 (requiring the 
+auditor to send the confirmation "to a respondent from whom the auditor can expect the response 
+will provide meaningful and competent evidence"). 
+---------------------Page 10---------------------
+
+                                               10 
+
+       Respondents noted that some of the letters were addressed to brokers rather than to 
+vendors, and they noticed that some brokers were being asked to confirm balances for more than 
+one vendor.16 
+               They considered these facts unexceptionable.  Respondents were generally 
+familiar with the role of brokers in USF's purchasing process from work on previous USF audits 
+and conversations with USF management,   17
+                                            and they had seen references to many of the brokers 
+on the list in their work on other aspects of the 1999 audit. 
+
+       There were, however, gaps in Respondents' knowledge regarding the individuals and 
+entities to whom the confirmations were sent.  Respondents did not always know which brokers 
+worked with which vendors, so they would not necessarily know whether a confirmation was 
+being sent to an appropriate broker.  Moreover, Respondents did not understand that USF did not 
+have PA programs with vendors of commodities.   18 
+                                                    Respondents were therefore unlikely to 
+realize that a confirmation of purported PA income coming from a commodities broker would be 
+anomalous.  Additionally, many of the names on the 1999 list were different from those to whom 
+confirmations were sent in 1998.  Thus, USF representations regarding addressees for the 1998 
+confirmations were of limited relevance. 
+
+       All thirty-five letters were returned directly to the auditors with responses indicating that 
+the information to be confirmed was correct.  Respondents considered this persuasive evidence 
+both that the addressees were knowledgeable and that the PA income in question was owed and 
+earned in FY 1999. 19 
+                      Respondents did not know, however, that Kaiser had supplied Respondents 
+with contact information for individuals willing to sign confirmation letters that contained false 
+information.  Some of the letters were sent to people who had no business relationship with USF. 
+Some of the addresses used were home addresses, or addresses for entities that were not involved 
+in the food distribution business at all. 
+
+       16 
+              Twenty-two of the thirty-five confirmation letters were addressed to seven people. 
+Each of the other letters was sent to a different person. 
+       17 
+              During the 1998 audit, when some of the confirmation requests were also sent to 
+brokers, Hall had met with USF management "to confirm that, in fact, they understood who the 
+brokers were that we were getting confirmations from."  The fact that most of the letters sent in 
+1998 were returned, with the requested information confirmed, indicated to Respondents that the 
+addressees were knowledgeable.   
+       18 
+              Vendors typically offered PAs on sales of prepared foods.  Commodities such as 
+meat and seafood were sold at a negotiated market price, without PAs. 
+       19 
+              Respondents included in the confirmations a representation that the amounts in 
+questioned were "earned" in order to provide assurance that those amounts were not 
+prepayments. 
+---------------------Page 11---------------------
+
+                                               11
+ 
+
+D.     The Administrative Proceeding 
+
+       The Order Instituting Proceedings ("OIP") was filed in February 2006.  Largely because 
+the administrative proceeding was stayed at the request of the Department of Justice, pending 
+resolution of criminal proceedings arising out of the fraud, the hearing did not begin until July 
+2007. 
+
+       The law judge found that Respondents' conduct in planning and executing both the cash 
+receipts testing procedures and the confirmation procedures did not constitute improper 
+professional conduct, and was, in fact, reasonable.  The law judge accepted Respondents' 
+testimony that they obtained vendor documentation clearing all six Discrepancies, although she 
+made no explicit finding as to Respondents' credibility. 
+
+                                               II. 
+
+                            Analysis of the Fiscal Year 1999 Audit 
+
+A.     Applicable Professional Standards 
+
+       Rule 102(e) permits the Commission to censure or deny, permanently or temporarily, the 
+privilege of appearing or practicing before it to persons found to have engaged in improper 
+professional conduct.20 
+                        As relevant here, "improper professional conduct" for accountants 
+includes "[r]epeated instances of unreasonable conduct, each resulting in a violation of applicable 
+professional standards, that indicate a lack of competence to practice before the Commission."21 
+                                                                                                
+The term "unreasonable" signifies an ordinary or simple negligence standard.22 
+                                                                               Discipline under 
+Rule 102(e) may be appropriate when the repetition of such negligent conduct shows an 
+accountant's lack of competence to practice before the Commission. 23 
+                                                                       The negligence-based 
+
+       20 
+              Rule 102(e), 17 C.F.R. § 201.102(e). 
+       21 
+              Rule 102(e)(iv)(B)(2), 17 C.F.R. § 201.102(e)(iv)(B)( 2).  The OIP also charged 
+that Respondents' conduct was reckless, or highly unreasonable in circumstances warranting 
+heightened scrutiny, either of which (if established) would also constitute improper professional 
+conduct within the meaning of the Rule.  For the reasons discussed below, we do not believe the 
+record supports these charges. 
+       22 
+              Amendment to Rule 102(e) of the Commission's Rules of Practice, 63 Fed. Reg. 
+57,164, 57,169 (Oct. 26, 1998) ("Amendment to Rule 102(e)"). 
+       23 
+              Gregory C. Dearlove, Securities Exchange Act Rel. No. 57244 (Jan. 31, 2008), 92 
+SEC Docket 1867, 1909-12 (discussing Amendment to Rule 102(e) and finding that Dearlove 
+                                                                                   (continued...) 
+---------------------Page 12---------------------
+
+                                                12
+ 
+
+standards in Rule 102(e)(iv)(B) are objective, measured by the degree of the departure from 
+professional standards rather than the intent of the accountant.24 
+                                                                  In applying these standards, the 
+Commission does not evaluate actions or judgments in the light of hindsight; it focuses, instead, 
+on what the accountant knew or should have known at the time an action was taken or a decision 
+was made. 25 
+
+       GAAS require auditors to exercise due professional care in performing an audit and 
+preparing a report.26 
+                      Auditors must maintain an attitude of professional skepticism, which 
+includes "a questioning mind and a critical assessment of audit evidence."27 
+                                                                              When the audit 
+presents a risk of material misstatement or fraud, auditors must increase their professional care 
+and skepticism.28 
+                   Auditors must obtain sufficient competent evidential matter to afford a 
+reasonable basis for an opinion with respect to the financial statements under review.29 
+                                                                                        They 
+may not substitute management representations for competent evidence, and they may not 
+
+23 
+               (...continued) 
+engaged in improper professional conduct under Rule 102(e)(B)(2)), petition denied, 573 F.3d 
+801 (D.C. Cir. July 24, 2009). 
+       24 
+               Amendment to Rule 102(e), 63 Fed. Reg. at 57,167, 57,170.    The term "applicable 
+professional standards" "primarily refers to GAAP, GAAS, the AICPA Code of Professional 
+Conduct and Commission regulations"; it encompasses "generally accepted standards routinely 
+used by accountants in the preparation of statements, opinions, or other papers filed with the 
+Commission" and "the body of professional guidance routinely used by accountants."      
+Amendment to Rule 102(e), 63 Fed. Reg. at 57,166.   
+       25 
+               See Amendment to Rule 102(e), 63 Fed. Reg. at 57,168 (discussing subparagraph 
+(B)(1)).  Respondents' conduct is judged against standards in effect at the time of the conduct at 
+issue, although more stringent standards would now apply in some relevant areas.  See  supra note 
+9 (discussing 17 C.F.R. § 229.406(a)) and infra Section II.B.1.b. (discussing PCAOB Auditing 
+Standard No. 3). 
+       26 
+               AU § 230.01. 
+       27 
+               AU § 230.07; see also AU §§ 230.08 ("[P]rofessional skepticism should be 
+exercised throughout the audit process."), 330.15 (requiring auditors to exercise an appropriate 
+level of professional skepticism in designing and conducting the confirmation process). 
+       28 
+               AU §§ 312.17, 316.27. 
+       29 
+               AU § 326.22. 
+---------------------Page 13---------------------
+
+                                               13
+ 
+
+become satisfied with less than persuasive evidence merely because they believe that 
+management is honest. 30 
+
+       Before analyzing Respondents' conduct in connection with the two substantive 
+procedures at issue, we address Respondents' contention that a finding of improper professional 
+conduct within the meaning of Rule 102(e) may not be based on repeated instances of 
+unreasonable conduct in connection with the audit of a single account -- in this case, they argue, 
+the PA account.  Rule 102(e) looks to the number of instances of unreasonable conduct, not the 
+number of accounts.  The adopting release for Rule 102(e) recognizes that "[t]he term 'repeated' 
+may encompass as few as two separate instances of unreasonable conduct occurring within one 
+audit."31 
+          There is no requirement that the two instances pertain to different accounts in that audit. 
+The statement in the release that an auditor's failure to gather evidential material "for more than 
+two accounts" could constitute repeated instances of unreasonable conduct 32
+                                                                            is merely an 
+example of conduct that would fall under Rule 102(e)(iv)(B)(2).  We therefore see no merit in 
+Respondents' argument.   
+
+B.     Cash Receipts Testing 
+
+       1.      Resolution of the Discrepancies 
+
+                      a.      The Nabisco and Tyson Discrepancies 
+
+       As discussed above, in the course of cash receipts testing Respondents identified six 
+Discrepancies that they concluded they could not resolve without further information.  The 
+record contains two letters, purportedly written by third parties, on which Respondents relied in 
+concluding that the Discrepancies related to the Nabisco remittance and the Tyson wire transfer 
+were not evidence of prepayments of PAs.  
+
+       Whether these two letters adequately address the concerns that led Respondents to 
+identify the Nabisco remittance and the Tyson wire transfer as Discrepancies is a close question. 
+Respondents knew that USF's accounting for PAs posed a significant audit risk and that any 
+evidence of prepayments would raise critical questions about management integrity.  The words 
+"prepay" and "advance" were red flags warning of the possibility that prepayments had been 
+made.  Against this background, the resolution of these two Discrepancies assumed particular 
+importance.  The Nabisco and Tyson letters, however, do not explicitly address Respondents' 
+
+       30 
+              AU §§ 333.02, 230.09.  GAAS also requires auditors to plan the audit adequately 
+and to supervise any assistants properly.  AU §§ 311.01, 311.11.  Violations of these GAAS 
+provisions were not charged. 
+       31 
+              Amendment to Rule 102(e), 63 Fed. Reg. at 57,169. 
+       32 
+              Id. 
+---------------------Page 14---------------------
+
+                                               14
+ 
+concerns: they do not refer to prepayments or advances at all, much less explain why the terms 
+"prepay" and "advance" were used, if the payments at issue were not prepayments.  
+
+       On the other hand, the letters appear to have been written in the ordinary course of 
+business, predating Respondents' inquiries about the remittance and the wire transfer.   Such  
+letters would not necessarily directly address Respondents' concerns.  The letters, crafted by 
+Kaiser to be purposefully ambiguous, can be read to imply that the payments are based on past 
+performance.  The Nabisco letter congratulates USF on "another year of outstanding 
+performance," apparently summing up the year's sales; this inference is further buttressed by the 
+statement that USF "ha[s] maxed out your 1998 Earned Income Program with Nabisco."  The 
+statement that USF would "shortly be in receipt of a wire transfer of $1,196,203," following 
+closely after the apparent references to the completion of an annual purchase cycle, can be read 
+as related to that year's purchases, with the payment based on those purchases.  The Tyson letter, 
+while less clearly backward looking, is at least consistent with the theory that the payment at 
+issue was not an advance or prepayment. 
+
+       Moreover, Respondents' interpretation of the Nabisco and Tyson letters did not occur in a 
+vacuum.  Respondents confirmed balances at the end of FY 1998 in their FY 1998 audit, rolled 
+forward the accounts to review activity during FY 1999, then confirmed balances at the end of 
+FY 1999 in their FY 1999 audit.  They knew from the workpapers of the predecessor auditors 
+that USF had represented for years that it did not receive prepayments of PAs, and their own 
+audit work in prior years tended to confirm that there were no prepayments.  Respondents were 
+not shown contracts with prepayment terms -- only the term sheets that omitted the prepayments. 
+Respondents questioned management about the existence of prepayments, included a 
+representation about the absence of prepayments in the management representation letter, and 
+tailored the language of the confirmation letters to obtain assurances that the amounts to be 
+confirmed were not prepayments.  33 
+
+       Given the significance to the audit of properly resolving these two Discrepancies, we do 
+not believe that, on this record, Respondents' conduct exemplifies best audit practices.  However, 
+based on the totality of the evidence here, we cannot conclude that Respondents' conduct in 
+resolving the Nabisco and Tyson Discrepancies constituted an instance of unreasonable conduct 
+within the meaning of Rule 102(e). 
+
+       33 
+              The Division argues that Respondents admitted that the Tyson letter was too 
+ambiguous to resolve the Discrepancy.  Respondents only admitted, however, that their concerns 
+regarding application of the Tyson payment were not adequately addressed by the Tyson letter in 
+the record.  See supra note 10 (recognizing that the Tyson remittance posed application as well as 
+prepayment concerns).  They assert that they obtained a second letter, which is not in the record, 
+resolving the application concerns.  See infra Section II.B.1.b. (discussing absence from the 
+record of third-party documentation on which Respondents relied in resolving remaining 
+Discrepancies). 
+---------------------Page 15---------------------
+
+                                               15
+ 
+
+               b.     Resolving the Remaining Discrepancies 
+
+       The law judge found both that Respondents obtained and reviewed third-party 
+documentation in resolving the four remaining Discrepancies, and that their reliance on it to 
+resolve those Discrepancies was reasonable.  The first finding is a finding of fact, based on the 
+law judge's assessment of Respondents' uncontradicted testimony. 34 
+                                                                     The law judge's finding that 
+Respondents' reliance on the third-party documentation in clearing the Discrepancies was 
+reasonable is, on the other hand, a finding of law requiring an application of the reasonableness 
+standard to particular facts.35 
+                              Because neither the purported letters nor adequate descriptions of 
+their contents are in the record, it is impossible to determine whether Respondents' reliance on 
+such documentation to resolve the Discrepancies was reasonable.  Conversely, the Division, 
+which has the burden of proof, was unable to demonstrate that Respondents' reliance was 
+unreasonable because the only evidence on this point is Respondents' testimony.  Thus, although 
+the law judge lacked sufficient basis to determine that Respondents' conduct was reasonable, we 
+are unable to conclude that Respondents' conduct in resolving the four remaining Discrepancies 
+was unreasonable. 
+
+       Under current GAAS, audit documentation must "contain sufficient documentation to 
+enable an experienced auditor, having no previous connection with the engagement," to 
+"understand the nature, timing, extent, and results of the procedures performed, evidence 
+obtained, and conclusions reached," with no provision for recourse to external sources.36 
+                                                                                         The 
+absence from the workpapers of documents as critically important as the third-party documents 
+that Respondents relied on to clear the Discrepancies (or a detailed summary of those documents) 
+might well constitute a violation of current GAAS.  At the time of the FY 1999 audit, however, 
+
+       34 
+              We note, however, that Meyer's testimony that terms used in the workpapers that 
+ordinarily have one meaning might actually mean something different is troubling.  In addition to 
+her testimony that a statement in the workpapers that cash was "appropriately applied" might 
+merely mean that cash was "received," she testified that what she described in the workpapers as 
+a review of "executed contracts" might actually have been a review of "executive vendor 
+correspondence," and that a reference to a "purchasing requirement" might really be to an 
+"internal purchasing target." 
+       35 
+              E.g., Russell Ponce, 54 S.E.C. 804, 817 n.33 (2000) (observing that whether 
+activity was manufacturing or research and development for purposes of GAAP "is a mixed 
+question of law and fact"), aff'd                           , 345 F.3d 722 (9th Cir. 2003). 
+       36 
+              PCAOB Auditing Standard No. 3. 
+---------------------Page 16---------------------
+
+                                               16
+ 
+GAAS   did not preclude an auditor from supporting his or her report by other means in addition to 
+workpapers, as the law judge found Respondents did here.  37 
+
+       2.      Other Red Flags in Cash Receipts Testing 
+
+       The Division also contends that Respondents encountered many other red flags in the 
+course of cash receipts testing, including apparent irregularities in payment patterns and in the 
+application of payments.  For example, copies of some payment checks that went into the PA 
+account have remittances showing payors' notes regarding the application of their payments, but 
+USF's application of the funds was often inconsistent with the payors' notes.  The Division 
+contends that in failing to analyze these red flags more closely, Respondents failed to show due 
+care and to gather sufficient competent evidential matter to support their audit conclusions. 
+
+       It is unclear, however, how many of the checks and remittance copies underlying these 
+red flags Respondents personally saw.  Meyer testified, without contradiction, that she could 
+remember seeing the three largest checks that gave rise to the Discrepancies, but could not 
+remember which other checks she saw.  There is no testimony that Meyer, as opposed to some 
+other member of the audit team, was shown copies of particular checks.  Without evidence that 
+Meyer saw specific checks raising application problems, we cannot conclude that it was 
+unreasonable for Respondents to have failed to follow up on those red flags.38 
+
+       KPMG's files contain a chart showing details of questionable applications of payments. 
+We believe that a reasonable auditor would have noticed red flags upon review of this detailed 
+chart.  However, the record does not establish who prepared the chart or whether Respondents 
+knew about the chart or the information it contained, and the chart is not contained in the audit 
+workpapers.  Because the record does not show that they were aware of the chart, Respondents 
+cannot be found to have failed to exercise due care or maintain an attitude of professional 
+skepticism with respect to the information contained in it. 
+
+       The audit workpapers contain a different chart that presents some of the same information 
+shown on the chart found in KPMG's files, and it is reasonable to expect that Respondents would 
+have been aware of the chart in the workpapers.  However, the questionable applications are less 
+obvious on the workpaper chart, and the information presented on its face is too innocuous to 
+rise to the level of a red flag.  The record therefore does not establish that Respondents failed to 
+
+       37 
+               AU §339.01 n.3; cf.  Gregory C. Dearlove, 92 SEC Docket at 1883 n.39 (finding 
+lack of any evidence in workpapers or elsewhere in the record to be evidence that audit team did 
+not devote substantial, if any, effort to review the areas in question). 
+       38 
+               If another member of the audit team reviewed the checks and remittances and 
+failed to brief Meyer about them adequately, this might raise questions regarding GAAS 
+standards pertaining to staffing or supervision; no violation of those standards was charged or 
+litigated here. 
+---------------------Page 17---------------------
+
+                                               17
+ 
+exercise due care or maintain an attitude of professional skepticism with respect to the 
+information contained in the workpaper chart. 
+
+       3.      Application Issues in Subsequent Cash Receipts Testing 
+
+       The Division contends that Respondents acted unreasonably in not following up on 
+irregularities encountered in subsequent cash receipts testing, where the application of some 
+payments lacks any evident rationale.  The Division bases its argument on the assumption that 
+Respondents' testing of "application" meant the usual auditing practice in conducting subsequent 
+cash receipts testing:  examining checks and remittances to see whether a particular vendor's PA 
+payment was applied against that vendor's PA receivable.  Such an examination here would have 
+revealed a complex tangle of applications of money where, for example, payments made by 
+several entities were applied against a receivable of yet another, apparently unrelated, entity. 
+Unraveling this tangle could have led to the discovery of accounting irregularities, at least, and 
+perhaps of fraud. 
+
+       There is no apparent reason why Respondents would have performed subsequent cash 
+receipts testing for the more limited purpose to which they testified, i.e., to verify that money 
+broadly characterized by USF as PA income was being applied against the broad category of PA 
+receivables.39 
+               However, in light of the law judge's apparent acceptance of Respondents' 
+testimony, and in the absence of contradictory record evidence, we cannot find that it was 
+unreasonable that Respondents failed to notice red flags that would have been apparent had they 
+been conducting a more detailed application testing.  For these reasons, we find that the record 
+does not establish that Respondents' conduct with respect to the cash receipts testing procedures 
+in the FY 1999 audit constituted an unreasonable departure from GAAS. 
+
+C.     Confirming Vendor Receivables 
+
+       GAAS define the confirmation process as "obtaining and evaluating a direct 
+communication from a third party in response to a request for information about a particular item 
+affecting financial statement assertions."40 
+                                            Accordingly, GAAS require the auditor to "direct the 
+confirmation request to a third party who the auditor believes is knowledgeable about the 
+
+       39 
+              There was not, under the circumstances of this audit, a GAAS requirement that 
+subsequent cash receipts testing be performed at all.  However, GAAS requires that, for any audit 
+procedure undertaken, the auditors must diligently perform the procedure in compliance with all 
+applicable GAAS. 
+       40 
+              AU § 330.04. 
+---------------------Page 18---------------------
+
+                                               18
+ 
+
+information to be confirmed."41 
+                                 AU Section 330.27 emphasizes that particular circumstances 
+may require heightened skepticism: 
+
+       If information about the respondent's competence, knowledge, motivation, ability, or 
+       willingness to respond, or about the respondent's objectivity and freedom from bias with 
+       respect to the audited entity comes to the auditor's attention, the auditor should consider 
+       the effects of such information on designing the confirmation request and evaluating the 
+       results, including determining whether other procedures are necessary. . . . In these 
+       circumstances, the auditor should consider whether there is sufficient basis for 
+       concluding that the confirmation request is being sent to a respondent from whom the 
+       auditor can expect the response will provide meaningful and competent evidence.  42 
+
+       Respondents did not act improperly in obtaining confirmation names and addresses from 
+management in the first instance; management is ordinarily in the best position to provide such 
+information.  The Division contends, however, that Respondents should have independently 
+investigated each of the addressees, for example by contacting the vendors and addressees, 
+reviewing underlying invoices and other USF accounting records, and/or considering the audit 
+evidence provided by the cash receipts testing. 
+
+       The Division contends that it was clear at the time of the FY 1999 audit that Respondents 
+were not allowed to use contact information provided by USF management without taking steps 
+to verify that the addresses they were given were truly those of persons knowledgeable about the 
+information to be confirmed.  They contend that our decision in Seidman & Seidman   43
+                                                                                      and the 
+AICPA's Report of the Special Committee on Equity Funding ("Equity Funding Report")     44 
+required auditors to validate addresses.  
+
+       Neither  Seidman & Seidman nor the Equity Funding Report requires Respondents to do 
+more than they did to ascertain that the addresses they used were valid.  In Seidman & Seidman                                                                          , 
+the auditors essentially relied on their client's employees to conduct confirmation procedures 
+without supervision or testing by the auditors.45 
+                                                 Such an abandonment of audit responsibilities is 
+not at issue here.  The Equity Funding Report states that ascertaining that valid addresses are 
+used "is already a customary and integral part of confirmation procedures," but it does not 
+explain what validation procedures are required.  
+
+       41 
+              AU § 330.26. 
+       42 
+              AU § 330.27 (footnote omitted). 
+       43 
+              46 S.E.C. 524, 543 (1976). 
+       44 
+              Report of the Special Committee on Equity Funding 32 (AICPA 1975). 
+       45 
+              46 S.E.C. at 543. 
+---------------------Page 19---------------------
+
+                                               19
+ 
+       We find that Respondents' use of the addresses received from USF management must be 
+viewed in the context of their entire experience in auditing USF.  Some of the addressees had 
+returned confirmations in connection with the 1998 audit, indicating their familiarity with the 
+balances to be confirmed.  Respondents had received assurances from management that the 1998 
+addresses were suitable.  The USF corporate controller's quick review of the FY 1999 letters 
+indicated to Meyer that he saw nothing questionable about the choice of recipients.  Because 
+Respondents had amassed considerable knowledge, both about USF's business generally 
+(including the nature of relationships between USF's vendors and the brokers they worked with) 
+and about specific vendors, we decline to find that Respondents were required to conduct further 
+investigation before using the addresses under the standards expected of a reasonable accountant 
+at the time. 
+
+       The Division contends that audit evidence provided by the cash receipts testing should 
+have led Respondents to investigate the addressees more closely.  However, Respondents were 
+actively pursuing resolution of the Discrepancies, and because their efforts appeared to be 
+leading in the direction of resolution, their work on the Discrepancies did not require them to 
+exercise heightened skepticism with respect to confirmation addressees.  
+
+       For these reasons, we find that the Division did not establish that Respondents' conduct 
+with respect to the confirmation procedures in the FY 1999 audit constituted an unreasonable 
+departure from GAAS. 
+
+                                               III. 
+
+                  The Interim Review of Quarterly Financial Information 
+
+       The Division contends that Respondents' review of USF financial statements for the 
+second quarter ended January 1, 2000 reflected an additional unreasonable departure from 
+"applicable professional standards."  As an initial matter, the initial decision included dicta 
+questioning whether a quarterly review should serve as a basis for Commission discipline.  Rule 
+102(e) covers "generally accepted standards routinely used . . . in the preparation of statements, 
+opinions, or other papers filed with the Commission."46 
+                                                         Thus, the Rule offers no support for 
+such an assertion.  The Rule focuses on violations of "applicable professional standards," not on 
+any particular accounting or auditing procedure.  As discussed below, AU § 722 establishes 
+professional standards applicable to interim reviews.  Restricting the Rule's application to audits 
+would undermine its effectiveness as a "remedial tool . . . cover[ing] a range of conduct that 
+demonstrates that a professional is a future threat to the Commission's processes."47 
+                                                                                    
+
+       46 
+              Amendment to Rule 102(e), 63 Fed. Reg. at 57,166. 
+       47 
+              Id. 
+---------------------Page 20---------------------
+
+                                               20
+ 
+
+A.     Applicable Professional Standards:  AU Section 722 
+
+       The objective and procedural requirements for interim reviews are set forth in AU 
+Section 722.  In contrast to an audit, where the objective "is to provide a reasonable basis for 
+expressing an opinion" regarding whether financial statements taken as a whole comply with 
+GAAP,  48
+         the objective of a review of interim financial information is to provide "a basis for 
+reporting whether material modifications should be made for such information to conform with 
+[GAAP]."  49 
+
+       An interim review requires the accountant to apply "his or her knowledge of financial 
+reporting practices to significant matters of which he or she becomes aware through inquiries and 
+analytical procedures," but does not require the accountant to conduct all of the procedures 
+generally performed during an audit.50 
+                                        An interim review, unlike an audit, does not generally 
+contemplate "tests of accounting records through inspection, observation, or confirmation" or 
+generally require evidence corroborating management's statements.  51 
+                                                                       An interim review 
+accordingly provides "limited assurance" or "negative assurance" that the financial statements 
+comply with GAAP.  It may reveal "significant matters affecting the interim financial 
+information, but it does not provide assurance that the accountant will become aware of all 
+significant matters that would be disclosed in an audit."52 
+                                                          
+
+       The inquiries and analytical procedures involved in the review process include 
+comparisons of the interim financial statements with previous statements and the accountant's 
+expectations, as well as assessments of "plausible relationships among both financial and, where 
+relevant, nonfinancial data."53 
+                               If the accountant learns something during the review "that leads 
+him or her to question whether the interim financial information . . . conforms with [GAAP], the 
+accountant should make additional inquiries or employ other procedures he or she considers 
+appropriate to provide the limited assurance for a review engagement." 54 
+                                                                          For instance, upon 
+discovery of any "significant changes in accounting practices or in the nature or volume of the 
+client's business activities," the accountant "should inquire about the manner in which the 
+
+       48 
+               AU § 722.09. 
+       49 
+               Id. 
+       50 
+               Id. 
+       51 
+               Id. 
+       52 
+               Id. 
+       53 
+               AU § 722.13(b). 
+       54 
+               AU § 722.18. 
+---------------------Page 21---------------------
+
+                                                21
+ 
+
+changes and their effects are to be reported."55 
+                                                Circumstances requiring additional inquiries 
+include "extraordinary, unusual or infrequently occurring transactions; significant changes in 
+related parties or related-party transactions; . . . or the development of other contingencies."56 
+                                                                                              
+ 
+       AU Section 722 instructs the accountant to direct these inquiries to executives 
+responsible for financial and accounting matters.57 
+                                                    Management's responses to these inquiries, 
+though generally not requiring corroboration, should be assessed for "consistency . . .  in light of 
+the results of other inquiries and the application of analytical procedures."58 
+                                                                              "Deferrals, accruals, 
+and estimates at the end of each interim period are frequently affected by judgments made at 
+interim dates concerning anticipated results of operations for the remainder of the annual 
+period."59 
+
+       If the accountant "become[s] aware of matters that cause him or her to believe that 
+interim financial information . . . is probably materially misstated as a result of a departure from 
+[GAAP]," the accountant should discuss those matters with "the appropriate level of 
+management."  60 
+                  If management does not appropriately address these concerns, the accountant 
+should contact the audit committee. 61 
+                                      
+
+B. Background 
+
+       1.  Payments to United Signature Foods During the Second Quarter of FY 2000  
+
+       The OIP's allegations with respect to the interim review focus on USF payments to 
+United Signature Foods ("Signature").  During the prior fiscal year, USF sold Signature 
+manufacturing assets, conditioned on USF's agreement (the "Supply Agreement") to purchase 
+approximately $750 million of products produced by Signature over a six-year period.  The 
+Supply Agreement included yearly purchasing targets, and required USF to pay a shortfall 
+penalty ("Shortfall Penalty") if purchasing for any contract year fell below 95% of the applicable 
+annual target. 
+
+       55 
+               AU § 722.16. 
+       56 
+               Id. 
+       57 
+               AU § 722.13(f). 
+       58 
+               AU § 722.13(b). 
+       59 
+               AU § 722.08. 
+       60 
+               AU § 722.20. 
+       61 
+               AU § 722.21. 
+---------------------Page 22---------------------
+
+                                               22 
+       Each month Signature sent USF a notice calculating USF's purchases for the preceding 
+three months and annualizing this three-month amount.  If the annualization was less than 85% 
+of the annual target for the corresponding contract year, the Supply Agreement required USF to 
+pay a projected shortfall penalty ("Projected Penalty").  Unlike Shortfall Penalties, Projected 
+Penalties were refundable if, and to the extent that, the total Projected Penalties paid exceeded 
+the Shortfall Penalty amount due at year-end based on USF's actual purchasing during the 
+contract year. 
+
+       Respondents reviewed the Signature transaction for the FY 1999 audit, and described the 
+transaction in a memorandum (the "Audit Memo") and the notes to the FY 1999 audited financial 
+statements.  Those descriptions stated that USF accounted for the asset sale and the Supply 
+Agreement as a single transaction resulting in a net gain of approximately $78 million.  USF 
+deferred most of this gain based on Signature's reliance on its purchases and its substantial 
+purchasing obligations under the Agreement.  USF planned to recognize the deferred gain over 
+the six-year term of the Supply Agreement.  Both the audited financial statement notes and the 
+Audit Memo noted the annual purchase targets and referenced "penalties" for failure to purchase 
+"the minimum product quantities specified" in the Supply Agreement.  The Audit Memo further 
+stated, "[t]o the extent that payments are made in any year for failure to meet the minimum 
+purchase targets[,] they will be recorded as incurred."  Neither the Audit Memo nor the notes to 
+the financial statements made any mention of the monthly annualizations triggering Projected 
+Penalties. 
+
+       USF was unable to meet the contractual purchasing targets for the first contract year. 
+However, Signature did not charge a Shortfall Penalty.  Instead, it agreed to amend the Supply 
+Agreement.  Under this amendment, dated the last day of FY 1999 (the "Amendment"), USF 
+agreed to pay a "Cash Flow Deposit" of $3,251,100.  Unlike a Shortfall Penalty, this amount was 
+not forfeited upon payment but was instead treated as an "an advance payment" for future USF 
+payment obligations under the Supply Agreement. 
+
+       USF's continuing difficulties meeting the purchasing levels contemplated by the Supply 
+Agreement were reflected in the monthly Signature notices during the second quarter of the next 
+fiscal year.  These notices charged USF Projected Penalties of approximately $3.2 million in 
+October 1999, $3.3 million in November 1999, $3.0 million in December 1999, and $2.7 million 
+in January 2000.  The notices were addressed to USF's general counsel, and copied the USF 
+manager responsible for monitoring its purchasing under the Supply Agreement, and (except for 
+the October notice) the chief financial officer.  USF paid these charges and accounted for them as 
+a reduction in the deferred gain from the Signature transaction.  Because the payments were 
+recorded as a reduction in deferred gain rather than as an expense, they did not impact USF's 
+reported income in its quarterly financial statements.  
+
+       2.   Discovery of Signature Payments During the Interim Review 
+
+       Hall and Meyer were not aware of USF's difficulty in meeting the first annual target and, 
+in response to their direct questions, management did not disclose the existence of any 
+---------------------Page 23---------------------
+
+                                               23
+ 
+amendments to the Supply Agreement.  During the interim review, however, Meyer noticed that 
+the deferred income from the transaction had significantly decreased from the FY 1999 amount. 
+Based on discussions with USF's accounting department, Meyer understood that the reduction in 
+deferred gain related to approximately $13-15 million in payments to Signature.  
+
+       Meyer discussed these payments with the chief financial officer and general counsel, who 
+described them as "cash flow deposits" for future purchases.  At the hearing, she also testified 
+that USF's accounting records identified the payments as "cash deposits."  She testified that "at 
+no time did [she] believe or understand [the purchasing] to be below minimum purchasing 
+requirements in the contract," and that she had not generally been concerned about USF's ability 
+to meet the annual targets because she understood that the targets were based on historical 
+purchasing levels and that USF sales were growing.  Meyer testified: 
+
+         The payments, as I understood them, were not penalty payments . . . . US Foodservice 
+         was [Signature's] main customer, and it certainly made sense that if they were not 
+         meeting every purchase dollar that they wanted to, that [Signature] needed cash flow to 
+         continue to operate and manufacture the product that they needed. 
+
+       Meyer's workpaper notes state, "13M in pymts to United – Not meeting purchasing 
+requirements."  During the hearing, Meyer maintained that this notation referenced USF's 
+"internal targets" or "internal projections" and not contractual targets.  Her cross-examination by 
+the Division included the following exchange: 
+
+       Q: 	    So you understood at the time that if the company fell below the 85 percent 
+               threshold target during any 13-week period, that significant penalties would have 
+               to be paid? 
+       A:	     Could be, yes, sir.
+ 
+               . . . .
+ 
+       Q:	     And, in fact, KPMG had advised or had concluded that, in the event that the 
+               company made such shortfall penalties, that those penalties would be . . . . 
+               recorded as incurred? 
+       A:	     Yes. 
+       Q:	     You would agree the language in your [Audit Memo], it says recorded as incurred, 
+               in fact means that the penalties would be expensed? 
+       A:	     The penalties, if they were penalties, that was my understanding. 
+
+       Meyer also discussed these payments with Hall, who testified that the description of 
+payments as "cash deposits to help United Signature with cash flow" "seemed reasonable."  Hall 
+also testified that he had "a vague recollection of discussing the matter with [the chief financial 
+officer], and he indicated, as I recall, that they were going to make the purchase commitment as 
+of the end of the fiscal year and that they would not incur any penalties under the contract."  Like 
+Meyer, Hall testified that he had been familiar with the Projected Penalties calculation based on 
+the prior fiscal year review of the Supply Agreement, but that "[t]here was never any concern" 
+about USF's ability to meet the contractual purchasing targets," and that he did not know that 
+---------------------Page 24---------------------
+
+                                                24
+ 
+
+purchasing had fallen below the 85% mark during that quarter.  He testified that he did not recall 
+whether he had any conversations regarding the extent of the decline in purchasing, but referred 
+to "the representations we historically got from the company" regarding its compliance with its 
+contractual obligations.  Respondents were not aware of the monthly notices demanding 
+Projected Penalties and did not speak with the purchasing manager during the review.  
+
+       Hall also distinguished Shortfall Penalties and Projected Penalties.  He testified that 
+"[P]rojected [P]enalties that are paid during the interim [periods] . . . are not penalties" because 
+they "were recoverable to the extent that [USF] achieved the target by the end of the fiscal year."  
+
+C.     Analysis 
+
+       Generally, an issuer's losses must be expensed, or charged to income, when incurred. 
+Statement of Accounting Standards No. 5 ("FAS 5") outlines USF's accounting and reporting 
+obligations for the contingencies at issue in this case.62 
+                                                         A loss contingency is "an existing 
+condition, situation, or set of circumstances involving uncertainty as to possible . . . loss . . . that 
+will ultimately be resolved when one or more future events occur or fail to occur.  Resolution of 
+the uncertainty may confirm . . . the incurrence of a liability."63 
+                                                                 FAS 5 requires a loss 
+contingency to be expensed if both  (a) "Information available prior to issuance of the financial 
+statements indicates that it is probable that . . . a liability had been incurred at the date of the 
+financial statements;" and (b) "the amount of the loss can be reasonably estimated."64 
+                                                                                       FAS 5 
+further provides that disclosure, rather than a charge to income, is required if the contingent loss 
+is reasonably possible,65
+                         and that gain contingencies should usually not be recorded until the gain 
+is realized.66 
+              As applied here, the inquiry would focus on whether USF would fail to meet the 
+annual purchasing target, resulting in forfeiture of a previously paid Projected Penalty and/or the 
+assessment of a Shortfall Penalty. 
+
+       62 
+               On June 30, 2009, the Financial Accounting Standards Board ("FASB") issued the 
+FASB Accounting Standards Codification    TM
+                                             ("FASB ASC"), and established the FASB ASC as 
+the source of authoritative U.S. GAAP.  FASB ASC is effective for interim and annual periods 
+ending after September 15, 2009.  See Commission Guidance Regarding the Financial  
+Accounting Standards Board's Accounting Standards Codification, Exchange Act Rel. No. 
+60519A (Aug. 19, 2009), 96 SEC Docket 19829.  The provisions of FAS 5 are currently codified 
+primarily in FASB ASC Topic 450, Contingencies.  Because the conduct at issue took place prior 
+to the codification, we continue to use the designation FAS 5 in this opinion. 
+       63 
+               FAS 5 ¶ 1. 
+       64 
+               Id. ¶ 8. 
+       65 
+               Id. ¶ 10. 
+       66 
+               Id. ¶ 17. 
+---------------------Page 25---------------------
+
+                                               25 
+       The Division contends that Respondents failed to reasonably assess whether the payments 
+to Signature during the quarter, which the Division characterizes as "apparent penalties," should 
+have been expensed under FAS 5 as evidence of a probable (i.e., likely) and estimable failure to 
+meet Supply Agreement purchasing targets.  The law judge deemed Respondents' review 
+reasonable, finding that USF "maintained that it was behind on its own internal purchasing 
+targets" and "never represented . . . that the payments were penalty payments." 
+
+       On appeal, the Division contends that Respondents failed to apply appropriate 
+professional skepticism to the cash flow payment explanation from management.  Faulting 
+Respondents for failing to question the purchasing manager or to employ additional inquiries or 
+procedures, the Division argues that Respondents violated their obligation to follow up on 
+information raising questions about the compliance of the financial statements with GAAP.  The 
+Division contends that Respondents had an obligation to further test managements' explanations, 
+arguing that "[t]here is no rational reason why Signature would accept 'cash flow deposits' when 
+the contract by design provided for penalties to address the exact situation." 
+
+       However, a review "does not involve obtaining corroborating evidential matter for 
+responses to inquiries" or "search and verification."  On the one hand, the symbiotic relationship 
+between the two companies and USF's Form 10-K disclosure regarding warehouse consolidation 
+supported the plausibility of the cash flow/internal targets explanation.  In addition, although 
+Respondents were not aware of the Amendment during the review, the Amendment contradicts 
+the Division's contention that Signature's willingness to be flexible regarding USF's purchasing 
+obligations was implausible as a business matter. 
+
+       On the other hand, we agree with the Division that Respondents' assessment of 
+management's explanations for plausibility should also have taken into account the monthly 
+Projected Penalty calculations required under the Agreement.  Both Respondents testified that 
+they were familiar with the Projected Penalty provisions but that they were not aware that USF's 
+purchasing had fallen below the 85% target calculation.  Given this knowledge, a reasonable 
+inquiry regarding payments to Signature based on a downturn in purchasing should have directly 
+asked whether such payments, regardless of the nomenclature applied to them, had been 
+triggered by the Projected Penalty obligations in the Agreement.  However, Respondents' 
+testimony did not directly address whether their review inquiries focused on this key issue. 
+
+       Moreover, regardless of whether management characterized the payments as "penalties," 
+"cash flow payments," or "advances," because Respondents knew that USF's rights with respect 
+to these payments depended on future events, the accounting for such payments should have 
+triggered a consideration of FAS 5.  Such analysis could have appropriately considered both the 
+"probable and estimable" test for recognition of a loss contingency and the guidance disfavoring 
+recognition of gain contingencies.  The contractual Projected Penalty calculations should have 
+informed this FAS 5 analysis, and Respondents should have considered the plausibility of 
+management's explanations in light of their understanding of those calculations. 
+---------------------Page 26---------------------
+
+                                               26
+ 
+       On the record before us, however, we cannot determine whether Respondents considered 
+the appropriate contractual provisions as part of a FAS 5 assessment.  The testimony on this 
+point is ambiguous, in part due to the inconsistent use of key contractual terms during the 
+hearing.  For instance, the Signature payments at issue were repeatedly described as Shortfall 
+Penalty payments (assessed annually under the Agreement) despite clear record evidence that the 
+payments made during the quarter were Projected Penalty payments (assessed monthly).  Also, 
+although Meyer testified that "[a]t the time [she] was doing this work, there was no discussion of 
+penalty payments," it is unclear from the context, and Meyer was not asked to clarify, whether 
+this statement referred to either or both Projected Penalty and Shortfall Penalty payments. 
+
+       The contractual differences between Shortfall and Projected Penalty payments were 
+significant for FAS 5 purposes.  Because Shortfall Penalties were based on a final year-end 
+calculation, GAAP required any such payments to be expensed as a loss when probable and 
+reasonably estimable.67 
+                         
+
+       Projected Penalty payments, however, were based on projections and were subject to 
+refund pending the Shortfall Penalty calculation of purchasing volume for the entire year.  The 
+correct accounting treatment for a known Projected Penalty payment presents a close judgment 
+call as to which reasonable accountants could disagree.  Here, Respondents' expert suggests that 
+the payment of a Projected Penalty should have triggered a facts-and-circumstances based 
+analysis of the likelihood of achieving the year-end purchasing target.  The Division's expert 
+suggests that the actual payment of a Projected Penalty is evidence of a likely failure to meet the 
+annual target triggering an obligation to expense, and that the failure to expense the payments 
+amounted to a premature recognition of a gain contingency. 
+
+       Both approaches are grounded in relevant accounting guidance.  The facts-and­
+circumstances based analysis espoused by Respondents' expert is supported by interim review 
+guidance indicating that interim financial statements may appropriately reflect management 
+judgements at that time "concerning anticipated results of operations for the remainder of the 
+annual period,"68
+                 and FAS 5 guidance indicating that the recognition of a contingent loss must be 
+based on a "probab[ility] that one or more future events will occur confirming the fact of the 
+loss."  This guidance supports an accounting approach based on management representations 
+regarding the probability of future refund or application of payments prior to contract-year end. 
+FAS 5 guidance disfavoring premature recognition of contingent gains, however, could be read 
+to support an approach requiring automatic recognition of any Projected Penalty as a contingent 
+loss, as described by the Division's expert. 
+
+       67 
+               Meyer testified that "the penalties, if there were penalties" should have been 
+expensed, but that "in [her] understanding, these [payments] were not penalty payments." 
+       68 
+               AU § 722.08. 
+---------------------Page 27---------------------
+
+                                               27
+ 
+       In any event, the relevant question under Rule 102(e) is not whether the accounting for 
+the payments reflected in the financial statements was correct, but whether Respondents' review 
+of the accounting was reasonable in light of the relevant FAS 5 guidance and their knowledge of 
+the Supply Agreement. 69 
+                          The interim review workpapers offer minimal and ultimately 
+ambiguous evidence in this regard.  The only other record evidence is Respondents' testimony 
+and several statements in the report of Respondents' expert. 
+
+       Hall's testimony was generally consistent with the Respondents' expert's emphasis on the 
+FAS 5 "probable and estimable" standards for recognition of a contingent loss.  Hall emphasized 
+the distinction between Shortfall Penalties and Projected Penalties, stressing that Projected 
+Penalties would be refunded "to the extent that [USF] achieved the target by the end of the fiscal 
+year" and focusing on USF's assurances that annual contractual targets would be met.  Similarly, 
+Respondents' expert report describes Meyer's assessment in terms of the contingent loss factors, 
+indicating that "Ms. Meyer was . . . told by USF management that USF intended to and could 
+meet the contractual purchasing requirements by the end of the contract year and thus the 
+possibility that USF would incur penalties under the contract was remote." 
+
+       Although the Division contends that Hall and Meyer should have further tested or 
+questioned management's explanations, the Division did not press Respondents at the hearing 
+about the degree to which they did so.  For example, the Division's expert report stated that 
+Respondents should have asked management, "Why would Signature accept a prepayment from 
+USF when instead it had the contractual ability to charge USF penalties?"  At the hearing, 
+however, the Division did not ask Respondents whether they asked or considered this question. 
+
+       Some of Respondents' testimony could be read as supporting the Division's contention 
+that Respondents failed to appropriately evaluate management's explanations for the payments 
+against the Projected Penalty payment calculations required under the Supply Agreement.  For 
+instance, Hall testified that he did not recall asking how far below the threshold USF's 
+purchasing had fallen during the quarter, and Meyer testified that "[a]t the time [she] was doing 
+this work, there was no discussion of penalty payments."  Ultimately, however, this testimony is 
+not conclusive in light of the inconsistent use of key contractual terms during the examination of 
+Respondents at the hearing as described above, and because Respondents were not directly asked 
+to explain whether their FAS 5 assessment took the Projected Penalty calculations into account.70 
+                                                                                                 
+
+       69 
+              See, e.g., Dearlove, 92 SEC Docket at 1889-90 & n.51 (accountant's conduct may 
+violate GAAS even if the underlying financial reporting complies with GAAP). 
+       70 
+              The Division's suggestion that Respondents should have questioned the 
+purchasing manager diverges from interim review guidance directing inquiries to officers with 
+responsibility for "financial and accounting matters" rather than employees with operational 
+responsibility, and stating that responses to inquiries during a review do not need to be supported 
+by corroborating evidential matter.  
+                                                                                   (continued...) 
+---------------------Page 28---------------------
+
+                                               28
+ 
+       Given the limited assurance standard for interim reviews and gaps in the development of 
+potentially dispositive record evidence, we believe that the record does not establish, by a 
+preponderance of the evidence, that Respondents' conduct during the interim review was an 
+unreasonable departure from applicable professional standards. 
+
+                                               V. 
+
+                              Respondents' Due Process Claims  
+
+A.     Background   71 
+
+       In opening its investigation of USF accounting practices in early 2003, the Division 
+issued a document subpoena covering professional services provided to USF by Respondents.  In 
+April 2005, the Division issued Wells notices to notify Respondents that it was considering 
+recommending that the Commission institute administrative proceedings against them, and 
+offering Respondents an opportunity to submit a statement to be forwarded to the Commission in 
+conjunction with the Division's enforcement recommendation.  72 
+                                                                Respondents submitted a joint 
+Wells submission through their then-counsel ("Former Counsel") in May 2005.  
+
+       Separately, in July 2005, we authorized a preliminary investigation into whether certain 
+counsel, including Former Counsel, had engaged in conduct subject to discipline under Rule 
+
+70 
+              (...continued) 
+              Respondents note that both the chief financial officer and the general counsel 
+knew that the payments were Projected Penalty payments, but instead characterized the payments 
+as cash flow payments in response to Respondents' direct inquiries.  The Division expert's 
+suggestion that Respondents' assessment of management's responses should have taken into 
+account the management "integrity issues" from the previous year's audit assumes that 
+Respondents were, at that time, aware of reason to question management's integrity.  The record 
+does not include evidence that Respondents harbored such suspicions during the review.   
+       71 
+              Respondents have moved to limit public disclosure of their arguments regarding 
+the Division's investigation.  On July 20, 2009, we issued an order granting Respondents' motion. 
+Exchange Act Rel. No. 60346 (July 20, 2009), 96 SEC Docket 18986.  As noted in that order, the 
+requirements of sealing and confidentiality do not apply to "any reference to the existence of the 
+[c]overed [a]rguments or to citation of particular information contained therein" in, among other 
+things, the opinion "or in any other similar use directly connected with this action or any appeal 
+thereof."  Although we are dismissing this action, because of their potential significance in future 
+cases, we address Respondents' due process claims separately in this Section V. 
+       72 
+              See 17 C.F.R. § 202.5(c).  This is known as the Wells process. 
+---------------------Page 29---------------------
+
+                                               29
+ 
+
+102(e) (the "Counsel Investigation").  Consistent with Commission rules, we directed members 
+of the Office of General Counsel ("OGC") to conduct the Counsel Investigation. 73 
+                                                                                  
+
+       The Counsel Investigation was non-public,  74
+                                                    and Commission staff did not inform 
+Respondents of the Counsel Investigation when it was initiated.  Former Counsel continued to 
+represent Respondents, including in correspondence and meetings with the Division, between 
+May and August 2005.  In October 2005, Former Counsel, joined by new counsel for Hall,   75 
+submitted a second, superseding joint Wells submission ("Superseding Wells Submission").  
+Respondents state, and the Division does not dispute, that Respondents were not subpoenaed to 
+provide sworn testimony during the investigation.  In January 2006, OGC advised Former 
+Counsel of the Counsel Investigation.  The Counsel Investigation was subsequently closed 
+without any action being brought.  
+
+       In February 2006, we issued the OIP for this case.  The OIP included allegations, among 
+other things, that Respondents reviewed USF contracts containing prepayment provisions (the 
+"Prepayment Review Allegations").  In March 2006, new counsel entered a notice of appearance 
+on behalf of Meyer (together with Hall's new counsel, "Current Counsel"). 
+
+       The hearing before the law judge was originally scheduled to begin in March 2006, but 
+was stayed until April 18, 2007 upon a motion by the United States attorney for the Southern 
+District of New York.  On April 20, 2007, the Division indicated that it had decided not to 
+pursue the Prepayment Review Allegations at the hearing.  On June 20, 2007, Respondents filed 
+an interlocutory motion with the Commission seeking dismissal of the proceedings. 
+Respondents contended, among other things, that the Counsel Investigation deprived them of 
+effective assistance of counsel and that the Commission's decision to institute proceedings was 
+"tainted" by the Division's investigation.  We denied Respondents' motion, indicating that "once 
+we have exercised our prosecutorial discretion to institute a proceeding, the appropriate remedy 
+for any challenge to that exercise of discretion is to litigate the proceeding to a final decision." 
+Respondents renewed their due process claims during the hearing, but the law judge rejected 
+these claims, ruling that the hearing satisfied their due process right to defend themselves against 
+the charges.76 
+              
+
+       73 
+              OGC, rather than the Division, is charged with investigating and prosecuting 
+potential violations of Rule 102(e) by attorneys.  17 C.F.R. § 200.21(a). 
+       74 
+              17 C.F.R. § 202.5(a) ("Unless otherwise ordered by the Commission, the 
+investigation . . . is non-public and the reports thereon are for staff and Commission use only."). 
+       75 
+              The circumstances prompting Hall's substitution of new counsel are not evident 
+from the record.  
+       76 
+              The administrative law judge issued a separate decision under seal addressing 
+                                                                                   (continued...) 
+---------------------Page 30---------------------
+
+                                               30
+ 
+
+B.     Respondents' Contentions 
+
+       On appeal, Respondents argue that their due process claims constitute independent 
+grounds for dismissal of the Rule 102(e) charges.  Respondents argue that the Division had a 
+duty to inform them of the Counsel Investigation when it was initiated, and that the Division 
+"deprived [them]. . . of the opportunity to knowingly exercise [their] choice of counsel" when it 
+did not make this disclosure.  Asserting that the Counsel Investigation created a conflict of 
+interest violating their right to effective representation, Respondents claim that this right was 
+violated "the moment that Former Counsel was ineffective" due to the initiation of the separate 
+Counsel Investigation.  Respondents further contend that the Division engaged in an "incomplete 
+and biased" investigation that rendered our issuance of the OIP arbitrary and capricious.  In 
+support of this claim, they focus on the Division's decision not to pursue the Prepayment Review 
+Allegations and the law judge's subsequent decision finding that they had not engaged in 
+improper professional conduct.  Respondents argue that our issuance of the OIP caused them 
+reputational harm.  Finally, Respondents argue that the investigation violated Commission 
+ethical guidelines.  We address these contentions in turn.  
+
+C.     Analysis 
+
+       1.      Choice of Counsel. 
+
+       The right to counsel before administrative agencies is grounded in section 555(b) of the 
+Administrative Procedure Act ("APA"), which entitles a "person compelled to appear in person 
+before an agency or representative thereof . . . to be accompanied, represented, and advised by 
+counsel."77 
+            Commission rules, echoing the APA right, cover "[a]ny person compelled to appear, 
+or who appears by request or permission of the Commission, in person at a formal investigative 
+proceeding,"78
+               and a "witness who is sworn in a proceeding pursuant to a Commission order for 
+investigation or examination."79 
+                                 This provision of the APA had not attached during Former 
+Counsel's involvement in the Division's investigation because Respondents were not compelled 
+
+76 
+               (...continued) 
+Respondents' procedural contentions.  The factual findings in this Section V of the opinion rely 
+primarily on stipulations of fact submitted under seal to the administrative law judge by the 
+Division and Respondents. 
+       77 
+               5 U.S.C. § 555(b).  The APA also entitles parties to agency proceedings to appear 
+with counsel.  Id. 
+       78 
+               17 C.F.R. § 203.7(b);  see also 17 C.F.R. § 201.102(b) ("In any proceeding, a 
+person may be represented by an attorney at law. . . ."). 
+       79 
+               17 C.F.R. § 203.4(a). 
+---------------------Page 31---------------------
+
+                                                31
+ 
+
+to appear or to provide sworn testimony during the investigation.80 
+                                                                     Although Former Counsel 
+filed written submissions on behalf of Respondents as part of the Wells process, this process is 
+conducted at the Division's discretion81
+                                        and does not confer procedural rights.82 
+                                                                                 
+
+       A Commission investigation does not confer any party with a general right to information 
+about the Division's view of their counsel, or any potential parallel investigations.  In suggesting 
+the contrary, Respondents rely on cases applying the right to counsel under the APA "to imply 
+the concomitant right to the lawyer of one's choice," and preventing the Commission from 
+sequestering a witness from counsel during sworn testimony.  83 
+                                                                 In those cases, however, the 
+respondents asserted that the Commission directly interfered with their consultation with counsel 
+during testimony.  Respondents here do not allege interference in their ability to consult with the 
+counsel of their own choosing either before or after these proceedings were instituted.   
+
+       2.      Effective Assistance of Counsel. 
+
+       Although Respondents attempt to characterize their claim as a deprivation of their right to 
+effective assistance of counsel, the Commission does not have a general obligation to ensure the 
+competence or suitability of Respondents' representation during an investigation.84 
+                                                                                     Fifth 
+
+       80 
+               A requirement investing all parties potentially implicated in an investigation with 
+such procedural rights would be "virtually impossible" to administer and "'would unwarrantedly 
+cast doubt upon and stultify the [Commission's] every investigatory move.'"  SEC v. O'Brien, 467 
+U.S. 735, 749 & 751 (1985) (quoting Donaldson v. United States   , 400 U.S. 517, 531 (1971)). 
+       81 
+               See 17 C.F.R. § 202.5(c) (describing the Wells process by stating:  "Persons who 
+become involved in preliminary or formal investigations may, on their own initiative, submit a 
+written statement to the Commission setting forth their interests and position in regard to the 
+subject matter of the investigation.  Upon request, the staff, in its discretion, may advise [persons 
+under investigation] of the general nature of the investigation . . . ."). 
+       82 
+               Wellman v. SEC, 79 F.R.D. 341, 353 (S.D.N.Y. 1978). 
+       83 
+               See  SEC v. Higashi, 359 F.2d 550, 553 (9th Cir. 1966) (applying the APA 
+provision to subpoenaed testimony);  SEC v. Csapo, 533 F.2d 7, 10 (D.C. Cir. 1976) (interpreting 
+the statutory right to cover "any person summoned to appear before a federal agency"). 
+       84 
+               In fact, administrative proceedings generally do not trigger a specific right to the 
+effective assistance of counsel.  Hammon Capital Mgmt. Corp., 48 S.E.C. 264, 266 (1985); see 
+also  Williams v. Wynne, 533 F.3d 360, 369 (5th Cir. 2008) (finding Sixth Amendment 
+inapplicable to an administrative hearing);  Father & Sons Lumber & Bldg. Supplies v. NLRB, 
+931 F.2d 1093, 1096-97 (6th Cir. 1991) (finding that neither the Fifth Amendment nor the APA 
+conferred a separate right to effective assistance of counsel in an administrative hearing). 
+---------------------Page 32---------------------
+
+                                                32
+ 
+
+Amendment due process principles protecting the "right to a fair and impartial hearing"  85
+                                                                                           apply to 
+adjudicative, not investigative, processes.86 
+                                             These protections are satisfied by the "opportunity to 
+appear as a claimant and to have a full hearing" in connection with the charged violations.87 
+                                                                                              
+Accordingly, the preliminary determination to institute a proceeding does not trigger due process 
+protections "so long as the requisite hearing is held before the final administrative order becomes 
+effective."88 
+              Government actions taken before the institution of proceedings trigger a due process 
+remedy only if such conduct both actually prejudiced the defense at the hearing and constituted 
+"an intentional device to gain tactical advantage" at the hearing.89 
+                                                                    
+
+       Respondents have not alleged or demonstrated either of these required elements for due 
+process relief.90 
+                 Effective assistance inquiries based on counsel conflicts of interest, like other 
+
+       85 
+               Friedman v. Rogers, 440 U.S. 1, 18 (1979). 
+       86 
+               O'Brien, 467 U.S. at 742 (holding that targets of SEC investigations are not 
+entitled to notice of third party subpoenas and stating that "an administrative investigation 
+adjudicates no legal rights" (citing Hannah v. Larche, 363 U.S. 420, 440-43 (1960)). 
+       87 
+               Ewing v. Mytinger & Casselberry, Inc., 339 U.S. 594, 598 (1950);                                        see also 
+Withrow v. Larkin, 421 U.S. 35, 46 (1975) (stating that administrative agencies have an 
+obligation to provide a "fair trial in a fair tribunal" as "a basic requirement of due process"). 
+       88 
+               Ewing, 339 U.S. at 598. 
+       89 
+               United States v. Marion, 404 U.S. 307, 324 (1971) (finding that a delay in 
+indictment did not constitute a due process violation);  see also United States v. Stringer, 521 
+F.3d 1189, 1200 (9th Cir. 2008), amended in part, 535 F.3d 929, 933 & 941 (9th Cir. 2008) 
+(suggesting that government "deceit or an affirmative misrepresentation" interfering with a 
+client's relationship with counsel will give rise to potential due process claim if such conduct 
+resulted in "actual and substantial prejudice" to the client's defense during the trial). 
+       90 
+               Although Respondents cite cases discussing the rights of criminal defendants 
+under the Sixth Amendment, these cases are inapplicable to administrative proceedings because 
+"Sixth Amendment [protections] are explicitly confined to 'criminal prosecutions,'" Austin v. 
+United States, 509 U.S. 602, 608 (1993), and only attach after the formal institution of such 
+criminal proceedings.  Massiah v. United States, 377 U.S. 201, 205 (1964) (indicating that the 
+right attaches from the time of the arraignment). 
+
+               Moreover, Respondents improperly conflate authority addressing two distinct 
+rights under the Sixth Amendment -- the right to choice of counsel and the right to effective 
+representation.  The authority cited by Respondents, however, expressly distinguished between 
+"the right of counsel of choice -- which is the right to a particular lawyer regardless of 
+comparative effectiveness" and "the right to effective counsel -- which imposes a baseline 
+                                                                                      (continued...) 
+---------------------Page 33---------------------
+
+                                                33
+ 
+
+due process claims, focus on the adjudication of the charged person's legal rights.91 
+                                                                                      For instance, 
+we have disqualified an attorney from participating in a hearing when the attorney's divided 
+loyalties posed a potential threat to "the apparent fairness and integrity of the proceedings."92 
+                                                                                               
+Respondents here do not cite any evidence, however, that their right to a fair and impartial 
+adjudication of the charges against them -- the touchstone of due process -- was compromised by 
+their representation by Former Counsel during the investigation.  
+
+       In addition, Respondents have not shown that any of the Division's decisions during its 
+investigation constituted bad faith efforts to frustrate Respondents' ability to defend themselves 
+against the charges, or to undermine the integrity of the hearing.  In fact, we expressly found in 
+Trautman Wasserman & Co.     93
+                               that the non-disclosure of a parallel investigation of respondent's 
+counsel during the Wells process does not constitute grounds for dismissal of charged violations. 
+We held that "the Division's decision during the Wells process to withhold information about 
+certain facts . . . does not give rise to any right or remedy,"94
+                                                              and that in any case the substitution 
+of new counsel before the hearing "cur[ed] any alleged harm [respondent] may have suffered 
+because of [his former counsel's] alleged conflict."95 
+                                                       Here, as in Trautman Wasserman, the 
+retention of Current Counsel prior to the hearing averted any potential prejudice to the 
+Respondents' defense, and thereby averted any potential due process harm. 
+
+90 
+               (...continued) 
+requirement of competence on whatever lawyer is chosen or appointed."  United States v. 
+Gonzales-Lopez, 548 U.S. 140, 148 (2006).  The Court specifically reaffirmed the prejudice 
+requirement for a finding of ineffective assistance.  Id. at 147.  As noted in the text, Respondents 
+were not deprived of their right to the lawyer of their own choosing, and have not shown any 
+prejudice to their ability to defend themselves at the hearing.  
+       91 
+               Strickland v. Washington, 466 U.S. 668, 686 (1984) (  "The benchmark for judging 
+any claim of ineffectiveness must be whether counsel's conduct so undermined the proper 
+functioning of the adversarial process that the trial cannot be relied on as having produced a just 
+result.");  see also 2 Am. Jur. 2d Admin. Law § 120 (2008) ("As long as no legal rights are 
+adversely determined during the investigation, the demands of due process are satisfied if 
+procedural rights are granted in the subsequent proceedings."). 
+       92 
+               Clark T. Blizzard, 55 S.E.C. 650, 655 (2002) (disqualifying counsel proposing to 
+engage in simultaneous representation of parties at a hearing when this representation generated 
+"serious potential for prejudice to the integrity of the proceeding"). 
+       93 
+               Exchange Act Rel. No. 55989 (June 29, 2007), 90 SEC Docket 3098. 
+       94 
+               Id. at 3106. 
+       95 
+               Id. at 3105-3106. 
+---------------------Page 34---------------------
+
+                                                34 
+
+       3.      Claimed "Arbitrary and Capricious" Institution of Proceedings. 
+
+       Respondents attempt to distinguish Trautman Wasserman by claiming that the Division 
+conducted an "incomplete and biased investigation," and that Division bias in turn tainted the 
+Commission's decision to institute proceedings.  However, Respondents do not offer any support 
+beyond mere speculation for their claim that the Division was motivated by improper bias in 
+assessing their explanations for their conduct, or in declining to take their investigative 
+testimony.  Participants in the investigative process are not entitled to an uncritical or even a 
+neutral Division assessment of their asserted defenses,96
+                                                          or to a right to provide investigative 
+testimony.97 
+              These aspects of the Division's investigation fall squarely within the scope of the 
+prosecutorial discretion that it routinely exercises in conducting multi-party investigations, and it 
+is well established that such investigations do not trigger "the full panoply"98
+                                                                               of safeguards that 
+are required during an adjudication.99 
+                                        This distinction is maintained in order to "prevent the 
+sterilization of investigations by burdening them with trial-like procedures."100 
+                                                                                 
+
+       In fact, the Supreme Court has recognized the propriety of affording Commission staff 
+"considerable discretion in determining when and how to investigate" potential securities law 
+violations,101
+              and the pragmatic considerations weighing against requiring the Division to 
+"inform[] anyone, including targets, of the existence and progress of its investigations."102 
+                                                                                            As the 
+Court recognized, such a "remedy would . . . have the effect of laying bare the state of the 
+Commission's knowledge and intentions midway through investigations," and "could 
+significantly hamper the Commission's efforts to police violations of the securities laws."103 
+
+       96 
+               See Marshall v. Jerrico, 446 U.S. 238, 248 (1980) (stating that the neutrality  
+requirements "designed for officials performing judicial or quasi-judicial functions . . . are not 
+applicable to those acting in a prosecutorial or plaintiff-like capacity"). 
+       97 
+               Hannah, 363 U.S. at 445-46 ("[W]hen these agencies are conducting 
+nonadjudicative, fact-finding investigations, rights such as apprisal, confrontation, and 
+cross-examination generally do not obtain."). 
+       98 
+               Hannah, 363 U.S. at 442. 
+       99 
+               See  O'Brien, 467 U.S. at 742-43 (holding that targets of SEC investigations are 
+not entitled to notice of third party subpoenas).   
+       100 
+               Hannah, 363 U.S. at 447-48. 
+       101 
+               O'Brien, 467 U.S. at 744-45. 
+       102 
+               Id. at 744-45, 749-751. 
+       103 
+               Id. at 750 n.23. 
+---------------------Page 35---------------------
+
+                                               35 
+
+       Moreover, Respondents' suggestion that the Commission's decision to institute these 
+proceedings could in some way have been tainted by any alleged improper conduct by the 
+Division's investigation ignores the independence of the Commission's decision-making 
+process.104 
+            We authorized and instituted these proceedings based on our "own consultations, 
+deliberations and conclusions with respect to [the Division's] recommendations."105 
+                                                                                     In the course 
+of doing so, we reviewed the Respondents' Wells submission, and Respondents have not pointed 
+to any defense they were prevented from including in this submission in connection with the 
+Counsel Investigation. 
+
+       The decision to institute proceedings was not meant to resolve disagreements between the 
+Division and Respondents regarding the evidence; such disagreements are best left to be resolved 
+at the hearing authorized by the OIP.106 
+                                        The Supreme Court, recognizing the "different bases and 
+purposes" for a charging decision and a subsequent adjudication, has expressly stated that "there 
+is no incompatability between [an] agency filing a complaint based on probable cause and a 
+subsequent decision . . . that there has been no violation."107 
+                                                             Such a resolution does not 
+demonstrate impropriety in the charging decision or investigation, but rather the nature of the 
+adjudication process itself.  
+
+       Although the Division chose not to pursue the Prepayment Review Allegations at the 
+hearing, Respondents do not substantiate their claims that the original inclusion of those 
+
+       104 
+               We have previously rejected claims that "disqualifying bias on the part of the 
+Commission may be inferred from alleged bias of its members or staff."  Jean-Paul Bolduc, 54 
+S.E.C. 1195, 1199 (2001). 
+       105 
+               Edward H. Kohn, Freedom of Information Act Rel. No. 19, 1975 SEC LEXIS 
+1217 (July 15, 1975); see also  Stuart-James Co., 50 S.E.C. 468, 469 (1991) (stating that the 
+Commission, "not the staff, [is] ultimately responsible for exercising control over the agency's 
+administrative proceeding docket").   
+       106 
+               Procedures Relating to the Commencement of Enforcement Proceedings and 
+Termination of Staff Investigations, Exchange Act Rel. No. 9796 (Sept. 27, 1972) (noting that 
+disputes about facts underlying the institution of proceedings "likely . . . can be resolved in an 
+orderly manner only through litigation"). 
+       107 
+               Withrow, 421 U.S. at 57-58.  Given this authority distinguishing between the 
+requirements for filing a complaint and the subsequent decision, we reject Hall's suggestion that 
+the Commission must justify the inclusion of these charges in the OIP based on the standard of 
+judicial review for "final agency action" under the APA.  Issuance of an OIP is not final agency 
+action.  See FTC v. Standard Oil Co., 449 U.S. 232, 493 (1980) (holding that issuance of 
+complaint is not "final agency action"). 
+---------------------Page 36---------------------
+
+                                                36
+ 
+allegations in the OIP was improper.108 
+                                         Moreover, the Division actively pursued the remaining 
+charges, and those charges, if established, would have provided a basis for discipline under 
+Rule 102(e).  An order instituting proceedings satisfies the demands of due process if the 
+respondent is "afford[ed] full opportunity to justify [his or her] conduct during the course of the 
+litigation."109 
+               Respondents have not demonstrated how changes in the Division's presentation of 
+its case in any way prejudiced Respondents' ability to justify their conduct; they have not pointed 
+to any defense to the charged violations that they were prevented from raising during the 
+hearing.110 
+            
+
+       4.      Claimed Reputational Harm 
+
+       Although Respondents claim that the institution of proceedings caused them reputational 
+and professional harm, these claims do not give rise to due process relief unless they prejudiced 
+the hearing process.  As noted above, Respondents' attempt to extend procedural protections for 
+adjudications to the investigation is misguided.  Even if a government investigation could result 
+
+       108 
+               While the record does not specifically state the Division's original basis for 
+recommending the inclusion of the Prepayment Allegations in the OIP, we note that vendor 
+contracts containing prepayment provisions and 1998 audit workpapers initialed by Meyer 
+referencing the review of "executed promotional contracts," "executed contracts," and "vendor 
+contracts" could have suggested to an unbiased investigator that Meyer had, in fact, reviewed 
+such provisions. 
+       109 
+               Flying Food Group, Inc. v. NLRB, 471 F.3d 178, 183 (D.C. Cir. 2006) 
+("[P]leadings in administrative proceedings are not judged by the standards applied to an 
+indictment at common law. . . . Rather, '[i]t is sufficient if the [petitioner] understood the issue 
+and was afforded full opportunity to justify its conduct during the course of the litigation.'" 
+(internal citations and punctuation omitted));  see also Aloha Airlines, Inc. v. Civil Aeronautics 
+Bd., 598 F.2d 250, 261-62 (D.C. Cir. 1979) (finding no procedural defect when the factual basis 
+for the law judge's decision diverged from the factual allegations in the complaint because "the 
+entire issue was fully litigated in the course of the proceedings before the ALJ and the Board"); 
+RFG Options Co., 49 S.E.C. 878, 885 (1988) (finding no prejudice where nature of charged 
+violation changed during opening statement of the hearing). 
+       110 
+               Even assuming arguendo that the OIP was not based on an independent judgment, 
+Respondents "do[] not have a constitutional right to a conflict-free agency determination of 
+whether to sue him civilly unless the conflict laps over into the trial."  Buntrock v. SEC, 347 F.3d 
+995, 999 (7th Cir. 2003); see also United States v. Oregon, 44 F.3d 758, 772 (9th Cir. 1994) 
+(stating that a due process claim based on allegations of a biased tribunal must at least 
+demonstrate "an unacceptable probability of actual bias" by "the tribunal that will adjudicate 
+[the] claims");  United States v. Parish, 468 F.2d 1129, 1133 (D.C. Cir. 1972) ("[T]he concern of 
+the Due Process Clause is erosion of the accused's capability to muster his response to the 
+charges."). 
+---------------------Page 37---------------------
+
+                                               37
+ 
+
+in adverse consequences, including public opprobrium, job loss, or criminal prosecution, such 
+investigation is not subject to the same due process protections observed in proceedings 
+adjudicating legal rights.111 
+
+       5.      Claimed Ethical Violations. 
+
+       Active government deceit or affirmative misrepresentations compromising a respondent's 
+defense at the hearing may implicate due process rights,112
+                                                           but Respondents have not 
+demonstrated such misconduct in this case.  Nor has Meyer substantiated her claim that the 
+institution of proceedings was inconsistent with Commission ethical canons encouraging 
+"unusually high standards of honesty, integrity, impartiality and conduct" and the "avoidance of 
+actual or apparent misconduct or conflicts of interest," or discouraging Commission staff from 
+"condon[ing] unprofessional conduct by attorneys." 113 
+                                                       Rather than condoning suspected 
+unprofessional conduct, the Division referred suspected misconduct by Former Counsel for 
+further investigation, and the separation of the Counsel Investigation by OGC from the 
+investigation of Respondents' conduct by the Division reflected an institutional safeguard against 
+inappropriate bias.114 
+                      We note that government action is entitled to a presumption of good faith 
+"[i]n the absence of a clear showing of bad faith,"115
+                                                    which Respondents have not made here. 
+
+       The record does not support Respondents' claim that the decision not to take investigative 
+testimony was "contrary to the Commission's long-standing commitment to fundamental 
+fairness," particularly when taking such testimony could have fueled the type of due process 
+challenges Respondents now raise.  For instance, disclosure of the Counsel Investigation to 
+Respondents, as Respondents contend was required, in connection with such testimony could 
+have provoked a charge of improper interference in their relationship with Former Counsel. 116 
+                                                                                              
+
+       111 
+               Hannah, 363 U.S. at 443; see also  FTC v. Standard Oil Co., 449 U.S. at 244 
+("[T]he expense and annoyance of litigation is part of the social burden of living under 
+government." (internal citation omitted)). 
+       112 
+               See  supra note 89. 
+       113 
+               17 C.F.R. §§ 200.735-2(a), 200.69. 
+       114 
+               See  supra note 73. 
+       115 
+               Trautman Wasserman, 90 SEC Docket at 3105; see also Withrow, 421 U.S. at 47 
+(noting the "presumption of honesty and integrity in those serving as adjudicators").  In any case, 
+violations of "legal or ethical rules governing [Commission] investigations" are "not, without 
+more, a defense to the SEC's suit."  Buntrock, 347 F.3d at 998.  
+       116 
+               See Stringer , 521 F.3d at 1201 (stating that "had the government . . . warn[ed 
+defendant] about [his attorney's] conflict, bypassing his attorney, the government would have 
+                                                                                    (continued...) 
+---------------------Page 38---------------------
+
+                                              38
+ 
+
+       6.     Conclusion 
+
+       Based on our review of Respondents' contentions, we find that Respondents have not 
+established a violation of their due process rights.  Respondents have not demonstrated that 
+circumstances prior to the issuance of the OIP compromised their ability to defend themselves 
+against the charged violations at the hearing.   
+
+                                              VI. 
+
+       Under all the circumstances, and based on our de novo review of the record, we have 
+concluded that the record before us does not establish by a preponderance of the evidence that 
+Respondents committed the offenses charged.  We will accordingly dismiss this proceeding. 
+
+       An appropriate order will issue.117 
+
+       By the Commission (Chairman SCHAPIRO and Commissioners CASEY, WALTER and 
+AGUILAR); Commissioner PAREDES concurs in the findings on the merits but believes that, as 
+the issues addressed in Section V are moot, the opinion should not address them. 
+
+                                                   Elizabeth M. Murphy
+                                                             Secretary 
+
+116 
+              (...continued)
+ 
+engaged in conduct that itself may have amounted to interference" violating defendant's due
+ 
+process rights).
+ 
+       117 
+              We have considered all of the contentions advanced by the parties.  We have 
+rejected or sustained them to the extent that they are inconsistent or in accord with the views 
+expressed in this opinion. 
+---------------------Page 39---------------------
+
+                           UNITED STATES OF AMERICA
+ 
+                                     before the
+ 
+                    SECURITIES AND EXCHANGE COMMISSION
+ 
+
+SECURITIES EXCHANGE ACT OF 1934 
+Rel. No. 61162 / December 14, 2009 
+
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Rel. No. 3080 / December 14, 2009 
+
+Admin. Proc. File No. 3-12208 
+
+                      In the Matter of
+ 
+
+                    KEVIN HALL, CPA
+ 
+                           and
+ 
+                ROSEMARY MEYER, CPA
+ 
+
+ORDER DISMISSING PROCEEDINGS 
+
+      On the basis of the Commission's opinion issued this day, it is 
+
+      ORDERED that the proceedings instituted on February 16, 2006 against Kevin Hall, CPA
+and Rosemary Meyer, CPA, be, and they hereby are, dismissed. 
+
+      By the Commission.
+
+                                                      Elizabeth M. Murphy
+                                                             Secretary 

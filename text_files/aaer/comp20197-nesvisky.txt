@@ -1,0 +1,463 @@
+---------------------Page 1---------------------
+
+                     UNITED STATES DISTRICT COURT  
+                    FOR THE DISTRICT OF COLORADO  
+
+SECURITIES AND EXCHANGE 
+COMMISSION 
+
+                          Plaintiff, 
+                                                      Civil Action No. 
+             v. 
+
+DAVID ERIC NESVISKY, 
+
+                          Defendant. 
+
+                                 COMPLAINT 
+
+      Plaintiff Securities and Exchange Commission ("Commission") alleges: 
+
+                                  SUMMARY 
+
+      1.     In the third quarter of 2003, Quovadx, Inc. ("Quovadx" or the 
+
+"Company"), a Colorado-based software company, fraudulently recognized 
+
+approximately $380,000 in revenue from three purported sales of software licenses to one 
+
+of its resellers, MicroStar, Inc. ("MicroStar"), an Ohio company that sells software 
+
+licenses and maintenance services to the healthcare industry. These purported sales were 
+
+part of a parking arrangement designed to accelerate revenue recognition for Quovadx 
+
+from transactions that Quovadx was in the process of negotiating with other customers 
+
+but had been unable to finalize before the end of the quarter. MicroStar had neither the 
+
+ability nor the intent to pay for the licenses unless and until Quovadx found customers to 
+
+buy the licenses. As a result, Quovadx improperly recognized approximately $380,000 in 
+
+revenue from the purported sales to MicroStar and materially overstated its software 
+
+licensing revenue by approximately 14%for the third quarter of 2003. 
+---------------------Page 2---------------------
+
+       2.     Defendant David Nesvisky ("Nesvisky") was Quovadx's Executive Vice 
+
+President of Sales during the relevant time.  Nesvisky reported directly to Quovadx's 
+
+President and CEO. Nesvisky proposed parking the software licenses with MicroStar in 
+
+order to accelerate Quovadx's recognition of revenue from the sale of those licenses and 
+
+participated in structuring the parking arrangement. Quovadx's President and CEO 
+
+approved this parking arrangement, which resulted in the fraudulent recognition of 
+
+revenue. Nesvisky subsequently participated in a plan to channel an unrelated payment 
+
+which created the appearance that MicroStar had partially paid for its "purchases." 
+
+Nesvisky also signed an annual management representation letter that failed to disclose 
+
+the true facts and circumstances of the MicroStar transactions to Quovadx's auditor. 
+
+       3.     By the conduct described below, Nesvisky violated, or aided and abetted 
+
+violations of, the antifraud, reporting, books and records, and internal controls provisions 
+
+of the federal securities laws. Unless enjoined by order of ths  Court, Nesvisky is likely 
+
+to commit such violations in the future. The Commission seeks a judgment permanently 
+
+enjoining the defendant from fbrther securities law violations and imposing civil 
+
+monetary penalties. 
+
+                                   JURISDICTON 
+
+       4.     This Court has jurisdiction pursuant to Section 22 of the Securities Act of 
+
+1933 ("Securities Act") [15 U.S.C. 8 77v(a)] and Sections 21 and 27 of the Securities 
+
+Exchange Act of 1934 ("Exchange Act") [15 U.S.C.   $8 78u and 78aal. 
+
+       5.     Nesvisky, directly or indirectly, made use of the means or 
+
+instrumentalities of interstate commerce, or of the mails, in connection with the 
+
+transactions, acts, practices, and courses of business described in this Complaint, certain 
+
+of which have occurred within ths judicial district. 
+---------------------Page 3---------------------
+
+                                THE DEFENDANT 
+
+       6.    While employed at Quovadx, David Nesvisky, age 45, resided in 
+
+Englewood, Colorado. He currently resides in North Carolina. He was executive vice 
+
+president of sales at Quovadx from approximately March 2002 until May 2004. 
+
+                               RELATED ENTITY 
+
+       7.     Quovadx, a Delaware corporation based in Englewood, Colorado, is a 
+
+software company that licenses software and sells related services to the healthcare 
+
+industry. Quovadx's stock was registered with the Commission under Section 12(g) of 
+
+the Exchange Act and traded on the NASDAQ National Market. During 2002 and 2003, 
+
+Quovadx derived about one-thrd of its reported revenue from software licensing fees, 
+
+with the rest coming from software maintenance and service contracts. Quovadx 
+
+separately reported its software licensing revenue, which included sales of both software 
+
+and licenses. During the relevant period, Quovadx had a continuously effective offering 
+
+of securities pursuant to Form S-8. It also registered an offer of securities pursuant to 
+
+Form S-4 in the fourth quarter of 2003. 
+
+                   RELEVANT ACCOUNTING STANDARDS 
+
+       8.     As a public company, Quovadx was required to file quarterly and annual 
+
+reports with the Commission that presented its financial results in conformity with 
+
+Generally Accepted Accounting Principles ("GAAP"). The American Institute of 
+
+Certified Public Accountants' Statement of Position 97-2, Software Revenue Recognition 
+
+("SOP 97-2") and related interpretations are the principal GAAP provisions governing 
+
+the recognition of revenue for sales of software and software licenses. 
+
+       9.     Under SOP 97-2, a company may not recognize revenue from a software 
+
+license sale unless and until there is: persuasive evidence of an arrangement; delivery of 
+---------------------Page 4---------------------
+
+the software; a fixed or determinable seller's fee; and a reasonable probability of 
+
+collecting the accounts receivable. Further, if payment is substantially contingent on the 
+
+buyer's success in distributing the product to the customer, either due to the terms of the 
+
+deal or because the buyer is so undercapitalized that it cannot pay until it sells the 
+
+product, the seller may not recognize the software license revenue at the time of sale. In 
+
+its financial reports filed with the Commission, Quovadx claimed that it had recognized 
+
+revenue in accordance with GAAP. 
+
+                            FACTUAL ALLEGATIONS 
+
+       10.    In late September 2003, Nesvisky learned fiom his sales staffthat 
+
+transactions Quovadx had been negotiating with three customers were not likely to close 
+
+until the fourth quarter. Nesvisky asked his sales staff to find other Quovadx customers 
+
+who might be willing to hold the software products in their inventory pending resale to 
+
+these three customers. One of his salespersons contacted the president of MicroStar, who 
+
+agreed to this arrangement. Nesvisky proposed this parking arrangement to Quovadx's 
+
+then President and CEO. Quovadx's President and CEO approved this arrangement, 
+
+stating to Nesvisky in an e-mail that: "We need $8m, so let's get it done. We're too close 
+
+to miss the q." 
+
+       11.    Thereafter, Quovadx entered into three separate software license purchase 
+
+contracts with MicroStar. Nesvisky's sales staff also reached a verbal side-agreement 
+
+with MicroStar whereby MicroStar would not have to pay Quovadx unless and until the 
+
+customers with whom Quovadx had been negotiating bought the software fiom 
+
+MicroStar or Quovadx found other customers for MicroStar. Despite the material 
+
+contingency embodied in the verbal side-agreement with MicroStar, Quovadx treated the 
+---------------------Page 5---------------------
+
+MicroStar contracts as bona fide sales agreements and recorded approximately $380,000 
+
+of revenue in the thrd  quarter. 
+
+       12.    Shortly after Quovadx filed its quarterly report, Nesvisky and others 
+
+learned that MicroStar had not paid for any of the software licenses because the 
+
+anticipated customers had declined to buy the licenses from MicroStar. Quovadx did not 
+
+reverse the revenue. Instead, with the approval of members of Quovadx's senior 
+
+management, Nesvisky directed Quovadx's sales staff to find alternative customers to 
+
+buy the software licenses from MicroStar. Quovadx's sales staff was unable to find other 
+
+buyers. 
+
+       13.    In December 2003, Nesvisky learned that one of the three anticipated 
+
+customers had purchased different software licenses for approximately $257,000 from a 
+
+Quovadx subsidiary in the United Kingdom. Nesvisky conferred with Quovadx's then 
+
+controller and they determined to apply the customer's payment against Microstar's 
+
+outstanding account receivable. When the customer made the payment in February 2004 
+
+to Quovadx's U.K. subsidiary, the U.K. subsidiary reversed the transaction between it 
+
+and the customer from its books and sent the approximately $257,000 to Quovadx's U.S. 
+
+offices. Then, with Nesvisky's knowledge and participation, Quovadx wired this money 
+
+to MicroStar with the instruction that MicroStar wire it back to Quovadx, less $10,000 as 
+
+payment to MicroStar for holding the licenses. MicroStar complied with the instructions. 
+
+By channeling the payment through MicroStar, Quovadx created the false appearance 
+
+that MicroStar had paid a significant portion of what it owed. At Nesvisky's direction, 
+
+Quovadx's employees continued to search for additional opportunities to channel 
+
+software license sales through MicroStar to eliminate the remaining balance. 
+---------------------Page 6---------------------
+
+       14.    On or about February 9,2004, in conjunction with the audit of Quovadx's 
+
+annual report for 2003, Nesvisky signed a management representation letter to Quovadx's 
+
+auditor. In the letter, Nesvisky represented that Quovadx's written sales agreements 
+
+constituted the totality of the arrangements with Quovadx's customers and that there were 
+
+no side-agreements. 
+
+       15.    In August 2004, after Quovadx terminated Nesvisky's employment, 
+
+Quovadx reversed all three of the purported software license sales to MicroStar. 
+
+                           FIRST   CLAIM    FOR RELIEF 
+      Violations of Section 17(a)(3) of the Securities Act [15 U.S.C. 8 77q(a)(3)] 
+
+       16.    The Commission realleges and incorporates herein by reference paragraphs 1 
+
+through 15 above. 
+
+       17.    Section 17(a)(3) of the Securities Act prohibits a person fiom engaging in 
+
+any transaction, practice, or course of business which would operate as a fiaud or deceit 
+
+upon a purchaser in the offer or sale of any securities. One of the ways a person violates 
+
+Section 17(a)(3) is to engage in transactions, practices or courses of business that result in 
+
+materially false or misleading statements or material omissions in Commission filings or in 
+
+other statements disseminated to investors. 
+
+       18.    Nesvisky proposed and structured the parking arrangement between 
+
+Quovadx and MicroStar in the third quarter of 2003. The arrangement had no legitimate 
+
+business purpose and MicroStar would not pay for the software licenses unless it could 
+
+resell them to customers identified by Quovadx. Further, at Nesvisky's suggestion and with 
+
+his involvement, Quovadx heled   an unrelated payment through MicroStar that made it 
+
+appear that MicroStar had partially paid for the licenses. 
+---------------------Page 7---------------------
+
+       19.   By engaging in the conduct described above, Nesvisky violated Section 
+
+17(a)(3) of the Securities Act. 
+
+                         SECOND CLAIM FOR RELIEF  
+          Violation of Exchange Act Rule 1382-2 117 C.F.R.  5 240.13b2-21  
+
+      20.    The Commission realleges and incorporates herein by reference paragraphs 1 
+
+through 19 above. 
+
+       21.   Exchange Act Rule 13b2-2 prohibits any director or officer of an issuer fiom 
+
+directly or indirectly making or causing to be made misleading statements to an accountant 
+
+in connection with an audit. 
+
+       22.   Nesvisky made materially false or misleading statements and omitted to 
+
+disclose material information to Quovadx's auditor in the management representation letter 
+
+he signed on February 9,2004.  Contrary to his representations in the letter, Nesvisky knew 
+
+(1) that a substantial portion of the MicroStar receivable was to be paid with proceeds fi-om 
+
+an unrelated transaction and (2) that any Mer   payment for the third quarter "purchases" 
+
+depended upon Quovadx  identifying customers to purchase the software licenses fiom 
+
+MicroStar. 
+
+       23.    By reason of the foregoing, Nesvisky violated Exchange Act Rule 13b2-2. 
+
+                          THIRD CLAIM FOR RELIEF  
+    Aiding and Abetting Violations of Section 13(a) of the Exchange Act [15 U.S.C.  
+       §78m(a)] and Rules 12b-20,13a-11 and 13a-13 [17 C.F.R   $5 240.12b-20,  
+                                 13a-11 and 13a-131  
+
+       24.    The Commission realleges and incorporates by herein by reference 
+
+paragraphs 1 through 23 above. 
+
+       25.    Section 13(a) of the Exchange Act and Rules 13a-11, and 13a-13 
+
+thereunder require that issuers with securities registered under Section 12 of the 
+
+Exchange Act, such as Quovadx, file periodic reports with the Commission that are 
+---------------------Page 8---------------------
+
+complete and accurate in all material respects. Exchange Act Rule 12b-20 requires that, in 
+
+addition to the information expressly required to be included in a statement or report, an 
+
+issuer must add such further material information, if any, as may be necessary to make the 
+
+required statements, in light of the circumstances under which they are made, not 
+
+misleading. 
+
+       26.    Quovadx materially overstated its software licensing revenue in the third 
+
+quarter of 2003 by improperly recognizing revenue from the three purported sales of 
+
+software licenses to MicroStar. As a result, Quovadx's quarterly report for the third 
+
+quarter of 2003 and the earning release attached to its Form 8-K for that quarter 
+
+contained materially inaccurate and misleading statements. By proposing and structuring 
+
+the parking arrangement between Quovadx and MicroStar in the third quarter of 2003 
+
+and channeling an unrelated payment through MicroStar that made it appear that 
+
+MicroStar had partially paid for the licenses, Nesvisky knowingly provided substantial 
+
+assistance to Quovadx in its violations of Section 13(a) of the Exchange Act and Rules 
+
+12b-20, 13a-11 and 13a- 13 thereunder. 
+
+       27.    By reason of the foregoing, Nesvisky aided and abetted Quovadx's 
+
+violations of Section 13(a) of the Exchange Act and Rules 12b-20, 13a- 1 1 and 13a-13 
+
+thereunder 
+
+                         FOURTH CLAIM FOR          RELIEF  
+       Aiding and Abetting Violations of Sections 13@)(2)(A) and 13(b)(2)(B)  
+         of the Exchange Act  [15 U.S.C. §§ 78m@)(2)(A) and 78m(b)(2)(B)]  
+
+       28.    The Commission realleges and incorporates herein by reference paragraphs 1 
+
+through 27 above. 
+
+       29.    Section 13(b)(2)(A) of the Exchange Act requires that issuers with securities 
+
+registered under Section 12 of the Exchange Act, such as Quovadx, make and keep books, 
+---------------------Page 9---------------------
+
+records, and accounts that accurately and fairly represent the transactions of the company. 
+
+Section 13@)(2)(B) of the Exchange Act requires issuers to devise and maintain a system of 
+
+internal accounting controls sufficient to provide reasonable assurances that, among other 
+
+things, transactions are recorded as necessary to permit preparation of financial statements in 
+
+ conformity with GAAP and to maintain accountability of assets. 
+
+        30.    Quovadx's books and records were materially inaccurate during the relevant 
+
+ time period because they overstated sohare  licensing revenue and did not accurately or 
+
+ fairly reflect the transactions of the company. Quovadx also failed to maintain internal 
+
+ controls sufficient to ensure that revenue recognition would occur properly and that its 
+
+ financial statements would be prepared in conformity with GAAP. Accordingly, Quovadx 
+\ 
+ violated Sections 13@)(2)(A) and 13(b)(2)(B) of the Exchange Act. 
+
+        3 1.   By proposing and structuring the parking arrangement between Quovadx 
+
+ and MicroStar in the third quarter of 2003 and channeling an unrelated payment through 
+
+ MicroStar that made it appear that MicroStar had partially paid for the licenses, Nesvisky 
+
+ knowingly provided substantial assistance to Quovadx in its violations of Sections 
+
+ 13@)(2)(A) and 13(b)(2)(B) of the Exchange Act. 
+
+        32.    By reason of the foregoing, Nesvisky aided and abetted Quovadx's  
+
+ violations of Sections 13@)(2)(A) and 13@)(2)(B) of the Exchange Act.  
+---------------------Page 10---------------------
+
+                              PRAYER FOR RELIEF 
+
+       The Commission respectfully requests that this Court enter a final judgment 
+
+against Defendant Nesvisky: 
+
+       A.     finding that Defendant Nesvisky committed the violations alleged above; 
+
+       B.     permanently enjoining Defendant Nesvisky from: violating Section 
+
+17(a)(3) of the Securities Act 115 U.S.C. 5 77q(a)(3)]; violating or aiding and abetting 
+
+violations of Exchange Act Rule 13b2-2 [17 C.F.R. 5 240.13b2-21; and aiding and abetting 
+
+violations of Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act [15 U.S.C. 
+
+fj 5 78m(a), 78m(b)(2)(A) and 78m(b)(2)(B)] and Rules 12b-20,   13a- 1 1, and 13a- 13 
+
+thereunder [17 C.F.R. $8 240.12b-20,13a-11 and 13a-131; 
+
+       C.     ordering Defendant Nesvisky to pay an appropriate civil penalty pursuant 
+
+to Section 20(d) of the Securities Act [15 U.S.C. 5 77(t)(d)] and Section 21(d)(3) of the 
+
+Exchange Act [15 U.S.C. 5 78(u)(d)(3)]; 
+
+       D.     retaining jurisdiction over ths  action to implement and carry out the terms 
+
+of all orders and decrees that may be entered; and 
+
+       E.     granting such other and additional relief as this Court deems just and 
+
+proper. 
+       h 
+~ated:A-$  17  ,2007 
+                                          Richard E. Simpsonf 
+                                          Thomas W. Peirce 
+
+                                          Attorneys for Plaintiff 
+                                          Securities and Exchange Commission 
+                                          100 F. Street N.E. 
+                                          Washington, DC 20549 
+                                          (202) 55 1-4492 (Simpson) 

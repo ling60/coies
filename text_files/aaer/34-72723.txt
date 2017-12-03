@@ -1,0 +1,422 @@
+---------------------Page 1---------------------
+
+                         UNITED STATES OF AMERICA 
+                                    Before the 
+                 SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 72723 / July 30, 2014 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3573 / July 30, 2014 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-15992 
+ 
+                                                
+In the Matter of                               ORDER INSTITUTING CEASE -
+                                               AND-DESIST PRO CEEDINGS 
+   MARC SHERMAN                                PURSUANT TO  SECTION  21C OF 
+                                               THE SECURITIES EXCHANGE 
+Respondent.                                    ACT OF 1934   
+                                                 
+ 
+                                                  
+                                         I.  
+ 
+       The Securities and Exchange Commission (“Commission”) deems it appropriate 
+that cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of 
+the Securities Exchange Act of 1934 (“Exchange Act”) against Marc Sherman 
+(“Respondent” or “Sherman”). 
+ 
+                                        II. 
+                                           
+       After an investigation, the Division of Enforcement alleges that: 
+                                           
+       A.     SUMMARY 
+                                           
+              1.     During its 2008 fiscal year and continuing up to its filing for 
+Chapter 11 bankruptcy on July 2, 2009 (the “relevant period”), QSGI Inc. (“QSGI” or the 
+“Company”) was a reseller of and maintenance services provider for used computer 
+equipment.  Sherman, who during the relevant period served as QSGI’s Chief Executive 
+Officer and Chairman, was aware of deficiencies in and the circumvention of internal 
+controls for inventory and the resulting falsification of the Company’s books and records.  
+On occasion in 2008 and increasing in frequency in 2009, Sherman improperly accelerated 
+the recognition on QSGI’s books and records of accounts receivable and receipt of 
+inventory in order to increase the borrowing base available under a revolving credit facility 
+with the Company’s chief creditor.  Sherman withheld this information from the 
+Company’s external auditors in connection with their audit of the financial statements for 
+---------------------Page 2---------------------
+
+the fiscal year ended December 31, 2008 and review of the financial statements for the 
+quarter ended March 31, 2009, and made affirmative material misrepresentations and 
+statements that were materially misleading as a result of his omission of information in 
+management representation letters to the auditors about the design, maintenance, and 
+operation of internal controls.   Further, Sherman signed a Form 10-K and a Form 10-K/A 
+for the 2008 fiscal year, each containing a management’s report on internal control over 
+financial reporting (“ICFR”), as required by Section 404 of the Sarbanes-Oxley Act of 
+2002 (“Sarbanes-Oxley Act”) and Exchange Act Rule 13a-15(c), which falsely represented 
+that he, in his capacity as CEO, had participated in assessing the effectiveness of the 
+Company’s ICFR.  Sherman also signed certifications required under Section 302 of the 
+Sarbanes-Oxley Act and Rule 13a-14 of the Exchange Act included in filings with the 
+Commission falsely representing that he had evaluated ICFR and, based on this evaluation, 
+disclosed all significant deficiencies to the auditors.  The certifications were attached to the 
+2008 Forms 10-K and 10-K/A, and to the first quarter 2009 Form 10-Q filed with the 
+Commission, which Sherman also signed.  
+     
+       B.     RESPONDENT 
+ 
+              2.      Sherman, age 50 and a resident of West Palm Beach, Florida, 
+founded QSGI in 2001.  He has since served as QSGI’s CEO and Chairman of its Board of 
+Directors.  After the Company filed for bankruptcy and until at least July 2010, he served as 
+Chief Financial Officer and Chief Accounting Officer.  
+               
+       C.     RELEVANT ENTITY 
+                       
+              3.     QSGI, Inc., incorporated in 1967 in Delaware under a different name  
+and headquartered during the relevant period in West Palm Beach, Florida, is engaged in the 
+business of purchasing, refurbishing, selling, and servicing used computer equipment, parts 
+and mainframes.   On May 4, 2011, the U.S. Bankruptcy Court for the Southern District of 
+Florida, West Palm Beach Division, confirmed QSGI’s plan of reorganization pursuant to 
+which, effective June 17, 2011, the corporate shell merged with a private company which 
+had been founded by Sherman and others.  The Company’s common stock is registered 
+with the Commission pursuant to Section 12(g) of the Exchange Act and quoted on the 
+OTC Link (formerly “Pink Sheets”) operated by OTC Markets Group Inc. 
+ 
+       D.     SHERMAN’S AWARENESS OF DEFICIENCIES IN AND 
+              CIRCUMVENTION OF INVENTORY CONTROLS            .                            
+ 
+              4.      During the relevant period, QSGI maintained inventory principally 
+at facilities in New Jersey and Minnesota.  The New Jersey inventory, which comprised 
+50% of the company’s reported gross inventory and 55% of its reported net inventory, after 
+reduction for reserves, as of the close of its fiscal year ended December 31, 2008, was 
+comprised of laptops, monitors, and other consumer electronics and components.  The 
+Minnesota inventory, which comprised 40% of QSGI’s reported gross inventory and 35% 
+of its reported net inventory, after reduction for reserves, as of the close of QSGI’s 2008 
+fiscal year, was comprised chiefly of servers, mainframes, and component parts. 
+
+                                           2 
+---------------------Page 3---------------------
+
+                
+               5.     For a period of years prior to the Company filing for bankruptcy in 
+2009, QSGI experienced recurring inventory control problems.  Throughout the relevant 
+period, Company personnel: (1) shipped certain inventory received into its facilities out to 
+customers without making the appropriate entries into the Company’s books and records; 
+and (2) removed items from physical inventory without relieving the inventory from the 
+Company’s books and records.  Company personnel removed component parts from the 
+physical inventory for such parts without recording the parts removed and occasionally 
+stripped component parts from operating systems without recording the parts removed.  As 
+a result, the Company’s books and records incorrectly reflected certain components in 
+inventory and operating systems as intact systems.  These component parts were then sold 
+by the Company or used for the Company’s maintenance services.     
+        
+               6.     These internal control problems resulted in the falsification of 
+QSGI’s books and records relating to QSGI’s inventory.   
+                
+               7.     These inventory control problems escalated at the Minnesota facility 
+beginning in 2007 for several reasons.  First, a manufacturer’s policy of curtailing resellers’ 
+ability to modify machines to customers’ specifications hastened QSGI’s shift from selling 
+machines to selling parts and providing repair and maintenance services.  This, in turn, 
+exacerbated the problem in Minnesota of personnel removing component parts from 
+operating systems without any corresponding adjustment to the Company’s books and 
+records.  The units continued to be recorded on the books and records as intact systems.  
+Second, key personnel, including accounting personnel, left the Minnesota operations in 
+late 2007.  Personnel designated to replace the departed accounting staff lacked an 
+accounting background and failed to fully carry out their responsibilities.  Third, while 
+QSGI management had undertaken to design, document, and implement internal controls to 
+come into compliance with federal securities law requirements, such efforts were not begun 
+in earnest in Minnesota until late 2007, after the departure of key personnel.  Prior to that 
+point, QSGI senior management had accorded Minnesota personnel a fair amount of 
+autonomy, including using an accounting system that differed from the one used in New 
+Jersey. 
+ 
+               8.      The Company’s efforts to introduce new controls to the Minnesota 
+operations during the 2008 fiscal year largely failed.  More particularly, the Company 
+failed to design procedures taking into account the existing control environment, including 
+the qualifications and experience level of persons employed to handle accounting.  Training 
+of accounting, sales, and warehouse personnel either did not take place or was inadequate.  
+As a result, controls the Company attempted to implement in February 2008 were widely 
+ignored during the ensuing ten months of the 2008 fiscal year and well into the 2009 fiscal 
+year.  For example, sales and warehouse personnel often failed to document their removal 
+of items from inventory or, to the extent they did prepare the paperwork, accounting 
+personnel often failed to process the paperwork and to adjust inventory in the company’s 
+financial reporting system.  The Company’s attempts to monitor compliance on an ongoing 
+basis were also inadequate.  Company personnel regularly circumvented controls.   
+ 
+
+                                            3 
+---------------------Page 4---------------------
+
+               9.     In periodic filings with the Commission relating to the relevant 
+period and certifications included therein pursuant to Rule 13a-14 of the Exchange Act, 
+Sherman acknowledged his responsibility for the design and operation of internal controls.   
+ 
+               10.    During the relevant period, Sherman knew of ongoing deficiencies 
+in and the circumvention of internal controls relating to inventory.  For example, in the 
+final days of the 2008 fiscal year, QSGI senior management, including Sherman, 
+communicated openly amongst themselves about the failed implementation, including 
+training in, and circumvention of controls introduced to the Minnesota operations earlier in 
+the year.  Management agreed that corrective action was needed which, given the timing, 
+could not be undertaken until 2009.  Based on further communications, management, 
+including Sherman, was aware that the problems continued through the Company filing for 
+bankruptcy in July 2009.    
+                  
+       D.      SHERMAN’S IMPROPER ACCELERATION OF RECOGNITION        
+               OF INVENTORY AND ACCOUNTS RECEIVABLE                          .   
+        
+               11.    QSGI reported net losses in each fiscal year from 2005 through 
+2008.  Under these circumstances, QSGI’s ability to procure operating funds was critical to 
+the Company’s survival.  
+ 
+               12.    In mid-2008, QSGI entered into a revolving credit facility with its 
+chief creditor.  QSGI’s inventory and accounts receivable factored into the weekly 
+calculation of the borrowing base under the revolving credit facility.  A QSGI employee 
+calculated the borrowing base and reported it to Sherman and to QSGI’s Chief Financial 
+Officer, subsequently redesignated QSGI’s Vice President of Finance and Controller, 
+(“PFO”) for their review prior to sending it to the chief creditor.         
+                
+               13.    On occasion in 2008 and continuing on a more frequent basis up 
+until the company filed for bankruptcy in July 2009, the weekly calculations would show 
+that QSGI had exceeded its borrowing limit or would not be able to borrow enough to 
+continue operations through the upcoming week.  When this occurred, Sherman, either 
+directly or indirectly through the PFO, directed the QSGI employee to not report the 
+calculations to the creditor pending other items being posted to the books and records so 
+that the employee could redo the weekly calculation.   
+ 
+               14.    In order to increase the borrowing base, Sherman directed the 
+accelerated recognition of accounts receivable and/or the receipt of product into inventory 
+on QSGI’s books and records.   Under generally accepted accounting principles, 
+recognition of the accounts receivables and receipt of product into inventory should not 
+have occurred until days or up to approximately a week later, when all conditions for 
+recognition had been satisfied.   
+        
+               15.    Once the accounts receivable and/or receipt of inventory were 
+improperly recorded on QSGI’s books and records, the QSGI employee would recalculate 
+the borrowing base using the new figures 
+
+                                            4 
+---------------------Page 5---------------------
+
+       E.       SHERMAN MISLED QSGI’s EXTERNAL AUDITORS 
+ 
+               16.    At no time during the relevant period did Sherman disclose, or direct 
+anyone else to disclose, to QSGI’s external auditors the foregoing inventory and accounts 
+receivable issues and the resulting falsification of QSGI’s books and records. 
+                
+               17.    To the contrary, in management representations letters to the 
+auditors, Sherman made affirmative misrepresentations and made statements that were 
+misleading as a result of his omitting material facts which were necessary in order to make 
+the statements made not misleading.   Sherman affirmatively represented in management 
+representation letters he provided to the auditors in connection with their review of 
+quarterly financial statements in 2008 that either there were no significant deficiencies or 
+that he had disclosed to the auditors all such deficiencies.  At the conclusion of the fiscal 
+year, he provided yet another management representation letter in connection with the 
+external auditors’ audit of the 2008 fiscal year financial statements in which he 
+acknowledged his responsibility for establishing and maintaining ICFR.  Omitted from the 
+letter was any reference to the existence, or his disclosure to the auditors, of significant 
+deficiencies.  Following on his management representation letters for the first three quarters 
+of 2008, however, and in the context of his having acknowledged in the year-end 
+management representation letter his responsibility for establishing and maintaining ICFR, 
+the omission of any reference to significant deficiencies implied falsely that none existed.  
+In the management representation letter relating to the external auditors’ review of the first 
+quarter 2009 financial statements, Sherman affirmatively misrepresented that he had 
+disclosed to the auditors all significant deficiencies.      
+                
+               18.    Had Sherman disclosed to the external auditors the deficiencies in 
+and the circumvention of inventory controls and the improper acceleration of accounts 
+receivable and inventory recognition described above, the auditors would have changed the 
+nature, timing, and extent of their procedures in conducting the audit of the financial 
+statements for the fiscal year ended December 31, 2008 and review of the financial 
+statements for the quarter ended March 31, 2009.   
+                
+       F.      SHERMAN’S FALSE REPRESENTATIONS IN MANAGEMENT’S 
+               REPORT ON ICFR AND CONCERNING QSGI’S CRITICAL 
+               ACCOUNTING POLICIES                                                                    
+                                  ..                              . .... 
+               19.    QSGI’s Form 10-K for the fiscal year ended December 31, 2008 
+included a Company management’s report on ICFR, as required by Section 404 of the 
+Sarbanes-Oxley Act and Exchange Act Rule 13a-15(c).  A management’s report on ICFR 
+was also included in a Form 10-K/A for the 2008 fiscal year.  
+        
+               20.    The management report included in both filings falsely represented 
+that QSGI’s management, with the participation of QSGI’s CEO, Sherman, had evaluated 
+QSGI’s ICFR as of December 31, 2008 using the criteria set forth by the Committee of 
+Sponsoring Organizations of the Treadway Commission in Internal Control – Integrated 
+
+                                            5 
+---------------------Page 6---------------------
+
+Framework.  In fact, Sherman, in his capacity as CEO, did not participate in any evaluation 
+and was unfamiliar with the referenced framework.   
+        
+               21.    The discussion on critical accounting policies in QSGI’s Form 10-K 
+for the fiscal year ended December 31, 2008 falsely stated that: (1) QSGI “recognize[d] 
+revenue when it is realized or realizable and earned”; and (2)  “[m]anagement continually 
+monitors its inventory valuation . . . .”  
+ 
+               22.    The discussion on critical accounting policies included in QSGI’s   
+Form 10-K/A for the fiscal year ended December 31, 2008 falsely stated that, 
+“[m]anagement closely monitors and analyzes inventory for potential obsolescence and 
+slow-moving items on an item-by-item basis . . . .”   
+                
+               23.    Sherman knew, or was reckless in not knowing, that these 
+statements were materially false and misleading.  During the relevant period, he had 
+directed the improper accelerated recognition of accounts receivable, which would have 
+had the effect of improperly increasing revenue by a commensurate amount.  He also knew 
+that the Company did not closely monitor inventory in the manner described because the 
+Company lacked the necessary resources.  
+  
+               24.    Sherman signed the 2008 Form 10-K in his capacity as Chief 
+Executive Officer and Chairman of QSGI’s Board of Directors.  Sherman signed the 2008 
+Form 10-K/A in his capacity as Chairman, CEO, CFO and CAO.  He was the sole signing 
+officer of the Form 10-K/A.   The 2008 Form 10-K and Form 10-K/A were filed with the 
+Commission on March 31, 2009 and July 23, 2010, respectively.   
+             
+       G.      SHERMAN’S FALSE SARBANES-OXLEY CERTIFICATIONS 
+ 
+               25.    Pursuant to Sarbanes-Oxley Act Section 302 and Exchange Act 
+Rule 13a-14, Sherman signed certifications which were attached to QSGI’s 2008 Forms 
+10-K and 10-K/A and Form 10-Q for the periods ended December 31, 2008 and March 31, 
+2009, respectively.   
+        
+               26.    Sherman individually certified in each filing that, based on his and 
+the other certifying officer’s “most recent evaluation of [ICFR],” they had disclosed to 
+QSGI’s external auditors all significant deficiencies, “in the design or operation of [ICFR] 
+which are reasonably likely to adversely affect [QSGI’s] ability to record, process, 
+summarize and report financial information.”  Omitted from the certification attached to the 
+Form 10-K, but included in the certification attached to the Form 10-Q, were Sherman’s 
+certifications to the effect that the other certifying officer and he: (1) had been responsible 
+for establishing and maintaining ICFR and designing, or supervising others in the design 
+of, ICFR; and (2) had designed, or caused to be designed, such ICFR.   
+        
+               27.    Sherman’s certifications were false because: (1) he had not 
+participated in designing, establishing, or maintaining ICFR, and had not evaluated ICFR; 
+(2) he and others had on occasion circumvented QSGI’s internal controls in accelerating 
+
+                                            6 
+---------------------Page 7---------------------
+
+improperly the recognition of accounts receivable and inventory; and (3) the other 
+certifying officer and Sherman had not made the referenced disclosures to the external 
+auditors.  
+                
+               28.    Sherman knew, or was reckless in not knowing, that his 
+certifications were materially false and misleading.   
+                
+               29.    As mentioned, Sherman signed the 2008 Form 10-K and Form 10-
+K/A, which were filed with the Commission.  Sherman also signed the Form 10-Q for the 
+first quarter of 2009 in his capacity as CEO and Chairman of the Board of Directors,   
+which was filed with the Commission on May 14, 2009.      
+ 
+       H.      VIOLATIONS 
+ 
+               30.    As a result of the conduct described above, Sherman violated 
+Section 10(b) of the Exchange Act and Rule 10b-5 thereunder, which prohibits fraudulent 
+conduct in connection with the purchase or sale of any security involving: a) the use of any 
+device, scheme, or artifice to defraud; b) the making of material misrepresentations or 
+omissions; and c) any act, practice, or course of business which operates or would operate 
+as a fraud or deceit upon any person.   
+        
+               31.    As a result of the conduct described above, Sherman caused QSGI’s 
+violations of Exchange Act Sections 13(b)(2)(A) and 13(b)(2)(B), which require reporting 
+issuers to make and keep accurate books and records and devise and maintain effective 
+internal accounting controls, respectively. 
+        
+               32.    As a result of the conduct described above, Sherman violated 
+Exchange Act Section 13(b)(5), which prohibits any person from knowingly circumventing 
+or knowingly failing to implement a system of internal accounting controls or knowingly 
+falsifying any book, record or account subject to Exchange Act Section 13(b)(2).  Sherman 
+also violated Exchange Act Rule 13b2-1, which prohibits any person from, directly or 
+indirectly, falsifying or causing to be falsified, any book, record or account subject to 
+Exchange Act Section 13(b)(2).   
+        
+               33.    As a result of the conduct described above, Sherman violated 
+Exchange Act Rule 13b2-2, which prohibits any director or officer of an issuer from, 
+directly or indirectly: (a) making or causing to be made a materially false or misleading 
+statement; or (b) omitting or causing another person to omit to state a material fact 
+necessary in order to make statements made, in light of the circumstances under which such 
+statements were made, not misleading, to an accountant in connection with financial 
+statement audits, reviews, or examinations or the preparation or filing of any document or 
+report required to be filed with the Commission.   
+        
+               34.    As a result of the conduct described above, Sherman violated 
+Exchange Act Rule 13a-14(a), which requires that an issuer’s principal executive officer, or 
+
+                                            7 
+---------------------Page 8---------------------
+
+person’s performing similar functions, certify each periodic report containing financial 
+statements filed by an issuer pursuant to Section 13(a) of the Exchange Act.   
+ 
+                                            III. 
+        
+       In view of the allegations made by the Division of Enforcement, the Commission 
+deems it necessary and appropriate that cease-and-desist proceedings be instituted to 
+determine: 
+        
+       A.      Whether the allegations set forth in Section II hereof are true and, in 
+connection therewith, to afford Respondent an opportunity to establish any defenses to such 
+allegations;  
+        
+       B.      Whether, pursuant to Section 21C of the Exchange Act, Respondent should 
+be ordered to cease and desist from committing or causing violations of and any future 
+violations of Sections 10(b), 13(b)(2)(A), 13(b)(2)(B) and 13(b)(5) of the Exchange Act and 
+Rules 10b-5, 13a-14, 13b2-1 and 13b2-2 thereunder; 
+        
+       C.      What, if any, remedial action is appropriate against Respondent, including, 
+but not limited to, civil penalties pursuant to Section 21B(a) of the Exchange Act; 
+        
+       D.      Whether, pursuant to Section 21C(f) of the Exchange Act, Respondent 
+should be prohibited, conditionally or unconditionally, and permanently or for such period 
+of time as it shall determine, from acting as an officer or director of any issuer that has a 
+class of securities registered pursuant to Section 12 of the Exchange Act, or that is required 
+to file reports pursuant to Section 15(d) of the Exchange Act; and 
+        
+                                            IV. 
+        
+       IT IS ORDERED that a public hearing for the purpose of taking evidence on the 
+questions set forth in Section III hereof shall be convened not earlier than 30 days and not 
+later than 60 days from service of this Order at a time and place to be fixed, and before an 
+Administrative Law Judge to be designated by further order as provided by Rule 110 of the 
+Commission's Rules of Practice, 17 C.F.R. § 201.110. 
+        
+       IT IS FURTHER ORDERED that Respondent shall file an Answer to the allegations 
+contained in this Order within twenty (20) days after service of this Order, as provided by 
+Rule 220 of the Commission's Rules of Practice, 17 C.F.R. § 201.220.  
+        
+       If Respondent fails to file the directed answer, or fails to appear at a hearing after 
+being duly notified, the Respondent may be deemed in default and the proceedings may be 
+determined against him upon consideration of this Order, the allegations of which may be 
+deemed to be true as provided by Rules 155(a), 220(f), 221(f) and 310 of the Commission's 
+Rules of Practice, 17 C.F.R.  §§ 201.155(a), 201.220(f), 201.221(f) and 201.310. 
+        
+
+                                             8 
+---------------------Page 9---------------------
+
+       This Order shall be served forthwith upon Respondent personally or by certified 
+mail. 
+        
+       IT IS FURTHER ORDERED that the Administrative Law Judge shall issue an 
+initial decision no later than 300 days from the date of service of this Order, pursuant to 
+Rule 360(a)(2) of the Commission’s Rules of Practice.  
+        
+       In the absence of an appropriate waiver, no officer or employee of the Commission 
+engaged in the performance of investigative or prosecuting functions in this or any factually 
+related proceeding will be permitted to participate or advise in the decision of this matter, 
+except as witness or counsel in proceedings held pursuant to notice.  Since this proceeding is 
+not “rule making” within the meaning of Section 551 of the Administrative Procedure Act, it 
+is not deemed subject to the provisions of Section 553 delaying the effective date of any 
+final Commission action. 
+        
+       By the Commission. 
+ 
+ 
+ 
+                                                              Jill M. Peterson 
+                                                              Assistant Secretary 
+  
+ 
+
+                                              9 

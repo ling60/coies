@@ -1,0 +1,530 @@
+---------------------Page 1---------------------
+
+                          UNITED STATES OF AMERICA 
+                                      Before the 
+                   SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 53762 / May 5, 2006 
+ 
+INVESTMENT COMPANY ACT OF 1940 
+Release No. 27312 / May 5, 2006 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 2426 / May 5, 2006 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-12286 
+ 
+                                     ORDER INSTITUTING ADMINISTRATIVE 
+                                     AND CEASE-AND-DESIST PROCEEDINGS, 
+In the Matter of                     MAKING FINDINGS, AND IMPOSING 
+                                     REMEDIAL SANCTIONS AND A CEASE-
+UNIFIED FUND SERVICES, INC.          AND-DESIST ORDER PURSUANT TO 
+AND MICHAEL E. DURHAM                SECTION 21C OF THE SECURITIES 
+                                     EXCHANGE ACT OF 1934 AND SECTIONS 
+Respondents.                         9(b) AND 9(f) OF THE INVESTMENT 
+                                     COMPANY ACT OF 1940 
+ 
+                                          I. 
+
+      The Securities and Exchange Commission (Commission) deems it appropriate and in 
+the public interest that public administrative and cease-and-desist proceedings be, and hereby 
+are, instituted pursuant to Section 21C of the Securities Exchange Act of 1934 (Exchange Act), 
+and Sections 9(b) and 9(f) of The Investment Company Act of 1940 (Investment Company 
+Act) against Unified Fund Services, Inc. (Unified) and pursuant to Section 9(f) of the 
+Investment Company Act against Michael E. Durham (Durham) (Unified and Durham are 
+referred to collectively herein as Respondents). 
+
+                                         II. 
+
+      In anticipation of the institution of these proceedings, Respondents have submitted Offers 
+of Settlement (the Offers), which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the 
+findings herein, except as to the Commissions jurisdiction over them and the subject matter of 
+these proceedings, which are admitted, Respondents consent to the entry of this Order Instituting 
+Administrative and Cease-and-Desist Proceedings, Making Findings, and Imposing Remedial 
+Sanctions and a Cease-and-Desist Order Pursuant to Section 21C of the Securities Exchange Act 
+---------------------Page 2---------------------
+
+of 1934, and Sections 9(b) and 9(f) of the Investment Company Act of 1940 (Order), as set 
+forth below. 
+
+                                                III. 
+
+       On the basis of this Order and Respondents Offers, the Commission finds    1 that:  
+
+                                          OVERVIEW 
+
+       1.           Unified Fund Services, Inc. (Unified), a mutual fund services company, 
+provided fund administration services to the Liquid Green Money Market Fund (Liquid Green) 
+and its predecessor, the Unified Taxable Money Market Fund (UTMM).  From March 2001 
+through December 2001, the portfolio manager for Liquid Green and UTMM purchased callable 
+bonds that exceeded the maturity limit for securities eligible for purchase by a money market 
+fund under Investment Company Act Rule 2a-7.  Unified incorrectly substituted the call dates for 
+the maturity dates of the bonds in the fund accounting records and also used the call dates for 
+purposes of determining compliance with Rule 2a-7.  As a result of these errors, Unified caused 
+the funds to hold themselves out as money market funds when they were not entitled to do so 
+because they did not meet the risk limiting conditions of Rule 2a-7 resulting in violations of 
+Sections 35(d) and 34(b) of the Investment Company Act.   
+
+       2.           Unified also provided fund administration services and served as the fund 
+accountant for the Florida Street Bond Fund (Florida Street), a high-yield bond fund.  In 
+August 1999, when Unified began providing accounting services to Florida Street, the assets on 
+Florida Streets balance sheet included a substantial interest receivable that was uncollectible.  
+Unified carried this balance over when it began providing accounting services, and Unified did 
+not receive accounting records from the predecessor accountant that adequately substantiated the 
+receivable.  From August 1999 through June 2001, Unified caused Florida Street to continue to 
+carry and accrue uncollectible interest on bonds and to fail to write off interest on bonds no 
+longer owned by the fund.  As a result of these errors, Unified (1) caused Florida Street to 
+materially overstate its interest receivable; (2) computed an incorrect net asset value (NAV), 
+and (3) caused Florida Street to sell and redeem its shares at incorrect NAVs.  Finally, from 2000 
+through 2002, Unified was late in filing several mutual funds semi-annual reports and Form N-
+SARs with the Commission.  By this conduct, Unified willfully    2 violated or aided and abetted 
+and caused violations of pricing, books and records, and naming provisions of the Investment 
+Company Act, and reporting provisions of the Exchange Act.  Michael Durham (Durham), a 
+Unified executive, caused or substantially assisted these violations. 
+
+                                                      
+1 The findings herein are made pursuant to Respondents Offers of Settlement and are not binding on any other 
+ person or entity in this or any other proceeding. 
+2 Willfully as used in this Order means intentionally committing the act that constitutes the violation.  Cf. 
+ Wonsover v. SEC, 205 F.3d 408,411 (D.C. Cir. 2000); Tager v. SEC, 344 F.2d 5, 8 (2d Cir. 1965). 
+
+                                               - 2 - 
+---------------------Page 3---------------------
+
+                                       RESPONDENTS 
+
+       3.     Unified, a mutual fund services company, is an Indiana corporation formed in 
+1990 with its principal place of business in Indianapolis, Indiana.  Unified has been registered 
+with the Commission as a transfer agent since 1990.  Unified provides mutual fund 
+administration, transfer agency and other services to over 137 mutual funds with over $15 billion 
+in assets.  Unified is a wholly-owned subsidiary of Unified Financial Services, Inc.  From 1999 
+through 2002, Unified provided certain mutual fund accounting and administrative services to 
+UTMM, Liquid Green and Florida Street, pursuant to service contracts then in place between 
+Unified and the funds.  Among other things, Unified calculated NAVs, prepared and filed 
+regulatory reports with the Commission, and performed compliance testing. 
+
+       4.     Michael E. Durham, a 45-year-old resident of Greenwood, Indiana, was the Vice 
+President of Fund Accounting at Unified from 1995 until his termination in August 2003.  
+
+                              OTHER RELEVANT ENTITIES 
+
+       5.     Unified Funds, an Indiana corporation, was an open-end series investment 
+company  3 from 1996 until 2001.  One of Unified Funds portfolios was UTMM.  On October 1, 
+2001, UTMM dissolved after it transferred all of its assets to Liquid Green, a portfolio of 
+AmeriPrime Advisors Trust. 
+
+       6.     AmeriPrime Advisors Trust (AAT), an Ohio business trust, is an open-end 
+investment company that has been registered with the Commission since 1999.  Currently, AAT 
+has eight portfolios with over $307 million in assets.  In October 2001, AAT formed Liquid 
+Green as one of its portfolios.  In February 2002, Liquid Green dissolved after transferring all of 
+its assets to another money market fund. 
+
+       7.     AmeriPrime Funds (AF), an Ohio business trust, is an open-end investment 
+company that has been registered with the Commission since 1995.  Currently, AF has six 
+portfolios with over $103 million in assets.  In July 1999, Florida Street, a high-yield bond fund, 
+became a portfolio under AF.  In November 2001, AFs board decided to liquidate Florida Street 
+as a result of the problems described herein. 
+
+       8.     Unified Investment Advisers, Inc. (UIA) was an Indiana corporation and 
+registered investment adviser from February 1995 until it terminated its registration in 
+October 2002.  UIA was a wholly-owned subsidiary of Unified Financial Services, Inc.  UIAs 
+only client was UTMM, and later Liquid Green, which ceased operations in February 2002.  In 
+October 2002, UIA merged into Unified. 
+
+                                                      
+3 Although a series investment company such as Unified Funds, AAT or AF is organized as a single corporate entity, 
+ it may be comprised of several different series or portfolios that function as separate investment companies. 
+
+                                              - 3 - 
+---------------------Page 4---------------------
+
+                                            FACTS 
+
+UTMM and Liquid Green Held Ineligible Securities 
+
+       9.           Investment Company Act Rule 22c-1 prohibits an investment company issuing 
+redeemable securities from selling, redeeming or repurchasing any such security except at a price 
+based on the current NAV of the security.  In determining the NAV, an investment company 
+must value portfolio securities for which market quotations are readily available at their current 
+market value, and other securities at their fair value as determined in good faith by the 
+investment companys board of directors.  This NAV determination, which generally must be 
+made on each business day on which the investment company sells, redeems or repurchases its 
+securities, is commonly referred to as the daily mark-to-market requirement. 
+
+       10.        Investment Company Act Rule 2a-7 is an exemptive rule which exempts 
+investment companies from the daily mark-to-market requirement for certain investment 
+companies characterized as money market funds.  Rule 2a-7 permits a money market fund to use 
+the amortized cost method of valuation to value its portfolio securities.  Under the amortized cost 
+method of valuation, portfolio securities are valued at the investment companys cost of 
+acquisition, adjusted for the amortization of premium or the accumulation of discount, rather 
+than at their market or fair values. 
+
+       11.        Rule 2a-7 provides that an investment company which holds itself out as a money 
+market fund and uses the amortized cost method of valuation to value its portfolio securities 
+must meet certain conditions.  In particular, such a money market fund may not acquire any 
+instrument with a remaining maturity of more than 397 calendar days, unless the securities have 
+a maturity-shortening feature as defined in Rule 2a-7, or maintain a dollar-weighted average 
+portfolio maturity that exceeds 90 days. 
+
+       12.        Between March 20, 2001 and December 6, 2001, UIA purchased 28 fixed-rate 
+government agency bonds for UTMM and Liquid Green with remaining maturities of between 
+two and a half and twelve years (the Ineligible Securities).  By September 30, 2001, the 
+Ineligible Securities made up approximately 53.1% of Liquid Greens assets.  Each of these 
+securities contained a call provision that provided the issuer of the security with an option or 
+right, at its discretion, to call the instrument during its term on specified dates at par.  Unified 
+used these call dates, rather than the stated maturity dates, for purposes of determining 
+compliance with the conditions of Rule 2a-7.  Unifieds use of the call dates rather than the 
+stated maturity dates was impermissible under the rule, however, because UTMM and Liquid 
+Green did not have any right or privilege to put back, or sell, the Ineligible Securities to the 
+issuer prior to the stated maturity and thereby ensure that the maturity of the Ineligible Securities 
+would not actually be greater than 397 days. 
+
+       13.        Pursuant to its fund servicing contracts with Unified Funds and AAT, the 
+sponsors of UTMM and Liquid Green respectively, Unified was responsible for monitoring the 
+funds compliance with their stated investment restrictions, which included the conditions of 
+Rule 2a-7.  Unified was also responsible for keeping the funds books and preparing quarterly 
+Rule 2a-7 compliance reports for the funds boards of directors. 
+
+                                              - 4 - 
+---------------------Page 5---------------------
+
+       14.        In performing its duties for the funds, Unified erroneously substituted the call 
+dates for the maturity dates of the Ineligible Securities in the source accounting records of 
+UTMM and Liquid Green.  By doing so, Unified made misstatements in UTMMs and Liquid 
+Greens books and records.  The misstatements appeared in both funds security master files, 
+which are part of the funds accounting records, and in their portfolio listings.  Although the 
+correct maturity dates for the Ineligible Securities were also entered into the source records and 
+were set forth on the audited and unaudited financial statements of UTMM and Liquid Green, 
+Unified prepared quarterly Rule 2a-7 compliance reports based upon a portion of the source 
+records containing the call dates.  Unified also used the call dates to calculate the funds average 
+portfolio maturities.  As a result, Rule 2a-7 compliance reports generated by Unified between 
+May and December 2001 showed the average portfolio maturities to be under 90 days when the 
+actual average portfolio maturities were between 730 and 1,825 days.  The reports also 
+misrepresented UTMMs and Liquid Greens longest maturity investments.  For example, the 
+May 1, 2001 Rule 2a-7 report disclosed the longest maturity investment as 381 days instead of 
+3,642 days.  
+
+       15.        Between March 2001 and December 2001, Unified prepared and filed with the 
+Commission prospectuses and reports for UTMM and Liquid Green.  These prospectuses and 
+reports, which were also reviewed by the funds outside counsel and accountants, described 
+UTMM and Liquid Green as money market funds when they were no longer entitled to hold 
+themselves out as money market funds.  The prospectuses also represented that the funds could 
+and did use the amortized cost method to price their securities, without disclosing that the funds 
+held Ineligible Securities and therefore were not entitled to use the amortized cost method. 
+
+       16.        On or about December 14, 2001, Unified employees observed a deviation 
+between the market value of the Liquid Green portfolio and its value based on the amortized cost 
+method of valuation.  As a result, Unified reviewed the eligibility of the Ineligible Securities and 
+determined that such securities were not in compliance with Rule 2a-7.  After making the 
+determination, Unified notified UIA and the Liquid Green board of directors that the fund held 
+ineligible securities. 
+
+       17.        Between December 17, 2001 and January 4, 2002, UIA sold all of the Ineligible 
+Securities at a net loss of approximately $517,000.  In January 2002, UIA reimbursed Liquid 
+Green for the full loss incurred in the sale of the Ineligible Securities.  Shortly thereafter, UIA 
+entered into agreements to recover $100,000 from the funds independent auditor and $125,000 
+from the funds counsel, the latter in the form of a partial forgiveness of a receivable due to the 
+law firm.  Unified informed the Commission staff of the loss resulting from the sale of the 
+Ineligible Securities in conjunction with an SEC examination in mid-January 2002. 
+
+Florida Street - Improper Interest Accruals
+
+       18.        On August 1, 1999, Florida Street became a portfolio of AF and Unified began 
+providing fund accounting services pursuant to AFs contract with Unified.  As of that date, the 
+assets on Florida Streets balance sheet included an unsubstantiated interest receivable of 
+approximately $913,264, at least $195,120 of which was uncollectible.  Unified carried this 
+balance over when it began providing accounting services to Florid a Street, and for over a year it 
+did not take any steps to substantiate the accuracy and collectibility of the receivable that had 
+
+                                              - 5 - 
+---------------------Page 6---------------------
+
+been recorded by the predecessor accountant.  Additionally, starting in August 1999, Unifieds 
+fund accounting group failed to write off uncollectible interest for bonds in default and 
+previously accrued interest for bonds no longer owned by the fund (i.e., bonds that were sold 
+flat or for principal only).  This occurred at least in part because Unified failed to employ 
+internal accounting controls adequate to assure that the interest receivable was accurate. 
+
+       19.        Beginning in August 1999, when Unified became the funds administrator, 
+Durham knew or acted with reckless disregard for whether Florida Street was carrying 
+unsubstantiated interest on its books and records.  Among other things, Durham knew that the 
+predecessor accountant had not provided Unified with accounting records needed to substantiate 
+certain interest receivables on the books of Florida Street and that, as a result, the funds interest 
+receivable balance had not been tied out to the interest sub-ledger for each bond in the fund.  
+Durham also knew that the fund accountants could not reconcile the interest for bonds sold 
+without the subledgers and did not create aged interest receivable reports.  Finally, Durham 
+received a letter in April 2000 from Florida Streets independent auditor warning him of 
+unsubstantiated interest on Florida Streets books.  Prior to late 2000, however, Durham 
+continued to rely on the work product of the predecessor accountant, did not make any attempt to 
+substantiate the accuracy and collectibility of the receivable that had been recorded by the 
+predecessor accountant, and failed to put in place internal accounting controls adequate to assure 
+that the interest receivable was accurate.  As a result, Durham was a cause of Florida Streets 
+failure to write off uncollectible interest on its books. 
+
+       20.        During the 2000 year-end audit, the funds independent auditor requested that 
+Unified substantiate Florida Streets interest receivable.  From November 2000 through 
+June 2001, Unified reviewed the interest receivable for collectibility.  By June 2001, Unified 
+determined that Florida Streets interest receivable was overstated by approximately $796,356 as 
+of October 31, 2000 and by approximately $285,794 more for the first four months of the fiscal 
+year ending October 31, 2001.  These amounts represented accrued interest that Unified 
+determined to be uncollectible.  Starting in June 2001, Unified wrote off the uncollectible interest 
+back to December 1, 1999.  The write off reduced the funds NAV for the year ending 
+October 31, 2000 by approximately 4.7%. 
+
+       21.        After writing off the interest, Unified re-priced the fund.  The repricing revealed 
+that Florida Streets daily NAV was overstated from December 1, 1999 through June 25, 2001 
+by amounts ranging from $.01 to $.34 per share.  At its worst, the funds NAV was overstated by 
+approximately 6.1%.  After the repricing, Unified recomputed shareholder transactions during 
+the same period to ensure that no shareholders were harmed by the mispricing.  As a result of the 
+recomputation, Unified voluntarily reimbursed the fund for investors who redeemed out during 
+the period of the repricing and were consequently overpaid. 
+
+       22.        By carrying the uncollectible interest on Florida Streets books, Unified caused 
+material misstatements in Florida Streets April 30, 2000 semi-annual report, which Unified filed 
+on December 12, 2000.  As a result of the failure to write off the uncollectible interest described 
+above, the report overstated the funds interest receivable by approximately 35.2%, overstated 
+the funds NAV by approximately 2%, and overstated the net investment income by 
+approximately 21.56%.  The reported NAV per share was $7.33 but should have been $7.16.  
+Unified knew or should have known, at the time it filed the report on behalf of the fund, that the 
+
+                                               - 6 - 
+---------------------Page 7---------------------
+
+report contained material misstatements resulting from the failure to write off the uncollectible 
+interest. 
+
+        23.       The uncollectible interest also resulted in material misstatements and omissions in 
+Florida Streets audited October 31, 2000 annual report and unaudited April 30, 2001 semi-
+annual report, both of which were prepared and filed by Unified.  The annual reports were also 
+reviewed by the funds outside counsel and auditors.  Florida Streets audited 2000 annual report, 
+which was filed on March 22, 2002, four months after the fund closed, failed to disclose the 
+interest write-off and subsequent repricing, which resulted in a lower NAV.  In addition, the 
+2000 annual report misrepresented the funds distribution to shareholders from net investment 
+income and failed to disclose a return of capital.  Florida Street reported $2,541,908 in net 
+investment income after the interest write-offs.  Nevertheless, the fund also reported that it paid 
+$3,338,264 in distributions to investors from net investment income.  Since the fund had no prior 
+year net investment income from which it could make a positive distribution, only $2,541,908 of 
+the $3,338,264 distributed to shareholders could possibly be attributed to net investment income.  
+The difference, $796,356, was actually an undisclosed return of capital to investors, not a 
+distribution of net investment income, on which some investors may have unknowingly paid 
+taxes.  Unified prepared and filed the audited October 31, 2000 annual report which failed to 
+disclose the repricing and return of capital even though Unified knew about the repricing and the 
+return of capital no later than June 2001.  Some portion of this $796,356 difference should have 
+been reflected on Forms 1099 for the 2000 taxable year that were issued to shareholders on 
+January 15, 2001, and some portion of the remainder should have been reflected on Forms 1099 
+for the 1999 and earlier taxable years. 
+
+Late Filings by Unified Administered Funds 
+
+       24.        From 2000 through 2002, portfolios of AF and AAT made late filings or failed to 
+file required reports with the Commission.  As administrator, Unified was responsible for filing 
+these reports.  At least 21 portfolios under AAT and AF failed to file their annual or semi-annual 
+shareholder reports on time.  In addition, at least 27 portfolios failed to timely file their Form N-
+SARs.  Finally, at least 9 portfolios under AF and AAT either failed to file Form 12b-25s 
+notifying the Commission of an inability to timely file a Form N-SAR or filed the forms 
+incorrectly.  These late filings were in part due to Unifieds failure to put in place adequate 
+procedures to ensure that it timely received documents necessary to make the filings on or before 
+their respective due dates. 
+
+                                         VIOLATIONS 
+
+       25.        As a result of the conduct described above, Unified willfully aided and abetted 
+and caused, and Durham caused, AF to violate Rule 22c-1, promulgated pursuant to 
+Section 22(c) of the Investment Company Act.  Rule 22c-1 requires registered investment 
+companies to sell and redeem shares only at a price based on the current net asset value of such 
+security. 
+
+       26.        As a result of the conduct described above, Unified willfully violated Section 
+34(b) of the Investment Company Act.  Section 34(b) prohibits any person from making any 
+untrue statement of a material fact in any report, account, record, or other document filed or 
+
+                                               - 7 - 
+---------------------Page 8---------------------
+
+required to be kept under Section 31(a) of the Investment Company Act.  Section 34(b) also 
+prohibits any person filing or keeping those documents from omitting to state any fact necessary 
+in order to prevent the statements made in those documents from being misleading.  Rule 2a-
+7(b)(1) provides that it is a material misrepresentation in violation of Section 34(b) for a fund to 
+hold itself out as a money market where it does not meet the risk limiting conditions of Rule 2a-
+7(c).   
+
+       27.        As a result of the conduct described above, Durham violated Section 34(b) of the 
+Investment Company Act by making an untrue statement of a material fact in a report, account, 
+record, or other document filed or required to be kept under Section 31(a) of the Investment 
+Company Act. 
+
+       28.        As a result of the conduct described above, Unified willfully aided and abetted 
+and caused Unified Funds and AAT to violate Section 35(d) of the Investment Company Act.  
+Section 35(d) prohibits any registered investment company from adopting as a part of its name or 
+title any word or words that the Commission finds are materially deceptive or misleading.  Rule 
+2a-7(b)(2) provides that it shall constitute the use of a materially deceptive or misleading name 
+within the meaning of Section 35(d) of the Act for a registered investment company to adopt the 
+term money market as part of its name  unless such registered investment company meets 
+the conditions of paragraphs (c)(2), (c)(3), and (c)(4) of [Rule 2a-7]. 
+
+       29.        As a result of the conduct described above, Unified willfully aided and abetted 
+and caused AAT and AF to violate Section 30(e) of the Investment Company Act and Rule 30e-1 
+thereunder.  Section 30(e) of the Investment Company Act   and Rule 30e-1 thereunder requires 
+every registered investment company to transmit to shareholders, at least semiannually, reports 
+containing the financial statements and other information.  These reports must be transmitted to 
+shareholders no later than sixty days after the close of the period for which the report is being 
+made.   
+
+       30.        As a result of the conduct described above, Unified willfully aided and abetted 
+and caused AAT and AF to violate Section 30(b)(1) of the Investment Company Act and Rule 
+30b1-1 thereunder and Rule 12b-25 under the Exchange Act.  Section 30(b)(1) and Rule 30b1-1 
+thereunder require every registered investment company to file a semi-annual report on Form N-
+SAR not more than sixty days after the close of each fiscal year and second quarter.  Rule 12b-
+25(a) promulgated under the Exchange Act requires that if a registered management investment 
+company cannot timely file its Form N-SAR, the company shall file a Form 12b-25 no later than 
+one business day after the due date for the N-SAR filing. 
+
+                             UNIFIEDS REMEDIAL EFFORTS 
+
+       31.        In determining to accept the Offer, the Commission considered remedial acts 
+promptly undertaken by Unified in connection with the conduct described herein, including the 
+following: 
+
+              a.           firing or demoting four individuals; 
+              b.           hiring a new Chief Executive Officer; 
+              c.           hiring a new Chief Compliance Officer; 
+
+                                              - 8 - 
+---------------------Page 9---------------------
+
+               d.           hiring a new Vice President in charge of mutual fund administration; and 
+               e.           hiring several consulting firms to assist Unified in updating its fund 
+                      accounting, fund administration and compliance procedures. 
+
+                                      UNDERTAKINGS 
+
+       32.    Independent Compliance Consultant.  Unified has undertaken:  
+
+               a.           to hire, within 90 days of the entry of the Order, an Independent 
+       Compliance Consultant not unacceptable to the staff of the Commission.  Unified shall 
+       cause the Independent Compliance Consultant to review Unifieds (i) accounting and 
+       compliance procedures applicable to Rule 2a-7, (ii) accounting policies and procedures 
+       applicable to interest accruals, and (iii) compliance procedures applicable to the timely 
+       filing of reports of the type described in paragraph 24 above.  The Independent 
+       Compliance Consultants compensation and expenses shall be borne exclusively by 
+       Unified or its affiliates.  Unified shall cooperate fully with the Independent Compliance 
+       Consultant and shall provide the Independent Compliance Consultant with access to its 
+       files, books, records and personnel as reasonably requested for the review; 
+
+               b.           to require that, at the conclusion of the review, which in no event shall be 
+       more than 120 days after the date of entry of the Order, the Independent Compliance 
+       Consultant shall submit a Report to Unified and the staff of the Commission.  The Report 
+       shall address the issues described in subparagraph 32.a. of these undertakings, and shall 
+       include a description of the review performed, the conclusions reached, the Independent 
+       Compliance Consultants recommendations for changes in or improvements to policies 
+       and procedures of Unified and a procedure for implementing the recommended changes 
+       in or improvements to Unifieds policies and procedures;  
+
+               c.           to adopt all recommendations contained in the Report of the Independent 
+       Compliance Consultant; provided, however, that within 150 days after the date of entry 
+       of the Order, Unified shall in writing advise the Independent Compliance Consultant and 
+       the staff of the Commission of any recommendations that it considers to be unnecessary 
+       or inappropriate.  With respect to any recommendation that Unified considers 
+       unnecessary or inappropriate, Unified need not adopt that recommendation at that time 
+       but shall propose in writing an alternative policy, procedure or system designed to 
+       achieve the same objective or purpose;  
+
+               d.           that as to any recommendation with respect to Unifieds policies and 
+       procedures on which Unified and the Independent Compliance Consultant do not agree, 
+       such parties shall attempt in good faith to reach an agreement within 180 days of the date 
+       of entry of the Order.  In the event Unified and the Independent Compliance Consultant 
+       are unable to agree on an alternative proposal acceptable to the staff of the Commission, 
+       Unified will abide by the determinations of the Independent Compliance Consultant;  
+
+               e.           that Unified (i) shall not have the authority to terminate the Independent 
+       Compliance Consultant, without the prior written approval of the staff of the 
+       Commission; (ii) shall compensate the Independent Compliance Consultant, and persons 
+
+                                              - 9 - 
+---------------------Page 10---------------------
+
+       engaged to assist the Independent Compliance Consultant, for services rendered pursuant 
+       to the Order at their reasonable and customary rates; (iii) shall not be in and shall not 
+       have an attorney-client relationship with the Independent Compliance Consultant and 
+       shall not seek to invoke the attorney-client or any other doctrine or privilege to prevent 
+       the Independent Compliance Consultant from transmitting any information, reports, or 
+       documents to the Directors of Unified or its parent, Unified Financial Services, Inc. or the 
+       Commission; and  
+
+               f.           to require the Independent Compliance Consultant to enter into an 
+       agreement that provides that for the period of engagement and for a period of two years 
+       from completion of the engagement, the Independent Compliance Consultant shall not 
+       enter into any employment, consultant, attorney-client, auditing or other professional 
+       relationship with Unified, or any of its present or former affiliates, directors, officers, 
+       employees, or agents acting in their capacity.  The agreement will also provide that the 
+       Independent Compliance Consultant will require that any firm with which he/she is 
+       affiliated or of which he/she is a member, and any person engaged to assist the 
+       Independent Compliance Consultant in performance of his/    her duties under this Order 
+       shall not, without prior written consent of the staff of the Commission, enter into any 
+       employment, consultant, attorney-client, auditing or other professional relationship with 
+       Unified, or any of its present or former affiliates, directors, officers, employees, or agents 
+       acting in their capacity as such for the period of the engagement and for a period of two 
+       years after the engagement. 
+
+       33.    Certification and Extension of Procedural Dates.  Unified undertakes that, no 
+later than twenty-four months after the date of entry of the Order, its chief executive officer shall 
+certify to the Commission in writing that Unified has fully adopted and complied in all material 
+respects with the undertakings set forth in paragraph 32 above or, in the event of material non-
+adoption or non-compliance, shall describe such material non-adoption and non-compliance.  For 
+good cause shown, the Commissions staff may extend any of the procedural dates set forth in 
+paragraph 32 above. 
+
+       34.    Record-keeping.  Unified undertakes to preserve for a period not less than five 
+years from the date of this Order, the first two years in an easily accessible place, any record of 
+their compliance with the undertakings set forth in paragraph 32 above.  
+
+                                               IV. 
+
+       In view of the foregoing, the Commission deems it appropriate and in the public interest 
+to impose the sanctions agreed to in Respondents Offers.  Accordingly, pursuant to Section 21C 
+of the Exchange Act and Sections 9(b) and 9(f) of the Investment Company Act it is hereby 
+ORDERED that: 
+
+       A.         Unified cease and desist from committing or causing any violations and any 
+future violations of Section 34(b) of the Investment Company Act, and to cease and desist from 
+causing any violations and any future violations of Rule 12b-25 under the Exchange Act and 
+Sections 30(b)(1), 30(e), 34(b) and 35(d) of the Investment Company Act and Rules 22c-1, 30e-1 
+and 30b1-1 thereunder. 
+
+                                              - 10 - 
+---------------------Page 11---------------------
+
+       B.          Durham cease and desist from committing or causing any violations and any 
+future violations of Sections 34(b), and causing any violations and any future violations of Rule 
+22c-1 under the Investment Company Act. 
+
+       C.     Payment of Civil Monetary Penalty by Unified.  It is further ordered that Unified 
+shall, within thirty days of the entry of this Order, pay a civil money penalty in the amount of 
+$125,000 to the United States Treasury.  Such payment shall be: (A) made by United States 
+postal money order, certified check, bank cashiers check or bank money order; (B) made 
+payable to the Securities and Exchange Commission; (C) hand-delivered or mailed to the Office 
+of Financial Management, Securities and Exchange Commission, Operations Center, 6432 
+General Green Way, Stop 0-3, Alexandria, VA 22312; and (D) submitted under cover letter that 
+identifies Unified as a Respondent in these proceedings, the file number of these proceedings, a 
+copy of which cover letter and money order or check shall be sent to Robert J. Burson, Senior 
+Associate Regional Director, Midwest Regional Office, Securities and Exchange Commission, 
+175 West Jackson Boulevard, Suite 900, Chicago, Illinois 60604. 
+
+       D.     Unifieds Compliance with Undertakings.  Unified shall comply with the 
+undertakings set forth in paragraphs 32-34 above. 
+
+              By the Commission. 
+ 
+ 
+ 
+ 
+ 
+                                            Nancy M. Morris 
+                                            Secretary 
+ 
+
+                                             - 11 - 

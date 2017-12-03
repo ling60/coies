@@ -1,0 +1,600 @@
+---------------------Page 1---------------------
+
+                           UNITED STATES OF AMERICA 
+                                       Before the 
+                    SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES ACT OF 1933 
+Release No. 9930 / September 28, 2015 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 75997 / September 28, 2015 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3706 / September 28, 2015 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-16837 
+ 
+                                             ORDER INSTITUTING CEASE -AND-
+In the Matter of                             DESIST PROCEEDINGS PURSUANT TO 
+                                             SECTION  8A OF THE SECURITIES ACT 
+      TRINITY CAPITAL                        OF 1933 AND SECTION  21C OF THE 
+      CORPORATION ,                          SECURITIES EXCHANGE ACT OF 1934, 
+                                             MAKING FINDINGS, AND IMPOSING A 
+Respondent.                                  CEASE-AND-DESIST ORDER  AND 
+                                             PENALTIES  
+ 
+ 
+ 
+       
+                                           I.  
+ 
+       The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act 
+of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 1934 (“Exchange 
+Act”), against Trinity Capital Corporation (“Respondent”).   
+                                             
+                                           II. 
+                                             
+      In anticipation of the institution of these proceedings, Respondent has submitted an Offer 
+of Settlement (the “Offer”) which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the findings 
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these 
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of 
+the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order 
+and Penalties (“Order”), as set forth below.   
+---------------------Page 2---------------------
+
+                                               III. 
+ 
+                                                                                1
+       On the basis of this Order and Respondent’s Offer, the Commission finds  that:  
+
+                                           Summary 
+
+       This proceeding results from Trinity Capital Corporation and its wholly-owned 
+subsidiary, Los Alamos National Bank (collectively, “Trinity” or “the Bank”), failing to account 
+properly for the Bank’s loan portfolio during 2010, 2011 and the first two quarters of 2012 (the 
+“Relevant Periods”), and failing to account properly for its other real estate owned (“OREO”) in 
+2011.   
+
+       As the New Mexico economy declined during the financial crisis, the Bank experienced 
+an increase in problem loans and a decrease in the collateral values supporting its loan portfolio 
+and OREO.  In response, certain former members of the Bank’s management caused the Bank to 
+engage in false and misleading accounting and reporting that concealed the Bank’s loan 
+delinquencies and declining collateral values and to hide the true nature of its loan portfolio.  
+This conduct resulted in the Bank materially misstating its provision for loan losses and its 
+allowance for loan and lease losses (“ALLL”) during the Relevant Periods, including in its 
+quarterly and annual filings with the Commission during 2010, 2011, and the first two quarters 
+of 2012, and understating its OREO losses in 2011.  This conduct by certain former members of 
+the Bank’s management was aided by the Bank’s deficient internal accounting controls over loan 
+and OREO accounting, as well as the overriding of internal accounting controls by certain 
+employees and former members of management.  
+
+       On December 12, 2014, Trinity filed its Form 10-K for the year ended December 31, 
+2013, which included the restatement of Trinity’s consolidated financial data for the year ended 
+December 31, 2011 and the quarterly periods ended March 31, 2012 and June 30, 2012, and the 
+restated, unaudited, selected consolidated financial data for the year ended December 31, 2010.  
+According to its restatement, Trinity’s provision for loan losses was understated by $6.8 million 
+(25%) in 2010, $22.3 million (73%) in 2011, and $4.5 million (68%) in the first quarter of 2012.  
+Trinity overstated its provision for loan losses for the second quarter of 2012 by $2.3 million 
+      2                                                                                         
+(31%).   Additionally, in 2011, Trinity’s OREO losses were understated by $364,000 (10%).  
+
+                                          Respondent 
+
+       1.     Trinity Capital Corporation is a New Mexico corporation headquartered in Los 
+Alamos, New Mexico.  Trinity is the holding company of Los Alamos National Bank, a national 
+banking organization with $1.4 billion in assets.  Trinity’s common stock is registered with the 
+
+                                                 
+1
+ The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding on any 
+other person or entity in this or any other proceeding. 
+
+2
+ The overstatement stemmed from the Office of the Comptroller of the Currency’s (“OCC”) 2012 
+examination, which uncovered numerous accounting errors and resulted in the Bank improperly recording 
+losses in the second quarter of 2012, rather than in prior periods.   
+
+                                                2  
+---------------------Page 3---------------------
+
+Commission pursuant to Section 12(g) of the Exchange Act; however, its stock is not listed on 
+any automated quotation system or securities exchange and no firm makes a market in its stock.  
+In 2010, Trinity issued common stock under a registration statement filed on Form S-8 
+(Registration No. 333-126980, filed July 28, 2005).  In 2012, Trinity awarded Restricted Stock 
+Units to certain personnel under the same registration statement.  The registration statement 
+incorporated by reference subsequent filings, including Trinity’s 2010 Forms 10-Q and 10-K, 
+2011 Forms 10-Q and 10-K, and 2012 Forms 10-Q.   
+
+                                               Facts 
+
+                        Relevant Accounting Guidance and Bank Policies 
+
+       2.      Banks carry loans on their balance sheets as assets and generally record interest 
+income on the loans on their income statements.  According to Generally Accepted Accounting 
+Principles (“GAAP”), estimated loan losses must be accrued when it is probable that losses have 
+                                                                       3
+been incurred and the amount of the loss can be reasonably estimated.      These loan losses are 
+recorded on the balance sheet as the ALLL.  The Bank’s ALLL includes two components:  
+(1) the allowance required for loans not individually assessed for impairment, which is based on 
+grouping by loan grade and type and collectively evaluating the pools for impairment; and (2) 
+the allowance required for individually impaired loans, which is based on an individual loan 
+level measurement of impairment.  Any increase in the ALLL must be accompanied by the 
+recording of a provision for loan losses on the income statement, thereby increasing reported 
+losses.   
+       3.      GAAP requires that OREO be valued upon receipt at fair value less costs to sell 
+and on an ongoing basis measured at the lower of its carrying amount or fair value less cost to 
+    4
+sell.   GAAP and Rule 9  - 04 Item 14(d) of Regulation S- X required the Bank to record on its 
+income statement any loss on OREO.      
+
+                   The Bank Failed To  Measure Collective Impairment    s Properly 
+
+       4.      The Bank’s material misstatements regarding the first component of the ALLL 
+primarily stemmed from the Bank failing to properly grade hundreds of loans.  During the 
+Relevant Periods, the Bank’s loan policy provided for seven loan grades:  pass1, pass2, pass3, 
+special mention, substandard, doubtful, and loss.  Throughout the Relevant Periods, the Bank’s 
+loan portfolio included numerous loans that were graded as pass, but should have been 
+downgraded to special mention or substandard.  These grading errors resulted in the Bank 
+understating its ALLL because lower graded loans carry a higher loan loss estimate, thereby 
+increasing the first component of the ALLL.   
+
+       5.      Pursuant to the Bank’s loan policy, loans were to be graded special mention when 
+they had potential weaknesses that deserved management’s close attention.  Loans were to be 
+graded substandard when they demonstrated well defined weakness.  Internal Bank training 
+further elaborated on the characteristics of substandard loans, including those that are seriously 
+
+                                                 
+3
+ See ASC 450-20-25-2.  
+4
+ See ASC 310-40-40-3.  
+                                                 3  
+---------------------Page 4---------------------
+
+past due (60 days or more) and those with inadequate future cash flow potential, insufficient cash 
+flow, unprofitable operations and/or inadequate debt service coverage, questionable repayment 
+source, and advances to fund interest payments.   
+
+       6.     During the Relevant Periods, the Bank’s loan department operated under a culture 
+that discouraged downgrading loans to special mention or substandard.  Loan officers were under 
+pressure from certain members of management to avoid having any “bad loans” in their loan 
+portfolios, including any loans that were graded below pass and loans that were more than 30 
+days past due.  As a result, the Bank’s loan department ignored and hid loan weaknesses that 
+required downgrades and waited as long as possible to downgrade loans below pass, which 
+sometimes included waiting until the loan was at or over 90 days past due, or until the loan was 
+selected for review by a third party and was therefore at risk for being identified as a grade 
+“miss.”   
+
+       7.     The Bank’s loan department undertook steps to prevent downgrades on certain 
+loan relationships, including authorizing checking account overdrafts and the extension of 
+additional credit to borrowers who were unable to make their required principal and interest 
+payments on their existing debt.  Sometimes this additional credit would be granted using loans 
+referred to as “ABC Loans,” which stood for “Additional Balance Club Loans.”  The additional 
+credit was used to make required payments on the existing debt, which would result in the 
+borrower appearing current on loan payments when, in fact, the Bank was not actually making 
+any collections from the borrower.   
+
+       8.     Certain former members of the Bank’s management and loan department 
+employees circumvented and ignored internal accounting controls by failing to downgrade 
+troubled loan relationships.  For example, one instance, a former member of the Bank’s 
+management backdated documents to make it appear as if additional credit had been extended 
+prior to Trinity’s internal audit department downgrading a loan relationship to substandard.  In 
+other instances, credit was extended to borrowers without the required credit analyses being 
+completed.  In one instance a borrower’s loans were downgraded from pass to substandard by the 
+internal audit department in late March 2011, were then updated to pass at the direction of 
+former members of management in early April 2011, and were then again downgraded to 
+substandard in May 2011 when the borrower appeared on a list of loans to be reviewed by a third 
+party.   
+
+       9.     In the case of one borrower and his associated entities, approximately $8.8 million 
+in loans were improperly graded as pass during nearly all of the Relevant Periods.  In connection 
+with these loans, certain former members of the Bank’s management established a practice, 
+followed by loan department employees, of using a variety of techniques to ignore and hide the 
+borrower’s troubled financial situation, including granting additional credit to the borrower for 
+the purpose of making payments on existing loans and modifying the loans and granting the 
+borrower concessions without downgrading the loans or evaluating them as Troubled Debt 
+                         5
+Restructurings (“TDRs”).   Members of the Bank’s management did not follow up on 
+
+                                                 
+5
+ Pursuant to GAAP, a restructuring of a debt constitutes a TDR if the creditor grants a concession to the 
+debtor due to the debtor's financial difficulties. See ASC 310-40-15-5. 
+                                                4  
+---------------------Page 5---------------------
+
+employees’ concerns regarding the manner in which the Bank was managing and accounting for 
+these loans.  Further, certain former members of the Bank’s management and loan department 
+employees undertook efforts to prevent the OCC, the Board, and other Bank personnel from 
+reviewing this borrower’s loans and discovering the troubled nature of the borrower.   
+
+       10.    In another instance, throughout the Relevant Periods, a borrower had numerous 
+loan extensions that delayed the borrower’s repayment of the loans.  The borrower’s financial 
+situation and payment history clearly indicated that he was struggling to make his payments in 
+accordance with the terms of his notes; nonetheless, at the direction of a former member of the 
+Bank’s management, the loan officer continued to extend additional credit to make interest 
+payments and to provide renewals and extensions to prevent the borrower from appearing on the 
+Bank’s past due list.  Under the direction of a former member of the Bank’s management, this 
+borrower’s loans were not handled in accordance with the Bank’s internal policies and 
+procedures.  Further, in at least one instance, the loan department provided the borrower 
+additional funds in the name of his entity so it would not be readily apparent that a loan payment 
+was made through the extension of additional credit.   
+
+  The Bank Failed To Identify Troubled Debt Restructurings And Other Individually Impaired 
+                                                Loans 
+
+       11.    The Bank’s failure to identify individually impaired loans, including TDRs, led to 
+material misstatements regarding the second component of the ALLL.  GAAP provides that a 
+loan is impaired when it is probable that the creditor will be unable to collect all the contractual 
+                                                                       6
+interest and principal payments as scheduled in the loan agreement.        When loans are changed, 
+for example by a restructure, extension or other modification, GAAP requires the transaction be 
+                                                           7
+evaluated to determine if the change constitutes a TDR.       If a loan is determined to be a TDR, 
+GAAP considers the loan    individually  impaired and requires the amount of the impairment to be 
+measured    based on the individual impairment guidance   .   
+
+       12.     During the Relevant Periods, the Bank failed to identify hundreds of individually 
+impaired loans, understating the loans that should have been considered individually impaired by 
+more than $50 million or more than 70% during the Relevant Period.  Many of the newly 
+                                            8
+identified impaired loans were also TDRs.      In identifying impaired loans, the Bank’s loan 
+department ignored GAAP and failed to identify certain loans as impaired until all potential 
+means of repayment, were exhausted which in certain cases included the Bank granting 
+
+                                                 
+6
+ See ASC 310-10-35-16.   
+7
+ See ASC 310-40-15-9(c).   
+8
+ Regulation S-K Item 303(a) requires discussion in the MD&A sections of public filings, any 
+“information that the registrant believes to be necessary to an understanding of its financial condition.”  
+Bank holding companies are directed to SEC Industry Guide 3, which requests that bank holding 
+companies discuss the policy for placing loans on nonaccrual and state the aggregate of loans in the 
+following categories:  nonaccrual, accruing loans which are contractually past due 90 days or more, and 
+other loans that are TDRs.  Because the Bank failed accurately to report loans that were contractually past 
+due 90 days or more and TDRs, its 2010 and 2011 Forms 10-K also contained false disclosures regarding 
+these items. 
+                                                   5  
+---------------------Page 6---------------------
+
+numerous concessions to the borrower.  In some instances, the Bank’s internal loan documents 
+were intentionally drafted to avoid triggering a review of the transaction as a TDR.   
+
+              The Bank Failed To Measure Individual Loan Impairments Properly 
+
+       13.    The Bank also made material errors regarding the second component of the ALLL 
+by failing to measure properly the loss for individually impaired loans.  If a loan is individually 
+impaired, the amount of impairment must be measured and recorded as an expense with a 
+corresponding amount recorded to the ALLL.  GAAP permits the impairment to be measured 
+using the fair value of the underlying collateral if the loan is collateral dependent, which is the 
+                                    9
+method the Bank typically utilized.    GAAP requires that the best information available in the 
+circumstances be used to determine fair value.   
+
+       14.    It was the Bank’s practice to order annual appraisals on loans graded special 
+mention, substandard, or worse.  Among other things, these appraisals were used to value the 
+Bank’s collateral that was used to measure the loss on impaired collateral-dependent loans.  The 
+Bank’s appraisal department used a standard engagement letter that required appraisers to value 
+                                         10
+properties in their current state (“as-is”).   On properties still under construction and completed 
+properties generating income, the Bank also ordered appraisals that would provide the value of a 
+property at the time construction was complete (“as-completed”) or when the property reached 
+stabilized net operating income (“as-stabilized”).  For purposes of measuring the impairment on 
+a collateral dependent loan, the Bank was required to consider the current condition of the 
+property, which can be accomplished by usingan “as-is” appraisal value.  However, in at least 
+two instances, certain former members of the Bank’s management directed the use of the higher 
+“as stabilized” or “as completed” values in measuring impairment losses when an as-is appraisal 
+should have been used.   
+
+       15.    One example involved a $4.2 million loan that was substandard and impaired 
+during the Relevant Periods.  In 2010, at the direction of a former member of management, the 
+Bank canceled an “as-is” appraisal on the property collateralizing the loan, resulting in the 
+appraisal only providing an “as-stabilized” value after construction of the project was completed 
+and operating profitably.  The Bank then calculated its own “as-is” value by subtracting the cost-
+to-complete as provided by the borrower from the as-completed value.  In the second half of 
+2011, the Bank obtained updated cost estimates that, if utilized, would have resulted in an 
+impairment loss of approximately $1 million; however, the Bank ignored those updated cost-to-
+complete estimates.  In the second quarter of 2012, the Bank finally received an appraisal that 
+included an “as-is” value; however, utilizing the as-is appraisal value would have required an 
+impairment loss of approximately $3.7 million.  The Bank “rejected” the appraisal, deleted it 
+from the Bank’s electronic loan file, and continued to use the 2010 internally calculated “as-is” 
+value based upon the as stabilized appraisal less the outdated cost to complete numbers in 
+
+                                                 
+9
+ See ASC 310-10-35-23.   
+10
+  ASC 820-10-20 defines fair value as the price that would be received to sell an asset in an orderly 
+transaction between market participants as of the measurement date.  The as-is appraisal considers the 
+conditions of the property as of the measurement date, while the as-completed and as-stabilized appraisals 
+do not. 
+                                                 6  
+---------------------Page 7---------------------
+
+measuring the impairment for the second quarter of 2012.  The resulting improper valuations on 
+this loan resulted in the Bank avoiding approximately $3.7 million in impairment losses 
+throughout 2011 and in the first two quarters of 2012.   
+
+       16.    In another instance, the Bank ignored an appraisal valuing the collateral 
+supporting an $8.9 million loan that was substandard and impaired.  Throughout 2011 and the 
+first two quarters of 2012, the Bank measured the loan’s impairment by relying on a February 
+2011 appraisal that valued the property at approximately $15.9 million.  In March 2012, the 
+Bank was notified that the property had been appraised in January 2012 in connection with 
+foreclosure litigation.  The January 2012 appraisal would have resulted in an impairment loss of 
+approximately $3 million.  The Bank then disregarded the January 2012 appraisal, ordered 
+another appraisal from a different appraiser, and continued to solely rely on the outdated 
+February 2011 appraisal in accounting for the loan for the year-end 2011 and in the first two 
+quarters of 2012, thereby avoiding recognizing loan losses totaling approximately $3 million.   
+
+       17.    In another example, the Bank participated in a $20.5 million loan that was 
+substandard and impaired throughout the Relevant Periods.  In calculating the impairment 
+throughout the Relevant Periods, the Bank used the “as-stabilized” value of $32 million from a 
+January 2010 appraisal and $27.4 million from a January 2011 appraisal.  These “as-stabilized” 
+values significantly overstated the fair value of the collateral, however, because they assumed 
+significant changes to the property’s operations, none of which occurred during the Relevant 
+Periods.   
+
+       18.    In connection with that same loan, the Bank also ignored other material 
+information relevant to the property’s value that indicated that the loan required a significant 
+impairment loss, including a listing agreement that listed the property for sale at a price that was 
+millions of dollars below the appraised “as-stabilized” values, the Bank responding to inquiries 
+of multiple potential purchasers that it was willing to accept a sales price that was millions of 
+dollars below the appraised “as-stabilized” values, the Bank learning that another bank with an 
+interest in the property was accounting for the loan based on a collateral value of $13 million, 
+and an internal analysis that showed that the property could be worth $14 to $15 million 
+assuming some improvements to the property’s operating condition.  By failing to measure the 
+impairment on this loan properly, the Bank avoided recording approximately $8.9 million of loan 
+losses throughout the Relevant Periods.   
+
+       19.    Similarly, on another loan for $2.7 million, the Bank avoided a $1.1 million 
+impairment loss in 2011 by ignoring clear evidence of a lower collateral value.  In February 
+2012, the Bank consented to a letter of intent for the sale of a loan’s collateral so long as the 
+Bank obtained $1.65 million from the sale.  In accounting for the loan in the first quarter of 
+2012, however, the Bank ignored the letter of intent and instead used the outstanding loan 
+                                               11
+balance of $2.7 million as the collateral value.  
+
+                                                  
+11
+  In fact, the Bank should have used the $1.65 million value in measuring the impairment for year-end 
+2011 because the value was known to the Bank prior to the filing of its 2011 Form 10-K and therefore, 
+                                                 7  
+---------------------Page 8---------------------
+
+                    The Bank Failed To Take Appropriate Losses On OREO 
+
+       20.    During the Relevant Periods, it was the Bank’s practice to order appraisals on 
+properties that were moving into OREO and annual appraisals on properties that remained in 
+OREO.  In 2011, the Bank failed to properly value and account for impairments to its OREO by 
+not using appraisals that indicated that the value of OREO properties had decreased and that a 
+decrease in the net carrying amount of OREO was required.  Additionally, subsequent event 
+appraisals received after the end of a quarterly or annual period, but before the financial 
+statements were filed, that provided a better estimate of the fair value of the OREO at the end of 
+the prior period end, were not always used, as required by GAAP, in the Bank’s OREO 
+           12
+accounting.      
+
+       The Bank   failed to Devise and Maintain a System of   Internal Accounting Controls   
+
+       21.    The material misstatements and the conduct by certain former members of Bank 
+management was facilitated by the intentional circumvention of internal accounting controls, but 
+were also aided by the Bank’s failure to devise and maintain a system of internal accounting 
+controls.   
+
+       22.    During the Relevant Periods, the Bank lacked sufficient internal accounting 
+controls over the periodic review of loans to ensure loans were accurately graded and to identify 
+troubled and impaired loans.  Further, the Bank’s internal audit department was not independent 
+from management and, as a result, the Bank’s Audit Committee was not always provided with 
+complete and independent audit findings.  The Bank’s internal audit department also lacked a 
+formalized risk assessment process and, as a result, did not sufficiently consider risks in financial 
+reporting in establishing audit procedures.   
+
+       23.    The Bank also lacked sufficient internal accounting controls over the use of ABC 
+Loans and the analysis of TDRs.  For example, the Bank’s internal loan approval and credit 
+review processes failed to require an analysis of whether a loan modification or extension was a 
+TDR.  Similarly, in some instances, feedback and working papers from independent, third-party 
+loan reviews indicated that a TDR analysis should be performed on specific loans; however, 
+there were no controls in place to confirm that this feedback was reviewed, noted, and acted 
+upon.  Further, during the Relevant Periods, TDRs were rarely discussed within the loan 
+department, and employees were not properly instructed as to how and when to analyze 
+modifications as potential TDRs.  Finally, numerous loans should have been evaluated as TDRs 
+because a new loan was provided to pay interest or principal due on an existing loan.  The 
+Bank’s loan policy failed to consider whether this situation resulted in a “concession.”   
+
+       24.    The Bank lacked sufficient internal accounting controls over its accounting for 
+impaired loans in conformity with GAAP.  Loan department personnel calculating the impaired 
+loan losses did not possess sufficient accounting expertise and there was not adequate 
+
+                                                                                                                                                             
+pursuant to GAAP, it constituted a subsequent event that should have been recognized in the Bank’s year-
+end financial statements.     
+
+12
+  See  ASC 855-10 -25 and AS  C 450  -20 -25 -2 . 
+                                                 8  
+---------------------Page 9---------------------
+
+involvement or review by the accounting department.  As a result, errors occurred in the 
+calculation of impaired loan losses.   
+
+       25.    The Bank also lacked sufficient internal accounting controls over appraisals.  
+While the appraisal process was to be separate and independent from the loan department, in 
+practice, loan department employees were charged with determining when appraisals would be 
+ordered on classified loans and OREO properties.  Further, at the direction of certain former 
+members of the Bank’s management and loan department, appraisals were sometimes not 
+ordered timely, delayed, or ordered without the standard request for an “as-is” fair value.  The 
+accounting department was not automatically notified when appraisals were received, which 
+meant that they were not always aware of appraisals relevant to impairment measurements or 
+OREO write downs.   
+
+       26.    Additionally, appraisals received after the balance sheet date were not always 
+considered, as required by GAAP, in the Bank’s loan and OREO impairment accounting.  The 
+Bank was aware of this internal control issue by at least 2009 when the Bank’s outside auditor 
+found a $2.2 million subsequent event accounting error.  Nonetheless, the Bank failed to 
+implement controls to adequately address this issue and, throughout the Relevant Periods, the 
+Bank’s internal audit and accounting departments continued to stumble across appraisals that had 
+not been factored into the Bank’s accounting. 
+
+       27.      The Bank also lacked sufficient internal accounting controls over the Bank’s 
+processes and computerized systems that housed appraisals and loan information.  Controls were 
+                                                                                   
+inadequate to ensure all received appraisals were preserved in the Bank’s database.  Numerous 
+employees, including loan officers, had edit rights to these systems allowing them to alter or 
+delete data about loans, appraisals, collateral values and customers.   Because of these 
+inadequacies, employees could delete appraisals or change collateral values without 
+documenting why the alterations were made.  When appraisals and collateral values were 
+deleted, the result was that information was not made available to the OCC and other third 
+parties, as well as other Bank employees. 
+
+                                           Violations 
+
+     28.      As a result of the conduct described above, Trinity violated Section 10(b) of the 
+Exchange Act and Rule 10b-5 thereunder, which prohibit fraudulent conduct in connection with 
+the purchase or sale of securities.  
+
+     29.      As a result of the conduct described above, Trinity violated Section 17(a) of the 
+Securities Act, which prohibits fraudulent conduct in the offer or sale of securities.   
+
+     30.      As a result of the conduct described above, Trinity violated Section 13(a) of the 
+Exchange Act and Rules 13a-1, 13a-13 and 12b-20 thereunder, which require every issuer of a 
+security registered pursuant to Section 12 of the Exchange Act file with the Commission 
+information, documents, and annual and quarterly reports as the Commission may require, and 
+mandate that periodic reports contain such further material information as may be necessary to 
+make the required statements not misleading.  
+
+                                                9  
+---------------------Page 10---------------------
+
+      31.      As a result of the conduct described above, Trinity violated Section 13(b)(2)(A) of 
+the Exchange Act, which requires reporting companies to make and keep books, records and 
+accounts, which in reasonable detail, accurately reflect their transactions and dispositions of their 
+assets. 
+
+      32.      As a result of the conduct described above, Trinity violated Section 13(b)(2)(B), 
+which requires all reporting companies to devise and maintain a system of internal accounting 
+controls sufficient to provide reasonable assurances that transactions are recorded as necessary to 
+permit preparation of financial statements in accordance with generally accepted accounting 
+principles; and prohibit persons from knowingly circumventing or knowingly failing to implement 
+a system of internal accounting controls, knowingly falsifying any book, record or account, and 
+directly or indirectly falsifying or causing to be falsified any book, record, or account. 
+
+                                Respondent’s Remedial Efforts 
+
+      33.      In determining to accept the Offer, the Commission considered remedial acts 
+undertaken by Respondent and cooperation afforded the Commission staff.  
+
+                                         Undertakings 
+
+         Respondent undertakes to: 
+
+      34.      Provide Ongoing Cooperation.  Respondent agrees to cooperate fully with the 
+Commission with respect to this action and any judicial or administrative proceeding or 
+investigation commenced by the Commission or to which the Commission is a party relating to 
+the matters in this Order.  Respondent’s cooperation shall include, but is not limited to: 
+
+           a.  Production of Information.  At the Commission’s request on reasonable notice 
+               and without a subpoena, Respondent shall truthfully and completely disclose 
+               information and documents reasonably requested by Commission staff in 
+               connection with the Commission’s related investigation, litigation, or other 
+               proceedings.  Respondent will have no obligation to provide information 
+               voluntarily that it is not legally permitted to provide without a subpoena. 
+
+           b.  Production of Cooperative Personnel.  At the Commission’s request on reasonable 
+               notice, and without a subpoena, Respondent shall use reasonable efforts to secure 
+               the attendance and truthful statements or testimony of any current officer, 
+               director, principal, agent, or employee of Respondent, at any meeting, interview, 
+               testimony, deposition, trial or other legal proceeding.  Persons providing 
+               testimony will have no obligation to provide information voluntarily that he or she 
+               is not legally permitted to provide without a subpoena. 
+
+In determining whether to accept the Offer, the Commission has considered these undertakings.   
+
+                                               10   
+---------------------Page 11---------------------
+
+                                               IV. 
+
+       In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondent Trinity’s Offer. 
+
+       Accordingly, it is hereby ORDERED that: 
+
+       A.     Pursuant to Section 8A of the Securities Act, Respondent Trinity cease and desist 
+from committing or causing any violations and any future violations of Section 17(a) of the 
+Securities Act. 
+
+       B.     Pursuant to Section 21C of the Exchange Act, Respondent Trinity cease and desist 
+from committing or causing any violations and any future violations of Sections 10(b), 13(a), 
+13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 10b-5, 12b-20, 13a-1, and 13a-13 
+thereunder.   
+
+       C.     Respondent shall, within 10 days of the entry of this Order, pay a civil money 
+penalty in the amount of $1,500,000 to the Securities and Exchange Commission.  The 
+Commission may distribute civil money penalties collected in this proceeding if, in its discretion, 
+the Commission orders the establishment of a Fair Fund pursuant to 15 U.S.C. § 7246, Section 
+308(a) of the Sarbanes-Oxley Act of 2002, as amended. The Commission will hold funds paid 
+pursuant to this paragraph in an account at the United States Treasury pending a decision whether 
+the Commission, in its discretion, will seek to distribute funds or, subject to Exchange Act Section 
+21F(g)(3), transfer them to the general fund of the United States Treasury.  If timely payment is not 
+made, additional interest shall accrue pursuant to 31 U.S.C. §3717.   Payment must be made in one 
+of the following ways:   
+
+       (1)     Respondent may transmit payment electronically to the Commission, which will 
+               provide detailed ACH transfer/Fedwire instructions upon request;  
+        
+       (2)     Respondent may make direct payment from a bank account via Pay.gov through the 
+               SEC website at http://www.sec.gov/about/offices/ofm.htm; or  
+        
+       (3)     Respondent may pay by certified check, bank cashier’s check, or United States 
+               postal money order, made payable to the Securities and Exchange Commission and 
+               hand-delivered or mailed to:  
+        
+       Enterprise Services Center 
+       Accounts Receivable Branch 
+       HQ Bldg., Room 181, AMZ-341 
+       6500 South MacArthur Boulevard 
+       Oklahoma City, OK 73169 
+ 
+       Payments by check or money order must be accompanied by a cover letter identifying 
+Trinity as a Respondent in these proceedings, and the file number of these proceedings; a copy of 
+the cover letter and check or money order must be sent to Thomas J. Krysa, Associate Regional 
+
+                                               11   
+---------------------Page 12---------------------
+
+Director, Division of Enforcement, Securities and Exchange Commission, 1961 Stout Street, Suite 
+1700, Denver, CO 80294-1961.   
+
+Regardless of whether the Commission in its discretion orders the creation of a Fair Fund for the 
+penalties ordered in this proceeding, amounts ordered to be paid as civil money penalties pursuant 
+to this Order shall be treated as penalties paid to the government for all purposes, including all tax 
+purposes.  To preserve the deterrent effect of the civil penalty, Respondent agrees that in any 
+Related Investor Action, it shall not argue that it is entitled to, nor shall it benefit by, offset or 
+reduction of any award of compensatory damages by the amount of any part of Respondent’s 
+payment of a civil penalty in this action ("Penalty Offset").  If the court in any Related Investor 
+Action grants such a Penalty Offset, Respondent agrees that it shall, within 30 days after entry of a 
+final order granting the Penalty Offset, notify the Commission's counsel in this action and pay the 
+amount of the Penalty Offset to the Securities and Exchange Commission.  Such a payment shall 
+not be deemed an additional civil penalty and shall not be deemed to change the amount of the civil 
+penalty imposed in this proceeding.  For purposes of this paragraph, a "Related Investor Action" 
+means a private damages action brought against Respondent by or on behalf of one or more 
+investors based on substantially the same facts as alleged in the Order instituted by the 
+Commission in this proceeding. 
+
+       By the Commission. 
+ 
+ 
+ 
+                                                      Brent J. Fields 
+                                                      Secretary 
+        
+
+                                                12   

@@ -1,0 +1,1401 @@
+---------------------Page 1---------------------
+
+                                                                                        
+                                                                                        
+                                            
+                                                                                        
+
+ 
+                          UNITED STATES OF AMERICA 
+                                      Before the 
+                  SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 79335 / November 17, 2016 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3824 / November 17, 2016 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-17684 
+ 
+                                            ORDER INSTITUTING  CEASE-AND-
+In the Matter of                            DESIST PROCEEDINGS PURSUANT 
+                                            TO SECTION 21C OF THE 
+       JP M ORGAN CHASE &                   SECURITIES EXCHANGE ACT OF 
+       CO.,                                 1934, MAKING FINDINGS, AND 
+                                            IMPOSING  A CEASE-AND-DESIST 
+Respondent .                                ORDER  
+ 
+ 
+        
+                                          I.  
+ 
+       The Securities and Exchange Commission (“Commission”) deems it appropriate that 
+cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the 
+Securities Exchange Act of 1934 (“Exchange Act”), against JPMorgan Chase & Co. 
+(“JPMorgan” or “Respondent”). 
+                                            
+                                          II. 
+ 
+       In anticipation of the institution of these proceedings, JPMorgan has submitted an 
+Offer of Settlement (the “Offer”) which the Commission has determined to accept.  Solely for 
+the purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, Respondent admits the Commission’s 
+jurisdiction over Respondent and the subject matter of these proceedings, and consents to the 
+entry of this Order Instituting Cease-and-Desist Proceedings Pursuant to Section 21C of the 
+Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order 
+(“Order”), as set forth below.    
+                                            
+                                          III. 
+ 
+                                                                          1
+       On the basis of this Order and JPMorgan’s Offer, the Commission finds that:   
+
+                                                  
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding on any other 
+person or entity in this or any other proceeding.  
+ 
+---------------------Page 2---------------------
+
+                                                                                              
+
+                                               
+                                         Summary 
+ 
+       1.      This matter concerns violations of the anti-bribery, books and records, and 
+internal controls provisions of the Foreign Corrupt Practices Act (“FCPA”) by JPMorgan.  
+Between 2006 and 2013, the firm provided valuable jobs and internships to the relatives and 
+friends of certain key executives of its clients, prospective clients, and foreign government 
+officials in the Asia-Pacific region (“APAC”) as a personal benefit to the requesting officials 
+in order to obtain or retain investment banking business or other benefits for the firm.  Many 
+of JPMorgan’s clients were state-owned entities (“SOEs”), and therefore the client executives 
+requesting employment for their relatives and friends were foreign government officials 
+under the FCPA.  The firm provided these jobs and internships with the intent to corruptly 
+influence the foreign government officials making the requests.   
+        
+       2.      Investment bankers at JPMorgan’s subsidiary in Asia, JPMorgan Securities 
+(Asia Pacific) Limited (“JPMorgan APAC”),  created a client referral hiring program to 
+leverage the promise of well-paying, career building JPMorgan employment for the relatives 
+and friends of senior officials with its clients in order to assist JPMorgan APAC in obtaining 
+or retaining business.  A special hiring program (“Client Referral Program”) was created at 
+JPMorgan APAC for referred candidates that bypassed the firm’s normal hiring process and 
+was made available exclusively to candidates referred by clients, prospective clients, or 
+foreign government officials (“Referral Hires”).  Non-referral JPMorgan APAC hires were 
+subjected to a rigorous screening process and competed against other candidates for a limited 
+number of positions.  Referral Hires did not compete against other candidates based on merit 
+and, in most instances, were less qualified than those employees hired through the firm’s non-
+referral hiring programs.  Instead, Referral Hires were hired based on direct or potential links 
+to investment banking revenue that could be generated from the referring client in exchange 
+for the hire.  Referral Hires whose relationships generated sufficient revenue for JPMorgan 
+APAC were offered longer-term jobs, while others were given shorter terms of employment 
+unless the referring client offered additional business to the firm.  In 2010 and 2011, 
+JPMorgan APAC employees created spreadsheets to track the revenue to the firm from 
+clients whose candidates were hired through the Client Referral Program.   
+        
+       3.      Over this seven-year period, JPMorgan hired approximately 200 interns and 
+full-time employees at the request of its APAC clients, prospective clients, and foreign 
+government officials.  This included nearly 100 candidates referred by foreign government 
+officials at more than twenty different Chinese SOEs.  A number of the referral hires resulted 
+in business for JPMorgan APAC.  The referring SOEs entered into transactions totaling more 
+than $100,000,000 in revenue for JPMorgan APAC or its affiliates during this period.  
+JPMorgan also hired referrals from more than 10 different government agencies.  JPMorgan 
+APAC bankers leveraged connections with these government agencies to assist other 
+JPMorgan APAC clients and the firm itself in navigating complicated regulatory landscapes.  
+        
+       4.      JPMorgan APAC employees understood that hiring relatives and friends of 
+foreign government officials for the purpose of obtaining or retaining business posed the risk 
+of violating the FCPA.  Nonetheless, JPMorgan APAC investment bankers and supporting 
+personnel often provided inaccurate or incomplete information as part of the legal and 
+
+                                             2 
+ 
+---------------------Page 3---------------------
+
+                                                                                           
+
+compliance review designed to prevent these violations or withheld key information so that 
+the Referral Hires would pass compliance review.  The legal and compliance review of 
+Referral Hires became a formality in which JPMorgan APAC investment bankers and 
+supporting personnel provided inaccurate or incomplete answers to secure approval for hires 
+without revealing the links to business as a result of certain Referral Hires.  Of all the 
+candidates that passed through JPMorgan APAC’s Client Referral Program, none were 
+rejected by the legal and compliance review.   
+        
+       5.     JPMorgan failed to devise and maintain a system of internal accounting 
+controls around its hiring practices sufficient to provide reasonable assurances that its 
+employees were not bribing foreign officials in contravention of company policy.  Likewise, 
+JPMorgan APAC employees failed to follow the firm’s internal accounting controls, and 
+JPMorgan failed to implement other appropriate accounting controls to detect or prevent the 
+Client Referral Program from being used to improperly benefit government officials.  
+JPMorgan APAC employees took steps to hide the magnitude and purpose of the Client 
+Referral Program from others within the firm, and devised a way to avoid having certain 
+Referral Hires in APAC counted within JPMorgan APAC’s internal year-end headcount 
+calculations.  For Referral Hires that originated in APAC but were employed outside of 
+APAC, JPMorgan APAC employees failed to undertake a compliance review or impose 
+conflict of interest restrictions despite knowledge of the FCPA and other risks. 
+        
+       6.     JPMorgan also violated the books and records provisions of the FCPA.  
+JPMorgan APAC personnel created and implemented a system by which inaccurate or 
+incomplete questionnaires were submitted, reviewed, and approved by compliance in 
+contravention of the internal policy created to prevent improper hiring of Referral Hires.  The 
+records reflected that they were hired for legitimate business purposes rather than as hires 
+made to improperly benefit JPMorgan APAC investment banking business.  JPMorgan 
+APAC’s internal records also inaccurately reflected the true number of client Referral Hires 
+in the APAC region by taking steps to disguise the headcount relating to Referral Hires from 
+others within the firm.   
+        
+                                       Respondent 
+        
+       7.     JPMorgan Chase & Co. is a Delaware corporation with its headquarters in 
+New York, New York.  The company’s common stock is registered under Section 12(b) of 
+the Exchange Act and listed on the New York Stock Exchange (ticker:  JPM).  JPMorgan and 
+its various subsidiaries provide banking and financial services in North America and 
+worldwide, including in the APAC region.  Services provided to APAC region clients by 
+JPMorgan include investment banking, private banking, asset management, and commercial 
+banking services.   
+        
+                        Other Relevant Entities and Individuals 
+                                              
+       8.     JPMorgan Securities (Asia Pacific) Ltd. (“JPMorgan APAC”) is a Hong 
+Kong registered company and wholly owned and controlled subsidiary of JPMorgan.  
+JPMorgan APAC operated as JPMorgan’s investment banking office in Hong Kong and 
+coordinated JPMorgan’s investment banking operations in the Asia-Pacific region.  
+
+                                            3 
+ 
+---------------------Page 4---------------------
+
+                                                                                              
+
+JPMorgan APAC is responsible for JPMorgan’s investment banking and certain other 
+business in The People’s Republic of China, Hong Kong, and other countries in the Asia-
+Pacific region. 
+        
+                                          FACTS 
+
+JPMorgan’s Policies Prohibited the Hiring of Client Referrals in Exchange for Business 
+
+       9.      As early as 2001, JPMorgan recognized the FCPA risks in hiring the relatives 
+of foreign government officials.  JPMorgan therefore took steps to educate its employees on 
+the potential dangers in hiring Referral Hires and the potential FCPA violations that could 
+occur if Referral Hires were tied to business for the firm.  JPMorgan’s 2001 FCPA 
+Compliance Policy noted that the “[h]iring of family members of foreign officials as 
+employees, agents or consultants” was a “red flag… that could result in [an] FCPA 
+violation.”  JPMorgan’s 2005 anti-bribery training included an example where “[a]s an 
+understood part of the deal, the company will hire…the daughter of a government official 
+from that country, for an unpaid summer internship.”  This training noted that the hiring of 
+the daughter could be a bribe because the “internship has some value and is a requirement for 
+the deal to happen.”   
+
+       10.    In or about September 2007, JPMorgan instituted a new Anti-Corruption 
+Policy which provided that “the offer of internships or training for relatives of a public 
+official” required legal and compliance pre-clearance.  It also indicated that hiring individuals 
+in order to win business was prohibited.  Specifically, the Policy stated that “it is improper for 
+a person to offer or give anything to a public official, either directly or through an 
+intermediary, in an effort to secure an advantage that would not have been granted if the offer 
+or gift had not been made,” noting that “‘value’ can include such things as the offer of 
+internships or training for relatives of a public official.”  This policy applied to JPMorgan 
+APAC.  In addition, in 2007 JPMorgan APAC instituted training for employees in the region 
+specifying that pre-clearance from compliance was required before JPMorgan APAC could 
+hire Referral Hires because “[a]n offer of internship to a relative of a non-U.S. public official 
+suggests an advantage by causing the official to misuse his or her position.” 
+
+       11.    In approximately June 2011, JPMorgan implemented an updated Anti-
+Corruption Policy which also applied to JPMorgan APAC.  Training provided regarding this 
+Policy noted that “almost anything can meet the definition of a ‘bribe,’ including… 
+internships [and] employment.”  The Policy further stated that “[n]o employee may directly 
+or indirectly offer, promise, grant or authorize the giving of money or anything else of value 
+to a government official to influence official action or obtain an improper advantage.” 
+
+       12.    During this period, JPMorgan APAC also had an established, highly-selective 
+hiring program for undergraduates and graduates to enter JPMorgan APAC’s summer 
+internship and analyst/associate employment programs, primarily in Hong Kong.  Hiring was 
+done mainly through campus recruiting at prestigious, highly-selective schools in the United 
+States and elsewhere, as well as through an on-line application process.  Admission to the 
+JPMorgan APAC hiring program was highly competitive, with candidates competing based 
+on educational background, prior experience, language, and other skills.  Successful 
+applicants usually had a minimum grade point average, a demonstrated affinity for and 
+
+                                             4 
+ 
+---------------------Page 5---------------------
+
+                                                                                             
+
+interest in financial services work, language skills, and advanced through multiple rounds of 
+interviews.  Throughout this period JPMorgan APAC had more applicants than it had 
+available positions with the firm.   
+
+          JPMorgan APAC Created a Client Referral Hiring Program in 2006 
+
+       13.    In or around 2006, JPMorgan APAC’s investment banking group created and 
+implemented a referral hiring program (referred to colloquially during the relevant time 
+period as the “Sons & Daughters Program”) whereby certain internships and short-term, 
+entry-level employment opportunities were made available only to Referral Hires in order to 
+accommodate frequent requests to hire the relatives and friends of senior executives or 
+officials with its clients, prospective clients, and contacts within foreign government 
+ministries.  JPMorgan APAC created the “Sons & Daughters” program based on these 
+requests from senior executives or officials and a perception of similar actions being taken by 
+its competitors.  From the outset, the primary goal of client referral hiring was to generate 
+revenue for JPMorgan APAC by extending personal favors to client executives and 
+government officials through hiring their relatives and friends.    
+
+       14.    By contrast with the established JPMorgan APAC non-referral hiring 
+program, most JPMorgan APAC Referral Hires would not have secured positions with the 
+firm but for the client relationship and request.  Referral Hires generally did not meet the 
+minimum educational, grade-point average, or background qualifications that JPMorgan 
+APAC looked for in its non-referral hiring programs.  Referral Hires were not subjected to 
+the rigorous, multi-round interviews that non-Referral Hires had to go through before hiring.  
+Likewise, Referral Hires were not evaluated based on merit, but instead were evaluated based 
+on JPMorgan APAC’s relationship with and prospects for future revenue from the referring 
+clients.  
+
+       15.    During this time it was widely recognized within JPMorgan APAC that 
+Referral Hires generally were not subject to the same requirements, workload, and 
+expectations as non-referral APAC employees.  Nonetheless, these Referral Hires were given 
+the same titles as non-referral employees as well as significant salaries and other benefits.  
+JPMorgan APAC employees commented on the lack of capabilities of many Referral Hires, 
+with some employees referring to them as “photocopiers.”  Referral Hires were sometimes 
+given special consideration regarding work assignments and promotions and protected from 
+rigorous work schedules.  For example, in 2008, one senior JPMorgan APAC investment 
+banker referred to a Referral Hire as a “protected species requiring [senior management] 
+input.  His reporting line to you is accountable but like national service.”   
+
+       16.    JPMorgan APAC investment bankers were made aware of the risks inherent 
+in referral hiring under the FCPA and other laws.  In 2006, the head of Junior Resources 
+Management (“JRM”) for JPMorgan APAC, a business support team which oversaw the 
+hiring and staffing of all interns and junior investment bankers on transactions in the region, 
+sent an email to JPMorgan APAC investment bankers regarding “Sons & Daughters” which 
+noted that: 
+
+               “As you know, the firm does not condone the hiring of the 
+               children or other relatives of clients or potential clients of the 
+
+                                             5 
+ 
+---------------------Page 6---------------------
+
+                                                                                              
+
+               Firm or other people who might be helpful to the Firm for 
+               the purpose of securing or potentially securing business for 
+               the Firm.  In fact, the firm’s policies expressly forbid this.  
+               There are no exceptions.”   
+
+This was further reinforced in 2007 when JPMorgan APAC legal and compliance staff noted 
+in a message to employees that for Referral Hires “[t]he firm should not be currently actively 
+pitching for any transaction of such client” and “[t]he firm should not be subject to any direct 
+regulation of such government authority” making the referral.  In analyzing Referral Hires, 
+legal and compliance looked to see that “[t]he candidate should have been through usual 
+interview process and feedback from interviewers should be positive.”  However, the Client 
+Referral Program frequently did not follow these stated limitations. 
+
+       17.    Based on the recognition of potential FCPA issues in hiring Referral Hires, in 
+or about 2006, JPMorgan APAC’s legal and compliance personnel developed a process to 
+screen prospective Referral Hires for potential FCPA and other risks including conflicts of 
+interest.  As part of this screening process, JPMorgan APAC legal and compliance created a 
+“Sons & Daughters” questionnaire to elicit information regarding the potential Referral Hire.  
+Under the process as it was intended to work, each requesting banker was required to fill out 
+the questionnaire for each specific hire, and then submit that questionnaire to JPMorgan 
+APAC legal and compliance staff for review and approval.   
+
+       18.    The “Sons & Daughters” questionnaire sought information in order to screen 
+for potential FCPA and other risks from hiring a specific Referral Hire.  The questionnaire 
+sought confirmation that the Referral Hire:  (1) went “through the usual application/interview 
+process,” (2) had the “necessary qualifications for the position,” and (3) was rated “against 
+other applicants for the position.”  The questionnaire also sought information regarding the 
+referring client or entity, including whether JPMorgan was “currently working on, or pitching 
+for any deal or transaction” with the referring client or potential client, and whether 
+“JPMorgan [was] seeking future opportunity to work or develop a relationship with such 
+client.”  Finally, the questionnaire sought information from the referring banker on the 
+“expected benefit to JPMorgan in employing the candidate.”   
+
+       19.    JPMorgan APAC legal and compliance also imposed restrictions on what 
+confidential information Referral Hires were able to access.  As part of the “Sons & 
+Daughters” questionnaire review process, JPMorgan APAC legal and compliance made the 
+hiring of most Referral Hires conditional on the bankers “walling off” the Referral Hire from 
+business directly involving or related to the referring client or entity.  This was designed to 
+prevent conflicts of interest and the sharing of sensitive, confidential information regarding 
+JPMorgan’s clients, or the competitors of those clients, with the relatives and friends of 
+senior officials with those same clients.  In cases in which the referring person was employed 
+by a government ministry, Referral Hires were supposed to be walled off from transactions 
+involving that ministry.   
+
+       20.    Due to the misconduct of JPMorgan APAC investment bankers and the 
+failures of APAC legal and compliance staff, the “Sons & Daughters” questionnaire process 
+was an ineffective review that failed to operate as an effective check on potential violations.  
+JPMorgan APAC legal and compliance staff did not understand the actual nature and 
+
+                                              6 
+ 
+---------------------Page 7---------------------
+
+                                                                                             
+
+operation of the Client Referral Program, and did not take adequate steps to fully investigate 
+the extent and purpose of the Program during the relevant time period.  This was due in part 
+to JPMorgan APAC investment bankers failing to share complete information on the Client 
+Referral Program with legal and compliance personnel.  It was also due to a fundamental 
+misunderstanding of the Client Referral Program by JPMorgan APAC legal and compliance, 
+and a failure to investigate potential issues when they arose.  For example, in 2007 as part of 
+the review of Referral Hires, an attorney with JPMorgan’s global legal team conveyed to his 
+colleague in JPMorgan APAC that “I thought the Sons & Daughters Program was 
+ended….[JPMorgan Global Compliance officers] are telling …[personnel] that this program 
+doesn’t work from an FCPA standpoint.  What are your thoughts?”  In response, a JPMorgan 
+APAC compliance attorney noted that “‘Sons & Daughters’ is not an active programme to 
+solicit connected persons to work for us in the hope of obtaining business.”  Rather, it was 
+described as a “filter process” involving a questionnaire and review by the legal staff.  The 
+attorney went on to note:  “If we take a Son or Daughter, it is because they have applied for 
+an internship like thousands of others, meet objective academic requirements, there are no 
+FCPA concerns.  No favours are done.  They get treated like everyone else.”  This JPMorgan 
+APAC compliance professional’s understanding was not an accurate description of the Client 
+Referral Program at the time.   
+
+                           JPMorgan APAC Control Failures 
+
+       21.    Beginning no later than 2007, JPMorgan APAC investment bankers began 
+using the hiring of Referral Hires to assist in obtaining banking business and other advantages 
+from senior officials at SOEs, private sector clients, and government agencies.  In order to 
+achieve the business objectives of the Client Referral Program, JPMorgan APAC investment 
+bankers provided incorrect, misleading, incomplete, or untruthful responses to the “Sons & 
+Daughters” questionnaires.  Certain JPMorgan APAC investment bankers used the 
+questionnaire to hide the true purpose of the Referral Hire.  Investment banking and legal and 
+compliance support personnel frequently assisted the investment bankers with drafting and 
+modifying questionnaires that failed to state the true purpose for some Referral Hires.  Draft 
+questionnaires that suggested a potential improper benefit from hiring a Referral Hire were 
+sometimes edited by bankers and support staff to include responses that would pass scrutiny.  
+In addition, JPMorgan APAC support personnel supplied questionnaires with pre-populated 
+answers to questions, including for example a standard answer that there was “[N]o expected 
+benefit” from hiring a Referral Hire.  The questionnaires were also answered as a matter of 
+practice to give the appearance that the Referral Hires went through the non-referral hiring 
+process rather than the special Client Referral Program, which was inaccurate.   For these 
+reasons, the “Sons & Daughters” questionnaire that was designed to prevent FCPA violations 
+was wholly ineffective.  In fact, JPMorgan’s APAC legal and compliance staff did not reject 
+a single Referral Hire candidate from 2007 through 2012.   
+
+       22.    JPMorgan APAC legal and compliance personnel did not take adequate steps 
+to identify or mitigate the risks of bribery and corruption in approving Referral Hires.  For 
+example, in 2006, a JPMorgan APAC paralegal tasked with organizing and submitting 
+Referral Hire questionnaires for review informed a JPMorgan APAC attorney that she was 
+told by an investment banker that JPMorgan APAC was “now pitching for a … project” from 
+a referring client, and that the project “may potentially result from the hiring of [candidate] as 
+a summer analyst.  I don’t feel quite comfortable about this and would like to have your 
+                                             7 
+ 
+---------------------Page 8---------------------
+
+                                                                                              
+
+views.”  The paralegal drafted a memorandum to members of the APAC legal and 
+compliance staff, noting that “[w]e will be exposed to a risk of being alleged of bribing [the 
+client] for the … project or any other…projects,” especially considering that the candidate 
+would not otherwise be hired on her own merits.  The hire was nonetheless approved after 
+another JPMorgan APAC investment banker stated that the hire was not in exchange “for 
+return of any business from [the client].” 
+
+       23.    JPMorgan APAC support personnel also assisted APAC investment bankers 
+in drafting and modifying “Sons & Daughters” questionnaires in order to avoid scrutiny and 
+receive compliance approval for specific Referral Hires.  This led to multiple cases of “Sons 
+& Daughters” questionnaires being revised to remove references to a specific or implied 
+benefit from a client Referral Hire before submitting those questionnaires for final approval.  
+For example, in 2010, a JPMorgan APAC investment banker noted in a questionnaire for a 
+prospective Referral Hire that JPMorgan was pitching for a role in the client’s forthcoming 
+IPO.  Regarding the “expected benefit” from the Referral Hire, he wrote: 
+
+               “It will strengthen our relationship with [client executive] 
+               and solidifying [sic] our position as an advisor to him and 
+               the IPOs of his companies (expected to be >$500mm in 
+               offering size.” 
+
+In response, the JPMorgan APAC paralegal tasked with reviewing and commenting on 
+Referral Hire questionnaires noted: 
+
+               “The firm does not condone the hiring of client’s referred 
+               person who might be helpful to the firm for the purpose of 
+               securing or potentially securing business for the firm.  The 
+               above comment is not acceptable from [legal and 
+               compliance’s] perspective.    
+
+               Please clarify to what extent the proposed hire will affect our 
+               position in our participation of the IPO [sic]?   
+
+               Is hiring of the intern part of any agreement to secure 
+               business of the firm?” 
+
+In response to these questions, the investment banker contradicted his prior responses, and 
+now replied: (1) “Hiring of this candidate will not benefit the firm”, (2) “It will not affect our 
+position”, and (3) “No.”  The JPMorgan APAC attorney reviewing the proposed Referral 
+Hire was then told by the paralegal that the investment banker “has confirmed that the 
+proposed hire will not affect our position in our participation of the IPO and hiring of the 
+candidate is not part of any agreement to secure business of the firm [sic].”  The initial 
+answers from the investment bankers were not shared with the JPMorgan APAC attorney, 
+and the Referral Hire request was approved. 
+
+       24.    None of the hires made through the Client Referral Program were reviewed or 
+assessed alongside normal JPMorgan APAC hires, yet the “Sons & Daughters” 
+questionnaires reviewed by legal and compliance noted that the candidates had the “necessary 
+
+                                              8 
+ 
+---------------------Page 9---------------------
+
+                                                                                             
+
+qualifications” and were rated well against “other applicants” for the position.  These 
+responses were inaccurate, as the Client Referral Program operated separate from JPMorgan 
+APAC’s normal hiring program and candidates were hired based on the referring client 
+relationship.     
+
+       25.    For Referral Hires that originated in APAC but were employed outside of the 
+region, such as New York, JPMorgan APAC bankers typically would not submit 
+questionnaires or seek compliance review of the potential hires despite knowledge that such 
+questionnaires were part of the controls for hiring Referral Hires.  In such cases, JPMorgan 
+APAC’s human resources and legal departments were usually not made aware of the hire.  
+Likewise, their counterparts in the jurisdiction in which the Referral Hire was going to work 
+(such as New York) were usually unaware of any client referral aspect to the hire.  Further, 
+JPMorgan did not always restrict such Referral Hires from working on deals involving the 
+referring client because no such instruction came from JPMorgan APAC’s compliance 
+department. 
+
+       26.    Beginning in 2009, JPMorgan APAC personnel structured the contracts for 
+full-time Referral Hires to withhold the total number of Referral Hires in APAC from other 
+parts of the firm and give the appearance of conformity with JPMorgan’s internal, year-end 
+global headcount restrictions.  The revised Client Referral Program was designed to give 
+offers to Referral Hires from “Jan 15 to Dec 15, thereby avoiding year end count.”  Referral 
+Hires were given contracts that would end in mid-December and then a new contract would 
+re-start the following January, thus avoiding counting the Referral Hire on JPMorgan 
+APAC’s internal, year-end headcount numbers which were reported as of December 31st.  
+This allowed JPMorgan APAC to continue to make Referral Hires but not limit the number 
+of non-referral junior investment bankers hired by JPMorgan APAC who were capable of 
+functioning as junior investment bankers.  In 2010, the JPMorgan APAC employee tasked 
+with managing headcount noted he had reached “agreement with [coordinator for Client 
+Referral Program] at start of year was [Referral Hires] would NOT cross year end.  we should 
+push [coordinator] on that because we specifically agreed to track them this way to create 
+additional slots for full time staff [sic].”  The same JPMorgan APAC employee noted that for 
+Referral Hires, “[f]rom a budget perspective we keep these [Referral Hires] off balance sheet 
+and are supposed to have a maximum of 10 [Client Referral Program] interns at one time on 
+contracts that do not cross a year end.”  Another JPMorgan APAC employee discussed 
+structuring contracts for Referral Hires so that the contracts would end in December “[i]n 
+order to have them NOT counted toward our year end headcount next year...” 
+
+       27.    JPMorgan APAC, including legal and compliance, investment banking, and 
+human resources personnel, failed to properly review or stop the Client Referral Program 
+until 2013.  At that time, a JPMorgan APAC compliance officer in a newly-created position 
+was tasked with reviewing and approving client Referral Hire questionnaires.  In denying a 
+request to hire a Referral Hire, he stated that hiring Referral Hires at the request of clients and 
+outside of the normal hiring system was impermissible under JPMorgan’s compliance and 
+anti-corruption policies.  He further stated that “I’m afraid from an anti bribery [sic] and 
+corruption standpoint, we cannot create positions to accommodate client requests….  
+Employment within JPMorgan is seen as a significant benefit (in terms of training, 
+experience, and improving the resume).”  This effectively ended the Client Referral Program, 
+although new Referral Hires continued to work at JPMorgan APAC in the summer of 2013. 
+                                             9 
+ 
+---------------------Page 10---------------------
+
+                                                                                             
+
+   JPMorgan APAC Investment Bankers Knew That Referral Hires Were Hired to 
+                                Obtain or Retain Business 
+
+       28.    JPMorgan APAC investment bankers sought to use the Client Referral 
+Program to exchange valuable employment for assistance with obtaining or retaining banking 
+business from senior executives with its clients, potential clients, and foreign government 
+officials.  This assistance  included the awarding of deals to JPMorgan APAC based in part 
+on hiring Referral Hires, non-public information on clients and future deals, influence with 
+foreign government officials, introductions and meetings, and other benefits.   
+
+       29.    Over time, senior JPMorgan APAC investment bankers designed a system to 
+provide employment to referrals from “decision-makers” or those with the ability to influence 
+upcoming investment banking transactions at their clients.  For example, a senior banker 
+responsible for overseeing JPMorgan APAC junior banking hiring and staffing, including the 
+Referral Hires (“APAC Banker A”), encouraged other bankers to prioritize referral requests 
+received from “decision-makers” or those who had the ability to influence an upcoming 
+banking deal over less influential individuals.  APAC Banker A acknowledged in 
+communications with his colleagues that they should consider whether the hire would bring 
+near-term revenue to the firm.  In a 2008 email regarding a Referral Hire request from a 
+senior executive with a private sector JPMorgan APAC client in China, APAC Banker A told 
+another investment banker seeking his approval for the hire, copying the head of JPMorgan 
+APAC investment banking, that: “I am supportive of bringing [the referral candidate] on 
+board given what’s at stake… A couple of points to discuss and agree prior to any offer being 
+made to [referral candidate]:  how do you get the best quid pro quo from the relationship 
+upon confirmation of the offer.”  The banker seeking to make the hire responded “[t]he client 
+has communicated clearly the quid pro quo on this hire and the team should start working on 
+the [upcoming] IPO asap.”  Although the questionnaire reviewed by compliance relating to 
+this hire disclosed that JPMorgan APAC was working on one deal for a company affiliated 
+with the referring executive and pitching for another, the questionnaire did not disclose any 
+discussion of the “quid pro quo” from this Referral Hire.  Instead, the questionnaire reviewed 
+by compliance indicated that there would be “no expected benefit” to the firm from the hire. 
+
+       30.    These senior JPMorgan APAC personnel also understood that client Referral 
+Hires were for the most part not qualified on their own merit for the positions they were 
+given when compared with non-referral  employees, yet special considerations were taken to 
+benefit the business relationship.  For example, in 2010, APAC Banker A wrote to the banker 
+who assisted him with hiring and staffing of junior JPMorgan APAC bankers that “we picked 
+up a new mandate in Taiwan today – all we have to do is get [referral candidate] a full time 
+analyst job at JPM in NY.  Mission impossible?”  In response, the other banker wrote “Can 
+try… his napping habit will be an eye-opening experience for our NY colleagues if he gets a 
+job.”  APAC Banker A later sent an email titled “client referral” to other investment bankers 
+in the United States in September 2010 in which he wrote: “[w]e have a very good [private 
+sector] client in Taiwan who has asked that we find an IB analyst role for his son in NY…. 
+We are being offered now a [mandate] and the quid pro quo, is an analyst IB job for his 
+son… Can we in [an investment banking group in New York] adopt him, or can you 
+recommend a safe place for him where he won’t get too scarred.”  After the candidate was 
+hired by JPMorgan in New York in October 2010, a JPMorgan APAC banker wrote to his 
+colleagues that the Referral Hire was a “happy young man! And his dad will also be very 
+                                            10 
+ 
+---------------------Page 11---------------------
+
+                                                                                              
+
+pleased.”  In response, another JPMorgan APAC banker noted: “I am sure this will go a long 
+way for us in terms of [referring client entity] and [the candidate’s father, a senior executive 
+of the entity].”   
+
+       31.    Other JPMorgan APAC investment bankers understood the true purpose of 
+the program and the potential benefits to JPMorgan APAC’s business from hiring Referral 
+Hires.  The purpose and benefit of Referral Hires was discussed amongst JPMorgan APAC 
+investment bankers.  For example: 
+
+                 In 2008, one junior banker wrote to a JPMorgan APAC investment banker 
+                   that she had “reconfirmed that [the requested Referral Hire] is very 
+                   important to our relationship with [SOE].  [SOE] has a pending placement 
+                   subject to market condition, and [referring client] made it clear that 
+                   [referral candidate] is our ticket to this mandate.” 
+
+                 In discussing a potential Referral Hire in 2010 from a private sector client, 
+                   a senior JPMorgan APAC investment banker wrote to another asking him 
+                   to interview a referral candidate, writing: “The last thing I want is we go 
+                   slow and they ask another bank and I am sure someone will give him a 
+                   full time offer given the mandate up for grabs here.  We can give him an 
+                   offer under the new ‘sons and daughters’ one year program…They are 
+                   interested.”  The second banker noted “Happy to speak with son asap.  
+                   Seen this movie a lot before, we should consider it part of the pursuit 
+                   immediately.”  He went on to note “We do way, way, way too little of this 
+                   type of hiring and I have been pounding on it with China team for a year.  
+                   Let me know if you need me to weigh in at all asap.  Confidential, just 
+                   added son of #2 at [Chinese SOE] to my team.  I got room for a lot more 
+                   hires like this ([competitor investment bank] has 25).”   
+
+                 In 2010, a senior JPMorgan APAC investment banker wrote to a 
+                   colleague regarding a Referral Hire from a private sector client:  “They are 
+                   close to mandating banks for their IPO.  We are a strong contender.  Blink 
+                   blink nod nod, can we find a place for his son (they have only approached 
+                   us in this regard)?” 
+
+       32.    The expected financial benefit to JPMorgan APAC from hiring certain 
+Referral Hires was also communicated by JPMorgan APAC investment bankers in certain 
+cases to the referring clients and the Referral Hires themselves.  For example, in 2011, a 
+Referral Hire wrote to a senior JPMorgan APAC banker regarding his decision to leave 
+JPMorgan before the expiration of his employment term because despite his hard work “all of 
+my efforts seemed meaningless to you and you tend to judge me solely on the relation part of 
+me… I remember when i [sic] first started working here you told me that [other relationship 
+hires] all paid the price for their seats on the floor.  Now I had a better understanding of your 
+words after getting to know some of the relationship hires on the floor.  I do not think my 
+family is in a position to help you to the extent as others did: bring their family business to 
+the firm.  Therefore i [sic] decided to leave my head count to those who are more valuable to 
+the company.”  This Referral Hire went on to write “regarding [two Chinese SOEs], my 
+father would try his best to coordinate the meeting.” 
+
+                                             11 
+ 
+---------------------Page 12---------------------
+
+                                                                                             
+
+  JPMorgan APAC Revamped the Client Referral Program in 2009 to Directly Link 
+                Referral Hires to New Investment Banking Deal Business 
+
+       33.    Beginning in or about 2009, JPMorgan APAC investment bankers began a 
+review of all previously hired Referral Hires to determine the success of the program in terms 
+of the “business rationale” for hiring and retaining Referral Hires.  Referring bankers were 
+asked to list each client referred hire and to provide the “client affiliation” and “the 
+importance of retaining them from a client/revenue standpoint.”   
+
+       34.    In September 2009, a senior JPMorgan APAC investment banker wrote to the 
+chief executive officer of JPMorgan APAC that: 
+
+               “One specific item that we may need your help is how to run 
+               a better sons and daughters program, which has an almost 
+               linear relationship with mandates in China.  People believe 
+               [other investment banks] are doing a much better job.  On 
+               the other hand, we J.P. Morgan have had a few disas[t]rous 
+               cases which I can share with you later.  We have more [lines 
+               of business] in China therefore in theory we can accomodate 
+               [sic] more ‘powerful’ sons and daughters that could benefit 
+               the entire platform.” (emphasis added).   
+
+       35.    Following this email, senior JPMorgan APAC investment bankers on multiple 
+occasions discussed reforming the Client Referral Program to improve the ability to obtain 
+specific client business using Referral Hires.  Among other things, it was agreed that the 
+Client Referral Program would prioritize referral requests from “decision-makers” or those 
+with the ability to influence upcoming investment banking transactions.  It was also agreed to 
+focus on Referral Hires in situations involving near-term transactions.   
+
+       36.    To that end, in or about September 2009, APAC Banker A wrote to the APAC 
+banker assigned to assist him in running the JRM functions (“APAC Banker B”) that he 
+“spoke to [a senior JPMorgan APAC investment banker] about referrals.  [W]e want to revisit 
+the programme at two levels.”  He wrote that for the one-year Referral Hires, they wanted to 
+“plan better” in the areas of “accountability” and “deal conversion or revenue attribution and 
+relationship.”  JPMorgan Banker A also noted that for one-year Referral Hires, the hire 
+should be made “Jan 15 to Dec 15, thereby avoiding year end count.”  APAC Banker A noted 
+that doing this “[w]ould be a clever way to manage all 1 yr [sic] program hires if we could 
+align the hiring cycle.  Maybe able to even get more people.” 
+
+       37.    Per these instructions, APAC Banker B created a presentation titled 
+“Emerging Asia Client Referral Program (CRP)” in November 2009.  The presentation 
+reviewed the “Current state of play” regarding the “full-time referrals program,” and noted:  
+“The firm benefits from a CRP to facilitate its business development in China.”  It further 
+noted that the current program was “designed to hire employees referred by our key clients 
+who may not meet our regular hiring standard… The current program is functional but could 
+be further improved to optimize control/management and enhance contribution to business 
+generation.”  The presentation noted that “[a]reas for [i]mprovement” for the current program 
+included “[m]onitoring referral deal conversion.”  The revised program also sought to 
+
+                                            12 
+ 
+---------------------Page 13---------------------
+
+                                                                                             
+
+prioritize requests from “decision-makers” or those with the ability to influence future, near-
+term deals to benefit JPMorgan APAC. 
+
+       38.    This presentation first sought to summarize the success of the then-current 
+Client Referral Program.  The presentation tracked certain then-current Referral Hires made 
+through the Client Referral Program, and the “Historical deal conversion track record” 
+relating to those hires.  The presentation noted deal “[c]onversion” with respect to multiple 
+Referral Hires including (1) conversion of a deal with an SOE after referral of a candidate 
+from a senior member of a foreign political party; and (2) conversion of a deal with an SOE 
+after hiring the daughter of a “Deputy Minister.” The presentation also noted “Work in 
+progress” on potential deals involving the “family friend” of the chairman of a Hong Kong 
+company and the daughter of a senior foreign government minister. 
+
+       39.    A new aspect to JPMorgan APAC’s Client Referral Program was also 
+proposed in this presentation.  Under the heading “Full-time referrals:  Proposed new 
+program,” the presentation listed new “Selection [C]riteria” for full-time Referral Hires that 
+would include:  
+
+                 “Directly attributable linkage to business opportunity,” and 
+
+                 “Clear accountability for deal conversion and accountability for abuse of 
+                  program.”   
+
+       40.    In 2009, after approval by the head of investment banking for APAC, 
+JPMorgan APAC implemented the revised Client Referral Program.  The revised program 
+was managed by the JRM business support team with input from senior JPMorgan APAC 
+investment bankers.  Certain senior bankers were given a “quota” of Referral Hires that could 
+be made each year.  Subsequent JRM reports from 2009 through 2012 contained the same 
+language regarding the “revised” referral hiring program with the selection criteria of a 
+“[d]irectly attributable linkage to business opportunity.”  These presentations were discussed 
+with the head of investment banking for JPMorgan APAC and other JPMorgan APAC senior 
+executives. 
+
+       41.    The JPMorgan APAC investment bankers who created and ran the revised 
+Client Referral Program did not seek a review of the program by the legal and compliance 
+staff, or otherwise inform the legal and compliance staff of the nature and purpose of the 
+revised Client Referral Program.  JPMorgan APAC personnel continued to provide 
+inaccurate or incomplete information to JPMorgan APAC legal and compliance staff in order 
+to secure approval for hiring Referral Hires. 
+
+       42.    Under the revised referral hiring program, Referral Hires were given the same 
+titles as non-Referral Hires, although they typically were paid less than employees hired 
+through JPMorgan APAC’s non-referral hiring programs.  Referral Hires were generally 
+hired for a one-year term with limited ability to continue with JPMorgan APAC after the 
+conclusion of their contracts.  However, exceptions were made based on business needs.  In 
+2011, APAC Banker B wrote to several APAC investment bankers that “[t]he client referral 
+program is strictly one year for everyone else unless [the Referral Hires] bring in a new 
+profitable deal to justify an extension, otherwise they must move on.”   
+
+                                            13 
+ 
+---------------------Page 14---------------------
+
+                                                                                            
+
+       43.    Beginning by at least 2009, JPMorgan APAC employees tracked investment 
+banking deals attributable to entities whose officials had requested Referral Hires.  In or 
+about December 2010, JPMorgan APAC investment bankers created “Referral Hires vs 
+Revenue” spreadsheets to track revenue from clients whose referrals had been hired by the 
+firm.  The spreadsheet included columns listing: (1) type of hire (fixed term versus intern); 
+(2) date of hire; (3) a description of the relationship between the Referral Hire and the 
+referring client or government official (“daughter of Chairman,” “family friend of… 
+Chairman,” “Son of Executive Vice President … of [SOE].”); and (4) “[r]evenue” to the firm 
+from those clients. 
+        
+       44.    In March 2011, as part of this review process, JPMorgan APAC personnel 
+estimated that clients who had referred individuals into the Client Referral Program had 
+generated more than $14 million in revenue in 2009 and $19 million in 2010, with $21 
+million anticipated in the “pipeline” for 2011.   
+
+           JPMorgan APAC’s Client Referral Summer Internship Programs 
+
+       45.    In addition to providing analyst and associate employment opportunities, in 
+2009 and 2010 JPMorgan APAC also created summer internship programs to accommodate 
+Referral Hires.  Referral Hires were generally not qualified for the regular JPMorgan APAC 
+summer internship program; nonetheless, summer internships in the regular program were 
+sometimes provided by JPMorgan APAC to Referral Hires.  In order to accommodate more 
+client referrals, in 2010 JPMorgan APAC also created an unpaid training program in Hong 
+Kong (colloquially referred to as “summer camp”) for Referral Hires seeking summer 
+employment or internships with JPMorgan APAC.  The “summer camp” consisted mainly of 
+social events, lectures, and classroom speakers.  Although the participants were not employed 
+by JPMorgan APAC and were not paid, participants could list the program on their resumes.  
+APAC Banker B noted that one senior APAC investment banker said that he could “sleep 
+better at night knowing that we now have a structured program to entertain the little 
+darlings.”    
+
+       46.    JPMorgan APAC undertook no compliance review of participants in the 
+“summer camp.”  However, candidates for the “summer camp” were selected based on 
+investment bank client relationships rather than merit.  Further, certain client referrals with 
+links to potential revenue were given paid summer internships with JPMorgan APAC rather 
+than the opportunity to participate in the “summer camp.”   
+
+       47.    JPMorgan APAC bankers, including APAC Banker B, managed summer 
+training Referral Hires to generate potential near-term revenue for the firm.  APAC Banker B 
+noted in 2010 that sponsoring bankers “need to make a strong case for their referrals - 
+minimum $3m tangible fees sounds like a sensible benchmark.”  A JPMorgan APAC senior 
+investment banker also suggested making additional accommodations (such as paying for 
+flights) for the children of “SOE clients who are not well paid even at senior levels.”  This 
+practice continued, and in 2011 APAC Banker B again noted that the summer training 
+program “will most probably follow last year’s convention of only considering clients with 
+>$US3 million new revenue contribution for referring candidates into the training program.”   
+
+                                            14 
+ 
+---------------------Page 15---------------------
+
+                                                                                            
+
+    JPMorgan APAC Hired SOE Referral Hires To Assist in Winning or Retaining 
+                                         Business 
+
+       48.    Between 2006 and 2013, JPMorgan APAC hired numerous relatives and 
+friends of officials with foreign government entities and senior officials at foreign SOEs to 
+obtain or retain business for JPMorgan.  These hires include: 
+
+             Beginning in 2005, JPMorgan APAC hired the son of a key executive with a 
+              Chinese manufacturing SOE.  The son worked at JPMorgan APAC in various 
+              roles from 2005- 2008 and then again from 2010 until 2015.  Another Referral 
+              Hire was given a training opportunity in 2009 based on a request from a 
+              senior executive of the same SOE.  JPMorgan APAC was awarded an IPO 
+              from this SOE in 2006 and further advisory business in 2008.  JPMorgan 
+              APAC received net profits for its work for this SOE of more than $32 million. 
+
+             In 2007, JPMorgan APAC hired the relative of a senior official at a Chinese 
+              SOE and the relative of a senior official at the government agency which 
+              oversaw that SOE.  JPMorgan APAC was working on the IPO for that SOE 
+              when it agreed to the hires.  The firm hired one of the Referral Hires while 
+              negotiating for a better fee from the SOE for its role in that IPO.  In part as a 
+              result of this Referral Hire, JPMorgan APAC received additional net profits of 
+              more than $3.3 million. 
+
+             Between 2007 and 2010, JPMorgan APAC made multiple Referral Hires from 
+              officials with a Chinese financial SOE.   Referral Hires were hired at the 
+              request of senior officials with this SOE, including the chairman and chief 
+              financial officer.  JPMorgan APAC won multiple investment banking deals 
+              from this SOE from 2007-2010 resulting in net profits of more than $6.5 
+              million. 
+
+             JPMorgan APAC hired at least five Referral Hires from 2007 to 2011 from 
+              senior officials with another Chinese financial SOE.  This included the hiring 
+              of the son of a Chinese government official from the province in which this 
+              institution was located at the request of the Chairman of the SOE.  JPMorgan 
+              APAC was awarded investment banking business from this SOE in 2008 and 
+              2009, with total net profits to the firm of more than $5.8 million. 
+
+             Between 2010 and 2012, JPMorgan APAC hired two Referral Hires at the 
+              request of officials with a large Chinese energy-related SOE.    In 2012 and 
+              2013, the firm was awarded business from this SOE, including bond 
+              issuances, with total net profits of more than $10 million. 
+
+             Between 2007 and 2010, JPMorgan APAC hired two employees and a trainee 
+              at the request of officials with a large Chinese transportation SOE.  The 
+              referrals were made by the chief executive officer and other key employees 
+              with the SOE. JPMorgan APAC was awarded business from this SOE in 2010 
+              totaling more than $10 million in net profits. 
+
+                                            15 
+ 
+---------------------Page 16---------------------
+
+                                                                                            
+
+             JPMorgan APAC hired two employees and a trainee referred by officials at a 
+              Chinese financial SOE between 2008 and 2012.  The requests were made by 
+              the chairman of the SOE and another senior official.  For one of the Referral 
+              Hires, his parents were both Chinese government officials at different 
+              ministries.  JPMorgan APAC was awarded a role in this SOE’s 2012 IPO and 
+              received net profits of more than $2.6 million. 
+
+  Referral Hire Employed in New York In Order to Obtain IPO Roles for JPMorgan 
+                                          APAC 
+
+       49.    In 2007, JPMorgan APAC hired the son (“Referral Hire A”) of an executive 
+(“Official A”) of an energy related Chinese SOE (“SOE A”) for a summer internship position 
+in China based on the request of Official A.  Subsequently, in 2009, the firm hired Referral 
+Hire A for a position in its Hong Kong internship program, again upon the request of Official 
+A.   
+
+       50.    Before Referral Hire A started his Hong Kong internship, the referring 
+JPMorgan APAC banker noted that Official A “was recently promoted to the current position 
+and is said to be very close to the president [of SOE A].  Maybe we should use [Official A’s] 
+ask to take over the relationship” from a former APAC banker.  The JPMorgan APAC banker 
+(“APAC Banker C”) who had taken over responsibility for JPMorgan’s relationship with 
+SOE A noted as part of discussions regarding what information to put in the “Sons & 
+Daughters” questionnaire that “[w]e are pitching for a couple of M+A deals . . . and we have 
+been in constant dialogue for a potential block trade.  Also, we need to establish broad 
+relationship with this client as we could provide a broad spectrum of products (corporate, 
+commodities) to them.”  APAC Banker C then submitted the “Sons & Daughters” 
+questionnaire for Referral Hire A, after being advised by the referring APAC banker that for 
+the question regarding potential deals with SOE A, he should  “limit[] this to real pitches only 
+to avoid challenges by legal and compliance.” 
+
+       51.    After the hire was approved, APAC Banker C then asked “shall we coordinate 
+so I can hook up with his father?  I will be in [Beijing] next week and we actually have some 
+meetings with [SOE A] so would be good to do this in time.” The meeting was arranged with 
+Official A. 
+
+       52.    During Referral Hire A’s summer internship in Hong Kong, APAC Banker C 
+asked Referral Hire A to get non-public information about potential JPMorgan SOE clients 
+from SOE A through his father in order to assist JPMorgan APAC in pitching for new 
+business.  Referral Hire A did not provide non-public information to APAC Banker C.  Later 
+that summer, Referral Hire A was told by APAC Banker C that in order to receive a full-time 
+offer from JPMorgan APAC, he would need to “bring in a deal” for JPMorgan APAC.   
+
+       53.    Referral Hire A specifically wanted an analyst position with JPMorgan in 
+New York.  Therefore, in the fall of 2009, Official A sought assistance from his friend, 
+another senior executive at a Chinese SOE (“Official B”), to help get Referral Hire A a job 
+with the firm in New York.  Official B was a senior executive with a large Chinese state-
+owned financial institution (“SOE B”).  In 2009, SOE B was in the process of preparing for 
+an initial public offering (“IPO”) in Hong Kong that was expected to be lucrative for 
+
+                                            16 
+ 
+---------------------Page 17---------------------
+
+                                                                                             
+
+investment banks working on the transaction.  Official B had significant influence over the 
+decision-making as to which firms would be designated to participate in the forthcoming IPO 
+of SOE B (“IPO Mandate”).  
+
+       54.    In fall 2009, Officials A and B each sent multiple messages and made 
+multiple calls to JPMorgan APAC investment bankers seeking a job with JPMorgan in New 
+York for Referral Hire A.  In late 2009 and early 2010, JPMorgan APAC bankers noted that 
+Official B kept “pushing” for the hire.  Official B requested that the Referral Hire request be 
+kept from JPMorgan APAC bankers involved in the deal.  One senior APAC banker wrote in 
+January 2010 that “to avoid any ‘complication,’ [Official B] has asked to keep this 
+confidential and particularly away from the ‘[SOE B] pitch team.’ But I have kept [a senior 
+banker on the pitch team] in the loop… Would be great if you could give this a push in NY 
+….  Many thanks.”   
+
+       55.    Based upon the requests from Officials A and B and the forthcoming IPO 
+Mandate, senior JPMorgan APAC investment bankers undertook steps to secure a position 
+for Referral Hire A with the firm in New York.  These bankers believed that JPMorgan 
+APAC could receive a more significant and lucrative role in the IPO Mandate if the firm 
+hired Referral Hire A, and would risk JPMorgan APAC’s position or its entire role in the IPO 
+Mandate if they did not. 
+
+       56.    In December 2009, JPMorgan APAC investment bankers sought the 
+assistance of a JPMorgan banker in New York who reported to the then-head of JPMorgan 
+APAC (“JPMorgan Banker D”) with finding a job for Referral Hire A.  JPMorgan Banker D 
+reported back that Referral Hire A was not qualified for a position with the firm in New 
+York, causing one of the JPMorgan APAC bankers seeking the hire to note that “Jpm in NY 
+won’t give [Referral Hire A] a preference.  Spoke with a few people who know [him].  
+Unlikely to pass thorugh [sic] regular process.”  A JPMorgan recruiter in New York noted 
+that “[r]elative to other candidates, his technological and quantitative skills were light (this is 
+an extremely quantitative position).  We plan on notifying him this week that he will not be 
+moving forward in the process.”  Referral Hire A interviewed with multiple groups at 
+JPMorgan in New York, and each rejected hiring him despite the client relationship.  
+JPMorgan Banker D noted that, according to two JPMorgan groups in New York, “while 
+[Referral Hire A] has solid technical skills, his communication and marketing skills as well as 
+his overall credentials on other metrics fell short of JPM standards.  Both groups cite these 
+deficiencies as reason not to pursue his case further, making the point that is hard to argue, 
+that lowering the highly competitive recruitment bar at JPM is not a desirable option.” 
+
+       57.    Despite this negative feedback, in February 2010 the JPMorgan APAC 
+investment bankers emailed the then-chief executive officer of JPMorgan APAC and the 
+head of human resources for JPMorgan Hong Kong to state they had “reached consensus 
+among us to offer [Referral Hire A] a one year fixed term position at [JPMorgan Banker D’s] 
+team in our New York office.  We understand that you have been always supportive of this 
+hire.  [I]t is time to ask your approval to proceed on that basis.  [Official B] called and sent 
+sms to [two JPMorgan APAC bankers] several times to ask the status.  If we can get this hire 
+done soon, that will be very helpful.”  The next day, the head of the JPMorgan APAC group 
+handling the IPO Mandate noted that he had a meeting with the chairman of another Chinese 
+entity at which he learned “[v]ery interesting info re [SOE B]: will launch [IPO Mandate] 
+
+                                            17 
+ 
+---------------------Page 18---------------------
+
+                                                                                            
+
+process just before or just after chinese new year.  Very definitive.  So we should act reg [sic] 
+this young guy and place him in [JPMorgan Banker D]’s group.  One year analyst.”  The hire 
+was thereafter approved by the chief executive officer of JPMorgan APAC, and Referral Hire 
+A began working in New York in 2010 as part of JPMorgan Banker D’s group.   
+
+       58.    In April 2010, JPMorgan APAC was selected for a significant role in the IPO 
+Mandate.  In June 2010, a JPMorgan APAC banker sent an email to JPMorgan Banker D 
+stating that “I understand from his father, [Official A], that [Referral Hire A] will start today 
+in office.  His uncle [Official B] did deliver [SOE B] IPO and his father is helping us on [an 
+energy-related] ipo.”  Later in July 2010, an APAC banker noted that “we are on track to 
+make [SOE B] the largest IPO ever.”  
+
+       59.    In 2010, JPMorgan APAC investment bankers learned that Referral Hire A’s 
+father, Official A, had assisted JPMorgan APAC in securing a mandate from a Chinese 
+energy company that was preparing for its own IPO.  In August 2010, Referral Hire A was 
+added to JPMorgan APAC’s team working on that IPO.  In November 2010, JPMorgan 
+APAC bankers consulted with Official A regarding this IPO pitch.  Later discussions 
+regarding the “game plan” included that “[Official A] will help us from the side.”  In 
+December 2010, an APAC banker told other senior APAC bankers that Referral Hire A, 
+described as the referral from Official B and “the analyst we placed under [JPMorgan Banker 
+D]’s team in NY, has played a critical role in helping secure this mandate.  [Referral Hire 
+A’]s father is a senior executive at [SOE A].  FYI.”  JPMorgan Banker D responded “He is a 
+quietly efficient worker…”   
+
+       60.    In January 2011, a JPMorgan APAC banker emailed the then-CEO of 
+JPMorgan APAC regarding Referral Hire A’s application to be transferred to a different 
+department at JPMorgan in New York, noting that “[Referral Hire A] (and his family) has 
+been instrumental in helping us on both the [SOE B] IPO and [another] IPO.”  He further 
+noted that Referral Hire A’s “father is helping us on [other companies] at the moment as 
+well.”  The then-CEO of JPMorgan APAC then wrote to another senior banker at the firm to 
+ask him to help Referral Hire A find another job within JPMorgan, stating “[h]is Dad is pretty 
+important in China and I am happy to keep him on my headcount if you can use him.”  In 
+March 2011, the firm then hired Referral Hire A into another position when his initial fixed-
+term Referral Hire contract expired. 
+
+       61.    JPMorgan APAC did not inform JPMorgan APAC legal and compliance 
+about the 2010 hire of Referral Hire A in New York.  Therefore, a “Sons & Daughters” 
+questionnaire was not completed or reviewed.  In July 2010, JPMorgan’s compliance group 
+became aware that Referral Hire A had been hired without compliance review or a “Sons & 
+Daughters” questionnaire for his 2010 hire.  A JPMorgan compliance officer noted “[c]learly, 
+in a perfect world, it would be best if this had gone through another formal review prior to the 
+position being offered.  However, since [Referral Hire A] had already been reviewed in the 
+past for at least his 2009 internship, I am not sure what value there would be in reviewing 
+again at this point in time.”  No additional inquiry was undertaken, and instead JPMorgan 
+APAC reviewed the questionnaire that was submitted in 2009 prior to Referral Hire A’s 
+Hong Kong internship.  That questionnaire had no reference to SOE B, the IPO Mandate, or 
+the other IPO which Official A helped JPMorgan APAC secure.  Although JPMorgan APAC 
+legal and compliance had required Referral Hire A to be walled off from pitches involving 
+
+                                            18 
+ 
+---------------------Page 19---------------------
+
+                                                                                             
+
+SOE A (where his father worked) at the time of his summer internship, this was not 
+communicated to JPMorgan legal and compliance in New York and nothing was done to 
+enforce this restriction even after JPMorgan APAC legal and compliance learned of Referral 
+Hire A’s position in New York.  At no point after he was hired in 2010 was Referral Hire A 
+walled off from transactions involving either his father, Official A, entities related to SOE A, 
+or his father’s friend, Official B, and entities relating to him. 
+
+       62.    JPMorgan APAC participated in the IPO for SOE B in 2010.  For its efforts, 
+the firm received net profits of more than $23 million.  In 2010, JPMorgan APAC also 
+worked on the IPO for another Chinese SOE which was connected to SOE A, where Referral 
+Hire A’s father was an official.  For its efforts on the latter IPO, JPMorgan APAC received 
+more than $3.7 million in net profits. 
+
+Referral Hire from Government Ministry In Order to Obtain Favorable Treatment for 
+                                        JPMorgan 
+
+       63.    In 2006, a JPMorgan APAC investment banker sought to find a job with the 
+firm in New York for the son (“Referral Hire X”) of a deputy minister (“Official X”) at a 
+Chinese government agency.  In seeking the hire, a JPMorgan APAC investment banker 
+wrote of Official X that “[a]lthough he is now promoted to be a government official, his 
+influence remains strong both personally as well as in an official capacity [at the Ministry]… 
+[and] a good indepth [sic] relationship with the Ministry will pave the ground for us in many 
+large and important industries in China as well as large cap companies, despite the fact some 
+of them are ‘independent’ commercial entities, a unique feature of the Chinese/government 
+business alliance.” 
+
+       64.    Referral Hire X interviewed for the position in New York but was not selected 
+for hire.  He nonetheless received an offer for an analyst position in November 2006 based on 
+the referral request.  Referral Hire X then sought to start his employment one month earlier 
+than planned.  To do so, Referral Hire X contacted an executive at a Chinese company who 
+then contacted a different JPMorgan APAC investment banker about the request.  In 
+December 2006, an employee with the firm in New York emailed the JPMorgan APAC 
+banker seeking the early start for Referral Hire X that Referral Hire X “did very very poorly 
+in interviews – some [managing directors] said he was the worst [business analyst] candidate 
+they had ever see [sic] – and we obviously had to extend him an offer… [o]bviously, we will 
+need to accommodate due to client pressure, but we’re going to have to handle this very 
+carefully.”  In or about mid-2007, Referral Hire X began working as an analyst in Corporate 
+Finance in New York on a one-year contract.   
+
+       65.    In May 2008, during Referral Hire X’s first year of work with the firm in New 
+York, Official X requested that a JPMorgan APAC investment banker provide his son with 
+another job after the expiration of his one-year term.  In June 2008, a JPMorgan APAC senior 
+banker sent his supervisor an email in which he stated:  “The father indicated to me 
+repeatedly that he is willing to go extra mile to help JPM in whatever way we think he can.  
+And I do have a few cases where I think we can leverage the father’s connection…[G]iven 
+the above, I’d like to discuss with you and seek your advice/support on how to handle the son 
+in NY and leverage the father in China.”   
+
+                                            19 
+ 
+---------------------Page 20---------------------
+
+                                                                                             
+
+       66.    In July 2008, JPMorgan Banker D offered a position in his group to Referral 
+Hire X.  After he was hired, JPMorgan Banker D wrote to the JPMorgan APAC banker in 
+Hong Kong that “I don’t have the details of the incident but apparently last Friday when I 
+was out of the office, [Referral Hire X] sent out an email (which he inadvertently copied to an 
+HR Person), where he made inappropriate … remarks.”  In August 2008, JPMorgan Banker 
+D wrote that there was a “general consensus among seniors in our group” that Referral Hire 
+X was “immature, irresponsible, and unreliable” and that one banker was “no longer will to 
+have [Referral Hire X] as part of the pool [of junior analysts on his deals]…there is also 
+concern about his reliability on confidentiality of client records/documents which means that 
+we may not be able to let him have access to sensitive transactional records/documents.”  
+Referral Hire X remained in his position until it was eliminated 10 months later. 
+
+            Hiring of Referral Hire to Initiate Client Relationship with SOE 
+
+       67.    In 2010, JPMorgan APAC began taking steps to hire the son (“Referral Hire 
+Z”) of the chairman (“Official Z”) of another large Chinese financial SOE, at his father’s 
+request.  Official Z had asked a senior JPMorgan APAC banker to hire his son at the firm 
+during an in-person meeting.  In an email to other senior bankers, this APAC banker noted 
+“[g]iven the size of the group and the existing and potential business opportunities from this 
+group to both FIG [Financial Institutions Group] and GI [group within investment banking], I 
+responded to this request positively.  Let’s gather our thought on how we can leverage more 
+on this account going forward.” 
+
+       68.    JPMorgan APAC bankers discussed that hiring Referral Hire Z could help the 
+firm win future business from Official Z’s SOE entity.  A senior banker wrote in 2010 in 
+response to the request to hire the son “[a]gree with [other banker].  [Official Z’s entity] is an 
+important client.  We need to help his son that definately [sic] will give us leverage of 
+business opportunities for both fig and non fig for jpm.”  The head of FIG within JPMorgan 
+APAC’s investment bank, later checked to make sure that JPMorgan had in fact followed 
+through and “onboarded” Official Z’s son. 
+
+       69.    Steps were taken to hire Referral Hire Z for a fixed-term position with 
+JPMorgan APAC.  The compliance questionnaire for Referral Hire Z noted that his father 
+was the CEO of a Chinese SOE and that JPMorgan APAC was in discussions with a 
+subsidiary of the SOE for a “potential financing transaction at the moment.”  It also noted that 
+JPMorgan APAC intended “to maintain a close relationship with the client.”  The 
+questionnaire falsely stated that there was “No expected benefit” from hiring Referral Hire Z.   
+
+       70.    A few weeks after JPMorgan APAC offered  Referral Hire Z a one-year 
+position, the same banker who proposed the hire noted to a senior JPMorgan APAC banker 
+that the firm had won “a mandate to be sole bookrunner for a USD300mm+ placement of 
+[Official Z’s SOE]’s listed subsidiary in HK.  This will be our first transaction for this 
+group.”  One year later, JPMorgan APAC was mandated for the IPO for Official Z’s SOE, 
+but the firm withdrew from that deal in 2013.  In 2010, JPMorgan APAC also worked on a 
+private placement for Official Z’s SOE for which the firm received net profits of more than 
+$1.4 million. 
+
+                                               
+
+                                             20 
+ 
+---------------------Page 21---------------------
+
+                                                                                             
+
+                             Legal Standards and Violations 
+        
+       71.    Under Section 21C(a) of the Exchange Act, the Commission may impose a 
+cease-and-desist order upon any person who is violating, has violated, or is about to violate 
+any provision of the Exchange Act or any regulation thereunder, and upon any other person 
+that is, was, or would be a cause of the violation, due to an act or omission the person knew 
+or should have known would contribute to such violation. 
+        
+                                     FCPA Violations 
+                                               
+                                  Anti-Bribery Violations 
+        
+       72.    JPMorgan violated the anti-bribery provisions of the federal securities laws 
+by corruptly providing valuable internships and employment to relatives and friends of 
+foreign government officials in order to assist JPMorgan in retaining and obtaining 
+business.   
+        
+       73.    As a result of the conduct described above, JPMorgan violated Section 30A of 
+the Exchange Act which prohibits any issuer with a class of securities registered pursuant to 
+Section 12 of the Exchange Act, or any officer, director, employee, or agent acting on behalf 
+of such issuer, in order to obtain or retain business, from corruptly giving or authorizing the 
+giving of, anything of value to any foreign official for the purposes of influencing the official 
+or inducing the official to act in violation of his or her lawful duties, or to secure any 
+improper advantage, or to induce a foreign official to use his influence with a foreign 
+governmental instrumentality to influence any act or decision of such government or 
+instrumentality.  [15 U.S.C. § 78dd-1]. 
+        
+                               Books and Records Violations 
+        
+       74.    JPMorgan violated the books and records provisions of the FCPA in 
+conjunction with certain Referral Hires.  Under Section 13(b)(2)(A) of the Exchange Act, 
+JPMorgan was required to make and keep books, records, and accounts, which, in reasonable 
+detail, accurately and fairly reflect the transactions and dispositions of the assets of the issuer.  
+JPMorgan APAC’s controls required that investment bankers submit accurate questionnaires 
+to compliance for review before client referrals from SOEs and foreign government officials 
+could be hired.  Contrary to that requirement, JPMorgan APAC personnel submitted, 
+reviewed, and approved inaccurate compliance questionnaires containing false and 
+incomplete information which failed to disclose the intended, improper purpose of making 
+certain client Referral Hires.  JPMorgan’s internal records also inaccurately reflected the true 
+number of client Referral Hires in the APAC region by taking steps to withhold certain 
+headcount information relating to Referral Hires.  [15 U.S.C § 78m(b)(2)(A)]. 
+ 
+                                Internal Controls Violations 
+        
+       75.    JPMorgan violated the internal accounting controls provisions of the FCPA in 
+conjunction with certain Referral Hires.  JPMorgan failed to devise and maintain an 
+effective system of internal accounting controls.  JPMorgan’s internal accounting controls 
+
+                                             21 
+ 
+---------------------Page 22---------------------
+
+                                                                                              
+
+were insufficiently designed to prevent the corruption risks inherent in the hiring of Referral 
+Hires, and therefore inadequate to enforce or effectuate JPMorgan’s referral hiring policy.  
+JPMorgan recognized the inherent risks in hiring Referral Hires, yet proceeded with a system 
+that failed adequately to address those risks.  The safeguards put in place by JPMorgan 
+APAC to minimize compliance and FCPA risks were not effective to curb the true purpose of 
+the Client Referral Program.  JPMorgan APAC’s referral hiring questionnaire was designed 
+to ensure that Referral Hires were hired based on merit and not for improper purposes.  
+However, in practice the Client Referral Program operated as a separate tier of employment 
+within JPMorgan APAC where hiring and retention decisions were based on client 
+relationships and potential revenue and not employee merit. 
+        
+       76.    Referral Hires were subject to a completely separate hiring process, and once 
+hired their jobs and terms of employment were likewise different than non-Referral Hires.  
+The interview and screening process for Referral Hires was perfunctory, with candidates 
+receiving an offer based on the perceived strength of the client relationship and prospect for 
+future business.  Referral Hires were also generally less qualified than employees hired 
+through the non-referral, entry-level hiring program, and once hired the Referral Hires were 
+generally not expected to do the same work as non-referral employees in similar positions.   
+        
+       77.    JPMorgan APAC attempted to put in place protections to mitigate the inherent 
+conflicts and FCPA risks in hiring Referral Hires.  However, these protections were 
+insufficient to prevent the violations.  While legal and compliance staff were required to 
+approve Referral Candidates before they could be hired, in practice they never failed to 
+approve a Referral Candidate.  In certain cases, the protections were ignored.  JPMorgan 
+APAC bankers sought to have certain Referral Hires work outside of APAC at the request of 
+the APAC-based client or prospective client seeking the employment.  These Referral Hires 
+did not go through the normal hiring process for that region, and instead were hired based on 
+the perceived benefit to JPMorgan APAC from the hire.  In such cases, a compliance 
+questionnaire was not completed and therefore no review was made to analyze the potential 
+conflicts of interest and FCPA violations inherent in referral hiring.  In cases in which the 
+Referral Hire was hired outside of APAC, the conflict of interest prohibitions were not 
+imposed or enforced.  This led to Referral Hires being staffed on the deal teams for the 
+referring person’s entity, often at the request of the referring person, in direct contravention of 
+the conflict of interest rules imposed on the referral hiring program. 
+        
+       78.    Under Section 13(b)(2)(B) of the Exchange Act issuers are required to 
+devise and maintain a system of internal accounting controls sufficient to provide 
+reasonable assurances that (i) transactions are executed in accordance with management’s 
+general or specific authorization; (ii) transactions are recorded as necessary (I) to permit 
+preparation of financial statements in conformity with generally accepted accounting 
+principles or any other criteria applicable to such statements, and (II) to maintain 
+accountability for assets; (iii) access to assets is permitted only in accordance with 
+management’s general or specific authorization; and (iv) the recorded accountability for 
+assets is compared with the existing assets at reasonable intervals and appropriate action is 
+taken with respect to any differences. [15 U.S.C § 78m(b)(2)(B)]. 
+        
+
+                                             22 
+ 
+---------------------Page 23---------------------
+
+                                                                                           
+
+     Commission Consideration of JPMorgan’s Cooperation and Remedial Ef         forts 
+ 
+       79.    In determining to accept the Offer, the Commission considered cooperation 
+JPMorgan afforded to the Commission staff.  Through its counsel, JPMorgan provided 
+thorough, complete, and timely cooperation throughout the investigation.  JPMorgan 
+responded promptly to Commission requests for information, retained outside counsel to 
+investigate the conduct, and self-reported much of the conduct described herein.  
+JPMorgan made timely and thorough document productions and provided frequent 
+updates on the status of the company’s internal investigation and the evidence.  JPMorgan 
+also made its employees available for interviews upon request, and facilitated the 
+interviews of former employees, including facilitating certain interviewees traveling to the 
+United States from overseas for interviews with the Commission.  JPMorgan provided key 
+document binders and factual chronologies to the Commission staff.  JPMorgan 
+responded to all requests for information and documents in a timely and efficient manner. 
+        
+       80.    The Commission has also considered the significant remediation efforts 
+undertaken by JPMorgan to address the risks inherent in client referral hiring.  Prior to the 
+start of this investigation, JPMorgan had taken steps to cease the Client Referral Program 
+in APAC.  Since the outset of the investigation, JPMorgan has enhanced its anti-
+corruption compliance program and hiring practices on a global basis, including:  making 
+changes to its Anti-Corruption Policy to further address the hiring of government 
+officials’ relatives; requiring that every hire with JPMorgan, including Referral Hires, be 
+routed through a centralized human resources application process; establishing a control 
+function role for human resources with respect to hiring; requiring that JPMorgan’s anti-
+corruption office reviews and approves each hire of a candidate referred by a client, potential 
+client, or government official; and instituting procedures and practices for the monitoring and 
+auditing of referral hiring.  In addition, JPMorgan enhanced its overall compliance function 
+in the APAC region.  JPMorgan also undertook employment actions based upon its findings 
+regarding the underlying conduct, and separated from certain employees and made personnel 
+changes to remediate in the APAC region. 
+        
+                              Non-Prosecution Agreement 
+                                              
+       81.    JPMorgan APAC has entered into a non-prosecution agreement with the 
+Department of Justice that acknowledges responsibility for criminal conduct relating to 
+certain findings in the Order.   
+             
+                           Non-Imposition of a Civil Penalty 
+                                              
+       82.    Respondent acknowledges that the Commission is not imposing a civil 
+penalty based upon the imposition of a $72,000,000 criminal fine as part of JPMorgan 
+APAC’s settlement with the United States Department of Justice. 
+        
+                                              
+                                              
+                                              
+                                              
+
+                                            23 
+ 
+---------------------Page 24---------------------
+
+                                                                                              
+
+                                            IV. 
+                                               
+                                       Undertakings 
+                                               
+       Respondent has undertaken to: 
+ 
+       1.      Report to the Commission staff periodically, at no less than nine-month 
+intervals during a three-year term, the status of Respondent’s remediation and 
+implementation of compliance measures.  During this three-year period, should Respondent’s 
+Board of Directors, senior management, or legal and compliance personnel discover credible 
+evidence, not already reported to the Commission staff, that corrupt payments or corrupt 
+transfers of value may have been offered, promised, paid, or authorized by Respondent, or 
+any entity or person working on behalf of  Respondent, or that related false books and records 
+have been maintained, Respondent shall promptly report such conduct to the Commission 
+staff.  During this three-year period, Respondent shall: (i) conduct an initial review and 
+submit an initial report, and (ii) conduct and prepare at least three follow-up reviews and 
+reports, as described below: 
+        
+           a.  Respondent shall submit to the Commission staff a written report within 180 
+               calendar days of the entry of this Order setting forth a complete description of 
+               its Foreign Corrupt Practices Act  (“FCPA”) and anti-corruption related 
+               remediation efforts to date, its proposals or actions already implemented  
+               reasonably designed to improve the policies and procedures of Respondent for 
+               ensuring compliance with the FCPA and other applicable anti-corruption 
+               laws, and the parameters of the subsequent reviews (“Initial Report”).  The 
+               Initial Report shall be transmitted to Paul G. Block, Assistant Regional 
+               Director, FCPA Unit, Enforcement Division, Boston Regional Office, U.S. 
+               Securities and Exchange Commission, 33 Arch Street, Suite 2300, Boston, 
+               Massachusetts 02110.  Respondent may extend the time period for issuance of 
+               the Initial Report with prior written approval of the Commission staff. 
+                
+           b.  Respondent shall undertake at least three follow-up reviews, incorporating 
+               any comments provided by the Commission staff on the previous report, to 
+               further monitor and assess whether the policies and procedures of Respondent 
+               are reasonably designed to detect and prevent violations of the FCPA and 
+               other applicable anti-corruption laws (the Follow-up Reports”). 
+                
+           c.  The first Follow-up Report shall be completed by no later than 270 days after 
+               the Initial Report.  The second Follow-up Report shall be completed by no 
+               later than 540 days after the completion of the preceding follow-up review. 
+               The third Follow-up Report shall be completed by no later than 810 days after 
+               the completion of the preceding follow-up review.  Respondent may extend 
+               the time period for issuance of the Follow-up Reports with prior written 
+               approval of the Commission staff. 
+                
+           d.  The periodic reviews and reports submitted by Respondent will likely 
+               include proprietary, financial, confidential, and competitive business 
+
+                                             24 
+ 
+---------------------Page 25---------------------
+
+                                                                                            
+
+              information.  Public disclosure of the reports could discourage cooperation, 
+              impede pending or potential government investigations or undermine the 
+              objectives of the reporting requirement.  For these reasons, among others, 
+              the reports and contents thereof are intended to remain and shall remain non-
+              public, except (1) pursuant to court order, (2) as agreed by the parties in 
+              writing, (3) to the extent that the Commission staff determines in its sole 
+              discretion that disclosure would be in furtherance of the Commission’s 
+              discharge of its duties and responsibilities, or (4) is otherwise required by 
+              law. 
+         
+        2.    Certify, in writing, that Respondent has made good faith efforts to comply 
+ with the undertaking(s) set forth above.  The certification shall identify the undertaking(s), 
+ provide written evidence of compliance in the form of a narrative, and be supported by 
+ exhibits sufficient to demonstrate compliance. The Commission staff may make 
+ reasonable requests for further evidence of compliance, and Respondent agrees to provide 
+ such evidence.  The certification and supporting materials shall be submitted to Paul G. 
+ Block, Assistant Regional Director, FCPA Unit, with a copy to the Office of the Chief 
+ Counsel of the Enforcement Division, no later than sixty (60) days from the date of the 
+ completion of the undertakings. 
+         
+                                            V. 
+ 
+        In view of the foregoing, the Commission deems it appropriate to impose the 
+ sanctions agreed to in Respondent’s Offer. 
+ 
+        Accordingly, it is hereby ORDERED that: 
+ 
+        A.     Pursuant to Section 21C of the Exchange Act, Respondent cease and desist 
+ from committing or causing any violations and any future violations of Sections 
+ 13(b)(2)(A), 13(b)(2)(B) and 30A of the Exchange Act [15 U.S.C. §§ 78m(b)(2)(A), 
+ 78m(b)(2)(B), and 78dd-1]. 
+ 
+        B.     Respondent shall, within 10 days of the entry of this Order, pay 
+ disgorgement of $105,507,668 and prejudgment interest of $25,083,737, for a total 
+ payment of $130,591,405 to the Securities and Exchange Commission for transfer to the 
+ general fund of the United States Treasury, subject to Exchange Act Section 21F(g)(3).  
+ If timely payment is not made, additional interest shall accrue pursuant to SEC Rule of 
+ Practice 600.  Payment must be made in one of the following ways: 
+ 
+        (1)    Respondent may transmit payment electronically to the Commission, 
+               which will provide detailed ACH transfer/Fedwire instructions upon 
+               request; 
+ 
+        (2)    Respondent may make direct payment from a bank account via Pay.gov 
+               through the SEC Web site at http://www.sec.gov/about/offices/ofm.htm; 
+               or 
+ 
+
+                                            25 
+ 
+---------------------Page 26---------------------
+
+                                                                                            
+
+          (3)    Respondent may pay by certified check, bank cashier’s check, or United 
+                  States postal money order, made payable to the Securities and Exchange 
+                  Commission and hand-delivered or mailed to: 
+   
+                  Enterprise Services Center 
+                  Accounts Receivable Branch 
+                  HQ Bldg., Room 181, AMZ-341 
+                  6500 South MacArthur Boulevard 
+                  Oklahoma City, OK 73169 
+   
+
+        Payments by check or money order must be accompanied by a cover letter identifying 
+ JPMorgan as the Respondent in these proceedings, and the file number of these proceedings; a 
+ copy of the cover letter and check or money order must be sent to Paul G. Block, Assistant 
+ Regional Director, FCPA Unit, Enforcement Division, Boston Regional Office, U.S. Securities 
+ and Exchange Commission, 33 Arch Street, Suite 2300, Boston, Massachusetts 02110. 
+
+         
+ C.    Respondent shall comply with the undertakings enumerated in Section IV above.  
+ 
+ 
+        By the Commission. 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                          Brent J. Fields 
+                                                          Secretary 
+
+                                             26 
+   

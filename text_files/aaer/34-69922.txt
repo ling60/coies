@@ -1,0 +1,540 @@
+---------------------Page 1---------------------
+
+                               UNITED STATES OF AMERICA 
+                                            before the 
+                       SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 69922 / July 2, 2013 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3470 / July 2, 2013 
+Admin. Proc. File No. 3-14171 
+                                                  
+                                                            
+                    In the Matter of                        
+                                                           ORDER DENYING MOTION OR 
+            JAMES M. SCHNEIDER, CPA                        IN THE ALTERNATIVE 
+                 c/o W. Neil Eggleston                     APPLICATION TO MODIFY 
+                 Kirkland & Ellis LLP                      COMMISSION ORDER IMPOSING 
+               655 Fifteenth Street, N.W.                  REMEDIAL SANCTION              
+                Washington, D.C. 20005 
+                             
+ 
+       James M. Schneider  is a certified public accountant and the former chief financial officer 
+of Dell, Inc. On July 22, 2010, we filed a civil injunctive action against Dell, Schneider, and 
+other Dell executives for  fraud and various reporting and recordkeeping violations.1
+                                                                                     Schneider 
+subsequently agreed to be permanently enjoined by   a U.S. district court from future violations of, 
+among other things, the  antifraud provisions of the federal securities laws . He also  agreed to the 
+Commission's filing a follow -on administrative proceeding against him, pursuant to which 
+Schneider consented to our suspending   him  from appearing or practicing before the Commission 
+as an accountant, with the right to apply for reinstatement after five years. Schneider now asks 
+the Commission to clarify  that suspension order "to prevent the existing order from being 
+construed by the Staff of the Commission as barring activities that are outside the scope of [our 
+Rule of Practice Rule 102(e)(3)(i)]."2
+                                      In particular, Schneider asks us to clarify that our Rule 
+                                                           
+1
+    SEC v. Dell Inc., No. Civ. 1:10-cv-01245 (D.D.C. July 22, 2010), available at                           http://www.sec.gov/litigation/ 
+complaints/2010/comp21599.pdf. 
+2
+    Respondent's Mot. Under SEC Rule[ ] of Practice 154 or in the Alternative Appl. for Modification of Comm'n 
+Order Imposing Remedial Sanctions Against James M. Schneider at 1 ("Respondent's Mot.") (citing 17 C.F.R. 
+§ 201.102(e)(3)(i) (providing that the Commission may suspend from practicing before it any accountant who has 
+been "permanently enjoined by any court of competent jurisdiction, by reason of his or her misconduct in an action 
+brought by the Commission, from violating or aiding and abetting the violation of any provision of the Federal 
+securities laws or of the rules and regulations thereunder")). 
+---------------------Page 2---------------------
+
+                                                 2 
+ 
+102(e) order "does not preclude Mr. Schneider from serving on the audit committee of a 
+Commission registrant or as the CFO of a public company, so long as he does not serve as the 
+principal accounting officer."3
+                               For the reasons below, we deny Schneider's motion.    
+                                                I. 
+
+A.     Schneider consented to a suspension from appearing or practicing before the 
+       Commission as an accountant after the Commission instituted civil proceedi         ngs 
+       against him.  
+       On July 22, 2010, we instituted civil proceedings against Dell and certain  of its  
+executives, including Schneider, in the United States District Court for the District of Columbia. 
+Among other violations, the complaint alleged that Dell,  Schneider, and other Dell executives 
+engaged in fraud by failing to disclose material in formation and using an accounting scheme to 
+create the false appearance that the company was consistently meeting Wall Street earnings 
+targets and reducing its operating expenses. According to the  complaint , Dell had failed to 
+disclose large "exclusivity payments" that  Intel Corporation made to Dell not to use processors 
+made by  Intel's rival, Advanced Micro Devices, Inc. ("AMD")   . The complaint alleged  that , 
+without these payments, Dell would have missed analysts'    consensus earnings -per-share 
+estimates for every quarter from fiscal years 2002 through 2006. Although these   payments 
+amounted to 76% of Dell's operating income by the first quarter of fiscal year 2007,  "Dell did not 
+disclose the existence, much less the magnitude, of the Intel exclusivity payments." 4
+                                                                                       
+       In May 2006, Dell announced its intention to use AMD's processors in some of its 
+products. Intel responded by cutting its exclusivity payments , and Dell subsequently reported a 
+36% drop in its operating income. "In dollar terms," the complaint explained, "the reduction in 
+Intel exclusivity payments was equivalent to 75% of the decline in Dell's operating income."  5
+                                                                                                
+But Schneider  falsely told analysts and investors in a quarterly earnings call that the drop in the 
+company's operating results "was attributable to Dell pricing too aggressively in the face of 
+slowing demand and to component costs declining 'less than we anticipated   .'"6
+                                                                                 
+       According to the complaint, Schneider also   "engaged in a wide-ranging accounting fraud 
+by maintaining a series of 'cookie jar' reserves that [the company] used to cover shortfalls in 
+operating results from FY02 to FY05."  7
+                                         These manipulations, the complaint  explained, "were 
+undertaken to meet consensus earnings targets or to misstate materially important financial 
+
+                                                           
+3
+    Respondent's Mot. ¶ 29. 
+4
+    Compl. ¶ 69. 
+5
+    Id. ¶ 3. 
+6
+    Id. ¶ 63 (quoting statements that were in a script circulated before the earnings call to certain Dell personnel).  
+7
+    Id. ¶ 4. 
+---------------------Page 3---------------------
+
+                                                     3 
+ 
+metrics." 8
+           This manipulation "not only materially misstated Dell's financial results, but caused 
+material misstatements in Dell's annual and quarterly reports filed with the Commission during 
+the period." 9
+              For example, in the second quarter of 2004, a Dell finance director told Schneider 
+that Dell's Europe, Middle East, and Asia ("EMEA") unit "was having difficulty meeting its 
+$159 million operating income target."    10
+                                             Schneider replied, " We need $175m. You need to tell 
+me how we will get it. I suggest you not be too proud and see what [a vice president of 
+marketing] has socked away."     11
+                                    The finance director complied with Schneider's request and 
+released $16 million that had been put away. "The release of this cookie jar reserve," the 
+complaint explained, "allowed the EMEA segment to report eight consecutive quarters of 
+increasing operating income."    12
+                                    Without the reserve, "EMEA's operating income in Q1FY05 
+would have declined by about 12.5% from the prior quarter, rather than increased by 3.1%."           13
+                                                                                                        
+
+        The complaint concluded that, because of this misconduct, Schneider violated 
+Sections 17(a) (2) and 17(a)(3) of the Securities Act of 1933,    14
+                                                                     Section  13(b)(5) of the  Securities 
+Exchange Act of 1934,    15
+                            and Exchange Act    Rules 13a-14, 13b2-1, and 13b2  -2.    16
+                                                                                          It also alleged 
+that Schneider aided and abetted Dell's violations of Exchange Act Sections         13(a),   
+
+                                  
+
+                                                           
+8
+     Id. ¶ 84. 
+9
+     Id.  
+10
+     Id. ¶ 110. 
+11
+     Id. 
+12
+     Id. ¶ 111. 
+13
+     Id. 
+14
+     15 U.S.C. §§ 77q(a)(2) (prohibiting any person from "obtain[ing] money or property by means of any untrue 
+statement of a material fact or any omission to state a material fact"), 77q(a)(3) (prohibiting any person from 
+"engag[ing] in any transaction, practice, or course of business which operates or would operate as a fraud or deceit 
+upon the purchaser"). 
+15
+     Id. § 78m(b)(5) (providing that "[n]o person shall knowingly circumvent or knowingly fail to implement a 
+system of internal accounting controls or knowingly falsify any book, record or account . . ."). 
+16
+     17 C.F.R. §§ 240.13a-14 (requiring CFOs to certify in periodic reports that, based on personal knowledge, the 
+report does not contain any untrue statement of material fact or omit any material fact), 240.13b2-1 (providing, in 
+part, that "[n]o person shall directly or indirectly, falsify or cause to be falsified, any book, record or account  . . ."), 
+240.13b2-2 (prohibiting any officer or director of an issuer from making or causing to be made any materially false 
+or misleading statement in connection with the preparation of reports and documents required by the Exchange Act). 
+---------------------Page 4---------------------
+
+                                                    4 
+ 
+13(b)(2)(A), and  13(b)(2)(B)  17
+                                  and Rules 12b-  20, 13a-l, and 13a-13.  18
+                                                                             Without admitting or 
+denying the allegations, Schneider consented      to a permanent injunction, disgorgement     , and civil 
+penalties.19
+              
+        On December     22, 2010, Schneider consented to our initiating administrative follow      -on 
+proceedings against him    pursuant to our Rule of Practice 102(e)   (3)(i).20
+                                                                               In connection with an 
+order instituting and settling those proceedings, Schneider consented to being  "suspended from 
+appearing or practicing before the Commission as an accountant"  with a right to reapply after 
+five years.21
+                
+
+B.      Schneider continued to serve as a member of a          public company's audit committee  
+        after the Commission imposed a bar . 
+        At the time we instituted the civil injunctive proceedings, Schneider was serving as a 
+director and audit committee member at three publicly       held companies. Schneider subsequently 
+resigned from two of those companies, but he  continued to serve       as an  audit committee member 
+at General Communications, Inc. ("GCI"), a n Alaska-based communications provider listed on 
+NASDAQ. According to       GCI's proxy statement filed with the Commission on May 12, 2011, 
+Schneider was  chair of GCI's audit committee and was designated as an a        udit committee 
+financial expert.22
+                    Schneider's name, as chair of the audit committee,      also appeared o  n GCI's 
+audit committee report, which the company included in its proxy statement         .23
+                                                                                     In its filing, GCI 
+stated that the company's audit committee reviewed GCI' s financial statements, discussed          the 
+financial statements and the accounting  principles  applied in those financial statements with 
+                                                           
+17
+     15 U.S.C. §§ 78m(a) (requiring issuers to file periodic reports in accordance with Commission rules), 
+78m(b)(2)(A) (requiring issuers to make and keep books, records, and accounts that, in reasonable detail, accurately 
+and fairly reflect their transactions and dispositions of assets), 78m(b)(2)(B) (requiring issuers to devise and 
+maintain internal accounting controls sufficient to provide reasonable assurances that transactions are recorded as 
+necessary to permit preparation of financial statements in accordance with Generally Accepted Accounting 
+Principles and to maintain accountability for assets). 
+18
+     17 C.F.R. §§ 240.12b-20 (requiring issuers to provide any additional material information necessary to make 
+required statements, in the light of the circumstances under which they are made, not misleading ), 240.13a-l 
+(requiring issuers to file annual reports), 240.13a-13 (requiring issuers to file quarterly reports).  
+19
+     SEC v. Dell, No. Civ. 1:10-cv-01245 (D.D.C. Oct. 13, 2010) (imposing final judgment as to Schneider). 
+20
+     James M. Schneider, CPA, Securities Exchange Act Release No. 63600, 2010 SEC LEXIS 4422, at *6 (Dec. 
+22, 2010). 
+21
+     Id. In consenting to the suspension, Schneider neither admitted nor denied our findings, except as to the 
+Commission's jurisdiction over him, the subject matter of the proceedings, the Commission's having filed a 
+complaint against him, and the district court's having permanently enjoined him from violating certain securities 
+laws. 
+22
+     Gen. Commc'ns, Inc., Definitive Proxy Statement (Form Def 14A) 23 24 (May 12, 2011); see Regulation S-K, 
+Item 407, 17 C.F.R. § 229.407(d)(5) (defining "audit committee financial expert").  
+23
+     Gen. Commc'ns, Inc., Definitive Proxy Statement 75. 
+---------------------Page 5---------------------
+
+                                                 5 
+ 
+GCI's auditor, and recommended to GCI's board that the financial statements be filed with the 
+Commission.   
+       On August 5, 2011, Commission s    taff notified GCI and Schneider's counsel that 
+Schneider was violating the terms of the Commission's    Rule 102(e) order by serving on GCI's 
+audit committee. Schneider resigned  from GCI'  s audit com mittee and then filed the present 
+motion seeking clarification of our Rule 102(e) order.   
+                                                II. 
+A.     Schneider seeks a ruling    that our Rule 102(e) order does not preclude    Schneider 
+       from serv ing in certain positions, such as a CFO or audit committee member         . 
+       Schneider asks us to "issue an order clarifying that the Rule 102(e) Order does not 
+prohibit him from accepting non- accountant positions, such as positions on an audit committee 
+or as a non-accountant CFO."  24
+                                 He argues that the reason for such a clarification is "to prevent 
+the existing order from being construed by the Staff of the Commission as barring activities 
+outside the scope of [Rule 102(e)]."25
+                                       In support, Schneider argues that the staff has already once 
+exceeded its authority under our order by demand  ing that he resign from G CI's audit 
+committee. 26
+               
+       Schneider contends that Commission staff has not cited any authority, nor is he aware of 
+any, that "would have given [him] notice that ," by agreeing to the Rule 102(e)  order , he would be 
+prohibit ed from " serv[ing] on an audit committee or as the CFO of a public company so long as 
+he did not act as the principal accounting officer."27
+                                                     Schneider concedes  that  he "theoretically 
+could attempt to accept such a position and require the Staff to bring an enforcement action," but 
+argues that "the Staff's past conduct with GCI demonstrates that any issuer that would appoint 
+Mr. Schneider to its audit committee or as its CFO is likely to be threatened with an enforcement 
+action."28
+          Because of this, Schneider argues, a clarification of our order is necessary. 
+       The Division opposes Schneider's motion, arguing that Schneider had fair notice that our 
+Rule 102(e) order would prohibit him from serving on a public company's audit committee      or as 
+a CFO. The Division contends that such a prohibition is consistent with R  ule 102(e)'s remedial 
+purpose of ensuring that accountants , "on whom the Commission relies heavily in the 
+performance of its statutory duties, perform their tasks diligently and with a reasonable degree of 
+
+                                                           
+24
+     Respondent's Reply to Br. of the Div. of Enforcement in Opp'n to Respondent's Mot. ("Respondent's Reply") 
+at 3. 
+25
+     Respondent's Mot. at 1. 
+26
+     Id. ¶ 19. 
+27
+     Id. ¶ 26. 
+28
+     Id. ¶ 28. 
+---------------------Page 6---------------------
+
+                                                   6 
+ 
+competence."'  29
+                 The Division further concludes    that  Schneider's request is not ripe for review 
+"because Schneider fails to present any specific job functions for Commission review, and the 
+staff stands ready to provide specific guidance when necessary     [about any future role Schneider   
+may wish to take]." 30
+                       
+B.     Schneider's proposed clarification is inconsistent with our order and the rule on 
+       which it is based. 
+       Schneider seeks a ruling  from us that our Rule 102(e) order does not prohibit him from 
+"accepting non-accountant positions, such as positions on an audit committee or as a non      -
+accountant CFO."   31
+                      We find no basis for  granting this request. As explained below, the 
+applicability of our order depends on the particular tasks and responsibilities involved with any 
+future position that Schneider may seek to undertake    . Schneider's proposed clarification, by 
+comparison, would exempt entire job titles from our order, regardless of what tasks or      
+responsibilities those positions entailed. Granting such a request would undermine the remedial 
+purpose of our order and the rule on which it is based. 
+       We barr  ed Schneider from appearing or practicing before us     as an accountant pursuant to 
+our authority under Rule 102. That rule defines "practicing before the Commission" as including, 
+but not limited to, "[t]ransacting any business with the Commission" and "[t]he preparation of 
+any statement, opinion or other paper by any . . . accountant . . . filed with the Commission in 
+any registration statement, notification, application, report or other document with the consent of 
+such . . . accountant."32
+                         Determining whether a particular position fits within th   at definition 
+involves a "fact-specific inquiry" into the  conduct involved when serving in such a position.   33
+                                                                                                    As 
+a U.S. district court recently explained, someone who is appear    ing or practic ing before the 
+Commission as an accountant includes      persons who "'participate[d] in the preparation of' 
+financial statements filed with the Commission by, for example, 'creat[ing],' 'compil[ing]' or 
+
+                                                           
+29
+     Br. of the Div. of Enforcement in Opp'n to Respondent's Mot. at 12 (quoting                                     Michael C. Pattison, CPA, 
+Exchange Act Release No. 67900, 2012 SEC LEXIS 2973, at *16 (Sept. 20, 2012)).  
+30
+     Id. at 19. 
+31
+     Respondent's Reply at 3. 
+32
+     17 C.F.R. § 201.102(f). Because we barred Schneider pursuant to our authority under Rule 102, that rule's 
+definitions apply to our order. Cf. Charles E. Gaecke, Investment Advisers Act Release No. 2681, 2007 SEC LEXIS 
+2809, at *9 (Dec. 4, 2007) (stating that, because "we issued the Bar Order pursuant to our authority under the 
+Advisers Act . . . the definition of 'investment adviser' in the Advisers Act applies when that term is used in the Bar 
+Order"). 
+33
+     Br. of the Div. of Enforcement in Opp'n to Respondent's Mot. at 18 (quoting SEC v. Brown                                                                    , 878 F. Supp. 2d 
+109, 127 (D.D.C. 2012)).  
+---------------------Page 7---------------------
+
+                                                     7 
+ 
+'edit[ing]' information or data incorporated into those documents and consenting to their 
+incorporation." 34
+                   
+
+        Nothing in this definition discusses, let alone exempts, specific job titles, such as CFO or 
+audit committee member. This is by design. As we recognized in our release ad           opting the 1998 
+amendments to Rule 102(e), the Commission's limited resources  mean that the Commission and 
+the investing public must "rely heavily on accountants to assure corporate compliance with 
+federal securities law and disclosure of accurate and reliable financial information."       35
+                                                                                                
+Accountants play "a particularly important role . . . in preparing and certifying the accuracy of 
+financial statements of public companies that are so heavily relied upon by the public in making 
+investment decisions."   36
+                            Thi s process is impaired if incompetent or unethical accountants are 
+permitted to participate in the preparation of financial statements certified and filed with the 
+Commission.   37
+                 We therefor e promulgated Rule 102(e) to ensure that these professionals on 
+whom we rely so heavily "'perform their tasks diligently and with a reasonable degree of 
+competence.'"  38
+                  
+
+        These remedial purposes would be undermined if we were to hold that Schneider could 
+avoid the prohibition in our Rule 102(e) order by accepting a position based only on that 
+position's title or on whether non-  accountants could accept such a position.     39
+                                                                                      Incompetent or 
+                                                           
+34
+     Brown, 878 F. Supp. 2d at 125 (quoting Robert W. Armstrong III, Exchange Act Release No. 51920, 2005 SEC 
+LEXIS 1497, at *4748 (June 24, 2005) (finding that the controller of a public company's subsidiary appeared and 
+practiced before the Commission as an accountant)); accord SEC v. Prince, No. 09-1423, 2013 U.S. Dist. LEXIS 
+62691, at *99 (D.D.C. May 2, 2013) (quoting Armstrong and finding that a public company employee, serving as 
+"Director of Mergers and Acquisitions," violated a Rule 102(e) order by appearing and practicing before the 
+Commission as an accountant). 
+35
+     Amendment to Rule 102(e) of the Commission's Rules of Practice , 63 Fed. Reg. 57,164, 57,165 (Oct. 26, 1998).  
+36
+     Marrie v. SEC, 374 F.3d 1196, 120001 (D.C. Cir. 2004) (noting the reason for the Commission's adoption of 
+the amendments to Rule 102(e)); accord Amendment to Rule 102(e), 63 Fed. Reg. at 57,165 (stating that, because of 
+the Commission's limited resources, it "must rely on the competence and independence of . . . the accountants who 
+prepare . . . financial statements). 
+37
+     See Armstrong, 2005 SEC LEXIS 1497, at *48 (concluding that the "disciplining [of] accountants pursuant to 
+Rule 102(e) for effecting a fraudulent scheme by computing the figures and providing the information incorporated 
+into Commission filings furthers the Rule's remedial purpose of protecting the integrity of the Commission's 
+processes"). 
+38
+     Marrie, 374 F.3d at 1200 (quoting Touche Ross & Co. v. SEC             , 609 F.2d 570, 582 (2d Cir. 1979)); accord 
+Gregory M. Dearlove, CPA, Exchange Act Release No. 57244, 2008 SEC LEXIS 223,    at *107 (Jan. 31, 2008) 
+(noting that the Commission adopted Rule 102(e)  "to ensure the Commission's 'processes continue to be protected, 
+and that the investing public continues to have confidence in the integrity of the financial reporting process'" 
+(quoting Amendment to Rule 102(e), 63 Fed. Reg. at 57,164)), petition denied, 573 F.3d 801 (D.C. Cir. 2009). 
+39
+     Cf. Armstrong, 2005 SEC LEXIS 1497, at *46 (finding that controller of a registrant's subsidiary was 
+appearing or practicing before the Commission despite not signing the financial statements filed with the 
+Commission because to find otherwise "would allow accountants to escape discipline under Rule 102(e) simply by 
+instructing someone else to draft, sign, and file fraudulent documents"). 
+---------------------Page 8---------------------
+
+                                                     8 
+ 
+unethical accountants pose a risk to our process regardless of what title they      holdor whether  or 
+not they are even licensed accountant    s. Accountants, we have explained, "often serve as 
+corporate officers, and the integrity of the Commission's processes is threatened when they 
+execute fraudulent schemes by providing falsified financial information just as when licensed 
+accountants engage in this conduct."    40
+                                           This interpretation  of Rule 102(e)'s remedial purpose, we 
+have noted, also accords with cases in which we have denied the privilege of appearing or 
+practicing before the Commission to incompetent or unethical accountants serving in a var iety of 
+positions, including the very ones that Schneider seeks to carve out of our order.      41
+                                                                                           And a U.S. 
+district court recently found that someone serving in a "general advisory role" with the title 
+"Director of Mergers and Acquisitions" violated a Rule 102(e) order prohibiting him from 
+appearing or practicing before the Commission as an accountant.        42
+                                                                           The court found that, even 
+though the company established procedures designed to ensure that this person "          would not be 
+involved with the accounting department and accounting data,"         he violated the Rule 102(e) order 
+by preparing financial data and determining how particular data should be treated in the 
+company's financial statements.    43
+                                      
+
+        This breadth of ways in which accountant      s can threaten our processes highligh    ts the 
+inherent difficulty of enumerating every position that Schneider could take        that would be 
+prohibited by, or consistent with, our Rule 102(e) order     , but that does not , as Schneider argues, 
+render our order impermissibly vague     .44
+                                             As courts have explained,    it is often sufficient that a 
+                                                           
+40
+     Id. at *52. 
+41
+     See id. at *49 (noting that, for purposes of defining what constitutes appearing or practicing before the 
+Commission, broadly interpreting Rule 102(e)'s remedial purpose "accords with the settled cases in which we have 
+denied the privilege of appearing or practicing before the Commission to accountants serving as officers of 
+privately-held subsidiaries of public companies"); cf., e.g., Pattison, 2012 SEC LEXIS 2973, at *5152 
+(permanently disqualifying former controller of a public company from appearing or practicing before the 
+Commission as an accountant); Steven A. Gould, CPA                             , Exchange Act Release No. 68500, 2012 SEC LEXIS 4013, at 
+*4 (Dec. 20, 2012) (settled order) (suspending former CFO from appearing or practicing before the Commission as 
+an accountant); James S. Quay              , Exchange Act Release No. 68234, 2012 SEC LEXIS 3522, at *4 (Nov. 14, 2012) 
+(settled order) (suspending respondent, who was not licensed as a certified public accountant, from appearing or 
+practicing before the Commission as an accountant); H. Clayton Peterson, CPA                                                 , Exchange Act Release No. 67282, 
+2012 SEC LEXIS 1982, at *3 (June 27, 2012) (suspension order) (suspending former board member and audit 
+committee chairman, whose certified public accounting license had expired, from appearing or practicing before the 
+Commission because he had been convicted of a felony); Lynne Norman, Exchange Act Release No. 66352, 2012 
+SEC LEXIS 437, at *5 (Feb. 7, 2012) (settled order) (suspending former controller, who held no accounting licenses 
+or certifications, from appearing or practicing before the Commission as an accountant).  
+42
+     Prince, 2013 U.S. Dist. LEXIS 62691, at *78, *11011. 
+43
+     Id. 
+44
+     See DiCola v. FDA, 77 F.3d 504, 509 (D.C. Cir. 1996) (" The FDA chose . . . not to write the debarment order 
+in terms more specific than those in the statute because of the difficulty inherent in defining what constitutes a 
+sufficient nexus with the regulatory scheme under all circumstances." (internal quotation omitted)); cf. Perez v. 
+Hoblock, 368 F.3d 166, 175 (2d Cir. 2004) (" Limitations inherent in the English language often prevent the drafting 
+of statutes 'both general enough to take into account a variety of human conduct and sufficiently specific to provide 
+---------------------Page 9---------------------
+
+                                                       9 
+ 
+proscription "'mark out the rough area of prohibited conduct, allowing law-abiding individuals to 
+conform their conduct by steering clear of the prohibition.'"       45
+                                                                       In implementing such a 
+proscription, "[n]o more than a     reasonable degree of certainty can be demanded and it is not 
+unfair to require that one who deliberately goes perilously close to an area of proscribed conduct 
+shall take the risk that he may cross the line.''  46
+                                                       
+
+        Therefore, while our order in this case m      ay not precisely enumerate the job titles that 
+Schneider could take and comply with our order         , we find that our order   nevertheless provides a 
+sufficient standard by which Schneider       can judge his ability to accept a particular position.    47
+                                                                                                          
+There are nearly limitless positions     that Schneider could safely take that have nothing to do with 
+preparing financial statements of public companies. Some positions           , however , will involve duties 
+that increase the likelihood that Schneider could engage in prohibited conduct, including the two 
+that Schneider seeks to exempt from our order (audit committee member and CFO).                 48
+                                                                                                   
+Determining whether Schneider could accept such positions            will unavoidably involve a closer 
+call. Our order reasonably places     Schneider on notice that, the more a prospective position is 
+associated with the preparation of a company's financial statements, the more Schneider's 
+acceptance of such a position without prior approval from the Commission would be done "at his 
+peril."49
+          For these reasons, we find no basis for modifying or clarifying our order.         50
+                                                                                                
+                                                                                                                                                                                            
+fair warning that certain kinds of conduct are prohibited.'" (quoting Arnett v. Kennedy, 416 U.S. 134, 15960 
+(1974))). 
+45
+     DiCola, 77 F.3d at 509 (quoting United States v. Thomas              , 864 F.2d 188, 194 (D.C. Cir. 1988)). 
+46
+     Id. at 508 (quoting Throckmorton v. Nat'l Transp. Safety Bd., 963 F.2d 441, 445 (D.C. Cir. 1992)). 
+47
+     See id. at 509 (concluding that it was "fanciful for [debarred person] to say that he can only 'guess' at the 
+meaning of the debarment order; he will usually have a pretty good idea whether a position at a firm that is not itself 
+a drug manufacturer runs afoul of the remedial purpose for which he has been debarred from providing services to a 
+drug house"). 
+48
+     See, e.g., 15 U.S.C. §§ 7203(a)(3) (defining audit committee as a committee established "for the purpose of 
+overseeing the accounting and financial processes of the issuer and audits of the financial statements of the issuer"), 
+7241(a) (requiring chief financial officers, or the equivalent, to certify the issuer's periodic reports).  
+49
+     DiCola, 77 F.3d at 505, 509 (noting that an executive barred from "provid[ing] any type of service to a person 
+that has an approved or pending drug product application " was "on notice that, without prior approval from the 
+FDA, he gets close to the pharmaceutical industry at his peril"); see also Disclosure Required by §§ 404, 406 & 407 
+of the Sarbanes-Oxley Act of 2002, Exchange Act Release No. 46701, 67 Fed. Reg. 66,208, 66,212 (Oct. 22, 2002) 
+(noting that, "[b]ecause of the significant role the audit committee plays in the filing of a public company's financial 
+statement, . . . any accountant, while suspended or barred from practice under Rule 102(e) of the Commission's 
+Rules of Practice, generally would not be eligible to serve as a financial expert [on an audit committee]"). Schneider 
+interprets our comments in the immediately preceding authority about financial experts as supporting his argument 
+that he may serve on an audit committee so long as he does not serve as a financial expert. If anything, however, 
+these comments simply emphasize that, the greater one's involvement with a public company's financial statements, 
+the greater the likelihood that one may violate a Rule 102(e) order.  
+50
+     The Division argues that we should also deny Schneider's motion using our more traditional analysis of bar and 
+suspension modifications. Althoug h Schneider titles his motion as a "modification" of our order, he expressly 
+---------------------Page 10---------------------
+
+                                                    10 
+ 
+        In denying Schneider's motion, w  e express no opinion on whether our Rule 102(e) order 
+prohibits Schneider from taking any of the hypothetical positions he posits.       51
+                                                                                      Nor do we  express 
+any opinion on whether any of the positions Schneider held in the past, such as at CGI, violated 
+our order, as those questions are not before us. Nor can we can find any basis, given the record 
+before us, to conclude that Commission staff somehow misled Schneider about the scope or 
+applicability of our Rule 102(e) order when he consented to our order's prohibitions. Schneider 
+asserts, for example, that he lacked notice that he would be prohibited from serving on an audit 
+committee or as a CFO because he was serving on three audit committees at the time he 
+consented to our order. As described herein, however, we find that Rule 102 and case law 
+interpreting that rule gave Schneider sufficient notice of what conduct our order proscribed, and 
+nothing in the record before us provides a basis to conclude otherwise. Furthermore          to the extent 
+Schneider is uncertain about an actual     position he may seek to take sometime in the future     , the 
+Division has represented its willingness to provide guidance to Schneider regarding such 
+potential positions. It is entirely possible, therefore, that Schneider "posits an injury that may 
+never materialize."  52
+                         
+        Accordingly, IT IS ORDERED that James M. Schneider's motion and, in the alternative, 
+application for modification of the Commission's order imposing remedial sanctions are 
+DENIED.  
+        By the Commission. 
+ 
+ 
+ 
+ 
+                                                          Elizabeth M. Murphy 
+                                                                    Secretary 
+
+                                                                                                                                                                                            
+represents in his reply brief that he is not seeking a modification to our order, only a clarification. See                                                                                           Respondent's 
+Reply at 1819 (explaining that his motion "bears no resem blance to petitions for relief, which seek to absolve a 
+petitioner of an obligation by which he or she is admittedly bound").  
+51
+     Cf. Hoblock, 368 F.3d at 175 (stating that the evaluation of whether a regulation is vague as applied to a 
+particular person "must be made with respect to [his] actual conduct and not with respect to hypothetical situations 
+at the periphery of the [regulation's] scope or with respect to the conduct of other parties who might not be 
+forewarned by the broad language").  
+52
+     United States v. Colasuonno, 697 F.3d 164, 183 (2d Cir. 2012) (declining to amend a written judgment                     and 
+citing Simmonds v. INS, 326 F.3d 351, 357 (2d Cir. 2003) (stating that ripeness requirement allows courts "to avoid 
+becoming embroiled in adjudications that m ay later turn out to be unnecessary")). 

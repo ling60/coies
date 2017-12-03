@@ -1,0 +1,241 @@
+---------------------Page 1---------------------
+
+ 
+
+                           UNITED STATES OF AMERICA 
+                                      Before the 
+                   SECURITIES AND EXCHANGE COMMISSION 
+
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 64776 / June 30, 2011 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT                  
+Release No.  3297 / June 30, 2011 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-14447                                         
+ 
+ 
+                                                 
+                                      : 
+      In the Matter of                :    ORDER INSTITUTING CEASE-AND-
+                                      :    DESIST PROCEEDINGS PURSUANT TO 
+      LABARGE, INC.                   :    SECTION 21C OF THE SECURITIES 
+                                      :    EXCHANGE ACT OF 1934, MAKING 
+      Respondent.                     :    FINDINGS, AND IMPOSING A CEASE-
+                                      :    AND-DESIST ORDER AND A PENALTY 
+                                      : 
+                                                 
+
+                                          I. 
+
+      The Securities and Exchange Commission (“Commission”) deems it appropriate that 
+cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the 
+Securities Exchange Act of 1934 (“Exchange Act”), against LaBarge, Inc. (“LaBarge” or 
+“Respondent”). 
+
+                                          II. 
+
+      In anticipation of the institution of these proceedings, Respondent has submitted an Offer 
+of Settlement (the “Offer”), which the Commission has determined to accept.  Solely for the 
+purpose of these proceedings and any other proceedings brought by or on behalf of the 
+Commission, or to which the Commission is a party, and without admitting or denying the 
+findings herein, except as to the Commission’s jurisdiction over it and the subject matter of these 
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting 
+Cease-and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, 
+Making Findings, and Imposing a Cease-and-Desist Order and a Penalty (“Order”), as set forth 
+below. 
+
+                                                                                        
+---------------------Page 2---------------------
+
+                                                  
+
+                                               III. 
+
+       On the basis of this Order and Respondent’s Offer, the Commission finds that: 
+
+                                            Summary 
+
+       From January 2006 through March 2007, LaBarge did not keep accurate books and 
+records or implement and maintain sufficient internal controls regarding its use of estimates of 
+completion costs for certain long-term production contracts.  LaBarge used these estimates to 
+determine its cost of sales and net earnings, which it disclosed in the periodic reports that it filed 
+with the Commission.  LaBarge’s internal controls lapses and inaccurate books and records 
+resulted in LaBarge filing certain inaccurate periodic reports in 2006 and 2007.  As a result, 
+LaBarge violated Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 
+12b-20, 13a-1, and 13a-13 thereunder. 
+
+                                           Respondent 
+
+       1.      LaBarge, Inc., a Delaware corporation headquartered in St. Louis, Missouri, 
+designs and manufactures electronics components for use in military, aviation, and other 
+industrial equipment.  LaBarge’s common stock is registered with the Commission pursuant to 
+Section 12(b) of the Exchange Act, and its preferred stock purchase rights are registered with the 
+Commission pursuant to Section 12(g) of the Exchange Act.  LaBarge’s common stock trades on 
+the American Stock Exchange.  LaBarge’s fiscal year ends on the Sunday closest to June 30.   
+
+                                              Facts 
+
+       2.      As a public company, LaBarge is required to fairly, accurately, and timely report 
+its financial results and condition.  To ensure fair and accurate reports, the federal securities laws 
+and the Commission’s regulations require public companies, such as LaBarge, to prepare and 
+present their reports and financial statements in conformity with Generally Accepted Accounting 
+Principles (“GAAP”).  Financial statements filed with the Commission that are not prepared in 
+                                                                      1
+accordance with GAAP are presumed to be misleading or inaccurate.        LaBarge   represented in 
+its Commission filings that its financial statements complied with GAAP.    
+
+       3.      LaBarge’s estimates of completion costs for certain long-term production 
+contracts have a significant effect on its financial results.  During 2006 and 2007, four of 
+LaBarge’s six plants manufactured pursuant to long-term production contracts.  These plants, 
+referred to as the CAS plants within LaBarge, generated as much as two-thirds of LaBarge’s 
+reported revenue and net earnings during 2006 and 2007.  Consistent with GAAP, LaBarge 
+utilizes the units-of-delivery variation of the percentage-of-completion method when 
+                                                                                          2
+determining the cost of goods sold and gross profits to recognize on long-term contracts.     This 
+                                                  
+1
+ Regulation S-X, 17 C.F.R. 210.4-01(a)(1). 
+2
+ FASB Accounting Standards Codification (“ASC”) Topic 605-35 (including the former American 
+Institute of Certified Public Accountants’ Statement of Position 81-1, “Accounting for Performance of 
+Construction-Type and Certain Production-Type Contracts”).   
+
+                                                 2                                                  
+---------------------Page 3---------------------
+
+                                                  
+
+requires LaBarge to periodically make reasonably dependable and accurate estimates concerning 
+the remaining costs needed to complete each long-term contract.  GAAP requires LaBarge to 
+                                                                 3
+recognize changes in these estimates when they become known.        If the remaining completion 
+costs are underestimated, the costs of goods sold will generally be underreported (and vice 
+versa).        
+
+       4.      LaBarge acknowledged the importance of these estimates to its reported financial 
+results in its annual statements and the notes to its financial statements.  For example, LaBarge 
+explained that, “For contracts accounted for using the percentage of completion method, 
+management’s estimates of material, labor and overhead costs on long-term contracts are critical 
+to the Company.”     
+
+       5.      In 2006 and 2007, the personnel at each of the CAS plants prepared estimates of 
+completion costs for the long-term contracts in production at each plant.  The plant personnel 
+prepared these estimates at completion (referred to within LaBarge as “EACs”) in Excel 
+spreadsheets outside of LaBarge’s accounting system and then manually entered the results into 
+LaBarge’s centralized accounting system from which LaBarge generated its financial statements.  
+The accuracy of LaBarge’s financial statements depended on the plant personnel accurately 
+calculating reasonable EACs and then timely entering them into the accounting system without 
+error.   
+
+       6.        In 2006 and 2007, LaBarge did not have adequate internal controls to ensure that 
+the plant personnel calculated EACs correctly, updated EACs on a timely basis, or documented 
+the reasons supporting changes made to EACs.  LaBarge also did not have adequate internal 
+controls to ensure that plant personnel correctly entered EAC information into the accounting 
+system.  Further, LaBarge did not provide the plant personnel with sufficient guidance regarding 
+when an initial EAC had to be completed on a contract.   
+
+       7.      LaBarge also did not comply with its internal controls in 2006 and 2007.  For 
+example, on multiple occasions, including the second quarter of fiscal year 2007, plant personnel 
+did not hold mandatory meetings to update and review EACs and/or did not document decisions 
+made at those meetings.  On other occasions, plant personnel did not recognize cumulative catch-
+up adjustments necessitated by changes to EACs.  LaBarge often did not detect these lapses 
+because it did not sufficiently verify compliance with its internal controls.            
+
+       8.      Because LaBarge did not implement adequate internal controls and sufficiently 
+enforce or verify compliance with its existing internal controls, its plant personnel entered EACs 
+into the accounting system that were inaccurate and/or were not supported by contemporaneous 
+documentation.  As a result, LaBarge misstated its financial statements for the second quarter of 
+fiscal year 2006.  Specifically, LaBarge reported net earnings for the second quarter of fiscal 
+year 2006 of $2,663,000, which were overstated by as much as $193,000 or 7.8%.  LaBarge filed 
+these financial statements with the Commission in its periodic reports throughout its fiscal year 
+2006.   
+
+                                                 
+3
+ FASB ASC Topic 605-35; Codification of Staff Accounting Bulletins, Topic 13(A)(4)(b).   
+
+                                                3                                                   
+---------------------Page 4---------------------
+
+                                                 
+
+       9.     Because LaBarge did not implement adequate internal controls and sufficiently 
+enforce or verify compliance with its internal controls, its plant personnel did not make changes 
+to EACs on a timely basis.  As a result, LaBarge misstated its financial statements for the second 
+quarter of fiscal year 2007.  Specifically, LaBarge reported net earnings for the second quarter of 
+fiscal year 2007 of $3,197,000, which were overstated by as much as $244,000 or 8.3%.  
+LaBarge filed these financial statements with the Commission in its periodic reports throughout 
+its fiscal year 2007.   
+
+                                           Violations 
+ 
+       10.    LaBarge filed materially inaccurate reports with the Commission as described 
+above.  As a result, LaBarge violated Section 13(a) of the Exchange Act and Rules 13a-1, 13a-13 
+and 12b-20 thereunder, which require every issuer of a security registered pursuant to Section 12 
+of the Exchange Act to file with the Commission information, documents, and periodic reports as 
+the Commission may require, and mandate that periodic reports contain such further material 
+information as may be necessary to make the required statements not misleading.  
+
+       11.    LaBarge did not implement and maintain adequate internal controls relating to its 
+cost estimates for long-term contracts as described above.  As a result, LaBarge violated Section 
+13(b)(2)(B) of the Exchange Act, which requires all reporting companies to devise and maintain 
+a system of internal accounting controls sufficient to provide reasonable assurances that 
+transactions are recorded as necessary to permit preparation of financial statements in accordance 
+with generally accepted accounting principles.   
+
+       12.    LaBarge did not maintain contemporaneous documentation supporting its changes 
+to cost estimates on long-term contracts and it failed to keep books and records that accurately 
+reflected its assets as described above.  As a result, LaBarge violated Section 13(b)(2)(A) of the 
+Exchange Act, which requires reporting companies to make and keep books, records, and 
+accounts which, in reasonable detail, accurately and fairly reflect their transactions and 
+dispositions of their assets. 
+
+                                               IV. 
+
+ 
+       In view of the foregoing, the Commission deems it appropriate and in the public interest to 
+impose the sanctions agreed to in Respondent’s Offer. 
+
+ 
+       Accordingly, it is hereby ORDERED that: 
+
+ 
+       A.      Pursuant to Section 21C of the Exchange Act, Respondent LaBarge, Inc. cease and 
+desist from committing or causing any violations and any future violations of Sections 13(a), 
+13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 12b-20, 13a-1, and 13a-13 
+promulgated thereunder.        
+
+                                                                                     
+
+                                                4                                                 
+---------------------Page 5---------------------
+
+                                                
+
+       B.     Pursuant to Section 21B of the Exchange Act, Respondent LaBarge, Inc. shall, 
+within 10 days of the entry of this Order, pay a civil money penalty in the amount of $200,000 to 
+the United States Treasury.  If timely payment is not made, additional interest shall accrue 
+pursuant to 31 U.S.C. 3717.  Payment shall be: (A) made by wire transfer, United States postal 
+money order, certified check, bank cashier’s check or bank money order; (B) made payable to 
+the Securities and Exchange Commission; (C) hand-delivered or mailed to the Securities and 
+Exchange Commission, Office of Financial Management, 100 F St., NE, Stop 6042, Washington, 
+DC 20549; and (D) submitted under cover letter that identifies LaBarge, Inc. as a Respondent in 
+these proceedings, the file number of these proceedings, a copy of which cover letter and money 
+order or check shall be sent to Robert Burson, Senior Associate Regional Director, Chicago 
+Regional Office, Division of Enforcement, Securities and Exchange Commission, 175 W. 
+Jackson Blvd., Suite 900, Chicago, IL 60604.  
+
+       By the Commission. 
+
+        
+
+                                            Elizabeth M. Murphy 
+                                            Secretary 
+ 
+
+ 
+
+                                               5                                                

@@ -1,0 +1,322 @@
+PricewaterhouseCoopers LLP, and PricewaterhouseCoopers Securities LLC: Admin. Proc. Rel. No. 34-46216 / July 17, 2002
+Home | Previous Page
+UNITED STATES OF AMERICA
+BEFORE THE
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+RELEASE NO.
+46216 / July 17, 2002
+ACCOUNTING AND AUDITING ENFORCEMENT
+RELEASE NO.
+1596 / July 17, 2002
+ADMINISTRATIVE PROCEEDING
+FILE NO.
+3-10835
+In the Matter of
+PRICEWATERHOUSECOOPERS LLP, AND PRICEWATERHOUSECOOPERS SECURITIES LLC,
+Respondents.
+::::::::
+ORDER INSTITUTING PROCEEDINGS
+PURSUANT TO RULE 102(e) OF THE COMMISSION'S RULES OF PRACTICE,
+AND SECTION 21C OF THE
+SECURITIES EXCHANGE ACT OF 1934,
+MAKING FINDINGS AND IMPOSING A CEASE-AND-DESIST ORDER AND
+OTHER RELIEF
+I.
+The Securities and Exchange Commission ("Commission") deems it appropriate that public administrative proceedings pursuant to Rule 102(e)(1) of the Commission's Rules of Practice1 ("Rule 102(e)") and Section 21C of the Securities Exchange Act of 1934 ("Exchange Act"), be and hereby are instituted against PricewaterhouseCoopers LLP and PricewaterhouseCoopers Securities LLC (collectively, "Respondents").II.
+In anticipation of the institution of these proceedings, the Respondents have submitted an Offer of Settlement ("Offer") to the Commission, which the Commission has determined to accept.
+Solely for the purpose of these proceedings, and any other proceedings brought by or on behalf of the Commission or to which the Commission is a party, the Respondents, without admitting or denying the facts, findings or conclusions herein, except as to the Commission's jurisdiction over them and over the subject matter of these proceedings, consent to the entry of this Order Instituting Proceedings Pursuant to Rule 102(e) of the Commission's Rules of Practice and Section 21C of the Securities Exchange Act of 1934, Making Findings and Imposing A Cease-and-Desist Order and Other Relief ("Order"). III.
+The Commission finds that:2
+A. RELEVANT PERSONS 1. Respondents PricewaterhouseCoopers LLP ("PwC") is a public accounting firm formed as a result of the merger of Coopers & Lybrand L.L.P. ("C&L") and Price Waterhouse LLP ("PW") on or about July 1, 1998 (collectively, the "Audit Firm").
+PwC offers a wide variety of professional services, including audit services, through offices in over 100 U.S. cities.
+PricewaterhouseCoopers Securities LLC ("PwCS") is a broker-dealer registered with the Commission.
+It is the successor broker-dealer to Coopers & Lybrand Securities L.L.C. ("CLS"), which was organized in July 1996, began operations on December 1, 1996, and was a wholly-owned subsidiary of C&L (collectively, the "Broker-Dealer").
+PwCS was a wholly-owned subsidiary of PwC until November 1999, when it was acquired by PwC Global Holdings B.V., a PwC affiliate.
+PwCS remained under PwC's control after this transaction.
+2. Other Relevant Persons
+Pinnacle Holdings, Inc. ("Pinnacle") is a holding company structured as a real estate investment trust whose primary subsidiaries and operating divisions are engaged in the business of acquiring, integrating, operating and leasing communications site space, principally antenna space for wireless telephony, land mobile, two-way radio systems and paging service providers and other wireless devices.3
+PwC rendered professional services to Pinnacle from Pinnacle's inception in 1995 until March 2001, and served as Pinnacle's auditor until March 14, 2001.
+Pinnacle's headquarters are in Sarasota, Florida, and its common stock is registered with the Commission pursuant to Section 12(g) of the Exchange Act.
+During the relevant period, Pinnacle's common stock was quoted on the Nasdaq National Market System.
+Pinnacle conducted an initial public offering in February 1999.
+On December 6, 2001, the Commission instituted and simultaneously settled public administrative cease-and-desist proceedings against Pinnacle based upon violations of the periodic reporting, books and records and internal control provisions of the federal securities laws.
+In the Matter of Pinnacle Holdings, Inc., Exchange Act Release No. 45135 (December 6, 2001).
+Avon Products, Inc. ("Avon") is a New York corporation headquartered in New York, New York.
+Avon is a leading direct seller of beauty and related products.4
+Avon's stock is registered with the Commission pursuant to Section 12(b) of the Exchange Act, and is listed on the New York Stock Exchange.
+PwC has been Avon's outside auditor since 1989.
+PwC also provided non-audit services to Avon, including software consulting services.B. SUMMARY
+This action concerns violations of auditor independence standards and related improper conduct by PwC, a "Big 5" accounting firm; PwCS, a registered broker-dealer affiliate of PwC; and their predecessor firms, C&L and CLS.
+The violations in this action span a five-year period from 1996 through 2001, and come within three topical categories:
+Charging Contingent Fees to Audit Clients.
+In 14 instances, PwCS and CLS performed investment banking services for public audit clients of PwC and C&L pursuant to arrangements under which the clients would pay a contingent fee.
+These fees violated the express prohibition on contingent fees contained in Rule 302 of the American
+Institute of Certified Public Accountants ("AICPA") Code of Professional Conduct5 and caused the Audit Firm to lack the requisite independence when the audits were performed for the public audit clients in question.6 Improper Accounting for Non-Audit Fees paid by Audit Client to PwC.
+PwC issued an unqualified audit report on Pinnacle's 1999 financial statements and performed interim reviews of Pinnacle's quarterly reports for the first three quarters of 2000.
+In connection with the audit and quarterly reviews, PwC was a cause of Pinnacle's failure to account properly for certain costs, including non-audit fees paid by Pinnacle to PwC, related to Pinnacle's acquisition of communications site space from Motorola, Inc. ("Motorola").
+Pinnacle improperly established at least $24 million in liabilities and improperly capitalized approximately $8.5 million in costs, of which approximately $6.8 million involved fees paid to PwC for non-audit services.
+As a result, PwC was a cause of Pinnacle's periodic reporting, books and records and internal control violations.
+PwC also failed to exercise objective and impartial judgment as required by the independence rules and therefore lacked the requisite independence in its audit of Pinnacle's 1999 financial statements and in its interim reviews of Pinnacle's quarterly reports for the first three quarters of 2000.
+Improper Accounting for Software Project.
+PwC issued an unqualified audit report on Avon's 1999 financial statements.
+In connection with the audit, PwC was a cause of Avon's failure to write off all of the capitalized costs of an uncompleted software project that PwC consultants had been developing for Avon, but which Avon stopped and wound down.
+In violation of generally accepted accounting principles (GAAP), Avon wrote off only part of the project's $42 million of costs, improperly retaining on its books $26 million that was comprised mostly of PwC's own consulting fees.
+As a result, PwC was a cause of Avon's reporting and recordkeeping violations and failed to exercise objective and impartial judgment as required by the independence rules and therefore lacked the requisite independence in its audit of Avon's 1999 financial statements.
+As explained in detail below, PwC (a) failed to comply with the independence requirements of Commission Regulation S-X; (b) was a cause of violations of periodic filing and books and records provisions of Section 13(a) and (b) of the Exchange Act and the rules thereunder by public issuers who were PwC and C&L audit clients; and (c) engaged in improper professional conduct under Rule 102(e).
+PwCS was a cause of violations of Regulation S-X by PwC, and violations of periodic filing provisions in Exchange Act Section 13(a) and Rule 13a-1 by PwC audit clients.
+C. IMPROPER CONTINGENT FEE ARRANGEMENTS 1. Prohibition on Contingent FeesBetween 1996 and 2001, C&L's and PwC's broker-dealer subsidiaries, CLS and PwCS, provided investment banking services to various clients, including public audit clients of C&L and PwC.
+During that period, AICPA Rule 302 specifically prohibited audit firms from performing services for audit clients for contingent fees:
+A member in public practice shall not... [p]erform for a contingent fee any professional services for, or receive such a fee from a client for whom the member or the member's firm performs... an audit or review of a financial statement.7Because of the Broker-Dealer's affiliation with the Audit Firm, Respondents at all times recognized that the Broker-Dealer remained subject to auditor independence rules, understood that it therefore should not charge contingent fees to audit clients, and had written guidelines that prohibited charging contingent fees to audit clients.8
+In a February 1997 memorandum, a C&L Vice Chairman advised all C&L partners that "[b]ecause CLS is wholly owned by the Firm, it is subject to, and we intend to comply with, the rules of the [AICPA] and the Securities and Exchange Commission governing independence, conflicts of interest, and contingent fees."9
+At the same time, professionals at the Broker-Dealer sought to create fee structures that resembled the "success fee" or contingent fee arrangements most often employed by investment bankers, which typically are determined based on a percentage of the amount raised or the success of the engagement.
+2. The Particular Contingent Fee Arrangements
+In a number of instances, Respondents, by virtue of engagements between the Broker-Dealer and audit clients, had arrangements that were, in substance, contingent fee arrangements that ran afoul of Respondents' obligations under independence standards.
+Specifically, between 1996 and 2001, CLS and PwCS performed services for 14 public Audit Firm clients pursuant to arrangements in which the audit clients expressly or otherwise agreed to pay contingent fees.
+With some clients, the Broker-Dealer included the contingent fee within the express terms of the engagement letter.
+With other clients, the Broker-Dealer used engagement letters that purported to create permissible "value-added fee" arrangements, but issued side letters or entered into oral understandings that created forbidden contingent fee arrangements.
+In aggregate, Respondents, by virtue of fees paid to the Broker-Dealer, received several million dollars in contingent fees.
+Contingent Fees in Engagement Letters.
+With four public audit clients, the contingent fees were expressly agreed upon in the formal engagement letter between CLS or PwCS and the client.
+In one case, PwC became Company A's auditors in November 1999, several months after Company A had retained PwCS to sell a subsidiary and signed an engagement letter containing a contingent fee.
+PwC knew about Company A's retention of PwCS, recognized that it presented independence issues, but concluded, mistakenly, that the PwCS engagement somehow had terminated even though it continued for another year and a half.
+In another engagement during 1998, the PwC auditors for Company B learned that PwCS had agreed to sell a unit of a subsidiary of Company B for a contingent fee, but were told by PwCS' investment bankers that the fee had been approved during the client review process.
+The PwC audit partner specifically informed his supervisor that PwCS' fees were "success based" - i.e., "[i]f we are successful in aiding with a sale in the `expected' $15 to $20 million range we would generate fees in the ball park $0.5 million range."
+These examples illustrate that PwC and PwCS lacked procedures sufficient to identify and prevent certain contingent fee arrangements that could compromise PwC's independence.Contingent Fees Labeled as Value Added Fees. Respondents correctly believed they could comply with AICPA Rule 302 by charging "value added fees" to audit clients instead of contingent fees.
+Unlike contingent fees, value added fees are arrangements in which the client, at its unfettered discretion, determines at the end of the engagement whether the services rendered warrant an additional fee based on qualitative factors.
+In 10 instances, however, the Broker-Dealer purported to use value added fee agreements when in substance, they were using impermissible contingent fee arrangements.
+In these cases, the formal engagement letter typically described, in addition to a fixed retainer, a "value added fee" based upon various qualitative factors, such as the complexity of the assignment, the typical market compensation, the expertise of the PwCS staff, opportunity cost, hours worked, and time constraints.
+But, through side letters or oral understandings, the parties created contingent fee arrangements.
+For example:
+In May 1999, PwCS agreed to help a PwC public audit client, Company C, sell an operating unit pursuant to an engagement letter stating that, under AICPA guidelines,
+"PwCS does not bill on a `success' or `contingent' fee basis.
+Rather, our fees . . . are based upon the time expended, the complexity of the services provided, the experience of PwCS team members and the value of the services provided."
+In a side letter bearing the same date as the engagement letter, however, PwCS created, in substance, a contingent fee arrangement by proposing a "fee structure . . . equivalent to the market compensation for services of this nature, a minimum total fee of $155,000; plus an additional incentive fee equal to 2% of the excess of the transaction value over $7,000,000."
+In February 1998, Company D, a C&L public audit client, engaged CLS to help it raise $10 million.
+Although the engagement letter provided for a fee "based on the Company's qualitative assessment of the value of the services provided," the Company orally agreed to pay CLS a contingent fee of 5% of the amount raised.
+Company D's CEO understood from his discussions with CLS that the Broker-Dealer expected to receive investment banker-type compensation but could not specify a contingent fee in writing because Company D was a C&L audit client.
+The CEO believed Company D was obligated to pay CLS a 5% fee if Company D raised capital.
+After Company D raised $10 million, Company D paid CLS 5%, or $500,000, plus expenses.
+In a 1997 engagement in which CLS used value added language in the engagement letter with a C&L public audit client, CLS itself indicated in subsequent correspondence that the arrangement was a contingent fee.
+When the client, Company E, refused to pay more than $150,000 in success fees for CLS' services, the CLS professional pointed toward the "business understanding which we discussed" when demanding a $200,000 "success fee."
+3. Involvement of Senior Management Senior management at the Broker-Dealer and Audit Firm helped contribute to the conditions that led to improper contingent fee arrangements.
+Senior management at the Broker-Dealer approved of a general practice to use "side letters" to amplify the fee provisions of engagement letters.
+A top senior executive of the Broker-Dealer, for example, reviewed side letters and provided specific guidance to Broker-Dealer professionals on the use of side letters.
+Professionals at the Broker-Dealer came to believe that side letters were not only an approved medium for documenting fee arrangements, but that they actually could be used to set forth fee arrangements that could not be presented in engagement letters.
+In addition, in June 1998, professionals from the Broker-Dealer prepared a PowerPoint marketing presentation for the Broker-Dealer's Technology Group that stated: "Registration with the SEC allows CLS to accept `success fees', `contingent fees' and `value-added fees[;]' [and that] Investment banking services and success fees may be applied to C&L audit clients subject to the following: [a] Side Letter[; and] Materiality, or `SX test'[.]"
+Prior to the PW/C&L merger, a member of senior Audit Firm management from the Financial Advisory Services group distributed the PowerPoint presentation to C&L Financial Advisory Service partners and C&L Entrepreneurial Advisory Services partners, which included audit partners who provided services to small and medium-sized businesses.
+D. IMPROPER ACCOUNTING FOR NON-AUDIT FEES PAID BY AUDIT CLIENT TO PWC
+1.
+Summary
+This matter involves PwC's audit and review of Pinnacle's improper accounting for its acquisition of Motorola's North American Antenna Site Business (the "Motorola Acquisition").
+Pinnacle improperly established liabilities of at least $24 million and improperly capitalized over $8.5 million in costs that related to the integration and ongoing business operations of assets acquired from Motorola.
+Almost all of the improperly capitalized costs involved fees paid to PwC for non-audit services.
+As a result, Pinnacle understated reported expenses for the year 1999 and the first three quarters of 2000.
+Pinnacle's accounting treatment of the liabilities and costs associated with the Motorola Acquisition did not comply with GAAP and resulted in violations of the periodic reporting, books and records and internal control provisions of the federal securities laws.10
+PwC was a cause of Pinnacle's violations by virtue of its actions in assisting in establishing the improper liabilities and approving the improper capitalization of costs.
+In addition, PwC failed to exercise objective and impartial judgment as required by the independence rules and therefore lacked the requisite independence to audit or review Pinnacle's financial statements.
+2. PwC's Role in Pinnacle's Improper AccountingPinnacle's business strategy was premised on aggressive growth.
+In furtherance of that strategy, in August 1999 Pinnacle acquired from Motorola over 1,800 antenna sites, management agreements and leases for $254 million, the result of which was effectively to double the number of communications sites operated by Pinnacle.
+The transaction closed on August 31, 1999, but a working capital adjustment provision allowed for subsequent adjustment of the purchase price. The size and complexity of the acquisition presented a significant challenge to Pinnacle's management in conducting pre-closing due diligence on the towers.
+In addition, the transaction posed a significant challenge to Pinnacle's management in gaining operational control of the towers and effectively integrating the towers, and information related to the towers, into Pinnacle's operations.
+Pinnacle engaged PwC and others to assist it in due diligence and post-closing integration projects.
+In accounting for the Motorola Acquisition, Pinnacle established a liability of $31.45 million for estimated acquisition costs ("the acquisition liability").
+In connection with its audit and review responsibilities, PwC signed off on the establishment of the acquisition liability.
+The acquisition liability included several categories of estimated costs, including a $5 million reserve for "non-specific liabilities."
+More than $24 million of the acquisition liability represented estimates that included fees for services that had not yet been performed.
+PwC personnel assisted Pinnacle when it established the acquisition liability.
+In the Fall of 1999, Pinnacle management and a PwC employee (the "Engagement Director") met regarding the acquisition liability.
+Pinnacle allocated the $31.45 million among the various categories of anticipated expenditures.
+Pinnacle directed the Engagement Director to create a spreadsheet reflecting that allocation.
+PwC's Engagement Director prepared an initial draft of the schedule of reserves, which Pinnacle later used as support for establishing the acquisition liability.
+Pinnacle's recording of the acquisition liability did not comply with the requirements of Statement of Financial Accounting Standards No. 5 ("FAS 5") Accounting for Contingencies, as interpreted by Emerging Issues Task Force Issue No. 95-3 and No. 94-3 for planned business integration and restructuring costs.11
+Further, the acquisition liability did not meet the requirements of Statement of Financial Accounting Concepts No. 6 because the company did not have "a present duty or responsibility" to pay third parties for the planned activities before they were performed.
+Finally, Pinnacle recorded reserves for "non-specific liabilities" that may not be accrued under FAS 5, paragraph 14.
+Pinnacle ultimately paid PwC approximately $14 million in fees associated with consulting work on the Motorola Acquisition and capitalized substantially all of those fees, charging them against the acquisition liability.
+Included in the fees that Pinnacle improperly applied against the accruals and capitalized, and subsequently restated, were approximately $6.8 million in post-closing fees for services that Pinnacle incurred as a result of its ongoing business practices and obligations, such as (1) operating, managing and integrating Motorola's assets into existing operations, (2) assessing the Motorola assets for impairment, and (3) assisting Pinnacle in identifying revenue enhancement opportunities after closing.
+Pinnacle's capitalization of indirect and general costs associated with the integration of acquired assets into Pinnacle's operations, as well as costs associated with the management and operation of the acquired assets, were in violation of Accounting Principles Board Opinion No. 16, Business Combinations ("APB 16"), paragraph 76, and Accounting Interpretation No. 33 of APB 16.12
+To determine the accurate accounting treatment of the PwC fees charged to the acquisition liability, it was necessary for Pinnacle's management to understand the services that PwC rendered and the fees associated with those services.
+However, Pinnacle failed to maintain records sufficient to determine what services were included in PwC's invoices or the appropriate accounting treatment for those services based upon the nature of the services provided.
+Pinnacle met with the Engagement Director on a regular basis to receive presentations relating to the nature of the PwC services.
+Subsequently, Pinnacle determined that substantially all of the PwC fees relating to the Motorola Acquisition should be capitalized.
+PwC's invoices to Pinnacle provided little or no detail about the work that supported the Motorola acquisition-related non-audit fees, and Pinnacle failed to keep written records summarizing the oral presentations made by the PwC Engagement Director.
+Pinnacle thus had insufficient records to allocate accurately the PwC fees among the various categories of the acquisition liability, or even to determine whether the fees should be charged to the reserves at all.
+As Pinnacle completed its quarterly and annual financial reports, Pinnacle contacted and relied upon the Engagement Director for detailed information regarding the nature of PwC's services, which Pinnacle used in determining how to allocate PwC fees across the various reserve categories.
+PwC approved Pinnacle's accounting treatment of the costs associated with the Motorola Acquisition and issued an unqualified audit report that Pinnacle's financial statements for the year ended December 31, 1999 were presented in conformity with GAAP.
+Similarly, PwC took no exception to Pinnacle's accounting treatment of the costs in connection with its reviews of the first three quarters of 2000.
+On April 26, 2001, Pinnacle filed amended annual and quarterly report forms with the Commission, and restated its financial statements for fiscal year 1999, and the first three quarters of fiscal year 2000.
+The restatements reflected Pinnacle's determination (1) to accrue direct costs of the Motorola Acquisition only as the related services were performed, and (2) to expense approximately $8.5 million in professional fees and other miscellaneous adjustments related to ongoing business expenses necessary to integrate the Motorola assets and liabilities into Pinnacle's operations.
+Of this $8.5 million, 80 % represented consulting fees paid to PwC in connection with the acquisition.
+The failure to account properly for the PwC fees and other expenses related to the Motorola Acquisition caused Pinnacle to understate its general and administrative expenses and its corporate development expenses for the relevant time periods.
+The changes in Pinnacle's restated financial statements placed Pinnacle in violation of certain negotiated debt covenants contained in certain credit agreements with institutional lenders.
+Pinnacle was required to obtain a waiver from its lenders of those debt covenants.
+3. PwC's Audit of Pinnacle's Improper Accounting for PwC's Non-Audit Fees
+In 1999 and 2000, members of Pinnacle management, including those principally responsible for its accounting and financial reporting functions, as well as officers with other management functions, were former partners or managers of PwC or its legacy firm, Price Waterhouse LLP.
+Over those two years, PwC billed Pinnacle approximately $20.5 million for non-audit fees, compared to less than $300,000 in audit fees.
+Of the $20.5 million in non-audit fees, approximately $14 million involved services related to the Motorola Acquisition.
+In addition, PwC staff anticipated that in subsequent years PwC could receive substantial fees as a result of providing additional non-audit services.
+In 1999 and 2000, Pinnacle and PwC interpreted accounting standards improperly, thereby allowing Pinnacle to capitalize a large part of the fees associated with the PwC non-audit services, regardless of their impact on integration and ongoing operations.
+In view of the extensive documentary evidence that PwC was actually assisting Pinnacle in integrating the Motorola assets and liabilities into Pinnacle's ongoing operations, PwC's audit staff should have given particular care to whether Pinnacle had properly accounted for PwC's fees.
+However, PwC's audit staff never determined the extent to which PwC non-audit services provided benefits to integration and ongoing operations, and never required Pinnacle to allocate costs between direct costs of acquisitions and costs that primarily benefited integration and ongoing operations.
+In addition, PwC's audit testing of Pinnacle's estimates related to the Motorola transaction was not adequate, and its audit of Pinnacle's purchase accounting was inadequately documented and therefore deficient.
+E. IMPROPER ACCOUNTING FOR SOFTWARE PROJECT
+1. Summary
+In the first quarter of 1999, PwC was a cause of Avon's failure to write off all of the capitalized costs of an uncompleted internal-use software project that PwC consultants had attempted to develop for Avon.
+After nearly three years and an investment of approximately $42 million, Avon stopped the project in April 1999 and wound it down.
+Avon failed, however, to comply with GAAP by retaining $26 million of the project's costs on its books, instead of taking a complete write-off.
+As a result of this improper accounting, Avon filed with the Commission misstated and misleading periodic reports for the quarter ended March 31, 1999, and the year ended December 31, 1999.
+Accordingly, Avon violated the reporting and recordkeeping provisions of the Exchange Act.13
+Furthermore, PwC was a cause of Avon's improper accounting for costs that largely consisted of PwC's own consulting fees.
+PwC also failed to exercise objective and impartial judgment as required by the independence rules and therefore lacked the requisite independence in its audit of Avon's 1999 financial statements.
+2. Background of the FIRST Project and PwC's Consulting Services From late 1996 through early 1999, Avon attempted to develop a new, Y2K-compliant order management software system for ten of its mid-sized markets.
+The project, known as the Fully Integrated Representative Service Toolkit ("FIRST"), was Avon's largest single information technology ("IT") project.
+Avon's legacy IT systems were decades-old and lacked the functionality, flexibility, and operational efficiencies of contemporary IT applications.
+FIRST was intended to modernize Avon's order management systems in certain markets and improve order processing, reduce the unavailability of products promised to customers, allow its markets to share real-time information and enhancements, and help reduce the high turnover rate of Avon sales representatives.
+As originally planned, for a fixed price of $30 million, PwC consultants were to design and develop a customized software system around a purchased software platform known as BPCS, and implement it by September 1998 in Canada and nine other (mostly European) countries.
+Avon stopped FIRST in April 1999, but wrote down only 35% of its costs.
+During the course of the FIRST engagement, PwC's non-audit fees and expenses increased significantly.
+PwC's fees and expenses from non-audit services grew ten fold from $1.8 million in 1996 to an average of $22 million annually in 1997 and 1998-seven times PwC's $3 million annual audit fees.14 3. PwC's Role in Avon's Improper Accounting
+a. The Impairment of FIRST Throughout the project, FIRST had experienced substantial delays, disruptions, and cost overruns.
+In late 1998, PwC finally delivered software to Avon, which was completely customized because PwC had written additional custom software code to remove the functionality of BPCS from the FIRST system due to BPCS's technical limitations.
+But FIRST was nearly one year behind schedule, projected costs continued to escalate, and Avon had begun considering shutting down the project, writing it off completely, and identifying alternative software to FIRST, as opposed to continuing with FIRST.
+As a result, although Avon continued with the project, it restricted FIRST's scope in late 1998 by ceasing all activity to implement FIRST in Europe and focusing solely on attempting to implement it in Canada.
+By March 1999, however, the system was not finished, testing of the software was just beginning, additional change orders were being generated, and further delays and project management difficulties continued to occur.
+On April 1, 1999, Avon shut down all remaining development work on FIRST due to PwC's high cost projections and Avon's loss of confidence in the FIRST team.
+At this time, and continuing through 1999, Avon had no defined plans or budget to re-start FIRST, and had performed no analysis of the conditions that would justify re-starting the project.
+b. GAAP Required a Complete Write-Off of FIRST
+Under GAAP,15 the shut-down and other facts surrounding FIRST were triggering events that required an impairment analysis to determine whether the FIRST asset was recoverable.
+Because it was not probable that FIRST would be completed and placed in service, GAAP dictated that FIRST should have been considered abandoned and written down to the lower of its carrying costs or its fair value.
+The rebuttable presumption under GAAP is that uncompleted internal-use software has a fair value of zero and should be written off entirely.
+Accordingly, under GAAP, the entire FIRST asset was impaired and should have been written off in the first quarter of 1999.
+Avon, however, improperly treated FIRST as only partially impaired and wrote down only $15 million of the $42 million of total costs incurred on the project, approximately $32 million of which was paid to PwC for consulting services and related expenses.
+c. The Improper Accounting for FIRST
+In a meeting on April 1, 1999, following an internal PwC review of FIRST, PwC provided Avon's senior management significantly higher cost and time projections to complete FIRST and recommended that Avon wind down and "pause" the project.
+Avon's senior management decided in this meeting to stop the project because of its high costs and a lack of confidence in the FIRST team, including PwC consultants.
+In addition, PwC recommended to Avon management that Avon only write down approximately one-half of the project's costs.
+In the week following April 1, PwC auditors and consultants worked closely with Avon's financial staff to determine the accounting for FIRST.
+It was determined that costs associated with certain discontinued project activities, such as the removal of BPCS, would be written down and that the remaining costs would be retained as an asset.
+This approach resulted in Avon writing down $15 million.
+PwC's consultants estimated which portion of $22 million of PwC's fees and expenses corresponded to BPCS work, and thus would be written off.
+PwC's estimate was made because there was no way to trace its fees and expenses to the BPCS work through invoices or time records.
+PwC's valuation allocated $3 million of its fees and expenses to the write-down and $19 million to the costs Avon retained as an asset.
+As a result of this allocation and certain other PwC fees and expenses that Avon kept on its books, PwC fees and expenses comprised $21 million, or 81%, of the $26 million Avon retained as an asset.
+The accounting for the partial write-down departed from GAAP.
+It failed to assess and conclude that the entire FIRST software system was improbable of being completed and placed in service.
+The accounting likewise failed to analyze whether Avon could overcome the presumption that such uncompleted software, which had been totally customized for Avon's unique requirements, had no fair value under the circumstances.
+In PwC's audit of Avon's 1999 financial statements, PwC continued to permit Avon's improper retention of the FIRST costs.
+PwC also relied on the advice of a PwC non-audit consultant for the view that FIRST was technically "feasible" of being used, although the consultant had been a technical advisor on FIRST and was the project leader for three different IT projects that PwC performed for Avon.
+Avon's improper accounting caused the company to retain $26 million of FIRST costs as an asset,16 resulting in Avon understating by 38% the pretax loss reported in its first quarter 1999 Form 10-Q, and overstating by 5% the pretax profits reported in its 1999 Form 10-K. 17
+F. LEGAL ANALYSIS
+1. Legal Standards Section 13(a) of the Exchange Act requires that financial statements filed with the Commission be certified by "independent accountants."
+Rule 13a-1 specifically requires issuers to file annual reports containing financial statements certified by independent public accountants.
+Regulation S-X under the Exchange Act sets forth, among other things, the requirements applicable to audited financial statements included in periodic reports filed by an issuer pursuant to Section 13 of the Exchange Act.
+Rule 2-02(b)(1) of Regulation S-X requires an auditor's report to state, "whether the audit was made in accordance with generally accepted auditing standards [GAAS]."
+Consistent with the Commission's rules and pronouncements, GAAS requires auditors to maintain strict independence from their audit clients.
+Statement on Auditing Standards ("SAS") No.1 explains the independence requirement as follows:
+It is of utmost importance to the profession that the general public maintain confidence in the independence of independent auditors.
+Public confidence would be impaired by evidence that independence was actually lacking, and it also might be impaired by the existence of circumstances which reasonable people might believe likely to influence independence.
+To be independent, the auditor must be intellectually honest; to be recognized as independent, he must be free from any obligation to or interest in the client, its management or its owners. . . .
+Independent auditors should not only be independent in fact; they should avoid situations that may lead outsiders to doubt their independence.Rule 2-01(b)(1) of Regulation S-X, in effect during the relevant period, states that "[t]he Commission will not recognize any certified public accountant or public accountant who is not in fact independent."
+To determine whether auditors are independent for purposes of GAAS, the Commission looks to the AICPA rules, among other things.
+SAS No. 1 provides that the independence rules of the AICPA Code of Professional Conduct "[h]ave the force of professional law for the independent auditor."
+AICPA Rule 302 prohibited charging contingent fees to audit clients during the period of the conduct in question.
+Thus, under GAAS, contingent fee arrangements with audit clients are impermissible relationships that impair independence.
+Annual and quarterly reports filed by issuers under Section 13(a) of the Exchange Act, and Rules 13a-1 and 13a-13 thereunder, must accurately reflect the financial condition and operating results of the issuer.
+Rule 12b-20 further requires the inclusion of any additional material information that is necessary to make required statements, in light of the circumstances under which they were made, not misleading.
+Section 13(b)(2)(A) of the Exchange Act requires issuers to "make and keep books, records, and accounts, which, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the issuer."
+Section 13(b)(2)(B) of the Exchange Act requires issuers to devise and maintain a system of internal accounting controls sufficient to provide reasonable assurances that transactions are recorded as necessary to permit the preparation of financial statements in conformity with GAAP and to maintain the accountability of assets.
+2. DiscussionIn each of the three instances described above, PwC lacked the requisite independence with respect to its audit clients.
+First, PwC and C&L, by virtue of engagements between the Broker-Dealer and audit clients, had numerous arrangements with audit clients that were, in substance, contingent fee arrangements.
+This conduct constituted improper professional conduct within the meaning of Rule 102(e)(1)(iv)(A).
+PwC, by its own conduct and that of its legacy firm C&L, failed to comply with Rule 2-02(b)(1) of Regulation S-X by issuing audit reports stating that the audits were done in accordance with GAAS, when, in fact, PwC and C&L lacked the requisite independence when the audits were performed.
+PwC was a cause of violations by 14 issuers of Section 13(a) of the Exchange Act and Rule 13a-1 because the issuers' financial statements filed with the Commission were not audited by independent accountants.
+PwCS, through its own conduct and that of CLS, was a cause of PwC's violations of Regulation S-X, and the issuers' violations of Exchange Act Section 13(a) and Rule 13a-1.
+In the Pinnacle and Avon matters, PwC was a cause of the improper accounting.
+With respect to the Pinnacle case, PwC assisted in establishing the improper liabilities and allocating substantially all of its non-audit fees to the acquisition liability, and approved Pinnacle's improper capitalization of PwC's non-audit fees.
+In the Avon matter, PwC participated in and permitted Avon's improper accounting that enabled Avon to retain $26 million of the uncompleted FIRST software project's costs as an asset consisting mostly of PwC's own consulting fees and expenses.
+As a result, PwC failed to exercise objective and impartial judgment as to the accounting for its own non-audit fees and therefore lacked the requisite independence in the audits and interim reviews in question.
+In addition, PwC was a cause of Pinnacle and Avon's filing financial statements for the year ended December 31, 1999 (Pinnacle), interim financial statements for the first three quarters of 2000 (Pinnacle), for the quarter ended March 31, 1999 (Avon) and the year ended December 31, 1999 (Avon) that violated Section 13(a) of the Exchange Act and Rules 12b-20, 13a-1 and 13a-13 thereunder.18
+PwC also was a cause of Pinnacle and Avon's violation of Exchange Act Section 13(b)(2)(A), and was a cause of Pinnacle's violation of Exchange Act Section 13(b)(2)(B).IV.
+Based on the foregoing and Respondents' Offer of Settlement, the Commission finds that:
+1. With respect to the charging of contingent fees to PwC audit clients:
+a. PwC (i) violated Rule 2-02 of Commission Regulation S-X; (ii) was a cause of violations of Section 13(a) of the Exchange Act and Rule 13a-1 thereunder by the PwC audit clients for whom PwCS and CLS performed investment banking services for contingent fees; and (iii) engaged in improper professional conduct under Rule 102(e)(1).
+b. PwCS was a cause of violations of Rule 2-02 of Regulation S-X by PwC, and violations of Exchange Act Section 13(a) and Rule 13a-1 thereunder by PwC audit clients referred to in paragraph 1, clause (a)(ii), above.
+2. With respect to Pinnacle, PwC was a cause of violations of Exchange Act Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) and Rules 12b-20, 13a-1 and 13a-13 thereunder by Pinnacle.
+3. With respect to Avon, PwC was a cause of violations of Exchange Act Sections 13(a) and 13(b)(2)(A) and Rules 12b-20, 13a-1 and 13a-13 thereunder by Avon.
+V. Based on the foregoing, the Respondents hereby consent to the entry of an order, effective immediately, ordering that:
+A. PwC, pursuant to Section 21C of the Exchange Act, cease and desist from committing any violation and any future violation of Rule 2-02 of Regulation S-X, and from causing any violation and any future violation of Sections 13(a) and 13(b) of the Exchange Act, and Rules 12b-20, 13a-1 and 13a-13 thereunder.
+B. PwCS, pursuant to Section 21C of the Exchange Act, cease and desist from causing any violation and any future violation of Rule 2-02 of Regulation S-X, Section 13(a) of the Exchange Act and Rule 13a-1 thereunder.
+C. PwC is censured pursuant to Rule 102(e)(1). D. PwC shall comply (within 90 days of this Order unless otherwise specified below) with the following undertakings, as set forth in its Offer of Settlement:
+1. Within 21 days of the entry of this Order, Respondents shall make a payment in the amount of $5 million to the United States Treasury, to be apportioned as follows:
+$2.75 million for PwC and $2.25 million for PwCS.
+Such payment shall be:
+(A) made by United States postal money order, certified check, bank cashier's check or bank money order; (B) made payable to the Securities and Exchange Commission; (C) hand-delivered or mailed to the Comptroller, Securities and Exchange Commission, Operations Center, 6432 General Green Way, Stop 0-3, Alexandria, VA 22312; and (D) submitted under cover letter that identifies PwC and PwCS as Respondents in these proceedings, the file number of these proceedings, a copy of which cover letter and money order or check shall be sent to Barry W. Rashkover, Esq., Associate Regional Director, Securities and Exchange Commission, Northeast Regional Office, 233 Broadway, New York, New York 10279.
+2. Before execution of any new value added fee agreement or any modification or clarification to an existing value added fee agreement for non-audit services, PwC's independence office will review the agreement (and/or modification or clarification) to ensure that any value added fee arrangement does not violate the independence rules promulgated by the AICPA and the Commission ("independence rules").
+For the purpose of these Undertakings, "fee agreement" means any written or oral arrangement or understanding for the payment of fees to PwC or its affiliates, including any contract, correspondence, or other document that memorializes or clarifies such arrangements or understandings; "non-audit services" means services rendered by PwC (or its affiliates) pursuant to an agreement with an SEC-registered audit client (or its affiliates) for consulting or other work that does not involve auditing or interim reviews of the client's financial statements; and "value added fees" means fees that the client, in its discretion, decides to pay PwC (or its affiliates) based upon the client's determination at the end of the engagement that the non-audit services warrant the payment of an additional fee.
+3. PwC will require an "independent reviewing partner" to review audits of SEC-registrants in which the client capitalizes PwC non-audit fees that are more than de minimis or records such fees as other than an expense.
+The reviews will be performed to ensure that PwC is independent, that the accounting for PwC non-audit fees is in conformity with GAAP, and that PwC's audit of the accounting for PwC non-audit fees was performed in accordance with GAAS.
+For the purpose of these Undertakings, "non-audit fees" means the payment by the audit client of any remuneration to PwC (or its affiliates) for the provision of non-audit services, including payment for labor, equipment, materials, and expenses.
+4. PwC will require an "independent reviewing partner" to review at least 5% of all other PwC audits of SEC-registrants in addition to those specified in Paragraph 3, above.
+With respect to reviews subject to this paragraph, the "independent reviewing partner" will perform the concurring partner review procedures required by the AICPA SEC Practice Section.
+In selecting the other audits that will be reviewed, PwC will develop enhanced risk rating scores that give consideration to the following circumstances and factors:
+(a) the relationship and magnitude of PwC audit and non-audit fees; and
+(b) situations in which the chief executive officer, chief financial officer, or controller of the client (or a principal subsidiary of the client) is a former PwC audit partner or manager whose employment with PwC ceased no more than three years prior to the fiscal period subject to the audit.
+5. PwC will adopt and implement written procedures for the "independent reviewing partner" to conduct the reviews required by Paragraphs 3 and 4, above, which shall include at least the following:
+(a) designation of "independent reviewing partners" from among the Risk Management partners who devote substantial time to risk management functions and who also report to someone outside the performing office to which the audit engagement partner reports, and the "independent reviewing partners" will report to senior partners in the Risk Management function with respect to the reviews required by Paragraphs 3 and 4 above; and
+(b) documentation maintained in the audit work papers that evidences the procedures, findings, and conclusions of the reviews conducted by the independent reviewing partners.
+6.
+PwC will provide for annual training for all professionals on auditor independence issues.
+7.
+PwC will distribute a copy of this Order to all of its partners and principals within 10 business days after entry of the Order.
+8.
+Upon written request and good cause being shown, the Commission staff may grant PwC such additional time as the Commission staff deems necessary to comply with the above Undertakings.
+By the Commission.
+Jonathan G. Katz
+Secretary
+Footnotes
+1
+Rule 102(e)(1) of the Commission's Rules of Practice, 17 C.F.R. § 201.102(e), provides in pertinent part: The Commission may censure a person or deny, temporarily or permanently, the privilege of appearing or practicing before it in any way to any person who is found by the Commission ... to have engaged in . . . improper professional conduct.2
+The findings herein are made pursuant to Respondents' Offer and are not binding on any other person or entity in these or any other proceedings.
+3
+For its fiscal years ended December 31, 1999, 2000, and 2001, Pinnacle reported revenue of approximately $85 million, $176 million and $191 million, and net losses of $61 million, $124 million and $448 million, respectively.
+4
+For its fiscal years ended December 31, 1999, 2000, and 2001, Avon reported total revenues of approximately $5.3 billion, $5.7 billion and $5.9 billion, and net income of $302 million, $478 million and $430 million, respectively.
+5
+Effective November 21, 2000, the Commission promulgated more detailed auditor independence standards in amendments to Rule 2-01 of Commission Regulation S-X.
+Revision of the Commission's Auditor Independence Requirements, Sec. Rel. No. 34-43602, 2000 WL 1726933 (November 21, 2000) (the "New Rules").
+The New Rules expressly prohibit contingent fee arrangements with audit clients (17 C.F.R. § 210.2-01(c)(5) (prohibiting contingent fees),
+§ 210.2-01(f)(10) (defining contingent fees)).
+The contingent fees at issue here were all in place prior to November 21, 2000, but nonetheless come within the general prohibition in the then applicable AICPA Rule 302.
+6
+This action is only against PwC and PwCS and is not against the individual issuers that were public audit clients of PwC or C&L.
+This Order makes no allegations that any of these issuers materially misstated their financial statements during the period in which the issuer entered into, or received services under, a contingent fee arrangement with Respondents, by virtue of an engagement between the Broker-Dealer and the issuer.
+7
+Rule 302 defined a contingent fee as "a fee established for the performance of any service pursuant to an arrangement in which no fee will be charged unless a specified finding or result is attained, or in which the amount of the fee is otherwise dependent upon the finding or result of such service."
+8
+While AICPA Rule 302 prohibited contingent fees with audit clients of the Audit Firm, no regulatory restrictions prohibited the Broker-Dealer from having contingent fees with clients that were not audit clients.
+9
+In a June 27, 1996 letter to the Commission's Chief Accountant, C&L acknowledged that "because CLS is wholly-owned by C&L, CLS will be subject to the AICPA's, SEC's and C&L's own independence rules."
+10
+Pinnacle's financial statements included in its initial public filings following the Motorola Acquisition violated Exchange Act Section 13(a) and Rules 12b-20, 13a-1 and 13a-13 thereunder.
+In addition, Pinnacle's failure to maintain records that accurately accounted for its assets, liabilities and certain expenses violated Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act.
+In the Matter of Pinnacle Holdings, Inc., Exchange Act Release No. 45135 (December 6, 2001), at 8-9.
+11
+See In the Matter of Pinnacle Holdings, Inc., Exchange Act Release No. 45135 (December 6, 2001), at 6-8.
+12
+Pinnacle also improperly capitalized other costs totaling approximately $1.7 million.
+13
+Simultaneous with the issuance of this Order, the Commission issued a settled cease-and-desist order against Avon.
+See In the Matter of Avon Products, Inc., 34-46215.
+14
+Revenues generated from the cross-selling of non-audit services was one of the factors in determining the compensation of PwC audit partners.
+15
+AICPA Statement of Position ("SOP") 98-1, Accounting for the Costs of Computer Software Developed or Obtained for Internal Use; Statement of Financial Accounting Standards ("FAS") 121, Accounting for the Impairment of Long-Lived Assets and for Long-Lived Assets to be Disposed of.
+16
+This amount represents the costs remaining from the $42 million of total project costs after subtracting the $15 million write-down and approximately $639,000 for other items that Avon used for other purposes.
+17
+In addition, Avon also made misleading disclosures and omissions concerning the write-down in its first quarter 1999 and fiscal 1999 financial statements.
+PwC was a cause of Avon's misleading disclosures and omissions by suggesting language that Avon used to describe the write-down and by permitting the disclosure to be included in a footnote that itemized special charges of a business process redesign program that was not related to FIRST or the write-down.
+18
+Rule 10-10(d) of Regulation S-X, effective for fiscal quarters ended on or after March 15, 2000, specifies that interim financial statements included in quarterly reports on Form 10-Q must be reviewed by an independent accountant.
+http://www.sec.gov/litigation/admin/34-46216.htm
+Home | Previous Page
+Modified: 07/17/2002

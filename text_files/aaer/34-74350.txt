@@ -1,0 +1,575 @@
+---------------------Page 1---------------------
+
+                                                                                         
+ 
+                           UNITED STATES OF AMERICA 
+                                       Before the 
+                    SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No. 74350 / February 23, 2015 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No. 3639 / February 23, 2015 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-16399 
+                                               
+                                              
+                                              
+In the Matter of                             ORDER INSTITUTING PUBLIC 
+                                             ADMINISTRATIVE AND CEASE- 
+      Halpern & Associates LLC                AND-DESIST PROCEEDINGS 
+      and Barbara Halpern, CPA,               PURSUANT TO SECTIONS 4C AND 21C 
+                                              OF THE SECURITIES EXCHANGE ACT 
+Respondents.                                  OF 1934 AND RULE 102(e) OF THE 
+                                              COMMISSIONS RULES OF PRACTICE 
+ 
+ 
+ 
+                                                
+ 
+                                           I. 
+ 
+      The Securities and Exchange Commission (Commission) deems it appropriate that public 
+administrative and cease-and-desist proceedings be, and hereby are, instituted against Halpern & 
+Associates LLC and Barbara Halpern (collectively, Respondents) pursuant to Sections 4C1
+                                                                                   and 
+                                                 
+1
+      Section 4C provides, in relevant part:  
+ 
+             The Commission may censure any person, or deny, temporarily or permanently, 
+             to any person the privilege of appearing or practicing before the Commission in 
+             any way, if that person is found . . . (1) not to possess the requisite qualifications 
+             to represent others . . . (2) to be lacking in character or integrity, or to have 
+             engaged in unethical or improper professional conduct; or (3) to have willfully 
+             violated, or willfully aided and abetted the violation of, any provision of the 
+             securities laws or the rules and regulations thereunder. 
+ 
+                                             
+ 
+---------------------Page 2---------------------
+
+21C of the Securities Exchange Act of 1934 (Exchange Act) and Rule 102(e)(1)(ii) of the 
+Commissions Rules of Practice.  2
+                                    
+                                                   
+                                                II. 
+                                                   
+        The Commissions public official files disclose that, at all relevant times, Lighthouse 
+Financial Group, LLC   (Lighthouse or the firm) was registered with the Commission as a 
+broker-dealer. 
+ 
+                                                III. 
+ 
+       After an investigation, the Division of Enforcement and the Office of the Chief Accountant  
+allege that: 
+ 
+SUMMARY 
+ 
+            1. These proceedings arise out of Respondents improper professional conduct in their 
+audit of Lighthouses financial statements for the year ended December 31, 2009.  Those financial 
+statements were materially inaccurate in that they overstated the firms assets, because its securities 
+inventory as recorded in its financial statements was based on erroneous, and inflated, figures for 
+the size of its positions in certain securities, and understated the firms liabilities by omitting its 
+liabilities to one of the broker-dealers through which it engaged in proprietary trading.  Those errors 
+caused the firms reported net capital to be overstated by nearly $5 million, or over 350%.  
+Respondents egregiously failed in several ways to adhere to Generally Accepted Auditing Standards 
+(GAAS) and did not detect those errors in their audit of the financial statements.   
+ 
+RESPONDENTS 
+        
+       2.      Halpern & Associates LLC (H&A) is an accounting and auditing firm based 
+in Wilton, Connecticut.  H&A was founded in 1982, has been registered with the PCAOB since 
+2004 and has twelve employees.  Barbara Halpern is currently the sole owner and president of 
+H&A.  In 2014, H &A was the independent auditor to twenty-eight broker-dealers.  In addition to 
+serving as an independent auditor to broker -dealers and other entities, H&A provides tax advice 
+and, on a consulting basis, provides broker-dealers with the services of individuals licensed to act 
+
+                                                                                                                                                             
+        
+2
+       Rule 102(e)(1)(ii) provides, in pertinent part: 
+ 
+               The Commission may . . . deny, temporarily or permanently, the privilege of 
+               appearing or practicing before it . . . to any person who is found . . . to have 
+               engaged in unethical or improper professional conduct. 
+ 
+        
+
+                                                 2 
+                                                   
+---------------------Page 3---------------------
+
+as a broker-dealers financial and operations principal.  H&A acted as the independe nt auditor 
+for Lighthouse from 2002 until Lighthouse withdrew its registration as a broker-dealer in August 
+2010. 
+               
+       3.      Barbara Halpern, age 61, of Weston, Connecticut, was     the  engagement partner 
+on Lighthouses 2009 audit.  She is currently the sole owner and president of H&A; during the 
+relevant period she was the 95% owner.  During the relevant period, Barbara Halpern was a 
+certified public accountant licensed to practice in New York and Connecticut.  She is currently 
+licensed in Connecticut.  She has hel d a Series 27 license since 1998 and  a Series 54 license 
+since 1980.     
+               
+OTHER RELEVANT ENTITY  
+ 
+       4.      Lighthouse was registered with the Commission as a broker-dealer from August 2, 
+2000 until October 23, 2010.  In December 2010, Lighthouse filed a petition for liquidation under 
+the U.S. Bankruptcy Code.  At all relevant times, Lighthouses principal place of business was 
+New York, New York.  During the relevant period, Lighthouse acted as an introducing broker for 
+retail and institutional customers, engaged in proprietary trading and market-making, and acted as 
+an underwriter or placement agent for equity and bond issuances.  Lighthouse had clearing 
+arrangements with several clearing brokers, including Penson Financial Services, Inc. (Penson), 
+which at all relevant times was a registered broker-dealer with its principal place of business in 
+Dallas, Texas.   
+ 
+                                 FACTUAL ALLEGATIONS 
+                                                 
+Background 
+ 
+       5.     Section 15(c)(3) of the Exchange Act [15 U.S.C. § 78o(c)(3)] and Rule 15c3-1 
+thereunder [17 CFR 240.15c3-1] require that broker-dealers generally effecting transactions in 
+securities at all times have and maintain net capital.  The rule is designed to require a broker-
+dealer to maintain sufficient liquid assets to meet all obligations to customers and counterparties 
+and have adequate additional resources to wind down its business in an orderly manner without the 
+need for a formal proceeding if the firm fails financially.  The net capital rule requires different 
+minimum amounts of net capital based on the nature of a firms business and the method a firm 
+uses in computing its net capital.   
+ 
+       6.     To compute its net capital for purposes of Rule 15c3-1, a broker-dealer first 
+calculates its net worth, computed in accordance with generally accepted accounting principles 
+(GAAP), deducts the value of certain illiquid assets, and then adds back certain qualifying 
+subordinated loans.  The final step is to deduct certain specified percentages, or haircuts, from the 
+market value of the securities or other inventory it holds in its proprietary accounts.  Rule 15c3-1 
+prescribes differing haircut amounts for a variety of classes of securities and other allowable assets. 
+ 
+
+                                               3 
+                                                 
+---------------------Page 4---------------------
+
+       7.      Section 17(e) of the Exchange Act and Rule 17a-5 thereunder require registered 
+broker-dealers to file with the Commission annual audited reports containing, among other things, 
+the broker-dealers financial statements for the fiscal year, a calculation of its net capital at fiscal 
+year-end, and a report of an independent auditor on the financial statements. 
+ 
+       8.      On February 28, 2010, Lighthouse filed its annual audited report (Annual Audited 
+Report), which contained Lighthouses financial statements for the year ended December 31, 
+2009 (2009 financial statements).  The 2009 Annual Audited Report also contained H&As 
+report on the financial statements.     
+ 
+       9.      The 2009 financial statements overstated the firms net capital by approximately 
+$4.9 million, or over 350%.  The overstatement was primarily attributable to the following errors: 3
+                                                                                                   
+ 
+               a.     First, the financial statements overstated Lighthouses assets by incorrectly 
+                      including approximately $2,052,257 in long securities positions in the firms 
+                      proprietary accounts at Penson;4
+                                                       and 
+            
+               b.     Second, the financial statements understated Lighthouses liabilities by 
+                      omitting approximately $2,314,484  owed to Penson.  5
+                                                                               
+    
+Errors That Led to The Overstatement of Lighthouses Long Securities Positions and 
+Understatement of its Liabilities to Penson 
+ 
+       10.     The overstatement of the total market value of Lighthouses long securities positions 
+in its accounts at Penson was the result of the firms use of erroneous  and overstated  numbers of 
+shares of fifteen securities held in five accounts.  Lighthouse calculated the total market value of its 
+inventory in those accounts to be $3,489,971, whereas based on the actual size of the positions as 
+shown in Pensons records, the total market value of Lighthouses inventory in its Penson accounts 
+was only $1,437,714.  The 2009 financial statements thus overstated the value of Lighthouses long 
+securities positions by approximately $2,052,257. 
+ 
+
+                                                 
+3
+       The firms reported net capital was also overstated as result of the application of erroneous 
+       and insufficient haircuts to Lighthouses assets.  
+ 
+4
+       The $2,052,257 figure also takes into account a $251,31  7 understatement of the value of the 
+       firms long securities position that resulted from Lighthouses failure to include any of the 
+       inventory in one of the firms proprietary accounts. 
+ 
+5
+       In addition to the amounts due to Penson discussed at paragraph 11 below, this figure 
+       includes a $113,002 understatement of Lighthouses exposure on short positions in 
+       Penson accounts. 
+  
+
+                                                4 
+                                                  
+---------------------Page 5---------------------
+
+       11.    The 2009 financial statements also understated, by approximately $2,314,484, 
+Lighthouses payables to brokers as a result of the firms failure to include negative balances in a 
+Lighthouse account at Penson.  The account, named Lighthouse Financial Group F/X Account 
+(F/X account), was one of several Lighthouse administrative accounts at Penson that were used to 
+hold deposits, resolve failed settlement transactions, and pay clearing balances.  Positive balances 
+in those accounts represented amounts due from                                       Penson to Lighthouse while negative balances 
+represented amounts due to Penson from Lighthouse.   
+ 
+The Audit of Lighthouses 2009  Financial Statements  
+ 
+       12.    In its Independent Auditors report, which was authorized for issuance by Barbara 
+Halpern, H&A stated that it had audited Lighthouses 2009 financial statements in accordance with 
+GAAS and expressed its opinion that the financial statements fairly presented, in all material 
+respects, the financial position of Lighthouse as of December 31, 2009.  As the engagement partner 
+on the audit, Barbara Halpern was responsible for supervising the audit and she signed off on all 
+the work papers.  
+     
+       13.    In fact, the audit was not conducted in accordance with GAAS and the financial 
+statements contained in the 2009 Annual Audited Report did not fairly present, in all material 
+respects, the financial position of Lighthouse as of December 31, 2009 because they reflected the 
+errors described above.    
+ 
+       14.    The audit was not conducted in accordance with GAAS because, among other 
+things, Respondents failed to adhere to the most fundamental GAAS requirements:  the 
+requirement to exercise due professional care in planning and performing the audit, which includes 
+the requirements to properly staff and supervise the audit, to obtain sufficient appropriate audit 
+evidence to support the auditors opinion, and to exercise professional skepticism in evaluating the 
+audit evidence obtained.  
+  
+       15.    Respondents failed to exercise due care in planning the Lighthouse auditand 
+performing the Lighthouse audit, as the auditing standards require.  AU § 230.01.  The requirement 
+to exercise due professional care includes the requirement to staff the audit appropriately:  
+Auditors should be assigned to tasks and supervised commensurate with their level of knowledge, 
+skill, and ability so that they can evaluate the audit evidence they are examining.  AU § 230.06.6
+                                                                                                 
+The individual who was  responsible for the testing of Lighthouses securities inventory and its 
+balances with banks and brokers  the senior auditor  lacked the knowledge necessary to 
+evaluate the audit evidence obtained concerning Lighthouses proprietary trading.  At the time of 
+the audit, he had only been with H&A for six months, had only six months of experience doing 
+audit work of any kind, had never audited a broker-dealer, had no understanding of Lighthouses 
+
+                                                 
+6
+       Citations to AU are citations to Statements on Auditing Standards  in effect at the time 
+       of the audit.  Those statements were issued by the Auditing Standards Board of the 
+       American Institute of Certified Public Accountants (AICPA). 
+
+                                                5 
+                                                 
+---------------------Page 6---------------------
+
+proprietary trading, and was not familiar with the professional literature concerning auditing 
+broker-dealers.  By assigning the senior auditor the critical responsibility of testing Lighthouses 
+securities inventory and its balances with banks and brokers despite his lack of knowledge in these 
+areas, and by failing to properly supervise him, Respondents failed to exercise due care in planning 
+and performing the audit.   
+ 
+       16.    Respondents also failed to obtain sufficient appropriate audit evidence concerning 
+Lighthouses inventory held at Penson and the firms balances with Penson.  The audit team sent 
+Penson an open, i.e. blank, confirmation request seeking [a]n itemized statement for each of 
+[Lighthouses] accounts with you showing security positions and balances as of December 31, 
+2009.  Penson did not send anything to the audit team concerning the proprietary trading 
+accounts.   Penson did send monthly account statements for the F/X account and the other 
+administrative accounts to the audit team.  Because the monthly statements reported on a 
+settlement date basis and Lighthouses financial statements reported on a trade date basis, the audit 
+team did not view them as appropriate audit evidence.   
+ 
+       17.    Having been unable to confirm  the firms inventory and balances,   Respondents 
+should have performed alternative procedures adequate to obtain sufficient appropriate audit 
+evidence to support an unqualified opinion, AU § 330.31(When the auditor has not received 
+replies to positive confirmation requests, he or she should apply alternative procedures to the 
+nonresponses to obtain the evidence necessary to reduce audit risk to an acceptably low level.), 
+but they failed to do so.   
+ 
+       18.     The alternative procedure chosen by Barbara Halpern was to rely on information 
+provided by Lighthouse, which the audit team mistakenly  and unreasonably  viewed as 
+information obtained from Penson.  Specifically, Barbara Halpern and the senior auditor obtained 
+from Lighthouse schedules of the firms December 31, 2009 trade date  inventory at Penson and 
+trade date money balances with Penson.  The y referred to those schedules  incorrectly  as a 
+screen print and a screen shot of on-line Penson reports.  
+        
+       19.    Respondents failed to exercise due care and professional skepticism in considering 
+the reliability of those client-provided records, and they failed to obtain audit evidence about their 
+accuracy and completeness. 
+        
+The Audit Procedures Regarding Lighthouses Securities Positions 
+ 
+       20.    The purported screen shot of a Penson trade date inventory report provided by 
+Lighthouse was not a confirmation because it was not a communication received directly from a 
+third party.   AU § 330.04 (Confirmation is the process of obtaining and evaluating a direct 
+communication from a third party in response to a request for information about a particular item 
+affecting financial statement assertions.) 
+        
+       21.    The purported screen shot of a Penson inventory report was also not in fact a report 
+obtained from Pensons website but rather a schedule that Lighthouse personnel had created.  As a 
+
+                                                6 
+                                                 
+---------------------Page 7---------------------
+
+client-produced record, in order to provide sufficient appropriate audit evidence for the existence 
+of the securities on the balance sheet, the inventory schedule needed to be    but was not  
+subjected to audit procedures.  AU §326.08 (Audit evidence is more reliable when it is obtained 
+from knowledgeable independent sources outside the entity.).  Respondents failed to consider the 
+reliability of the information.  AU § 326.09 (The auditor should consider the reliability of the 
+information to be used as audit evidence, for example, photocopies; facsimiles; or filmed, 
+digitized, or other electronic documents, including consideration of controls over their preparation 
+and maintenance where relevant. ).  Moreover, Respondents failed to obtain audit evidence about 
+the accuracy and completeness of the client-produced record. AU § 326.10 (When information 
+produced by the entity is used by the auditor to perform further audit procedures, the auditor 
+should obtain audit evidence about the accuracy and completeness of the information.).   
+ 
+       22.    Respondents failed to perform adequate procedures to determine whether 
+Lighthouses accounts at Penson actually held the securities listed on the inventory schedule, 
+whether the share quantities shown on the schedule were accurate, or whether Lighthouse had 
+additional securities positions at Penson that were not shown on the schedule.  Relatedly, they 
+failed to perform adequate procedures to test their belief that the schedule was in fact a copy of a 
+Penson-created record.  In fact, the schedule was not a copy of a Penson-created record and it 
+overstated the size of fifteen of the firms long securities positions in its accounts at Penson, and 
+thus overstated Lighthouses assets by approximately $2 million. 
+        
+       23.    Barbara Halpern knew that the purported screen shot of a Penson inventory report 
+had been provided by the client.  She failed to exercise due care and professional skepticism in 
+evaluating the quality of that audit evidence and thus its sufficiency and appropriateness to support 
+the auditors opinion.  
+        
+       The Audit Procedures Regarding Lighthouses Balances with Penson  
+ 
+       24.    The 2009 financial statements included among Lighthouses assets monies due 
+from Penson to Lighthouse in connection with transactions in five currencies in the F/X account.  
+The financial statements failed to include, however, amounts due to Penson from Lighthouse.  
+Those unreported liabilities totaled $2,314,484.  
+ 
+       25.    The balances in the F/X account appeared on a variety of Penson reports including 
+the December monthly account statements, copies of which Penson had sent directly to 
+Respondents in response to a confirmation request.  Having concluded that the account statements 
+were not sufficient appropriate audit evidence because they reported on a settlement date, rather 
+than trade date, basis, and having been unable to obtain a reconciliation of the statements and 
+Lighthouses trade date records, the senior auditor and Barbara Halpen disregarded the account 
+statements in testing Lighthouses balances with Penson.  
+ 
+       26.     To test Lighthouses money balances with Penson, Barbara Halpern and the senior   
+auditor relied on a document bearing the title Penson Money Line, which they knew had been 
+
+                                                7 
+                                                 
+---------------------Page 8---------------------
+
+provided by Lighthouse personnel.  The senior auditor labelled the document screen print and 
+Respondents treated the document as a screen shot of a report obtained from Pensons website.  
+ 
+       27.    The purported screen print of a Penson money line report provided by Lighthouse 
+was not a confirmation because it was not a communication directly from a third party.   AU § 
+330.04 (Confirmation is the process of obtaining and evaluating a direct communication from a 
+third party in response to a request for information about a particular item affecting financial 
+statement assertions.) 
+ 
+       28.    The purported screen print of a Penson money line report was also not obtained 
+from Pensons website, but instead was a schedule prepared by Lighthouse personnel.  As a client-
+produced record, in order to provide sufficient appropriate audit evidence for the accuracy and 
+completeness of Lighthouses balances with Penson on the balance sheet, the purported screen 
+print needed to be   but was not  subjected to audit procedures.  AU §326.08 (Audit evidence is 
+more reliable when it is obtained from knowledgeable independent sources outside the entity.); 
+AU § 326.09 (The auditor should consider the reliability of the information to be used as audit 
+evidence, for example, photocopies; facsimiles; or filmed, digitized, or other electronic documents, 
+including consideration of controls over their preparation and maintenance where relevant.); AU § 
+326.10 (When information produced by the entity is used by the auditor to perform further audit 
+procedures, the auditor should obtain audit evidence about the accuracy and completeness of the 
+information.).   
+ 
+       29.    Barbara Halpern was aware that there were differences between the  balances shown 
+on Lighthouses records and the balances shown on the December monthly account statements that 
+the audit team had received from Penson.  Lighthouses records showed only positive balances, i.e.                               
+amounts due to Lighthouse from Penson.  For the F/X account, they showed a total positive trade 
+date balance for the account of $2,284,644, whereas the account statements for the F/X account 
+reported a total value for the account of negative $22,305. 
+                                                         The December monthly account 
+statements also showed that, in addition to positive balances, there were negative balances in the 
+F/X account totaling approximately $2.3 million.7
+                                                   
+ 
+       30.    Barbara Halpern assumed that the differences she could not account for were the 
+result of pending trades, i.e. trades that had been executed but had not yet settled.  She did not 
+request a pending trade report from Penson or otherwise attempt to verify this assumption, however.   
+ 
+       31     Nevertheless, the December account statements for the F/X account  which 
+Respondents had obtained from Penson  reported pending trades.  Specifically, the account 
+statements showed that there was only one trade pending settlement on December 31, 2009 for the 
+
+                                                 
+7
+       For the F/X account, there were multiple positive and multiple negative balances because 
+       balances were calculated separately for each different currency.  The Penson account 
+       statements, like the schedule prepared by Lighthouse, reported the balances in both local 
+       currency and U.S. Dollars.  
+
+                                                8 
+                                                 
+---------------------Page 9---------------------
+
+F/X account: a transaction in Euros at a total cost in U.S. dollars of only $42,838, which would not 
+account for the discrepancies known to Barbara Halpern.   
+ 
+       32.    After receiving from Lighthouse the purported screen print of a Penson money line 
+report that reflected only positive balances, Barbara Halpern failed to perform, or to have the audit 
+team perform, adequate procedures to test her belief that the client-produced document was in fact 
+a copy of a Penson-created record.   She also failed to perform, or have the audit team perform, 
+adequate procedures to test whether Lighthouse in fact had no negative balances with Penson or 
+that it had positive balances in the amounts shown on the purported screen print.  In fact, the 
+purported screen print she relied upon was not a copy of a Penson-created record and on December 
+31, 2009, Lighthouse had negative              balances in the F/X account totaling approximately $2,314,484 
+in addition to the positive balances that appeared on the purported screen shot that had been 
+supplied by the client.    
+        
+       33.    Barbara Halpern knew that the purported screen print of a Penson money line report 
+had been provided by the client.  She nevertheless relied upon the document without testing the 
+completeness and accuracy of the information and without understanding what criteria had been 
+used to generate the document.  By relying upon a client-produced record without obtaining audit 
+evidence about its accuracy and completeness, Barbara Halpern failed to exercise due care and 
+professional skepticism in considering the reliability of that information and its sufficiency and 
+appropriateness to support the auditors opinion.  
+        
+                                     LEGAL ANALYSIS 
+                                                 
+Respondents Engaged in Improper Professional Conduct and Caused Lighthouses Violations 
+of Section 17 of the Exchange Act and Rule17a-5(a) thereunder 
+ 
+       34.    As a result of the conduct described above, Respondents engaged in improper 
+professional conduct.  Regarding accountants, Rule 102(e)(1)(iv)(B) and Section 4C(b) provide 
+that the following two types of negligent conduct may constitute improper professional conduct: 
+        
+       (1)    A single instance of highly unreasonable conduct that results in a violation of 
+              applicable professional standards in circumstances in which an accountant knows, 
+              or should know, that heightened scrutiny is warranted, or 
+        
+       (2)    Repeated instances of unreasonable conduct, each resulting in a violation of 
+              applicable professional standards, that indicate a lack of competence to practice 
+              before the Commission. 
+        
+Applicable professional standards for auditors primarily refers to GAAP, GAAS, the AICPA 
+Code of Professional Conduct, and Commission regulations.  See Amendment to Rule 102(e) of the 
+Commissions Rules of Practice, Securities Act Release No. 7593 (Oct. 19, 1998) (Rule 102(e) 
+Release).  With respect to audits of broker-dealer financial statements, the GAAS in effect during 
+the relevant period is embodied in various Statements on Auditing Standards (SAS), as well as 
+
+                                               9 
+                                                 
+---------------------Page 10---------------------
+
+the Codification of Statements on Auditing Standards, both issued by the Auditing Standards 
+Board of the AICPA.  
+ 
+       35.     Barbara Halpern failed to adhere to the most fundamental auditing standards:  the 
+standards that require an auditor to exercise due professional care in planning and performing an 
+audit, AU § 230.01, by properly staffing and supervising the audit, AU § 230.06, by obtaining 
+sufficient appropriate audit evidence, AU § 326.01, and by maintaining an attitude of professional 
+skepticism, which includes a questioning mind and a critical assessment of audit evidence[,] AU 
+§§ 230.07-08.  An auditor must obtain sufficient appropriate audit evidence by performing audit 
+procedures to afford a reasonable basis for an opinion regarding the financial statements under 
+audit.  AU § 326.01.  The auditor should use professional judgment and should exercise 
+professional skepticism in evaluating the quantity and quality of audit evidence, and thus its 
+sufficiency and appropriateness, to support the audit opinion. AU § 326.13.   
+ 
+       36.     Barbara Halpern also failed to adhere to auditing standards concerning 
+confirmation, AU § 330, the reliability of audit evidence, including audit evidence in the form of 
+electronic documents, AU § 326.09, and audit evidence provided by the client, AU §326.08, and 
+the need to obtain audit evidence about the completeness and accuracy of client-produced 
+information used to perform audit procedures.  AU § 326.10.  
+ 
+       37.     As a result of the conduct alleged above, Barbara Halpern failed to adhere to GAAS 
+in planning and performing the audit of Lighthouses 2009 financial statements and preparing the 
+audit report on those statements.  Moreover, those failures occurred in the most critical areas of the 
+audit  the testing of Lighthouses holdings in its proprietary accounts and its liabilities to one of 
+the broker-dealers through which it engaged in proprietary trading.   
+        
+       38.     Accordingly, Barbara Halpern engaged in at least a single instance of highly 
+unreasonable or, at a minimum, repeated instances of unreasonable conduct within the meaning of 
+Rule 102(e)(1)(iv)(B).   
+        
+       39.     Barbara Halperns improper professional conduct may be attributed to H&A.   
+ 
+       40.     Section 17 of the Exchange Act requires registered broker-dealers to make and 
+disseminate certain financial and operational reports.  Rule 17a-5(a) requires that certain broker-
+dealers file an annual audited report that contains the broker-dealers year-end financial statements 
+and a report on those statements by an independent auditor.  Implicit in the requirement that a 
+registered broker-dealer file financial reports is the requirement that the information contained in 
+those reports be accurate.  See Nikko Securities Co. International, Inc., Exchange Act Release No. 
+32331 (May 19, 1993).   
+ 
+       41.     As described above, Lighthouse failed to file an accurate annual audited report for 
+the year ended December 31, 2009.   The firm therefore violated Section 17 and Rule 17a-5(a) 
+thereunder. 
+        
+
+                                               10 
+                                                 
+---------------------Page 11---------------------
+
+       42.    As a result of the conduct alleged above, Respondents were each a cause of 
+Lighthouses violations of Section 17 of the Exchange Act and Rule17a-5(a) thereunder. 
+        
+                                              IV. 
+        
+       In view of the allegations made by the Division of Enforcement and the Office of the Chief 
+Accountant, the Commission deems it necessary and appropriate that public administrative and 
+cease-and-desist proceedings be instituted to determine: 
+        
+       Whether the allegations set forth in Section III hereof are true and, in connection therewith, 
+to afford Respondents an opportunity to establish any defenses to such allegations;  
+        
+       What, if any, remedial action is necessary and appropriate against Respondents pursuant to 
+Rule 102(e) of the Commissions Rules of Practice; and 
+        
+       Whether, pursuant to Section 21C of the Exchange Act, Respondents should be ordered to 
+cease and desist from committing or causing violations and any future violations of Section 17 of the 
+Exchange Act and Rule 17a-5 thereunder and whether Respondents should be ordered to pay 
+disgorgement pursuant to Section 21C(e) of the Exchange Act.    
+                                                 
+                                               V. 
+        
+       IT IS ORDERED that a public hearing for the purpose of taking evidence on the questions 
+set forth in Section IV hereof shall be convened not earlier than 30 days and not later than 60 days 
+from service of this Order at a time and place to be fixed, and before an Administrative Law Judge 
+to be designated by further order as provided by Rule 110 of the Commissions Rules of Practice, 
+17 C.F.R. § 201.110.   
+        
+       IT IS FURTHER ORDERED that Respondents shall file an Answer to the allegations 
+contained in this Order within twenty (20) days after service of this Order, as provided by Rule 220 
+of the Commissions Rules of Practice, 17 C.F.R. § 201.220.  
+        
+       If Respondents fail to file the directed answer, or fail to appear at a hearing after being duly 
+notified, they may be deemed in default and the proceedings may be determined against them upon 
+consideration of this Order, the allegations of which may be deemed to be true as provided by Rules 
+155(a), 220(f), 221(f), and 310 of the Commissions Rules of Practice, 17 C.F.R. §§ 201.155(a), 
+201.220(f), 201.221(f), and 201.310. 
+        
+       This Order shall be served forthwith upon Respondents as provided for in the 
+Commissions Rules of Practice. 
+        
+       IT IS FURTHER ORDERED that the Administrative Law Judge shall issue an initial 
+decision no later than 300 days from the date of service of this Order, pursuant to Rule 360(a)(2) of 
+the Commissions Rules of Practice.  
+        
+                                               11 
+                                                 
+---------------------Page 12---------------------
+
+       In the absence of an appropriate waiver, no officer or employee of the Commission engaged 
+in the performance of investigative or prosecuting functions in this or any factually related 
+proceeding will be permitted to participate or advise in the decision of this matter, except as witness  
+or counsel in proceedings held pursuant to notice.  Since this proceeding is not rule making 
+within the meaning of Section 551 of the Administrative Procedure Act, it is not deemed subject to 
+the provisions of Section 553 delaying the effective date of any final Commission action. 
+        
+        
+       By the Commission. 
+ 
+ 
+ 
+                                                     Brent J. Fields 
+                                                     Secretary 
+                                                  
+ 
+ 
+ 
+
+                                                12 
+                                                  

@@ -1,0 +1,1176 @@
+﻿---------------------Page 1---------------------
+
+                     SECURITIES AND EXCHANGE COMMISSION
+ 
+                                    Washington, D.C.
+ 
+
+SECURITIES EXCHANGE ACT OF 1934 
+Rel. No. 67900 / September 20, 2012 
+
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Rel. No. 3407 / September 20, 2012 
+
+Admin. Proc. File No. 3-14323 
+
+                    In the Matter of
+ 
+
+            MICHAEL C. PATTISON, CPA
+ 
+                 c/o Patrick J. Richard
+ 
+                   James H. Vorhis
+ 
+                    Nossaman LLP
+ 
+            50 California Street, 34th Floor
+ 
+               San Francisco, CA  94111
+ 
+
+OPINION OF THE COMMISSION 
+
+      RULE 102(e) PROCEEDING 
+
+             Grounds for Remedial Action
+ 
+
+                    Civil Injunction
+ 
+
+      Certified public accountant was permanently enjoined from violating internal accounting 
+      controls and books and records provisions of the federal securities laws.  Held, it is in the 
+      public interest to permanently disqualify respondent from appearing or practicing before 
+      the Commission as an accountant. 
+
+APPEARANCES: 
+
+      Patrick J. Richard and James H. Vorhis, of Nossaman LLP, for Michael C. Pattison, 
+      CPA. 
+
+      Marc J. Fagel, Susan F. LaMarca, and Robert L. Tashjian, for the Division of 
+Enforcement. 
+---------------------Page 2---------------------
+
+                                                2
+ 
+
+Appeal filed:  October 21, 2011 
+Last brief received:  January 26, 2012 
+                                                I. 
+       Michael C. Pattison, a certified public accountant ("CPA") and former Controller of 
+<comp.>Embarcadero Technologies, Inc.</> ("Embarcadero") from January 2000 through July 2005, appeals 
+from an initial decision of an administrative law judge.1 
+                                                          The law judge decided this matter based 
+on cross-motions for summary disposition, granting the Division's motion and denying Pattison's 
+motion.  The law judge found that Pattison was enjoined from violating internal accounting 
+controls and books and records provisions of the federal securities laws and permanently denied 
+him the privilege of appearing or practicing before the Commission pursuant to Rule 102(e)(3) of 
+the Commission's Rules of Practice. 2 
+                                       We base our findings on an independent review of the 
+record, except with respect to those findings not challenged on appeal. 
+
+                                               II. 
+
+A.     District Court Injunctive Proceeding 
+
+       On September 24, 2010, following a civil trial in the United States District Court for the 
+Northern District of California, a jury found that Pattison violated Section 13(b)(5) of the 
+Securities Exchange Act of 1934  and Exchange Act Rule 13b2-1  in connection with Pattison's34
+involvement in backdating stock options. 5 
+                                            On June 9, 2011, the District Court issued a corrected 
+order finding that the jury's verdict was "supported by substantial evidence in the record," and 
+
+       1 
+               Michael C. Pattison, CPA, Initial Decision Rel. No. 434 (Sep. 29, 2011), 102 SEC 
+Docket 46456. 
+       2 
+               17 C.F.R. § 201.102(e)(3). 
+       3 
+               Exchange Act Section 13(b)(5) provides that "[n]o person shall knowingly 
+circumvent or knowingly fail to implement a system of internal accounting controls or knowingly 
+falsify any book, record, or account described in paragraph (2)."  15 U.S.C. § 78m(b)(5).  Section 
+13(b)(2)(A) and (B), respectively, require that every issuer subject to the statute make and keep 
+books, records, and accounts which, in reasonable detail, accurately and fairly reflect the 
+transactions and dispositions of the issuer's assets, and devise and maintain a system of internal 
+accounting controls sufficient to provide reasonable assurances that transactions and assets are 
+handled as prescribed in the statute.  15 U.S.C. §§ 78m(b)(2)(A) and (B).  
+       4 
+               Exchange Act Rule 13b2-1 provides that "[n]o person shall directly or indirectly, 
+falsify or cause to be falsified, any book, record or account" subject to Section 13(b)(2)(A).  
+17 C.F.R. § 240.13b2-1.  See also supra note 3. 
+       5 
+               The jury did not find Pattison liable on claims that he had violated or aided and 
+abetted violations of antifraud provisions or aided and abetted violations of reporting provisions 
+of the federal securities laws. 
+---------------------Page 3---------------------
+
+                                               3
+ 
+
+denying Pattison's motions for judgment as a matter of law and a new trial.6 
+                                                                            On that same date, 
+the District Court entered a separate corrected final judgment against Pattison, permanently 
+enjoining him from violating Exchange Act Section 13(b)(5) and Exchange Act Rule 13b2-1.    7 
+                                                                                              
+The District Court ordered Pattison to disgorge $74,446 and pay a civil money penalty of 
+$50,000.  Pattison has appealed the District Court's final judgment to the United States Court of 
+Appeals for the Ninth Circuit.8 
+                                That appeal is pending.  The District Court's findings are 
+summarized below. 
+
+       1.     Embarcadero and its Employee Stock Option Policy 
+
+       Embarcadero is a software company headquartered in San Francisco, California.  In 
+April 2000, Embarcadero held an initial public offering and remained a publicly-traded company 
+through June 2007.  From <date.>late 2000</> until the <date.>third quarter of 2004</>, Embarcadero's chief 
+executive officer ("CEO"), Stephen Wong, granted <item.>stock options</> to employees pursuant to 
+authorization from the company's Compensation Committee.  
+
+       A stock option "is the right to purchase a share of stock from a company at a fixed price, 
+referred to as the 'strike price,' on or after a specified vesting date."9 
+                                                                    A recipient who exercises 
+the option by purchasing stock from the company at the strike price is then free to sell the same 
+stock at its current market price.10 
+                                   Companies generally grant stock options with a strike price 
+
+       6 
+              SEC v. Michael C. Pattison, Corrected Order Denying Plaintiff's Motion to Strike; 
+Denying Defendant's Motion for Judgment as a Matter of Law; and Denying Defendant's Motion 
+for a New Trial, No. C-08-4238 EMC (N.D. Cal. June 9, 2011) (amending order issued on 
+Feb. 22, 2011). 
+       7 
+              SEC v. Michael C. Pattison, Corrected Order and Judgment Granting Motion for 
+Entry of Final Judgment, No. C-08-4238 EMC (N.D. Cal. June 9, 2011) (amending order issued 
+on Feb. 23, 2011). 
+       8 
+              SEC v. Raj P. Sabhlok and Michael C. Pattison, No. C-08-4238 EMC (N.D. Cal. 
+July 28, 2011).  Sabhlok, the other party in the complaint, was Embarcadero's Chief Financial 
+Officer during the period at issue and consented to an injunction from violating or aiding and 
+abetting the violation of various reporting, recordkeeping, internal controls, and antifraud 
+provisions of the federal securities laws, a $200,000 civil money penalty, and a $300,000 
+forfeiture under Section 304(a) of the Sarbanes-Oxley Act of 2002, 15 U.S.C. § 7243(a).  SEC v. 
+Raj P. Sabhlok and Michael C. Pattison, No. C-08-4238 CRB  (N.D. Cal. Apr. 21, 2010). 
+       9 
+              United States v. Reyes, 577 F.3d 1069, 1073 (9th Cir. 2009). 
+       10 
+              SEC v. Jasper, 678 F.3d 1116, 1119 (9th Cir. 2012) (citation omitted). 
+---------------------Page 4---------------------
+
+                                                4
+ 
+
+equal to the market price on the date the stock option is granted.11 
+                                                                   "Backdating" stock options 
+refers to "the practice of recording an option's grant date and strike price retrospectively."12 
+                                                                                           
+Where the backdating results in a strike price that is lower than the fair market value of the stock 
+on the date of the actual grant, the option is referred to as "in the money" because it has 
+immediate positive value on that date.13 
+                                        
+
+       Pattison, who had been a practicing accountant since 1987, was the only licensed CPA in 
+Embarcadero's Finance Department and served as the company's Controller from January 2000 
+through July 2005.  As Controller, Pattison oversaw Embarcadero's day-to-day accounting 
+functions and was responsible for communicating with auditors and preparing financial 
+statements that were filed with the Commission. 14 
+                                                   During that time, he was also responsible for 
+"recording all equity account activity," including activity related to the issuance of stock options 
+to employees. 
+  
+       Embarcadero's stock option plan, which was approved by the Board of Directors and 
+stockholders in February 2000, governed the manner in which the company issued and accounted 
+for stock options.  In that plan, Embarcadero adopted an accounting convention promulgated in 
+1972 referred to as the Accounting Principles Board Opinion No. 25 ("APB 25").  Under APB 
+25, a company granting an in-the-money stock option is required "to record an expense for the 
+'profit,' treated as compensation to the option recipient over the [option's] vesting period."15 
+                                                                                             In 
+other words, the benefit to the option recipient is recorded on the company's corporate books and 
+
+       11 
+               Reyes, 577 F.3d at 1073. 
+       12 
+               Id.; see also New Mexico State Inv. Council v. Ernst & Young LLP, 641 F.3d 
+1089, 1093 (9th Cir. 2011) ("Backdating of options occurs when a company's officers or 
+directors responsible for administering the [company's] stock option plan monitor the price of the 
+company stock and then award a stock option grant as of a certain date in the past when the share 
+price was lowest, thus locking in the largest possible gain for the option recipient."). 
+       13 
+               See SEC v. Berry, 580 F. Supp. 2d 911, 913 n.2 (N.D. Cal. 2008).  If a stock 
+option is issued at a strike price equal to the fair market value of the stock on the date of the 
+actual grant, then the option is "at the money," whether or not backdating has occurred.  See SEC 
+v. Reyes , 491 F. Supp. 2d 906, 908 (N.D. Cal. 2007). 
+       14 
+               Because the company's stock was registered with the Commission pursuant to 
+Exchange Act Section 12(g) and traded on Nasdaq, Exchange Act Section 13 required 
+Embarcadero to file with the Commission annual reports (Form 10-K) that included audited 
+financial statements and quarterly reports (Form 10-Q).  15 U.S.C. § 78m. 
+       15 
+               New Mexico State Inv. Council, 641 F.3d at 1093, 1096. 
+---------------------Page 5---------------------
+
+                                               5
+ 
+
+in the company's financial statements as a non-cash compensation expense. 16 
+                                                                              Otherwise, "the 
+company's reported net income is overstated for each of the years the options vest, potentially 
+deceiving the market and investors."17 
+                                       Pattison knew that under APB 25 "in-the-money" options 
+had to be reported as a compensation expense. 
+
+       Although Embarcadero adopted a method of accounting for in-the-money stock options, 
+Pattison knew that the company nevertheless understood that it had not and would not grant that 
+type of stock option.  For example, Embarcadero's legal counsel told Pattison that the company 
+would not backdate stock options.  Pattison drafted and distributed a July 1, 2002 internal 
+controls memorandum explaining that "since the IPO[,] no option has ever been issued at below 
+fair market value.  Therefore, there have been no additional deferred comp charges.  The 
+Company does not intend to issue below fair market value options in the future."  Pattison 
+authored another internal controls memorandum, dated March 14, 2003, in which he stated that 
+there would be no stock option grants below fair market value.  Pattison also knew that, 
+consistent with the memoranda and the advice provided by Embarcadero's legal counsel, 
+Embarcadero publicly stated that it had not granted in-the-money stock options.  For example, 
+Embarcadero stated in Forms 10-K covering fiscal years 2003 and 2002 that it adopted APB 25, 
+and that "[s]ince the date of the initial public offering, all stock options grants made during the 
+year were at fair market value, which is defined as the closing share price on the day prior to the 
+option grant date."   
+
+       2.     Pattison Did Not Properly Record Backdated Stock Option Grants 
+
+       From late 2000 through 2004, Wong nonetheless granted in-the-money stock options, and 
+Pattison did not properly record these transactions.  Near the end of each quarter, Pattison 
+compiled and sent to Wong a proposed list of employees who were to receive in-the-money stock 
+options.  These stock options were backdated, i.e., the date of the strike price on the stock option 
+was earlier than the date that Wong approved the grant.18 
+                                                          After receiving approval from Wong, 
+Pattison sent the information to E*Trade, which maintained Embarcadero's stock options data, 
+where he entered the backdated information instead of the date on which Wong approved the 
+grant.  E*Trade then entered the backdated information provided by Pattison into a database used 
+to track Embarcadero's stock option grants.  At Pattison's direction, an administrative assistant 
+prepared stock option agreements for Embarcadero's employees.  The assistant relied on the 
+backdated information in the E*Trade database to prepare the agreement. 
+
+       16 
+              Reyes, 577 F.3d at 1073. 
+       17 
+              New Mexico State Inv. Council, 641 F.3d at 1093; see also Jasper, 678 F.3d at 
+1120. 
+       18 
+              See supra notes 12 & 13 and accompanying text. 
+---------------------Page 6---------------------
+
+                                                6
+ 
+
+       Embarcadero's auditors reviewed the company's stock option activity each quarter.  In 
+connection with that review, Pattison provided the auditors with quarterly summaries of stock 
+option activity.  Although it was important to the auditors to know whether stock options were 
+backdated in connection with their review of the company's financial statements and disclosures, 
+neither the quarterly summaries that Pattison prepared for them nor Pattison himself informed the 
+auditors that stock options were backdated.  
+
+        At Wong's instruction, Pattison also "parked" stock options, i.e., reserved stock options 
+for later use by purportedly having assigned them to an employee.  For example, in April 2002, 
+Pattison represented through the E*Trade template and in a quarterly summary provided to the 
+auditors that a purported employee named Kent Scantland received 75,000 stock options. 
+Pattison knew, however, that Scantland was no longer an employee and that the stock options 
+were not intended for him.  When Pattison asked Wong what to do about "the 75K place marker 
+to Kent Scantland" and informed him that the auditors "tend[ed] to spend a fair deal of time on 
+the options," Wong replied, "If you can wipe it, then we should do so since it is out of the 
+money."  After the auditors tested the Scantland grant as part of their review, they recorded in 
+their workpapers Pattison's explanation that the Scantland grant had been an error and recorded 
+in the wrong place under the wrong name.  Pattison did not tell the auditors that Wong instructed 
+him to "sock away" stock options or to "wipe" the Scantland grant. 
+
+       Pattison parked stock options on a second occasion.  In May 2004, Embarcadero's Vice 
+President of Human Resources asked to speak with Pattison about an allegation that he "put some 
+options in an employee's account for another employee."  Pattison admitted that he did so, to 
+which the vice president responded that, "It is just wrong on so many levels."   
+
+       In 2006, Embarcadero's Audit Committee retained a law firm to conduct an internal 
+investigation after receiving a report from the company's auditors about past stock option grants. 
+Embarcadero's Board of Directors formed a "Special Committee" to analyze the company's past 
+stock options practices, "including all option grants from the Company's initial public offering in 
+April 2000 to August 2006 . . . ."  The Special Committee concluded that "about half" of the 
+"1,086 individual stock option grants on 119 different dates, representing more than 6.5 million 
+shares of common stock" "were misdated and mispriced from the time of the initial public 
+offering until March 2005."  On December 18, 2006, Embarcadero issued a press release 
+announcing the Audit Committee's conclusion that all of the company's previously issued 
+financial statements should not be relied upon.  Embarcadero thereafter filed a restatement of 
+certain portions of its financial statements variously covering fiscal years 2006 through 2002. 
+The restatement explained that as a result of the revised accounting for the options in question, 
+Embarcadero's stock-based compensation expense figures from the time of the initial public 
+offering in April 2000 through December 31, 2005 had been understated by a total of $14.6 
+million. 
+---------------------Page 7---------------------
+
+                                                7
+ 
+
+       3.      District Court Judgment 
+
+       The District Court found that 
+
+       [t]he weight of the evidence established that [Pattison] systematically backdated 
+       stock option grants on a regular basis, misrepresented the dates of actual 
+       approval by CEO Wong, failed to affirmatively disclose the practice to the Board 
+       and . . . auditors, and failed to insure that an accounting expense was taken for 
+       the . . . 'in-the-money' grants he facilitated.  The weight of the evidence also 
+       shows that he thereby circumvented internal controls against backdated options. 
+
+The District Court concluded that the "jury found that [Pattison] acted knowingly when he 
+falsified records and/or circumvented internal controls to make it appear that no stock option 
+grants were backdated and below fair market value."  The District Court enjoined Pattison from 
+violating Exchange Act Section 13(b)(5) and Exchange Act Rule 13b2-1, and ordered him to 
+disgorge $74,446 and pay a civil money penalty of $50,000. 
+
+B.     Administrative Proceedings 
+        
+       On April 5, 2011, based on the injunction, we issued an Order Instituting Proceedings 
+pursuant to Rule of Practice 102(e)(3)(i) and temporarily suspended Pattison from appearing or 
+practicing before the Commission. 19 
+                                      Pattison filed a timely petition to lift the temporary 
+suspension, which the Division of Enforcement opposed.   20 
+                                                            We denied Pattison's petition and 
+directed that a hearing be held before a law judge.21 
+                                                     After a prehearing conference, Pattison and 
+the Division each moved for summary disposition pursuant to Rule 250 of the Commission's 
+Rules of Practice.22 
+                     On September 29, 2011, an administrative law judge found there was no 
+genuine issue with regard to any material fact and granted the Division's motion pursuant to Rule 
+250.  The law judge found that the District Court "permanently enjoined Pattison from violating 
+federal securities laws, by reason of his misconduct, in an action brought by the Commission." 
+In determining the appropriate sanction, the law judge found it "in the public interest to 
+permanently disqualify Pattison from appearing or practicing before the Commission."  This 
+appeal followed. 
+
+       19 
+               17 C.F.R. § 201.102(e)(3)(i). 
+       20 
+               See 17 C.F.R. § 201.102(e)(3)(ii). 
+       21 
+               See 17 C.F.R. § 201.102(e)(3)(iii). 
+       22 
+               17 C.F.R. § 201.250. 
+---------------------Page 8---------------------
+
+                                                8
+ 
+
+                                               III. 
+
+       Rule of Practice 102(e) has been the primary tool available to the Commission to preserve 
+the integrity of its processes and ensure the competence of the professionals who appear and 
+practice before it.23 
+                     The Commission adopted the rule as a "means to ensure that those 
+professionals, on whom the Commission relies heavily in the performance of its statutory duties, 
+perform their tasks diligently and with a reasonable degree of competence."24 
+                                                                               The rule generally 
+enables the Commission to initiate administrative disciplinary proceedings against professionals 
+who do not possess the requisite qualifications to represent others, lack character or integrity, 
+engage in unethical or improper professional conduct, have violated or have been enjoined from 
+violating or aiding and abetting the violation of the federal securities laws, have had their license 
+to practice revoked or suspended, or have been convicted of a felony or misdemeanor involving 
+moral turpitude.25 
+                   The sanctions available in such proceedings include a censure, temporary 
+suspension, and permanent disqualification from practice before the Commission.   26 
+
+       In a proceeding under Rule 102(e)(3), the Division has the burden to show that the 
+petitioner has been permanently enjoined by a court of competent jurisdiction, by reason of his 
+misconduct in an action brought by the Commission, from violating or aiding and abetting the 
+violation of the federal securities laws, or has been found by a court of competent jurisdiction in 
+an action brought by the Commission, or by the Commission in an administrative proceeding, to 
+
+       23 
+               Chris G. Gunderson, Esq., Exchange Act Rel. No. 61234 (Dec. 23, 2009), 97 SEC 
+Docket 24040, 24046 (citing  Marrie v. SEC, 374 F.3d 1196, 1200 (D.C. Cir. 2004) (stating that 
+Rule of Practice 102(e) "is directed at protecting the integrity of the Commission's processes, as 
+well as the confidence of the investing public in the integrity of the financial reporting process"); 
+Touche Ross & Co. v. SEC, 609 F.2d 570, 582 (2d Cir. 1979) (stating that Rule of Practice 2(e), 
+the predecessor to Rule of Practice 102(e), "represents an attempt by the Commission to protect 
+the integrity of its own processes," and upholding the validity of Rule of Practice 2(e) as 
+"reasonably related" to the purposes of the federal securities laws). 
+       24 
+               Gunderson, 97 SEC Docket at 24046 (citing Touche Ross, 609 F.2d at 582). 
+       25 
+               See 17 C.F.R.  §§ 201.102(e)(1)-(3). 
+       26 
+               See 17 C.F.R.  §§ 201.102(e)(1), 201.102(e)(3)(iv). According to Rule of Practice 
+102(f), "practicing before the Commission" includes, but is not be limited to, "[t]ransacting any 
+business with the Commission," and "[t]he preparation of any statement, opinion or other paper 
+by any attorney, accountant, engineer or other professional or expert, filed with the Commission 
+in any registration statement, notification, application, report or other document with the consent 
+of such attorney, accountant, engineer or other professional or expert."  17 C.F.R. § 201.102(f). 
+---------------------Page 9---------------------
+
+                                                9
+ 
+
+have violated or aided and abetted the violation of the federal securities laws.27 
+                                                                                 Once that burden 
+has been met, the burden shifts to the petitioner to show cause why he should not be censured or 
+temporarily or permanently disqualified from appearing and practicing before the Commission.   28 
+                                                                                                  
+A petitioner in a Rule 102(e)(3) proceeding may not collaterally attack any finding made against 
+him or fact admitted by him the in the underlying proceeding.29 
+
+       Here, the Division satisfied its burden by showing that the District Court, a court of 
+competent jurisdiction, in an action brought by the Commission, found Pattison in violation of 
+internal accounting controls and books and records provisions of the federal securities laws and, 
+based on its findings, permanently enjoined him from violating those provisions.  The sole issues 
+therefore are whether Pattison has shown cause why he should not be sanctioned, and if he has 
+not, to determine the appropriate remedial sanction. 
+
+       Pattison, however, challenges the Division's right to bring this proceeding under Rule 
+102(e)(3).  He argues that "the Commission should be required to base any administrative 
+discipline, including a permanent suspension, under a subsection of Rule 102(e)(1)" because "any 
+other ruling leaves open the chance of administrative sanctions with no standard."  Pattison 
+points to Rule 102(e)(1)(ii), which permits the Commission to discipline an accountant for 
+"improper professional conduct," and to Rule 102(e)(1)(iv), which defines that term, with respect 
+to persons licensed to practice as accountants, to mean: 
+
+       (A) intentional or knowing conduct, including reckless conduct, that results in a 
+       violation of applicable professional standards; or 
+
+       (B) either of the following two types of negligent conduct:  
+
+               (1) a single instance of highly unreasonable conduct that results in a 
+       violation of applicable professional standards in circumstances in which an 
+       accountant knows, or should know, that heightened scrutiny is warranted. 
+
+       27 
+               17 C.F.R. § 201.102(e)(3)(iv); see also Gunderson, 97 SEC Docket at 24047. 
+       28 
+               Id. 
+       29 
+               17 C.F.R. § 201.102(e)(3)(iv); see also Gunderson, 97 SEC Docket at 24048 
+("Gunderson may not contest, in this administrative proceeding, the findings made against him 
+by the district court in the federal injunctive action."). 
+---------------------Page 10---------------------
+
+                                                10
+ 
+
+               (2) repeated instances of unreasonable conduct, each resulting in a 
+       violation of applicable professional standards, that indicate a lack of competence 
+       to practice before the Commission.  30 
+                                              
+
+From this, he concludes that "the conduct for which an accountant is disciplined must be done 
+with a certain level of mens rea." 
+
+       Pattison argues that proceeding under Rule 102(e)(3), as the Division did here, would 
+allow the Division to "seek discipline after  any permanent injunction, regardless of the level of 
+scienter involved in the underlying claim, or the type of claim" (emphasis in original).  He 
+characterizes as "immaterial" the citations by the Division and law judge to analogous 
+settlements under Rule 102(e)(3) because those matters were "not prosecuted through the 
+administrative tribunal."  Pattison states that he was entitled to summary disposition because the 
+Division failed to "provide notice of its basis for discipline" or "adequately allege liability" under 
+Rule 102(e)(1). 
+ 
+       Pattison's argument fails to recognize the distinct bases for disciplinary action provided 
+under subsections (3) and (1) of Rule 102(e).  The Commission may, pursuant to Rule 
+102(e)(3)(i)(A), suspend or bar a respondent based on an injunction.  This does not create a 
+"chance of administrative sanctions with no standard."  To the contrary, the Rule has a structured, 
+precise standard:  Once the respondent has requested a hearing, the Division must establish that 
+the respondent has been "permanently enjoined by any court of competent jurisdiction, by reason 
+of his or her misconduct in an action brought by the Commission, from violating or aiding and 
+abetting the violation of any provision of the federal securities laws or of the rules and 
+regulations thereunder" as the basis for the proceeding.  Rule 102(e)(3) thus reflects our 
+determination that a finding by a court of competent jurisdiction that a respondent has violated 
+securities laws, or that an injunction against future violations is warranted, is a sufficient standard 
+of unfitness for practice before the Commission that we "will afford a hearing only to consider 
+mitigating or other factors why neither censure nor temporary or permanent disqualification 
+should be imposed." 31 
+                        "The overall purpose of the . . . amendment [that added paragraph (3) to 
+Rule 102(e)] is to prevent situations in which the investing public places its trust in, or reliance 
+upon, attorneys, accountants, engineers, and other professionals or experts who have 
+
+       30 
+               17 C.F.R. § 201.102(e)(1)(iv). 
+       31 
+               See Final Amendment to Rule 2(e) of the Rules of Practice, Exchange Act Rel. 
+No. 9164 (May 10, 1971), 1971 WL 126066, at *1 (adding to Rule 2(e) new language enabling 
+the Commission to "restrict practice before the Commission by persons found to have violated or 
+to have participated in violations of the securities laws and by persons who have been 
+permanently enjoined from violating the securities laws, whether or not a finding of past 
+violation has been made").  Furthermore, "no distinction will be made between injunctions and 
+findings which have been contested and those which have been entered upon consent."   Id. 
+---------------------Page 11---------------------
+
+                                               11
+ 
+
+demonstrated an unwillingness or inability to comply with the requirements of the Federal 
+securities laws . . . ."32 
+                        
+
+       Rule 102(e)(3) then permits the respondent to show cause why he or she should not be 
+censured or temporarily or permanently disqualified from appearing and practicing before the 
+Commission.  Under this provision, the Commission acts "with due regard to the public 
+interest."33 
+            The standards by which we are guided in assessing the public interest are those set 
+forth in Steadman v. SEC 34
+                            in determining the appropriate remedial sanction under Rule 
+102(e)(3).35 
+             As noted, we also consider any mitigative factors established by the respondent. 
+
+       Rule 102(e)(3)(i)(A) is analogous to our statutory authority under Exchange Act Section 
+15(b)(6)(A)(iii) to discipline a regulated person who is enjoined from any action, conduct, or 
+practice specified in Exchange Act Section 15(b)(4)(C). 36 
+                                                           Matters brought pursuant to this 
+provision require only that the Division establish that the respondent is a person associated or 
+seeking to become associated, or, at the time of the alleged misconduct, was associated or was 
+seeking to become associated with a broker or dealer, or is a person participating, or at the time 
+of the alleged misconduct, was participating in a penny stock offering, and that the person "is 
+
+       32 
+               Id.  Pattison incorrectly states that Rule 102(e)(3) permits the Division to "seek 
+discipline after  any permanent injunction, regardless of the level of scienter involved in the 
+underlying claim, or the type of claim."  Subpart 3 is limited to injunctions based on violations of 
+the federal securities laws.  Thus, the standard for the presumption of unfitness to practice before 
+the Commission is directly related to the individual's failure to comply with statutes administered 
+by the Commission. 
+       33 
+               17 C.F.R. § 102(e)(3)(i); see also Gunderson , 97 SEC Docket at 24044 (under 
+Rule 102(e)(3), permanently disqualifying attorney, in Commission adjudicatory appeal from a 
+law judge's initial decision, from appearing or practicing before the Commission based on 
+injunction against violating registration and antifraud provisions of the federal securities laws); 
+Herbert M. Campbell, Initial Decision Rel. No. 266 (Oct. 27, 2004), 83 SEC Docket 3997 (under 
+Rule 102(e)(3), permanently disqualifying attorney, in Commission adjudicatory proceeding 
+before a law judge, from appearing or practicing before the Commission based on injunction 
+against violating reporting and antifraud provisions of the federal securities laws). 
+       34 
+               603 F.2d 1126, 1140 (5th Cir. 1979), aff'd on other grounds, 450 U.S. 91 (1981). 
+       35 
+               Gunderson, 97 SEC Docket at 24048. 
+       36 
+               15 U.S.C. § 78o(b)(6)(A)(iii).  Exchange Act Section 15(b)(4)(C) authorizes the 
+Commission to sanction a broker or dealer or an associated person of a broker or dealer who is 
+permanently or temporarily enjoined from acting as a certain kind of securities professional, or 
+from engaging in or continuing any conduct or practice in connection with any such activity, or 
+in connection with the purchase or sale of any security.  15 U.S.C. § 78o(b)(4)(C). 
+---------------------Page 12---------------------
+
+                                               12
+ 
+
+enjoined from any action, conduct, or practice" specified in Exchange Act Section 15(b)(4)(C). 37 
+                                                                                                 
+Once this has been established, the respondent charged under Exchange Act Section 
+15(b)(6)(A)(iii) is not permitted to collaterally attack the underlying injunction or findings of the 
+court.    Courts have repeatedly upheld this principle.    A respondent who wishes to challenge 38 39 
+
+       37 
+               See, e.g., Vladimir Boris Bugarski, Exchange Act Rel. No. 66842 (Apr. 20, 2012), 
+103SEC Docket 53374, 53378 ("It is undisputed that the district court enjoined Respondents 
+from conduct in connection with the purchase or sale of securities and that, at the time of the 
+alleged misconduct, Respondents were participating in an offering of penny stock.  Accordingly, 
+we find that the threshold statutory requirements [under Exchange Act Section 15(b)(6)(A)(iii)] 
+for the imposition of sanctions have been satisfied."); Phillip J. Milligan, Exchange Act Rel. No. 
+61790 (Mar. 26, 2010), 98 SEC Docket 26791, 26796 (finding that "the statutory requirements 
+for the imposition of sanctions have been satisfied" under Exchange Act Section 15(b)(6)(A)(iii) 
+where the record established that the respondent had been enjoined from engaging in fraudulent 
+conduct in connection with the purchase or sale of securities and that, at the time the enjoined 
+conduct occurred, the respondent was associated with a broker-dealer); Thomas J. Donovan, 58 
+S.E.C. 1032, 1042-43 (2005) (finding that respondent was formerly associated with a broker-
+dealer and enjoined from further violations of the antifraud provisions of the federal securities 
+laws, and that Exchange Act Section 15(b)(6)(A)(iii) authorized the Commission to sanction 
+respondent); Michael T. Studer, 57 S.E.C. 890, 893 (2004) (finding that the respondent was 
+associated with a broker or dealer and enjoined from engaging in any conduct or practice in 
+connection with either (a) the activity of a broker or dealer or (b) the purchase or sale of a 
+security, and that Exchange Act Section 15(b)(6)(A)(iii) authorized the Commission to sanction 
+the respondent), aff'd, 148 F. App'x 58 (2d Cir. 2005) (unpublished). 
+       38 
+               See Milligan, 98 SEC Docket at 26796-97 (finding in a proceeding brought under 
+Exchange Act Section 15(b)(6)(A)(iii), where the respondent was a person enjoined from any 
+action, conduct, or practice specified in Exchange Act Section 15(b)(4)(C), that "[w]e have 
+repeatedly held that a respondent in a follow-on proceeding may not challenge the findings made 
+by the court in the underlying proceeding and we consider those findings in determining the 
+appropriate sanction.") (citing James E. Franklin, Exchange Act Rel. No. 56649 (Oct. 12, 2007), 
+91 SEC Docket 2708, 2713 ("It is well established that [respondents are] collaterally estopped 
+from challenging in [follow-on] administrative proceeding the decisions of the district court in 
+the injunctive proceeding.")). 
+       39 
+               Studer v. SEC, 148 F. App'x 58, 59 (2d Cir. 2005) (unpublished) (finding that 
+respondent, in an appeal of a follow-on administrative proceeding "is prohibited from relitigating 
+the factual and legal conclusions of the district court regarding his violations of federal securities 
+laws"); see also Gann v. SEC, 361 F. App'x 556, 558 (5th Cir. 2010) (unpublished) (finding, in 
+an appeal of a follow-on administrative proceeding, that "[b]ecause the factual issues in this case 
+were fully litigated and resolved in the district court, we treat the district court's findings of fact 
+as conclusive and binding on the parties"); Brownson v. SEC, 66 F. App'x 687, 688 
+                                                                                    (continued...) 
+---------------------Page 13---------------------
+
+                                               13
+ 
+
+the underlying injunction or court's findings may only do so by filing an appeal in the appropriate 
+United States Court of Appeals. 40 
+                                   
+
+       By contrast, Rule 102(e)(1), codified by the Sarbanes-Oxley Act of 2002,  41
+                                                                                   authorizes the 
+Commission to discipline professionals for "improper professional conduct," defined for 
+accountants as conduct that the Commission finds "results in a violation of applicable 
+professional standards," and meets certain mens rea requirements.  Thus, a proceeding under 
+Rule 102(e)(1)(ii) does not necessarily involve conduct that is illegal, nor does it involve a 
+situation where another adjudicatory tribunal has already made findings of misconduct and 
+imposed a sanction.  Unlike proceedings brought under Rule 102(e)(3), the Commission itself 
+must make the determination as to whether the respondent's conduct fits within certain standards 
+carefully defined under Rule 102(e)(1), including, with respect to accountants, whether 
+professional standards have been violated with a defined mens rea.  If such conduct falls within 
+the proscriptions of Rule 102(e)(1), the Commission must then determine whether a sanction is 
+appropriate.  Similarly, proceedings brought, for example, under Exchange Act Section 
+15(b)(4)(A) or (D) require the Commission to make its own findings of misconduct before it can 
+determine the appropriate sanction, if any.42 
+                                             That is because, as with Rule 102(e)(1), the 
+Commission does not have in the record findings made by another adjudicatory tribunal to serve 
+as a basis for a sanction determination.  In proceedings brought under Rule 102(e)(3) based on an 
+underlying injunction, however, the Commission may rely on the findings of a court that an 
+injunction against future violative conduct is warranted.43 
+                                                          
+
+       39 
+               (...continued) 
+(unpublished) (9th Cir. 2003) (finding, in an appeal of a follow-on administrative proceeding, 
+that respondent's "plea agreement and criminal conviction are substantial evidence supporting the 
+SEC's conclusion that it is in the public interest to permanently bar [respondent] from association 
+with a broker or dealer.  See Hinkle Northwest, Inc. v. SEC, 641 F.2d 1304, 1308 (unpublished) 
+(9th Cir. 1981) (stating that collateral estoppel may be used where party seeks to apply finding 
+from criminal case to subsequent civil proceeding)."). 
+       40 
+               Franklin, 91 SEC Docket at 2713-14 (finding, in a proceeding instituted under 
+Exchange Act Section 15(b)(6)(A), that "[t]he appropriate forum for Franklin's challenge to the 
+validity of the injunction and the district court's evidentiary rulings is through an appeal to the 
+United States Court of Appeals . . . ."), petition denied, 285 F. App'x 761 (D.C. Cir. 2008) (per 
+curiam). 
+       41 
+               Pub. L. No. 107-204, § 602, 116 Stat. 745 (2002). 
+       42 
+               15 U.S.C. §§ 78o(b)(4)(A), (D). 
+       43 
+               17 C.F.R. § 201.102(e)(3)(i)(A).  Alternatively, the Commission may rely on 
+findings by a court in an action brought by the Commission, or by the Commission in an 
+                                                                                    (continued...) 
+---------------------Page 14---------------------
+
+                                                14
+ 
+
+       Accordingly, we reject Pattison's contention that this matter should have been brought 
+under Rule 102(e)(1) and find that the Division appropriately brought this proceeding under 
+Rule 102(e)(3). 
+
+B.     Public Interest Factors 
+
+       In assessing the need for sanctions in the public interest, we consider, among other things: 
+the egregiousness of the respondent's actions, the isolated or recurrent nature of the infraction, 
+the degree of scienter involved, the sincerity of the respondent's assurances against future 
+violations, the respondent's recognition of the wrongful nature of his or her conduct, and the 
+likelihood that the respondent's occupation will present opportunities for future violations.44 
+                                                                                              Our 
+"inquiry into . . . the public interest is a flexible one, and no one factor is dispositive."45 
+                                                                                         We also 
+consider the extent to which the sanction will have a deterrent effect.46 
+
+       We find that Pattison's conduct was egregious and recurrent.  For every quarterly period 
+over four years, Pattison facilitated improper backdating by falsifying Embarcadero's books and 
+records and circumventing Embarcadero's system of internal accounting controls.  Corporate 
+books and records are "'the bedrock elements of our system of corporate disclosure and 
+accountability,'" and thus "accurate recordkeeping is an essential ingredient in promoting 
+management responsibility." 47 
+                                Likewise, 
+
+       [i]nternal controls safeguard assets and assure the reliability of financial records, 
+       one of their main jobs being to prevent and detect errors and irregularities that 
+       arise in the accounting systems of the company.  Internal accounting controls are 
+
+       43 
+               (...continued) 
+administrative proceeding, that a respondent has violated or aided and abetted the violation of the 
+federal securities laws.  17 C.F.R. § 201.102(e)(3)(i)(B). 
+       44 
+               Steadman, 603 F.2d at 1140. 
+       45 
+               David Henry Disraeli, Exchange Act Rel. No. 57027 (Dec. 21, 2007), 92 SEC 
+Docket 852, 875, petition denied, 33 F. App'x 334 (D.C. Cir. 2008) (per curiam). 
+       46 
+               Franklin, 91 SEC Docket at 2708, 2719 & n.28 (citing    Ahmed Mohamed Soliman, 
+52 S.E.C. 227, 231 n.12 (1995); Lester Kuznets, 48 S.E.C. 551, 555 (1986); McCarthy v. SEC, 
+406 F.3d 179, 188, 190 (2d Cir. 2005)). 
+       47 
+               SEC v. World-Wide Coin Inv., Ltd., 567 F. Supp. 724, 746 (N.D. Ga. 1983) 
+(citation omitted). 
+---------------------Page 15---------------------
+
+                                               15
+ 
+
+       basic indicators of the reliability of the financial statements and the accounting 
+       system and records from which financial statements are prepared. 48 
+
+       Pattison's actions betrayed these principles and, as the District Court found, had profound 
+effects.  Embarcadero understated corporate expenses by more than $14 million.  The company 
+possessed books and records and filed public reports with the Commission that failed to 
+accurately and fairly reflect its transactions and disposition of its assets.  It suffered the receipt of 
+decreased payments when employees exercised backdated stock options.  The Company's share 
+value was potentially diluted as a result of enhanced incentives to exercise stock options.  In 
+2007, Embarcadero restated portions of its financial statements going back as far as fiscal year 
+2002, and faced negative tax consequences associated with the restatement.  In addition to being 
+enjoined, Pattison was ordered to disgorge $74,446—representing the portion of his profit 
+attributable to exercising his own backdated stock options—and pay a second-tier civil money 
+penalty of $50,000, which the District Court judge determined was reflective of the jury's view 
+that Pattison "knowingly engaged in conduct violative of regulatory and statutory laws."49 
+                                                                                          We 
+therefore reject Pattison's characterization of his misconduct as a "mere technical violation" 
+arising "from a single decision made to delegate option-granting authority to the CEO in the 
+fourth quarter of 2000."   
+
+       We find that Pattison acted with a high degree of scienter.  Pattison had been a practicing 
+accountant for roughly fifteen years and was the only licensed CPA in Embarcadero's Finance 
+Department.  Despite knowing that APB 25 required the company to record in-the-money stock 
+option grants as outgoing compensation and that the company did not intend to grant in-the­
+money stock options, in part based on internal controls memoranda that Pattison authored, 
+Pattison nonetheless facilitated the improper granting of in-the-money stock options.  He did so 
+by entering backdated information into Embarcadero's E*Trade database, directing his 
+administrative assistant to prepare stock option agreements for Embarcadero's employees based 
+on the backdated information, providing to the company's auditors, without further elaboration, 
+quarterly summaries that he knew contained backdated information, and parking backdated stock 
+
+       48 
+              Id. at 750 (citation omitted); see also Management's Report on Internal Control  
+over Financial Reporting and Certification of Disclosure in Exchange Act Periodic Reports, 
+Exchange Act Rel. No. 47986 (June 18, 2003), 80 SEC Docket 1196, 1217 ("The establishment 
+and maintenance of internal control over financial reporting has always been an important 
+responsibility of management.  An effective system of internal control over financial reporting is 
+necessary to produce reliable financial statements and other financial information used by 
+investors."). 
+       49 
+              See supra note 7, Corrected Order and Judgment Granting Motion for  Entry of 
+Final Judgment, at 6. 
+---------------------Page 16---------------------
+
+                                               16
+ 
+
+options in various inactive employee accounts for later use.50 
+                                                               The District Court determined that 
+"[a] reasonable inference is that Defendant consciously intended to hide the actual grant approval 
+dates from the auditors and keep backdated options from being publicly reported.  Certainly, the 
+jury could have so found."51 
+                              We conclude that Pattison's repeated efforts to conceal improper 
+backdating further demonstrate that he acted with a high degree of scienter.52 
+
+       Pattison asserts that the Initial Decision and the District Court improperly determined that 
+he acted with scienter and argues that the jury found him liable for a violation that did not require 
+a showing of scienter.  He contends that "[t]he 'knowing' standard of Section 13(b)(5) is not the 
+same as 'scienter.'  A 'knowing' violation of Section 13(b)(5) means that Pattison was found to 
+have acted intentionally, but not that he acted with the 'intent to deceive, manipulate, or defraud' 
+as is required for scienter-based claims.  See Ernst & Ernst v. Hochfelder, 425 U.S. 185, 193 
+(1975)."  The District Court, in fact, found that Pattison acted with an intent to deceive.53 
+                                                                                           It did 
+
+       50 
+               As the District Court found, "every stock option grant during the period in 
+question has a grant date selected with hindsight, yet [Pattison]  never expressly disclosed the date 
+of actual approval by CEO Wong on any document.  Nor did [Pattison] ever explicitly 
+communicate to [the] auditors Embarcadero's practice of selecting grant dates with hindsight."  
+See supra note 6, Corrected Order Denying Plaintiff's Motion to Strike; Denying Defendant's 
+Motion for Judgment as a Matter of Law; and Denying Defendant's Motion for a New Trial, at 
+14-15 (emphasis in original). 
+       51 
+               See supra note 6, Corrected Order Denying Plaintiff's Motion to Strike; Denying 
+Defendant's Motion for Judgment as a Matter of Law; and Denying Defendant's Motion for a 
+New Trial, at 15. 
+       52 
+               See Milligan, 98 SEC Docket at 26798-99 & n.20 (finding that respondent acted 
+with a high degree of scienter based on his attempts to conceal misconduct) (citing Justin F. 
+Ficken, Exchange Act Rel. No. 58802 (Oct. 17, 2008), 94 SEC Docket 10887, 10892). 
+       53 
+               "Mr. Pattison fails to explain how a knowing falsification is really anything 
+different from an intent to deceive.  In other words, if a person intentionally makes a false 
+statement (found here), that is tantamount to an intent to deceive. . . . As noted in the legislative 
+history for § 13, '[t]he knowledge required is that the person be aware that he is or may be 
+making a false statement or causing corporate records to be falsified through a conscious 
+undertaking or due to his conscious disregard for the truth.'  S. Rep. 95-114, at 4107."   SEC v. 
+Michael C. Pattison, Order Denying Defendant's Motion for Judgment of Law and Motion for a 
+New Trial; and Granting in Part and Denying in Part Defendant's Motion to Amend Judgment, 
+No. C-08-4238 EMC (N.D. Cal. June 9, 2011), at 14.  Pattison also claims that, because the 
+District Court used a general verdict form, "one cannot even determine whether Mr. Pattison was 
+found liable for a 'knowing falsification of records' or, instead, an internal controls violation." 
+The jury, however, found that Pattison violated Exchange Act Section 13(b)(5) pursuant to a jury 
+                                                                                    (continued...) 
+---------------------Page 17---------------------
+
+                                                17
+ 
+
+so, not as a misstatement of the jury's finding of a violation, but in connection with the Court's 
+assessment of the necessity of imposing an injunction as a remedy for that violation.  Pattison is 
+estopped from attacking here the factual findings or legal conclusions of the underlying 
+injunctive proceeding.54 
+                          In any event, we are unpersuaded by his argument. 
+
+       We do not construe the term "scienter" so narrowly.  While it is true that the United 
+States Supreme Court in Ernst & Ernst                          defined scienter as "a mental state embracing intent to 
+deceive, manipulate, or defraud," it did so in the context of a securities fraud case.  There, the 
+Court predicated the actor's state of mind on elements, i.e., deceit, manipulation, and fraud, that 
+explicitly were the basis for the violation at issue.  The Supreme Court, however, also discussed 
+scienter more generally as "knowing or intentional misconduct," given that the issue in that case 
+was "whether scienter is a necessary element" of a private cause of action under Exchange Act 
+Section 10(b) and Rule 10b-5 thereunder, or "whether negligent conduct alone is sufficient." 55 
+                                                                                                
+Courts have consistently relied on the broader definition of scienter in the context of violations of 
+the federal securities laws.     We, too, have viewed scienter through a wider lens. 56 57 
+
+       53 
+               (...continued) 
+instruction specifically providing that a knowing falsification was required, and that knowingly, 
+as used in Exchange Act Section 13(b)(5) "means intentionally; recklessness is not sufficient."  
+Id. at 14. 
+       54 
+               Supra note 29, see also supra note 38. 
+       55 
+               Ernst & Ernst, 425 U.S. at 197. 
+       56 
+               See, e.g., Dura Pharm., Inc., 544 U.S. 336, 341 (2005) ("scienter, i.e., a wrongful 
+state of mind, see  Ernst & Ernst, [425 U.S. 185] at 197"); WPP Luxembourg Gamma Three Sarl 
+v. Spot Runner, Inc. , 655 F.3d 1039, 1051 (9th Cir. 2011) ("The requisite state of mind for a 
+securities fraud case is scienter, which is knowing or intentional conduct, or reckless conduct 'to 
+the extent that it reflects some degree of intentional or conscious misconduct, or what we have 
+called deliberate recklessness.'") (citation omitted), cert. denied, 132 S. Ct. 2713 (2012); Graham 
+v. SEC, 222 F.3d 994, 1000 (2d Cir. 2000) (scienter in aiding and abetting cases is established by 
+showing defendant rendered assistance to violator of federal securities laws "knowingly or 
+recklessly"); SEC v. Falstaff Brewing Corp., 629 F.2d 62, 77 (D.C. Cir. 1980), cert. denied                                   , 449 
+U.S. 1012 (1980) (finding that scienter is "[a] knowledge of what one is doing and the 
+consequences of those actions"); Elkind v. Liggett & Myers, Inc., 635 F.2d 156, 167 (2d Cir. 
+1980) (finding that "scienter is 'knowing or intentional misconduct'"). 
+       57 
+               See Phlo Corp., Exchange Act Rel. No. 55562 (Mar. 30, 2007), 90 SEC Docket 
+1089, 1103 (finding that "[t]he scienter requirement [in an aiding and abetting violation] may be 
+satisfied by showing that [respondent] knew of, or recklessly disregarded, the wrongdoing and 
+her role in furthering it"); cf. Michael J. Marrie, CPA , Exchange Act Rel. No. 48246 
+                                                                                     (continued...) 
+---------------------Page 18---------------------
+
+                                                18
+ 
+
+       Here, the District Court found that Pattison acted with scienter based on his conduct. 
+Specifically, the District Court found: 
+
+       While the instant case is a civil action and not a criminal action, the § 13 jury 
+       instruction that the parties agreed upon stated that knowing falsification was 
+       required – in other words, the SEC (although it did not have to) agreed to the 
+       criminal liability scienter requirement.  Accordingly, there was scienter in this 
+       case (in the sense of a knowing falsification); at least, the jury so found.58 
+
+       The District Court found that Pattison provided sincere assurances against future 
+violations but that he also had not recognized the wrongful nature of his conduct.  For example, 
+the Court found that Pattison voluntarily disclosed his misconduct to attorneys representing 
+Embarcadero's Special Committee and voluntarily met with the Commission during its 
+investigation.  But the Court also found that Pattison either placed blame for stock options 
+backdating on others or denied any wrongdoing.  Indeed, Pattison continues to dispute that his 
+conduct was egregious and argues that "books and records claims do not fall under the antifraud 
+provisions of the securities laws, and should not be addressed with the 'severest of sanctions.'"  
+We are concerned that, despite his assurances against future violations, Pattison's failure to 
+appreciate the gravity of his misconduct raises troubling questions about his fitness to appear and 
+practice before the Commission.  
+
+       Pattison asserts that the likelihood is low that his occupation will present opportunities 
+for future violations.  He states that he has "worked for the last seven years without any blemish 
+on his record.  He has not moved professionally towards the public sector, and even submitted a 
+Declaration in the District Court action expressly stating he had no intention to work for a public 
+company again."  He also asserts that his "employment history since leaving Embarcadero bears 
+
+       57 
+               (...continued) 
+(July 29, 2003), 80 SEC Docket 2694, 2704-05 & n.14 ("The question is not whether an 
+accountant recklessly intended to aid in the fraud committed by the audit client, but rather 
+whether the accountant recklessly violated applicable professional standards [in connection with 
+a proceeding brought under Rule 102(e)(1)]."), reversed on other grounds, 374 F.3d at 1205 
+(rejecting respondents' contention that, because the Commission borrowed the definition of 
+recklessness used in substantive antifraud provisions for purposes of a proceeding under Rule 
+102(e)(1), the Commission also was required to adopt other elements of a securities fraud 
+violation, such as the requirements of an intent to defraud and materiality). 
+       58 
+               To the extent that Pattison contends that scienter must be an element of the 
+underlying violations in order for us to evaluate the degree of scienter under the Steadman 
+factors, he is incorrect.  See Steadman, 603 F.2d at 1140 ("We heartily endorse the Commission's 
+view that while scienter is not required to make out violations of several of the statutory sections 
+involved here, the respondent's state of mind is highly relevant in determining the remedy to 
+impose.").  
+---------------------Page 19---------------------
+
+                                               19
+ 
+
+that out.  Pattison has changed jobs—he no longer works for a public company and instead 
+performs trust and estate work [as an accountant] for a company owned by a private individual." 
+  
+       Pattison, however, remains licensed as a CPA.  Moreover, the Court found that Pattison 
+stated in his deposition that his work for the company is "[m]uch the same as what I would do at 
+a public accounting firm."59 
+                             Should the company go public or be acquired by a public company, 
+the accuracy of its historical books and records could be critical, and Pattison could potentially 
+find himself in a position to handle the company's future accounting duties.  Moreover, Pattison's 
+statement that he "is not likely to appear before the Commission again, but . . . has demonstrated 
+over these last seven years that he possesses the skills and moral character to do so in the future," 
+suggests the possibility of his eventually appearing and practicing before the Commission.  We 
+conclude that a reasonable likelihood exists that Pattison's occupation will present opportunities 
+for future violations.60 
+
+       Pattison asserts that the law judge improperly granted summary disposition because he 
+presented mitigating facts that required an evidentiary hearing.  Rule of Practice 250(b) provides 
+that a hearing officer may grant a motion for summary disposition without an in-person hearing if 
+"there is no genuine issue with regard to any material fact and the party making the motion is 
+entitled to a summary disposition as a matter of law."61 
+                                                         Once the Division showed that it had 
+satisfied the criteria for summary disposition, Pattison had the opportunity to produce documents, 
+affidavits, or some other evidence to demonstrate that there was a genuine and material factual 
+dispute that the law judge could not resolve without a hearing. 
+
+       Pattison's submissions below "relate[d] to the appropriateness of the sanction," which we 
+have considered fully above, but did not raise "the existence of a genuine issue of material 
+
+       59 
+               See supra note 53, Order Denying Defendant's Motion for Judgment of Law and 
+Motion for a New Trial; and Granting in Part and Denying in Part Defendant's Motion to Amend 
+Judgment, at 12. 
+       60 
+               Pattison cites to SEC v. Monarch Fund, 608 F.2d 938, 943 (2d. Cir. 1979), and 
+SEC v. Nat'l Student Mktg. Corp., 457 F. Supp. 682 (D. D.C. 1978) for the proposition that "the 
+more time that has passed since a violation, the lesser the need for an injunctive sanction." 
+Pattison's citations are inapposite.  In these cases, the courts considered the propriety of imposing 
+an injunction.  As we have discussed, the propriety of Pattison's injunction is not at issue. 
+Moreover, these cases suggest that courts consider the amount of time that has elapsed since the 
+last violation as one among many factors in evaluating whether there exists a reasonable 
+likelihood of future violations. 
+       61 
+               17 C.F.R. § 201.250(b). 
+---------------------Page 20---------------------
+
+                                                20
+ 
+
+fact."62 
+        An in-person hearing therefore was not required.  Pattison states that it is mitigating that 
+he has worked for the last seven years without a blemish on his record, has not moved 
+professionally towards the public sector, and voluntarily told the Special Committee that he 
+backdated stock option grants.  We already have accepted these facts as true and taken them into 
+consideration above. 
+
+       Pattison also states that he "was still working at Embarcadero for almost a year after the 
+alleged violations occurred and thus his compliance with these statutes began while he was still 
+working at Embarcadero."  Yet Pattison also highlights the fact that, by the end of 2004, the 
+company, not Pattison, decided to enforce the prohibition against granting in-the-money stock 
+options and that none was granted thereafter as a result.  Pattison asserts that he was "absolved by 
+a jury of all fraud and [aiding and abetting] false reporting charges," and the violation occurred 
+nearly seven years ago.  While we accept these statements as true, we do not agree that the need 
+for a permanent suspension is diminished given the other facts of this case.  Pattison also argues 
+that we should consider as mitigating that the District Court prevented him from presenting "his 
+key accounting expert" 63
+                         and improperly admitted as evidence Embarcadero's Form 10-K for the 
+2006 fiscal year, which restated numerous portions of financial statements for previous years, and 
+that the Division failed to designate expert witnesses at the trial.  Pattison is prohibited from 
+attempting to relitigate the District Court's findings.64 
+
+       Pattison argues that a permanent suspension is "far in excess of other accountants who 
+have had securities fraud judgments entered against them for backdating stock options."  The 
+
+       62 
+               Gary M. Kornman, Exchange Act Rel. No. 59403 (Feb. 13, 2009), 95 SEC 
+Docket 14246, 14264 & n.62 (citing Seghers, 548 F.3d at 134), petition denied, 592 F.3d 173 
+(D.C. Cir. 2010). 
+       63 
+               Pattison attached to his reply brief the accounting expert's "anticipated testimony" 
+that he asserts he "was required to provide to the District Court," and which was intended to 
+support his argument that his conduct was not egregious.  Commission Rule of Practice 452, 17 
+C.F.R. § 201.452, permits the admission of additional evidence where the evidence is material 
+and where there exist reasonable grounds for failing to produce the evidence earlier.  Pattison has 
+not met the rule's requirements.  He filed no motion to adduce this additional evidence.  Nor did 
+he provide an explanation for his failure to adduce the document earlier (i.e., before the law 
+judge or in earlier filings on appeal) or respond when the Division challenged his submission. 
+Pattison also does not explain how this attachment is material.  We nevertheless admit it as a 
+matter of discretion. 
+       64 
+               See supra note 54. 
+---------------------Page 21---------------------
+
+                                              21
+ 
+
+cases to which Pattison cites, however, were settled matters.65 
+                                                              We have repeatedly observed that 
+comparisons to sanctions in settled cases are inappropriate because respondents who offer to 
+settle may properly receive lesser sanctions than they otherwise might have.  That is because, "in 
+settlement cases we take into account pragmatic considerations such as the avoidance of 
+time-and-manpower-consuming adversary proceedings."    66 
+                                                         
+
+       65 
+              In all of the cited cases, respondents settled both the underlying injunctive matter 
+and the follow-on Rule 102(e) proceeding.  See Antonio Canova                                           , Exchange Act Rel. No. 59758 
+(Apr. 13, 2009), 95 SEC Docket 16041; Anthony Bonica, Exchange Act Rel. No. 62242 (June 8, 
+2010), 98 SEC Docket 28963; Clinton Ronald Greenman, Exchange Act Rel. No. 61147 (Dec. 
+10, 2009), 97 SEC Docket 23380; John Wilroy, Exchange Act Rel. No. 61148 (Dec. 10, 2009), 
+97 SEC Docket 23384; Gregory Pasko                       , Exchange Act Rel. No. 61149 (Dec. 10, 2009), 97 SEC 
+Docket 23388; Lisa Roberts, Exchange Act Rel. No. 60345 (July 20, 2009), 96 SEC Docket 
+18982; Kevin Brooks, Exchange Act Rel. No. 59785 (Apr. 17, 2009), 95 SEC Docket 16159; 
+Dennis Kavelman and Arcangelo Loberto, Exchange Act Rel. No. 59648 (Mar. 30, 2009), 95 
+SEC Docket 15530. 
+
+       Pattison also refers to the result in Robert W. Armstrong, III, 58 S.E.C. 542 (2005), a 
+litigated case, where an accountant was found to have violated the antifraud provisions and was 
+not permanently suspended under Rule 102(e).  Armstrong is not applicable here.  That matter 
+was brought under Rule 102(e)(1), which, as we have explained, involves procedures and 
+standards different from those in a Rule 102(e)(3) proceeding.  Moreover, "in light of the unique 
+circumstances [in that case], we . . . determined, as an exercise of our equitable discretion, not to 
+impose any suspension" pursuant to Rule 102(e)(1) without providing any analysis or identifying 
+the unique circumstances leading to this result.  Accordingly, Armstrong provides no 
+precedential guidance with respect to the imposition of sanctions pursuant to Rule 102(e)(3). 
+       66 
+              Nassar and Co., Inc., 47 S.E.C. 20, 26 & n.37 (1978) (citing cases), aff'd, 600 
+F.2d 280 (D.C. Cir. 1979); see also Justin F. Ficken, Exchange Act Rel. No. 58802 (Oct. 17, 
+2008), 94 SEC Docket 10887, 10892-93 (rejecting respondent's argument in an administrative 
+proceeding based on an underlying injunction that he should not receive a harsher sanction than 
+that imposed on other individuals who committed violations similar to the one for which he was 
+enjoined but where the other individuals settled their administrative proceedings); Leslie A. 
+Arouh, 57 S.E.C. 1099, 1123 (2004) (rejecting respondent's argument that sanction was unjust 
+where more culpable respondent received lesser sanction); cf. Dennis Todd Lloyd Gordon, 
+Exchange Act Rel. No. 57655 (Apr. 11, 2008), 93 SEC Docket 5089, 5118 (where NASD had 
+previously offered to settle charges for lesser sanctions than ultimately imposed after litigation, 
+Commission rejected argument that NASD's alleged willingness to accept a lesser sanction in 
+settlement shows that NASD did not consider that more stringent sanctions were necessary, 
+noting "it is well established that those who offer to settle may properly receive lesser sanctions 
+than they otherwise might have based on 'pragmatic considerations such as the avoidance of 
+time-and-manpower-consuming adversary proceedings.'"). 
+---------------------Page 22---------------------
+
+                                               22
+ 
+
+       The appropriate sanction in any case, moreover, depends on the particular facts and 
+circumstances presented. 67 
+                            Litigated cases typically present a fuller, more developed record of 
+facts and circumstances for purposes of assessing appropriate sanctions than do settled matters.68 
+                                                                                                  
+Here, the record shows that, although Pattison was not found liable on the fraud charge in the 
+injunctive action, the Court made extensive findings in justification of the injunction against him 
+concerning the egregiousness of the conduct and his level of scienter.  As discussed above, these 
+violations go to the heart of an accountant's obligations in any practice before the Commission 
+and justify the bar against such practice.69 
+
+       67 
+               See Robert L. Burns, Advisers Act Rel. No. 3260 (Aug. 5, 2011), 101 SEC Docket 
+44807, 44824 n.52 ("[I]t is well established that the appropriateness of a sanction 'depends on the 
+facts and circumstances of each particular case and cannot be precisely determined by 
+comparison with the action taken in other proceedings.'") (citing  Paz Sec., Inc., Exchange Act 
+Rel. No. 57656 (Apr. 11, 2008), 93 SEC Docket 5122, 5134, petition denied, 566 F.3d 1172 
+(D.C. Cir. 2009) (citing      Butz v. Glover Livestock Comm'n Co., 411 U.S. 182, 187 (1973)); cf. 
+World Trade Fin. Corp., Exchange Act Rel. No. 66114 (Jan. 6, 2012), 102 SEC Docket 49942, 
+49966 & n.82 (noting, in review of FINRA matter, that the "appropriate sanction, however, 
+depends on the facts and circumstances of each case and cannot be precisely determined by 
+comparison with action taken in other proceedings.") (citing Butz, 411 U.S. at 187); see also 
+McCarthy, 406 F.3d at 188 (stating that an appeals court's review of Commission sanctions 
+"receives only limited benefit from comparison to sanctions imposed in other cases due to the 
+highly fact-dependent nature of the propriety of sanctions"); Hiller v. SEC, 429 F.2d 856, 858 
+(2d Cir. 1970) (rejecting respondent's argument that the imposition of lesser sanctions in other 
+cases involving purportedly more serious violations is inconsistent and stating that "we cannot 
+disturb the sanctions ordered in one case because they were different from those imposed in an 
+entirely different proceeding") (citing  Tager v. SEC, 344 F.2d 5, 8-9 (2d Cir. 1965) ("Failing a 
+gross abuse of discretion, the courts should not attempt to substitute their untutored views as to 
+what sanctions will best accord with the regulatory powers of the Commission.")). 
+       68 
+               See Nassar and Co., Inc., 47 S.E.C. at 26.  In the settled matters cited by Pattison, 
+for example, we do not have a record that would permit a comparison with all the Steadman 
+factors influencing a sanction decision, such as the likelihood that a respondent's occupation will 
+present opportunities for future violations. 
+       69 
+               Pattison argues that a bar is unprecedented and that no accountant has "ever been 
+permanently barred from practicing in front of the Commission for a books and records 
+violation."  For the reasons discussed in the text, we believe the bar against practice before the 
+Commission is justified here because of the connection between the nature of the violation and 
+the duties involved in any practice by an accountant before the Commission. 
+---------------------Page 23---------------------
+
+                                               23
+ 
+
+       As we have stated, "[t]he Commission disciplines professionals pursuant to Rule 102(e) 
+in order to 'protect the integrity of its processes.'"70 
+                                                    The Commission adopted the rule as a 
+"means to ensure that those professionals, on whom the Commission relies heavily in the 
+performance of its statutory duties, perform their tasks diligently and with a reasonable degree of 
+competence." 71 
+                We believe that permanently disqualifying Pattison from appearing or practicing 
+before the Commission is remedial because it will prevent Pattison and deter others from 
+disregarding their professional responsibilities and protect the investing public by encouraging 
+reliable corporate disclosure and accountability through accurate recordkeeping and diligent 
+compliance with internal accounting controls. 
+
+       An appropriate order will issue.72 
+
+       By the Commission (Chairman SCHAPIRO and Commissioners WALTER, PAREDES 
+and GALLAGHER); Commissioner AGUILAR not participating. 
+
+                                                    Elizabeth M. Murphy
+                                                              Secretary 
+
+       70 
+              Robert W. Armstrong, III, 58 S.E.C. 542, 571-72 & n.62 (2005) (citing  Touche 
+Ross & Co. v. SEC, 609 F.2d 570, 582 (2d Cir. 1979) (stating that Rule of Practice 2(e), the 
+predecessor to Rule of Practice 102(e), "represents an attempt by the Commission to protect the 
+integrity of its own processes" and upholding the validity of Rule of Practice 2(e) as "reasonably 
+related" to the purposes of the federal securities laws). 
+       71 
+              Gunderson, 97 SEC Docket at 24046 (citing Touche Ross, 609 F.2d at 582). 
+       72 
+              We have considered all of the parties' contentions.  We have rejected or sustained 
+them to the extent that they are inconsistent or in accord with the views expressed in this opinion. 
+---------------------Page 24---------------------
+
+                           UNITED STATES OF AMERICA
+ 
+                                      before the
+ 
+                    SECURITIES AND EXCHANGE COMMISSION
+ 
+
+SECURITIES EXCHANGE ACT OF 1934 
+Rel. No. 67900 / September 20, 2012 
+
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Rel. No. 3407 / September 20, 2012 
+
+Admin. Proc. File No. 3-14323 
+
+                   In the Matter of
+ 
+
+           MICHAEL C. PATTISON, CPA
+ 
+                 c/o Patrick J. Richard
+ 
+                   James H. Vorhis
+ 
+                   Nossaman LLP
+ 
+            50 California Street, 34th Floor
+ 
+              San Francisco, CA  94111
+ 
+
+ORDER IMPOSING REMEDIAL SANCTIONS 
+
+      On the basis of the Commission's Opinion issued this day, it is 
+
+      ORDERED that Michael C. Pattison, CPA be, and he hereby is, permanently disqualified 
+from appearing or practicing before the Commission as an accountant. 
+
+      By the Commission. 
+
+                                              Elizabeth M. Murphy
+                                                        Secretary 

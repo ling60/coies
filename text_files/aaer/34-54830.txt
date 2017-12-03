@@ -1,0 +1,490 @@
+---------------------Page 1---------------------
+
+ UNITED                                  STATES OF AMERICA 
+ Before                                            the 
+                      SECURITIES AND EXCHANGE COMMISSION 
+ 
+SECURITIES EXCHANGE ACT OF 1934 
+Release No.  54830 / November 29, 2006 
+ 
+ACCOUNTING AND AUDITING ENFORCEMENT 
+Release No.  2518 / November 29, 2006 
+ 
+ADMINISTRATIVE PROCEEDING 
+File No. 3-12487 
+ ______________________________         
+     : 
+In the Matter of                                       :             ORDER INSTITUTING PROCEEDINGS 
+     : PURSUANT TO SECTION 21C OF THE 
+ASHLAND INC. and                             : SECURITIES EXCHANGE ACT OF 
+WILLIAM C. OLASIN,                       :             1934, MAKING FINDINGS AND 
+     : IMPOSING A                                            CEASE-AND-DESIST ORDER 
+  Respondents.  :  
+                                                               : 
+ 
+ 
+                                                I. 
+                                                  
+              The Securities and Exchange Commission (Commission) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities 
+Exchange Act of 1934 (Exchange Act) against Ashland Inc. (Ashland) and William C. Olasin 
+(Olasin) (collectively, Respondents). 
+ 
+                                                II. 
+                                                  
+              In anticipation of the institution of these proceedings, Ashland and Olasin each have 
+submitted an Offer of Settlement (the Offers), which the Commission has determined to accept.  
+Solely for the purpose of these proceedings and any other proceedings brought by or on behalf of 
+the Commission, or to which the Commission is a party, and without admitting or denying the 
+findings herein, except as to the Commissions jurisdiction over Respondents and the subject 
+matter of these proceedings, which Respondents admit, Respondents consent to the issuance of this 
+Order Instituting Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, 
+Making Findings and Imposing a Cease-and-Desist Order (Order), as set forth below.  
+ 
+
+ 
+ 
+  
+---------------------Page 2---------------------
+
+                                              III. 
+                                                 
+                                            FACTS 
+                                                 
+              On the basis of this Order and Respondents Offers, the Commission finds that: 
+                                                 
+ A.           Summary 
+ 
+       Between 1999 and 2001, William Olasin, Ashland Inc.s Director of Environmental 
+Remediation, reduced the cost estimates for remediating environmental contamination at dozens of  
+chemical and refinery sites for which Ashland had responsibility.  Ashland used those estimates to 
+determine its environmental reserve, which Ashland disclosed in the periodic reports that it filed 
+with the Commission.  Olasin had no reasonable basis for reducing these cost estimates, which had 
+been developed by a team of Ashland engineers, an outside consultant, and a computer program.   
+        
+       Ashlands process for setting its environmental reserve did not establish adequate 
+guidelines for, or require documentation or review of, adjustments to the cost estimates.  Ashland 
+included the estimates that Olasin had reduced in its reported environmental reserve.  As a result, 
+Ashland materially understated its environmental reserve and overstated its net income in annual 
+and quarterly reports filed from 1999 to 2001.   
+        
+       Ashland violated the reporting, books and records, and internal controls provisions of the 
+Exchange Act, Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) and Rules 12b-20, 13a-1, and 13a-13 
+thereunder.  Olasin caused Ashlands violations, and also violated Rule 13b2-1 of the Exchange 
+Act.  
+  
+       B.     Respondents
+ 
+              1.      Ashland Inc. is a Fortune 500 chemical company incorporated in 
+Kentucky.  Ashlands common stock is registered with the Commission under Section 12(b) of the 
+Exchange Act and is listed on the New York and Chicago Stock Exchanges under the symbol 
+ASH.  During the relevant period, Ashlands primary businesses included chemical production 
+and distribution, such as its Valvoline motor oil division, highway and bridge construction, and 
+petroleum refining and marketing.  Ashland is responsible for cleaning up environmental 
+contamination at locations throughout the country.  Ashlands fiscal year ends on September 30 
+and, in 2005, Ashland reported revenue of $9.9 billion and operating income of $746 million.  
+Ashlands environmental reserve was a significant item in its financial statements from 1998 to 
+2005, ranging from a low of $152 million to a high of $178 million.   
+        
+  2.                   William Olasin, age 55, resides in Dublin, Ohio.  Olasin was Ashlands 
+Director of Environmental Remediation from 1996 until April 2006, when Ashland reassigned 
+Olasin as a project manager within the Engineering Department.  Olasin has a B.A. from Marietta 
+College, Ohio in biology and geology and a B.S. from the University of Michigan in natural 
+resources. 
+ 
+ 
+
+                                               2 
+---------------------Page 3---------------------
+
+ C.            Relevant Accounting Principles 
+ 
+              As a public company, Ashland is required to fairly, accurately, and timely report its 
+financial results and condition.  To ensure fair and accurate reports, the federal securities laws and 
+the Commissions regulations require public companies, such as Ashland, to prepare and present 
+their reports and financial statements in conformity with Generally Accepted Accounting 
+Principles (GAAP).  Under GAAP, items listed in financial statements must be reliable, i.e., 
+sufficiently faithful in their representation of the underlying obligations and sufficiently free of 
+error and bias to be useful to others making decisions based on the financial statements.1
+                                                                                          Financial 
+statements filed with the Commission that are not prepared in accordance with GAAP are 
+presumed to be misleading or inaccurate.  Ashland represented in its Commission filings that its 
+financial statements complied with GAAP. 
+ 
+       Ashlands expenditures for environmental compliance have a significant effect on its 
+businesses.  As required by GAAP, Ashland accrues an environmental reserve for future costs that 
+it expects to incur to remediate contamination.2
+                                                 Ashland explained in its annual reports and the 
+notes to its financial statements that the reserve reflects the companys estimates of the most 
+likely costs which will be incurred over an extended period to remediate identified 
+environmental conditions for which the costs are reasonably estimable[.]   
+        
+ D.            Ashlands Process for Estimating the Environmental Reserve 
+ 
+       From 1999 through 2001, Ashlands environmental remediation efforts were managed by 
+the Remediation Group within the companys Environmental, Health and Safety Department 
+(EH&S).  As the director of Ashlands Remediation Group, Olasin was responsible for 
+Ashlands determination of its future environmental liability.  Olasin supervised a group of six 
+environmental engineers who managed remediation at various sites and determined the initial 
+liability estimates used to set the reserve.    
+        
+       Although Olasin was responsible for the accuracy of all estimates, Olasins Remediation 
+Group provided estimates for only some categories, including the chemical and refinery sites.  For 
+other categories, Olasin reviewed estimates forwarded to him by other Ashland divisions and 
+consultants.   
+        
+       Olasins Remediation Group used a decision tree method for determining the cleanup 
+cost estimates for remediating the chemical and refinery sites.  Each spring, the engineers in the 
+
+                                                 
+1
+              FASB Concepts Statement No. 5, Recognition and Measurement in Financial Statements of 
+Business Enterprises, paragraphs 63 and 75.   
+ 
+2
+              Financial Accounting Standard No. 5, Accounting for Contingencies (FAS 5), requires Ashland to 
+accrue for future remediation costs if it is probable that the company has incurred a liability and it can 
+reasonably estimate the amount of the loss.  The American Institute of Certified Public Accountants 
+Statement of Position 96-1, Environmental Remediation Liabilities, identifies future remediation costs that 
+must be included in the companys environmental reserve, such as pre-cleanup activities and performance of 
+remedial action.   
+
+                                                 3 
+---------------------Page 4---------------------
+
+Remediation Group met for two days with an independent, outside consultant to analyze each 
+remediation site.  Olasin did not participate in these sessions because of the independent 
+consultants concern that Olasin could bias the input of the engineers.  At the sessions, the 
+engineers presented possible remediation strategies for each site and the estimated costs for each 
+remedy.  The group critiqued each strategy and cost estimate.  The independent consultant, who 
+had a doctorate in engineering and 25 years of environmental remediation experience, facilitated 
+the discussion by asking for justifications for the engineers estimates and keeping the group within 
+a set of ground rules, which described the types of costs that should be accrued and listed 
+assumptions that Ashland used in the process.     
+        
+       After the engineers reached a consensus for each site, the consultant entered the estimates 
+into a computer program called Crystal Ball, which generated a probability range of the total 
+future cost estimates for each site.  The Crystal Ball output was forwarded to Olasin for his review.  
+Ashland considered it appropriate for Olasin to correct mistakes in the estimates or otherwise 
+adjust them, as long as he had a reasonable basis for doing so.  After his review, Olasin provided 
+the cost estimates to an accountant who worked for Ashland as a contractor.  The accountant 
+compiled all estimates into a single report, which Olasin then forwarded to an assistant controller.  
+The assistant controller used the estimates to determine Ashlands environmental reserve, which 
+Ashland recorded in its books and records and reported in its Commission filings.   
+        
+       Ashland conducted this process once each year, and recorded any resulting change to its 
+environmental reserve during the fourth quarter.  In the first three quarters of each following year, 
+Ashland carried forward the prior years reserve estimate, after making adjustments based on 
+expenditures during the quarter and any unusual developments.  
+        
+ E.            Olasins Reductions 
+ 
+              Between 1999 and 2001, Olasin made multiple reductions to the cost estimates determined 
+by the team of engineers and the independent consultant that Ashland used to set its environmental 
+reserve.  Olasin had no reasonable basis and no supporting documentation for these reductions, 
+which generally were across-the-board reductions of various sites by the same large percentage. 
+ 
+              In 1999, after reviewing the Crystal Ball output, Olasin directed the accountant to reduce 
+by 25% the Crystal Ball calculations for fourteen of the chemical and refinery sites whose costs 
+were estimated through the decision tree process  including seven of the ten largest sites.  Olasin 
+then directed the accountant to reduce the reserve for all chemical and refinery locations whose 
+costs were estimated through the decision tree process (more than fifty sites) across the board by 
+an additional 25%, including the fourteen sites already reduced.  There is neither a documented 
+basis for Olasins reductions nor any evidence that each sites estimate was overstated by the same 
+percentage.  
+        
+       Olasins reductions decreased Ashlands reserve by over $12 million, which reduced the 
+reserve for Ashlands chemical and refinery sites whose costs were estimated through the decision 
+tree process by 33% and decreased Ashlands total reserve by 6.9% to $166 million.  Ashlands 
+annual report and financial statements for 1999 contained the misstated reserve.  Olasins 
+reductions also increased Ashlands fourth quarter net income by 6.7%, to $114 million.   
+
+                                                4 
+---------------------Page 5---------------------
+
+        
+              In 2000, Olasin used a two-step process to adjust the estimates for more than 40 chemical 
+and refinery sites whose costs had been estimated through the decision tree process.  First, Olasin 
+reduced the estimates for 20 sites by approximately 25%, and reduced the estimates for an 
+additional five sites by approximately 44%, the equivalent of two 25% reductions.  Olasin also 
+reduced the estimates for nine sites, including three of the five largest, by 38% to 73% to round 
+number estimates. 3
+                     Olasin also increased the estimates for five sites.  Second, Olasin reduced the 
+estimates for 38 sites by an additional 3%.  Revised Crystal Ball data reflecting the first series of 
+adjustments was maintained, but no documentation exists to justify the reductions, or to indicate 
+that multiple sites were overstated by the same percentage. 
+ 
+       Olasins reductions in 2000 decreased Ashlands reserve by over $12 million, which 
+reduced the reserve for chemical sites whose costs were estimated through the decision tree process 
+by 41% and reduced Ashlands total reserve by 7% to $163 million.  The adju    stment also increased 
+Ashlands annual net income before charges for one-time items for 2000 by 2.65% to $292 million, 
+and increased net income after charges for one-time items by 12.1% to $70 million.   4
+                                                                                        The 
+adjustment increased Ashlands fourth quarter net income by 9% to $96 million.    5
+                                                                                      
+ 
+              In 2001, Olasin made an across-the-board, 10% reduction to estimates for 40 sites, 
+reducing the reserve by $1,904,000 to $176 million.  There is no documentation supporting these 
+reductions.  Olasins 10% reduction had the effect of keeping constant the total reserve for the 
+chemical sites that he managed, and reduced Ashlands total environmental reserve by 
+approximately 1%.  
+ 
+       Olasin also considered both a 24% and a 10% reduction in 2002, but abandoned the 
+planned reduction when Ashlands internal auditors commenced an internal audit at approximately 
+the time the reduction would have been finalized.  A week before the internal auditors interviewed 
+Olasin, the Crystal Ball program was re-run to remove the planned adjustment.    6
+        
+        
+  
+
+                                                 
+3
+              Olasin reduced three of the five largest estimates from $2,968,000, $2,446,000, and $2,324,000 to 
+$800,000, $1,000,000, and $1,000,000, respectively.   
+4
+       Ashland incurred one-time charges in 2000 for a discontinued operation and debt retirement.   
+5
+              The 2000 adjustment was carried forward during the first three quarters in 2001.  Ashland began 
+disclosing its environmental reserve in quarterly reports in the second quarter of 2001.  As a result, the 
+reduction in 2000 decreased the environmental reserve that Ashland reported in its quarterly reports for 
+the second and third quarters of 2001 by 7.5% in the second quarter and 6.3% in the third quarter. 
+6
+              Ashlands reserve for the chemical sites that were the subject of Olasins reductions increased 
+considerably when his reductions stopped after 2001.  From 2001 to 2005, Ashlands reserve for the 
+chemical onsite locations grew from $18 million to over $36 million. 
+
+                                                  5 
+---------------------Page 6---------------------
+
+       F.      Ashlands Internal Controls 
+ 
+       During the relevant period, Ashlands internal controls for setting the companys 
+environmental reserve depended on detailed, documented support for the engineers estimates, as 
+well as the peer critique session led by the independent consultant.  Ashland maintained specific, 
+written procedures describing this process.  However, Ashlands internal controls were inadequate 
+because they did not establish guidelines for, or require documentation or review of, adjustments to 
+the engineers cost estimates.  Olasin helped design these controls.   
+        
+       Prior to 2001, Ashlands written procedures did not provide a process for adjusting the cost 
+estimates generated by the Crystal Ball process.  In 2001, Ashland changed the written procedures 
+to indicate that the management team might adjust the estimates produced by the engineers.  
+However, the revised procedures did not identify the management team and did not establish any 
+guidelines setting forth when or how an adjustment could be made.  In addition, unlike the 
+documented, factual basis required for the original estimates, the procedures did not require 
+documentation or review of any adjustments.   
+        
+ G      .     Ashland Receives Complaints in 2002 
+ 
+              In 2002, three engineers who worked for Olasin raised questions about Olasins conduct 
+regarding the process of setting the environmental reserve in their confidential responses to an 
+internal Code of Conduct Questionnaire and Certification Statement.  One engineer specifically 
+alleged, among other things, that Olasin was improperly reducing the reserve through 
+management adjustments.   7
+                                
+ 
+              In response to these reports, Ashlands law department informed the internal audit 
+department about the first engineers complaints and asked it to conduct an audit.  Consistent with 
+the audit departments normal practice, the internal audit was designed to evaluate internal 
+controls, not to determine whether Ashlands reserve conformed with GAAP.  The internal 
+auditors did nothing to familiarize themselves with the accounting rules for an environmental 
+reserve. 
+ 
+              The internal auditors reviewed only fiscal years 2001 and 2002, and discovered Olasins 
+10% reduction in 2001.  The auditors asked Olasin about the 2001 reduction, and Olasin said that 
+he reduced the estimates because, in his judgment, they were approximately 10% too high and he 
+did not have time for a site-by-site review.  The auditors asked Olasin for documentation or other 
+support for the reduction in 2001, but he said there was none.  The auditors also reviewed 
+individual adjustments that Olasin made in 2002, and asked Olasin and the remediation engineers 
+responsible for the sites in question about the adjustments.  Olasin explained the reasons for the 
+adjustments, and the engineers agreed that the adjustments were proper.  The auditors did not find 
+the planned across-the-board reductions for 2002.  The auditors concluded that the 10% reduction 
+in 2001 (which amounted to less than $2 million) was not quantitatively material and 
+recommended changes to Ashlands environmental reserve process, including documentation and 
+tracking of all changes to cost estimates, and review and approval by the engineers of any change 
+made to site estimates.  Ashland implemented these recommendations. 
+                                                 
+7
+              Olasin himself referred to his reductions as management adjustments.  
+
+                                                6 
+---------------------Page 7---------------------
+
+ 
+       A few days after responding to a preview of the internal audit report, Olasin told the first 
+engineer (whose identity he had learned) that his performance was suffering and that he should 
+spend the weekend thinking about whether he wanted to stay with the company.  The engineer 
+ultimately left Ashland because he believed that he was being subjected to retaliation.8
+                                                                                       Ashland 
+learned about the engineers concerns about retaliation, including Olasins instruction that the 
+engineer should consider whether he wanted to continue working at Ashland.  Ashland did not 
+discipline Olasin for this conduct, but his supervisor told him that it was wrong.  In April 2006, 
+after the Commission staffs investigation was complete, Ashland reassigned Olasin as a project 
+manager within Ashlands Engineering Department and removed him from the reserve setting 
+process.  
+        
+       H.      Legal Analysis 
+ 
+  1.                   Reporting Violations 
+ 
+       Section 13(a) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder require issuers 
+with securities registered under Section 12 of the Exchange Act to file annual and quarterly reports 
+with the Commission, and the obligation to file such reports includes the requirement that they be 
+true and correct.  Rule 12b-20 further requires that such reports contain any additional information 
+necessary to ensure that the required statements in the reports are not, under the circumstances, 
+materially misleading.  Financial statements in Commission filings that do not comply with GAAP 
+are presumed to be misleading.  Regulation S-X, 17 C.F.R. 210.4-01(a)(1). 
+        
+       GAAP required Ashland to maintain an environmental reserve, and Ashland identified the 
+reserve in its Commission filings as important to its business.  As discussed above, Ashlands 
+annual reports and notes to the companys financial statements filed on Form 10-K for 1999 and 
+2000 materially understated Ashlands environmental reserve and overstated its net income.  
+Ashland also materially understated the companys environmental reserve in its quarterly reports 
+for the second and third quarters of 2001, filed on Form 10-Q.  The misstatements ranged from 7% 
+to 12%.  As a result of this conduct, Ashland violated Section 13(a) of the Exchange Act and Rules 
+12b-20, 13a-1, and 13a-13 thereunder.  Olasin caused Ashlands violations by improperly reducing 
+the cost estimates used to determine Ashlands environmental reserve.   
+        
+              2.      Record Keeping and Internal Controls Violations 
+        
+       Section 13(b)(2)(A) of the Exchange Act requires Section 12 registrants to make and keep 
+books, records, and accounts that accurately and fairly reflect the transactions and dispositions of 
+their assets.  Section 13(b)(2)(B) of the Exchange Act requires such registrants to devise and 
+maintain a system of internal accounting controls sufficient to provide reasonable assurances that, 
+among other things, transactions are recorded as necessary to permit preparation of financial 
+statements in conformity with GAAP and to maintain the accountability of assets.  Exchange Act 
+Rule 13b2-1 prohibits the direct or indirect falsification of any book, record, or account subject to 
+                                                 
+8
+              The engineer filed a complaint with the Department of Labor under the whistleblower protection 
+provisions of Section 806 of the Sarbanes-Oxley Act of 2002, and eventually reached a settlement with 
+Ashland.   
+
+                                                7 
+---------------------Page 8---------------------
+
+Section 13(b)(2)(A).   
+        
+       Ashland violated Section 13(b)(2)(A) because its books and records contained inaccurate 
+cost estimates that were used to determine the companys environmental reserve in fiscal years 
+1999, 2000, and 2001.  Olasin caused Ashlands violations by reducing the cost estimates without 
+a reasonable basis and documentation.  Ashlands internal controls were deficient, and the 
+company violated Section 13(b)(2)(B), because the company had no guidelines, documentation, or 
+review requirements for adjustments of the cost estimates developed by the team of Ashland 
+engineers.  Olasin caused Ashlands violations because he helped design Ashlands controls for the 
+decision tree process.  By reducing the engineers estimates without any reasonable basis, Olasin 
+also caused Ashlands books and records to be falsified and thereby violated Exchange Act Rule 
+13b2-1.   
+ 
+                                              IV. 
+                                                 
+                                      UNDERTAKINGS
+          
+       A.       Ashland undertakes to implement the following revisions that it has made to its 
+              policies and procedures for determining its environmental reserve: 
+        
+              1.       Document all adjustments to the environmental remediation reserve 
+                      estimates and the reasons for each adjustment to create a clear audit trail of 
+                      the estimates.   
+
+              2.       Retain all records relating to environmental remediation reserve estimates 
+                      for a period of seven years following the period to which the reserve 
+                      estimates relate. 
+
+              3.       Require the manager of Ashlands Environmental Remediation Group, or 
+                      his or her equivalent or successor, to consult with the remedial engineer or 
+                      other individual responsible for the environmental remediation estimate for 
+                      a given site before deciding whether to adjust the estimate of that site. 
+
+              4.       Include in Ashlands Business Responsibility Questionnaire and 
+                      Certification (or equivalent or successor document) sent to the 
+                      Environmental Remediation Group and Accounting Department, or to their 
+                      equivalents or successors, questions concerning whether the individual is 
+                      aware of any failure to follow the Environmental Remediation Groups (or 
+                      its equivalents or successors) reserve-setting procedures or of any 
+                      misstatement in Ashlands books and records concerning any environmental 
+                      remediation reserve. 
+
+              5.       Conduct an annual best practices review with Ashlands outside auditor for 
+                      the purpose of discussing and, when appropriate, modifying the companys 
+                      policies and procedures for determining its environmental reserve, including 
+                      the  policies and procedures identified in this Section IV.A or instituted as a 
+                      result of the undertaking identified in Section IV.C, below.  This review 
+
+                                               8 
+---------------------Page 9---------------------
+
+                      shall include a comparison of each sites reserve estimate to the sites 
+                      annual budget and historical expenditures.  
+
+              6.       Require a report to Ashlands board of directors or an appropriate 
+                      committee of the board on an annual basis regarding compliance with these 
+                      provisions. 
+
+       B.       Ashland undertakes to preclude Olasin from participating in the determination of 
+              Ashlands environmental reserve, the creation and maintenance of Ashlands books 
+              and records, and the preparation of Ashlands financial statements. 
+
+       C.       Ashland undertakes to retain PricewaterhouseCoopers LLP to review: 
+
+              1.       Ashlands policies, procedures, and internal controls relating to the 
+                      companys determination of its environmental reserve. 
+
+              2.       Ashlands policies, procedures, and internal controls relating to solicitation 
+                      and investigation of internal complaints, and measures to prevent retaliation 
+                      against complainants. 
+
+              Ashland will require PricewaterhouseCoopers to submit to the audit committee of 
+              Ashlands board of directors and the staff of the Division of Enforcement a written 
+              report fully documenting its findings and proposed recommendations.  Within 90 
+              days after receipt of such report, Ashlands audit committee, or board of directors, 
+              as appropriate, will adopt and implement such recommendations; provided, 
+              however, that as to any recommendation that Ashland believes is unduly 
+              burdensome or impractical, Ashland may suggest an alternative policy or procedure 
+              designed to achieve the same objective, submitted in writing to 
+              PricewaterhouseCoopers and the staff of the Division of Enforcement.  Ashland 
+              will require PricewaterhouseCoopers to reasonably evaluate any alternative policy 
+              or procedure proposed by Ashland, and Ashland agrees that it will abide by the 
+              decision of PricewaterhouseCoopers regarding such alternative proposals. 
+
+                                               V. 
+
+              Based on the foregoing, the Commission finds that: 
+        
+       A.          Respondent Ashland violated Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the 
+Exchange Act and Rules 12b-20, 13a-1, and 13a-13 thereunder. 
+               
+       B.          Respondent Olasin violated Exchange Act Rule 13b2-1 and caused Ashlands 
+violations of Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 12b-20, 
+13a-1, and 13a-13 thereunder. 
+ 
+
+ 
+
+                                               9 
+---------------------Page 10---------------------
+
+                                                            VI. 
+
+         In view of the foregoing, the Commission deems it appropriate to impose the sanctions 
+agreed to in Respondents Offers. 
+ 
+         Accordingly, pursuant to Section 21C of the Exchange Act, it is hereby ORDERED, that: 
+ 
+ A. Respondent Ashland cease                         and desist from committing or causing any violations and 
+any future violations of Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 
+12b-20, 13a-1, and 13a-13 thereunder. 
+ 
+ B. Respondent Olasin cease                        and desist from committing or causing any violations and 
+any future violations of Exchange Act Rule 13b2-1 and from causing any violations and any future 
+violations of Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 12b-20, 
+13a-1, and 13a-13 thereunder. 
+ 
+              C.          Respondent Ashland shall comply with its undertakings set forth in Section IV 
+above. 
+ 
+ By the Commission. 
+ 
+       Nancy M. Morris 
+       Secretary 
+
+                                                             10 

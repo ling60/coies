@@ -1,0 +1,1413 @@
+---------------------Page 1---------------------
+
+                                                                                 ..........
+ 
+ 1 
+    MARCJ.    FAGEL 
+2   JOHN  S. YUN (Conditionally  Admitted Pursuant to G.R. (2)(c)(2» 
+     yunj@sec.gov 
+ 3  ROBERT  S. LEACH (Conditionally Admitted Pursuant to G.R. (2)(c)(2» 
+     leachr@sec.gov 
+4   ERIC  M. BROOKS  (Conditionally Admitted Pursuant to G.R. (2)(c)(2» 
+     brookse@sec.gov 
+ 5 
+    Attorneys  for Plaintiff 
+ 6   SECURITIES  AND EXCHANGE  COMMISSION 
+    44 Montgomery  Street, Suite 2600 
+ 7   San Francisco,  California  94104                                              £.N1F.HED 
+    Telephone:  (415) 705-2500                                        Fll£D    -\)ECEiVED
+ 8  Facsimile:  (415) 705-2501                                   -IOOGtu
+                                                                 ~r:"""""~""" 
+                                                                               --' 
+ 9                                                                     SEP   1 it 2.0Cm 
+                                                                            pi! $t.;'1fI.\ CO' If1T 
+10                                                                     CU'J\k u.f\ Oi~l~ftil:..: ''''''H\N(~/f()N 
+                                                                     WESTERN DISTRICT o~ \IVA':)   -. Dr.fo'UTY 
+                                                                   ~y 
+11 
+                                 UNITED STATES DISTRICT  COURT 
+12 
+                              WESTERN      DISTRICT    OF WASHINGTON 
+13 
+                                             AT  SEATTLE 
+14 
+
+15   SECURITIES AND EXCHANGE COMMISSION,  Case               Nt:   0    9~12            9   2"     s':;:;­
+16 
+                   Plaintiff, 
+                                                        COMPLAINT 
+17 
+            v. 
+                                                       . [JURY TRIAL DEMANDED] 
+18 
+     STUART    W. FUHLENDORF 
+19 
+                   Defendant. 
+20 
+
+21          Plaintiff  Securities and Exchange Commission ("the Commission")  alleges: 
+22 
+                                  SUMMARY      OF  THE ACTION 
+23 
+            1.     This case involves a financial reporting fraud committed by defendant  Stuart 
+
+24   W. Fuhlendorf  ("Fuhlendorf'),  the former Chief Financial Officer ofIsilon Systems, Inc. 
+25   ("Isilon" or the "Company"),  a Seattle-based data storage device company. In December 
+
+26   2006, Isilon had the most successful Initial Public Offering for a technology stock since the 
+
+27   autumn of 2000.  On the first day oftrading, Isilon' s stock price rose from $13.00 to $23.10 
+28 
+    Complaint                                                           Securities and Exchange Commission 
+     SEC v. Fuhlendorf                                                                          th 
+                                                                           44 Montgomery Street, 26 Floor 
+                                                                                 San Francisco, CA 94104 
+                                                                               Telephone: (415) 705-2500 
+---------------------Page 2---------------------
+
+ 1  per share, a 77 percent increase from the initial offering price.  The  successful  stock offering
+ 
+
+ 2  placed significant pressure  on Isilon's  management,  however, to maintain the stock price
+ 
+
+ 3  gams.
+ 
+
+ 4          2.      As Isilon's  actual sales results came in for the three quarters following the 
+
+ 5  Initial Public Offering, Fuhlendorfknew  that the Company would not meet the analysts'
+ 
+
+ 6  revenue  forecasts and that Isilon's  share price was at risk ofa significant decline.  Fuhlendorf
+ 
+
+ 7  therefore  engaged  in a scheme to inflate Isilon's  reported revenues  in violation ofthe
+ 
+
+ 8  requirements   of the Company's  own accounting policies as well as Generally Accepted
+ 
+
+ 9  Accounting  Principles  ("GAAP").
+ 
+
+10          3.      Fuhlendorf  fraudulently  caused Isilon to improperly recognize revenue     on five 
+
+11  transactions  in its first three quarters as a public company and concealed the fraud from 
+
+12  Isilon's  Audit Committee,  outside auditor, and Controller.  Fuhlendorfknew  that Isilon, on 
+
+13  multiple  occasions, booked "sales"  to resellers who did not have firm commitments  from end­
+
+14  users  or the ability to pay without the resale. He also participated  in a roundtrip  transaction 
+
+15  where Isilon purchased  software from  a customer who used the software  revenue from Isilon 
+
+16  to "purchase"  Isilon product.  Fuhlendorf  also played a part in a transaction  where the terms 
+
+17  were not fixed until after the quarter ended. 
+
+18          4.      By  engaging  in this scheme to report revenue in violation  of GAAP and the 
+
+19   Company's  accounting  policies,  Fuhlendorfknowingly  and/or recklessly  caused Isilon to 
+
+20  report revenues  that were materially inflated  by a total of$4.8 million  over the first three 
+
+21   quarters  folloWing the Initial Public Offering. 
+
+22           5.     The Commission  seeks an order enjoining Fuhlendorf  from future violations       of 
+
+23  the securities laws, requiring him to disgorge his ill-gotten gains with prejudgment  interest, 
+
+24  pay a civil monetary  penalty, and repay certain bonuses and stock profits, and barring him 
+
+25  from serving as an officer  or director of a public company. 
+
+26 
+
+27 
+
+28   Complaint                                           2                     Securities and Exchange Commission 
+     SEC v. Fuhlendorf                                                             44 Montgomery  Street, 26th 
+                                                                                                           Floor 
+                                                                                         San Francisco, CA 94104 
+                                                                                       Telephone:  (415) 705-2500 
+---------------------Page 3---------------------
+
+ 1                                  JURISDICTION       AND    VENUE 
+
+ 2          6.      The Commission  brings this action pursuant  to Section 20(b)   of the Securities 
+
+ 3  Act  of 1933 ("Securities  Act")  [15 U.S.C.  § 77t(b)] and Section 21(d) ofthe Securities 
+
+ 4  Exchange   Act  of 1934 ("Exchange  Act")  [15 U.S.C.  §§  78u(d)].  This Court has jurisdiction 
+
+ 5  over this action pursuant  to Section 22(a) of the Securities  Act [15 U.S.C. § 77v(a)] and 
+
+ 6  Sections  21(e) and 27  ofthe Exchange Act [15 U.S.C.    §§  78u(e) and 78aa]. 
+
+ 7          7.      Fuhlendorf,  directly or indirectly,  has made use ofthe means and 
+
+ 8  instrumentalities of interstate  commerce, of the mails,  or'ofthe facilities ofa national 
+
+ 9  securities  exchange, in connection  with the acts, practices,  courses ofbusiness,  and 
+
+10  transactions alleged  herein. 
+
+11          8.      This District is an appropriate  venue for this action under  Section 22 ofthe 
+
+12  Securities  Act [15 U.S.C.  § 77v] and Section 27  of the Exchange  Act [15 U.S.C.   § 78aa]. 
+
+13  Certain  of the acts, practices,  courses ofbusiness,  and transactions constituting the violations 
+
+14  alleged herein  occurred  within the Western District of Washington,  where the defendant 
+
+15  resides.  Assignment  to the Seattle Division  is appropriate  because much  ofthe relevant 
+
+16  conduct  took place  in King County. 
+
+17                                        THE    DEFENDANT 
+
+18          9.      Stuart W. Fuhlendorf,  age 47, resides in Seattle, Washington.   At the time of 
+
+19  the events alleged herein,  Fuhlendorfwas  the CFO    of Isilon. Fuhlendorfs   employment  with 
+
+20  Isilon terminated  in October  2007.  Prior to joining  Isilon in 2004, Fuhlendorf  served as CFO 
+
+21  for two companies    in the technology  and manufacturing  sectors.  During the Commission's 
+
+22  investigation,  Fuhlendorf  refused to answer questions,  asserting his right against self-
+
+23  incrimination  under the Fifth Amendment  to the United  States Constitution. 
+
+24                                       RELEVANT       ENTITY 
+
+25           10.    Isilon Systems,  Inc. iSla Delaware  corporation  headquartered in Seattle, 
+
+26  Washington.  The    Company's   common  stock is registered  with the Commission  under 
+
+27  Section  12(b) of the Exchange  Act [15 U.S.C.   § 78t]. Isilon sells systems  for storing  and 
+28  Complaint                                           3                     Securities and Exchange Commission 
+     SEC v. Fuhlendorf                                                           44 Montgomery  Street, 26th 
+                                                                                                          Floor 
+                                                                                        San Francisco, CA 94104 
+                                                                                      Telephone:  (415) 705-2500 
+---------------------Page 4---------------------
+
+ 1  managing file-based data to end-users and resellers to store electronic unstructured, file-based 
+
+ 2  data such as video, audio, and digital images. 
+
+ 3                                   FACTUAL  ALLEGATIONS 
+
+ 4          11.     Isilon went public in December 2006 in the most successful IPO for a 
+
+ 5  technology stock since autumn 2000.  On the first day   of trading, Isilon's  stock price rose 
+
+ 6  from $13.00 to $23.10, a 77 percent increase from the initial offering price~ The success, 
+
+ 7  however, placed significant pressure on Isilon's management at the time.  Analysts covering 
+
+ 8  Isilon projected revenue for the company to grow from $21.5 million in the fourth quarter 
+
+ 9  2006 to $29.9 million for the second quarter  of 2007 and revenue to remain in "hyper-growth" 
+
+10  through 2009. 
+
+11          12.     At the time ofthe  events alleged herein, Isilon's policy, as described in 
+
+12  multiple SEC filings, was to recognize revenue on sales to end-users and resellers when it (1) 
+
+13  had entered into a legally binding arrangement with a customer, (2) delivery had occurred, (3) 
+
+14  the fee was deemed fixed or determinable and free    of contingencies and significant 
+
+15  uncertainties, and (4) collection was probable.  With sales to resellers, Isilon had an internal 
+
+16  written policy that the company did not recognize revenue on sales to resellers without 
+
+17  persuasive evidence   ofa firm arrangement with an end-user customer.  Isilon typically 
+
+18  accepted purchase orders from resellers and end-users as the legally binding arrangement 
+
+19  outlining the terms of the sale. 
+
+20          13.     In response to pressure from the market to perform, Fuhlendorf fraudulently 
+
+21  caused Isilon to improperly recognize revenue on five transactions in its first three quarters as 
+
+22  a public company, totaling $4.8 million.  Fuhlendorfknew  or was reckless in not knowing 
+
+23  that Isilon, on multiple occasions, sold to resellers who did not have firm commitments from 
+
+24  end-users  or the ability to pay without the resale.  He also participated in a roundtrip 
+
+25  transaction where Isilon purchased software from a customer who used the software revenue 
+
+26  from Isilon to purchase Isilon product.  Fuhlendorf also played a part in a sale where the terms 
+
+27  were not fixed until after the quarter ended.  This fraud was concealed  by Fuhlendorf from 
+28  Complaint                                           4                    Securities and Exchange Commission 
+    SEC  v. Fublendorf                                                          44 Montgomery  Street, 26th 
+                                                                                                        Floor 
+                                                                                      San Francisco, CA 94104 
+                                                                                     Telephone:  (415) 705-2500 
+---------------------Page 5---------------------
+
+ 1  Isilon's  Audit Committee, outside auditor, and Controller. 
+
+ 2          A.	     Fourth  Quarter  2006:  Fuhlendorf  Improperly  Recognized Revenue on a 
+                    $1.1 Million Transaction  with  an  IsUon Reseller. 
+ 3 
+            14.     For the fourth quarter of2006, Isilon expected one  ofits largest resellers 
+ 4 
+    ("Reseller  1"), based in West Teterboro, New Jersey, to place a $1 million order, but as the 
+ 5
+    quarter progressed, Reseller 1 advised Isilon that, because its end-user did not yet need the 
+ 6 
+    product, the order would not  be forthcoming in 2006. 
+ 7 
+            15.     After the IPO, in mid-December 2006, Fuhlendorf and Isilon's  former CEO 
+ 8 
+    called the CEO ofReseller  1 and asked   ifReseller 1 would accept shipment   of over $1 million 
+ 9 
+    in product before the end  ofthe year as a "favor" to Isilon.  Fuhlendorf and Isilon's former 
+10
+    CEO made this request for a favor, knowing that Reseller 1 did not have a purchase 
+11 
+
+13 
+    order and payment from an end-user. 
+14 
+            16.     The CEO   of ReseUer 1 agreed to order and warehouse $1.1 million in Isilon 
+15
+    product based on the assurance it would not have to pay for the product until it received an 
+16 
+    order and payment from an end-user.  The assurance provided to Reseller 1     by Fuhlendorf  or 
+17 
+    Isilon's  former CEO did not appear in the purchase order issued  by Reseller 1 on December 
+18 
+    20,2006. 
+19 
+            17.     The purchase order from the end-user never materialized, and Reseller 1 
+20
+    refused to pay for the product and instead sought to return the product. In 2008, Isilon agreed 
+21 
+    to accept the return ofthe product, less $382,000 in product Reseller 1 was able to sell to 
+22 
+    other end-users in the third and fourth quarters of2007. 
+23 
+            18.     Despite the oral side agreement, Isilon improperly recognized $900,000 in 
+24 
+    revenue on the transaction in the fourth quarter of 2006.  On February 7,2007,  Isilon filed a 
+25
+    current report on Form 8-K announcing its results for the fourth quarter and year-ended 
+26 
+    December 31, 2006.  Isilon reported revenue for the fourth quarter  of $20.7 million, $900,000 
+27 
+28  Complaint                                          5                    Securities and Exchange Commission 
+    SEC  v. Fuhlendorf                                                          44 Montgomery  Street, 26th 
+                                                                                                        Floor 
+                                                                                   ,  San Francisco, CA 94104 
+                                                                                    Telephone:  (415) 705-2500 
+---------------------Page 6---------------------
+
+ 1  of which came from the Reseller  1 transaction.  This was improper under GAAP because 
+
+ 2  Isilon had no firm commitment  from Reseller  1 to    pay for the product without a resale and 
+
+ 3  thus the sale was not free  of contingencies. 
+
+ 4           19.     Isilon reported the same false and misleading  financial information   in its Form 
+
+ 5  lO-K for 2006, filed with the Commission  on March 15, 2007.  In the filing, Fuhlendorf 
+
+ 6  falsely certified  that he had reviewed  the Form 10-K and that it did not contain any untrue 
+
+ 7  statements  of material  fact or omit to state a material fact necessary  to make the statements 
+
+ 8  made,   in light ofthe circumstances  under which such statements were made, not misleading. 
+
+ 9  Isilon's  Form  lO-K for 2006 - as well as all subsequently  filed quarterly reports - was 
+
+10  incorporated   by reference  into a Form S-8 registration  statement filed by Isilon on January  18, 
+
+11   2007 offering  securities  to its employees. 
+
+12           20.     Fuhlendorf also made false and misleading representations to Isilon' s outside 
+
+13   auditor about the Reseller  1 transaction.  In a representation  letter dated March 14,2007, 
+
+14  Fuhlendorf  falsely stated that there were no material transactions,  agreements,   or accounts 
+
+15  that had  not been properly  recorded  in the accounting records underlying  Isilon's  consolidated 
+
+16  financial  statements  and that Fuhlendorfwas  not aware   of any oral or written side agreements 
+
+17  with respect to any  of the sales recorded. 
+
+18           21.     Fuhlendorfknew    or was reckless in not knowing that Isilon's  statements   in its 
+
+19  Forms  8-K,  lO-K, and S-8, the certification,  and the representation  letter were false and 
+
+20   misleading  because  he directly participated  in the Reseller  1 transaction  that caused Isilon to 
+
+21   overstate  its revenue  for the quarter. 
+
+22           B.	     First Quarter   2007:  Fuhlendorf   Improperly    Approved  Recognition     of 
+                     $3.1 Million  in Revenue   on Three   Separate  Transactions. 
+23 
+             22.     The pressure  that Isilon felt after the very successful  IPO only increased  during 
+24 
+     its first full quarter as a public company.  There was significant pressure  on Isilon to meet 
+25
+     analysts'  expectations or to at least meet the projections  Isilon had provided  to the market. By 
+26 
+     the end of the first quarter  the pressure  to bring inrevenue hit a peak with Fuhlendorf and 
+27 
+
+28   Complaint                                           6                     Securities and Exchange  Commission 
+     SEC v. FuWendorf                                                              44 Montgomery  Street, 26th 
+                                                                                                            Floor 
+                                                                                         San Francisco, CA 94104 
+                                                                                        Telephone:  (415) 705-2500 
+---------------------Page 7---------------------
+
+ 1  Isilon's  Vice President of Sales arranging an 8:00 a.m. conference call with the entire sales 
+
+ 2  organization  on Saturday, March 31, where Fuhlendorftold  the sales force to do whatever 
+
+ 3  needed to  be  done to get sales booked before the quarter-end and in particular, to close deals 
+
+ 4  that had previously  been categorized as probable first-quarter sales. 
+
+ 5          23.     In the final days of the first quarter, Fuhlendorf directly participated in three 
+
+ 6  transactions  that accounted for $3.1 million in reported revenue for the quarter.  Two   ofthe 
+
+ 7  transactions  involved sales to resellers where Fuhlendorfknew  or was reckless in not knowing 
+
+ 8  that collection was not reasonably assured and the third involved    a fraudulent round-trip 
+
+. 9  transaction  with an end-user where collection was not assured without Isilon's  cash payment 
+
+10  to the end-user.  As Fuhlendorfknew,  recognizing revenue on these transactions was 
+
+11   improper under GAAP. 
+
+12                  i.  The  Undisclosed   Oral  Side Agreement    in Sale to Reseller  2 
+
+13           24.    In the first quarter of2007, a small Burbank, California reseller that serves 
+
+14  companies  in the film industry ("Reseller 2") told Isilon that it might place an order for 
+
+15   approximately  $500,000 worth    ofproduct before the end  of the quarter.  However, as the 
+
+16  quarter-end  approached,  Reseller 2 declined to place an order because it had not received  a 
+
+17  purchase  order from its anticipated end-User. 
+
+18           25.    On the second-to-Iast day   of the quarter, Saturday March 31, the Isilon sales 
+
+19  representative  on the Reseller 2 account scheduled a three-way conference call among 
+
+20  himself, the president  of Reseller 2, and Fuhlendorf.  During the call, the president of Reseller 
+
+21   2 informed Fuhlend6rf that Reseller 2 did not have a purchase order from the end-user and 
+
+22  that Reseller  2 would not  be able to pay for the product until it resold.  Fuhlendorf assured 
+
+23  Reseller 2 that lack of a purchase order from the end-user would not    be a problem and that 
+
+24  Isilon would help Reseller 2 resell the product to another end-user   ifnecessary.  Reseller 2 
+
+25  asked FuWendorf to memorialize  his assurances in writing and FuWendorf declined. 
+
+26          26.     Reseller 2 decided to go forward with the deal based on Fuhlendorrs  oral 
+
+27  assurances,  assurances that did not appear - at Fuhlendorrs  insistence - in the purchase order 
+28   Complaint                                           7                    Securities and Exchange  Commission 
+     SEC v. Fuhlendorf                                                            44 Montgomery  Street, 26th 
+                                                                                                          Floor 
+                                                                                        San Francisco, CA 94104 
+                                                                                      Telephone:  (415) 705-2500 
+---------------------Page 8---------------------
+
+ 1  issued by  Reseller 2.  Reseller 2 placed an order the night of Saturday, March 31, 2007, for 
+
+ 2  $517,000 ofIsilon  product,  of which Isilon improperly recognized $453,000 in revenue for 
+
+ 3  the first quarter.  Isilon's recognition ofrevenue on the sale was in violation ofGAAP 
+
+ 4  because, as Fuhlendorfknew,  there was no firm commitment from Reseller 2 and 
+
+ 5  collectability was not reasonably assured,  Additionally, Fuhlendorfknew  that, in violation  of 
+
+ 6  GAAP, Isilon had an ongoing involvement in the transaction since Isilon sales people were 
+
+ 7  obliged to help the buyer find.an end-user. 
+
+ 8          27.     Ultimately, Reseller 2's end-user did not issue a purchase order.  The product 
+
+ 9  was resold  by Isilon's  sales force, working on behalf ofReseller 2, to other end-users in the 
+
+10  fourth quarter of 2007 and the first quarter of2008.  Reseller 2 did not pay Isilon for the 
+
+11  product until it was sold through to the end-users. 
+
+12                  ii. The  Undisclosed  Oral  Side Agreement    in Sale to Reseller  3 
+
+13          28.     Also during the first quarter of2007,  another small reseller out ofNorth 
+
+14  Hollywood, California serving the entertainment industry ("Reseller 3") informed Isilon that 
+
+15  it anticipated a $600,000 order from an end-user soon.  As quarter-end approached, 
+
+16  Fuhlendorf asked the president   ofReseller 3 to take the Isilon product without a final 
+
+17  purchase order from the end-user.  Reseller 3 advised Fuhlendorfthat  Reseller 3 could not pay 
+
+18  without an end-user and Reseller 3 could not have non-payment hurt its relationship with 
+
+19  Isilon.  Fuhlendorf responded that non-payment would not result in a credit hold and that 
+
+20  Isilon would find another home for the product   ifnecessary.  None ofFuhlendorf's oral 
+
+21  promises appeared in the purchase order issued   by Reseller 3. 
+
+22          29.     With the assurances from Fuhlendorf, Reseller 3 ordered $638,000 in Isilon 
+
+23  product on March 31, 2007,    ofwhich Isilon recognized $612,000 in revenue in the first 
+
+24  quarter.  Isilon's  recognition ofrevenue was in violation ofGAAP  because, as Fuhlendorf 
+
+25'  knew, there was no firm commitment and collectability on the sale was not reasonably 
+
+26  assured.  Moreover, Fuhlendorfknew  that, in violation ofGAAP,  Isilon had an ongoing 
+
+27  involvement in the transaction since Isilon sales people were continuing to try to sell the 
+28  Complaint                                           8                    Securities and Exchange Commission 
+    SEC v. Fuhlendorf                                                                                 th 
+                                                                                44 Montgomery  Street, 26 Floor 
+                                                                                      San Francisco, CA 94104 
+                                                                                     Telephone:  (415) 705-2500 
+---------------------Page 9---------------------
+
+ 1  product. 
+
+ 2          30.     The  end-user did not materialize  for Reseller  3, which, per the oral side 
+
+ 3  agreement,· did not pay Isilon for the product until it was sold to another end-user.  About 
+
+ 4  $200,000   in product was ultimately  resold by Reseller  3; the remaining  product  was returned 
+
+ 5  to Isilon in June 2008. 
+
+ 6                  iii. The  Bogus  Roundtrip   Transaction 
+
+ 7          31.     In mid-February  2007, a small start-up software  company ("Software 
+
+ 8  Company")  based    in Redwood  City, California,  issued a purchase  order to Isilon for $2.8 
+
+ 9  million  in product.  The purchase  order stated it was contingent  on the Software  Company 
+
+10  receiving  authorization  from the Italian government  for use ofits product. 
+
+            32.     By  late March, Fuhlendorflearned  that it was unlikely  that the Italian 
+
+12  government  would authorize  use   of the product before the end  ofthe quarter,  and thus the 
+
+13   contingency  would not  be lifted - preventing  revenue recognition  under GAAP.    In response, 
+
+14  Fuhlendorf called the president   ofthe Software Company and negotiated a deal whereby the 
+
+15  SoftWare Company  would complete its purchase       ofIsilon hardware  before the end  ofthe fIrst 
+
+16   quarter  and in return Isilon would purchase the Software Company's  software    in the second 
+
+17  quarter  of2007.   Fuhlendorf  committed  Isilon to buy the Software Company's  software 
+
+18  knowing  that the product had  not been tested with Isilon's  hardware  and knowing  that neither 
+
+19  .sales nor marketing  plans had been established.  Because the president  of the Software 
+
+20  Company  told Fuhlendorf during the call that   he did not want this deal t6 impact the Software 
+
+21   Company's   cash flow, Fuhlendorf structured the transaction so that Isilon' s cash payments to 
+
+22   the Software  Company  would  flow back to Isilon. 
+
+23           33.    The deal struck  by Fuhlendorf  and the Software Company's  president  was 
+
+24   memorialized  in two separate documents  dated March 30.  The separate documents  concealed 
+
+25  the true nature of the transaction  creating a misleading  appearance of two separate  and 
+
+26  independent  deals rather than the interrelated  transaction  negotiated by Fuhlendorf. In one 
+
+27  document,  the Software  Company  agreed to immediately  lift the contingency  on $2.2 million 
+
+28   Complaint                                           9                    Securities and Exchange  Commission 
+     SEC v. FuWendorf                                                            44 Montgomery  Street, 26th 
+                                                                                                          Floor 
+                                                                                        San Francisco, CA 94104 
+                                                                                      Telephone:  (415) 705-2500 
+---------------------Page 10---------------------
+
+ 1  ofthe  $2.8 million ordered in February with  $1 million due to Isilon by May  30,2007   and the 
+
+ 2  other $1.2 million due  by July 1. In the second agreement, signed  by  Fuhlendorf, Isilon 
+
+ 3  agreed to purchase $1.3 million  of the Software Company's  product on April 26 and pay for    it 
+
+ 4  by May 26 (four days before the Software Company would pay        $1 million to Isilon). 
+
+ 5
+           First 
+ 6         Payment                                                 are 
+
+ 7 
+
+ 8 
+                    Isilon                                     The Software Company 
+ 9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14          34.     Additionally, according to the agreement signed   by Fuhlendorf, Isilon had the 
+
+15  option to purchase $1.0 million  ofthe  Software Company's  product   by June 30 (four days 
+
+16  before the Software Company  was to pay $1.2 million to Isilon for the Isilon product). 
+
+17  Although the written agreement signed    by Fuhlendorf stated that Isilon had the "option"  to 
+
+18  order $1.0 million in additional Software Company product on or before June 30, during the 
+
+19  phone call negotiating the transaction, Fuhlendorf characterized the additional order to the 
+
+20  president of the Software Company not as an option, but as an actual commitment to 
+
+21  purchase.  During Isilon's  Audit Committee review    ofthe transaction, Fuhlendorffalse1y 
+
+22  described to the Committee a rationale and business purpose for Isilon to purchase the 
+
+23  Software Company's  product, when, in fact, there was no legitimate business purpose or 
+
+24  economic substance to the deal. 
+
+25
+
+26 
+
+27 
+
+28  Complaint                                          10                    Securities and Exchange  Commission 
+    SEC  v. Fuhlendorf                                                          44 Montgomery  Street, 26th 
+                                                                                                        Floor 
+                                                                                       San Francisco, CA 94104 
+                                                                                     Telephone:  (415) 705-2500 
+---------------------Page 11---------------------
+
+ 1 
+
+ 2         Second 
+           Payment 
+ 3         ("Option") 
+
+ 4 
+
+ 5                   Isilon                                      The Software Company
+ 6 
+
+ 7 
+
+ 8 
+
+ 9 
+
+10
+            35.     Of the $2.2 million sale ofproduct to the Software Company, Isilon recognized 
+11 
+12  revenue on $2.0 million  in the first quarter of2007.  Isilon's recognition ofthe revenue on the 
+
+13  transaction with the Software Company was in violation    of GAAP because,    as Fuhlendorf 
+
+14  knew, it was a round-trip transaction in which the essence  ofthe transaction was a circular 
+
+15  flow  ofcash and there was no economic substance to the deal.  Fuhlendorf also knew that 
+
+16  collectability was not assured. 
+
+            36.     After the first quarter ended, per the agreements, Isilon paid $1.2 million to the 
+17 
+18  Software Company and the Software Company paid        $1 million to Isilon.  Isilon, however, did 
+
+19  not purchase additional Software Company product as it found no business use for the 
+
+20  Software Company's  software and no way to sell it bundled with Isilon's hardware.  In 
+
+21  response to Isilon's  failure to place the second order, the Software Company refused to make 
+
+22  the second scheduled payment    of $1.2 million and instead, made a partial payment  of 
+
+23  approximately $200,000 to offset the $1.2 million Isilon had paid to the Software Company 
+
+24  on May 22. 
+
+            37.     On April 25, 2007, Isilon filed a Form 8-K announcing its results for the first 
+25
+26  quarter ended April  1, 2007.  Isilon reported revenue of$21.6  million, ofwhich  $3.1 million 
+
+27  came from revenue improperly recognized in transactions with Reseller 2, Reseller 3, and the 
+
+28  Complaint                                          11                   Securities and Exchange Commission 
+    SEC v. FuWendorf                                                                                  th 
+                                                                                44 Montgomery  Street, 26 Floor 
+                                                                                      San Francisco, CA 94104 
+                                                                                    Telephone:  (415)  705-2500 
+---------------------Page 12---------------------
+
+ 1  Software-Company.  Fuhlendorfknew  the recognition       of the $3.1 million was improper 
+
+ 2  because  he  knew  of oral side agreements  with Reseller  1 and Reseller 2 and knew 
+
+ 3  collectability was not reasonably assured   on any of the three transactions.  Fuhlendorf further 
+
+ 4  knew that recognition   of the revenue  on the roundtrip transaction  with the Software Company 
+
+ 5  was improper  because  there was no economic substance to the transaction. 
+
+ 6          38.     Isilon also reported this inflated revenue in its Form 10-Q, filed with the 
+
+ 7  Commission  on May 10, 2007.  Fuhlendorf  signed the Form 10-Q, as well as a certification 
+
+ 8  falsely stating that the Form 10-Q did not contain any untrue statements    ofmaterial  fact or 
+
+ 9   omi~ to state a material  fact necessary  to make the statements made, in light ofthe 
+
+10  circumstances  under which such statements  were made, not misleading. 
+
+11          39.     Fuhlendorf  also signed a representation  letter, dated May 9,2007,  to Isilon's 
+
+12  outside  auditor that falsely stated that the consolidated  interim financial statements had been 
+
+13  prepared  and presented  in conformity  with GAAP; that there were no material  transactions, 
+
+14  agreements,   or accounts that had not been properly recorded in the accounting records 
+
+15  underlying the consolidated financial statements; and that Fuhlendorf was not aware      of any 
+
+16  oral or written  side agreements  with respect to any of the sales recorded. 
+
+17          40.     Fuhlendorfknew     or was reckless in not knowing that Isilon's  statements  in its 
+
+18  Forms   8-K  and 10-Q, the certification,  and representation  letter to be false and misleading 
+
+19  because  he  directly participated in the transactions  that caused Isilon to overstate its revenue 
+
+20   for the quarter. 
+
+21­         c.	     Second Quarter 2007:  Fuhlendorf Improperly Approved Recognition              of 
+                    $800,000   in Revenue on a Transaction  with an IsUon End-User. 
+22 
+            41.     In June 2007, a Paris, France based video file-sharing  company  (the "Video 
+23 
+     Company")  started discussions  with Isilon about purchasing  product.  By  late June, the Video 
+24 
+     Company  and Isilon had come close to finalizing  a deal for the sale of $1 million in Isilon 
+25
+    product.  Before the deal closed, however,  the Video Company's  CFO advised an Isilon sales 
+26 
+    representative  that the Video Company  could not enter into the transaction  until it received 
+27 
+
+28   Complaint                                          12                    Securities and Exchange Commission 
+     SEC v. Fuhlendorf                                                                                  th 
+                                                                                 44 Montgomery  Street, 26 Floor 
+                                                                                        San Francisco, CA 94104 
+                                                                                     . Telephone:  (415) 705-2500 
+---------------------Page 13---------------------
+
+ 1  approval  from its board.  The CFO also informed  the sales representative  that the board would 
+
+ 2  not meet  to approve the transaction  until early July, after the close ofIsilon's second quarter. 
+
+ 3          42.     Fuhlendorflearned  about the contingency  in June from the sales manager. 
+
+ 4  Despite  the fact that the Video  Company's  board had not yet approved the deal, Isilon shipped 
+
+ 5  over  $1 million  ofproduct to the Video Company      on July 1,2007 (the last day  ofIsilon's 
+
+ 6  second  quarter)  and recognized  the revenue  in Isilon's  second quarter. 
+
+ 7          43.     As it turned out, the Video  Company's  board did not approve the deal. 
+
+ 8  Instead, on  or around July  3, 2007, before  Isilon filed its financial statements  for the second 
+
+ 9  quarter  of2007,  the Video Company proposed  different terms, nearly doubling  the amount       of 
+
+10  product  Isilon would provide  at no additional  charge.  Isilon accepted the new terms and   on 
+
+11  July 5, the Video Company's  CFO confirmed  the new deal with the additional product        by  e­
+
+12  mail to Fuhlendorf  and others. 
+
+13          44.      On July 26,2007,   Isilon filed a Form 8-K announcing  its results for the second 
+
+14  quarter-ended  July  1,2007.   Isilon reported  revenue  of$25.1  million.  This revenue included 
+
+15  $800,000  from the Video Company transaction.  Isilon's  recognition     of revenue  for this sale 
+
+16  was  in violation of GAAP because,  as Fuhlendorf  was aware, the  terms were not fixed and 
+
+17  determinable  at quarter-end. 
+
+18           45.     On August   9,2007,  Isilon filed its Form  lO-Q for the second quarter reporting 
+
+19  the same false and misleading  financial  information.  Fuhlendorfsigned  the Form  10-Q, as 
+
+20   well as a certification  falsely stating that the Form  10-Q did not contain any untrue statements 
+
+21  of material  fact or omit to state a material  fact necessary  to make the statements  made, in light 
+
+22  of the circumstances  under which such statements  were made, not misleading. 
+
+23          46.      Fuhlendorf  also signed a representation  letter to Isilon's  outside auditor,  dated 
+
+24   August  8, 2007, that falsely stated that the consolidated  interim financial statements had been 
+
+25  prepared  and presented   in conformity  with GAAP; that there were no material transactions, 
+
+26  agreements   or accounts  that had not been properly  recorded  in the accounting  records 
+
+27  underlying  the consolidated  financial  statements;  and that Fuhlendorf  was not aware  of any 
+28   Complaint                                           13                    Securities and Exchange  Commission 
+     SEC v. Fublendorf                                                                                    th 
+                                                                                  44 Montgomery  Street, 26 Floor 
+                                                                                         San Francisco, CA 94104 
+                                                                                       Telephone:  (415) 705-2500 
+---------------------Page 14---------------------
+
+ 1  oral Or written side agreements with respect to any  ofthe sales recorded. 
+
+ 2          47.     Fuhlendorfknew  or was reckless in not knowing that the Forms 8-K and 10-Q, 
+
+ 3  the certification, and the representation letter were false because he directly participated in the 
+
+ 4  transaction that caused Isilon to overstate its revenue for the quarter. 
+
+ 5          48.     In the third quarter of2007, Fuhlendorfinformed  Isilon's  Controller that Isilon 
+
+ 6  needed to ship product free-of-charge to the Video Company.  Instead     oftelling the Controller 
+
+ 7  that Isilon was shipping the product pursuant to the July 5 email agreement, Fuhlendorf 
+
+ 8  concealed the terms  of the agreement and falsely told the Controller that the product would be 
+
+ 9  shipped as a "loan" and would be returned at some point in the future.  Fuhlendorf told the 
+
+10  Controller that the loan was part of a customer care issue and the loaned equipment would be 
+
+11  used  by the Video Company while making repairs to the purchased product. 
+
+12          D.      Isilon Restated Its Past Financial Statements. 
+
+13          49.     On October 23, 2007, Fuhlendorf's  employment with Isilon terminated.  On 
+
+14  November 8,2007,  Isilon publicly announced that its Audit Committee was conducting an 
+
+15  independent internal investigation. 
+
+16          50.     On February 29, 2008, Isilon disclosed that, as a result ofthe investigation, it 
+
+17  would restate its financial statements in its Form 10-K for the fiscal year ended December 31, 
+
+18  2006 and in its Forms lO-Q the first and second quarters   of fiscal 2007.  In the restatement, 
+
+19  the company corrected $7.0 million    ofthe $67.4 million  ofrevenue reported from the fourth 
+
+20  quarter of2006   through the second quarter of2007.    Ofthe  $7.0 million restated, $4.8 million 
+
+21  derived from the improper revenue recognition on the sales described above. 
+
+22 
+
+23 
+
+24 
+
+25
+
+26 
+
+27 
+28  Complaint                                          14                    Securities and Exchange Commission 
+    SEC v. Fuhlendorf                                                           44 Montgomery  Street, 26th 
+                                                                                                        Floor 
+                                                                                      San Francisco, CA 94104 
+                                                                                     Telephone:  (415) 705-2500 
+---------------------Page 15---------------------
+
+ 1 
+      Quarter       IsUon        IsUon           Analyst       Impact of improper revenue  recognition 
+                    GAAP         revenue 
+ 2                                               revenue       on revenue and net loss 
+                    revenue      guidance        consensus 
+                    reported 
+ 3 
+      Q42006        $20.7M       N/A             $21.5M        $900,000 or 4.6% overstatement of revenue 
+ 4 
+                                                               and 5.1% understatement of net loss 
+ 5
+      Q12007        $21.6        $21-23M         $22.4M        $3.1M or 16.9%  overstatement ofrevenue 
+ 6                                                             and 26.7% understatement ofnet loss 
+
+ 7 
+      Q22007        $25.1        $24.5-27.5M     $29.9M        $800,000 or 3.4% overstatement of revenue 
+ 8                                                             and 9.6% understatement of net loss 
+
+ 9 
+                                     FIRST    CLAIM     FOR   RELIEF 
+10
+               Violations of Section 10(b)  ofthe Exchange   Act and  Rule 10b-5 Thereunder 
+11 
+             51.    The Commission  realleges and incorporates     by  reference Paragraphs  1 through 
+12 
+     50 above. 
+13 
+             52.    By  engaging in the conduct described above, Fuhlendorf, directly or indirectly, 
+14 
+     in connection with the purchase   or sale ofsecurities, by the use of means  or instrumentalities 
+15
+     ofinterstate  commerce,  or of the mails, with  scienter: 
+16 
+                 (a)  employed devices, schemes, or artifices to defraud; 
+17 
+                 (b) made untrue statements   of material fact or omitted to state material  facts 
+18 
+                    necessary in order to make the statements made, in the light    of the 
+19 
+                     circumstances under which they were made, not misleading;  and 
+20
+                 (c)  engaged in acts, practices, or courses ofbusiness which operated    or would 
+21 
+                     operate as a fraud or deceit upon other persons, including purchasers  and 
+22 
+                     sellers of securities. 
+23 
+             53.    Fuhlendorfhas  violated and, unless restrained and enjoined, will continue to 
+24 
+    violate Section  10(b) of the Exchange Act [15 U.S.C. § 78j(b)] and Rule lOb-5 [17 C.F.R. § 
+25
+     240.10b-5]. 
+26 
+
+27 
+
+28   Complaint                                           15                    Securities and Exchange COIDIDlsslon 
+     SEC v. Fuhlendorf                                                             44 Montgomery  Street, 26th 
+                                                                                                            Floor 
+                                                                                         San Francisco, CA 94104 
+                                                                                        Telephone:  (415) 705-2500 
+---------------------Page 16---------------------
+
+ 1                                  SECOND CLAIM FOR RELIEF 
+
+ 2                              Violations of Securities Act Section 17(a)(1) 
+
+ 3          54.     The Commission realleges and incorporates    by referenc~ Paragraphs  1 
+
+ 4  through 50 above. 
+
+ 5
+            55.     By engaging in the conduct described above, Fuhlendorf, directly   or 
+
+ 6  indirectly,  in the offer or sale ofsecurities, by use ofthe means or instruments of 
+
+ 7  transportation  or communication  in interstate commerce  or by use of the mails, with 
+
+ 8  scienter, employed devices, schemes, or artifices to defraud. 
+ 9 
+            56.     By reason  ofthe foregoing, Fuhlendorfviolated  and, unless restrained  and 
+
+10  enjoined, will continue to violate Section 17(a)(1) of the Securities Act [15 U.S.C. § 
+11 
+    77q(a)(1)]. 
+12 
+                                  THIRD CLAIM FOR RELIEF 
+13 
+                            Violations of Securities Act Section 17(a)(2) and (3) 
+14 
+            57.     The Commission realleges and incorporates    by reference Paragraphs  1 
+15
+    through 50. 
+16 
+            58.     By engaging in the conduct described above, Fuhlendorf, directly   or 
+17 
+    indirectly,  in the offer or sale ofsecurities, by use ofthe means or instruments of 
+18 
+    transportation or communication  in interstate commerce or   by use of the mails, obtained 
+19 
+    money   or property by means  of untrue statements  ofmaterial fact or by omitting to state a 
+20
+    material fact necessary in order to make the statements made, in light  ofthe circumstances 
+21 
+    under which they were made, not misleading,  and engaged in transactions, practices,   or 
+22 
+    courses  ofbusiness which operated or'would  operate as a fraud or deceit upon purchasers. 
+23 
+            59.     By reason  ofthe foregoing, Fuhlendorfhas  violated and, unless restrained 
+24 
+25  and enjoined, will continue to violate Section 17(a)(2) and  (3) ofthe Securities Act [15 
+
+26  U.S.C.  § 77q(a)(2) and  (3)]. 
+
+27 
+
+28  Complaint                                          16                    Securities and Exchange  Commission 
+    SEC v. FuWendorf                                                            44 Montgomery  Street, 26th 
+                                                                                                        Floor 
+                                                                                      San Francisco, CA 94104 
+                                                                                     Telephone:  (415) 705~2500 
+---------------------Page 17---------------------
+
+ 1                               FOURTH  CLAIM FOR RELIEF 
+
+ 2              Aiding and Abetting  Violations of Section 13(a) of the Exchange  Act and 
+
+ 3                        Rules 12b-20, 13a-l,  13a-ll, and 13a-13 Thereunder 
+
+ 4          60.     The Commission  realleges and incorporates   by reference Paragraphs  1 through
+ 
+
+ 5  50 above.
+ 
+
+ 6          61.     Isilon filed with the Commission  current, quarterly, and annual reports on 
+
+ 7  Forms 8-K, 10-Q, and 10-K that contained untrue statements     of material fact and omitted to 
+
+ 8  state material information  required to be stated therein or necessary in order to make the 
+
+ 9  required  statements, in the light ofthe circumstances under which they were made, not 
+
+10  misleading,  in violation ofSection 13(a)  ofthe Exchange Act and Rules 12b-20,     13a-l, 13a­
+
+11   11, and 13a-13 thereunder. 
+
+12          62.     Through the conduct alleged above, Fuhlendorfknowingly  provided 
+
+13   substantial  assistance to Isilon in its violations of Section 13(a) ofthe Exchange Act and 
+
+14  Rules  12b-20, 13a-l,  13a-ll, and 13a-13 thereunder,  and therefore is liable as  an aider and 
+
+15 . abettor pursuant to Section 20(e) ofthe Exchange Act [15 U.S.C.    § 78t(e)]. 
+
+16          63.     Fuhlendorfhas  aided and abetted and, unless restrained and enjoined,  will 
+
+17  continue to aid and abet violations of Section 13(a) of the Exchange Act [15 U.S.C.    § 78m(a)] 
+
+18   and Rules 12b-20,  13a-l, 13a-ll, and 13a-13 [17 C.F.R.   §§ 240.12b-20, 240.  13a-l, 240.13a­
+
+19  11, and 240.13a-13] thereunder. 
+
+20                                  FIFTH CLAIM FOR RELIEF 
+
+21             Aiding and Abetting  Violations of Section 13(b)(2)(A) of the Exchange  Act 
+
+22          64.     The Commission  realleges and incorporates   by reference Paragraphs  1 through
+ 
+
+23  50 above.
+ 
+
+24          65.     Isilon failed to make and keep books, records, or accounts which, in reasonable 
+
+25  detail, accurately and fairly reflected its transactions  and dispositions ofits assets, in violation 
+
+26  of Section  13(b)(2)(A) of the Exchange Act. 
+
+27          66.     Through the conduct alleged above, Fuhlendorfknowingly  provided 
+28  Complaint                                          17                    Securities and Exchange Commission 
+    SEC  v. Fuhlendorf                                                          44 Montgomery  Street, 26th 
+                                                                                                        Floor 
+                                                                                       San Francisco, CA 94104 
+                                                                                     Telephone:  (415) 705-2500 
+---------------------Page 18---------------------
+
+ 1  substantial assistance to Isilon inits violations ofSection 13(b)(2)(A) ofthe Exchange Act, 
+
+ 2  and therefore is liable as an aider and abettor pursuant to Section 20(e) ofthe Exchange Act 
+
+ 3  [15 U.S.C.  § 78t(e)]. 
+
+ 4          67.     Fuhlendorfhas  aided and abetted and, unless restrained and enjoined, will 
+
+ 5  continue to aid and abet violations of Section 13(b)(2)(A) of the Exchange Act [15 U.S.C.   § 
+
+ 6  78m(b)(2)(A)]. 
+
+ 7                                  SIXTH CLAIM FOR RELIEF 
+
+ 8            Aiding  and Abetting  Violations ofSection 13(b)(2)(B) of the Exchange  Act 
+
+ 9          68.     The Commission realleges and incorporates   by reference Paragraphs  1 through 
+
+10  50 above. 
+
+11          69.     Isilon violated Section 13(b)(2)(B) ofthe Exchange Act, which obligates 
+
+12  issuers of securities registered pursuant to Section 12ofthe Exchange Act [15 U.S.C.    § 781] 
+
+13  to devise and maintain a sufficient system of internal accountIng controls. 
+
+14          70.     Through the conduct alleged above, Fuhlendorfknowingly  provided 
+
+15  substantial assistance to Isilon in its violations of Section 13(b)(2)(B) ofthe Exchange Act, 
+
+16  and therefore is liable as an aider and abettor pursuant to Section 20(e) ofthe Exchange Act 
+
+17  [15 U.S.C.  § 78t(e)]. 
+
+18          71.     Fuhlendorfhas  aided and abetted and, unless restrained and enjoined, will 
+
+19  continue to aid and abet violations of Section 13(b)(2)(B) ofthe Exchange Act [15 U.S.C.    § 
+
+20  78m(b)(2)(B)]. 
+
+21                                SEVENTH  CLAIM FOR RELIEF 
+
+22                         Violations ofSection 13(b)(5) of the Exchange  Act 
+
+23          72.     The Commission realleges and incorporates   by  reference Paragraphs  1 through 
+
+24  50 above. 
+
+25          73.     Through the conduct alleged above, Fuhlendorfknowingly  circumvented 
+
+26  Isilon's  system ofinternal accounting controls, and knowingly falsified Isilon's  books, 
+
+27  records, and accounts. 
+28  Complaint                                          18                   Securities and Exchange  Commission 
+    SEC v. Fuhlendorf                                                                                th 
+                                                                               44 Montgomery  Street, 26 Floor 
+                                                                                     San Francisco, CA 94104 
+                                                                                    Telephone:  (415)  705-2500 
+---------------------Page 19---------------------
+
+ 1          74.     Fuhlendorf has violated, and unless restrained and enjoined, will continue to 
+
+ 2  violate Section 13(b)(5)  of the Exchange Act [15 U.S.C. § 78m(b)(5)]. 
+
+ 3                                 EIGHTH  CLAIM FOR RELIEF 
+
+ 4                         Violations of Rule 13b2-1 Under the Exchange     Act 
+
+ 5          75.     The Commission realleges and incorporates     by reference Paragraphs 1 through 
+
+ 6  50 above. 
+
+ 7          76.     Through the conduct alleged above, Fuhlendorf directly and indirectly falsified 
+
+ 8  and caused to  be falsified Isilon's books, records, and accounts. 
+
+ 9          77.     Fuhlendorfhas  violated, and unless restrained and enjoined, ,:"ill continue to 
+
+10  violate Rule 13b2-1 under the Exchange Act [17 C.F.R. § 240.13b2-1]. 
+
+11                                  NINTH  CLAIM FOR RELIEF 
+
+12                         Violations of Rule 13a-14 Under the Exchange     Act 
+
+13          78.     The Commission realleges and incorporates     by reference Paragraphs 1 through 
+
+14  50 above. 
+
+15          79.     Fuhlendorf signed, as Isilon's  principal accounting officer, false certifications 
+
+16  pursuant to Rule 13a-14   of the Exchange Act that were included in Isilon's  fiscal 2006 annual 
+
+17  report filed on Form 10-K, as well as its quarterly reports filed in fiscal 2007. 
+
+18          80.     In the certifications included with the annual reports, Fuhlendorf falsely stated, 
+
+19  among other things, that:  (a) each report did not contain any untrue statement  of material fact 
+
+20  or omit to state a material fact necessary to make the statements made, in light  ofthe 
+
+21  circumstances  under which such statements were made, not misleading; (b) the financial 
+
+22  statements,  and other financial information included in the report, fairly presented in all 
+
+23  material respects the financial condition, results ofoperations, and cash flows  of Isilon as of, 
+
+24  and for, the periods presented in the report; and (c) he had disclosed to Isilon's  auditor and 
+
+25  audit committee all significant deficiencies and material weaknesses in the design or 
+
+26  operation  of internal control over financial reporting and any fraud, whether or not material, 
+
+27 
+
+28  Complaint                                           19                   Securities and Exchange Commission 
+    SEC v. Fuhlendorf                                                            44 Montgomery Street, 26th 
+                                                                                                         Floor 
+                                                                                       San Francisco, CA 94104 
+                                                                                     Telephone:  (415) 705-2500 
+---------------------Page 20---------------------
+
+ 1  that involved management     or other employees who had a significant role in Isilon's  internal 
+
+ 2  control over financial reporting. 
+
+ 3           81.     For the quarterly reports, Fuhlendorf falsely stated in the certifications,  among 
+
+ 4  other things, that  the quarterly reports fully complied with the requirements  of Section 13(a) 
+
+ 5   or 15(d) of the Exchange Act and that infonnation  contained therein fairly presented in all 
+
+ 6  material respects the financial condition and results  of operations of Isilon.  Fuhlendorf falsely 
+
+ 7  stated in the certifications,  among other things, that:  (a) each report did not contain any 
+
+ 8  untrue statement   of material fact or omit to state a material fact necessary to make the 
+
+ 9   statements made, in light  of the circumstances under which such statements were made, not 
+
+10  misleading;  (b) each financial statement, and other financial infonnation  included   in each 
+
+11   report, fairly presented in all material respects the financial condition, results ofoperations, 
+
+12   and cash flows  ofIsilon  as of, and for, the period presented in the report; and (c) he had 
+
+13   disclosed to Isilon's  auditor and audit committee all significant deficiencies  and material 
+
+14  weaknesses    in the design or operation of internal control over financial reporting  and any 
+
+15   fraud, whether or not material, that involved management  or other employees who had a 
+
+16  significant role in Isilon's  internal control over financial reporting. 
+
+17           82.     By reason  of the foregoing, Fuhlendorfhas  violated and, unless restrained and 
+
+18  enjoined, will continue to violate Exchange Act Rule 13a-14 [17 C.F.R. § 240.13a-14]. 
+
+19                                   TENTH     CLAIM    FOR   RELIEF 
+
+20                          Violations of Rule 13b2-2 Under the Exchange     Act 
+
+21           83.     The Commission  realleges and incorporates    by reference Paragraphs  1 through 
+
+22  50 above. 
+
+23           84.     By engaging in the acts and conduct alleged above, Fuhlendorf,  directly or 
+
+24  indirectly,  knowingly made or caused to    be made a materially false or misleading  statements 
+
+.25  or omitted to state or caused another person to omit to state, material facts necessary  in order 
+
+26  to make statements made, in light    of the circumstances under which such statements were 
+
+27  made, not misleading    t.o an accountant in connection with an audit or examination   of the 
+28   Complaint                                           20                    Securities and Exchange Commission 
+     SEC v. Fuhlendorf                                                                                   th 
+                                                                                  44 Montgomery  Street, 26 Floor 
+                                                                                         San Francisco, CA 94104 
+                                                                                       Telephone:  (415) 705-2500 
+---------------------Page 21---------------------
+
+ 1  financial statements ofIsilon required to be made or the preparation or filing ofreports 
+
+ 2  required to be filed by Isilon with the Commission. 
+
+ 3          85.    By  reason ofthe foregoing, Fuhlendorfhas violated and, unless restrained and 
+
+ 4  enjoined, will continue to violate Exchange Act Rule 13b2-2 [17 C.F.R.  § 240.13b2-2]. 
+
+ 5
+
+ 6                                    PRAYER FOR RELIEF 
+
+ 7          WHEREFORE, the Commission respectfully requests that this Court: 
+
+ 8                                                I. 
+
+ 9          Permanently enjoin Fuhlendorffrom  violating Section 17(a)(1), (a)(2), and (a)(3) of 
+
+10  the Securities Act [15 U.S.c. § 77(q)(a)], Sections 1O(b) and 13(b)(5) ofthe Exchange Act 
+
+11  [15 U.S.C.  §§ 78j(b) and 78m(b)(5)],  and Rules lOb-5, 13b2-1, 13b2-2, and 13a-14 
+
+12  thereunder [17 C.F.R.  §§ 240.10b-5, 240.13b2-1, 240.13b2-2, and 240.13a-14], and from 
+
+13  aiding and abetting violations ofSections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange 
+
+14  Act [15 U.S.C.  §§ 78m(a), 78m(b)(2)(A), and 78m(b)(2)(B)]  and Rules 12b-20, 13a-l,  13a­
+
+15  11, and 13a-13 [17 C.F.R.  §§ 240.12b-20, 240.13a-l,  240.13a-ll,  and 240. 13a-13] 
+
+16  thereunder. 
+
+17                                                II. 
+
+18          Prohibit Fuhlendorf, pursuant to Section 20(e) ofthe Securities Act [15 U.S.C. § 
+
+19  77t(e)] and Section 21 (d)(2) ofthe Exchange Act  [15 U.S.C. § 78u(d)(2)], from serving as an 
+
+20  officer or director ofany entity having a class ofsecurities registered with the Commission 
+
+21  pursuant to Section 12 of the Exchange Act  [15 U.S.C.  § 78l] or that is required to file reports 
+
+22  pursuant to Section 15(d) of the Exchange Act  [15 U.S.C. § 78o(d)]. 
+
+n                                                 m 
+
+24          Order Fuhlendorf to disgorge any wrongfully obtained benefits, including 
+
+25  prejudgment interest. 
+
+26 
+
+27 
+28  Complaint                                        21                    Securities and Exchange  Commission 
+    SEC v. Fuhlendorf                                                         44 Montgomery  Street, 26th 
+                                                                                                     Floor 
+                                                                                    San Francisco, CA 94104 
+                                                                                  Telephone:  (415)  705-2500 
+---------------------Page 22---------------------
+
+ 1                                               I\1. 
+
+ 2         Order Fuhlendorf to pay civil monetary penalties pursuant to Section 20(d) of the 
+
+ 3  Securities Act [15 U.S.C. § 77t(d)] and Section 21(d) ofthe Exchange Act [15 U.S.C. § 
+
+ 4  78u(d)]. 
+
+ 5                                                V. 
+
+ 6          Order Fuhlendorfto  reimburse Isilon bonuses or other incentive-based or equity-based 
+
+ 7  compensation  received from Isilon and stock-sale profits pursuant to Section 304 ofthe 
+
+ 8  Sarbanes-Oxley  Act  of2002 [15 U.S.C. § 7243]. 
+
+ 9                                               VI. 
+
+10          Retain jurisdiction ofthis action in accordance with the principles ofequity and the 
+
+11  Federal Rules of Civil Procedure in order to implement and carry out the terms of all orders 
+
+12  and decrees that may  be entered, or to entertain any suitable application or motion for 
+
+13  additional relief within the jurisdiction ofthis Court. 
+
+14                                               VII. 
+
+15          Grant such other and further relief as this Court may determine to be just and 
+
+16  necessary. 
+
+17 
+
+18  Dated:  September  14, 2009 
+
+19 
+                                         Respectfully submitted, 
+20
+
+21                                         -e--go~is 
+                                         Eric M.  Brooks 
+22                                       Attorney for Plaintiff 
+                                         SECURITIES AND EXCHANGE COMMISSION 
+23 
+
+24 
+
+25
+
+26 
+
+27 
+
+28  Complaint                                        22                   Securities and Exchange Commission 
+    SEC v. Fuhlendorf                                                        44 Montgomery  Street, 26th 
+                                                                                                     Floor 
+                                                                                    San Francisco, CA 94104 
+                                                                                  Telephone:  (415) 705-2500 
+---------------------Page 23---------------------
+
+ 1                              DEMAND FOR JURY TRIAL 
+
+ 2         The Commission hereby demands a jury trial on all claims in the Complaint.
+ 
+
+ 3
+ 
+
+ 4  Dated:  September 14, 2009
+ 
+
+ 5                                    Respectfully submitted,
+ 
+ 6 
+
+ 7
+                                    ·~~)L5
+
+                                      Eric M. Brooks
+ 
+ 8                                    Attorney for Plaintiff
+ 
+                                      SECURITIES AND EXCHANGE COMMISSION
+ 
+ 9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+26 
+
+27 
+
+28  Complaint                                    23                 Securities and Exchange  Commission 
+    SEC v. Fuhlendorf                                                                      th 
+                                                                       44 Montgomery  Street, 26 Floor 
+                                                                             San Francisco, CA 94104 
+                                                                           Telephone:  (415) 705-2500 
