@@ -133,7 +133,7 @@ def doc_vector_dict_by_ngrams(doc2vec_model, ngrams):
 # to calculate distance between ngrams
 class DocVecByWordEmbeddings:
     # if not aaer_corpus then docs= will be needed
-    def __init__(self, aaer_ex=True, aaer_corpus=False, **kwargs):
+    def __init__(self, aaer_ex=False, aaer_corpus=True, **kwargs):
         if aaer_ex:  # using aaer extra corpus instead
             self.aaer = True
             self.aaer_model = aaer.AAERExParserSentences()

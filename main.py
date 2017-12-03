@@ -8,6 +8,8 @@ import csv
 import numpy as np
 import logging
 import tensorflow as tf
+import time
+
 
 logging.basicConfig(level=logging.INFO)
 tf.logging.set_verbosity(tf.logging.ERROR)
@@ -27,7 +29,8 @@ def run_for_epochs(example_path, files, model_class, config_dict, enable_saving=
         score_arr = np.add(score_arr, score)
     avg_score = np.divide(score_arr, epochs * len(files))
     print(avg_score)
-
+    str_datetime = time.strftime("%Y-%m-%d %H:%M")
+    result_list = [config_dict, avg_score, str_datetime, 'aaer_ex']
     with open(file_path, 'a', newline='') as csvfile:
         csv_writer = csv.writer(csvfile)
         if one_shot_test:
@@ -35,11 +38,12 @@ def run_for_epochs(example_path, files, model_class, config_dict, enable_saving=
                 if type(one_shot_test.context_vec_model) is dl_models.T2TContextModel \
                         or type(one_shot_test.doc_vec_model) is dl_models.T2TContextModel:
                     conf_dict = t2t_make_data_files.load_configs()
-                    csv_writer.writerow([config_dict, avg_score, conf_dict])
+                    result_list.append(conf_dict)
+                    csv_writer.writerow(result_list)
                 else:
-                    csv_writer.writerow([config_dict, avg_score])
+                    csv_writer.writerow(result_list)
             except AttributeError:
-                csv_writer.writerow([config_dict, avg_score])
+                csv_writer.writerow(result_list)
     return avg_score
 
 
@@ -51,19 +55,10 @@ def test(example_path, files, model_class, enable_saving=False, epochs=1):
 
 def grid_conf_dict_generator():
     config_dict = oneshot.base_conf_dict
-    assert config_dict['topn']
-    for topn in range(5, 9):
-        config_dict['topn'] = topn
-        for i in range(80, 100, 5):
-            assert config_dict['context_threshold']
-            config_dict['context_threshold'] = i / 100
-            for n in range(5, 7):
-                assert config_dict['word_threshold']
-                config_dict['word_threshold'] = n / 10
-                for context_size in [100]:
-                    assert config_dict['context_size']
-                    config_dict['context_size'] = context_size
-                    yield config_dict
+    for context_size in range(10, 200, 10):
+        assert config_dict['context_size']
+        config_dict['context_size'] = context_size
+        yield config_dict
 
 
 def grid_search(example_path, model_class, enable_saving=True, epochs=1):
@@ -74,11 +69,32 @@ def grid_search(example_path, model_class, enable_saving=True, epochs=1):
                        enable_saving=enable_saving, epochs=epochs)
 
 
+def validate_with_more(model):
+    file_list = ft.list_file_paths_under_dir(const.TEST_DIR, ['txt'])
+    # file_list = [os.path.join(const.TEST_DIR, '34-71576.txt')]
+    conf_dict = oneshot.base_conf_dict
+    # example_file2 = const.VALIDATION_DIR + '/34-43389.txt'
+
+    scores = []
+
+    for validate_file in ft.list_file_paths_under_dir(const.VALIDATION_DIR, ['txt']):
+        entity_dict = oneshot.get_entity_dict_from_file(validate_file)
+        if type(entity_dict) is dict:
+            if len(entity_dict.keys()) > 2:
+                print(validate_file)
+                scores.append(run_for_epochs(validate_file, file_list, model, config_dict=conf_dict, epochs=1))
+    print(scores)
+    print(sum(scores)/len(scores))
+
+
+# models = [oneshot.OneShotTestWVSumWVPhraseBi]
+# for m in models:
+#     validate_with_more(m)
 file_list = ft.list_file_paths_under_dir(const.TEST_DIR, ['txt'])
-# file_list = [os.path.join(const.TEST_DIR, '34-71576.txt')]
-conf_dict = oneshot.base_conf_dict
+models = [oneshot.OneShotTestWVSumWVPhraseBi]
+for m in models:
+    run_for_epochs(const.EXAMPLE_FILE, file_list, m, config_dict=oneshot.base_conf_dict, epochs=1)
 
-run_for_epochs(const.EXAMPLE_FILE, file_list, oneshot.OneShotTestNone, config_dict=conf_dict, epochs=1)
-
-# grid_search(const.EXAMPLE_FILE, oneshot.OneShotTestWMDWVMean)
-
+for conf in grid_conf_dict_generator():
+    run_for_epochs(const.EXAMPLE_FILE, file_list, oneshot.OneShotTestWVSumWVPhraseBi, config_dict=conf,
+                   enable_saving=False, epochs=1)

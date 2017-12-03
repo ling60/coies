@@ -120,7 +120,7 @@ def make_t2t_training_files(ngram_min=1, ngram_max=N_GRAMS):
 
 
 def make_vocal_file():
-    aaer = aaer_corpus.AAERExParserTokens()
+    aaer = aaer_corpus.AAERParserTokens()
     generator_utils.get_or_generate_vocab_inner(data_dir=const.T2T_DATA_DIR,
                                                 vocab_filename=const.T2T_AAER_VOLCAB_NAME,
                                                 vocab_size=40000,

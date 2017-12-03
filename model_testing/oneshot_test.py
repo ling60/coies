@@ -10,6 +10,7 @@ import os
 import model_testing.rougescore as rouge
 import model_testing.dl_context_models as dl_context
 from gensim.similarities import WmdSimilarity
+import ner
 
 
 base_conf_dict = {
@@ -103,7 +104,7 @@ def score_by_hits(words_found, test_entity_dict, entity_key):
 # add score for no words found when there is no answer in example either
 def score_by_rouge(words_found, test_entity_dict, entity_key):
     logging.info('score_by_Rouge: words_found: ' + str(words_found))
-    score = (0, 0)
+    score = 0
     targets = 1
     if entity_key in test_entity_dict:
         answers = [util.flatten_list(test_entity_dict[entity_key])]
@@ -112,11 +113,10 @@ def score_by_rouge(words_found, test_entity_dict, entity_key):
         print('answers:')
         print(answers)
         # print(words_found)
-        score = util.tuple_add(score, (rouge.rouge_1(words_found, answers, alpha=0.5),
-                                       0))
+        score += rouge.rouge_1(words_found, answers, alpha=0.5)
         # print(score)
     elif not words_found:  # both do not have similar words compared to example
-        score = util.tuple_add(score, (1, 0))  # set rouge2 as 0 because for single word rouge2 returns 0
+        score += 1 # set rouge2 as 0 because for single word rouge2 returns 0
     return score, targets
 
 
@@ -131,7 +131,6 @@ class OneShotTestDoc2Vec:
         self.enable_saving = enable_saving
         self.n = n_gram
         self.doc_vec_model = None
-        self.test_tokens = None
         self.test_entity_dict = None
         self.test_wv_dict = None
 
@@ -144,12 +143,12 @@ class OneShotTestDoc2Vec:
             self.context_threshold = self.conf_dict['context_threshold']
             self.context_size = self.conf_dict['context_size']
 
-    def tokens_entities_from_path(self, file_path):
-        tokens = ex_parsing.one_to_n_grams_from_file(file_path, n=self.n, tagged=True)
-        # print(tokens[1])
-        entity_dict = get_entity_dict_from_file(file_path)
-        # logging.info(tokens)
-        return tokens, entity_dict
+    # def tokens_entities_from_path(self, file_path):
+    #     tokens = ex_parsing.one_to_n_grams_from_file(file_path, n=self.n, tagged=True)
+    #     # print(tokens[1])
+    #     entity_dict = get_entity_dict_from_file(file_path)
+    #     # logging.info(tokens)
+    #     return tokens, entity_dict
 
     @staticmethod
     def doc_vector_to_dict_by_list(dv_model, grams):
@@ -166,7 +165,7 @@ class OneShotTestDoc2Vec:
         return self.doc_vector_to_dict_by_list(self.doc_vec_model, flat_grams)
 
     def init_score_dict(self, test_file_path):
-        self.score_dict[test_file_path] = (0, 0)
+        self.score_dict[test_file_path] = 0
 
     def similar_grams_by_gram(self, gram, wv_dict, similarity_threshold=None):
         similarity_threshold = similarity_threshold if similarity_threshold else self.word_threshold
@@ -174,6 +173,46 @@ class OneShotTestDoc2Vec:
                                     wv_dict,
                                     topn=self.topn,
                                     similarity_threshold=similarity_threshold)
+
+    def train(self):
+        assert self.example_entity_dict
+        self.doc_vec_model = self.doc_vectors_training()
+        # self.example_wv_dict = self.make_wv_dict(self.example_path)
+
+    def test_file_processing(self, test_file_path):
+        logging.info('testing file:' + test_file_path)
+        self.init_score_dict(test_file_path)
+
+        self.test_entity_dict = get_entity_dict_from_file(test_file_path)
+        logging.info('test_entity_dict')
+        logging.info(self.test_entity_dict)
+        self.test_wv_dict = self.make_wv_dict(test_file_path)
+        # print("avg_sim:")
+        # print(util.avg_cosine_sim_by_wv_dicts(self.test_wv_dict, self.example_wv_dict))
+
+    def test(self):
+        # print(example_entity_dict)
+        total_counts = 0
+        for test_file_path in self.test_file_path_list:
+            if test_file_path != self.example_path:
+                self.test_file_processing(test_file_path)
+                counts = 0
+                for k, value_lists in self.example_entity_dict.items():
+                    for gram in value_lists:
+                        # find most similar words in test file
+                        assert type(gram) is list
+                        counts += self.score(k, gram, test_file_path, self.test_wv_dict)
+                if counts > 0:
+                    rouge1 = self.score_dict[test_file_path]
+
+                    self.score_dict[test_file_path] = rouge1 / counts
+                total_counts += counts
+
+        print(self.score_dict)
+        total_score = sum(self.score_dict.values())
+        print('total score', str(total_score), 'of', total_counts, 'in',
+              len(self.score_dict.keys()), 'files')
+        return total_score, total_counts
 
     def score(self, key, gram, test_file_path, wv_dict, **kwargs):
         print('similar to:' + str(gram))
@@ -197,9 +236,9 @@ class OneShotTestDoc2Vec:
                             weighted_wv_dict[w] = new_weighted_distance
             # print(weighted_wv_dict)
             # print(wv_dict)
-            word_similarity_tuples = util.get_top_group(util.most_common_items(weighted_wv_dict, 
+            word_similarity_tuples = util.get_top_group(util.most_common_items(weighted_wv_dict,
                                                                                topn=self.topn),
-                                                        distance_threshold=self.word_threshold*2)
+                                                        distance_threshold=self.word_threshold * 2)
             # the threshold is doubled as similarity increased after adding context weights
         else:
             word_similarity_tuples = self.similar_grams_by_gram(gram, wv_dict)
@@ -220,55 +259,15 @@ class OneShotTestDoc2Vec:
         #     words_found = [words_found[0]]
         scores, counts = score_by_rouge(words_found, self.test_entity_dict, key)
         print("rouge:", scores)
-        self.score_dict[test_file_path] = util.tuple_add(self.score_dict[test_file_path], scores)
+        self.score_dict[test_file_path] = self.score_dict[test_file_path] + scores
         return counts
-
-    def train(self):
-        assert self.example_entity_dict
-        self.doc_vec_model = self.doc_vectors_training()
-        self.example_wv_dict = self.make_wv_dict(self.example_path)
-
-    def test_file_processing(self, test_file_path):
-        logging.info('testing file:' + test_file_path)
-        self.init_score_dict(test_file_path)
-
-        self.test_entity_dict = get_entity_dict_from_file(test_file_path)
-        # self.test_tokens, self.test_entity_dict = self.tokens_entities_from_path(test_file_path)
-        logging.info('test_entity_dict')
-        logging.info(self.test_entity_dict)
-        self.test_wv_dict = self.make_wv_dict(test_file_path)
-        print("avg_sim:")
-        print(util.avg_cosine_sim_by_wv_dicts(self.test_wv_dict, self.example_wv_dict))
-
-    def test(self):
-        # print(example_entity_dict)
-        total_counts = 0
-        for test_file_path in self.test_file_path_list:
-            if test_file_path != self.example_path:
-                self.test_file_processing(test_file_path)
-                counts = 0
-                for k, value_lists in self.example_entity_dict.items():
-                    for gram in value_lists:
-                        # find most similar words in test file
-                        assert type(gram) is list
-                        counts += self.score(k, gram, test_file_path, self.test_wv_dict)
-                if counts > 0:
-                    rouge1, rouge2 = self.score_dict[test_file_path]
-
-                    self.score_dict[test_file_path] = (rouge1 / counts, rouge2 / counts)
-                total_counts += counts
-
-        print(self.score_dict)
-        total_score = tuple(map(sum, zip(*self.score_dict.values())))
-        print('total score', str(total_score), 'of', total_counts, 'in',
-              len(self.score_dict.keys()), 'files')
-        return total_score, total_counts
 
 
 # try the perfect score
 class OneShotTestPerfect(OneShotTestDoc2Vec):
     def __init__(self, example_path, test_file_path_list, enable_saving=False, n_gram=5, **kwargs):
         super().__init__(example_path, test_file_path_list, enable_saving, n_gram, enable_phrases=False, **kwargs)
+        self.test_tokens = None
 
     def make_wv_dict(self, grams):
         pass
@@ -280,7 +279,7 @@ class OneShotTestPerfect(OneShotTestDoc2Vec):
         logging.info('testing file:' + test_file_path)
         self.init_score_dict(test_file_path)
         self.test_entity_dict = get_entity_dict_from_file(test_file_path)
-        # self.test_tokens, self.test_entity_dict = self.tokens_entities_from_path(test_file_path)
+        self.test_tokens = ex_parsing.tokens_from_file(test_file_path)
         logging.info('test_entity_dict')
         logging.info(self.test_entity_dict)
 
@@ -293,7 +292,7 @@ class OneShotTestPerfect(OneShotTestDoc2Vec):
             answers = []
         score, counts = score_by_rouge(answers, self.test_entity_dict, key)
         print("rouge:", score)
-        self.score_dict[test_file_path] = util.tuple_add(self.score_dict[test_file_path], score)
+        self.score_dict[test_file_path] = self.score_dict[test_file_path] + score
         return counts
 
 
@@ -305,7 +304,7 @@ class OneShotTestRandom(OneShotTestPerfect):
         answers = [random.choice(util.flatten_list(self.test_tokens))]
         hits, targets = score_by_rouge(answers, self.test_entity_dict, key)
         print("rouge:", hits)
-        self.score_dict[test_file_path] = util.tuple_add(self.score_dict[test_file_path], hits)
+        self.score_dict[test_file_path] = self.score_dict[test_file_path] + hits
         return targets
 
 
@@ -320,7 +319,48 @@ class OneShotTestHuman(OneShotTestPerfect):
             answers = ""
         hits, targets = score_by_rouge(answers, self.test_entity_dict, key)
         print("rouge:", hits)
-        self.score_dict[test_file_path] = util.tuple_add(self.score_dict[test_file_path], hits)
+        self.score_dict[test_file_path] = self.score_dict[test_file_path] + hits
+        return targets
+
+
+# Test with Stanford NER
+class OneShotTestNER(OneShotTestPerfect):
+    def __init__(self, example_path, test_file_path_list, enable_saving=False, n_gram=5, **kwargs):
+        super().__init__(example_path, test_file_path_list, enable_saving, n_gram, **kwargs)
+        self.tagger = ner.SocketNER(host='localhost', port=8081)
+        self.tagged_dict = None
+
+    def test_file_processing(self, test_file_path):
+        logging.info('testing file:' + test_file_path)
+        self.init_score_dict(test_file_path)
+        self.test_entity_dict = get_entity_dict_from_file(test_file_path)
+        self.test_tokens = ex_parsing.tokens_from_file(test_file_path)
+        logging.info('test_entity_dict')
+        logging.info(self.test_entity_dict)
+        self.tagged_dict = {}
+        with open(ft.get_source_file_by_example_file(test_file_path)) as f:
+            s = f.read()
+            adict = self.tagger.get_entities(s)
+            # we have to manually set the keys related to example
+            try:
+                self.tagged_dict["date"] = adict["DATE"]
+                self.tagged_dict["comp"] = adict["ORGANIZATION"]
+            except KeyError:
+                pass
+
+    def score(self, key, gram, test_file_path, wv_dict, **kwargs):
+        # the score for key item should always be 0, as it does not offer such a function.
+        if key == 'item':
+            hits = 0
+            targets = 0
+        else:
+            try:
+                answers = self.tagged_dict[key]
+            except KeyError:
+                answers = ""
+            hits, targets = score_by_rouge(answers, self.test_entity_dict, key)
+        print("rouge:", hits)
+        self.score_dict[test_file_path] = self.score_dict[test_file_path] + hits
         return targets
 
 
@@ -398,7 +438,7 @@ class OneShotTestContext1(OneShotTestDoc2Vec):
 
 
 # this model uses different doc vectors between context and words, which are trained both in ngrams and context_size
-class OneShotTestContext2(OneShotTestContext1):
+class OneShotTestD2vPhraseBi(OneShotTestContext1):
     def doc_vectors_training(self):
         return cb.PhraseVecBigrams()
 
@@ -413,12 +453,12 @@ class OneShotTestContext2(OneShotTestContext1):
                                                                           example_ngrams=self.example_ngrams)
 
 
-class OneShotTestD2vW2v(OneShotTestContext2):
+class OneShotTestD2vW2v(OneShotTestD2vPhraseBi):
     def doc_vectors_training(self):
         return cb.DocVecByWESum()
 
 
-class OneShotTestWVSumWVPhrase(OneShotTestContext2):
+class OneShotTestWVSumWVPhrase(OneShotTestD2vPhraseBi):
     def context_doc_training(self):
         return cb.DocVecByWESum()
 
@@ -449,6 +489,11 @@ class OneShotTestWVMean(OneShotTestDoc2Vec):
 class OneShotTestWVSum(OneShotTestWVMean):
     def doc_vectors_training(self):
         return cb.DocVecByWESum()
+
+
+class OneShotTestPhraseBi(OneShotTestWVMean):
+    def doc_vectors_training(self):
+        return cb.PhraseVecBigrams()
 
 
 # wmdistance

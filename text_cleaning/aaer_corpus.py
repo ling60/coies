@@ -146,6 +146,17 @@ class AAERExParserPhrases(AAERParserPhrases):
         return 'phrases_ex'
 
 
+class AAERParserPhrasesBigrams(AAERParserPhrases):
+    def tokens_from_aaer_corpus(self):
+        return list(self._bigrams[self.sentences])
+
+    def get_word2vec_save_name(self):
+        return 'phrases_bi'
+
+    def get_trigrams(self, sentences):
+        raise NotImplementedError
+
+
 class AAERExParserPhrasesBigrams(AAERExParserPhrases):
     def tokens_from_aaer_corpus(self):
         return list(self._bigrams[self.sentences])
