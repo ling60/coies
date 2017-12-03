@@ -144,7 +144,6 @@ if __name__ == '__main__':
     for f in files_to_del:
         print(f)
         os.remove(f)
-    test_file_source = ft.get_source_file_by_example_file(const.TEST_FILE)
     # make_eval_files([test_file_source])
     make_t2t_training_files(N_GRAMS, N_GRAMS)
     make_vocal_file()
